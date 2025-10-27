@@ -1,0 +1,54 @@
+[
+    {
+        "question": "A patient presented with a platelet count of 700 x 109/L with abnormalities in size, shape and granularity of platelets. WBC count of 8 x109 L, hemoglobin of 12 g/dl and the absence of the Philadelphia chromosome. The most likely diagnosis would be?",
+        "exp": "A patient presents with thrombocytosis with abnormalities in size, shape and granularity of platelets, with normal WBC count & hemoglobin and the absence of the Philadelphia chromosome. The most likely diagnosis in this case would be Essential Thrombocythemia",
+        "cop": 2,
+        "opa": "Polycythemia vera",
+        "opb": "Essential thrombocythemia",
+        "opc": "Chronic myeloid leukemia",
+        "opd": "Leukemoid reaction",
+        "subject_name": "Pathology",
+        "topic_name": "Myeloproliferative Disorders",
+        "id": "da527ab2-0e61-40ec-83cc-0f1d38302e46",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 60-year-old man is referred for evaluation of marked erythrocytosis and splenomegaly. Laboratory studies confirm an elevated red blood cell count and additionally demonstrate a moderate increase in circulating granulocytes and platelets. Oxygen saturation studies are normal, and isotopic studies reveal an increase in total red cell mass. Which of the following is characteristic of this disorder?",
+        "exp": "The diagnosis is polycythemia vera (primary polycythemia), one of the myeloproliferative syndromes. The disorder is characterized by prominent erythrocytosis, moderate granulocytosis, and thrombocytosis. Because of hyperviscosity and sludging of blood, there is a frequent association with thrombosis or hemorrhagic phenomena. Marked splenomegaly and decreased erythropoietin are other classic characteristics.",
+        "cop": 1,
+        "opa": "Frequent association with thrombosis or hemorrhagic phenomena",
+        "opb": "Increased erythropoietin concentration",
+        "opc": "Manifestation of Cushing syndrome",
+        "opd": "Most often secondary to hypoxia",
+        "subject_name": "Pathology",
+        "topic_name": "Myeloproliferative Disorders",
+        "id": "b723aa15-3196-475f-a0cd-ee768a2225db",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Which of the following is not a myeloproliferative neoplasm?",
+        "exp": "Juvenile myelomonocytic leukemia is not included in the category of MPNs (myeloproliferative neoplasms) in WHO classification Examples of myeloproliferative neoplasms: Chronic myeloid leukemia Polycythemia vera Primary myelofibrosis Essential thrombocythemia Chronic eosinophilic leukemia Activating JAK2 mutations are seen in: Nearly all cases of polycythemia vera Approx. 50% of cases of primary myelofibrosis and essential thrombocythemia BCR-ABL1 translocation seen in CML",
+        "cop": 2,
+        "opa": "Polycythemia vera",
+        "opb": "Juvenile myelomonocytic leukemia",
+        "opc": "Chronic myeloid leukemia",
+        "opd": "Essential thrombocythemia",
+        "subject_name": "Pathology",
+        "topic_name": "Myeloproliferative Disorders",
+        "id": "dd75b7e3-0c91-4867-98eb-edffb26fbdff",
+        "choice_type": "single"
+    },
+    {
+        "question": "Person had severe pruritis while taking hot shower and presents with deep vein thrombosis. He also had JAK 2 mutation and hypeension. Which of the following is the most likely diagnosis of this patient?",
+        "exp": "The presence of JAK2 mutation indicates that it is an example of Myeloproliferative disorder. Polycythemia vera is strongly associated with activating point mutations in the tyrosine kinase JAK2. Clinical features: Headache, dizziness, hypeension,Intense pruritus and peptic ulceration possibly resulting from the release of histamine from basophils. Hot showers ( AQUAGENIC PRURITUS ) will result in degranulation of the basophils thus releasing histamines.",
+        "cop": 2,
+        "opa": "Myelofibrosis",
+        "opb": "Polycythemia Vera",
+        "opc": "CML",
+        "opd": "AML",
+        "subject_name": "Pathology",
+        "topic_name": "Myeloproliferative Disorders",
+        "id": "1c918bd3-3efb-4a50-9b91-2ca1ac47399a",
+        "choice_type": "single"
+    }
+]

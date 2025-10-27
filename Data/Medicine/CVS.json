@@ -1,0 +1,54 @@
+[
+    {
+        "question": "A 70-year-old man with hypeension wakes up with severe chest pain and diaphoresis. On examination he has bounding pulses with wide pulse pressure. A diastolic murmur is heard along the right sternal border. Which of the following is the possible etiology?",
+        "exp": "Option A= High B.P | Aoic dissection | Leads to Retrograde spread | develop Aoic Root dilation | Leads to develop Aoic Regurgitation- Diastolic Murmur Option B= STEMI with Papillary muscle dysfunction have systolic murmur. Option C= Myocarditis with functional regurgitation- Systolic murmur Option D= Flash Pulmonary edema related to Renal aery stenosis/Reno vascular hypeension",
+        "cop": 1,
+        "opa": "Aoic dissection",
+        "opb": "STEMI with papillary muscle dysfunction",
+        "opc": "Myocarditis with functional regurgitation",
+        "opd": "Flash pulmonary edema",
+        "subject_name": "Medicine",
+        "topic_name": "CVS",
+        "id": "750794f1-4afe-46e4-ba92-e0e11bf94b43",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 30-year-old male presents to ER with multiple episodes of chest pain, lasting between 10-20 minutes over the last 2 hours. He admits that he did \"a bit of coke\" at a house pay. Clinical assessment reveals: Pulse: 95/min, Blood pressure: 135/93mm Hg, Sp02= 97% on room air. ECG during a fuher chest pain episode reveals ST elevation in leads V2-V6 and Troponin T is negative.Which of the following is the most appropriate intervention for this patient?",
+        "exp": "Cocaine leads to coronary vasoconstriction & ECG will show ST elevation. Option A: No, PCI because it is not case of STEMI, it is case of Cocaine vasoconstriction so dilate the vessel. Option B: Enoxaparin given to prevent development of re-occlusion of blood vessel or to prevent redevelopment of thrombus in case of MI. Option C: Calcium channel blocker Option D= b Blocker will not relieve vasospasm. Types of Mi Causes 1 MI Due to coronary aery thrombosis or coronary aery dissection 2 MI Anemia (severe), Cocaine overdose 3 MI Sudden cardiac death 4A MI During PCI 4B MI Latent stent thrombosis 5 MI During CABG",
+        "cop": 3,
+        "opa": "Percutaneous coronary intervention",
+        "opb": "Enoxaparin",
+        "opc": "Calcium channel blocker",
+        "opd": "Atenolol",
+        "subject_name": "Medicine",
+        "topic_name": "CVS",
+        "id": "5b4e1857-d350-46ac-92f1-a52cb7bd53d1",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 36-year-old male comes with a 2-day history of chest pain. The pain has been continuous and does not change with activity. Vital signs show normal BP, mild tachycardia and tachypnea, and an oxygen saturation of 90% on room air. Cardiopulmonary exam is normal. An ECG shows a rate of 106 beats/min, left axis detion, left ventricular hyperophy, PR depression, and T wave inversions in V2 to V5. Troponin and CPK-MB are minimally elevated. What is the most likely diagnosis.",
+        "exp": "Option A: Pulmonary embolism= Ruled out because PE ECG findings are S1Q3T3/Sinus tachycardia Option C: PR segment depression = Atrial myocardium damage T wave inversion - Ventricular myocardium damage This is talking about diffuse damage in the hea. Option D: ECG of unstable angina= ST normal Sometimes ST | T wave inversion & hemodynamic parameters are normal so it unlikely to be unstable angina.",
+        "cop": 3,
+        "opa": "Pulmonary embolism",
+        "opb": "Costochondritis",
+        "opc": "Pericarditis",
+        "opd": "Unstable angina",
+        "subject_name": "Medicine",
+        "topic_name": "CVS",
+        "id": "e54e75b0-a178-4e19-9bb0-d4d4c4697c42",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Which is a contraindication to chemical cardioversion?",
+        "exp": "E.g. of chemical cardioversions Adenosine=PSVT Amiodarone= V.T Ibutilide= A. Fibrillation/A. Flutter Option A: No, it's not a C/I rather we'll use to suppress hea rate. Option B: No, it's not a C/I rather we'll use it to treat palpitations. Option C:No, its not a C/I rather chemical cardioversion is used in Atrial Flutter. Option D:If patient is Hemodynamically instable, one doesn't go for cardioversion.",
+        "cop": 4,
+        "opa": "Hea rate faster than 150 beats per minute",
+        "opb": "Symptomatic palpitations",
+        "opc": "Hemodynamically stable Atrial flutter patient.",
+        "opd": "Hemodynamic instability",
+        "subject_name": "Medicine",
+        "topic_name": "CVS",
+        "id": "5bf26fa8-6905-4dc7-871a-ccf17e2ded48",
+        "choice_type": "multi"
+    }
+]

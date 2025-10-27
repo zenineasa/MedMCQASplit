@@ -1,0 +1,80 @@
+[
+    {
+        "question": "Acetyl CoA cannot be conveed to:",
+        "exp": "Acetyl CoA is a staing material for Fatty Acid Synthesis, Cholesterol Synthesis & Ketone Body Synthesis (option a, c & d). But Acetyl CoA is never a substrate for Gluconeogenesis i.e. it can never form glucose (option b). Because Acetyl CoA can never be conveed back to Pyruvate as Link reaction or Pyruvate Dehydrogenase is irreversible. However, acetyl-CoA can stimulate gluconeogenesis by activating pyruvate carboxylase (see fig) Extra Edge: Acetyl CoA is NOT:- Not The intermediate of TCA. The first substrate of TCA. The carrier of TCA .",
+        "cop": 2,
+        "opa": "Fatty Acids",
+        "opb": "Glucose",
+        "opc": "Ketone Bodies",
+        "opd": "Cholesterol",
+        "subject_name": "Biochemistry",
+        "topic_name": "Fat and Carbohydrate interconversion",
+        "id": "befeafe6-37cb-4a6f-ab10-8d39b66f1580",
+        "choice_type": "single"
+    },
+    {
+        "question": "Which is required in Anabolic reactions:",
+        "exp": "All of these are products of dehydrogenase reaction. Dehydrognenase reaction: NADPH is used for Reductive biosynthesis, i.e. mainly anabolic reactions. Reductase enzyme is required for atleast one or more steps of anabolic reaction such as: Fatty Acid Synthesis, Cholesterol Synthesis, Steroid Hormone Synthesis, in RBC for the formation of Reduced Glutathione NADPH is synthesized mainly in HMP pathway. Here the best answer is NADP (If NADPH given, mark that)",
+        "cop": 2,
+        "opa": "NAD",
+        "opb": "NADP",
+        "opc": "FAD",
+        "opd": "FADP",
+        "subject_name": "Biochemistry",
+        "topic_name": "Fat and Carbohydrate interconversion",
+        "id": "6b7c83e5-ce60-4709-b0da-227dd7368c61",
+        "choice_type": "single"
+    },
+    {
+        "question": "What is Atkin's diet:",
+        "exp": "Atkin's diet is a weight loss diet which is low in calorie and also low in carbohydrates. It was originally promoted by the physician Dr. Robe C. Atkins. For weight reduction, amount of carbohydrates taken in diet should be less as carbohydrate gets conveed to fats in body, which is called endogenous fat and it gets transpoed in the form of VLDL lipoprotein. Extra information: Exogenous fat is transpoed in the form of Chylomicrons.",
+        "cop": 4,
+        "opa": "Low calorie diet",
+        "opb": "Low carbohydrate diet",
+        "opc": "Low fat diet",
+        "opd": "Low calorie, low carbohydrate diet",
+        "subject_name": "Biochemistry",
+        "topic_name": "Fat and Carbohydrate interconversion",
+        "id": "2c82ee9e-5808-438f-81d8-48a403a12c63",
+        "choice_type": "single"
+    },
+    {
+        "question": "Among the following food items, which one has the highest \"Glycemic Index\"?",
+        "exp": "The increase in blood glucose after a test dose of a carbohydrate compared with that after an equivalent amount of glucose is known as the glycemic index. Glycemic Index decreasing order: Corn flakes> whole wheat bread>Brown rice>Ice cream Most varieties of legumes, pasta, fruits, and dairy products are low-GI foods (55 or less on the glucose reference scale). Breads, breakfast cereals, rice, and snack products, including whole-grain versions, are available in both high- (70 or greater) and low-GI forms. Glucose and galactose have an index of 1 (or 100%), as do lactose, maltose, isomaltose, and trehalose, which give rise to these monosaccharides on hydrolysis. Fructose and the sugar alcohols are absorbed less rapidly and have a lower glycemic index, as does sucrose. The glycemic index of starch varies between near 1 (or 100%) and near 0 as a result of variable rates of hydrolysis, and that of non-starch polysaccharides is 0. Foods that have a low glycemic index are considered to be more beneficial since they cause less fluctuation in insulin secretion.",
+        "cop": 1,
+        "opa": "Corn flakes",
+        "opb": "Brown rice",
+        "opc": "Ice-cream",
+        "opd": "Whole wheat bread",
+        "subject_name": "Biochemistry",
+        "topic_name": "Fat and Carbohydrate interconversion",
+        "id": "69667e05-97b8-409e-943e-018365f61785",
+        "choice_type": "single"
+    },
+    {
+        "question": "What is the basis of this statement - 'FATS BURN IN THE FLAME OF CARBOHYDRATES ':",
+        "exp": "\"Fats burn in the flame of carbohydrates\" means fats can only be oxidized in the presence of carbohydrates. Acetyl CoA is a fat derivative, which can be oxidized TCA cycle. As Oxaloacetate is the carrier of TCA cycle So, TCA cycle can operate only if oxaloacetate is available in sufficient amounts. Now oxaloacetate is mainly produced from pyruvate by pyruvate carboxylase. Pyruvate is mainly produced from glycolysis of carbohydrates. So we can say that main source of oxaloacetate is carbohydrates. As carbohydrates are the main source of oxaloacetate which is required for oxidation of acetyl-CoA (produced from fats) through TCA. Hence this statement \"Fats burn in the flame of carbohydrates\".",
+        "cop": 4,
+        "opa": "Fats & carbohydrates are oxidized together",
+        "opb": "Beta oxidation occurs in the presence of carbohydrates",
+        "opc": "Acetyl CoA is never glucogenic",
+        "opd": "Acetyl Co A is oxidized completely in the presence of oxaloacetate",
+        "subject_name": "Biochemistry",
+        "topic_name": "Fat and Carbohydrate interconversion",
+        "id": "fb82cba7-7a81-4310-a87d-dd24c145a3bb",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Which is most lipogenic carbohydrate:",
+        "exp": "All carbohydrates (if in excess), gets conveed to fat in body (endogenous fat). Sucrose is made up of glucose and fructose. So, when sucrose is taken instead of glucose, it increases lipogenesis because: Fructose is most rapidly metabolised sugar It bypasses PFK-1 step (Rate Limiting Enzyme of glycolysis). So fructose forms acetyl CoA and thus fats. So fructose is regarded as most lipogenic sugar. Fructose | Uses the enzymes of Glycolysis | Finally forms Pyruvate | Acetyl CoA | Fats (TG, Fatty Acids, Cholesterol) Fructose is present in fruits, honey, table sugar.",
+        "cop": 3,
+        "opa": "Glucose",
+        "opb": "Galactose",
+        "opc": "Fructose",
+        "opd": "Starch",
+        "subject_name": "Biochemistry",
+        "topic_name": "Fat and Carbohydrate interconversion",
+        "id": "5e547bdd-fc62-4c53-be6d-ed3c66691bbd",
+        "choice_type": "single"
+    }
+]

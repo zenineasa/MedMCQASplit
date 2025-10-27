@@ -1,0 +1,41 @@
+[
+    {
+        "question": "Fatal dose of radiation is:",
+        "exp": "Ans: d (500 rads) Ref: Harrison, 16th ed, p. 488Fatal dose of radiation is 500 radslGy=100 radFeatures of acute total body radiationDoseSyndromes associatedFeatures<2 Gy Usually require little or no therapy;Just monitor the counts2-8 GyHaematopoietic syndromeDeath in2-4 weeks due to bone marrow failure5-12 GyGastro intestinal syndromeDeath within days, C/F-nausea, vomiting, diarrhoea, sepsis and death>100 GyCerebrovascular syndromeDeath within 24-48 hours due to neurological and cardiovascular failure.Occupational exposure: maximum permitted5 rem/year or 50 msv/year and 20 msv for 5 years.-Maximum permitted radiation exposure in pregnancy-13 msv in 13 weeks or 0.5 rads-Single X-ray will cause an exposure of 5 radsRemember1. First organ to be involved in radiation toxicity is skin and earliest skin manifestation after radiotherapy is erythema and next is desquamation2. Most common presentation of radiation carditis is -asymptomatic pericardial effusion3. Intra operative radiotherapy is used in pancreatic cancer.4. Hyper fractionated radiotherapy is used in head and neck carcinomas, non-small cell carcinoma5. Most sensitive organ to radiotherapy-bone marrow>gonad>GIT mucosa6. Most sensitive cell cycle phase to radiotherapy-G ,M7. Most sensitive blood cell to radiotherapy -lymphocyte8. Most resistant blood cell to radiotherapy - platelet9. Most radio resistant organ is - vagina10. Most common toxicity of radiotherapy-bone marrow suppression11. Most resistant phase of cell cycle- end of S phase12. Most sensitive period for neonatal death to occur following radiation exposure- 3-5 weeksBRIDGE1. Drug used for radiation induced xerostomia-Amifostine2. Drug used for radiation induced mucositis-Palifermine",
+        "cop": 4,
+        "opa": "1 rad",
+        "opb": "5 rad",
+        "opc": "50 rad",
+        "opd": "500 rad",
+        "subject_name": "Radiology",
+        "topic_name": "Radiation Dose and Safety Considerations in Imaging",
+        "id": "765c59e4-4893-4eee-ab34-ed483f5909c8",
+        "choice_type": "single"
+    },
+    {
+        "question": "SI unit of radiation absorption:",
+        "exp": "Ref: Internet SourcesExplanation:SI unit for Radiation absorption - Gray (Gy)The rad is a deprecated unit of absorbed radiation dose, defined as 1 rad = 0.01 GyThe sievert (Sv) is the International System of Units (SI) derived unit of equivalent radiation dose, effective dose, and committed dose.The gray is used with quantities of absorbed dose in any material, while the sievert is used with equivalent, effective, and committed dose in biological tissue.Becquerel (Bq) - S I Unit of radioactivityThe Curie (Ci) is a non-SI unit of radioactivityRoentgen equivalent man or 'rem' (Symbol rem) is a deprecated unit used to measure the biological effects of ionizing radiation.The rem is defined as equal to 0.01 sievert.The roentgen (R, also rontgen) is an obsolete unit of measurement for the kerma of X-rays and gamma rays up to 3 MeV.The rutherford (symbol rd) is an obsolete non SI unit of radioactivity.",
+        "cop": 2,
+        "opa": "Sievert",
+        "opb": "Gray",
+        "opc": "Becquerel",
+        "opd": "Rads",
+        "subject_name": "Radiology",
+        "topic_name": "Radiation Dose and Safety Considerations in Imaging",
+        "id": "15c5fe6a-931c-4f0c-abf2-b701b62b598e",
+        "choice_type": "single"
+    },
+    {
+        "question": "Unit of absorbed dose of radiation -",
+        "exp": "Ans. is 'c' i.e., Grayo 100 Rad is equal to 1 gray or 1 rad is equal to 0[?]01 gray.Quantity measuredOld unitNew (SI) unit RadioactivityCurieBecquerel1 curie = 3[?]7 x 1010 Becquerel1 Becquerel = 2[?]7 x 10-11 curieRadiation exposureRoentgenColumb/cm Absorbed doseRadGray (Gy)100 rad = 1 Gray1 rad = 0[?]01 GrayDose equivalentRemSievert (Sv)100 Rem = 1 Sievert1 Rem = 0[?]01 Sievert",
+        "cop": 3,
+        "opa": "Curie",
+        "opb": "Roentgen",
+        "opc": "Gray",
+        "opd": "Becquerel",
+        "subject_name": "Radiology",
+        "topic_name": "Radiation Dose and Safety Considerations in Imaging",
+        "id": "a3cd956c-7c5a-434d-9ccd-498e5e9f60b7",
+        "choice_type": "single"
+    }
+]

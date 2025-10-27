@@ -1,0 +1,28 @@
+[
+    {
+        "question": "True about PET scan is:",
+        "exp": "Ref: Internet SourcesExplanation:Positron emission tomography (PET)It is a nuclear medicine imaging technique that produces a three-dimensional image or picture of functional processes in the body.The system detects pairs of gamma rays emitted indirectly by a positron-emitting radionuclide (tracer), which is introduced into the body on a biologically active molecule.Three-dimensional images of tracer concentration within the body are then constructed by computer analysis.In modern scanners, three dimensional imaging is often accomplished with the aid of a CT X- ray scan performed on the patient during the same session, in the same machineIf the biologically active molecule chosen for PET is FDG, an analogue of glucose, the concentrations of tracer imaged then give tissue metabolic activity, in terms of regional glucose uptake.The electron-positron decays result in two 511 keV gamma photons being emitted at almost 180 degrees to each other; hence, it is possible to localize their source along a straight line of coincidence (also called the line of response, or LOR).A collimator is a device that narrows a beam of particles or waves.Lead collimators are used in X-rays and linear accelerators",
+        "cop": 2,
+        "opa": "Single photon peak at 511 kev",
+        "opb": "Dual photon peak at 511 kev",
+        "opc": "X-rays are used",
+        "opd": "Lead collimators are used",
+        "subject_name": "Radiology",
+        "topic_name": "Positron Emission Tomography of Oncological Disorders",
+        "id": "6e762774-8e0a-4b04-a0d6-4b16bb6d1696",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Following is used in PET scan:",
+        "exp": "Ans: A (FDG) Ref: Radiology by Wolfgang Dahnert 5th ed; pg 1113Explanation:\"Fluorine-18 Fluorodeoxyglucose (FDG) is the most common positron-labeled radiotracer in positron emission tomography fPET), in most tissues, including cancer, there is little phosphatase activity. The intracellular metabolite, FDG-6-phosphate cannot undergo further conversions and is therefore trapped inside the cell. FDG is useful in staging and metastasis of Renal cell cancer by PET. \" (Ref: Wolfgang)Positron Emission Tomography (PET)* It is a nuclear medicine imaging technique that produces a three-dimensional image or picture of functional processes in the body.The system detects pairs of gamma rays emitted indirectly by a positron-emitting radionuclide (tracer), which is introduced into the body on a biologically active molecule. Three-dimensional images of tracer concentration within the body are then constructed by computer analysis. In modern scanners, three dimensional imaging is often accomplished with the aid of a CT X-ray scan performed on the patient during the same session, in the same machine.If the biologically active molecule chosen for PET is FDG, an analogue of glucose, the concentrations of tracer imaged then give tissue metabolic activity, in terms of regional glucose uptake.The electron-positron decays result in two 511 keV gamma photons being emitted at almost 180 degrees to each other; hence, it is possible to localize their source along a straight line of coincidence (also called the line of response, or LOR).A collimator is a device that narrows a beam of particles or waves. Lead collimators are used in X-rays and linear accelerators.",
+        "cop": 1,
+        "opa": "FDG",
+        "opb": "DTP A",
+        "opc": "MAG-3",
+        "opd": "I 131",
+        "subject_name": "Radiology",
+        "topic_name": "Positron Emission Tomography of Oncological Disorders",
+        "id": "0c162731-ac5c-4d62-bfd6-c2db219ccdba",
+        "choice_type": "single"
+    }
+]

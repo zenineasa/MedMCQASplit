@@ -1,0 +1,67 @@
+[
+    {
+        "question": "A known alcoholic presents to to the emergency room with hematemesis. On examination he has ascites with splenomegaly and gynaecomastia Diagnosis is -",
+        "exp": "Ans. is 'b' i.e., Portal hypertension due to Alcoholic cirrhosis o The patient clearly has portal hypertension due to alcoholic cirrhosis (Gynaecomastia indicates cirrhosis as a cause of portal hypertension).",
+        "cop": 2,
+        "opa": "Portal hypertension secondary to viral hepatitis",
+        "opb": "Portal hypertension due to Alcoholic cirrhosis",
+        "opc": "Budd Chiari Syndrome",
+        "opd": "Primary Sclerosing Cholangitis",
+        "subject_name": "Surgery",
+        "topic_name": "End-Stage Liver Disease and Liver Transplantation",
+        "id": "34386792-9175-4e46-a003-108232f237cc",
+        "choice_type": "single"
+    },
+    {
+        "question": "Which is not included in modified child pugh score?",
+        "exp": "Ans. is 'd' i.e., Nutitional status Child pugh score - Ask child turcotte pugh score :o This score is/as originally developed to evaluate the risk of portacaval shunt for portal hvpertention in cirrhotic patients. It has been shown to be useful in predicting surgical risks of other intrabdominal operations performed on cirrhotic patients.Variable1 points2 points3 points1. Bilirubin level2. Albumin level3. INR4. Encephalopathy5. Ascitis< 2 mg/dl>3.5 mg/dl<1.7NoneNone2-3 mg/di2.8-3.5 mg/di1.7-2.2ControlledControlled>3 mg/di<2.8 mg/di>2.2UncontrolledUncontrolled",
+        "cop": 4,
+        "opa": "S. bilirubin",
+        "opb": "INR",
+        "opc": "Encaphalopathv",
+        "opd": "Nutritional status",
+        "subject_name": "Surgery",
+        "topic_name": "End-Stage Liver Disease and Liver Transplantation",
+        "id": "baa1b925-809f-4469-848d-5c3a26de0d6f",
+        "choice_type": "single"
+    },
+    {
+        "question": "Child criteria include A/E:",
+        "exp": "Ans. A (Nutrition) or None # Nutriton is factor in child pugh classification (L & B 25th/1083, Schwartz)# Nutriton is not a factor in child pugh classification (Harrison 17th/1923, CMDT 09/ 607, CSDT 12th/583)Table (Harrison): Child-Pugh Classification of CirrhosisFactorUnits123Serum bilirubinmmol/Lmg/dL<34<2.034-512.0-3.0>51>3.0Serum albuming/Lg/dL>35>3.530-353.0-3.5<30<3.0Prothrombin timeSeconds prolonged INR0-4<1.74-61.7-23>6>2.3AscitesNone Easily controlledPoorly controlledHepatic encephalopathyNone MinimalAdvancedNote: The Child-Pugh score is calculated by adding the scores of the five factors and can range from 5-15. Child-Pugh class is either A (a score of 5-6), B (7-9), or C (10 or above). Decompensa tion in dicates cirrhosis with a Child-Pugh score of 7 or more (class B). This level has been the accepted criterion for listing for liver transplantationTable (Swartz): Revised Child Classification of Clinical Severity of CirrhosisFactorABCNutritional status'1ExcellentGoodPoorAscites0NoneMinimal, controlledModerate to severeEncephalopathyNoneMinimal, controlledModerate to severeSerum bilirubin (mg/dL)<22-3>3Serum albumin (g/ dL)>3.52.8-3.S<2.8Prothrombin time (% of control)>7040-70<40",
+        "cop": 1,
+        "opa": "Nutrition",
+        "opb": "Bilirubin",
+        "opc": "Albumin",
+        "opd": "Encephalopathy",
+        "subject_name": "Surgery",
+        "topic_name": "End-Stage Liver Disease and Liver Transplantation",
+        "id": "100f5d37-3982-41a2-9ad1-30cdd32ba2cc",
+        "choice_type": "single"
+    },
+    {
+        "question": "Child pugh criteria is used for prognosis of which disease -",
+        "exp": "Ans. is 'a' i.e., Terminal liver disease",
+        "cop": 1,
+        "opa": "Terminal liver disease",
+        "opb": "COLD",
+        "opc": "CRF",
+        "opd": "DCM",
+        "subject_name": "Surgery",
+        "topic_name": "End-Stage Liver Disease and Liver Transplantation",
+        "id": "166a1b6e-17af-4025-ac27-9794b2a631c6",
+        "choice_type": "single"
+    },
+    {
+        "question": "MELD diagnostic score -",
+        "exp": "Ans. is 'a' i.e., Predicts mortality in patients waiting liver transplanto MELD (The model for end-stage liver disease) is a linear regression model based on objective laboratory values(INR, bilirubin level and creatinine level). It wras originally developed to predict mortality after TIPSS. It is used in USfor liver transplant allocation,o It is a 6 to 40 point scale.o The relative risk of mortality increases by 14% for each 1 point increase in MELD score.MELD score =3-8 1og(e) (S.bilirubin mg'dl) +11-2 log(e) (INR) + 9-6 log(e) (S. creatinine mg/dl).orMELD score = 10",
+        "cop": 1,
+        "opa": "Predicts mortality in patient waiting liver transplant",
+        "opb": "Higher score - less mortality risk",
+        "opc": "Predicts mortality risk for a 60 day period",
+        "opd": "It is a 4 to 60 scale",
+        "subject_name": "Surgery",
+        "topic_name": "End-Stage Liver Disease and Liver Transplantation",
+        "id": "c2823123-20ce-4454-9472-4caead7285d9",
+        "choice_type": "single"
+    }
+]

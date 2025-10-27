@@ -1,0 +1,80 @@
+[
+    {
+        "question": "The shake test shown below can be done to know:",
+        "exp": "Shake test: - Test done to check cold damage to Vaccine due to freezing. - Once the vaccine is frozen, it tends to form flakes which gradually settle to the bottom, after the l is shaken. - Thus, sedimentation occurs faster in a vaccine l which has been frozen as compared to control l. - These ls should be discarded irrespective of their expiry date. - Used for DPT, DT, TT or Hepatitis B",
+        "cop": 2,
+        "opa": "Whether vaccine was exposed to heat",
+        "opb": "Whether vaccine had been frozen at some point of time in the cold chain",
+        "opc": "Whether expiry date of vaccine has reached",
+        "opd": "Whether the vaccine needs to be mixed with normal saline",
+        "subject_name": "Pediatrics",
+        "topic_name": "Storage of vaccines",
+        "id": "0c2df0be-2729-46fd-af8f-6e4cd812b9d8",
+        "choice_type": "single"
+    },
+    {
+        "question": "All of the following statements are true about DPT vaccine EXCEPT:",
+        "exp": "DPT Vaccine: - Given against Diphtheria, Peussis & Tetanus infections. - It is less sensitive to heat & damaged by freezing. Stored at 2-8oC - It is stored in middle racks of refrigerator. - Open l policy is applicable - Allows the reuse of paially used multi-dose ls in subsequent immunization sessions (up to 4 weeks) provided Expiry date not reached Cold chain is maintained Date of opening of l is mentioned Aseptic technique is used to withdraw vaccine Vaccine l septum not submerged in water - It is sensitive to light. Hence direct contact with sunlight is avoided.",
+        "cop": 1,
+        "opa": "It should be stored in deep freezer",
+        "opb": "Exposure to direct sunlight when in use should be avoided",
+        "opc": "Stored stocks are needed for the months at PHC level",
+        "opd": "Half used ls should not be put back into the cold chain after the session, if the vaccine l septum has been submerged in water",
+        "subject_name": "Pediatrics",
+        "topic_name": "Storage of vaccines",
+        "id": "60943290-ec83-43bf-8723-6f1837587ace",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Which of the following vaccines is most sensitive to heat?",
+        "exp": "- Heat sensitive vaccines: OPV - most heat sensitive. Hence stored in freezer Reconstituted BCG Measles vaccine ***Note: For heat sensitivity: Reconstituted BCG > OPV > BCG -Light sensitive vaccines: Measles vaccine BCG Rota JE vaccine -Freeze sensitive vaccines: Hep B Pentavalent TT DPT vaccine",
+        "cop": 1,
+        "opa": "Oral Polio vaccine",
+        "opb": "BCG vaccine",
+        "opc": "DPT vaccine",
+        "opd": "Measles vaccine",
+        "subject_name": "Pediatrics",
+        "topic_name": "Storage of vaccines",
+        "id": "f044e7e3-7884-4793-af11-98968e8b7fe3",
+        "choice_type": "single"
+    },
+    {
+        "question": "An OPV l shows this symbol on it. What does it indicate?",
+        "exp": "The pictures below show the interpretation of vaccine l monitor on the OPV vaccine l: - If color of inside square lighter than outside circle - We can use the vaccine - It is heat sensitive label that indicates cumulative heat exposure over time.",
+        "cop": 4,
+        "opa": "The vaccine has reached its expiry date",
+        "opb": "The vaccine has not been stored properly",
+        "opc": "The vaccine l is empty",
+        "opd": "Use the vaccine if expiry date not reached",
+        "subject_name": "Pediatrics",
+        "topic_name": "Storage of vaccines",
+        "id": "6a5fd3ff-a388-4b58-a3f5-2079b63eac80",
+        "choice_type": "single"
+    },
+    {
+        "question": "Why are the following vaccine ls coloured?",
+        "exp": "Light sensitive vaccines: - These vaccine lose their potency if exposed to bright light - Thus, these vaccines are packed in dark brown glass for protection - BCG, Measles, JE, Rotavirus are light sensitive vaccines",
+        "cop": 3,
+        "opa": "For easy recognition of these vaccines",
+        "opb": "Because they are live vaccines",
+        "opc": "Because these vaccines are light sensitive vaccines",
+        "opd": "Because thes vaccines are darker in colour",
+        "subject_name": "Pediatrics",
+        "topic_name": "Storage of vaccines",
+        "id": "8089a8d8-ed25-45b3-9482-af37ee180fb4",
+        "choice_type": "single"
+    },
+    {
+        "question": "The efficiency of cold chain system for oral polio vaccine as monitored by Vaccine Vial Monitor (VVM) depends on:",
+        "exp": "Vaccine Vial Monitor (VVM) - Heat sensitive label that indicates cumulative heat exposure over time. - Whether the OPV l can be used or not depends upon the irreversible colour changes in vaccine l monitor. - If color of inside square lighter than outside circle - We can use the vaccine",
+        "cop": 4,
+        "opa": "Change in the colour of vaccine",
+        "opb": "Temperature indicator of the system",
+        "opc": "Viral potency test",
+        "opd": "Change in colour of monitor",
+        "subject_name": "Pediatrics",
+        "topic_name": "Storage of vaccines",
+        "id": "d3613a67-121c-4492-a85b-98b0feba0eb9",
+        "choice_type": "single"
+    }
+]

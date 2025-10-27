@@ -1,0 +1,54 @@
+[
+    {
+        "question": "The arrow is located in which of the following structures?",
+        "exp": null,
+        "cop": 3,
+        "opa": "Left costophrenic angle",
+        "opb": "Left cardiophrenic angle",
+        "opc": "Right costophrenic angle",
+        "opd": "Right cardiophrenic angle",
+        "subject_name": "Radiology",
+        "topic_name": "Radiological anatomy",
+        "id": "ad1ae7e9-b259-478e-ab76-18b252983d9c",
+        "choice_type": "single"
+    },
+    {
+        "question": "The ring is denoting the location of ?",
+        "exp": "CT scan image shows the area located between Rt Atrium and Rt Ventricle denoting the area of tricuspid valve.",
+        "cop": 3,
+        "opa": "Aoic valve",
+        "opb": "Pulmonary valve",
+        "opc": "Tricuspid valve",
+        "opd": "Mitral valve",
+        "subject_name": "Radiology",
+        "topic_name": "Radiological anatomy",
+        "id": "0401978a-ecc2-43df-a448-a7a824d53821",
+        "choice_type": "single"
+    },
+    {
+        "question": "What is the structure 'B' marked in lateral chest X-ray below?",
+        "exp": null,
+        "cop": 1,
+        "opa": "Major fissure",
+        "opb": "Minor fissure",
+        "opc": "Azygos fissure",
+        "opd": "Transverse fissure",
+        "subject_name": "Radiology",
+        "topic_name": "Radiological anatomy",
+        "id": "511436e1-b0e6-416a-bc17-35fe038165ea",
+        "choice_type": "single"
+    },
+    {
+        "question": "The asterisk is denoting towards which of the following structures?",
+        "exp": "Posterior Ribs are Horizontal and Anterior Ribs are Oblique on Chest X-ray PA view The asterisk points to right anterior 4th rib.",
+        "cop": 1,
+        "opa": "Right anterior 4th rib",
+        "opb": "Right clavicle",
+        "opc": "Right posterior 5th rib",
+        "opd": "Major fissure",
+        "subject_name": "Radiology",
+        "topic_name": "Radiological anatomy",
+        "id": "3bc32067-7c10-454e-99f5-86d96de7a90f",
+        "choice_type": "single"
+    }
+]

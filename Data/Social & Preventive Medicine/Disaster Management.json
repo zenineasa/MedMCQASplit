@@ -1,0 +1,41 @@
+[
+    {
+        "question": "Ambulatory patients after a Disaster are categorized into ____ colour of Triage:",
+        "exp": "Triage - Disaster categorization of victims 1. Red - Immediate Resuscitation 2. Yellow - possible resuscitation 3. Green - Minor injuries (Ambulatory) 4. Black - Dead/ moribund patient",
+        "cop": 3,
+        "opa": "Red",
+        "opb": "Yellow",
+        "opc": "Green",
+        "opd": "Black",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Disaster Management",
+        "id": "23552dfa-cab8-4361-bb60-466d878c6fe8",
+        "choice_type": "single"
+    },
+    {
+        "question": "MC disease in Post-disaster phase is:-",
+        "exp": "Post disaster phase: M/C disease - Typhoid/Cholera M/C vitamin deficiency - Vit A, Vit B3, Vit C, Iron Vaccination to be given - None (contraindicated); Except - Measles vaccine Most impoant preliminary step - chlorination of water.",
+        "cop": 2,
+        "opa": "Malaria",
+        "opb": "Typhoid/ Cholera",
+        "opc": "Scabies",
+        "opd": "TB",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Disaster Management",
+        "id": "b9cbeaba-5247-4b4f-9440-0057e9b00e64",
+        "choice_type": "single"
+    },
+    {
+        "question": "Patient requiring immediate referral is allotted what color code according to IMNCI color coding?",
+        "exp": "(A) needs urgent hospital referral or admission (classifies as and colour coded pink) (C) can be managed at home (classified as and colour coded green) (D) needs specific medical Rx or advice (classified as and colour coded yellow)",
+        "cop": 1,
+        "opa": "Pink",
+        "opb": "Red",
+        "opc": "Green",
+        "opd": "Yellow",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Disaster Management",
+        "id": "d3285e2e-7fa8-45e9-8370-ab2202019ebf",
+        "choice_type": "multi"
+    }
+]

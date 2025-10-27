@@ -1,0 +1,28 @@
+[
+    {
+        "question": "A very preterm baby on 30mL/kg of enteral feeding, using an infant feeding formula, developed sudden severe abdominal distension with visible bowel loops on day 6 of life. The baby also showed temperature instability and lethargy. X-ray of the abdomen showed poal venous gas. The staging of NEC is?",
+        "exp": "The given clinical scenario indicates a diagnosis of NEC. Salient clinical features helping to identify the stage of NEC are: Stage Feature 1a - Occult blood positive in stool 1b - Fresh blood in stool 2a - Abd X ray shows 'pneumatosis intestinalis' 2b- X ray shows Poal venous gas 3a - Peritonitis 3b - Pneumoperitoneum",
+        "cop": 3,
+        "opa": "I b",
+        "opb": "2a",
+        "opc": "2b",
+        "opd": "3a",
+        "subject_name": "Pediatrics",
+        "topic_name": "Necrotising enterocolitis",
+        "id": "db049383-a114-4408-8ee6-86d7cc530f14",
+        "choice_type": "single"
+    },
+    {
+        "question": "Indication for surgery in Necrotizing Enterocolitis is?",
+        "exp": "Pneumoperitoneum -NEC stage 3b- intestinal perforation occurs. Treatment includes suppoive care along with surgery. Modified Bell's Staging Criteria:",
+        "cop": 2,
+        "opa": "Pneumatosis intestinalis- Stage IIA of NEC",
+        "opb": "Pneumoperitoneum- Stage IIIB of NEC",
+        "opc": "Poal Vein gas- Stage IIB of NEC",
+        "opd": "Peritonitis- Stage IIIA of NEC",
+        "subject_name": "Pediatrics",
+        "topic_name": "Necrotising enterocolitis",
+        "id": "bd5ae56f-4873-4c64-9ddd-2ec0b1ef997d",
+        "choice_type": "single"
+    }
+]

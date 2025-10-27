@@ -1,0 +1,80 @@
+[
+    {
+        "question": "In a double blind clinical drug trial -",
+        "exp": "DOUBLE BLINDING: In a double-blind trial, the patients as well as the investigator are blinded i.e. they don't know who is receiving the study drug and who is receiving placebo. It removes subject & investigator bias. MC binding seen. OTHER TYPES OF BLINDING: Single blinding : Subjects are not aware of treatment. Used to remove subject bias. Triple binding : Subject, investigator & analyzer are not aware of treatment. Removes subject, investigator & analyzer bias. It is best blinding. Open study : Complete absence of blinding.",
+        "cop": 3,
+        "opa": "Each patient receives a placebo",
+        "opb": "Each patient receives both (double) treatment",
+        "opc": "The patients do not know which treatment they are receiving",
+        "opd": "The patients do not know that they are in a drug trial",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Confounding and Bias",
+        "id": "25225c76-af30-4509-b357-97b2fe7f8cb4",
+        "choice_type": "multi"
+    },
+    {
+        "question": "For hospital cases and controls, there is different rates of admission to hospitals for people with different diseases, it will lead to what bias?",
+        "exp": "Bias Feature Berkesonian bias Different rates of admission to hospitals for people with different diseases Interviewer bias When the interviewer knows the hypothesis and also knows who the cases are Ecological fallacy Assigning people into groups irrespective of the characteristics they may or may not possess Hawthorne effect When subjects of an experimental study change or improve the behavior being evaluated only",
+        "cop": 2,
+        "opa": "Hawthorne effect",
+        "opb": "Berkesonian bias",
+        "opc": "Ecological fallacy",
+        "opd": "Interviewer bias",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Confounding and Bias",
+        "id": "cd1f548a-3319-4364-97e0-7915d210de15",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Allowing equal interview time to cases and controls can reduce which of the following bias?",
+        "exp": "Bias: - Type of systematic error. - Subject bias - Recall bias ; Hawthorn bias . - Investigatory bias: Interviewer bias, selection bias, misclassification bias. Allowing equal time for interview can take care of interviewer bias to some extent. Interviewer bias happens in case-control studies where the interviewer knows about the disease status of the person and probes more for exposure amongst cases as compared to controls. - Analyzer bias : Calculation bias - not seen now a days.",
+        "cop": 4,
+        "opa": "Berkesonian bias",
+        "opb": "Recall bias",
+        "opc": "Selection bias",
+        "opd": "Interviewer bias",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Confounding and Bias",
+        "id": "692dc592-b9fb-486a-a447-47519ba8eab6",
+        "choice_type": "multi"
+    },
+    {
+        "question": "In a study it was found that eating vegetables rich in beta-carotene could reduce cancer. But there can be other factors like high fiber diet, which could also be responsible for this. This is due to",
+        "exp": "High fiber diet is associated with vegetables rich in beta-carotene. Also, high fiber diet is associated with decreased incidences of ceain cancers especially colonic cancers. Now, since the high-fiber diet is present with both the cause and the effect independently and is distributed unevenly in the case and the control group, it can be called a confounding factor. Also, it can be due to multifactorial causation, if both carotene and high fiber diet are associated with reduced cancer incidence. Since we have to select only one option, and from other studies we do know that vitamin doesn't decrease the risk of cancer, the best option will be confounding factor.",
+        "cop": 1,
+        "opa": "Confounding factor",
+        "opb": "Multifactorial causation",
+        "opc": "Causal association",
+        "opd": "Common association",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Confounding and Bias",
+        "id": "83d5f70c-cea3-4514-b6f7-5c0e2ef5126b",
+        "choice_type": "single"
+    },
+    {
+        "question": "All of the following are investigator bias except:-",
+        "exp": "Bias:- Type of Systemic Error in Study; Subject Bias (Eg : Recall Bias, Hawthorne bias) Investigator Bias (Interviewer Bias, Misclassification Bias, Selection Bias) Analyzer Bias (calculation error)",
+        "cop": 3,
+        "opa": "Interviewer bias",
+        "opb": "Misclassification bias",
+        "opc": "Hawthorne bias",
+        "opd": "Pygmalion bias",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Confounding and Bias",
+        "id": "e0032fa5-a23d-4bae-9056-be79d19a9fd8",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Confounding factor is associated with:-",
+        "exp": "Confounding factor Any factor associated with both exposure, outcome and has an independent effect in causation of outcome is a confounder. BEST METHOD TO REMOVE CONFOUNDING:- MATCHING - Removes confounding bias by distributing known confounding factors equally in two groups RANDOMISATION(2ND BEST) RESTRICTION STRATIFICATION STATISTICAL MODELLING/ MULTIVARIATE ANALYSIS STRATIFIED RANDOMISATION (BEST METHOD)",
+        "cop": 3,
+        "opa": "Exposure only",
+        "opb": "Outcome only",
+        "opc": "Both exposure and outcome",
+        "opd": "Neither exposure nor outcome",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Confounding and Bias",
+        "id": "47e17e2a-5799-4c01-a9ab-b45560b99867",
+        "choice_type": "multi"
+    }
+]

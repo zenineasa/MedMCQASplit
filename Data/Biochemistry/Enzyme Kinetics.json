@@ -1,0 +1,93 @@
+[
+    {
+        "question": "An enzyme-catalyzed reaction was carried out with the initial substrate concentration 1,000 times greater than the Km for that substrate. After 9 minutes, 1% of the substrate had been conveed to the product, and the amount of product was 12 mmol. If, in a separate experiment, one-third as much enzyme and twice as much of the substrate is combined, how long it would to take for the same amount (12 mmol) of product to be formed?",
+        "exp": "Since we know that Enzyme is more impoant than substrate, so enzyme concentration we have to see first if that is reduced then it doesn't matter whether we increase substrate concentration or not time will increase only. So, since enzyme is decreased to 1/3 time will increase by 3 times irrespective of increase in substrate concentration By using Michaelis-Menten equation, that is, V0 = Vmax x / Km + and by definition Vmax = Kcat x Where is enzyme concentration, Kcat is turnover number So, Similarly, As velocity is 3 times slower than first velocity so same amount of product formation will require 3x more time. Hence, Time taken will be = 3 x t = 3 x 9 = 27 minutes",
+        "cop": 2,
+        "opa": "13.5 mins",
+        "opb": "27 mins",
+        "opc": "8 mins",
+        "opd": "9 mins",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme kinetics",
+        "id": "5a8585f6-b497-4ade-9af3-ef7abf5be706",
+        "choice_type": "single"
+    },
+    {
+        "question": "All of the following are true about allosteric enzymes, EXCEPT:",
+        "exp": "Be Aware that Question is asking about the wrong/false statement: Allosteric enzymes also contain a site other than active site which binds to allosteric regulator. Allosteric enzymes don't follow Michaelis-Menten kinetics. They do obey Hill's equation. Allosteric enzymes are usually multi-subunit enzymes. Binding of allosteric regulator to the allosteric site alters the substrate affinity of active site. This is known as cooperativity.This can be either positive or negative. A multi-subunit enzyme will obviously have quaternary structure - option a is wrong.",
+        "cop": 1,
+        "opa": "Allosteric enzymes can't have structure beyond the teiary structure",
+        "opb": "Allosteric enzymes have a regulatory site other than the active site",
+        "opc": "Allosteric enzymes do not show Michaelis-Menten kinetics",
+        "opd": "Allosteric modulators bind noncovalently to allosteric site",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme kinetics",
+        "id": "d81ca10a-3aee-4eae-af27-6a8829cd5076",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Unit of Km is:",
+        "exp": "The Km is the substrate concentration at 1/2 Vmax. As Km is the concentration, unit of Km will be the unit of concentration Km is a measure of a substrate's affinity for the enzyme. It is inversely propoional to the affinity.",
+        "cop": 4,
+        "opa": "second-1",
+        "opb": "Moles second-1",
+        "opc": "Millimoles",
+        "opd": "Millimoles Litre-1",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme kinetics",
+        "id": "367aa645-ecf2-48c0-99fa-4fd95966e90f",
+        "choice_type": "single"
+    },
+    {
+        "question": "Which of the following is the measure of catalytic efficiency of an enzyme?",
+        "exp": "The kinetic parameters kcat and Km are useful for the study and comparison of different enzymes, with simple or complex reaction mechanisms. kcat and Km are used as an estimate for the kinetic efficiency of enzymes, but either parameter alone is insufficient for this purpose. For instance, two enzymes catalyzing different reactions may have the same kcat (turnover number), yet the rates of the uncatalyzed reactions may be different and thus the rate enhancements brought about by the enzymes may differ greatly. Hence, the best way to measure the catalytic efficiencies of different enzymes is to compare the ratio Kcat/Km for the two reactions. This parameter, is called the specificity constant, is the rate constant for the conversion of E + S to E + P when << Km.",
+        "cop": 1,
+        "opa": "Kcat/Km",
+        "opb": "Turnover number",
+        "opc": "Km",
+        "opd": "Kd/Km",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme kinetics",
+        "id": "05b75b71-a502-43f7-9c72-006e2bc4ae92",
+        "choice_type": "single"
+    },
+    {
+        "question": "The following graph represents effect of substrate concentration on the initial velocity of an enzyme catalyzed reaction. Wrong statement about this graph is:",
+        "exp": "This is Michaelis Menten graph (rectangular hyperbola shape). Km is Michaelis Menten constant. Km is that substrate concentration at which velocity of reaction is half of Vmax. Here '?' point represents Km (on X-axis). At point C, maximum amount of enzyme is present as E-S complex --- so option C is wrong Initial poion of this graph has first order kinetics i.e. velocity is directly propoional to substrate concentration Later poion of the graph has zero order kinetics i.e. velocity is independent of substrate concentration",
+        "cop": 3,
+        "opa": "The curve is hyperbolic in shape.",
+        "opb": "\"?\" here represents Km of the enzyme",
+        "opc": "At point C only a small amount of the enzyme is present as the Enzyme-Substrate complex.",
+        "opd": "At point C, Vi is independent of",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme kinetics",
+        "id": "e865fa68-2c98-4328-a83a-8edb9982346f",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Select the TRUE statement about Michealis Constant (Km)",
+        "exp": "Salient features of Km:- 1. Km value is substrate concentration (expressed in moles/L) at half-maximal velocity 2. It denotes that 50% of enzyme molecules are bound with substrate molecules at that paicular substrate concentration 3. Km is independent of enzyme concentration;If enzyme concentration is doubled, the Vmax will be doubled. But the 1/2 Vmax(Km) will remain exactly the same. 4. Km is the signature of the enzyme. Km value is thus a constant for an enzyme. It is the characteristic feature of a paicular enzyme for a specific substrate 5. The affinity of an enzyme towards its substrate is inversely related to the dissociation constant, Kd for the enzyme-substrate complex Therefore, the smaller the tendency for the dissociation of the complex, the greater is the affinity of the enzyme for the substrate 6. Km denotes the affinity of enzyme for substrate. The lesser the numerical value of Km, the affinity of the enzyme for the substrate is more.",
+        "cop": 2,
+        "opa": "Km is dependent on enzyme concentration.",
+        "opb": "Km value is inversely propoional to the affinity of enzyme for its substrate.",
+        "opc": "Km value denotes the product concentration at half maximal velocity.",
+        "opd": "Km value can be same for two different enzymes.",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme kinetics",
+        "id": "a1fc23ca-c488-415a-995a-e51ce79aef79",
+        "choice_type": "multi"
+    },
+    {
+        "question": "For every 10-degree Celsius raise in the temperature, the rate of most of the enzymatic reactions:",
+        "exp": "The temperature coefficient (Q10) is the factor by which the rate of a biologic process increases for a 10degC increase in temperature. For enzymes, temperature coefficient is 2, i.e. for every 10 degrees raise in temperature, the rate of enzyme activity doubles. But, after ceain temperature, the enzyme protein gets denaturate and the rate of enzyme activity falls down.",
+        "cop": 2,
+        "opa": "Halves",
+        "opb": "Doubles",
+        "opc": "Quadruples",
+        "opd": "Increases 10-fold",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme kinetics",
+        "id": "feadcb86-96be-4866-b90c-88553f49a4fa",
+        "choice_type": "single"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "question": "BERA is a reliable indicator in the diagnosis of:",
+        "exp": "The best audiometric test for acoustic neuroma is BERA. The most diagnostic finding suggestive of acoustic neuroma on BERA is increased interaural latency of wave V of > 0.2 ms.",
+        "cop": 3,
+        "opa": "Otosclerosis",
+        "opb": "Vestibular neuronitis",
+        "opc": "Acoustic schwannoma",
+        "opd": "Vestibular Migraine",
+        "subject_name": "ENT",
+        "topic_name": "Diseases of Inner Ear and Vestibular Schwannoma",
+        "id": "c343ee63-6133-4edb-9576-3d9776c50835",
+        "choice_type": "single"
+    },
+    {
+        "question": "All of the following are true about Schwannomas except",
+        "exp": "Option A: Vestibular schwannoma is benign neoplasm of unceain etiology that most often affects Inferior vestibular nerve. Option B: Cochleovestibular symptoms are earliest symptoms when tumour is still intracanalicular and are caused by pressure on cochlear or vestibular nerve fibres or on the internal auditory aery. Option C: MRI with gadolinium contrast is superior to CT scan and is gold standard for diagnosis of acoustic neuroma. Option D: VIIth nerve involvement: Sensory fibres are affected early. There is hypoaesthesia of posterior meatal wall (Hitzelberger's sign), loss of taste (as tested by electrogustometry) and reduced lacrimation on Schirmer test. Motor fibres are more resistant and are affected late. Delayed blink reflex may be an early manifestation.",
+        "cop": 1,
+        "opa": "Commonly arises from Superior vestibular nerve",
+        "opb": "Leads to Retrocochlear hearing loss",
+        "opc": "Gd enhanced MRI is the most sensitive investigation",
+        "opd": "Hitzelberg's sign is due to involvement of 7th nerve",
+        "subject_name": "ENT",
+        "topic_name": "Diseases of Inner Ear and Vestibular Schwannoma",
+        "id": "805da7d5-3fb9-45ae-a969-f876efdb4612",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A steel worker presented with noise induced hearing loss, which pa of inner ear is most likely affected?",
+        "exp": "NIHL cause damage to hair cells, staing in the basal turn of cochlea. Outer hair cells are affected before the inner hair cells. Outer hair cells are more in number and rows. More sensitive to noise induced hearing loss as well as to ototoxic drugs. Stereocilia of outer hair cells first to be affected by noise induced hearing loss.",
+        "cop": 2,
+        "opa": "Inner hair cell",
+        "opb": "Outer hair cell",
+        "opc": "Macula",
+        "opd": "Cupula",
+        "subject_name": "ENT",
+        "topic_name": "Diseases of Inner Ear and Vestibular Schwannoma",
+        "id": "7d0bb0b5-cfb1-4688-804b-6e5416de0f56",
+        "choice_type": "single"
+    },
+    {
+        "question": "True about Vestibular Schwannoma is",
+        "exp": "Meniere's disease is an impoant differential for acoustic neuroma as the patients suffer from similar symptoms. Meniere's is a cochlear pathology and acoustic neuroma is retrocochlear. Audiological diagnostics: Test Cochlear Retro- Cochlear S.I.S.I Positive ( >70%) Negative A.B.L.B Laddergram Converging Diverging Tone Decay Negative( <25 dB) Positive ( >25dB) Speech Audiometry SDS = 60-80% <40%, Roll over phenomenon B.E.R.A ( Wave V Latency) </= 4.2 msec >4.2 msec",
+        "cop": 4,
+        "opa": "Converging ABLB Laddergram",
+        "opb": "Recruitment phenomenon is present",
+        "opc": "High SISI score",
+        "opd": "Rollover phenomenon is seen",
+        "subject_name": "ENT",
+        "topic_name": "Diseases of Inner Ear and Vestibular Schwannoma",
+        "id": "d6929d32-156c-4796-a0fa-c4a3baa24ef2",
+        "choice_type": "multi"
+    }
+]

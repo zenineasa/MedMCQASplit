@@ -1,0 +1,67 @@
+[
+    {
+        "question": "A diabetic patient developed cellulitis due to S. aureus, which was found to be methicillin resistant after antibiotic sensitivity testing. All of the following antibiotics will be appropriate except",
+        "exp": "1. \"The carbapenem lmipenem has excellent activity against methicillin - sensitive S. aureus but not M.R.S.A.\" Because MRSA is resistant to all Beta-lactam antibiotics including cephalosporins and carbapenems. 2. Treatment of MRSA: DOC- Vancomycin Alternative drugs- Teicoplanin, Linezolid, Daptomycin (for endocarditis and complicated skin infections), Quinupristin/Dalfopristin, tigecycline and oritavancin. Mupirocin 2% ointment (for nasal carriers of MRSA). 3. Detection of MRSA Antimicrobial susceptibility test: Disk diffusion test can be done by using cefoxitin or oxacillin disks. Cefoxitin is the recommended disk to be used. If oxacillin disk is used, then ceain conditions are to be maintained such as--using media containing 2-4% NaCl, incubation at 30 degC for 24 hours. Oxacillin screen agar: Adding oxacillin 6 mg/ml and NaCl (2-4%) to the medium. PCR detecting mecA gene. Latex agglutination test detecting PBP-2a.",
+        "cop": 2,
+        "opa": "Vancomycin",
+        "opb": "lmipenem",
+        "opc": "Teicoplanin",
+        "opd": "Linezolid",
+        "subject_name": "Microbiology",
+        "topic_name": "Systemic Bacteriology (Gram Positive Cocci, Gram Negative Cocci)",
+        "id": "07810c42-45b8-4437-8f33-75fa7c1e9d3e",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Waterhouse friederichsen syndrome is caused by",
+        "exp": "Waterhouse friederichsen (WF) syndrome is fulminant meningococcemia characterized by shock, disseminated intravascular coagulation, petechial rash and multisystem failure due to the lipo-oligosaccharide mediated damage of the vascular endothelium. it is caused by N.meningitidis",
+        "cop": 2,
+        "opa": "Neisseria gonorrheae",
+        "opb": "Neisseria meningitidis",
+        "opc": "Chlamydia trachomatis",
+        "opd": "Lymphogranuloma venerum",
+        "subject_name": "Microbiology",
+        "topic_name": "Systemic Bacteriology (Gram Positive Cocci, Gram Negative Cocci)",
+        "id": "b8cfa8fc-61e0-4028-8b4e-b198e6bfa24c",
+        "choice_type": "single"
+    },
+    {
+        "question": "Mark the false statement regarding Botryomycosis",
+        "exp": "Botryomycosis/Bacterial pseudomycosis/ Pyoderma vegetans - Chronic granulomatous disease Mainly skin is involved, viscera may be affected rarely Etiology - Bacterial Most common causative bacteria - Staphylococcus aureus Pseudomonas species, Escherichia coli, Proteus species and Streptococcus species occasionally may cause disease The word \"Botryo\" is derived from Greek word \"Botrys\" which means \"bunch of grapes.\" It is a misnomer as it is caused by a bacteria and not fungus Botryomycosis may present in cutaneous or visceral forms - Cutaneous form is a chronic persistent condition that presents with chronic, suppurative, and granulomatous skin lesions. It may be preceded by trauma. Most cases present with nodules, abscesses, and sinuses with purulent discharge. Visceral form is usually with pulmonary involvement",
+        "cop": 2,
+        "opa": "Chronic granulomatous disease",
+        "opb": "Mainly viscera is affected",
+        "opc": "Causative organism is Staphylococcus aureus",
+        "opd": "Present with sinuses and purulent discharge",
+        "subject_name": "Microbiology",
+        "topic_name": "Systemic Bacteriology (Gram Positive Cocci, Gram Negative Cocci)",
+        "id": "d6917097-0c2e-435c-92a3-a4af3340d686",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Which of the following is catalase positive?",
+        "exp": "Catalase test is used mainly to differentiate between Staphylococcus(Catalase positive) and Streptococcus (Catalase negative). +ve Catalase test = Bubble formation due to release of nascent O2 from H2O2 by Catalse enzyme in the colony Catalase positive organisms Staphylococcus Pseudomonas aeruginosa Aspergillus fumigatus Candida Enterobacteriaceae except Shigella dysentry type 1",
+        "cop": 1,
+        "opa": "Staph epidermidis",
+        "opb": "Enterococcus",
+        "opc": "Streptococcus",
+        "opd": "Pneumococcus",
+        "subject_name": "Microbiology",
+        "topic_name": "Systemic Bacteriology (Gram Positive Cocci, Gram Negative Cocci)",
+        "id": "a7ee2f79-8685-4cbc-b9e5-be1a7a69a4cb",
+        "choice_type": "single"
+    },
+    {
+        "question": "An outbreak of staphylococcal infection involving umbilical cords of seven newborn babies was repoed in the nursery. Bacteriological survey reveals that two nurses have a large number of Staphylococcus aureus in the nasopharynx. What test should be performed to determine whether these nurses may have been responsible for the outbreak?",
+        "exp": "Typing of S. aureus Bacteriophages of S. aureus have narrow host range For epidemiological studies, strains of S. aureus can be distinguished by their patterns of lysis by internationally recognized set of 23 standard typing phages The phage type of the strain is expressed by the designations of all the phages that lyse it S. aureus are divided into 5 lytic groups Phage type 80/81 are known to cause hospital infections throughout the world",
+        "cop": 1,
+        "opa": "Bacteriophage typing",
+        "opb": "Coagulase testing",
+        "opc": "Nasopharyngeal culture on mannitol salt agar",
+        "opd": "Protein A typing",
+        "subject_name": "Microbiology",
+        "topic_name": "Systemic Bacteriology (Gram Positive Cocci, Gram Negative Cocci)",
+        "id": "26d8767d-96bb-435c-b5bb-9444fe789623",
+        "choice_type": "single"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "question": "Ivermectin is indicated in all of the following except:",
+        "exp": "Ans: C (Malaria) Ref: The Pharmacological basis of therapeutics by Goodman dc Gilman - 12th edition, page no. 1455-1456 & Malaria Journal 2013: 12:153Explanation:Ivermectin has a beneficial therapeutic effect inOnchocerciasisLvmphatic filariasisStrong lyloidiasisAscariasisEnterobiasis.Ivermectin is also effective in head lice infection, cutaneous larva migrans and scabiesIt does not have any proven beneficial effect in malaria.Since ivermectin can act on the GABA receptors in the CNS, it should be avoided in patients with meningitis and African trypanosomiasis that are associated with breached blood brain barrier.Ivermectin should not be given to pregnant and lactating women, children less than 5 years of age and severely ill patient.Note:However ivermectin has been recently found to have a beneficial effect in reducing the risk of malaria transmission by its vector control activity by targeting the anopheles mosquito.However this is still needs to be verified with the help of large studies. (Ref: Malaria Journal 2013; 12:153)",
+        "cop": 3,
+        "opa": "Ascaris",
+        "opb": "Filariasis",
+        "opc": "Malaria",
+        "opd": "Oncocerciasis",
+        "subject_name": "Pharmacology",
+        "topic_name": "Anti-Helminths",
+        "id": "d0f01d3b-e6b1-4355-8810-b68d9ff2719d",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Scabies oral treatment of choice:",
+        "exp": "Ans. (c) IvermectinRef. KDT 6th ed. 864* Scabies is caused by an ectoparasite sarcoptes scabei. It is highly contagious. The mite burrows through the epidermis, laying eggs which form papules that itch intensely.* Most common site of entry- finger webs.* Drugs used are:# Permethrin: broad spectrum and potent insecticide, currently most efficacious. It is DOC for scabies. MOA: It causes neurological paralysis in insects by delaying depolarization. Single application needed in most cases. Very less toxicity; 100% cure rate.# Lindane: another broad spectrum insecticide. Efficacy lower than permethrin. MOA: kills lice and mites by penetrating through their chitinous cover and affecting the nervous system.# Benzyl benzoate: oily liquid with a faint aromatic smell. It is applied over face and neck after a bath. A second coat is applied next day which is washed after 24 hours.# Crotamiton# Sulfur# Ivermectin: highly effective in scabies and pediculosis as well. It is the only ORALLY administered drug which is used for scabies (ectoparasitosis) A single dose of 0.2 mg/kg has cured almost 90- 100% of population. It is contraindicated in children < 5 yrs, pregnant and lactating women.",
+        "cop": 3,
+        "opa": "Permethrin",
+        "opb": "Benzyl Benzoate",
+        "opc": "Ivermectin",
+        "opd": "Lindane",
+        "subject_name": "Pharmacology",
+        "topic_name": "Anti-Helminths",
+        "id": "dbe94c77-a36f-4145-b9ea-7578fe69bf0e",
+        "choice_type": "single"
+    },
+    {
+        "question": "Drug used in Toxoplasmosis is :",
+        "exp": "Ans. is 'a' i.e. Pyrimethamine Doc for Toxoplasmosis - Pyrimethamine and Trimethoprim",
+        "cop": 1,
+        "opa": "Pyrimethamine",
+        "opb": "Ribovarin",
+        "opc": "Ganciclovir",
+        "opd": "Tetracycline",
+        "subject_name": "Pharmacology",
+        "topic_name": "Anti-Helminths",
+        "id": "9421c64d-b57b-470f-a4d1-f8381cad4844",
+        "choice_type": "single"
+    }
+]

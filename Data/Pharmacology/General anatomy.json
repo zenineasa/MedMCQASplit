@@ -1,0 +1,54 @@
+[
+    {
+        "question": "Which of the following is not an example of Phase II drug metabolic reaction?",
+        "exp": "phase 1 reactions- oxidation, reduction, cyclization, decyclization and hydrolysis Phase II reactions: 1. Glucuronidation 2. Acetylation 3. Glutathione conjugation 4. Glycine conjugation 5. Sulfation 6. Methylation 7. Water conjugation Reference: Katzung Pharmacology; 13th edition; Chapter 4; Drug Biotransformation",
+        "cop": 3,
+        "opa": "Acetylation",
+        "opb": "Sulfation",
+        "opc": "Decyclization",
+        "opd": "Methylation",
+        "subject_name": "Pharmacology",
+        "topic_name": "General anatomy",
+        "id": "bacf14d5-2ae8-4c46-99eb-fd6fd4156d1e",
+        "choice_type": "single"
+    },
+    {
+        "question": "The most impoant factor decreasing the systemic bioavailability of orally administered drugs is",
+        "exp": "Bioavailability is defined as the fraction of unchanged drug reaching the systemic circulation following administration by any route. For an intravenous dose of the drug, bioavailability is assumed to be equal to unity. For a drug administered orally, bioavailability may be less than 100% for two main reasons: 1. The incomplete extent of absorption across the gut wall and 2. First-pass elimination by the liver 1st pass elimination is also called pre-systemic elimination Reference: Katzung Pharmacology; 13th edition; Chapter 3; Pharmacokinetics & Pharmacodynamics: Rational Dosing & the Time Course of Drug Action",
+        "cop": 2,
+        "opa": "Incomplete dissolution of oral dosage form",
+        "opb": "First pass metabolism",
+        "opc": "Drug degradation by gastric acid",
+        "opd": "Drug degradation by digestive enzymes",
+        "subject_name": "Pharmacology",
+        "topic_name": "General anatomy",
+        "id": "1e9f8ed0-3a3f-49b2-afc2-4688c60cdc0e",
+        "choice_type": "multi"
+    },
+    {
+        "question": "About first-order kinetics, the true statement is",
+        "exp": "Most of the drugs follow 1st order kinetics in 1st order kinetics-clearance is constant and, elimination is not saturable, and the rate of drug elimination is directly propoional to the concentration. This is usually referred to as first-order elimination Reference: Katzung Pharmacology; 13th edition; Chapter 3; Pharmacokinetics & Pharmacodynamics: Rational Dosing & the Time Course of Drug Action",
+        "cop": 1,
+        "opa": "Clearance remains constant",
+        "opb": "Fixed amount of the drug is eliminated",
+        "opc": "Half life increase with dose",
+        "opd": "Decreased clearance with increasing dose",
+        "subject_name": "Pharmacology",
+        "topic_name": "General anatomy",
+        "id": "0aeb0e7e-545b-4430-831e-0762bd514d7a",
+        "choice_type": "multi"
+    },
+    {
+        "question": "False regarding Cytochrome P-450 enzymes :",
+        "exp": "cytochrome P450 a microsomal enzyme is a hemoprotein, which serves as the terminal oxidase. The name cytochrome P450 (abbreted as P450 or CYP ) is derived from the spectral propeies of this hemoprotein. In its reduced (ferrous) form, it binds carbon monoxide to give a complex that absorbs light maximally at 450 nm. They are involved in the metabolism of various drugs The relative abundance of P450s, compared with that of the reductase in the liver, contributes to making P450 heme reduction a rate-limiting step in hepatic drug oxidations. CYP is vital to the formation of cholesterol, steroids and arachidonic acid metabolites Reference: Katzung 13th edition pg: 55",
+        "cop": 4,
+        "opa": "They are involved in the production of steroids",
+        "opb": "They absorb maximum light at 450nm wavelength",
+        "opc": "They are present in endoplasmic reticulum of liver cells",
+        "opd": "They are non-heme proteins",
+        "subject_name": "Pharmacology",
+        "topic_name": "General anatomy",
+        "id": "94074bed-c87e-442e-acc2-a7d3f5a81b1c",
+        "choice_type": "multi"
+    }
+]

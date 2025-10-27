@@ -1,0 +1,41 @@
+[
+    {
+        "question": "Using a new technique, Hb was estimated in a blood sample. The test was repeated for 10 times. The repos were: 9.5, 9.2, 9.4, 9.6, 9.7, 9.9, 10.2, 10.3, 10.5 and 12.1. Accurate value of Hb was estimated by standard tests to be 10.2. The new technique has:",
+        "exp": "In the given question, Mean of 10 Hb values = Sum (9.5, 9.2, 9.4, 9.6, 9.7, 9.9, 10.2, 10.3, 10.5 and 12.1)/10 = 100/10 = 10 Validity means getting the right results, whether positive or negative and reliability means getting the same result every time, irrespective of whether it is right or wrong. Since the results obtained by test are different than the actual value of Hb, it is not valid or accurate. Also, since every time we are getting different values , the test is not reliable.",
+        "cop": 2,
+        "opa": "High validity and high reliability",
+        "opb": "Low validity and low reliability",
+        "opc": "High validity and low reliability",
+        "opd": "Low validity and high reliability",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Precision & Accuracy",
+        "id": "70273970-0819-484e-9507-7fe809d4588c",
+        "choice_type": "single"
+    },
+    {
+        "question": "All comprise inherent propeies of a screening test except:",
+        "exp": "YIELD Yield of the screening test: is the amount of previously unrecognized disease that is diagnosed as result of screening effo Yield of the screening test depends on: -Sensitivity of screening test -Specificity of screening test -Prevalence of the disease in population -Paicipation of individuals in the detection programme",
+        "cop": 3,
+        "opa": "Sensitivity",
+        "opb": "Specificity",
+        "opc": "Yield",
+        "opd": "Predictive accuracy",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Precision & Accuracy",
+        "id": "d63e418e-a8c5-4b50-b778-ce93fc202aa6",
+        "choice_type": "multi"
+    },
+    {
+        "question": "All of the following are test for degree of closeness of a measured/ calculated quantity to its actual/ true value except:-",
+        "exp": "Precision Accuracy Definition Repeatability, reliability, consistency, reproducibility of a test Degree of closeness of a measured/ calculated quantity to its actual/ true value, validity Tests used to measure Range cha, R - cha Mean cha, Levy Jennings cha, Shewha control cha",
+        "cop": 3,
+        "opa": "Mean cha",
+        "opb": "Levy Jennings (LJ) cha",
+        "opc": "Range cha",
+        "opd": "Shewha control cha",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Precision & Accuracy",
+        "id": "d6e5739f-a40d-4a78-8ea9-c227c2f13219",
+        "choice_type": "multi"
+    }
+]

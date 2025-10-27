@@ -1,0 +1,41 @@
+[
+    {
+        "question": "Following statement is false regarding Colistin:",
+        "exp": "Option A: Colistin belongs to a group of antimicrobial agents known as Polymyxins, which were originally isolated from the spore-forming soil organism Paenibacillus polymyxa. Molecules in this group are polymyxins A, B, C, D & E, of which only polymyxin E (Colistin) and Polymyxin B are used clinically in humans. Option B: Colistin is a mixture of polymyxin E1 and E2, two bactericidal pentacationic lipopeptides. The mode of action of colistin is not fully elucidated but involves binding to lipopolysaccharides and phospholipids in the outer membrane of Gram-negative organisms, which results in membrane disruption and cell death. Option C: Colistin is active against a wide variety of Gram-negative bacteria and is not active against Gram-positive bacteria, which lack an outer membrane. Option D: Colistin is used in both human and veterinary medicine. In humans, colistin is generally used to treat infections with multidrug-resistant, extensively drug-resistant and pan drug-resistant Bacteria.",
+        "cop": 3,
+        "opa": "It belongs to a group of antimicrobial agents known as polymyxins which were originally isolated from the spore forming soil organism Paenibacillus polymyxa",
+        "opb": "Colistin is a mixture of polymyxin E1 and E2, two bactericidal pentacationic lipopeptide",
+        "opc": "All gram positive bacteria are susceptible to Colistin",
+        "opd": "Colistin is generally used to treat infections with multidrug-resistant, extensively drug-resistant and pan drug-resistant bacteria",
+        "subject_name": "Microbiology",
+        "topic_name": "Bacterial Treatment",
+        "id": "7a1b100b-b104-4fc1-8b08-81f376c0500a",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Not true about bacterial drug resistance mechanism:",
+        "exp": "Complete removal of target is cause of resistance to Vancomycin is not true. There is alteration of the target site, and not complete removal. Drug Resistance Option a Most common mechanism of resistance: b-lactamase enzymes are capable of hydrolysing the b-lactam rings. Option b If resistance is chromosomally mediated, it is usually transferred veically from parent to daughter bacteria. If resistance is plasmid mediated, it is usually transferred by horizontal route mainly by conjugation. Option c Penicillin-resistant pneumococcal strains: Resistance to penicillin and other beta-lactam antibiotics is not mediated by production of beta-lactamase enzymes, but is due to the modifications of proteins, such as penicillin-binding proteins (PBPs) found on the cell wall. These penicillin-resistant strains are also resistant to multiple drugs, such as cefotaxime, ceftriaxone, erythromycin, tetracycline, macrolides, and trimethoprim-sulfamethoxazole (TMP-SMX). Resistance is seen most often in S. pneumoniae serotypes 6, 9, 14, 19, and 23. Option d Vancomycin resistant Enterococcus (VRE): VRE is mediated by van gene, which alters the target site for vancomycin present in cell wall. D-alanyl-D-alanine side chain of peptidoglycan layer is altered to D-alanyl-D-serine or D-alanyl-D-lactate. This altered side chains have very less affinity for binding to vancomycin.",
+        "cop": 2,
+        "opa": "Most common mechanism is production of neutralizing enzymes",
+        "opb": "If resistance is plasmid mediated, it is always transferred veically",
+        "opc": "Alteration of target seen in pneumococcal resistance",
+        "opd": "Complete removal of target is cause of resistance to Vancomycin",
+        "subject_name": "Microbiology",
+        "topic_name": "Bacterial Treatment",
+        "id": "bb431780-006c-445c-abbf-a9d9dc4d48cd",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A patient is kept on ceftriaxone and amikacin, ESBL Klebsiella infection is detected . What will you do next?",
+        "exp": "1. b-lactamase enzymes are capable of hydrolysing the b-lactam rings (the active site) of b-lactam antibiotics; thereby deactivating their antibacterial propeies. ESBL is a Class A b-lactamase enzyme. 2. ESBL (Extended spectrum beta lactamases) are resistant to all Penicillin and 1st/2nd/3rd cephalosporin and monobactam. 3. But do not affect cephamycins (e.g., cefoxitin and cefotetan) or carbapenems (e.g., meropenem or imipenem).",
+        "cop": 3,
+        "opa": "Continue with same antibiotic but in higher dose",
+        "opb": "Change ceftriaxone and add ceftazidime",
+        "opc": "Sta imipenem in place of ceftriaxone",
+        "opd": "Remove Amikacin",
+        "subject_name": "Microbiology",
+        "topic_name": "Bacterial Treatment",
+        "id": "6dc43da6-0271-4be2-a69f-6e9ec8a901e3",
+        "choice_type": "single"
+    }
+]

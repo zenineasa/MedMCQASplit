@@ -1,0 +1,93 @@
+[
+    {
+        "question": "Disability-adjusted life expectancy (DALE) has been replaced by:",
+        "exp": "The name of the indicator used to measure healthy life expectancy has been changed from disability-adjusted life expectancy (DALE) to health-adjusted life expectancy (HALE).",
+        "cop": 3,
+        "opa": "DALY",
+        "opb": "QALY",
+        "opc": "HALE",
+        "opd": "DFLE",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "PQLI, HDI, MDPI, BPL",
+        "id": "60bf553e-bac0-4b7d-9a31-afa61745a8d4",
+        "choice_type": "single"
+    },
+    {
+        "question": "Human Development Index (HDI) does not include:-",
+        "exp": "Human Development Index Have 3 dimensions: Literacy rate aka Knowledge/ Mean years of schooling / Education index/ Enrolment ratio. Income aka income per capita/ US $ PPP Life expectancy at bih aka LE0/ Longevity at bih.",
+        "cop": 2,
+        "opa": "Mean years of schooling",
+        "opb": "Life expectancy at age 1",
+        "opc": "Real GDP per capita",
+        "opd": "Life expectancy at bih",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "PQLI, HDI, MDPI, BPL",
+        "id": "b620d486-9e85-424f-98b5-e1433402456e",
+        "choice_type": "single"
+    },
+    {
+        "question": "All of the following components are measure in PQLI except:-",
+        "exp": "PQLI HDI Components Literacy Rate Infant Moality Rate Life Expectancy at 1 year of age Literacy rate /Knowledge /Mean year of schooling Income Life Expectancy at Bih Range 0 to 100 0 to +1 Value of India 65 0.647 ; medium development",
+        "cop": 3,
+        "opa": "Life expectancy at 1 year of age",
+        "opb": "Infant moality rate",
+        "opc": "Income (real GDP per capita)",
+        "opd": "Literacy rate",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "PQLI, HDI, MDPI, BPL",
+        "id": "7dc94cf4-9f52-4640-b0a5-066df6606d6c",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Millennium development goal targets to reduce MMR in 2015 by:-",
+        "exp": "- Target 6 of Goal-5 of MDG aims to reduce Maternal Moality ratio by 3/4th or 0.75. GOALS OF MDG: However, now 17 Sustainable Development Goals or SDGs have been introduced from 2016 - 2030.",
+        "cop": 2,
+        "opa": "0.25",
+        "opb": "0.75",
+        "opc": "0.5",
+        "opd": "1",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "PQLI, HDI, MDPI, BPL",
+        "id": "436c5d1b-ea53-408d-b37e-37755153df82",
+        "choice_type": "single"
+    },
+    {
+        "question": "Health indicator characteristics include all except:-",
+        "exp": "Characteristics of ideal health indicator : Validity: actually measures what it is supposed to measure Reliability: Reproducible results if measured by different persons Objectivity: Independent of subjects perception Sensitivity: Sensitive to change in situations Specificity: Reflect changes only in the situations concerned with that indicator Feasibility: Practical possibility of obtaining the necessary data Relevancy: Contribution to understanding the phenomenon of interest",
+        "cop": 3,
+        "opa": "Validity",
+        "opb": "Reliability",
+        "opc": "Affordability",
+        "opd": "Feasibility",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "PQLI, HDI, MDPI, BPL",
+        "id": "efe02b97-1a75-4d17-a19d-57b371d0a795",
+        "choice_type": "multi"
+    },
+    {
+        "question": "MDPI (Multi-dimensional povey index) has all of following indicator except:-",
+        "exp": "Multi-dimensional povey has 3 dimensions measured using 10 indicators; Dimensions Indicators Health Nutrition Child moality Education Years of schooling School attendance Standard of living Cooking fuel Sanitation (Toilets) Drinking water Electricity Housing (Floor) Assets",
+        "cop": 3,
+        "opa": "Health",
+        "opb": "Education",
+        "opc": "Income",
+        "opd": "Living standards",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "PQLI, HDI, MDPI, BPL",
+        "id": "58e4c747-92f9-48a6-984a-4d465c048645",
+        "choice_type": "multi"
+    },
+    {
+        "question": "In the calculation of Years of Potential Life Lost (YPLL), the denominator is-",
+        "exp": "Years of potential life lost (YPLL)/Potential years of life lost (PYLL) An estimate of the average years a person would have lived if he or she had not died prematurely. It is a measure of premature moality/death. Deaths occurring in individuals age 75 or older are NOT included in the calculation. For YPLL calculation, Numerator is years of potential life lost. denominator is the population under 75 years of age. - It is based on the years of life lost through premature death.",
+        "cop": 1,
+        "opa": "Population under 75 years of age",
+        "opb": "Midyear population",
+        "opc": "Population in the ages of 15 to 65 years",
+        "opd": "Population above 15 years of age",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "PQLI, HDI, MDPI, BPL",
+        "id": "d664a032-6045-4079-bd0c-f7e5d86d4722",
+        "choice_type": "multi"
+    }
+]

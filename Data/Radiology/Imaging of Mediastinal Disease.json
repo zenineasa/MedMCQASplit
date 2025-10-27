@@ -1,0 +1,28 @@
+[
+    {
+        "question": "A patient of RTA with injury over chest and limbs has low SpO2. M-mode ultrasound of right upper chest shows stratosphere sign. What is the diagnosis?",
+        "exp": "Ans. b. Pneumothorax (Ref http://en.wikipedia.org/wiki/Radiographic_findings_in eFAST)A patient of RTA with injury over chest and limbs has low SpO2, M-mode ultrasound of right upper chest shows stratosphere sign. Pneumothorax is the diagnosis.'Stratosphere sign is a clinical medical ultrasound finding usually in an eFAST examination that can prove presence of a pneumothorax. The sign is an imaging finding using a 3.5-7.5 MHz ultrasound probe in the 4th and 5th intercostal spaces in the anterior clavicular line using the M-Mode of the machine. This finding is seen in the M-mode tracing as pleura and lung being indistinguishable as linear hyperechogenic lines and is fairly reliable for diagnosis of a pneumothorax.'eFAST (Extended Focused Assessment with Sonography for Trauma)Radiographic findings in an eFAST allow an emergency physician or a surgeon the ability to decide whether a patient has pneumothorax, hemothorax, pleural effusion, mass/tumor, or a lodged foreign body.The exam allows for visualization of the echogenic tissue, ribs, and lung tissue.Few radiographic signs are important in any trauma and they include the stratosphere sign, the sliding or seashore sign, and the sinusoid sign.Stratosphere SignStratosphere sign is a clinical medical ultrasound finding usually in an eFAST examination that can prove presence of a pneumothorax. The sign is an imaging finding using a 3.5-7.5 MHz ultrasound probe in the 4th and 5th intercostal spaces in the anterior clavicular line using the M- Mode of the machine. This finding is seen in the M- mode tracing as pleura and lung being indistinguishable as linear hyperechogenic lines and is fairly reliable for diagnosis of a pneumothorax.Even though the stratospheric sign can be an indication of pneumothorax, its absence is not at all reliable to rule out pneumothorax, as definitive diagnosis usually requires X-ray or CT of thorax.",
+        "cop": 2,
+        "opa": "Hemothorax",
+        "opb": "Pneumothorax",
+        "opc": "Cardiac tamponade",
+        "opd": "Pulmonary embolism",
+        "subject_name": "Radiology",
+        "topic_name": "Imaging of Mediastinal Disease",
+        "id": "7f26099f-102e-4bea-a29c-da692db76647",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 3-day-old child presents with the below CXR. Diagnosis is:",
+        "exp": "Ans. (c) Congenital diaphragmatic hernia.Notice the loops of bowel in the chest X-ray.",
+        "cop": 3,
+        "opa": "Pneumothorax left side",
+        "opb": "Consolidation",
+        "opc": "Congenital diaphragmatic hernia",
+        "opd": "Congenital lobar emphysema",
+        "subject_name": "Radiology",
+        "topic_name": "Imaging of Mediastinal Disease",
+        "id": "6e6a095a-3b84-4461-aa0f-a17197955804",
+        "choice_type": "single"
+    }
+]

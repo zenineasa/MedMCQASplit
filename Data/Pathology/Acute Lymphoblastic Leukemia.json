@@ -1,0 +1,93 @@
+[
+    {
+        "question": "The presence of the Philadelphia chromosome is associated worse with a prognosis in patients with which of the following diseases?",
+        "exp": "The presence of the Philadelphia chromosome is associated worse with a prognosis in patients with Acute lymphoblastic leukemia",
+        "cop": 1,
+        "opa": "Acute lymphoblastic leukemia",
+        "opb": "Acute myelogenous leukemia",
+        "opc": "Chronic lymphocytic leukemia",
+        "opd": "Chronic myelogenous leukemia",
+        "subject_name": "Pathology",
+        "topic_name": "Acute Lymphoblastic Leukemia",
+        "id": "59c9ad26-febd-4a9c-9734-c2167ed15750",
+        "choice_type": "single"
+    },
+    {
+        "question": "Acid phosphastase cytochemical staining is used in the diagnosis of which of the following hematological neoplasms?",
+        "exp": "Cytochemically demonstrable acid phosphatase has main diagnostic use is in the diagnosis of T-cell ALL and hairy cell leukaemia. In T cells, acid phosphatase is an early differentiation feature. Almost all acute and chronic T-lineage leukaemias show strong activity. In T-lineage ALL, the activity is usually highly localised (polar).",
+        "cop": 4,
+        "opa": "Chronic myeloid leukemia",
+        "opb": "Acute myeloid leukemia",
+        "opc": "B-cell acute lymphoblastic leukemia",
+        "opd": "T-cell acute lymphoblastic leukemia",
+        "subject_name": "Pathology",
+        "topic_name": "Acute Lymphoblastic Leukemia",
+        "id": "7ce83032-6377-4187-9878-c537cdd95183",
+        "choice_type": "single"
+    },
+    {
+        "question": "All of the following are good prognostic factors for pediatric acute lymphoblastic leukemia, except:",
+        "exp": "Favorable prognostic markers include Age between 1 and 10 years, A low white cell count at diagnosis, Hyperdiploidy, Trisomy of chromosomes 4, 7, and 10, and the presence of a t(12;21). Several factors are associated with a worse prognosis: Infancy, older age at diagnosis (presentation in adolescence or adulthood) Translocations involving the MLL gene Higher WBC count at diagnosis (peripheral blood blast counts greater than 100,000/cumm) Presence of CNS disease at diagnosis Hypodiploidy",
+        "cop": 1,
+        "opa": "CNS disease at diagnosis",
+        "opb": "Initial WBC count of 50000/cumm",
+        "opc": "Hyperdiploidy",
+        "opd": "t(12;21)",
+        "subject_name": "Pathology",
+        "topic_name": "Acute Lymphoblastic Leukemia",
+        "id": "ff101ad2-f635-4340-9e02-db5c897cb481",
+        "choice_type": "multi"
+    },
+    {
+        "question": "How will you differentiate a mediastinal mass being a thymoma or ALL?",
+        "exp": "Marker specific for thymoma is Cytokeratin Other markers for thymoma include : P 63, PAXp-8 . Most sensitive and specific marker for thymoma is FOXN 1 Markers common for both thymoma and T-ALL include: CD1a CD3 TDt Marker specific for thymoma is Cytokeratin Other markers for thymoma include : P 63, PAXp-8 . Most sensitive and specific marker for thymoma is FOXN 1 FOXN1 > >CD 205",
+        "cop": 1,
+        "opa": "Cytokeratin",
+        "opb": "CD1a",
+        "opc": "Cd3",
+        "opd": "Tdt",
+        "subject_name": "Pathology",
+        "topic_name": "Acute Lymphoblastic Leukemia",
+        "id": "05d951e6-48e2-4e75-9ed5-b7e7a7734621",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Which of the following is not expressed in majority of cases of pediatric B-cell acute lymphoblastic leukemia?",
+        "exp": "CD19 is a pan B-cell marker. CALLA (common acute lymphoblastic leukemia antigen) is CD 10. CD45 is known as leukocyte common antigen (LCA). Terminal deoxynucleotidyl transferase (TdT), a specialized DNA polymerase that is expressed only in pre-B and pre-T lymphoblasts, is positive in more than 95% of cases. CD7 is commonly expressed in T-cell ALL.",
+        "cop": 4,
+        "opa": "Terminal deoxynucleotidyl transferase (TdT)",
+        "opb": "CD19",
+        "opc": "CD10",
+        "opd": "CD7",
+        "subject_name": "Pathology",
+        "topic_name": "Acute Lymphoblastic Leukemia",
+        "id": "44260a72-1fd0-45cf-9516-3237fc2ead0d",
+        "choice_type": "single"
+    },
+    {
+        "question": "17-year-old boy presented with complain of petechiae. O/E ,sternal tenderness is present. BM biopsy show hypercellularity and more than 20% Lymphoblast. Peripheral smear show ||| TLC and presence of lymphoblast . On X ray. retrosternal mass is seen. All are true about condition patient is suffering except?",
+        "exp": "Above patient is most likely suffering from T-cell ALL. Points in our of above diagnosis: Peak at pubey Retrosternal mass More than 20% Lymphoblast( Tdt +, PAS +) in BM ||| TLC Lymphoblast present in blood Less common than B cell ALL Thymus ++ Notch gene mutation Gain of function Poor prognosis CD1/2/5/7 positive Immunophenotyping of immature T-cell phenotype : Tdt/CD34/CD7 positive",
+        "cop": 1,
+        "opa": "It has good prognosis",
+        "opb": "Notch gene mutation present",
+        "opc": "An immature T-cell phenotype (Tdt/CD34/CD7 positive)",
+        "opd": "Thymic involvement is seen",
+        "subject_name": "Pathology",
+        "topic_name": "Acute Lymphoblastic Leukemia",
+        "id": "66aff348-070c-4e54-9ca6-c0c398c4c438",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A young boy came with dyspnea and was found to have a mediastinal mass. Which of the following is known to produce mediastinal lymphadenopathy?",
+        "exp": "mediastinal lymphadenopathy ,sternal tenderness and mediastinal mass are seen with ALL.",
+        "cop": 4,
+        "opa": "Diffuse large B cell Lymphoma",
+        "opb": "B cell rich T cell lymphoma",
+        "opc": "Mediastinal rich B cell lymphoma",
+        "opd": "T cell Lymphoblastic ALL",
+        "subject_name": "Pathology",
+        "topic_name": "Acute Lymphoblastic Leukemia",
+        "id": "e347704c-605b-4aa7-a308-9251d308d188",
+        "choice_type": "multi"
+    }
+]

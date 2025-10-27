@@ -1,0 +1,41 @@
+[
+    {
+        "question": "Dye used in SPECT -",
+        "exp": "Ans. is 'b' i.e., Tc - 99 o The radioisotopes typically used in SPECT to label tracers are Iodine - 123, technetium - 99m, xenon -133, thallium - 201, and fluorine - 18.",
+        "cop": 2,
+        "opa": "0-14",
+        "opb": "Tc - 99",
+        "opc": "Nitrogen - 16",
+        "opd": "Iodine 124",
+        "subject_name": "Radiology",
+        "topic_name": "Positron Emission Tomography of Non-Oncological Disorders",
+        "id": "56a80513-830f-4347-b16a-7190b4cbbf27",
+        "choice_type": "single"
+    },
+    {
+        "question": "PET Scan isotope is:",
+        "exp": "Ans. (b) 18-fluoro-deoxyglucoseRef: Harrison 19th ed. / 102e-l2* Radionuclides used in PET scanning are typically isotopes with short half-lives such as carbon-11 (~20 min), nitrogen-13 (--10 min), oxygen-15 (-2 min), fluorine-18 (-110 min), or rubidium-82(~1.27 min).* These radionuclides are incorporated either into compounds normally used by the body such as glucose (or glucose analogues), water, or ammonia, or into molecules that bind to receptors or other sites of drug action. Such labelled compounds are known as radiotracer.* At present, however, by far the most commonly used radiotracer in clinical PET scanning is fluorodeoxy- glucose (also called FDG or fludeoxy-glucose), an analogue of glucose that is labeled with fluorine-18.* This radiotracer is used in essentially all scans for oncology and most scans in neurology, and thus makes up the large majority of all of the radiotracer (> 95%) used in PET and PET/CT scanning.",
+        "cop": 2,
+        "opa": "Phosphorus-32",
+        "opb": "18-fluoro-deoxyglucose",
+        "opc": "Iridium-77",
+        "opd": "Radium-226",
+        "subject_name": "Radiology",
+        "topic_name": "Positron Emission Tomography of Non-Oncological Disorders",
+        "id": "0414d102-c2e1-4f54-849a-10bf4373712e",
+        "choice_type": "single"
+    },
+    {
+        "question": "PET scan uses which tracer material?",
+        "exp": "ANSWER: (A) FDGREF: Sutton's Radiology, 7th edition, page 1826\"Currently the mainstay of clinical PET is deoxyglucose labelled with fluorine-18 (5FDG)\"",
+        "cop": 1,
+        "opa": "FDG",
+        "opb": "CDF",
+        "opc": "ADP",
+        "opd": "MIBG",
+        "subject_name": "Radiology",
+        "topic_name": "Positron Emission Tomography of Non-Oncological Disorders",
+        "id": "7b3455cb-472f-431c-8dcd-10d176aa01f4",
+        "choice_type": "single"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "question": "What is the most common complication of malaria in children",
+        "exp": "Most common serious complication of malaria is severe anemia.",
+        "cop": 3,
+        "opa": "Cerebral malaria",
+        "opb": "Respiratory distress",
+        "opc": "Severe malarial anemia",
+        "opd": "Hypogylcemia",
+        "subject_name": "Pediatrics",
+        "topic_name": "Impoant Parasitic Infections in Children",
+        "id": "7ef6644e-32c1-4733-850d-0193232833fe",
+        "choice_type": "single"
+    },
+    {
+        "question": "A child from West Bengal presents with fever & unconsciousness for 1 day and pallor with no focal neurodeficit. What is the most probable diagnosis?",
+        "exp": "Cerebral malaria due to Plasmodium falciparum: Acute onset of fever, anemia with altered sensorium in an endemic area suggests cerebral malaria Viral encephalitis- fever, vomiting, diarrhea, seizures, behavioral changes, drowsiness, and coma Pyomeningitis- Fever, headache, stiff neck Tubercular meningitis-Fever, headache, stiff neck, neurological deficit",
+        "cop": 1,
+        "opa": "Cerebral malaria",
+        "opb": "Viral encephalitis",
+        "opc": "Pyomeningitis",
+        "opd": "Tubercular meningitis",
+        "subject_name": "Pediatrics",
+        "topic_name": "Impoant Parasitic Infections in Children",
+        "id": "139b8bb3-7fb7-4f59-9cc8-cf0e7bd009f2",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A 5-year-old girlcame to the Emergency Dept. in evening with the complaint of sudden onset of \"difficulty in breathing\" and fever,pruritus.She has no past history of lung infection, no recent travel history. She have an history of pica. Little kid is worried about his puppy at home during his hospital stay. On Examination wheezing and hepatomegaly is present. On Peripheral smear, marked eosinophilia,leucocytosis is seen. Best test that helps in diagnosis?",
+        "exp": "Above clinical history suggestive of Visceral larva migrans of Toxocara canis. Clinical features:- Fever, cough, wheezing, bronchopneumonia, anemia, hepatomegaly, leukocytosis, eosinophilia, pruritus, eczema, and uicaria. Investigation:- ELISA is used to confirm diagnosis Treatment:- Albendazole(400 mg orally twice daily for 5 days)",
+        "cop": 2,
+        "opa": "Tuberculin skin test",
+        "opb": "ELISA for Toxocara",
+        "opc": "Histoplasmin test",
+        "opd": "Silver stain of gastric aspirate",
+        "subject_name": "Pediatrics",
+        "topic_name": "Impoant Parasitic Infections in Children",
+        "id": "40a4641d-7bfe-4e01-b3f2-15b8a62085b4",
+        "choice_type": "single"
+    }
+]

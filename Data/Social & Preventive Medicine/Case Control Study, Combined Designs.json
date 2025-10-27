@@ -1,0 +1,54 @@
+[
+    {
+        "question": "Strength of association is given by",
+        "exp": "Strength of association is given by Odds ratio or Cross product ratio in a Case control study. Odds ratio = ad/bc OR > 1 - Positive association, OR=1 - No association, OR < 1 - Inverse/ negative association. Chi-square test or t-test can only tell whether an association is statistically significant based on p-value, but doesn't give the magnitude of strength of association.",
+        "cop": 4,
+        "opa": "p-value",
+        "opb": "Coefficient of regression",
+        "opc": "Alpha value",
+        "opd": "Odds ratio",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Case Control Study, Combined Designs",
+        "id": "5e31ebbb-c2ff-48bc-9ce0-082caf33e866",
+        "choice_type": "single"
+    },
+    {
+        "question": "If we do another study for 10-20 years in forward direction after retrospective coho study, it now is known as:-",
+        "exp": "Mixed Coho Studies Combination of Retrospective Coho study + Prospective coho study The coho is identified from past records and is assessed till date for the outcome. (Retrospective coho) The same coho is followed up prospectively into future for fuher assessment of outcome. (Prospective coho)",
+        "cop": 1,
+        "opa": "Mixed Coho study",
+        "opb": "Retrospective coho study",
+        "opc": "Nested case control study",
+        "opd": "Mixed case control study",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Case Control Study, Combined Designs",
+        "id": "cd953eb6-a8e2-44c4-ac5b-d1ce52fc126d",
+        "choice_type": "single"
+    },
+    {
+        "question": "As compared to a routine case control study, Nested case control study avoids problems related to-",
+        "exp": "In Nested case control studies, the exposure has been either measured before the study itself or the samples have been collected, so that the findings cannot change due to any bias. Confounding bias is not reduced by Nested case control study. Since a nested case control study is pa of a coho study, it actually takes more time. Randomization is not involved in nested case control study. In a Nested case control study, interviews are performed at the beginning of the study (at baseline) and data are obtained before the disease has developed, thereby eliminating the problem of Recall bias.",
+        "cop": 1,
+        "opa": "Temporal association",
+        "opb": "Confounding bias",
+        "opc": "Need for long follow up",
+        "opd": "Randomization",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Case Control Study, Combined Designs",
+        "id": "a26d00e2-5959-4893-bc1a-e28ccb94bc7c",
+        "choice_type": "single"
+    },
+    {
+        "question": "A study is looking at breast cancer of women compared cases with non-cases, and found that 75/100 cases used calcium supplements compared with 25/100 of the non-cases. Calculate Cross product ratio",
+        "exp": "Odds ratio = ad/bc Breast cancer cases Non-cases Used Ca supplements 75 (a) 25 (b) Did not use Ca supplements 25 (c) 75 (d) 100 100 Odds ratio = ad/bc = 75*75/25*25 = 9",
+        "cop": 1,
+        "opa": "9",
+        "opb": "6",
+        "opc": "3",
+        "opd": "12",
+        "subject_name": "Social & Preventive Medicine",
+        "topic_name": "Case Control Study, Combined Designs",
+        "id": "f5a55dad-9c8f-4258-9946-431f3a9e5800",
+        "choice_type": "single"
+    }
+]
