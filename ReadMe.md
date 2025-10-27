@@ -1,6 +1,6 @@
 # MedMCQA -- Split
 
-This project contains MedMCQA databaset which I originally obtained from [github.com/MedMCQA/MedMCQA](https://github.com/MedMCQA/MedMCQA). The original data has been extracted into several files and stored in a folder hierarchy that is in accordance with the subject and topic names mentioned in the original dataset.
+This project contains MedMCQA databaset which I originally obtained from [github.com/MedMCQA/MedMCQA](https://github.com/MedMCQA/MedMCQA). The original data has been extracted into several files and stored in a folder hierarchy that is in accordance with the subject and topic names mentioned in the original dataset. It should also be noted that not all the contents from the original database may be available here.
 
 If you use this dataset or paper in your research, please cite the original authors using the following bibtex code:
 
