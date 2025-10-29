@@ -1,7 +1,7 @@
 [
     {
-        "question": "Which of the following gene is constitutively expressed in E.coli?",
-        "exp": "Genes can be broadly divided into types based on their expression pattern: Constitutively expressed genes Regulated genes House-keeping genes Inducible/repressible Transcribed at a constant level Transcribed depending upon the environmental conditions Eg : Glycolytic enzymes Ribosomal RNA and proteins Eg : UDP-glucuronosyl transferase Lac I gene is constitutively regulated. Lac Z, Lac Y and Lac A genes are regulated by induction/repression.",
+        "question": "Which of the following gene is constitutively expressed in E. coli?",
+        "exp": "Genes can be broadly divided into types based on their expression pattern: Constitutively expressed genes Regulated genes House-keeping genes Inducible/repressible Transcribed at a constant level Transcribed depending upon the environmental conditions Eg: Glycolytic enzymes Ribosomal RNA and proteins Eg: UDP-glucuronosyl transferase Lac I gene is constitutively regulated. Lac Z, Lac Y and Lac A genes are regulated by induction/repression.",
         "cop": 2,
         "opa": "Lac A",
         "opb": "Lac I",
@@ -53,7 +53,7 @@
     },
     {
         "question": "Most lethal karyotype is?",
-        "exp": "Most lethal karyotype is 45,YO Monosomy is more dangerous than trisomy. Turner Syndrome(X0) is only monosomy compatible with life. 45,YO karotype is fetal in utero and not compatible with life Monosomy In Autosomes In Sex Chromosome Not found Lethal Turner Syndrome (XO) Viable",
+        "exp": "Most lethal karyotype is 45, YO Monosomy is more dangerous than trisomy. Turner Syndrome(X0) is only monosomy compatible with life. 45, YO karotype is fetal in utero and not compatible with life Monosomy In Autosomes In Sex Chromosome Not found Lethal Turner Syndrome (XO) Viable",
         "cop": 1,
         "opa": "45, YO",
         "opb": "45, XO",
@@ -78,13 +78,13 @@
         "choice_type": "multi"
     },
     {
-        "question": "All of the following are ways of regulation of gene expression in eukaryotes, except :",
-        "exp": "Regulation of gene expression in eukaryotes. Unlike prokaryotes, transcription and translation are temporally and spatially separated in eukaryotes. This allows more points of regulation : Gene amplification Gene rearrangement Differential RNA processing Transpo of mRNA from nucleus to cytoplasm Regulation of mRNA stability Regulation at translation level Regulation by miRNA Attenuation by operon is seen in prokaryotes, not in eukaryotes",
+        "question": "All of the following are ways of regulation of gene expression in eukaryotes, except:",
+        "exp": "Regulation of gene expression in eukaryotes. Unlike prokaryotes, transcription and translation are temporally and spatially separated in eukaryotes. This allows more points of regulation: Gene amplification Gene rearrangement Differential RNA processing Transpo of m. RNA from nucleus to cytoplasm Regulation of m. RNA stability Regulation at translation level Regulation by mi. RNA Attenuation by operon is seen in prokaryotes, not in eukaryotes",
         "cop": 1,
         "opa": "Attenuation by operon",
         "opb": "Gene amplification",
         "opc": "Gene rearrangement",
-        "opd": "Regulation of mRNA stability",
+        "opd": "Regulation of m. RNA stability",
         "subject_name": "Biochemistry",
         "topic_name": "Basics of genetics",
         "id": "d9ef1e59-75b0-44a7-900e-e0581644f10b",
@@ -92,7 +92,7 @@
     },
     {
         "question": "The ZYA region of the lac operon will be maximally expressed if:",
-        "exp": "When the cAMP levels are low- there is no binding of CAP to CAP site. | No ourable interaction for RNA polymerase. | Lac operon is not expressed. - option a is excluded. When glucose is available, Lac operon is not expressed Attenuation is seen in tryptophan operon, not Lac operon For optimal expression of lac operon, The CAP site should be occupied the operator site should be free of repressor.",
+        "exp": "When the c. AMP levels are low- there is no binding of CAP to CAP site. | No ourable interaction for RNA polymerase. | Lac operon is not expressed. - option a is excluded. When glucose is available, Lac operon is not expressed Attenuation is seen in tryptophan operon, not Lac operon For optimal expression of lac operon, The CAP site should be occupied the operator site should be free of repressor.",
         "cop": 4,
         "opa": "Cyclic AMP levels are low",
         "opb": "Glucose and lactose are both available",
@@ -105,7 +105,7 @@
     },
     {
         "question": "The number of base pairs in human diploid genome are:",
-        "exp": "Genome Base pairs Haploid 3 billion Diploid 3 x 2 = 6 billion Value based one liners Average size of a gene 27,000 bp Protein coding genes 19000 to 20000 only Percentage of exons 1-2 % of human genome Percentage of Adenine in human genome 54 % (most abundant base) Longest/ largest gene DMD gene, codes for muscle protein Dystrophin Largest protein Titin Most abundant proteins in mammals Collagen Number of proteins in human body > 2.5 lakh Number of SNPs in human genome 3 million Maximum number of genes are present for Olfactory receptors",
+        "exp": "Genome Base pairs Haploid 3 billion Diploid 3 x 2 = 6 billion Value based one liners Average size of a gene 27, 000 bp Protein coding genes 19000 to 20000 only Percentage of exons 1-2 % of human genome Percentage of Adenine in human genome 54 % (most abundant base) Longest/ largest gene DMD gene, codes for muscle protein Dystrophin Largest protein Titin Most abundant proteins in mammals Collagen Number of proteins in human body > 2. 5 lakh Number of SNPs in human genome 3 million Maximum number of genes are present for Olfactory receptors",
         "cop": 4,
         "opa": "2 billion base pairs (bp)",
         "opb": "3 billion base pairs (bp)",

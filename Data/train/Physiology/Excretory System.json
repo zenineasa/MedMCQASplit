@@ -1,7 +1,7 @@
 [
     {
         "question": "In the presence of vasopressin, the greatest fraction of filtered water is absorbed in:",
-        "exp": "Water absorption in different segment of nephron Segment % absorption Through Proximal tubule 60-70% AQP 1 Descending loop of Henle 15% AQP 1 Ascending LOH (Diluting segment) Impermeable to water Distal Tubule Relatively impermeable to water (~5% in ADH presence in late DT) Collecting Duct 1. Coical 2. Medullary In absence of ADH, CD is relatively impermeable to water (~2%) 10% (in presence of ADH) ~5% (in presence of ADH) AQP 2 on ocal and AQP 3,4 on basolatreral membrane ADH dependent absorption is 20% only, even in presence of ADH maximum absorption is occurring from PCT Obligatory water absorption Facultative water absorption Approx, 80% (65% in PCT, 15% in loop of henle) Approx, 20% (from collecting duct and late distal tubule) Water is obligated to follow solutes, irrespective of blood osmolality Depends on blood osmolality Independent of ADH Depends on ADH",
+        "exp": "Water absorption in different segment of nephron Segment % absorption Through Proximal tubule 60-70% AQP 1 Descending loop of Henle 15% AQP 1 Ascending LOH (Diluting segment) Impermeable to water Distal Tubule Relatively impermeable to water (~5% in ADH presence in late DT) Collecting Duct 1. Coical 2. Medullary In absence of ADH, CD is relatively impermeable to water (~2%) 10% (in presence of ADH) ~5% (in presence of ADH) AQP 2 on ocal and AQP 3, 4 on basolatreral membrane ADH dependent absorption is 20% only, even in presence of ADH maximum absorption is occurring from PCT Obligatory water absorption Facultative water absorption Approx, 80% (65% in PCT, 15% in loop of henle) Approx, 20% (from collecting duct and late distal tubule) Water is obligated to follow solutes, irrespective of blood osmolality Depends on blood osmolality Independent of ADH Depends on ADH",
         "cop": 1,
         "opa": "Proximal tubule",
         "opb": "Loop of Henle",
@@ -13,13 +13,13 @@
         "choice_type": "single"
     },
     {
-        "question": "If a patient has a creatinine clearance of 90 ml/min, a urine flow rate of 1 ml/min, a plasma K+ concentration of 4 mEq/L, and a urine K+ concentration of 60 mEq/L, what is the approximate rate of K+ excretion?",
-        "exp": "K+ excretion rate = (urine K+ concentration) x (urine flow rate) = (60 mEq/L) x (0.001 L/min) = 0.06 mEq/ min.",
+        "question": "If a patient has a creatinine clearance of 90 ml/min, a urine flow rate of 1 ml/min, a plasma K+ concentration of 4 m. Eq/L, and a urine K+ concentration of 60 m. Eq/L, what is the approximate rate of K+ excretion?",
+        "exp": "K+ excretion rate = (urine K+ concentration) x (urine flow rate) = (60 m. Eq/L) x (0. 001 L/min) = 0. 06 m. Eq/ min.",
         "cop": 1,
-        "opa": "0.06 mEq/min",
-        "opb": "0.30 mEq/min",
-        "opc": "0.36 mEq/min",
-        "opd": "3.6 mEq/min",
+        "opa": "0. 06 m. Eq/min",
+        "opb": "0. 30 m. Eq/min",
+        "opc": "0. 36 m. Eq/min",
+        "opd": "3. 6 m. Eq/min",
         "subject_name": "Physiology",
         "topic_name": "Excretory System",
         "id": "cf1742e6-71c9-4094-adae-b5941ecbf5d5",
@@ -39,13 +39,13 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient's urine is collected for 2 hours, and the total volume is 600 milliliters during this time. Her urine osmolarity is 150 mOsm/L, and her plasma osmolarity is 300 mOsm/L. What is her \"free water clearance\"?",
-        "exp": "Free water clearance is calculated as: urine flow rate (600 ml/2 h, or 5 ml/min) - osmolar clearance (urine osmolarity x urine flow rate/plasma osmolarity). Therefore, free water clearance is equal to +2.5 ml/min.",
+        "question": "A patient's urine is collected for 2 hours, and the total volume is 600 milliliters during this time. Her urine osmolarity is 150 m. Osm/L, and her plasma osmolarity is 300 m. Osm/L. What is her \"free water clearance\"?",
+        "exp": "Free water clearance is calculated as: urine flow rate (600 ml/2 h, or 5 ml/min) - osmolar clearance (urine osmolarity x urine flow rate/plasma osmolarity). Therefore, free water clearance is equal to +2. 5 ml/min.",
         "cop": 2,
-        "opa": "+5.0 ml/min",
-        "opb": "+2.5 ml/min",
-        "opc": "0.0 ml/min",
-        "opd": "-2.5 ml/min",
+        "opa": "+5. 0 ml/min",
+        "opb": "+2. 5 ml/min",
+        "opc": "0. 0 ml/min",
+        "opd": "-2. 5 ml/min",
         "subject_name": "Physiology",
         "topic_name": "Excretory System",
         "id": "639e976e-0b6b-45a2-8d30-007a1e08c4e2",

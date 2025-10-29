@@ -1,23 +1,23 @@
 [
     {
         "question": "BAO/ MAO ratio > ______ is suggestive of diagnosis of ZES?",
-        "exp": "IOC: SECRETIN study Localization - EUS > MRI Risk of Refractory P.U.D + Secretory diarrhea. MC site ZES is D2- Duodenal wall (D2 pa)>Pancreas Usual Location is Gastrinoma triangle",
+        "exp": "IOC: SECRETIN study Localization - EUS > MRI Risk of Refractory P. U. D + Secretory diarrhea. MC site ZES is D2- Duodenal wall (D2 pa)>Pancreas Usual Location is Gastrinoma triangle",
         "cop": 3,
-        "opa": "0.1",
-        "opb": "0.3",
-        "opc": "0.6",
-        "opd": "0.9",
+        "opa": "0. 1",
+        "opb": "0. 3",
+        "opc": "0. 6",
+        "opd": "0. 9",
         "subject_name": "Medicine",
         "topic_name": "Zollinger Ellision Syndrome",
         "id": "007865b2-d04d-45b8-88ad-8738e51d793a",
         "choice_type": "single"
     },
     {
-        "question": "Increased gastrin is seen in :",
+        "question": "Increased gastrin is seen in:",
         "exp": "Most sensitive & specific method for identifying Zollinger Ellison syndrome is demonstration of an increased fasting serum gastrin concentration (> 150 pg/mL)",
         "cop": 1,
         "opa": "Zollinger -Ellison syndrome",
-        "opb": "Iron deficiency anaemia",
+        "opb": "Iron deficiency anemia",
         "opc": "Duodenal ulcer",
         "opd": "Gastric cancer",
         "subject_name": "Medicine",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Pseudoachalasia is seen with all except?",
-        "exp": "Causes of pseudo-achalasia 1. Tumor infiltration, most commonly seen with carcinoma in the gastric fundus or distal esophagus can mimic idiopathic achalasia. 2. Rarely, pseudo achalasia can result from a paraneoplastic syndrome with circulating antineuronal antibodies * Pseudoachalasia presents at young age, abrupt onset of symptoms (year), and weight loss. Hence, endoscopy should be pa of the evaluation of achalasia. * When the clinical suspicion for pseudoachalasia is high and endoscopy nondiagnostic, CT scanning or endoscopic ultrasonography may be of value. * Since barium swallow may not be able to differentiate achalasia from pseudoachalasia, (MRI and CT scan must be done for determining the cause as well as for staging. Radiographically, a \"corkscrew esophagus,\" rosary bead esophagus,\" is indicative of diffuse esophageal spasm.",
+        "exp": "Causes of pseudo-achalasia 1. Tumor infiltration, most commonly seen with carcinoma in the gastric fundus or distal esophagus can mimic idiopathic achalasia. 2. Rarely, pseudo achalasia can result from a paraneoplastic syndrome with circulating antineuronal antibodies * Pseudoachalasia presents at young age, abrupt onset of symptoms (year), and weight loss. Hence, endoscopy should be pa of the evaluation of achalasia. * When the clinical suspicion for pseudoachalasia is high and endoscopy nondiagnostic, CT scanning or endoscopic ultrasonography may be of value. * Since barium swallow may not be able to differentiate achalasia from pseudoachalasia, (MRI and CT scan must be done for determining the cause as well as for staging. Radiographically, a \"corkscrew esophagus, \" rosary bead esophagus, \" is indicative of diffuse esophageal spasm.",
         "cop": 4,
         "opa": "Esophageal tumor",
         "opb": "Paraneoplastic",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Refractory gastric ulcer is defined as.",
-        "exp": "Refractory gastric ulcer - Fails to heal by 3 month of regular proper dose PPI (Reason could be - Zollinger Ellison syndrome) Refractory Duodenal Ulcer : > 8 weeks with regular PPI Treatment Refractory Gastric Ulcer : > 12 weeks",
+        "exp": "Refractory gastric ulcer - Fails to heal by 3 month of regular proper dose PPI (Reason could be - Zollinger Ellison syndrome) Refractory Duodenal Ulcer: > 8 weeks with regular PPI Treatment Refractory Gastric Ulcer: > 12 weeks",
         "cop": 3,
         "opa": "Ulcer that fails to heal despite 4 weeks of regular proper dose PPI",
         "opb": "Ulcer that fails to heal despite 8 weeks of regular proper dose PPI",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Not a feature of ZES?",
-        "exp": "Feature of ZES. Diarrhea non- responsive to fasting (secretory diarrhea) Epigastric pain 2nd pa of Duodenum, Multiple duodenum ulcer (Not present in stomach) Secretin study in the IOC - BAO/MAO = 0.6",
+        "exp": "Feature of ZES. Diarrhea non- responsive to fasting (secretory diarrhea) Epigastric pain 2nd pa of Duodenum, Multiple duodenum ulcer (Not present in stomach) Secretin study in the IOC - BAO/MAO = 0. 6",
         "cop": 3,
         "opa": "Diarrhea non-responsive to fasting",
         "opb": "Epigastric pain",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Which one of the following is best for localization of zollinger ellison syndrome?",
-        "exp": "Endoscopic ultrasound permits imaging of ZES with high degree of resolution (<5mm). This modality rules out small neoplasms in pancreas. Imaging modalities : EUS>octreoscan>MRI>USG The secretin provocative test is usually positive, with the criterion of a >120-pg/mL increase over the basal level having the highest sensitivity (94%) and specificity (100%).",
+        "exp": "Endoscopic ultrasound permits imaging of ZES with high degree of resolution (<5mm). This modality rules out small neoplasms in pancreas. Imaging modalities: EUS>octreoscan>MRI>USG The secretin provocative test is usually positive, with the criterion of a >120-pg/mL increase over the basal level having the highest sensitivity (94%) and specificity (100%).",
         "cop": 1,
         "opa": "EUS (endoscopic ultrasound)",
         "opb": "Secretin injection test",

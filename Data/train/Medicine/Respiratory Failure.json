@@ -13,7 +13,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "On an ABG, pH of 7.2, pO2 of 46, pCO2 of 80 are indicative of:",
+        "question": "On an ABG, pH of 7. 2, p. O2 of 46, p. CO2 of 80 are indicative of:",
         "exp": "ABG shows severe hypoxia with hypercarbia with acidosis suggestive of type 2 respiratory failure. ARDS and acute asthma both have Type 1 Respiratory Failure and are ruled out. So we have to select between options A and C. Interstitial Pneumonitis on routine presentation will not have such low oxygen values but an acute exacerbation of chronic bronchitis will definitely present with low oxygen values.",
         "cop": 1,
         "opa": "Acute exacerbation of COPD",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Which is the best treatment for type IV respiratory failure?",
-        "exp": "Type IV respiratory failure occurs due to hypo-perfusion of respiratory muscles in patients with shock. Normally respiratory muscles consume <5% of total cardiac output and oxygen delivery. Patients in shock may have as much as 40% of cardiac output distributed to respiratory muscles. Intubation and ventilator-assisted breathing will allow re-distribution of cardiac output Non-invasive ventilation with tight-fitting face mask is used in the management of Type 2 Respiratory failure e.g. in cases of exacerbations of COPD.",
+        "exp": "Type IV respiratory failure occurs due to hypo-perfusion of respiratory muscles in patients with shock. Normally respiratory muscles consume <5% of total cardiac output and oxygen delivery. Patients in shock may have as much as 40% of cardiac output distributed to respiratory muscles. Intubation and ventilator-assisted breathing will allow re-distribution of cardiac output Non-invasive ventilation with tight-fitting face mask is used in the management of Type 2 Respiratory failure e. g. in cases of exacerbations of COPD.",
         "cop": 2,
         "opa": "Non-invasive ventilation with tight-fitting face mask",
         "opb": "Intubation with mechanical ventilation",
@@ -65,8 +65,8 @@
         "choice_type": "single"
     },
     {
-        "question": "pH = 7.30, pCO2 = 38, HCO3 = 18 signifies:",
-        "exp": "* Since pH is less, and HCO3 is less it implies metabolic acidosis. * Now for compensation pCO2= HCO3+15 = 18 + 15 = 33. * The value predicted is not matching with given pCO2 of 38 mm Hg. * It implies compensation is not there and it is a Mixed disorder * Conclusion metabolic acidosis with respiratory acidosis",
+        "question": "pH = 7. 30, p. CO2 = 38, HCO3 = 18 signifies:",
+        "exp": "* Since pH is less, and HCO3 is less it implies metabolic acidosis. * Now for compensation p. CO2= HCO3+15 = 18 + 15 = 33. * The value predicted is not matching with given p. CO2 of 38 mm Hg. * It implies compensation is not there and it is a Mixed disorder * Conclusion metabolic acidosis with respiratory acidosis",
         "cop": 4,
         "opa": "Metabolic acidosis with compensatory respiratory alkalosis",
         "opb": "Respiratory acidosis with compensatory metabolic alkalosis",
@@ -105,12 +105,12 @@
     },
     {
         "question": "In type II respiratory failure there is:",
-        "exp": "Type I respiratory failure Type II respiratory failure Low pO2 Low pO2 Normal or low pCO2 High pCO2 A-a gradient is increased A-a gradient is normal because Hypoventilation leads to reduction of both pAO2 and paO2",
+        "exp": "Type I respiratory failure Type II respiratory failure Low p. O2 Low p. O2 Normal or low p. CO2 High p. CO2 A-a gradient is increased A-a gradient is normal because Hypoventilation leads to reduction of both p. AO2 and pa. O2",
         "cop": 2,
-        "opa": "Low pO2 and Low pCO2",
-        "opb": "Low pO2 and High pCO2",
-        "opc": "Normal pO2 and High pCO2",
-        "opd": "Low pO2 and Normal pCO2",
+        "opa": "Low p. O2 and Low p. CO2",
+        "opb": "Low p. O2 and High p. CO2",
+        "opc": "Normal p. O2 and High p. CO2",
+        "opd": "Low p. O2 and Normal p. CO2",
         "subject_name": "Medicine",
         "topic_name": "Respiratory Failure",
         "id": "f5875019-c70c-49ce-9163-b15282fd43b8",
@@ -118,7 +118,7 @@
     },
     {
         "question": "Apnea- hypopnea index > ______ is used for diagnosis of OSAHS in absence of symptoms?",
-        "exp": "OSAHS is defined on the basis of nocturnal and daytime symptoms as well as sleep study findings. Diagnosis requires the patient to have (1) either symptoms of nocturnal breathing disturbances (snoring, snoing, gasping, or breathing pauses during sleep) or daytime sleepiness or fatigue that occurs despite sufficient oppounities to sleep and is unexplained by other medical problems; and (2) five or more episodes of obstructive apnea or hypopnea per hour of sleep (the apnea-hypopnea index , calculated as the number of episodes divided by the number of hours of sleep) documented during a sleep study. OSAHS also may be diagnosed in the absence of symptoms if the AHI is >15 episodes/h. Each episode of apnea or hypopnea represents a reduction in breathing for at least 10 s and commonly results in a >=3% drop inoxygensaturation and/or a brain coical arousal. OSAHS severity is based on the frequency of breathing disturbances (AHI), the amount of oxyhemoglobin desaturation with respiratory events, the duration of apneas and hypopneas, the degree of sleep fragmentation, and the level of daytime sleepiness or functional impairment. Obstructive Sleep Apnea/Hypopnea Syndrome (OSAHS): Quantification and Severity Scale Apnea-hypopnea index (AHI)a:Number of apneas plus hypopneas per hour of sleep Respiratory disturbance index (RDI):Number of apneas plus hypopneas plus RERAs per hour of sleep Mild OSAHS:AHI of 5-14 events/h Moderate OSAHS:AHI of 15-29 events/h Severe OSAHS:AHI of >=30 events/h aEach level of AHI can be fuher quantified by level of sleepiness and associated hypoxemia.",
+        "exp": "OSAHS is defined on the basis of nocturnal and daytime symptoms as well as sleep study findings. Diagnosis requires the patient to have (1) either symptoms of nocturnal breathing disturbances (snoring, snoing, gasping, or breathing pauses during sleep) or daytime sleepiness or fatigue that occurs despite sufficient oppounities to sleep and is unexplained by other medical problems; and (2) five or more episodes of obstructive apnea or hypopnea per hour of sleep (the apnea-hypopnea index, calculated as the number of episodes divided by the number of hours of sleep) documented during a sleep study. OSAHS also may be diagnosed in the absence of symptoms if the AHI is >15 episodes/h. Each episode of apnea or hypopnea represents a reduction in breathing for at least 10 s and commonly results in a >=3% drop inoxygensaturation and/or a brain coical arousal. OSAHS severity is based on the frequency of breathing disturbances (AHI), the amount of oxyhemoglobin desaturation with respiratory events, the duration of apneas and hypopneas, the degree of sleep fragmentation, and the level of daytime sleepiness or functional impairment. Obstructive Sleep Apnea/Hypopnea Syndrome (OSAHS): Quantification and Severity Scale Apnea-hypopnea index (AHI)a: Number of apneas plus hypopneas per hour of sleep Respiratory disturbance index (RDI): Number of apneas plus hypopneas plus RERAs per hour of sleep Mild OSAHS: AHI of 5-14 events/h Moderate OSAHS: AHI of 15-29 events/h Severe OSAHS: AHI of >=30 events/h a. Each level of AHI can be fuher quantified by level of sleepiness and associated hypoxemia.",
         "cop": 3,
         "opa": "5 episodes/ hr",
         "opb": "10 episodes/ hr",

@@ -1,7 +1,7 @@
 [
     {
         "question": "Which of the following amino acids can be phosphorylated?",
-        "exp": "The OH groups of serine, tyrosine, and threonine frequently serve as the points of covalent attachment for phosphoryl groups that regulate protein function Protein kinase enzymes catalyse the phosphorylation while protein phosphatase enzymes catalyse the dephosphorylation. Ceain protein kinases are specific to the amino acid e.g. tyrosine kinases specifically phosphorylate tyrosine residues.",
+        "exp": "The OH groups of serine, tyrosine, and threonine frequently serve as the points of covalent attachment for phosphoryl groups that regulate protein function Protein kinase enzymes catalyse the phosphorylation while protein phosphatase enzymes catalyse the dephosphorylation. Ceain protein kinases are specific to the amino acid e. g. tyrosine kinases specifically phosphorylate tyrosine residues.",
         "cop": 4,
         "opa": "Cysteine",
         "opb": "Leucine",
@@ -13,8 +13,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Which amino acid has maximum tendency to bind phosphate ?",
-        "exp": "OH containing amino acid has maximum tendency to bind phosphate Eg.Tyrosine, Threonine and Serine.",
+        "question": "Which amino acid has maximum tendency to bind phosphate?",
+        "exp": "OH containing amino acid has maximum tendency to bind phosphate Eg. Tyrosine, Threonine and Serine.",
         "cop": 1,
         "opa": "Serine",
         "opb": "Alanine",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Non-essential amino acid group is?",
-        "exp": "All the Acidic amino acids (Aspaate, Glutamate) are non essential i.e. they can be synthesized from TCA intermediates. All the Basic amino acids (Arginine, Lysine, Histidine) are essential or semi-essential. All branched chain amino acids are essential. Most aromatic amino acids are essential.",
+        "exp": "All the Acidic amino acids (Aspaate, Glutamate) are non essential i. e. they can be synthesized from TCA intermediates. All the Basic amino acids (Arginine, Lysine, Histidine) are essential or semi-essential. All branched chain amino acids are essential. Most aromatic amino acids are essential.",
         "cop": 1,
         "opa": "Acidic Amino Acid",
         "opb": "Branched chain amino Acid",
@@ -105,7 +105,7 @@
     },
     {
         "question": "When the following amino acids are separated by running them on agarose gel, at pH 7, which one of them will migrate slowest to the anodic end?",
-        "exp": "Anode is the positively charged electrode in electrophoresis cell. pI is that pH at which there is no net charge on amino acid. We can use the rule that an amino acid above its pI will be negatively charged while below its pI will be positively charged At pH 7, aspaic acid (pI= 2.77), Glycine (pI= 5.97) and Valine (pI = 5.96) will all be negatively charged and they will move fast - option b, c, d are excluded However, At pH 7, lysine (pI= 9.74) will be positively charged will move slower compared to all the three - option d is the answer",
+        "exp": "Anode is the positively charged electrode in electrophoresis cell. pI is that pH at which there is no net charge on amino acid. We can use the rule that an amino acid above its pI will be negatively charged while below its pI will be positively charged At pH 7, aspaic acid (pI= 2. 77), Glycine (pI= 5. 97) and Valine (pI = 5. 96) will all be negatively charged and they will move fast - option b, c, d are excluded However, At pH 7, lysine (pI= 9. 74) will be positively charged will move slower compared to all the three - option d is the answer",
         "cop": 4,
         "opa": "Glycine",
         "opb": "Valine",

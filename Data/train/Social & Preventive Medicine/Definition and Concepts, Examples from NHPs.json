@@ -1,7 +1,7 @@
 [
     {
         "question": "Screening is done because of all except:",
-        "exp": "Screening is testing for infection or disease in populations or in individuals who are not seeking health care. It is defined presumptive identification of unrecognized disease. E.g. serological testing for AIDS virus in blood donors, neonatal screening, pre-marital screening for syphilis . Search for unrecognized disease or defect by means of rapidly applied test, examinations or other procedures in apparently healthy individuals. Case finding is use of clinical and/or laboratory tests to detect disease in individuals seeking health care for other reason ; for example, the use of VDRL test to detect syphilis in pregnant women.",
+        "exp": "Screening is testing for infection or disease in populations or in individuals who are not seeking health care. It is defined presumptive identification of unrecognized disease. E. g. serological testing for AIDS virus in blood donors, neonatal screening, pre-marital screening for syphilis. Search for unrecognized disease or defect by means of rapidly applied test, examinations or other procedures in apparently healthy individuals. Case finding is use of clinical and/or laboratory tests to detect disease in individuals seeking health care for other reason; for example, the use of VDRL test to detect syphilis in pregnant women.",
         "cop": 4,
         "opa": "Testing for infection or disease in population or in individuals who are not seeking health care",
         "opb": "It is defined presumptive identification of unrecognized disease",
@@ -14,7 +14,7 @@
     },
     {
         "question": "In which of the following disease, Screening procedure increases the overall survival maximum?",
-        "exp": "Colonic cancer has highest 5-year survival rate post-screening. - This can be known by Kaplan meiyer survival analysis. - Screening of colonic cancer is done by colonoscopy. SCREENING TESTS OF OTHER OPTIONS: - Prostate cancer : Prostate specific antigen + DRE - Lung cancer : Chest x-ray - Ovarian cancer: transvaginal ultrasound (TVUS) & CA-125 blood test.",
+        "exp": "Colonic cancer has highest 5-year survival rate post-screening. - This can be known by Kaplan meiyer survival analysis. - Screening of colonic cancer is done by colonoscopy. SCREENING TESTS OF OTHER OPTIONS: - Prostate cancer: Prostate specific antigen + DRE - Lung cancer: Chest x-ray - Ovarian cancer: transvaginal ultrasound (TVUS) & CA-125 blood test.",
         "cop": 3,
         "opa": "Prostate cancer",
         "opb": "Lung cancer",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Which is the most economical and best screening method?",
-        "exp": "High risk screening: In High risk screening,besides effectiveness,economical use of resources is also seen as screening tests are selectively applied to individuals in high risk groups High risk selective screening gives maximum yield. E.g. HIV screening in commercial sex workers Therefore it is the most economical and best screening method.",
+        "exp": "High risk screening: In High risk screening, besides effectiveness, economical use of resources is also seen as screening tests are selectively applied to individuals in high risk groups High risk selective screening gives maximum yield. E. g. HIV screening in commercial sex workers Therefore it is the most economical and best screening method.",
         "cop": 2,
         "opa": "Mass screening",
         "opb": "High risk screening",
@@ -117,7 +117,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "Kaplan Meier method is used for estimating :-",
+        "question": "Kaplan Meier method is used for estimating:-",
         "exp": "Kaplan Meier Survival Curve is used to estimate survival. -The area under the curve gives cumulative survival.",
         "cop": 4,
         "opa": "Incidence",

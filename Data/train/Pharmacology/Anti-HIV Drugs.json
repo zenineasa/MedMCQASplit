@@ -1,7 +1,7 @@
 [
     {
         "question": "Which of the following anti-tubercular drug is avoided in a HIV positive patient on zidovudine, lamivudine and indinavir therapy who develops TB?",
-        "exp": "RIFAMPACIN: Powerful enzyme inducer of the Hepatic Cytochrome P450 system. It increasesmetabolism of many drugs and as a consequence, can make them less effective, or even ineffective in some cases, by decreasing their levels in the plasma. Rifampicin can induce the metabolism of Indinavir and can result in therapeutic failure. Therfore rifampicin is avoided in the above patient. ISOENZYMES INDUCED BY RIFAMPACIN: CYP2C9 CYP2C19 CYP3A4 CYP1A2",
+        "exp": "RIFAMPACIN: Powerful enzyme inducer of the Hepatic Cytochrome P450 system. It increasesmetabolism of many drugs and as a consequence, can make them less effective, or even ineffective in some cases, by decreasing their levels in the plasma. Rifampicin can induce the metabolism of Indinavir and can result in therapeutic failure. Therfore rifampicin is avoided in the above patient. ISOENZYMES INDUCED BY RIFAMPACIN: CYP2. C9 CYP2. C19 CYP3. A4 CYP1. A2",
         "cop": 4,
         "opa": "Pyrazinamide",
         "opb": "Isoniazid",
@@ -53,9 +53,9 @@
     },
     {
         "question": "The following are true about enfuviide except:",
-        "exp": "Enfuviide It is an Entry (fusion) inhibitor. MOA: By binding to HIV-1 gp41 Active on HIV 1& not active against HIV-2. Cross resistance not seen with other classes of ARV drugs. Given s.c. twice daily. Used as add on drug for failed regimens. Adverse effects: Pain at injection site and it cause local nodules or cysts.",
+        "exp": "Enfuviide It is an Entry (fusion) inhibitor. MOA: By binding to HIV-1 gp41 Active on HIV 1& not active against HIV-2. Cross resistance not seen with other classes of ARV drugs. Given s. c. twice daily. Used as add on drug for failed regimens. Adverse effects: Pain at injection site and it cause local nodules or cysts.",
         "cop": 2,
-        "opa": "Administered by s.c route",
+        "opa": "Administered by s. c route",
         "opb": "Effective on HIV 1 and HIV 2 strains",
         "opc": "Binds to HIV gp41",
         "opd": "No cross resistance with other anti-retroviral drugs",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Which of the following drugs is most likely to cause additive anemia and neutropenia if administered to an AIDS patient taking zidovudine?",
-        "exp": "* Ganciclovir is the drug of choice for CMV infections. * It should not be combined with zidovudine because both have bone marrow suppressant propey. * It is an analogue of acyclovir which is most active against CMV. but also inhibits other herpes viruses viz. H.simplex, H. zoster and EBV.",
+        "exp": "* Ganciclovir is the drug of choice for CMV infections. * It should not be combined with zidovudine because both have bone marrow suppressant propey. * It is an analogue of acyclovir which is most active against CMV. but also inhibits other herpes viruses viz. H. simplex, H. zoster and EBV.",
         "cop": 3,
         "opa": "Acyclovir",
         "opb": "Amantadine",
@@ -92,7 +92,7 @@
     },
     {
         "question": "A patient was found to be HIV positive on routine check up. He has no symptoms and CD4 count is 800 cells per cubic mm. What should be the management of this patient?",
-        "exp": "Treatment of HIV according to NACO guidelines: Use of multiple drugs that act on different viral targets is known as HAA (Highly active antiretroviral therapy). Treatment should be done in all patients irrespective of their CD4 count and symptoms. Minimum 3 drugs should be used from minimum 2 groups. Mainly we use 2NI + 1 NNI / Integrase Inhibitors. Preferred First Line Therapy: Tenofovir + Lamivudine + Eirenz",
+        "exp": "Treatment of HIV according to NACO guidelines: Use of multiple drugs that act on different viral targets is known as HAA (Highly active antiretroviral therapy). Treatment should be done in all patients irrespective of their CD4 count and symptoms. Minimum 3 drugs should be used from minimum 2 groups. Mainly we use 2. NI + 1 NNI / Integrase Inhibitors. Preferred First Line Therapy: Tenofovir + Lamivudine + Eirenz",
         "cop": 3,
         "opa": "No treatment is required",
         "opb": "Zidovudine plus stavudine for 28 day",
@@ -118,7 +118,7 @@
     },
     {
         "question": "Which of the following protease inhibitor has active metabolite?",
-        "exp": "Nelfinavir has active metabolite and the only known active metabolite of any HIV protease inhibitor. Nelfinavir Undergoes oxidative metabolism primarily by CYP2C19 but also by CYP3A4 and CYP2D6. Its major hydroxy-tbutylamide metabolite, M8, is formed by CYP2C19 and has in vitro. Antiretroviral activity similar to that of the parent drug. This is the only known active metabolite of any HIV protease inhibitor. Nelfinavir induces its own metabolism.",
+        "exp": "Nelfinavir has active metabolite and the only known active metabolite of any HIV protease inhibitor. Nelfinavir Undergoes oxidative metabolism primarily by CYP2. C19 but also by CYP3. A4 and CYP2. D6. Its major hydroxy-tbutylamide metabolite, M8, is formed by CYP2. C19 and has in vitro. Antiretroviral activity similar to that of the parent drug. This is the only known active metabolite of any HIV protease inhibitor. Nelfinavir induces its own metabolism.",
         "cop": 3,
         "opa": "Ritonavir",
         "opb": "Indinavir",
@@ -131,7 +131,7 @@
     },
     {
         "question": "Which of the following drugs is used to prevent HIV transmission from an HIV positive pregnant mother to child?",
-        "exp": "HIV may be transmitted from the mother to the child either through the placenta, or during delivery, or by breastfeeding. The highest risk (>2/3rd) of transmission is during the bih process. All HIV positive women should be put on the standard 3 drug A and this should be continued through delivery and into the post-natal period, and helps in preventing veical transmission of HIV to the neonate. Tenofovir 300 mg + Lamivudine 300 mg + Eirenz 600 mg (as FDC tablet) once daily.In addition the neonate should be given syrup nevirapine for 6 weeks.",
+        "exp": "HIV may be transmitted from the mother to the child either through the placenta, or during delivery, or by breastfeeding. The highest risk (>2/3rd) of transmission is during the bih process. All HIV positive women should be put on the standard 3 drug A and this should be continued through delivery and into the post-natal period, and helps in preventing veical transmission of HIV to the neonate. Tenofovir 300 mg + Lamivudine 300 mg + Eirenz 600 mg (as FDC tablet) once daily. In addition the neonate should be given syrup nevirapine for 6 weeks.",
         "cop": 3,
         "opa": "Lamivudine",
         "opb": "Stavudine",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Which of the following drugs inhibits post-translational modification of viral proteins?",
-        "exp": "- PROTEASE INHIBITORS inhibits post-translational modification of viral proteins.- These include drugs like: INDINAVIR RITONAVIR LOPINAVIR AMPRENAVIR FOS-AMPRENAVIR ATAZANAVIR (Lowest risk of Lipodystrophy syndrome but can cause hyperbilrubinemia) SAQUINAVIR NELFINAVIR - These are metabolized by CYP3A4 and are CYP3A4 inhibitors themselves (Ritonavir Boosting - boost the other inhibitors)- These drugs can cause LIPODYSTROPHY SYNDROME: | GLUCOSE | LIPIDS INSULIN RESISTANCE WT. GAIN. It is also caused by Atypical Antipsychotics.",
+        "exp": "- PROTEASE INHIBITORS inhibits post-translational modification of viral proteins.- These include drugs like: INDINAVIR RITONAVIR LOPINAVIR AMPRENAVIR FOS-AMPRENAVIR ATAZANAVIR (Lowest risk of Lipodystrophy syndrome but can cause hyperbilrubinemia) SAQUINAVIR NELFINAVIR - These are metabolized by CYP3. A4 and are CYP3. A4 inhibitors themselves (Ritonavir Boosting - boost the other inhibitors)- These drugs can cause LIPODYSTROPHY SYNDROME: | GLUCOSE | LIPIDS INSULIN RESISTANCE WT. GAIN. It is also caused by Atypical Antipsychotics.",
         "cop": 1,
         "opa": "Indinavir",
         "opb": "Enfuviide",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Which of the following Anti-retro viral agent can cause bone marrow suppression?",
-        "exp": "ZIDOVUDINE: Is a NI (NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITOR) against HIV-1, HIV-2 and HTLVs I and II. It causes Competitive inhibition but no impact on cells already infected with HIV . It causes Bone Marrow Suppression, Lipodystrophy, Erythrocytic Macrocytosis, Skeletal muscle myopathy, Hepatic toxicity and on chronic use can cause Nail hyperpigmentation",
+        "exp": "ZIDOVUDINE: Is a NI (NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITOR) against HIV-1, HIV-2 and HTLVs I and II. It causes Competitive inhibition but no impact on cells already infected with HIV. It causes Bone Marrow Suppression, Lipodystrophy, Erythrocytic Macrocytosis, Skeletal muscle myopathy, Hepatic toxicity and on chronic use can cause Nail hyperpigmentation",
         "cop": 2,
         "opa": "Ritonavir",
         "opb": "Zidovudine",
@@ -170,7 +170,7 @@
     },
     {
         "question": "Eirenz limits HIV infection by:",
-        "exp": "Eirenz is a NNI which acts as an allosteric (non-competitive) inhibitor of HIV reverse transcriptase. It is more potent than zidovudine on HIV-1, but do not inhibit HIV-2. If used alone, viral resistance develops rapidly by point mutation of the enzyme; therefore it should always be combined with 2 other effective drugs. S/E of Eirenz : Headache, rashes, dizziness, insomnia, neuro-psychiatric symptoms",
+        "exp": "Eirenz is a NNI which acts as an allosteric (non-competitive) inhibitor of HIV reverse transcriptase. It is more potent than zidovudine on HIV-1, but do not inhibit HIV-2. If used alone, viral resistance develops rapidly by point mutation of the enzyme; therefore it should always be combined with 2 other effective drugs. S/E of Eirenz: Headache, rashes, dizziness, insomnia, neuro-psychiatric symptoms",
         "cop": 4,
         "opa": "Binding to active site of HIV reverse transcriptase",
         "opb": "Impairing the binding of HIV virion to CD4 receptors on T- cells",
@@ -209,7 +209,7 @@
     },
     {
         "question": "Ritonavir boosting is not recommended with which of the following protease inhibitor of HIV?",
-        "exp": "RITONAVIR : 1. Ritonavir is strongest microsomal enzyme inhibitor (CYP3A4) 2. It is not used as a protease inhibitor instead in low doses, it is used to inhibit microsomal enzymes and to boost the effect of other protease inhibitors except nelfinavir. Therefore NELFINAVIR effect is not boosted by Ritonavir. NELFINAVIR : It is a nonpeptidic protease inhibitor that is active against both HIV-1 and HIV-2. Long-term virologic suppression with Nelfinavir based combination regimens is significantly inferior to Lopinavir/Ritonavir, Atazanavir, or Eirenz based regimens.",
+        "exp": "RITONAVIR: 1. Ritonavir is strongest microsomal enzyme inhibitor (CYP3. A4) 2. It is not used as a protease inhibitor instead in low doses, it is used to inhibit microsomal enzymes and to boost the effect of other protease inhibitors except nelfinavir. Therefore NELFINAVIR effect is not boosted by Ritonavir. NELFINAVIR: It is a nonpeptidic protease inhibitor that is active against both HIV-1 and HIV-2. Long-term virologic suppression with Nelfinavir based combination regimens is significantly inferior to Lopinavir/Ritonavir, Atazanavir, or Eirenz based regimens.",
         "cop": 3,
         "opa": "Darunavir",
         "opb": "Saquinavir",

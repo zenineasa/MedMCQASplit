@@ -1,9 +1,22 @@
 [
     {
-        "question": "An enzyme-catalyzed reaction was carried out with the initial substrate concentration 1,000 times greater than the Km for that substrate. After 9 minutes, 1% of the substrate had been conveed to the product, and the amount of product was 12 mmol. If, in a separate experiment, one-third as much enzyme and twice as much of the substrate is combined, how long it would to take for the same amount (12 mmol) of product to be formed?",
+        "question": "Unit of enzyme activity -",
+        "exp": "Ans. is 'd' i. e., Micromole / minute o The activity of enzyme is measured in terms of the following: 1) Unit of enzyme acdvity: -# By international agreement, one unit enzyme activity is defined as the amount causing transformation of 1. 0 micro mole of substrate per minute at 25deg C. It is usually expressed as m mole of substrate disappeared or p mole of product formed per minute. 2) Specific activity:-# It refers to the number of enzyme units per milligram of protein. It is a measure of enzyme purity; higher the enzyme purity, more is the specific activity. 3) Ttirn over number# This refers to the number of substrate molecules transformed per unit time by a single enzyme molecule (or by a single catalytic site), when the enzyme concentration alone is rate-limiting factor.# Catalase has the highest turnover number and hence is the fastest active enzyme. Carbonic anydrase has the 2nd fastest turnover number; therefore, it is 2nd fastest active enzyme (after catalase). Lysozyme has the lowest turnover number and therefore is slowest acting.",
+        "cop": 4,
+        "opa": "Millimoles / lit",
+        "opb": "Milligm/lit",
+        "opc": "Mg/dl",
+        "opd": "Micromoles/min",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme Kinetics",
+        "id": "ac0fb0dc-76fb-4ced-b286-1a41f350ff00",
+        "choice_type": "single"
+    },
+    {
+        "question": "An enzyme-catalyzed reaction was carried out with the initial substrate concentration 1, 000 times greater than the Km for that substrate. After 9 minutes, 1% of the substrate had been conveed to the product, and the amount of product was 12 mmol. If, in a separate experiment, one-third as much enzyme and twice as much of the substrate is combined, how long it would to take for the same amount (12 mmol) of product to be formed?",
         "exp": "Since we know that Enzyme is more impoant than substrate, so enzyme concentration we have to see first if that is reduced then it doesn't matter whether we increase substrate concentration or not time will increase only. So, since enzyme is decreased to 1/3 time will increase by 3 times irrespective of increase in substrate concentration By using Michaelis-Menten equation, that is, V0 = Vmax x / Km + and by definition Vmax = Kcat x Where is enzyme concentration, Kcat is turnover number So, Similarly, As velocity is 3 times slower than first velocity so same amount of product formation will require 3x more time. Hence, Time taken will be = 3 x t = 3 x 9 = 27 minutes",
         "cop": 2,
-        "opa": "13.5 mins",
+        "opa": "13. 5 mins",
         "opb": "27 mins",
         "opc": "8 mins",
         "opd": "9 mins",
@@ -13,8 +26,60 @@
         "choice_type": "single"
     },
     {
+        "question": "Type of enzyme inhibition in which Vmax remains the same but Km is increased -",
+        "exp": "Ans. is 'b' i. e., Competitive Type of inhibitor. Km. Vmax. Reversible inhibbitor o Competitiveo Non-competitiveo Uncompititive. Increased. No effect. Decreased. No effect. Decreased. Decreased. Irrversible inhibitor (same as reversible competitive). No effect. Decreased",
+        "cop": 2,
+        "opa": "Non-competitive",
+        "opb": "Competitive",
+        "opc": "Allosteric",
+        "opd": "None",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme Kinetics",
+        "id": "3f8825c3-735b-44b1-8a54-3142bbf01000",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Enzyme specificity is given by -",
+        "exp": "Ans. is \"a' i. e., Km \"The of an enzyme is the concentration of the substrate that enables the enzyme to function at half maximum activity and is therefore a measure of the specificity of a substrate for the enzyme\"___________Clinical biochemistryo Actually enzyme specificity is not measured by Km alone. o It is measured by the ratio Kcat/Km which is a second order rate constant for the reaction between substrate and free enzyme. o This ratio is important, for it provides a direct measure of enzyme efficiency and specificity, o Note: Kcat is turnover number and measures the rate of the catalytic process.",
+        "cop": 1,
+        "opa": "Km",
+        "opb": "Vmax",
+        "opc": "Both",
+        "opd": "None",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme Kinetics",
+        "id": "02506ace-7e1e-4610-bb7d-6826948683f4",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Km of an enzyme is:",
+        "exp": "Ans. C. The substrate concentration that produces half maximum velocity. The substrate concentration that produces half maximal velocity (v termed the K value or Michaelis constant)",
+        "cop": 3,
+        "opa": "Dissociation constant",
+        "opb": "The normal physiological substrate concentration",
+        "opc": "The substrate concentration that produces half maximum velocity",
+        "opd": "Numerically identical for all isozymes that catalyze a given reaction",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme Kinetics",
+        "id": "e6c4d77f-09a1-40c3-a421-1d5fe56f18bc",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Which of the following enzymes is stable at acidic pH:",
+        "exp": "Ans. A. Pepsin. Pepsin is formed when pepsinogen is activated by hydrochloric acid in the stomach. The optimum pH for pepsin action is 1. 6 to 3. 2.",
+        "cop": 1,
+        "opa": "Pepsin",
+        "opb": "Trypsin",
+        "opc": "Chymotrypsin",
+        "opd": "Carboxypeptidase",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme Kinetics",
+        "id": "b4ad0521-9736-4795-b751-8aa3f35bf7d7",
+        "choice_type": "single"
+    },
+    {
         "question": "All of the following are true about allosteric enzymes, EXCEPT:",
-        "exp": "Be Aware that Question is asking about the wrong/false statement: Allosteric enzymes also contain a site other than active site which binds to allosteric regulator. Allosteric enzymes don't follow Michaelis-Menten kinetics. They do obey Hill's equation. Allosteric enzymes are usually multi-subunit enzymes. Binding of allosteric regulator to the allosteric site alters the substrate affinity of active site. This is known as cooperativity.This can be either positive or negative. A multi-subunit enzyme will obviously have quaternary structure - option a is wrong.",
+        "exp": "Be Aware that Question is asking about the wrong/false statement: Allosteric enzymes also contain a site other than active site which binds to allosteric regulator. Allosteric enzymes don't follow Michaelis-Menten kinetics. They do obey Hill's equation. Allosteric enzymes are usually multi-subunit enzymes. Binding of allosteric regulator to the allosteric site alters the substrate affinity of active site. This is known as cooperativity. This can be either positive or negative. A multi-subunit enzyme will obviously have quaternary structure - option a is wrong.",
         "cop": 1,
         "opa": "Allosteric enzymes can't have structure beyond the teiary structure",
         "opb": "Allosteric enzymes have a regulatory site other than the active site",
@@ -39,6 +104,45 @@
         "choice_type": "single"
     },
     {
+        "question": "Zymogen activation by partial proteolysis is an example of -",
+        "exp": "Ans. D. Covalent modification. Regulation of Enzyme Activity: -A. Allosteric binding sites: -1. Allosteric enzymes are regulated by molecules called effectors (also called modifiers) that bind noncovalently at a site other than the active site. These enzymes are usually composed of multiple subunits, and the regulatory site that binds the effector may be located on a subunit that is not itself catalytic. 2. The presence of an allosteric effector can alter the affinity of the enzyme for its substrate, or modify the maximal catalytic activity of the enzyme, or both. Effectors that inhibit enzyme activity are termed negative effectors, whereas those that increase enzyme activity are called positive effectors. Allosteric enzymes frequently catalyze the committed step early in a pathway. 3. Homotropic effectors: When the substrate itself serves as an effector, the effect is said to be homotropic. Most often, an allosteric substrate functions as a positive effector. In such a case, the presence of a substrate molecule at one site on the enzyme enhances the catalytic properties of the other substrate-binding sites--that is, their binding sites exhibit cooperativity. 4. These enzymes show a sigmoidal curve when reaction velocity (vo) is plotted against substrate concentration (). This contrasts with the hyperbolic curve characteristic of enzymes following Michaelis-Menten kinetics, as previously discussed. Positive and negative effectors of allosteric enzymes can affect either the Vmax or the Km, or both. 5. Heterotropic effectors: The effector may be different from the substrate, in which case the effect is said to be heterotropic. The enzyme that converts D to E has an allosteric site that binds the end product, G. If the concentration of G increases (for example, because it is not used as rapidly as it is synthesized), the first irreversible step unique to the pathway is typically inhibited. 6. Feedback inhibition provides the cell with a product it needs by regulating the flow of substrate molecules through the pathway that synthesizes that product. Heterotropic effectors are commonly encountered, for example, the glycolytic enzyme phosphofructokinase-1 is allosterically inhibited by citrate, which is not a substrate for the enzyme. B. Regulation of enzymes by covalent modification: -1. Many enzymes may be regulated by covalent modification, most frequently by the addition or removal of phosphate groups from specific serine, threonine, or tyrosine residues of the enzyme. Protein phosphorylation is recognized as one of the primary ways in which cellular processes are regulated. 2. Phosphorylation and dephosphorylation: Phosphorylation reactions are catalyzed by a family of enzymes called protein kinases that use adenosine triphosphate (ATP) as a phosphate donor. Phosphate groups are cleaved from phosphorylated enzymes by the action of phosphoprotein phosphatases. 3. For some enzymes, an inactive precursor called a zymogen is cleaved to form the active enzyme. Many proteolytic enzymes (proteases) of the stomach and pancreas are regulated in this way. Chymotrypsin and trypsin are initially synthesized as chymotrypsinogen and trypsinogen. Specific cleavage causes conformational changes that expose the enzyme active site. C. Induction and repression of enzyme synthesis: -1. The regulatory mechanisms described above modify the activity of existing enzyme molecules. However, cells can also regulate the amount of enzyme present--usually by altering the rate of enzyme synthesis. The increase (induction) or decrease (repression) of enzyme synthesis leads to an alteration in the total population of active sites. Enzymes subject to regulation of synthesis are often those that are needed at only one stage of development or under selected physiologic conditions. 2. For example, elevated levels of insulin as a result of high blood glucose levels cause an increase in the synthesis of key enzymes involved in glucose metabolism. In contrast, enzymes that are in constant use are usually not regulated by altering the rate of enzyme synthesis. 3. Alterations in enzyme levels as a result of induction or repression of protein synthesis are slow (hours to days), compared with allosterically regulated changes in enzyme activity, which occur in seconds to minutes.",
+        "cop": 4,
+        "opa": "Allosteric modification",
+        "opb": "Enzyme induction",
+        "opc": "Enzyme repression",
+        "opd": "Covalent modification",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme Kinetics",
+        "id": "cdc2a765-9cec-4f86-a325-3ffdd09bc356",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Non-competitive enzyme inhibition leads to: (PGI Nov 2010)",
+        "exp": "Ans: B (Vmax|) Non-Competitive inhibition The inhibitor reacts with an adjacent site and not with the catalytic site, but alters the enzyme in such a way that it loses its catalytic property. Thus Km is unchanged but Vmax is reduced? If the inhibitor can be removed from its site of binding without affecting the activity of the enzyme, it is called as Reversible -Non competitive inhibitionQ",
+        "cop": 2,
+        "opa": "Vmax|",
+        "opb": "Vmax|",
+        "opc": "Vmax unchanged",
+        "opd": "Km|",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme Kinetics",
+        "id": "06f404a7-7110-4ab8-b4f6-2cafe50cc7af",
+        "choice_type": "single"
+    },
+    {
+        "question": "Phase-2 reaction is -",
+        "exp": "Ans. is 'd' i. e., conjugation o Phase I reactions - Oxidation (including hydroxylation), reduction, hydrolysis, cyclization and decyclization. o Phase II reactions - Conjugation reaction (glucuronidation, sulfation, acetylation, methylation, conjugation with glutathione, aminoacid conjugation).",
+        "cop": 4,
+        "opa": "Oxidation",
+        "opb": "Hydroxylation",
+        "opc": "Cyclization",
+        "opd": "Conjugation",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme Kinetics",
+        "id": "b14943db-3271-4e8b-a6d8-edb6f147f81d",
+        "choice_type": "single"
+    },
+    {
         "question": "Which of the following is the measure of catalytic efficiency of an enzyme?",
         "exp": "The kinetic parameters kcat and Km are useful for the study and comparison of different enzymes, with simple or complex reaction mechanisms. kcat and Km are used as an estimate for the kinetic efficiency of enzymes, but either parameter alone is insufficient for this purpose. For instance, two enzymes catalyzing different reactions may have the same kcat (turnover number), yet the rates of the uncatalyzed reactions may be different and thus the rate enhancements brought about by the enzymes may differ greatly. Hence, the best way to measure the catalytic efficiencies of different enzymes is to compare the ratio Kcat/Km for the two reactions. This parameter, is called the specificity constant, is the rate constant for the conversion of E + S to E + P when << Km.",
         "cop": 1,
@@ -53,10 +157,10 @@
     },
     {
         "question": "The following graph represents effect of substrate concentration on the initial velocity of an enzyme catalyzed reaction. Wrong statement about this graph is:",
-        "exp": "This is Michaelis Menten graph (rectangular hyperbola shape). Km is Michaelis Menten constant. Km is that substrate concentration at which velocity of reaction is half of Vmax. Here '?' point represents Km (on X-axis). At point C, maximum amount of enzyme is present as E-S complex --- so option C is wrong Initial poion of this graph has first order kinetics i.e. velocity is directly propoional to substrate concentration Later poion of the graph has zero order kinetics i.e. velocity is independent of substrate concentration",
+        "exp": "This is Michaelis Menten graph (rectangular hyperbola shape). Km is Michaelis Menten constant. Km is that substrate concentration at which velocity of reaction is half of Vmax. Here '? ' point represents Km (on X-axis). At point C, maximum amount of enzyme is present as E-S complex --- so option C is wrong Initial poion of this graph has first order kinetics i. e. velocity is directly propoional to substrate concentration Later poion of the graph has zero order kinetics i. e. velocity is independent of substrate concentration",
         "cop": 3,
         "opa": "The curve is hyperbolic in shape.",
-        "opb": "\"?\" here represents Km of the enzyme",
+        "opb": "\"? \" here represents Km of the enzyme",
         "opc": "At point C only a small amount of the enzyme is present as the Enzyme-Substrate complex.",
         "opd": "At point C, Vi is independent of",
         "subject_name": "Biochemistry",
@@ -65,8 +169,21 @@
         "choice_type": "multi"
     },
     {
+        "question": "Enzyme activity is expressed as: (PGI Dec 2006)",
+        "exp": "Ans: D (Micromoles/min) Enzme activity is expressed as micromoles of substrate converted to product per minute^ under optical condition of measurement. One standard unit {or international unit) of enzyme activity (U) is that activity which catalyses transformation of 1 micromole of substrate per minute. Modern method of enzyme activity is in katals (Kat)1 Kat=Conversion of 1 mole of substrate per second.",
+        "cop": 4,
+        "opa": "Millimoles/lit",
+        "opb": "Mg/lit",
+        "opc": "Mg/dl",
+        "opd": "Micromoles/min",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme Kinetics",
+        "id": "62ba1a87-6713-4af6-81f0-ad93ebbeb566",
+        "choice_type": "single"
+    },
+    {
         "question": "Select the TRUE statement about Michealis Constant (Km)",
-        "exp": "Salient features of Km:- 1. Km value is substrate concentration (expressed in moles/L) at half-maximal velocity 2. It denotes that 50% of enzyme molecules are bound with substrate molecules at that paicular substrate concentration 3. Km is independent of enzyme concentration;If enzyme concentration is doubled, the Vmax will be doubled. But the 1/2 Vmax(Km) will remain exactly the same. 4. Km is the signature of the enzyme. Km value is thus a constant for an enzyme. It is the characteristic feature of a paicular enzyme for a specific substrate 5. The affinity of an enzyme towards its substrate is inversely related to the dissociation constant, Kd for the enzyme-substrate complex Therefore, the smaller the tendency for the dissociation of the complex, the greater is the affinity of the enzyme for the substrate 6. Km denotes the affinity of enzyme for substrate. The lesser the numerical value of Km, the affinity of the enzyme for the substrate is more.",
+        "exp": "Salient features of Km:- 1. Km value is substrate concentration (expressed in moles/L) at half-maximal velocity 2. It denotes that 50% of enzyme molecules are bound with substrate molecules at that paicular substrate concentration 3. Km is independent of enzyme concentration; If enzyme concentration is doubled, the Vmax will be doubled. But the 1/2 Vmax(Km) will remain exactly the same. 4. Km is the signature of the enzyme. Km value is thus a constant for an enzyme. It is the characteristic feature of a paicular enzyme for a specific substrate 5. The affinity of an enzyme towards its substrate is inversely related to the dissociation constant, Kd for the enzyme-substrate complex Therefore, the smaller the tendency for the dissociation of the complex, the greater is the affinity of the enzyme for the substrate 6. Km denotes the affinity of enzyme for substrate. The lesser the numerical value of Km, the affinity of the enzyme for the substrate is more.",
         "cop": 2,
         "opa": "Km is dependent on enzyme concentration.",
         "opb": "Km value is inversely propoional to the affinity of enzyme for its substrate.",
@@ -79,7 +196,7 @@
     },
     {
         "question": "For every 10-degree Celsius raise in the temperature, the rate of most of the enzymatic reactions:",
-        "exp": "The temperature coefficient (Q10) is the factor by which the rate of a biologic process increases for a 10degC increase in temperature. For enzymes, temperature coefficient is 2, i.e. for every 10 degrees raise in temperature, the rate of enzyme activity doubles. But, after ceain temperature, the enzyme protein gets denaturate and the rate of enzyme activity falls down.",
+        "exp": "The temperature coefficient (Q10) is the factor by which the rate of a biologic process increases for a 10degC increase in temperature. For enzymes, temperature coefficient is 2, i. e. for every 10 degrees raise in temperature, the rate of enzyme activity doubles. But, after ceain temperature, the enzyme protein gets denaturate and the rate of enzyme activity falls down.",
         "cop": 2,
         "opa": "Halves",
         "opb": "Doubles",
@@ -88,6 +205,19 @@
         "subject_name": "Biochemistry",
         "topic_name": "Enzyme kinetics",
         "id": "feadcb86-96be-4866-b90c-88553f49a4fa",
+        "choice_type": "single"
+    },
+    {
+        "question": "In competitive inhibition the relation Km and Vmax is one of the following -",
+        "exp": "Ans. is 'b' i. e., Km increase and Vmax is the same Competitive inhibition-Km is high Vmax is same. Non Competitive inhibition-Vmax lowered Km unaltered Type of inhibitor. Km. Vmax. Reversible inhibbitor o Competitive. Increased. No effecto Non-competitive. No effect. Decreasedo Uncompititive. Decreased. Decreased. Irrversible inhibitor (same as reversible competitive). No effect. Decreased",
+        "cop": 2,
+        "opa": "Km and Vmax are the same",
+        "opb": "Km increases and Vmax is the same",
+        "opc": "Km decreases and Vmax increases",
+        "opd": "Km and Vmax decreases",
+        "subject_name": "Biochemistry",
+        "topic_name": "Enzyme Kinetics",
+        "id": "48817fc0-2e83-4081-a75e-564fdc51452e",
         "choice_type": "single"
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "question": "Most sensitive and specific test to diagnose iron deficiency anemia is:",
-        "exp": "Serum ferritin levels is the most sensitive and specific test to diagnose iron deficiency anemia Under steady-state conditions, the serum ferritin level correlates with total body iron stores; thus, the serum ferritin level is the most convenient laboratory test to estimate iron stores. The normal value for ferritin varies according to the age and gender of the individual.As iron stores are depleted, the serum ferritin falls to <15 mg/L. Such levels are diagnostic of absent body iron stores. Adult males have serum ferritin levels that average ~100 mg/L, corresponding to iron stores of ~1 g. Adult females have lower serum ferritin levels averaging 30 mg/L, reflecting lower iron stores (~300 mg). Ferritin is also an acute-phase reactant and, in the presence of acute or chronic inflammation, may rise several-fold above baseline levels.",
+        "exp": "Serum ferritin levels is the most sensitive and specific test to diagnose iron deficiency anemia Under steady-state conditions, the serum ferritin level correlates with total body iron stores; thus, the serum ferritin level is the most convenient laboratory test to estimate iron stores. The normal value for ferritin varies according to the age and gender of the individual. As iron stores are depleted, the serum ferritin falls to <15 mg/L. Such levels are diagnostic of absent body iron stores. Adult males have serum ferritin levels that average ~100 mg/L, corresponding to iron stores of ~1 g. Adult females have lower serum ferritin levels averaging 30 mg/L, reflecting lower iron stores (~300 mg). Ferritin is also an acute-phase reactant and, in the presence of acute or chronic inflammation, may rise several-fold above baseline levels.",
         "cop": 2,
         "opa": "Serum iron levels",
         "opb": "Serum ferritin levels",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Regarding anemia of chronic diseases, all are true except: -",
-        "exp": "In anemia of chronic inflammation , ferritin is normal or high, reflecting the fact that iron is sequestered within cells and ferritin is being produced as an acute phase reactant. Test Iron deficiency Anemia of chronic disease Thalassemia minor Lead posioning MCV | | | N/| Serum iron | | N | TIBC | | N | Percent saturation | | N | Serum ferritin | | N | RBC count | | | | Reference: - Robbins 10e, pg-456",
+        "exp": "In anemia of chronic inflammation, ferritin is normal or high, reflecting the fact that iron is sequestered within cells and ferritin is being produced as an acute phase reactant. Test Iron deficiency Anemia of chronic disease Thalassemia minor Lead posioning MCV | | | N/| Serum iron | | N | TIBC | | N | Percent saturation | | N | Serum ferritin | | N | RBC count | | | | Reference: - Robbins 10e, pg-456",
         "cop": 2,
         "opa": "Decreased serum Fe",
         "opb": "Decreased Ferritin",
@@ -79,12 +79,12 @@
     },
     {
         "question": "Low serum iron and low serum ferritin is seen in?",
-        "exp": "Low serum iron and low serum ferritin is seen in Iron deficiency anemia. Disease Serum iron Serum ferritin TIBC Iron deficiency anemia Decreased Decreased Increased Chronic kidney disease (deficiency of erythropoietin) Normal Normal/decreased if lost in urine due to kidney pathology Normal Sideroblastic anemia Increased Increased Decreased Fanconi anaemia (congenital aplastic anemia) Normal Normal Normal",
+        "exp": "Low serum iron and low serum ferritin is seen in Iron deficiency anemia. Disease Serum iron Serum ferritin TIBC Iron deficiency anemia Decreased Decreased Increased Chronic kidney disease (deficiency of erythropoietin) Normal Normal/decreased if lost in urine due to kidney pathology Normal Sideroblastic anemia Increased Increased Decreased Fanconi anemia (congenital aplastic anemia) Normal Normal Normal",
         "cop": 1,
-        "opa": "Iron deficiency anaemia",
+        "opa": "Iron deficiency anemia",
         "opb": "Chronic kidney disease",
-        "opc": "Sideroblastic anaemia",
-        "opd": "Fanconi anaemia",
+        "opc": "Sideroblastic anemia",
+        "opd": "Fanconi anemia",
         "subject_name": "Medicine",
         "topic_name": "Anemia",
         "id": "078f5c6f-84b6-485d-a192-eef3afe7c390",
@@ -104,8 +104,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 23-year-old male presented with nose bleed. Lab parameters show Hb= 5 g/dl g/dl, Platelet count = 23,000/mm3 and absolute neutrophil count = 176/mm3. Bone marrow is hypocellular with fatty infiltration. All of following statements are true regarding this condition except -",
-        "exp": "The above clinical presentation is suggestive of Aplastic anemia. Lymphadenopathy and splenomegaly are highly atypical of aplastic anemia. Aplastic anemia - Aplastic anemia is pancytopenia with bone marrow hypocellularity. Bleeding is the most common early symptom Easy bruising, oozing from the gums, nose bleeds, heavy menstrual flow, and sometimes petechiae are noticed. Thrombocytopenia leads to small amounts of bleeding in the central nervous system resulting in intracranialor retinal hemorrhage. Symptoms include lassitude, weakness, shoness of breath, and a pounding sensation in the ears. Ix- Mean corpuscular volume (MCV) is commonly increased. Reticulocytes are absent or few, and lymphocyte numbers may be normal or reduced. Bone Marrow is hypocellular and shows mainly fat under the microscope Severity of disease is defined by the presence of 2 of 3 following parameters - a) Absolute neutrophil count <500/mL b) Platelet count <20,000/mL c) Corrected reticulocyte count <1% (or absolute reticulocyte count <60,000/mL).",
+        "question": "A 23-year-old male presented with nose bleed. Lab parameters show Hb= 5 g/dl g/dl, Platelet count = 23, 000/mm3 and absolute neutrophil count = 176/mm3. Bone marrow is hypocellular with fatty infiltration. All of following statements are true regarding this condition except -",
+        "exp": "The above clinical presentation is suggestive of Aplastic anemia. Lymphadenopathy and splenomegaly are highly atypical of aplastic anemia. Aplastic anemia - Aplastic anemia is pancytopenia with bone marrow hypocellularity. Bleeding is the most common early symptom Easy bruising, oozing from the gums, nose bleeds, heavy menstrual flow, and sometimes petechiae are noticed. Thrombocytopenia leads to small amounts of bleeding in the central nervous system resulting in intracranialor retinal hemorrhage. Symptoms include lassitude, weakness, shoness of breath, and a pounding sensation in the ears. Ix- Mean corpuscular volume (MCV) is commonly increased. Reticulocytes are absent or few, and lymphocyte numbers may be normal or reduced. Bone Marrow is hypocellular and shows mainly fat under the microscope Severity of disease is defined by the presence of 2 of 3 following parameters - a) Absolute neutrophil count <500/mL b) Platelet count <20, 000/mL c) Corrected reticulocyte count <1% (or absolute reticulocyte count <60, 000/mL).",
         "cop": 2,
         "opa": "Can be cured by Hematopoietic stem cell transplantation",
         "opb": "Lymphadenopathy and splenomegaly are highly typical",

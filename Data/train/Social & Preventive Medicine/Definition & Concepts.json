@@ -1,11 +1,11 @@
 [
     {
-        "question": "In a population having mid-year population of 1000, there are 150 children less than 15 years and 50 elderly more than 65 years of age. Calculate dependency ratio ?",
-        "exp": "Dependency ratio = (Propoion of ppl in < 15yrs of age + >65yrs of age) / Propoion of ppl in 15-64 yrs of age = 150+50/800 = 0.25",
+        "question": "In a population having mid-year population of 1000, there are 150 children less than 15 years and 50 elderly more than 65 years of age. Calculate dependency ratio?",
+        "exp": "Dependency ratio = (Propoion of ppl in < 15yrs of age + >65yrs of age) / Propoion of ppl in 15-64 yrs of age = 150+50/800 = 0. 25",
         "cop": 3,
-        "opa": "0.2",
+        "opa": "0. 2",
         "opb": "200",
-        "opc": "0.25",
+        "opc": "0. 25",
         "opd": "250",
         "subject_name": "Social & Preventive Medicine",
         "topic_name": "Definition & Concepts",
@@ -14,7 +14,7 @@
     },
     {
         "question": "In child woman ratio, number of 0-4 years aged children are expressed:",
-        "exp": "Child woman ratio: Is number of 0-4 years aged children expressed per 1000 women in reproductive age group. (15 - 49 years) OTHER IMPOANT PARAMETERS: GFR :- x1000. DR :- / .",
+        "exp": "Child woman ratio: Is number of 0-4 years aged children expressed per 1000 women in reproductive age group. (15 - 49 years) OTHER IMPOANT PARAMETERS: GFR:- x1000. DR:- /.",
         "cop": 2,
         "opa": "Per 1000 women",
         "opb": "Per 1000 women in reproductive age group (15-49 years)",
@@ -65,7 +65,7 @@
         "choice_type": "single"
     },
     {
-        "question": "\"Demographic bonus\" connotes the period when the dependency ratio in a population declines because of :-",
+        "question": "\"Demographic bonus\" connotes the period when the dependency ratio in a population declines because of:-",
         "exp": "\"Demographic bonus\" connotes the period when the dependency ratio in a population declines because of decline in feility, until it stas to rise again because of increasing longevity. \"Demographic burden\" is used to connote the increase in the total dependency ratio during any period of time, mostly caused by increased old age dependency ratio Dependency ratio = (Propoion of ppl in < 15yrs of age + >65yrs of age) / Propoion of ppl in 15-64 yrs of age",
         "cop": 1,
         "opa": "Decline in feility",
@@ -105,7 +105,7 @@
     },
     {
         "question": "The useful feility indicator where bih registration statistics do not exist or are inadequate is:",
-        "exp": "Child-Woman ratio It is no. of Children 0-4yrs of age per 1000 women of child bearing age,usually defined as 15-44 or 49 yrs of age. This ratio is used where bih registration statistics do not exist or are inadequate",
+        "exp": "Child-Woman ratio It is no. of Children 0-4yrs of age per 1000 women of child bearing age, usually defined as 15-44 or 49 yrs of age. This ratio is used where bih registration statistics do not exist or are inadequate",
         "cop": 2,
         "opa": "Aboion rate",
         "opb": "Child-woman ratio",
@@ -118,7 +118,7 @@
     },
     {
         "question": "Average no. of girls that would be born to a woman if she experiences the current feility pattern throughout her reproductive span (15-44 or 49 years), assuming no moality known as:-",
-        "exp": "Term Definition Net reproduction rate Total No. of girl children born to a female, taking into account their moality. Gross reproduction rate Total no. of girl children born to a woman if she experiences the current feility pattern throughout her reproductive span (15-44 or 49 years), assuming no moality Total marital feility rate Total no. of children that would be born to a married woman if she experiences the current feility pattern throughout her reproductive span Total feility rate Total no.of children born to each woman if she were to live to the end of her child-bearing years and give bih to children in alignment with the prevailing age-specificfeility rates.",
+        "exp": "Term Definition Net reproduction rate Total No. of girl children born to a female, taking into account their moality. Gross reproduction rate Total no. of girl children born to a woman if she experiences the current feility pattern throughout her reproductive span (15-44 or 49 years), assuming no moality Total marital feility rate Total no. of children that would be born to a married woman if she experiences the current feility pattern throughout her reproductive span Total feility rate Total no. of children born to each woman if she were to live to the end of her child-bearing years and give bih to children in alignment with the prevailing age-specificfeility rates.",
         "cop": 2,
         "opa": "Net reproduction rate",
         "opb": "Gross reproduction rate",
@@ -131,7 +131,7 @@
     },
     {
         "question": "Which of the following is not true about Crude Bih Rate?",
-        "exp": "Crude bih rate - Measure of feility Measures the incidence of live bihs in the total population in a given period of time (one year). The numerator is a sub-set of the denominator;so it is a Rate. It is independent of the age structure of the population.",
+        "exp": "Crude bih rate - Measure of feility Measures the incidence of live bihs in the total population in a given period of time (one year). The numerator is a sub-set of the denominator; so it is a Rate. It is independent of the age structure of the population.",
         "cop": 2,
         "opa": "It is a measure of feility",
         "opb": "It is actually a ratio",
@@ -169,8 +169,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A city with 800 deaths per year. In mouary body is stored for an average duration of 8 days with 80% occupancy in a year. What number of mouary beds are needed per day ?",
-        "exp": "Total number of bed = No. of deaths X average duration of storage = 800 X 8 = 6400 beds per year Bed needed Per day = 6400/365 = 17.5 beds per day This is true for 100% occupancy For 80% occupancy = 17/80 X 100 = 22 beds per day",
+        "question": "A city with 800 deaths per year. In mouary body is stored for an average duration of 8 days with 80% occupancy in a year. What number of mouary beds are needed per day?",
+        "exp": "Total number of bed = No. of deaths X average duration of storage = 800 X 8 = 6400 beds per year Bed needed Per day = 6400/365 = 17. 5 beds per day This is true for 100% occupancy For 80% occupancy = 17/80 X 100 = 22 beds per day",
         "cop": 1,
         "opa": "22",
         "opb": "17",
@@ -183,7 +183,7 @@
     },
     {
         "question": "Numerator of Dependency ratio is:-",
-        "exp": "Dependency Ratio (DR) : The Propoion of persons above 65 years of age and children below 15 years of age are considered to be dependent on economically productive age group.( 15 - 64 years) DR = Propoion of persons < 15 years age and > 65 years age / Propoion of persons 15 - 64 years age.",
+        "exp": "Dependency Ratio (DR): The Propoion of persons above 65 years of age and children below 15 years of age are considered to be dependent on economically productive age group. ( 15 - 64 years) DR = Propoion of persons < 15 years age and > 65 years age / Propoion of persons 15 - 64 years age.",
         "cop": 4,
         "opa": "<10 years age",
         "opb": "<15 years age",
@@ -195,7 +195,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Demographic processes includes all except :-",
+        "question": "Demographic processes includes all except:-",
         "exp": "Demography is the scientific study of human population. It focuses its attention on three readily observable human phenomena: Changes in population size (growth or decline) Composition of the population and Distribution of population in space. It deals with 5 \"demographic processes\" like feility moality marriage migration & social mobility These five processes are continuously at work within a population determining size, composition and distribution.",
         "cop": 2,
         "opa": "Feility",
@@ -209,7 +209,7 @@
     },
     {
         "question": "The number of live bih per 1000 women in the Reproductive age group in a year refers to:-",
-        "exp": "General Feility Rate : Number of live bih per 1000 women in the Reproductive age group in a year. Term Definition Net reproduction rate Total No. of girl children born to a female, taking into account their moality. Gross reproduction rate Total no. of girl children born to a woman if she experiences the current feility pattern throughout her reproductive span (15-44 or 49 years), assuming no moality Total marital feility rate Total no. of children that would be born to a married woman if she experiences the current feility pattern throughout her reproductive span Total feility rate Total no.of children born to each woman if she were to live to the end of her child-bearing years and give bih to children in alignment with the prevailing age-specific feility rates",
+        "exp": "General Feility Rate: Number of live bih per 1000 women in the Reproductive age group in a year. Term Definition Net reproduction rate Total No. of girl children born to a female, taking into account their moality. Gross reproduction rate Total no. of girl children born to a woman if she experiences the current feility pattern throughout her reproductive span (15-44 or 49 years), assuming no moality Total marital feility rate Total no. of children that would be born to a married woman if she experiences the current feility pattern throughout her reproductive span Total feility rate Total no. of children born to each woman if she were to live to the end of her child-bearing years and give bih to children in alignment with the prevailing age-specific feility rates",
         "cop": 4,
         "opa": "Total feility rate",
         "opb": "Gross Reproduction Rate",

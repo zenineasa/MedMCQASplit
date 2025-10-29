@@ -13,7 +13,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "A CKD patient had to undergo dialysis. His Hb was 5.5. So two blood transfusions were to be given. First bag was completed in 2 hours. Second was staed and midway between he developed shoness of breath, hypeension. Vitals: BP 180/120 mm Hg and pulse rate 110/min. What is the cause?",
+        "question": "A CKD patient had to undergo dialysis. His Hb was 5. 5. So two blood transfusions were to be given. First bag was completed in 2 hours. Second was staed and midway between he developed shoness of breath, hypertension. Vitals: BP 180/120 mm Hg and pulse rate 110/min. What is the cause?",
         "exp": "Usually 1 bag takes 4 hr. Option A- Allergic it is very nonspecific symptom Here word mismatch blood transfusion would be a better answer. Option B- TACO As he has been administered with 2 units of blood at a very fast rate causing volume overload Contributing to pulmonary edema Volume expansion-HTN- Compensatory tachycardia Option C- TRALI Ruled out d/t fact that in this case as 1st unit of blood was given much faster even though it wasn't an emergency from the perspective that he is not bleeding, Fast transfusion given to patients with bleeding, moreover it was wrong to give patient with CKD blood transfusion ideally SHOULD Be given erythropoietin injection or packed RBC to patient. If we do volume expansion of patients, chances of pulmonary edema are high. TRALI ruled out because in a question above there are symptoms of volume overload mentioned. TRALI could be answer if Normal BP & no volume overload (it is a non-cardiogenic pulmonary edema.) Option D- Febrile non hemolytic transfusion Rxn causes fever, chills and rigors but does not result in development of HTN, |HR in patients.",
         "cop": 2,
         "opa": "Allergic",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Which of these is not a complication of recurrent packed RBC transfusion?",
-        "exp": "Complication of recurrent packed RBC transformation - Acute lung injury (due to release of cytokines) - TRALI (transfusion related acute lung injury) (mainly due to donor antibodies) - G.V.H.D can be prevented by used of leucodepeleted blood or irradiated blood.",
+        "exp": "Complication of recurrent packed RBC transformation - Acute lung injury (due to release of cytokines) - TRALI (transfusion related acute lung injury) (mainly due to donor antibodies) - G. V. H. D can be prevented by used of leucodepeleted blood or irradiated blood.",
         "cop": 1,
         "opa": "Circulatory overload",
         "opb": "Acute lung injury",
@@ -53,7 +53,7 @@
     },
     {
         "question": "Acute renal failure in a patient who received incompatible blood transfusion with hemolytic reaction is best managed by:",
-        "exp": "Microvascular thrombosis and deposition of haemoglobinin the distal renal tubule can result in acute renal failure. The extent of precipitation is inversely related to urine flow.I.V. fluids, vasopressors and diuretics should be given to maintain renal perfusion pressure, and to produce a diuresis. If acute renal failure develops, hemofiltration should be considered.",
+        "exp": "Microvascular thrombosis and deposition of hemoglobinin the distal renal tubule can result in acute renal failure. The extent of precipitation is inversely related to urine flow. I. V. fluids, vasopressors and diuretics should be given to maintain renal perfusion pressure, and to produce a diuresis. If acute renal failure develops, hemofiltration should be considered.",
         "cop": 4,
         "opa": "20% Mannitol",
         "opb": "IV fluids with K+ supplementation",
@@ -78,8 +78,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient in ICU was given blood transfusion. 3 hours later SpO2 is reduced to 75% with respiratory difficulty. CVP is 15cm water and PCWP is 25mm Hg. CXR is shown below. What should be the diagnosis ?",
-        "exp": "The presence of respiratory distress after blood transfusion along with elevated CVP and PCWP points towards diagnosis of Transfusion associated circulatory overload TACO TRALI Ejection Fraction < 40% > 40% PCWP > 18 mm Hg <= 18 mm Hg CXR CTR > 0.55 CTR < 0.55 Fluid Balance Positive Neutral BNP > 1200 pg/mL < 250 pg/mL BP | | Temperature Unchanged Febrile WBC Unchanged Transient |",
+        "question": "A patient in ICU was given blood transfusion. 3 hours later Sp. O2 is reduced to 75% with respiratory difficulty. CVP is 15cm water and PCWP is 25mm Hg. CXR is shown below. What should be the diagnosis?",
+        "exp": "The presence of respiratory distress after blood transfusion along with elevated CVP and PCWP points towards diagnosis of Transfusion associated circulatory overload TACO TRALI Ejection Fraction < 40% > 40% PCWP > 18 mm Hg <= 18 mm Hg CXR CTR > 0. 55 CTR < 0. 55 Fluid Balance Positive Neutral BNP > 1200 pg/mL < 250 pg/mL BP | | Temperature Unchanged Febrile WBC Unchanged Transient |",
         "cop": 3,
         "opa": "Tension pneumothorax",
         "opb": "Transfusion related acute lung injury",
@@ -105,7 +105,7 @@
     },
     {
         "question": "Transfusing blood after prolonged storage could lead to:",
-        "exp": "Prolonged storage of blood can lead to hyperkalemia due to lysis of RBC. Citrate intoxication, circulatory overload & haemorrhagic diathesis results from massive blood trasfusion. Citrate intoxication - Hypocalcemia, manifested by circumoral numbness and/or tingling sensation of the fingers and toes. Circulatory overload - Transfusion-associated circulatory overload (TACO). Dyspnea, bilateral infiltrates on CXR with systolic hypeension and elevated levels of Brain natriuretic peptide (BNP). Haemorrhagic diathesis - Dilutional thrombocytopenia",
+        "exp": "Prolonged storage of blood can lead to hyperkalemia due to lysis of RBC. Citrate intoxication, circulatory overload & haemorrhagic diathesis results from massive blood trasfusion. Citrate intoxication - Hypocalcemia, manifested by circumoral numbness and/or tingling sensation of the fingers and toes. Circulatory overload - Transfusion-associated circulatory overload (TACO). Dyspnea, bilateral infiltrates on CXR with systolic hypertension and elevated levels of Brain natriuretic peptide (BNP). Haemorrhagic diathesis - Dilutional thrombocytopenia",
         "cop": 2,
         "opa": "Citrate intoxication",
         "opb": "Potassium toxicity",
@@ -131,11 +131,11 @@
     },
     {
         "question": "Most common complication of blood transfusion leading to death?",
-        "exp": "T.R.A.L.I (Transfusion Related Acute Lung Injury) - Most common complication of blood transfusion leading to death is T.R.A.L.I Cytokine released due to antigenic difference | Damage to microvasculature of lungs | T.R.A.L.I | Death",
+        "exp": "T. R. A. L. I (Transfusion Related Acute Lung Injury) - Most common complication of blood transfusion leading to death is T. R. A. L. I Cytokine released due to antigenic difference | Damage to microvasculature of lungs | T. R. A. L. I | Death",
         "cop": 3,
         "opa": "Hyperkalemia",
         "opb": "Citrate toxicity",
-        "opc": "T.R.A.L.I",
+        "opc": "T. R. A. L. I",
         "opd": "Hypothermia",
         "subject_name": "Medicine",
         "topic_name": "Blood Bank & Transfusion Therapy",
@@ -182,12 +182,12 @@
         "choice_type": "single"
     },
     {
-        "question": "A 30 year old male was given blood transfusion in the O.T. following which he develops tachycardia, hypotension BP-70/40 mm of Hg and hematuria within 10 minutes of staing the transfusion. The most probable cause is?",
-        "exp": "This is likely a case of ABO incompatibility. It presents with hypotension and tachycardia The patient develops intravascular hemolysis leading to hemoglobinemia and hemoglobinuria and resultant acute renal failure. Anaesthetic drug hypersensitivity In anesthetized patients tachycardia,hypotension- usual presentation as most inhalational agents cause vasodilatation D I C Ruled out as it presents with bleeding from veni-puncture sites, GIT, lungs and skin and along with thrombosis of microcirculations and large vessels GVHD Ruled out as it presents with fever and maculopapular rash, diarrhea and LFT abnormalities.",
+        "question": "A 30 year old male was given blood transfusion in the O. T. following which he develops tachycardia, hypotension BP-70/40 mm of Hg and hematuria within 10 minutes of staing the transfusion. The most probable cause is?",
+        "exp": "This is likely a case of ABO incompatibility. It presents with hypotension and tachycardia The patient develops intravascular hemolysis leading to hemoglobinemia and hemoglobinuria and resultant acute renal failure. Anaesthetic drug hypersensitivity In anesthetized patients tachycardia, hypotension- usual presentation as most inhalational agents cause vasodilatation D I C Ruled out as it presents with bleeding from veni-puncture sites, GIT, lungs and skin and along with thrombosis of microcirculations and large vessels GVHD Ruled out as it presents with fever and maculopapular rash, diarrhea and LFT abnormalities.",
         "cop": 4,
         "opa": "Anesthetic drug hypersensitivity",
-        "opb": "D.I.C",
-        "opc": "G.V.H.D",
+        "opb": "D. I. C",
+        "opc": "G. V. H. D",
         "opd": "ABO incompatibility",
         "subject_name": "Medicine",
         "topic_name": "Blood Bank & Transfusion Therapy",

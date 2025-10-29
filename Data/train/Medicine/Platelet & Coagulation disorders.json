@@ -1,10 +1,10 @@
 [
     {
         "question": "Which of the following is the best test to diagnose bleeding in DIC?",
-        "exp": "Fibrin degradation product (FDP) is the best test to diagnose bleeding in DIC. D-Dimer assay is for screening | PT & | aPTT seen in a lot of conditions - so not best.",
+        "exp": "Fibrin degradation product (FDP) is the best test to diagnose bleeding in DIC. D-Dimer assay is for screening | PT & | a. PTT seen in a lot of conditions - so not best.",
         "cop": 4,
         "opa": "Increased PT",
-        "opb": "Increased aPTT",
+        "opb": "Increased a. PTT",
         "opc": "Decreased fibrinogen",
         "opd": "Increased fibrin degradation products",
         "subject_name": "Medicine",
@@ -26,8 +26,8 @@
         "choice_type": "single"
     },
     {
-        "question": "All are seen in D.I.C except:",
-        "exp": "DIC: Findings include the prolongation of PT and/or aPTT; platelet counts <100,000/mL3. The presence of schistocytes (fragmented red cells) in the blood smear with elevated levels of FDP is diagnostic of DIC. Fibrinogen can be decreased or normal but NEVER increased in cases of DIC.",
+        "question": "All are seen in D. I. C except:",
+        "exp": "DIC: Findings include the prolongation of PT and/or a. PTT; platelet counts <100, 000/m. L3. The presence of schistocytes (fragmented red cells) in the blood smear with elevated levels of FDP is diagnostic of DIC. Fibrinogen can be decreased or normal but NEVER increased in cases of DIC.",
         "cop": 1,
         "opa": "Hyperfibrinogenemia",
         "opb": "Increase fibrin degradation products",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Which is the most common inherited bleeding disorder?",
-        "exp": "Von Willebrand disease (vWD) is the most common inherited bleeding disorder. It has an autosomal dominant inheritance. The hallmark of von Willebrand disease is defective platelet adhesion to sub-endothelial components caused by a deficiency of the plasma protein vWf.",
+        "exp": "Von Willebrand disease (v. WD) is the most common inherited bleeding disorder. It has an autosomal dominant inheritance. The hallmark of von Willebrand disease is defective platelet adhesion to sub-endothelial components caused by a deficiency of the plasma protein v. Wf.",
         "cop": 1,
         "opa": "Von Wilebrand disease",
         "opb": "Bernard soulier",
@@ -53,7 +53,7 @@
     },
     {
         "question": "Bleeding time is increased in all except:",
-        "exp": "aPTT is increased in acquired hemophilia Glanzmann's Thrombasthenia: AR, platelet lack receptor of Gp IIb/IIIa for fibrinogen, which form the bridges between platelets during aggregation. Glanzmann's thrombasthenia is a defect of platelet function(aggregation). It presents as superficial mucocutaneous bleeding with normal platelet count and single isolated platelets without clumping on peripheral smear. Platelet numbers and morphology are normal, but the bleeding time is markedly prolonged. Platelet dysfunction in renal failure is due retention of uremic toxins, anemia,and nitric oxide.",
+        "exp": "a. PTT is increased in acquired hemophilia Glanzmann's Thrombasthenia: AR, platelet lack receptor of Gp IIb/IIIa for fibrinogen, which form the bridges between platelets during aggregation. Glanzmann's thrombasthenia is a defect of platelet function(aggregation). It presents as superficial mucocutaneous bleeding with normal platelet count and single isolated platelets without clumping on peripheral smear. Platelet numbers and morphology are normal, but the bleeding time is markedly prolonged. Platelet dysfunction in renal failure is due retention of uremic toxins, anemia, and nitric oxide.",
         "cop": 4,
         "opa": "Thrombocytopenia",
         "opb": "Thrombasthenia",
@@ -65,8 +65,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "A 45 year old lady presents with normal PT and increased aPTT. About 2 years ago, she was operated for cholecystectomy & did not have any bleeding episode. What is next investigation for clinical diagnosis?",
-        "exp": "Choice A is ruled out as hemophilia presents in males and presents with bleeding Choice C is ruled out as platelet aggregation test is used for platelet disorders which lead to bleeding. Ristocetin co-factor assays are used to detect Von Willebrand's disease. Von Willebrand's disease causes prolongation of PTT but it is also associated with clinical bleeding so choice D can be ruled out. An isolated result showing aPTT prolongation suggests a deficiency or inhibitor of one or more of the intrinsic pathway clotting factors Russel viper venom test (dRVVT) Dilute Russel viper venom test is one of the tests to detect lupus anticoagulant. Lupus anticoagulant is associated with prolongation in PTT and thrombosis but no bleeding.",
+        "question": "A 45 year old lady presents with normal PT and increased a. PTT. About 2 years ago, she was operated for cholecystectomy & did not have any bleeding episode. What is next investigation for clinical diagnosis?",
+        "exp": "Choice A is ruled out as hemophilia presents in males and presents with bleeding Choice C is ruled out as platelet aggregation test is used for platelet disorders which lead to bleeding. Ristocetin co-factor assays are used to detect Von Willebrand's disease. Von Willebrand's disease causes prolongation of PTT but it is also associated with clinical bleeding so choice D can be ruled out. An isolated result showing a. PTT prolongation suggests a deficiency or inhibitor of one or more of the intrinsic pathway clotting factors Russel viper venom test (d. RVVT) Dilute Russel viper venom test is one of the tests to detect lupus anticoagulant. Lupus anticoagulant is associated with prolongation in PTT and thrombosis but no bleeding.",
         "cop": 2,
         "opa": "Factor VIII assay",
         "opb": "Dilute russel viper venom assay",
@@ -79,7 +79,7 @@
     },
     {
         "question": "In Hemophilia B what is most common cause of death?",
-        "exp": "Hemophilia B- inherited, X-linked recessive disorder resulting in deficiency of functional plasma coagulation factor IX. Morbidity and death are primarily the result of hemorrhage, although infectious diseases (e.g., HIV, hepatitis) also has some role.",
+        "exp": "Hemophilia B- inherited, X-linked recessive disorder resulting in deficiency of functional plasma coagulation factor IX. Morbidity and death are primarily the result of hemorrhage, although infectious diseases (e. g., HIV, hepatitis) also has some role.",
         "cop": 1,
         "opa": "Hemorrhage",
         "opb": "HIV, HBV, HCV due to transfusions",
@@ -92,7 +92,7 @@
     },
     {
         "question": "Which of these is a feature of hemorrhagic disease of new born?",
-        "exp": "Normal newborns are moderately deficient in vitamin K. This deficiency increases on 3rd to 5th day when, vitamin K level falls fuher. The serum level of vitamin K stas increasing from 13th to 15th day of life and achieves adult level at 3 months. In hemorrhagic disease of the newborn, there is delay in achieving the normal vitamin K level. Prolongation of PT values is the most common and earliest finding in vitamin K-deficient patients due to reduction in prothrombin, factor VII, IX, and X levels. F VII has the shoest half-life among these factors that can prolong the PT before changes in the aPTT.",
+        "exp": "Normal newborns are moderately deficient in vitamin K. This deficiency increases on 3rd to 5th day when, vitamin K level falls fuher. The serum level of vitamin K stas increasing from 13th to 15th day of life and achieves adult level at 3 months. In hemorrhagic disease of the newborn, there is delay in achieving the normal vitamin K level. Prolongation of PT values is the most common and earliest finding in vitamin K-deficient patients due to reduction in prothrombin, factor VII, IX, and X levels. F VII has the shoest half-life among these factors that can prolong the PT before changes in the a. PTT.",
         "cop": 1,
         "opa": "Prolonged prothrombin time",
         "opb": "Defective platelet count",
@@ -118,7 +118,7 @@
     },
     {
         "question": "Disseminated intravascular coagulation can occur in all of the following except:",
-        "exp": "Etiologic factors & disorders causing disseminated intravascular coagulation: Obstetric syndrome -- abruptio placenta, amniotic fluid embolism, retained dead fetus, second trimester aboion. Neoplasms, paicularly mucinous adenocarcinomas,acute promyelocytic leukemia. Intravascular hemolysis; Fat embolism; Tissue damage --burns, frostbite, head. Endothelial damage: Aoic aneurysm; Hemolytic uremic syndrome Acute glomerulonephritis; Rocky Mountain spotted fever Vascular malformation, decreased blood flow: KasabachMerritt syndrome Infections: Bacterial: staphylococci, streptococci, pneumococci, meningococci, gram -ve bacilli",
+        "exp": "Etiologic factors & disorders causing disseminated intravascular coagulation: Obstetric syndrome -- abruptio placenta, amniotic fluid embolism, retained dead fetus, second trimester aboion. Neoplasms, paicularly mucinous adenocarcinomas, acute promyelocytic leukemia. Intravascular hemolysis; Fat embolism; Tissue damage --burns, frostbite, head. Endothelial damage: Aoic aneurysm; Hemolytic uremic syndrome Acute glomerulonephritis; Rocky Mountain spotted fever Vascular malformation, decreased blood flow: Kasabach. Merritt syndrome Infections: Bacterial: staphylococci, streptococci, pneumococci, meningococci, gram -ve bacilli",
         "cop": 4,
         "opa": "Snakebite",
         "opb": "Placenta Pre",
@@ -130,7 +130,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "A 30yr female presented with mucosal bleeds on trauma and also has history of menorhhagia. BT and paial prothrombin time are elevated. Ristocetin assay is positive.What shall be the diagnosis?",
+        "question": "A 30yr female presented with mucosal bleeds on trauma and also has history of menorhhagia. BT and paial prothrombin time are elevated. Ristocetin assay is positive. What shall be the diagnosis?",
         "exp": "This is most likely a case of von Willebrand disease The most common inherited bleeding disorder due to deficient / defective von Willebrand factor. Hemophilia A Hemophilia B Von Willebrand Disease Inheritance X linked X linked Autosomal dominant Factor deficiency VIII IX VWF Bleeding site (s) Muscle, joint Surgical Muscle, Joint Mucousal, Skin Activated PTT Prolonged Prolonged Prolonged Bleeding Time Normal Normal Prolonged or normal Factor VIII Low Normal Normal VWF Normal Normal Low Factor IX Normal Low Normal",
         "cop": 4,
         "opa": "Immune thrombotic purpura (ITP)",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Which of the following is given to treat thrombocytopenia secondary to anti-cancer therapy and is known to stimulate progenitor megakaryocytes?",
-        "exp": "Oprelvekin or recombinant interleukin-11- used in management of chemotherapy-induced thrombocytopenia S/E- fluid retention, hea failure, and arrhythmias. Two drugs that activate the thrombopoietin receptor: Romiplostim Eltrombopag These are used in idiopathic thrombocytopenia.",
+        "exp": "Oprelvekin or recombinant interleukin-11- used in management of chemotherapy-induced thrombocytopenia S/E- fluid retention, heart failure, and arrhythmias. Two drugs that activate the thrombopoietin receptor: Romiplostim Eltrombopag These are used in idiopathic thrombocytopenia.",
         "cop": 2,
         "opa": "Filgrastim",
         "opb": "Oprelvekin",
@@ -172,7 +172,7 @@
         "question": "Bleeding crisis in acute idiopathic thrombocytopenic Purpura is managed by all except:",
         "exp": "Glucocoicoids and IVIg are the mainstays of medical therapy for acute ITP. IV Rh IG in acute ITP also increases platelet count. Thrombopoietin (TPO) receptor agonist eltrombopag interacts with transmembrane domain of human TPO receptor and induces megakaryocyte proliferation and differentiation from bone marrow progenitor cells. It is indicated for thrombocytopenia associated with chronic idiopathic thrombocytopenic purpura and not bleeding crisis.",
         "cop": 4,
-        "opa": "RhIG",
+        "opa": "Rh. IG",
         "opb": "Prednisolone",
         "opc": "Intravenous immunoglobulin",
         "opd": "Eltrombopag",
@@ -182,7 +182,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "Which of the following drugs does not act by blocking GpIIb/IIIa receptors?",
+        "question": "Which of the following drugs does not act by blocking Gp. IIb/IIIa receptors?",
         "exp": "Clopidogrel inhibits ADP receptors whereas Abciximab, Tirofiban and Eptifibatide are GP IIb/IIIa antagonists.",
         "cop": 4,
         "opa": "Abciximab",
@@ -196,12 +196,12 @@
     },
     {
         "question": "Which is the rarest type of von Willebrand disease?",
-        "exp": "Type III vWD is the rarest type of von Willebrand disease. It result from the inheritance of a mutant vWF gene from both parents. TYPES OF vBD: Condition Defect vWD type 1 Mild to moderate quantitative deficiency of vWF (i.e., about 20-50% of normal levels). vWD type 2A The most common qualitative abnormality of vWF selective loss of large and medium-sized multimers vWD type 2B Loss of only large multimers vWD type 2N Characterized by a defect residing within the patient's plasma vWF that interferes with its ability to bind F VIII. vWD type 2M Involves qualitative variants with decreased platelet-dependent function vWD type 3 A severe, quantitative deficiency associated with very little or no detectable plasma or platelet vWF, have a profound bleeding disorder",
+        "exp": "Type III v. WD is the rarest type of von Willebrand disease. It result from the inheritance of a mutant v. WF gene from both parents. TYPES OF v. BD: Condition Defect v. WD type 1 Mild to moderate quantitative deficiency of v. WF (i. e., about 20-50% of normal levels). v. WD type 2A The most common qualitative abnormality of v. WF selective loss of large and medium-sized multimers v. WD type 2B Loss of only large multimers v. WD type 2N Characterized by a defect residing within the patient's plasma v. WF that interferes with its ability to bind F VIII. v. WD type 2M Involves qualitative variants with decreased platelet-dependent function v. WD type 3 A severe, quantitative deficiency associated with very little or no detectable plasma or platelet v. WF, have a profound bleeding disorder",
         "cop": 4,
-        "opa": "vWD type 1",
-        "opb": "vWD type 2A",
-        "opc": "vWD type 2N",
-        "opd": "vWD type 3",
+        "opa": "v. WD type 1",
+        "opb": "v. WD type 2A",
+        "opc": "v. WD type 2N",
+        "opd": "v. WD type 3",
         "subject_name": "Medicine",
         "topic_name": "Platelet & Coagulation disorders",
         "id": "23ee37ae-7506-4536-8090-9e3a7022ba0b",

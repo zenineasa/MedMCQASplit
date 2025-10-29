@@ -1,7 +1,7 @@
 [
     {
-        "question": "Dyskeratosis is characteristic feature of ?",
-        "exp": "Dyskeratosis - Premature or abnormal keratinization Seen in -1. Malignant condition : Squamous cell carcinoma2. Premalignant : Bowen's disease3. Benign conditions :a. Darier's diseaseb. Hailey-hailey disease",
+        "question": "Dyskeratosis is characteristic feature of?",
+        "exp": "Dyskeratosis - Premature or abnormal keratinization Seen in -1. Malignant condition: Squamous cell carcinoma2. Premalignant: Bowen's disease3. Benign conditions: a. Darier's diseaseb. Hailey-hailey disease",
         "cop": 1,
         "opa": "Darier's disease",
         "opb": "Pemphigus vulgaris",
@@ -14,10 +14,10 @@
     },
     {
         "question": "Defect seen in Hailey Hailey disease?",
-        "exp": "Hailey-hailey disease / Benign familial pemphigus Occurs due to defect in gene: ATP2C1 gene which codes for: SERCA (Sarco Endoplasmic reticulase Ca2+ ATPase). Therefore, in this disease Ca2+ ATPase is defective. Ca2+ required for attachment of two desmosomes. ATP7A mutation causes Menke's disease. ATP7B mutation - Wilson's disease ATP2A2 mutation - Darier's disease.",
+        "exp": "Hailey-hailey disease / Benign familial pemphigus Occurs due to defect in gene: ATP2. C1 gene which codes for: SERCA (Sarco Endoplasmic reticulase Ca2+ ATPase). Therefore, in this disease Ca2+ ATPase is defective. Ca2+ required for attachment of two desmosomes. ATP7A mutation causes Menke's disease. ATP7B mutation - Wilson's disease ATP2. A2 mutation - Darier's disease.",
         "cop": 2,
-        "opa": "ATP2A2",
-        "opb": "ATP2C1",
+        "opa": "ATP2. A2",
+        "opb": "ATP2. C1",
         "opc": "ATP7A",
         "opd": "ATP7B",
         "subject_name": "Dental",
@@ -26,7 +26,7 @@
         "choice_type": "single"
     },
     {
-        "question": "TRIAD of Poikiloderma includes all except :",
+        "question": "TRIAD of Poikiloderma includes all except:",
         "exp": "Poikiloderma is characterised by triad of Skin atrophy Telengectasia Pigmentary changes Poikiloderma is associated with Mycosis fungoides(Cutaneous T cell lymphoma) Skin hyperophy is the feature of Lichenification.",
         "cop": 2,
         "opa": "Skin atrophy",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Lichenification occurs in which layer of skin:",
-        "exp": "Lichenification is seen in Stratum malpighii (stratum Spinosum along with stratum basale) LICHENIFICATION- Thickening of the epidermis (and to some extent also of the dermis) in response to prolonged rubbing. It is a secondary skin hyperophy ; thick, leathery skin, giving the skin a leathery bark-like appearance. It is a common consequence of atopic dermatitis;eczema and other pruritic disorders. Associated with acanthosis( thickening of stratum spinosum)",
+        "exp": "Lichenification is seen in Stratum malpighii (stratum Spinosum along with stratum basale) LICHENIFICATION- Thickening of the epidermis (and to some extent also of the dermis) in response to prolonged rubbing. It is a secondary skin hyperophy; thick, leathery skin, giving the skin a leathery bark-like appearance. It is a common consequence of atopic dermatitis; eczema and other pruritic disorders. Associated with acanthosis( thickening of stratum spinosum)",
         "cop": 4,
         "opa": "Stratum lucidum",
         "opb": "Stratum corneum",
@@ -78,8 +78,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Irregular acanthosis is seen in :",
-        "exp": "Acanthosis - increase in number of cells in the Malpighian or prickle cell layer of the epidermis Increased thickness of the epidermis may result from an increased length of rete ridges or may affect the whole epidermis Acanthosis is commonly accompanied by other histological changes - as hypergranulosis, hyperkeratosis and papillomatosis.May be seen in a wide variety of inflammatory and neoplastic disorders. Irregular acanthosis - Lichen planus(saw tooth acanthosis) Regular acanthosis - Chronic eczema , psoriasis",
+        "question": "Irregular acanthosis is seen in:",
+        "exp": "Acanthosis - increase in number of cells in the Malpighian or prickle cell layer of the epidermis Increased thickness of the epidermis may result from an increased length of rete ridges or may affect the whole epidermis Acanthosis is commonly accompanied by other histological changes - as hypergranulosis, hyperkeratosis and papillomatosis. May be seen in a wide variety of inflammatory and neoplastic disorders. Irregular acanthosis - Lichen planus(saw tooth acanthosis) Regular acanthosis - Chronic eczema, psoriasis",
         "cop": 2,
         "opa": "Chronic eczema",
         "opb": "Lichen planus",
@@ -92,7 +92,7 @@
     },
     {
         "question": "Acanthosis involves:-",
-        "exp": "Acanthosis - Thickening of prickle cell layer or malphigian layer. Increase in number of keratinocytes in the prickle cell layer of the epidermis Pseudoacanthosis - increased thickness of the epidermis due to enlarged keratinocytes Acanthosis, Acantholysis- Stratum spinosumHypergranulosis, Agranulosis- Stratum Granulosum",
+        "exp": "Acanthosis - Thickening of prickle cell layer or malphigian layer. Increase in number of keratinocytes in the prickle cell layer of the epidermis Pseudoacanthosis - increased thickness of the epidermis due to enlarged keratinocytes Acanthosis, Acantholysis- Stratum spinosum. Hypergranulosis, Agranulosis- Stratum Granulosum",
         "cop": 1,
         "opa": "Stratum malphigii",
         "opb": "Stratum granulosum",
@@ -118,7 +118,7 @@
     },
     {
         "question": "Spongiosis involves:",
-        "exp": "Spongiosis :extracellular accumulation of fluid in stratum spinosum. Eg: Acute eczema Ballooning: intracellular accumulation of fluid in stratum spinosum.Eg: Acute eczema Acanthosis :thickening of stratum spinosum. Eg: Chronic eczema",
+        "exp": "Spongiosis: extracellular accumulation of fluid in stratum spinosum. Eg: Acute eczema Ballooning: intracellular accumulation of fluid in stratum spinosum. Eg: Acute eczema Acanthosis: thickening of stratum spinosum. Eg: Chronic eczema",
         "cop": 3,
         "opa": "Stratum granulosum",
         "opb": "Stratum corneum",

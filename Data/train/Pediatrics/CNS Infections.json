@@ -1,5 +1,18 @@
 [
     {
+        "question": "In a small child diagnosed with H. influenza meningitis, what investigation must be done before discharging him from the hospital?",
+        "exp": "Ans. (a) BERARef: OP Ghai 8th ed./619; Oskis. Pediatrics: Principles & Practice by Julia A. Mc. Millan",
+        "cop": 1,
+        "opa": "BERA",
+        "opb": "MBI",
+        "opc": "CT scan",
+        "opd": "X ray skull",
+        "subject_name": "Pediatrics",
+        "topic_name": "CNS Infections",
+        "id": "970bae03-9321-4ba7-94aa-585c8c879eff",
+        "choice_type": "multi"
+    },
+    {
         "question": "Bacterial meningitis in children (2 months-12 years) is usually due to the following organisms EXCEPT:",
         "exp": "- Listeria is an impoant cause of meningitis in the neonatal period, but not in older children. - MCC of acute bacterial meningitis in children are Streptococcus pneumoniae, Neisseria meningitides, H. influenzae",
         "cop": 4,
@@ -39,7 +52,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is the antihelminthic of choice for the treatment of neurocysticercosis ?",
+        "question": "Which of the following is the antihelminthic of choice for the treatment of neurocysticercosis?",
         "exp": "- Albendazole is the anti-helminthic of choice for the treatment of neurocysticercosis. - Neurocysticercosis - Parasitic infestation of brain by encysted larvae of pork tape worm",
         "cop": 2,
         "opa": "Mebendazole",
@@ -52,7 +65,7 @@
         "choice_type": "single"
     },
     {
-        "question": "A CSF/serum glucose ratio of < 0.4 is highly suggestive of:",
+        "question": "A CSF/serum glucose ratio of < 0. 4 is highly suggestive of:",
         "exp": "- Hypoglycorrhachia (Low CSF: serum glucose ratio) is commonly seen in Bacterial meningitis. CSF findings:",
         "cop": 1,
         "opa": "Bacterial Meningitis",
@@ -66,7 +79,7 @@
     },
     {
         "question": "An 18 month baby with poor feeding & fever since 3 days is brought with lower limb weakness. On examination, he has lethargy, abnormal movement of lower limbs & anterior fontanelle is bulging. What is the diagnosis:",
-        "exp": "Given case scenario suggests the diagnosis of Meningitis BACTERIAL MENINGITIS: MC organism causing Bacterial Meningitis in neonates - E.coli , Group B streptococci In Infants & older children - streptococcus pneumoniae Clinical features in infants & Neonates: Irritability Shrill cry Seizures Tense, bulging anterior fontanelle Diagnosis: CSF examination PCR to detect bacterial DNA Treatment: Empirical intravenous therapy with third generation Cephalosporin. Therapy is usually administered for 3 weeks in neonates and for 7-10 days in older children. Note: Nuchal rigidity and Kernig and Brudzinski signs are frequently seen in adults but are not present in the neonate with meningitis. Other option: Intracranial hemorrhage - Would not cause fever.",
+        "exp": "Given case scenario suggests the diagnosis of Meningitis BACTERIAL MENINGITIS: MC organism causing Bacterial Meningitis in neonates - E. coli, Group B streptococci In Infants & older children - streptococcus pneumoniae Clinical features in infants & Neonates: Irritability Shrill cry Seizures Tense, bulging anterior fontanelle Diagnosis: CSF examination PCR to detect bacterial DNA Treatment: Empirical intravenous therapy with third generation Cephalosporin. Therapy is usually administered for 3 weeks in neonates and for 7-10 days in older children. Note: Nuchal rigidity and Kernig and Brudzinski signs are frequently seen in adults but are not present in the neonate with meningitis. Other option: Intracranial hemorrhage - Would not cause fever.",
         "cop": 3,
         "opa": "Intra cranial hemorrhage",
         "opb": "Psuedotumor cerebri",
@@ -78,8 +91,21 @@
         "choice_type": "single"
     },
     {
+        "question": "A child presented with fever for 2 days, altered sensorium and purpuric rashes. His blood pressure is 90/60 mm. Hg. Treatment of choice is>",
+        "exp": "Ans. is 'c' i. e. Penicillin. The clinical presentation of fever, altered sensorium and purpuric rashes, is highly suggestive of meningococcal meningitis. Purpuric rash in quite characteristic of meningococcemia. I. V. Penicillin is the treatment of choice for meningoccal inf. among the given options. The DOC for meningococcal infection is -IIIrd generation cephalosporin e. g. Cefotaxime, Ceftriaxone. Also Remember. Waterhouse Friderichsen syndrome. Seen in fulminant meningococcemiaadrenal insufficiency occurs* due Haemorrhage and necrosis in the adrenal glands. Clinical presentation isprostrationhypotensionshock and. Ultimately coma and death.",
+        "cop": 3,
+        "opa": "IV Quinine",
+        "opb": "IV Artesunate",
+        "opc": "IV Penicillin",
+        "opd": "Chloroquine",
+        "subject_name": "Pediatrics",
+        "topic_name": "CNS Infections",
+        "id": "774b74b7-8fd5-4841-94a7-eddf0d7a94d0",
+        "choice_type": "single"
+    },
+    {
         "question": "Commonest cause of meningoencephalitis in children is:",
-        "exp": "- Enteroviruses are the most common cause of viral meningoencephalitis in children . Also remember, - JAPANESE ENCEPHALITIS is MCC of encephalitis in children in India",
+        "exp": "- Enteroviruses are the most common cause of viral meningoencephalitis in children. Also remember, - JAPANESE ENCEPHALITIS is MCC of encephalitis in children in India",
         "cop": 4,
         "opa": "HSV",
         "opb": "Measles",
@@ -92,7 +118,7 @@
     },
     {
         "question": "A neonate who is febrile, presents with features of encephalitis. On examination, the baby is found to have vesicular skin lesions. Most probable causative organism is:",
-        "exp": "- Given features suggests the diagnosis of HSV encephalitis. As the question mentions Neonate, therefore answer is option 2 i.e. HSV-II. CNS infection by Herpes Simplex: In the neonatal period, HSV II (acquired from maternal genital lesions) is an impoant cause of encephalitis. Beyond the neonatal period, HSV encephalitis is almost always caused by HSV I. HSV encephalitis usually involves (most common) temporal frontal coex and the limbic system. HSV is a cause of aseptic meningitis and is the most common cause of recurrent aseptic meningitis (Mollaret meningitis). Fever is relatively uncommon and skin vesicles occur in only 60% of cases of HSV encephalitis Herpes simplex virus (HSV) type 1 is an impoant cause of severe, sporadic encephalitis in children and adults.Severe encephalitis with diffuse brain involvement is caused by HSV type 2 in neonates who usually contract the virus from their mothers at delivery.",
+        "exp": "- Given features suggests the diagnosis of HSV encephalitis. As the question mentions Neonate, therefore answer is option 2 i. e. HSV-II. CNS infection by Herpes Simplex: In the neonatal period, HSV II (acquired from maternal genital lesions) is an impoant cause of encephalitis. Beyond the neonatal period, HSV encephalitis is almost always caused by HSV I. HSV encephalitis usually involves (most common) temporal frontal coex and the limbic system. HSV is a cause of aseptic meningitis and is the most common cause of recurrent aseptic meningitis (Mollaret meningitis). Fever is relatively uncommon and skin vesicles occur in only 60% of cases of HSV encephalitis Herpes simplex virus (HSV) type 1 is an impoant cause of severe, sporadic encephalitis in children and adults. Severe encephalitis with diffuse brain involvement is caused by HSV type 2 in neonates who usually contract the virus from their mothers at delivery.",
         "cop": 2,
         "opa": "HSV I",
         "opb": "HSV II",

@@ -1,7 +1,7 @@
 [
     {
-        "question": "A 44 year old patient presented with jaundice and had needle prick injury 2 year back and liver biopsy is shown below. Based on the histological features ,classify type of hepatitis:",
-        "exp": "In chronic hepatitis B, \"Ground-glass\" hepatocytes--cells with endoplasmic reticulum swollen by HBsAg--is a diagnostic hallmark. Immuno-staining can confirm the presence of viral antigen",
+        "question": "A 44 year old patient presented with jaundice and had needle prick injury 2 year back and liver biopsy is shown below. Based on the histological features, classify type of hepatitis:",
+        "exp": "In chronic hepatitis B, \"Ground-glass\" hepatocytes--cells with endoplasmic reticulum swollen by HBs. Ag--is a diagnostic hallmark. Immuno-staining can confirm the presence of viral antigen",
         "cop": 1,
         "opa": "Hepatitis B virus induced hepatitis",
         "opb": "Hepatitis C virus induced hepatitis",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Which of the following is not a feature of autoimmune hepatitis?",
-        "exp": "Anti-Sm antigen antibodies are found in SLE. Autoantibodies found in Type 1 autoimmune hepatitis: Antinuclear antibodies (ANAs) Anti-smooth muscle actin (SMA) antibodies Antibodies against soluble liver antigen/liver-pancreas antigen (SLA/LPA) Anti-mitochondrial antibodies (AMA, more typical of primary biliary cholangitis) Autoantibodies found in Type 2 autoimmune hepatitis: Anti-liver kidney microsome-1 (LKM-1) antibodies, which are directed against CYP2D6 Anti-liver cytosol-1 (ACL-1) antibodies",
+        "exp": "Anti-Sm antigen antibodies are found in SLE. Autoantibodies found in Type 1 autoimmune hepatitis: Antinuclear antibodies (ANAs) Anti-smooth muscle actin (SMA) antibodies Antibodies against soluble liver antigen/liver-pancreas antigen (SLA/LPA) Anti-mitochondrial antibodies (AMA, more typical of primary biliary cholangitis) Autoantibodies found in Type 2 autoimmune hepatitis: Anti-liver kidney microsome-1 (LKM-1) antibodies, which are directed against CYP2. D6 Anti-liver cytosol-1 (ACL-1) antibodies",
         "cop": 4,
         "opa": "Anti-SMA antibodies",
         "opb": "Anti-LKM1 anitbodies",
@@ -39,8 +39,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 20-year-old woman presents with a 2-week history of fever, malaise, and brown-colored urine. She recently visited Mexico. Physical examination reveals jaundice, mild hepatomegaly, and tenderness in the right upper quadrant. The serum bilirubin is 7.8 mg/dL, with 60% in the conjugated form. Serum levels of AST and ALT are markedly elevated (400 and 392 U/L, respectively). Serum albumin and immunoglobulin levels are normal. Serum IgM anti-hepatitis A virus (anti-HAV) is positive. IgG anti-hepatitis B surface antigen (anti-HBsAg) antibodies are positive. Anti-hepatitis C virus antibodies are negative.What is the most likely diagnosis?",
-        "exp": "HAV RNA Transmitted by the fecal-oral route and may be contracted by contamination of water and food. Never pursues a chronic course, does not have a carrier state, and provides life-long immunity. IgM anti-HAV is identified in acute infections. -The presence of serum IgG anti-HBsAg indicates prior exposure to hepatitis B virus but does not reflect active disease . -Individuals with chronic hepatitis B do not have detectable anti-HBsAg in their blood. -Acute and chronic hepatitis C are ruled out by the negative serology.",
+        "question": "A 20-year-old woman presents with a 2-week history of fever, malaise, and brown-colored urine. She recently visited Mexico. Physical examination reveals jaundice, mild hepatomegaly, and tenderness in the right upper quadrant. The serum bilirubin is 7. 8 mg/dL, with 60% in the conjugated form. Serum levels of AST and ALT are markedly elevated (400 and 392 U/L, respectively). Serum albumin and immunoglobulin levels are normal. Serum IgM anti-hepatitis A virus (anti-HAV) is positive. IgG anti-hepatitis B surface antigen (anti-HBs. Ag) antibodies are positive. Anti-hepatitis C virus antibodies are negative. What is the most likely diagnosis?",
+        "exp": "HAV RNA Transmitted by the fecal-oral route and may be contracted by contamination of water and food. Never pursues a chronic course, does not have a carrier state, and provides life-long immunity. IgM anti-HAV is identified in acute infections. -The presence of serum IgG anti-HBs. Ag indicates prior exposure to hepatitis B virus but does not reflect active disease. -Individuals with chronic hepatitis B do not have detectable anti-HBs. Ag in their blood. -Acute and chronic hepatitis C are ruled out by the negative serology.",
         "cop": 1,
         "opa": "Acute viral hepatitis A",
         "opb": "Acute viral hepatitis B",
@@ -65,7 +65,7 @@
         "choice_type": "single"
     },
     {
-        "question": "A 26-year-old woman presents to her primary care physician with fever, malaise, and \"yellow eyes.\" She denies alcohol abuse, but admits to indulging in a dozen raw oysters at happy hour 3 weeks ago. In addition to scleral icterus, physical examination reveals a mildly enlarged liver with tenderness to palpation. Laboratory studies demonstrate a markedly increased aspaate aminotransferase and alanine aminotransferase and increased IgM and anti hepatitis A titers. Which of the following is the most likely result of this infection?",
+        "question": "A 26-year-old woman presents to her primary care physician with fever, malaise, and \"yellow eyes. \" She denies alcohol abuse, but admits to indulging in a dozen raw oysters at happy hour 3 weeks ago. In addition to scleral icterus, physical examination reveals a mildly enlarged liver with tenderness to palpation. Laboratory studies demonstrate a markedly increased aspaate aminotransferase and alanine aminotransferase and increased IgM and anti hepatitis A titers. Which of the following is the most likely result of this infection?",
         "exp": "The patient has a case of hepatitis A (HAV), most likely associated with the consumption of uncooked shellfish. Complete resolution occurs in an overwhelming majority of cases. Although possible, fulminant hepatic failure is unlikely with HAV infection. There is no association of HAV with either cirrhosis or hepatocellular carcinoma, as there is for hepatitis B and C.",
         "cop": 2,
         "opa": "Cirrhosis",
@@ -91,10 +91,10 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient presented with acute onset of jaundice and raised aminotranferases. Preliminary serology repo showed HBsAg positivity. On fuher testing, which of the following is least likely to be found in this patient?",
-        "exp": "HBsAg appears before the onset of symptoms and peaks in acute, symptomatic disease. HBsAg persists in cases of chronic hepatitis B. Anti-HBs antibody begins to rise following the resolution of acute disease, generally after the disappearance of HBsAg. Anti-HBs antibodies tend to persist for life, conferring protection; this is the basis for current vaccination strategies using noninfectious HBsAg. By contrast, anti-HBs antibodies are not produced in cases that progress to chronic liver disease. HBeAg, HBV DNA, and HBV DNA polymerase are detectable in the serum soon after HBsAg and signify active viral replication Persistence of HBeAg is an impoant indicator of continued virus replication, infectivity, and probable progression to chronic hepatitis. Anti-HBe antibody signifies that acute infection has peaked and is on the wane, whereas in cases that progress to chronic infection, anti-HBe antibody is not produced or appears only late in the disease course.",
+        "question": "A patient presented with acute onset of jaundice and raised aminotranferases. Preliminary serology repo showed HBs. Ag positivity. On fuher testing, which of the following is least likely to be found in this patient?",
+        "exp": "HBs. Ag appears before the onset of symptoms and peaks in acute, symptomatic disease. HBs. Ag persists in cases of chronic hepatitis B. Anti-HBs antibody begins to rise following the resolution of acute disease, generally after the disappearance of HBs. Ag. Anti-HBs antibodies tend to persist for life, conferring protection; this is the basis for current vaccination strategies using noninfectious HBs. Ag. By contrast, anti-HBs antibodies are not produced in cases that progress to chronic liver disease. HBe. Ag, HBV DNA, and HBV DNA polymerase are detectable in the serum soon after HBs. Ag and signify active viral replication Persistence of HBe. Ag is an impoant indicator of continued virus replication, infectivity, and probable progression to chronic hepatitis. Anti-HBe antibody signifies that acute infection has peaked and is on the wane, whereas in cases that progress to chronic infection, anti-HBe antibody is not produced or appears only late in the disease course.",
         "cop": 2,
-        "opa": "HBeAg",
+        "opa": "HBe. Ag",
         "opb": "Anti-HBs antibodies",
         "opc": "HBV DNA",
         "opd": "HBV DNA polymerase",
@@ -105,7 +105,7 @@
     },
     {
         "question": "Autoimmune hepatitis type I is characterized by presence of all of the following except:",
-        "exp": "Autoimmune hepatitisis a chronic, progressive hepatitis. Type 1: Type 2: Middle-aged to older individuals Antinuclear (ANA), Anti-smooth muscle actin (SMA). Children and teenagers Anti-liver kidney microsome-1 (anti-LKM-1) antibodies, directed against CYP2D6, and anti liver cytosol-1 (ACL-1) antibodies.",
+        "exp": "Autoimmune hepatitisis a chronic, progressive hepatitis. Type 1: Type 2: Middle-aged to older individuals Antinuclear (ANA), Anti-smooth muscle actin (SMA). Children and teenagers Anti-liver kidney microsome-1 (anti-LKM-1) antibodies, directed against CYP2. D6, and anti liver cytosol-1 (ACL-1) antibodies.",
         "cop": 3,
         "opa": "ANA",
         "opb": "SMA",
@@ -118,7 +118,7 @@
     },
     {
         "question": "Which of the following virus is notorious for increased moality in pregnant patients?",
-        "exp": "Hepatitis E virus Endemic in India IP- 2-8 weeks (6 weeks) MOT : Faeco-oral route Usually self limited Not a/w chronic liver failure Highest moality rate in pregnant women (20%)",
+        "exp": "Hepatitis E virus Endemic in India IP- 2-8 weeks (6 weeks) MOT: Faeco-oral route Usually self limited Not a/w chronic liver failure Highest moality rate in pregnant women (20%)",
         "cop": 3,
         "opa": "Hepatitis A",
         "opb": "Hepatitis B",
@@ -144,9 +144,9 @@
     },
     {
         "question": "Commonest risk factor for HCV infection is:",
-        "exp": "Most common risk factors for HCV infection are: Intravenous drug abuse (54%) Multiple sex paners (36%) Having had surgery within the last 6 month (16%) Needle stick injury (10%) Multiple contacts with an HCV-infected person (10%) Employment in medical or dental fields (1.5%)",
+        "exp": "Most common risk factors for HCV infection are: Intravenous drug abuse (54%) Multiple sex paners (36%) Having had surgery within the last 6 month (16%) Needle stick injury (10%) Multiple contacts with an HCV-infected person (10%) Employment in medical or dental fields (1. 5%)",
         "cop": 1,
-        "opa": "i.v. drug abuse",
+        "opa": "i. v. drug abuse",
         "opb": "Multiple sex paners",
         "opc": "Surgery within last 6 months",
         "opd": "Multiple contacts with HCV infected person",
@@ -156,8 +156,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 32-year-old woman seeking to become pregnant visits her physician for a pre-pregnancy examination. Routine prenatal laboratory testing demonstrates the following profile: HBsAg (-), anti-HBsAg (+), anti-HBcAg (-), anti-HBeAg (-), and HBV DNA (-). Which of the following likely represents the status of the patient?",
-        "exp": "The patient is only positive for antibody to the hepatitis B antigen. This suggests that the patient has been vaccinated for hepatitis B virus (HBV). The vaccine consists of recombinantly produced HBV surface antigen (HBsAg) alone; Antibodies to the core protein (anti-HBcAg) appear during acute illness and between the disappearance of HBsAg and the appearance of anti-HBsAg, the \"window period.",
+        "question": "A 32-year-old woman seeking to become pregnant visits her physician for a pre-pregnancy examination. Routine prenatal laboratory testing demonstrates the following profile: HBs. Ag (-), anti-HBs. Ag (+), anti-HBc. Ag (-), anti-HBe. Ag (-), and HBV DNA (-). Which of the following likely represents the status of the patient?",
+        "exp": "The patient is only positive for antibody to the hepatitis B antigen. This suggests that the patient has been vaccinated for hepatitis B virus (HBV). The vaccine consists of recombinantly produced HBV surface antigen (HBs. Ag) alone; Antibodies to the core protein (anti-HBc. Ag) appear during acute illness and between the disappearance of HBs. Ag and the appearance of anti-HBs. Ag, the \"window period.",
         "cop": 2,
         "opa": "Hepatitis B carrier",
         "opb": "Immunized against hepatitis B",

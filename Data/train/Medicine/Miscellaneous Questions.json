@@ -27,7 +27,7 @@
     },
     {
         "question": "A patient presented with hemoptysis and persistent cough. The chest X-ray of the patient was normal. The next best investigation is?",
-        "exp": "* For most patients, the first step in evaluation of hemoptysis should be a standard chest radiograph. * If lesion is not seen then a high resolution CT chest should be done for visualization of lesion . * If all of these studies are unrevealing, bronchoscopy should be done .",
+        "exp": "* For most patients, the first step in evaluation of hemoptysis should be a standard chest radiograph. * If lesion is not seen then a high resolution CT chest should be done for visualization of lesion. * If all of these studies are unrevealing, bronchoscopy should be done.",
         "cop": 2,
         "opa": "Helical CT",
         "opb": "High resolution CT",
@@ -39,8 +39,8 @@
         "choice_type": "single"
     },
     {
-        "question": "46 year old female presented to OPD with complaints of breathlessness, purulent copious cough for 6 weeks. She lost 6 kg in 1.5 months. She was put on Clarithromycin and prednisolone for 2 weeks but there was no improvement in her condition . Chest Xray demonstrated persistent consolidation in the left lower lobe. What is the probable diagnosis of this patient?",
-        "exp": "From the h/o purulent productive cough , loss of weight , and imaging study demonstrating consolidation in lung , adenocarcinoma in situ is a possibility and should be actively excluded by obtaining histology. Adenocarcinoma- seen in females & non smokers On CT scan , AIS is a nonsolid nodule On h/p, AIS shows lepidic growth with <=5 mm invasion 5-year disease-free survival = 100% , if complete tumor is resected",
+        "question": "46 year old female presented to OPD with complaints of breathlessness, purulent copious cough for 6 weeks. She lost 6 kg in 1. 5 months. She was put on Clarithromycin and prednisolone for 2 weeks but there was no improvement in her condition. Chest Xray demonstrated persistent consolidation in the left lower lobe. What is the probable diagnosis of this patient?",
+        "exp": "From the h/o purulent productive cough, loss of weight, and imaging study demonstrating consolidation in lung, adenocarcinoma in situ is a possibility and should be actively excluded by obtaining histology. Adenocarcinoma- seen in females & non smokers On CT scan, AIS is a nonsolid nodule On h/p, AIS shows lepidic growth with <=5 mm invasion 5-year disease-free survival = 100%, if complete tumor is resected",
         "cop": 1,
         "opa": "Adenocarcinoma in situ",
         "opb": "Atypical pneumonia",
@@ -65,8 +65,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "A 35 year old female came to your OPD for smoking cessation. She was diagnosed with depression 2 years ago and took SSRI for 6 months. She is off medication for 1.5 years & now is mentally healthy. She staed smoking at the age of 25 years & she tried quitting on her own using nicotine gums several times but she is unable to sustain abstinence for more than 1 month. What would be the best recommendation in this patient?",
-        "exp": "The answer is D. A comprehensive approach with advice, pharmacological assistance & counselling increase the cessation success. At every medical visit, all patients should be asked whether they smoke, how much they smoke, and whether they are interested in quitting. * Pharmacologic therapy- Nicotine replacement therapy (N) or varenicline Ns- transdermal patches, nasal inhaler, gum, oral inhaler, or lozenges * Varenicline- paial agonist of the nicotinic acetylcholine receptor Counselling: Physician/medical personnel counselling Intensive individual counselling Telephone counselling Effective Pharmacologic Interventions for smoking cessation: First-line therapies (Number in brackets indicates efficacy): 1. Nicotine gum (1.5) 2. Nicotine patch (1.9) 3. Nicotine nasal inhaler (2.7) 4. Nicotine oral inhaler (2.5) 5. Nicotine lozenges (2.0) 6. Bupropion (2.1) 7. Varenicline (2.7) Second-line therapies 1. Clonidine (2.1) 2. Noriptyline (3.2)",
+        "question": "A 35 year old female came to your OPD for smoking cessation. She was diagnosed with depression 2 years ago and took SSRI for 6 months. She is off medication for 1. 5 years & now is mentally healthy. She staed smoking at the age of 25 years & she tried quitting on her own using nicotine gums several times but she is unable to sustain abstinence for more than 1 month. What would be the best recommendation in this patient?",
+        "exp": "The answer is D. A comprehensive approach with advice, pharmacological assistance & counselling increase the cessation success. At every medical visit, all patients should be asked whether they smoke, how much they smoke, and whether they are interested in quitting. * Pharmacologic therapy- Nicotine replacement therapy (N) or varenicline Ns- transdermal patches, nasal inhaler, gum, oral inhaler, or lozenges * Varenicline- paial agonist of the nicotinic acetylcholine receptor Counselling: Physician/medical personnel counselling Intensive individual counselling Telephone counselling Effective Pharmacologic Interventions for smoking cessation: First-line therapies (Number in brackets indicates efficacy): 1. Nicotine gum (1. 5) 2. Nicotine patch (1. 9) 3. Nicotine nasal inhaler (2. 7) 4. Nicotine oral inhaler (2. 5) 5. Nicotine lozenges (2. 0) 6. Bupropion (2. 1) 7. Varenicline (2. 7) Second-line therapies 1. Clonidine (2. 1) 2. Noriptyline (3. 2)",
         "cop": 4,
         "opa": "Counselling only",
         "opb": "Bupropion + Nicotine patches",
@@ -118,7 +118,7 @@
     },
     {
         "question": "50 year old male is evaluated for haemoptysis. His CXR shows a cavitating lesion. All of the following can be the cause for this EXCEPT:",
-        "exp": "Hemoptysis with Cavitation in lungs is seen in : Aspergilloma Community acquired pneumonia (CAP) Wegener's granulomatosis Staphylococcus aureus Streptococcus millieri Tuberculosis Sarcoidosis Non caseating granulomas MC organ involved - Lung-no cavitation CXR => Stage CXR Features 1 Hilar LN 2 Hilar LN + infiltrates 3 Infiltrates 4 Fibrosis",
+        "exp": "Hemoptysis with Cavitation in lungs is seen in: Aspergilloma Community acquired pneumonia (CAP) Wegener's granulomatosis Staphylococcus aureus Streptococcus millieri Tuberculosis Sarcoidosis Non caseating granulomas MC organ involved - Lung-no cavitation CXR => Stage CXR Features 1 Hilar LN 2 Hilar LN + infiltrates 3 Infiltrates 4 Fibrosis",
         "cop": 4,
         "opa": "Aspergilloma",
         "opb": "Community acquired pneumonia (CAP)",
@@ -130,8 +130,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "61 year?old man presents to OPD with complaints of persistent, non-productive cough for 1 month. He has no other symptom. He is smoking around 20 biddis per day for last 25 years. Physical examination is normal. What is the line of management in such patients?",
-        "exp": "Lung cancer Most common symptom in chronic smokers is persistent cough and chest X Ray is a must for such patients. Smoking cessation can reduce risk of lung cancer. Cessation at or before middle age can reduce the chances of lung cancer by 90% But in this case scenario, patients is elderly and will not have a strong will to achieve the goal of smoking abstinence. Therefore after doing a chest X ray, he must be referred to smoking cessation clinics so that compliance can be monitored and effective counselling can be done .",
+        "question": "61 year? old man presents to OPD with complaints of persistent, non-productive cough for 1 month. He has no other symptom. He is smoking around 20 biddis per day for last 25 years. Physical examination is normal. What is the line of management in such patients?",
+        "exp": "Lung cancer Most common symptom in chronic smokers is persistent cough and chest X Ray is a must for such patients. Smoking cessation can reduce risk of lung cancer. Cessation at or before middle age can reduce the chances of lung cancer by 90% But in this case scenario, patients is elderly and will not have a strong will to achieve the goal of smoking abstinence. Therefore after doing a chest X ray, he must be referred to smoking cessation clinics so that compliance can be monitored and effective counselling can be done.",
         "cop": 3,
         "opa": "Reassurance and advise him to quit smoking",
         "opb": "Prescribe oral antibiotics for 7 days",
@@ -143,7 +143,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Which component of cigarette smoke is responsible for C.A.D?",
+        "question": "Which component of cigarette smoke is responsible for C. A. D?",
         "exp": "Cigarette smoke product Effect on human body Acetaldehyde/ Anabasine Addiction Benzene Carcinogenic + cardio-toxic + reproductive potential toxicity Benzopyrene Carcinogenic Carbon monoxide Reproductive potential toxicity Vinyl chloride Carcinogenic",
         "cop": 4,
         "opa": "Nicotine",
@@ -156,8 +156,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 45 yr old male , chronic smoker came to OPD for medications that can help him to stop smoking . Patient has h/O seizures. Which of the following is drug of choice for the given case?",
-        "exp": "Essential elements of smoking cessation therapy is that the individual must want to stop smoking and must be willing to work hard to achieve the goal of smoking abstinence. Individual and combined pharmacotherapies in combination with counseling can significantly increase rates of cessation. The first line of treatment include: therapy with an antidepressant (e.g., bupropion) and nicotine replacement therapy (varenicline) Varenicline - a4b2 nicotinic acetylcholine receptor paial agonist S/E: Increase suicidal ideation and must be used with caution. Prolonged use of varenicline beyond the initial induction phase proved useful in maintaining smoking abstinence. For second line of treatment: Clonidine and noriptyline are recommended",
+        "question": "A 45 yr old male, chronic smoker came to OPD for medications that can help him to stop smoking. Patient has h/O seizures. Which of the following is drug of choice for the given case?",
+        "exp": "Essential elements of smoking cessation therapy is that the individual must want to stop smoking and must be willing to work hard to achieve the goal of smoking abstinence. Individual and combined pharmacotherapies in combination with counseling can significantly increase rates of cessation. The first line of treatment include: therapy with an antidepressant (e. g., bupropion) and nicotine replacement therapy (varenicline) Varenicline - a4b2 nicotinic acetylcholine receptor paial agonist S/E: Increase suicidal ideation and must be used with caution. Prolonged use of varenicline beyond the initial induction phase proved useful in maintaining smoking abstinence. For second line of treatment: Clonidine and noriptyline are recommended",
         "cop": 4,
         "opa": "Clonidine",
         "opb": "Noriptyline",

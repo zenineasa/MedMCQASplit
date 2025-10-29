@@ -1,7 +1,7 @@
 [
     {
-        "question": "A person was diagnosed with Gout. You will suggest the patient to avoid which of the following food product in his diet ?",
-        "exp": "Foods avoided in Gout : Foods rich in Purine are : 1. Vegetarian- Spinach, Peas, Cauliflower, Mushrooms 2. Non-vegetarian- Meat, Liver, Fish (tuna). 3. Alcohol & heavy exercise causes lactic acidosis & hyperuricemia.",
+        "question": "A person was diagnosed with Gout. You will suggest the patient to avoid which of the following food product in his diet?",
+        "exp": "Foods avoided in Gout: Foods rich in Purine are: 1. Vegetarian- Spinach, Peas, Cauliflower, Mushrooms 2. Non-vegetarian- Meat, Liver, Fish (tuna). 3. Alcohol & heavy exercise causes lactic acidosis & hyperuricemia.",
         "cop": 4,
         "opa": "Whisky & Beer",
         "opb": "Spinach & Mushrooms",
@@ -14,7 +14,7 @@
     },
     {
         "question": "Nitrogen atoms in purines are derived from all except-",
-        "exp": "Nitrogen atoms in purines are derived from amino acids - Aspaate Glutamine Glycine Nitrogen atoms in purines Carbon atoms in purines N1 from Aspaate C2 from N10Formyl Tetrahydrofolate N3 & N9 from Glutamine C4 and C5 from Glycine N7 from Glycine C6 from CO2 C8 from N5,N10Methenyl THF",
+        "exp": "Nitrogen atoms in purines are derived from amino acids - Aspaate Glutamine Glycine Nitrogen atoms in purines Carbon atoms in purines N1 from Aspaate C2 from N10. Formyl Tetrahydrofolate N3 & N9 from Glutamine C4 and C5 from Glycine N7 from Glycine C6 from CO2 C8 from N5, N10. Methenyl THF",
         "cop": 3,
         "opa": "Aspaate",
         "opb": "Glutamine",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Salvage pathway of purine nucleotide synthesis are used by all EXCEPT:",
-        "exp": "Salvage pathway occurs in: Brain RBCs WBCs Bone marrow. Brain, RBCs, WBCs and bone marrow lack the enzyme PRPP Glutamyl Amidotransferase and depends on the exogenous purine nucleosides to form nucleotides. Liver is the major site for denovo purine nucleotide synthesis 5 ATPmolecules are required for de novo purine synthesis. Summary of steps of purine synthesis: Step Donor Added atom Product 1.- Activation of R-5-P (ATP required) PRPP 2.Glutamine N9 (Rate limiting) PRA 3.Glycine (ATP required) C4,5,N7 GAR 4.Methenyl-THFA C8 FGAR 5.Glutamine N3 (ATP required) FGAM 6.- Ring closure (ATP required) AIR 7.Carbon dioxide C6 ACAIR 8.Aspaic acid N1(ATP required) SAICAR 9.- Fumarate removed AICAR 10.Formyl-THFA C2 FAICAR 11.- Ring closure",
+        "exp": "Salvage pathway occurs in: Brain RBCs WBCs Bone marrow. Brain, RBCs, WBCs and bone marrow lack the enzyme PRPP Glutamyl Amidotransferase and depends on the exogenous purine nucleosides to form nucleotides. Liver is the major site for denovo purine nucleotide synthesis 5 ATPmolecules are required for de novo purine synthesis. Summary of steps of purine synthesis: Step Donor Added atom Product 1.- Activation of R-5-P (ATP required) PRPP 2. Glutamine N9 (Rate limiting) PRA 3. Glycine (ATP required) C4, 5, N7 GAR 4. Methenyl-THFA C8 FGAR 5. Glutamine N3 (ATP required) FGAM 6.- Ring closure (ATP required) AIR 7. Carbon dioxide C6 ACAIR 8. Aspaic acid N1(ATP required) SAICAR 9.- Fumarate removed AICAR 10. Formyl-THFA C2 FAICAR 11.- Ring closure",
         "cop": 2,
         "opa": "Leukocytes",
         "opb": "Liver",
@@ -66,7 +66,7 @@
     },
     {
         "question": "The purines salvage pathway is for:",
-        "exp": "The purines salvage pathway is for Adenine Guanine Hypoxanthine Adenosine is the only purine nucleoside which can be salvaged i.e. Adenosine gets conveed to AMP by Adenosine Kinase.",
+        "exp": "The purines salvage pathway is for Adenine Guanine Hypoxanthine Adenosine is the only purine nucleoside which can be salvaged i. e. Adenosine gets conveed to AMP by Adenosine Kinase.",
         "cop": 3,
         "opa": "Hypoxanthine & Xanthine",
         "opb": "Hypoxanthine & Thymine",
@@ -78,8 +78,8 @@
         "choice_type": "single"
     },
     {
-        "question": "ATP (Energy currency) has :",
-        "exp": "ATP contains Ribose sugar dATP contains deoxyribose",
+        "question": "ATP (Energy currency) has:",
+        "exp": "ATP contains Ribose sugar d. ATP contains deoxyribose",
         "cop": 1,
         "opa": "Ribose",
         "opb": "Deoxyribose",
@@ -131,7 +131,7 @@
     },
     {
         "question": "The common end product of catabolism of all pyrimidines is:",
-        "exp": "Answer is Urea, not beta alanine The end products of pyrimidine catabolism are NH3, CO2 & beta alanine (for Cytosine, Uracil) For Thymine, these are NH3, CO2 & beta amino iso butyrate. NH3 is the common end product, which can form Urea. Why beta alanine is not the answer - Because beta alanine is not common to all pyrimidines. Its only for Cytosine and Uracil. Option D - Xanthine is an intermediate of catabolism of purines.Xanthine gets conveed to uric acid by Xanthine Oxidase.Option B - Uric acid is the common end product of purine catabolism.However, in non-primate mammals, Allantoin is the end product of purine catabolism as an extra enzyme, Uricase is present.",
+        "exp": "Answer is Urea, not beta alanine The end products of pyrimidine catabolism are NH3, CO2 & beta alanine (for Cytosine, Uracil) For Thymine, these are NH3, CO2 & beta amino iso butyrate. NH3 is the common end product, which can form Urea. Why beta alanine is not the answer - Because beta alanine is not common to all pyrimidines. Its only for Cytosine and Uracil. Option D - Xanthine is an intermediate of catabolism of purines. Xanthine gets conveed to uric acid by Xanthine Oxidase. Option B - Uric acid is the common end product of purine catabolism. However, in non-primate mammals, Allantoin is the end product of purine catabolism as an extra enzyme, Uricase is present.",
         "cop": 3,
         "opa": "Beta alanine",
         "opb": "Uric acid",
@@ -143,7 +143,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "First pyrimidine nucleotide to be synthesized is :",
+        "question": "First pyrimidine nucleotide to be synthesized is:",
         "exp": "First pyrimidine nucleotide to be synthesized OMP (Orotidine Mono Phosphate). First purine nucleotide to be synthesized IMP (Inosine Mono Phosphate). Fig- Simplified Pyrimidine biosynthesis pathway Note: Chemically Orotidine monophosphate is also a pyrimidine nucleotide though it is not present in DNA or RNA. The question just asked you about \"pyrimidine nucleotide\" and not \"pyrimidine nucleotide present in DNA or RNA\". That why the answer is OMP not UMP.",
         "cop": 2,
         "opa": "TMP",
@@ -183,7 +183,7 @@
     },
     {
         "question": "Orotic aciduria is due to deficiency of-",
-        "exp": "Oroticaciduria is a rare, Autosomal recessive disorder. It is the most common metabolic error in Pyrimidine Synthesis. OP (Orotate Phospho Ribosyl Transferase) & Decarboxylase are bifunctional enzymes in pyrimidine synthesis. There are two types of Orotic acidurias: Type I : Both enzymes deficient i.e. OP(Orotate Phosphoribosyl Transferase) and OMP Decarboxylase(it is a bifunctional enzyme) Type II - Only one enzyme deficient (mostly OMP decarboxylase)",
+        "exp": "Oroticaciduria is a rare, Autosomal recessive disorder. It is the most common metabolic error in Pyrimidine Synthesis. OP (Orotate Phospho Ribosyl Transferase) & Decarboxylase are bifunctional enzymes in pyrimidine synthesis. There are two types of Orotic acidurias: Type I: Both enzymes deficient i. e. OP(Orotate Phosphoribosyl Transferase) and OMP Decarboxylase(it is a bifunctional enzyme) Type II - Only one enzyme deficient (mostly OMP decarboxylase)",
         "cop": 1,
         "opa": "Decarboxylase",
         "opb": "Isomerase",
@@ -195,7 +195,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Inhibition of which of the following enzyme is responsible for the anticancer action of 5-Fluorouracil ?",
+        "question": "Inhibition of which of the following enzyme is responsible for the anticancer action of 5-Fluorouracil?",
         "exp": "Drugs Inhibitor of 5-Fluorouracil thymidylate synthase(Suicidal inhibition) Methotrexate Dihydrofolate reductase Acyclovir thymidylate kinase",
         "cop": 4,
         "opa": "Dihydrofolate reductase",
@@ -221,8 +221,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "PRPP (Phospho Ribosyl Pyro Phosphate) is used in :",
-        "exp": "Phosphoribosyl Pyrophosphate(PRPP) is used in the synthesis of : 1. Purine 2. Pyrimidine 3. Histidine 4. Niacin synthesis from Tryptophan. NOTE: Phosphoribosyl pyrophosphate (PRPP) paicipates in pyrimidine biosynthesis only subsequent to assembly of the pyrimidine ring. PRPP serves as a scaffold for assembly of the purine ring in purine biosynthesis. The first intermediate formed in the de novo pathway for purine biosynthesisis 5-phosphoribosyl 1-pyrophosphate (PRPP).",
+        "question": "PRPP (Phospho Ribosyl Pyro Phosphate) is used in:",
+        "exp": "Phosphoribosyl Pyrophosphate(PRPP) is used in the synthesis of: 1. Purine 2. Pyrimidine 3. Histidine 4. Niacin synthesis from Tryptophan. NOTE: Phosphoribosyl pyrophosphate (PRPP) paicipates in pyrimidine biosynthesis only subsequent to assembly of the pyrimidine ring. PRPP serves as a scaffold for assembly of the purine ring in purine biosynthesis. The first intermediate formed in the de novo pathway for purine biosynthesisis 5-phosphoribosyl 1-pyrophosphate (PRPP).",
         "cop": 4,
         "opa": "Purine synthesis & Pyrimidine synthesis",
         "opb": "Histidine synthesis",
@@ -234,7 +234,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "Which of the following DOES NOT contribute to the ring of thymine ?",
+        "question": "Which of the following DOES NOT contribute to the ring of thymine?",
         "exp": "The question asked specifically about the ring and not side groups present on ring. In Thymine (Pyrimidine) ring, sources of N & C are: N3 from Glutamine C2 from CO2 (or Bicarbonate) N1, C4, C5, C6 from Aspaate -CH3 is not pa of the ring but a side group which is contributed by THF, Hence it is the answer.",
         "cop": 3,
         "opa": "Aspaate",
@@ -273,11 +273,11 @@
         "choice_type": "single"
     },
     {
-        "question": "Most abundant free nucleotide in a mammalian cell ?",
+        "question": "Most abundant free nucleotide in a mammalian cell?",
         "exp": "Most abundant free nucleotide in a mammalian cell is ATP",
         "cop": 1,
         "opa": "ATP",
-        "opb": "dATP",
+        "opb": "d. ATP",
         "opc": "GTP",
         "opd": "AMP",
         "subject_name": "Biochemistry",
@@ -326,7 +326,7 @@
     },
     {
         "question": "Nucleotides serve all of the following roles, EXCEPT:",
-        "exp": "Nucleotide Nucleic acids are polynucleotides CAMP and cGMP are cyclic nucleotides involved in signaling pathways. ATP is the cellular currency of energy Membrane is made up of phospholipids and cholesterol and not nucleotides.",
+        "exp": "Nucleotide Nucleic acids are polynucleotides CAMP and c. GMP are cyclic nucleotides involved in signaling pathways. ATP is the cellular currency of energy Membrane is made up of phospholipids and cholesterol and not nucleotides.",
         "cop": 4,
         "opa": "Monomeric units of nucleic acids",
         "opb": "Mediators in cellular signalling",

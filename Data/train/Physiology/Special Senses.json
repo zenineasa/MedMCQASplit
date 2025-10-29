@@ -118,7 +118,7 @@
     },
     {
         "question": "Which of the following best describes the permeability to sodium and potassium in rod cells in response to the light?",
-        "exp": "Activated rhodopsin (metarhodopsin II) closes cGMP-gated sodium channels by lowering levels of cGMP; this action decreases sodium permeability. Potassium permeability is not affected.",
+        "exp": "Activated rhodopsin (metarhodopsin II) closes c. GMP-gated sodium channels by lowering levels of c. GMP; this action decreases sodium permeability. Potassium permeability is not affected.",
         "cop": 3,
         "opa": "Decreased sodium permeability, decreased potassium permeability",
         "opb": "Decreased sodium permeability, increased potassium permeability",
@@ -300,10 +300,10 @@
     },
     {
         "question": "Which substance is most likely to increase in the rods of the retina when the light is turned on?",
-        "exp": "Photons activate rhodopsin to become metarhodopsin II in the rods of the retina, which means that exposure to light decreases the concentration of rhodopsin and increases the concentration of metarhodopsin II, also called activated rhodopsin. Metarhodopsin II leads to a decrease in cGMP through a series of biochemical reactions cAMP levels are unchanged. Vitamin A levels are not likely to change with exposure to light",
+        "exp": "Photons activate rhodopsin to become metarhodopsin II in the rods of the retina, which means that exposure to light decreases the concentration of rhodopsin and increases the concentration of metarhodopsin II, also called activated rhodopsin. Metarhodopsin II leads to a decrease in c. GMP through a series of biochemical reactions c. AMP levels are unchanged. Vitamin A levels are not likely to change with exposure to light",
         "cop": 3,
-        "opa": "Cyclic adenosine monophosphate (cAMP)",
-        "opb": "Cyclic guanosine monophosphate (cGMP)",
+        "opa": "Cyclic adenosine monophosphate (c. AMP)",
+        "opb": "Cyclic guanosine monophosphate (c. GMP)",
         "opc": "Metarhodopsin II",
         "opd": "Rhodopsin",
         "subject_name": "Physiology",
@@ -339,7 +339,7 @@
     },
     {
         "question": "Which substance is responsible for the taste sensation marked in blue?",
-        "exp": "Taste sensation marked in purple denotes Umami taste. 1. Sweet Taste (Pink): sugars, glycols, alcohols, aldehydes, ketones, amides, esters, some amino acids, some small proteins, sulfonic acids, halogenated acids, and inorganic salts of lead and beryllium 2. Salty Taste (Purple): cations of the salts, especially sodium cations 3. Sour Taste (Green): approximately propoional to the logarithm of the hydrogen ion concentration 4. Bitter taste (Yelllow): Long-chain organic substances that contain nitrogen and alkaloids 5. Umami (Blue): Umami, a Japanese word meaning \"delicious,\" designates a pleasant taste sensation. Umami is the dominant taste of food containing L-glutamate, such as meat extracts and aging cheese.",
+        "exp": "Taste sensation marked in purple denotes Umami taste. 1. Sweet Taste (Pink): sugars, glycols, alcohols, aldehydes, ketones, amides, esters, some amino acids, some small proteins, sulfonic acids, halogenated acids, and inorganic salts of lead and beryllium 2. Salty Taste (Purple): cations of the salts, especially sodium cations 3. Sour Taste (Green): approximately propoional to the logarithm of the hydrogen ion concentration 4. Bitter taste (Yelllow): Long-chain organic substances that contain nitrogen and alkaloids 5. Umami (Blue): Umami, a Japanese word meaning \"delicious, \" designates a pleasant taste sensation. Umami is the dominant taste of food containing L-glutamate, such as meat extracts and aging cheese.",
         "cop": 3,
         "opa": "Acetic acid",
         "opb": "Sodium chloride",
@@ -391,7 +391,7 @@
     },
     {
         "question": "The receptors for umami taste are specifically stimulated by:",
-        "exp": "Umami taste is due to activation of a truncated metabotropic receptor, mGluR4, in the taste buds. Glutamate in food may also activate ionotropic glutamate receptors to depolarize umami receptors. Sucrose stimulates sweet receptors; quinine activates receptors for bitter taste. Lysyl taurine is a compound that activates receptors for salty taste. Salt and sour tastes are triggered by activation of ionotropic receptors (ligand-gated ion channel) Sour, bitter, and umami tastes are triggered by activation of metabotropic receptors (GPCRs).",
+        "exp": "Umami taste is due to activation of a truncated metabotropic receptor, m. Glu. R4, in the taste buds. Glutamate in food may also activate ionotropic glutamate receptors to depolarize umami receptors. Sucrose stimulates sweet receptors; quinine activates receptors for bitter taste. Lysyl taurine is a compound that activates receptors for salty taste. Salt and sour tastes are triggered by activation of ionotropic receptors (ligand-gated ion channel) Sour, bitter, and umami tastes are triggered by activation of metabotropic receptors (GPCRs).",
         "cop": 1,
         "opa": "Glutamate",
         "opb": "Sucrose",
@@ -403,7 +403,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "Which taste sensation is the most sensitive (i.e., has the lowest stimulation threshold)?",
+        "question": "Which taste sensation is the most sensitive (i. e., has the lowest stimulation threshold)?",
         "exp": "The bitter taste sense is much more sensitive than the other sensations because it provides an impoant protective function against many dangerous toxins in food.",
         "cop": 2,
         "opa": "Acid",

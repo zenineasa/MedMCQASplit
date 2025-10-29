@@ -14,7 +14,7 @@
     },
     {
         "question": "A 50-year-old man presents with fever and diffuse lymphadenopathy. A lymph node biopsy reveals non Hodgkin follicular lymphoma. Immunohistochemical staining of neoplastic lymphoid cells within the nodular areas of the lymph node would be expected to stain positively for which of the following protein markers?",
-        "exp": "Follicular lymphoma is a clonal lymphoid proliferation derived from germinal-center B cells. The most common cytogenetic translocation in follicular lymphoma is t(14;18)(q32;q21), with IgH and bcl-2 as paner genes. The bcl-2 protein, expressed in follicular lymphoma, is localized in the mitochondrial membrane and functions as an apoptosis inhibitor. Bax is a pro-apoptotic protein.Diagnosis: Follicular lymphoma",
+        "exp": "Follicular lymphoma is a clonal lymphoid proliferation derived from germinal-center B cells. The most common cytogenetic translocation in follicular lymphoma is t(14; 18)(q32; q21), with IgH and bcl-2 as paner genes. The bcl-2 protein, expressed in follicular lymphoma, is localized in the mitochondrial membrane and functions as an apoptosis inhibitor. Bax is a pro-apoptotic protein. Diagnosis: Follicular lymphoma",
         "cop": 3,
         "opa": "Abl",
         "opb": "Bax",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Which subtype of Hodgkin lymphoma is associated with maximum incidence of \"B\" symptoms?",
-        "exp": "Mixed Cellularity type: Maximum incidence of B - Symptoms i.e. Fever, Weight loss, Night sweats Bimodal distribution - young & older than 55 years of age B Symptoms are d/t cytokines released by the inflammatory cells Maximum inflammatory cells are seen in Mixed cellularity subtype of HL- More secretion of cytokines- more B symptoms. Overall prognosis is very good.",
+        "exp": "Mixed Cellularity type: Maximum incidence of B - Symptoms i. e. Fever, Weight loss, Night sweats Bimodal distribution - young & older than 55 years of age B Symptoms are d/t cytokines released by the inflammatory cells Maximum inflammatory cells are seen in Mixed cellularity subtype of HL- More secretion of cytokines- more B symptoms. Overall prognosis is very good.",
         "cop": 2,
         "opa": "Nodular sclerosis type",
         "opb": "Mixed cellularity type",
@@ -39,8 +39,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following subtype has the strongest association with HIV in Hodgkin lymphoma ?",
-        "exp": "Lymphocyte-depleted Hodgkin lymphoma : It has the strongest association with the HIV. Lymphocyte depletion Hodgkin lymphoma occurs predominantly in older adults, in HIV-positive individuals of any age Least common subtype of HL Diffuse subtype of classic Hodgkin lymphoma (CHL) rich in Hodgkin Reed-Sternberg (HRS) cells or depleted in non-neoplastic lymphocytes. Advanced stage and systemic symptoms are frequent Worst Prognosis.",
+        "question": "Which of the following subtype has the strongest association with HIV in Hodgkin lymphoma?",
+        "exp": "Lymphocyte-depleted Hodgkin lymphoma: It has the strongest association with the HIV. Lymphocyte depletion Hodgkin lymphoma occurs predominantly in older adults, in HIV-positive individuals of any age Least common subtype of HL Diffuse subtype of classic Hodgkin lymphoma (CHL) rich in Hodgkin Reed-Sternberg (HRS) cells or depleted in non-neoplastic lymphocytes. Advanced stage and systemic symptoms are frequent Worst Prognosis.",
         "cop": 2,
         "opa": "Lymphocyte-rich",
         "opb": "Lymphocyte-depleted",

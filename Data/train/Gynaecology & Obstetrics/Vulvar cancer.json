@@ -14,7 +14,7 @@
     },
     {
         "question": "A 28 year old woman diagnosed with vulvar carcinoma. The lesion is on right labia, away from midline and measures 3 cm with stromal invasion of 2mm with no inguinal lymph nodes. Treatment is?",
-        "exp": "VULVAL CARCINOMA: STAGING AND MANAGEMENT STAGE 1 1A Limited to vulva/perineumSize<=2cm stromal invasion <=1mm Wide local excision 1B Size >2cm stromal invasion >1mm Radical local excision plusB/L LAD: central lesionU/L LAD: lateral lesion (>2cm from midline) STAGE 2 Any sizeSpreads to lower 1/3 urethra, lower 1/3 vagina, anus Early: radical excision/ radical vulvectomy plus B/L LADAdvanced: radiation + surgery + LAD STAGE 3 Positive inguinofemoral lymph nodes Radiation + surgery + LAD STAGE 4 A 4B Upper urethra, upper vagina, bladder, rectum, pelvis side wallDistant metastasis, Pelvic or other lymph nodes Radiation + surgery + LAD LAD= lymphadenectomy This is stage iB (tumour size >2 cm with stromal invasion >1mm and no nodal involvement The lesion is lateral, not involving midline structures like clitoris or urethra Treatment of this stage is radical local excision with a tumor free margin of 1 cm with ipsilateral lymph node dissection. Bilateral lymph node dissection is done when midline structures are involved.",
+        "exp": "VULVAL CARCINOMA: STAGING AND MANAGEMENT STAGE 1 1A Limited to vulva/perineum. Size<=2cm stromal invasion <=1mm Wide local excision 1B Size >2cm stromal invasion >1mm Radical local excision plusB/L LAD: central lesionU/L LAD: lateral lesion (>2cm from midline) STAGE 2 Any size. Spreads to lower 1/3 urethra, lower 1/3 vagina, anus Early: radical excision/ radical vulvectomy plus B/L LADAdvanced: radiation + surgery + LAD STAGE 3 Positive inguinofemoral lymph nodes Radiation + surgery + LAD STAGE 4 A 4B Upper urethra, upper vagina, bladder, rectum, pelvis side wall. Distant metastasis, Pelvic or other lymph nodes Radiation + surgery + LAD LAD= lymphadenectomy This is stage iB (tumour size >2 cm with stromal invasion >1mm and no nodal involvement The lesion is lateral, not involving midline structures like clitoris or urethra Treatment of this stage is radical local excision with a tumor free margin of 1 cm with ipsilateral lymph node dissection. Bilateral lymph node dissection is done when midline structures are involved.",
         "cop": 2,
         "opa": "Wide local excision",
         "opb": "Radical local excision with 1 cm tumor free margin with ipsilateral lymph node dissection",
@@ -53,7 +53,7 @@
     },
     {
         "question": "Which of these cases of ca vulva has the poorest prognosis?",
-        "exp": "The single most impoant prognostic factor is lymph node status:5-year survival without groin node metastases is greater than 90%; with groin node metastases, 5-year survival is 50%. Inguino-femoral lymph nodes are involved in stage iii whereas pelvic and other lymph nodes are involved in stage iv A and hence pelvic lymph nodes will have poorer prognosis",
+        "exp": "The single most impoant prognostic factor is lymph node status: 5-year survival without groin node metastases is greater than 90%; with groin node metastases, 5-year survival is 50%. Inguino-femoral lymph nodes are involved in stage iii whereas pelvic and other lymph nodes are involved in stage iv A and hence pelvic lymph nodes will have poorer prognosis",
         "cop": 3,
         "opa": "Large tumour size",
         "opb": "positive inguino-femoral lymph nodes",
@@ -65,7 +65,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is the most common type of vulvar cancer ?",
+        "question": "Which of the following is the most common type of vulvar cancer?",
         "exp": "Cancer of the vulva makes up approximately 5% of all gynecologic malignancies, and approximately 90% of vulvar cancer is squamous cell. Other cancers are mentioned in the table. Malignant Tumors of the Vulva Based on IARC/WHO Classification Type Percent Malignant Epithelial Tumors Squamous cell carcinoma (Keratinizing, non-keratinizing, basaloid, way, verrucous) 90-92% Basal Cell Carcinoma 2-3% Paget disease <1% Baholin gland (adenocarcinoma, squamous cell, adenosquamous, adenoid cystic, transitional cell) 1% Tumors arising from other specialized anogenital gland (adenocarcinoma of mammary gland type, adenocarcinoma of skene gland or minor vestibular gland origin, malignant phylloides tumor) <1% Adenocarcinomas of other types (sweat glant type, intestinal type) <1%",
         "cop": 2,
         "opa": "Paget's",
@@ -91,8 +91,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "Which of the following is the etiologic agent in a 70 year old woman with squamous cell cancer of the vulva ?",
-        "exp": "All of the above are associated with Vulval cancer. The etiologic agents however differ according to the Age group. Two distinct etiologic entities of squamous cell carcinoma of the vulva exist : 1.Basaloid or way types, 40% of vulvar squamous cell carcinomas, Tend to be multifocal, Generally in younger patients Related to HPV infection, Usual type VIN (uVIN) Immunosuppression cigarette smoking. 2. Keratinizing account for about 60% of cases Tend to be unifocal, Predominantly in older patients, are Not related to HPV Found in areas adjacent to lichen sclerosus Chronic inflammatory dermatoses, Differentiated type VIN (dVIN).",
+        "question": "Which of the following is the etiologic agent in a 70 year old woman with squamous cell cancer of the vulva?",
+        "exp": "All of the above are associated with Vulval cancer. The etiologic agents however differ according to the Age group. Two distinct etiologic entities of squamous cell carcinoma of the vulva exist: 1. Basaloid or way types, 40% of vulvar squamous cell carcinomas, Tend to be multifocal, Generally in younger patients Related to HPV infection, Usual type VIN (u. VIN) Immunosuppression cigarette smoking. 2. Keratinizing account for about 60% of cases Tend to be unifocal, Predominantly in older patients, are Not related to HPV Found in areas adjacent to lichen sclerosus Chronic inflammatory dermatoses, Differentiated type VIN (d. VIN).",
         "cop": 1,
         "opa": "Lichen Sclerosus",
         "opb": "Human papiloma virus",

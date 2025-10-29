@@ -1,7 +1,7 @@
 [
     {
-        "question": "Mechanism of action of Temozolomide is :",
-        "exp": "Temozolomide is an alkylating agent . It is the drug of choice for brain tumors.Other alkylating agents are:* If: Ifosfamide* Bus: Busulfan* Not: Nitrosoureas* Present: Procarbazine* Take: Temozolamide* My: Mephalan, Mechlorethamaide* Cycle: CyclophosphamideTopoisomerase inhibitor is Etoposide.Microtubule inhibitors are Vincristin, Vinblastin.Proteosome inhibitors are Boezomib.",
+        "question": "Mechanism of action of Temozolomide is:",
+        "exp": "Temozolomide is an alkylating agent. It is the drug of choice for brain tumors. Other alkylating agents are:* If: Ifosfamide* Bus: Busulfan* Not: Nitrosoureas* Present: Procarbazine* Take: Temozolamide* My: Mephalan, Mechlorethamaide* Cycle: Cyclophosphamide. Topoisomerase inhibitor is Etoposide. Microtubule inhibitors are Vincristin, Vinblastin. Proteosome inhibitors are Boezomib.",
         "cop": 1,
         "opa": "Alkylation of DNA",
         "opb": "Inhibition of topoisomerase",
@@ -14,7 +14,7 @@
     },
     {
         "question": "Axicabtagene ciloleucel is used in:",
-        "exp": "CAR T-cell therapy:- A type of treatment in which a patients T cell are changed in laboratory so they will bind to cancer cells and kill them.Blood from a vein in Patient's arm flow through a tube to an apheresis machine, which removes the T cell and sends rest of blood back to the patient. CAR T cell are grown in the lab. The CAR T cell are able to bind to antigen on cancer cell and kill them. There are 2 FDA approved CAR T cell therapies:- Axicabtagene ciloleucel- Tisagenlecleucel Axicabtagene ciloleucel is use for diffuse large B cell lymphoma",
+        "exp": "CAR T-cell therapy:- A type of treatment in which a patients T cell are changed in laboratory so they will bind to cancer cells and kill them. Blood from a vein in Patient's arm flow through a tube to an apheresis machine, which removes the T cell and sends rest of blood back to the patient. CAR T cell are grown in the lab. The CAR T cell are able to bind to antigen on cancer cell and kill them. There are 2 FDA approved CAR T cell therapies:- Axicabtagene ciloleucel- Tisagenlecleucel Axicabtagene ciloleucel is use for diffuse large B cell lymphoma",
         "cop": 3,
         "opa": "Relapsed myeloma",
         "opb": "T cell lymphoma",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Which of the following statement is false about drugs used in rheumatoid ahritis?",
-        "exp": "Drug ending with inib - JAK inhibitor and given orally.- Tofacitinib- Beracitinib Drug ending with Mab: - Monoclonal antibody and IL-6 inhibitor.- Tocilizumab- SarilumabSix : IL-6A-AhritisR-RheumatoidI - InterleukinL - InterleukinUMAB: Monoclonal Antibody.All above mentioned drugs are used for Rheumatoid ahritis. Tocilizumab: is also use for cytokine release syndrome.",
+        "exp": "Drug ending with inib - JAK inhibitor and given orally.- Tofacitinib- Beracitinib Drug ending with Mab: - Monoclonal antibody and IL-6 inhibitor.- Tocilizumab- Sarilumab. Six: IL-6A-AhritisR-RheumatoidI - InterleukinL - Interleukin. UMAB: Monoclonal Antibody. All above mentioned drugs are used for Rheumatoid ahritis. Tocilizumab: is also use for cytokine release syndrome.",
         "cop": 3,
         "opa": "Tofacitinib inhibits JAK1 and JAK3",
         "opb": "Tocilizumab inhibits IL-6",

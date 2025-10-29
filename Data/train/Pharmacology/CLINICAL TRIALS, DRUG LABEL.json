@@ -27,7 +27,7 @@
     },
     {
         "question": "Which of the following pharmacological feature is similar for both \"me-too drug\" & \"prototype drug\"?",
-        "exp": "Me-too drug or Follow-on drug : A drug that is structurally very similar to already known drugs with only minor differences. It may differ with prototype drug in pharmacokinetic parameters but have similar mechanism of action and used for same conditions as the prototype drug used. Eg: Simvastatin, a me-too drug is a more effective than lovastatin, a prototype drug.",
+        "exp": "Me-too drug or Follow-on drug: A drug that is structurally very similar to already known drugs with only minor differences. It may differ with prototype drug in pharmacokinetic parameters but have similar mechanism of action and used for same conditions as the prototype drug used. Eg: Simvastatin, a me-too drug is a more effective than lovastatin, a prototype drug.",
         "cop": 1,
         "opa": "Mechanism of action",
         "opb": "Absorption",
@@ -53,7 +53,7 @@
     },
     {
         "question": "Healthy volunteers are recruited in which phase of clinical trials?",
-        "exp": "Phase 1- Done on healthy people. Maximum tolerable dose of drug is tested Phase 2- Done on fewer patients (20-200) . Efficacy and safety of drug is tested here Phase 3-Done on more patients ( upto 5000).Efficacy is confirmed in this phase Phase 4- Post marketing surveillance. Long term and rare side effects are monitored in this phase",
+        "exp": "Phase 1- Done on healthy people. Maximum tolerable dose of drug is tested Phase 2- Done on fewer patients (20-200). Efficacy and safety of drug is tested here Phase 3-Done on more patients ( upto 5000). Efficacy is confirmed in this phase Phase 4- Post marketing surveillance. Long term and rare side effects are monitored in this phase",
         "cop": 1,
         "opa": "Phase 1",
         "opb": "Phase 2",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Comparison of efficacy of a new drug B with an existing drug A is done in which phase of clinical trials?",
-        "exp": "\"The purpose of phase III trials is to obtain adequate data about the efficacy and safety of drugs in a larger number of patients of either sex in multiple centres usually in comparison with the standard drug.\" Phase I: Human Pharmacology (Non-therapeutic trials): Done in healthy persons Phase II: Therapeutic exploratory trials: conducted in patients to determine therapeutic effects, effective dose range and fuher evaluation of safety and pharmacokinetics in patients Phase III: Therapeutic confirmatory trials: Conducted to obtain adequate data about the efficacy and safety of drugs in a larger number of patients of either sex in multiple centres usually in comparison with the standard drug. Phase IV: Post marketing studies",
+        "exp": "\"The purpose of phase III trials is to obtain adequate data about the efficacy and safety of drugs in a larger number of patients of either sex in multiple centres usually in comparison with the standard drug. \" Phase I: Human Pharmacology (Non-therapeutic trials): Done in healthy persons Phase II: Therapeutic exploratory trials: conducted in patients to determine therapeutic effects, effective dose range and fuher evaluation of safety and pharmacokinetics in patients Phase III: Therapeutic confirmatory trials: Conducted to obtain adequate data about the efficacy and safety of drugs in a larger number of patients of either sex in multiple centres usually in comparison with the standard drug. Phase IV: Post marketing studies",
         "cop": 3,
         "opa": "Phase I",
         "opb": "Phase II",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Major aim of phase 1 clinical trials is to know the",
-        "exp": "Phase I trial is designed as a dose-escalation study to determine the maximum tolerable dosage (MTD), that is, the maximum dose associated with an acceptable level of dose-limiting toxicity. Phase 1 Clinical Trials: The drug is tested in healthy human volunteers (extremes of ages ; elderly and children are excluded). As the drug is not tested in the patients, so we cannot determine efficacy in this phase. This is mainly for finding the maximum tolerable dose of the drug. This is first in human study. Because anti-cancer drugs can produce unacceptable toxicity and we cannot expose healthy humans to such a toxicity, the phase-1 trials for anticancer drugs are done in the patients",
+        "exp": "Phase I trial is designed as a dose-escalation study to determine the maximum tolerable dosage (MTD), that is, the maximum dose associated with an acceptable level of dose-limiting toxicity. Phase 1 Clinical Trials: The drug is tested in healthy human volunteers (extremes of ages; elderly and children are excluded). As the drug is not tested in the patients, so we cannot determine efficacy in this phase. This is mainly for finding the maximum tolerable dose of the drug. This is first in human study. Because anti-cancer drugs can produce unacceptable toxicity and we cannot expose healthy humans to such a toxicity, the phase-1 trials for anticancer drugs are done in the patients",
         "cop": 3,
         "opa": "Safety",
         "opb": "Efficacy",

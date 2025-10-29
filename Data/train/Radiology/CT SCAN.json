@@ -91,7 +91,7 @@
         "choice_type": "single"
     },
     {
-        "question": "A 64 yr old man with history of tril injury 3 weeks back, now comes to medicine opd with history headche & fluctuating weakness of Left side of his body.NCCT was done what is the possible diagnosis",
+        "question": "A 64 yr old man with history of tril injury 3 weeks back, now comes to medicine opd with history headche & fluctuating weakness of Left side of his body. NCCT was done what is the possible diagnosis",
         "exp": "CT: Interpretation of an intracranial bleed * Acute bleed: Lesion is HYPERDENSE (white). * Chronic Bleed: Lesion is HYPODENSE (black). Figure 1: Acute subdural hematoma (lesion is hyperdense) Figure 2: Chronic subdural hematoma (lesion is hypodense)",
         "cop": 2,
         "opa": "Acute left subdural hematoma",
@@ -143,8 +143,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 55 year old comes to Victoria OPD with history of swelling of his hands, shoness of breath.O/E facial plethora, distened neck viens was noted. Which is the most probable structure involved to cause these symptoms?",
-        "exp": "Superior vena cava(SVC)obstructioncan occur from extrinsic compression, intrinsic stenosis, or thrombosis. Malignancies are the main cause and are considered an oncologic emergency.Superior vena cava syndrome(SVCS)refers to the clinical syndrome with symptoms that results from this obstruction. Most common cause: malignancy.",
+        "question": "A 55 year old comes to Victoria OPD with history of swelling of his hands, shoness of breath. O/E facial plethora, distened neck viens was noted. Which is the most probable structure involved to cause these symptoms?",
+        "exp": "Superior vena cava(SVC)obstructioncan occur from extrinsic compression, intrinsic stenosis, or thrombosis. Malignancies are the main cause and are considered an oncologic emergency. Superior vena cava syndrome(SVCS)refers to the clinical syndrome with symptoms that results from this obstruction. Most common cause: malignancy.",
         "cop": 1,
         "opa": "3",
         "opb": "4",
@@ -250,7 +250,7 @@
         "question": "CT SCAN was Invented By?",
         "exp": "Sir Godfrey Hounsfield Invented CT SCAN/CAT SCAN/Computerised Axial Tomography in the year 1972. Sir Godfrey Hounsfield and Allan Cormack were awarded Nobel Prize for this Invention in 1979. SIR GODFREY HOUNSEFIELD",
         "cop": 2,
-        "opa": "W.C. Roentgen",
+        "opa": "W. C. Roentgen",
         "opb": "Godfrey Hounsfield",
         "opc": "Henry Becquerel",
         "opd": "Charles Dotter",
@@ -276,10 +276,10 @@
         "question": "Which is true about Lipoma on USG, MRI & CT",
         "exp": "Fat is hyperechoic (white) on Ultrasound. Fat is hyperintense(white) on both T1 & T2 W MRI in modern MRI sequences. Fat is hypodense (black) on CT with Hu of around -100 HU. On CT, lipomas are well-demarcated homogeneous masses of hypodensity (-90 to -150 HU). USG of lipoma of thigh CT axial view showing lipoma in right lateral aspect of neck. MRI T1 W image axial view showing lipoma in left cheek.",
         "cop": 4,
-        "opa": "it is hypoechoic,hypointense,hypodense",
-        "opb": "it is hyperechoic,hyperintense,hyperdense",
-        "opc": "it is hypoechoic,hypointense hyperdense",
-        "opd": "it is hyperechoic,hyperintense,hypodense",
+        "opa": "it is hypoechoic, hypointense, hypodense",
+        "opb": "it is hyperechoic, hyperintense, hyperdense",
+        "opc": "it is hypoechoic, hypointense hyperdense",
+        "opd": "it is hyperechoic, hyperintense, hypodense",
         "subject_name": "Radiology",
         "topic_name": "CT SCAN",
         "id": "d77d863d-26a0-4772-a15b-e5cfa828c0f5",
@@ -326,7 +326,7 @@
     },
     {
         "question": "Bone algorithm is used as a principle in which of the following modality?",
-        "exp": "High resolution CT: It is a scanning protocol in which thin sections (usually 0.625 to 1.25 mm) are acquired and reconstructed using Bone Algorithm, which is a high spatial resolution reconstruction and improves image sharpness and clarity of pulmonary parenchyma.",
+        "exp": "High resolution CT: It is a scanning protocol in which thin sections (usually 0. 625 to 1. 25 mm) are acquired and reconstructed using Bone Algorithm, which is a high spatial resolution reconstruction and improves image sharpness and clarity of pulmonary parenchyma.",
         "cop": 4,
         "opa": "Spiral CT",
         "opb": "Multidetector CT",
@@ -390,8 +390,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A young male is brought unconscious to the hospital with external injuries. CT brain showed no midline shift but multiple tiny haemorrhages in the brain . What is the likely diagnosis?",
-        "exp": "Diffuse axonal injury :- - occurs due to shearing of white matter - occurs mainly because of rotational acceleration - shows multiple petechial hemorrhages; usually at the junction of white and grey matter - CT Scan may be normal in some cases. so, MRI is the investigation of choice MRI is the preferred investigation in Diffuse Axonal Injury. Young patient with A- NCCT- normal/ Petechial hemorrhages- Suspect Diffuse axonal injury- MRI (IOC for DAI) Diffuse Axonal Injury (DAI) on NCCT image.",
+        "question": "A young male is brought unconscious to the hospital with external injuries. CT brain showed no midline shift but multiple tiny haemorrhages in the brain. What is the likely diagnosis?",
+        "exp": "Diffuse axonal injury:- - occurs due to shearing of white matter - occurs mainly because of rotational acceleration - shows multiple petechial hemorrhages; usually at the junction of white and grey matter - CT Scan may be normal in some cases. so, MRI is the investigation of choice MRI is the preferred investigation in Diffuse Axonal Injury. Young patient with A- NCCT- normal/ Petechial hemorrhages- Suspect Diffuse axonal injury- MRI (IOC for DAI) Diffuse Axonal Injury (DAI) on NCCT image.",
         "cop": 4,
         "opa": "Cerebral contusion",
         "opb": "Cerebral laceration",
@@ -406,7 +406,7 @@
         "question": "CT scan of the head should be performed before lumbar puncture in all of the following conditions except?",
         "exp": "Neuroimaging should be done prior to LP in the following patients: 1. Altered level of consciousness 2. Focal neurological deficit 3. New onset seizure 4. Papilledema 5. Immunocompromised state These patients are at increased risk of potentially fatal cerebellar or tentorial herniation following lumbar puncture.",
         "cop": 1,
-        "opa": "Hypeension",
+        "opa": "Hypertension",
         "opb": "Immunocompromised state",
         "opc": "Kernohan Woltman sign",
         "opd": "Low GCS score",

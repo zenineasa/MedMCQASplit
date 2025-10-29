@@ -1,7 +1,7 @@
 [
     {
         "question": "FLT3-TKD gene is located at?",
-        "exp": "FLT3-TKD- present in approx. 30% of cases of AML. It is located on long arm of Chromosome 13. AML: Good prognosis t (15;17) t (8;21) inv 16 Poor prognosis t (6;9) inv 3 7 deletion",
+        "exp": "FLT3-TKD- present in approx. 30% of cases of AML. It is located on long arm of Chromosome 13. AML: Good prognosis t (15; 17) t (8; 21) inv 16 Poor prognosis t (6; 9) inv 3 7 deletion",
         "cop": 1,
         "opa": "13q12",
         "opb": "11q23",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Which organ is mainly affected in Leukostasis?",
-        "exp": "Brain and Lungs (BOTH) are the most commonly affected organs by hyper leukocytosis and leukostasis syndrome WBC counts in excess of >100,000/cu.mm leads to leukostatic plugging of the capillaries followed by endothelial damage to blood vessels. The presence of dysnea, tachypnea and respiratory distress indicates pulmonary leukostasis. CNS leukostasis presents with stupor, headache and dizziness. The moality occurs due to respiratory failure, intracranial haemorrhage and coma. The low P02 is due to increased consumption of oxygen by leucocytes. It is common with Acute leukemia subtypes like Acute promyelocytic leukemia, acute monocytic leukemia and T cell type of ALL",
+        "exp": "Brain and Lungs (BOTH) are the most commonly affected organs by hyper leukocytosis and leukostasis syndrome WBC counts in excess of >100, 000/cu. mm leads to leukostatic plugging of the capillaries followed by endothelial damage to blood vessels. The presence of dysnea, tachypnea and respiratory distress indicates pulmonary leukostasis. CNS leukostasis presents with stupor, headache and dizziness. The moality occurs due to respiratory failure, intracranial haemorrhage and coma. The low P02 is due to increased consumption of oxygen by leucocytes. It is common with Acute leukemia subtypes like Acute promyelocytic leukemia, acute monocytic leukemia and T cell type of ALL",
         "cop": 4,
         "opa": "Liver",
         "opb": "Hea",
@@ -40,7 +40,7 @@
     },
     {
         "question": "DIC is seen in the following type of AML:",
-        "exp": "In acute promyelocytic leukemia (APL), tissue factor is secreted directly into the bloodstream by the membranes of the promyelocyte blast cells- initiates the coagulation cascade causing DIC. Although DIC is common in APL, APL itself is a rare form of AML, subtype M3. APL - t(15;17), results in the formation of promyelocytic leukemia gene and retinoic acid receptor. Significant GI bleeding, intrapulmonary hemorrhage, or intracranial hemorrhage occurs most often in M3 AML. Bleeding associated with coagulopathies may also occur in M5 AML Infiltration of the gingivae, skin, soft tissues, or the meninges with leukemic blasts at diagnosis is characteristic of the monocytic subtypes (M4 and M5) Note : Myeloid Sarcoma ( Seen in M2 subtype ) M3 AML associated with PML-RARA mutation = Rx- ATRA ( All trans retinoic acid ) and Arsenic trioxide",
+        "exp": "In acute promyelocytic leukemia (APL), tissue factor is secreted directly into the bloodstream by the membranes of the promyelocyte blast cells- initiates the coagulation cascade causing DIC. Although DIC is common in APL, APL itself is a rare form of AML, subtype M3. APL - t(15; 17), results in the formation of promyelocytic leukemia gene and retinoic acid receptor. Significant GI bleeding, intrapulmonary hemorrhage, or intracranial hemorrhage occurs most often in M3 AML. Bleeding associated with coagulopathies may also occur in M5 AML Infiltration of the gingivae, skin, soft tissues, or the meninges with leukemic blasts at diagnosis is characteristic of the monocytic subtypes (M4 and M5) Note: Myeloid Sarcoma ( Seen in M2 subtype ) M3 AML associated with PML-RARA mutation = Rx- ATRA ( All trans retinoic acid ) and Arsenic trioxide",
         "cop": 1,
         "opa": "M3",
         "opb": "M4",
@@ -53,7 +53,7 @@
     },
     {
         "question": "Which is the most common type of acute myeloid leukemia?",
-        "exp": "M2- AML with maturation is characterized by 20% or more myeloblasts in the blood or bone marrow and 10% or more neutrophils at different stages of maturation. M2- AML comprises approximately 30% to 45% of cases of AML. Patients frequently present with anemia,thrombocytopenia, and neutropenia. Morphologic features include the following: Myeloblasts with and without azurophilic granules. Auer rods. Promyelocytes, myelocytes, and neutrophils 10% or more of the bone marrow cells. Abnormal nuclear segmentation in neutrophils. Increased eosinophil precursors Hypercellular marrow Blasts and maturing neutrophils reactive with antibodies to MPO and lysozyme Note : Extra edge Children with Down's syndrome M/C tumour : ALL M/C subtype of AML : M7 subtype Drugs leading to AML Alkylating agents : 4-6 years Topoisomerase II inhibitors : 1-3 years",
+        "exp": "M2- AML with maturation is characterized by 20% or more myeloblasts in the blood or bone marrow and 10% or more neutrophils at different stages of maturation. M2- AML comprises approximately 30% to 45% of cases of AML. Patients frequently present with anemia, thrombocytopenia, and neutropenia. Morphologic features include the following: Myeloblasts with and without azurophilic granules. Auer rods. Promyelocytes, myelocytes, and neutrophils 10% or more of the bone marrow cells. Abnormal nuclear segmentation in neutrophils. Increased eosinophil precursors Hypercellular marrow Blasts and maturing neutrophils reactive with antibodies to MPO and lysozyme Note: Extra edge Children with Down's syndrome M/C tumour: ALL M/C subtype of AML: M7 subtype Drugs leading to AML Alkylating agents: 4-6 years Topoisomerase II inhibitors: 1-3 years",
         "cop": 1,
         "opa": "M2",
         "opb": "M3",
@@ -65,8 +65,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 70 year old male presented with excessive fatigue, fever & bleeding from gums while brushing. O/E- he has splenomegaly. CBC shows marked pancytopenia with presence of blasts. t(15;17)(q22;q12) cytogenetic rearrangement is found in this patient. Which of the following agents will you use in management of this patient?",
-        "exp": "Given scenario suggests the diagnosis of Acute promyelocytic leukemia (APML) ATRA (all trans retinoic acid) is used in management of APML. Induces the differentiation of leukemic cells bearing translocation , where disruption of the RARA gene encoding a retinoid acid receptor occurs. Decreases the frequency of DIC S/E: APL differentiation syndrome- Occurring within the first 3 weeks of treatment, characterized by fever, dyspnea, chest pain, pleural and pericardial effusions, and hypoxemia Rx: Glucocoicoids, chemotherapy, and/or suppoive measures =Cytarabine and daunorubicin increases risk of disseminated intravascular coagulation (DIC) =Rituximab is a monoclonal antibody against CD20 used in autoimmune and malignant diseases",
+        "question": "A 70 year old male presented with excessive fatigue, fever & bleeding from gums while brushing. O/E- he has splenomegaly. CBC shows marked pancytopenia with presence of blasts. t(15; 17)(q22; q12) cytogenetic rearrangement is found in this patient. Which of the following agents will you use in management of this patient?",
+        "exp": "Given scenario suggests the diagnosis of Acute promyelocytic leukemia (APML) ATRA (all trans retinoic acid) is used in management of APML. Induces the differentiation of leukemic cells bearing translocation, where disruption of the RARA gene encoding a retinoid acid receptor occurs. Decreases the frequency of DIC S/E: APL differentiation syndrome- Occurring within the first 3 weeks of treatment, characterized by fever, dyspnea, chest pain, pleural and pericardial effusions, and hypoxemia Rx: Glucocoicoids, chemotherapy, and/or suppoive measures =Cytarabine and daunorubicin increases risk of disseminated intravascular coagulation (DIC) =Rituximab is a monoclonal antibody against CD20 used in autoimmune and malignant diseases",
         "cop": 4,
         "opa": "Acyclovir",
         "opb": "Daunorubicin",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Leukostasis is common with which of the following?",
-        "exp": "Hyperleukocytosis and the leukostasis syndrome is commonly associated with a complication of acute leukemia (paicularly myeloid leukemia) It can occur when the peripheral blast cell count is >100,000/mL. The frequency of hyperleukocytosis is 13% in acute myeloid leukemia (AML) and 10-30% in acute lymphoid leukemia; however, leukostasis is rare in lymphoid leukemia.",
+        "exp": "Hyperleukocytosis and the leukostasis syndrome is commonly associated with a complication of acute leukemia (paicularly myeloid leukemia) It can occur when the peripheral blast cell count is >100, 000/mL. The frequency of hyperleukocytosis is 13% in acute myeloid leukemia (AML) and 10-30% in acute lymphoid leukemia; however, leukostasis is rare in lymphoid leukemia.",
         "cop": 2,
         "opa": "ALL",
         "opb": "AML",
@@ -105,7 +105,7 @@
     },
     {
         "question": "Most common subtype of adult ALL?",
-        "exp": "ALL is the most frequent neoplastic disease in children with an early peak at the age of 3-4 years More than 70% of adult ALLs are of B-cell origin, and the most frequent immunological subtype, common ALL, is characterized by the presence of ALL antigen, a glycoprotein (gp100/CD10). Pro-B-ALL (also termedearly B-precursor ALL) is a leukemia that was formerly termednon-T,non-B-ALL, ornull-ALL as neither T-cell nor B-cell features could be demonstrated. This subtype forms about 11% of adult ALL. Approximately 25% of adult ALL belongs to the T-cell lineage. All cases express the T-cell antigen (gp40, CD7) and cytoplasmatic or surface CD3. They may, according to their step of T-cell differentiation, express other T-cell antigens, e.g., the E-rosette receptor (CD2) and/or the coical thymocyte antigen T6 (CD1). A minority of T-ALL blast cells may also express common ALL antigen together with other T-cell antigens. According to these markers, it is possible to distinguish a pro-T-ALL (also termedearly T-precursor ALL), coical, or thymic T-ALL and a mature T-ALL expressing different stages of differentiation.",
+        "exp": "ALL is the most frequent neoplastic disease in children with an early peak at the age of 3-4 years More than 70% of adult ALLs are of B-cell origin, and the most frequent immunological subtype, common ALL, is characterized by the presence of ALL antigen, a glycoprotein (gp100/CD10). Pro-B-ALL (also termedearly B-precursor ALL) is a leukemia that was formerly termednon-T, non-B-ALL, ornull-ALL as neither T-cell nor B-cell features could be demonstrated. This subtype forms about 11% of adult ALL. Approximately 25% of adult ALL belongs to the T-cell lineage. All cases express the T-cell antigen (gp40, CD7) and cytoplasmatic or surface CD3. They may, according to their step of T-cell differentiation, express other T-cell antigens, e. g., the E-rosette receptor (CD2) and/or the coical thymocyte antigen T6 (CD1). A minority of T-ALL blast cells may also express common ALL antigen together with other T-cell antigens. According to these markers, it is possible to distinguish a pro-T-ALL (also termedearly T-precursor ALL), coical, or thymic T-ALL and a mature T-ALL expressing different stages of differentiation.",
         "cop": 1,
         "opa": "B- lineage ALL",
         "opb": "Pre-B- ALL",
@@ -118,12 +118,12 @@
     },
     {
         "question": "Which of the following ALL will not show a dismal prognosis?",
-        "exp": "Prognostic factor in acute lymphoblastic leukemia Excellent prognosis Excellent prognosis t(12;21) and TEL-AML1 fusion Hyperdiploidy and trisomy of specific chromosomes (4, 10 and 17) is associated with an excellent prognosis. Age > 1 years and < 10 years Dismal prognosis t(9;22) or Philadelphia chromosome and BCR-ABL fusion Hypodiploidy with chromosome number<45 is associated with a poor prognosis Age > 10 years WBC> 50,000/cu.mm3 CNS leukemia at presentation",
+        "exp": "Prognostic factor in acute lymphoblastic leukemia Excellent prognosis Excellent prognosis t(12; 21) and TEL-AML1 fusion Hyperdiploidy and trisomy of specific chromosomes (4, 10 and 17) is associated with an excellent prognosis. Age > 1 years and < 10 years Dismal prognosis t(9; 22) or Philadelphia chromosome and BCR-ABL fusion Hypodiploidy with chromosome number<45 is associated with a poor prognosis Age > 10 years WBC> 50, 000/cu. mm3 CNS leukemia at presentation",
         "cop": 1,
         "opa": "Age between 1-10 years",
         "opb": "TLC > 1 lac",
         "opc": "Petechiae",
-        "opd": "t(9:22)",
+        "opd": "t(9: 22)",
         "subject_name": "Medicine",
         "topic_name": "AML & ALL",
         "id": "de7f23cd-c1e5-4281-8ecb-422cbccc389f",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Which is the most impoant prognostic marker in ALL?",
-        "exp": "Response to treatment is the most impoant prognostic marker in ALL. Leucocyte count> 50000/ul Poor prognosis Hyperploidy Favorable prognostic factor Response to treatment Remission status at 14 days of chemotherapy is best guide to prognosis. Organomegaly Poor prognosis. Lymph node, liver, spleen and testis enlargement indicate spread of cancer Unorable prognostic factors for ALL: Extreme age group: <1 year or >10 years Black males TLC>1 lac/cu.mm Organomegaly CNS Leukemia L2 ALL, pre B cell and mature B cell ALL Hypoploidy t(9:22) and t(4:11) Remission> 14 days",
+        "exp": "Response to treatment is the most impoant prognostic marker in ALL. Leucocyte count> 50000/ul Poor prognosis Hyperploidy Favorable prognostic factor Response to treatment Remission status at 14 days of chemotherapy is best guide to prognosis. Organomegaly Poor prognosis. Lymph node, liver, spleen and testis enlargement indicate spread of cancer Unorable prognostic factors for ALL: Extreme age group: <1 year or >10 years Black males TLC>1 lac/cu. mm Organomegaly CNS Leukemia L2 ALL, pre B cell and mature B cell ALL Hypoploidy t(9: 22) and t(4: 11) Remission> 14 days",
         "cop": 3,
         "opa": "Leucocyte count >50000",
         "opb": "Hyperploidy",

@@ -13,7 +13,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "What is the probable genetic defect in this child with recurrent infections, tetany, oral candidiasis & a hea murmur?",
+        "question": "What is the probable genetic defect in this child with recurrent infections, tetany, oral candidiasis & a heart murmur?",
         "exp": "Digeorge syndrome: Caused by 22q deletion C- Cardiac anomaly A- Abnormal facies (hypeelorism, antimongoloid slant, sho philtrum, mandibular hypoplasia. T- Thymic hypoplasia C- Cleft palate H- Hypocalcemia",
         "cop": 3,
         "opa": "21q deletion",
@@ -27,7 +27,7 @@
     },
     {
         "question": "A child with pigment dilution of skin and eyes, hemorrhagic diathesis, ceroid deposition within the reticuloendothelial system has:-",
-        "exp": "Hermansky-Pudlak syndrome Oculocutaneous albinism Ceroid accumulation in lysosomes Prolonged bleeding time. Bloom syndrome : Erythema and telangiectasia on face after exposure to sunlight Immunodeficiency, GI malabsorption and hypogonadism are common. Alezzandrini syndrome: Deafness Vitiligo Poliosis Vogt-Koyanagi-Harada syndrome: Vitiligo associated with uveitis Dysacusia Meningoencephalitis",
+        "exp": "Hermansky-Pudlak syndrome Oculocutaneous albinism Ceroid accumulation in lysosomes Prolonged bleeding time. Bloom syndrome: Erythema and telangiectasia on face after exposure to sunlight Immunodeficiency, GI malabsorption and hypogonadism are common. Alezzandrini syndrome: Deafness Vitiligo Poliosis Vogt-Koyanagi-Harada syndrome: Vitiligo associated with uveitis Dysacusia Meningoencephalitis",
         "cop": 2,
         "opa": "Bloom syndrome",
         "opb": "Hermansky pudlak syndrome",
@@ -53,7 +53,7 @@
     },
     {
         "question": "In genetic deficiency of MPO, the increased susceptibility to infection is due to:",
-        "exp": "In MPO deficiency there is decreased microbial killing because of defective MPO--H2O2 system, so there is an inability to produce hydroxyl halide radicals.",
+        "exp": "In MPO deficiency there is decreased microbial killing because of defective MPO--H2. O2 system, so there is an inability to produce hydroxyl halide radicals.",
         "cop": 3,
         "opa": "Defective production of Prostaglandins",
         "opb": "Defective rolling of' neutrophils",
@@ -156,8 +156,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is not found in DiGeorge's syndrome?",
-        "exp": "Disease Primary defect Secondary defect DiGeorge Syndrome (Thymic Hypoplasia) 22q11 deletion Failure of development of 3rd & 4th pharyngeal pouches T-cell defect Tetany Congenital defects of hea and great vessels Mucocutaneous candidiasis",
+        "question": "Which of the following is not found in Di. George's syndrome?",
+        "exp": "Disease Primary defect Secondary defect Di. George Syndrome (Thymic Hypoplasia) 22q11 deletion Failure of development of 3rd & 4th pharyngeal pouches T-cell defect Tetany Congenital defects of hea and great vessels Mucocutaneous candidiasis",
         "cop": 2,
         "opa": "Tetany",
         "opb": "Eczema",
@@ -170,7 +170,7 @@
     },
     {
         "question": "Most sensitive antibody for SLE:",
-        "exp": "Autoantibodies in Systemic Lupus Erythematosus (SLE) Antibody Clinical Utility Antinuclear antibodies Best screening test/Most sensitive Anti-ds DNA Specific, correlate with disease activity, nephritis, vasculitis Anti-Sm Most Specific for SLE, marker for CNS lupus Anti-RNP Not specific for SLE Anti-Ro/La (SS-A) Sicca syndrome, neonatal lupus with congenital hea block Anti-histone Drug-induced lupus",
+        "exp": "Autoantibodies in Systemic Lupus Erythematosus (SLE) Antibody Clinical Utility Antinuclear antibodies Best screening test/Most sensitive Anti-ds DNA Specific, correlate with disease activity, nephritis, vasculitis Anti-Sm Most Specific for SLE, marker for CNS lupus Anti-RNP Not specific for SLE Anti-Ro/La (SS-A) Sicca syndrome, neonatal lupus with congenital heart block Anti-histone Drug-induced lupus",
         "cop": 1,
         "opa": "Anti-nuclear",
         "opb": "Anti-ds DNA",
@@ -199,7 +199,7 @@
         "exp": "Tonsils are absent in X linked agammaglobulinemia",
         "cop": 3,
         "opa": "Wiskott-Aldrich syndrome",
-        "opb": "DiGeorge syndrome",
+        "opb": "Di. George syndrome",
         "opc": "X linked agammaglobulinemia",
         "opd": "Chediak Higashi syndrome",
         "subject_name": "Pediatrics",

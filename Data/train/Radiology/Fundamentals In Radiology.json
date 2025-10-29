@@ -1,5 +1,18 @@
 [
     {
+        "question": "The braggs peak is found in:",
+        "exp": "Ref: Internet source: Medscape Radiology. Explanation: Bragg peak is a concept utilized in giving focused radiotherapy using ionizing radiation to a tumor without affecting the normal healthy surrounding tissues. Options B. C and D are examples of non-ionizing radiation. Bragg's peak. The Bragg peak is a peak on the Bragg curve which plots the energy loss of ionizing radiation during its travel through matter. For protons, a-rays and other ion rays, the peak occurs immediately before the particles come to rest. This is called Bragg peak. When a fast charged particle moves through matter, it ionizes atoms of the material and deposits a dose along its path. A peak occurs because the interaction cross section increases as the charged particle's energy decreases. Absorption of a beam of energetic photons (X- ravs) which is entirely different in nature; the curve is mainly exponential. The phenomenon is exploited in particle therapy of cancer, to concentrate the effect of light ion beams on the tumor being treated while minimizing the effect on the surrounding healthy tissue. Monenergistic proton beam with the sharp peak is widened by increasing the range of energies, so that a larger tumor volume can be treated. This can be achieved by using variable thickness attenuators like spinning wedges.",
+        "cop": 1,
+        "opa": "Proton beam",
+        "opb": "Microwave",
+        "opc": "UV Rays",
+        "opd": "Infrared",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "eb208623-fd0a-4741-9401-2543a8103f6b",
+        "choice_type": "single"
+    },
+    {
         "question": "A 22 years old man presents with a solitary 2 cm space occupying lesion of mixed echogenecity in the right lobe of the liver on USG. The rest of the liver is normal. Which of the following test should be done next?",
         "exp": "MRI as the diagnostic test of choice for hepatic hemangioma at most centers. Nuclear medicine studies may be used to confirm the diagnosis when a probable hemangioma is detected on ultra-sonography. Nuclear medicine studies may also help to clarify the nature of a lesion when the diagnosis is equivocal on CT or MRI. Percutaneous biopsy of a hepatic hemangioma carries an increased risk of hemorrhage. Liver biopsy is contraindicated in most circumstances where a hemangioma is high in the differential diagnosis of a hepatic mass. Hepatic angiography: The diagnostic accuracy of noninvasive tests has obted the need for hepatic aeriography in most cases.",
         "cop": 2,
@@ -14,7 +27,7 @@
     },
     {
         "question": "Dye used for myelography",
-        "exp": "contrast agents used for myelography are : Iohexol Iopamidol Metrizamide Myodil",
+        "exp": "contrast agents used for myelography are: Iohexol Iopamidol Metrizamide Myodil",
         "cop": 2,
         "opa": "Conray 320",
         "opb": "Myodil",
@@ -27,7 +40,7 @@
     },
     {
         "question": "Which of the following statements about contrast in radiography is true -",
-        "exp": "option A is correct : Ionic monomers have three iodine atoms per two paicles in solution Ionic dimers and non ionic monomers have three iodine atoms per one paicle in solution Non ionic dimers have six iodine atoms per one paicle in solution option B is incorrect : High osmolar agents (ionic monomers) are only ionic low osmolar agents may be ionic or non ionic iso osmolar agents are only non ionic option C is incorrect : Gadolinium does not cross Blood brain barrier (BBB) option D is incorrect : Iohexol is low osmolar (non ionic monomer)",
+        "exp": "option A is correct: Ionic monomers have three iodine atoms per two paicles in solution Ionic dimers and non ionic monomers have three iodine atoms per one paicle in solution Non ionic dimers have six iodine atoms per one paicle in solution option B is incorrect: High osmolar agents (ionic monomers) are only ionic low osmolar agents may be ionic or non ionic iso osmolar agents are only non ionic option C is incorrect: Gadolinium does not cross Blood brain barrier (BBB) option D is incorrect: Iohexol is low osmolar (non ionic monomer)",
         "cop": 1,
         "opa": "Ionic monomers have three iodine atoms per two paicles in solution",
         "opb": "High osmolar contrast agents may be ionic or non ionic",
@@ -37,6 +50,19 @@
         "topic_name": "Fundamentals in Radiology",
         "id": "e1812551-5d09-42b2-a070-0a3c60539518",
         "choice_type": "multi"
+    },
+    {
+        "question": "Linear accelerator produces?",
+        "exp": "ANSWER: (A) X rays. REF: Oxford oncology 2nd edition page 398, O P Tondon's Inorganic chemistry. Repeat from December 2009. Linear accelerator and Betatron are used to produce X Rays by accelerating electrons. Cyclotron is used to produce Gamma rays.",
+        "cop": 1,
+        "opa": "X rays",
+        "opb": "Beta rays",
+        "opc": "Gamma rays",
+        "opd": "Neutrons",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "03f5c7c9-a106-426b-ab7f-6cb6ac6a6cbc",
+        "choice_type": "single"
     },
     {
         "question": "In which of the following form of imaging, Harmonic imaging is related-",
@@ -91,7 +117,7 @@
         "choice_type": "single"
     },
     {
-        "question": "A 40-year-old woman admitted with fever, chills, and changing mental status is transferred to the ICU with a clinical suspicion of sepsis. Examination shows sinus tachycardia, no murmur, and clear lung fields. The patient is given IV fluids aggressively for hydration. Blood cultures are drawn and the patient is placed on antibiotics. Subcutaneous heparin is given for thromboembolic prophylaxis. As the patient does not improve satisfactorily, a procedure is performed. One hour after this procedure, the patient suddenly develops moderate hemoptysis. A CXR is done.The next step should be",
+        "question": "A 40-year-old woman admitted with fever, chills, and changing mental status is transferred to the ICU with a clinical suspicion of sepsis. Examination shows sinus tachycardia, no murmur, and clear lung fields. The patient is given IV fluids aggressively for hydration. Blood cultures are drawn and the patient is placed on antibiotics. Subcutaneous heparin is given for thromboembolic prophylaxis. As the patient does not improve satisfactorily, a procedure is performed. One hour after this procedure, the patient suddenly develops moderate hemoptysis. A CXR is done. The next step should be",
         "exp": "This chest x-ray shows a pulmonary aery catheter inseed through the internal jugular vein. The PA catheter extends peripherally beyond the right ventricular shadow and past the main pulmonary aery branches into the subsegmental vessels. The patient presents with sepsis and septic shock. It is impoant to determine the fluid status of the patient, especially if no improvement is noted with initial fluid challenge. The procedure performed was a placement of a pulmonary aery catheter to determine the capillary wedge pressure. The PA catheter in this case extended peripherally into the small vessels and thereby caused pulmonary infarction. The hemoptysis represents that complication, and withdrawal of the catheter is of utmost priority. Other options outlined are inappropriate or inapplicable.",
         "cop": 4,
         "opa": "Perform an urgent echocardiogram",
@@ -105,7 +131,7 @@
     },
     {
         "question": "Maximum scattering in X-ray plate occurs in",
-        "exp": "Scattering is directly propoional to the number of electrons available in the outer shell of the atom. option A : Carbon has 4 outer shell electrons option B : mercury has 2 outer shell electrons option C : H+ has 0 outer shell electrons option D : Ca++ has 0 outer shell electrons",
+        "exp": "Scattering is directly propoional to the number of electrons available in the outer shell of the atom. option A: Carbon has 4 outer shell electrons option B: mercury has 2 outer shell electrons option C: H+ has 0 outer shell electrons option D: Ca++ has 0 outer shell electrons",
         "cop": 1,
         "opa": "Carbon",
         "opb": "Mercury",
@@ -118,7 +144,7 @@
     },
     {
         "question": "Which of the following is false about CT?",
-        "exp": "CT imaging of acute head trauma is performed to detect treatable lesions before secondary neurologic damage occurs. CT is highly accurate for the detection of acute intra and extra-axial hemorrhage, as well as skull, temporal bone, facial, and orbital fractures.CT is considered the gold standard for detecting calcification. In MRI, calcification appears with various signal intensities on conventional spin echo (SE) T1 or T2 weighted images, which makes it difficult to identify definitively as calcium.",
+        "exp": "CT imaging of acute head trauma is performed to detect treatable lesions before secondary neurologic damage occurs. CT is highly accurate for the detection of acute intra and extra-axial hemorrhage, as well as skull, temporal bone, facial, and orbital fractures. CT is considered the gold standard for detecting calcification. In MRI, calcification appears with various signal intensities on conventional spin echo (SE) T1 or T2 weighted images, which makes it difficult to identify definitively as calcium.",
         "cop": 2,
         "opa": "Imaging modality of first choice for suspected acute subarachnoid hemorrhage.",
         "opb": "Best for diagnosing Soft tissue pathology",
@@ -130,8 +156,21 @@
         "choice_type": "multi"
     },
     {
-        "question": "Time sector scanning of neonates is preferred for the following reason ?",
-        "exp": "Time sector scanning of neonates is preferred because of the practical reason the open fontanelle serve as acoustic windows. Best results are obtained with a high-frequency phased array transducer (5-8 MHz) with a small footprint probe. Additional information : Neurosonography stas with gray-scale imaging performed the anterior fontanelle in the coronal and sagittal planes. Generally, six to eight coronal images are obtained, beginning at the anterior frontal lobes and extending to the occipital lobes posterior to the lateral ventricle trigones. The transducer is then rotated 90deg and five sagittal images are obtained, including a midline and two parasagittal views of right and left hemispheres encompassing the peripheral coex . Color Doppler images for aerial and venous structures may be obtained for the screening of vascular structures. Documentation of Doppler imaging of the circle of Willis and the region of vein of Galen is an essential pa of the assessment",
+        "question": "CT scan was invented by-",
+        "exp": "Ans. is 'a' i. e., Hounsfield * A new method of forming images from X-rays (i. e. CT/CAT) was developed and introduced into clinical use by a British physicist Godfrey Hounsfield in 1972.* Godfrey Hounsfield is considered as the inventor of CT/CAT.",
+        "cop": 1,
+        "opa": "Hounsfield",
+        "opb": "Roentgen",
+        "opc": "Cormack",
+        "opd": "Tesla",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "26305e4d-fcfb-4dd3-8ab1-97155500c841",
+        "choice_type": "single"
+    },
+    {
+        "question": "Time sector scanning of neonates is preferred for the following reason?",
+        "exp": "Time sector scanning of neonates is preferred because of the practical reason the open fontanelle serve as acoustic windows. Best results are obtained with a high-frequency phased array transducer (5-8 MHz) with a small footprint probe. Additional information: Neurosonography stas with gray-scale imaging performed the anterior fontanelle in the coronal and sagittal planes. Generally, six to eight coronal images are obtained, beginning at the anterior frontal lobes and extending to the occipital lobes posterior to the lateral ventricle trigones. The transducer is then rotated 90deg and five sagittal images are obtained, including a midline and two parasagittal views of right and left hemispheres encompassing the peripheral coex. Color Doppler images for aerial and venous structures may be obtained for the screening of vascular structures. Documentation of Doppler imaging of the circle of Willis and the region of vein of Galen is an essential pa of the assessment",
         "cop": 1,
         "opa": "Open fontanelles",
         "opb": "Inexpensive",
@@ -156,6 +195,19 @@
         "choice_type": "single"
     },
     {
+        "question": "1 Gray is equal to",
+        "exp": "Ans: c (100 Rad) Ref: Practical Radiotherapy- Physics and equipment 2nd ed/p. 25, 2521 Gray = 100 Rad. Gray is defined as: ' The absorbed dose (D) is the quotient of de by dm, where de is the mean energy imparted by the ionising radiation to matter of mass dm. D = de dm. The S. I unit of absorbed dose is gray. 1 Gray = 1 joule per kg = 100 Rad. Intensity is defined as the X - ray energy passing through unit area per unit time and is measured in roentgens. Rem is the Rontgen equivalent man, where absorbed dose of rads is multiplied by the quality factor of the type of radiation. The biological effect of radiation is expressed in Rem.",
+        "cop": 3,
+        "opa": "1 Rontgen",
+        "opb": "1 Rad",
+        "opc": "100 Rad",
+        "opd": "1 Rem",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "d127a044-5c98-4ddc-a065-a4b41d8e5ddd",
+        "choice_type": "single"
+    },
+    {
         "question": "Grid is a device used for -",
         "exp": "X ray grid ensures the contrast of image on X ray film. X ray grid absorbs the scattered xrays and filters out radiations",
         "cop": 1,
@@ -170,7 +222,7 @@
     },
     {
         "question": "The active ingredient of X-ray film is -",
-        "exp": "An X ray film consists of polyster base ,emulsion,and crystals of Silver Halide.The silver bromide crystals are spread over emulsion that is applied on a polyester base.",
+        "exp": "An X ray film consists of polyster base, emulsion, and crystals of Silver Halide. The silver bromide crystals are spread over emulsion that is applied on a polyester base.",
         "cop": 2,
         "opa": "Silver chloride",
         "opb": "Silver bromide",
@@ -182,8 +234,34 @@
         "choice_type": "single"
     },
     {
+        "question": "CT number of water and bones respectively",
+        "exp": "Answer: c) 0, + 1000. CT- scan or CAT scan. Invented by God Frey Hounsfield in 1963, awarded Nobel Prize. Basic principle of CT is linear attenuation of x-rays. Incident x-rays are linearly attenuated by their interaction with orbital electrons of tissues. Measurement of attenuation of emerging / detected beam - gives density of intervening tissues and this density forms basis of signal intensity variation obtained in x-ray tomograms. Two type of contrast agents are used. Ionic - water soluble iodide dyes (e. g. Na- diatrizoate, megliumine, conray, urograffin, angiografin) - may cause anaphylaxis. Non ionic- Safer but expensive e. g. iohexol (Omnipaque), lopamiro. Electron density of tissues in numbered as Hounsfield number (H. N.) or Hounsfield units. Air have a value of -1000 HUFat:-120 to-200 HUWater-0 HUSoft tissue: 20-60 HUBlood: 50-60 HUBone:+1000 HU",
+        "cop": 3,
+        "opa": "100, 0",
+        "opb": "0, -1000",
+        "opc": "0, +1000",
+        "opd": "+1000, -100",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "0ff57921-71e4-4af2-af59-7ed50b0e6af6",
+        "choice_type": "single"
+    },
+    {
+        "question": "According to NCRP what is the maximum permissible radiation dose during pregnancy?",
+        "exp": "Ans. a (0. 5 rad) (Ref. Christensen's Physics of Diagnostic Radiology, 378). The NCRP recommends a total dose equivalent limit (excluding medical exposure) of 0. 5 rem (50 m. Sv) for the embryo, fetus. Once a pregnancy becomes known, exposure of the embryo-fetus should be no greater than 0. 05 rem (0. 5 m. Sv) in any month (excluding medical exposure). NCRP Recommendation of Radiation Dose Limits. Class of exposed individual. Remm. Sv1). Occupational exposures (annual). Stochastic effects550 Non-stochastic effects. Lens of eye15150 All other areas (e. g., red marrow, breast, lung, gonads, skin, and extremities)50500 Lifetime cumulative exposure1 (x age in year)10 (x age in year)2). Public exposure (annual). Effective dose equivalent limit0. 55 Dose equivalent limits for lens of eye, skin, and extremities5503). Trainees under 18 years of age. Effective dose equivalent limit0. 11 Dose equivalent limit for lens of eye, skin, and extremities5504). Embryo-fetus exposures Total dose equivalent limit0. 55 Dose equivalent limit in a month0. 050. 5# Excluding background and medical exposures, but including both internal and external exposures# Rem = rads x quality factor (R)# Because the quality factor for X-rays is 1, hence rad = rem# In fact at diagnostic energy level the rad, rem and roentgen usually will be considered. According to NCRP an individual's lifetime effective dose equivalent in rem should not exceed the value of his or her age in years. According to NCRP the dose limit for the occasionally exposed individual is 0. 5 rem/year, or 1/10th of MPD for the occasionally exposed. The NCRP recommends a total dose equivalent limit of 0. 5 rem (50 m. Sv) for embryo fetus during pregnancy.",
+        "cop": 1,
+        "opa": "0. 5 rad",
+        "opb": "5 rad",
+        "opc": "15 rad",
+        "opd": "50 rad",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "f8fe6c84-3819-483e-9868-0434e6ccf6d2",
+        "choice_type": "single"
+    },
+    {
         "question": "Contrasts used in USG-",
-        "exp": "Ref : Diagnostic Ultrasound,5th Edition,Carol M. Rumack & Deborah Levine,pg no :54",
+        "exp": "Ref: Diagnostic Ultrasound, 5th Edition, Carol M. Rumack & Deborah Levine, pg no: 54",
         "cop": 3,
         "opa": "Urograffin",
         "opb": "Ultragraffin",
@@ -196,7 +274,7 @@
     },
     {
         "question": "Radiation dose is measured in",
-        "exp": "Units for Radiation dose or absorbed radiation are : Traditional unit : Rad SI unit : Gray",
+        "exp": "Units for Radiation dose or absorbed radiation are: Traditional unit: Rad SI unit: Gray",
         "cop": 4,
         "opa": "Roentgen",
         "opb": "Sieve",
@@ -235,7 +313,7 @@
     },
     {
         "question": "X-rays are produced when -",
-        "exp": "When electrons from cathode strikes the anode , X rays are produced but also there is large amount of heat production and hence tungsten having high melting point(3360c) used as a target material.",
+        "exp": "When electrons from cathode strikes the anode, X rays are produced but also there is large amount of heat production and hence tungsten having high melting point(3360c) used as a target material.",
         "cop": 2,
         "opa": "Electron beam strikes the nucleus of the atom",
         "opb": "Electron beam strikes the anode",
@@ -248,7 +326,7 @@
     },
     {
         "question": "What is the difference between X-rays and Gamma rays?",
-        "exp": "X rays are produced when accelerated electrons strike heavy metal nucleus and are deflected with deceleration. Gamma rays are produced intranuclearly to stabilize nucleus of the radioactive element.Reference: Khan Physics of Radiation therapy; 5th edition",
+        "exp": "X rays are produced when accelerated electrons strike heavy metal nucleus and are deflected with deceleration. Gamma rays are produced intranuclearly to stabilize nucleus of the radioactive element. Reference: Khan Physics of Radiation therapy; 5th edition",
         "cop": 1,
         "opa": "X-rays are produced extranuclearly whereas gamma rays are produced in nuclear decays",
         "opb": "X-rays have higher energies than gamma rays",
@@ -260,7 +338,33 @@
         "choice_type": "single"
     },
     {
-        "question": "Patient with a metallic foreign body in the eye,which of the following investigation is contraindicated?",
+        "question": "CSF in T1 weighted MRI gives following appearance-",
+        "exp": "Ans. is 'a' i. e., Hypointense MRI of tissues and body fluids. Tissue/Body fluid. Examples. T1 weighted signal. T2 weighted signal. Gas. Air in lung, Gas in bowel. Absent. Absent. Mineral-rich tissue. Cortical bone, Calculi. Absent. Absent. Collagenous tissue. Ligaments, tendons, Fibrocarti-lage, Scar tissue. Low. Low. Fat. Adipose tissue, fatty bone marrow. High. Intermediate to high. High bound water tissue. Liver, pancreas, adrenal, muscle, hyaline cartilage. Low. Low to intermediate. High free water tissue. Kidney, testes, prostate, seminal vesicles, ovary, thyroid, spleen, penis, simple cyst, urinary bladder, gall bladder. Low. High. Fluid. Edema, Urine, Bile, CSFLow. High. Proteinaceous fluid. Complicated cyst, abscess, synovial fluid, nucleus pulposus. Intermediate. High. Hemorrhage. Hyperacute I. Arterial. Low. High. II. Venous. Low. High Less bright than arterial. Acute. Low. Low. Chronic. High. High",
+        "cop": 1,
+        "opa": "Hypointense",
+        "opb": "Hyperintense",
+        "opc": "Isointense",
+        "opd": "None",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "759f33da-9680-412b-8ff7-35c2f571ff57",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Screen used for X-ray exposure prevention, is made of-",
+        "exp": "Ans. is 'a' i. e., Lead * In x-ray facilities, walls surrounding the room with the x-ray generator may contain lead sheets, or the plaster may contain barium sulfate. Operators view the target through a leaded glass screen, or if they must remain in the same room as the target, wear lead aprons.* Lead is the most common agent used in modern constructions (Room design) to offer radiation shielding. Other Important facts about x-ray radiography* Filament (cathode) and Target (anode) are made of Tungsten. However, In mammography the target (anode) is made of Molybdenum or rhodium.* Most of the modern x-ray tubes have rotating anode because rotating anode have better heat dissipiation. The x-ray tube uses all three forms of cooling i. e., radiation, conduction and convection. However, radiation is most important.* X-ray grid is the part of x-ray machine that ensures the clarity of image on x-ray film, absorbs scattered x-rays and filters out radiations.* Filter is the device which absorbs low energy photons and there by decreases the radiation exposure to the patient. Filter is usually made of aluminium or aluminium copper combination.* Window is the part of x-ray machine through which the x-ray beam is emitted towards the patient.* Collimators are used to restrict the size of the x-ray beam, i. e., restriction of field size and decreases scatter radiation.* Film focus distance (the distance from x-ray tube target, i. e., anode to the x-ray film) is 100 cms (40 inches) for routine radiography. While for chest x-ray it is 180 cm (72 inches or 6 feet) to reduce magnification as short distance increases the magnification of body part.",
+        "cop": 1,
+        "opa": "Lead",
+        "opb": "Tungsten",
+        "opc": "Manganese",
+        "opd": "Titanium",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "940712ab-3981-4c9e-8d9a-6b9ffdb80c78",
+        "choice_type": "single"
+    },
+    {
+        "question": "Patient with a metallic foreign body in the eye, which of the following investigation is contraindicated?",
         "exp": "MRI is contraindicated in Cardiac pacemakers Aneurysmal metallic clips Metallic foreign body Cochlear implant Claustrophobia(Relative contraindication)",
         "cop": 4,
         "opa": "X-Ray",
@@ -273,8 +377,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "A 32-year-old male underwent a lung transplant 1 year ago. Initially, he had an episode of acute rejection requiring increased immunosuppression. He now presents with symptoms of low-grade fever and generalized fatigue, fever, and weight loss. Chest x-rays are obtained.The most likely diagnosis of this patient is",
-        "exp": "The PA view shows a rounded opacity in the right lower zone. The horizontal fissure is seen distinctly through and separate from this opacity, suggesting that this is not a pseudotumor, i.e., fluid in the fissure. A double density shadow is seen in the subcarinal area. A band of linear atelectasis is seen in the right lower zone. The patient has posttransplantation lymphoproliferative disorder (PTLD) confirmed by a needle biopsy. The incidence of PTLD in lung transplant recipients is approximately 2% to 5% and is higher than in other solid organ transplants. It is closely associated with Epstein-Barr virus infection, and children are more prone to develop this disorder. The majority of PTLDs are non-Hodgkin's lymphomas and B-cell tumors. Typical radiographic features include multiple nodules, mediastinal adenopathy, airspace disease, and pleural effusions. Aspergilloma or mycetoma is a fungus ball that occurs in cystic or cavitary disease and is unrelated to lung transplant. Pseudotumor or fluid in the horizontal or oblique fissure occurs in cases of congestive hea failure and is seen radiographically within the confines of these fissures.",
+        "question": "A 32-year-old male underwent a lung transplant 1 year ago. Initially, he had an episode of acute rejection requiring increased immunosuppression. He now presents with symptoms of low-grade fever and generalized fatigue, fever, and weight loss. Chest x-rays are obtained. The most likely diagnosis of this patient is",
+        "exp": "The PA view shows a rounded opacity in the right lower zone. The horizontal fissure is seen distinctly through and separate from this opacity, suggesting that this is not a pseudotumor, i. e., fluid in the fissure. A double density shadow is seen in the subcarinal area. A band of linear atelectasis is seen in the right lower zone. The patient has posttransplantation lymphoproliferative disorder (PTLD) confirmed by a needle biopsy. The incidence of PTLD in lung transplant recipients is approximately 2% to 5% and is higher than in other solid organ transplants. It is closely associated with Epstein-Barr virus infection, and children are more prone to develop this disorder. The majority of PTLDs are non-Hodgkin's lymphomas and B-cell tumors. Typical radiographic features include multiple nodules, mediastinal adenopathy, airspace disease, and pleural effusions. Aspergilloma or mycetoma is a fungus ball that occurs in cystic or cavitary disease and is unrelated to lung transplant. Pseudotumor or fluid in the horizontal or oblique fissure occurs in cases of congestive heart failure and is seen radiographically within the confines of these fissures.",
         "cop": 1,
         "opa": "Posttransplant lymphomatoid disorder (PTLD)",
         "opb": "Squamous cell carcinoma",
@@ -287,11 +391,11 @@
     },
     {
         "question": "The ultrasonic sound waves employed in ultrasound machine for medical sonography have the frequency of",
-        "exp": "Frequency refers to a characteristic of the sound that is, the number of times that conduction paicles vibrate back and foh per second. Frequency of sound waves is usually between 1 and 20 MHz in medical sonography. Hence the best answer for this question would be A. 2-20 MHz Christensen's Physics of Diagnostic Radiology, 4/E,Pg no 347",
+        "exp": "Frequency refers to a characteristic of the sound that is, the number of times that conduction paicles vibrate back and foh per second. Frequency of sound waves is usually between 1 and 20 MHz in medical sonography. Hence the best answer for this question would be A. 2-20 MHz Christensen's Physics of Diagnostic Radiology, 4/E, Pg no 347",
         "cop": 1,
         "opa": "2 - 20 MHz",
         "opb": "Less than 1 MHz",
-        "opc": "20-20,000 Hz",
+        "opc": "20-20, 000 Hz",
         "opd": "Greater than 100 MHz",
         "subject_name": "Radiology",
         "topic_name": "Fundamentals in Radiology",
@@ -312,8 +416,47 @@
         "choice_type": "single"
     },
     {
+        "question": "Which of the following has highest penetrating power?",
+        "exp": "Ans. b (Gamma ray) (Ref. H - 16th/pg. 1294)IONIZING RADIATIONS# Alpha (a) radiation- Consists of heavy, positively charged particles containing two protons and two neutrons.- Alpha particles are usually emitted from isotopes with an atomic number of >82, such as uranium or plutonium.- Due to their large size, alpha particles have limited (least) penetrating power.- Fine obstacles such as cloth, piece of paper or human skin can usually stop them from penetrating into the body, and they represent a small risk to external exposure due to their limited penetration.- If they somehow are internalized, then alpha particles can cause significant cellular damage within their immediate proximity.# Beta (b) radiation- Consists of electrons, which are small, light, negatively charged particles (about 1/2000 the mass of a neutron or proton).- They can travel only a short finite distance in tissue, depending on their energy.- Exposure to beta particles is common in many radiation accidents. Radioactive iodine, released in nuclear plant accidents, is the best known member of this group.- Plastic layers and clothing can stop most beta particles, and their penetration is measured to be a few millimeters. A large quantum of energy to the basal stratum of the skin can cause a bum that is similar to a thermal burn and is treated as such.- Pure beta emitters (Phosphorous, Strontium, Samarium, Rhenium, Yttrium, and Iodine) are used in systemic radio- therapy (e. g. strontium-89 - 8. Gy in single fraction - for palliative treatment of painful bone metastases)# Gamma (y) rays and x-rays (both photons) are similar.- Gamma rays are uncharged electromagnetic radiation (non-particulate) discharged from a nucleus as a wave or photons of energy.- Gamma (y) rays have highest penetrating power and least ionization potential.# X-rays- Are the result of abrupt mechanical deceleration of electrons striking a heavy target such as tungsten.- Gamma and X-rays have similar properties, i. e., no charge and no mass, just energy.- Both travel easily through matter, sometimes called penetrating radiation, and are the principal type of radiation to cause total-body exposure.# Neutrons (N) particles- Are heavy and uncharged, often emitted during nuclear detonation.- They possess a wide energy range; their ability to penetrate tissues is variable, depending upon their energy.- They are less likely to be present in most scenarios of radiation bioterrorism.- Neutron therapy is tried in treatment of brain tumors (e. g., cystic gliomas) - BNCT. Califomum is its importantsource.- The ionization resulting from protons, electrons, and gamma rays is either a direct or indirect (i. e., mediated through water - free radical injury) effect of particles or photons on DNA.- Ionization of DNA resulting from neutrons is secondary to the neutrons knocking electrons out of their atomic orbit and the formation of free radicals, which can also damage DNA directly. Radiation. Penetrating Power. Ionization. Potential. Source. Form. Clinical Use. Alpha particles (Helium nuclei) He++Least (can be stopped with just a piece of paper). Highest# Uranium# Plutonium-None. Beta particles. Intermediate. Intermediate# P-32# Strontium-89# Samarium# Rhenium# Yttrium# l131. Systemic RTPalliative Rx of painful bone metastases with 8 Gy Strontium-89 in single fraction. 131l therapy for papillary thyroid cancer. Gamma rays. Highest. Least# Tc99m # Co-60 Scintigraphy-is diagnostic use. Teletherapy & Gamma-knife are for therapeutic useX-rays and gamma rays are the most common radiation used for RT. Gamma-imaging (Scintigraphy/ nuclear scan) is investigation ofchoice for many functional diseases.",
+        "cop": 2,
+        "opa": "X-ray",
+        "opb": "Gamma ray",
+        "opc": "Beta particle",
+        "opd": "Alpha particle",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "2ea8fea4-9ad4-4048-a8c8-0222e993bd01",
+        "choice_type": "single"
+    },
+    {
+        "question": "USG probe is made up of:",
+        "exp": "Ans. b (Quartz) (Ref: A user's guide to diagnostic ultrasound by Shirley Cusick-XVI, Rumac Diagnostic Ultrasound Vol I, 2nd/pg. 10)# The ultrasound probe or the transducer is any device that converts one form of energy to another. In case of ultrasound, the transducer converts electric energy to mechanical energy and vice versa.# The ultrasound transducer uses the principle or property of piezoelectricity, which occur naturally in some materials whereby an applied electric field produces a change in linear dimensions.- Quartz, a naturally occurring piezoelectric material having the unique ability to respond to the action of an electric field by changing shape and to the change in polarity of voltage applied by generating small potentials and thus producing an ultrasound image.- Lead Zirconate titanate is synthetic material with piezoelectric property, currently used in USG probes.",
+        "cop": 2,
+        "opa": "Barium",
+        "opb": "Quartz",
+        "opc": "Sodium iodide",
+        "opd": "Diamond",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "97734ec6-73e4-4705-9306-9a3f99372421",
+        "choice_type": "single"
+    },
+    {
+        "question": "Maximum permissible whole body radiation exposure per year is-",
+        "exp": "Ans. is 'b' i. e., 5 rem Annual Maximum Permissible Dose Limitsmremrem 5, 0005. Whole Body Deep Dose Equivalent(Head, trunk, active blood-forming organs & reproductive organs)50, 00050. Whole Body Shallow Dose Equivalent (Skin of the whole body)15, 00015. Lens of Eye Dose Equivalent50, 00050. Extremities (Hands, fore arms, feet and ankles)",
+        "cop": 2,
+        "opa": "3 rem",
+        "opb": "5 rem",
+        "opc": "10 rem",
+        "opd": "15 rem",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "694c1aba-6f84-4621-8fbb-aa6e21edc510",
+        "choice_type": "single"
+    },
+    {
         "question": "USG is done to visualize all except -",
-        "exp": "Bone has high acoustic impendence , hence USG is not used for bone pathologies",
+        "exp": "Bone has high acoustic impendence, hence USG is not used for bone pathologies",
         "cop": 4,
         "opa": "Fluid",
         "opb": "Bile",
@@ -325,8 +468,47 @@
         "choice_type": "multi"
     },
     {
+        "question": "Which of the following radiation is not emited by radio- active isotope?",
+        "exp": "Ans. A. X-rays. Alpha, beta and gamma rays are produced by radioactive isotopes, while x - rays are extranuclear in origin produced by bombarding fast moving electrons on the anode (target) of the x-ray tube (in X-ray machine or Linear acclerator). Ionization involves actual ejection of one or more electrons from the atom. Ionizing radiation is subclassified as electro- magnetic (photon) or particulate radiation. X-rays and gamma rays are examples of electromagnetic photon radiation; they differ only in their source. X-rays are produced mechanically, by making electrons strike a target, which causes the electrons to give up their kinetic energy as x-rays, while gamma rays are produced by nuclear disintegra- tion of radioactive isotopes. X-rays can be thought of as packets of energy, or photons. X-rays have no mass or charge, travel in straight lines, and attenuate continuously as they traverse tissue. X-rays differ from light in energy. Discussion:# Types of particulate radiation include electrons, protons, alpha particles, neutrons, negative pi-mesons, and heavy charged ions; these have discrete mass and charge (except for neutrons, which lack charge;- Alpha particles are helium nuclei, consisting of two protons and two neutrons. The mass and charge are great enough that these particles do not penetrate far through matter unless they have tremendous energy; even a piece of paper is enough to protect against most alpha particles. Because these particles are charged, they can be accelerated in electrical fields.- Electrons. or beta particles. are small and negatively charged and can be accelerated to close to the speed of light. They decelerate fairly rapidly in tissue and penetrate it to only a limited depth. Thus, electron beams are often used to treat superficial problems.- Protons are positively charged and have a mass about 2000 times that of an electron. Protons stop abruptly, depending on their energy; in the process of sudden deceleration, most of their energy is given up, which tends to cause ionization just before the proton stops. This region of enhanced ionization, sometimes called the Bragg peak, means that proton beams exert their effects in a relatively compact region. Therefore, protons may have advantages over other types of particulate radiation with respect to conforming the dose to the treat- ment volume.- Neutrons are similar in mass to protons (having an atomic mass of 1), but they are not charged and therefore cannot be accelerated in an electrical field. Neutron beams are produced by colliding charged particles into a suitable target or are emitted as a fission product of heavy radioactiveatoms. Heavycharged ions are nuclei of heavier elements that have a positive charge owing to the stripping away of some or all of the orbiting electrons. Additional Educational points: 1. Linear accelerator (Linac). Used to accelerate electrons, & produces X-ray beam2. Cyclotron. Produces neutrons, photons3. Microtron. Is an electron accelerator, combines principles of both linac + cyclotron4. Betatron. Device for accelerating electrons used for production of electron beam for RT & an X-ray beam5. Simulator. Apparatus that uses a diagnostic X-ray tube but duplicates a radiation t/t. Main function is to display the t/t field to accurately deliver the dose. Some important Radioactive Sources# g - ray sources: Co-60, Cs-131, Tc-99m, Ra-226# Pure ss - particle emitters: Sr-90, Y-90, Phosphorous-32# Both ss & g rays emitter: 1-131 (mainly ss > g), Samarium-153 (), Ra, Au, etc# Neutron emitting Radioisotope: Californium. RADIOISOTOPESA radioactive substance is one which is unstable and spontaneously decays to form a more stable substance, giving out electromagnetic rays. RADIOACTIVE MATERIALS1. Naturally occurring radioactive materials# All naturally occurring radioactive materials have atomic number greater than 80 and are grouped in three radioactive families starting with uranium, thorium and actinum.# All elements with atomic no > 82 are radioactive.# It appears that as the no. of particles inside the nucleus increases, the forces that keep the particles together become less effective since chance of particle emission are increased. 2. Radioactive 'Induced\" bv neutron bombardment. Also called n-g reaction. Here the neutron enters the nucleus and some energy is liberated in the form of gamma ray. 3. Radioactive 'Induced\" bv proton bombardment. Also called p-n reaction and is caused by the proton bombardment of nucleus. The proton is positively charged. So there is increase in the electrostatic repulsion of the proton as it approaches the nucleus and the proton needs considerable energy to achieve the desired penetration. For this purpose the protons have to be accelerated in a CYCLOTRON.",
+        "cop": 1,
+        "opa": "X-rays",
+        "opb": "Alpha",
+        "opc": "Beta",
+        "opd": "Gamma",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "eb38884e-c949-459f-8fd8-c5e1432b6e68",
+        "choice_type": "single"
+    },
+    {
+        "question": "Mammography uses",
+        "exp": "Answer: b. There are two types of x-radiation produced when electrons hit the x-ray tube anode. Bremsstrahlung is the most common and is in the form of a broad continuous photon energy spectrum with a maximum energy determined by the selected KV value. Characteristic radiation is produced under certain conditions and is confined to just a few photon energies. The molybdenum filter attenuates and blocks much of the bremsstrahlung spectrum above the energy of 20 keV. This results in the spectrum that is most often used in mammography, produced with the \"moly/moly\" anode/filter combination.",
+        "cop": 2,
+        "opa": "Bremsstrahiung X rays",
+        "opb": "Characteristic X rays",
+        "opc": "Electrons",
+        "opd": "Gamma rays",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "f72ae7e7-5aec-42ae-8f76-1e25ad494d6f",
+        "choice_type": "single"
+    },
+    {
+        "question": "Which of the following is not an ionizing radiation:",
+        "exp": "Ans. B. MRIMammography* It is an imaging technique exclusive for the breast.* Mainly uses characteristic spectrum radiation originating from a molybdenum anode.* It is generally done in females above 35 years of age. MRI* Most commonly used magnet in MRI: Superconducting magnets.* Stronger the magnet better the image resolution.* MRI has no radiation exposure as X-rays are not involved. Angiography* With the advent of cross-sectional modalities it is not used often.* It can be used in some cases where vascular flow and other dynamic components are to be evaluated. CTComputed tomography is basically a fusion of two technologies:* Tomography: X-ray based imaging technique developed to acquire sectional image of the body.* Computers: Brought in to deal with the complex mathematical algorithms and iterations in the image reconstruction. As X-rays are used in this technique, there may be a chance of radiation.",
+        "cop": 2,
+        "opa": "Mammography",
+        "opb": "MRI",
+        "opc": "Angiography",
+        "opd": "CT",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "7b192d17-0b7c-4834-af7b-fd86d1ba36b0",
+        "choice_type": "single"
+    },
+    {
         "question": "Acoustic shadow is produced by the following except-",
-        "exp": "Ultrasound waves are reflected at the surfaces between the tissues of different density The reflection being propoional to the difference in If the difference in density is increased, the propoion of reflected sound is increased, and the propoion of transmitted sound is propoionately decreased. If the difference in tissue density is very different, then the sound is completely reflected, resulting in total Acoustic shadowing is present behind bones, calculi (stones in kidneys, gallbladder, etc.) and air (intestinal gas) Ref : Physical principles of ultrasound (Dr Daniel J Bell and Ass. Pr. Mirjan M. Nadrljanski et al.)",
+        "exp": "Ultrasound waves are reflected at the surfaces between the tissues of different density The reflection being propoional to the difference in If the difference in density is increased, the propoion of reflected sound is increased, and the propoion of transmitted sound is propoionately decreased. If the difference in tissue density is very different, then the sound is completely reflected, resulting in total Acoustic shadowing is present behind bones, calculi (stones in kidneys, gallbladder, etc.) and air (intestinal gas) Ref: Physical principles of ultrasound (Dr Daniel J Bell and Ass. Pr. Mirjan M. Nadrljanski et al.)",
         "cop": 3,
         "opa": "Bone",
         "opb": "Calculus",
@@ -339,7 +521,7 @@
     },
     {
         "question": "An absolute contraindication of MRI is -",
-        "exp": "Cardiac pacemakers are the absolute contraindications of MRI. Also rememeber : Other absolute contraindications : metallic foreign bodies cerebral aneurysmal clips implanted electrodes",
+        "exp": "Cardiac pacemakers are the absolute contraindications of MRI. Also rememeber: Other absolute contraindications: metallic foreign bodies cerebral aneurysmal clips implanted electrodes",
         "cop": 1,
         "opa": "Pacemaker",
         "opb": "Prosthetic cardiac valves",
@@ -351,8 +533,21 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of follow is a non ionic contrast agent ?",
-        "exp": "Ioxoglate is ionic dimer contrast agent Iohexol is non ionic monomer contrast agent Iothalamate and Amidotrizoate are ionic monomer contrast agents Also remember : Iodixanol and iotrolan are non ionic dimer contrast agents",
+        "question": "18-FDG stands for:",
+        "exp": "Ans: A (18-FIuorodeoxy...) POSITRON EMISSION TOMOGRAPHY (PET) L & B 25th/ 136-37# PET is an extension of nuclear medicine, in which a positron-emitting substance such as 18F is tagged and used to assess tissue metabolic characteristics.# Nuclear medicine also differs from other means of imaging, which are largely anatomically based, as it also provides functional information.# The most commonly used radiolabelled tracer is 18F-2- fluara-2-deoxy-D-ghicose (FDG), although other tracers can also be used in order to assess metabolic functions such as oxygen and glucose consumption and blood flow.",
+        "cop": 1,
+        "opa": "18-FI uorodeoxy glucose",
+        "opb": "18-Fluorodioxy glucose",
+        "opc": "18-Fluorodeoxy galactose",
+        "opd": "18-Fluorodioxy galactose",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "a5ff8499-e8ea-4e32-9cd7-975870f5d867",
+        "choice_type": "single"
+    },
+    {
+        "question": "Which of follow is a non ionic contrast agent?",
+        "exp": "Ioxoglate is ionic dimer contrast agent Iohexol is non ionic monomer contrast agent Iothalamate and Amidotrizoate are ionic monomer contrast agents Also remember: Iodixanol and iotrolan are non ionic dimer contrast agents",
         "cop": 2,
         "opa": "Ioxoglate",
         "opb": "Iohexol",
@@ -365,11 +560,11 @@
     },
     {
         "question": "In MRI the commonly field used is -",
-        "exp": "In MR examination, a large static magnetic field is applied. Field strengths for clinical equipment can vary between 0.2 and 7 T Most commonly used current MRI machines in diagnostic use are of 1.1 and 1.5T. Hence the single best answer would be 1.1 T The field strength of the magnet will influence the quality of the MR image regarding: * chemical shift aifacts * the signal to noise ratio (SNR) * motion sensitivity and susceptibility aifacts.",
+        "exp": "In MR examination, a large static magnetic field is applied. Field strengths for clinical equipment can vary between 0. 2 and 7 T Most commonly used current MRI machines in diagnostic use are of 1. 1 and 1. 5T. Hence the single best answer would be 1. 1 T The field strength of the magnet will influence the quality of the MR image regarding: * chemical shift aifacts * the signal to noise ratio (SNR) * motion sensitivity and susceptibility aifacts.",
         "cop": 3,
-        "opa": "0.05 tesla",
+        "opa": "0. 05 tesla",
         "opb": "100 tesla",
-        "opc": "1.1 tesla",
+        "opc": "1. 1 tesla",
         "opd": "11 tesla",
         "subject_name": "Radiology",
         "topic_name": "Fundamentals in Radiology",
@@ -390,7 +585,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "What is meant by PET scan ?",
+        "question": "What is meant by PET scan?",
         "exp": "PET stands for positron emission tomography",
         "cop": 2,
         "opa": "Positive Emission Tomography",
@@ -404,7 +599,7 @@
     },
     {
         "question": "Iopanoic acid is used in -",
-        "exp": "Iopanoic acid : iodine containing contrast agent Hepatic excretion potent inhibitor of thyroid hormone release and also peripheral conversion. used in cholecystography and also in hypehyroidism as adjuvant therapy",
+        "exp": "Iopanoic acid: iodine containing contrast agent Hepatic excretion potent inhibitor of thyroid hormone release and also peripheral conversion. used in cholecystography and also in hypehyroidism as adjuvant therapy",
         "cop": 4,
         "opa": "Myelography",
         "opb": "Bronchography",
@@ -429,7 +624,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "A 36-year-old woman with a history of obstructive sleep apnea is admitted with acute shoness of breath, cough with greenish sputum, and fever. On physical examination, she is febrile and has decreased breath sounds generally and diffuse bilateral rhonchi. ABGs: pH 7.32; PCO2 47 mm Hg; PO2 65 mm Hg with O2 saturation 87%.The patient improves initially but has a respiratory arrest as she is being moved to the ICU, requiring emergency endotracheal intubation. While a CXR is ordered, it is noted that she has absent breath sounds on the left side. CXR shows",
+        "question": "A 36-year-old woman with a history of obstructive sleep apnea is admitted with acute shoness of breath, cough with greenish sputum, and fever. On physical examination, she is febrile and has decreased breath sounds generally and diffuse bilateral rhonchi. ABGs: pH 7. 32; PCO2 47 mm Hg; PO2 65 mm Hg with O2 saturation 87%. The patient improves initially but has a respiratory arrest as she is being moved to the ICU, requiring emergency endotracheal intubation. While a CXR is ordered, it is noted that she has absent breath sounds on the left side. CXR shows",
         "exp": "The chest radiograph shows a homogeneous opacity occupying the left hemithorax with no air bronchograms. The left hea border and left diaphragm are not seen, consistent with left lung atelectasis. The right upper zone parahilar area is also paially opacified, suggesting paial right upper lobe atelectasis. An endotracheal tube is seen extending down to the right intermediate bronchus. This patient was admitted with symptoms of pneumonia with hypoxemia and respiratory acidosis. Initial treatment should include controlled oxygen therapy, antibiotics, and aerosolized bronchodilator therapy. IV theophylline is not considered standard practice and is not a first-line drug for bronchospasm. During CPR and resuscitation, traumatic pneumothorax and pneumomediastinum can occur. The CXR shows left-sided atelectasis with the endotracheal tube placed distally in the right intermediate bronchus. Correct positioning of the tube above the carina should be the first step in this case.",
         "cop": 4,
         "opa": "Left pneumothorax",
@@ -442,8 +637,21 @@
         "choice_type": "multi"
     },
     {
+        "question": "True about X-rays:",
+        "exp": "Ans. D. Can be emitted as well as absorbedX-rays are ionizing electromagnetic radiations, essentially produced when a stream of K shell electrons of an atom accelerated by a high voltage applied between the filament (cathode) and the target (anode), strikes the target and the electrons give up their energy producing characteristic radiations i. e., the X-rays. X-rays have dual property - they can be emitted as well as absorbed. In bone scan gamma radiations are used (not x-rays).",
+        "cop": 4,
+        "opa": "Differ from light in their charge",
+        "opb": "Are produced when Electron beam strikes the Cathode",
+        "opc": "Bone scan makes use of high-energy X-rays.",
+        "opd": "Can be emitted as well as absorbed.",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "9ff502b1-78d4-444a-b745-400f5d1a26f2",
+        "choice_type": "multi"
+    },
+    {
         "question": "X-ray Aifact is -",
-        "exp": "Common aifacts (all forms of radiography) motion aifact due to patient movement resulting in a distoed image image compositing (or twin/double exposure) superimposition of two structures from different locations due to double exposure of same film/plate radiopaque objects on/external to the patient (e.g. debris in the housing debris in the housing caused by the collimator tube can cause small trapezoidal regions, indicative of lead shavings",
+        "exp": "Common aifacts (all forms of radiography) motion aifact due to patient movement resulting in a distoed image image compositing (or twin/double exposure) superimposition of two structures from different locations due to double exposure of same film/plate radiopaque objects on/external to the patient (e. g. debris in the housing debris in the housing caused by the collimator tube can cause small trapezoidal regions, indicative of lead shavings",
         "cop": 4,
         "opa": "A radiolucent area",
         "opb": "Any abnormal opacity in the radiograph",
@@ -453,6 +661,19 @@
         "topic_name": "Fundamentals in Radiology",
         "id": "4b18fc69-e7d3-4ead-a8ed-d43a6b3a027c",
         "choice_type": "multi"
+    },
+    {
+        "question": "Unit of radioactivity is-",
+        "exp": "Ans is 'a' i. e. Becquerel * Old unit of radioactivity is Curie and new unit (SI) is Becquerel.* Old unit of radiation exposure is Roentegn and new unit (SI) is Columb/cm. Quantity measured. Old unit. New (SI)unit Radioactivity. Curie. Becquerel1 curie = 3. 7 x 101 becquerel -2. 7 x 10. Radiation exposure. Roentgen. Columb/cm Absorbed dose. Rad. Gray100 rad = 1 gray1 rad = 0. 01 gray. Dose equivalent. Rem. Sievert (Sv)100 rem = 1 Sv. Irem = 0. 01 Sv",
+        "cop": 1,
+        "opa": "Becquerel",
+        "opb": "Columb/cm",
+        "opc": "Gray",
+        "opd": "Sievert",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "123dd098-37aa-462d-9ef1-d9a7ea19a8e6",
+        "choice_type": "single"
     },
     {
         "question": "PET stands for -",
@@ -468,8 +689,21 @@
         "choice_type": "single"
     },
     {
+        "question": "Unit of radiation absorption is:",
+        "exp": "Ans. c (Gray). (Ref. Park PSM, 17th ed. 363, 522)RADIATION UNITS Quantity. Old unit. New SI unit1. Activity. Curie. Becquerel2. Exposure. Roentgen. Coulomb/kg3. Absorbed dose. Rad. Gray4. Dose equivalent. Rem. Sievert5. Effective dosem. Sv Radiation units1) Becquerel (Bq) - Unit of activity (1 Bq = 1 disintegration/second)2) Curie (Ci) - Was unit of activity formerly (1 Bq = 27 picocuries)3) Roentgen - Unit of exposure (1 mrad = 0. 001 rad). New SI Units1) Coulomb/kg - Replaced Roentgen2) Gray - Replaced Rad (1 rad = 0. 01 Gy)3) Sievert - Replaced Rem (1 Sv = 100 rems)",
+        "cop": 3,
+        "opa": "Rad",
+        "opb": "Rem",
+        "opc": "Gray",
+        "opd": "Curie",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "eccc6f1f-900a-4c19-a556-3f946338238a",
+        "choice_type": "single"
+    },
+    {
         "question": "PACS in medical imaging stands for -",
-        "exp": "PACS stands for Picture Archiving & communicating System .",
+        "exp": "PACS stands for Picture Archiving & communicating System.",
         "cop": 3,
         "opa": "Planned archiving common system",
         "opb": "Planned archiving computerized sytem",
@@ -478,6 +712,32 @@
         "subject_name": "Radiology",
         "topic_name": "Fundamentals in Radiology",
         "id": "154b0abc-6d0e-4f41-81df-938d7b051ff4",
+        "choice_type": "single"
+    },
+    {
+        "question": "The SI Unit for radiation Absorption is:",
+        "exp": "Ans. B. Gray. (Ref. Harrison Medicine 18th/pg. 691). The International System (SI) unit for radiation absorbed dose (rad) is the Gray (Gy); 1 Gy = 100 rad. Units of radiation dose.# Gray (Gy) is the SI unit of absorbed dose. One gray is equal to an absorbed dose of 1 Joule/kilogram (100 rads).# Rad is the special unit of absorbed dose. One rad is equal to an absorbed dose of 100 ergs/gram or 0. 01 joule/kilogram (0. 01 gray).# Rem is the special unit of any of the quantities expressed as dose equivalent. The dose equivalent in rems is equal to the absorbed dose in rads multiplied by the quality factor (1 rem=0. 01 sievert).# Sievert is the SI unit of any of the quantities expressed as dose equivalent. The dose equivalent in sieverts is equal to the absorbed dose in grays multiplied by the quality factor (1 Sv=100 rems). Dosimetric quantities. Quantity. Definition. New Units. Old Units. Exposure. Charge per unit mass of air1 R =2. 58 X 10-4 C/kg---Roetngen (R). Absorbed dose to tissueT from radiation of type RDT. REnergy of radiation R absorbed per unit mass of tissue T1 rad--100 ergs/g1 Gy= 1 joule/kg1 Gy= 100 radsgray (Gy). Radiation absorbed dose (rad). Equivalent dose to tissue T HTSum of contributions of dose to T from different radiation types, each multiplied by the radilation weightilng faftor (WR)HT-[?]R WR DT, RSievert (SV). Roentgen equivalent man (rem). Effective Dose ESum of equivalent doses to organs and tissues exposed, each multiplied by the appropriate tissue weighting factor (wr). Sievert (Sv)rem Quality Factors and Absorbed Dose Equivalencies. Type of radiation. Quality factor. Absorbed dose equal to a unit dose equivalenta (Q) X-, gamma, or beta radiation11. Alpha particles, multiple-charged particles, fission fragments and heavy particles of unknown charge200. 05. Neutrons of unknown energy100. 1. High-energy protons100. 1a. Absorbed dose in rad equal to 1 rem or the absorbed dose in gray equal to 1 sievert. Educational points: Radiobiological effectiveness (RBE): RBE is the ratio of the absorbed dose of low-LET radiation (X-Rays, g rays) to cause the same level of the same biological effect as that of high-LET radiation (neutrons, a particles). LET stands for Linear Energy Transfer, and describes the average energy released per unit length of track. The RBE is used to determine the Q factor used in calculating equivalent dose from absorbed dose.",
+        "cop": 2,
+        "opa": "Joules/kg2",
+        "opb": "Gray",
+        "opc": "Roentgen",
+        "opd": "REM",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "66018502-18fa-4af8-b72f-443d0a695bb5",
+        "choice_type": "single"
+    },
+    {
+        "question": "Half life of Iridium 192",
+        "exp": "Answer: c) 73. 8 days. ISOTOPES USED IN MEDICINEReactor Radioisotopes (half-life indicated in brackets): Molybdenum-99 (66 h): Used as the 'parent' in a generator to produce technetium-99m. Technetium-99m (6 h): Used in to image the skeleton and heart muscle in particular, but also for brain, thyroid, lungs (perfusion and ventilation), liver, spleen, kidney (structure and filtration rate), gall bladder, bone marrow, salivary and lacrimal glands, heart blood pool, infection and numerous specialized medical studies. Uses of Technetium 99 tagged RBC's: Commonly indicated in Acute Lower Gastrointestinal Bleeding. Relatively sensitive & very specific imaging method for noninvasive diagnosis of liver hemangioma. Measurement of left ventricular ejection fraction. Assessment of regional wall motion (left and right ventricles). Chromium-51 (28 d): Used to label RBC's and quantify gastro-intestinal protein loss. Cobalt-60 (10. 5 months): Formerly used for external beam radiotherapy. Copper-64 (13 h): To study genetic diseases affecting copper metabolism. Eg: Wilson's and Menke's diseases. Dysprosium-165 (2 h): Used as an aggregated hydroxide for synovectomy treatment of arthritis. Erbium-169 (9. 4 d): Use for relieving arthritis pain in synovial joints. Holmium-166 (26 h): Being developed for diagnosis and treatment of liver tumours. Iodine-125 (60 d): Used in brachytherapy (prostate and brain), to evaluate the filtration rate of kidneys and to diagnose DVT in the leg. It is also used in radioimmuno-assays to show the presence of hormones in tiny quantities. Iodine-131 (8 d): Used in treating thyroid cancer, imaging the thyroid; in diagnosis of abnormal liver function, renal (kidney) blood flow and urinary tract obstruction. A strong gamma emitter, but used for beta therapy. Iridium-192 (74 d): Supplied in wire form for use as an internal radiotherapy source for cancer treatment. Iron-59 (46 d): Used in studies of iron metabolism in the spleen. Lutetium-177 (6. 7 d): emits just enough gammas for imaging while the beta radiation does the therapy on small (eg endocrine) tumours. Its half-life is long enough to allow sophisticated preparation for use. Palladium-103 (17 d): Used to make brachytherapy permanent implant seeds for early stage prostate cancer. Phosphorus-32 (14 d): Used in the treatment of polycythemia vera (excess red blood cells). Beta emitter. Potassium-42 (12 h): Used for the determination of exchangeable potassium in coronary blood flow. Rhenium-186 (3. 8 d): Used for pain relief in bone cancer. Beta emitter with weak gamma for imaging. Rhenium-188 (17 h): Used to beta irradiate coronary arteries from an angioplasty balloon. Samarium-153 (47 h): Sm-153 is very effective in relieving the pain of secondary cancers lodged in the bone, sold as Quadramet. Also very effective for prostate and breast cancer. Beta emitter. Selenium-75 (120 d): Used as seleno-methionine to study the production of digestive enzymes. Sodium-24 (15 h): For studies of electrolytes within the body. Strontium-89 (50 d): Very effective in reducing the pain of prostate & bone cancer. Beta emitter. Xenon-133 (5 d): Used for pulmonary (lung) ventilation studies. Ytterbium-169 (32 d): Used for cerebrospinal fluid studies in the brain. Ytterbium-177 (1. 9 h): Progenitor of Lu-177. Yttrium-90 (64 h): for brachytherapy and as silicate colloid for relieving pain of arthritis. Pure beta emitter. Radioisotopes of caesium, gold and ruthenium are also used in brachytherapy.",
+        "cop": 3,
+        "opa": "17 days",
+        "opb": "60 days",
+        "opc": "73. 8 days",
+        "opd": "5. 26 years",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "11ba17c8-5276-44fb-9b24-7c266c8734ba",
         "choice_type": "single"
     },
     {
@@ -494,8 +754,8 @@
         "choice_type": "single"
     },
     {
-        "question": "44 year old man with dyspnoea, cough and mild pyrexia.What pa of the lung is involved?",
-        "exp": "The PA CXR shows increased airspace opacification in the right lower zone. The normal silhouette of the right hea border is obscured. On the lateral view the opacity is wedge-shaped and is located anteriorly. Diagnosis is Lobar pneumonia. Right middle lobe - the consolidation obscures the right hea border and on the lateral view it outlines the horizontal and oblique fissures . Note also that the horizontal fissure has been pulled inferiorly, indicating that there is a degree of collapse as well as consolidation. The patient should have a follow-up CXR after completing their antibiotic therapy to ensure complete resolution of the abnormality - occasionally there will be an underlying neoplasm.",
+        "question": "44 year old man with dyspnoea, cough and mild pyrexia. What pa of the lung is involved?",
+        "exp": "The PA CXR shows increased airspace opacification in the right lower zone. The normal silhouette of the right hea border is obscured. On the lateral view the opacity is wedge-shaped and is located anteriorly. Diagnosis is Lobar pneumonia. Right middle lobe - the consolidation obscures the right hea border and on the lateral view it outlines the horizontal and oblique fissures. Note also that the horizontal fissure has been pulled inferiorly, indicating that there is a degree of collapse as well as consolidation. The patient should have a follow-up CXR after completing their antibiotic therapy to ensure complete resolution of the abnormality - occasionally there will be an underlying neoplasm.",
         "cop": 2,
         "opa": "Right upper lobe",
         "opb": "Right middle lobe",
@@ -507,8 +767,21 @@
         "choice_type": "single"
     },
     {
+        "question": "Roentgen is a unit of-",
+        "exp": "Ans is 'b' i. e. Radiation exposure * Old unit of radiation exposure is Roentegn and new unit (SI) is Columb/cm. Quantity measured. Old unit. New (SI)unit Radioactivity. Curie. Becquerel1 curie = 3. 7 x 101 becquerel -2. 7 x 10. Radiation exposure. Roentgen. Columb/cm Absorbed dose. Rad. Gray100 rad = 1 gray1 rad = 0. 01 gray. Dose equivalent. Rem. Sievert (Sv)100 rem = 1 Sv. Irem = 0. 01 Sv",
+        "cop": 2,
+        "opa": "Radioactivity",
+        "opb": "Radiation exposure",
+        "opc": "Absorbed dose",
+        "opd": "Dose equivalent",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "85c25b56-6160-4643-b172-6d3f3867559c",
+        "choice_type": "single"
+    },
+    {
         "question": "Ultrasonography transducer contain",
-        "exp": "Some naturally occurring materials possess piezoelectric propeies (e.g., quaz) But most crystals used in medical ultra sound are man-made. This group of aificial piezoelectric materials are known as ferroelectrics. Barium titanate was the first of the ceramic ferroelectrics to be discovered. This has been largely replaced by lead zirconate titanate, commonly known as PZT. Now lead zirconate titanate is the most commonly used Several types of PZT are available, with slight variations in chemical additions and thermal treatment producing different propeies. Ref : Christensen's Physics of Diagnostic Radiology, 4/E,Pg no.329",
+        "exp": "Some naturally occurring materials possess piezoelectric propeies (e. g., quaz) But most crystals used in medical ultra sound are man-made. This group of aificial piezoelectric materials are known as ferroelectrics. Barium titanate was the first of the ceramic ferroelectrics to be discovered. This has been largely replaced by lead zirconate titanate, commonly known as PZT. Now lead zirconate titanate is the most commonly used Several types of PZT are available, with slight variations in chemical additions and thermal treatment producing different propeies. Ref: Christensen's Physics of Diagnostic Radiology, 4/E, Pg no. 329",
         "cop": 2,
         "opa": "Sodium fluride",
         "opb": "Lead Zirconate",
@@ -520,8 +793,34 @@
         "choice_type": "multi"
     },
     {
+        "question": "Light rays and X-rays have same",
+        "exp": "Ans: a (Velocity) Ref: Practical Radiotherapy- physics and equipment 2nd cd/p. 9. Electromagnetic waves all travel in vaccum with a velocity equal to the velocity of light 3xl08m/s.",
+        "cop": 1,
+        "opa": "Velocity",
+        "opb": "Wavelength",
+        "opc": "Energy",
+        "opd": "Frequency",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "decf4c35-bcf6-4b77-87b9-dc7ea0befce1",
+        "choice_type": "single"
+    },
+    {
+        "question": "True regarding X ray production",
+        "exp": "Answer: b) Increasing the tube voltage increases the heat production at target. Statement. Explanation. Reducing the actual focal spot reduces the heat load on the target. False. This results in the heat being spread over a reduced area. Increasing the tube voltage increases the heat production at the target. True. Increasing the tube voltage increases the kinetic energy of the electrons, the majority of which is lost as heat on collision with the target. A rotating anode cannot take a higher heat load than a stationary anodeA rotating anode results in the heat being spread over a larger area and is oneof the methods used to reduce target heating. Increasing the target angle increases the target heat rating for a given effective spot size. False. The target angle is the angle between the target and the central photon beam. Reducing the target angle for a given spot size increases the area that the heat is spread over and therefore improves its heat rating. Increasing the target angle increases the effective focal spot",
+        "cop": 2,
+        "opa": "Reducing the actual focal spot reduces the heat load on the target",
+        "opb": "Increasing the tube voltage increases the heat production at target",
+        "opc": "A rotating anode cannot take a higher heat load than a stationary anode",
+        "opd": "Increasing the target increases the target heat rating for a given effective spot size.",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "710d3dc8-d52d-4271-9661-a1212f167bf0",
+        "choice_type": "multi"
+    },
+    {
         "question": "Patient with a metallic foreign body in eye, which investigation is not done -",
-        "exp": "Absolute contraindications to MRI : cardiac pacemakers metallic foreign bodies cerebral aneurysmal clips implanted electrodes",
+        "exp": "Absolute contraindications to MRI: cardiac pacemakers metallic foreign bodies cerebral aneurysmal clips implanted electrodes",
         "cop": 1,
         "opa": "MRI",
         "opb": "USG",
@@ -533,8 +832,47 @@
         "choice_type": "multi"
     },
     {
+        "question": "Half life of Tc-99 is-",
+        "exp": "Ans. is 'a' i. e. 6 hours Ionizing radiation emitted by various radioisotopes. Rays Radioactive elementst 1/2 bP-32. Phosphorous14. 3 days. Sr. Strontium28 yearsY-90. Yttrium2. 54 days. Gadolinium does not cross blood brain barrier (BBB) unless the barrier is disrupted b g. Ra-226. Radium1622. Au-198. Gold2. 7 days1-131. Iodine (mainly Beta)8 daysg. Ir-192. Iridium74. 5 days. Co-60. Cobalt5. 2 years. Cs-137. Cesium30 years. Xe-133. Xenon5. 2 days1-123. Iodine13 hours1-132. Iodine2. 3 hours. Tc-99. Technitium6 hours. Ga-70. Gallium citrate3. 2 days. Tl-201. Thallous chloride3. 1 days. Rn-222. Radon3-6 day. Cr-51. Chromium K-81. Krypton Se. Selenium N, g. Cf-252. Californium2. 6 years. Ta-182. Tantulum4 months. Note - Radium also emits - a - particles - So, radium emits a, b & g rays. Radium also produces neutrons when mixed with beryllium.",
+        "cop": 1,
+        "opa": "6 hours",
+        "opb": "8 days",
+        "opc": "3-2 days",
+        "opd": "4 months",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "a1bbba59-ea5f-4919-9812-52e7c8a91312",
+        "choice_type": "single"
+    },
+    {
+        "question": "Walls of CT scan rooms are coated with-",
+        "exp": "Ans. is 'a' i. e., Lead * Lead is the most common agent used in modern constructions (Room design) to offer radiation shielding.* Computed tomography is a special type of x-ray procedure. A1 the precautions are same as X-rays.",
+        "cop": 1,
+        "opa": "Lead",
+        "opb": "Glass",
+        "opc": "Tungsten",
+        "opd": "Iron",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "299e592b-0896-43e8-b3a8-0af508e0d942",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Radioactive isotope/substance emits the following radiations EXCEPT",
+        "exp": "Ans. d (X-rays) (Ref. Harrison 18th/ ch. 223, 85)RADIOACTIVE EMMISION# ISOTOPES of atoms with uneven numbers of protons and/or neutrons are typically unstable; such isotopes discharge particles or energy to matter, a process that we define as radiation.# Isotope has same atomic number and different atomic mass numberQ# The main radiation types are -- Alpha particles- Beta particles- Gamma rays- Neutrons. ALPHA (a) RADIATION (He++/ Helium nuclei)# consists of heavy, positively charged particles containing two protons and two neutrons.# Alpha particles are usually emitted from isotopes with an atomic number of >82, such as: Q- uranium or- plutonium.# Least penetrating power Q (Fine obstacles such as cloth or human skin can usually stop them from penetrating into the body).# Due to their large size, alpha particles have limited penetrating power.# Highest ionization potentialQ# If they somehow are internalized, then alpha particles can cause significant cellular damage within their immediate proximity. Beta (b) radiation# consists of electrons, which are small, light, negatively charged particles (about 1/2000 the mass of a neutron orproton).# They can travel only a short finite distance in tissue, depending on their energy.# Exposure to beta particles is common in many radiation accidents.# 13. II, released in nuclear plant accidents, is the best known member of this group.# Plastic layers and clothing can stop most beta particles, and their penetration is measured to be a few millimeters.# A large quantum of energy to the basal stratum of the skin can cause a bum that is similar to a thermal bum and istreated as such.# Pure b-emitters include:- Phosphorous-32- Strontium-89 (used in Rx of painful bone metastases in dose 8. Gy single fraction).- Yttrium-90- Samarium-153 (b + g)- Rhenium (b + g). Neutrons Particles# are heavy and uncharged, often emitted during nuclear detonation.# They possess a wide energy range; their ability to penetrate tissues is variable. Points of differencex-raysy-rays. Origin. Extranuclear. Intranuclear. Produced by- x-ray tube - Linear accelerator0. Radioactive isotopes like Co-60, Tc99m. Penetrating power. Intermediate. Highest. Ionization potential. Intermediate. Least. Diagnostic use- Radiography- Mammography- Contrast radiography (IVU, Ba studies, DSA, etc)- Xeroradiography (Outdated)- Fluoroscopy- CT scan - DEXANuclear scan (Scintigraphy/Gamma-imaging) Therapeutic use. Teletherapy (Ortho < Super < Megavoltage x-ray therapy). * Megavoltage X-ray therapy causes no skin damage. Tele as well as brachytherapy",
+        "cop": 4,
+        "opa": "Alpha",
+        "opb": "Beta",
+        "opc": "Gamma",
+        "opd": "X-rays",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "0c4dab79-7349-4a74-a852-03c6243883f6",
+        "choice_type": "multi"
+    },
+    {
         "question": "Which of the following contrast agents is preferred in a patient with decreased renal function to avoid contrast nephropathy -",
-        "exp": "Low osmolar contrast agents are agents of choice in patients with pre exiting renal insufficiency Low osmolar contrast agents are ionic dimers and non ionic monomers example for ionic dimer : ioxoglate example for non ionic monomer : iohexol",
+        "exp": "Low osmolar contrast agents are agents of choice in patients with pre exiting renal insufficiency Low osmolar contrast agents are ionic dimers and non ionic monomers example for ionic dimer: ioxoglate example for non ionic monomer: iohexol",
         "cop": 4,
         "opa": "Acetylcystine",
         "opb": "Fenoldapam",
@@ -559,7 +897,20 @@
         "choice_type": "single"
     },
     {
-        "question": "A 37-year-old truck driver is seen with a history of recent onset of shoness of breath aggravated by bending over, lying down, and exeion. On physical exam, vital signs are normal. Lung exam shows decreased air movement at the left base with an area of dullness posteriorly. Abdomen is soft without palpable organomegaly. CXR is shown.The above diagnosis can best be confirmed by",
+        "question": "Not done for bone metastasis detection:",
+        "exp": "Ans. D. Ultrasound. Explanation. Imaging in Bone Metastases. Plain radiographs are often done as the first line investigation in patients with bone pain. However, radiography is considered insensitive to screen for asymptomatic metastases. The radiographic presence of such lesions very often lags behind their detectability by scintigraphy, CT or MRI. Plain radiographs are recommended to assess abnormal radionuclide uptake or the risk of pathological fracture. (Option a) MRI is the imaging modality of choice for assessing metastatic spread in the marrow cavity due to its excellent soft tissue resolution. (Option b) CT has excellent resolution of cortical and trabecular bone and is the imaging modality of choice for evaluating the ribs which have a high cortex to marrow ratio. (Option c) Radionuclide scan/bone scintigraphy is the imaging modality of choice in general for evaluation of bone metastases. Main agent used is metastable technetium 99 labeled diphosphonates, most commonly methylene diphosphonate (\"m. Tc-MDP). (Option d) Ultrasound is not the imaging modality of choice in assessment of bony pathologies due to dense acoustic shadowing from bony surface.",
+        "cop": 4,
+        "opa": "MRI",
+        "opb": "CT",
+        "opc": "Radionuclide scan",
+        "opd": "Ultrasound",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "0bc2665b-da75-40b8-a419-d4e92f3e4161",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 37-year-old truck driver is seen with a history of recent onset of shoness of breath aggravated by bending over, lying down, and exeion. On physical exam, vital signs are normal. Lung exam shows decreased air movement at the left base with an area of dullness posteriorly. Abdomen is soft without palpable organomegaly. CXR is shown. The above diagnosis can best be confirmed by",
         "exp": "This x-ray shows the left hemidiaphragm to be elevated in relation to the right side. There is no mediastinal pathology and the lung fields are clear. The hyperlucent gas shadow below the diaphragm suggests that there is no subdiaphragmatic pathology Unilateral elevation of the hemidiaphragm can be seen as a result of an enlargement or displacement of an abdominal organ, a subpulmonic process such as effusion, loss of volume of the lung with lobar atelectasis or surgical resection, or hemidiaphragmatic paralysis. Diaphragmatic paralysis results from interruption of the phrenic nerve supply to the diaphragm. The most common cause is malignancy, such as bronchogenic carcinoma, or postsurgical trauma. Twenty percent of patients who undergo open hea surgery sustain injury to the phrenic nerve. Other causes of diaphragmatic paralysis include polio, herpes, infections, lead poisoning, pulmonary infarctions, pneumonia, mediastinitis, and pericarditis. The diagnosis of unilateral paralysis of the diaphragm is suggested by the finding of an elevated hemidiaphragm on the chest x-ray. With diaphragmatic paralysis, the negative pleural pressure tends to pull the paralyzed diaphragm upward. Normally the right diaphragm is about 3 cm higher than the left. Confirmation of diaphragmatic paralysis is established by the sniff test. In this test the diaphragm is observed fluoroscopically as the patient sniffs. The normal diaphragm is moved downward during the sniff maneuver as the diaphragmatic muscles contract. A paralyzed diaphragm moves paradoxically upward because of negative pleural pressure. Patients with paralyzed diaphragms may be asymptomatic or may complain of dyspnea on lying down or with exeion. With complete paralysis, vital capacity and total lung capacity may be reduced about 25% from the baseline, and the maximum inspiratory pressure is reduced to about 40%",
         "cop": 1,
         "opa": "Sniff test",
@@ -573,7 +924,7 @@
     },
     {
         "question": "Regarding HRCT, all are true except -",
-        "exp": "HRCT means High Resolution CT Principles of HRCT : Thin collimation (1-2 mm) High frequency reconstruction algorithm (Eg : Bone algorithm).",
+        "exp": "HRCT means High Resolution CT Principles of HRCT: Thin collimation (1-2 mm) High frequency reconstruction algorithm (Eg: Bone algorithm).",
         "cop": 1,
         "opa": "Means high reconstruction CT imaging",
         "opb": "Has narrow beam collimation",
@@ -586,7 +937,7 @@
     },
     {
         "question": "Which of the following is not echogenic on ultrasonography-",
-        "exp": "Echoes are not produced if there is no difference in a tissue or between tissues. Homogenous fluids like blood, bile, urine, contents of simple cysts, ascites and pleural effusion are seen as echo-free structures. Ref : Physical principles of ultrasound (Dr Daniel J Bell and Ass. Pr. Mirjan M. Nadrljanski et al.)",
+        "exp": "Echoes are not produced if there is no difference in a tissue or between tissues. Homogenous fluids like blood, bile, urine, contents of simple cysts, ascites and pleural effusion are seen as echo-free structures. Ref: Physical principles of ultrasound (Dr Daniel J Bell and Ass. Pr. Mirjan M. Nadrljanski et al.)",
         "cop": 1,
         "opa": "Bile",
         "opb": "Gas",
@@ -625,7 +976,7 @@
     },
     {
         "question": "Frequency of sound waves used in USG -",
-        "exp": "Frequency of sound waves used in usg is >20000Hz.",
+        "exp": "Frequency of sound waves used in usg is >20000. Hz.",
         "cop": 4,
         "opa": "< 1000 Hz",
         "opb": "> 5000 Hz",
@@ -634,6 +985,58 @@
         "subject_name": "Radiology",
         "topic_name": "Fundamentals in Radiology",
         "id": "5c7eac2d-ad2a-4576-ba17-46b78dcb7182",
+        "choice_type": "single"
+    },
+    {
+        "question": "Atomic number of tungsten",
+        "exp": "Answer: c) 74",
+        "cop": 3,
+        "opa": "42",
+        "opb": "181",
+        "opc": "74",
+        "opd": "82",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "a5d4c37c-cb60-4330-8356-0601b360158a",
+        "choice_type": "single"
+    },
+    {
+        "question": "Hounsfield units are used in CT density scale to measure attenuation value of different materials compared to water. The value of fat in HU would be around:",
+        "exp": "Ans. A. -100. The value of fat is around -100. HU. In a CT density scale* Air = -1000 (Black)* Fat = -100* Water = 0* Concealed blood =+60 to+70* Calcification =+1000 (White)",
+        "cop": 1,
+        "opa": "-100",
+        "opb": "-1000",
+        "opc": "100",
+        "opd": "1000",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "59fdba20-7e56-4594-a03a-5742d3821286",
+        "choice_type": "single"
+    },
+    {
+        "question": "A MRI contrast used for imaging liver is:",
+        "exp": "Ans: (b) Gadoxetate. Ref: J Magn Resort Imaging, 2012 Nov; 36(5): 1060-71 5. Hepatobiliary MRI contrast agents are specialised agents used to aid diagnosis in MRI. They are separated into three categories: gadolinium-based agents, manganese-based agents and superparamagnetic iron oxide particles. Gadolinium-based Agents. Hepatobiliary specific gadolinium agents include two of the high relaxivity agents: gadobenate disodium (Gd-BOPTA) and gadoxetate disodium (Gd-EOB-DTPA). Gadoxetate disodium (Gd-EOB-DTPA): has almost equal biliary and renal excretion ( 50% each). Compared to gadobenate, it has more intense liver parenchymal enhancement. Manganese-based Agents. Mangafodipir trisodium (Mn-DPDP) is specifically taken up by hepatocytes due to its chemical similarity to Vitamin B6. This property results in the increase in signal intensity of normal hepatic parenchyma, giving high lesion-liver contrast. Unlike the gadolinium agents, mangafodipir trisodium readily dissociates to yield free manganese ions. This in vivo instability of the chelate rose concerns about potential toxicity. Free manganese, in chronic exposure, causes a parkinsonism-like syndrome due to accumulation in the brain, other neurological features and cardiac suppression. Hence, mangafodipir trisodium was effectively withdrawn from the market. Superparamagnetic Iron Oxide Particles. Superparamagnetic iron oxide particles do not leak into the interstitium. They, therefore, act as intravascular contrast agents or blood pool agents as long as the vessel endothelium is intact and unaltered by any pathological process. Their elimination from the blood is by uptake into the reticuloendothelial system cells in liver, spleen, bone marrow and lymph nodes and are phagocytosed by macrophages throughout the body. The superparamagnetic iron oxide particles agents are preferentially entrapped by the Kupffer cells in the liver and spleen and reduce their T2 relaxation time. Thus, normal liver appears dark on T2 weighted images. Most liver tumours which are usually deficient in Kupffer cells, do not exhibit superparamagnetic iron oxide particles agent uptake and appear relatively hyperintense.",
+        "cop": 2,
+        "opa": "Gadoterate",
+        "opb": "Gadoxetate",
+        "opc": "Gadoteridol",
+        "opd": "Gadopenate",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "616b1492-786c-4e2b-98f2-784c786cb67b",
+        "choice_type": "single"
+    },
+    {
+        "question": "X-rays were discovered by:",
+        "exp": "Ans: c (William Roentgen)X-rays were discovered by Roentgen. Historical aspect: Discovery of: J. J Thompson-ElectronsW. K Roentgen-X-rays in 1895. Henry Bequeral-Radioactivity in 1896. Madam Marie curie-Radioactive substance radium, uranium. Rutherford-Nucleus. Chadwick-Neutron. Maxwell-Electromagnetic waves",
+        "cop": 3,
+        "opa": "Madam Curie",
+        "opb": "Henry Becquerel",
+        "opc": "William Roentgen",
+        "opd": "Chadwick",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "213a9e0f-ee29-4be4-9725-6d4aaa854a70",
         "choice_type": "single"
     },
     {
@@ -650,6 +1053,71 @@
         "choice_type": "single"
     },
     {
+        "question": "Which of the following imaging works based on the principle of piezoelectric effect?",
+        "exp": "Ans. A. USG* The ultrasound image is based on mechanical oscillations of the crystal excited by electrical pulses (piezoelectric effect). Numerous crystals are assembled to form the transducer. Based on the pulse-echo principle occurring with ultrasound piezoelectric crystals, ultrasound transducers convert electricity into sound.* The ultrasound waves are sent from the transducer (pulse) and propagate through different tissues and then they come back (echo) and converted back into electrical impulses by the transducer crystals and are further processed in order to form the ultrasound image presented on the screen. That is called as pulse-echo principle.",
+        "cop": 1,
+        "opa": "USG",
+        "opb": "X-ray diffraction",
+        "opc": "Xeroradiography",
+        "opd": "MRI",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "306e7419-fafa-491e-9d2d-3f172411684f",
+        "choice_type": "single"
+    },
+    {
+        "question": "Thickness of lead apron is-",
+        "exp": "Ans. is 'c' i. e. 0. 5 mm \"It is recommended that for general purpose radiography the minimal thickness of lead equivalent in the protective apparel should be 0. 5mm. \" - Textbook of Radiology Physics p. 39* Lead apron of 0. 5mm thickness reduce intensity of scattered X-rays by over 90%. Lead apron* A lead apron or leaded apron is a type of protective clothing that acts as a radiation shield. It is constructed of a thin rubber exterior and an interior of lead in the shape of a hospital apron. The purpose of the lead apron is to reduce exposure of a hospital patient to x-rays to vital organs that are potentially exposed to ionizing radiation during medical imaging that uses x-rays (radiography, fluoroscopy, computed tomography).* Lead can effectively attenuate certain kinds of radiation because of its high density and high atomic number; principally, it is effective at stopping gamma rays and x-rays.* Protection of the reproductive organs with a lead apron is considered important.* The thyroid gland is especially vulnerable to x-ray exposure. Care should be taken to place a lead apron over the thyroid gland before taking dental radiographs.",
+        "cop": 3,
+        "opa": "0. 2 mm",
+        "opb": "0. 3 mm",
+        "opc": "0. 5 mm",
+        "opd": "0. 8 mm",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "8c21d4ea-02d7-4c4e-ac7f-12046fbe9976",
+        "choice_type": "single"
+    },
+    {
+        "question": "USG velocity",
+        "exp": "Answer: d) Is lower in tissues with a higher fat or water content. Ultrasound velocity: It is a product of the frequency and wavelength. It is inversely proportional to the square root of the material density. Ultrasound travels faster in stiff, non-compressible media. Velocity in a given medium is virtually independent of the frequency. With velocity being constant, an increase in the frequency causes a proportional decrease in wavelength. The velocity of ultrasound in fat and water is lower than in an average soft tissue.",
+        "cop": 4,
+        "opa": "Increases in frequency in a medium",
+        "opb": "Equal to Ultrasound frequency",
+        "opc": "Equal to Ultrasound wavelength",
+        "opd": "Is lower in tissues with a higher fat or water content",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "30c2ae05-528f-42f5-897a-6572d7c6256f",
+        "choice_type": "single"
+    },
+    {
+        "question": "Effective strategies to decrease morbidity from accidental radiation exposure includes all except",
+        "exp": "Answer: b) Ranitidine therapy for barium ingestion. TREATMENT OF RADIONUCLIDE CONTAMINATIONTreatment for internal radionuclide contamination, also referred to as decorporation, should be started as soon as possible after suspected or known exposure. The goal is to leave the smallest amount of radionuclides possible in the body. Treatment is given to reduce absorption and enhance elimination and excretion. Clearance of the Gl tract may be achieved by stomach lavage, with emetics (such as apomorphine, 5 to 10 mg, or ipecac, 1- to 2-g capsules or 15 mL in syrup), or by using purgatives, laxatives, ion exchangers, and aluminum antacids. Prussian blue: to treat cesium 137 internal contamination. Aluminum antacids: to reduce strontium uptake in the gut. Prevention or reversal of radionuclide interaction with tissues by blocking, diluting, mobilizing, and chelating agents. Blocking agents prevent the entrance of radioactive materials. Potassium iodide (Kl), which blocks the uptake of radioactive iodine (131l) by the thyroid. Other thyroid-blocking agents include prophylthiouracil, methimazole. Diluting agents decrease the absorption of the radionuclide. Water may be used as a diluting agent in the treatment for tritium (3H) contamination and for barium overdosage. Mobilizing agents are most effective when given immediately. These agents include antithyroid drugs, parathyroid extract, glucocorticoids, ammonium chloride, diuretics, expectorants, and inhalants. All of them should induce the release of radionuclides from tissues. Chelating agents can bind many radioactive materials, after which the complexes are excreted from the human body. DTPA was approved to treat internal contamination with plutonium, americium, and curium, but it also chelates berkelium, californium, and any material with an atomic number >92. Ca-DTPA is more effective than Zn-DTPA during the first 24 hours after internal contamination, and both drugs are equally effective after the initial 24 hours. If both drugs are available, Ca-DTPA should be given as the first dose. Nebulized Zn-DTPA is recommended if the internal contamination is only by inhalation. The IV route is recommended and should be used if the route of internal contamination is not known or if multiple routes of internal contamination are likely. Treating uranium contamination with DTPA is contraindicated due to its synergistic damage to the kidneys. Lung lavage can reduce radiation-induced pneumonitis and is indicated only when a large amount of radionuclide enters the lungs and has the potential for acute radiation injury. The procedure requires anesthesia. Common Drugs for Treatment of Internal Contamination. Medication. Administered for Radionuclides. Route of Administration. Mechanism of Action. Kl131. IPOBlocking agent. Zn-DTPA Ca- DTPAPlutonium, trans-plutonium, yttrium, americium, curium. IV, IM, Inhalation. Chelating agent. Bicarbonate. Uranium. IV, POIncreased excretion via kidneys. Prussian blue. Cesium-137. POIon exchanger. Water. Tritium (H-3)POExcretion of water. Aluminum phosphate gel. Strontium. PODecreased gut absorption. Aluminum hydroxide PODecreased gut absorption. Excluding Kl & Prussian blue, these drugs have not been approved for this purpose.",
+        "cop": 2,
+        "opa": "Dilution therapy in tritium exposure",
+        "opb": "Ranitidine therapy for barium ingestion",
+        "opc": "Block therapy by administering potassium iodide in case of radioactive iodine ingestion",
+        "opd": "Removal therapy including gastric lavage in unknown radio nuclide ingestion.",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "d6fd8c22-dd12-40f1-b758-e1816e184719",
+        "choice_type": "multi"
+    },
+    {
+        "question": "True statement regarding X ray beam",
+        "exp": "Answer: c) No matter how thick the material, it is not possible to completely absorb the primary X ray beam. Statement. Explanation. For a heterogenous beam; the half value layer decreases as the beam passes through the material. As a result of beam hardening the penetrating power of the beam increases, resulting in an increase in the HVL. It reduces in equal quantities as it passes through material of equal thickness. This is only true for a mono-energetic beam. X-ray beams consist of photons with varying energies (poly- energetic). No matter how thick the material, it is not possible to completely absorb the primary X ray beam. True. This is known as the exponential law. Wearing lead gloves protect the operator form X ray beam. Protective equipment does not provide protection against the primary beam, only the attenuated rays. Beam hardening results from the low-energy photons being attenuated proportionally more than the high-energy photons as the beam travels through a material.",
+        "cop": 3,
+        "opa": "For a heterogenous beam, the half value layer (HVL) decreases as the beam passes through the material.",
+        "opb": "It reduces in equal quantities as it passes through the material of equal thickness",
+        "opc": "No matter how thick the material, it is not possible to completely absorb the primary X ray beam.",
+        "opd": "Wearing lead gloves protect the operator form X ray beam",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "6a1580b3-5b9e-4a38-b8af-10abd063244b",
+        "choice_type": "multi"
+    },
+    {
         "question": "Contrast used in CT scan -",
         "exp": "Contrast used in CT is Iodine MRI contrast used is Gadolinium.",
         "cop": 3,
@@ -661,6 +1129,19 @@
         "topic_name": "Fundamentals in Radiology",
         "id": "8475712f-9593-478e-a01e-5dba9c98cc46",
         "choice_type": "single"
+    },
+    {
+        "question": "About Bragg peak effect of protons all are true, except:",
+        "exp": "Ans. a. Electromagnetic radiation. The brag peak is a pronounced peak on the Bragg curve which plots the energy loss of ionizing radiation during its travel through matter. For proton, a-rays, and other ion rays, the peak occurs immediately before the particle come to rest.",
+        "cop": 1,
+        "opa": "Electromagnetic radiation",
+        "opb": "Produce ionization in biological system",
+        "opc": "The dose of single beam is 2-4 times greater than the path dose",
+        "opd": "Beam therapy for AV malformation of the brain.",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "e0390a2d-6fd0-495d-82cc-4820f4652b35",
+        "choice_type": "multi"
     },
     {
         "question": "Ultrasonography transducer contains -",
@@ -677,7 +1158,7 @@
     },
     {
         "question": "Most radio dense substance is -",
-        "exp": "Increasing order of radiodensity : AIR FAT WATER BONE METAL",
+        "exp": "Increasing order of radiodensity: AIR FAT WATER BONE METAL",
         "cop": 4,
         "opa": "Fluid",
         "opb": "Soft tissue",
@@ -689,8 +1170,34 @@
         "choice_type": "single"
     },
     {
+        "question": "Alpha particle is similar to",
+        "exp": "Ans: d (Helium nucleus) Ref: Vasudevan 4th ed/p 464. Alpha particle consists of 2 protons and 2 neutrons bound together into a particle identical to Helium nucleus He2+. Beta particles are high energy, high speed electrons or positrons emitted by radioactive nuclei. Gamma rays are electromagnetic radiation of high frequency. X-rays are low energy photons. Penetration powen-Gamma ray > X ray. Beta particle > alpha particle. Ionising and damaging power: -Alpha particle> Beta particle > X ray> Gamma ray",
+        "cop": 4,
+        "opa": "Electron",
+        "opb": "Proton",
+        "opc": "Neutron",
+        "opd": "Helium nucleus",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "2fa545dc-0cea-4724-89f6-4a5bf1018f6a",
+        "choice_type": "single"
+    },
+    {
+        "question": "Which of the following is non-ionising radiation:",
+        "exp": "Ans: D (Microwave) Ref Robbins 9th/428; Review of Radiology by Sumer Sethi 6th/166; L & B 26th/172]. Injury Produced by Ionizing Radiation Robbins 9th/428. Radiation is energy that travels in the form of waves or high-speed particles. Radiation has a wide range of energies that span the electromagnetic spectrum; it can be divided into nonionizing and ionizing radiation. The energy of nonionizing radiation such as UV and infrared light, microwave, and sound waves, can move atoms in a molecule or cause them to vibrate, but is not sufficient to displace bound electrons from atoms. By contrast, ionizing radiation has sufficient energy to remove tightly bound electrons. Collision of electrons with other molecules releases electrons in a reaction cascade, referred to as ionization. The main sources of ionizing radiation are x-rays and gamma rays (electromagnetic waves of very high frequencies), high-energy neutrons, alpha particles (composed of two protons and two neutrons), and beta particles, which are essentially electrons. At equi%ralent amounts of energy, alpha particles induce heavy damage in a restricted area, whereas x-rays and gamma rays dissipate energy over a longer, deeper course, and produce considerably less damage per unit of tissue. About 50% of the total dose of ionizing radiation received by the U. S. population is human-made, mostly originating from medical devices and radioisotopes. In fact, the exposure of patients to ionizing radiation during radiologic imaging tests roughly doubled between the early 1980s and 2006, mainly because of much more widespread use of CT scans. Ionizing radiation is a double-edged sword. It is indispensable in medical practice, being used in the treatment of cancer, in diagnostic imaging, and in therapeutic or diagnostic radioisotopes, but it also produces adverse short- and longterm effects such as fibrosis, mutagenesis, carcinogenesis. and teratogenesis.",
+        "cop": 4,
+        "opa": "X-ray",
+        "opb": "b-rays",
+        "opc": "a -rays",
+        "opd": "Microwave",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "ea772dbf-d5c4-4e82-96cd-b90aeb4fd47b",
+        "choice_type": "single"
+    },
+    {
         "question": "Which of the following is the most penetration beam",
-        "exp": "Penetration power of photons depends on the kinetic energy. higher the kinetic energy of the photon beam,higher will be the penetration power. kVp determines the penetrating power of Xrays.",
+        "exp": "Penetration power of photons depends on the kinetic energy. higher the kinetic energy of the photon beam, higher will be the penetration power. k. Vp determines the penetrating power of Xrays.",
         "cop": 3,
         "opa": "Electron beam",
         "opb": "8 MeV Photons",
@@ -703,7 +1210,7 @@
     },
     {
         "question": "High resolution computed tomography of the chest is the ideal modality for evaluating -",
-        "exp": "HRCT is the investigation of choice for Interstitial lung disease (ILD). Principles of HRCT : Thin collimation (1-2 mm) High frequency reconstruction algorithm (Eg : Bone algorithm).",
+        "exp": "HRCT is the investigation of choice for Interstitial lung disease (ILD). Principles of HRCT: Thin collimation (1-2 mm) High frequency reconstruction algorithm (Eg: Bone algorithm).",
         "cop": 2,
         "opa": "Pleural effusion",
         "opb": "Interstitial lung disease",
@@ -715,8 +1222,21 @@
         "choice_type": "single"
     },
     {
+        "question": "Substances with same atomic number but different mass number are",
+        "exp": "Ans. a (Isotope) (Ref. Radioactive isotope in Medicine Biology by Quimby, 2nd ed., 26). Term. Definitionisotopes. Atoms having same:- atomic number (same number of protons), - position in periodic table, and- chemical and metabolic properties, but diffeient;- number of neutrons, - mass number (protons plus neutrons), - density and other physical properties. E. g., 17. CI-35, 17. CI-37. Isobars. Atoms having same mass numbers, different atomic number (hence different neutron number) e. g., 28. Ni-64, 30. Zn-64. Isotones. Atoms having same neutron number, different atomic mass number, e. g., 18A-40. Isomers. Atoms having same atomic and mass numbers but different energy states in nucleus",
+        "cop": 1,
+        "opa": "Isotopes",
+        "opb": "Isobars",
+        "opc": "Isomers",
+        "opd": "Any of the above",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "01e732dc-520e-405b-807c-9e3bd642d438",
+        "choice_type": "multi"
+    },
+    {
         "question": "True about MRI are all except -",
-        "exp": "option A is false regarding MR, explanation : MRI is considered most sensitive to detect implant rupture.",
+        "exp": "option A is false regarding MR, explanation: MRI is considered most sensitive to detect implant rupture.",
         "cop": 1,
         "opa": "Not helpful in breast implant",
         "opb": "Not good for calcified lesions",
@@ -728,8 +1248,21 @@
         "choice_type": "multi"
     },
     {
+        "question": "SI unit of dose of radiation absorption?",
+        "exp": "Ans. c (Gray) (Ref. Grainger Radiology 4th/232). The old unit of radiation absorption is rad & new (SI) unit is gray. Radiation units. The activity of a radioactive material is the number of nuclear disintegration per unit of time. The unit of activity is a becquerel (Bq); 1 Bq is equal to 1 disintegration per second. Formerly, the unit of avtivity was curie (Ci) and 1 Bq corresponds approximately to 27 picocuries. The potency of radiation is measured in THREE (three)ways (1) Roentgen: Roentgen is the unit of exposure. It is the amount of radiation absorbed in air at a given point, i. e., number of ions produced in 1 ml of air. (2) Rad: Rad is the unit of absorbed dose. It is the amount of radioactive energy absorbed per gram of tissue or any material. 1 mrad = 0. 0001 rad (3) Rem: Rem is the product of the absorbed dose and the modifying factors. The rem indicates the degree of potential danger to health. The radiation to which the average citizen is expected is made up almost of the fast moving, highly penetrating X-rays and gamma rays, where rem and rad are equal (2). The radiation units (viz roentgen, rad rem) are replaced by the new SI Units (International System of Units) which are: (a) Coulomb per kilogram (C/kg) replacing the reontgen. 1 roentgen is equal to 2. 58 x 10'4 C/kg1. It is the unit for exposure. There is no special name for this, (b) Gray (Gy) replacing the rad. It is the unit of absorbed dose, defined as the dose of ionizing radiation that impart 1 joule of energy to 1 kg of absorbing material. 1 rad is equal to 0. 01 Gy. (1), and (c) Sievert (Sv) replacing the rem. It is the SI unit of dose equivalent. The dose equivalent of 1 sievert is equal to 100 rems. Dose equivalent (H): As all types of radiation do not produce the same biological effect per unit of energy absorbed, the concept of dose equivalent has been introduced. The dose equivalent, M (Sieverts) is equal to the absorbed dose, D (grays), M (Sieverts) is equal to the absorbed dose, D (grays), multiplied by a quality factor Q which depends upon the density of ionization produced in the tissue by the radiation. H = DQThe factor Q for X-rays and Y-rays and electrons is equal to 1, whereas for a particle it is 20 (3). ARADIATION UNITSConventional Units. New SI Units: These are such units as the \"three Rs\" & \"C\": 1) Roentgen (Unit of exposure), (1 mrad = 0. 001 rad)2) Rad (Unit of absorption)3) Rem (Unit of equvivalent dose)4) Curie (Unit of activity formerly) (1 Bq = 27 picocuries)1) Coulomb/kg - Replaced Roentgen2) Gray - Replaced Rad (1 rad = 0. 01 Gy)3) Sievert - Replaced Rem (1 Sv = 100 rem)4) Becquerel-Unit of activity(l. Bq=l disinteg/sec)A. Radioactivity# The number of times each second a radioactive material decays and releases radiation. The old unit is curile curie & new unit is Bq. B. Absorbed Dose# The amount of radiation energy absorbed into a given mass of tissue.# Absorbed dose is the radiation quantity used to express the concentration of radiation energy actually absorbed in a specific tissue. This is the quantity that is most directly related to biological effects.# Dose values can be in the traditional unit of the rad or the SI unit of the gray (Gy).# The rad is equivalent to 100 ergs of energy absorbed in a gram of tissue and the gray is one joule of energy absorbed per kilogram of tissue. 1 gray (Gy) = 100 rads10 m. Gy = 1 rad1 m. Gy = 100 mradC. Dose (Equivalent)# Measures the energy per unit mass times adjustments for the type of radiation involved (quality factor) and the biological response in the tissue (a weighting factor).# Equivalent dose converts dose into an estimate of risk.# They are quantities that can be measured and expressed in terms of the more fundamental physical quantities like energy. Dose Equivalent, in the unit, sievert (Sv), is a quantity that expresses the relative biological impact of the radiation by including a radiation weighting factor (wR).# The relationship is: Dose Equivalent (Sv) = Dose (Gy) x wR. The value of the radiation weighting factor (wR) is a characteristic of each specific type of radiation. D. Effective Dose# It is actually a simple and very logical concept. It takes into account the specific organs and areas of the body that are exposed.# The point is that all parts of the body and organs are not equally sensitive to the possible adverse effects of radiation, such as cancer induction and mutations.# For the purpose of determining effective dose, the different areas and organs have been assigned tissue weighting factor (wT) values.# For a specific organ or body area the effective dose is: Efective Dose (Gy) = Absorbed Dose (Gy) x w. TEducational Points. CELL CYCLE AND RADIATION# G2-M interphase is most radiosensitive. (G2M interphase > M > G2)# The cell is vulnerable to radiation in the stage of mitosis (M), less so during synthesis (S) and relatively insensitive during resting periods.# 'S' phase is the most radioresistant phase of cell cycle.# But, 'S' phase is the most chemosensitive phase of cell cycle.# Radiosensitivity of a cell also depends on its histological type and oxygenation of the tissues. RADIOBIOLOGY# Four important processes that occur after radiation exposure can be summarized as the ' four R's\" of radiobiology- The first is repair. Repair is temperature dependent and is thought to represent the enzymatic mechanisms for healing intracellular injury.- The second R is reoxygenation, a process whereby oxygen (and other nutrients) are actually better distributed to viable cells following radiation injury and cell killing.- The third R is repopulation, the ability of the cell population to continue to divide and to replace dying and dead cells.- The fourth R is redistribution, which reflects the variability of a cell's radiosensitivity over the cell cycle.",
+        "cop": 3,
+        "opa": "Rad",
+        "opb": "REM",
+        "opc": "Gray",
+        "opd": "Curie",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "84c5d953-5500-4dc6-841f-5aabae2b30ae",
+        "choice_type": "single"
+    },
+    {
         "question": "The intensity of colour in Doppler is determined by-",
-        "exp": "The intensity of colour in Doppler is determined by magnitude of the Doppler shift The magnitude of the Doppler shift is propoionate to the blood flow velocity and the Doppler angle Ref : Introduction to Vascular Ultrasonography 6th Edition Pg : 63",
+        "exp": "The intensity of colour in Doppler is determined by magnitude of the Doppler shift The magnitude of the Doppler shift is propoionate to the blood flow velocity and the Doppler angle Ref: Introduction to Vascular Ultrasonography 6th Edition Pg: 63",
         "cop": 2,
         "opa": "Direction flow",
         "opb": "Velocity of flow",
@@ -739,6 +1272,19 @@
         "topic_name": "Fundamentals in Radiology",
         "id": "23b66059-5a00-4683-ae07-3f8a95d1ab66",
         "choice_type": "multi"
+    },
+    {
+        "question": "Wavelength of light is",
+        "exp": "Ans: a (400-700nm) Ref: Vasudevan 4th ed p. 479. Wavelength of visible light is 400-700nm. Violet- 420 nm. Blue- 470 nm. Green- 520 nm. Yellow- 580 nm. Red- 680 nm",
+        "cop": 1,
+        "opa": "400-700 nm",
+        "opb": "500-800 nm",
+        "opc": "700-900 nm",
+        "opd": "300-600 nm",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "d5619788-c7d9-413f-8d1e-aa9fab0b32ad",
+        "choice_type": "single"
     },
     {
         "question": "Hounsfield unit is zero for which of the following?",
@@ -752,6 +1298,19 @@
         "topic_name": "Fundamentals in Radiology",
         "id": "0274fb21-68a7-4b13-9496-540e4f6f87c3",
         "choice_type": "single"
+    },
+    {
+        "question": "MRI is superior in all of the following conditions except",
+        "exp": "Answer: a) Serial evaluation of liver functions in a 54 years female with metastatic carcinoma breast with doxorubicin chemotherapy. CT is preferred than MRI for Serial evaluation of liver functions in a 54 years female with metastatic carcinoma breast with doxorubicin chemotherapy",
+        "cop": 1,
+        "opa": "Serial evaluation of liver functions in a 54 years female with metastatic carcinoma breast with doxorubicin chemotherapy",
+        "opb": "Diagnosis of arrythmogenic right ventricular cardiomyopathy in a 24 years old man who survived recent cardiac arrest.",
+        "opc": "Diagnosis of aortic coarctation in a 17 years female with hypertension and radio femoral delay on physical examination.",
+        "opd": "Diagnosis of iron overload cardiomyopathy in a pediatric patient with B-thalassemia major and congestive heart failure.",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "8f990a79-fdf3-407b-bcb5-267cf82fbb22",
+        "choice_type": "multi"
     },
     {
         "question": "The most likely diagnosis in a new born who has radio- opaque shadow with an air -fluid level in the chest along in the chest along with hemi-veebra of the 6th thoracic veebra on plain x-ray is-",
@@ -768,9 +1327,9 @@
     },
     {
         "question": "Regarding CT scan all are true except -",
-        "exp": "Quantity of exposure (radiation dose) is directly propoional to (kVp)2 so reducing kVp by 50% will reduce the radiation dose to 25 % (i.e 75% reduction in radiation dose)",
+        "exp": "Quantity of exposure (radiation dose) is directly propoional to (k. Vp)2 so reducing k. Vp by 50% will reduce the radiation dose to 25 % (i. e 75% reduction in radiation dose)",
         "cop": 1,
-        "opa": "50% reduction in kVp reduces 50% radiation dose",
+        "opa": "50% reduction in k. Vp reduces 50% radiation dose",
         "opb": "Decrease in mA (milli amperes) decreases radiation dose exposure significantly in pediatric chest",
         "opc": "Quality of the radiation generated depends upon voltage",
         "opd": "Radiation dose exposure is directly related to the time of exposure",
@@ -780,7 +1339,20 @@
         "choice_type": "multi"
     },
     {
-        "question": "Advantage of MRI :",
+        "question": "BIRADS stands for:",
+        "exp": "Ans. a. Breast Imaging Reporting and Data System (Ref: Sabiston 19/e p834)BIRADS stands for Breast Imaging Reporting and Data System. BIRADS (Breast Imaging Reporting And Data System). Category. Definition0. Incomplete assessment, need additional imaging evaluation. Q1. Negative, routine mammogram in 1 year is recommended. Q2. Benign findings, routine mammogram in 1 year is recommended. Q3. Probably benign findings, short term follow-up suggested. Q4. Suspicious abnormality, biopsy should be considered. Q5. Highly suggestive of malignancy, appropriate action should be taken. Q6. Known biopsy-proven malignancy",
+        "cop": 1,
+        "opa": "Breast Imaging Reporting and Data System",
+        "opb": "Best Imaging Reporting and Data System",
+        "opc": "Brain Imaging Reporting and data system",
+        "opd": "Best imaging Reporting and Data System",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "8ab146b7-9fda-45d0-a72a-ca4a0a9d5464",
+        "choice_type": "single"
+    },
+    {
+        "question": "Advantage of MRI:",
         "exp": "MRI is better to visualise the vascular structures compared to CT. CT is better for calcifications than MRI. CT is better in differentiating benign and malignant pulmonary nodule.",
         "cop": 3,
         "opa": "Calcification best seen",
@@ -819,6 +1391,19 @@
         "choice_type": "single"
     },
     {
+        "question": "Hounsfield number for water is-",
+        "exp": "Ans. is 'a' i. e., 0 * Water is arbitrarily assigned a value of zero (0) Hounsfield units (HU). Hounsfield's number (CT number)* Hounsfield's contribution is memorialized in the Hounsfield scale, which is used to measure the X-ray attenuation in CT scanning.* The basic parameter in a CT image is CT number. The CT number is defined with respect to water X-ray absorption and is dependent on absorption / attenuation coefficient.* When an X-ray beam (used in CT) passes through the body, there is a logarithmic attenuation of its intensity over distance. A measurement of the intensity of the exiting beam is known as the linear attenuation coefficient when the attenuation thickness is 1 cm. The linear attenuation coefficient is related to the absorption in the material. This depends upon the energy of the X-ray beam and the type of material being irradiated. CT images are map of the relative linear attenuation coefficient of tissues. The relative attenuation coefficient is normally expressed in Hounsfield units (HU) or CT number. CT number (Hounsfield unit of a matter) = mx-m. H2O/m. H2O x 100* mx = Attenuation coefficient of matter.* m. H2O = Attenuation coefficient of water. Substance. HU units* Water* Dense cortical bone* Soft tissue* Fat* Lung tissue* Air* 0* +1000 (+400 to+1000)* +40 to +80* -60 to-100* -400 to -600* -1000",
+        "cop": 1,
+        "opa": "0",
+        "opb": "100",
+        "opc": "-100",
+        "opd": "-80",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "91bcf217-9d67-4ff1-b865-7a7f1f4e18a9",
+        "choice_type": "single"
+    },
+    {
         "question": "Which looks the same in T1 and T2 on MRI",
         "exp": "Fat appears hyperintense on both T1 and T2 weighted images",
         "cop": 2,
@@ -846,7 +1431,7 @@
     },
     {
         "question": "Radiocontrast is contraindicated in all except -",
-        "exp": "Impoant risk factors for contrast induced nephropathy (CIN) : Renal failure Diabetes Hypeension Dehydration Patient on metformin Hyperuricemia",
+        "exp": "Impoant risk factors for contrast induced nephropathy (CIN): Renal failure Diabetes Hypertension Dehydration Patient on metformin Hyperuricemia",
         "cop": 4,
         "opa": "Renal failure",
         "opb": "Patient on metformin",
@@ -858,8 +1443,21 @@
         "choice_type": "multi"
     },
     {
+        "question": "Which of the following is not ionizing:",
+        "exp": "d) uv radiation ref: SPM Park 17th/e p. 521, principal and practice of oncology 6th/e p. 195-196",
+        "cop": 4,
+        "opa": "Beta radiation",
+        "opb": "Alpha radiation",
+        "opc": "Gamma radiation",
+        "opd": "UV radiation",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "d1d28552-e4f1-4c6c-a38b-862a5e13a43e",
+        "choice_type": "single"
+    },
+    {
         "question": "A 64-year-old woman is admitted to the ICU with the clinical diagnosis of acute respiratory distress syndrome (ARDS) secondary to pneumonia. She requires intubation and mechanical ventilation. On the second ICU day, she is difficult to ventilate, requiring increased airway pressures. On physical examination, vital signs are: pulse 159 bpm; temperature 100degF; blood pressure 90/56 mm Hg. Lung exam reveals diffuse crackles, and the patient has a palpable crunch on exam of her chest wall and abdomen. Chest radiograph is shown below.. What will you do next?",
-        "exp": "This poable chest x-ray taken in the ICU shows an intubated patient with hyperlucent lines in the soft tissue with striations along the fibromuscular bundles of the neck and chest musculature. There is a faint paracardiac hyperlucent line representing air around the pericardium. The diaphragm leaflets are seen clearly across the midline due to the contrasting air shadow representing the \"continuous diaphragm sign\". All the signs mentioned are representative of a pneumomediastinum. The lower edge of the diaphragm is also visible due to a pneumoperitoneum. Alveolar rupture with increased alveolar-interstitial space gradient can cause pneumomediastinum and subcutaneous emphysema. Subcutaneous emphysema may occur after trauma such as esophageal rupture with direct introduction of air in the mediastinum. It can also occur where there is abdominal and thoracic muscular contraction against a closed glottis. Infection with a gas-forming organism can cause subcutaneous gas formation. Inflammatory bronchiolitis or overinflated alveoli due to mechanical ventilation can cause alveolar rupture, especially if there is airway obstruction with air moving along the bronchovascular sheaths. Pneumomediastinum refers to abnormal air collection within the mediastinum. Air can dissect into the mediastinum from areas of the neck and thorax or from the GI tract or lungs. Pathologically there is continuity between the periaerial and the peribronchial interstitium when an alveolar rupture occurs, creating an air collection within the interstitial connective tissues. Patient-related factors that are found to predispose to volutrauma include lung disease that weakens alveolar walls, such as COPD and necrotizing pneumonia. Mediastinal air accumulates and then decompresses into the subcutaneous tissues and the retroperiteoneal areas. Later, mediastinal pleura may rupture, resulting in a pneumothorax. The Hamman sign, a crunching sound synchronous with the cardiac cycle, is seen in 40% to 50% of patients with pneumomediastinum. When the pneumomediastinum extends caudally, it shows a so-called \"continuous diaphragm sign.\" Treatment is usually conservative, with attempts to reduce airway resistance with bronchodilator therapy and minimize tidal volume and plateau pressure.",
+        "exp": "This poable chest x-ray taken in the ICU shows an intubated patient with hyperlucent lines in the soft tissue with striations along the fibromuscular bundles of the neck and chest musculature. There is a faint paracardiac hyperlucent line representing air around the pericardium. The diaphragm leaflets are seen clearly across the midline due to the contrasting air shadow representing the \"continuous diaphragm sign\". All the signs mentioned are representative of a pneumomediastinum. The lower edge of the diaphragm is also visible due to a pneumoperitoneum. Alveolar rupture with increased alveolar-interstitial space gradient can cause pneumomediastinum and subcutaneous emphysema. Subcutaneous emphysema may occur after trauma such as esophageal rupture with direct introduction of air in the mediastinum. It can also occur where there is abdominal and thoracic muscular contraction against a closed glottis. Infection with a gas-forming organism can cause subcutaneous gas formation. Inflammatory bronchiolitis or overinflated alveoli due to mechanical ventilation can cause alveolar rupture, especially if there is airway obstruction with air moving along the bronchovascular sheaths. Pneumomediastinum refers to abnormal air collection within the mediastinum. Air can dissect into the mediastinum from areas of the neck and thorax or from the GI tract or lungs. Pathologically there is continuity between the periaerial and the peribronchial interstitium when an alveolar rupture occurs, creating an air collection within the interstitial connective tissues. Patient-related factors that are found to predispose to volutrauma include lung disease that weakens alveolar walls, such as COPD and necrotizing pneumonia. Mediastinal air accumulates and then decompresses into the subcutaneous tissues and the retroperiteoneal areas. Later, mediastinal pleura may rupture, resulting in a pneumothorax. The Hamman sign, a crunching sound synchronous with the cardiac cycle, is seen in 40% to 50% of patients with pneumomediastinum. When the pneumomediastinum extends caudally, it shows a so-called \"continuous diaphragm sign. \" Treatment is usually conservative, with attempts to reduce airway resistance with bronchodilator therapy and minimize tidal volume and plateau pressure.",
         "cop": 4,
         "opa": "Place a chest tube",
         "opb": "Change antibiotics",
@@ -869,6 +1467,32 @@
         "topic_name": "Fundamentals in Radiology",
         "id": "5676d241-e93d-4916-ba3b-af3ed1bdffa0",
         "choice_type": "multi"
+    },
+    {
+        "question": "Curie is a unit of-",
+        "exp": "Ans. is 'a' i. e. Radioactivity * Old unit of radioactivity is Curie and new unit (SI) is Becquerel.* Old unit of radiation exposure is Roentegn and new unit (SI) is Columb/cm. Quantity measured. Old unit. New (SI)unit Radioactivity. Curie. Becquerel1 curie = 3. 7 x 101 becquerel -2. 7 x 10. Radiation exposure. Roentgen. Columb/cm Absorbed dose. Rad. Gray100 rad = 1 gray1 rad = 0. 01 gray. Dose equivalent. Rem. Sievert (Sv)100 rem = 1 Sv. Irem = 0. 01 Sv",
+        "cop": 1,
+        "opa": "Radioactivity",
+        "opb": "Radiation exposure",
+        "opc": "Absorbed dose",
+        "opd": "Dose equivalent",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "751f14ce-2d7e-4078-b3ed-206b7721bb75",
+        "choice_type": "single"
+    },
+    {
+        "question": "Maximum damage to skin is caused by",
+        "exp": "Ans. c (Orthovoltage X-ray) (Ref. Harrison's medicine 17th ed. 484)# External Beam therapy unit includea. X-ray machine orb. Teletherapy unit (i. e. Linear Acclerator or Cobalt-60 unit)# Beams used for external radiotherapy are# X-ray beams: a. Conventionalb. Superficial: 40 to 120 k. Vc. Orthovoltage: 250 to 400 k. Vd. Megavoltage: (> 1. Mv) - 2, 4, 6, 12 & 35 MeV# Gamma ray beams: a. Cobalt -60 beamb. Cesium -137 beam# Particle beams: a. Electronsb. Protonsc. Neutrons. Thus routine radio-therapy treatment is by X-ray beams in the super voltage or mega voltage range.# Orthovoltage or deep X-ray therapy machine produce X-rays with a voltage of 200-300 kV.# For many years they were the most powerful machines in radiotherapy and were used to irradiate most sites, however now been replaced by megavoltage equipments because of following advantages of megavoltage therapy (2 to 8 million volts);# Skin sparing effects: With orthovoltage X-rays maximum dose is received by skin surface whereas with high voltagesmaximum dose is at some distance beneath skin, the skin is thus spared with high dose.# Greater penetration of beam# Differential absorption in tissues# Improved collimation",
+        "cop": 3,
+        "opa": "Super voltage X-ray therapy",
+        "opb": "Mega voltage X-ray",
+        "opc": "Orthovoltage X-ray",
+        "opd": "Cobalt-60",
+        "subject_name": "Radiology",
+        "topic_name": "Fundamentals In Radiology",
+        "id": "c3a8761f-af83-4be4-bff7-5e429a9b9064",
+        "choice_type": "single"
     },
     {
         "question": "Doppler effect results from change in -",

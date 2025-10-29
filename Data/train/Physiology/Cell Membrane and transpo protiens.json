@@ -40,11 +40,11 @@
     },
     {
         "question": "Which cell adhesion molecules (CAM) is calcium mediated?",
-        "exp": "Type of CAM Subtypes Distribution Calcium- dependent 1. Cadherins 2. Selectins 3. Integrins - Most cells including epithelia - Migrating cells E.g.: leucocytes - b/w cells & intercellular substance. About 20 types; each attaching to an extracellular molecule. CALCIUM INDEPENDENT: 1. Neural cell adhesion molecule (NCAM) - nerve cells 2. Intercellular adhesion molecule (ICAM) - leucocytes.",
+        "exp": "Type of CAM Subtypes Distribution Calcium- dependent 1. Cadherins 2. Selectins 3. Integrins - Most cells including epithelia - Migrating cells E. g.: leucocytes - b/w cells & intercellular substance. About 20 types; each attaching to an extracellular molecule. CALCIUM INDEPENDENT: 1. Neural cell adhesion molecule (NCAM) - nerve cells 2. Intercellular adhesion molecule (ICAM) - leucocytes.",
         "cop": 1,
         "opa": "Cadherin",
         "opb": "NCAM",
-        "opc": "IgSF",
+        "opc": "Ig. SF",
         "opd": "Fibronectin binding protein",
         "subject_name": "Physiology",
         "topic_name": "Cell Membrane and transpo protiens",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Which one of the following is the example of ATP-binding cassette (ABC) transpoer?",
-        "exp": "ATP-dependent transpoers are of two types: ATPase ion transpoers ATP-binding cassette (ABC) transpoers. ABC transpo proteins have a motif in their amino acid sequence that is an ATP-binding cassette (ABC). ATPases are primary active transpoers or pumps; ABC transpoers can act as pumps, channels or regulators. Sulfonylurea is a class of anti-diabetic drugs; these drugs have receptors (SUR) on the pancreatic b-cell. SUR belongs to the ABC-C subfamily. ATPases are of 3 types ~ P-type, V-type, and F-type. SERCA is P-type ATPase. (P-type is also called E1-E2ATPase.) F0-F1 pump in the mitochondrial membrane is F-type ATPase. Band 3 protein is the Cl-/HCO3- exchanger (antipoer).",
+        "exp": "ATP-dependent transpoers are of two types: ATPase ion transpoers ATP-binding cassette (ABC) transpoers. ABC transpo proteins have a motif in their amino acid sequence that is an ATP-binding cassette (ABC). ATPases are primary active transpoers or pumps; ABC transpoers can act as pumps, channels or regulators. Sulfonylurea is a class of anti-diabetic drugs; these drugs have receptors (SUR) on the pancreatic b-cell. SUR belongs to the ABC-C subfamily. ATPases are of 3 types ~ P-type, V-type, and F-type. SERCA is P-type ATPase. (P-type is also called E1-E2. ATPase.) F0-F1 pump in the mitochondrial membrane is F-type ATPase. Band 3 protein is the Cl-/HCO3- exchanger (antipoer).",
         "cop": 3,
         "opa": "F0-F1 pump",
         "opb": "SERCA in the skeletal muscle",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Protein to lipid ratio is LEAST in:",
-        "exp": "Myelin sheath has the least Protein:Lipid Ratio Membrane Protein Lipid Carbohydrate Red blood cell membrane 49% 43% 8% Myelin around nerve cells 18% 79% 3% Inner mitochondrial membrane 76% 24% 0%",
+        "exp": "Myelin sheath has the least Protein: Lipid Ratio Membrane Protein Lipid Carbohydrate Red blood cell membrane 49% 43% 8% Myelin around nerve cells 18% 79% 3% Inner mitochondrial membrane 76% 24% 0%",
         "cop": 4,
         "opa": "Inner mitochondrial membrane",
         "opb": "Outer mitochondrial membrane",
@@ -195,8 +195,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A muscle cell has an intracellular of 14 mM and an extracellular of 140 mM. Assuming that 2.3 /F = 60 mV, what would the membrane potential be if the muscle cell membrane were permeable only to Na+?",
-        "exp": "Nernst equation Used to calculate the equilibrium potential for a single ion. In applying the Nernst equation, we assume that the membrane is freely permeable to that ion alone. ENa+ = 2.3 /zF log Ce/Ci ENa+ = 60 mV log 140/14 = 60 mV log 10 ENa+= 60 mV. Notice that the signs were ignored and that the higher concentration was simply placed in the numerator to simplify the log calculation. To determine whether ENa+ is +60 mV or -60 mV,- Use the intuitive approach= Na+ will diffuse from extracellular to intracellular fluid down its concentration gradient, making the cell interior positive.",
+        "question": "A muscle cell has an intracellular of 14 mM and an extracellular of 140 mM. Assuming that 2. 3 /F = 60 mV, what would the membrane potential be if the muscle cell membrane were permeable only to Na+?",
+        "exp": "Nernst equation Used to calculate the equilibrium potential for a single ion. In applying the Nernst equation, we assume that the membrane is freely permeable to that ion alone. ENa+ = 2. 3 /zF log Ce/Ci ENa+ = 60 mV log 140/14 = 60 mV log 10 ENa+= 60 mV. Notice that the signs were ignored and that the higher concentration was simply placed in the numerator to simplify the log calculation. To determine whether ENa+ is +60 mV or -60 mV, - Use the intuitive approach= Na+ will diffuse from extracellular to intracellular fluid down its concentration gradient, making the cell interior positive.",
         "cop": 4,
         "opa": "+80 mV",
         "opb": "-60 mV",
@@ -247,8 +247,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Epinephrine increases hea rate by its action on:",
-        "exp": "Phospholamban is a SERCA-associated protein in the cardiac muscle. Epinephrine/NE (or b-agonists), act their receptors on the cardiac muscle cells, increase cAMP -->increases cAMP-dependent protein kinases--> phosphorylation of phospholamban-->rapid removal of sarcoplasmic Ca++ by the SERCA. The rate of relaxation increases, diastole duration is shoened and hea rate increases. This is in addition to the direct effect of epinephrine on the pacemaker cells. Calsequestrin and calreticulin are Ca++-binding proteins in all types of muscles. They bind and buffer the Ca++ which is removed from sarcoplasm during relaxation of the muscle. Calmodulin is Ca++-binding protein in the smooth muscle. When Ca++ binds with calmodulin, there is activation of myosin light chain kinase (MLCK), as a consequence of which there would be actin-myosin interaction (contraction).",
+        "question": "Epinephrine increases heart rate by its action on:",
+        "exp": "Phospholamban is a SERCA-associated protein in the cardiac muscle. Epinephrine/NE (or b-agonists), act their receptors on the cardiac muscle cells, increase c. AMP -->increases c. AMP-dependent protein kinases--> phosphorylation of phospholamban-->rapid removal of sarcoplasmic Ca++ by the SERCA. The rate of relaxation increases, diastole duration is shoened and heart rate increases. This is in addition to the direct effect of epinephrine on the pacemaker cells. Calsequestrin and calreticulin are Ca++-binding proteins in all types of muscles. They bind and buffer the Ca++ which is removed from sarcoplasm during relaxation of the muscle. Calmodulin is Ca++-binding protein in the smooth muscle. When Ca++ binds with calmodulin, there is activation of myosin light chain kinase (MLCK), as a consequence of which there would be actin-myosin interaction (contraction).",
         "cop": 4,
         "opa": "Calmodulin",
         "opb": "Calsequestrin",
@@ -326,7 +326,7 @@
     },
     {
         "question": "Which is not an intermediate filament?",
-        "exp": "Intermediate filaments - resist external pressure cell type specific: used as cellular markers Types Nuclear(Lamin-A,B,C) Vimentin like (Vimentin, desmin, GFAP, peripherin) Epithelial(Types 1,2 keratin) Axonal( Neurofilament proteins- NF-L,M,H)",
+        "exp": "Intermediate filaments - resist external pressure cell type specific: used as cellular markers Types Nuclear(Lamin-A, B, C) Vimentin like (Vimentin, desmin, GFAP, peripherin) Epithelial(Types 1, 2 keratin) Axonal( Neurofilament proteins- NF-L, M, H)",
         "cop": 3,
         "opa": "Desmin",
         "opb": "Vimentin",

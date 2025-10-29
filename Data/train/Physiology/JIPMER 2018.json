@@ -14,7 +14,7 @@
     },
     {
         "question": "Transthoracic compliance formula",
-        "exp": "Transthoracic pressure Transthoracic compliance : Alveolar pressure - Atmospheric pressure",
+        "exp": "Transthoracic pressure Transthoracic compliance: Alveolar pressure - Atmospheric pressure",
         "cop": 2,
         "opa": "C = Vt x RR /PEEP",
         "opb": "C= V/Alv p - atmospheric pressure",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Transthoracic compliance formula:-",
-        "exp": "Various pressures in thoracic cage. 1. Intra pleural pressure - - Intra pleural pressure is the pressure of the fluid in the thin space b/w the lung pleura & the chest wall pleura - It's a slight negative pressure. - Normal pleural pressure at the beginning of inspiration is about - -5 cm H2O (at rest) - At rest - - 5cm H2O - At normal inspiration - - 7.5 cm H2O 2. Intra alveolar pressure - Pressure in alveolus - This is equal to atmospheric pressure. - It is considered to be zero at rest. Transpulmonary pressure - difference b/w alveolar & pleural pressure. Transthoracic pressure - Transthoracic compliance - Alveolar pressure - Atmospheric pressure",
+        "exp": "Various pressures in thoracic cage. 1. Intra pleural pressure - - Intra pleural pressure is the pressure of the fluid in the thin space b/w the lung pleura & the chest wall pleura - It's a slight negative pressure. - Normal pleural pressure at the beginning of inspiration is about - -5 cm H2O (at rest) - At rest - - 5cm H2O - At normal inspiration - - 7. 5 cm H2O 2. Intra alveolar pressure - Pressure in alveolus - This is equal to atmospheric pressure. - It is considered to be zero at rest. Transpulmonary pressure - difference b/w alveolar & pleural pressure. Transthoracic pressure - Transthoracic compliance - Alveolar pressure - Atmospheric pressure",
         "cop": 2,
         "opa": "C = Vt x RR /PEEP",
         "opb": "C = V/AIv p - atmospheric pressure",
@@ -40,7 +40,7 @@
     },
     {
         "question": "When the HR is 72 beats per min, what would be the duration of cardiac cycle?",
-        "exp": "Cardiac cycle: - 72 beats occur in - 60sec. 1 beat would occur in - 60/72 1 beat - 0.833 sec (~ 833 ms) (0.0139 minute per beat).",
+        "exp": "Cardiac cycle: - 72 beats occur in - 60sec. 1 beat would occur in - 60/72 1 beat - 0. 833 sec (~ 833 ms) (0. 0139 minute per beat).",
         "cop": 4,
         "opa": "445 ms",
         "opb": "1450 ms",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Ultra filtrate passes through all filtration barrier except",
-        "exp": "ULTRA FILTRATION: - Ultra filtration occurs at the barrier between the blood and the filtrate in the glomerular capsule (Bowman's capsule) in the kidneys. The highhydrostaticpressure forces small molecules in thetubular fluidsuch aswater,glucose,amino acids,sodium chlorideandureathrough the filter, from the blood in the glomerular capsule across the basement membrane of the Bowman's capsule and into therenal tubules. This process is called ultrafiltration; The resulting fluid, viually free of large proteins and blood cells, is referred to as glomerular filtrate, or ultrafiltrate. Fuher modification of ultrafiltrate, by reabsorption and secretion, transforms it into urine. It can pass through the larger fenestrate it cant pass through the filtrate slit diaphragm between the podocytes.",
+        "exp": "ULTRA FILTRATION: - Ultra filtration occurs at the barrier between the blood and the filtrate in the glomerular capsule (Bowman's capsule) in the kidneys. The highhydrostaticpressure forces small molecules in thetubular fluidsuch aswater, glucose, amino acids, sodium chlorideandureathrough the filter, from the blood in the glomerular capsule across the basement membrane of the Bowman's capsule and into therenal tubules. This process is called ultrafiltration; The resulting fluid, viually free of large proteins and blood cells, is referred to as glomerular filtrate, or ultrafiltrate. Fuher modification of ultrafiltrate, by reabsorption and secretion, transforms it into urine. It can pass through the larger fenestrate it cant pass through the filtrate slit diaphragm between the podocytes.",
         "cop": 3,
         "opa": "Endothelial fenestra",
         "opb": "Basement membrane",
@@ -92,7 +92,7 @@
     },
     {
         "question": "Formula to calculate minute ventilation volume",
-        "exp": "Minute respiratory volume- The minute respiratory volume I the total amount of new air moved into the respiratory passage each minute and is equal to tidal volume times the respiratory rate per minute. The normal tidal volume is about 500 milliliters, and the normal respiratory rate is about 12 breaths per minute. Therefore, the minute respiratory volume averages about 6-8L/min. A person can live for a sho period with a minute volume as low as 1.5L/min and a respiratory rate of only 2 to 4 breaths per minute. Respiratory minute vol: - (TV x RR) = 6 - 8 L / min",
+        "exp": "Minute respiratory volume- The minute respiratory volume I the total amount of new air moved into the respiratory passage each minute and is equal to tidal volume times the respiratory rate per minute. The normal tidal volume is about 500 milliliters, and the normal respiratory rate is about 12 breaths per minute. Therefore, the minute respiratory volume averages about 6-8L/min. A person can live for a sho period with a minute volume as low as 1. 5L/min and a respiratory rate of only 2 to 4 breaths per minute. Respiratory minute vol: - (TV x RR) = 6 - 8 L / min",
         "cop": 1,
         "opa": "TV x RR",
         "opb": "Fio2/PEEP",
@@ -131,12 +131,12 @@
     },
     {
         "question": "Normal cardiac index in an adult is:-",
-        "exp": "Cardiac index: - Experiments have shown that the cardiac output increase approximately in propoion to the surface area of the body. Therefore - cardiac output is frequently stated in terms of the cardiac index, which is cardiac output per square meter of body surface area. - The avg. Human being who weight 70 kg has a BSA of about 1.7 sq. meter. Which means that the normal average cardiac index for adults is about 3 L / min / M2 of BSA.",
+        "exp": "Cardiac index: - Experiments have shown that the cardiac output increase approximately in propoion to the surface area of the body. Therefore - cardiac output is frequently stated in terms of the cardiac index, which is cardiac output per square meter of body surface area. - The avg. Human being who weight 70 kg has a BSA of about 1. 7 sq. meter. Which means that the normal average cardiac index for adults is about 3 L / min / M2 of BSA.",
         "cop": 3,
-        "opa": "5.9 L/min/M2",
-        "opb": "2.3 L/min/M2",
-        "opc": "3.2 L/min/M2",
-        "opd": "4.6 L/min/M2",
+        "opa": "5. 9 L/min/M2",
+        "opb": "2. 3 L/min/M2",
+        "opc": "3. 2 L/min/M2",
+        "opd": "4. 6 L/min/M2",
         "subject_name": "Physiology",
         "topic_name": "JIPMER 2018",
         "id": "053b8b22-f35d-4129-aa79-ba03051ebc6f",

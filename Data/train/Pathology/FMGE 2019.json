@@ -6,7 +6,7 @@
         "opa": "45 X0",
         "opb": "46 XO",
         "opc": "47 XXX",
-        "opd": "46XY",
+        "opd": "46. XY",
         "subject_name": "Pathology",
         "topic_name": "FMGE 2019",
         "id": "f2865a7a-d23f-4067-aef4-e3429b5edaeb",
@@ -66,7 +66,7 @@
     },
     {
         "question": "A 20-year-old male came to the clinic with fatigue and weakness. Following findings were noted, what will be the likely diagnosis?",
-        "exp": "Peripheral smear image shows blast with presence of rod-like cytoplasmic inclusion called as AUER ROD The other image shows Gum hyperophy, seen in some types of acute myeloid leukemia (AML). In AML with monocytic differentiation i.e. AML-M4 and AML-M5 (more commonly), infiltration of the skin (leukemia cutis) and the gingiva leading to gum hyperophy can be observed. In AML, there is an accumulation in the marrow of immature myeloid cells that lack the potential for fuher differentiation and maturation, which leads to suppression of normal hematopoiesis. The presence of myeloblasts in the peripheral blood is indicative of acute myeloid leukemia (AML).",
+        "exp": "Peripheral smear image shows blast with presence of rod-like cytoplasmic inclusion called as AUER ROD The other image shows Gum hyperophy, seen in some types of acute myeloid leukemia (AML). In AML with monocytic differentiation i. e. AML-M4 and AML-M5 (more commonly), infiltration of the skin (leukemia cutis) and the gingiva leading to gum hyperophy can be observed. In AML, there is an accumulation in the marrow of immature myeloid cells that lack the potential for fuher differentiation and maturation, which leads to suppression of normal hematopoiesis. The presence of myeloblasts in the peripheral blood is indicative of acute myeloid leukemia (AML).",
         "cop": 4,
         "opa": "Chronic myeloid leukemia",
         "opb": "Acute lymphonlastic leukemia",
@@ -105,7 +105,7 @@
     },
     {
         "question": "Which of the following is a NOT a feature of NEPHROTIC SYNDROME?",
-        "exp": "- Hematuria is absent in Nephrotic Syndrome. Essential features of nephrotic syndrome are: Proteinuria>3.5gms /24 hours period Hypoalbuminemia< 2.5gm% Edema, periorbital edema, pedal edema Non-essential features are: Hyperlipidemia: increased cholesterol and increased triglycerides Lipiduria Loss of protein C /S /AT III in urine leading to hypercoagulable state",
+        "exp": "- Hematuria is absent in Nephrotic Syndrome. Essential features of nephrotic syndrome are: Proteinuria>3. 5gms /24 hours period Hypoalbuminemia< 2. 5gm% Edema, periorbital edema, pedal edema Non-essential features are: Hyperlipidemia: increased cholesterol and increased triglycerides Lipiduria Loss of protein C /S /AT III in urine leading to hypercoagulable state",
         "cop": 4,
         "opa": "Proteinuria",
         "opb": "Marked Edema",
@@ -117,8 +117,8 @@
         "choice_type": "single"
     },
     {
-        "question": "The following serological status is noted in a patient: HbsAg positive and HbeAg positive. Diagnosis is?",
-        "exp": "Acute viral hepatitis: HBsAg +/IgM antiHBc Chronic viral hepatitis: HBsAg +/IgG anti HBc Acute viral hepatitis with infectivity: HbeAg + Remote infection: anti HBs +",
+        "question": "The following serological status is noted in a patient: Hbs. Ag positive and Hbe. Ag positive. Diagnosis is?",
+        "exp": "Acute viral hepatitis: HBs. Ag +/IgM anti. HBc Chronic viral hepatitis: HBs. Ag +/IgG anti HBc Acute viral hepatitis with infectivity: Hbe. Ag + Remote infection: anti HBs +",
         "cop": 3,
         "opa": "Acute viral hepatitis",
         "opb": "Chronic viral hepatitis",
@@ -156,7 +156,7 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient has MCV <80, MCH <23. Which type of anaemia shall be classified?",
+        "question": "A patient has MCV <80, MCH <23. Which type of anemia shall be classified?",
         "exp": "Parameters given in the question suggests that the pt has Microcytic hypochromic anemia. Reduced values of MCV and MCHC: Microcytic hypochromic anemia Iron deficiency anemia is the most common cause of hypochromic microcytic anemia. MCHC - average concentration of hemoglobin in a given volume of packed red cells Normal MCHC is 34-37g/dl Value <34g/dl indicate that red cells are hypochromic, which can occur in iron deficiency anemia. - Given illustration shows hypochromia and microcytosis along with anisopoikilocytosis - suggests the diagnosis of Iron deficiency anemia.",
         "cop": 2,
         "opa": "Normocytic hypochromic",
@@ -209,7 +209,7 @@
     },
     {
         "question": "Which of the following is an Autosomal Dominant disease?",
-        "exp": "Von Willebrand disease (VWD) - Autosomal dominant disorder The main source of plasma von-Willebrand factor is endothelial cells. von Willebrand factor (Vwf) circulates in the plasma in association with factor VIII. Patients with VWD have defects in platelet function despite a normal platelet count Deficiency of von Willebrand factor (vWF) -promote platelet adherence and activation) causes | platelet adhesion (|BT) and | Intrinsic pathway activity (| aPTT). C/F Spontaneous mucosal bleeding - Petechiae /purpura /epistaxis / melena excessive bleeding from wounds menorrhagia Lab findings - Platelet count - Normal Prothrombin time - Normal Bleeding time - Increased Activated paial thromboplastin time (aPTT)-Increased Rx - Desmopressin for mild form - Cryoprecipitate for severe form",
+        "exp": "Von Willebrand disease (VWD) - Autosomal dominant disorder The main source of plasma von-Willebrand factor is endothelial cells. von Willebrand factor (Vwf) circulates in the plasma in association with factor VIII. Patients with VWD have defects in platelet function despite a normal platelet count Deficiency of von Willebrand factor (v. WF) -promote platelet adherence and activation) causes | platelet adhesion (|BT) and | Intrinsic pathway activity (| a. PTT). C/F Spontaneous mucosal bleeding - Petechiae /purpura /epistaxis / melena excessive bleeding from wounds menorrhagia Lab findings - Platelet count - Normal Prothrombin time - Normal Bleeding time - Increased Activated paial thromboplastin time (a. PTT)-Increased Rx - Desmopressin for mild form - Cryoprecipitate for severe form",
         "cop": 1,
         "opa": "Von Willebrand disease",
         "opb": "Wilson's disease",
@@ -222,7 +222,7 @@
     },
     {
         "question": "Which is not seen in Tumour lysis Syndrome?",
-        "exp": "TUMOR cells with very high rate ||| of growth - during Chemo Therapy - large no of cells are dyinge TUMOR cell lysis syndrome. i.e. Summary- components of Tumor-Lysis Syndrome HYPERKALEMIA HYPERURICEMIA HYPERPHOSPHATEMIA HYPOCALCEMIA",
+        "exp": "TUMOR cells with very high rate ||| of growth - during Chemo Therapy - large no of cells are dyinge TUMOR cell lysis syndrome. i. e. Summary- components of Tumor-Lysis Syndrome HYPERKALEMIA HYPERURICEMIA HYPERPHOSPHATEMIA HYPOCALCEMIA",
         "cop": 1,
         "opa": "Hypophosphatemia",
         "opb": "Hypocalcemia",
@@ -235,7 +235,7 @@
     },
     {
         "question": "Which of these is a Nephritic syndrome?",
-        "exp": "The nephritic syndrome is characterized by hematuria, oliguria with azotemia, proteinuria, and hypeension. The most common causes are immunologically mediated glomerular injury; lesions are characterized by proliferative changes and leukocyte infiltration. Acute postinfectious glomerulonephritis typically occurs after streptococcal infection in children and young adults but may occur following infection with many other organisms; it is caused by deposition of immune complexes, mainly in the subepithelial spaces, with abundant neutrophils and proliferation of glomerular cells. Most affected children recover; the prognosis is worse in adults. Rapidly progressive glomerulonephritis (RPGN) is a clinical entity with features of the nephritic syndrome and rapid loss of renal function. Nephrotic syndrome is caused by a derangement in glomerular capillary walls resulting in increased permeability to plasma proteins. The manifestations of the syndrome include: Massive proteinuria, with the daily loss of 3.5 gm or more of protein (less in children) Hypoalbuminemia, with plasma albumin levels less than 3 gm/dL Generalized edema Hyperlipidemia and lipiduria",
+        "exp": "The nephritic syndrome is characterized by hematuria, oliguria with azotemia, proteinuria, and hypertension. The most common causes are immunologically mediated glomerular injury; lesions are characterized by proliferative changes and leukocyte infiltration. Acute postinfectious glomerulonephritis typically occurs after streptococcal infection in children and young adults but may occur following infection with many other organisms; it is caused by deposition of immune complexes, mainly in the subepithelial spaces, with abundant neutrophils and proliferation of glomerular cells. Most affected children recover; the prognosis is worse in adults. Rapidly progressive glomerulonephritis (RPGN) is a clinical entity with features of the nephritic syndrome and rapid loss of renal function. Nephrotic syndrome is caused by a derangement in glomerular capillary walls resulting in increased permeability to plasma proteins. The manifestations of the syndrome include: Massive proteinuria, with the daily loss of 3. 5 gm or more of protein (less in children) Hypoalbuminemia, with plasma albumin levels less than 3 gm/dL Generalized edema Hyperlipidemia and lipiduria",
         "cop": 3,
         "opa": "Minimal change disease",
         "opb": "Membranous Glomerulopathy",
@@ -251,7 +251,7 @@
         "exp": "Sickle cell disease is a common hereditary hemoglobinopathy caused by point mutation resulting in replacement of Glutamic acid by Valine at 6th position of b-globin chain. Autosomal Recessive inheritance Autosomal Dominant (A Very DOMINANT Hereditary Family) Autosomal Recessive (ABCDEFGH'S) Achondroplasia/ADPKD Von Hippel Lindau disease Dystrophia myotonica Osteogenesis imperfecta Marfan Syndrome Intermittent porphyria NF 1(Von Recklinghausen disease) Achondroplasia NF 2 Tuberous Sclerosis Huntington Disease Familial hypercholesterolemia Albinism, Ataxia Telangiectasia, Alkaptonuria Beta thalassemia Cystic Fibrosis Dubin Johnson Emphysema (alpha 1 antitrypsin deficiency) Friedreich Ataxia Galactosemia Hemochromatosis Sickle cell anemia",
         "cop": 2,
         "opa": "Hereditary spherocytosis",
-        "opb": "Sickle cell anaemia",
+        "opb": "Sickle cell anemia",
         "opc": "Osteogenesis imperfecta",
         "opd": "VWD",
         "subject_name": "Pathology",
@@ -261,7 +261,7 @@
     },
     {
         "question": "Comment on the diagnosis for an individual serum alkaline phosphatase normal, PTH normal, Vitamin D3 normal with elevated serum Calcium values?",
-        "exp": "Multiple myeloma is a plasma cell neoplasm commonly associated with lytic bone lesions, hypercalcemia, renal failure, and acquired immune abnormalities. Clinical Features. The clinical features of multiple myeloma stem from (1) the effects of plasma cell growth in tissues, paicularly the bones (2) the production of excessive Igs, which often have abnormal physicochemical propeies; and (3)The suppression of normal humoral immunity. Bone resorption often leads to pathologic fractures and chronic pain. The attendant hypercalcemia can give rise to neurologic manifestations, such as confusion, weakness, lethargy, constipation, and polyuria, and contributes to renal dysfunction. Decreased production of normal Igs sets the stage for recurrent bacterial infections. Cellular immunity is relatively unaffected. Of great significance is renal insufficiency, which trails only infections as a cause of death. The pathogenesis of renal failure (Chapter 20), which occurs in up to 50% of patients, is multifactorial. However, the single most impoant factor seems to be Bence-Jones proteinuria, as the excreted light chains are toxic to renal tubular epithelial cells. Ceain light chains (paicularly those of the l6 and l3 families) are prone to cause amyloidosis of the AL type, which can exacerbate renal dysfunction and deposit in other tissues as well.",
+        "exp": "Multiple myeloma is a plasma cell neoplasm commonly associated with lytic bone lesions, hypercalcemia, renal failure, and acquired immune abnormalities. Clinical Features. The clinical features of multiple myeloma stem from (1) the effects of plasma cell growth in tissues, paicularly the bones (2) the production of excessive Igs, which often have abnormal physicochemical propeies; and (3). The suppression of normal humoral immunity. Bone resorption often leads to pathologic fractures and chronic pain. The attendant hypercalcemia can give rise to neurologic manifestations, such as confusion, weakness, lethargy, constipation, and polyuria, and contributes to renal dysfunction. Decreased production of normal Igs sets the stage for recurrent bacterial infections. Cellular immunity is relatively unaffected. Of great significance is renal insufficiency, which trails only infections as a cause of death. The pathogenesis of renal failure (Chapter 20), which occurs in up to 50% of patients, is multifactorial. However, the single most impoant factor seems to be Bence-Jones proteinuria, as the excreted light chains are toxic to renal tubular epithelial cells. Ceain light chains (paicularly those of the l6 and l3 families) are prone to cause amyloidosis of the AL type, which can exacerbate renal dysfunction and deposit in other tissues as well.",
         "cop": 3,
         "opa": "Vitamin D intoxication",
         "opb": "Hyperparathyroidism",

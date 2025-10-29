@@ -1,12 +1,12 @@
 [
     {
         "question": "A 60 kg man has haematocrit of 40%. His plasma volume would be approximately:",
-        "exp": "Plasma volume = Total blood volume * (1 - Hematocrit) The total blood volume is about 8% of body weight Blood volume of 60 kg man = 0.08 * 60 = 4.8 L Plasma volume = total blood volume * (1-hematocrit) = 4.8 * (1-0.40) = 4.8 * 0.60 = 2.88 L Also, about 60% of the blood is plasma and 40% is RBCs Thus, plasma = 5% of body weight and haematocrit is 3% of body weight",
+        "exp": "Plasma volume = Total blood volume * (1 - Hematocrit) The total blood volume is about 8% of body weight Blood volume of 60 kg man = 0. 08 * 60 = 4. 8 L Plasma volume = total blood volume * (1-hematocrit) = 4. 8 * (1-0. 40) = 4. 8 * 0. 60 = 2. 88 L Also, about 60% of the blood is plasma and 40% is RBCs Thus, plasma = 5% of body weight and haematocrit is 3% of body weight",
         "cop": 2,
-        "opa": "2.4 L",
-        "opb": "2.9 L",
-        "opc": "3.6 L",
-        "opd": "5.0 L",
+        "opa": "2. 4 L",
+        "opb": "2. 9 L",
+        "opc": "3. 6 L",
+        "opd": "5. 0 L",
         "subject_name": "Physiology",
         "topic_name": "Body fluid compaments",
         "id": "33887d76-cfe3-498f-a8bc-0e5f65f4abaa",
@@ -14,7 +14,7 @@
     },
     {
         "question": "A woman runs a marathon in 90degF weather and replaces all volume lost in sweat by drinking distilled water. After the marathon, she will have",
-        "exp": "By sweating and then replacing all volume by drinking H2O, the woman has a net loss of NaCl without a net loss of H2O. Therefore, her extracellular and plasma osmolarity will be decreased, and as a result, water will flow from extracellular fluid (ECF) to intracellular fluid (ICF). The intracellular osmolarity will also be decreased after the shift of water. Total body water (TBW) will be unchanged because the woman replaced all volume lost in sweat by drinking water. Hematocrit will be increased because of the shift of water from ECF to ICF and the shift of water into the red blood cells (RBCs), which causes their volume to increase.",
+        "exp": "By sweating and then replacing all volume by drinking H2O, the woman has a net loss of Na. Cl without a net loss of H2O. Therefore, her extracellular and plasma osmolarity will be decreased, and as a result, water will flow from extracellular fluid (ECF) to intracellular fluid (ICF). The intracellular osmolarity will also be decreased after the shift of water. Total body water (TBW) will be unchanged because the woman replaced all volume lost in sweat by drinking water. Hematocrit will be increased because of the shift of water from ECF to ICF and the shift of water into the red blood cells (RBCs), which causes their volume to increase.",
         "cop": 4,
         "opa": "Decreased total body water (TBW)",
         "opb": "Decreased hematocrit",
@@ -30,7 +30,7 @@
         "exp": "Interstitial fluid volume= ECF volume - Plasma volume Inulin best indicator of ECF volume and 125I-albumin is most commonly used for plasma volume estimation",
         "cop": 4,
         "opa": "Inulin and heavy water",
-        "opb": "Inulin and 22Na",
+        "opb": "Inulin and 22. Na",
         "opc": "Heavy water and 125I-albumin",
         "opd": "Inulin and 125I-albumin",
         "subject_name": "Physiology",
@@ -92,7 +92,7 @@
     },
     {
         "question": "5 g mannitol was injected intravenously. 40% of mannitol is excreted. After equilibrium, plasma concentration of mannitol is 30 mg%. Calculate extracellular fluid volume.",
-        "exp": "The volume of water in different compament can be measured by volume of distribution principle (indicator dilution principle). Where v = Volume of fluid Q = Quantity of indicator given C = Concentration of the indicator e = The amount of indicator which has either been lost or metabolized 30 mg% = 30 mg/ 100 mL = 300 mg/ L = 0.3g/L Quantity of mannitol excreted = 5 * 40/100 = 2 g ECF volume = 5 - 2 / 0.3 = 3 / 0.3 = 10 L",
+        "exp": "The volume of water in different compament can be measured by volume of distribution principle (indicator dilution principle). Where v = Volume of fluid Q = Quantity of indicator given C = Concentration of the indicator e = The amount of indicator which has either been lost or metabolized 30 mg% = 30 mg/ 100 mL = 300 mg/ L = 0. 3g/L Quantity of mannitol excreted = 5 * 40/100 = 2 g ECF volume = 5 - 2 / 0. 3 = 3 / 0. 3 = 10 L",
         "cop": 1,
         "opa": "10 L",
         "opb": "14 L",
@@ -105,7 +105,7 @@
     },
     {
         "question": "In a 70-Kg adult, the volume of intracellular fluid would be",
-        "exp": "ICF volume = (0.4) X body weight. =0.4x 70 =28L",
+        "exp": "ICF volume = (0. 4) X body weight. =0. 4x 70 =28L",
         "cop": 4,
         "opa": "5 L",
         "opb": "12 L",
@@ -118,7 +118,7 @@
     },
     {
         "question": "D2O is used to determine-",
-        "exp": "Volume Indicators Total body water 3H2O, 2H2O, Antipyrine Extracellular fluid 22Na, 125I-iothalamate, thiosulphate, inulin ICF (calculated as TBW-ECF) Plasma volume 125I-albumin, Evans blue dye Interstitial fluid (calculated as ECF-plasma volume) Blood volume Cr-labeled red blood cells",
+        "exp": "Volume Indicators Total body water 3. H2O, 2. H2O, Antipyrine Extracellular fluid 22. Na, 125I-iothalamate, thiosulphate, inulin ICF (calculated as TBW-ECF) Plasma volume 125I-albumin, Evans blue dye Interstitial fluid (calculated as ECF-plasma volume) Blood volume Cr-labeled red blood cells",
         "cop": 3,
         "opa": "ICF",
         "opb": "ECF",
@@ -131,7 +131,7 @@
     },
     {
         "question": "Which one of the following is also called \"sucrose space\"?",
-        "exp": "The saccharides such as inulin, mannitol, sucrose are used to measure the volume of ECF. Thus, \"sucrose space\" is the space or volume measured by sucrose, i.e. the ECF.",
+        "exp": "The saccharides such as inulin, mannitol, sucrose are used to measure the volume of ECF. Thus, \"sucrose space\" is the space or volume measured by sucrose, i. e. the ECF.",
         "cop": 3,
         "opa": "Plasma membrane",
         "opb": "Intracellular fluid (ICF)",
@@ -144,7 +144,7 @@
     },
     {
         "question": "A muscular man weighing 70 kg has haematocrit of 45%, what would be his plasma volume?",
-        "exp": "Body weight - 70 kg , 60% is total body water , TBW- 42L - According to the formula of PV*100/(100-Hct)hence the answer will be closest to this value , option C.",
+        "exp": "Body weight - 70 kg, 60% is total body water, TBW- 42L - According to the formula of PV*100/(100-Hct)hence the answer will be closest to this value, option C.",
         "cop": 3,
         "opa": "2310 ml",
         "opb": "2695 ml",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Which of the following is cause of Hyperkalemia:",
-        "exp": "Exercise causes hyperkalemia because Na+-K+ pump cannot keep pace with the K+ efflux from muscle during the depolarization-repolarization process of the sarcolemmal membrane during muscle contraction. Causes of shift of K+ out of cells i.e. Hyperkalemia: Insulin deficiency Beta adrenergic antagonist Acidosis Hyperosmolarity Inhibitors of Sodium potassium ATPase pump Exercise Cell lysis Causes of shift of K+ into cells i.e. Hypokalemia: Insulin Beta adrenergic agonist Alkalosis Hypoosmolarity",
+        "exp": "Exercise causes hyperkalemia because Na+-K+ pump cannot keep pace with the K+ efflux from muscle during the depolarization-repolarization process of the sarcolemmal membrane during muscle contraction. Causes of shift of K+ out of cells i. e. Hyperkalemia: Insulin deficiency Beta adrenergic antagonist Acidosis Hyperosmolarity Inhibitors of Sodium potassium ATPase pump Exercise Cell lysis Causes of shift of K+ into cells i. e. Hypokalemia: Insulin Beta adrenergic agonist Alkalosis Hypoosmolarity",
         "cop": 1,
         "opa": "Exercise",
         "opb": "Alkalosis",
@@ -183,7 +183,7 @@
     },
     {
         "question": "In intracellular fluid, which of the following has least concentration?",
-        "exp": "- Calcium is kept very LOW in cytoplasm, hence intracellular fluid doesn't contain much Ca+2 - Calcium is mostly stored in organelles inside cell - E.g. In sarcoplasmic reticulum of muscle cell etc.",
+        "exp": "- Calcium is kept very LOW in cytoplasm, hence intracellular fluid doesn't contain much Ca+2 - Calcium is mostly stored in organelles inside cell - E. g. In sarcoplasmic reticulum of muscle cell etc.",
         "cop": 1,
         "opa": "Calcium",
         "opb": "Magnesium",
@@ -195,8 +195,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Which diagram represents the changes (after osmotic equilibrium) in extracellular and intracellular fluid volumes and osmolarities after the infusion of 3% NaCl?",
-        "exp": "A 3% solution of NaCl is hypeonic, and when infused into the extracellular fluid, it would raise osmolarity, thereby causing water to flow out of the cells into the extracellular fluid until osmotic equilibrium is achieved. In the steady state, extracellular fluid volume would increase, intracellular fluid volume would decrease, and osmolarity of both compaments would increase.",
+        "question": "Which diagram represents the changes (after osmotic equilibrium) in extracellular and intracellular fluid volumes and osmolarities after the infusion of 3% Na. Cl?",
+        "exp": "A 3% solution of Na. Cl is hypeonic, and when infused into the extracellular fluid, it would raise osmolarity, thereby causing water to flow out of the cells into the extracellular fluid until osmotic equilibrium is achieved. In the steady state, extracellular fluid volume would increase, intracellular fluid volume would decrease, and osmolarity of both compaments would increase.",
         "cop": 3,
         "opa": "A",
         "opb": "B",
@@ -208,8 +208,8 @@
         "choice_type": "single"
     },
     {
-        "question": "1.5 mL of a solution containing 20 mg/mL of Evans blue dye is injected into plasma, the final concentration of the dye is 0.015 mg/mL, the volume of the plasma is:",
-        "exp": "Volume of plasma = volume of dye injected / final concentration of the dye Volume of dye injected = 1.5 * 20 = 30 mg Volume of plasma = 30/0.015 = 2000 mL",
+        "question": "1. 5 mL of a solution containing 20 mg/mL of Evans blue dye is injected into plasma, the final concentration of the dye is 0. 015 mg/mL, the volume of the plasma is:",
+        "exp": "Volume of plasma = volume of dye injected / final concentration of the dye Volume of dye injected = 1. 5 * 20 = 30 mg Volume of plasma = 30/0. 015 = 2000 mL",
         "cop": 2,
         "opa": "1 L",
         "opb": "2 L",

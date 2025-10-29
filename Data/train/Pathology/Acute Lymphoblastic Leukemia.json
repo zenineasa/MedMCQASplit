@@ -27,12 +27,12 @@
     },
     {
         "question": "All of the following are good prognostic factors for pediatric acute lymphoblastic leukemia, except:",
-        "exp": "Favorable prognostic markers include Age between 1 and 10 years, A low white cell count at diagnosis, Hyperdiploidy, Trisomy of chromosomes 4, 7, and 10, and the presence of a t(12;21). Several factors are associated with a worse prognosis: Infancy, older age at diagnosis (presentation in adolescence or adulthood) Translocations involving the MLL gene Higher WBC count at diagnosis (peripheral blood blast counts greater than 100,000/cumm) Presence of CNS disease at diagnosis Hypodiploidy",
+        "exp": "Favorable prognostic markers include Age between 1 and 10 years, A low white cell count at diagnosis, Hyperdiploidy, Trisomy of chromosomes 4, 7, and 10, and the presence of a t(12; 21). Several factors are associated with a worse prognosis: Infancy, older age at diagnosis (presentation in adolescence or adulthood) Translocations involving the MLL gene Higher WBC count at diagnosis (peripheral blood blast counts greater than 100, 000/cumm) Presence of CNS disease at diagnosis Hypodiploidy",
         "cop": 1,
         "opa": "CNS disease at diagnosis",
         "opb": "Initial WBC count of 50000/cumm",
         "opc": "Hyperdiploidy",
-        "opd": "t(12;21)",
+        "opd": "t(12; 21)",
         "subject_name": "Pathology",
         "topic_name": "Acute Lymphoblastic Leukemia",
         "id": "ff101ad2-f635-4340-9e02-db5c897cb481",
@@ -40,7 +40,7 @@
     },
     {
         "question": "How will you differentiate a mediastinal mass being a thymoma or ALL?",
-        "exp": "Marker specific for thymoma is Cytokeratin Other markers for thymoma include : P 63, PAXp-8 . Most sensitive and specific marker for thymoma is FOXN 1 Markers common for both thymoma and T-ALL include: CD1a CD3 TDt Marker specific for thymoma is Cytokeratin Other markers for thymoma include : P 63, PAXp-8 . Most sensitive and specific marker for thymoma is FOXN 1 FOXN1 > >CD 205",
+        "exp": "Marker specific for thymoma is Cytokeratin Other markers for thymoma include: P 63, PAXp-8. Most sensitive and specific marker for thymoma is FOXN 1 Markers common for both thymoma and T-ALL include: CD1a CD3 TDt Marker specific for thymoma is Cytokeratin Other markers for thymoma include: P 63, PAXp-8. Most sensitive and specific marker for thymoma is FOXN 1 FOXN1 > >CD 205",
         "cop": 1,
         "opa": "Cytokeratin",
         "opb": "CD1a",
@@ -65,8 +65,8 @@
         "choice_type": "single"
     },
     {
-        "question": "17-year-old boy presented with complain of petechiae. O/E ,sternal tenderness is present. BM biopsy show hypercellularity and more than 20% Lymphoblast. Peripheral smear show ||| TLC and presence of lymphoblast . On X ray. retrosternal mass is seen. All are true about condition patient is suffering except?",
-        "exp": "Above patient is most likely suffering from T-cell ALL. Points in our of above diagnosis: Peak at pubey Retrosternal mass More than 20% Lymphoblast( Tdt +, PAS +) in BM ||| TLC Lymphoblast present in blood Less common than B cell ALL Thymus ++ Notch gene mutation Gain of function Poor prognosis CD1/2/5/7 positive Immunophenotyping of immature T-cell phenotype : Tdt/CD34/CD7 positive",
+        "question": "17-year-old boy presented with complain of petechiae. O/E, sternal tenderness is present. BM biopsy show hypercellularity and more than 20% Lymphoblast. Peripheral smear show ||| TLC and presence of lymphoblast. On X ray. retrosternal mass is seen. All are true about condition patient is suffering except?",
+        "exp": "Above patient is most likely suffering from T-cell ALL. Points in our of above diagnosis: Peak at pubey Retrosternal mass More than 20% Lymphoblast( Tdt +, PAS +) in BM ||| TLC Lymphoblast present in blood Less common than B cell ALL Thymus ++ Notch gene mutation Gain of function Poor prognosis CD1/2/5/7 positive Immunophenotyping of immature T-cell phenotype: Tdt/CD34/CD7 positive",
         "cop": 1,
         "opa": "It has good prognosis",
         "opb": "Notch gene mutation present",
@@ -79,7 +79,7 @@
     },
     {
         "question": "A young boy came with dyspnea and was found to have a mediastinal mass. Which of the following is known to produce mediastinal lymphadenopathy?",
-        "exp": "mediastinal lymphadenopathy ,sternal tenderness and mediastinal mass are seen with ALL.",
+        "exp": "mediastinal lymphadenopathy, sternal tenderness and mediastinal mass are seen with ALL.",
         "cop": 4,
         "opa": "Diffuse large B cell Lymphoma",
         "opb": "B cell rich T cell lymphoma",

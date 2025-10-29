@@ -53,7 +53,7 @@
     },
     {
         "question": "Cyanosis is not seen in severe anemia because?",
-        "exp": "Cyanosis is not seen in severe anemia because a critical concentration of reduced hemoglobin is required. Cyanosis Bluish discoloration of skin & mucous membranes due to an increased quantity of reduced Hb (i.e., deoxy Hb) or Hb derivatives (e.g., met Hb or sulfhemoglobin) in the small blood vessels. Cyanosis becomes apparent when the concentration of reduced hemoglobin in capillary blood > 4 g/dL. Absolute, rather than the relative, quantity of reduced Hb that is impoant in producing cyanosis. = In a patient with severe anemia, the relative quantity of reduced Hb in the venous blood may be very large, but the absolute quantity of reduced Hb is still small. = Therefore, patients with severe anemia & even marked aerial desaturation may not display cyanosis.",
+        "exp": "Cyanosis is not seen in severe anemia because a critical concentration of reduced hemoglobin is required. Cyanosis Bluish discoloration of skin & mucous membranes due to an increased quantity of reduced Hb (i. e., deoxy Hb) or Hb derivatives (e. g., met Hb or sulfhemoglobin) in the small blood vessels. Cyanosis becomes apparent when the concentration of reduced hemoglobin in capillary blood > 4 g/dL. Absolute, rather than the relative, quantity of reduced Hb that is impoant in producing cyanosis. = In a patient with severe anemia, the relative quantity of reduced Hb in the venous blood may be very large, but the absolute quantity of reduced Hb is still small. = Therefore, patients with severe anemia & even marked aerial desaturation may not display cyanosis.",
         "cop": 2,
         "opa": "Anemic hemoglobin has greater oxygen carrying capacity per unit gram of hemoglobin",
         "opb": "Critical concentration of reduced hemoglobin is required",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Peripheral smear with small pale red cells, anisocytosis and poikilocytosis is suggestive of:",
-        "exp": "Anisocytosis , poikilocytosis along with small pale RBC in peripheral smear suggests the diagnosis of iron deficiency anemia. OTHER OPTIONS: - Aplastic anemia presents with Normochromic normocytic anemia - Megaloblastic anemia presents with macrocytic anemia - Hereditary spherocytosis is presents with Normocytic anemia.",
+        "exp": "Anisocytosis, poikilocytosis along with small pale RBC in peripheral smear suggests the diagnosis of iron deficiency anemia. OTHER OPTIONS: - Aplastic anemia presents with Normochromic normocytic anemia - Megaloblastic anemia presents with macrocytic anemia - Hereditary spherocytosis is presents with Normocytic anemia.",
         "cop": 2,
         "opa": "Aplastic anemia",
         "opb": "Iron deficiency anemia",
@@ -92,7 +92,7 @@
     },
     {
         "question": "All are reduced in iron deficiency anemia EXCEPT:",
-        "exp": "- In iron deficiency anemia as % saturation of transferrin decreases, total iron binding capacity increases. Other parameters seen in IDA are: serum ferritin | Transferrin levels | Serum iron levels | Free erythrocyte protoporphyrin ||| Mentzer index || . CBC: |Hb, MCH |, MCV |, MCHC |",
+        "exp": "- In iron deficiency anemia as % saturation of transferrin decreases, total iron binding capacity increases. Other parameters seen in IDA are: serum ferritin | Transferrin levels | Serum iron levels | Free erythrocyte protoporphyrin ||| Mentzer index ||. CBC: |Hb, MCH |, MCV |, MCHC |",
         "cop": 1,
         "opa": "Total iron binding capacity",
         "opb": "Percentage saturation of Transferrin",
@@ -131,12 +131,12 @@
     },
     {
         "question": "Ring sideroblast in myelodysplastic syndrome is associated with which gene mutation?",
-        "exp": "Myelodysplastic syndrome: Group of clonal stem cell disorders characterized by maturation defects, that are associated with ineffective hematopoiesis & have high risk of transformation to AML. - Myelodysplastic Syndrome with Ring Sideroblastic(MDS-RS) entity is earlier called as Refractory anemia with Ring Sideroblasts.(RA-RSS). - It is diagnosed: Only when >15% of early RBC are Ringed sideroblasts. Also if >5% of early RBC are RS and associated with mutation SF3B1. This mutation is a/w better prognosis.",
+        "exp": "Myelodysplastic syndrome: Group of clonal stem cell disorders characterized by maturation defects, that are associated with ineffective hematopoiesis & have high risk of transformation to AML. - Myelodysplastic Syndrome with Ring Sideroblastic(MDS-RS) entity is earlier called as Refractory anemia with Ring Sideroblasts. (RA-RSS). - It is diagnosed: Only when >15% of early RBC are Ringed sideroblasts. Also if >5% of early RBC are RS and associated with mutation SF3. B1. This mutation is a/w better prognosis.",
         "cop": 4,
         "opa": "ASXL1",
         "opb": "EZH 2",
         "opc": "TET 2",
-        "opd": "SF3B1",
+        "opd": "SF3. B1",
         "subject_name": "Pathology",
         "topic_name": "Iron deficiency anemia",
         "id": "accef04d-4937-4fdf-8117-36a8d4e662b1",
@@ -170,7 +170,7 @@
     },
     {
         "question": "In Anemia of chronic disease, what is seen?",
-        "exp": "parameters in Anemia of chronic dieases: Decrease in serum iron Decrease TIBC Decrease in % Tfsaturation Increase in serum ferritin S.Tf. R/ Log < 1.5 Test Iron deficiency Anemia of chronic disease Thalassemia minor Lead posioning MCV | | | N/| Serum iron | | N | TIBC | | N | Percent saturation | | N | Serum ferritin | | N | RBC count | | | |",
+        "exp": "parameters in Anemia of chronic dieases: Decrease in serum iron Decrease TIBC Decrease in % Tfsaturation Increase in serum ferritin S. Tf. R/ Log < 1. 5 Test Iron deficiency Anemia of chronic disease Thalassemia minor Lead posioning MCV | | | N/| Serum iron | | N | TIBC | | N | Percent saturation | | N | Serum ferritin | | N | RBC count | | | |",
         "cop": 4,
         "opa": "TIBC |",
         "opb": "S. Iron |",
@@ -208,8 +208,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 25 year old women presents with recurrent abdominal pain and anaemia. Peripheral blood smear shows basophilic stippling of the RBCs. What is the most likely diagnosis?",
-        "exp": "Basophilic stippling a.k.a Punctate basophilia These inclusions are precipitated ribosomal RNA. Stippling is observed in cases of: Hemoglobinopathies Dys-erythropoietic states like: Lead poisoning megaloblastic anemias thalassemias sideroblastic anemias Alcoholism Pyriinidine-5- nucleotidase deficiency RBC inclusions: Inclusion Content Howell- Jolly body DNA Basophilic stippling RNA Pappenheimer body Iron Heinz body Denatured Hb Cabot ring Mitotic spindle remnant",
+        "question": "A 25 year old women presents with recurrent abdominal pain and anemia. Peripheral blood smear shows basophilic stippling of the RBCs. What is the most likely diagnosis?",
+        "exp": "Basophilic stippling a. k. a Punctate basophilia These inclusions are precipitated ribosomal RNA. Stippling is observed in cases of: Hemoglobinopathies Dys-erythropoietic states like: Lead poisoning megaloblastic anemias thalassemias sideroblastic anemias Alcoholism Pyriinidine-5- nucleotidase deficiency RBC inclusions: Inclusion Content Howell- Jolly body DNA Basophilic stippling RNA Pappenheimer body Iron Heinz body Denatured Hb Cabot ring Mitotic spindle remnant",
         "cop": 4,
         "opa": "Coeliac disease",
         "opb": "Hookworm disease",
@@ -222,11 +222,11 @@
     },
     {
         "question": "Ringed sideroblasts are seen in:",
-        "exp": "- MDS: These are commonly associated with Ringed sideroblasts. Other conditions associated with Ringed sideroblasts are : Congenital sideroblastic anemia Lead poisoning Anti-tubercular drugs like isoniazid Pyridoxine deficiency Anemia due to alcoholism. - Their presence can be confirmed with Perl's stain",
+        "exp": "- MDS: These are commonly associated with Ringed sideroblasts. Other conditions associated with Ringed sideroblasts are: Congenital sideroblastic anemia Lead poisoning Anti-tubercular drugs like isoniazid Pyridoxine deficiency Anemia due to alcoholism. - Their presence can be confirmed with Perl's stain",
         "cop": 2,
         "opa": "AML",
         "opb": "MDS",
-        "opc": "Anaemia of chronic disease",
+        "opc": "Anemia of chronic disease",
         "opd": "ALL",
         "subject_name": "Pathology",
         "topic_name": "Iron deficiency anemia",
@@ -235,7 +235,7 @@
     },
     {
         "question": "A 36-year-old man from China presents with increasing fatigue. He has a 3-year history of tuberculosis, and CBC shows a mild microcytic anemia. Blood work-up demonstrates low serum iron, low iron-binding capacity, and increased serum ferritin. The pathogenesis of anemia in this patient is most likely caused by which of the following mechanisms?",
-        "exp": "- History given in the question suggests the diagnosis of Anemia of chronic disease. - Chronic diseases leads to ineffective use of iron from macrophage stores in the bone marrow , resulting in functional iron deficiency, although storage iron is normal or even increased. - However, in contrast to iron deficiency anemia, total iron binding capacity tends to be decreased in this d/t decreased production of Transferrin. - All other choices are not related to anemia of chronic diseases. -->Causes of microcytic hypochromic anemia are: Sideroblastic anemia, Iron deficiency anemia, Thalassemia and Anemia of chronic diseases Blood work up done: a. Percentage of saturation and serum iron is decreased in iron deficiency anemia and anemia of chronic disease. b. Total iron binding capacity is increased in iron deficiency anemia. it is decreased in case of anemia of chronic disease 2. Biopsy can be done : a. Iron store are decreased /absent in iron deficiency anemia b. In Anemia of chronic disease, iron is present, but is restricted/ increased within macrophages",
+        "exp": "- History given in the question suggests the diagnosis of Anemia of chronic disease. - Chronic diseases leads to ineffective use of iron from macrophage stores in the bone marrow, resulting in functional iron deficiency, although storage iron is normal or even increased. - However, in contrast to iron deficiency anemia, total iron binding capacity tends to be decreased in this d/t decreased production of Transferrin. - All other choices are not related to anemia of chronic diseases. -->Causes of microcytic hypochromic anemia are: Sideroblastic anemia, Iron deficiency anemia, Thalassemia and Anemia of chronic diseases Blood work up done: a. Percentage of saturation and serum iron is decreased in iron deficiency anemia and anemia of chronic disease. b. Total iron binding capacity is increased in iron deficiency anemia. it is decreased in case of anemia of chronic disease 2. Biopsy can be done: a. Iron store are decreased /absent in iron deficiency anemia b. In Anemia of chronic disease, iron is present, but is restricted/ increased within macrophages",
         "cop": 3,
         "opa": "Clonal stem cell defect",
         "opb": "Hypoxemia",

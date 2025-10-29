@@ -1,12 +1,12 @@
 [
     {
-        "question": "The mean of the 25 patients' plasma volumes is 12.5 litres. Standard detion is 0.25. Calculate standard error",
-        "exp": "S.E = S/[?]n S = Standard detion = 0.25 n = sample size = 25 S.E. = 0.25/[?] 25 = 0.25/5 = 0.05",
+        "question": "The mean of the 25 patients' plasma volumes is 12. 5 litres. Standard detion is 0. 25. Calculate standard error",
+        "exp": "S. E = S/[?]n S = Standard detion = 0. 25 n = sample size = 25 S. E. = 0. 25/[?] 25 = 0. 25/5 = 0. 05",
         "cop": 1,
-        "opa": "0.05",
-        "opb": "0.5",
-        "opc": "0.01",
-        "opd": "0.1",
+        "opa": "0. 05",
+        "opb": "0. 5",
+        "opc": "0. 01",
+        "opd": "0. 1",
         "subject_name": "Social & Preventive Medicine",
         "topic_name": "Biostats",
         "id": "502cc028-3dc8-4aef-8aa0-7b08a05b0cd4",
@@ -26,7 +26,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "A randomized trial comparing the efficacy of two drugs showed a difference between the two (p<0.05). Assume that in reality, however, the two drugs to not differ. This is therefore an example of:-",
+        "question": "A randomized trial comparing the efficacy of two drugs showed a difference between the two (p<0. 05). Assume that in reality, however, the two drugs to not differ. This is therefore an example of:-",
         "exp": "STATISTICAL ERRORS & P - VALUE H0 rejected H0 not rejected Null hypothesis (H0) true Null hypothesis (H0) false Type I error No error No error Type II error Type I error: Null hypothesis is true but rejected. Probability of type I error is given by 'P value'. (probability of declaring a significant difference when actually it is not present) Significance (alpha) level: is the maximum tolerable probability of type I error. Alpha is fixed in advance: p - value calculated can be less than, equal to or greater than alpha. Keep type I error to be minimum (P<alpha); Then results are declared statistically significant. Type II error: Null hypothesis is false but not rejected. (or accepted) Probability of Type II error is given by beta. (probability of declaring no significant difference when actually it is present) Type I error is more serious than type II error.",
         "cop": 1,
         "opa": "Type I error",
@@ -79,7 +79,7 @@
     },
     {
         "question": "All are true about data diagrams except:-",
-        "exp": "- Bimodal frequency distribution: * Bimodal frequency distribution has two tails and two peaks. - Frequency distributions are usually illustrated by histograms. - Frequencies are commonly illustrated by bar cha . - Frequency polygon is useful when comparing two or more frequency distributions by drawing them on the same diagram.",
+        "exp": "- Bimodal frequency distribution: * Bimodal frequency distribution has two tails and two peaks. - Frequency distributions are usually illustrated by histograms. - Frequencies are commonly illustrated by bar cha. - Frequency polygon is useful when comparing two or more frequency distributions by drawing them on the same diagram.",
         "cop": 3,
         "opa": "Frequency distributions are usually illustrated by histograms",
         "opb": "Frequencies are commonly illustrated by bar cha",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Value of one parameter can be estimated from another related parameter by:-",
-        "exp": "Regression: Structure of exact relationship b/w two variables. Value of one variable in an individual case can be known from value of another variable. y= a + bx ;x= independent variable ; a=constant ; b= regression coefficient]. Types of regression: Simple linear regression - y= a + bx Simple curvilinear regression - y= a + bx3 Multiple linear regression - y = a + bx1 + cx2 + dx3 Multiple curvilinear regression - y = a + bx12 + Cx2 +dx39 Simple - only 1 independent variable. Multiple - >1 independent variable. Linear - independent variable has no power . Curvilinear - Atleast one independent variable has power.",
+        "exp": "Regression: Structure of exact relationship b/w two variables. Value of one variable in an individual case can be known from value of another variable. y= a + bx; x= independent variable; a=constant; b= regression coefficient]. Types of regression: Simple linear regression - y= a + bx Simple curvilinear regression - y= a + bx3 Multiple linear regression - y = a + bx1 + cx2 + dx3 Multiple curvilinear regression - y = a + bx12 + Cx2 +dx39 Simple - only 1 independent variable. Multiple - >1 independent variable. Linear - independent variable has no power. Curvilinear - Atleast one independent variable has power.",
         "cop": 4,
         "opa": "Bar cha",
         "opb": "Correlation",
@@ -183,7 +183,7 @@
     },
     {
         "question": "A researcher wants to evaluate the effect of a new diet regimen on weight of a group of 10 patients. He records their weight before & after the regimen. Which of following statistical test will be applicable in this case?",
-        "exp": "Paired student's t - test: Comparing means (+-SD) in paired data.(in same group of individuals before and after an intervention) Example: Mean serum albumin level of dengue patients before treatment was 3.6 g/dL and after treatment was 3.2 g/dL; comparison of mean level can be done by Paired student's t - test. Unpaired student's t - test comparing means (+-SD) in two different group of individuals. Example: Mean HB level of anemia patients was 9.6 g/dL and those of hookworm patients was 7.2 g/dL; comparison of mean levels can be done by Unpaired student's t - test. In the given question, researcher wants to compare mean weight before and after an intervention. So, paired student's t - test will be most appropriate statistical test of significance.",
+        "exp": "Paired student's t - test: Comparing means (+-SD) in paired data. (in same group of individuals before and after an intervention) Example: Mean serum albumin level of dengue patients before treatment was 3. 6 g/dL and after treatment was 3. 2 g/dL; comparison of mean level can be done by Paired student's t - test. Unpaired student's t - test comparing means (+-SD) in two different group of individuals. Example: Mean HB level of anemia patients was 9. 6 g/dL and those of hookworm patients was 7. 2 g/dL; comparison of mean levels can be done by Unpaired student's t - test. In the given question, researcher wants to compare mean weight before and after an intervention. So, paired student's t - test will be most appropriate statistical test of significance.",
         "cop": 2,
         "opa": "Chi square test",
         "opb": "Paired t - test",
@@ -196,11 +196,11 @@
     },
     {
         "question": "When correlation between two variables is very strong, the correlation coefficients will be:-",
-        "exp": "CORRELATION: - Correlation is relationship between 2 quantitative or continuous variables. - Correlation is represented by: Scatter diagram/ Dot diagram. Correlation coefficient (r); Measures the degree or strength of relationship in a correlation Correlation coefficient (r) lies between : - 1 to + 1 (-1 < r < + 1) Positive correlation : 0 > r > +1 (+1 is perfectly positive/ strong correlation) Negative correlation: -1 < r < 0 (-1 is perfectly negative correlation) No correlation r = 0",
+        "exp": "CORRELATION: - Correlation is relationship between 2 quantitative or continuous variables. - Correlation is represented by: Scatter diagram/ Dot diagram. Correlation coefficient (r); Measures the degree or strength of relationship in a correlation Correlation coefficient (r) lies between: - 1 to + 1 (-1 < r < + 1) Positive correlation: 0 > r > +1 (+1 is perfectly positive/ strong correlation) Negative correlation: -1 < r < 0 (-1 is perfectly negative correlation) No correlation r = 0",
         "cop": 2,
         "opa": ">1",
         "opb": "1",
-        "opc": "0.3",
+        "opc": "0. 3",
         "opd": "-1",
         "subject_name": "Social & Preventive Medicine",
         "topic_name": "Biostats",
@@ -209,7 +209,7 @@
     },
     {
         "question": "You have clinically diagnosed a patient as having SLE and ordered 6 tests, out of which 4 have come positive and 2 have negative. To know the probability of SLE at this point, you need to know:",
-        "exp": "To know the probability of SLE at this point,We need to know Prior probability (Prevalence) of each test, sensitivity and specificity of each test Probability of having a Disease means PPV i.e. Positive Predictive Value and it depends upon (BAYES'THEORM) sensitivity specificity and disease Prevalence",
+        "exp": "To know the probability of SLE at this point, We need to know Prior probability (Prevalence) of each test, sensitivity and specificity of each test Probability of having a Disease means PPV i. e. Positive Predictive Value and it depends upon (BAYES'THEORM) sensitivity specificity and disease Prevalence",
         "cop": 4,
         "opa": "Incidence of SLE and predictive value of each test",
         "opb": "Incidence and prevalence of SLE",
@@ -235,7 +235,7 @@
     },
     {
         "question": "Intraocular pressure (IOP) was measured in 400 people. Mean was found to be 25 mm Hg and Standard detion was recorded 10 mm Hg. 95% Confidence Interval would be?",
-        "exp": "In the given question, Mean (u) = 25 mm Hg standard detion = 10 mm Hg, Z95 = 1.96 (as we are asked 95% CI) Sample size, n =400 Confidence intervals (CI 95) = Mean +- Z95 (SE) CI-95 = 25 +- 1.96 (10/ [?]400) = 24-26 mm Hg",
+        "exp": "In the given question, Mean (u) = 25 mm Hg standard detion = 10 mm Hg, Z95 = 1. 96 (as we are asked 95% CI) Sample size, n =400 Confidence intervals (CI 95) = Mean +- Z95 (SE) CI-95 = 25 +- 1. 96 (10/ [?]400) = 24-26 mm Hg",
         "cop": 3,
         "opa": "22-28",
         "opb": "23-27",
@@ -261,7 +261,7 @@
     },
     {
         "question": "Which of the following is example of Nominal variable",
-        "exp": "Roll number is an identity in the class ; Hence it is an example of nominal variable OTHER EXAMPLES NOMINAL VARIABLES ORDINAL VARIABLES METRIC ABO blood grouping Rh Types of anemia Sex - male/ female etc TNM staging of cancer Hypeension classification Severity of anemia Weight Height Hb Blood sugar levels Serum cholesterol levels BMI Pulse rate Kelvin temperatures",
+        "exp": "Roll number is an identity in the class; Hence it is an example of nominal variable OTHER EXAMPLES NOMINAL VARIABLES ORDINAL VARIABLES METRIC ABO blood grouping Rh Types of anemia Sex - male/ female etc TNM staging of cancer Hypertension classification Severity of anemia Weight Height Hb Blood sugar levels Serum cholesterol levels BMI Pulse rate Kelvin temperatures",
         "cop": 2,
         "opa": "Temperature",
         "opb": "Roll number",

@@ -13,8 +13,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following can be used to calculate hea rate from an ECG?",
-        "exp": "For calculating hea rate: HR-300/ Number of large squares(0.20 secs) in one R-R interval HR-1500/no of small squares (0.04 secs) in one R-R interval",
+        "question": "Which of the following can be used to calculate heart rate from an ECG?",
+        "exp": "For calculating heart rate: HR-300/ Number of large squares(0. 20 secs) in one R-R interval HR-1500/no of small squares (0. 04 secs) in one R-R interval",
         "cop": 3,
         "opa": "Number of large squares in one R-R interval/300",
         "opb": "300/ (Number of large squares in one Q-T interval)",
@@ -27,7 +27,7 @@
     },
     {
         "question": "In a patient with history of recurrent syncope, Holter recording shows QT interval of 680msec. Which disease is suspected in this patient?",
-        "exp": "Normal QT interval= 360-440 msec. Option A: QT interval prolonged- predisposes to Torsades de Pointes , so Dx of this is Long QT syndrome. Option B: Channel defect (SCN5A defect) in hea-->depolarization is defective -->defective development of voltage gradient leads to arrhythmia which result in Brugada syndrome. Option C: ARVD is fibrofatty deposition in RV epicardium & in ECG presence of Epsilon wave Option D: Lev's disease characterized by fibrosis in conduction system, so will result in Bradyarrhythmia.",
+        "exp": "Normal QT interval= 360-440 msec. Option A: QT interval prolonged- predisposes to Torsades de Pointes, so Dx of this is Long QT syndrome. Option B: Channel defect (SCN5A defect) in hea-->depolarization is defective -->defective development of voltage gradient leads to arrhythmia which result in Brugada syndrome. Option C: ARVD is fibrofatty deposition in RV epicardium & in ECG presence of Epsilon wave Option D: Lev's disease characterized by fibrosis in conduction system, so will result in Bradyarrhythmia.",
         "cop": 1,
         "opa": "Long QT syndrome",
         "opb": "Brugada syndrome",
@@ -39,8 +39,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 26-year-old man attends an occupational heath assessment in preparation for new employment. A 12 leads ECG is recorded as shown. He is feeling well and is experiencing no symptoms.He has no significant past medical history. Based on the ECG findings what is the most likely diagnosis?",
-        "exp": "ECG=Broad QRS & characteristic delta wave present | Dx WPW Absent PR interval is due to Rapid conduction of electrical signals from atria to ventricles an aberrant pathway (Bundle of Kent). * As Electrical signals to ventricles doesn't come AV node so signals have to pass through myocytes ,not in the conduction pathways, that's why Wide QRS complex * Definitive Mx of WPW syndrome is Radio frequency Ablation.",
+        "question": "A 26-year-old man attends an occupational heath assessment in preparation for new employment. A 12 leads ECG is recorded as shown. He is feeling well and is experiencing no symptoms. He has no significant past medical history. Based on the ECG findings what is the most likely diagnosis?",
+        "exp": "ECG=Broad QRS & characteristic delta wave present | Dx WPW Absent PR interval is due to Rapid conduction of electrical signals from atria to ventricles an aberrant pathway (Bundle of Kent). * As Electrical signals to ventricles doesn't come AV node so signals have to pass through myocytes, not in the conduction pathways, that's why Wide QRS complex * Definitive Mx of WPW syndrome is Radio frequency Ablation.",
         "cop": 2,
         "opa": "Right Bundle Branch Block",
         "opb": "Wolff-Parkinson White Syndrome",
@@ -53,7 +53,7 @@
     },
     {
         "question": "Which of the following is associated with A-V block?",
-        "exp": "Hypothyroidism will lead to myxedema which can interfere in A.V conduction pathway of hea. Etiologies of Atrioventricular Block Autonomic Carotid sinus hypersensitivity Vasovagal Metabolic/ Endocrine Hyperkalemia Hypermagnesemia Hypothyroidism Adrenal insufficiency Drug Related Beta blocker Calcium channel blockers Digitalis Adenosine Antiarrhythmics (class I and III) Lithium Infectious Endocarditis Lyme disease Chagas disese Syphilis Tuberculosis Diphtheria Toxoplasmosis Heritable/ congenital",
+        "exp": "Hypothyroidism will lead to myxedema which can interfere in A. V conduction pathway of hea. Etiologies of Atrioventricular Block Autonomic Carotid sinus hypersensitivity Vasovagal Metabolic/ Endocrine Hyperkalemia Hypermagnesemia Hypothyroidism Adrenal insufficiency Drug Related Beta blocker Calcium channel blockers Digitalis Adenosine Antiarrhythmics (class I and III) Lithium Infectious Endocarditis Lyme disease Chagas disese Syphilis Tuberculosis Diphtheria Toxoplasmosis Heritable/ congenital",
         "cop": 1,
         "opa": "Hypothyroidism",
         "opb": "Hypehyroidism",
@@ -66,7 +66,7 @@
     },
     {
         "question": "A 65-year-old man is about to undergo an elective hip replacement. A pre-operative ECG is taken (see below). Based upon the ECG, which of the following jugular venous pressure (JVP) abnormalities is most likely to be present?",
-        "exp": "ECG= Variable RR interval in the later pa of ECG. So, it is Dx of Atrial fibrillation. Option A: Absent A wave Option B: Cannon A waves found in Hea Block & Junctional tachycardia Option C: Giant V wave=TR Option D: Rise JVP during Inspiration= Kussmaul sign",
+        "exp": "ECG= Variable RR interval in the later pa of ECG. So, it is Dx of Atrial fibrillation. Option A: Absent A wave Option B: Cannon A waves found in Heart block & Junctional tachycardia Option C: Giant V wave=TR Option D: Rise JVP during Inspiration= Kussmaul sign",
         "cop": 1,
         "opa": "Absent A waves",
         "opb": "Cannon A waves",
@@ -91,8 +91,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 70-year-old man with a past medical history of ischemic hea disease and hypeension presents to his GP with recurrent episodes of syncope over the past 2 weeks.Based upon this ECG, which of the following clinical findings is most likely to be present?",
-        "exp": "Complete Hea block. HR=30/minute As Bundle of his fire on rate of <40/min. P-P & R-R intervals are unequal. So atrial rate & ventricular rate are not equal. -Canon A wave in JVP seen on complete hea block",
+        "question": "A 70-year-old man with a past medical history of ischemic heart disease and hypertension presents to his GP with recurrent episodes of syncope over the past 2 weeks. Based upon this ECG, which of the following clinical findings is most likely to be present?",
+        "exp": "Complete Heart block. HR=30/minute As Bundle of his fire on rate of <40/min. P-P & R-R intervals are unequal. So atrial rate & ventricular rate are not equal. -Canon A wave in JVP seen on complete heart block",
         "cop": 2,
         "opa": "Absent JVP",
         "opb": "Canon A waves",
@@ -104,8 +104,8 @@
         "choice_type": "single"
     },
     {
-        "question": "ECG of a patient shows >3 consecutive premature ventricular contractions (PVC) with a hea rate of less than 100 bpm. The diagnosis is?",
-        "exp": "> 3 consecutive premature ventricular contraction & HR is <100 bpm - AIVR (Accelerated Idioventricular Rhythm) Accelerated Idioventricular Rhythm/Slow ventricular tachycardia It is mc Reperfusion Arrhythmia Occurs during fibrinolytic therapy at the time of reperfusion. If H.R > 100/min - V. Tachycardia If H.R <100/min- AIVR",
+        "question": "ECG of a patient shows >3 consecutive premature ventricular contractions (PVC) with a heart rate of less than 100 bpm. The diagnosis is?",
+        "exp": "> 3 consecutive premature ventricular contraction & HR is <100 bpm - AIVR (Accelerated Idioventricular Rhythm) Accelerated Idioventricular Rhythm/Slow ventricular tachycardia It is mc Reperfusion Arrhythmia Occurs during fibrinolytic therapy at the time of reperfusion. If H. R > 100/min - V. Tachycardia If H. R <100/min- AIVR",
         "cop": 3,
         "opa": "Sustained VT",
         "opb": "Non-sustained VT",
@@ -118,12 +118,12 @@
     },
     {
         "question": "What does the ECG show?",
-        "exp": "Mobitz-I Hea block In ECG dropped beat is present Before & after of dropped beat PR interval are unequal.",
+        "exp": "Mobitz-I Heart block In ECG dropped beat is present Before & after of dropped beat PR interval are unequal.",
         "cop": 1,
-        "opa": "Mobitz type 1 hea block",
-        "opb": "First degree hea block",
-        "opc": "Complete hea block",
-        "opd": "Mobitz type II hea block",
+        "opa": "Mobitz type 1 heart block",
+        "opb": "First degree heart block",
+        "opc": "Complete heart block",
+        "opd": "Mobitz type II heart block",
         "subject_name": "Medicine",
         "topic_name": "ECG and Arrhythmia 3",
         "id": "ab712963-2dec-4502-adc1-5775b37d9066",
@@ -157,7 +157,7 @@
     },
     {
         "question": "A 30 year old lady with crush injury was admitted to the casualty. Her urobag shows 100ml red colour urine. ECG is shown below. All are indicated for this patient except?",
-        "exp": "Crush injury with Red color urine indicates | Myoglobinuria (Rhabdomyolysis) In ECG, Hyperkalemia Tall tented T waves Broad complex QRS Option A: Because of acute tubular necrosis due to myoglobinuria -Rx- Hemodialysis Option B:Furosemide for Hyperkalemia Option C: Calcium chloride for Hyperkalemia Option D: Magnesium sulfate not given in Hyperkalemia",
+        "exp": "Crush injury with Red color urine indicates | Myoglobinuria (Rhabdomyolysis) In ECG, Hyperkalemia Tall tented T waves Broad complex QRS Option A: Because of acute tubular necrosis due to myoglobinuria -Rx- Hemodialysis Option B: Furosemide for Hyperkalemia Option C: Calcium chloride for Hyperkalemia Option D: Magnesium sulfate not given in Hyperkalemia",
         "cop": 4,
         "opa": "Hemodialysis",
         "opb": "Furosemide drip",
@@ -208,8 +208,8 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following features given below suggest broad complex ventricular tachycardia except :",
-        "exp": "Ventricular Tachycardia -Independent P waves - lack of coordination between atria - ventricles ECG features of Ventricular tachycardia 1. Premature Ventricular Contractions > 3 consecutive contractions 2. HR > 100 / min 3. Broadening of QRS duration 4. Josephson sign 5. Capture Beats 6. P waves walking through the tachycardia rsR' pattern - RBBB - Aberrancy , not VT ECG - Ventricular tachycardia P waves independent of QRS complexes Fusion and capture beat Josephson sign",
+        "question": "All of the following features given below suggest broad complex ventricular tachycardia except:",
+        "exp": "Ventricular Tachycardia -Independent P waves - lack of coordination between atria - ventricles ECG features of Ventricular tachycardia 1. Premature Ventricular Contractions > 3 consecutive contractions 2. HR > 100 / min 3. Broadening of QRS duration 4. Josephson sign 5. Capture Beats 6. P waves walking through the tachycardia rsR' pattern - RBBB - Aberrancy, not VT ECG - Ventricular tachycardia P waves independent of QRS complexes Fusion and capture beat Josephson sign",
         "cop": 2,
         "opa": "P waves on ECG, 'walking through the tachycardia'",
         "opb": "QRS duration shoens",
@@ -221,8 +221,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "Mrs Sharma , a retired government officer has recently been diagnosed with non-valvular atrial fibrillation.When considering the need for staing anti-coagulation therapy which scoring system can be used to calculate her percentage 1 year risk of developing a major bleed?",
-        "exp": "Option A : HEA - Chest pain severity Option B : HASBLED- Risk of CNS bleeed Option C : CHADS2- Vasc - Decision for anticoagulation Option D : NIHSS - Stroke severity score HAS - BLED Letter Clinical Characteristic Points H Hypeension 1 A Abnormal Liver or Renal Function 1 or 2 S Stroke 1 B Bleeding 1 L Labile INR 1 E Elderly (age>65) 1 D Drugs or Alcohol 1 or 2 Maximum 9 HEA score for chest pain patients History Highly suspicious 2 Moderately suspicious 1 Slightly SUSPICIOUS 0 ECG Significant ST-detion 2 Non-specific repolarisation 1 Normal 0 Age > 65 years 2 45 -- 65 years 1 <45 years 0 Risk factors >3 risk factors or history of atherosclerotic disease 2 1 or 2 risk factors 1 No risk factors known 0 Troponin 3x normal limit 2 1-3x normal limit 1 Normal limit 0",
+        "question": "Mrs Sharma, a retired government officer has recently been diagnosed with non-valvular atrial fibrillation. When considering the need for staing anti-coagulation therapy which scoring system can be used to calculate her percentage 1 year risk of developing a major bleed?",
+        "exp": "Option A: HEA - Chest pain severity Option B: HASBLED- Risk of CNS bleeed Option C: CHADS2- Vasc - Decision for anticoagulation Option D: NIHSS - Stroke severity score HAS - BLED Letter Clinical Characteristic Points H Hypertension 1 A Abnormal Liver or Renal Function 1 or 2 S Stroke 1 B Bleeding 1 L Labile INR 1 E Elderly (age>65) 1 D Drugs or Alcohol 1 or 2 Maximum 9 HEA score for chest pain patients History Highly suspicious 2 Moderately suspicious 1 Slightly SUSPICIOUS 0 ECG Significant ST-detion 2 Non-specific repolarisation 1 Normal 0 Age > 65 years 2 45 -- 65 years 1 <45 years 0 Risk factors >3 risk factors or history of atherosclerotic disease 2 1 or 2 risk factors 1 No risk factors known 0 Troponin 3x normal limit 2 1-3x normal limit 1 Normal limit 0",
         "cop": 2,
         "opa": "HEA",
         "opb": "HASBLED",
@@ -235,7 +235,7 @@
     },
     {
         "question": "A mother brings her 5-year-old boy to see you as a General Physician. On examination, he has red eyes, dry, cracked lips and a rash on his hands and feet. He also has cervical lymphadenopathy. What is the most impoant investigation to rule out a serious complication of this condition?",
-        "exp": "Kawasaki disease (Mucocutaneous Lymph node Syndrome) Risk to develop coronary aery vasculitis Risk of MI due to presence of aneurysms in coronary aery. So echocardiography is useful Complications of persistent coronary aery aneurysms include rupture, thrombosis and recanalization, and stenosis at the outflow area. Complication like Myocardial ischaemia and pericarditis can be diagnosed with E.C.G Rx= Aspirin +IV Ig",
+        "exp": "Kawasaki disease (Mucocutaneous Lymph node Syndrome) Risk to develop coronary aery vasculitis Risk of MI due to presence of aneurysms in coronary aery. So echocardiography is useful Complications of persistent coronary aery aneurysms include rupture, thrombosis and recanalization, and stenosis at the outflow area. Complication like Myocardial ischaemia and pericarditis can be diagnosed with E. C. G Rx= Aspirin +IV Ig",
         "cop": 3,
         "opa": "Blood pressure",
         "opb": "ECG",
@@ -247,8 +247,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 46-year-old smoker presents in an ED with a sharp ,left sided chest pain. The pain is not focal. On physical examination , there is no specific finding .Pain is neither aggravated nor relived with change of postural change and with inspiration. On an ECG , anterior ST elevation can be seen.What shall be the next step in management ?",
-        "exp": "As the patient comes with acute chest pain , and ECG shows anterior MI, pericarditis is ruled out . Ischemia must be urgently ruled out. When ECG is non diagnostic ,abnormalities of wall motion can be seen on echocardiography. It helps in aiding whether patient needs a fibrinolytic therapy or percutaneous coronary intervention ). It can't differentiate acute STEMI and old myocardial scar. It is a screening modality in emergency depament .",
+        "question": "A 46-year-old smoker presents in an ED with a sharp, left sided chest pain. The pain is not focal. On physical examination, there is no specific finding. Pain is neither aggravated nor relived with change of postural change and with inspiration. On an ECG, anterior ST elevation can be seen. What shall be the next step in management?",
+        "exp": "As the patient comes with acute chest pain, and ECG shows anterior MI, pericarditis is ruled out. Ischemia must be urgently ruled out. When ECG is non diagnostic, abnormalities of wall motion can be seen on echocardiography. It helps in aiding whether patient needs a fibrinolytic therapy or percutaneous coronary intervention ). It can't differentiate acute STEMI and old myocardial scar. It is a screening modality in emergency depament.",
         "cop": 4,
         "opa": "Activation of the primary angioplastyteam",
         "opb": "Await troponin tests and give analgesia",
@@ -261,7 +261,7 @@
     },
     {
         "question": "Feature of Torsades de pointes is?",
-        "exp": "Torsades de pointes/Polymorphic V. Tachycardia-Prolonged QTc interval QTc=''C'' means corrected T wave,as it does not end immediately. T wave goes in slight gradual slope, so we exactly cannot pin point end of the T wave. So to pin point end of T wave ,mathematical scenario called as QTc is used",
+        "exp": "Torsades de pointes/Polymorphic V. Tachycardia-Prolonged QTc interval QTc=''C'' means corrected T wave, as it does not end immediately. T wave goes in slight gradual slope, so we exactly cannot pin point end of the T wave. So to pin point end of T wave, mathematical scenario called as QTc is used",
         "cop": 3,
         "opa": "Normal P waves",
         "opb": "Sho QRS complex",

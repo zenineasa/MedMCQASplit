@@ -40,7 +40,7 @@
     },
     {
         "question": "Drug of choice for treatment of chronic myeloid leukemia is",
-        "exp": "Imatinib - first line drug for chronic phase CML,in blast crisis and second line therapy for chronic phase CML that has progressed on prior IFN-a therapy Imatinib is also first line drug for metastatic c-kit positive GIST. Nilotinib, Bosutinib, Dasatinib - used in treatment of resistant CML Dasatinib is also used for treatment of Philadelphia chromosome positive ALL. Sunitinib-approved for the treatment of Advanced RCC and for the treatment of GIST after disease progression on or with intolerance to Imatinib. Methotrexate- DOC of choriocarcinoma Cisplatin - DOC- esophageal or gastric cancer Tamoxifen - DOC for ER positive breast cancer",
+        "exp": "Imatinib - first line drug for chronic phase CML, in blast crisis and second line therapy for chronic phase CML that has progressed on prior IFN-a therapy Imatinib is also first line drug for metastatic c-kit positive GIST. Nilotinib, Bosutinib, Dasatinib - used in treatment of resistant CML Dasatinib is also used for treatment of Philadelphia chromosome positive ALL. Sunitinib-approved for the treatment of Advanced RCC and for the treatment of GIST after disease progression on or with intolerance to Imatinib. Methotrexate- DOC of choriocarcinoma Cisplatin - DOC- esophageal or gastric cancer Tamoxifen - DOC for ER positive breast cancer",
         "cop": 1,
         "opa": "Imatinib",
         "opb": "Cisplatin",
@@ -65,8 +65,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "Recently a new oral drug is approved for treatment of multiple myeloma. It acts as a selective inhibitor of nuclear expo. Which drug is it ?",
-        "exp": "SELINEXOR : - It is an oral selective inhibitor of nuclear expo (SINE) compound. - It works by binding to Nuclear expo protein (Expoin 1) and inhibiting the transpo of several proteins (involved in cancer cell growth) from nucleus to cytoplasm. This results in accumulation of tumor suppressor proteins in the cell nucleus. This will reinitiate and amplifies tumor suppressor function and leads to selective induction of apoptosis in cancer cells. - Used for multiple myeloma and Diffuse large B cell lymphoma. POLATUZUMAB : - Antibody targeting the CD 79 B component of the B cell receptor. - Used for relapsed or refractory diffuse large B cell lymphoma. ZANUBRUTINIB : - It is a Bruton tyrosine kinase inhibitor like ibrutinib - Used for Mantle cell lymphoma. FEDRATINIB : - It is a oral JAK 2 inhibitor - Used for MYELOFIBROSIS.",
+        "question": "Recently a new oral drug is approved for treatment of multiple myeloma. It acts as a selective inhibitor of nuclear expo. Which drug is it?",
+        "exp": "SELINEXOR: - It is an oral selective inhibitor of nuclear expo (SINE) compound. - It works by binding to Nuclear expo protein (Expoin 1) and inhibiting the transpo of several proteins (involved in cancer cell growth) from nucleus to cytoplasm. This results in accumulation of tumor suppressor proteins in the cell nucleus. This will reinitiate and amplifies tumor suppressor function and leads to selective induction of apoptosis in cancer cells. - Used for multiple myeloma and Diffuse large B cell lymphoma. POLATUZUMAB: - Antibody targeting the CD 79 B component of the B cell receptor. - Used for relapsed or refractory diffuse large B cell lymphoma. ZANUBRUTINIB: - It is a Bruton tyrosine kinase inhibitor like ibrutinib - Used for Mantle cell lymphoma. FEDRATINIB: - It is a oral JAK 2 inhibitor - Used for MYELOFIBROSIS.",
         "cop": 1,
         "opa": "SELINEXOR",
         "opb": "POLATUZUMAB",
@@ -79,7 +79,7 @@
     },
     {
         "question": "A 56-year-old female was prescribed trastuzumab. Which of the following statements regarding this drug is FALSE?",
-        "exp": "Trastuzumab: It is a humanized antibody against external domain of HER2/neu. produced from human component and small amount of mouse. Injectables Drugs : - Cetuximab : Used for colorectal cancer- Panitumumab : Used for colorectal cancer - Rituximumab : Used for NHL- Trastuzumab : Used for breast cancer, side effect: cardiotoxicity - Peuzumab : Used for breast cancer- Daratuzumab : Used for multiple myeloma- Olaratumumab: Used for soft tissue sarcoma",
+        "exp": "Trastuzumab: It is a humanized antibody against external domain of HER2/neu. produced from human component and small amount of mouse. Injectables Drugs: - Cetuximab: Used for colorectal cancer- Panitumumab: Used for colorectal cancer - Rituximumab: Used for NHL- Trastuzumab: Used for breast cancer, side effect: cardiotoxicity - Peuzumab: Used for breast cancer- Daratuzumab: Used for multiple myeloma- Olaratumumab: Used for soft tissue sarcoma",
         "cop": 1,
         "opa": "It is an antibody produced entirely from mouse containing no human component",
         "opb": "It is used for the treatment of breast carcinoma",
@@ -104,8 +104,8 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs are approved for treatment of Psoriasis except ?",
-        "exp": "1. DOC for PSORIATIC AHRITIS : METHOTREXATE 2. DOC for EHRODERMIC PSORIASIS :METHOTREXATE 3. MONOCLONAL ANTIBODIES used in psoriasis : 1. TNF ALPHA inhibitors - Infliximab, Adalimumab, Etanercept, Ceolizumab 2. ANTI-IL-17A- Ixekizumab, Secukinumab 3. Blockers of IL-17 receptor - Brodalumab 4. ANTI-IL-23 - Guselkumab, Risankizumab, Tildrakizumab 5. ANTI-IL-12 AND IL-23 - Ustekinumab 6. ANTI-LFA-1 - Alefacept 7. ANTI-LFA-3 - Efalizumab 8. ANTI-CD-6 - Itolizumab NOTE : TOFACITINIB is a JAK 1 and 3 inhibitor and is used in treatment of rheumatoid ahritis (not psoriasis).",
+        "question": "All of the following drugs are approved for treatment of Psoriasis except?",
+        "exp": "1. DOC for PSORIATIC AHRITIS: METHOTREXATE 2. DOC for EHRODERMIC PSORIASIS: METHOTREXATE 3. MONOCLONAL ANTIBODIES used in psoriasis: 1. TNF ALPHA inhibitors - Infliximab, Adalimumab, Etanercept, Ceolizumab 2. ANTI-IL-17A- Ixekizumab, Secukinumab 3. Blockers of IL-17 receptor - Brodalumab 4. ANTI-IL-23 - Guselkumab, Risankizumab, Tildrakizumab 5. ANTI-IL-12 AND IL-23 - Ustekinumab 6. ANTI-LFA-1 - Alefacept 7. ANTI-LFA-3 - Efalizumab 8. ANTI-CD-6 - Itolizumab NOTE: TOFACITINIB is a JAK 1 and 3 inhibitor and is used in treatment of rheumatoid ahritis (not psoriasis).",
         "cop": 4,
         "opa": "Methotrexate",
         "opb": "Alefacept",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Vismodegib is a new Anticancer drug approved for treatment of Basal Cell Carcinoma. It acts as an inhibitor of?",
-        "exp": "Vismodegib Hedgehog signalling pathway inhibitor. Used for treatment of - Adult metastatic or relapsed Basal Cell Carcinoma. Mechanism: Competitive inhibitor of SMO (\"smoothens hedgehog\") receptor in hedgehog signalling pathway. Common adverse effects include GI disorders (nausea,vomiting, diarrhea, constipation), muscle spasms, fatigue, hair loss, and dysgeusia (distoion of the sense of taste).Also can cause embryo-fetal death and severe bih defects and must not be used during pregnancy. Other hedgehog pathway inhibitors: Sonidegib , itraconazole , arsenic trioxide PARP inhibitors Olaparib , Rucaparib Used for Ovarian Carcinoma. CDK inhibitors Palbociclib Used for Breast Carcinoma. Her-2/neu inhibitor Trastuzumab Used for Breast Cancer",
+        "exp": "Vismodegib Hedgehog signalling pathway inhibitor. Used for treatment of - Adult metastatic or relapsed Basal Cell Carcinoma. Mechanism: Competitive inhibitor of SMO (\"smoothens hedgehog\") receptor in hedgehog signalling pathway. Common adverse effects include GI disorders (nausea, vomiting, diarrhea, constipation), muscle spasms, fatigue, hair loss, and dysgeusia (distoion of the sense of taste). Also can cause embryo-fetal death and severe bih defects and must not be used during pregnancy. Other hedgehog pathway inhibitors: Sonidegib, itraconazole, arsenic trioxide PARP inhibitors Olaparib, Rucaparib Used for Ovarian Carcinoma. CDK inhibitors Palbociclib Used for Breast Carcinoma. Her-2/neu inhibitor Trastuzumab Used for Breast Cancer",
         "cop": 1,
         "opa": "Hedgehog pathway",
         "opb": "Poly ADP Ribose Polymerase",
@@ -173,7 +173,7 @@
         "exp": "Kawasaki disease: IVIG is given within the first 10 days of illness. Concomitant aspirin should be staed until the patient is afebrile If fever persist beyond 36 hours after the initial IVIG infusion, a new dose of IVIG should be given if no other source of fever is found. Methylprednisolone should follow if the disease persists after the second IVIG administration. Fuher options for refractory cases include TNF blockers (infliximab), cyclophosphamide, methotrexate, and plasmapheresis.",
         "cop": 2,
         "opa": "Aspirin",
-        "opb": "I.V. immunoglobulins",
+        "opb": "I. V. immunoglobulins",
         "opc": "Coicosteroids",
         "opd": "Methotrexate",
         "subject_name": "Pharmacology",
@@ -183,7 +183,7 @@
     },
     {
         "question": "Which drug can be used in patient of CML with T315i mutation?",
-        "exp": "Drugs against CML with T315I :* Omacetaxine* Ponatinib In CML there is BCR-ABL fusion , due to which there is hyperactivation of tyrosine kinase. ABL-BCR tyrosine kinase inhibitors:* First generation: Imatinib, * Second generation(active against Imatinib resistant cases): Dastanib, Nilotinib.* Third generation: Bosutinib, Ponatinib Ponatinib is the only TK inhibitor which is active against CML wth T315I mutation.",
+        "exp": "Drugs against CML with T315I:* Omacetaxine* Ponatinib In CML there is BCR-ABL fusion, due to which there is hyperactivation of tyrosine kinase. ABL-BCR tyrosine kinase inhibitors:* First generation: Imatinib, * Second generation(active against Imatinib resistant cases): Dastanib, Nilotinib.* Third generation: Bosutinib, Ponatinib Ponatinib is the only TK inhibitor which is active against CML wth T315I mutation.",
         "cop": 4,
         "opa": "Imatinib",
         "opb": "Nilotinib",
@@ -209,7 +209,7 @@
     },
     {
         "question": "Which of the following statements about baricitinib is FALSE?",
-        "exp": "Baricitinib andtofacitinib are oral JANUS kinase inhibitors (JAK). These drugs are used in rheumatoid ahritis.Tofacitinib is also used in ulcerative colitis. Major side-effects of these drugs are:* Increased risk of infection: TB , Herpes zoster.* Increased risk of malignancy like Lymphoma.* Hyperiglyceridemia.They require dose reduction in kidney and liver failure. So, they are avoided in lymphopenia and anemia.So, the answer is 'B' because it is not used in Crohn's disease.",
+        "exp": "Baricitinib andtofacitinib are oral JANUS kinase inhibitors (JAK). These drugs are used in rheumatoid ahritis. Tofacitinib is also used in ulcerative colitis. Major side-effects of these drugs are:* Increased risk of infection: TB, Herpes zoster.* Increased risk of malignancy like Lymphoma.* Hyperiglyceridemia. They require dose reduction in kidney and liver failure. So, they are avoided in lymphopenia and anemia. So, the answer is 'B' because it is not used in Crohn's disease.",
         "cop": 2,
         "opa": "Oral JAK inhibitor",
         "opb": "Approved for use in moderate to severe Crohn's disease",
@@ -235,7 +235,7 @@
     },
     {
         "question": "Which of the following drug is used for treatment for steroid resistant Crohn's disease?",
-        "exp": "Inflammatory Bowel Disease Ulcerative Colitis - Drug of choice is 5 - ASA preparation e.g. Sulfasalazine, Mesalamine - If these are not effective then steroids are used. Crohn's Disease - Drug of choice for Crohn's disease is steroids - TNF-alpha inhibitors are used in steroid resistant cases IN-Infliximab C- Ceolizumab A-Adalimumab G-Golimumab E- Etanercept - These TNF -alpha inhibitors are contraindicated in TB and Hepatitis- B.",
+        "exp": "Inflammatory Bowel Disease Ulcerative Colitis - Drug of choice is 5 - ASA preparation e. g. Sulfasalazine, Mesalamine - If these are not effective then steroids are used. Crohn's Disease - Drug of choice for Crohn's disease is steroids - TNF-alpha inhibitors are used in steroid resistant cases IN-Infliximab C- Ceolizumab A-Adalimumab G-Golimumab E- Etanercept - These TNF -alpha inhibitors are contraindicated in TB and Hepatitis- B.",
         "cop": 3,
         "opa": "Leflunomide",
         "opb": "Mesalamine",
@@ -287,7 +287,7 @@
     },
     {
         "question": "Immunosuppressant drug inhibiting the action of IL-2 without inhibiting its transcription is:",
-        "exp": "Cyclosporine and tacrolimus are calcineurin inhibitors. These inhibit the formation (gene transcription) of interleukins. Sirolimus is mTOR inhibitor. It inhibits the action of interleukins after their formation.",
+        "exp": "Cyclosporine and tacrolimus are calcineurin inhibitors. These inhibit the formation (gene transcription) of interleukins. Sirolimus is m. TOR inhibitor. It inhibits the action of interleukins after their formation.",
         "cop": 4,
         "opa": "Prednisolone",
         "opb": "Cyclosporine",
@@ -300,9 +300,9 @@
     },
     {
         "question": "Sirolimus is more likely to cause ____________ more than cyclosporine:",
-        "exp": "* Sirolimus (rapamycin) results in suppression of bone marrow,mainly causing thrombocytopenia.other adverse effects are diarrhoea,liver damage and pneumonitis. * Cyclosporine and tacrolimus cause nephrotoxicity,hepatotoxicity,neurotoxicity as an adverse effect.",
+        "exp": "* Sirolimus (rapamycin) results in suppression of bone marrow, mainly causing thrombocytopenia. other adverse effects are diarrhoea, liver damage and pneumonitis. * Cyclosporine and tacrolimus cause nephrotoxicity, hepatotoxicity, neurotoxicity as an adverse effect.",
         "cop": 4,
-        "opa": "Hypeension",
+        "opa": "Hypertension",
         "opb": "Osteoporosis",
         "opc": "Renal insufficiency",
         "opd": "Thrombocytopenia",

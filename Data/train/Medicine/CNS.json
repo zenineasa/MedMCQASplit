@@ -1,10 +1,10 @@
 [
     {
         "question": "A 22-year-old obese female experiences right eye diplopia. She had weight gain in last year and her current BMI is 35. Her fundus examination reveals papilledema on the right side. The most likely cause of her symptoms is?",
-        "exp": "Disease Features Craniopharyngioma -Presents in children and adults after 55 years -Features of raised ICT -Visual field defects like Bi-temporal hemianopia. Idiopathic intracranial hypeension -Obese women -Headache and sixth nerve palsy. - Raised I.C.P causes papilledema. Optic neuritis -Acute inflammatory condition of the optic nerve. -Causes painful eye movements and visual loss. Fundus looks normal due to retrobulbar pathology. Sagittal sinus Thrombosis -Setting of Risk factors OCP, Pregnancy, Postpaum period, Polycythemia -Headache, vomiting, seizures -Paraparesis.",
+        "exp": "Disease Features Craniopharyngioma -Presents in children and adults after 55 years -Features of raised ICT -Visual field defects like Bi-temporal hemianopia. Idiopathic intracranial hypertension -Obese women -Headache and sixth nerve palsy. - Raised I. C. P causes papilledema. Optic neuritis -Acute inflammatory condition of the optic nerve. -Causes painful eye movements and visual loss. Fundus looks normal due to retrobulbar pathology. Sagittal sinus Thrombosis -Setting of Risk factors OCP, Pregnancy, Postpaum period, Polycythemia -Headache, vomiting, seizures -Paraparesis.",
         "cop": 2,
         "opa": "Craniopharyngioma",
-        "opb": "Idiopathic Intracranial Hypeension",
+        "opb": "Idiopathic Intracranial Hypertension",
         "opc": "Optic neuritis",
         "opd": "Sagittal sinus thrombosis",
         "subject_name": "Medicine",
@@ -13,8 +13,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 40 -year-old woman has relapsing/remitting multiple sclerosis. She has experienced two attacks of disease previously that have left her with residual lower extremity weakness. She was initially treated with glucocoicoids with some improvement in her symptoms. However, she is currently only able to walk with a rolling walker about 100 m. A prior antibody test shows that she is negative for reactivity to the JC virus. You are planning to sta a disease-modifying therapy. Which of the following drug that causes a maximum reduction in appearance of new lesions and change in disease severity ?",
-        "exp": "Treatment of Multiple Sclerosis- Acute attack of optic neuritis = IV methylprednisolone Natalizumab: Highly effective in reducing attack rate Improves all measures of disease severity in MS. Once a month infusion- Inhibit binding of T lymphocyte to capillaries related to blood brain barrier- Damage to BBB is minimised S/E = JC virus (John Cunningham virus) activation leading to PMF Progressive multifocal leukoencephalopathy - worsening of neurological features. It is ideal for patient with JC virus negative are eligible to get Infusion of natalizumab. Ocrelizumab = acts by attacking mature B cell which express CD 20 Is allowed for management of P.P.M.S Drugs given in MS: HIGHLY EFFECTIVE Moderately effective -Natalizumab -Ocrelizumab -IFN ss -Glatiramer -Fingolimod -Dimethyl Fumarate",
+        "question": "A 40 -year-old woman has relapsing/remitting multiple sclerosis. She has experienced two attacks of disease previously that have left her with residual lower extremity weakness. She was initially treated with glucocoicoids with some improvement in her symptoms. However, she is currently only able to walk with a rolling walker about 100 m. A prior antibody test shows that she is negative for reactivity to the JC virus. You are planning to sta a disease-modifying therapy. Which of the following drug that causes a maximum reduction in appearance of new lesions and change in disease severity?",
+        "exp": "Treatment of Multiple Sclerosis- Acute attack of optic neuritis = IV methylprednisolone Natalizumab: Highly effective in reducing attack rate Improves all measures of disease severity in MS. Once a month infusion- Inhibit binding of T lymphocyte to capillaries related to blood brain barrier- Damage to BBB is minimised S/E = JC virus (John Cunningham virus) activation leading to PMF Progressive multifocal leukoencephalopathy - worsening of neurological features. It is ideal for patient with JC virus negative are eligible to get Infusion of natalizumab. Ocrelizumab = acts by attacking mature B cell which express CD 20 Is allowed for management of P. P. M. S Drugs given in MS: HIGHLY EFFECTIVE Moderately effective -Natalizumab -Ocrelizumab -IFN ss -Glatiramer -Fingolimod -Dimethyl Fumarate",
         "cop": 1,
         "opa": "Natalizumab",
         "opb": "Glatiramer",
@@ -39,12 +39,12 @@
         "choice_type": "multi"
     },
     {
-        "question": "30 yr male was brought to hospital, complaining of seizures and MRI of the brain was done as shown below.What is the most probable diagnosis and management respectively?",
-        "exp": "Clinical and radiological findings suggest, most probable diagnosis is Neurocysticercosis Neurocysticercosis Caused by T.solium (Cysticercosis cellulosae). Rx: 1. Dexamethasone IV : decreases Cerebral edema Anaphylaxis risk 2. Albendazole 400 mg BD x 8 days. For focal seizures : Carbamazepine, Lamotrigine 3. Neurocysticercosis is 2nd MCC of intracranial space occupying lesion (ICSOL) Tubercular lesion Metastasis Brain Abscess",
+        "question": "30 yr male was brought to hospital, complaining of seizures and MRI of the brain was done as shown below. What is the most probable diagnosis and management respectively?",
+        "exp": "Clinical and radiological findings suggest, most probable diagnosis is Neurocysticercosis Neurocysticercosis Caused by T. solium (Cysticercosis cellulosae). Rx: 1. Dexamethasone IV: decreases Cerebral edema Anaphylaxis risk 2. Albendazole 400 mg BD x 8 days. For focal seizures: Carbamazepine, Lamotrigine 3. Neurocysticercosis is 2nd MCC of intracranial space occupying lesion (ICSOL) Tubercular lesion Metastasis Brain Abscess",
         "cop": 3,
-        "opa": "Metastasis , Radiotherapy",
+        "opa": "Metastasis, Radiotherapy",
         "opb": "Brain abscess, Antibiotic therapy",
-        "opc": "Neurocysticercosis , Albendazole",
+        "opc": "Neurocysticercosis, Albendazole",
         "opd": "Tuberculosis, ATT",
         "subject_name": "Medicine",
         "topic_name": "CNS",
@@ -53,7 +53,7 @@
     },
     {
         "question": "A 65 -year-old man with metastatic lung cancer sees his physician because of progressive dysahria. On examination, his tongue detes to left when he protrudes it. Which of the following structures is most likely to be damaged, assuming this is a lower motor neuron lesion?",
-        "exp": "Whenever there is LMN lesion of 12th nerve, tongue detes always on the same side i.e ipsilateral manifestation Medial Medullary syndrome there is ipsilateral detion of tongue d/t same side lesion of Hypoglossal nerve",
+        "exp": "Whenever there is LMN lesion of 12th nerve, tongue detes always on the same side i. e ipsilateral manifestation Medial Medullary syndrome there is ipsilateral detion of tongue d/t same side lesion of Hypoglossal nerve",
         "cop": 1,
         "opa": "Left Hypoglossal nerve",
         "opb": "Right Hypoglossal nerve",
@@ -104,7 +104,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following tests shall not be useful for diagnosis of patients of Ocular M.Gravis?",
+        "question": "Which of the following tests shall not be useful for diagnosis of patients of Ocular M. Gravis?",
         "exp": "Patients of ocular myasthenia gravis will have ocular symptoms in form of diplopia and ptosis. Hence CNS causes of oculomotor nerve compression must be ruled out using MRI head. Spirometry would not be useful as chest muscle weakness is a feature of generalised M. Gravis. Anti- MUSK antibody is found in cases of ocular MG. Ice pack test is a non- invasive test for diagnosis where application of ice pack to eyes reduces the ptosis and weakness.",
         "cop": 2,
         "opa": "MRI Brain",
@@ -131,7 +131,7 @@
     },
     {
         "question": "Which of the following best describes a patient with a classical migraine?",
-        "exp": "Choice A describes GIANT CELL AERITIS - Typical presenting symptoms include headache,Polymyalgia Rheumatica, jaw claudication,fever,Weight loss. Choice B describes CLUSTRE HEADACHE- The frequency is approximately 0.1%.The pain is deep, usually retroorbital,excruciating in intensity, nonfluctuating, explosive in quality. special features Periodicity -A core feature of cluster headache is periodicity. At least one of the daily attacks of pain recurs same hour each day for the duration of a cluster bout Parasympathetic autonomic activation -Cluster headache is associated with ipsilateral symptomsof cranial parasympathetic autonomic activation leading to conjunctival injection or lacrimation, rhinorrhea or nasal congestion, or cranial sympathetic dysfunction,such as ptosis. Choice C describes Ophthalmoplegic migraine choice D describes classical migraine DIAGNOSTIC CRITERIA FOR MIGRAINE Repeated attacks of headache lasting 4-72 hr in patients with a normal physical examination, no other reasonable cause for the headache, At least 2 of the following features: Plus at least 1 of following features: Unilateral pain Nausea/ vomiting Throbbing pain -Photophobia -Phonophobia Aggravation by movement Moderate or severe intensity",
+        "exp": "Choice A describes GIANT CELL AERITIS - Typical presenting symptoms include headache, Polymyalgia Rheumatica, jaw claudication, fever, Weight loss. Choice B describes CLUSTRE HEADACHE- The frequency is approximately 0. 1%. The pain is deep, usually retroorbital, excruciating in intensity, nonfluctuating, explosive in quality. special features Periodicity -A core feature of cluster headache is periodicity. At least one of the daily attacks of pain recurs same hour each day for the duration of a cluster bout Parasympathetic autonomic activation -Cluster headache is associated with ipsilateral symptomsof cranial parasympathetic autonomic activation leading to conjunctival injection or lacrimation, rhinorrhea or nasal congestion, or cranial sympathetic dysfunction, such as ptosis. Choice C describes Ophthalmoplegic migraine choice D describes classical migraine DIAGNOSTIC CRITERIA FOR MIGRAINE Repeated attacks of headache lasting 4-72 hr in patients with a normal physical examination, no other reasonable cause for the headache, At least 2 of the following features: Plus at least 1 of following features: Unilateral pain Nausea/ vomiting Throbbing pain -Photophobia -Phonophobia Aggravation by movement Moderate or severe intensity",
         "cop": 4,
         "opa": "A unilateral headache with unilateral visual loss and muscle aches",
         "opb": "Left a retro-orbital headache with rhinorrhoea and red eye",

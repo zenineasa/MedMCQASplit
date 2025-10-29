@@ -1,7 +1,7 @@
 [
     {
         "question": "How much time later should ROP screening be done for a 2 week old baby being treated in NICU for sepsis, who was born at 28 wk gestation?",
-        "exp": "First screening - carried out at 32 weeks of post menstrual age (PMA) or 4 weeks of postnatal age, whichever is later In the given scenario, baby is born at 28 week gestation, so 1st screening should be done at 4 weeks postnatal age i.e 32 weeks PMA As the baby is already 2 weeks old screening for ROP should be done 2 weeks later.",
+        "exp": "First screening - carried out at 32 weeks of post menstrual age (PMA) or 4 weeks of postnatal age, whichever is later In the given scenario, baby is born at 28 week gestation, so 1st screening should be done at 4 weeks postnatal age i. e 32 weeks PMA As the baby is already 2 weeks old screening for ROP should be done 2 weeks later.",
         "cop": 1,
         "opa": "2 weeks",
         "opb": "4 weeks",
@@ -14,7 +14,7 @@
     },
     {
         "question": "Sepsis screen includes all the following EXCEPT?",
-        "exp": "Sepsis screen includes Total leukocyte count (TLC) < 5000/mm3 Absolute Neutrophil count (ANC) < 1800/mm3 Immature to total neutrophil (IT) ratio > 0.2 Micro ESR > 15 mm in 1st hour C Reactive protein (CRP) positive: >1mg/dL If any 2 out of following 5 present, sepsis screen is said to be positive.",
+        "exp": "Sepsis screen includes Total leukocyte count (TLC) < 5000/mm3 Absolute Neutrophil count (ANC) < 1800/mm3 Immature to total neutrophil (IT) ratio > 0. 2 Micro ESR > 15 mm in 1st hour C Reactive protein (CRP) positive: >1mg/dL If any 2 out of following 5 present, sepsis screen is said to be positive.",
         "cop": 3,
         "opa": "Total leucocyte count",
         "opb": "Absolute neutrophil count",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Arrange the following steps of handwashing, before entering a NICU, in proper sequence:",
-        "exp": "Steps of handwashing : 1 - 4 - 3 - 2",
+        "exp": "Steps of handwashing: 1 - 4 - 3 - 2",
         "cop": 2,
         "opa": "1 - 2 - 3 - 4",
         "opb": "1 - 4 - 3 - 2",
@@ -52,8 +52,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A male baby born at term to O -ve mother with Coombs +ve at delivery.Baby weighed 3 kg at bih and haemoglobinis 16 g/dL and TSB is 5 mg/dL. He passed a black stools within the first 24 hours of life and his temp was 97.7degF. After 5 days, infant's weight reduced by 60 gm, his axillary temperature reduced to 95degFand he is jaundiced upto the chest. Parents also told about yellow, seedy stool. Lab investigations show hemoglobin is now 14.4 g/dL, and his TSB is 14 mg/dL. The change in which of the following parameters is of most concern for you as a paediatrician?",
-        "exp": "In a normal infant, Temperature should not change. Temperature instability in a term infant is frequently a sign of serious infection. There is loss of body weight of 1.5% to 2% per day initially in a normal newborn infant as excessive fluid is excreted. The hematocrit falls as an adaptation to an environment of higher oxygen. Infants usually have several meconium stools during the first day or two of life, changing to soft yellow stools after 1 to 2 days of life. As the hematocrit falls, there is a corresponding increase in serum bilirubin that peaks around 3 to 5 days of life.",
+        "question": "A male baby born at term to O -ve mother with Coombs +ve at delivery. Baby weighed 3 kg at bih and hemoglobinis 16 g/dL and TSB is 5 mg/dL. He passed a black stools within the first 24 hours of life and his temp was 97. 7degF. After 5 days, infant's weight reduced by 60 gm, his axillary temperature reduced to 95deg. Fand he is jaundiced upto the chest. Parents also told about yellow, seedy stool. Lab investigations show hemoglobin is now 14. 4 g/dL, and his TSB is 14 mg/dL. The change in which of the following parameters is of most concern for you as a paediatrician?",
+        "exp": "In a normal infant, Temperature should not change. Temperature instability in a term infant is frequently a sign of serious infection. There is loss of body weight of 1. 5% to 2% per day initially in a normal newborn infant as excessive fluid is excreted. The hematocrit falls as an adaptation to an environment of higher oxygen. Infants usually have several meconium stools during the first day or two of life, changing to soft yellow stools after 1 to 2 days of life. As the hematocrit falls, there is a corresponding increase in serum bilirubin that peaks around 3 to 5 days of life.",
         "cop": 2,
         "opa": "Hemoglobin",
         "opb": "Temperature",
@@ -70,7 +70,7 @@
         "cop": 1,
         "opa": "Blood culture",
         "opb": "Urine culture",
-        "opc": "Immature:Total neutrophil ratio",
+        "opc": "Immature: Total neutrophil ratio",
         "opd": "Sepsis screen",
         "subject_name": "Pediatrics",
         "topic_name": "Neonatal sepsis",

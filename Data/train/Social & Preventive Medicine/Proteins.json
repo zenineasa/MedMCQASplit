@@ -1,7 +1,7 @@
 [
     {
         "question": "Cereals are deficient in?",
-        "exp": "ANSWER: (B) LysineREF: Park 20th edition page 542Cereals are deficient in essential amino acid lysine, maize also being deficient in tryptophan.",
+        "exp": "ANSWER: (B) Lysine. REF: Park 20th edition page 542. Cereals are deficient in essential amino acid lysine, maize also being deficient in tryptophan.",
         "cop": 2,
         "opa": "Alanine",
         "opb": "Lysine",
@@ -14,7 +14,7 @@
     },
     {
         "question": "Which amino acid is deficient in pulses:",
-        "exp": "Ans. (c) MethionineRef K. Park 23rded. i628* Pulses protein are poor in methionine and to a lesser extent in cysteine.* Since option C and D both are correct, we have to choose single best answer and that will be Methionine. Literatures clearly states that cysteine is deficient only up to a lesser extent.",
+        "exp": "Ans. (c) Methionine. Ref K. Park 23rded. i628* Pulses protein are poor in methionine and to a lesser extent in cysteine.* Since option C and D both are correct, we have to choose single best answer and that will be Methionine. Literatures clearly states that cysteine is deficient only up to a lesser extent.",
         "cop": 3,
         "opa": "Lysine",
         "opb": "Threonine",
@@ -27,7 +27,7 @@
     },
     {
         "question": "All are features of kwashiorkor EXCEPT:",
-        "exp": "Ans. (c) Increase appetiteRef : K. Park 23rd ed. / 639-40Features of Kwashiorkor and MarasmusFeaturesMarasmusKwashiorkorMuscle wastingObviousHidden by fat and edemaEdemaNonePresent in lower legs and faceMental changesQuiet and apathicIrritable, Moaning and apathicWeightVery lowLow to NormalAppetiteGoodPoorHepatomegalyNonePresent, due to fat depositionHair changesSeldomSparse, silky'flag sign\"",
+        "exp": "Ans. (c) Increase appetite. Ref: K. Park 23rd ed. / 639-40. Features of Kwashiorkor and Marasmus. Features. Marasmus. Kwashiorkor. Muscle wasting. Obvious. Hidden by fat and edema. Edema. None. Present in lower legs and face. Mental changes. Quiet and apathic. Irritable, Moaning and apathic. Weight. Very low. Low to Normal. Appetite. Good. Poor. Hepatomegaly. None. Present, due to fat deposition. Hair changes. Seldom. Sparse, silky'flag sign\"",
         "cop": 3,
         "opa": "Irritability",
         "opb": "Edema in lower limb",
@@ -53,7 +53,7 @@
     },
     {
         "question": "Protein daily requirement is:",
-        "exp": "Ans. (a) lgm/kgRef: K. Park 21sted. 1563* According to Indian medical council recommendation the daily protein requirement is lgm/kg body weight.* Assessment of protein nutritional status is done by: arm muscle circumference, the creatinine-height index, serum albumin and transferrin, total body nitrogen etc.* BEST MEASURE of the state of protein nutrition is: SERUM ALBUMIN CONCENTRATION (should be more than 3.5gm/dl)",
+        "exp": "Ans. (a) lgm/kg. Ref: K. Park 21sted. 1563* According to Indian medical council recommendation the daily protein requirement is lgm/kg body weight.* Assessment of protein nutritional status is done by: arm muscle circumference, the creatinine-height index, serum albumin and transferrin, total body nitrogen etc.* BEST MEASURE of the state of protein nutrition is: SERUM ALBUMIN CONCENTRATION (should be more than 3. 5gm/dl)",
         "cop": 1,
         "opa": "lgm/kg",
         "opb": "2gm/kg",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Limiting amino acid in wheat-",
-        "exp": "Ans. is 'c' i.e., Lysine Amongst cerealso Highest protein content-Wheato Highest fat content-Maizeo Highest carbohydrate-Riceo Highest vitamin B complex-Maizeo Limiting amino acids in wheat - Lysine & threonineo Limiting amino acids in maize - Tryptophan & lysineo Maize contains excessive leucine which is pellagrogenic as it interferes conversion of tryptophan into niacin.",
+        "exp": "Ans. is 'c' i. e., Lysine Amongst cerealso Highest protein content-Wheato Highest fat content-Maizeo Highest carbohydrate-Riceo Highest vitamin B complex-Maizeo Limiting amino acids in wheat - Lysine & threonineo Limiting amino acids in maize - Tryptophan & lysineo Maize contains excessive leucine which is pellagrogenic as it interferes conversion of tryptophan into niacin.",
         "cop": 3,
         "opa": "Methionine",
         "opb": "Tryptophan",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Protein requirement in adult male -",
-        "exp": "Ans. is 'b' i.e., I gm/kg/day Recommended protein allowancesGroupParticulars(g / kg / day)Man(60 kg)sedentaty workmoderate workheavy work1Woman(55 kg)sedentary workmoderate workheavy work1Infants0 to 3 months3 to 6 months6 to 9 months9 to 12 months1.161.161.691.69Children1 to 3 years4 to 6 years7 to 9 years1.31.121.18AdolescentsMales 10 to 12 years13 to 15 years16 to 18 yearsFemales10 to 12 years13 to 15 years16 to 18 years1.161.141.11 1.151.111.06",
+        "exp": "Ans. is 'b' i. e., I gm/kg/day Recommended protein allowances. Group. Particulars(g / kg / day). Man(60 kg)sedentaty workmoderate workheavy work1. Woman(55 kg)sedentary workmoderate workheavy work1. Infants0 to 3 months3 to 6 months6 to 9 months9 to 12 months1. 161. 161. 691. 69. Children1 to 3 years4 to 6 years7 to 9 years1. 31. 121. 18. Adolescents. Males 10 to 12 years13 to 15 years16 to 18 years. Females10 to 12 years13 to 15 years16 to 18 years1. 161. 141. 11 1. 151. 111. 06",
         "cop": 2,
         "opa": "0-5 gm/kg/day",
         "opb": "1 gm/kg/day",
@@ -92,7 +92,7 @@
     },
     {
         "question": "The limiting amino acid in Bengal gram is:",
-        "exp": "Ans: A (Methionine) Ref: Park 22nd edition pg 564Explanation:Cereals lack lysine and pulses lack methionine.These are called the limiting amino acid. A food containing both pulses and cereals would be complete food, as the deficiency of lysine in cereals is supplemented by the lysine in pulses.Also methionine is compensated by the cereals.Tills is called the supplementary action of protein.",
+        "exp": "Ans: A (Methionine) Ref: Park 22nd edition pg 564. Explanation: Cereals lack lysine and pulses lack methionine. These are called the limiting amino acid. A food containing both pulses and cereals would be complete food, as the deficiency of lysine in cereals is supplemented by the lysine in pulses. Also methionine is compensated by the cereals. Tills is called the supplementary action of protein.",
         "cop": 1,
         "opa": "Methionine",
         "opb": "Lysine",
@@ -105,7 +105,7 @@
     },
     {
         "question": "Methionine is a limiting amino acid in:",
-        "exp": "Ans. (d) PulsesRef: K. Park 23rded. /628* Pulses contain 20-25% of protein, which is considered more than eggs, fish, meat products. However the quality of protein in pulses is inferior to that of meat products.* Soyabean contains 40% of protein* Pulses protein are poor in methionine and to a lesser extent in cysteine.* Amino acid rich in pulses: LysineAlso KnowFOOD PRODUCTS AND THEIR LIMITING AMINO ACIDFood ItemLimiting Amino AcidsPulsesMethionine & CysteineCerealsThreonine & LysineMaizeTryptophan & Lysine",
+        "exp": "Ans. (d) Pulses. Ref: K. Park 23rded. /628* Pulses contain 20-25% of protein, which is considered more than eggs, fish, meat products. However the quality of protein in pulses is inferior to that of meat products.* Soyabean contains 40% of protein* Pulses protein are poor in methionine and to a lesser extent in cysteine.* Amino acid rich in pulses: Lysine. Also Know. FOOD PRODUCTS AND THEIR LIMITING AMINO ACIDFood Item. Limiting Amino Acids. Pulses. Methionine & Cysteine. Cereals. Threonine & Lysine. Maize. Tryptophan & Lysine",
         "cop": 4,
         "opa": "Cereals",
         "opb": "Maize",
@@ -118,7 +118,7 @@
     },
     {
         "question": "Staple food as maize causes?",
-        "exp": "ANSWER: (D) PellagraREF: Harper 27th ed chapter 29, Parks 22 ed page 574Also see tryptophan metabolism in Biochemistry 2014 Session 1Maize is deficient is Tryptophan which is required for Niacin biosynthesis. Niacin deficiency causes pellagraFood rich in niacin and/or tryptophan are liver Kidney meat, poultry, fish Legumes and groundnut. Milk is a poor Source of niacin but its proteins are rich in tryptophan which is converted in the body into niacin (about 60 mg of tryptophan is required to result in 1 mg of niacin). In many cereals, especially maize, niacin occurs in \"bound\" form unavailable to the consumer.While pellagra is historically a disease of the maize eating population it was reported in India in the Telangana area of Andhra Pradesh in some segments of the population eating another cereal that is jowar (Sorghum vulgare).",
+        "exp": "ANSWER: (D) Pellagra. REF: Harper 27th ed chapter 29, Parks 22 ed page 574. Also see tryptophan metabolism in Biochemistry 2014 Session 1. Maize is deficient is Tryptophan which is required for Niacin biosynthesis. Niacin deficiency causes pellagra. Food rich in niacin and/or tryptophan are liver Kidney meat, poultry, fish Legumes and groundnut. Milk is a poor Source of niacin but its proteins are rich in tryptophan which is converted in the body into niacin (about 60 mg of tryptophan is required to result in 1 mg of niacin). In many cereals, especially maize, niacin occurs in \"bound\" form unavailable to the consumer. While pellagra is historically a disease of the maize eating population it was reported in India in the Telangana area of Andhra Pradesh in some segments of the population eating another cereal that is jowar (Sorghum vulgare).",
         "cop": 4,
         "opa": "Xerophthalima",
         "opb": "Scurvy",
@@ -131,9 +131,9 @@
     },
     {
         "question": "RDA of protein in adult male -",
-        "exp": "Ans. is 'b' i.e., 1 g/kg [Ref: Park 23rd/e p. 636 & 21st/e p. 588; style=\"font-size: 1.04761904761905em; font-weight: bold; text-decoration: underline; font-style: italic; font-family: Times New Roman, Times, serif; margin: 0; text-align: center\">Recommended protein allowancesGroupParticulars(g / kg / day)Man(60 kg)sedentaty workmoderate workheavy work1Woman(55 kg)sedentary workmoderate workheavy work1Infants0 to 3 months3 to 6 months6 to 9 months9 to 12 months1.161.161.691.69Children1 to 3 years4 to 6 years7 to 9 years1.31.121.18AdolescentsMales 10 to 12 years13 to 15 years16 to 18 yearsFemales10 to 12 years13 to 15 years16 to 18 years1.161.141.11 1.151.111.06",
+        "exp": "Ans. is 'b' i. e., 1 g/kg [Ref: Park 23rd/e p. 636 & 21st/e p. 588; style=\"font-size: 1. 04761904761905em; font-weight: bold; text-decoration: underline; font-style: italic; font-family: Times New Roman, Times, serif; margin: 0; text-align: center\">Recommended protein allowances. Group. Particulars(g / kg / day). Man(60 kg)sedentaty workmoderate workheavy work1. Woman(55 kg)sedentary workmoderate workheavy work1. Infants0 to 3 months3 to 6 months6 to 9 months9 to 12 months1. 161. 161. 691. 69. Children1 to 3 years4 to 6 years7 to 9 years1. 31. 121. 18. Adolescents. Males 10 to 12 years13 to 15 years16 to 18 years. Females10 to 12 years13 to 15 years16 to 18 years1. 161. 141. 11 1. 151. 111. 06",
         "cop": 2,
-        "opa": "0.5 g/kg",
+        "opa": "0. 5 g/kg",
         "opb": "1 g/kg",
         "opc": "2 g/kg",
         "opd": "3 g/kg",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Pulses are deficient in which amino acid -",
-        "exp": "Ans. is 'a' i.e., Methionine Food itemLimiting Amino Acids(s)CerealsThreonine (& Lysine)PulsesMethionine (& Cysteine)MaizeTryptophan (& Lysine)",
+        "exp": "Ans. is 'a' i. e., Methionine Food item. Limiting Amino Acids(s). Cereals. Threonine (& Lysine). Pulses. Methionine (& Cysteine). Maize. Tryptophan (& Lysine)",
         "cop": 1,
         "opa": "Methionine",
         "opb": "Lysine",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Best assessment of protein quality is done through:",
-        "exp": "Ref: Park s Textbook of Preventive and Social Medicine, 22nd edition. Page 588Explanation:Protein Energy Ratio (PER)It assesses the quantity of protein rather than quality.Its percentage of energy provided by protein in diet.PER = Energy from Protein/Total Energy in DietNet Protein Utilization (NPU)The best measure as it uses both biological value (PBV) and digestibility co-efficient (DC).It is measure of protein retained out of consumed.It is product of PBV and DC divided by 100.Protein requirement inversely proportional to NPU of protein.NPU of average Indian diet is assumed to be 65(50-80).NPU of common food items:o Egg - 100.o Pulses - 65o Meat-80o Milk-75.NPU = Digestibility coefficient x Biological value / 100Digestibility Co-efficient (DC)It is percentage of protein that is absorbed from consumed.DC = Protein absorbed/Proiein Consumed x 100Biological Value (BV)BV of protein is percentage of protein that is utilized by body out of absorbed.BV- Protein utilized/Protein absorbed x 100Protein efficiency ratio = Weight gain per unit protein consumed.Amino acid score = mg of amino acid per gram of protein = mg of same amino acid per g of egg protein.",
+        "exp": "Ref: Park s Textbook of Preventive and Social Medicine, 22nd edition. Page 588. Explanation: Protein Energy Ratio (PER). It assesses the quantity of protein rather than quality. Its percentage of energy provided by protein in diet. PER = Energy from Protein/Total Energy in Diet. Net Protein Utilization (NPU). The best measure as it uses both biological value (PBV) and digestibility co-efficient (DC). It is measure of protein retained out of consumed. It is product of PBV and DC divided by 100. Protein requirement inversely proportional to NPU of protein. NPU of average Indian diet is assumed to be 65(50-80). NPU of common food items: o Egg - 100. o Pulses - 65o Meat-80o Milk-75. NPU = Digestibility coefficient x Biological value / 100. Digestibility Co-efficient (DC). It is percentage of protein that is absorbed from consumed. DC = Protein absorbed/Proiein Consumed x 100. Biological Value (BV)BV of protein is percentage of protein that is utilized by body out of absorbed. BV- Protein utilized/Protein absorbed x 100. Protein efficiency ratio = Weight gain per unit protein consumed. Amino acid score = mg of amino acid per gram of protein = mg of same amino acid per g of egg protein.",
         "cop": 1,
         "opa": "Net protein utilization",
         "opb": "Protein biological value",
@@ -170,7 +170,7 @@
     },
     {
         "question": "Protein content in F-75 milk formula -",
-        "exp": "Ans. is 4b' i.e., 0-9 gm per 100 ml Contents of F-75 milk based formulaContentQuantity (per 100 ml)Fresh Cow's milk30 mlSugar9 gmEnergy75 KcalProtein0-9 gmLactose1-2 gm",
+        "exp": "Ans. is 4b' i. e., 0-9 gm per 100 ml Contents of F-75 milk based formula. Content. Quantity (per 100 ml). Fresh Cow's milk30 ml. Sugar9 gm. Energy75 Kcal. Protein0-9 gm. Lactose1-2 gm",
         "cop": 2,
         "opa": "0-5 gm per 100 ml",
         "opb": "0-9 gm per 100 ml",
@@ -183,7 +183,7 @@
     },
     {
         "question": "Lysine is deficient in-",
-        "exp": "Ans. is 'b' i.e., Wheat If only one option is provided, the answer is wheat since rice has higher lysine content than wheat. Amino acid and tannin content in whole-grain cereals and tubers Food Lysine (g/16 g N) Threonine (g/16 g N) Methionine + cystine (g/16 g N) Tryptophan (g/16 g N) Amino acid scorea(%) Tannin(%) Brown rice 3.8 3.6 3.9 1.1 66 0.4 Wheat 2.3 2.8 3.6 1.0 40 0.4 Maize 2.5 3.2 3.9 0.6 43 0.4 Millet 2.7 3.2 3.6 1.3 47 0.6 Sorghum 2.7 3.3 2.8 1.0 47 1.6 Rye 3.7 3.3 3.7 1.0 64 0.6 Oats 4.0 3.6 4.8 0.9 69 1.1 Potato 6.3 4.1 3.6 1.7 100 Cassava 6.3 3.4 2.6 1.0 91 Yam 6.0 3.4 2.9 1.3 100",
+        "exp": "Ans. is 'b' i. e., Wheat If only one option is provided, the answer is wheat since rice has higher lysine content than wheat. Amino acid and tannin content in whole-grain cereals and tubers Food Lysine (g/16 g N) Threonine (g/16 g N) Methionine + cystine (g/16 g N) Tryptophan (g/16 g N) Amino acid scorea(%) Tannin(%) Brown rice 3. 8 3. 6 3. 9 1. 1 66 0. 4 Wheat 2. 3 2. 8 3. 6 1. 0 40 0. 4 Maize 2. 5 3. 2 3. 9 0. 6 43 0. 4 Millet 2. 7 3. 2 3. 6 1. 3 47 0. 6 Sorghum 2. 7 3. 3 2. 8 1. 0 47 1. 6 Rye 3. 7 3. 3 3. 7 1. 0 64 0. 6 Oats 4. 0 3. 6 4. 8 0. 9 69 1. 1 Potato 6. 3 4. 1 3. 6 1. 7 100 Cassava 6. 3 3. 4 2. 6 1. 0 91 Yam 6. 0 3. 4 2. 9 1. 3 100",
         "cop": 2,
         "opa": "Pulses",
         "opb": "Wheat",

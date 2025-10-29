@@ -14,7 +14,7 @@
     },
     {
         "question": "All of the following are true statements about Cockayne syndrome, EXCEPT",
-        "exp": "Cockayne syndrome: Defect in transcription coupled nucleotide excision repair. C/F : failure to thrive, microcephaly, hearing loss, nervous system anomalies, photosensitivity. Patients are not predisposed to cancer.",
+        "exp": "Cockayne syndrome: Defect in transcription coupled nucleotide excision repair. C/F: failure to thrive, microcephaly, hearing loss, nervous system anomalies, photosensitivity. Patients are not predisposed to cancer.",
         "cop": 3,
         "opa": "Defective transcription-coupled repair",
         "opb": "Photosensitivity",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Tell the bond (X, Y, Z) in the structure of DNA:",
-        "exp": "X is the bond between the two nitrogenous bases. This is hydrogen bond.There is double bond between A and T, triple bond between G and C. Y is the bond between nitrogenous base and sugar. This is beta-N glycosidic bond, which is a covalent bond. This bond is between C1 of sugar and N9 of purines and N1 of pyrimidines. Z is the bond between sugar and phosphate. This is 3' 5' phosphodiester bond.",
+        "exp": "X is the bond between the two nitrogenous bases. This is hydrogen bond. There is double bond between A and T, triple bond between G and C. Y is the bond between nitrogenous base and sugar. This is beta-N glycosidic bond, which is a covalent bond. This bond is between C1 of sugar and N9 of purines and N1 of pyrimidines. Z is the bond between sugar and phosphate. This is 3' 5' phosphodiester bond.",
         "cop": 1,
         "opa": "X-Hydrogen bond, Y-beta N glycosidic bond, Z-3' 5' phosphodiester bond",
         "opb": "X-Hydrogen bond, Y-beta O glycosidic bond, Z-2' 5' phosphodiester bond",
@@ -78,13 +78,13 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements is not true regarding 5' cap of mRNA :",
-        "exp": "Eukaryotic mRNA The 5' terminal is \"capped\" by a 7-methylguanosine triphosphate Linked to an adjacent 2'-O-methyl ribonucleoside at its 5'-hydroxyl through the three phosphates. Contain internal 6-methyladenine and 2'-O-ribose-methylated nucleotides. The cap is involved in : Recognition of mRNA by the translation machinery Stabilize the mRNA by preventing the nucleolytic attack by 5'-exonucleases. Post-transcriptional modification of mRNA include the 7-methylguanosine capping, splicing, and Polyadenylation forming Poly A tail 5' \"Capping\":This is the first of the processing reactions for pre mRNA. The cap is a 7-methylguanosine attached \"backward\" to the 5'-terminal end of the mRNA, forming an unusual 5'-5' triphosphate linkage. Poly-A tail is added after transcription by the nuclear enzyme, polyadenylate polymerase, using ATP as the substrate. These tails help stabilize the mRNA, facilitate its exit from the nucleus, and aid in translation. Maturation of eukaryotic mRNA usually involves the removal of introns & joining of exons together to form the mature mRNA. The process of removing introns and joining exons is called splicing. snRNA facilitates the removal of introns by forming base pairs with the consensus sequences at each end of the intron.",
+        "question": "Which of the following statements is not true regarding 5' cap of m. RNA:",
+        "exp": "Eukaryotic m. RNA The 5' terminal is \"capped\" by a 7-methylguanosine triphosphate Linked to an adjacent 2'-O-methyl ribonucleoside at its 5'-hydroxyl through the three phosphates. Contain internal 6-methyladenine and 2'-O-ribose-methylated nucleotides. The cap is involved in: Recognition of m. RNA by the translation machinery Stabilize the m. RNA by preventing the nucleolytic attack by 5'-exonucleases. Post-transcriptional modification of m. RNA include the 7-methylguanosine capping, splicing, and Polyadenylation forming Poly A tail 5' \"Capping\": This is the first of the processing reactions for pre m. RNA. The cap is a 7-methylguanosine attached \"backward\" to the 5'-terminal end of the m. RNA, forming an unusual 5'-5' triphosphate linkage. Poly-A tail is added after transcription by the nuclear enzyme, polyadenylate polymerase, using ATP as the substrate. These tails help stabilize the m. RNA, facilitate its exit from the nucleus, and aid in translation. Maturation of eukaryotic m. RNA usually involves the removal of introns & joining of exons together to form the mature m. RNA. The process of removing introns and joining exons is called splicing. sn. RNA facilitates the removal of introns by forming base pairs with the consensus sequences at each end of the intron.",
         "cop": 3,
-        "opa": "5' terminal of mRNA is capped by 7-methylguanosine triphosphate",
+        "opa": "5' terminal of m. RNA is capped by 7-methylguanosine triphosphate",
         "opb": "5' cap contains 2'-O-methyl ribonucleoside adjacent to it.",
-        "opc": "Cap is attached to the 5' end of mRNA through 5' to 3' phosphodiester bond.",
-        "opd": "7-methylguanosine is attached to mRNA through three intervening phosphate groups",
+        "opc": "Cap is attached to the 5' end of m. RNA through 5' to 3' phosphodiester bond.",
+        "opd": "7-methylguanosine is attached to m. RNA through three intervening phosphate groups",
         "subject_name": "Biochemistry",
         "topic_name": "Molecular Biology",
         "id": "e95afd3a-34e5-469a-b7ca-c67be0e7259a",
@@ -130,7 +130,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "Rate limiting enzyme of purine nucleotide synthesis is :",
+        "question": "Rate limiting enzyme of purine nucleotide synthesis is:",
         "exp": "Rate limiting enzyme of purine nucleotide synthesis is PRPP Glutamyl Amido-transferase(option d) Rate limiting enzyme of Purine Nucleotide Catabolism is Xanthine Oxidase (Option a) Hypoxanthine and Guanine Phospho Ribosyl Transferase (HGP) catalyzes the conversion of Guanine to GMP and Hypoxanthine to IMP in the presence of PRPP. (Option b) Adenosine deaminase (ADA) catalyzes the conversion of Adenosine to Inosine. (Option c)",
         "cop": 4,
         "opa": "Xanthine oxidase",
@@ -143,8 +143,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 4 year old girl presented to hospital with failure to thrive. Her peripheral blood smear showed megaloblastic anemia. Vitamin B12 & folate were given but anemia did not improve. Enzyme assay from the cultured PBMC showed deficiency of OP (Orotate Phospho Ribosyl Transferase). What could be the probable diagnosis ?",
-        "exp": "Orotic aciduria Due to deficiency of orotate phosphoribosyl transferase and OMP decarboxylase Leads to defect in DNA Synthesis Characterizedby : Excretion of orotic acid in urine, Severe anemia Megaloblastic Not improved with folate /vitamin B12/vitamin C Retarded growth Rx- Feeding diet rich in uridine / cytidine",
+        "question": "A 4 year old girl presented to hospital with failure to thrive. Her peripheral blood smear showed megaloblastic anemia. Vitamin B12 & folate were given but anemia did not improve. Enzyme assay from the cultured PBMC showed deficiency of OP (Orotate Phospho Ribosyl Transferase). What could be the probable diagnosis?",
+        "exp": "Orotic aciduria Due to deficiency of orotate phosphoribosyl transferase and OMP decarboxylase Leads to defect in DNA Synthesis Characterizedby: Excretion of orotic acid in urine, Severe anemia Megaloblastic Not improved with folate /vitamin B12/vitamin C Retarded growth Rx- Feeding diet rich in uridine / cytidine",
         "cop": 3,
         "opa": "Orotate deficiency",
         "opb": "Gout",
@@ -170,7 +170,7 @@
     },
     {
         "question": "Bacteria X has an adenine content of 33% in its genome. What is the expected thymine content in the genome of X?",
-        "exp": "Adenine= Thymine = 33% In a double stranded DNA, Chargaff's rule is followed Number of Purines = Number of pyrimidine = = = [?] Chargaff's rule is not applicable for RNA and ssDNA.",
+        "exp": "Adenine= Thymine = 33% In a double stranded DNA, Chargaff's rule is followed Number of Purines = Number of pyrimidine = = = [?] Chargaff's rule is not applicable for RNA and ss. DNA.",
         "cop": 2,
         "opa": "22%",
         "opb": "33%",
@@ -182,8 +182,8 @@
         "choice_type": "single"
     },
     {
-        "question": "In Eukaryotes, mRNA is produced by",
-        "exp": "There is only 1 RNA polymerase in prokaryotes. There are 3 eukaryotic RNA polymerases Type Location RNA transcribed Effect of a-amanitin I Nucleolous 18, 5.8, 28 rRNA Insensitive II Nucleoplasm mRNA, miRNA, snRNA Highly sensitive III Nucleoplasm tRNA, 5s rRNA , U6 snRNA Less sensitive",
+        "question": "In Eukaryotes, m. RNA is produced by",
+        "exp": "There is only 1 RNA polymerase in prokaryotes. There are 3 eukaryotic RNA polymerases Type Location RNA transcribed Effect of a-amanitin I Nucleolous 18, 5. 8, 28 r. RNA Insensitive II Nucleoplasm m. RNA, mi. RNA, sn. RNA Highly sensitive III Nucleoplasm t. RNA, 5s r. RNA, U6 sn. RNA Less sensitive",
         "cop": 2,
         "opa": "RNA Polymerase I",
         "opb": "RNA Polymerase II",

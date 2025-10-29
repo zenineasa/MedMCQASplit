@@ -1,5 +1,18 @@
 [
     {
+        "question": "Which of the following is a non-Iodine containing contrast?",
+        "exp": "Ans. a. Gadolinium (Ref: Grainger 5/e p32-51, 1249-1253; Sutton 7/e p419-421; Wolfgang 7/e p1147). Gadolinium is a non-iodine containing contrast. \"Gadolinium is a lanthanide. Gd-DTPA is classified as an acyclic, ionic gadolinium contrast medium Its paramagnetic property reduces the T1 relaxation time. Gadolinium based agents may cause a toxic reaction known as nephrogenic systemic fibrosis (NSF) in patients with severe kidney problems. \"Contrast used in. CT scan. MRIlodinated. QParamagnetic (non-iodinated): GadoliniumQ Contrast Agents. Ionic Contrast Agents. Nonionic Contrast Agents* Ionic contrast agents ionize in water in 2 ions per molecule* All monomers contain 1 benzene ring with 3 iodine atoms and dimers contain 2 benzene rings with 6 iodine atoms per molecule.* Therefore ionic monomers have 3 iodine atoms per 2 ionic/ osmotic particles in solutionQ and a contrast agent ratio of 3: 2 (i. e. 1. 5).* And ionic dimers have 6 iodine atoms per 2 ionic /osmotic particles in solution with a contrast agent ratio of 6: 2 or 3: 1.* Nonionic agents do not ionize so they have only 1 osmotic particle per molecule.* And similarly monomers contain 3 iodine atom and dimers contain 6 iodine atoms per molecule of contrast agent* Therefore contrast agent ratio of non ionic monomers is 3: 1 and nonionic dimers are 6: 1. High Osmolar Contrast Agents (HOCM). Low Osmolar Contrast Agents (LOCM)* HOCM are all ionic monomersQ* HOCM have osmolality in range of 1500 mosmols/kg water at concentrations of 300 mg lodine/ml.* Osmolality is proportional to the ratio of iodine atoms to the number of particles in solution.* The contrast agents with lower ratio (3: 2) are HOCM and they have more particles in solution per iodine atom.* LOCM may be ionic dimers, and nonionic monomers or dimers (i. e. both ionic and nonionic)Q.* LOCM osmolality is less than half of the osmolality of HOCM.* As compared to physiological osmolality of 300 mosmols/kg water, non-ionic dimers are physiologically isotonic in solution at 300 mg lodine/ml.* Lowest osmolality/osmolarity is seen in non-ionic dimer agents, which becomes almost physiologically isotonic or iso-osmolarQ (visipaque 320 is 290 mosmol/kg and isovist 300 is 320 mosmol/kg H2O: 320 and 300 are iodine concentrations).* Agents with higher ratio (3: 1 or 6: 2 and 6: 1) are LOCM.* lohexol (omnipaque) is a nonionic monomer (LOCM with 3: 1 ratio). Qlodinated contrast agentslodinated contrast agents have low lipid solubility, low toxicity, low binding affinities for protein, receptor or membranes, low molecular weight and are very hydrophilic. On IV injection due to high capillary permeability they all are distributed rapidly into extravascular, extracellular interstitial space (except in CNS)Q but do not enter blood or tissue cells. Pharmacokinetics of all extracellular MRI contrast agents (all gadolinium except Gd-BOPTA) are similar to iodinated water soluble contrast media. They do not cross the blood brain barrier unless the barrier is disruptedQ. These agents accumulate in tissues with abnormal vascularity (inflammation and malignancy) and in regions where BBB is disrupted. Contrast enhanced CT scans use intravenous injection of iodinated contrast mediumQ contrast enhanced MRI use non iodinated contrast medium containing paramagnetic metal ions gadolinium (Gd3+), Copper (Cu2+) or manganese (Mn2+)Q. Gd is the most powerful (with 7 unpaired electrons) but unfortunately most toxic of these ions and therefore it is necessary to encapsulate it by a chelate such as DTPA (diethylene triamine pentaacetic acid salt) forming Gd-DTPA. Paramagnetic agents are mainly positive enhancers that reduce the T1 and T2 relaxation times, increase tissue signal intensity on T1 weighted images and almost have no effect on T2 weighted MR images.",
+        "cop": 1,
+        "opa": "Gadolinium",
+        "opb": "Visipaque",
+        "opc": "lopamidol",
+        "opd": "Diatrozoate",
+        "subject_name": "Radiology",
+        "topic_name": "Contrast agents",
+        "id": "2d2b4ff8-7f6c-4eed-86ff-cdc42586d0c2",
+        "choice_type": "single"
+    },
+    {
         "question": "Which of the following is Iso-osmolar agent?",
         "exp": "- Ionic Monomer - High osmolality contrast media - Ionic Dimer - Low osmolality contrast media - Non-ionic Monomer - Low osmolality contrast media - Non-ionic Dimer - Iso osmolality contrast media",
         "cop": 4,
@@ -13,8 +26,8 @@
         "choice_type": "single"
     },
     {
-        "question": "The Iodine:Paicle ratio is maximum for",
-        "exp": "-Iodine Paicle Ratio of Ionic Monomer - 3:2 - Ratio of Ionic Dimer - 6:2 - Ratio of Non-ionic Monomer - 3:1 - Ratio for Non-ionic Dimer is - 6:1",
+        "question": "The Iodine: Paicle ratio is maximum for",
+        "exp": "-Iodine Paicle Ratio of Ionic Monomer - 3: 2 - Ratio of Ionic Dimer - 6: 2 - Ratio of Non-ionic Monomer - 3: 1 - Ratio for Non-ionic Dimer is - 6: 1",
         "cop": 3,
         "opa": "Ionic monomers",
         "opb": "Ionic dimers",
@@ -27,11 +40,11 @@
     },
     {
         "question": "Contrast induced nephropathy defined as:",
-        "exp": "Contrast Induced nephropathy: Rise in Serum Creatinine by 0.5 mg in 48 hours or 25% from baseline within 48-72 hours from IV Contrast. Most impoant step in Management of Contrast Induced nephropathy: HYDRATION.",
+        "exp": "Contrast Induced nephropathy: Rise in Serum Creatinine by 0. 5 mg in 48 hours or 25% from baseline within 48-72 hours from IV Contrast. Most impoant step in Management of Contrast Induced nephropathy: HYDRATION.",
         "cop": 1,
-        "opa": "Rise in Serum Creatinine by 0.5 mg in 48 hours",
+        "opa": "Rise in Serum Creatinine by 0. 5 mg in 48 hours",
         "opb": "Rise in Serum Creatinine by 1 mg in 48 hours",
-        "opc": "Rise in Serum Creatinine by 1.5 mg in 48 hours",
+        "opc": "Rise in Serum Creatinine by 1. 5 mg in 48 hours",
         "opd": "Rise in Serum Creatinine by 2 mg in 48 hours",
         "subject_name": "Radiology",
         "topic_name": "Contrast Agents",
@@ -94,10 +107,10 @@
         "question": "Iodine paicle ratio for Ionic dimer is",
         "exp": "Iodine paicles ratio: I: P Ionic monomer 3: 2 High osmolar Low Osmolar Ionic dimer 6: 2 Nonionic monomer 3: 1 Low osmolar Non-ionic dimer 6: 1 Iso-osmolar to plasma(290-300mosm)",
         "cop": 3,
-        "opa": "6:01",
-        "opb": "3:02",
-        "opc": "6:02",
-        "opd": "2:06",
+        "opa": "6: 01",
+        "opb": "3: 02",
+        "opc": "6: 02",
+        "opd": "2: 06",
         "subject_name": "Radiology",
         "topic_name": "Contrast Agents",
         "id": "8f47b7ef-9bb9-46d9-8957-e5e89766d1ac",
@@ -105,7 +118,7 @@
     },
     {
         "question": "Which is Less nephrotoxic?",
-        "exp": "Contrast Agents with High Iodine:paicle ratio tends to be less nephrotoxic Iodixanol is Isoosmolar contrast agent , Nonionic Dimer with Iodine :Paicle Ratio of 6:1 and tends to be less nephrotoxic than the other iodinated compounds given here Contrast-induced nephropathy (CIN) Classically defined as a serum creatinine increase of at least 25% or an absolute increase in serum creatinine of 0.5mg/dL after using iodine contrast agent without another clear cause for acute kidney injury within 48-72hrs of Intravenous contrast Markers of CIN Serum Cystatin C levels Neutrophil Gelatinase associated lipocalcin(NAGL) eGFR<60ml/min For prevention- Maintain Hydration",
+        "exp": "Contrast Agents with High Iodine: paicle ratio tends to be less nephrotoxic Iodixanol is Isoosmolar contrast agent, Nonionic Dimer with Iodine: Paicle Ratio of 6: 1 and tends to be less nephrotoxic than the other iodinated compounds given here Contrast-induced nephropathy (CIN) Classically defined as a serum creatinine increase of at least 25% or an absolute increase in serum creatinine of 0. 5mg/dL after using iodine contrast agent without another clear cause for acute kidney injury within 48-72hrs of Intravenous contrast Markers of CIN Serum Cystatin C levels Neutrophil Gelatinase associated lipocalcin(NAGL) e. GFR<60ml/min For prevention- Maintain Hydration",
         "cop": 1,
         "opa": "Iodixanol",
         "opb": "Diatrizoate",
@@ -131,10 +144,10 @@
     },
     {
         "question": "Which of the following investigation must be performed before giving contrast to the patient?",
-        "exp": "K.F.T is performed before giving contrast,as iodinated contrast agents and Gadolinium can be nephrotoxic so avoided in patients with elevated serum creatinine levels L.F.T is not done because all contrast agents are excreted kidney except USG contrast which is excreted by lungs. Urine specific gravity and serum electrolytes has no role in prediction of contrast induced Nephropathy.",
+        "exp": "K. F. T is performed before giving contrast, as iodinated contrast agents and Gadolinium can be nephrotoxic so avoided in patients with elevated serum creatinine levels L. F. T is not done because all contrast agents are excreted kidney except USG contrast which is excreted by lungs. Urine specific gravity and serum electrolytes has no role in prediction of contrast induced Nephropathy.",
         "cop": 1,
-        "opa": "K.F.T",
-        "opb": "L.F.T",
+        "opa": "K. F. T",
+        "opb": "L. F. T",
         "opc": "Urine specific gravity",
         "opd": "Serum electrolytes",
         "subject_name": "Radiology",
@@ -154,5 +167,18 @@
         "topic_name": "Contrast Agents",
         "id": "6d452dcf-a44a-41f5-b116-d53f0a3e5488",
         "choice_type": "single"
+    },
+    {
+        "question": "Radiocontrast is contraindicated in all except-",
+        "exp": "Ans. is 'd' i. e., Obesity o Renal failure and dehydration are risk factors for contrast induced nephropathy. Metformin causes increase risk of developing contrast induced nephropathy and subsequent lactic acidosis \"___Genitourinary' radiology. Adverse reactions to radiocontrast agentso Two important reactions to radiocontrast agents are: -Acute non-renal adverse reaction These may be of two types: -Allergic/Anaphylactic: Non IgE mediated anaphylactic reaction e. g., Tachycardia with hypotension, urticaria, and bronchospasm. Vasomotor/vasovagal reaction: e. g.. Bradycardia. Renal reaction: Contrast induced nephropathy: - Contrast media are excreted by Kidney and contrast media can precipitate renal failure. The risk factors for contrast induced nephropathy are# Renal insufficiency# Nephrotic syndrome# Transplanted kidney# Diabetes# Concomitant hypotension# Hyperuricemia# Old age# Medications (NSAIDs, aminoglycoside)# Proteinuria# Dehydration# Hypertension# Anemia# Patient on metformin",
+        "cop": 4,
+        "opa": "Renal failure",
+        "opb": "Patient on metformin",
+        "opc": "Dehydration",
+        "opd": "Obesity",
+        "subject_name": "Radiology",
+        "topic_name": "Contrast agents",
+        "id": "7a734608-5398-4531-b9ff-ae3e9d3cf273",
+        "choice_type": "multi"
     }
 ]

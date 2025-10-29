@@ -1,7 +1,7 @@
 [
     {
         "question": "Which of the following is not a step of b-oxidation?",
-        "exp": "4 repetitive steps of fatty acid oxidation : 1. FAD dependent oxidation 2. Hydration 3. NAD dependent oxidation 4. Thiolysis It is NAD dependent oxidation, not NADP dependent",
+        "exp": "4 repetitive steps of fatty acid oxidation: 1. FAD dependent oxidation 2. Hydration 3. NAD dependent oxidation 4. Thiolysis It is NAD dependent oxidation, not NADP dependent",
         "cop": 1,
         "opa": "NADP dependent oxidation",
         "opb": "FAD dependent oxidation",
@@ -14,7 +14,7 @@
     },
     {
         "question": "Major end product of beta oxidation of odd chain fatty acids:",
-        "exp": "Odd chain fatty acid on beta-oxidation Give many Acetyl CoA (released at every step) and only 1 Propionyl CoA. In 17 C fatty acid ( odd chain ) , when it's broken down , 7 molecules of acetyl CoA ( 14 C)and 1 molecule of propionyl CoA (3C) are obtained So, major end product is Acetyl CoA whereas Propionyl CoA is a minor end product.",
+        "exp": "Odd chain fatty acid on beta-oxidation Give many Acetyl CoA (released at every step) and only 1 Propionyl CoA. In 17 C fatty acid ( odd chain ), when it's broken down, 7 molecules of acetyl CoA ( 14 C)and 1 molecule of propionyl CoA (3C) are obtained So, major end product is Acetyl CoA whereas Propionyl CoA is a minor end product.",
         "cop": 3,
         "opa": "Propionyl CoA",
         "opb": "Succinyl CoA",
@@ -53,9 +53,9 @@
     },
     {
         "question": "Beta Oxidation in Peroxisome generates:",
-        "exp": "Beta oxidation In mitochondria. FADH2 and NADH are produced In peroxisomes Acetyl CoA and H2O2are produced",
+        "exp": "Beta oxidation In mitochondria. FADH2 and NADH are produced In peroxisomes Acetyl CoA and H2. O2are produced",
         "cop": 1,
-        "opa": "H2O2",
+        "opa": "H2. O2",
         "opb": "NADPH",
         "opc": "Long Chain fatty acid",
         "opd": "FADH2",
@@ -66,7 +66,7 @@
     },
     {
         "question": "In beta oxidation of palmitic acid if final product is acetoacetate then net gain of ATP is:",
-        "exp": "Palmitic acid (16 carbons) For Palmitic acid complete oxidation, we require 7 beta oxidation cycles and 8 rounds of kreb cycle from 8 acetyl CoAs 1 beta oxidation cycle produce 4 ATP One kreb cycle from 1 Acetyl CoA produce 10 ATP after ETC. So Total ATP from complete oxidation of Palmitic Acid under normal conditions 7 x4 = 28 (beta oxidation) 8x10=80 (kreb cycle + ETC) Total 108 ATP 2 ATP require for fatty acid activation Net ATP =108-2 = 106 But the question asks about if all acetyl-CoA produced from beta oxidation is conveed to acetoacetate instead of undergoing TCA cycle then what will be ATP yield? If the final product is acetoacetate, then it will not be used in kreb cycle so 80 ATP from Kreb cycle will not be formed. Instead the acetaoacetate will form ketone bodies. Hence only beta oxidation ATP will produce 28 ATPs from 7 cycles. So net ATP will be = 28 - 2 = 26 ATP (2 ATP required for activation of fatty acid)",
+        "exp": "Palmitic acid (16 carbons) For Palmitic acid complete oxidation, we require 7 beta oxidation cycles and 8 rounds of kreb cycle from 8 acetyl Co. As 1 beta oxidation cycle produce 4 ATP One kreb cycle from 1 Acetyl CoA produce 10 ATP after ETC. So Total ATP from complete oxidation of Palmitic Acid under normal conditions 7 x4 = 28 (beta oxidation) 8x10=80 (kreb cycle + ETC) Total 108 ATP 2 ATP require for fatty acid activation Net ATP =108-2 = 106 But the question asks about if all acetyl-CoA produced from beta oxidation is conveed to acetoacetate instead of undergoing TCA cycle then what will be ATP yield? If the final product is acetoacetate, then it will not be used in kreb cycle so 80 ATP from Kreb cycle will not be formed. Instead the acetaoacetate will form ketone bodies. Hence only beta oxidation ATP will produce 28 ATPs from 7 cycles. So net ATP will be = 28 - 2 = 26 ATP (2 ATP required for activation of fatty acid)",
         "cop": 2,
         "opa": "21",
         "opb": "26",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Staing point of ketone body synthesis -",
-        "exp": "The staing point of ketone body synthesis is Acetyl CoA. Acetyl CoA gets conveed to ketone bodies. But Acetyl CoA cannot be conveed to glucose. It only activates gluconeogenesis. Reasons of K.B. Synthesis: | Lipolysis | Acetyl CoA or | OAA (Oxaloacetate)",
+        "exp": "The staing point of ketone body synthesis is Acetyl CoA. Acetyl CoA gets conveed to ketone bodies. But Acetyl CoA cannot be conveed to glucose. It only activates gluconeogenesis. Reasons of K. B. Synthesis: | Lipolysis | Acetyl CoA or | OAA (Oxaloacetate)",
         "cop": 1,
         "opa": "Acetyl CoA",
         "opb": "Acetoacetate",

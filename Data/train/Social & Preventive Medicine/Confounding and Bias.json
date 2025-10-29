@@ -1,7 +1,7 @@
 [
     {
         "question": "In a double blind clinical drug trial -",
-        "exp": "DOUBLE BLINDING: In a double-blind trial, the patients as well as the investigator are blinded i.e. they don't know who is receiving the study drug and who is receiving placebo. It removes subject & investigator bias. MC binding seen. OTHER TYPES OF BLINDING: Single blinding : Subjects are not aware of treatment. Used to remove subject bias. Triple binding : Subject, investigator & analyzer are not aware of treatment. Removes subject, investigator & analyzer bias. It is best blinding. Open study : Complete absence of blinding.",
+        "exp": "DOUBLE BLINDING: In a double-blind trial, the patients as well as the investigator are blinded i. e. they don't know who is receiving the study drug and who is receiving placebo. It removes subject & investigator bias. MC binding seen. OTHER TYPES OF BLINDING: Single blinding: Subjects are not aware of treatment. Used to remove subject bias. Triple binding: Subject, investigator & analyzer are not aware of treatment. Removes subject, investigator & analyzer bias. It is best blinding. Open study: Complete absence of blinding.",
         "cop": 3,
         "opa": "Each patient receives a placebo",
         "opb": "Each patient receives both (double) treatment",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Allowing equal interview time to cases and controls can reduce which of the following bias?",
-        "exp": "Bias: - Type of systematic error. - Subject bias - Recall bias ; Hawthorn bias . - Investigatory bias: Interviewer bias, selection bias, misclassification bias. Allowing equal time for interview can take care of interviewer bias to some extent. Interviewer bias happens in case-control studies where the interviewer knows about the disease status of the person and probes more for exposure amongst cases as compared to controls. - Analyzer bias : Calculation bias - not seen now a days.",
+        "exp": "Bias: - Type of systematic error. - Subject bias - Recall bias; Hawthorn bias. - Investigatory bias: Interviewer bias, selection bias, misclassification bias. Allowing equal time for interview can take care of interviewer bias to some extent. Interviewer bias happens in case-control studies where the interviewer knows about the disease status of the person and probes more for exposure amongst cases as compared to controls. - Analyzer bias: Calculation bias - not seen now a days.",
         "cop": 4,
         "opa": "Berkesonian bias",
         "opb": "Recall bias",
@@ -53,7 +53,7 @@
     },
     {
         "question": "All of the following are investigator bias except:-",
-        "exp": "Bias:- Type of Systemic Error in Study; Subject Bias (Eg : Recall Bias, Hawthorne bias) Investigator Bias (Interviewer Bias, Misclassification Bias, Selection Bias) Analyzer Bias (calculation error)",
+        "exp": "Bias:- Type of Systemic Error in Study; Subject Bias (Eg: Recall Bias, Hawthorne bias) Investigator Bias (Interviewer Bias, Misclassification Bias, Selection Bias) Analyzer Bias (calculation error)",
         "cop": 3,
         "opa": "Interviewer bias",
         "opb": "Misclassification bias",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Confounding factor is associated with:-",
-        "exp": "Confounding factor Any factor associated with both exposure, outcome and has an independent effect in causation of outcome is a confounder. BEST METHOD TO REMOVE CONFOUNDING:- MATCHING - Removes confounding bias by distributing known confounding factors equally in two groups RANDOMISATION(2ND BEST) RESTRICTION STRATIFICATION STATISTICAL MODELLING/ MULTIVARIATE ANALYSIS STRATIFIED RANDOMISATION (BEST METHOD)",
+        "exp": "Confounding factor Any factor associated with both exposure, outcome and has an independent effect in causation of outcome is a confounder. BEST METHOD TO REMOVE CONFOUNDING:- MATCHING - Removes confounding bias by distributing known confounding factors equally in two groups RANDOMISATION(2. ND BEST) RESTRICTION STRATIFICATION STATISTICAL MODELLING/ MULTIVARIATE ANALYSIS STRATIFIED RANDOMISATION (BEST METHOD)",
         "cop": 3,
         "opa": "Exposure only",
         "opb": "Outcome only",

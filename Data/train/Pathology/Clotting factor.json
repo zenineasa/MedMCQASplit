@@ -1,7 +1,7 @@
 [
     {
         "question": "A 27 year old female having a family history of autoimmune disease presents with the complaints of a skin rash and recurrent joint pains 3 months after delivering a baby. She is most likely to have which of the following disorders?",
-        "exp": "Acquired factor VIII deficiency Muscle and soft tissue bleeds are common. Bleeding into a joint results in severe pain and swelling, as well as loss of function, but is rarely associated with discoloration from bruising around the joint. Life-threatening sites of bleeding include bleeding into the oropharynx, where bleeding can obstruct the airway, into the central nervous system, and into the retroperitoneum. Mixing studies -used to evaluate a prolonged aPTT or PT. -to distinguish between a factor deficiency and an inhibitor. In this assay, normal plasma and patient plasma are mixed in a 1:1 ratio, and the aPTT or PT is determined immediately and after incubation at 37degC for varying times, typically 30, 60, and/or 120 min. -With isolated factor deficiencies, the aPTT will correct with mixing and stay corrected with incubation. With aPTT prolongation due to a lupus anticoagulant, the mixing and incubation will show no correction. -In acquired neutralizing factor antibodies, the initial assay may or may not correct immediately after mixing but will prolong with incubation at 37degC.",
+        "exp": "Acquired factor VIII deficiency Muscle and soft tissue bleeds are common. Bleeding into a joint results in severe pain and swelling, as well as loss of function, but is rarely associated with discoloration from bruising around the joint. Life-threatening sites of bleeding include bleeding into the oropharynx, where bleeding can obstruct the airway, into the central nervous system, and into the retroperitoneum. Mixing studies -used to evaluate a prolonged a. PTT or PT. -to distinguish between a factor deficiency and an inhibitor. In this assay, normal plasma and patient plasma are mixed in a 1: 1 ratio, and the a. PTT or PT is determined immediately and after incubation at 37degC for varying times, typically 30, 60, and/or 120 min. -With isolated factor deficiencies, the a. PTT will correct with mixing and stay corrected with incubation. With a. PTT prolongation due to a lupus anticoagulant, the mixing and incubation will show no correction. -In acquired neutralizing factor antibodies, the initial assay may or may not correct immediately after mixing but will prolong with incubation at 37degC.",
         "cop": 4,
         "opa": "Megakaryocytic thrombocytopenia",
         "opb": "Amegakaryocytic thrombocytopenia",
@@ -14,12 +14,12 @@
     },
     {
         "question": "Marker for intrinsic pathway is:",
-        "exp": "1.The Activated paial thromboplastin time (PTT) assay screens the function of the proteins in the intrinsic pathway (factors XII, XI, IX, VIII, X, V, II, and fibrinogen). 2. Prothrombin time - Assay assesses the function of the proteins in the extrinsic pathway (factors VII, X, V, II, and fibrinogen). 3.Bleeding time - It indicates the functioning of the platelets. 4.Clotting time - It is altered in the patients who are having either a defect in the platelets or there is a defect in the clotting factors.",
+        "exp": "1. The Activated paial thromboplastin time (PTT) assay screens the function of the proteins in the intrinsic pathway (factors XII, XI, IX, VIII, X, V, II, and fibrinogen). 2. Prothrombin time - Assay assesses the function of the proteins in the extrinsic pathway (factors VII, X, V, II, and fibrinogen). 3. Bleeding time - It indicates the functioning of the platelets. 4. Clotting time - It is altered in the patients who are having either a defect in the platelets or there is a defect in the clotting factors.",
         "cop": 4,
         "opa": "Prothrombin Time (PT)",
         "opb": "Bleeding time (BT)",
         "opc": "Clotting time (CT)",
-        "opd": "Activated paial thromboplastin time (aPTT)",
+        "opd": "Activated paial thromboplastin time (a. PTT)",
         "subject_name": "Pathology",
         "topic_name": "Clotting factor",
         "id": "b6cf88ce-be21-4867-ae10-6acb8700d1fc",
@@ -27,7 +27,7 @@
     },
     {
         "question": "The use of desmopressin is best indicated for therapy in which of the following bleeding disorders?",
-        "exp": "Patients with Von Willebrand disease facing hemostatic challenges (dental work, surgery, etc.) can be treated with desmopressin, which stimulates vWF release, or with infusions of plasma concentrates containing factor VIII and vWF. Hemophilias A and B (severe phenotype) are treated by deficient factor replacement therapy, fresh frozen plasma, etc. Desmopressin can be used in the treatment of mild hemophilia A. Platelet transfusion is the standard treatment for severe bleeding and perioperative hemostasis in patients with Glanzmann thrombasthenia.",
+        "exp": "Patients with Von Willebrand disease facing hemostatic challenges (dental work, surgery, etc.) can be treated with desmopressin, which stimulates v. WF release, or with infusions of plasma concentrates containing factor VIII and v. WF. Hemophilias A and B (severe phenotype) are treated by deficient factor replacement therapy, fresh frozen plasma, etc. Desmopressin can be used in the treatment of mild hemophilia A. Platelet transfusion is the standard treatment for severe bleeding and perioperative hemostasis in patients with Glanzmann thrombasthenia.",
         "cop": 3,
         "opa": "Severe hemophilia A",
         "opb": "Severe hemophilia B",
@@ -39,8 +39,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Hemophilia is associated with which chromosome ?",
-        "exp": "Hemophilia A and B - X linked recessive disorders. Hemophilia C - Autosomal recessive disorder. X linked recessive disorders SYSTEM DISEASE Musculoskeleton Duchenne Muscular dystrophy Blood Hemophilia A,B Chronic Granulomatous disease G-6-PD deficiency Immune Agammaglobinemia Wiskott-Aldrich Syndrome Metabolic Diabetes Insipidus Lesch-Nyhan Syndrome Nervous Fragile X Syndrome",
+        "question": "Hemophilia is associated with which chromosome?",
+        "exp": "Hemophilia A and B - X linked recessive disorders. Hemophilia C - Autosomal recessive disorder. X linked recessive disorders SYSTEM DISEASE Musculoskeleton Duchenne Muscular dystrophy Blood Hemophilia A, B Chronic Granulomatous disease G-6-PD deficiency Immune Agammaglobinemia Wiskott-Aldrich Syndrome Metabolic Diabetes Insipidus Lesch-Nyhan Syndrome Nervous Fragile X Syndrome",
         "cop": 1,
         "opa": "X",
         "opb": "Y",

@@ -1,7 +1,7 @@
 [
     {
         "question": "Calculate degree of freedom Material Location X Y Glass 8 23 Cupboard 56 3 Metal 1 14",
-        "exp": "Degree of freedom = (C-1) (R-1) Given rows = 3 ; columns = 2 DOF = (2-1) (3-1) = 1x2 = 2",
+        "exp": "Degree of freedom = (C-1) (R-1) Given rows = 3; columns = 2 DOF = (2-1) (3-1) = 1x2 = 2",
         "cop": 2,
         "opa": "1",
         "opb": "2",
@@ -26,7 +26,7 @@
         "choice_type": "single"
     },
     {
-        "question": "18,20,22,24,26,28 and 30, Best Central tendency is determined by:-",
+        "question": "18, 20, 22, 24, 26, 28 and 30, Best Central tendency is determined by:-",
         "exp": "The Metric data is evenly dispersed around the mean, and it is not skewed, Hence the best measure of central tendency is MEAN. Median is preferred in case of Ordinal data; outliers. Mode is preferred in Nominal data.",
         "cop": 1,
         "opa": "Mean",
@@ -43,7 +43,7 @@
         "exp": "In a bimodal series, Mode = 3 Median -2 mean In the given question, mean is 2 and median is 3 Thus Mode = 3(3) -2(2) = 9 - 4 = 5",
         "cop": 1,
         "opa": "5",
-        "opb": "2.5",
+        "opb": "2. 5",
         "opc": "4",
         "opd": "3",
         "subject_name": "Social & Preventive Medicine",
@@ -66,7 +66,7 @@
     },
     {
         "question": "All statements regarding Mode is true except:",
-        "exp": "Discussing options one by one: Option Example Remark a) Some data has no mode 1,2,3,4,5,6,7 No mode b) More than one mode possible in some data 1,2,2,3,4,4,5 Two modes (2,4) c) Cannot be calculated for any type of data Wrong statement Can be used for qualitative and quantitative data d) Can be used for nominal data Ram, Ram ,Sham,Ghanshyam,Prabhuram (Nominal) Mode = Ram",
+        "exp": "Discussing options one by one: Option Example Remark a) Some data has no mode 1, 2, 3, 4, 5, 6, 7 No mode b) More than one mode possible in some data 1, 2, 2, 3, 4, 4, 5 Two modes (2, 4) c) Cannot be calculated for any type of data Wrong statement Can be used for qualitative and quantitative data d) Can be used for nominal data Ram, Ram, Sham, Ghanshyam, Prabhuram (Nominal) Mode = Ram",
         "cop": 3,
         "opa": "Some data has no mode",
         "opb": "More than one mode possible in some data",
@@ -92,7 +92,7 @@
     },
     {
         "question": "Which can have more than one value?",
-        "exp": "MODE: Most frequently occurring value in data distribution. May be multiple. (Bimodal, trimodal, etc) Advantages: Easy to understand, Unaffected by extreme values. Disadvantages : Exact location is unceain, often not clearly defined. Not used in biological or medical studies.",
+        "exp": "MODE: Most frequently occurring value in data distribution. May be multiple. (Bimodal, trimodal, etc) Advantages: Easy to understand, Unaffected by extreme values. Disadvantages: Exact location is unceain, often not clearly defined. Not used in biological or medical studies.",
         "cop": 3,
         "opa": "Mean",
         "opb": "Median",
@@ -105,7 +105,7 @@
     },
     {
         "question": "The incidence of malaria in an area is 20, 20, 50, 56, 60, 5000, 678, 898, 345, 456. Which of these methods is the best to calculate the average incidence?",
-        "exp": "In the given question, * Since extreme values (outliers) are present for incidence (20 and 5000), median will be the most suitable measure of central tendency. Incidence of malaria in an area is 20, 20, 50, 56, 60, 5000, 678, 898, 345, 456 And, incidence in ascending order is 20, 20, 50, 56, 60, 345, 456, 678, 898, 5000 Mean = a'/n = 7583/10 =758.3 Median = Mean (average)of 5th and 6th value = (60 + 345)/2 = 202.5 Mode = 20 Mean will not be an appropriate measure of central tendency since extreme values (outliers) are present.",
+        "exp": "In the given question, * Since extreme values (outliers) are present for incidence (20 and 5000), median will be the most suitable measure of central tendency. Incidence of malaria in an area is 20, 20, 50, 56, 60, 5000, 678, 898, 345, 456 And, incidence in ascending order is 20, 20, 50, 56, 60, 345, 456, 678, 898, 5000 Mean = a'/n = 7583/10 =758. 3 Median = Mean (average)of 5th and 6th value = (60 + 345)/2 = 202. 5 Mode = 20 Mean will not be an appropriate measure of central tendency since extreme values (outliers) are present.",
         "cop": 3,
         "opa": "Arithmetic mean",
         "opb": "Geometric mean",
@@ -117,12 +117,12 @@
         "choice_type": "single"
     },
     {
-        "question": "Mean value of weight of a group of 10 boys was found to be 18.2 kg. Later it was found that weight of one of the boys was wrongly recorded as 2.0 kg that should have been 20 kg. The true mean weight of the group is:",
-        "exp": "Mean (Average(e): Is obtained as sum of all values divided by the no. of values Mean = [?]x/n In the given question, = 18.2 kg and n=10 Thus [?]x = 182 Also, weight of one of the boys was wrongly recorded as 2.0 kg that should have been 20 kg True [?]x= 182 + (20- 2.0) = 200 So true Mean =[?]x(true)/n = 200/10 = 20.0 kg.",
+        "question": "Mean value of weight of a group of 10 boys was found to be 18. 2 kg. Later it was found that weight of one of the boys was wrongly recorded as 2. 0 kg that should have been 20 kg. The true mean weight of the group is:",
+        "exp": "Mean (Average(e): Is obtained as sum of all values divided by the no. of values Mean = [?]x/n In the given question, = 18. 2 kg and n=10 Thus [?]x = 182 Also, weight of one of the boys was wrongly recorded as 2. 0 kg that should have been 20 kg True [?]x= 182 + (20- 2. 0) = 200 So true Mean =[?]x(true)/n = 200/10 = 20. 0 kg.",
         "cop": 4,
-        "opa": "18.2 kg",
-        "opb": "20.2 kg",
-        "opc": "16.4 kg",
+        "opa": "18. 2 kg",
+        "opb": "20. 2 kg",
+        "opc": "16. 4 kg",
         "opd": "20 kg",
         "subject_name": "Social & Preventive Medicine",
         "topic_name": "Central tendency, Dispersion",

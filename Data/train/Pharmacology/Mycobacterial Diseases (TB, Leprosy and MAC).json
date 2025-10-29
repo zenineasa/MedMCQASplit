@@ -13,8 +13,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "Which of the following drug is given unsupervised as per National Health Programmes ?",
-        "exp": "Dapsone is not required to be given under supervision . Under NLEP, Rifampicin and Clofazimine are given under supervision for both Multibacillary and Paucibacillary Leprosy. Rifampicin is given 600 mg once a month under supervision. Clofazimine is given 300 mg once a month under supervision and 50 mg daily unsupervised for 28 days. Dapsone is given 100 mg once daily unsupervised for 28 days. Multibacillary Leprosy is treated for 12 months and Paucibacillary Leprosy for 6 months. Under RNTCP, DOTS: Rifampicin, Isoniazid, Pyrazinamide and Ethambutol are administered under supervision.",
+        "question": "Which of the following drug is given unsupervised as per National Health Programmes?",
+        "exp": "Dapsone is not required to be given under supervision. Under NLEP, Rifampicin and Clofazimine are given under supervision for both Multibacillary and Paucibacillary Leprosy. Rifampicin is given 600 mg once a month under supervision. Clofazimine is given 300 mg once a month under supervision and 50 mg daily unsupervised for 28 days. Dapsone is given 100 mg once daily unsupervised for 28 days. Multibacillary Leprosy is treated for 12 months and Paucibacillary Leprosy for 6 months. Under RNTCP, DOTS: Rifampicin, Isoniazid, Pyrazinamide and Ethambutol are administered under supervision.",
         "cop": 4,
         "opa": "Rifampicin",
         "opb": "Ethambutol",
@@ -65,8 +65,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Arrange the duration of treatment of the following conditions in the increasing order 1. Treatment of P. vivax malaria 2. Treatment of multibacillary leprosy 3. Treatment of catergory 1 tuberculosis 4. Treatment of Hypeension",
-        "exp": "Treatment of malaria is for 3 days. Multibacillary leprosy is treated for 12 months. Category 1 tuberculosis is treated for 6 months Hypeension treatment is life long",
+        "question": "Arrange the duration of treatment of the following conditions in the increasing order 1. Treatment of P. vivax malaria 2. Treatment of multibacillary leprosy 3. Treatment of catergory 1 tuberculosis 4. Treatment of Hypertension",
+        "exp": "Treatment of malaria is for 3 days. Multibacillary leprosy is treated for 12 months. Category 1 tuberculosis is treated for 6 months Hypertension treatment is life long",
         "cop": 3,
         "opa": "1-3-4-2",
         "opb": "3-2-4-1",
@@ -79,7 +79,7 @@
     },
     {
         "question": "In daily regimen, which of the following drugs of initiation phase will be stopped when continuation phase begins for new pulmonary TB cases?",
-        "exp": "Treatment guidelines for new pulmonary TB cases : Intensive phase: HRZE daily doses for 8 weeks Continous phase: HRE daily doses for next 16 weeks. Only pyrazinamide will be stopped in continous phase.",
+        "exp": "Treatment guidelines for new pulmonary TB cases: Intensive phase: HRZE daily doses for 8 weeks Continous phase: HRE daily doses for next 16 weeks. Only pyrazinamide will be stopped in continous phase.",
         "cop": 4,
         "opa": "Ethambutol(E)",
         "opb": "Isoniazid(H)",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Isoniazid may show cross-resistance with which of the following anti-tubercular drugs?",
-        "exp": "Isoniazid (H) may show cross-resistance with ethionamide due to mutation in inhA gene. Isoniazid: It is a prodrug activated by catalase-peroxidase (coded by KatG). Both inducer and inhibitor. Potent inhibitor of CYP2C19,CYP3A. Weak inhibitor of CYP2D6. Inducer of CYP2E1 It is effective against intra- as well as extra-cellular mycobacteria. Action is most marked against rapidly multiplying bacilli (less effective against slow multipliers). It is widely distributed in the body and has maximum CSF penetration. It is effective orally and metabolized by ACETYLATION which is genetically controlled. Fast acetylators require high dose and slow acetylators are predisposed to toxicity (paicularly peripheral neuritis). It is an essential component of multi-drug therapy of tuberculosis and is drug of choice (used solely) for prophylaxis of tuberculosis and for treatment of latent tuberculosis infection. Resistance occurs due to mutation in Kat G (gene for catalse-peroxidase) or inhA. Mutation in kat G is responsible for high level resistance. It causes peripheral neuritis that can be prevented and treated by pyridoxine. It is also hepatotoxic. Rash, fever, anemia, optic neuritis, seizures, lupus like syndrome, transient memory loss, psychosis and gynaecomastia has also been repoed with this drug.",
+        "exp": "Isoniazid (H) may show cross-resistance with ethionamide due to mutation in inhA gene. Isoniazid: It is a prodrug activated by catalase-peroxidase (coded by KatG). Both inducer and inhibitor. Potent inhibitor of CYP2. C19, CYP3A. Weak inhibitor of CYP2. D6. Inducer of CYP2. E1 It is effective against intra- as well as extra-cellular mycobacteria. Action is most marked against rapidly multiplying bacilli (less effective against slow multipliers). It is widely distributed in the body and has maximum CSF penetration. It is effective orally and metabolized by ACETYLATION which is genetically controlled. Fast acetylators require high dose and slow acetylators are predisposed to toxicity (paicularly peripheral neuritis). It is an essential component of multi-drug therapy of tuberculosis and is drug of choice (used solely) for prophylaxis of tuberculosis and for treatment of latent tuberculosis infection. Resistance occurs due to mutation in Kat G (gene for catalse-peroxidase) or inhA. Mutation in kat G is responsible for high level resistance. It causes peripheral neuritis that can be prevented and treated by pyridoxine. It is also hepatotoxic. Rash, fever, anemia, optic neuritis, seizures, lupus like syndrome, transient memory loss, psychosis and gynaecomastia has also been repoed with this drug.",
         "cop": 4,
         "opa": "Rifampicin",
         "opb": "Cycloserine",
@@ -196,7 +196,7 @@
     },
     {
         "question": "All of the following drugs are used for treating Mycobacterial Infections except:",
-        "exp": "Rifamycins: include Rifampin or Rifampicin, Rifapentine and Rifabutin. MOA: binds to the b subunit of DNA-dependent RNA polymerase (rpoB) resulting in suppressesion of the chain formation in RNA synthesis. Inhibitsthe growth of most gram-positive bacteria as well as many gram-negative microorganisms, such as Escherichia coli, Pseudomonas,indole-positive and indole-negative Proteus, Klebsiella, Staphylococcus aureus and coagulase-negative staphylococci, Neisseria meningitidis and Haemophilus influenzae, M. tuberculosis, Mycobacterium leprae and other mycobaterial organisms also . Rifampicin should be taken on an empty stomach, whereas Rifapentine should be taken with food ifpossible. Rifaximin: Is a semi-synthetic Rifamycin. Route: Oral It is a non-systemic antibiotic as it doesn't cross the GIT wall (i.e poorly absorbed) USE: Travellers diarrhea, IBS-D: because it stops the growth of the bacteria causing diarrhea . Also used for treatment of Hepatic Encephalopathy: because it stops the growth of the bacteria producing toxins that worsen the liver condition.",
+        "exp": "Rifamycins: include Rifampin or Rifampicin, Rifapentine and Rifabutin. MOA: binds to the b subunit of DNA-dependent RNA polymerase (rpoB) resulting in suppressesion of the chain formation in RNA synthesis. Inhibitsthe growth of most gram-positive bacteria as well as many gram-negative microorganisms, such as Escherichia coli, Pseudomonas, indole-positive and indole-negative Proteus, Klebsiella, Staphylococcus aureus and coagulase-negative staphylococci, Neisseria meningitidis and Haemophilus influenzae, M. tuberculosis, Mycobacterium leprae and other mycobaterial organisms also. Rifampicin should be taken on an empty stomach, whereas Rifapentine should be taken with food ifpossible. Rifaximin: Is a semi-synthetic Rifamycin. Route: Oral It is a non-systemic antibiotic as it doesn't cross the GIT wall (i. e poorly absorbed) USE: Travellers diarrhea, IBS-D: because it stops the growth of the bacteria causing diarrhea. Also used for treatment of Hepatic Encephalopathy: because it stops the growth of the bacteria producing toxins that worsen the liver condition.",
         "cop": 1,
         "opa": "Rifaximin",
         "opb": "Rifampicin",
@@ -274,7 +274,7 @@
     },
     {
         "question": "Rifampicin is a powerful enzyme inducer. It is most likely to induce the metabolism of which of the following anti-retroviral drugs?",
-        "exp": "Rifampicin is a microsomal enzyme inducer - increases several CYP450 isoenzymes, including CYP3A4 , CYP2D6, CYP1A2 and CYP2C subfamily. It thus enhances its own metabolism as well as that of many drugs including warfarin, oral contraceptives, coicosteroids, sulfonylureas, HIV protease inhibitors, non-nucleoside reverse transcriptase inhibitors (NNls), theophylline, metoprolol, fluconazole, ketoconazole, clarithromycin, phenytoin, etc. Among given options, Nevirapine (NNI) is the best answer.",
+        "exp": "Rifampicin is a microsomal enzyme inducer - increases several CYP450 isoenzymes, including CYP3. A4, CYP2. D6, CYP1. A2 and CYP2C subfamily. It thus enhances its own metabolism as well as that of many drugs including warfarin, oral contraceptives, coicosteroids, sulfonylureas, HIV protease inhibitors, non-nucleoside reverse transcriptase inhibitors (NNls), theophylline, metoprolol, fluconazole, ketoconazole, clarithromycin, phenytoin, etc. Among given options, Nevirapine (NNI) is the best answer.",
         "cop": 2,
         "opa": "Tenofovir",
         "opb": "Nevirapine",
@@ -299,8 +299,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient of Chronic Renal Failure with GFR <40 ml/min/m2 is now suffering from Pulmonary TB. Which of the following drug does not require a dose reduction ?",
-        "exp": "Mnemonic : BILE EXCRETED ANTI-MICROBIAL AGENTS: CEF - CEFoperazone, CEFtriaxone R - Rifampacin E- Erythromycin N - Nafacillin A - Ampicilllin L - Lincosamides (Clindamycin) DISEASE - Doxycycline Rifampicin: Its metabolised by liver and excreted the bile.Therefore its dose need not be reduced in a patient with Chronic Renal Failure. Ethambutol and Streptomycin are mainly excreted through the kidney,so they require a dosage modification in Renal Failure.",
+        "question": "A patient of Chronic Renal Failure with GFR <40 ml/min/m2 is now suffering from Pulmonary TB. Which of the following drug does not require a dose reduction?",
+        "exp": "Mnemonic: BILE EXCRETED ANTI-MICROBIAL AGENTS: CEF - CEFoperazone, CEFtriaxone R - Rifampacin E- Erythromycin N - Nafacillin A - Ampicilllin L - Lincosamides (Clindamycin) DISEASE - Doxycycline Rifampicin: Its metabolised by liver and excreted the bile. Therefore its dose need not be reduced in a patient with Chronic Renal Failure. Ethambutol and Streptomycin are mainly excreted through the kidney, so they require a dosage modification in Renal Failure.",
         "cop": 3,
         "opa": "Ethambutol",
         "opb": "Isoniazid",
@@ -325,7 +325,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "What is the mechanism of action of Delamanid ?",
+        "question": "What is the mechanism of action of Delamanid?",
         "exp": "DELAMANID: It is an anti-tuberculosis agent derived from the Nitro-dihydro-imidazooxazole class of compounds. MOA: Forms a reactive intermediate metabolite that inhibits Mycolic acid production. USE: In treatment of multidrug-resistant (MDR-TB) and extensively drug-resistant tuberculosis (XDR-TB) in a combination regimen. S/E: QT segment prolongation",
         "cop": 3,
         "opa": "Inhibition of DNA Gyrase",
@@ -365,7 +365,7 @@
     },
     {
         "question": "Which of the following statements regarding drugs used in leprosy is FALSE?",
-        "exp": "Acedapsone is a repository form of dapsone. Single i.m. injection of acedapsone keep on releasing the drug for 3 months. Rifampicin is used once in a month (supervised dose) for the treatment of leprosy. It prevents the emergence of resistance to dapsone. Clofazimine can result in skin pigmentation(reddish-black), discolouration of secretions and dryness of skin (icthyosis). Clofazimine has no cross-allergenicity with dapsone.",
+        "exp": "Acedapsone is a repository form of dapsone. Single i. m. injection of acedapsone keep on releasing the drug for 3 months. Rifampicin is used once in a month (supervised dose) for the treatment of leprosy. It prevents the emergence of resistance to dapsone. Clofazimine can result in skin pigmentation(reddish-black), discolouration of secretions and dryness of skin (icthyosis). Clofazimine has no cross-allergenicity with dapsone.",
         "cop": 3,
         "opa": "Single intramuscular injections of acedapsone maintain inhibitory levels of dapsone in tissues for upto 3 months",
         "opb": "Monthly doses of rifampicin delay the emergence of resistance to dapsone",

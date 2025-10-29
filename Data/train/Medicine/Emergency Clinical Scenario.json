@@ -1,19 +1,19 @@
 [
     {
-        "question": "A 78 year old male is admitted with chest pain. His ECG shows widespread ST depression in all leads except aVR which shows ST elevation. Whilst in ER, he passes melaena and on fuher questioning, gave history of altered bowel habit, weight loss and dark stools for 2-3 months. O/E he is pale, pulse rate is 115 bpm and BP is 80/50 mmHg. Blood tests demonstrate a hemoglobin of 3.6g/l and a high-sensitivity troponin of 140ng/l. What is the best initial management?",
-        "exp": "Dx is NSTEMI : Type 2 MI (due to Anemia) Option A : No, as he is already having GI bleeding, so antiplatelet therapy is not given. Option B : Yes, packed RBC transfusion is useful for anemia component to | oxyhemoglobin. Option C : Nitrates are C/I if Systolic B.P <80 mm Hg Option D : He's already having hypotension & b blockers are C/I in hypotension",
+        "question": "A 78 year old male is admitted with chest pain. His ECG shows widespread ST depression in all leads except a. VR which shows ST elevation. Whilst in ER, he passes melaena and on fuher questioning, gave history of altered bowel habit, weight loss and dark stools for 2-3 months. O/E he is pale, pulse rate is 115 bpm and BP is 80/50 mm. Hg. Blood tests demonstrate a hemoglobin of 3. 6g/l and a high-sensitivity troponin of 140ng/l. What is the best initial management?",
+        "exp": "Dx is NSTEMI: Type 2 MI (due to Anemia) Option A: No, as he is already having GI bleeding, so antiplatelet therapy is not given. Option B: Yes, packed RBC transfusion is useful for anemia component to | oxyhemoglobin. Option C: Nitrates are C/I if Systolic B. P <80 mm Hg Option D: He's already having hypotension & b blockers are C/I in hypotension",
         "cop": 2,
         "opa": "Aggressive treatment with dual antiplatelets",
         "opb": "Packed RBC transfusion",
         "opc": "Nitrates to relieve ischemia",
-        "opd": "Beta blocker to slow hea rate and reduce ischaemia",
+        "opd": "Beta blocker to slow heart rate and reduce ischaemia",
         "subject_name": "Medicine",
         "topic_name": "Emergency Clinical Scenario",
         "id": "44cd1462-2a78-4009-8a26-52c42dce3f01",
         "choice_type": "multi"
     },
     {
-        "question": "34 year unresponsive female is brought to the emergency depament with no proper history. What shall be the next step in management ?",
+        "question": "34 year unresponsive female is brought to the emergency depament with no proper history. What shall be the next step in management?",
         "exp": "Since the patient is already mentioned as unresponsive so, the rescuer should quickly assess the carotid pulse and breathing of the patient for not more than 10 second period. Evaluation and Initiation of CPR -Check for response -Call for help or ask someone to call local emergency number -If aspiration or airway obstruction is suspected then Hemlich maneuver should be performed to dislodge obstructing body. -Check for pulse(no longer than 10 sec) -Assess breathing -Chest compressions should be initiated without delay.",
         "cop": 1,
         "opa": "Check for carotid pulse",
@@ -52,8 +52,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "47-year-old female with a history of Antiphospholipid antibody syndrome who has been non compliant with warfarin presents with deep vein thrombosis and dyspnea. She is hypotensive and tachypneic.CT of chest shows a saddle embolus. She does not respond to heparin and fluids. Echocardiogram shows RV hypokinesis. Which of the following is appropriate management?",
-        "exp": "Clinical scenario mentioned here points towards Massive pulmonary embolism. Option A: Referral for surgical embolectomy only to be done in case there is C/I for thrombolysis (Option B): This lady specially who is in hypercoagulable state, one has to do thrombolysis with recombinant tissue plasminogen activator (rTPA) Option C: Fluids will not be given because in question already mentioned that R.V. Hypokinesia & fluid will fuher deteriorate condition. Option D: Lepirudin is used in Heparin induced Thrombocytopenia.",
+        "question": "47-year-old female with a history of Antiphospholipid antibody syndrome who has been non compliant with warfarin presents with deep vein thrombosis and dyspnea. She is hypotensive and tachypneic. CT of chest shows a saddle embolus. She does not respond to heparin and fluids. Echocardiogram shows RV hypokinesis. Which of the following is appropriate management?",
+        "exp": "Clinical scenario mentioned here points towards Massive pulmonary embolism. Option A: Referral for surgical embolectomy only to be done in case there is C/I for thrombolysis (Option B): This lady specially who is in hypercoagulable state, one has to do thrombolysis with recombinant tissue plasminogen activator (r. TPA) Option C: Fluids will not be given because in question already mentioned that R. V. Hypokinesia & fluid will fuher deteriorate condition. Option D: Lepirudin is used in Heparin induced Thrombocytopenia.",
         "cop": 2,
         "opa": "Urgent referral for surgical embolectomy",
         "opb": "Recombinant tissue plasminogen activator",
@@ -66,7 +66,7 @@
     },
     {
         "question": "A 25-year-old footballer is elbowed in the chest by the rival defender during ball possession. Following the chest trauma, the player collapses and dies. The most probable cause of death is:",
-        "exp": "Blunt, non-penetrating, often innocent-appearing injuries to the chest may trigger ventricular fibrillation even in absence of ove signs of injury and lead to sudden cardiac death. This syndrome, referred to as Commotio Cordis, occurs most often in adolescents during spoing events (e.g., baseball, hockey, football) and results from an impact to the chest wall overlying the hea during the susceptible phase of repolarization just before the peak of the T wave. Survival depends on prompt defibrillation.",
+        "exp": "Blunt, non-penetrating, often innocent-appearing injuries to the chest may trigger ventricular fibrillation even in absence of ove signs of injury and lead to sudden cardiac death. This syndrome, referred to as Commotio Cordis, occurs most often in adolescents during spoing events (e. g., baseball, hockey, football) and results from an impact to the chest wall overlying the hea during the susceptible phase of repolarization just before the peak of the T wave. Survival depends on prompt defibrillation.",
         "cop": 2,
         "opa": "HOCM",
         "opb": "Commotio Cordis",
@@ -78,7 +78,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "After successful resuscitation,when stable spontaneous circulation is achieved, what should be done next?",
+        "question": "After successful resuscitation, when stable spontaneous circulation is achieved, what should be done next?",
         "exp": "After stable spontaneous circulation is achieved, brain injury due to ischemia and reperfusion is a major determinant of survival. So we check for CNS involvement. Therapeutic hypothermia /Targeted temperature management Improve the likelihood of survival and neurologic recovery in patients who present with shockable (VT or VF) rhythms Recommended for all cardiac arrest patients who remain comatose, regardless of presenting rhythm, who lack purposeful response to verbal commands following return of spontaneous circulation.",
         "cop": 2,
         "opa": "Measure blood glucose",
@@ -104,8 +104,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 38 year old male presents to OPD with history of progressive sholess of breath since 2 weeks.He gives past history of type II diabetes mellitus. An echocardiogram was done which revealed , an EF of 25% with anterior, septal, and lateral wall motion defects.He is admitted to the ward and stabilized on furosemide, spironolactone, bisoprolol, and ramipril. What would be the next investigation in course of management ?",
-        "exp": "Echocardiogram is a screening tool in Emergency depament for looking at wall motion abnormalities . Angiography -Gold standard investigation to assess anatomy, physiology of hea -To assess the vasculature abnormalities. -To evaluate extent and severity of cardiac disease in symptomatic individuals Indications of Angiography: Asymptomatic or Symptomatic Ventricular tachycardia Symptomatic Acute Coronary Syndrome Chest pain syndromes STEMI Congestive Hea failure Pericardial disease Cardiac Transplantation",
+        "question": "A 38 year old male presents to OPD with history of progressive sholess of breath since 2 weeks. He gives past history of type II diabetes mellitus. An echocardiogram was done which revealed, an EF of 25% with anterior, septal, and lateral wall motion defects. He is admitted to the ward and stabilized on furosemide, spironolactone, bisoprolol, and ramipril. What would be the next investigation in course of management?",
+        "exp": "Echocardiogram is a screening tool in Emergency depament for looking at wall motion abnormalities. Angiography -Gold standard investigation to assess anatomy, physiology of hea -To assess the vasculature abnormalities. -To evaluate extent and severity of cardiac disease in symptomatic individuals Indications of Angiography: Asymptomatic or Symptomatic Ventricular tachycardia Symptomatic Acute Coronary Syndrome Chest pain syndromes STEMI Congestive heart failure Pericardial disease Cardiac Transplantation",
         "cop": 2,
         "opa": "Endomyocardialbiopsy",
         "opb": "Angiogram",
@@ -117,8 +117,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "In a patient with autonomic dysreflexia after a spinal cord injury, supine BP of the patient is 200/100 mm Hg with hea rate of 58/min. Which of the following is required for initial management of these patients?",
-        "exp": "Management of patient with supine hypeension : Placing him in sitting position and giving him a buccal spray of NTG (nitro glycerine) followed by NTG drip if required. Trigger for Autonomic Dysreflexia in patients of spinal cord injury is blocked or kinked Foley's catheter or stool impaction. Choice A (Nicardipine) is used in Hemorrhagic stroke with hypeensive crisis. Choice B (Sodium nitroprusside) in hypeensive encephalopathy. Patient due to spinal cord injury above T6 develops massive sympathomimetic surge leading to splanchnic vasoconstriction and development of HTN. This triggered reflex bradycardia. Choice D (Labetalol) is ruled out in setting of bradycardia.",
+        "question": "In a patient with autonomic dysreflexia after a spinal cord injury, supine BP of the patient is 200/100 mm Hg with heart rate of 58/min. Which of the following is required for initial management of these patients?",
+        "exp": "Management of patient with supine hypertension: Placing him in sitting position and giving him a buccal spray of NTG (nitro glycerine) followed by NTG drip if required. Trigger for Autonomic Dysreflexia in patients of spinal cord injury is blocked or kinked Foley's catheter or stool impaction. Choice A (Nicardipine) is used in Hemorrhagic stroke with hypeensive crisis. Choice B (Sodium nitroprusside) in hypeensive encephalopathy. Patient due to spinal cord injury above T6 develops massive sympathomimetic surge leading to splanchnic vasoconstriction and development of HTN. This triggered reflex bradycardia. Choice D (Labetalol) is ruled out in setting of bradycardia.",
         "cop": 3,
         "opa": "Nicardipine",
         "opb": "Sodium nitroprusside",
@@ -144,7 +144,7 @@
     },
     {
         "question": "A 75-year-old patient clutches his chest and falls down. A physician arrives on the scene and finds the patient unresponsive with no breathing effos. What is the first thing to be done by the physician?",
-        "exp": "Evaluation and Initiation of CPR -Check for response -Call for help or ask someone to call local emergency number -If aspiration or airway obstruction is suspected then Hemlich maneuver should be performed to dislodge obstructing body. -Check for pulse(no longer than 10 sec) -Assess breathing -Chest compressions should be initiated without delay. Note : Cpr protocol C-A-B",
+        "exp": "Evaluation and Initiation of CPR -Check for response -Call for help or ask someone to call local emergency number -If aspiration or airway obstruction is suspected then Hemlich maneuver should be performed to dislodge obstructing body. -Check for pulse(no longer than 10 sec) -Assess breathing -Chest compressions should be initiated without delay. Note: Cpr protocol C-A-B",
         "cop": 1,
         "opa": "Call for help",
         "opb": "Clear patient airway",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Where is the cardiac plexus located?",
-        "exp": "Cardiac plexus Plexus of nerves situated at the base of the hea. Formed by cardiac branches derived from both the sympathetic and parasympathetic nervous systems. Divided into : Superficial pa : Lies beneath aoic arch , in front of the right pulmonary aery Deep pa : Situated in front of the tracheal bifurcation above the point of division of the carina and behind the aoic arch.",
+        "exp": "Cardiac plexus Plexus of nerves situated at the base of the hea. Formed by cardiac branches derived from both the sympathetic and parasympathetic nervous systems. Divided into: Superficial pa: Lies beneath aoic arch, in front of the right pulmonary aery Deep pa: Situated in front of the tracheal bifurcation above the point of division of the carina and behind the aoic arch.",
         "cop": 2,
         "opa": "Posterior to the bifurcation of the trachea",
         "opb": "Anterior to the bifurcation of the trachea",
@@ -170,11 +170,11 @@
     },
     {
         "question": "A 56-year-old man presents in the casualty with severe chest pain and difficulty in breathing. His ECG was taken immediately. The below ECG suggest the following diagnosis:",
-        "exp": "Atrial fibrillation. More or less normal QRS complexes Variable RR intervals and Absent P waves Absence of P waves rules out the possibility of ventricular fibrillation or second degree hea block. Although clinical features mentioned may point to a diagnosis of pulmonary embolism, ECG features are not contributory. ECG of pulmonary embolism:",
+        "exp": "Atrial fibrillation. More or less normal QRS complexes Variable RR intervals and Absent P waves Absence of P waves rules out the possibility of ventricular fibrillation or second degree heart block. Although clinical features mentioned may point to a diagnosis of pulmonary embolism, ECG features are not contributory. ECG of pulmonary embolism:",
         "cop": 4,
         "opa": "Ventricular fibrillation",
         "opb": "Acute pulmonary embolism",
-        "opc": "Second degree hea block",
+        "opc": "Second degree heart block",
         "opd": "Atrial fibrillation",
         "subject_name": "Medicine",
         "topic_name": "Emergency Clinical Scenario",
@@ -196,7 +196,7 @@
     },
     {
         "question": "Select the best initial treatment for a patient with Behcet syndrome and ocular involvement",
-        "exp": "Diagnostic Criteria of Behcet's Syndrome Recurrent oral ulceration Plus 2 of the following: Recurrent genital ulceration Ocular lesions Skin lesions Positive Pathergy test Rx: Condition Treatment Lesion in uveal/ oral cavity Topical Steroids CNS/ocular Systemic steroids Serious cases Thalidomide Recent study Apremilast(Phosphodiesterase-4 inhibitor) Mucocutaneous manifestations ,Ahritis Colchicine",
+        "exp": "Diagnostic Criteria of Behcet's Syndrome Recurrent oral ulceration Plus 2 of the following: Recurrent genital ulceration Ocular lesions Skin lesions Positive Pathergy test Rx: Condition Treatment Lesion in uveal/ oral cavity Topical Steroids CNS/ocular Systemic steroids Serious cases Thalidomide Recent study Apremilast(Phosphodiesterase-4 inhibitor) Mucocutaneous manifestations, Ahritis Colchicine",
         "cop": 3,
         "opa": "Topical glucocoicoids to the oral ulcers and conjunctiva",
         "opb": "Thalidomide",
@@ -209,7 +209,7 @@
     },
     {
         "question": "Which of the following drug is not used for management of acute pulmonary edema?",
-        "exp": "First Line of action In management of Acute Pulmonary edema: Furosemide Morphine Oxygen Nitroglycerin IV if SBP>100 m m Hg Norepinephrine 0.5-30 pg/m in IV if if SBP< 100 m m Hg and signs of shock are present. Dopamine 5-15 pg/kg per minute if SBP< 100 mm Hg and signs of shock are present. Dobutamine 2-20 pg/kg/minute IV if SBP 70-100 mm Hg and no Signs of shock are present.",
+        "exp": "First Line of action In management of Acute Pulmonary edema: Furosemide Morphine Oxygen Nitroglycerin IV if SBP>100 m m Hg Norepinephrine 0. 5-30 pg/m in IV if if SBP< 100 m m Hg and signs of shock are present. Dopamine 5-15 pg/kg per minute if SBP< 100 mm Hg and signs of shock are present. Dobutamine 2-20 pg/kg/minute IV if SBP 70-100 mm Hg and no Signs of shock are present.",
         "cop": 4,
         "opa": "Norepinephrine",
         "opb": "Dopamine",

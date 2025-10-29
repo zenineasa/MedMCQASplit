@@ -1,7 +1,7 @@
 [
     {
-        "question": "Trans-tubular potassium gradient (T.T.K.G) in hypokalemia is?",
-        "exp": "The expected values of the Trans-tubular potassium gradient (T.T.K.G) are <3-4 in the presence of hypokalemia and >6-7 in the presence of hyperkalemia. TTKG is measured as follows:",
+        "question": "Trans-tubular potassium gradient (T. T. K. G) in hypokalemia is?",
+        "exp": "The expected values of the Trans-tubular potassium gradient (T. T. K. G) are <3-4 in the presence of hypokalemia and >6-7 in the presence of hyperkalemia. TTKG is measured as follows:",
         "cop": 1,
         "opa": "<3-4",
         "opb": ">6-7",
@@ -14,11 +14,11 @@
     },
     {
         "question": "Acute hyponatremia become symptomatic at:",
-        "exp": "Hyponatremia is commonly defined as a serum sodium <135 mmol/L (<135 mEq/L). In patient with hyponatremia that develops over hours, life-threatening seizures and cerebral edema may occur at values as high as 125 mmol/L. In contrast some patients with more chronic hyponatremia that has slowly developed over months to years may be asymptomatic even with serum levels <110 mmol",
+        "exp": "Hyponatremia is commonly defined as a serum sodium <135 mmol/L (<135 m. Eq/L). In patient with hyponatremia that develops over hours, life-threatening seizures and cerebral edema may occur at values as high as 125 mmol/L. In contrast some patients with more chronic hyponatremia that has slowly developed over months to years may be asymptomatic even with serum levels <110 mmol",
         "cop": 2,
-        "opa": "<135 mEq",
-        "opb": "<125 mEq",
-        "opc": "<120 mEq",
+        "opa": "<135 m. Eq",
+        "opb": "<125 m. Eq",
+        "opc": "<120 m. Eq",
         "opd": "<110 meq",
         "subject_name": "Medicine",
         "topic_name": "Fluids and Electrolyte Imbalance",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Calculate the anion gap from the following information: Na+ = 137mmol/L K+ = 4 mmol/L Cl- = 110 mmol/L HCO3 = 15 mmol/L",
-        "exp": "Formula: (Blood) Anion gap - Normal 6-12 mmol/L = - (K+ value not taken in consideration) =137- = 137-12 =12 Urinary anion gap = - | (HCO3-not considered) Normal=0 , As urine is electroneutral",
+        "exp": "Formula: (Blood) Anion gap - Normal 6-12 mmol/L = - (K+ value not taken in consideration) =137- = 137-12 =12 Urinary anion gap = - | (HCO3-not considered) Normal=0, As urine is electroneutral",
         "cop": 4,
         "opa": "22 mmol/L",
         "opb": "16 mmol/L",
@@ -91,8 +91,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "pH= 7.30, pCO2= 38, HCO3 = 18, Diagnosis is?",
-        "exp": "Since pH is less, and HCO3 is less, it implies metabolic acidosis Now for compensation pCO2 = HCO3+ 15 = 18 + 15 = 33 The value predicted is not matching with given pCO2 of 38 mmHg. It implies compensation is not there and it is a mixed disorder. Conclusion metabolic acidosis with respiratory acidosis.",
+        "question": "pH= 7. 30, p. CO2= 38, HCO3 = 18, Diagnosis is?",
+        "exp": "Since pH is less, and HCO3 is less, it implies metabolic acidosis Now for compensation p. CO2 = HCO3+ 15 = 18 + 15 = 33 The value predicted is not matching with given p. CO2 of 38 mm. Hg. It implies compensation is not there and it is a mixed disorder. Conclusion metabolic acidosis with respiratory acidosis.",
         "cop": 4,
         "opa": "Metabolic acidosis with compensatory respiratory alkalosis",
         "opb": "Respiratory acidosis with compensatory metabolic alkalosis",
@@ -117,8 +117,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 40 year old man comes with complaints of vomiting for last 3 days. ABG repo shows a pH = 7.22. pCO2 = 21 mm Hg and HCO3= 9 meq/dl. Diagnosis is?",
-        "exp": "The pH shows acidosis and HCO3 is low indicating the primary derangement as metabolic acidosis. The patient will compensate with respiratory alkalosis. To check for compensation Winter's formula is applied = 1.5 X(HCO3) + 8 +2 = 1.5 x 9 + 8 + 2 = 21.5 + 2 Since the value of pCO2 of the patient is as per the calculation patient is having paicularly compensated metabolic acidosis. The patient will compensate with respiratory alkalosis. If the value of pCO2 was less than 19.5 or more than 23.54 than mixed disorder would have been present.",
+        "question": "A 40 year old man comes with complaints of vomiting for last 3 days. ABG repo shows a pH = 7. 22. p. CO2 = 21 mm Hg and HCO3= 9 meq/dl. Diagnosis is?",
+        "exp": "The pH shows acidosis and HCO3 is low indicating the primary derangement as metabolic acidosis. The patient will compensate with respiratory alkalosis. To check for compensation Winter's formula is applied = 1. 5 X(HCO3) + 8 +2 = 1. 5 x 9 + 8 + 2 = 21. 5 + 2 Since the value of p. CO2 of the patient is as per the calculation patient is having paicularly compensated metabolic acidosis. The patient will compensate with respiratory alkalosis. If the value of p. CO2 was less than 19. 5 or more than 23. 54 than mixed disorder would have been present.",
         "cop": 2,
         "opa": "Mixed metabolic acidosis and respiratory alkalosis",
         "opb": "Metabolic acidosis",
@@ -143,13 +143,13 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient on amphotericin B has weakness and cramps. Serum potassium = 2.3 mEq/dl. Calculate the total parenteral potassium supplementation to be given to the patient over the next 24 hours",
-        "exp": "For causing a rise of potassium in blood by 1 mEq/dl, 200 mEq of potassium supplementation is required. Since symptoms develops with serum potassium less than 3 mEq/dl, the clinician should give sufficient potassium to rise upto 3 mEq/dl intravenous route. Following this oral potassium supplement will suffice Hence mathematically speaking this patient requires approximately 0.7 mEq/dl of potassium to rise in the blood leading to a requirement of 0.7x 200 = 140 mEq over 24 hours",
+        "question": "A patient on amphotericin B has weakness and cramps. Serum potassium = 2. 3 m. Eq/dl. Calculate the total parenteral potassium supplementation to be given to the patient over the next 24 hours",
+        "exp": "For causing a rise of potassium in blood by 1 m. Eq/dl, 200 m. Eq of potassium supplementation is required. Since symptoms develops with serum potassium less than 3 m. Eq/dl, the clinician should give sufficient potassium to rise upto 3 m. Eq/dl intravenous route. Following this oral potassium supplement will suffice Hence mathematically speaking this patient requires approximately 0. 7 m. Eq/dl of potassium to rise in the blood leading to a requirement of 0. 7x 200 = 140 m. Eq over 24 hours",
         "cop": 4,
-        "opa": "40 mEq",
-        "opb": "80 mEq",
-        "opc": "100 mEq",
-        "opd": "140 mEq",
+        "opa": "40 m. Eq",
+        "opb": "80 m. Eq",
+        "opc": "100 m. Eq",
+        "opd": "140 m. Eq",
         "subject_name": "Medicine",
         "topic_name": "Fluids and Electrolyte Imbalance",
         "id": "a8a9444d-d9dc-4300-b8cb-6d43d850d08a",
@@ -157,11 +157,11 @@
     },
     {
         "question": "In metabolic acidosis caused by diabetic ketoacidosis, which of the following would be greater than normal:",
-        "exp": "In diabetic ketoacidosis there is an increased production of acetoacetic and b-hydroxybutyric acids, which leads to an increase in plasma concentration of hydrogen ions. These fixed acids are buffered by all body buffers but mainly by bicarbonate. The concentration of plasma HCO3- is therefore below normal. The consumption of bicarbonate and the addition of the anions of the fixed acids to the plasma cause an elevation of the anion gap. The acidosis would stimulate the carotid body chemoreceptors (and eventually the central chemoreceptors) to cause an increase in ventilation, which decreases aerial pCO2-.",
+        "exp": "In diabetic ketoacidosis there is an increased production of acetoacetic and b-hydroxybutyric acids, which leads to an increase in plasma concentration of hydrogen ions. These fixed acids are buffered by all body buffers but mainly by bicarbonate. The concentration of plasma HCO3- is therefore below normal. The consumption of bicarbonate and the addition of the anions of the fixed acids to the plasma cause an elevation of the anion gap. The acidosis would stimulate the carotid body chemoreceptors (and eventually the central chemoreceptors) to cause an increase in ventilation, which decreases aerial p. CO2-.",
         "cop": 2,
         "opa": "Concentration of plasma HCO3-",
         "opb": "Anion gap",
-        "opc": "Aerial pCO2",
+        "opc": "Aerial p. CO2",
         "opd": "All of the above",
         "subject_name": "Medicine",
         "topic_name": "Fluids and Electrolyte Imbalance",
@@ -196,7 +196,7 @@
     },
     {
         "question": "All are useful for treatment of metabolic alkalosis except?",
-        "exp": "Normal saline is useful if volume contraction is present PPI is given if H+ is lost from stomach or kidney Dilute HCL (0.1N HCL) can be effective but can lead to hemolysis and hence should be given slowly a central line KCL will correct K+ deficits due to hyperaldosteronism",
+        "exp": "Normal saline is useful if volume contraction is present PPI is given if H+ is lost from stomach or kidney Dilute HCL (0. 1N HCL) can be effective but can lead to hemolysis and hence should be given slowly a central line KCL will correct K+ deficits due to hyperaldosteronism",
         "cop": 4,
         "opa": "Sodium chloride",
         "opb": "Potassium chloride",
@@ -221,8 +221,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Hea block is seen in:",
-        "exp": "Hypermagnesemia slows the hea and leads to hea block Hypomagesemia leads to cardiac arrhythmias like SVT and VT",
+        "question": "Heart block is seen in:",
+        "exp": "Hypermagnesemia slows the hea and leads to heart block Hypomagesemia leads to cardiac arrhythmias like SVT and VT",
         "cop": 1,
         "opa": "Hypermagnesemia",
         "opb": "Hypomagnesemia",
@@ -235,7 +235,7 @@
     },
     {
         "question": "All are used for management for hypernatremia except?",
-        "exp": "Hypernatremia is treated with free water intake by month or NG tube if patient is not obtunded. Dilute hypotonic fluids like 5% dextrose in water and N/2 in 5% water are given to decrease serum sodium at a rate of 0.3 mmol/Hr. Drug that stimulate vasopressin like chlorpropamide / indomethacin / carbamazepine and clofibrate will also increase water absorption from collecting duct and reduce serum sodium.",
+        "exp": "Hypernatremia is treated with free water intake by month or NG tube if patient is not obtunded. Dilute hypotonic fluids like 5% dextrose in water and N/2 in 5% water are given to decrease serum sodium at a rate of 0. 3 mmol/Hr. Drug that stimulate vasopressin like chlorpropamide / indomethacin / carbamazepine and clofibrate will also increase water absorption from collecting duct and reduce serum sodium.",
         "cop": 3,
         "opa": "5% dextrose in water",
         "opb": "N/2 in 5% dextrose",
@@ -273,8 +273,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 70 year old man with history of CHF presents with increased shoness of breath and leg swelling. ABG: pH 7.24, pC02 = 60 mmHg, P02 = 52, HC03 =27. Interpret:",
-        "exp": "If there is acute respiratory acidosis, expected compensation is rise of HCO3 by 1 mEq/L for every 10 mm Hg rise of pCO2. In this question change in pCO2 = 60 -40 = 20mmHg Therefore expected elevation in = 2 m Eq. Since the actual HCO3- is close to the calculated HCO3, the diagnosis is respiratory acidosis",
+        "question": "A 70 year old man with history of CHF presents with increased shoness of breath and leg swelling. ABG: pH 7. 24, p. C02 = 60 mm. Hg, P02 = 52, HC03 =27. Interpret:",
+        "exp": "If there is acute respiratory acidosis, expected compensation is rise of HCO3 by 1 m. Eq/L for every 10 mm Hg rise of p. CO2. In this question change in p. CO2 = 60 -40 = 20mm. Hg Therefore expected elevation in = 2 m Eq. Since the actual HCO3- is close to the calculated HCO3, the diagnosis is respiratory acidosis",
         "cop": 3,
         "opa": "Metabolic acidosis",
         "opb": "Metabolic alkalosis",
@@ -313,7 +313,7 @@
     },
     {
         "question": "In chronic renal failure, there is?",
-        "exp": "Chronic renal failure leads to increase anion gap Causes of the increased anion (>12 mEq/L): Milk-alkali syndrome Uremia Diabetic ketoacidosis Propylene glycol Isoniazid intoxication Lactic acidosis Ethanol ethylene glycol Rhabdomyolysis/renal failure Salicylates",
+        "exp": "Chronic renal failure leads to increase anion gap Causes of the increased anion (>12 m. Eq/L): Milk-alkali syndrome Uremia Diabetic ketoacidosis Propylene glycol Isoniazid intoxication Lactic acidosis Ethanol ethylene glycol Rhabdomyolysis/renal failure Salicylates",
         "cop": 3,
         "opa": "Decrease anion gap",
         "opb": "Normal anion gap",
@@ -338,8 +338,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "pH = 7.27, HCO3= 10 mEq/dl and pC02 = 23 mm Hg:",
-        "exp": "Applying Winter's formula Estimated pCO2 = {HCO3 x 1.5} + 8 +2 = {10 x 1.5} + 8+2 = 21-25 Since the actual pCO2 falls within the estimated range, we can deduce that the compensation is adequate and there is no separate respiratory disorder present",
+        "question": "pH = 7. 27, HCO3= 10 m. Eq/dl and p. C02 = 23 mm Hg:",
+        "exp": "Applying Winter's formula Estimated p. CO2 = {HCO3 x 1. 5} + 8 +2 = {10 x 1. 5} + 8+2 = 21-25 Since the actual p. CO2 falls within the estimated range, we can deduce that the compensation is adequate and there is no separate respiratory disorder present",
         "cop": 1,
         "opa": "Metabolic acidosis",
         "opb": "Metabolic alkalosis",
@@ -365,7 +365,7 @@
     },
     {
         "question": "Which of the following leads to hyponatremia and low osmolality:",
-        "exp": "CHF is characterized by low perfusion of kidney stimulating R.A.A.S and resultant absorption of salt and dispropoionate amount of water would lead to hyponatremia with decreased osmolality Isotonic hyponatremia is seen with hyperlipidemia and hyperproteinemia like in paraproteinemia IV immunoglobulin therapy also interferes with measurement of serum sodium leading to pseudo-hyponatremia",
+        "exp": "CHF is characterized by low perfusion of kidney stimulating R. A. A. S and resultant absorption of salt and dispropoionate amount of water would lead to hyponatremia with decreased osmolality Isotonic hyponatremia is seen with hyperlipidemia and hyperproteinemia like in paraproteinemia IV immunoglobulin therapy also interferes with measurement of serum sodium leading to pseudo-hyponatremia",
         "cop": 4,
         "opa": "Hyperlipidemia",
         "opb": "Hyperproteinemia",
@@ -391,7 +391,7 @@
     },
     {
         "question": "Which of the following genetic abnormalities is associated with the development of hyperkalemia:",
-        "exp": "11 beta hydroxylase deficiency Androgen excess- masculinization of female newborns and precocious pubey in male Hypeension, which may or may not be associated with mineralocoicoid excess, hypokalemia, and metabolic alkalosis Liddle syndrome AD, hypeension associated with low plasma renin activity, metabolic alkalosis, hypokalemia, and normal to low levels of aldosterone Autosomal dominant polycystic kidney disease Since ESRD will ensue in these patients, hyperkalemia will always be a feature of ADPKD Gitelman syndrome Hypokalemic metabolic alkalosis",
+        "exp": "11 beta hydroxylase deficiency Androgen excess- masculinization of female newborns and precocious pubey in male Hypertension, which may or may not be associated with mineralocoicoid excess, hypokalemia, and metabolic alkalosis Liddle syndrome AD, hypertension associated with low plasma renin activity, metabolic alkalosis, hypokalemia, and normal to low levels of aldosterone Autosomal dominant polycystic kidney disease Since ESRD will ensue in these patients, hyperkalemia will always be a feature of ADPKD Gitelman syndrome Hypokalemic metabolic alkalosis",
         "cop": 4,
         "opa": "11b - hydroxylase deficiency",
         "opb": "Liddle's syndrome",
@@ -403,8 +403,8 @@
         "choice_type": "single"
     },
     {
-        "question": "ABG of a patient shows decreased pH, increased pCO2 and high bicarbonate. Diagnosis:",
-        "exp": "Increased pCO2 indicates generation of protons in the body leading to acidosis Since increase in CO2 occurs due to respiratory pathology patient has respiratory acidosis For compensation HCO3 increases and but still pH is not normalised that means compensation is paial.",
+        "question": "ABG of a patient shows decreased pH, increased p. CO2 and high bicarbonate. Diagnosis:",
+        "exp": "Increased p. CO2 indicates generation of protons in the body leading to acidosis Since increase in CO2 occurs due to respiratory pathology patient has respiratory acidosis For compensation HCO3 increases and but still pH is not normalised that means compensation is paial.",
         "cop": 3,
         "opa": "Respiratory alkalosis, compensated",
         "opb": "Respiratory acidosis, compensated",
@@ -429,7 +429,7 @@
         "choice_type": "single"
     },
     {
-        "question": "T.T.K.G >8 is seen in all except:",
+        "question": "T. T. K. G >8 is seen in all except:",
         "exp": "Transtubular potassium gradient > 8 is associated with hyperkalemia. Choices 1, 2, 3 lead to hyperkalemia. Choices 1 and 2 lead to kidney damage. Choice 3 due to aldosterone deficiency leads to potassium excess due to inability to loose potassium the collecting duct. Cushing syndrome has excess of coisol, which stimulates the mineralocoicoid receptors to cause hypokalemic metabolic alkalosis.",
         "cop": 4,
         "opa": "Diabetes mellitus",

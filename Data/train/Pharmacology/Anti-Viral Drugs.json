@@ -39,13 +39,13 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true regarding amantadine and rimantadine except :",
-        "exp": "Amantadine and rimantadine As antiviral against influenza A: Mechanisms of action Inhibit an early step in viral replication(viral uncoating) strains At late step it alters hemagglutinin processing Main action is on M2 protein- Drugs inhibit the acid-mediate dissociation of the ribonucleoprotein complex early in replication and potentiate acidic pH-induced conformational changes in the hemagglutinin during its intracellular transpo later in replication NOTE: Rimantadine is 4-10 times more active than amantadine Amantadines are effective against influenza A H1N1 in adults and children if treatment is initiated within 2 days of the onset of symptoms Both drugs are useful for the prevention and treatment of infections caused by influenza A virus (not influenza B) Viually all H3N2 strains of influenza circulating worldwide are resistant to these drugs Resistance to these drugs results from a mutation in the RNA sequence encoding for the M2 protein transmembrane domain",
+        "question": "All are true regarding amantadine and rimantadine except:",
+        "exp": "Amantadine and rimantadine As antiviral against influenza A: Mechanisms of action Inhibit an early step in viral replication(viral uncoating) strains At late step it alters hemagglutinin processing Main action is on M2 protein- Drugs inhibit the acid-mediate dissociation of the ribonucleoprotein complex early in replication and potentiate acidic pH-induced conformational changes in the hemagglutinin during its intracellular transpo later in replication NOTE: Rimantadine is 4-10 times more active than amantadine Amantadines are effective against influenza A H1. N1 in adults and children if treatment is initiated within 2 days of the onset of symptoms Both drugs are useful for the prevention and treatment of infections caused by influenza A virus (not influenza B) Viually all H3. N2 strains of influenza circulating worldwide are resistant to these drugs Resistance to these drugs results from a mutation in the RNA sequence encoding for the M2 protein transmembrane domain",
         "cop": 2,
         "opa": "Rimantadine is 4-10 times more active than amantadine",
         "opb": "Combination of amantadine and rimantadine are effective on Influenza B also",
         "opc": "Both act by inhibiting an early step in viral replication",
-        "opd": "They are effective against influenza A H1N1 in if treatment is initiated within 2 days of the onset of symptoms",
+        "opd": "They are effective against influenza A H1. N1 in if treatment is initiated within 2 days of the onset of symptoms",
         "subject_name": "Pharmacology",
         "topic_name": "Anti-Viral Drugs",
         "id": "a0dc18cd-6a64-441a-a24e-9fb2d2313393",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Which of the following neuraminidase inhibitor has 100% renal elimination?",
-        "exp": "Renal elimination Oseltamavir: 95 % Zanamivir : 100% Peramivir : 90%",
+        "exp": "Renal elimination Oseltamavir: 95 % Zanamivir: 100% Peramivir: 90%",
         "cop": 2,
         "opa": "Oseltamavir",
         "opb": "Zanamivir",
@@ -78,8 +78,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following drug is used for prophylaxis of H1N1 influenza virus infections?",
-        "exp": "Oseltamivir, Zanamivir, Peramivir are neuraminidase inhibitor which are used for treatment and prevention of HINI and H5N1 influenzae. Acyclovir: Acyclic guanosine derivative with clinical activity against HSV1, HSV2, and VZV, but it is 10 times more potent against HSV1 and HSV2 than VZV. Tenofovir, Abacavir: NI, used in HIV.",
+        "question": "Which of the following drug is used for prophylaxis of H1. N1 influenza virus infections?",
+        "exp": "Oseltamivir, Zanamivir, Peramivir are neuraminidase inhibitor which are used for treatment and prevention of HINI and H5. N1 influenzae. Acyclovir: Acyclic guanosine derivative with clinical activity against HSV1, HSV2, and VZV, but it is 10 times more potent against HSV1 and HSV2 than VZV. Tenofovir, Abacavir: NI, used in HIV.",
         "cop": 1,
         "opa": "Oseltamivir",
         "opb": "Abacavir",
@@ -105,7 +105,7 @@
     },
     {
         "question": "Drug effective against both hepatitis B as well as HIV is",
-        "exp": "Lamivudine is NI used in both HIV and hepatitis B (low dose).Lamivudine is effective in chronic hepatitis B;this is due to longer intracellular t1/2 of lamivudine in HBV infected cells than in HIV infected cells. Acyclovir - effective against HSV-1>HSV-2>VZV=EBV. Foscarnet -effective against H.simplex,CMV,other herpes group viruses and HIV. Cidovofir- effective against HSV,CMV,pox and adenoviruses.",
+        "exp": "Lamivudine is NI used in both HIV and hepatitis B (low dose). Lamivudine is effective in chronic hepatitis B; this is due to longer intracellular t1/2 of lamivudine in HBV infected cells than in HIV infected cells. Acyclovir - effective against HSV-1>HSV-2>VZV=EBV. Foscarnet -effective against H. simplex, CMV, other herpes group viruses and HIV. Cidovofir- effective against HSV, CMV, pox and adenoviruses.",
         "cop": 3,
         "opa": "Acyclovir",
         "opb": "Foscarnet",
@@ -134,7 +134,7 @@
         "exp": "Oseltamivir acts by inhibiting influenza virus neuraminidase enzyme which is needed for release of progeny virions from the infected cell. Other neuraminidase inhibitor includes Zanamivir & Peramivir. These are used against Flu Virus (Bird flu/swine Flu). Drugs like Amantadine and Rimantadine are viral uncoating inhibitors. Route of administration of neuraminidase inhibitors in influenza: Zanamivir: Inhalational Oseltamivir: Oral Peramivir: Intravenous",
         "cop": 4,
         "opa": "DNA polymerase inhibition",
-        "opb": "Inhibition of viral mRNA",
+        "opb": "Inhibition of viral m. RNA",
         "opc": "Blocking viral uncoating",
         "opd": "Neuraminidase inhibition",
         "subject_name": "Pharmacology",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Drug of choice for cytomegalovirus retinitis in HIV patients is:-",
-        "exp": "Ganciclovir is an analogue of acyclovir which is the most active drugs against CMV. It is activated intracellularly by virus specific thymidine kinase and its triphosphate nucleotide inhibits viral DNA polymerase. CMV retinitis is treated by i.v. infusion of ganciclovir 10 mg/kg/day. This can prevent blindness in AIDS patients. Systemic therapy can be supplemented by intravitreal injection of ganciclovir.",
+        "exp": "Ganciclovir is an analogue of acyclovir which is the most active drugs against CMV. It is activated intracellularly by virus specific thymidine kinase and its triphosphate nucleotide inhibits viral DNA polymerase. CMV retinitis is treated by i. v. infusion of ganciclovir 10 mg/kg/day. This can prevent blindness in AIDS patients. Systemic therapy can be supplemented by intravitreal injection of ganciclovir.",
         "cop": 2,
         "opa": "Acyclovir",
         "opb": "Ganciclovir",
@@ -196,7 +196,7 @@
     },
     {
         "question": "Which of the following is drug of choice for CMV retinitis?",
-        "exp": "Doc for CMV retinitis - Ganciclovir Other drugs used - Foscarnet, cidofovir Herpes simplex virus (HSV), Varicella zoster virus (VZV) - Acyclovir Anti HIV drugs - Tenofovir, Abacavir Ganciclovir: Activated intracellularly by virus specific thymidine kinase Due to poor oral absorption, bioavailability of ganciclovir is low (<10%) It's prodrug valganciclovir ,which is better absorbed orally, has replaced it for oral therapy Systemic S/E: Bone marrow depression Rash ,fever,vomiting Neuro psychiatric disturbances",
+        "exp": "Doc for CMV retinitis - Ganciclovir Other drugs used - Foscarnet, cidofovir Herpes simplex virus (HSV), Varicella zoster virus (VZV) - Acyclovir Anti HIV drugs - Tenofovir, Abacavir Ganciclovir: Activated intracellularly by virus specific thymidine kinase Due to poor oral absorption, bioavailability of ganciclovir is low (<10%) It's prodrug valganciclovir, which is better absorbed orally, has replaced it for oral therapy Systemic S/E: Bone marrow depression Rash, fever, vomiting Neuro psychiatric disturbances",
         "cop": 3,
         "opa": "Acyclovir",
         "opb": "Tenofovir",

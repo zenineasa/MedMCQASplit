@@ -1,7 +1,7 @@
 [
     {
         "question": "Interval variable have all propeies except:-",
-        "exp": "Identity Different numerals display different classification Nominal, Ordinal,Interval, Ratio Magnitude Different numerals display different identity and magnitude Ordinal, Interval, Ratio Interval Numerals are meaningful and display propey of Equidistance Interval, Ratio True zero Represent the absence of an attribute Ratio - Thus, option-4 is the answer.",
+        "exp": "Identity Different numerals display different classification Nominal, Ordinal, Interval, Ratio Magnitude Different numerals display different identity and magnitude Ordinal, Interval, Ratio Interval Numerals are meaningful and display propey of Equidistance Interval, Ratio True zero Represent the absence of an attribute Ratio - Thus, option-4 is the answer.",
         "cop": 4,
         "opa": "Identity",
         "opb": "Magnitude",
@@ -13,8 +13,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "An old man with hypeension and BP 210/110 mm Hg is classified into Severe hypeension. Scale used is",
-        "exp": "ORDINAL SCALEScale on which data is shown simply in order of magnitude, since there is no standard of measurement of differences - Categories are organized as a continuum - In the given question, If BP is measured as absolute quantified numbers (E.g. BP 210/110), it should be measured on Metric scale If BP is categorized as Mild-Moderate-Severe, it will become Ordinal scale",
+        "question": "An old man with hypertension and BP 210/110 mm Hg is classified into Severe hypertension. Scale used is",
+        "exp": "ORDINAL SCALEScale on which data is shown simply in order of magnitude, since there is no standard of measurement of differences - Categories are organized as a continuum - In the given question, If BP is measured as absolute quantified numbers (E. g. BP 210/110), it should be measured on Metric scale If BP is categorized as Mild-Moderate-Severe, it will become Ordinal scale",
         "cop": 2,
         "opa": "Nominal",
         "opb": "Ordinal",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Which of the following variables is measured on the Ordinal scale?",
-        "exp": "Scale of measurement: 1. CATEGORICAL SCALE - Include Nominal & Ordinal scales 2. DIMENTIONAL SCALE - Include Metric scale Nominal scale Ordinal scale Metric scale Definition Based on NOM (names); no specific order Based on ORD (order); grading into categories Based on ME (measurement); in terms of quantities Examples Race, Religion, Country of bih, Clinical features, Sites of lymphadenopathy, Sex of child, Type of anemia, ABO blood group, Site of malignancy TNM staging (cancers) ,Severity of a disease, Social classes Blood glucose, Hemoglobin level, Serum cholesterol, Weight, Height, Mid-arm circumference ,Blood pressure, Pulse rate, Temperature (degC, degF, K) scale",
+        "exp": "Scale of measurement: 1. CATEGORICAL SCALE - Include Nominal & Ordinal scales 2. DIMENTIONAL SCALE - Include Metric scale Nominal scale Ordinal scale Metric scale Definition Based on NOM (names); no specific order Based on ORD (order); grading into categories Based on ME (measurement); in terms of quantities Examples Race, Religion, Country of bih, Clinical features, Sites of lymphadenopathy, Sex of child, Type of anemia, ABO blood group, Site of malignancy TNM staging (cancers), Severity of a disease, Social classes Blood glucose, Hemoglobin level, Serum cholesterol, Weight, Height, Mid-arm circumference, Blood pressure, Pulse rate, Temperature (degC, degF, K) scale",
         "cop": 2,
         "opa": "Type of anemia",
         "opb": "Severity of anemia",
@@ -40,7 +40,7 @@
     },
     {
         "question": "All of the following are Continuous variables except:-",
-        "exp": "Variable - Anything which can have a different value Continuous variable Discreate variable Many possible values & in between value Few possible value & no in between value Eg:Weight, Height, Blood sugar, Serum cholesterol, BMI, Age, Pulse rate, Systolic blood pressure 0C/0F temperature Eg :ABO Blood grouping, Rh status, Religion, Sex, Anemia, Severity of anemia parity",
+        "exp": "Variable - Anything which can have a different value Continuous variable Discreate variable Many possible values & in between value Few possible value & no in between value Eg: Weight, Height, Blood sugar, Serum cholesterol, BMI, Age, Pulse rate, Systolic blood pressure 0C/0F temperature Eg: ABO Blood grouping, Rh status, Religion, Sex, Anemia, Severity of anemia parity",
         "cop": 2,
         "opa": "Age",
         "opb": "Religion",
@@ -79,7 +79,7 @@
     },
     {
         "question": "An investigator into the life expectancy of IV drug abusers divides a sample of patients into HIV-positive and HIV-negative groups. What type of data does this division constitute?",
-        "exp": "Nominal data (also known as nominal scale) is a type of data that is used to label variables without providing any quantitative value. Given question is about HIV-positive and HIV-negative groups; since there is no order of characteristic and it cannot be measured directly. So,it can't be an ordinal data or metric data respectively. It is nominal data as its division is based only on names, i.e. HIV-positive and HIV-negative groups.",
+        "exp": "Nominal data (also known as nominal scale) is a type of data that is used to label variables without providing any quantitative value. Given question is about HIV-positive and HIV-negative groups; since there is no order of characteristic and it cannot be measured directly. So, it can't be an ordinal data or metric data respectively. It is nominal data as its division is based only on names, i. e. HIV-positive and HIV-negative groups.",
         "cop": 1,
         "opa": "Nominal",
         "opb": "Ordinal",

@@ -13,7 +13,7 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient presents with postmenopausal bleeding . Endometrial biopsy should be done if endometrial thickness is more than?",
+        "question": "A patient presents with postmenopausal bleeding. Endometrial biopsy should be done if endometrial thickness is more than?",
         "exp": "Endometrial biopsy in a menopausal female presenting with post menopausal bleeding is required if Endometrial Thickness is equal to or more than 5 mm on TVS. Endometrial thickness >= 4mm ( American guidelines ) ET >= 5mm ( International federation of obstetricians and gynecologists: FIGO )",
         "cop": 2,
         "opa": "3 mm or more",
@@ -26,8 +26,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Histopathology of staging laparotomy done for carcinoma endometrium reveals more than 50% myometrium invasion with vaginal involvement, parametrial involvement but no pelvic and paraaoic lymph node involvement. What is the Stage of Ca Endometrium ?",
-        "exp": "FIGO staging system for Ca Endometrium Stage Ia Tumor contained to the corpus uteri IA No or less than half myometrial invasion IB Invasion equal to or more than half of the myometrium Stage II Tumor invades the cervical stroma but does not extend beyond the uterusb Stage IIIa Local and /or regional spread of tumorc III A Tumor invades the serosa of the corpus uteri and/or adnexas III B Vaginal and/or parametrial involvement III C Metastases to pelvis and/or para-aoic lymph nodes III C1 Positive pelvic nodes III C2 Positive para-aoic lymph nodes with no without positive pelvic lymph nodes Stage IVa Tumor invades bladder and/or bowel mucosa and/or distant metastases IVA Tumor invasion of bladder and/or bowel mucosa IVB Distant metastases, including intra-abdominal metastases and or inguinal lymph nodes aInclude grades 1,2, or 3 bEndocervical glandular involvement only should be considered as stage I and no longer as stage II. cPositive cytology has to be repoed separately without changing the stage.",
+        "question": "Histopathology of staging laparotomy done for carcinoma endometrium reveals more than 50% myometrium invasion with vaginal involvement, parametrial involvement but no pelvic and paraaoic lymph node involvement. What is the Stage of Ca Endometrium?",
+        "exp": "FIGO staging system for Ca Endometrium Stage Ia Tumor contained to the corpus uteri IA No or less than half myometrial invasion IB Invasion equal to or more than half of the myometrium Stage II Tumor invades the cervical stroma but does not extend beyond the uterusb Stage IIIa Local and /or regional spread of tumorc III A Tumor invades the serosa of the corpus uteri and/or adnexas III B Vaginal and/or parametrial involvement III C Metastases to pelvis and/or para-aoic lymph nodes III C1 Positive pelvic nodes III C2 Positive para-aoic lymph nodes with no without positive pelvic lymph nodes Stage IVa Tumor invades bladder and/or bowel mucosa and/or distant metastases IVA Tumor invasion of bladder and/or bowel mucosa IVB Distant metastases, including intra-abdominal metastases and or inguinal lymph nodes a. Include grades 1, 2, or 3 b. Endocervical glandular involvement only should be considered as stage I and no longer as stage II. c. Positive cytology has to be repoed separately without changing the stage.",
         "cop": 1,
         "opa": "III B",
         "opb": "III A",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Effect of tamoxifen:",
-        "exp": "Tamoxifen is an S.E.R.M (selective estrogen receptor modulator) Increase risk of endometrial cancer Decrease risk of osteoporosis Useful in breast cancer Menopausal symptoms like hot flushes The estrogen agonist-antagonist tamoxifen used in the treatment of estrogen-receptor positive breast cancer. Both tamoxifen and raloxifene reduce the risk of breast cancer in high-risk women by approximately 50% and are approved for this indication. Tamoxifen acts as an estrogen agonist in the endometrium, increasing the risk of endometrial polyps, hyperplasia, and cancer, whereas no endometrial stimulation is seen with raloxifene. Raloxifene hence is the preferred drug for osteoporosis treatment over tamoxifen in postmenopausal women.",
+        "exp": "Tamoxifen is an S. E. R. M (selective estrogen receptor modulator) Increase risk of endometrial cancer Decrease risk of osteoporosis Useful in breast cancer Menopausal symptoms like hot flushes The estrogen agonist-antagonist tamoxifen used in the treatment of estrogen-receptor positive breast cancer. Both tamoxifen and raloxifene reduce the risk of breast cancer in high-risk women by approximately 50% and are approved for this indication. Tamoxifen acts as an estrogen agonist in the endometrium, increasing the risk of endometrial polyps, hyperplasia, and cancer, whereas no endometrial stimulation is seen with raloxifene. Raloxifene hence is the preferred drug for osteoporosis treatment over tamoxifen in postmenopausal women.",
         "cop": 1,
         "opa": "Increased risk of endometrial carcinoma",
         "opb": "Decreased risk of ovarian CA",

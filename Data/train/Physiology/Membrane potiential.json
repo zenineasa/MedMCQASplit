@@ -13,7 +13,7 @@
         "choice_type": "single"
     },
     {
-        "question": "The potential generated due to freely diffusible ion across a membrane is measured by :",
+        "question": "The potential generated due to freely diffusible ion across a membrane is measured by:",
         "exp": "Nernst equation: A freely diffusible ion, having different concentrations on either side of a membrane, would diffuse through the membrane and reach equilibrium. Charge created by diffusion on the membrane, when ion reaches equilibrium, can be calculated by Nernst equation. EMF (mV) = +/- 61 X log (C1/C2) C1 and C2: are the concentrations of the ion on either side of the membrane. Goldman-Katz equation is an expanded Nernst equation. It calculates the potential created by more than one ion, when these ions move from their higher to lower concentrations. Henderson Hasselbach equation: used to estimate the pH of a buffer solution Gibbs donnan equillibrium: In the presence of a non- diffusable ion, the diffusable ion distributes themselves so that at equilibrium their concentrations ratios are equal",
         "cop": 1,
         "opa": "Nernst equation",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Highest equilibrium potential is that for:-",
-        "exp": "- Ca+2 equilibrium potential is +129 millivolts- Equilibrium potential is calculated by Nernst equation NERNST EQUATION: (Electromotive force in millivolts)- It is concentration of paicular Ion on either side of the membrane. For calcium- Ca+2 concentration gradient from outside to inside (C1 /C2) is almost 10,000.- Intracellular Ca+2 is very low, So Ca+2 moves in very fast.- Ca+2 is divalent cation, So it will carry double the number of positive charges to inside.- Therefore, when Ca+2 reaches equilibrium, charge on the membrane will be very high. ( +129mv- highest of all the Ions in the body). For chloride- EP in nerve= -70mv- EP in muscle = -89mv RMP of muscle(-90mv) is closest to equilibrium potential of Cl-.- If membrane potential is very close to EP of any Ion then that Ion movement will not be that great- If membrane potential is far away from EP of any ion, then the ion movement will be much greater",
+        "exp": "- Ca+2 equilibrium potential is +129 millivolts- Equilibrium potential is calculated by Nernst equation NERNST EQUATION: (Electromotive force in millivolts)- It is concentration of paicular Ion on either side of the membrane. For calcium- Ca+2 concentration gradient from outside to inside (C1 /C2) is almost 10, 000.- Intracellular Ca+2 is very low, So Ca+2 moves in very fast.- Ca+2 is divalent cation, So it will carry double the number of positive charges to inside.- Therefore, when Ca+2 reaches equilibrium, charge on the membrane will be very high. ( +129mv- highest of all the Ions in the body). For chloride- EP in nerve= -70mv- EP in muscle = -89mv RMP of muscle(-90mv) is closest to equilibrium potential of Cl-.- If membrane potential is very close to EP of any Ion then that Ion movement will not be that great- If membrane potential is far away from EP of any ion, then the ion movement will be much greater",
         "cop": 4,
         "opa": "Na+",
         "opb": "K+",
@@ -79,7 +79,7 @@
     },
     {
         "question": "X, Y and Z are three permeable ions. If at resting potential, X and Y are - 50 and - 30 respectively. What is the value of Z?",
-        "exp": "Now in this question: The ions are freely permeable their conductance can be considered as same or simply 1. There is no mention of impermeant ion (negative impermeant protein along with selective permeability of cell membrane is responsible for negative RMP in cells), hence at rest or equilibrium, an electrical neutrality will be established resulting in the potential across membrane to become zero. Thus, Ex + Ey + Ez = 0; i.e; Ez = +80mV",
+        "exp": "Now in this question: The ions are freely permeable their conductance can be considered as same or simply 1. There is no mention of impermeant ion (negative impermeant protein along with selective permeability of cell membrane is responsible for negative RMP in cells), hence at rest or equilibrium, an electrical neutrality will be established resulting in the potential across membrane to become zero. Thus, Ex + Ey + Ez = 0; i. e; Ez = +80mV",
         "cop": 3,
         "opa": "20",
         "opb": "-20",
@@ -92,7 +92,7 @@
     },
     {
         "question": "Among the ions mentioned, the highest equilibrium potential is for:",
-        "exp": "Equilibrium potential for Ca2+ = +129 mV. Two factors are responsible for this high value: 1.Calcium is a divalent cation. 2.Its concentration gradient (ECF:ICF) is very large.",
+        "exp": "Equilibrium potential for Ca2+ = +129 mV. Two factors are responsible for this high value: 1. Calcium is a divalent cation. 2. Its concentration gradient (ECF: ICF) is very large.",
         "cop": 3,
         "opa": "Na+",
         "opb": "K+",
@@ -118,7 +118,7 @@
     },
     {
         "question": "Movement and eventual equilibrium of Na+, K+and Cl- across the muscle membrane would develop a potential of:",
-        "exp": "The question is for skeletal muscle; RMP = - 90 mV. When Na+, K+and Cl- are considered to diffuse together and reach equilibrium, the membrane potential at which all of them reach equilibrium can be calculated by Goldman's constant field equation. The equation takes into account the concentration gradients of the respective ions, relative permeability of the membrane for the ions and polarity of the electrical charge. When all the 3 ions reach equilibrium, charge on the membrane would be- 86 mV.An additional - 4 mV is contributed by Na+/K+-pump.",
+        "exp": "The question is for skeletal muscle; RMP = - 90 mV. When Na+, K+and Cl- are considered to diffuse together and reach equilibrium, the membrane potential at which all of them reach equilibrium can be calculated by Goldman's constant field equation. The equation takes into account the concentration gradients of the respective ions, relative permeability of the membrane for the ions and polarity of the electrical charge. When all the 3 ions reach equilibrium, charge on the membrane would be- 86 mV. An additional - 4 mV is contributed by Na+/K+-pump.",
         "cop": 4,
         "opa": "- 94 mV",
         "opb": "- 89 mV",

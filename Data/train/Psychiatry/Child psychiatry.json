@@ -1,5 +1,44 @@
 [
     {
+        "question": "In Profound MR, IQ is",
+        "exp": "IQ range for categories. ICD-10. DSM-IVMild50-6950-55 to 70. Moderate35-4935-40 to 50-55. Severe20-3420-25 to 35-40. Profound. Below 20. Below 20-25. Reference: Oxford Textbook of Psychiatry; 3rd edition; Chapter 18; Learning Disability",
+        "cop": 4,
+        "opa": "50-69",
+        "opb": "35-49",
+        "opc": "20-34",
+        "opd": "< 20",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "4eafd9d8-b2ea-4f44-ac7f-a12103f61945",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 3-year-old girl has normal developmental milestones except the delay in speech. She has difficulty in concentration, communication and relating to others and does not make friends but plays with herself. Likely diagnosis is",
+        "exp": "Autism Absent social smile Lack of eye to eye contact Lack of awareness of others existence or feelings and treats people as furniture Lack of attachment to parents and absence of separation anxiety No or abnormal social play prefers solitary games Marked impairment in making friends Absence of fear in presence of danger (Ref: a sho textbook of psychiatry, Niraj Ahuja, 7th edition, pg no 164)",
+        "cop": 2,
+        "opa": "ADHD",
+        "opb": "Autism",
+        "opc": "Specific learning disorder",
+        "opd": "Mental retardation",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "60566198-b289-4c99-a6e8-e44d12f1512b",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A 14-year-old boy has difficulty in expressing himself in writing and makes frequent spelling mistakes, does not follow instructions and cannot wait for his turn while playing a game. He is likely to be suffering from",
+        "exp": "Specific Learning Disability (SLD) in youth is a neurodevelopmental disorderproduced by the interaction of heritable and environmental factors that influence the brain's ability to effeciently perceive or process verbal and non verbal information. It is characterised by persistent difficulty learning academic skills reading, written expression, that is inconsistent with the overall intellectual ability of a child. They find difficulty to keep up with their peers in ceain academic subjects. SLD is associated with an increased risk of comorbid disorders, including ADHD, Communication disorders, Conduct disorders and Depressive disorders. Ref: Synopsis of Psychiatry, 11e, pg 1181.",
+        "cop": 3,
+        "opa": "Mental retardation",
+        "opb": "Lack of interest in studies",
+        "opc": "Specific learning disability",
+        "opd": "Examination anxiety",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "50977c8e-c06a-4ef1-b41d-ea1fe415fa75",
+        "choice_type": "single"
+    },
+    {
         "question": "A 9 year old child disturbs other people, is destructive, interferes when two people are talking, does not follow instructions and cannot wait for his turn while playing a game. He is likely to be suffering from:",
         "exp": "This child has symptoms of hyperactivity and impulsivity and the most likely diagnosis would be attention deficit hyperactivity disorder. Symptoms of ADHD: - Inattention - Hyperactivity - Impulsivity - Other symptoms- Destructive behavior, irritability, and aggression.",
         "cop": 4,
@@ -13,8 +52,34 @@
         "choice_type": "single"
     },
     {
+        "question": "Which of the following is not true about the autistic specific disorder",
+        "exp": "Core symptoms of Autism are 1. Persistent deficts in social communication and interaction, 2. Restricted, repititive patterns of behaviour, interests and activities, 3. Associated physical characteristics. Associated behavioural symptoms include- Disturbance in language development and usage, Intellectual disability, Irritability, Instability of mood and affect, Response to sensory stimuli, Hyperactivity and Inattetnion, Precocious skills, Insomnia, Minor infections and GI symptoms. Marked impairment in reciprocal social and interpersonal interaction: i. Absent social smile. ii. Lack of eye-to-eye-contact. iii. Lack of awareness of others existence or feelings; treats people as furniture. iv. Lack of attachment to parents and absence of separation anxiety. v. No or abnormal social play; prefers solitary games. vi. Marked impairment in making friends. vii. Lack of imitative behaviour. viii. An absence of fear in presence of danger. 2. Marked impairment in language and non-verbal communicationi. Lack of verbal or facial response to sounds or voices; might be thought as deaf initially. ii. In infancy, an absence of communicative sounds like babbling. iii. Absent or delayed speech (about half of autistic children never develop useful speech). iv. Abnormal speech patterns and content. Presence of echolalia, perseveration, poor aiculation and pronominal reversal (I-You) is common. v. Rote memory is usually good. vi. Abstract thinking is impaired. 3. Abnormal behavioural characteristicsi. Mannerisms. ii. Stereotyped behaviours such as head-banging, body-spinning, hand-flicking, lining-up objects, rocking, clapping, twirling, etc. iii. Ritualistic and compulsive behaviour. iv. Resistance to even the slightest change in the environment. v. The attachment may develop to inanimate objects. vi. Hyperkinesis is commonly associated. 4. Mental retardation Only about 25% of all children with autism have an IQ of more than 70. 5. Other featuresi. Many children with autism paicularly enjoy music. ii. In spite of the pervasive impairment of functions, ceain islets of precocity or splinter functions may remain (called as Idiot savant syndrome). Examples of such splinter functions are prodigious rote memory or calculating ability, and musical abilities. iii. Epilepsy is common in children with an IQ of less than 50. Ref: A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 164",
+        "cop": 4,
+        "opa": "Impaired communication",
+        "opb": "Impaired imagination",
+        "opc": "Language developmental delay",
+        "opd": "Vision problems",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "85ce9035-42d5-411d-86b1-f06f45e66783",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A 16-year-old male is found to have a mental age of 9 years on I. Q. testing. He has",
+        "exp": "IQ is (Mental age/ Chronological age) multiplied by 100. Here is it (9/16)* 100 which is 56. IQ is classified as Mild (50-69), Moderate (35-49), Severe (20-34) and Profound (<20). Ref: The ICD-10 Classification of behavioural and mental disorders, CDDG, pg 171.",
+        "cop": 1,
+        "opa": "Mild mental Retardation",
+        "opb": "Moderate mental retardation",
+        "opc": "Severe mental retardation",
+        "opd": "Profound mental retardation",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "36f3a90d-8006-4a16-bbfb-bde4642a216a",
+        "choice_type": "single"
+    },
+    {
         "question": "In ADHD the comorbid condition is",
-        "exp": "Ans: a (Learning disability)ADHD :Cardinal features- Extreme and persistant restlessness,- Sustained and prolonged motor activity,- Difficulty in maintaining attention,- Impulsiveness and difficulty in withholding responses.Symptoms should atleast last for 6 monthsICD 10 requires that symptom should start before 6 yrs of ageComorbidityConduct disorder,Depressive disorder,Anxiety disorder,Learning disabilityLanguage impairmentTreatment1. Support and psychological Rx2. Medicationsstimulant drugs- if severe restlessness and attention deficitMethyl phenidates/e - irritablity .depression, poor appetite, insomnia, slowing of growthAmoxetines/e- nausea,abd pain,loss of apetite, sleep disturbance, severe liver damage",
+        "exp": "Ans: a (Learning disability)ADHD: Cardinal features- Extreme and persistant restlessness, - Sustained and prolonged motor activity, - Difficulty in maintaining attention, - Impulsiveness and difficulty in withholding responses. Symptoms should atleast last for 6 months. ICD 10 requires that symptom should start before 6 yrs of age. Comorbidity. Conduct disorder, Depressive disorder, Anxiety disorder, Learning disability. Language impairment. Treatment1. Support and psychological Rx2. Medicationsstimulant drugs- if severe restlessness and attention deficit. Methyl phenidates/e - irritablity. depression, poor appetite, insomnia, slowing of growth. Amoxetines/e- nausea, abd pain, loss of apetite, sleep disturbance, severe liver damage",
         "cop": 1,
         "opa": "Learning disability",
         "opb": "Schizhophrenia",
@@ -27,7 +92,7 @@
     },
     {
         "question": "In the halstead Reitan battery which of the following is not a component for assessment?",
-        "exp": "Ans. B. Constructional praxisHalstead Reitan Battery Test:* Trail-Making Test, parts A and B (measures time to connect a sequence of numbers (Trail-Making, Part A) or alternating numbers and letters (Trail-Making, Part B).* Halstead Category Test (including seven subtests which form several factors: A Counting factor (subtests I and II), a Spatial Positional Reasoning factor (subtests III, IV, and VII), a Proportional Reasoning factor (subtests V, VI, and VII), and an Incidental Memory factor (subtest VII)- Tactual Performance Test- Seashore Rhythm Test- Speech Sounds Perception Test- Finger Oscillation Test- Sensory Perceptual Examination- Lateral Dominance Examination",
+        "exp": "Ans. B. Constructional praxis. Halstead Reitan Battery Test:* Trail-Making Test, parts A and B (measures time to connect a sequence of numbers (Trail-Making, Part A) or alternating numbers and letters (Trail-Making, Part B).* Halstead Category Test (including seven subtests which form several factors: A Counting factor (subtests I and II), a Spatial Positional Reasoning factor (subtests III, IV, and VII), a Proportional Reasoning factor (subtests V, VI, and VII), and an Incidental Memory factor (subtest VII)- Tactual Performance Test- Seashore Rhythm Test- Speech Sounds Perception Test- Finger Oscillation Test- Sensory Perceptual Examination- Lateral Dominance Examination",
         "cop": 2,
         "opa": "Rhythm",
         "opb": "Constructional praxis",
@@ -39,8 +104,21 @@
         "choice_type": "single"
     },
     {
+        "question": "Treatment of hyperkinetic syndrome includes",
+        "exp": "CNS stimulants are the first choice agents in that they have been shown to have greatest efficacy with generally mild tolerable side effect. Excellant safety record is documented fro sho and sustained release preparations of Methylphenidate, dextroamphetamine and dextroamphetamine and amphetamine salt combinations. Methylphenidate- 0. 3-1 mg/kg tid; upto 60mg/day. Both dexamphetamine and methylphenidate act on the reticular activating system, causing stimulation of the inhibitory influences on the cerebral coex, thus decreasing hyperactivity and/or distractibility Ref: Synopsis of Psychiatry, 11e, pg 1175. A sho textbook of psychiatry, Niraj Ahuja, 7th edition, pg no 167",
+        "cop": 2,
+        "opa": "Imipramine",
+        "opb": "Methylphenidate",
+        "opc": "Haloperidol",
+        "opd": "Clozapine",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "b9468c3e-6af6-4fac-8203-d63a448e1519",
+        "choice_type": "single"
+    },
+    {
         "question": "Among the following disorders which is not seen more in males than females?",
-        "exp": "Ans. D. Anorexia nervosaAnorexia nervosa is an eating disorder, characterized by low weight, food restriction, fear of gaining weight, and a strong desire to be thin. Many people with anorexia see themselves as overweight even though they are, in fact, underweight. They often deny that they have a problem with low weight. They weigh themselves frequently, eat small amounts, and only eat certain foods. Some will exercise excessively, force themselves to vomit, or use laxatives to produce weight loss. Complications may include osteoporosis, infertility, and heart damage--among others. Women will often stop having menstrual periods. It is seen more in males than females.",
+        "exp": "Ans. D. Anorexia nervosa. Anorexia nervosa is an eating disorder, characterized by low weight, food restriction, fear of gaining weight, and a strong desire to be thin. Many people with anorexia see themselves as overweight even though they are, in fact, underweight. They often deny that they have a problem with low weight. They weigh themselves frequently, eat small amounts, and only eat certain foods. Some will exercise excessively, force themselves to vomit, or use laxatives to produce weight loss. Complications may include osteoporosis, infertility, and heart damage--among others. Women will often stop having menstrual periods. It is seen more in males than females.",
         "cop": 4,
         "opa": "Autism",
         "opb": "Conduct disorder",
@@ -53,7 +131,7 @@
     },
     {
         "question": "Methylphenindate is drug of choice for",
-        "exp": "Ans. b (ADHD). (Ref. Pharmacology by KD Tripathi 5th/- 436; Harrison 18th/27, 369)Drugs used for ADHD# Methylphenidate# Amphetamine# PimolineMethylphenidate acts by releasing NA & dopamine in brain. It is preferred because it causes less tachycardia & growth retardation.",
+        "exp": "Ans. b (ADHD). (Ref. Pharmacology by KD Tripathi 5th/- 436; Harrison 18th/27, 369). Drugs used for ADHD# Methylphenidate# Amphetamine# Pimoline. Methylphenidate acts by releasing NA & dopamine in brain. It is preferred because it causes less tachycardia & growth retardation.",
         "cop": 2,
         "opa": "Obsessive compulsive disorder",
         "opb": "ADHD (attention deficit hypersensitivity disorder)",
@@ -62,6 +140,58 @@
         "subject_name": "Psychiatry",
         "topic_name": "Child Psychiatry",
         "id": "8cadb067-b35b-4389-ad2f-ce1e5562f67d",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 4-year-old boy interrupts his mother every time she talks on the phone. The family pediatrician recommends that whenever the child interrupts her, the mother should pay no attention to him. The pediatrician has recommended",
+        "exp": "In this scenario, the pediatrician has recommended extinguishing the interruptions by non-reinforcement. This means that the child's interrupting behavior will no longer be reinforced or rewarded by attention from the mother and will diminish over time. Intermittent, positive, and negative reinforcement all involve rewarding the desired behavior. Although punishing the child for the interruptions will be effective initially, the results of punishment are not as long-lasting as the results of extinction. Reference: Kaplon and sadock, 11 th edition, synopsis of psychiatry, 11 th edition, pg no. 1042",
+        "cop": 2,
+        "opa": "Intermittent reinforcement",
+        "opb": "Non reinforcement",
+        "opc": "Positive reinforcement",
+        "opd": "Negative reinforcement",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "5f815400-557b-42ff-86a9-931ccce2fd3a",
+        "choice_type": "single"
+    },
+    {
+        "question": "IQ is",
+        "exp": "Intellectual Disability (ID), formerly known as Mental retardation. ID is defined as a disability characterised by significant limitations in both intellectual functioning and in adaptive behaviour that emerges before the age of 18 years. Wide acceptance of this definition has led to the international consensus that an assesment of both social adaptation and intelligenc quotient (IQ)are necessary to determine the level of intellectual disability. Ref: Synopsis of Psychiatry, 11e, pg 1118",
+        "cop": 1,
+        "opa": "Mental age / Chronological age x 100",
+        "opb": "Chronological age / Mental age x 100",
+        "opc": "Mental age + Chronological age x 100",
+        "opd": "Mental age - Chronological age x 100",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "70790b9c-46ba-481b-90d6-7a0d243e308b",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 10-year-old child is always restless, inattentive to study and always wants to play outside. Parents are extremely distressed. What would you advise",
+        "exp": "The cardinal features of ADHD (Hyperkinetic disorder) are impaired attention and overactivity. Impaired attention is manifested by prematurely breaking off from tasks and leaving activities unfinished. Chuld chnages frequently from one activity to another, seemingly losing interest in one task beacuse they become diveed to another. Overactivity implies excessive restlessness, especially in situations requiring relative calm. It may be like running and jumping aroind, getting up from a seat when he or she is supposed to remain seated, excessive talkativeness and noisiness, or fidgeting and wriggling. Pharmacologic management is the first line of treatment fro ADHD. Stimulants are the first choice of agents. Ref: The ICD-10 Classification of mental and behavioural disorders, CDDG, pg 207. Synopsis of Psychiatry, 11e, pg 1175.",
+        "cop": 3,
+        "opa": "It is a normal behavior",
+        "opb": "Behaviour therapy",
+        "opc": "It is a serious illness requires medical treatment",
+        "opd": "Needs change in environment",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "c8852552-bc6f-4cf8-bf10-ca5ed30bdb40",
+        "choice_type": "single"
+    },
+    {
+        "question": "Normal IQ is",
+        "exp": "IQ ranges of 70-80 Boderlline deficiency 80-90 dullness 90-110 normal/ average intelligence 110-120 superior intelliegnce 120-140 very superior intelligence >140 genius Ref: Wikipedia.",
+        "cop": 4,
+        "opa": "45",
+        "opb": "85",
+        "opc": "65",
+        "opd": "100",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "6fd6fbeb-c795-4bd8-bab7-1148755718d1",
         "choice_type": "single"
     },
     {
@@ -78,6 +208,19 @@
         "choice_type": "multi"
     },
     {
+        "question": "Autism is characterised by-",
+        "exp": "Autism spectrum disorder (ASD) was previously known as Pervasive Developmental disorders, a phenotypically heterogenous group of neurodevelopmental syndromes, with a polygenic heritability. ASD was conceptualised as five discrete disorders, including autistic disorder, Asperger's syndrome, Childhood Disintegrative Disorder, rett's syndrome and Pervasive developmental disorder not otherwise specified. Current understanding on Etiology of Autism includes- Genetics, Biomarkers (abnormal signaling in 5. HT system, m. TOR linked synaptice plasticity mechanisma, alterations of GABA inhibitory system), Immunological factors, Prenatal & Perinatal factors, Comorbid neurological disorders and Psychosocial theories. Ref: Synopsis of Psychiatry, 11e, pg 1152 to 1155.",
+        "cop": 2,
+        "opa": "Biological causation",
+        "opb": "Pervasive social and language communication problem",
+        "opc": "Metabolic disease",
+        "opd": "Mainly due to hypothalamic damage",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "20b8fdac-2752-4279-a6d7-a25a4976b0c5",
+        "choice_type": "single"
+    },
+    {
         "question": "Which of the following disease in seen only in females?",
         "exp": "Rett's syndrome was earlier believed to occur exclusively in females, however of late males with similar presentation have been described. Rett's disorder is characterized by loss of social skills after a period of typical functioning as well as hand-wringing and breathing abnormalities",
         "cop": 3,
@@ -91,8 +234,34 @@
         "choice_type": "single"
     },
     {
+        "question": "All are features of autistic disorder except",
+        "exp": "Typically, the onset of autistic disorder occurs before the age of 2 1/2 years though in some cases, the onset may occur later in childhood. The characteristic features of the autistic disorder are: 1. Autism (marked impairment in reciprocal social and interpersonal interaction): i. Absent social smile. ii. Lack of eye-to-eye-contact. iii. Lack of awareness of others' existence or feelings; treats people as furniture. iv. Lack of attachment to parents and absence of separation anxiety. v. No or abnormal social play; prefers solitary games. vi. Marked impairment in making friends. vii. Lack of imitative behaviour. viii. The absence of fear in presence of danger. 2. Marked impairment in language and non-verbal communication: i. Lack of verbal or facial response to sounds or voices; might be thought as deaf initially. ii. In infancy, the absence of communicative sounds like babbling. iii. Absent or delayed speech (about half of autistic children never develop useful speech). iv. Abnormal speech patterns and content. Presence of echolalia, perseveration, poor aiculation and pronominal reversal (I-You) is common. v. Rote memory is usually good. vi. Abstract thinking is impaired. 3. Abnormal behavioural characteristics: i. Mannerisms. ii. Stereotyped behaviours such as head-banging, body-spinning, hand-flicking, lining-up objects, rocking, clapping, twirling, etc. iii. Ritualistic and compulsive behaviour. iv. Resistance to even the slightest change in the environment. v. The attachment may develop to inanimate objects. vi. Hyperkinesis is commonly associated. 4. Mental retardation: Only about 25% of all children with autism have an IQ of more than 70. A large majority (more than 50%) of these children have moderate to profound mental retardation. There appears to be a correlation between severity of mental retardation, an absence of speech and epilepsy in autism. 5. Other features: i. Many children with autism paicularly enjoy music. ii. In spite of the pervasive impairment of functions, ceain islets of precocity or splinter functions may remain (called as Idiot savant syndrome). Examples of such splinter functions are prodigious rote memory or calculating ability, and musical abilities. iii. Epilepsy is common in children with an IQ of less than 50. Ref: A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 163 Third person halluciantion is the component of First Rank Symptoms of Schneider for Schizophrenia.",
+        "cop": 4,
+        "opa": "Mental retardation",
+        "opb": "Absent social smile",
+        "opc": "Onset before 2 1/2 years",
+        "opd": "Third person hallucination",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "0af8b751-d852-4e93-956a-3fc97adeb283",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Oedipus complex is seen in",
+        "exp": "Sigmund freud gave Psychosexual stages of development. It includes Oral (upto 18 months), Anal (1 to 3 years), Phallic (3 to 5 years), Latency (5-6 to 11 -13 years) & Genital (11-13 to young adulthood) phases. Oedipus complex is seen in Phallic phase. The analogous thing in girls is Electra complex. Ref: Synopsis of Psychiatry, 11e, pg 158, 160.",
+        "cop": 4,
+        "opa": "Girls of 1-3 years of age",
+        "opb": "Boys of 1-3 years of age",
+        "opc": "Girls of 3-5 years of age",
+        "opd": "Boys of 3-5 years of age",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "1da9fa69-5c1b-47c8-887d-605aaa8b19c0",
+        "choice_type": "single"
+    },
+    {
         "question": "All are used in attention deficit hyperactivity disorder (ADHD) except:",
-        "exp": "Ans: a (Phenobarbitone) Ref: Ahuja, 6th ed, p. 180, Kaplan & Sadock, 8th edADHD is believed to be the most common psychiatric disorder in children, affecting 3 to 5 percent of the school-age population.Most children with ADHD are referred between the ages of 6 to 12.Treatment1) Pharmacotherapya. Stimulant medication-Dextroamphetamine and methyl phenidate are the drugs of choice in treatment of hyperkinetic disorder.b. Others-Used when stimulants are not effective. These include clonidine, imipramine, bupropion, venlafaxine, chlorpromazine, thioridazine and lithium carbonate. Atomoxetine can also be tried in those not responding to stimulants.2) Behaviour modification3) Counseling and supportive measures",
+        "exp": "Ans: a (Phenobarbitone) Ref: Ahuja, 6th ed, p. 180, Kaplan & Sadock, 8th ed. ADHD is believed to be the most common psychiatric disorder in children, affecting 3 to 5 percent of the school-age population. Most children with ADHD are referred between the ages of 6 to 12. Treatment1) Pharmacotherapya. Stimulant medication-Dextroamphetamine and methyl phenidate are the drugs of choice in treatment of hyperkinetic disorder. b. Others-Used when stimulants are not effective. These include clonidine, imipramine, bupropion, venlafaxine, chlorpromazine, thioridazine and lithium carbonate. Atomoxetine can also be tried in those not responding to stimulants. 2) Behaviour modification3) Counseling and supportive measures",
         "cop": 1,
         "opa": "Phenobarbitone",
         "opb": "Methyl phenidate",
@@ -105,7 +274,7 @@
     },
     {
         "question": "Which of the neurological-biochemical abnormalities is associated with autistic disorder?",
-        "exp": "Ans. D. All of the aboveEvidence exists demonstrating associations between autistic disorder and a variety of biological abnormalities. Estimates of lifetime occurrence of grand mal seizures ranges between 4 and 32 percent. Recent neuroimaging studies suggest a pattern of increased and then decreased rate of brain growth over time; increased total brain volume is noted in many individuals with autism. Ventricular enlargement on CT scan is observed in 20 to 25 percent of individuals with autism.Although no EEG findings are specific for autism, abnormalities are common in the disorder; estimates of prevalence of EEG abnormalities range from 10 to 83 percent, and failure of cerebral lateralization is a typical finding.One-third of children with autism demonstrate elevated serum serotonin levels; the significance of this finding is uncertain, particularly given similar rates of hyperserotonemia in children with severe mental retardation.",
+        "exp": "Ans. D. All of the above. Evidence exists demonstrating associations between autistic disorder and a variety of biological abnormalities. Estimates of lifetime occurrence of grand mal seizures ranges between 4 and 32 percent. Recent neuroimaging studies suggest a pattern of increased and then decreased rate of brain growth over time; increased total brain volume is noted in many individuals with autism. Ventricular enlargement on CT scan is observed in 20 to 25 percent of individuals with autism. Although no EEG findings are specific for autism, abnormalities are common in the disorder; estimates of prevalence of EEG abnormalities range from 10 to 83 percent, and failure of cerebral lateralization is a typical finding. One-third of children with autism demonstrate elevated serum serotonin levels; the significance of this finding is uncertain, particularly given similar rates of hyperserotonemia in children with severe mental retardation.",
         "cop": 4,
         "opa": "Seizures",
         "opb": "ventricular enlargement",
@@ -118,7 +287,7 @@
     },
     {
         "question": "A 6-year-old boy does not show any interest in other children, ignores adults other than his parents. He spends hours lining up his toy cars or spinning their wheels. He rarely uses speech to communicate. He remains confined to himself. If his routine is disturbed, he becomes restless. Which of the following disorders the child is most likely suffering from?",
-        "exp": "Ans. D. AutismAutistic disorder is characterized by lack of interest in social interactions, severely impaired verbal and nonverbal communication, stereotyped behaviors, and a very restricted range of interests. Children with autism do not involve themselves in imaginative and imitative play and can spend hours lining and spinning things or dismantling toys and putting them together. Mentally retarded children are developmentally delayed, but their social interaction and interest in people are appropriate for their mental age.",
+        "exp": "Ans. D. Autism. Autistic disorder is characterized by lack of interest in social interactions, severely impaired verbal and nonverbal communication, stereotyped behaviors, and a very restricted range of interests. Children with autism do not involve themselves in imaginative and imitative play and can spend hours lining and spinning things or dismantling toys and putting them together. Mentally retarded children are developmentally delayed, but their social interaction and interest in people are appropriate for their mental age.",
         "cop": 4,
         "opa": "Social phobia",
         "opb": "Intellectual disability",
@@ -143,7 +312,59 @@
         "choice_type": "single"
     },
     {
-        "question": "A 3 year old child has normal developmental milestones except delayed language development (poor speech development). He has difficulty in concentration, communication, and making friends (i.e. he has no friends) and spends time seeing his own hands. The most probable diagnosis is:",
+        "question": "Which of the following is not true about imbecile mentally retarded patients?",
+        "exp": "Imbecile is mentally retarded patients with IQ is between 25-49. IQ = (Mental age/Chronological age) X 100 Level of intelligence IQ Idiot 0-24 Imbecile 25-49 Moron 50-69 Borderline 70-79 Low normal 80-89 Normal 90-109 Superior 110-119 Very superior 120-139 Near genius > 140 Reference: Kaplon and sadock, 11 th edition, synopsis of psychiatry, 11 th edition, pg no. 800",
+        "cop": 3,
+        "opa": "They need help for doing their daily activities and manage their affairs",
+        "opb": "It can be congenital or acquired at times",
+        "opc": "IQ is between 50-60",
+        "opd": "They have mental development equivalent to that of 3-4 yrs of age children",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "49cb03f4-f163-4cba-ba42-e4f36e1a9d61",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A girl with normal milestones spend her time seeing her own hand, do not interact with others, what is the diagnosis?",
+        "exp": "Autism is diagnosed four times more often in boys than in girls. Ref: Synopsis of Psychiatry, 11e, pg 1153. Rett's syndrome is a progressive conditionthat has onset some months of normal development. During the first 5 months after, infants have age appropriate motor skills, normal head circumference and normal growth. social interaction shows expected reciprocal quality. At 6 months to 2 years of age, the child develops progressive encephalopathy. the signs often includes loss of purposeful hand movements, which are replaced by sterotypic motions, such as hand wringing etc. Ref: Synopsis of Psychiatry, 11e, pg 1166.",
+        "cop": 4,
+        "opa": "ADHD",
+        "opb": "Autism",
+        "opc": "Asperger's syndrome",
+        "opd": "Rett's disorder",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "a9f4120f-bc7c-462c-b5c7-0d38c52e0df9",
+        "choice_type": "single"
+    },
+    {
+        "question": "Which among the following is not a cardinal feature of ADHD",
+        "exp": "ADHD is characterized by the three core symptoms of inattention, hyperactivity, and impulsiveness. The symptoms under Inattention dimension are *DOES NOT LISTEN TO OTHERS *DOES NOT FOLLOW INSTRUCTIONS *LOOSES THINGS *FORGETS DISTRACTIBLE symptoms under hyperactivity dimension are *FIDHETY *LEAVES SEAT ALWAYS *TALKS MORE *DOES NOT PLAY QUIET symptoms under impulsivity dimension are *DOES NOT WAIT FOR TURN *BLUS OUT ANSWERS *INTERRUPTS DSM-IV recognizes 3 subtypes: a combined subtype where all 3 features are present, an inattentive subtype (ADD), and a hyperactive-impulsive subtype. Reference: Oxford Textbook of Psychiatry; 3rd edition; Chapter 16; Child and adolescent psychiatry",
+        "cop": 4,
+        "opa": "Inattention",
+        "opb": "Impulsivity",
+        "opc": "Hyperactivity",
+        "opd": "Temper Tantrums",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "a1a66afe-e1a8-42da-abb1-1ae8ebe999b6",
+        "choice_type": "single"
+    },
+    {
+        "question": "All are true about autism except",
+        "exp": "About 30% of children with Autism function in the intellectually disabled range. Among them, 30% are in mild to moderate range and about 45 to 50% are in severly to profound range. Children with Autism have been observed to have a higher incidence of abnormal dermatographics (fingerprints) than those in the general population. This finding might suggest a disturbance in neuro ectodermal development. Ref: Synopsis of Psychiatry, 11e, pg 1156, 1157.",
+        "cop": 1,
+        "opa": "2/3rd are mentally retarded",
+        "opb": "Language is impaired",
+        "opc": "Abnormal dermatoglyphics",
+        "opd": "Poor eye contact",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "aa781f8b-50b1-4fb0-8fb6-5ad8340e6ca6",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A 3 year old child has normal developmental milestones except delayed language development (poor speech development). He has difficulty in concentration, communication, and making friends (i. e. he has no friends) and spends time seeing his own hands. The most probable diagnosis is:",
         "exp": "The child has all the three core features of autism, Impairment in social interaction (difficulty in making friends) Impaired communication and repetitive Stereotyped behavior (spends most time seeing own hands). Clinical features of Autism: Impairment in social interaction (Reciprocal social skills poor) Poor eye contact, lack of social smile and anticipatory posture absent. * Poor attachment to parents and others * Restricted, repeated & stereotype behaviors * Repetitive plays Stereotyped movements like hand wringing, spinning and head banging * Impairment of communication and language * Delayed language milestones, motor milestones normal * - Higher threshold for pain and less/no sensations for spinning movements. - Self destructive behaviors (biting, scratching, head banging) - Abnormal dermatoglyphics (fingerprints)",
         "cop": 1,
         "opa": "Autism",
@@ -170,7 +391,7 @@
     },
     {
         "question": "A 15 year old child comes with multiple movements of hand and whistling sounds, which are preceded by premonitory urge and is unable to do work at school and at home and leads to distress. These had an onset when he was 10 years age. He showed some improvement with haloperidol. What is the diagnosis?",
-        "exp": "Ans. D. Tourette's syndromeIn the question person is suffering from Tourette's syndromeTourette's Disorder (DSM-5): Both multiple motor & 1 or > vocal tics have been present at some time during illness, although not necessarily concurrently.Tics may wax & wane but persist for >1 year since 1st tic onsetOnset is before age 18 years.",
+        "exp": "Ans. D. Tourette's syndrome. In the question person is suffering from Tourette's syndrome. Tourette's Disorder (DSM-5): Both multiple motor & 1 or > vocal tics have been present at some time during illness, although not necessarily concurrently. Tics may wax & wane but persist for >1 year since 1st tic onset. Onset is before age 18 years.",
         "cop": 4,
         "opa": "Generalized anxiety disorder",
         "opb": "Obsessive-compulsive disorder",
@@ -195,6 +416,19 @@
         "choice_type": "single"
     },
     {
+        "question": "In individuals 2 to 18 years old, the Stanford Binet Scale is most useful for evaluating",
+        "exp": "The Stanford-Binet Scale is useful for evaluating general intellectual ability in individuals 2 to 18 years old. Cerebral dominance, perceptuomotor performance, memory, and presence or absence of dyslexia are evaluated in adults using neuropsychological tests such as the Halstead-Reitan and Luria-Nebraska test batteries.",
+        "cop": 2,
+        "opa": "Cerebral dominance",
+        "opb": "General intellectual ability",
+        "opc": "Perceptuomotor performance",
+        "opd": "Memory",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "f7c90fee-76d9-48a9-9311-8bb8be21ead9",
+        "choice_type": "single"
+    },
+    {
         "question": "A 10 year old child has mental age of 4 years. He is:-",
         "exp": "IQ level = mental age/ chronological age X 100 - IQ (intelligence quotient) = Mental age / Chronological age X 10 Term IQ range Moron 51- 70 Imbecile 26 - 50 Idiot 0 - 25",
         "cop": 2,
@@ -209,7 +443,7 @@
     },
     {
         "question": "Which of the following is not included in an adoption triad",
-        "exp": "Adoption triad includes : Bih parents Adoptive parents Adopted child Adoption triad does not include the hospital from which the child is adopted.",
+        "exp": "Adoption triad includes: Bih parents Adoptive parents Adopted child Adoption triad does not include the hospital from which the child is adopted.",
         "cop": 3,
         "opa": "Adoptive parent",
         "opb": "Adopted child",
@@ -222,7 +456,7 @@
     },
     {
         "question": "Drug of choice for Adult ADHD?",
-        "exp": "Ans. C. Methylphenidate. (Ref. Kaplan and Sadock's Concise Textbook of Clinical Psychiatry 3rd edition: pg. 492; http:// ps.psychiatryonline.org/ article.aspx? articleid- 83195) ATTENTION DEFICIT/HYPERACTIVITY DISORDER (ADHD)General comments# Male to female ratio--10:1# Overtreatment is common; differentiate from child who is simply \" overactive\"Clinical signs# Difficulty sustaining attention: difficulty with organization, easily distracted, often does not listen when spoken to, doesn't complete tasks# Hyperactivity: fidgets, often leaves seat in classroom, difficulty playing quietly, talks excessively# Impulsivity: interrupts others, blurts out answers, difficulty waiting turnTreatment# Behavior therapy# Drug therapy: methylphenidate, dextroamphetamine, atomoxetine# Because pharmacologic treatments have been shown to be the most effective approaches for childhood ADHD, they have been the most extensively studied treatment for adult ADHD. Among the nonstimulant medications used to treat adult ADHD, the most promising are desipramine, tomoxetine, and bupropion, and possibly venlafaxine (a atypical antidepressant referred to as SNRI).# Whereas bupropion and venlafaxine have been evaluated and found promising only in open trials, desipramine and tomoxetine have been studied under double-blind conditions and found to reduce ADHD symptoms significantly better than placebo.# Among stimulant medications for adults with ADHD, methylphenidate has been the most widely studied. Six studies have evaluated the efficacy of methylphenidate, and three studies have evaluated the efficacy of pemoline. The majority of studies have reported improvement in ADHD symptoms.# It has not been compared with proved ADHD medications, such as methylphenidate or atomoxetine, for childhood and adult ADHD. Bupropion is an appropriate choice for persons with comorbid ADHD and depression",
+        "exp": "Ans. C. Methylphenidate. (Ref. Kaplan and Sadock's Concise Textbook of Clinical Psychiatry 3rd edition: pg. 492; http:// ps. psychiatryonline. org/ article. aspx? articleid- 83195) ATTENTION DEFICIT/HYPERACTIVITY DISORDER (ADHD). General comments# Male to female ratio--10: 1# Overtreatment is common; differentiate from child who is simply \" overactive\"Clinical signs# Difficulty sustaining attention: difficulty with organization, easily distracted, often does not listen when spoken to, doesn't complete tasks# Hyperactivity: fidgets, often leaves seat in classroom, difficulty playing quietly, talks excessively# Impulsivity: interrupts others, blurts out answers, difficulty waiting turn. Treatment# Behavior therapy# Drug therapy: methylphenidate, dextroamphetamine, atomoxetine# Because pharmacologic treatments have been shown to be the most effective approaches for childhood ADHD, they have been the most extensively studied treatment for adult ADHD. Among the nonstimulant medications used to treat adult ADHD, the most promising are desipramine, tomoxetine, and bupropion, and possibly venlafaxine (a atypical antidepressant referred to as SNRI).# Whereas bupropion and venlafaxine have been evaluated and found promising only in open trials, desipramine and tomoxetine have been studied under double-blind conditions and found to reduce ADHD symptoms significantly better than placebo.# Among stimulant medications for adults with ADHD, methylphenidate has been the most widely studied. Six studies have evaluated the efficacy of methylphenidate, and three studies have evaluated the efficacy of pemoline. The majority of studies have reported improvement in ADHD symptoms.# It has not been compared with proved ADHD medications, such as methylphenidate or atomoxetine, for childhood and adult ADHD. Bupropion is an appropriate choice for persons with comorbid ADHD and depression",
         "cop": 3,
         "opa": "Olanzepine",
         "opb": "Fluoxetine",
@@ -235,7 +469,7 @@
     },
     {
         "question": "In a child with profound mental retardation, what is the IQ?",
-        "exp": "Ans. D.<20Level of intelligenceIQProfound MR<20Severe MR20-34Moderate MR35-49Mild MR50-69Borderline70-79Low normal80-89Normal90-108Superior109-119Very superior120-139Near genius>140IQ-<70 - Mental retardation50-70- Mild MR - educable up to 6th class35-49 - Moderate MR - trainable (study up to 2nd class)20-34- Severe MR - specialized care<20 - Profound MR - chronic rehabilitation",
+        "exp": "Ans. D.<20. Level of intelligence. IQProfound MR<20. Severe MR20-34. Moderate MR35-49. Mild MR50-69. Borderline70-79. Low normal80-89. Normal90-108. Superior109-119. Very superior120-139. Near genius>140. IQ-<70 - Mental retardation50-70- Mild MR - educable up to 6th class35-49 - Moderate MR - trainable (study up to 2nd class)20-34- Severe MR - specialized care<20 - Profound MR - chronic rehabilitation",
         "cop": 4,
         "opa": "20-34",
         "opb": "35-49",
@@ -247,8 +481,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Lovaas-based Model is which kind of intervention used in Autistic spectrum disorders ?",
-        "exp": "Lovaas-based Model is an Early Intensive behavioral and developmental intervention Non pharmacological Interventions in Autistic spectrum disorders Early Intensive behavioral and developmental intervention Educational interventions Cognitive and behavioral intervention Social Skills training UCLA/Lovaas-based Model Early Sta Denver Model (ESDM) Parent Training Approaches Treatment and Education of Autistic and Communication relatedHandicapped children (TEACCH) Broad-based approaches Computer-based approaches and viual reality Behavioral Therapy Cognitive-Behavioral Therapy Initiating socialconversation, greetings, initiating games, and joint attention.",
+        "question": "Lovaas-based Model is which kind of intervention used in Autistic spectrum disorders?",
+        "exp": "Lovaas-based Model is an Early Intensive behavioral and developmental intervention Non pharmacological Interventions in Autistic spectrum disorders Early Intensive behavioral and developmental intervention Educational interventions Cognitive and behavioral intervention Social Skills training UCLA/Lovaas-based Model Early Sta Denver Model (ESDM) Parent Training Approaches Treatment and Education of Autistic and Communication related. Handicapped children (TEACCH) Broad-based approaches Computer-based approaches and viual reality Behavioral Therapy Cognitive-Behavioral Therapy Initiating socialconversation, greetings, initiating games, and joint attention.",
         "cop": 3,
         "opa": "Educational intervention",
         "opb": "Cognitive and behavioral intervention",
@@ -260,8 +494,8 @@
         "choice_type": "single"
     },
     {
-        "question": "In autism spectrum disorder, which of the following is identified as the first biomarker ?",
-        "exp": "In autism spectrum disorder, | level of serotonin in the platelets is identified as the first biomarker. Other biomarkers are mTOR pathway Increased total brain volume in children < 4 years of age g-aminobutyric acid (GABA) inhibitory system",
+        "question": "In autism spectrum disorder, which of the following is identified as the first biomarker?",
+        "exp": "In autism spectrum disorder, | level of serotonin in the platelets is identified as the first biomarker. Other biomarkers are m. TOR pathway Increased total brain volume in children < 4 years of age g-aminobutyric acid (GABA) inhibitory system",
         "cop": 3,
         "opa": "Decreased brain volume in children less than 4 years",
         "opb": "Reduced latency of sleep",
@@ -274,7 +508,7 @@
     },
     {
         "question": "Specific Learning Disability involves which of the following?",
-        "exp": "Ans. D. All of the aboveSLD may include:1. Specific learning disorder with impairment in reading (Dyslexia): Difficulty in recognizing words, slow & inaccurate reading, poor comprehension, difficulties with spelling.2. Specific learning disorder with impairment in written expression (specific spelling disorder):Writing skills-- sig below expected level for child's age & education. Components of writing disorder: poor spelling, errors in grammar and punctuation, & poor handwriting. Spelling errors are among the most common difficulties. Eg: fone for phone, or beleeve for believe.3. Specific learning disorder with impairment in mathematics (Dyscalculia):Have difficulty learning & remembering numerals,Cannot remember basic facts about numbers and are slow and inaccurate in computation.",
+        "exp": "Ans. D. All of the above. SLD may include: 1. Specific learning disorder with impairment in reading (Dyslexia): Difficulty in recognizing words, slow & inaccurate reading, poor comprehension, difficulties with spelling. 2. Specific learning disorder with impairment in written expression (specific spelling disorder): Writing skills-- sig below expected level for child's age & education. Components of writing disorder: poor spelling, errors in grammar and punctuation, & poor handwriting. Spelling errors are among the most common difficulties. Eg: fone for phone, or beleeve for believe. 3. Specific learning disorder with impairment in mathematics (Dyscalculia): Have difficulty learning & remembering numerals, Cannot remember basic facts about numbers and are slow and inaccurate in computation.",
         "cop": 4,
         "opa": "Writing",
         "opb": "Reading",
@@ -300,7 +534,7 @@
     },
     {
         "question": "As per National Trust Act, patients suffering from which of the following disease are eligible for disability benefit?",
-        "exp": "Ans. C. Mental retardationTHE NATIONAL TRUST ACT, 1999An Act to provide for the constitution of a body at the national level for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities and for matters connected therewith or incidental thereto The National Trust for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 and its Rules & Regulations* With effect from such date as the Central Government may, by notification, appointment, there shall be constituted, for the purpose of this Act, a body by the name of the National Trust for Welfare of persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities which shall be a body corporate by the name aforesaid, having perpetual succession and a common seal, with power, subject to the provision of this Act, to acquire, hold and dispose of property, both movable and immovable, and both movable and immovable, and contact, and shall, by the said name, sure or be sued.* The general superintendence, direction and management of the affairs and business of the Trust shall vest in a Board which may exercise all powers and do all acts and things which may be exercised or done by the Trust.* The head office of the Trust shall be at New Delhi and the Board may, with the previous approval of the Central Government, establish offices at other places in India.",
+        "exp": "Ans. C. Mental retardation. THE NATIONAL TRUST ACT, 1999. An Act to provide for the constitution of a body at the national level for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities and for matters connected therewith or incidental thereto The National Trust for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 and its Rules & Regulations* With effect from such date as the Central Government may, by notification, appointment, there shall be constituted, for the purpose of this Act, a body by the name of the National Trust for Welfare of persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities which shall be a body corporate by the name aforesaid, having perpetual succession and a common seal, with power, subject to the provision of this Act, to acquire, hold and dispose of property, both movable and immovable, and both movable and immovable, and contact, and shall, by the said name, sure or be sued.* The general superintendence, direction and management of the affairs and business of the Trust shall vest in a Board which may exercise all powers and do all acts and things which may be exercised or done by the Trust.* The head office of the Trust shall be at New Delhi and the Board may, with the previous approval of the Central Government, establish offices at other places in India.",
         "cop": 3,
         "opa": "Learning disability",
         "opb": "Depression",
@@ -312,8 +546,21 @@
         "choice_type": "single"
     },
     {
-        "question": "Coprolalia is an impoant symptom for which of the following disorder ?",
-        "exp": "Diagnosis of Tourette's disorder : History ofmultiple motor tics and at least one vocal tic at some point. Onset < 18 years of age (between 10 -12 years of age ) No tic-free period of > 3 consecutive months in a period of 1 year. Coprolalia occurs in 10% patients of Tourette's syndrome",
+        "question": "Extracampine hallucinations term was given by",
+        "exp": "extracampine halluciantion: hallucination that is outside the limits of the sensory field. eg- patient sees somebody standing behind them when they are looking staright ahead or hear voices talking in london whne thye are in liverpool. They can occur in healthy people as hypnogogic halluciantions bbut also in Schizophrenia or Organic conditions, including Epilepsy. Ref: Fish Psychopathology, 3e, pg 27. Extracampine halluciantion was coined by E Bleuler. Ref: Bleuler E. Extracampine hallucinationen. Psychiatrisch-Neurologische Wochenschrift, 1903.",
+        "cop": 1,
+        "opa": "Eugene Bleuler",
+        "opb": "William Harvey",
+        "opc": "Robo Macinoff",
+        "opd": "Eden Speroff",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "d11da3b1-ac6b-4d80-89a9-54ac484cace3",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Coprolalia is an impoant symptom for which of the following disorder?",
+        "exp": "Diagnosis of Tourette's disorder: History ofmultiple motor tics and at least one vocal tic at some point. Onset < 18 years of age (between 10 -12 years of age ) No tic-free period of > 3 consecutive months in a period of 1 year. Coprolalia occurs in 10% patients of Tourette's syndrome",
         "cop": 3,
         "opa": "Anxiety disorder",
         "opb": "Avoidant personality disorder",
@@ -326,7 +573,7 @@
     },
     {
         "question": "Which of the following statements is true regarding Rett syndrome?",
-        "exp": "Ans. D. None of the aboveRett syndrome is a progressive condition that develops after 6 months of apparently normal development after birth. Head circumference at birth is normal, and early developmental milestones, including social interactions, are unremarkable. Between 6 and 48 months, most commonly between 6 and 12 months, a progressive encephalopathy develops. Head growth begins to decelerate, with resultant microcephaly. Motor abnormalities occur; purposeful hand movements are lost, and characteristic midline hand movements, such as hand wringing, emerge.Gait and truncal apraxia, ataxia, and poor coordination develop in the preschool years. Expressive and receptive language skills deteriorate and are associated with marked mental retardation (not normal intelligence). A loss of social interactional skills is observed during the preschool years. The etiology of the disease is unknown. A genetic basis for the condition is likely; Rett syndrome occurs only in girls, and case reports indicate complete concordance in monozygotic twins.Associated features include seizures (occurring in up to 75% of affected patients) and irregular respiration with episodes of hyperventilation, apnea, and breath holding.",
+        "exp": "Ans. D. None of the above. Rett syndrome is a progressive condition that develops after 6 months of apparently normal development after birth. Head circumference at birth is normal, and early developmental milestones, including social interactions, are unremarkable. Between 6 and 48 months, most commonly between 6 and 12 months, a progressive encephalopathy develops. Head growth begins to decelerate, with resultant microcephaly. Motor abnormalities occur; purposeful hand movements are lost, and characteristic midline hand movements, such as hand wringing, emerge. Gait and truncal apraxia, ataxia, and poor coordination develop in the preschool years. Expressive and receptive language skills deteriorate and are associated with marked mental retardation (not normal intelligence). A loss of social interactional skills is observed during the preschool years. The etiology of the disease is unknown. A genetic basis for the condition is likely; Rett syndrome occurs only in girls, and case reports indicate complete concordance in monozygotic twins. Associated features include seizures (occurring in up to 75% of affected patients) and irregular respiration with episodes of hyperventilation, apnea, and breath holding.",
         "cop": 4,
         "opa": "Seen only in boys",
         "opb": "Does not involve motor abnormalities",
@@ -339,7 +586,7 @@
     },
     {
         "question": "A Child shows head growth decelerating between ages of 6 months and 1 year. Which of the following is the most likely diagnosis?",
-        "exp": "Ans. D. Rett syndromeRett syndrome is a progressive condition that develops after some months of apparently normal development. Head circumference is normal at birth, and early developmental milestones are unremarkable. Between 5 and 48 months (usually between 6 months and 1 year), head growth begins to decelerate. Purposeful hand movements are lost, and characteristic midline hand wringing or hand washing stereotypies develop. Expressive and receptive language skills become severely impaired and are associated with marked mental retardation. In the preschool years, gait apraxia and truncal apraxia and ataxia develop.Down syndrome is the most common cause of mental retardation.Autistic disorder and learning disorders do not include changes in head growth.",
+        "exp": "Ans. D. Rett syndrome. Rett syndrome is a progressive condition that develops after some months of apparently normal development. Head circumference is normal at birth, and early developmental milestones are unremarkable. Between 5 and 48 months (usually between 6 months and 1 year), head growth begins to decelerate. Purposeful hand movements are lost, and characteristic midline hand wringing or hand washing stereotypies develop. Expressive and receptive language skills become severely impaired and are associated with marked mental retardation. In the preschool years, gait apraxia and truncal apraxia and ataxia develop. Down syndrome is the most common cause of mental retardation. Autistic disorder and learning disorders do not include changes in head growth.",
         "cop": 4,
         "opa": "Down syndrome",
         "opb": "Autistic disorder",
@@ -352,7 +599,7 @@
     },
     {
         "question": "A 7 yrs old child has conservative behavior, not playing quitely with peers, and difficulty in organization. He also interrupts others in school and easily gets distracted. Which of the foiling is likely diagnosis?",
-        "exp": "Ans. C. ADHD. (Ref: Kaplan & Sadock's Synopsis of Psychiatry, Xth/Ch.43, Page no, 1208.)A 7-year-old child has conservative behavior, not playing quietly with peers, and difficulty in organization. He also interrupts others in school and easily gets distracted. The most likely diagnosis is ADHD (Attention deficit hyperactivity disorder).Kaplan, pg. 576............\"Excessive motor activity, usually with intrusive and annoying qualities, poor sustained attention, difficulties inhibiting impulsive behaviors in social situations and on cognitive tasks, and difficulties with peers are the main characteristics of ADHD, combined type. Symptoms must be present in two or more settings (in this case, home and school) and must cause significant impairment. The Rx of choice for ADHD is CNS stimulants, primarily detroamphetamine, methylphenidate, and pemoline.**.Discussion:Conduct disorder# Children with conduct disorder display a persistent disregard for rules and other people's rights that lasts at least one year.# Aggression toward people and animals, destruction of property, deceit and illegal activities, and frequent truancy from school are the main characteristics of the disorder.# Patients with antisocial personality disorder display a pervasive pattern of disregard for and violation of the rights of others since the age of 15 years, with evidence of a conduct disorder before age 15. Substance abuse is just one facet of conduct disorder.# Children with oppositional defiant disorder are problematic and rebellious but do not routinely engage in aggressive, destructive, or illegal activities.Autistic disorder# Autistic disorder is characterized by lack of interest in social interactions, severely impaired verbal and nonverbal communication, stereotyped behaviors, and a very restricted range of interests.# Children with autism do not involve themselves in imaginative and imitative play and can spend hours lining and spinning things or dismantling toys and putting them together.# Patients with obsessive-compulsive disorder may spend hours on repetitive tasks (such as lining up toys) but do not show the difficulties with language and social interaction that this patient displays.# Patients with Asperger's syndrome show no clinically significant delay in spoken or receptive language development, making this diagnosis unlikely.# Patients with Rett's disorder by the age of 5 would be expected to have microcephaly and a disordered gait (unsteady and stiff).Attention-deficit hyperactivity disorderOnset before age 12. Limited attention span and poor impulse control. Characterized by hyperactivity, impulsivity, and/or inattention in multiple settings (school, home, places of worship, etc.). Normal intelligence, but commonly coexists with difficulties in school. Continues into adulthood in as many as 50% of individuals. Associated with*frontal lobe volume/ metabolism. Treatment: methylphenidate, amphetamines, atomoxetine, behavioral interventions (reinforcement, reward).Conduct disorderRepetitive and pervasive behavior violating the basic rights of others (e.g,, physical aggression, destruction of property, theft). After age 18, many of these patients will meet criteria for diagnosis of antisocial personality disorder.Oppositional defiant disorderEnduring pattern of hostile, defiant behavior toward authority figures in the absence of serious violations of social norms.Tourette syndromeOnset before age 18. Characterized by sudden, rapid, recurrent, nonrhythmic, stereotyped motor and vocal tics that persist for > 1 year. Lifetime prevalence of 0.1-1.0% in the general population. Coprolalia (involuntary obscene speech) found in only 10-20% of patients. Associated with OCD and ADHD. Treatment: antipsychotics and behavioral therapy.Separation anxiety disorderCommon onset at 7-9 years. Overwhelming fear of separation from home or loss of attachment figure. May lead to factitious physical complaints to avoid going to or staying at school. Treatment: SSRIs and relaxation techniques/behavioral interventions.",
+        "exp": "Ans. C. ADHD. (Ref: Kaplan & Sadock's Synopsis of Psychiatry, Xth/Ch. 43, Page no, 1208.)A 7-year-old child has conservative behavior, not playing quietly with peers, and difficulty in organization. He also interrupts others in school and easily gets distracted. The most likely diagnosis is ADHD (Attention deficit hyperactivity disorder). Kaplan, pg. 576............ \"Excessive motor activity, usually with intrusive and annoying qualities, poor sustained attention, difficulties inhibiting impulsive behaviors in social situations and on cognitive tasks, and difficulties with peers are the main characteristics of ADHD, combined type. Symptoms must be present in two or more settings (in this case, home and school) and must cause significant impairment. The Rx of choice for ADHD is CNS stimulants, primarily detroamphetamine, methylphenidate, and pemoline.**. Discussion: Conduct disorder# Children with conduct disorder display a persistent disregard for rules and other people's rights that lasts at least one year.# Aggression toward people and animals, destruction of property, deceit and illegal activities, and frequent truancy from school are the main characteristics of the disorder.# Patients with antisocial personality disorder display a pervasive pattern of disregard for and violation of the rights of others since the age of 15 years, with evidence of a conduct disorder before age 15. Substance abuse is just one facet of conduct disorder.# Children with oppositional defiant disorder are problematic and rebellious but do not routinely engage in aggressive, destructive, or illegal activities. Autistic disorder# Autistic disorder is characterized by lack of interest in social interactions, severely impaired verbal and nonverbal communication, stereotyped behaviors, and a very restricted range of interests.# Children with autism do not involve themselves in imaginative and imitative play and can spend hours lining and spinning things or dismantling toys and putting them together.# Patients with obsessive-compulsive disorder may spend hours on repetitive tasks (such as lining up toys) but do not show the difficulties with language and social interaction that this patient displays.# Patients with Asperger's syndrome show no clinically significant delay in spoken or receptive language development, making this diagnosis unlikely.# Patients with Rett's disorder by the age of 5 would be expected to have microcephaly and a disordered gait (unsteady and stiff). Attention-deficit hyperactivity disorder. Onset before age 12. Limited attention span and poor impulse control. Characterized by hyperactivity, impulsivity, and/or inattention in multiple settings (school, home, places of worship, etc.). Normal intelligence, but commonly coexists with difficulties in school. Continues into adulthood in as many as 50% of individuals. Associated with*frontal lobe volume/ metabolism. Treatment: methylphenidate, amphetamines, atomoxetine, behavioral interventions (reinforcement, reward). Conduct disorder. Repetitive and pervasive behavior violating the basic rights of others (e. g,, physical aggression, destruction of property, theft). After age 18, many of these patients will meet criteria for diagnosis of antisocial personality disorder. Oppositional defiant disorder. Enduring pattern of hostile, defiant behavior toward authority figures in the absence of serious violations of social norms. Tourette syndrome. Onset before age 18. Characterized by sudden, rapid, recurrent, nonrhythmic, stereotyped motor and vocal tics that persist for > 1 year. Lifetime prevalence of 0. 1-1. 0% in the general population. Coprolalia (involuntary obscene speech) found in only 10-20% of patients. Associated with OCD and ADHD. Treatment: antipsychotics and behavioral therapy. Separation anxiety disorder. Common onset at 7-9 years. Overwhelming fear of separation from home or loss of attachment figure. May lead to factitious physical complaints to avoid going to or staying at school. Treatment: SSRIs and relaxation techniques/behavioral interventions.",
         "cop": 3,
         "opa": "Learning disorder",
         "opb": "Autistic disorder",
@@ -378,7 +625,7 @@
     },
     {
         "question": "Which one of the following is not a Pervasive Developmental Disorder",
-        "exp": "Pervasive Developmental Disorder- group of neurodevelopmental disorder. It includes- Autism (i.e. marked impairment in reciprocal social and interpersonal interaction) Asperger's syndrome is characterized by autism without any significant delay in language or cognitive development (including intelligence). Rett's syndrome is a disorder which is only repoed in girls so far. Heller's syndrome",
+        "exp": "Pervasive Developmental Disorder- group of neurodevelopmental disorder. It includes- Autism (i. e. marked impairment in reciprocal social and interpersonal interaction) Asperger's syndrome is characterized by autism without any significant delay in language or cognitive development (including intelligence). Rett's syndrome is a disorder which is only repoed in girls so far. Heller's syndrome",
         "cop": 2,
         "opa": "Autistic disorder",
         "opb": "Conduct disorder",
@@ -404,7 +651,7 @@
     },
     {
         "question": "A girl with normal milestones spends her time seeing her own hand and does not interact with others. What is the likely diagnosis?",
-        "exp": "The history of restricted behaviors and poor social interaction with normal language milestones is suggestive of Aspergers syndrome Asperger's syndrome: - it is similar to autism i.e. except language dysfunction, both impaired social interaction and restrictive social interaction are seen.",
+        "exp": "The history of restricted behaviors and poor social interaction with normal language milestones is suggestive of Aspergers syndrome Asperger's syndrome: - it is similar to autism i. e. except language dysfunction, both impaired social interaction and restrictive social interaction are seen.",
         "cop": 3,
         "opa": "ADHD",
         "opb": "Autism",
@@ -416,8 +663,21 @@
         "choice_type": "single"
     },
     {
+        "question": "Antisocial behaviour/ Dissocial personality is characterised by",
+        "exp": "1. Callous inconcern for the feelings of others. 2. Gross and persistent attitude of irresponsibility and disregard for social norms, rules and regulations, 3. incapacity to maintain enduring relationships, though having no difficulty in establishing them 4. very low tolerance to frustration and a low threshold for discharge of aggression, including violence. 5. incapacity to experience guilt or to profit from experience, paicularly punishment. 6. marked proneness to blame others, or to offer plausible rationlisations, for the behaviour that has brought patient into conflict with society. Ref: ICD-10, CDDG, pg 159.",
+        "cop": 3,
+        "opa": "Excessive sensitivity to suspiciousness",
+        "opb": "Emotional coldness and lack of pressure",
+        "opc": "Unconcern for feelings of others, disregard for social norms",
+        "opd": "Self dramatization and exaggerated expression of emotions",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "ad34f462-d86b-49da-bb99-a3cfa893d7b9",
+        "choice_type": "single"
+    },
+    {
         "question": "Oedipus complex develops in which phase?",
-        "exp": "Ans. is 'd' i.e., Phallic PhasePsychiatric disorders resulting from fixation of regression to this phase* Oral phase (Birth 1 Vx year)* Alcohol dependence or drug dependence* Severe mood disorder* Dependent personality traits and disorders* Schizophrenia* Ana! phase* Obsessive compulsive traits* Obsessive compulsive disorder* Phallic (oedipal) Phase (3-5 years)* Oedipus complex is the primary cause of hysteria and other neurotic symptoms* Latency phase (5-12 years)* Neurotic disorders* Genital phase (12 years onward)* Neurotic disorders",
+        "exp": "Ans. is 'd' i. e., Phallic Phase. Psychiatric disorders resulting from fixation of regression to this phase* Oral phase (Birth 1 Vx year)* Alcohol dependence or drug dependence* Severe mood disorder* Dependent personality traits and disorders* Schizophrenia* Ana! phase* Obsessive compulsive traits* Obsessive compulsive disorder* Phallic (oedipal) Phase (3-5 years)* Oedipus complex is the primary cause of hysteria and other neurotic symptoms* Latency phase (5-12 years)* Neurotic disorders* Genital phase (12 years onward)* Neurotic disorders",
         "cop": 4,
         "opa": "Oral",
         "opb": "Anal",
@@ -456,7 +716,7 @@
     },
     {
         "question": "All of the following are classified under Pervasive Developmental Disorders except?",
-        "exp": "Ans. C. Down SyndromePervasive developmental disorder includes:* Autistic disorder* Asperger's disorder* Childhood disintegrative disorder,* Rett syndrome* Pervasive developmental disorder not otherwise specified.",
+        "exp": "Ans. C. Down Syndrome. Pervasive developmental disorder includes:* Autistic disorder* Asperger's disorder* Childhood disintegrative disorder, * Rett syndrome* Pervasive developmental disorder not otherwise specified.",
         "cop": 3,
         "opa": "Asperger Syndrome",
         "opb": "Childhood Disintegrative Disorder",
@@ -481,8 +741,21 @@
         "choice_type": "multi"
     },
     {
-        "question": "A 2.5 year old boy is brought by the parents because of the concern that he is not developing appropriately. Child often is unable to engage with others using eye contact and does not play with other children. He has continuously bangs his chin against the wall and remains confined to himself most of the time. What is the most likely diagnosis?",
-        "exp": "Ans. D. AutismFeatures of autism include poor social communication and repeated, restricted behavior. These patients' ability to interact with others is impaired. They frequently present with repetitive behaviors and poor eye contact.Strong genetic basis. Onset before 3 yrs of age. Chromosome 2, 7, 16, 17 may contribute. Fragile X- mc inherited disorders (X-linked recessive disorder) Others: tuberous sclerosis, congenital rubella, phenylketonuria. Intellectual Disability/MR:30% of children function in intellectually disabled range. Of those about 30% function in mild- moderate range, & 45-50% are severely to profoundly intellectually disabled.",
+        "question": "Pagophagia involves eating",
+        "exp": "Pica is defined as persistent eating of nonnutritive substances. It is identified only when medical problems such as intestinal obstruation, intestinal infections or poisoning arises (lead). among adults, ceain foods of pica, including geophagia (clay) and amylophagia (starch), have been repoed in pregnant women. Ref: Synopsis of Psychiatry, 11e, pg 1206",
+        "cop": 1,
+        "opa": "Ice",
+        "opb": "Sand",
+        "opc": "Clay",
+        "opd": "Salt",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "243dc646-cf4b-47b3-90c5-207c2d50cbac",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 2. 5 year old boy is brought by the parents because of the concern that he is not developing appropriately. Child often is unable to engage with others using eye contact and does not play with other children. He has continuously bangs his chin against the wall and remains confined to himself most of the time. What is the most likely diagnosis?",
+        "exp": "Ans. D. Autism. Features of autism include poor social communication and repeated, restricted behavior. These patients' ability to interact with others is impaired. They frequently present with repetitive behaviors and poor eye contact. Strong genetic basis. Onset before 3 yrs of age. Chromosome 2, 7, 16, 17 may contribute. Fragile X- mc inherited disorders (X-linked recessive disorder) Others: tuberous sclerosis, congenital rubella, phenylketonuria. Intellectual Disability/MR: 30% of children function in intellectually disabled range. Of those about 30% function in mild- moderate range, & 45-50% are severely to profoundly intellectually disabled.",
         "cop": 4,
         "opa": "Social phobia",
         "opb": "ADHD",
@@ -494,8 +767,21 @@
         "choice_type": "multi"
     },
     {
+        "question": "Conduct disorder in a child manifests with all except",
+        "exp": "Conduct disorder is characterised by a persistent and significant pattern of conduct, in which the basic rights of others are violated or rules of society are not followed. The diagnosis is only made when the conduct is far in excess of the routine mischief of children and adolescents. The characteristic clinical features include: 1. Frequent lying. 2. Stealing or robbery. 3. Running away from home and school. 4. Physical violence such as rape, fire-setting, assault or breaking-in, use of weapons. 5. Cruelty towards other people and animals. Ref: A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 167",
+        "cop": 4,
+        "opa": "Disregard for right of others",
+        "opb": "Doesn't care for authority",
+        "opc": "Backward in studies",
+        "opd": "Decreased head circumference",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "85a19cfd-5ba9-4cee-b546-e91ab36b9dcd",
+        "choice_type": "multi"
+    },
+    {
         "question": "Habit disorder is all except:",
-        "exp": "The 'habit disorder' is used to describe a class of disorder that is characterised by repetitive and unwanted behaviours. Two types : Tic disorders Body focused repetitive behaviours such as hair pulling, skin picking, nail biting, thumb sucking, and cheek chewing",
+        "exp": "The 'habit disorder' is used to describe a class of disorder that is characterised by repetitive and unwanted behaviours. Two types: Tic disorders Body focused repetitive behaviours such as hair pulling, skin picking, nail biting, thumb sucking, and cheek chewing",
         "cop": 3,
         "opa": "Thumb sucking",
         "opb": "Nail biting",
@@ -507,8 +793,86 @@
         "choice_type": "multi"
     },
     {
+        "question": "Severe mental retardation is",
+        "exp": "Mental retardation level IQ range Mild 50-69 Moderate 35-49 Severe 20-34 Profound < 20 (Ref: A sho textbook of psychiatry, Niraj Ahuja, 7th edition, pg no 156)",
+        "cop": 3,
+        "opa": "50 - 69",
+        "opb": "35 - 49",
+        "opc": "20 - 34",
+        "opd": "Less than 20",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "d3c211d9-782e-4552-9c44-41803c37acb6",
+        "choice_type": "single"
+    },
+    {
+        "question": "True statement about 'Imbecile'",
+        "exp": "Moron, Imbecile and Idiot are old terminology used in ICD-9 for description of Mental retardation. These have been changed to Mild, Moderate and Profound Mental retardation in ICD-10 respectively. Moron: IQ 50-70, Imbecile: IQ 35-49, Idiot: IQ <20. Imbecile/ Moderate MR: Communication skills develop more slowly an social isolation may ensue in elementary school years. Academic achievement is usually limited to middle elementary level. They have deficits in self care, but can be benefitted from focussed individual attention. Now eliminating the options, option A is easily eliminated. option B, discrepent profile of abilities are common, with some individuals acheiving higher levels in visuo-spatial skills than in tasks dependent on language, while others are markedly clumsy, so not correct. option C, self care is poor, but can be managed with help. option D, in majority of the cases the organic etiology is easily identified. Ref: The ICD-10, CDDG, pg 178. ICD-9, pg 212-213. Synopsis of Psychiatry, 11e, pg 1129.",
+        "cop": 4,
+        "opa": "IQ is 50-60",
+        "opb": "Intellectual capacity equivalent to a child of 3-7 years of age",
+        "opc": "Impaired self care",
+        "opd": "Organic etiology can be identified",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "183b2945-752b-4135-82e5-7d8a4661bc20",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A girl with normal milestones spend her time seeing her own hand, do not interact with others, what is the diagnosis",
+        "exp": "PERVASIVE DEVELOPMENTAL DISORDERS (AUTISM SPECTRUM DISORDER):- These are group of neurodevelopmental or neurobehavioral disorders, which are characterized by disturbance of social interaction, abnormalities of communication and restricted behaviors. Autism (Childhood autism, autistic disorder):- It is a neurodevelopmental disorder (neurobehavioral disorder) with a strong genetic basis. The onset is before the age of 3 years. Chromosome 7, 2, 4, 15 and 19 have been found to contribute to the disorder. Fragile X syndrome, tuberous sclerosis, congenital rubella and phenylketonuria are associated with autism and are found with high frequency in children with autistic disorders. Around 70% of children with autism have comorbid mental retardation. The prevalence of perinatal insults like bih asphyxia has also been found to be higher in children with autism. symptoms:- * Impairment in social interaction: The patients with autism have impaired reciprocal social skills. As infants they have poor eye contact, lack social smile and anticipatory posture (the posture which the kid assumes when he wants to be picked up). They may have poor attachment to their parents and other impoant persons and may not acknowledge their presence (e. g. they won't come running to meet when the father returns to home after office). However, if the routine of these children is disturbed (e. g. if someone rearranges the furniture in their room), they may show excessive reaction. When they grow up, they may have difficulty in making friends and getting into a romantic relationship. * Impairment of communication and language: These children usually have significant delay in language milestones, whereas the motor milestones are usually normally achieved. The patients also have development of abnormal language such as difficulty in making sentences properly (aiculation difficulties) and pronoun reversals (using \"me\" instead of \"you\"). * Restricted, repetitive and stereotyped behavior: The activities and play of these children tend to be repetitive and boring. They may show stereotyped behaviors like hand wringing, spinning and banging. These children are quite resistant to changes and may become extremely upset if their routines are disturbed (e. g. bathing routine is changed or furnitures are rearranged in the room). These restrictive behaviors usually result from a lack of imagination and creativity. Apa from these three characteristic features, the patients with autism also have abnormal responses to stimuli. They may have a higher threshold for pain and may show intense interest in some sounds (like that of a ticking watch) and may totally ignore other sounds. They may also have self destructive behaviors like head banging, biting, scratching, etc. Precocious skills or islets of precocity: Some individuals with autism may have skills in ceain areas, which are much higher than their normal peers. For example, hyperlexia (early ability to ready very well), extremely good remote memory or calculating ability, etc. Treatment:- Educational interventions such as a structured classroom teaching along with use of behavioral therapy is the recommended treatment. The role of medications is limited. Atypical antipsychotics such as risperidone and aripiprazole have been used to reduce aggressive and self injurious behavior. Ref:- Psychiatry by Sandeep Govil; pg num:- 248",
+        "cop": 2,
+        "opa": "ADHD",
+        "opb": "Autism",
+        "opc": "Asperger's syndrome",
+        "opd": "Rett's disorder",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "b48e6b59-a3e3-4e33-8db9-515f531870bb",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 9-year-old child disturbs other people, is destructive, interferes when two people are talking, does not follow instructions and cannot wait for his turn while playing a game. He is likely to be suffering from",
+        "exp": "Hyperkinetic disorders- characterised by early onset, a combination of overactivity, poorly modulated behaviour with marked inattention and lack of persistent task involvement; and pervasiveness over situations and persistence over time of these behavioural characteristics. Hyperkinetic disorders arise early in development (usually in the first 5 years of life). Problems persist through school yeard and even into adult life, but many gradually improve in activity and attention. It is several times common in boys than in girls. Attention deficit disorder with hyperactivity (Hyperkinetic disorder): The characteristic clinical features are: Poor attention span with distractibilityi. Fails to finish the things staed. ii. Shifts from one uncompleted activity to another. iii. Doesn't seem to listen. iv. Easily distracted by external stimuli. v. Often loses things. Hyperactivityi. Fidgety. ii. Difficulty in sitting still at one place for long. iii. Moving about here and there. iv. Talks excessively. v. Interference in other people's activities. Impulsivityi. Acts before thinking, on the spur of the moment. ii. Difficulty in waiting for the turn at work or play. Ref: The ICD-10, Classification of mental and behvaioural disorders, CDDG, pg no 206. A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 166",
+        "cop": 4,
+        "opa": "Emotional disorders",
+        "opb": "Behavioural Problems",
+        "opc": "No disorder",
+        "opd": "Attention deficit hyperactivity disorder",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "3e2cc238-8c11-4f84-8398-0fd0648c5474",
+        "choice_type": "single"
+    },
+    {
+        "question": "All except are the possible outcomes/ course of ADHD-",
+        "exp": "Course of ADHD is variable. Symptoms have been shown to persist into adolescence in 60 to 85% of cases, and into adult life in approx 60% of cases. The remaining may remit at pubey or in early adulthood. Most patients with the disorder are vulnerable to Antisocial behaviour, Substance use disorder and Mood disorder. Ref: Synopsis of Psychiatry, 11e, pg 1174.",
+        "cop": 1,
+        "opa": "Schizophrenia",
+        "opb": "Alcoholism",
+        "opc": "Mood Disorder",
+        "opd": "Antisocial behavior",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "777743fa-3606-49cc-b229-dc7c1be57144",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Stimulant drug is given to child for the treatment of",
+        "exp": "Stimulant medication- dextroamphetamine and methylphenidate have been traditionally used for the treatment of attention deficit hyperactivity disorder. Methylphenidate is the currently the drug of choice. it acts on the reticular activating system, causing stimulation of the inhibitory influences on the cerebral coex, thus decreasing hyperactivity and /or distractability (Ref: a sho textbook of psychiatry, Niraj Ahuja, 7th edition, pg no 167)",
+        "cop": 4,
+        "opa": "Conduct disorder",
+        "opb": "Speech developmental disorder",
+        "opc": "Pervasive disorder",
+        "opd": "ADHD",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "73459d57-9156-49f8-8a57-f8b70eaec495",
+        "choice_type": "single"
+    },
+    {
         "question": "Which of the following disorders may be diagnosed even if the onset is after age 18 years?",
-        "exp": "Ans. D. Tic disorder not otherwise specifiedAll tic disorders with onset after age 18 years must be diagnosed as tic disorder not otherwise specified, a residual category for tics that do not meet the criteria for a specific tic disorder. Transient tic disorder, chronic motor or vocal tic disorder, and Tourette's disorder all specify onset before age 18 years.",
+        "exp": "Ans. D. Tic disorder not otherwise specified. All tic disorders with onset after age 18 years must be diagnosed as tic disorder not otherwise specified, a residual category for tics that do not meet the criteria for a specific tic disorder. Transient tic disorder, chronic motor or vocal tic disorder, and Tourette's disorder all specify onset before age 18 years.",
         "cop": 4,
         "opa": "Tourette's disorder",
         "opb": "Chronic motor or vocal tic disorder",
@@ -520,7 +884,7 @@
         "choice_type": "single"
     },
     {
-        "question": "The following observation can be seen in which of the following disease ?",
+        "question": "The following observation can be seen in which of the following disease?",
         "exp": "Tourette's syndrome is a form of tic disorder in which there are multiple motor tics and one or more vocal tics. The most common comorbidity with Tourette's syndrome (Tourette's disorder) is ADHD followed by OCD. The onset is usually between 4 and 6 years of age, symptoms peak between 10 and 12 years of age.",
         "cop": 2,
         "opa": "OCD",
@@ -546,7 +910,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Clumsy child syndrome is classified under which of the following class of disorders ?",
+        "question": "Clumsy child syndrome is classified under which of the following class of disorders?",
         "exp": "Clumsy child syndrome Developmental coordination disorder. Awkward motor behaviors that can't be associated with any specific neurological disorder Developmental coordination disorder can be clumsy gross or fine motor skills- Poor performance in spos and academics",
         "cop": 2,
         "opa": "Cerebral palsy",
@@ -559,8 +923,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 10 years old boy is so restless all the time. In the school, rest of the class is unable to concentrate because of him. He is hardly ever in his seat be it at home or school. He has difficulty in playing quietly. He does not listen to his mother at all .The most likely diagnosis is?",
-        "exp": "Ans. is 'a' i.e., Attention deficit hyperactive disorder * This child has: (i) Restlessness, (ii) Interrupting others (the class is unable to concentrate), (iii) Difficulty in playing quietly, (iv) Often leaves seat and roams around.* All are features of ADHD.Attention-deficit hyperactivity disorder* ADHD is one of the most common psychiatric problem in school age population. It usually arises in the first 5 years of life and is three times more common in boys than in girls.* ADHD is characterized by an age inappropriate hyperactivity, impulsiveness and inattention. Hyperactivity is usually the first symptom noticed.Diagnostic criteria of ADHD1) Six (or more) of the following symptoms of inattention have persisted for at least 6 months to a degree that is maladaptive and inconsistent with development level.2) Six (or more) of the following symptoms of hyperactivity impulsivity have persisted for at least 6 months to a degree that is maladaptive and inconsistent with developmental leveli) Often make careless mistakesii) Often has difficulty sustaining attentioniii) Often does not listeniv) Often fails to follow through on instruction or of finish tasksv) Often has difficulty organizing tasks and activitiesvi) Often avoids tasks requiring sustained attentionvii) Often looses thingsviii) Often is easily distracted by external stimuliix) Often is forgetful in daily activitiesHyper activityi) Often fidgets or squirmsii) Often leaves seatiii) Often moves excessively (may feel restless)iv) Often has difficulty playing or engaging in leisure activities quietlyv) Is often \"on the go\"vi) Often talks excessivelyImpulsivityvii) Often blurts out answersviii) Often has difficulty awaiting turnix) Often inerrupts or intrudes on others",
+        "question": "A 10 years old boy is so restless all the time. In the school, rest of the class is unable to concentrate because of him. He is hardly ever in his seat be it at home or school. He has difficulty in playing quietly. He does not listen to his mother at all. The most likely diagnosis is?",
+        "exp": "Ans. is 'a' i. e., Attention deficit hyperactive disorder * This child has: (i) Restlessness, (ii) Interrupting others (the class is unable to concentrate), (iii) Difficulty in playing quietly, (iv) Often leaves seat and roams around.* All are features of ADHD. Attention-deficit hyperactivity disorder* ADHD is one of the most common psychiatric problem in school age population. It usually arises in the first 5 years of life and is three times more common in boys than in girls.* ADHD is characterized by an age inappropriate hyperactivity, impulsiveness and inattention. Hyperactivity is usually the first symptom noticed. Diagnostic criteria of ADHD1) Six (or more) of the following symptoms of inattention have persisted for at least 6 months to a degree that is maladaptive and inconsistent with development level. 2) Six (or more) of the following symptoms of hyperactivity impulsivity have persisted for at least 6 months to a degree that is maladaptive and inconsistent with developmental leveli) Often make careless mistakesii) Often has difficulty sustaining attentioniii) Often does not listeniv) Often fails to follow through on instruction or of finish tasksv) Often has difficulty organizing tasks and activitiesvi) Often avoids tasks requiring sustained attentionvii) Often looses thingsviii) Often is easily distracted by external stimuliix) Often is forgetful in daily activities. Hyper activityi) Often fidgets or squirmsii) Often leaves seatiii) Often moves excessively (may feel restless)iv) Often has difficulty playing or engaging in leisure activities quietlyv) Is often \"on the go\"vi) Often talks excessively. Impulsivityvii) Often blurts out answersviii) Often has difficulty awaiting turnix) Often inerrupts or intrudes on others",
         "cop": 1,
         "opa": "Attention-deficit hyperactivity disorder",
         "opb": "Conduct disorder",
@@ -585,6 +949,19 @@
         "choice_type": "multi"
     },
     {
+        "question": "Best therapy suited to teach daily life skill to a mentally challenged child",
+        "exp": "Bhevaiour therapy can be used to shape and enhance social behaviours and to control and minimise aggressive and destructive behaviours. Positive reinforcement for desired behviours and benign punishment for objectionable behaviours. Cognitive therapy such as dispelling false beliefs and relaxation exercises with self instruction has also been recommended for intellectually disabled persons eho can follow instructions. Ref: Synopsis of Psychiatry, 11e, pg 1135.",
+        "cop": 2,
+        "opa": "Cognitive Behavior therapy",
+        "opb": "Behaviour Therapy",
+        "opc": "Contingency reconstruction",
+        "opd": "Self instruction",
+        "subject_name": "Psychiatry",
+        "topic_name": "Child psychiatry",
+        "id": "a701d917-cdae-4aa8-8573-a0b4005adac1",
+        "choice_type": "multi"
+    },
+    {
         "question": "A 14-year-old boy has difficulty in expressing himself in writing and makes frequent spelling mistakes. He passes his examination with poor marks. However his mathematical ability and social adjustment are appropriate for his age. Which of the following is the most likely diagnosis?",
         "exp": "Scholastic difficulty in a paicular skill (written expression) is suggestive of specific learning disability. LEARNING DISORDERS: - Significant impairment in one or more scholastic skills, out of propoion to intellectual functioning (usually IQ is normal), only in a paicular domain pt. faces problems. - Specific reading disorder (dyslexia) - Disorders of written expression (specific spelling disorder) - makes frequent spelling mistakes. - Specific disorders of arithmetic skills - Mixed disorders of scholastic skills.",
         "cop": 2,
@@ -599,7 +976,7 @@
     },
     {
         "question": "New name of mental retardation according to American Association of Mental Retardation is",
-        "exp": "(C) Intellectual disability[?]Intellectual disability (ID) or Mental retardation (MR) also known as general learning disability, is a generalized neurodevelopmental disorder characterized by significantly impaired intellectual and adaptive functioning.ICD-10 conceptualization of mental retardation (MR) with the concept of intellectual developmental disorders (IDD) in ICD-11.Intellectual Disability (ID) has widely replaced MR for policy, administrative, and legislative purposes in many industrialized countries and in an increasing number of low- and middle-income countries.Intellectual was favored because in most countries it is widely used, and is broadly acceptable in many contexts.Main descriptors of IDD include:Marked impairment of core cognitive functions that can have different patterns.This impairment affects the development of knowledge, reasoning, and symbolic representation, according to the level expected for age peers and the cultural and community environment.Problems with verbal comprehension, perceptual reasoning, working memory, and processing speed.The cognitive impairment is associated to difficulties in learning, academic, and practical knowledge.Problems with adaptive behavior with limitations in relevant conceptual, social, and practical skills.Difficulties in managing behavior, emotions, interpersonal relationships, and motivation.IDD is a life span condition requiring consideration of developmental stages and life transitions.IDD (a clinical meta-syndrome) & intellectual disability (the functioning/disability counterpart), which have different scientific, social, & policy applications. FEATUTES OF MILD, MODERATE, SEVERE & PROFOUND INTELLECTUAL DISABILITY MildModerateSevere/ProfoundIQ range50-6935-49<35% of cases85%10%5%Ability to self careIndependentNeed some helpLimitedLanguageReasonableLimitedBasic or noneReading & WritingReasonableBasicMinimal or noneAbility to workSemiskilledUnskilled, supervisedSupervised basic taskSocial skillNormalModerateFewAetiology discoveredSometimesOftenUsuallyAcademic skill6th grade or higher2nd to 3rd grade-Other Options[?]Feeble-mindedness:Obsolete term for mental retardation, which is also called intellectual developmental disorder.[?]Subnormal intelligence is associated with:Although aggression can occur in relation to an ictus, as exemplified by this patient's sub-acute postictal aggression, most aggression among epilepsy patients is not related to epileptiform activity.Aggression in epilepsy is usually associated with psychosis or with intermittent explosive disorder and correlates with-subnormal intelligence, lower socioeconomic status (SES)-Childhood behavior problems-Prior head injuries-Possible orbital frontal damage.[?]Mentally unstable or Mental Illness:Mental instability, or mental illness, is a condition that greatly affects a person's thoughts and behaviors.Individuals who are mentally unstable often experience difficulty coping with the everyday functions, demands and challenges of life.There are several signs and symptoms that indicate a person is suffering from a mental instability.With treatment and care, many individuals are able to learn to cope with mental illness.",
+        "exp": "(C) Intellectual disability[?]. Intellectual disability (ID) or Mental retardation (MR) also known as general learning disability, is a generalized neurodevelopmental disorder characterized by significantly impaired intellectual and adaptive functioning. ICD-10 conceptualization of mental retardation (MR) with the concept of intellectual developmental disorders (IDD) in ICD-11. Intellectual Disability (ID) has widely replaced MR for policy, administrative, and legislative purposes in many industrialized countries and in an increasing number of low- and middle-income countries. Intellectual was favored because in most countries it is widely used, and is broadly acceptable in many contexts. Main descriptors of IDD include: Marked impairment of core cognitive functions that can have different patterns. This impairment affects the development of knowledge, reasoning, and symbolic representation, according to the level expected for age peers and the cultural and community environment. Problems with verbal comprehension, perceptual reasoning, working memory, and processing speed. The cognitive impairment is associated to difficulties in learning, academic, and practical knowledge. Problems with adaptive behavior with limitations in relevant conceptual, social, and practical skills. Difficulties in managing behavior, emotions, interpersonal relationships, and motivation. IDD is a life span condition requiring consideration of developmental stages and life transitions. IDD (a clinical meta-syndrome) & intellectual disability (the functioning/disability counterpart), which have different scientific, social, & policy applications. FEATUTES OF MILD, MODERATE, SEVERE & PROFOUND INTELLECTUAL DISABILITY Mild. Moderate. Severe/Profound. IQ range50-6935-49<35% of cases85%10%5%Ability to self care. Independent. Need some help. Limited. Language. Reasonable. Limited. Basic or none. Reading & Writing. Reasonable. Basic. Minimal or none. Ability to work. Semiskilled. Unskilled, supervised. Supervised basic task. Social skill. Normal. Moderate. Few. Aetiology discovered. Sometimes. Often. Usually. Academic skill6th grade or higher2nd to 3rd grade-Other Options[?]. Feeble-mindedness: Obsolete term for mental retardation, which is also called intellectual developmental disorder. [?]. Subnormal intelligence is associated with: Although aggression can occur in relation to an ictus, as exemplified by this patient's sub-acute postictal aggression, most aggression among epilepsy patients is not related to epileptiform activity. Aggression in epilepsy is usually associated with psychosis or with intermittent explosive disorder and correlates with-subnormal intelligence, lower socioeconomic status (SES)-Childhood behavior problems-Prior head injuries-Possible orbital frontal damage. [?]. Mentally unstable or Mental Illness: Mental instability, or mental illness, is a condition that greatly affects a person's thoughts and behaviors. Individuals who are mentally unstable often experience difficulty coping with the everyday functions, demands and challenges of life. There are several signs and symptoms that indicate a person is suffering from a mental instability. With treatment and care, many individuals are able to learn to cope with mental illness.",
         "cop": 3,
         "opa": "Feeble Mindedness",
         "opb": "Subnormal intelligence",
@@ -611,8 +988,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "All are the phases of child sexual abuse except :",
-        "exp": "Bargainingis the stage of dying , not included in phase of child sexual abuse Child sexual abuse =Sexual behavior between achild and an adult or between two children when one of them is significantly older or uses coercion. =Phases Engagement: Sexual interaction Secrecy Disclosure Suppression",
+        "question": "All are the phases of child sexual abuse except:",
+        "exp": "Bargainingis the stage of dying, not included in phase of child sexual abuse Child sexual abuse =Sexual behavior between achild and an adult or between two children when one of them is significantly older or uses coercion. =Phases Engagement: Sexual interaction Secrecy Disclosure Suppression",
         "cop": 4,
         "opa": "Engagement",
         "opb": "Sexual interaction",
@@ -625,7 +1002,7 @@
     },
     {
         "question": "Which of the following chromosomal abnormalities is most likely to cause mental retardation?",
-        "exp": "Ans. D. Trisomy 21An extra chromosome 21 is the most common genetic abnormality found in Down syndrome, and the abnormality most likely to cause mental retardation. Abnormalities in autosomal chromosomes are, in general, associated with mental retardation. The chromosomal aberration represented by 46 chromosomes with fusion of 15 and 21 produces a type of Down syndrome that, unlike trisomy 21, is usually inherited. Aberrations in sex chromosomes are not always associated with mental retardation, such as in XO (Turner's syndrome), XXY (Klinefelter's syndrome), and XXYY and XXXY (Klinefelter's syndrome variants) genotypes.Some children with Turner's syndrome have normal to superior intelligence.Girls with Turner's syndrome have gonadal agenesis and do not develop secondary sexual characteristics without medical intervention. Another hallmark feature is a webbed neck. In Klinefelter's syndrome and its variants, individuals have underdeveloped male genitalia and infertility and may develop gynecomastia beginning in adolescence.",
+        "exp": "Ans. D. Trisomy 21. An extra chromosome 21 is the most common genetic abnormality found in Down syndrome, and the abnormality most likely to cause mental retardation. Abnormalities in autosomal chromosomes are, in general, associated with mental retardation. The chromosomal aberration represented by 46 chromosomes with fusion of 15 and 21 produces a type of Down syndrome that, unlike trisomy 21, is usually inherited. Aberrations in sex chromosomes are not always associated with mental retardation, such as in XO (Turner's syndrome), XXY (Klinefelter's syndrome), and XXYY and XXXY (Klinefelter's syndrome variants) genotypes. Some children with Turner's syndrome have normal to superior intelligence. Girls with Turner's syndrome have gonadal agenesis and do not develop secondary sexual characteristics without medical intervention. Another hallmark feature is a webbed neck. In Klinefelter's syndrome and its variants, individuals have underdeveloped male genitalia and infertility and may develop gynecomastia beginning in adolescence.",
         "cop": 4,
         "opa": "Klinefelter's syndrome",
         "opb": "Fusion of chromosomes 21 and 15",

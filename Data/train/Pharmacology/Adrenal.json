@@ -14,7 +14,7 @@
     },
     {
         "question": "A patient Dharampal has been diagnosed to have bronchial asthma and is maintained on oral prednisolone 20 mg daily and inhaled salbutamol as required. The patient develops chest infection. Which of the following measures would you like to take?",
-        "exp": "* During conditions of stress or infection, dose of steroids should not be decreased. coicosteroids reduce the inflammatory response by inhibiting the activation of inflammatory cells and by reducing mediator production, microvascular leakage, and mucus formation.Coicosteriods helps in reducing infections. Rather, increase in dose may be required.",
+        "exp": "* During conditions of stress or infection, dose of steroids should not be decreased. coicosteroids reduce the inflammatory response by inhibiting the activation of inflammatory cells and by reducing mediator production, microvascular leakage, and mucus formation. Coicosteriods helps in reducing infections. Rather, increase in dose may be required.",
         "cop": 3,
         "opa": "Stop prednisolone",
         "opb": "Reduce prednisolone dose to 5 mg/day",
@@ -105,7 +105,7 @@
     },
     {
         "question": "Long term steroid therapy can lead to suppression of hypothalamic-pituitary- adrenal axis. It can be overcome by using alternate day therapy with coicosteroids. Which of the following steroids are unsuitable for alternate day therapy for such purpose?",
-        "exp": "Glucocoicoids : Anti-inflammatory Sho acting : Coisone, Hydrocoisone Intermediate : Prednisone, Prednisolone, Triamcinolone Long acting : Dexamethasone, Betamethasone and Paramethasone Betamethasone is long acting having half life 36-72 hrs so it is not suitable for alternate day therapy as it will not be excreted out till the time of next dose.",
+        "exp": "Glucocoicoids: Anti-inflammatory Sho acting: Coisone, Hydrocoisone Intermediate: Prednisone, Prednisolone, Triamcinolone Long acting: Dexamethasone, Betamethasone and Paramethasone Betamethasone is long acting having half life 36-72 hrs so it is not suitable for alternate day therapy as it will not be excreted out till the time of next dose.",
         "cop": 3,
         "opa": "Coisol",
         "opb": "Prednisolone",
@@ -143,8 +143,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "An 18 month old child with ambiguous genitalia presented to the hospital, his BP is 118/78 mm Hg, Serum K+ is 6 mEq/L, serum sodium is 120 mEq/L. Patient was staed on I.V. fluids. What additional specific therapy will you add?",
-        "exp": "Clinical scenario and investigational findings point towards diagnosis of Congenital Adrenal Hyperplasia. All patients with classical CAH require replacement therapy with Hydrocoisone . Those with salt wasting also require mineralocoicoid replacement. The goals of therapy are to restore levels of physiological steroid hormones to the normal range",
+        "question": "An 18 month old child with ambiguous genitalia presented to the hospital, his BP is 118/78 mm Hg, Serum K+ is 6 m. Eq/L, serum sodium is 120 m. Eq/L. Patient was staed on I. V. fluids. What additional specific therapy will you add?",
+        "exp": "Clinical scenario and investigational findings point towards diagnosis of Congenital Adrenal Hyperplasia. All patients with classical CAH require replacement therapy with Hydrocoisone. Those with salt wasting also require mineralocoicoid replacement. The goals of therapy are to restore levels of physiological steroid hormones to the normal range",
         "cop": 1,
         "opa": "Hydrocoisone",
         "opb": "Potassium binding resin",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Which of the following steroids possess maximum glucocoicoid activity?",
-        "exp": "Maximum glucocoicoid activity: Dexamethasone Maximum mineralocoicoid activity: Aldosterone Glucocoicoid with maximum mineralocoicoid activity: Hydrocoisone Least potent glucocoicoid: Coisone Most potent glucocoicoid: Betamethasone Selective mineralocoicoid activity(zero glucocoicoid activity):DOCA Selective glucocoicoid activity( no mineralocoicoid activity): Dexamethasone",
+        "exp": "Maximum glucocoicoid activity: Dexamethasone Maximum mineralocoicoid activity: Aldosterone Glucocoicoid with maximum mineralocoicoid activity: Hydrocoisone Least potent glucocoicoid: Coisone Most potent glucocoicoid: Betamethasone Selective mineralocoicoid activity(zero glucocoicoid activity): DOCA Selective glucocoicoid activity( no mineralocoicoid activity): Dexamethasone",
         "cop": 4,
         "opa": "Prednisolone",
         "opb": "Coisol",

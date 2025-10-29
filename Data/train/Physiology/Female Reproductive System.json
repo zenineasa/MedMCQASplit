@@ -14,12 +14,12 @@
     },
     {
         "question": "By which mechanism do LH and FSH return to baseline levels?",
-        "exp": "Just after the LH surge, estradiol levels increase, which causes negative feedback on GnRH to stop producing LH and FSH, resulting in the decrease in their levels",
+        "exp": "Just after the LH surge, estradiol levels increase, which causes negative feedback on Gn. RH to stop producing LH and FSH, resulting in the decrease in their levels",
         "cop": 3,
         "opa": "LH surge",
-        "opb": "Negative feedback on gonadotropin-releasing hormone (GnRH) by progesterone",
-        "opc": "Negative feedback on GnRH by estradiol",
-        "opd": "Negative feedback on GnRH from testosterone",
+        "opb": "Negative feedback on gonadotropin-releasing hormone (Gn. RH) by progesterone",
+        "opc": "Negative feedback on Gn. RH by estradiol",
+        "opd": "Negative feedback on Gn. RH from testosterone",
         "subject_name": "Physiology",
         "topic_name": "Female Reproductive System",
         "id": "5f67b1bb-aa6f-4454-94b3-1404b85f0c5a",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Follicle stimulating hormone (FSH) receptors are present on:",
-        "exp": "FSH receptor is a specific G-protein coupled receptor. It is present in granulosa cells (ovary) and Seoli cells (testis). cAMP is the second messenger; it stimulates production of CREB-P and CREM-P (transcription factors that initiate expression of target genes). FSH stimulation of granulosa cells produces estradiol; stimulation of Seoli cells produces inhibin. Theca cells (ovaries) and Leydig cells (testis) have receptors for LH. Both FSH and LH downregulate their receptors.",
+        "exp": "FSH receptor is a specific G-protein coupled receptor. It is present in granulosa cells (ovary) and Seoli cells (testis). c. AMP is the second messenger; it stimulates production of CREB-P and CREM-P (transcription factors that initiate expression of target genes). FSH stimulation of granulosa cells produces estradiol; stimulation of Seoli cells produces inhibin. Theca cells (ovaries) and Leydig cells (testis) have receptors for LH. Both FSH and LH downregulate their receptors.",
         "cop": 2,
         "opa": "Theca cells",
         "opb": "Granulosa cells",
@@ -66,9 +66,9 @@
     },
     {
         "question": "Pubey does NOT occur before the age of 8 years because:",
-        "exp": "Pubey and regulation of its onset During childhood the hypothalamus does not secrete significant amount of GnRH because during childhood, the slightest secretion of any sex steroid hormones exes a strong inhibitory effect on hypothalamic secretion of GnRH. But at the time of pubey, the secretion of hypothalamic GnRH breaks through the childhood inhibition and adult sexual life begins.",
+        "exp": "Pubey and regulation of its onset During childhood the hypothalamus does not secrete significant amount of Gn. RH because during childhood, the slightest secretion of any sex steroid hormones exes a strong inhibitory effect on hypothalamic secretion of Gn. RH. But at the time of pubey, the secretion of hypothalamic Gn. RH breaks through the childhood inhibition and adult sexual life begins.",
         "cop": 1,
-        "opa": "The hypothalamus does not secrete GnRH in a pulsatile manner",
+        "opa": "The hypothalamus does not secrete Gn. RH in a pulsatile manner",
         "opb": "Inadequate synthesis of gonadotropins by the pituitary",
         "opc": "Gonads are unresponsive to gonadotropin",
         "opd": "Positive feedback action of gonadal steroids on pituitary",
@@ -117,8 +117,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "Before the onset of pubey, the GnRH neurons are under the inhibitory control of:",
-        "exp": "The transition to a reproductive state (during pubey) requires maturation of the entire hypothalamic-pituitary-gonadal axis. Before this maturation occurs, plasma LH and FSH levels are diminished despite low concentrations of gonadal steroids and inhibin. GnRH neurons are said to be under inhibitory influence of GABAergic neurons. Additional inhibition comes from NPY, endorphins, and nocturnal melatonin secretion. Hence, option C is more appropriate.",
+        "question": "Before the onset of pubey, the Gn. RH neurons are under the inhibitory control of:",
+        "exp": "The transition to a reproductive state (during pubey) requires maturation of the entire hypothalamic-pituitary-gonadal axis. Before this maturation occurs, plasma LH and FSH levels are diminished despite low concentrations of gonadal steroids and inhibin. Gn. RH neurons are said to be under inhibitory influence of GABAergic neurons. Additional inhibition comes from NPY, endorphins, and nocturnal melatonin secretion. Hence, option C is more appropriate.",
         "cop": 3,
         "opa": "Glycine",
         "opb": "Glutamate",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Arrange the following in sequential order of their involvement in estrogen synthesis: A. Progesterone B. Androgen in granulosa cell C. Androgen in theca cell D. Aromatase",
-        "exp": "Interaction of follicular theca and granulosa cells for production of estrogens. The theca cells, under the control of luteinizing hormone (LH), produce androgens that diffuse into the granulosa cells. In mature follicles, follicle-stimulating hormone (FSH) acts on granulosa cells to stimulate aromatase activity, which conves the androgens to estrogens. AC - Adenylate cyclase; ATP - Adenosine triphosphate; cAMP - Cyclic adenosine monophosphate; LDL - Low density lipoproteins.",
+        "exp": "Interaction of follicular theca and granulosa cells for production of estrogens. The theca cells, under the control of luteinizing hormone (LH), produce androgens that diffuse into the granulosa cells. In mature follicles, follicle-stimulating hormone (FSH) acts on granulosa cells to stimulate aromatase activity, which conves the androgens to estrogens. AC - Adenylate cyclase; ATP - Adenosine triphosphate; c. AMP - Cyclic adenosine monophosphate; LDL - Low density lipoproteins.",
         "cop": 4,
         "opa": "B-A-D-C",
         "opb": "A-C-D-B",

@@ -14,7 +14,7 @@
     },
     {
         "question": "The above shown device is used for:",
-        "exp": "The above shown device is NST. The nonstress test measures the fetal hea rate in response to fetal movement over time. The term \"nonstress\" means that during the test, nothing is done to place stress on the fetus. If two or more accelerations occur within a 20-minute period, the result is considered reactive or \"reassuring.\" A reactive result means that for now, it does not appear that there are any problems. A nonreactive result is one in which not enough accelerations are detected in a 40-minute period.",
+        "exp": "The above shown device is NST. The nonstress test measures the fetal heart rate in response to fetal movement over time. The term \"nonstress\" means that during the test, nothing is done to place stress on the fetus. If two or more accelerations occur within a 20-minute period, the result is considered reactive or \"reassuring. \" A reactive result means that for now, it does not appear that there are any problems. A nonreactive result is one in which not enough accelerations are detected in a 40-minute period.",
         "cop": 2,
         "opa": "Gestational age assesment",
         "opb": "Non-stress test",
@@ -26,7 +26,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "'Frog eyes' appearance on USG is seen in :",
+        "question": "'Frog eyes' appearance on USG is seen in:",
         "exp": "FROG EYE SIGN Anencephaly on ultrasound On coronal ultrasound, the absence of the calvaria coupled with prominent orbits gives the fetus the 'frog eye' sign",
         "cop": 2,
         "opa": "Spina bifida",
@@ -65,10 +65,10 @@
         "choice_type": "single"
     },
     {
-        "question": "If the fetus has Down syndrome,quadruple marker will not show :",
-        "exp": "Aneuploidies AFP Estriol hCG Inhibin A Down's Syndrome Low Low High High",
+        "question": "If the fetus has Down syndrome, quadruple marker will not show:",
+        "exp": "Aneuploidies AFP Estriol h. CG Inhibin A Down's Syndrome Low Low High High",
         "cop": 2,
-        "opa": "High hCG",
+        "opa": "High h. CG",
         "opb": "Low Inhibin A",
         "opc": "Low AFP",
         "opd": "Low Estriol",
@@ -92,7 +92,7 @@
     },
     {
         "question": "All of the following are pa of manning criteria except:",
-        "exp": "VIBROACOUSTIC STIMULATION In this, an aificial sound producing device is kept on the maternal abdomen which emits a sound for several seconds. If there is a non reassuring pattern during a cardiotocographic monitoring, then this test may help in providing fetal well being. The resultant stale reflex in the fetus and subsequent fetal hea rate acceleration following vibroacoustic stimulation provides assurance of fetal well-being. Mannings score/ Biophysical profile Non stress test Fetal breathing movements Fetal tone Gross body movement Amniotic fluid volume Modified Biophysical score Non stress test Amniotic fluid volume",
+        "exp": "VIBROACOUSTIC STIMULATION In this, an aificial sound producing device is kept on the maternal abdomen which emits a sound for several seconds. If there is a non reassuring pattern during a cardiotocographic monitoring, then this test may help in providing fetal well being. The resultant stale reflex in the fetus and subsequent fetal heart rate acceleration following vibroacoustic stimulation provides assurance of fetal well-being. Mannings score/ Biophysical profile Non stress test Fetal breathing movements Fetal tone Gross body movement Amniotic fluid volume Modified Biophysical score Non stress test Amniotic fluid volume",
         "cop": 3,
         "opa": "Nonstress test",
         "opb": "Fetal body movement",
@@ -104,7 +104,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "Late decelerations are due to :",
+        "question": "Late decelerations are due to:",
         "exp": "Early decelerations are due to head compression (stimulation of vagus nerve) Late decelerations are due to uteroplacental insufficiency (fetal distress/hypoxia) Variable decelerations are due to cord compression (oligohydramnios in labor)",
         "cop": 1,
         "opa": "Uteroplacental insufficiency",
@@ -118,7 +118,7 @@
     },
     {
         "question": "Modified Biophysical profile is",
-        "exp": "Modified biophysical profile: NST+AFI (takes only 10 minutes to perform) Biophysical profile : most accurate means of assessing fetal health as used 5 variables instead of 1.5 fetal biophysical components used are - a) Hea rate acceleration b) Breathing c) Movements d) Tone e) Amniotic fluid volumeThis test takes 30-60 minutes of examiner time.",
+        "exp": "Modified biophysical profile: NST+AFI (takes only 10 minutes to perform) Biophysical profile: most accurate means of assessing fetal health as used 5 variables instead of 1. 5 fetal biophysical components used are - a) Heart rate acceleration b) Breathing c) Movements d) Tone e) Amniotic fluid volume. This test takes 30-60 minutes of examiner time.",
         "cop": 3,
         "opa": "NST+FETAL TONE",
         "opb": "FETAL TONE+AFI",
@@ -131,7 +131,7 @@
     },
     {
         "question": "A pregnant women who is 7 weeks from her LMP comes in to the office for her first prenatal visit. Her previous pregnancy ended in a missed aboion in the first trimester. Which of the following modalities will allow you to best document fetal hea action?",
-        "exp": "Transvaginal sonogram(TVS) will be able to detect the fetal cardiac activity as early as 5 weeks of gestation. Sac Cardiac activity TVS 4+ weeks 5+ weeks TAS 5+ weeks 6+ weeks >12 weeks FHS heard with fetal doppler Regular stethoscope and fetoscope can detect fetal hea sounds by 20 to 24 weeks of gestation.",
+        "exp": "Transvaginal sonogram(TVS) will be able to detect the fetal cardiac activity as early as 5 weeks of gestation. Sac Cardiac activity TVS 4+ weeks 5+ weeks TAS 5+ weeks 6+ weeks >12 weeks FHS heard with fetal doppler Regular stethoscope and fetoscope can detect fetal heart sounds by 20 to 24 weeks of gestation.",
         "cop": 4,
         "opa": "Regular stethoscope",
         "opb": "Fetoscope",
@@ -143,7 +143,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "With increasing gestational age, the S/D (Systolic / Diastolic ratio) of umbilical aery ...",
+        "question": "With increasing gestational age, the S/D (Systolic / Diastolic ratio) of umbilical aery...",
         "exp": "The systolic/diastolic (S/D) ratio of flow velocities was measured as an index of peripheral resistance. The S/D ratio normally declines from appx. 4 at 20 weeks gestation, to generally <3 after 30 weeks and finally to 2 at bih Doppler indices show a continuous reduction throughout the second half of pregnancy without any plateau or increase near term.",
         "cop": 2,
         "opa": "Increases",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Modified Biophysical Profile, used for antenatal fetal surveillance, includes:",
-        "exp": "5 components of BPP are : 1)Nonstress test 2)Fetal breathing 3)Fetal movement 4)Fetal tone 5)Amniotic fluid volume Modified BPP = NST and AFI",
+        "exp": "5 components of BPP are: 1). Nonstress test 2). Fetal breathing 3). Fetal movement 4). Fetal tone 5). Amniotic fluid volume Modified BPP = NST and AFI",
         "cop": 1,
         "opa": "NST+ AFI",
         "opb": "NST+AFI+FETAL TONE",
@@ -170,7 +170,7 @@
     },
     {
         "question": "A 35 wks POG, USG parameters more or less corresponding to POG. Doppler showing absent end diastolic flow. Management:",
-        "exp": "If >34 weeks POG, if fetus is at risk or likely to be at risk, Termination of the pregnancy is suggested. If <34 weeks POG, if fetus is at risk, can give steroids and wait for 48 hours for the lung maturity and surfactant production. In this case, Termination of pregnancy is suggested because - a) >34 weeks POG.b) Can progress to Reversal of diastolic flow, that causes imminent death of the fetus.",
+        "exp": "If >34 weeks POG, if fetus is at risk or likely to be at risk, Termination of the pregnancy is suggested. If <34 weeks POG, if fetus is at risk, can give steroids and wait for 48 hours for the lung maturity and surfactant production. In this case, Termination of pregnancy is suggested because - a) >34 weeks POG. b) Can progress to Reversal of diastolic flow, that causes imminent death of the fetus.",
         "cop": 4,
         "opa": "Monitor till it becomes reverse diastolic flow or 37 weeks",
         "opb": "Monitor till 37 weeks",
@@ -183,7 +183,7 @@
     },
     {
         "question": "Best investigation to diagnose fetal age is:",
-        "exp": "A sonographic examination offers vital information regarding fetal anatomy, physiology, growth, and well-being. Ultrasounds are safe: Transducers used in obstetrics contain groups of piezoelectric crystals. These crystals conve electrical energy into sound waves. Hence, there is no exposure to harmful radiations, in contrast to X- rays. Though there are 'Sinlge best parameters' for all three trimesters to asses gestational age i,e. CRL for 1st trimester, BPD for 2nd and 3rd trimesters, but perfect estimation of the gestational age is best done with a composite assessment of all fetal parameters. Amniocenetesis has a risk of aboion(aboion rate <1%)",
+        "exp": "A sonographic examination offers vital information regarding fetal anatomy, physiology, growth, and well-being. Ultrasounds are safe: Transducers used in obstetrics contain groups of piezoelectric crystals. These crystals conve electrical energy into sound waves. Hence, there is no exposure to harmful radiations, in contrast to X- rays. Though there are 'Sinlge best parameters' for all three trimesters to asses gestational age i, e. CRL for 1st trimester, BPD for 2nd and 3rd trimesters, but perfect estimation of the gestational age is best done with a composite assessment of all fetal parameters. Amniocenetesis has a risk of aboion(aboion rate <1%)",
         "cop": 1,
         "opa": "Serial ultrasound",
         "opb": "Amniocentesis",
@@ -209,7 +209,7 @@
     },
     {
         "question": "Best fetal parameter to diagnose IUGR fetus is:-",
-        "exp": "Estimation of IUGR is frequently made by the ratio of Head to abdominal circumference HC/AC ratio.This ratio compares the most preserved organ in the malnourished fetus, the brain, represented by the circumference of the fetal head, with the most compromised organ, the liver, represented by the fetal AC. Head circumference is last to be affected. Since the liver is first organ be affected in IUGR babies, the abdominal circumference will be first parameter to be compromised in growth restriction",
+        "exp": "Estimation of IUGR is frequently made by the ratio of Head to abdominal circumference HC/AC ratio. This ratio compares the most preserved organ in the malnourished fetus, the brain, represented by the circumference of the fetal head, with the most compromised organ, the liver, represented by the fetal AC. Head circumference is last to be affected. Since the liver is first organ be affected in IUGR babies, the abdominal circumference will be first parameter to be compromised in growth restriction",
         "cop": 3,
         "opa": "Femur length",
         "opb": "Head circumference",
@@ -261,7 +261,7 @@
     },
     {
         "question": "Which one of the following congenital malformations of the fetus can be diagnosed in the first trimester by ultrasound?",
-        "exp": "Ultrasound done in the first trimester helps in dating the pregnancy. Malformations are best looked for at 18-20 weeks of gestation. If there is a malformation that is not ble with a normal life, then a decision to do a termination of pregnancy can be taken at this time ( In India: MTP only <= 20 weeks) However, in the first trimester, i.e., around 9-11 weeks, gross malformations of the fetus like anencephaly, Acrania or spina bifida can be picked up. To detect specific deformities like holoprosencephaly or microcephaly, USG is to be done at 18-20 weeks of gestation and not in the first trimester.",
+        "exp": "Ultrasound done in the first trimester helps in dating the pregnancy. Malformations are best looked for at 18-20 weeks of gestation. If there is a malformation that is not ble with a normal life, then a decision to do a termination of pregnancy can be taken at this time ( In India: MTP only <= 20 weeks) However, in the first trimester, i. e., around 9-11 weeks, gross malformations of the fetus like anencephaly, Acrania or spina bifida can be picked up. To detect specific deformities like holoprosencephaly or microcephaly, USG is to be done at 18-20 weeks of gestation and not in the first trimester.",
         "cop": 1,
         "opa": "Anencephaly",
         "opb": "Dysplastic kidneys",
@@ -274,7 +274,7 @@
     },
     {
         "question": "The most common explanation for fetal tachycardia is -",
-        "exp": "Fetal tachycardia is defined as a baseline hea rate greater than 160 bpm. The most common explanation for fetal tachycardia is maternal fever from chorioamnionitis, although fever from any source can increase baseline fetal hea rate. Other causes of fetal tachycardia include fetal compromise, cardiac arrhythmias, and maternal administration of parasympathetic(atropine) or sympathomimetic (terbutaline) drugs.",
+        "exp": "Fetal tachycardia is defined as a baseline heart rate greater than 160 bpm. The most common explanation for fetal tachycardia is maternal fever from chorioamnionitis, although fever from any source can increase baseline fetal heart rate. Other causes of fetal tachycardia include fetal compromise, cardiac arrhythmias, and maternal administration of parasympathetic(atropine) or sympathomimetic (terbutaline) drugs.",
         "cop": 2,
         "opa": "Maternal administration of parasympathetic or sympathomimetic drugs",
         "opb": "Maternal fever from amnionitis",
@@ -286,7 +286,7 @@
         "choice_type": "single"
     },
     {
-        "question": "At the time of delivery,a growth restricted fetus would be prone to all of the following neonatal complications except",
+        "question": "At the time of delivery, a growth restricted fetus would be prone to all of the following neonatal complications except",
         "exp": "Growth-restricted fetuses more commonly pass meconium due to the intra uterine stress; therefore aspiration is a concern at the time of delivery. In addition, growth-restricted fetuses compensate for poor placental oxygen transfer by having a polycthemia that can then result in multiorgan thrombosis at or after bih. At the time of delivery, such infants may suffer from hypoxia due to placental insufficiency. Infants with IUGR have less subcutaneous fat deposition; therefore, hypothermia and hypoglycemia are a potential concern.",
         "cop": 3,
         "opa": "Meconium aspiration",
@@ -299,7 +299,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "A patient at 17 weeks gestation is diagnosed as having an intrauterine fetal demise on USG. She comes back to the OPD only after 5 weeks of the scan and has not expelled the fetus yet. She has had some occasional spotting. This patient is at increased risk for which of the following ?",
+        "question": "A patient at 17 weeks gestation is diagnosed as having an intrauterine fetal demise on USG. She comes back to the OPD only after 5 weeks of the scan and has not expelled the fetus yet. She has had some occasional spotting. This patient is at increased risk for which of the following?",
         "exp": "Consumptive coagulopathy with hypofibrinogenemia due to neglected missed aboion or neglected IUDs can trigger the coagulation cascade and consume the coagulation factors. Patient can go into DIC. This is an event related to actual consumption of procoagulants within the intravascular tree. This results in ineffective balance of natural anticoagulant mechanisms leads to widespread fibrin deposition causing multiorgan failure.",
         "cop": 3,
         "opa": "Septic aboion",
@@ -312,8 +312,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Normal Beat to beat variability in an NST on a term fetus is ?",
-        "exp": "Beat-to-Beat Variability - - Fetal hea variability is divided into four types: 1. Absent : Undetectable change in amplitude 2. Minimal: <= 5 bpm in range 3. Moderate : 6-25 bpm 4. High: > 25 bpm",
+        "question": "Normal Beat to beat variability in an NST on a term fetus is?",
+        "exp": "Beat-to-Beat Variability - - Fetal hea variability is divided into four types: 1. Absent: Undetectable change in amplitude 2. Minimal: <= 5 bpm in range 3. Moderate: 6-25 bpm 4. High: > 25 bpm",
         "cop": 1,
         "opa": "25-Jun",
         "opb": "5-Jan",
@@ -326,7 +326,7 @@
     },
     {
         "question": "Periconceptional use of the following agent leads to reduced incidence of neural tube defects",
-        "exp": "Women should begin taking folic acid supplements before becoming pregnant and continue taking the supplements of at least 0.4 mg/day throughout the first trimester to reduce the risk of neural tube defects. It has been shown to reduce the occurrence and recurrence of neural tube defects . For low-risk women, folic acid supplementation of 400 micrograms per day currently is recommended For women at high risk of NTDs or who have had a previous pregnancy with an NTD, folic acid supplementation of 4 mg per day is recommended.",
+        "exp": "Women should begin taking folic acid supplements before becoming pregnant and continue taking the supplements of at least 0. 4 mg/day throughout the first trimester to reduce the risk of neural tube defects. It has been shown to reduce the occurrence and recurrence of neural tube defects. For low-risk women, folic acid supplementation of 400 micrograms per day currently is recommended For women at high risk of NTDs or who have had a previous pregnancy with an NTD, folic acid supplementation of 4 mg per day is recommended.",
         "cop": 1,
         "opa": "Folic acid",
         "opb": "Iron",
@@ -339,7 +339,7 @@
     },
     {
         "question": "All of the following are risk factors for IUGR except",
-        "exp": "In maternal diabetes fetal macrosomia is common. IUGR, if at all, is seen in neglected 'Burnt out' kind of diabetes with microangiopathy and is the last association which should come to mind with Diabetes in pregnancy Defn of IUGR: also called Fetal Growth Restriction ( FGR) Fetuses with estimated weight below the 10th percentile for their gestational ages. The femur to abdomen ratio remains constant after 20 weeks. The normal value for this index is 22 +/- 2. An upper limit of 23.5 (90th percentile) strongly suggests the diagnosis of FGR HC/AC ratio. This ratio compares the most preserved organ in the malnourished fetus, the brain, represented by the circumference of the fetal head, with the most compromised organ, the liver, represented by the fetal AC. This measurement is of significant value in identifying FGR babies with asymmetric head to abdomen measurements. Pathological restriction of the fetal growth is usually present when the H/A ratio is above the 95th percentile for the gestational age. The Fetal Ponderel Index (FPI) is gestational age-independent and has a constant value throughout the second pa of the pregnancy. The FPI is obtained by dividing the estimated fetal weight by the third power of the FL and its normal value is 8.325 +/- 2.5 (2 SD). An FPI of 7.0 or less should be considered abnormal and suggestive of PFGR. Type I or symmetric FGR corresponds to foetuses that are symmetrically small and have normal HC/AC and FL/AC ratios. Early onset, congenital anomalies, chromosomal defects, Poor prognosis Type II or asymmetric FGR corresponds to fetuses that have an AC that is smaller than the HC and the FL resulting in abnormally high H/A and F/A ratios. Late onset, diseases like PIH, good prognosis Type III or intermediate FGR corresponds to fetuses that are initially symmetric but become asymmetric later in the pregnancy.",
+        "exp": "In maternal diabetes fetal macrosomia is common. IUGR, if at all, is seen in neglected 'Burnt out' kind of diabetes with microangiopathy and is the last association which should come to mind with Diabetes in pregnancy Defn of IUGR: also called Fetal Growth Restriction ( FGR) Fetuses with estimated weight below the 10th percentile for their gestational ages. The femur to abdomen ratio remains constant after 20 weeks. The normal value for this index is 22 +/- 2. An upper limit of 23. 5 (90th percentile) strongly suggests the diagnosis of FGR HC/AC ratio. This ratio compares the most preserved organ in the malnourished fetus, the brain, represented by the circumference of the fetal head, with the most compromised organ, the liver, represented by the fetal AC. This measurement is of significant value in identifying FGR babies with asymmetric head to abdomen measurements. Pathological restriction of the fetal growth is usually present when the H/A ratio is above the 95th percentile for the gestational age. The Fetal Ponderel Index (FPI) is gestational age-independent and has a constant value throughout the second pa of the pregnancy. The FPI is obtained by dividing the estimated fetal weight by the third power of the FL and its normal value is 8. 325 +/- 2. 5 (2 SD). An FPI of 7. 0 or less should be considered abnormal and suggestive of PFGR. Type I or symmetric FGR corresponds to foetuses that are symmetrically small and have normal HC/AC and FL/AC ratios. Early onset, congenital anomalies, chromosomal defects, Poor prognosis Type II or asymmetric FGR corresponds to fetuses that have an AC that is smaller than the HC and the FL resulting in abnormally high H/A and F/A ratios. Late onset, diseases like PIH, good prognosis Type III or intermediate FGR corresponds to fetuses that are initially symmetric but become asymmetric later in the pregnancy.",
         "cop": 1,
         "opa": "Maternal diabetes",
         "opb": "Severe Anemia",
@@ -351,7 +351,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "30 weeks pregnant female comes for antenatal Doppler and findings are shown. What is the management ?",
+        "question": "30 weeks pregnant female comes for antenatal Doppler and findings are shown. What is the management?",
         "exp": "The finding indicates absent end diastolic blood flow. As the pregnancy is less than 34 weeks, steroids need to be given for the lung maturity. Steroid cover plus biophysical profile plus non stress test and monitoring would be a better method as it can proceed to reversal of diastolic flow which indicates imminent death of the fetus. Termination is warranted at 34 weeks or earlier when reversal occurs.",
         "cop": 4,
         "opa": "Urgent LSCS",
@@ -367,9 +367,9 @@
         "question": "All are the causes of intra-uterine growth restriction, EXCEPT:",
         "exp": "Gestational diabetes is associated with maternal and hence foetal hyperglycaemia, which, in turn, leads to excessive deposition of adipose tissue in the foetus causing macrosomia.",
         "cop": 4,
-        "opa": "Anaemia",
-        "opb": "Pregnancy-induced hypeension",
-        "opc": "Maternal hea disease",
+        "opa": "Anemia",
+        "opb": "Pregnancy-induced hypertension",
+        "opc": "Maternal heart disease",
         "opd": "Gestational diabetes",
         "subject_name": "Gynaecology & Obstetrics",
         "topic_name": "Intra Uterine Growth Restriction, Intrapaum and Antepaum Fetal Surviellance",
@@ -378,7 +378,7 @@
     },
     {
         "question": "A 35wks POG, USG parameters more or less corresponding to POG. Doppler showing absent end diastolic flow Management:",
-        "exp": "In the above case scenario,POG is >34 weeks with absence of end diastolic flow so preferred management is Termination of pregnancy Management of pregnancy in deranged fetal doppler Earliest sign of fetal compromise is a raised S/D ratio in the Umblical aery flow, which warrants careful monitoring and follow up with NST and doppler and termination should be planned at 37 + weeks. An absence of diastolic flow is indicative of severe fetal compromise and requires intensive fetal monitoring with NST and frequent doppler upto 34 weeks or occurence of reversal of flow (whichever is earlier) after which pregnancy should be terminated. A reversal of diastolic flow is indicative of imminent fetal death (fetus is expected to die within 24-48 hours) requiring urgent termination, and therefore reversal occuring before lung maturity carries poor chances of fetal survival",
+        "exp": "In the above case scenario, POG is >34 weeks with absence of end diastolic flow so preferred management is Termination of pregnancy Management of pregnancy in deranged fetal doppler Earliest sign of fetal compromise is a raised S/D ratio in the Umblical aery flow, which warrants careful monitoring and follow up with NST and doppler and termination should be planned at 37 + weeks. An absence of diastolic flow is indicative of severe fetal compromise and requires intensive fetal monitoring with NST and frequent doppler upto 34 weeks or occurence of reversal of flow (whichever is earlier) after which pregnancy should be terminated. A reversal of diastolic flow is indicative of imminent fetal death (fetus is expected to die within 24-48 hours) requiring urgent termination, and therefore reversal occuring before lung maturity carries poor chances of fetal survival",
         "cop": 4,
         "opa": "Monitor till it becomes reverse diastolic flow or 37 weeks",
         "opb": "Monitor till 37 weeks",
@@ -417,7 +417,7 @@
     },
     {
         "question": "A 32 yrs lady having 10 yrs old child of down syndrome is presenting at 9th week of pregnancy. what will be advice by doctor?",
-        "exp": "The population risk for Down syndrome is approximately 1 in 800 live bihs and the recurrence risk after the bih of an affected child is approximately 1-2 %. As the lady is already having a child with Down's , the doctor will advice her Chorionic Villous sampling (CVS) to assess fetal karyotype to check for Trisomy 21 can be done in the coming weeks to be sure of the diagnosis. Chorionic Villous sampling - Biopsy of chorionic villi is generally performed between 10 -13 weeks gestation. Most procedures are performed to assess fetal karyotype Numerous specialized genetic tests can also be performed by chorionic villus sampling The primary advantage of villus biopsy is that results are available earlier in pregnancy, allowing safer pregnancy termination. However, the aboion rates are 1-2% which is more than that of amniocentesis.",
+        "exp": "The population risk for Down syndrome is approximately 1 in 800 live bihs and the recurrence risk after the bih of an affected child is approximately 1-2 %. As the lady is already having a child with Down's, the doctor will advice her Chorionic Villous sampling (CVS) to assess fetal karyotype to check for Trisomy 21 can be done in the coming weeks to be sure of the diagnosis. Chorionic Villous sampling - Biopsy of chorionic villi is generally performed between 10 -13 weeks gestation. Most procedures are performed to assess fetal karyotype Numerous specialized genetic tests can also be performed by chorionic villus sampling The primary advantage of villus biopsy is that results are available earlier in pregnancy, allowing safer pregnancy termination. However, the aboion rates are 1-2% which is more than that of amniocentesis.",
         "cop": 3,
         "opa": "Blood investigation can definitely say if it is down's",
         "opb": "USG diagnosis can be definite",

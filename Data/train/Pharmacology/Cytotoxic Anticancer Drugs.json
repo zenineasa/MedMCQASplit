@@ -66,10 +66,10 @@
     },
     {
         "question": "The mechanism of anticancer action of fluorouracil is:",
-        "exp": "5-Fluorouracil (5-FU) is an antimetabolite. It is a thymidine analogue and acts by conversion to 5'-dUMP. Latter inhibits the formation of dTMP and results in thymineless death of cells. Option 1 is mechanism of alkylating agents like cyclophosphamide Option 3: methotrexate is example of DHFRase inhibitor Option 4: Vincristine like drugs act by inhibiting mitotic spindle",
+        "exp": "5-Fluorouracil (5-FU) is an antimetabolite. It is a thymidine analogue and acts by conversion to 5'-d. UMP. Latter inhibits the formation of d. TMP and results in thymineless death of cells. Option 1 is mechanism of alkylating agents like cyclophosphamide Option 3: methotrexate is example of DHFRase inhibitor Option 4: Vincristine like drugs act by inhibiting mitotic spindle",
         "cop": 2,
         "opa": "Cross linking of double stranded DNA and the resulting inhibition of DNA replication and transcription",
-        "opb": "Cytotoxicity resulting from a metabolite that interferes with the production of dTMP",
+        "opb": "Cytotoxicity resulting from a metabolite that interferes with the production of d. TMP",
         "opc": "Irreversible inhibition of dihydrofolic acid reductase",
         "opd": "Inhibiting the formation of mitotic spindle",
         "subject_name": "Pharmacology",
@@ -131,7 +131,7 @@
     },
     {
         "question": "Which of the following is a new drug approved for the treatment of Breast Cancer?",
-        "exp": "Palbociclib: MOA: It acts by inhibiting CDK-4, CDK-6. ROUTE: Oral drug USES: It is approved for Advanced or Metastatic Breast Cancer (ER+ve and HER2-ve) S/E: Neutropenia, Leukopenia, infections, stomatitis, fatigue, nausea, anemia, headache, diarrhea and Thrombocytopenia. Palbociclib is a substrate and an inhibitor of CYP3A4 . Patients should avoid concomitant use of strong CYP3A inhibitors (Indinavir, Itraconazole, Ketoconazole, Lopinavir/Ritonavir etc). Patients should avoid breastfeeding while taking palbociclib. Ruxolitinib It is Janus Kinase inhibitor used for Myelofibrosis Trametinib It is MEK inhibitor used for Malignant Melanoma in combination with Dabrafenib (BRAF inhibitor) Cobimetinib It is MEK inhibitor used for Malignant Melanoma in combination with Vemurafenib (BRAF inhibitor)",
+        "exp": "Palbociclib: MOA: It acts by inhibiting CDK-4, CDK-6. ROUTE: Oral drug USES: It is approved for Advanced or Metastatic Breast Cancer (ER+ve and HER2-ve) S/E: Neutropenia, Leukopenia, infections, stomatitis, fatigue, nausea, anemia, headache, diarrhea and Thrombocytopenia. Palbociclib is a substrate and an inhibitor of CYP3. A4. Patients should avoid concomitant use of strong CYP3A inhibitors (Indinavir, Itraconazole, Ketoconazole, Lopinavir/Ritonavir etc). Patients should avoid breastfeeding while taking palbociclib. Ruxolitinib It is Janus Kinase inhibitor used for Myelofibrosis Trametinib It is MEK inhibitor used for Malignant Melanoma in combination with Dabrafenib (BRAF inhibitor) Cobimetinib It is MEK inhibitor used for Malignant Melanoma in combination with Vemurafenib (BRAF inhibitor)",
         "cop": 3,
         "opa": "Trametinib",
         "opb": "Ruxolitinib",
@@ -196,7 +196,7 @@
     },
     {
         "question": "Pentostatin acts by inhibiting:",
-        "exp": "* Pentostatin and cilastatin are not statins i.e. these do not act by inhibiting HMG-CoA reductase. * Pentostatin acts by inhibiting adenosine deaminase. * It is used for the treatment of hairy cell leukemia. * Drug of choice for hairy cell leukemia is cladribine.",
+        "exp": "* Pentostatin and cilastatin are not statins i. e. these do not act by inhibiting HMG-CoA reductase. * Pentostatin acts by inhibiting adenosine deaminase. * It is used for the treatment of hairy cell leukemia. * Drug of choice for hairy cell leukemia is cladribine.",
         "cop": 3,
         "opa": "RNA dependent DNA polymerase",
         "opb": "Aldolase",
@@ -222,7 +222,7 @@
     },
     {
         "question": "Which of the following drug can cause Delayed Bone Marrow Suppression leading to Sustained Neutropenia?",
-        "exp": "NITROSOUREAS : MOA: Alkylating agent DRUGS: CARMUSTINE, LOMUSTINE, SEMUSTINE. USES: Can cross BBB thereby used in Brain tumors. S/E: Delayed Bone Marrow Suppression resulting in Sustained Neutropenia.",
+        "exp": "NITROSOUREAS: MOA: Alkylating agent DRUGS: CARMUSTINE, LOMUSTINE, SEMUSTINE. USES: Can cross BBB thereby used in Brain tumors. S/E: Delayed Bone Marrow Suppression resulting in Sustained Neutropenia.",
         "cop": 4,
         "opa": "Vincristine",
         "opb": "Carboplatin",
@@ -365,7 +365,7 @@
     },
     {
         "question": "Which of the following drugs is not used in prostate carcinoma?",
-        "exp": "Prostatic carcinoma results due to excessive testosterone. Testosterone is conveed to dihydrotestosterone (DHT) by 5-a-reductase. DHT is responsible for prostatic growth. Flutamide is an androgen receptor antagonist whereas finasteride is 5-a-reductase inhibitor. Diethylstilbestrol is an estrogen. It will cause feedback inhibition of pituitary and hypothalamus.It was also used previously for prostatic carcinoma.",
+        "exp": "Prostatic carcinoma results due to excessive testosterone. Testosterone is conveed to dihydrotestosterone (DHT) by 5-a-reductase. DHT is responsible for prostatic growth. Flutamide is an androgen receptor antagonist whereas finasteride is 5-a-reductase inhibitor. Diethylstilbestrol is an estrogen. It will cause feedback inhibition of pituitary and hypothalamus. It was also used previously for prostatic carcinoma.",
         "cop": 3,
         "opa": "Finasteride",
         "opb": "Diethylstilbesterol",
@@ -416,7 +416,7 @@
         "choice_type": "single"
     },
     {
-        "question": "A 30 year old male was dignosed with Hodgkin's lymphoma and was staed on Bleomycin . Which of the following is false regarding Bleomycin?",
+        "question": "A 30 year old male was dignosed with Hodgkin's lymphoma and was staed on Bleomycin. Which of the following is false regarding Bleomycin?",
         "exp": "Most Anticancer drugs cause bone marrow suppression. However, these drugs are marrow sparing: Vincristine Bleomycin Asparaginase Bleomycin is metabolized by bleomycin hydrolase. Later is deficient in skin and lungs. Therefore these organs are at high risk of toxicity (flagellated skin pigmentation and pulmonary fibrosis)",
         "cop": 4,
         "opa": "It can cause pulmonary fibrosis",
@@ -495,7 +495,7 @@
     },
     {
         "question": "Which of the following drug can result in cerebellar toxicity?",
-        "exp": "Cytarabine is pyrimidine analogue At higher dose it is known to cause cerebellar toxicity like ataxia, dysahria. other side effects- myelosuppression,mucositis,nausea and vomiting. Cyclophosphamide causes hemorrhagic cystitis Cisplatin is most emetogenic anticancer drug. Actinomycin D and doxorubicin can cause vomiting,stomatitis,diarrhoea,erythema,desquamation of skin,alopecia and bone marrow suppression.",
+        "exp": "Cytarabine is pyrimidine analogue At higher dose it is known to cause cerebellar toxicity like ataxia, dysahria. other side effects- myelosuppression, mucositis, nausea and vomiting. Cyclophosphamide causes hemorrhagic cystitis Cisplatin is most emetogenic anticancer drug. Actinomycin D and doxorubicin can cause vomiting, stomatitis, diarrhoea, erythema, desquamation of skin, alopecia and bone marrow suppression.",
         "cop": 3,
         "opa": "Cyclophosphamide",
         "opb": "Cisplatin",
@@ -508,7 +508,7 @@
     },
     {
         "question": "Which of the following is a common side effect of cisplatin?",
-        "exp": "Common side effect of cisplatin is vomiting. Drug of choice for cisplatin induced vomiting is 5HT3 antagonist like ondansetron.",
+        "exp": "Common side effect of cisplatin is vomiting. Drug of choice for cisplatin induced vomiting is 5. HT3 antagonist like ondansetron.",
         "cop": 2,
         "opa": "Diarrhea",
         "opb": "Vomiting",

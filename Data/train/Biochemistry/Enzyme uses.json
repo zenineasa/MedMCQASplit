@@ -14,7 +14,7 @@
     },
     {
         "question": "Other name of AST: (PGMEE 2009)",
-        "exp": "SGOT: Serum Glutamate Oxaloacetate Transaminase - also known as AST i.e. Aspaate transaminase. Aspaate loses amino group and forms oxaloacetate. On the other hand, alpha keto glutarate takes amino group and forms glutamate. SGPT: Serum Glutamate Pyruvate Transaminase - also known as ALT i.e. Alanine transaminase. Alanine loses amino group and forms pyruvate. On the other hand alpha keto glutarate takes amino group and forms glutamate.",
+        "exp": "SGOT: Serum Glutamate Oxaloacetate Transaminase - also known as AST i. e. Aspaate transaminase. Aspaate loses amino group and forms oxaloacetate. On the other hand, alpha keto glutarate takes amino group and forms glutamate. SGPT: Serum Glutamate Pyruvate Transaminase - also known as ALT i. e. Alanine transaminase. Alanine loses amino group and forms pyruvate. On the other hand alpha keto glutarate takes amino group and forms glutamate.",
         "cop": 1,
         "opa": "SGOT",
         "opb": "Alkaline phosphatase",
@@ -65,8 +65,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "Enzyme which cleaves C-C bond :",
-        "exp": "Lyase enzyme breaks C-C bond. E.g. Aldolase, Synthase . In this case ATP is not used. There are seven groups of enzymes (IUBMB classification): Oxidoreductases: catalyze oxidations and reductions Transferases: catalyze the transfer of groups such as glycosyl or methyl group Hydrolases: catalyze hydrolytic cleavage of C-C, C-O, C-N, and other covalent bonds Lyases: catalyze the cleavage of C-C, C-O, C-N, and other covalent bonds by atom elimination, thereby generating double bonds Isomerases: catalyze structural changes within a molecule Ligases: catalyze the joining together of two molecules in reactions Translocases: catalyze the movement of molecules or ions across membranes",
+        "question": "Enzyme which cleaves C-C bond:",
+        "exp": "Lyase enzyme breaks C-C bond. E. g. Aldolase, Synthase. In this case ATP is not used. There are seven groups of enzymes (IUBMB classification): Oxidoreductases: catalyze oxidations and reductions Transferases: catalyze the transfer of groups such as glycosyl or methyl group Hydrolases: catalyze hydrolytic cleavage of C-C, C-O, C-N, and other covalent bonds Lyases: catalyze the cleavage of C-C, C-O, C-N, and other covalent bonds by atom elimination, thereby generating double bonds Isomerases: catalyze structural changes within a molecule Ligases: catalyze the joining together of two molecules in reactions Translocases: catalyze the movement of molecules or ions across membranes",
         "cop": 1,
         "opa": "Lyase",
         "opb": "Ligase",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Which of the following is a functional plasma enzyme:",
-        "exp": "Functional plasma enzymes are those enzymes which are present in plasma as they have function in plasma. E.g.: Lipoprotein lipase Clotting Factors e.g. Prothrombin Non -functional plasma enzymes do not have function in plasma, they are present inside cells and tissues. E.g.: SGOT is present in liver and hea. For option A , LDH , only one type of LDH i.e. type 2 is functional plasma enzyme. So,Prothrombin>>>LDH because out of 5 isotypes of LDH only type 2 is a functional plasma enzyme. So, prothrombin is a better option to be marked.",
+        "exp": "Functional plasma enzymes are those enzymes which are present in plasma as they have function in plasma. E. g.: Lipoprotein lipase Clotting Factors e. g. Prothrombin Non -functional plasma enzymes do not have function in plasma, they are present inside cells and tissues. E. g.: SGOT is present in liver and hea. For option A, LDH, only one type of LDH i. e. type 2 is functional plasma enzyme. So, Prothrombin>>>LDH because out of 5 isotypes of LDH only type 2 is a functional plasma enzyme. So, prothrombin is a better option to be marked.",
         "cop": 3,
         "opa": "LDH",
         "opb": "Acid phosphatase",

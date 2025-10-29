@@ -1,7 +1,7 @@
 [
     {
         "question": "Which is not a variable of MDRD (Modification of Diet in Renal Disease) formula?",
-        "exp": "TEST : 1. CKD - EPI - cystatin C method (BEST) ; Cystatin - C is produced by nucleated cells 2. Modification of diet in renal disease formula GFR= 186.3 x (serum creatinine level ( mg/dl))-1.154 x age-0.203 x ( 0.742 if female ) x (1.21 if black) 3. Cockroft Gault formula 4. Creatinine clearance 5. Inulin clearance",
+        "exp": "TEST: 1. CKD - EPI - cystatin C method (BEST); Cystatin - C is produced by nucleated cells 2. Modification of diet in renal disease formula GFR= 186. 3 x (serum creatinine level ( mg/dl))-1. 154 x age-0. 203 x ( 0. 742 if female ) x (1. 21 if black) 3. Cockroft Gault formula 4. Creatinine clearance 5. Inulin clearance",
         "cop": 4,
         "opa": "Age",
         "opb": "Gender",
@@ -13,8 +13,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A CKD patient had to undergo dialysis. His Hb was 5.2gm% so two blood transfusions were to be given. First bag was completed in 2 hours. Second was staed and midway he developed shoness of breath, hypeension. Vitals: BP 180/120 mm Hg and pulse rate 110/min. What is the cause?",
-        "exp": "This C.K.D patient has developed severe anemia which is a compensated hea failure state. The patient was given first unit of blood in two hours instead of standard four hours and he is already in compensated hea failure. The acute decompensation due to volume overloading that has subsequently occurred will result in pulmonary edema and shoness of breath. This presentation is called as transfusion associated circulatory overload. Ideally patients of CKD should be given erythropoietin injections to reduce the incidence of having severe anemia.",
+        "question": "A CKD patient had to undergo dialysis. His Hb was 5. 2gm% so two blood transfusions were to be given. First bag was completed in 2 hours. Second was staed and midway he developed shoness of breath, hypertension. Vitals: BP 180/120 mm Hg and pulse rate 110/min. What is the cause?",
+        "exp": "This C. K. D patient has developed severe anemia which is a compensated heart failure state. The patient was given first unit of blood in two hours instead of standard four hours and he is already in compensated heart failure. The acute decompensation due to volume overloading that has subsequently occurred will result in pulmonary edema and shoness of breath. This presentation is called as transfusion associated circulatory overload. Ideally patients of CKD should be given erythropoietin injections to reduce the incidence of having severe anemia.",
         "cop": 2,
         "opa": "Allergic",
         "opb": "Transfusion related circulatory overload (TACO)",
@@ -27,7 +27,7 @@
     },
     {
         "question": "The term end-stage renal disease (ESRD) is considered appropriate when GFR is:",
-        "exp": "CKD Stage GFR Level (mL/min/1.73m2) G1 > 90 G2 60-89 HTN develops in this stage G3 30-59 Anemia develops in this stage G4 15-29 Acidosis,Hyperkalemia G5 < 15 (End stage renal disease) Uraemia develops Albuminuria A1 3-30 mg/g A2 30-300 A3 > 300",
+        "exp": "CKD Stage GFR Level (mL/min/1. 73m2) G1 > 90 G2 60-89 HTN develops in this stage G3 30-59 Anemia develops in this stage G4 15-29 Acidosis, Hyperkalemia G5 < 15 (End stage renal disease) Uraemia develops Albuminuria A1 3-30 mg/g A2 30-300 A3 > 300",
         "cop": 4,
         "opa": "50% of normal",
         "opb": "25% of normal",
@@ -78,7 +78,7 @@
         "choice_type": "single"
     },
     {
-        "question": "M.E.L.D score includes all except?",
+        "question": "M. E. L. D score includes all except?",
         "exp": "Model for end stage liver disease Serum creatinine Serum Bilirubin INR",
         "cop": 1,
         "opa": "Serum albumin",
@@ -92,7 +92,7 @@
     },
     {
         "question": "All of the following perforating disorders are associated with chronic renal failure EXCEPT:",
-        "exp": "Perforating disorders of skin characterized by transepidermal elimination of dermal connective tissue Example* Perforating folliculitis* Kyrle disease* Elastosis perforans serpiginosa* Reactive perforating collagenosis* Acquired perforating dermatosisUsually associated with DM & CRFCalciphylaxis is also seen in patient with CRF but not a perforating disorder",
+        "exp": "Perforating disorders of skin characterized by transepidermal elimination of dermal connective tissue Example* Perforating folliculitis* Kyrle disease* Elastosis perforans serpiginosa* Reactive perforating collagenosis* Acquired perforating dermatosis. Usually associated with DM & CRFCalciphylaxis is also seen in patient with CRF but not a perforating disorder",
         "cop": 2,
         "opa": "Reactive perforating collagenosis",
         "opb": "Calciphylaxis",
@@ -117,8 +117,8 @@
         "choice_type": "single"
     },
     {
-        "question": "The triad of 'saturnine gout' + hypeension + renal failure is seen in?",
-        "exp": "Saturnine gout Cause - Lead toxicity Symptoms - Symptoms of lead toxicity precede the development of gout. Hence patient will have anemia, basophilic stippling of RBC, abdominal pain and nerve palsy The damage to kidney will lead to hypeension and progressive renal malfunction. Knee joint involvement is more common than MTP involvement in saturnine gout",
+        "question": "The triad of 'saturnine gout' + hypertension + renal failure is seen in?",
+        "exp": "Saturnine gout Cause - Lead toxicity Symptoms - Symptoms of lead toxicity precede the development of gout. Hence patient will have anemia, basophilic stippling of RBC, abdominal pain and nerve palsy The damage to kidney will lead to hypertension and progressive renal malfunction. Knee joint involvement is more common than MTP involvement in saturnine gout",
         "cop": 2,
         "opa": "Diabetic nephropathy with hyporeninemic hypoaldosteronism",
         "opb": "Lead nephropathy",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Central nervous system manifestations in chronic renal failure are a result of all of the following except:",
-        "exp": "OPTION B- Hypocalcemia in CKD is linked to development secondary hyperparathyroidism The concomitant hyperphosphatemia leads to calcification of vessels which explains worsening atherosclerosis. Hypocalcemia in CKD patients leads to endocrinological cardiovascular complications. OPTION A- Hyperosmolarity occurs as urea is one of the parameters deciding serum osmolality.Sodium, potassium, glucose , urea determine plasma osmolality. OPTION C- Acidosis will damage Blood brain barrier and will cause uraemic encephalopathy OPTION D- Hyponatremia secondary to volume overload explains seizures in these patients.",
+        "exp": "OPTION B- Hypocalcemia in CKD is linked to development secondary hyperparathyroidism The concomitant hyperphosphatemia leads to calcification of vessels which explains worsening atherosclerosis. Hypocalcemia in CKD patients leads to endocrinological cardiovascular complications. OPTION A- Hyperosmolarity occurs as urea is one of the parameters deciding serum osmolality. Sodium, potassium, glucose, urea determine plasma osmolality. OPTION C- Acidosis will damage Blood brain barrier and will cause uraemic encephalopathy OPTION D- Hyponatremia secondary to volume overload explains seizures in these patients.",
         "cop": 2,
         "opa": "Hyperosmolarity",
         "opb": "Hypocalcemia",
@@ -183,7 +183,7 @@
     },
     {
         "question": "Which of the following is an absolute indication for hemodialysis in CKD?",
-        "exp": "Absolute indication for Hemodialysis in CKD is Uremic pericarditis . This is due to propensity for hemorrhage in pericardial sac on account of uremia. The resultant cardiac tamponade will cause obstructive shock. Option A is managed with Soda Bicarbonate. Option C will cause pleural effusion but will not be life threatening as compared to pericarditis. Option D is managed with patiromer and potassium binding resins and only if it is life threatening values and refractory to medical therapy that dialysis is planned. Indications for Dialysis in CKD Pericarditis Fluid overload or pulmonary edema refractory to diuretics Accelerated HTN non-responsive to medication Progressive uremic encephalopathy Bleeding Diathesis",
+        "exp": "Absolute indication for Hemodialysis in CKD is Uremic pericarditis. This is due to propensity for hemorrhage in pericardial sac on account of uremia. The resultant cardiac tamponade will cause obstructive shock. Option A is managed with Soda Bicarbonate. Option C will cause pleural effusion but will not be life threatening as compared to pericarditis. Option D is managed with patiromer and potassium binding resins and only if it is life threatening values and refractory to medical therapy that dialysis is planned. Indications for Dialysis in CKD Pericarditis Fluid overload or pulmonary edema refractory to diuretics Accelerated HTN non-responsive to medication Progressive uremic encephalopathy Bleeding Diathesis",
         "cop": 2,
         "opa": "Metabolic acidosis",
         "opb": "Uremic Pericarditis",
@@ -222,7 +222,7 @@
     },
     {
         "question": "Chronic renal failure is often complicated by all of the following except?",
-        "exp": "OPTION B- Hemolytic uremic syndrome is a cause of development of Acute kidney injury. OPTION A , C , D - The toxins in CRF cause- myopathy and neuropathy hyperphosphatemia explains the ectopic calcification of tubules",
+        "exp": "OPTION B- Hemolytic uremic syndrome is a cause of development of Acute kidney injury. OPTION A, C, D - The toxins in CRF cause- myopathy and neuropathy hyperphosphatemia explains the ectopic calcification of tubules",
         "cop": 2,
         "opa": "Myopathy",
         "opb": "Hemolytic uremic syndrome",
@@ -234,7 +234,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "Indications ofContinuous renal replacement therapy(CR) are all except -",
+        "question": "Indications of. Continuous renal replacement therapy(CR) are all except -",
         "exp": "Indications for Initiation of Continuous Renal Replacement Therapy - Volume overload Metabolic acidosis Electrolyte abnormalities Hyperkalemia Hyponatremia Hyperphosphatemia Uremia Encephalopathy Pericarditis Persistent/progressive acute kidney injury",
         "cop": 1,
         "opa": "Hyperglycemia",
@@ -248,7 +248,7 @@
     },
     {
         "question": "A 28-year-old man has lenticonus and ESRD. His maternal uncle also died of similar illness. What is the diagnosis?",
-        "exp": "Alpo Syndrome - 1. Classic AS - X-linked disorder- hematuria, sensorineural deafness, and lenticonus 2.A subtype of the X-linked form associated with diffuse leiomyomatosis 3.An autosomal recessive form 4.An autosomal dominant form. Both autosomal recessive and dominant forms can cause renal disease without deafness or lenticonus. Mutations in chains of type IV collagen (COL4A3, COL4A4, COL4A5, and COL4A6).",
+        "exp": "Alpo Syndrome - 1. Classic AS - X-linked disorder- hematuria, sensorineural deafness, and lenticonus 2. A subtype of the X-linked form associated with diffuse leiomyomatosis 3. An autosomal recessive form 4. An autosomal dominant form. Both autosomal recessive and dominant forms can cause renal disease without deafness or lenticonus. Mutations in chains of type IV collagen (COL4. A3, COL4. A4, COL4. A5, and COL4. A6).",
         "cop": 4,
         "opa": "Autosomal recessive polycystic kidney disease",
         "opb": "Autosomal dominant polycystic kidney disease",
@@ -261,9 +261,9 @@
     },
     {
         "question": "Which of the following is an absolute indication for hemodialysis?",
-        "exp": "Indications for emergency dialysis is AEIOU-G Acidosis Acidosis refractory to medical therapy. If severe (pH < 7.2 and refractory to HCO3 or unable to give HCO3 due to volume overload) or symptomatic (arrhythmias). Electrolytes Especially potassium with EKG changes.ONLY Intractable hyperkalemia (not Responding to Potassium-binding resins)requires dialysis Ingestions ause renal failure such as salicylates or ethylene glycol Overload Volume overload causing pulmonary edema. Uremia Confusion,pericarditis, seizures,Platelet dysfunction -Severe bleeding diathesis GFR GFR < 10 mL/min/1.73 m2 (no benefit to initiating dialysis pre-emptively at a GFR of 10-14 mL/min per 1.73 m2) Hyperkalemia per se is not an indication but Refractory hyperkalemia is an indication for dialysis.",
+        "exp": "Indications for emergency dialysis is AEIOU-G Acidosis Acidosis refractory to medical therapy. If severe (pH < 7. 2 and refractory to HCO3 or unable to give HCO3 due to volume overload) or symptomatic (arrhythmias). Electrolytes Especially potassium with EKG changes. ONLY Intractable hyperkalemia (not Responding to Potassium-binding resins)requires dialysis Ingestions ause renal failure such as salicylates or ethylene glycol Overload Volume overload causing pulmonary edema. Uremia Confusion, pericarditis, seizures, Platelet dysfunction -Severe bleeding diathesis GFR GFR < 10 mL/min/1. 73 m2 (no benefit to initiating dialysis pre-emptively at a GFR of 10-14 mL/min per 1. 73 m2) Hyperkalemia per se is not an indication but Refractory hyperkalemia is an indication for dialysis.",
         "cop": 3,
-        "opa": "Hypeension",
+        "opa": "Hypertension",
         "opb": "Hyperkalemia",
         "opc": "Pericarditis",
         "opd": "Metabolic alkalosis",
@@ -274,7 +274,7 @@
     },
     {
         "question": "A skin condition unique to Chronic Kidney Disease patients:",
-        "exp": "Nephrogenic fibrosing dermopathy- A skin condition unique to CKD patients. It is progressive subcutaneous , especially on the arms and legs. The condition is similar to scleromyxedema and is seen very rarely in patients with CKD who have been exposed to the magnetic resonance contrast agent gadolinium. Current recommendations are that patients with CKD stage 3 (GFR 30-59 mL/min) should minimize exposure to gadolinium, and those with CKD stages 4-5 (GFR <30 mL/min) should avoid the use of gadolinium agents unless it is medically necessary.",
+        "exp": "Nephrogenic fibrosing dermopathy- A skin condition unique to CKD patients. It is progressive subcutaneous, especially on the arms and legs. The condition is similar to scleromyxedema and is seen very rarely in patients with CKD who have been exposed to the magnetic resonance contrast agent gadolinium. Current recommendations are that patients with CKD stage 3 (GFR 30-59 mL/min) should minimize exposure to gadolinium, and those with CKD stages 4-5 (GFR <30 mL/min) should avoid the use of gadolinium agents unless it is medically necessary.",
         "cop": 4,
         "opa": "Calcinosis cutis",
         "opb": "Scleromyxedema",
@@ -287,10 +287,10 @@
     },
     {
         "question": "Dialysis disequilibrium occurs due to:",
-        "exp": "Complications of hemodialysis Dialysis disequilibrium syndrome Dialysis disequilibrium causes fluid shift in brain (Cerebral oedema, seizures) Symptoms- headache, nausea, emesis, vision, muscular twitching, disorientation, hypeension, tremors, and seizures. The condition tends to be self-limited and subside over several hours. Dialysis disequilibrium syndrome is attributed reverse urea effect.",
+        "exp": "Complications of hemodialysis Dialysis disequilibrium syndrome Dialysis disequilibrium causes fluid shift in brain (Cerebral oedema, seizures) Symptoms- headache, nausea, emesis, vision, muscular twitching, disorientation, hypertension, tremors, and seizures. The condition tends to be self-limited and subside over several hours. Dialysis disequilibrium syndrome is attributed reverse urea effect.",
         "cop": 1,
         "opa": "Cerebral edema",
-        "opb": "Hypeension",
+        "opb": "Hypertension",
         "opc": "Alumunium toxicity",
         "opd": "A Beta2 amyloid deposition",
         "subject_name": "Medicine",
@@ -300,7 +300,7 @@
     },
     {
         "question": "Which of the following drug does not cause nephrotoxicity?",
-        "exp": "Sirolimus is a non-nephrotoxic -mTOR inhibitor with a long half-life of 62 hours. It was the first mTOR inhibitor to be developed in solid organ transplantation as it inhibits cell proliferation .",
+        "exp": "Sirolimus is a non-nephrotoxic -m. TOR inhibitor with a long half-life of 62 hours. It was the first m. TOR inhibitor to be developed in solid organ transplantation as it inhibits cell proliferation.",
         "cop": 4,
         "opa": "Cisplatin",
         "opb": "Cyclophosphamide",
@@ -325,8 +325,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Clinical features of C.R.F begin to appear when renal function is reduced to:",
-        "exp": "Stage 1 and 2 of CKD are asymptomatic Symptoms beginning in Stage 3. Stage 3 begins at GFR of < 60ml/ min/ 1.73m2 body surface area. Clinical features of CRF will develop when >50% or more of kidney parenchyma is destroyed. Renal injury , kidney has innate ability to maintain GFR-remaining healthy nephrons manifest hyperfiltration and compensatory hyperophy. This nephron adaptability allows for continued normal clearance of plasma solutes. The Plasma levels of substances such as urea and creatinine sta to show measurable increases only after total GFR has decreased to 50%.",
+        "question": "Clinical features of C. R. F begin to appear when renal function is reduced to:",
+        "exp": "Stage 1 and 2 of CKD are asymptomatic Symptoms beginning in Stage 3. Stage 3 begins at GFR of < 60ml/ min/ 1. 73m2 body surface area. Clinical features of CRF will develop when >50% or more of kidney parenchyma is destroyed. Renal injury, kidney has innate ability to maintain GFR-remaining healthy nephrons manifest hyperfiltration and compensatory hyperophy. This nephron adaptability allows for continued normal clearance of plasma solutes. The Plasma levels of substances such as urea and creatinine sta to show measurable increases only after total GFR has decreased to 50%.",
         "cop": 2,
         "opa": "70%",
         "opb": "50%",
@@ -352,7 +352,7 @@
     },
     {
         "question": "Calciphylaxis is seen in CKD patients due to?",
-        "exp": "Calciphylaxis Painful syndrome of calcification of the small blood vessels located within the fatty tissue and deeper layers of skin, blood clots and death of skin cells due to too little blood flow . Calciphylaxis is seen in CKD patients due to Warfarin",
+        "exp": "Calciphylaxis Painful syndrome of calcification of the small blood vessels located within the fatty tissue and deeper layers of skin, blood clots and death of skin cells due to too little blood flow. Calciphylaxis is seen in CKD patients due to Warfarin",
         "cop": 1,
         "opa": "Warfarin",
         "opb": "Hypoparathyroidism",
@@ -378,20 +378,20 @@
     },
     {
         "question": "Which of the following describes a CKD patient mentioned as G4 A2?",
-        "exp": "Grades of Kidney Malfunction GFR 1 > 90 ml/ min / 1.73 m2 2 60 - 89 ml 3 30 - 59 ml 4 15 - 29 ml 5 < 15 ml Albuminuria A1 3-30 mg/g A2 30-300 A3 > 300",
+        "exp": "Grades of Kidney Malfunction GFR 1 > 90 ml/ min / 1. 73 m2 2 60 - 89 ml 3 30 - 59 ml 4 15 - 29 ml 5 < 15 ml Albuminuria A1 3-30 mg/g A2 30-300 A3 > 300",
         "cop": 1,
-        "opa": "GFR between 15-29 ml/min/1.73 m2 and albumin creatinine ratio of 30-300 mg/g",
-        "opb": "GFR between 30-44 ml/min/1.73 m2 and albumin creatinine ratio of 30-300 mg/g",
-        "opc": "GFR between 45- 59 ml/min/1.73 m2 and albumin creatinine ratio of 3-30 mg/g",
-        "opd": "GFR between 60-89 ml/min/1.73 m2 and albumin creatinine ratio of 3-30 mg/g",
+        "opa": "GFR between 15-29 ml/min/1. 73 m2 and albumin creatinine ratio of 30-300 mg/g",
+        "opb": "GFR between 30-44 ml/min/1. 73 m2 and albumin creatinine ratio of 30-300 mg/g",
+        "opc": "GFR between 45- 59 ml/min/1. 73 m2 and albumin creatinine ratio of 3-30 mg/g",
+        "opd": "GFR between 60-89 ml/min/1. 73 m2 and albumin creatinine ratio of 3-30 mg/g",
         "subject_name": "Medicine",
         "topic_name": "Chronic Kidney Disease & Diabetic Nephropathy",
         "id": "8a52faf8-534e-4c79-95b6-6bde0378ae19",
         "choice_type": "single"
     },
     {
-        "question": "A 50-year-old diabetic patient is feeling unwell.On workup, his serum creatinine =5.0mg% and blood urea= 125mg%.Urine MICRAL test is positive. Which of the following will be useful for this patient?",
-        "exp": "* The ECG shows a hea rate of 125 bpm with extreme axis detion. * P waves are absent with bizarre wide complex qRS in lead V4, V5, and V6 * Tall tented T waves which are seen with hyperkalemia, are present in all the leads. * The patient is a diabetic with deranged KFT. The patient is suffering from CKD and must be reaching stage 4-5 leading to hyperkalemia producing such pronounced ECG changes. * He is at risk of diastolic arrest of the hea. Hence the control of potassium is of paramount impoance in this patient. -Hyperkalemia in CKD patients responds to 1. Dietary restriction of potassium with use of kaliuretic diuretics 2. Potassium-binding resins like calcium resonium and sodium polystyrene can promote potassium loss GI Tract 3. Intractable hyperkalemia requires dialysis. A component should be managed with alkali supplementation if bicarbonate falls below 20 mmol/L.",
+        "question": "A 50-year-old diabetic patient is feeling unwell. On workup, his serum creatinine =5. 0mg% and blood urea= 125mg%. Urine MICRAL test is positive. Which of the following will be useful for this patient?",
+        "exp": "* The ECG shows a heart rate of 125 bpm with extreme axis detion. * P waves are absent with bizarre wide complex q. RS in lead V4, V5, and V6 * Tall tented T waves which are seen with hyperkalemia, are present in all the leads. * The patient is a diabetic with deranged KFT. The patient is suffering from CKD and must be reaching stage 4-5 leading to hyperkalemia producing such pronounced ECG changes. * He is at risk of diastolic arrest of the hea. Hence the control of potassium is of paramount impoance in this patient. -Hyperkalemia in CKD patients responds to 1. Dietary restriction of potassium with use of kaliuretic diuretics 2. Potassium-binding resins like calcium resonium and sodium polystyrene can promote potassium loss GI Tract 3. Intractable hyperkalemia requires dialysis. A component should be managed with alkali supplementation if bicarbonate falls below 20 mmol/L.",
         "cop": 1,
         "opa": "Diuretics",
         "opb": "Cardio-selective beta blocker",
@@ -429,7 +429,7 @@
         "choice_type": "single"
     },
     {
-        "question": "A 70-year-old diabetic and hypeensive patient was being investigated for angina and a coronary angiogram was performed. Two days later, he developed fever and abdominal discomfo and dyspnea and a mottled skin rash. His great toe appeared black. His BP increased to 180/100. His creatinine was found to have risen from a pre-angiography level of 1.2 to 3.6 mg/dl. He has eosinophilia. Which one of the following statements is TRUE regarding this condition?",
+        "question": "A 70-year-old diabetic and hypeensive patient was being investigated for angina and a coronary angiogram was performed. Two days later, he developed fever and abdominal discomfo and dyspnea and a mottled skin rash. His great toe appeared black. His BP increased to 180/100. His creatinine was found to have risen from a pre-angiography level of 1. 2 to 3. 6 mg/dl. He has eosinophilia. Which one of the following statements is TRUE regarding this condition?",
         "exp": "Diabetes and angina both point to atherosclerosis. In patients undergoing angiography, catheterization can lead to embolism of a vulnerable atherosclerotic plaque in descending aoa downstream to renal aeries leading to an atheroembolic kidney disease. The symptoms of diabetic patient developed after angiography and since atherosclerotic lesion can involve the aoa, the atheroembolic event would explain the events. Presence of eosinophilia and mottling of toes and reduced kidney function confirm the diagnosis as Atheroembolic kidney disease. Hence Choice D is the answer. Lab findings include Rising serum creatinine Transient eosinophilia Elevated sedimentation rate Hypocomplementemia Definitive diagnosis by doing kidney biopsy:- Microvessel obstruction with cholesterol crystals that leave a cleft in the vessel. Contrast-induced nephropathy can occur in diabetics with chronic kidney disease. However rash, toe discoloration with the sudden rise of creatinine and eosinophilia are not seen in contrast-induced nephropathy. Hence choice B is ruled out Choice A is ruled out as it prevents contrast-induced nephropathy Choice C is ruled as out as heparin will not manage cholesterol embolism",
         "cop": 4,
         "opa": "N-acetylcysteine would have prevented this condition",

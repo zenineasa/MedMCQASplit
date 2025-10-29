@@ -27,7 +27,7 @@
     },
     {
         "question": "Larger DNA segments can be cloned in",
-        "exp": "Hybrid DNA molecules can be constructed in cloning vectors typically using bacterial plasmids, phages, or cosmids. A clone is a large population of identical molecules, bacteria, or cells that arise from a common ancestor. Molecular cloning allows for the production of a large number of identical DNA molecules, which can then be characterized or used for other purposes. Cloning capacities of vectors Plasmid 0.01-10 kb Lambda phage 10-20 kb Cosmids 35-50 kb Bacterial aificial chromosome 50-250 kb Yeast aificial chromosome 500-3000 kb",
+        "exp": "Hybrid DNA molecules can be constructed in cloning vectors typically using bacterial plasmids, phages, or cosmids. A clone is a large population of identical molecules, bacteria, or cells that arise from a common ancestor. Molecular cloning allows for the production of a large number of identical DNA molecules, which can then be characterized or used for other purposes. Cloning capacities of vectors Plasmid 0. 01-10 kb Lambda phage 10-20 kb Cosmids 35-50 kb Bacterial aificial chromosome 50-250 kb Yeast aificial chromosome 500-3000 kb",
         "cop": 4,
         "opa": "Plasmids",
         "opb": "Bacteriophage",
@@ -40,10 +40,10 @@
     },
     {
         "question": "All of the following are used in a PCR reaction, EXCEPT",
-        "exp": "Components of PCR 1. Template DNA 2. Pair of DNA Primers 3. Thermostable DNA polymerase 4. dNTPs 5. Buffer with divalent cation ddNTP (dideoxynucleotide triphosphates) Not used in PCR; Used in sanger's chain-termination method",
+        "exp": "Components of PCR 1. Template DNA 2. Pair of DNA Primers 3. Thermostable DNA polymerase 4. d. NTPs 5. Buffer with divalent cation dd. NTP (dideoxynucleotide triphosphates) Not used in PCR; Used in sanger's chain-termination method",
         "cop": 2,
         "opa": "Buffer",
-        "opb": "ddNTPs",
+        "opb": "dd. NTPs",
         "opc": "Oligonucleotide Primer pair",
         "opd": "Template DNA",
         "subject_name": "Biochemistry",
@@ -53,7 +53,7 @@
     },
     {
         "question": "DNA foot printing is used to detect",
-        "exp": "Techniques of detection of DNA-Protein interaction : DNA footprinting Yeast one-hybrid system Electrophoretic mobility shift assay (EMSA)",
+        "exp": "Techniques of detection of DNA-Protein interaction: DNA footprinting Yeast one-hybrid system Electrophoretic mobility shift assay (EMSA)",
         "cop": 4,
         "opa": "Single nucleotide polymorphisms",
         "opb": "Variable number of tandem repeats",
@@ -65,8 +65,8 @@
         "choice_type": "single"
     },
     {
-        "question": "What is the approximate size of miRNA molecules produced by Dicer nuclease?",
-        "exp": "MicroRNAs : Small (22 nucleotides long) Endogenous, Non-coding RNAs Involved in regulation of gene expression by post-transcriptional gene silencing (PTGS)/RNA interference. Dicer is an endonuclease that trims small double-stranded RNA and generates sho, double stranded (ds) miRNA molecules that can block translation. Dicer cleaves the cytosolic dsRNA encoded by the genome or exogenously supplied into oligonucleotides miRNA or siRNA A single strand (the guide or antisense strand) of the ds miRNA associates with RNA-induced silencing complex, or RISC.",
+        "question": "What is the approximate size of mi. RNA molecules produced by Dicer nuclease?",
+        "exp": "Micro. RNAs: Small (22 nucleotides long) Endogenous, Non-coding RNAs Involved in regulation of gene expression by post-transcriptional gene silencing (PTGS)/RNA interference. Dicer is an endonuclease that trims small double-stranded RNA and generates sho, double stranded (ds) mi. RNA molecules that can block translation. Dicer cleaves the cytosolic ds. RNA encoded by the genome or exogenously supplied into oligonucleotides mi. RNA or si. RNA A single strand (the guide or antisense strand) of the ds mi. RNA associates with RNA-induced silencing complex, or RISC.",
         "cop": 2,
         "opa": "11 bp",
         "opb": "22 bp",
@@ -78,8 +78,8 @@
         "choice_type": "single"
     },
     {
-        "question": "The first human protein produced by rDNA technology:",
-        "exp": "The first human protein produced by rDNA technology is Insulin. Production of recombinant Insulin: NOTE: Gene coding for insulin is localized on 11p15 site of chromosome.",
+        "question": "The first human protein produced by r. DNA technology:",
+        "exp": "The first human protein produced by r. DNA technology is Insulin. Production of recombinant Insulin: NOTE: Gene coding for insulin is localized on 11p15 site of chromosome.",
         "cop": 1,
         "opa": "Insulin",
         "opb": "Growth hormone",
@@ -105,7 +105,7 @@
     },
     {
         "question": "Real-time PCR is used for:",
-        "exp": "Real-time PCR is used for monitoring the amplification of target DNA. In this PCR, we use SYBR-green dye, which has a propey of giving fluorescence when bound to dsDNA. When DNA synthesis is occurring then gradually ds DNA is increased in amount so fluorescence is also increased. This fluorescence can be measured and then amount of DNA can be calculated from that. Therefore it is known as Quantitative PCR (q PCR). Dyes used in qPCR: SYBR Based Detection: Uses SYBR Green dye (ds-DNA binding dye) - NOT sequence specific. TaqMan Based Detection: Uses a fluorogenic probe specific to target gene to detect target, as it accumulates during PCR.",
+        "exp": "Real-time PCR is used for monitoring the amplification of target DNA. In this PCR, we use SYBR-green dye, which has a propey of giving fluorescence when bound to ds. DNA. When DNA synthesis is occurring then gradually ds DNA is increased in amount so fluorescence is also increased. This fluorescence can be measured and then amount of DNA can be calculated from that. Therefore it is known as Quantitative PCR (q PCR). Dyes used in q. PCR: SYBR Based Detection: Uses SYBR Green dye (ds-DNA binding dye) - NOT sequence specific. Taq. Man Based Detection: Uses a fluorogenic probe specific to target gene to detect target, as it accumulates during PCR.",
         "cop": 4,
         "opa": "DNA detection only",
         "opb": "RNA detection only",
@@ -122,7 +122,7 @@
         "cop": 3,
         "opa": "Fluorescence Energy Transfer (FRET)",
         "opb": "DNAse I sensitivity",
-        "opc": "Chromatin immuno precipitation-sequencing (ChIP-seq)",
+        "opc": "Chromatin immuno precipitation-sequencing (Ch. IP-seq)",
         "opd": "FISH",
         "subject_name": "Biochemistry",
         "topic_name": "Techniques in molecular biology",
@@ -131,7 +131,7 @@
     },
     {
         "question": "SYBR Green Dye is used for:",
-        "exp": "Dyes used in real time PCR SYBR based detection TaqMan based detection Uses SYBR Green dye ds-DNA binding dye Not sequence specific Uses a fluorogenic probe specific to target gene It accumulates during PCR. Real Time PCR / Quantitative Fluorescence PCR (QF-PCR) / q PCR: Products are detected by fluorescence during (NOT after) the PCR reaction (in real time), not end time PCR.",
+        "exp": "Dyes used in real time PCR SYBR based detection Taq. Man based detection Uses SYBR Green dye ds-DNA binding dye Not sequence specific Uses a fluorogenic probe specific to target gene It accumulates during PCR. Real Time PCR / Quantitative Fluorescence PCR (QF-PCR) / q PCR: Products are detected by fluorescence during (NOT after) the PCR reaction (in real time), not end time PCR.",
         "cop": 3,
         "opa": "HPLC",
         "opb": "Immuno-fluorescence",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Which of the following can be used as vector for Gene therapy",
-        "exp": "Vectors used for gene delivery : Viral Vectors Non-viral Vectors Retroviruses Liposomes Adenoviruses Plasmids Herpes simplex viruses Physical methods",
+        "exp": "Vectors used for gene delivery: Viral Vectors Non-viral Vectors Retroviruses Liposomes Adenoviruses Plasmids Herpes simplex viruses Physical methods",
         "cop": 4,
         "opa": "Viruses",
         "opb": "Liposomes",
@@ -170,7 +170,7 @@
     },
     {
         "question": "DNA from RNA is synthesized by-",
-        "exp": "RNA can be conveed to DNA by reverse transcriptase. This DNA is cDNA (complementary DNA). Reverse transcription Synthesis of DNA using RNA as template Enzyme : RNA dependent DNA Polymerase Involved in Retroviruses : HIV virus Transposons/jumping genes Telomerase",
+        "exp": "RNA can be conveed to DNA by reverse transcriptase. This DNA is c. DNA (complementary DNA). Reverse transcription Synthesis of DNA using RNA as template Enzyme: RNA dependent DNA Polymerase Involved in Retroviruses: HIV virus Transposons/jumping genes Telomerase",
         "cop": 3,
         "opa": "Topoisomerase",
         "opb": "Helicase",
@@ -196,7 +196,7 @@
     },
     {
         "question": "Mutations that completely disrupt the function of the gene used in which of the following technique:",
-        "exp": "Targeted gene disruption/Gene knock -out : Mutations that completely disrupt the function of the gene. Predominantly used in mice tissue specific knock-out possible (cre/lox) Absence of phenotype possible due to redundancy. Targeted Knock-in : Introduction of subtle mutation(s) into gene by substitution of endogenous gene with gene carrying a specific mutation. Homologous recombination in embryonic stem cells Predominantly used in mice can accurately model human disease Restiction Fragment Length Polymorphism (RFLP): DNA variation occurring in more than 1% of general population is known as RELP. Use : Inherited disease in which the functional deficit is unknown Nonsense mutation: Nonsense codon result in the premature termination of amino acid incorporation into a peptide chain Production of only a fragment of intended protein molecule.",
+        "exp": "Targeted gene disruption/Gene knock -out: Mutations that completely disrupt the function of the gene. Predominantly used in mice tissue specific knock-out possible (cre/lox) Absence of phenotype possible due to redundancy. Targeted Knock-in: Introduction of subtle mutation(s) into gene by substitution of endogenous gene with gene carrying a specific mutation. Homologous recombination in embryonic stem cells Predominantly used in mice can accurately model human disease Restiction Fragment Length Polymorphism (RFLP): DNA variation occurring in more than 1% of general population is known as RELP. Use: Inherited disease in which the functional deficit is unknown Nonsense mutation: Nonsense codon result in the premature termination of amino acid incorporation into a peptide chain Production of only a fragment of intended protein molecule.",
         "cop": 3,
         "opa": "Non-sense mutation",
         "opb": "Restriction fragment length polymorphism",
@@ -208,8 +208,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is used for sequencing a long DNA fragment :",
-        "exp": "Chromosome walking Sequencing method of choice for sequencing long DNA fragments between 1.3 and 7 kb Applications of chromosome walking: Positional cloning Find, isolate, and clone a paicular allele Isolate a locus of interest for which no probe is available Analysis of genetically transmitted diseases Detect mutations Study SNPs (Single Nucleotide Polymorphisms) Disadvantage : Speed of this technique can't be enhanced",
+        "question": "Which of the following is used for sequencing a long DNA fragment:",
+        "exp": "Chromosome walking Sequencing method of choice for sequencing long DNA fragments between 1. 3 and 7 kb Applications of chromosome walking: Positional cloning Find, isolate, and clone a paicular allele Isolate a locus of interest for which no probe is available Analysis of genetically transmitted diseases Detect mutations Study SNPs (Single Nucleotide Polymorphisms) Disadvantage: Speed of this technique can't be enhanced",
         "cop": 3,
         "opa": "Sanger's technique",
         "opb": "Chain termination method",
@@ -222,7 +222,7 @@
     },
     {
         "question": "Which of the following method is used for the analysis of the C-terminal end of a polypeptide?",
-        "exp": "Akabori method is used for the analysis of C-terminal end of a polypeptide N-terminal analysis Carboxy-terminal analysis For post-translational modifications Sanger's reagent- fluoro-2,4 dinitrobenzene (FDNB) Carboxypeptidase assay Mass spectrometry Edman's reagent- Phenylisothiocyanate (PITC) Akabori reaction",
+        "exp": "Akabori method is used for the analysis of C-terminal end of a polypeptide N-terminal analysis Carboxy-terminal analysis For post-translational modifications Sanger's reagent- fluoro-2, 4 dinitrobenzene (FDNB) Carboxypeptidase assay Mass spectrometry Edman's reagent- Phenylisothiocyanate (PITC) Akabori reaction",
         "cop": 3,
         "opa": "Sanger's method",
         "opb": "Edman's degradation method",
@@ -235,7 +235,7 @@
     },
     {
         "question": "For karyotyping, the dividing cells are arrested by the addition of colchicines in the following mitotic phase:",
-        "exp": "Colchicine is used during karyotyping to arrest the cell in metaphase In metaphase , all chromosomes lie at the equator",
+        "exp": "Colchicine is used during karyotyping to arrest the cell in metaphase In metaphase, all chromosomes lie at the equator",
         "cop": 2,
         "opa": "Telophase",
         "opb": "Metaphase",
@@ -274,7 +274,7 @@
     },
     {
         "question": "All of the following are true about genomic library, EXCEPT",
-        "exp": "A genomic library is bacteria with plasmids containing DNA fragments representing the majority of the genetic information from a plant or animal. Genomic library cDNA library Genomic DNA isolated from an organism is digested by restriction enzymes and put in separate vectors. mRNA is conveed to cDNA which contains only exons. Each clone contains a fragment of the entire genome (exon + intron) of an organism within a vector. Each clone usually contains an intact gene Appropriate for small genome. Appropriate for large genome.",
+        "exp": "A genomic library is bacteria with plasmids containing DNA fragments representing the majority of the genetic information from a plant or animal. Genomic library c. DNA library Genomic DNA isolated from an organism is digested by restriction enzymes and put in separate vectors. m. RNA is conveed to c. DNA which contains only exons. Each clone contains a fragment of the entire genome (exon + intron) of an organism within a vector. Each clone usually contains an intact gene Appropriate for small genome. Appropriate for large genome.",
         "cop": 3,
         "opa": "Collection of cloned DNA fragments",
         "opb": "Screening is done by oligonucleotide probes",
@@ -325,8 +325,8 @@
         "choice_type": "single"
     },
     {
-        "question": "ChIP is used for :",
-        "exp": "ChIP is Chromatin Immuno Precipitation. It detects interactions between DNA & proteins and histone modifications. ChIP assays are combined with sequencing. It can be used to map global binding sites precisely for any protein of interest like transcription factors. Applications include genotyping, clinical genetic testing, forensic analysis, cancer mutations and genetic linkage analysis. It is not used for detection of aneuploidy (monosomy/trisomy)- FISH is the method of choice for detecting aneuploidy. ChIP and Chip are both different Chip is known as Microarray or Bioarray or Gene Array",
+        "question": "Ch. IP is used for:",
+        "exp": "Ch. IP is Chromatin Immuno Precipitation. It detects interactions between DNA & proteins and histone modifications. Ch. IP assays are combined with sequencing. It can be used to map global binding sites precisely for any protein of interest like transcription factors. Applications include genotyping, clinical genetic testing, forensic analysis, cancer mutations and genetic linkage analysis. It is not used for detection of aneuploidy (monosomy/trisomy)- FISH is the method of choice for detecting aneuploidy. Ch. IP and Chip are both different Chip is known as Microarray or Bioarray or Gene Array",
         "cop": 1,
         "opa": "Protein DNA interactions and histone modifications",
         "opb": "Study of aneuploidy",
@@ -338,7 +338,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Steps of PCR in sequence are ?",
+        "question": "Steps of PCR in sequence are?",
         "exp": "PCR - Method of amplifying a target sequence of DNA developed by Karry Mullis in 1984 Essential requirements of a PCR reaction: Targeted DNA Two primers Four deoxyribonucleotide Thermostable DNA polymerase Steps of PCR: 1. Denaturation: Two DNA strands separated (94o C) 2. Annealing: Addition of primers (one for each strand) (60oC) 3. Extension/Elongation: Polymerization or synthesis of DNA. (72oC) These cycles of Denaturation, Annealing, and Extension are repeated again and again to synthesize large amounts of DNA.",
         "cop": 3,
         "opa": "Extend DNA, Anneal Primers, Denature DNA",
@@ -351,8 +351,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "Enzyme used for cDNA synthesis is",
-        "exp": "Complementary DNA (cDNA) DNA that is complementary to RNA Reverse transcriptase (RNA dependent DNA polymerase) is used for the synthesis",
+        "question": "Enzyme used for c. DNA synthesis is",
+        "exp": "Complementary DNA (c. DNA) DNA that is complementary to RNA Reverse transcriptase (RNA dependent DNA polymerase) is used for the synthesis",
         "cop": 4,
         "opa": "DNA dependent RNA polymerase",
         "opb": "DNA dependent DNA polymerase",
@@ -378,7 +378,7 @@
     },
     {
         "question": "Klinefelter syndrome is diagnosed by:",
-        "exp": "Klinefelter's syndrom (XXY) can be detected by karyotyping Karyotyping Study of chromosome Best technique for Monosomy/Trisomy But can be only done during Metaphase Sample used: Blood, Bone marrow, Amniotic fluid, Placental tissue Fixative : Carnoy's fixative (Methanol and Glacial Acetic acid in ratio 3:1) Most common stain: Geimsa/G-banding Limitations Can't be done in any phase of cell cycle Can't detect amplifications, microdeletions and complex translocations Low resolution i.e. subchromosomal alterations can't be detected",
+        "exp": "Klinefelter's syndrom (XXY) can be detected by karyotyping Karyotyping Study of chromosome Best technique for Monosomy/Trisomy But can be only done during Metaphase Sample used: Blood, Bone marrow, Amniotic fluid, Placental tissue Fixative: Carnoy's fixative (Methanol and Glacial Acetic acid in ratio 3: 1) Most common stain: Geimsa/G-banding Limitations Can't be done in any phase of cell cycle Can't detect amplifications, microdeletions and complex translocations Low resolution i. e. subchromosomal alterations can't be detected",
         "cop": 4,
         "opa": "USG abdomen",
         "opb": "Echocardiography",
@@ -391,7 +391,7 @@
     },
     {
         "question": "The enzyme used to \"flush\" the sticky ends of DNA is",
-        "exp": "Flushing of sticky ends means to remove the sticky ends (3' overhangs) for producing blunt-ended DNA (no overhangs). The sticky ends has 3' overhangs which can be digested with Klenow fragment (has 3'-5' exonuclease activity) to produce blunt-end DNA. Tool Role Type II restriction enzymes Cleaves DNA at specific sites DNA ligase Phosphodiester bond formation between 2 fragments Klenow fragments (DNA polymerase I without 5' to 3' exonuclease activity) Used previously for polymerization in PCR reactions Polynucleotide kinase Catalyse the transfer of g phosphate from ATP Alkaline phosphatase Removes the phosphate group from 5' end to prevent self annealing of sticky ends of DNA Reverse transcriptase RNA dependent DNA polymerase for cDNA synthesis RNAase H Removes RNA from DNA-RNA hybrid Exonuclease III Removes nucleotide from 3' end Phage g exonuclease Removes nucleotide from 5' end Terminal nucleotidyl transferase In homopolymer tailing to conve blind end to sticky end",
+        "exp": "Flushing of sticky ends means to remove the sticky ends (3' overhangs) for producing blunt-ended DNA (no overhangs). The sticky ends has 3' overhangs which can be digested with Klenow fragment (has 3'-5' exonuclease activity) to produce blunt-end DNA. Tool Role Type II restriction enzymes Cleaves DNA at specific sites DNA ligase Phosphodiester bond formation between 2 fragments Klenow fragments (DNA polymerase I without 5' to 3' exonuclease activity) Used previously for polymerization in PCR reactions Polynucleotide kinase Catalyse the transfer of g phosphate from ATP Alkaline phosphatase Removes the phosphate group from 5' end to prevent self annealing of sticky ends of DNA Reverse transcriptase RNA dependent DNA polymerase for c. DNA synthesis RNAase H Removes RNA from DNA-RNA hybrid Exonuclease III Removes nucleotide from 3' end Phage g exonuclease Removes nucleotide from 5' end Terminal nucleotidyl transferase In homopolymer tailing to conve blind end to sticky end",
         "cop": 1,
         "opa": "Klenow fragment",
         "opb": "Polynucleotide kinase",
@@ -430,7 +430,7 @@
     },
     {
         "question": "Which of the following technique is used to find out the impoant amino acid residue involved in the enzyme catalysis?",
-        "exp": "Codon for specific aminoacids can be altered using site-directed mutagenesis. Site-directed mutagenesis Identification of the specific roles of given aminoacyl residues in substrate binding and catalysis. For eg : A paicular aminoacyl residue functions as a general acid can be tested by replacing it with an aminoacyl residue incapable of donating a proton.",
+        "exp": "Codon for specific aminoacids can be altered using site-directed mutagenesis. Site-directed mutagenesis Identification of the specific roles of given aminoacyl residues in substrate binding and catalysis. For eg: A paicular aminoacyl residue functions as a general acid can be tested by replacing it with an aminoacyl residue incapable of donating a proton.",
         "cop": 4,
         "opa": "Electrophoresis",
         "opb": "Chromatography",
@@ -482,7 +482,7 @@
     },
     {
         "question": "CRISPR/Cas9 mediated gene editing involves which of the following DNA repair mechanisms?",
-        "exp": "CRISPR The CRISPR system represents a form of acquired immunity to infection by bacteriophages, which complements the system of restriction endonucleases and methylases. CRISPR uses RNA-based targeting to bring the Cas9 nuclease to foreign (or any complementary)DNA. Within bacteria this CRISPR-RNA-Cas9 complex degrades and inactivates targeted DNA. Use- gene deletion,gene editing and even modulation of gene transcription. CRISPR mediated gene therapy works on the basis of both homologous and non-homologous end joining DNA repair mechanism",
+        "exp": "CRISPR The CRISPR system represents a form of acquired immunity to infection by bacteriophages, which complements the system of restriction endonucleases and methylases. CRISPR uses RNA-based targeting to bring the Cas9 nuclease to foreign (or any complementary)DNA. Within bacteria this CRISPR-RNA-Cas9 complex degrades and inactivates targeted DNA. Use- gene deletion, gene editing and even modulation of gene transcription. CRISPR mediated gene therapy works on the basis of both homologous and non-homologous end joining DNA repair mechanism",
         "cop": 3,
         "opa": "Base Excision Repair",
         "opb": "Nucleotide Excision Repair",

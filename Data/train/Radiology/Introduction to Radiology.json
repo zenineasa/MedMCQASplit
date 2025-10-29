@@ -1,12 +1,12 @@
 [
     {
         "question": "The effective dose of a Chest x-ray is ____________.",
-        "exp": "The effective dose of a CXR is 0.02 mSv. Radiation dose of a chest CT (8mSv)is 400 times more than a chest X-ray. TYPICAL EFFECTIVE DOSES Investigation Dose (mSv) PA view CXR 0.02 Skull AP/Lat 0.06 AP pelvis 0.7 AXR 0.7 Lumbar spine 1 CT brain 2 IVU 2.5 Barium meal 3 Bone scan 3 Barium enema 7 CT abdomen 10 Thallium scan 20",
+        "exp": "The effective dose of a CXR is 0. 02 m. Sv. Radiation dose of a chest CT (8m. Sv)is 400 times more than a chest X-ray. TYPICAL EFFECTIVE DOSES Investigation Dose (m. Sv) PA view CXR 0. 02 Skull AP/Lat 0. 06 AP pelvis 0. 7 AXR 0. 7 Lumbar spine 1 CT brain 2 IVU 2. 5 Barium meal 3 Bone scan 3 Barium enema 7 CT abdomen 10 Thallium scan 20",
         "cop": 1,
-        "opa": "0.02 mSv",
-        "opb": "0.2 mSv",
-        "opc": "0.05 mSv",
-        "opd": "0.1 mSv",
+        "opa": "0. 02 m. Sv",
+        "opb": "0. 2 m. Sv",
+        "opc": "0. 05 m. Sv",
+        "opd": "0. 1 m. Sv",
         "subject_name": "Radiology",
         "topic_name": "Introduction to Radiology",
         "id": "809f2da4-59d4-45a3-b914-f8e7c003fd07",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Gamma Rays are used in?",
-        "exp": "*PET Scan uses Gamma Rays. *Gamma Rays are used in SCINTIGRAPHY STUDIES(Tc99m radioisotope studies),SPECT(Single Photon Emission Computerised Tomography) studies and PET scan (Positron Emission Tomography), Bone scan (Tc99m-MDP studies) *All other investigations given in the options use X rays.",
+        "exp": "*PET Scan uses Gamma Rays. *Gamma Rays are used in SCINTIGRAPHY STUDIES(Tc99m radioisotope studies), SPECT(Single Photon Emission Computerised Tomography) studies and PET scan (Positron Emission Tomography), Bone scan (Tc99m-MDP studies) *All other investigations given in the options use X rays.",
         "cop": 4,
         "opa": "CT scan",
         "opb": "DEXA Scan",
@@ -39,8 +39,8 @@
         "choice_type": "single"
     },
     {
-        "question": "S.I Unit of radioactivity is",
-        "exp": "UNITS OF RADIATION Physical quantity S.I. Unit Non S.I. Unit Conversion Radioactivity Becqueral (Bq) Curie (Ci) 1 Ci = 3.7 X 1010 Bq Absorbed dose Gray (Gy) Rad 1 Gy = 100 rads 1 rad = 0.01 gy Dose equivalent Sieve (SV) Rem 1 SV = 100 rem 1 Rem = 0.01 Sv Exposure coulomb/kg Roentgen 1R= 2.58 x 10-4coulomb/kg of air",
+        "question": "S. I Unit of radioactivity is",
+        "exp": "UNITS OF RADIATION Physical quantity S. I. Unit Non S. I. Unit Conversion Radioactivity Becqueral (Bq) Curie (Ci) 1 Ci = 3. 7 X 1010 Bq Absorbed dose Gray (Gy) Rad 1 Gy = 100 rads 1 rad = 0. 01 gy Dose equivalent Sieve (SV) Rem 1 SV = 100 rem 1 Rem = 0. 01 Sv Exposure coulomb/kg Roentgen 1R= 2. 58 x 10-4coulomb/kg of air",
         "cop": 1,
         "opa": "Becquerel",
         "opb": "Curie",
@@ -79,7 +79,7 @@
     },
     {
         "question": "All the following statements are true except?",
-        "exp": "*Ultrasound waves are sound waves,not electromagnetic waves. *Ultrasound waves travel with a velocity of 1540m/s in human tissues. *All Electromagnetic radiations like X rays,Gamma Rays,Infrared waves travel with the same velocity i.e. the velocity of speed of light 3 x108m/s. *Wavelength of Xrays is 0.1-100 Angstrom.",
+        "exp": "*Ultrasound waves are sound waves, not electromagnetic waves. *Ultrasound waves travel with a velocity of 1540m/s in human tissues. *All Electromagnetic radiations like X rays, Gamma Rays, Infrared waves travel with the same velocity i. e. the velocity of speed of light 3 x108m/s. *Wavelength of Xrays is 0. 1-100 Angstrom.",
         "cop": 3,
         "opa": "X-Rays are extranuclear in origin.",
         "opb": "Gamma Rays are intranuclear in origin.",
@@ -92,9 +92,9 @@
     },
     {
         "question": "All of the following scientist had won a Nobel prize except?",
-        "exp": "Paul lauterbur and Mansfield won the Nobel prize in medicine for MRI in 2003. W.C. Roentgen got the first noble prize in physics in 1901. Sir Godfrey Hounsfield got the noble prize for physiology/Medicine in 1979 along with Allan McLeod Cormack. Charles T. Dotter is father of interventional radiology.",
+        "exp": "Paul lauterbur and Mansfield won the Nobel prize in medicine for MRI in 2003. W. C. Roentgen got the first noble prize in physics in 1901. Sir Godfrey Hounsfield got the noble prize for physiology/Medicine in 1979 along with Allan Mc. Leod Cormack. Charles T. Dotter is father of interventional radiology.",
         "cop": 4,
-        "opa": "W.C. Roentgen",
+        "opa": "W. C. Roentgen",
         "opb": "Godfrey Hounsfield",
         "opc": "Paul lauterbur",
         "opd": "Charles T. Dotter",
@@ -105,7 +105,7 @@
     },
     {
         "question": "Radio frequency waves are used in which of the following imaging modality?",
-        "exp": "*MRI is based on Gyromagnetic propey of protons. *MRI uses Non-ionizing radiation i.e. Radiofrequency waves. *USG is also Non-ionizing but uses UltraSound waves. *PET scan uses Gamma rays. *CT scan uses X rays.",
+        "exp": "*MRI is based on Gyromagnetic propey of protons. *MRI uses Non-ionizing radiation i. e. Radiofrequency waves. *USG is also Non-ionizing but uses Ultra. Sound waves. *PET scan uses Gamma rays. *CT scan uses X rays.",
         "cop": 2,
         "opa": "PET scan",
         "opb": "MRI",

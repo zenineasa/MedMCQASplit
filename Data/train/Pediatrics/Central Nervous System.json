@@ -1,5 +1,44 @@
 [
     {
+        "question": "Which of the following agents is likely to cause cerebral calcification and hydrocephalus in a newborn whose mother has history of taking spiramycin but was not compliant with therapy?",
+        "exp": "b. Toxoplasmosis(Ref: Nelson's 20/e p 2814, Ghai 8/e p 574). Cerebral calcification with hydrocephalus in seen in congenital toxoplasmosis.",
+        "cop": 2,
+        "opa": "Rubella",
+        "opb": "Toxoplasmosis",
+        "opc": "CMV",
+        "opd": "Herpes",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "7f444937-f1ae-403c-9427-34f6d5c18aa6",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 2-year-old unresponsive child came to casualty with history of fall from a height. On examination, he is responsive to verbal stimuli intermittently, respiratory rate is 30 per min, pulse 130 per min, sp. O2 is 94% and BP is 104/60 mm Hg. What should be the next step of management?",
+        "exp": "c. Start oxygen by face mask, immobilize cervical spine and transfer to a tertiary centre accompanied by doctor(Ref: Nelson's 20/e p 545-552). The best management in this case is to supplement O2 as there is hypoxia, to prevent further CNS injury; Cervical spine should be immobilized and the patient should be transferred to a tertiary centre accompanied by doctor.",
+        "cop": 3,
+        "opa": "Observe the child carefully and shift if necessary",
+        "opb": "Transfer immediately to a tertiary center for CT brain and further management",
+        "opc": "Start oxygen by face mask, immobilize cervical spine and transfer to a tertiary center accompanied by doctor",
+        "opd": "Start oxygen by face mask and give mannitol",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "c3fd7949-ca18-4d73-aad8-2a4585393406",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Subdural empyema is a complication of all the following conditions except?",
+        "exp": "d. Boil over face(Ref: Nelson's 20/e p 2936-2948, Ghai 8/e p 563-565). Infections of the sinuses, ear and skull bones can lead to Subdural empyema.",
+        "cop": 4,
+        "opa": "Frontal Sinusitis",
+        "opb": "Skull vault osteomyelitis",
+        "opc": "Middle ear disease",
+        "opd": "Boil over face",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "b8db32f6-e533-47c1-b07c-5e57b5fcb3c8",
+        "choice_type": "multi"
+    },
+    {
         "question": "Preventable causes of Mental Retardation are",
         "exp": "Cretinism is congenital iron deficiency syndrome which can be preventable by intake in required amounts. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 3,
@@ -29,9 +68,9 @@
         "question": "Neonatal meningitis is caused by",
         "exp": "The most common causes ofneonatal meningitis is bacterialinfection of the blood, known as bacteremia (specifically group B streptococci (Streptococcus agalactiae), Escherichia coli, and Listeria monocytogenes). Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 2,
-        "opa": "L.monocytogenes",
+        "opa": "L. monocytogenes",
         "opb": "Group 'B' Streptococcus",
-        "opc": "E.Coli",
+        "opc": "E. Coli",
         "opd": "H. Influenza",
         "subject_name": "Pediatrics",
         "topic_name": "Central Nervous system",
@@ -40,7 +79,7 @@
     },
     {
         "question": "Generated 3-4 Hz spike and slow wave complex is seen in",
-        "exp": "During an absence seizure, your brain&;s electrical signals repeat themselves. A person who has absence seizures may also have altered levels of neurotransmitters. Hyperventilation or flashing lights may trigger an absence seizure in others. Doctors may never find a specific cause for some patients. Abscence seizure : * Typical absence seizures have a bimodal distribution for age of onset; * First peak at 5-8 years (childhood) * Second peak near 12 years of age (juvenile) Childhood Absence Epilepsy (CAE) * CAE is a childhood epilepsy syndrome occurring in 10-17% of all childhood onset epilepsy. * The most common pediatric epilepsy syndrome. * Females > males * Usually sta at 5-8 yr of age. * No aura. * Usually last for only a few seconds. * Accompanied by eye lid flutter or upward rolling of eyes. * Absence seizures can have simple automatisms like lip-smacking or picking at clothing. * Head can minimally fall forward. * No postictal period. * Hyperventilation for 3-5 min can precipitate the seizures and the accompanying 3 Hz spike--and--slow-wave discharges. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "During an absence seizure, your brain&; s electrical signals repeat themselves. A person who has absence seizures may also have altered levels of neurotransmitters. Hyperventilation or flashing lights may trigger an absence seizure in others. Doctors may never find a specific cause for some patients. Abscence seizure: * Typical absence seizures have a bimodal distribution for age of onset; * First peak at 5-8 years (childhood) * Second peak near 12 years of age (juvenile) Childhood Absence Epilepsy (CAE) * CAE is a childhood epilepsy syndrome occurring in 10-17% of all childhood onset epilepsy. * The most common pediatric epilepsy syndrome. * Females > males * Usually sta at 5-8 yr of age. * No aura. * Usually last for only a few seconds. * Accompanied by eye lid flutter or upward rolling of eyes. * Absence seizures can have simple automatisms like lip-smacking or picking at clothing. * Head can minimally fall forward. * No postictal period. * Hyperventilation for 3-5 min can precipitate the seizures and the accompanying 3 Hz spike--and--slow-wave discharges. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 2,
         "opa": "GTCS",
         "opb": "Abscence seizure",
@@ -52,8 +91,21 @@
         "choice_type": "single"
     },
     {
+        "question": "Baby with fused eyes and single nasal chamber, undeveloped callosum. What is diagnosis?",
+        "exp": "A i. e. Holoprosencephaly. Ref: Nelson, Textbook of Pediatrics, 20th edition, page 2640. Explanation: Holoprosencephaly. Disorder of neuronal migration with defective cleavage of the prosencephalon (the forebrain of the embryo fails to develop into two hemispheres) and inadequate induction of the forebrain structures. Cause - Mutations in the \"sonic hedgehog\" gene at 7q, maternal diabetes. Three groups: Alobar-Severe facial anomalies, including lack of a nose and the eyes merged to a single median structure, e. g. cyclopia. Semilobar-lntermediate form. Lobar-Least severe form. Middle interhemispheric fusion (MIHF variant) or syntelencephaly - involves a segmental area of non-cleavage of the posterior frontal and parietal lobes. Facial abnormalities - Cyclopia (fused eyes and single nasal chamber), cebocephaly, single central incisor tooth, premaxillary agenesis and anosmia. A prenatal diagnosis - ultrasonography after the 10th week of gestation for more severe types. Other disorder of neural migration: Disorder. Pathology. Clinical features. LISSENCEPHALY/AGYRIA* Absence of cerebral convolutions, poorly formed sylvian fissure, giving the appearance of a 3-4 months fetal brain* Associated with enlarged lateral ventricles and heterotopias in the white matter. Presents with failure to thrive, microcephaly, marked developmental delay, and a severe seizure disorder, hypoplasia of the optic nerve and microphthalmia associated with. Miller-Dieker Syndrome (MDS)* Gene LIS-1 (lissencephaly 1) that maps to chromosome region 17p13. 3 is deleted* Prominent forehead, bitemporal hollowing, anteverted nostrils, a prominent upper lip, and micrognathia* CT and MRI scans typically show a smooth brain with an absence of sulci. SCHIZENCEPHALYPresence of unilateral or bilateral clefts within the cerebral hemispheres* Mental retardation, refractory seizures and microcephaly* Unilateral schizencephaly is a frequent cause of congenital hemiparesis* With spastic quadriparesis when the clefts are bilateral* CT scan is diagnostic and clearly demonstrates the size and extent of the cleft. PORENCEPHALYPresence of cysts - in sylvian fissure and typically communicate with the subarachnoid space, the ventricular system, or both, associated with microcephaly, abnormal patterns of adjacent gyri, and ence- phalocele. Mental retardation, spastic hemi- or quadriparesis, optic atrophy and seizures. Pseudoporencephalic cysts* Perinatal or postnatal period and result from abnormalities (infarction, hemorrhage) of arterial or venous circulation* Cysts extend to be unilateral* They do not communicate with a fluid-filled cavity; and* They are not associated with abnormalities of cell migration or CNS malformations* Present with hemiparesis and focal seizures in the 1st year of life",
+        "cop": 1,
+        "opa": "Holoprosencephaly",
+        "opb": "Schizencephaly",
+        "opc": "Plagiocephaly",
+        "opd": "Brachycephaly",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "79ec7a4d-c8e2-4f5a-894c-fde7bda8dc76",
+        "choice_type": "multi"
+    },
+    {
         "question": "Which type of shift in intracranial content is common in children with progressive hydrocephalus",
-        "exp": "Hydrocephalus is a condition in which the primary characteristic is excessive accumulation of cerebrospinal fluid (CSF) the clear fluid that surrounds the brain and spinal cord. This excessive accumulation results in an abnormal dilation of the spaces in the brain called ventricles. Increased pressure in the posterior fossa forces the cerebellar tonsils through the foramen magnum. These will compress the lower pa of the brain stem and upper cervical cord, resulting in life-threatening consequences. It usually occurs along with ascending or descending transtentorial herniation. (1) CINGULATE (SUBFALCINE) HERNIATION under falx cerebri. (2) CENTRAL (DOWNWARD TRANSTENTORIAL) HERNIATION through tentorial notch. (3) UNCAL (LATERAL MASS) HERNIATION over edge of tentorium. (4) CEREBELLAR TONSILLAR HERNIATION through foramen magnum. (5) TRANSCALVARIAL HERNIATION - swollen brain herniates through any defect in dura & skull. (2) - (4) types may cause death through brainstem compression. Cushing&;s triad is response to diminished brain stem perfusion, regardless of etiology. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Hydrocephalus is a condition in which the primary characteristic is excessive accumulation of cerebrospinal fluid (CSF) the clear fluid that surrounds the brain and spinal cord. This excessive accumulation results in an abnormal dilation of the spaces in the brain called ventricles. Increased pressure in the posterior fossa forces the cerebellar tonsils through the foramen magnum. These will compress the lower pa of the brain stem and upper cervical cord, resulting in life-threatening consequences. It usually occurs along with ascending or descending transtentorial herniation. (1) CINGULATE (SUBFALCINE) HERNIATION under falx cerebri. (2) CENTRAL (DOWNWARD TRANSTENTORIAL) HERNIATION through tentorial notch. (3) UNCAL (LATERAL MASS) HERNIATION over edge of tentorium. (4) CEREBELLAR TONSILLAR HERNIATION through foramen magnum. (5) TRANSCALVARIAL HERNIATION - swollen brain herniates through any defect in dura & skull. (2) - (4) types may cause death through brainstem compression. Cushing&; s triad is response to diminished brain stem perfusion, regardless of etiology. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
         "opa": "Transforaminal herniatation",
         "opb": "Upward cerebellar herniation",
@@ -65,8 +117,34 @@
         "choice_type": "single"
     },
     {
+        "question": "In a small child diagnosed with H. influenza meningitis. What investigation must to be done before discharging him from the hospital?",
+        "exp": "a. BERA(Ref: Nelson's 20/e p 2936-2948, Ghai 8/e p 563-565). Sensorineural hearing loss is the most common sequelae of bacterial meningitis; So a hearing evaluation should be done before discharge of a child with meningitis, from hospital.",
+        "cop": 1,
+        "opa": "BERA",
+        "opb": "MRI",
+        "opc": "CT scan",
+        "opd": "X-ray skull",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "1ac1d2ca-7bd3-4dbd-8a2f-644d6e2f7916",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A case of meningomyelocele was posted for surgery. Till the patient is waiting for surgery, the covering of the sac will be protected by a gauze soaked in:",
+        "exp": "a. Normal saline(Ref: Nelson's 20/e p 2802-2803, Ghai 8/e p 575-577). Meningomyelocele is covered with sterile saline-soaked gauze to prevent it from drying, trauma and infection",
+        "cop": 1,
+        "opa": "Normal saline",
+        "opb": "Tincture iodine",
+        "opc": "Methylene blue",
+        "opd": "Mercurochrome",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "a3e83ca4-d619-4a1b-9f4d-59c661e7678f",
+        "choice_type": "single"
+    },
+    {
         "question": "The pediatric disease that most closely resembles amyotrophic lateral sclerosis (ALS) is",
-        "exp": "Werdnig-Hoffmann disease most closely resembles amyotrophic lateral sclerosis (ALS). Both of these diseases involve the degeneration of motor neurons. Presentation Symptoms symmetric flaccid paralysis most affected infants are hypotonic at bih proximal muscle involvement lower extremity greater than upper extremity sparing of upper cranial nerves e.g., normal eye movements Physical exam absent or decreased deep tendon reflexes tongue and finger fasciculatons infants have flaccid \"frog-like\" posture restrictive respiratory insufficiency ALS appears to be increasing in incidence. In 5% to 10% of cases, there is an autosomal dominant pattern with strong age-dependent penetrance. Proposed etiologies include oxidative stress, viral infection, immunologic disease, or some unknown environmental factor. Currently, the oxidative stress theory is ored because a defect in the zinc-copper binding superoxide dismutase (5001) coded on chromosome 21 was discovered. Because SO 01 is an antioxidant that conves the superoxide free radical into peroxide and oxygen, reduced activity causes apoptosis (individual cell necrosis) of spinal motor neurons. Inhibition of glutamate transpo potentiates the toxicity associated with the reduced SODllevels. ALS most commonly presents with both upper motor neuron signs (e.g., spastic paralysis) and, eventually, lower motor neuron signs (e.g., muscle atrophy, fasciculations). Atrophy of the intrinsic muscles of the hand and forearms with hand weakness and spastic changes in the lower legs are early signs. Antioxidant cocktails have now been developed, which offer some symptomatic improvement. Werdnig- Hoffmann disease is a progressive muscular atrophy noted in infants. It often presents as the floppy child syndrome. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Werdnig-Hoffmann disease most closely resembles amyotrophic lateral sclerosis (ALS). Both of these diseases involve the degeneration of motor neurons. Presentation Symptoms symmetric flaccid paralysis most affected infants are hypotonic at bih proximal muscle involvement lower extremity greater than upper extremity sparing of upper cranial nerves e. g., normal eye movements Physical exam absent or decreased deep tendon reflexes tongue and finger fasciculatons infants have flaccid \"frog-like\" posture restrictive respiratory insufficiency ALS appears to be increasing in incidence. In 5% to 10% of cases, there is an autosomal dominant pattern with strong age-dependent penetrance. Proposed etiologies include oxidative stress, viral infection, immunologic disease, or some unknown environmental factor. Currently, the oxidative stress theory is ored because a defect in the zinc-copper binding superoxide dismutase (5001) coded on chromosome 21 was discovered. Because SO 01 is an antioxidant that conves the superoxide free radical into peroxide and oxygen, reduced activity causes apoptosis (individual cell necrosis) of spinal motor neurons. Inhibition of glutamate transpo potentiates the toxicity associated with the reduced SODllevels. ALS most commonly presents with both upper motor neuron signs (e. g., spastic paralysis) and, eventually, lower motor neuron signs (e. g., muscle atrophy, fasciculations). Atrophy of the intrinsic muscles of the hand and forearms with hand weakness and spastic changes in the lower legs are early signs. Antioxidant cocktails have now been developed, which offer some symptomatic improvement. Werdnig- Hoffmann disease is a progressive muscular atrophy noted in infants. It often presents as the floppy child syndrome. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 3,
         "opa": "Schilder disease (adrenoleukodystrophy)",
         "opb": "Tabes dorsalis",
@@ -79,7 +157,7 @@
     },
     {
         "question": "Not found in cerebral palsy is _________",
-        "exp": "Signs and Symptoms of Cerebral Palsy Low muscle tone (baby feels &;floppy&; when picked up) Unable to hold up his/her own head while lying on their stomach or in a suppoed sitting position. Muscle spasms or feeling stiff. Poor muscle control, reflexes and posture. Delayed development (can&;t sit up or independently roll over by 6 months) Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Signs and Symptoms of Cerebral Palsy Low muscle tone (baby feels &; floppy&; when picked up) Unable to hold up his/her own head while lying on their stomach or in a suppoed sitting position. Muscle spasms or feeling stiff. Poor muscle control, reflexes and posture. Delayed development (can&; t sit up or independently roll over by 6 months) Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
         "opa": "Hypotonia",
         "opb": "Microcephaly",
@@ -91,8 +169,73 @@
         "choice_type": "single"
     },
     {
+        "question": "What does the following demonstrate in a full term neonate?",
+        "exp": "a. Normal tone. To test tone of a newborn, vertical suspension is done, holding axillae without gripping thorax. Here, this baby is remaining suspended with less in flexion, signifying normal tone",
+        "cop": 1,
+        "opa": "Normal tone",
+        "opb": "Hypotonia",
+        "opc": "Hypertonia",
+        "opd": "Head control",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "df05e6a5-ff13-42a3-aef6-6443b39419ae",
+        "choice_type": "single"
+    },
+    {
+        "question": "CT scan of a mentally retarded child with recurrent seizures and hemangioma. Diagnosis is? 0",
+        "exp": "Ans. (b) Encephalofacial angiomatosis.* The CT scan shows extensive intracranial calcification which will lead to seizures, paralysis and hemiatrophy. The presence of hemangioma shows presence of Sturge-Weber syndrome called as encephalofacial angiomatosis.* Epilolia is alternative term for tuberous sclerosis.* Louis bar syndrome is alternative term for phakomatosis by name of ataxia telangiectasia.* Neuronal ceroid lipofuscinosis includes leukodystrophy like Krabbe's disease and adrenoleukodystrophy. Image source; style=\"font-size: 1. 04761904761905em; color: rgba(0, 0, 0, 1); font-family: Times New Roman, Times, serif; margin: 0 0 8pt\">",
+        "cop": 2,
+        "opa": "Epiloias",
+        "opb": "Encephalofacial angiomatosis",
+        "opc": "Louis Bar syndrome",
+        "opd": "Neuronal ceroid lipofuscinoses",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "80e76bac-83d2-43b1-8a30-f849f5e0895d",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Most common site of brain metastasis is -",
+        "exp": "Ans. is 'a' i. e., Cerebrum o MC site of brain metastases (85%) - CEREBRUMo 2nd MC site of brain metastases- CEREBELLUMo Lung, breast, melanoma (skin cancer), colon and kidney cancers commonly spread to the brain.",
+        "cop": 1,
+        "opa": "Cerebrum",
+        "opb": "Cerebellum",
+        "opc": "Medulla oblongata",
+        "opd": "Pons",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "45db1051-f59f-4d70-8ffa-150e6c9d028c",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 7-year-old boy presents with a right-sided hemangioma and left-sided focal seizures. The most likely diagnosis is:",
+        "exp": "d. Sturge-Weber syndrome(Ref: Nelson's 20/e p 2879, Ghai 8/e p 586). Sturge-Weber Syndrome (SWS). Angiomas involving leptomeninges & skin of face, typically in ophthalmic & maxillary divisions distributions of trigeminal nerve. The hallmark of SWS is a facial cutaneous venous dilation, also referred to as a nevus flammeus or port-wine stain. Contralateral focal seizures, calcification of cerebral cortex and glaucoma on same side as skin lesions are seen.",
+        "cop": 4,
+        "opa": "Neurofibromatosis",
+        "opb": "Incontinentia pigmenti",
+        "opc": "Hyper melanosis of Ito",
+        "opd": "Sturge-Weber syndrome",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "94fb54dc-b7b8-4a32-a8b1-f90b0fcd9ac6",
+        "choice_type": "single"
+    },
+    {
+        "question": "Which is the best marker for NTD?",
+        "exp": "a. a. FP(Ref: Nelson's 20/e p 2802). Prenatal screening of maternal serum for AFP in the 16th-18th wk of gestation is an effective method for identifying pregnancies at risk for fetuses with neural tube defects in utero.",
+        "cop": 1,
+        "opa": "a. FP",
+        "opb": "h. CG",
+        "opc": "Pseudocholinesterase",
+        "opd": "Inhibin-A",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "049259f8-7662-4763-85b5-256b0da95178",
+        "choice_type": "single"
+    },
+    {
         "question": "Drug of choice for Infantile Spasm",
-        "exp": "Drug of choice for infantile spasm is ACTH. Infantile spasms (also called West syndrome) can be caused by brain malformations, infections, brain injury, or abnormal blood vessels in the brain. IS also can happen in babies with ceain metabolic and genetic disorders. In rare cases, a baby&;s infantile spasms are caused by vitamin B6 deficiency. Infantile spasms (IS) is a seizure disorder in babies. The Spasms sta suddenly and last a second or two. They often come one after another in a cluster that lasts several minutes. They happen most often just after waking. They&;re often mistaken for A baby having a spasm might have: the head bent forward with arms flung out and the knees pulled into the body (described as \"jackknife\") the head bent back with the arms and legs straightened small movements in the neck or other pas of the body The most common drugs used to treat West syndrome are: Adrenocoicotropic hormone (ACTH) Prednisone Vigabatrin Pyridoxine Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Drug of choice for infantile spasm is ACTH. Infantile spasms (also called West syndrome) can be caused by brain malformations, infections, brain injury, or abnormal blood vessels in the brain. IS also can happen in babies with ceain metabolic and genetic disorders. In rare cases, a baby&; s infantile spasms are caused by vitamin B6 deficiency. Infantile spasms (IS) is a seizure disorder in babies. The Spasms sta suddenly and last a second or two. They often come one after another in a cluster that lasts several minutes. They happen most often just after waking. They&; re often mistaken for A baby having a spasm might have: the head bent forward with arms flung out and the knees pulled into the body (described as \"jackknife\") the head bent back with the arms and legs straightened small movements in the neck or other pas of the body The most common drugs used to treat West syndrome are: Adrenocoicotropic hormone (ACTH) Prednisone Vigabatrin Pyridoxine Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 2,
         "opa": "Vigabatrin",
         "opb": "ACTH",
@@ -105,7 +248,7 @@
     },
     {
         "question": "The Most common cause of meningitis in children aged 5 years is",
-        "exp": "Several kinds of bacteria can cause bacterial meningitis. The most common ones in the U.S. are: problems) A bacteria called Haemophilus influenzaetype b (Hib) was a common cause of meningitis in babies and young children until the Hib <a href=\" available for infants. There are also vaccines for&nbsp;<em>Neisseria meningitidis and Streptococcus pneumoniae. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Several kinds of bacteria can cause bacterial meningitis. The most common ones in the U. S. are: problems) A bacteria called Haemophilus influenzaetype b (Hib) was a common cause of meningitis in babies and young children until the Hib <a href=\" available for infants. There are also vaccines for&nbsp;<em>Neisseria meningitidis and Streptococcus pneumoniae. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 2,
         "opa": "H-influenzae",
         "opb": "N-meningitides",
@@ -117,7 +260,20 @@
         "choice_type": "single"
     },
     {
-        "question": "Neural Tube Defects have which one of the following inheritance patterns ?",
+        "question": "Functional disorder is-",
+        "exp": "Ans. is 'd' i. e., All of above Functional Neurological Disordero Transformation of inner psychological conflict into physical symptomso Two types. Somatoform. Dissociative. Somatoform disorder include-Conversion. Somatization. Pain disorder. Hypochondriasis. Body dysmorphic disorder. Dissociative disorder - include-Dissociative amnesia. Fugueo They are often associated with co-morbid mood & anxiehg disorder.",
+        "cop": 4,
+        "opa": "Fugue",
+        "opb": "Conversion",
+        "opc": "Hypochondriasis",
+        "opd": "All of above",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "66df2d12-111f-4e45-bbc7-83ea3b4a9e59",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Neural Tube Defects have which one of the following inheritance patterns?",
         "exp": "Neural tube defects are considered a complex disorder because they are caused by a combination of multiple genes and multiple environmental factors. However, once a couple has one child with an NTD, their chance of having a second child with an NTD is increased to approximately 2-5%. Neural tube defects are usually diagnosed before the infant is born, through lab or imaging tests. There is no cure for neural tube defects. The nerve damage and loss of function that are present at bih are usually permanent. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
         "opa": "Autosomal dominant",
@@ -130,8 +286,34 @@
         "choice_type": "single"
     },
     {
+        "question": "The appearance of cobweb formation in CSF indicates?",
+        "exp": "c. Tuberculous meningitis(Ref: Nelson's 20/e p 2936-2948, Ghai 8/e p 563-565). Cob web coagulum formation in CSF is a feature of Tuberculous meningitis.",
+        "cop": 3,
+        "opa": "Pyogenic meningitis",
+        "opb": "Viral meningitis",
+        "opc": "Tuberculous meningitis",
+        "opd": "Fungal meningitis",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "582c5a5d-dce4-4888-a111-7cc499bdf55b",
+        "choice_type": "single"
+    },
+    {
+        "question": "Neurological complications of meningitis include all of the following except:",
+        "exp": "Ans A. Cerebral hamartoma. Common complications that can result following meningitis may be acute like brain abscess, subdural effusion & empyema. Other complications include hearing loss, behavioral abnormalities, and recurrent seizures, problems with memory and concentration and postural dysfunction.",
+        "cop": 1,
+        "opa": "Cerebral hamartoma",
+        "opb": "Subdural effusions",
+        "opc": "Brain abscess",
+        "opd": "Increased intracranial pressure",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "ff335dd9-ec7e-4dfd-95cb-27736e64f1e4",
+        "choice_type": "multi"
+    },
+    {
         "question": "True about Jvenile Myoclonic Epilepsy",
-        "exp": "Drug of choice of juvenile myoclonic epilepsy is Sodium valproate. Ref : Ghai - 8th edition , pg no : 559 , 560 ( table 18.5)",
+        "exp": "Drug of choice of juvenile myoclonic epilepsy is Sodium valproate. Ref: Ghai - 8th edition, pg no: 559, 560 ( table 18. 5)",
         "cop": 1,
         "opa": "DOC is sodium valproate",
         "opb": "Mental retardation",
@@ -140,6 +322,19 @@
         "subject_name": "Pediatrics",
         "topic_name": "Central Nervous system",
         "id": "72c4b43e-9825-4f96-8488-57930eaff43f",
+        "choice_type": "multi"
+    },
+    {
+        "question": "True about Migraine in children are all except",
+        "exp": "Answer: d) Daily head ache with vomiting upon walking in the morning, improves when the child is out of the bed (NELSON 20. TH ED, P-2866; NELSON ESSENTIALS 7. TH ED, P-617)MIGRAINECompared to adults, pediatric migraine is shorter in duration and has a bilateral, often bifrontal, location. Moderate to severe, pounding or throbbing pain that are aggravated by activity and last 1 to 72 hours. Migraine can also be associated with an aura that may be typical (visual, sensory, or dysphasic) or atypical (i. e., hemiplegic, \"Alice in Wonderland\" syndrome). Aura can precede or coincide with the headache and typically persists for 15 to 30 minutes. Vomiting and headache caused by increased intracranial pressure are frequently present on first awakening and remit with maintenance of upright posture. In contrast, if a migraine is present on first awakening (a relatively infrequent occurrence in children), getting up and going about normal, upright activities usually makes the headache and vomiting worse",
+        "cop": 4,
+        "opa": "Preceding aura",
+        "opb": "Recurrent head ache lasting 2-72 hours per episode",
+        "opc": "Bilateral head ache",
+        "opd": "Daily head ache with vomiting upon walking in the morning, improves when the child is out of the bed",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "c0196998-1bff-4f4a-bfa7-e433c8b4a894",
         "choice_type": "multi"
     },
     {
@@ -156,8 +351,21 @@
         "choice_type": "multi"
     },
     {
+        "question": "About Dandy-Walker syndrome, true is:",
+        "exp": "d. All are true(Ref: Nelson's 20/e p 2815-2816). Dandy Walker malformation. Cystic expansion of 4th ventricle and midline cerebellar hypoplasia seen; 90% patients have hydrocephalus. Papilledema, pyramidal tract signs and cranial nerve palsies may occur along with symptoms of raised ICP. It is managed by shunting the cystic cavity in the presence of hydrocephalus.",
+        "cop": 4,
+        "opa": "Mostly have hydrocephalus",
+        "opb": "Cystic expansion of 4th ventricle",
+        "opc": "Mid cerebellar hypoplasia",
+        "opd": "All are true",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "568c141a-7b0b-4205-9967-5d75ce16eea5",
+        "choice_type": "multi"
+    },
+    {
         "question": "A 6-year-old child has an IQ 50. Which of the following tasks the child can do",
-        "exp": "Mental age depends on what kind of intelligence is measured. For instance, a child&;s intellectual age can be average for their actual age, but the same child&;s emotional intelligence can be immature for their physical age. Psychologists often remark that girls are more emotionally mature than boys at around the age of pubey. Also, a six-year-old child intellectually gifted in Piaget terms can remain a three-year-old child in terms of emotional maturity. Mental age was once considered a controversial concept. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Mental age depends on what kind of intelligence is measured. For instance, a child&; s intellectual age can be average for their actual age, but the same child&; s emotional intelligence can be immature for their physical age. Psychologists often remark that girls are more emotionally mature than boys at around the age of pubey. Also, a six-year-old child intellectually gifted in Piaget terms can remain a three-year-old child in terms of emotional maturity. Mental age was once considered a controversial concept. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 2,
         "opa": "Draw a triangle",
         "opb": "Recognize colors",
@@ -169,8 +377,21 @@
         "choice_type": "single"
     },
     {
+        "question": "The clinical features of eye opening, best verbal response and best motor response in Glasgow coma scale of 7 will best fit as:",
+        "exp": "a. Eye opening to pain, making incomprehensive sounds and has flexion as best motor response(Ref: Swaiman Vol 2, p 864). Glassgow coma scale (CCS): It is the most common scoring system used to describe the level of consciousness in a person esp following a traumatic brain injury. Modified GCS for infants and children: (Max score is 15 and minimum is 3) Child. Infant. Score. Eye opening. Spontaneous. Spontaneous4. To speech. To speech3. To pain only. To pain only2. No response. No response1. Best verbal response. Oriented, appropriate. Coos and babbles5. Confused. Irritable cries4. Inappropriate words. Cries to pain3. Incomprehensible sounds. Moans to pain2. No response. No response1. Best motor response (most important in intubated or unconscious patient). Obeys commands. Moves spontaneously and purposefully6localizes painful stimulus. Withdraws to touch5. Withdraws in response to pain. Withdraws to response in pain4. Flexion in response to pain. Abnormal flexion posture to pain3. Extension in response to pain. Abnormal extension posture to pain2. No response. No response1. Discussing about the options one by one, a. GCS=E2+V2+M3=7b. GCS=E4+V4+M5=13c. GCS=E2+V4+M5=11d. GCS=E1+V2+M2=5",
+        "cop": 1,
+        "opa": "Eye opening to pain, making incomprehensive sounds and has flexion as best motor response",
+        "opb": "Spontaneous eye opening, confused and localizes pain",
+        "opc": "Eye opening to pain, confused and localizes pain",
+        "opd": "No response, incomprehensive sounds and extension as best motor response",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "b32409c1-003d-4350-915b-930f39e3c542",
+        "choice_type": "single"
+    },
+    {
         "question": "Which of the following is a marker for Neural Tube Defects",
-        "exp": "Test of amniotic fluid includes acetylcholine esterase and alfha feto protein level in maternal blood is increased Image : types of neural tube defe Ref Ghai pediatrics eighth edition pg no 576",
+        "exp": "Test of amniotic fluid includes acetylcholine esterase and alfha feto protein level in maternal blood is increased Image: types of neural tube defe Ref Ghai pediatrics eighth edition pg no 576",
         "cop": 3,
         "opa": "Phosphatidylesterase",
         "opb": "Pseudocholinesterase",
@@ -183,7 +404,7 @@
     },
     {
         "question": "Most common cause of seizure in newborn is",
-        "exp": "Most common cause of seizure in first day of new born baby is anoxia ,hypoxia induced ischemic Symptomatic neonatal seizures may be caused by: lack of oxygen before or during bih because of problems such as placental abruption (premature detachment of the placenta from the uterus), a difficult or prolonged labour, or compression of the umbilical cord infection acquired before or after bih, such as bacterial (a blood clot in the brain) bleeding in the brain congenital brain abnormalities, either genetic or acquired during fetal development, such as tuberous sclerosis blood sugar or electrolyte imbalances, including hypoglycemia (low blood sugar), hypocalcemia (low calcium), hyponatremia (low sodium), or hypernatremia (high sodium) metabolic problems, such as maple syrup urine disease, pyridoxine dependency, or <a href=\" (PKU)</a> drug withdrawal, which may be seen in infants born to mothers addicted to barbiturates, alcohol, heroin, cocaine or methadone Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Most common cause of seizure in first day of new born baby is anoxia, hypoxia induced ischemic Symptomatic neonatal seizures may be caused by: lack of oxygen before or during bih because of problems such as placental abruption (premature detachment of the placenta from the uterus), a difficult or prolonged labour, or compression of the umbilical cord infection acquired before or after bih, such as bacterial (a blood clot in the brain) bleeding in the brain congenital brain abnormalities, either genetic or acquired during fetal development, such as tuberous sclerosis blood sugar or electrolyte imbalances, including hypoglycemia (low blood sugar), hypocalcemia (low calcium), hyponatremia (low sodium), or hypernatremia (high sodium) metabolic problems, such as maple syrup urine disease, pyridoxine dependency, or <a href=\" (PKU)</a> drug withdrawal, which may be seen in infants born to mothers addicted to barbiturates, alcohol, heroin, cocaine or methadone Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "Hypoxia induced ischemic encephalopathy",
         "opb": "Hypocalcemia",
@@ -195,7 +416,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Which one of the following is the common cause of Congenital Hydrocephalus is ?",
+        "question": "Which one of the following is the common cause of Congenital Hydrocephalus is?",
         "exp": "Aqueductal stenosis is the most common cause of congenital hydrocephalus.",
         "cop": 3,
         "opa": "Craniosynostosis",
@@ -221,13 +442,65 @@
         "choice_type": "single"
     },
     {
+        "question": "Diplegia means:",
+        "exp": "Ref: Nelson's Textbook of Pediatrics 18th edition: page no. 2494-95. Explanation: All these terminology are used to describe cerebral palsy in children. Spastic hemiplegia is a weakness of unilateral upper and lower limbs. The arm is often more involved than the leg. Spastic diplegia is bilateral spasticity of the legs greater than in the arms. Spastic quadriplegia is the most severe form of CP because of marked motor impairment of all extremities and the high association with mental retardation and seizures. (See the following table). Classification of Cerebral Palsy and Major Causes. Motor Syndrome. Neuropathology. Major Causes. Spastic diplegia. Periventricular leukomalacia (PVL). Prematurity. Ischemia. Spastic quadriplegia. Multi cystic encephalomalacia. Malformations. Ischemia, infection genetic/developmental. Hemiplegia. Stroke: in utero or neonatal. Thrombophilic disorders Infection. Genetic/developmental Periventricular hemorrhagic infarction. Extra pyramidal (athetoid, dyskinetic). Pathology: putamen, globus pallidus, thalamus, basal ganglia. Asphyxia. Kernicterus",
+        "cop": 2,
+        "opa": "Weakness of upper limbs",
+        "opb": "Weakness of lower limbs",
+        "opc": "Weakness of unilateral upper and lower limbs",
+        "opd": "Weakness of the all four limbs",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "5db99d09-8d8e-44e2-acb6-c8de862ee72e",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Which of the following is the most common cause of congenital hydrocephalus?",
+        "exp": "Ans. C. Congenital aqueductal stenosis. Obstructive or noncommunicating hydrocephalus develops most commonly in children because of an abnormality of the aqueduct of Sylvius (Congenital aqueductal stenosis) or a lesion in the fourth ventricle. Nonobstructive or communicating hydrocephalus most commonly follows a subarachnoid hemorrhage, which is usually a result of intraventricular hemorrhage in a premature infant. Among the various causes of meningitis, tuberculous meningitis has a propensity to cause hydrocephalus (due to thick, tenacious exudate that obstructs the basal cistern).",
+        "cop": 3,
+        "opa": "Craniosynostosis",
+        "opb": "Intra uterine meningitis",
+        "opc": "Congenital aqueductal stenosis",
+        "opd": "Vein of Galen malformation",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "4e34d712-26d6-4df6-8d75-83eb816cd20c",
+        "choice_type": "single"
+    },
+    {
+        "question": "Which neural tube defect is shown here?",
+        "exp": "Ans. (a) Anencephaly. style=\"font-size: 1. 04761904761905em; color: rgba(0, 0, 0, 1); font-family: Times New Roman, Times, serif; margin: 0 0 8pt\">",
+        "cop": 1,
+        "opa": "Anencephaly",
+        "opb": "Schizencephaly",
+        "opc": "Lissencephaly",
+        "opd": "Cranioschisis",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "e84dd61e-e391-481d-817b-d3ecfcb6fc65",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 15-year-old boy presented with day dreaming and decline in school performance. The likely possibility is?",
+        "exp": "c. Typical absence seizure(Ref: Nelson's 20/e p 2831-2856, Ghai 8/e p 557-561). Typical absence seizures may present in adolescents with day dreaming and decline in school performance.",
+        "cop": 3,
+        "opa": "Atonic seizure",
+        "opb": "Myoclonic seizure",
+        "opc": "Typical absence seizure",
+        "opd": "Atypical absence seizure",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "60a5e5e8-a0f0-455b-a7c2-81607362c479",
+        "choice_type": "single"
+    },
+    {
         "question": "Most common organism causing meningitis in a 1 year old child",
         "exp": "Streptococcus pneumonia is the most common organism causes meningitis even in the 1 year old child. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "Streptococcus pneumoniae",
         "opb": "H. influenza",
         "opc": "Listeria",
-        "opd": "Neisseria meningitidIs",
+        "opd": "Neisseria meningitid. Is",
         "subject_name": "Pediatrics",
         "topic_name": "Central Nervous system",
         "id": "3b289823-9143-40e7-818d-93d16fcdc323",
@@ -235,7 +508,7 @@
     },
     {
         "question": "Which of the following most likely causes a communicating (nonobstructive) hydrocephalus?",
-        "exp": "Blockage of the arachnoid granulations would most likely cause a communicating, or nonobstructive, hydrocephalus. Hydrocephalus is an increase in cerebrospinal fluid (CSF) volume with distention of the ventricles. It may be caused by (1) overproduction of CSF, which is uncommon (e.g., in neoplasms of the choroid plexus); (2) decreased absorption of CSF from the arachnoid villi that is caused by an organizing meningitis with fibrosis blocking the arachnoid granulations, dural sinus thrombosis, or organization of blood clot in a subarachnoid hemorrhage; or (3) obstruction of CSF flow within the ventricles with distention of the ventricles proximal to the block, in conditions such as a colloid cyst of the third ventricle, stenosis of the duct of Sylvius, tumor (e.g., ependymoma, medulloblastoma) in the fouh ventricle, or the blockage of flow out of the foramina of Luschka and Magendie by pus (tuberculous meningitis) or blood. Blockage of CSF flow within the ventricles produces an obstructive, or noncommunicating hydrocephalus. Blockage of the resorption of CSF out of the subarachnoid space produces a communicating hydrocephalus, because there is still an open communication between the ventricles and the subarachnoid space. In any of these situations, the ventricles dilate under the increased pressure and are easily identified by computerized tomography scans or magnetic resonance imaging. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Blockage of the arachnoid granulations would most likely cause a communicating, or nonobstructive, hydrocephalus. Hydrocephalus is an increase in cerebrospinal fluid (CSF) volume with distention of the ventricles. It may be caused by (1) overproduction of CSF, which is uncommon (e. g., in neoplasms of the choroid plexus); (2) decreased absorption of CSF from the arachnoid villi that is caused by an organizing meningitis with fibrosis blocking the arachnoid granulations, dural sinus thrombosis, or organization of blood clot in a subarachnoid hemorrhage; or (3) obstruction of CSF flow within the ventricles with distention of the ventricles proximal to the block, in conditions such as a colloid cyst of the third ventricle, stenosis of the duct of Sylvius, tumor (e. g., ependymoma, medulloblastoma) in the fouh ventricle, or the blockage of flow out of the foramina of Luschka and Magendie by pus (tuberculous meningitis) or blood. Blockage of CSF flow within the ventricles produces an obstructive, or noncommunicating hydrocephalus. Blockage of the resorption of CSF out of the subarachnoid space produces a communicating hydrocephalus, because there is still an open communication between the ventricles and the subarachnoid space. In any of these situations, the ventricles dilate under the increased pressure and are easily identified by computerized tomography scans or magnetic resonance imaging. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
         "opa": "Tuberculous meningitis",
         "opb": "Stenosis of the duct of Sylvius",
@@ -247,8 +520,21 @@
         "choice_type": "single"
     },
     {
+        "question": "Which of the following is not useful in the management of status epilepticus?",
+        "exp": "d. Carbamazepine(Ref: Nelson's 20/e p 2831-2856). Treatment of Status Epilepticus in Children. Time. Drug treatment0 minute. IV Access available: Inj Lorazepam-0. 1mg/kg/IV (max 4mg) OR Inj. Midazolam 0. 15-0. 2mg/kg/IV (Max 5mg)IV access not available: Buccal Midazolam 0. 3mg/kg (Max 5mg) OR PR Diazepam 0. 5mg/kg (Max 10mg)5 minutes. Inj Lorazepam-0. 1mg/kg/IV (max 4mg) OR Inj Midzolam-0. 5-0. 2mg/kg/IV (Max 5mg)10 minutes. IV Phenytoin* 20mg/kg (Max: 100mg) in NS 1mg/kg/min (Max 50mg per min), OR Inj Fosphenytoin 20mg. PE/kg, Rate: 3mg. PE/kg, if no response to initial dose. Refractory SE-even after 10min of phenytoin/fosphenytoin administration. IV Valproate 20-30mg/kg-IV max 6mg/kg/minute ORIV Phenobarbitone 20mg/kg in NS 1. 5mg/kg/min; Repeat 10mg/kg if no response to initial dose ORIV Levetiracetam (If Liver disease/Metabolic disease/coagulopathy/on Chemotherapy)-20-30mg/kg5min infusier",
+        "cop": 4,
+        "opa": "Lorazepam",
+        "opb": "Phenytoin",
+        "opc": "Phenobarbitone",
+        "opd": "Carbamazepine",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "13e71431-469a-48d2-82ad-4cb252144ead",
+        "choice_type": "single"
+    },
+    {
         "question": "Commonest location for Craniopharyngioma is",
-        "exp": "Commonest site of craniopharyngioma is Supra sellar region . Craniopharyngiomas are primarily suprasellar tumors (75%) while a small intrasellar component is present in 20-25% of cases . Purely intrasellar location is quite uncommon (<5%), and may be associated with the expansion of the pituitary fossa . Larger tumors can extend in all directions, frequently distoing the <a href=\" chiasm</a> or compressing the . Occasionally, craniopharyngiomas appear as intraventricular, homogeneous, soft-tissue masses without calcification (papillary subtype). The third ventricle is a paicularly common location. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Commonest site of craniopharyngioma is Supra sellar region. Craniopharyngiomas are primarily suprasellar tumors (75%) while a small intrasellar component is present in 20-25% of cases. Purely intrasellar location is quite uncommon (<5%), and may be associated with the expansion of the pituitary fossa. Larger tumors can extend in all directions, frequently distoing the <a href=\" chiasm</a> or compressing the. Occasionally, craniopharyngiomas appear as intraventricular, homogeneous, soft-tissue masses without calcification (papillary subtype). The third ventricle is a paicularly common location. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 2,
         "opa": "Intrasellar",
         "opb": "Suprasellar",
@@ -261,7 +547,7 @@
     },
     {
         "question": "Following can be used in the treatment of myoclonic seizures except",
-        "exp": "Myoclonic seizures occur in a variety of epilepsy syndromes ( West syndrome/ Infantile spasms, Lennox - Gastaut syndrome ) -Sodium valproate ,Topiramate,Zonisamide, Levetiracetam,Clonazepam,Nitrazepam, or Clobazam may be used in the treatment of myoclonic seizure. Ref : Ghai - 8th edition , pg no : 559 , 560 ( table 18.5)",
+        "exp": "Myoclonic seizures occur in a variety of epilepsy syndromes ( West syndrome/ Infantile spasms, Lennox - Gastaut syndrome ) -Sodium valproate, Topiramate, Zonisamide, Levetiracetam, Clonazepam, Nitrazepam, or Clobazam may be used in the treatment of myoclonic seizure. Ref: Ghai - 8th edition, pg no: 559, 560 ( table 18. 5)",
         "cop": 2,
         "opa": "Valporate",
         "opb": "Carbamazepine",
@@ -270,6 +556,32 @@
         "subject_name": "Pediatrics",
         "topic_name": "Central Nervous system",
         "id": "00b799db-0b3e-4c75-9410-9780abe88fca",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A 1. 5 year old female is brought to the clinic with complaints of excessive enlargement of head, intolerance to feeds and severe malnourishment. MRI imaging was suggestive of a medulloblastoma causing obstructive hydrocephalus. Which of the following is an example of irrational management of the patient?",
+        "exp": "Ans. d. Radiotherapy 35-40 Gy was given to the whole craniospinal axis (Ref: Harrison 19/e p602, 18/e p3388; Sabiston 19/e p1888; Schwartz 9/e p1540: healthprofessionals/page5). In this child of age 1. 5 years suffering from medulloblastoma, efforts should be made to omit or delay the radiation, given the profound impact of radiation at this age, so the example of irrational management should be radiotherapy 35-40 Gray given to the whole craniospinal axis. Medulloblastoma: Surgery is considered a standard part of treatment for histologic confirmation of tumor type and as a means to improve outcome. Total or near-total resections are considered optimal, if they can be performed safely. For children younger than 3 years, efforts should be made to omit or delay the radiation, given the profound impact of radiation at this age. BCNU and vincristine are primarily used for recurrences, in poor-risk patients, and in children < 3 years to avoid radiation therapyQ. Palliative ventriculoperitoneal shunt is done in pediatric patients of medulloblastoma with hydrocephalus (www. ncbi. nlm. nih. gov/m/.../19327082/). Medulloblastoma. Highly malignant tumor found in cerebellumQ and infratentorial location. Occur predominantly in childrenQ (peak incidence at 3-4 yearsQ). Medulloblastoma is most radiosensitive brain tumor. QMC site: Vermis (75%)MC site in adults: Lateral cerebellar hemisphere. Clinical Characteristics: Child usually presents with features of increased intracranial tensionQ. Adults present with ataxia and unilateral dysmetria as lateral origin is more commonQ. Metastasis: Dissemination through CSF is common leading to drop metastasisQ. Metastasis outside CNSQ affects bone, lymph node and liver. Tumor dissemination is most important prognostic factorQ. Treatment: Despite of extreme radiosensitivity, it should be surgically excisedQ. Surgical excision should be followed by radiotherapy and chemotherapyQ. BCNU and vincristine are primarily used for recurrences, in poor-risk patients, and in children < 3 years to avoid radiation therapyQ. Prognosis: Patients without a residual tumor and negative CSF seeding have 5-year survival rate > 75%.",
+        "cop": 4,
+        "opa": "Craniotomy and sub-total excision of the tumour. Surgeon leaves the layer of the tumour adherent with colliculus",
+        "opb": "First ventriculoperitoneal shunt was done",
+        "opc": "CCNU and vincristine were given as chemotherapy",
+        "opd": "Radiotherapy 35-40 Gy was given to the whole craniospinal axis",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "5c685fd5-4806-4ae2-9f54-79863ab9fe9c",
+        "choice_type": "single"
+    },
+    {
+        "question": "True about status marmoratus is:",
+        "exp": "d. All of the above(Ref: Nelson's 20/e p 1126). Status Marmoratus. It is a congenital condition due to maldevelopment of corpus striatum, associated with choreoathetosis, in which the striate nuclei have a marble-like appearance caused by altered myelination in the putamen, caudate and thalamus. It results from acute total asphyxia in basal ganglia of full-term infants.",
+        "cop": 4,
+        "opa": "Present in basal ganglia",
+        "opb": "Associated with asphyxia",
+        "opc": "Have a marbled appearance",
+        "opd": "All of the above",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "dc22a3bb-49ce-4ea6-b1fc-3ba758c5b169",
         "choice_type": "multi"
     },
     {
@@ -286,7 +598,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Banana sign seen in the foetal brain suggests ?",
+        "question": "Banana sign seen in the foetal brain suggests?",
         "exp": "Banana sign in foetal brain suggest spina bifida. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 3,
         "opa": "Renal agenesis",
@@ -300,7 +612,7 @@
     },
     {
         "question": "True about Juvenile Myoclonic Epilepsy",
-        "exp": "Juvenile myoclonic epilepsy (JME) is an idiopathic generalised epileptic syndrome characterized by myoclonic jerks, generalized tonic-clonic seizures (GTCSs), and sometimes absence seizures. JME is relatively common and responds well to treatment with appropriate anticonvulsants. Ref : Ghai - 8th edition , pg no : 559 , 560 ( table 18.5)",
+        "exp": "Juvenile myoclonic epilepsy (JME) is an idiopathic generalised epileptic syndrome characterized by myoclonic jerks, generalized tonic-clonic seizures (GTCSs), and sometimes absence seizures. JME is relatively common and responds well to treatment with appropriate anticonvulsants. Ref: Ghai - 8th edition, pg no: 559, 560 ( table 18. 5)",
         "cop": 2,
         "opa": "Focal seizure",
         "opb": "Generalised seizure",
@@ -312,8 +624,73 @@
         "choice_type": "multi"
     },
     {
+        "question": "Which of the following is True regarding absence seizures?",
+        "exp": "b. Hyperventilation often precipitates an attack(Ref: Nelson's 20/e p 2831-2856, Ghai 8/e p 557-561). Typical absence seizures. Usually start at 5-8 yr of age; They do not have an aura, usually last for only a few seconds and are accompanied by eyelid flutter or upward rolling of eyes and simple automatisms like lip-smacking or picking at clothing. Absence seizures do not have a postictal periodQ and there is immediate resumption of what patient was doing. Hyperventilation for 3-5min can precipitate seizures & 3. Hz spike-and-slow-wave discharges. Early onset absence seizures (before the age of 4 yr) should trigger evaluation for glucose transporter defect.",
+        "cop": 2,
+        "opa": "Attack lasts for 60 to 90 seconds",
+        "opb": "Hyperventilation often precipitates an attack",
+        "opc": "Onset of disease in the first year of life",
+        "opd": "Attack followed by postictal confusion",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "39598c53-aa1a-42cf-b3fc-01d9794f0761",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Lisch nodule is seen in?",
+        "exp": "c. Neurofibromatosis(Ref: Nelson's 20/e p 2874, Ghai 8/e p 586). Important clinical features of Neurofibromatosis (NF1) are cafe-au-lait spots, neurofibromas, axillary freckling, Lisch nodules optic glioma and positive family history",
+        "cop": 3,
+        "opa": "Tuberous sclerosis",
+        "opb": "Sturge-Weber syndrome",
+        "opc": "Neurofibromatosis",
+        "opd": "Wilson disease",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "69f2679b-8d89-4f22-924c-a93d3cc2f6c4",
+        "choice_type": "single"
+    },
+    {
+        "question": "A neonate with left to Right shunt & high cardiac output heart failure. CT Angiography of the neonate is shown. What is the diagnosis?",
+        "exp": "b. Vein of Galen malformation. CT angiography shows enhancing rounded lesion at tentorial apex, extending posteriorly & draining into dilated superior sagittal sinus, through dilated straight sinus, suggestive of vein of Galen malformation. The anomaly is actually due to a cerebral arteriovenous fistula of the median prosencephalic vein (a precursor of the vein of Galen) occurring at 6-11 weeks gestation.",
+        "cop": 2,
+        "opa": "Sagittal venous thrombosis",
+        "opb": "Vein of Galen malformation",
+        "opc": "Intracranial hemorrhage",
+        "opd": "Arnold-Chiari malformation",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "a1a623bf-fcac-4894-883c-cd9abfbd085c",
+        "choice_type": "single"
+    },
+    {
+        "question": "What is your diagnosis in this infant who was found to have hydrocephalus?",
+        "exp": "a. Dandy walker malformation. The given MRI brain image shows dilated 4th ventricle with cerebellar vermis hypoplasia suggestive of Dandy walker malformation",
+        "cop": 1,
+        "opa": "Dandy walker malformation",
+        "opb": "Chiari malformation",
+        "opc": "Vein of Galen malformation",
+        "opd": "Holoprosencephaly",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "7b1751b9-49c5-4b50-a3a1-6d0ddf51f29d",
+        "choice_type": "single"
+    },
+    {
+        "question": "Picket fence temperature seen in",
+        "exp": "(Lateral sinus thrombosis): (95-Dhingra E. N. T. 5th edition). Picket-Fence type of fever - is a feature of the Lateral sinus thrombosis, due to septicaemia often coinciding with release of septic emboli into blood stream. Fever is irregular having one or more peaks a day. It is usually accompanied by chills and rigors. Profuse sweating follows fall of temperature* Clinical picture resembles malaria but lakes regularity* In between the bouts of fever, patient is alert with a sense of well being. Patient receiving antibiotics may not show the picture* Griesinger's sign - is due to thrombosis of mastoid emissary vein. Oedema appears over the posterior part of mastoid is another important sign of lateral sinus thrombosis",
+        "cop": 2,
+        "opa": "Otic hydrocephalus",
+        "opb": "Lateral sinus thrombosis",
+        "opc": "Extradural abscess",
+        "opd": "Meningitis",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "bd6ab896-9b71-40c3-b24a-b9293c72a84c",
+        "choice_type": "single"
+    },
+    {
         "question": "Which of the following is not typical of Simple Febrile Seizures?",
-        "exp": "Seizures are not followed by Todd&;s paralysis. There may be tonic clonic type of seizures seen in children,in some febrile seizures may be seen in which seizures occurs when temperature rises. Each attack of seizures last for about less than 30 mins and appears normal as before the attack. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Seizures are not followed by Todd&; s paralysis. There may be tonic clonic type of seizures seen in children, in some febrile seizures may be seen in which seizures occurs when temperature rises. Each attack of seizures last for about less than 30 mins and appears normal as before the attack. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
         "opa": "The age of onset is usually between 6 months and 6 years",
         "opb": "The seizures last for less than 30 minutes",
@@ -336,6 +713,32 @@
         "topic_name": "Central Nervous system",
         "id": "85be7b6e-d2b1-4ba9-9e6a-22592e866494",
         "choice_type": "multi"
+    },
+    {
+        "question": "In CSF examination, albuminocytologic dissociation occurs in cases of:",
+        "exp": "c. Guillain-Barre Syndrome(Ref: Nelson's 20/e p 3010-3013, Ghai 8/e p 590). Albuminocytologic dissociation occurs in cases of Guillain-Barre SyndromeQ",
+        "cop": 3,
+        "opa": "TB meningitis",
+        "opb": "Motor neuron disease",
+        "opc": "Guillain-Barre syndrome",
+        "opd": "Demyelinating disorder",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "8dc2bc5e-9b8e-4136-a0f4-60d9e5634bc7",
+        "choice_type": "single"
+    },
+    {
+        "question": "Investigation of choice for hydrocephalus in infants:",
+        "exp": "a. Cranial USG(Ref: Nelson's 20/e p 2814-2817, Ghai 8/e p 574-575). As the infants have an open anterior fontanelle, transcranial ultrasound is the investigation of choice, as it also avoids the risk of radiation to the baby and gives an idea about the structural details",
+        "cop": 1,
+        "opa": "Cranial USG",
+        "opb": "CT Scan",
+        "opc": "MRI",
+        "opd": "X-ray skull",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "ada9f563-297c-4282-8a15-a8aebbdd7513",
+        "choice_type": "single"
     },
     {
         "question": "A young child with recurrent bacterial meningitis should be clinically evaluated for the presence of",
@@ -365,7 +768,7 @@
     },
     {
         "question": "The following are recognised signs any symptoms of raised intracranial tension in a 9 month old infant, except",
-        "exp": "Signs of raised intracranial tension - Headache,bulging anterior fontanelle,Diplopia , increased head size. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Signs of raised intracranial tension - Headache, bulging anterior fontanelle, Diplopia, increased head size. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 3,
         "opa": "Bulging fontanelle",
         "opb": "Diplopia",
@@ -378,9 +781,9 @@
     },
     {
         "question": "A newborn of 7 days old presented with meningitis. Most common cause is ____________",
-        "exp": "Most common cause meningitis in newborn is due to EColi. The incidence of early-onset meningitis has been greatly reduced by the initiation of intrapaum antibiotics to combat Group B streptococcus (GBS) infection. However, GBS remains the most common cause of both meningitis and neonatal sepsis, causing greater than 40% of all early-onset infections.The next common pathogen in this group is E. coli and has emerged as the most common cause of early-onset sepsis and meningitis among very low bih weight (VLBW, less than 1500 g) infants. Ref : Ghai pediatrics eighth edition pg no 563",
+        "exp": "Most common cause meningitis in newborn is due to EColi. The incidence of early-onset meningitis has been greatly reduced by the initiation of intrapaum antibiotics to combat Group B streptococcus (GBS) infection. However, GBS remains the most common cause of both meningitis and neonatal sepsis, causing greater than 40% of all early-onset infections. The next common pathogen in this group is E. coli and has emerged as the most common cause of early-onset sepsis and meningitis among very low bih weight (VLBW, less than 1500 g) infants. Ref: Ghai pediatrics eighth edition pg no 563",
         "cop": 1,
-        "opa": "E.coli",
+        "opa": "E. coli",
         "opb": "Streptococcal pneumonia",
         "opc": "N. Meningitis",
         "opd": "Streptococcal aureus",
@@ -388,6 +791,19 @@
         "topic_name": "Central Nervous system",
         "id": "5ea723fc-a951-46ab-ad9c-d9a2ff26584d",
         "choice_type": "single"
+    },
+    {
+        "question": "Signs of increased intracranial tension are all except:",
+        "exp": "Ans. A. Tachycardia. Intracranial pressure may increase due to brain tumors, masses of congenital origin and inflammatory disorders such as brain abscess, neurocysticercosis, tuberculoma and subdural fluid collection. After closure of sutures and fontanel the adaptive mechanisms to raised pressure in the brain are through displacement of CSF from the intracranial cavity and compensatory hemodynamic changes. Heart rate slows, respiratory rate is altered and blood pressure rises to maintain the cerebral circulation. Persistent early morning headache, unexplained projectile vomiting, impaired vision, personality changes may also result.",
+        "cop": 1,
+        "opa": "Tachycardia",
+        "opb": "Papilledema",
+        "opc": "Headache",
+        "opd": "Seizures",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "93addf5f-65a7-48ab-9a05-a64796a90e09",
+        "choice_type": "multi"
     },
     {
         "question": "Bulging Anterior fontanel is are seen in",
@@ -403,8 +819,21 @@
         "choice_type": "single"
     },
     {
-        "question": "Which among the following is the Most Common tumour associated with Neurofibromatosis in a child ?",
-        "exp": "Juvenile myelomonocytic leukemia (JMML) is a rare form of blood cancer. JMML predominately affects young children, most often developing in children under the age of 4. The male/female ratio of affected children is 2-3:1. The disorder is characterized by the uncontrolled growth of an immature form of a specific type of white blood cell known as monocytes. These abnormal cells accumulate in the bone marrow crowding out other healthy cells. The bone marrow produces specialized cells (hematopoietic stem cells) that grow and eventually develop into red blood cells, white blood cells and platelets. These cells are released into the bloodstream to travel throughout the body and perform specific functions. Red blood cells deliver oxygen to the body; white blood cells help the body to fight infection; and platelets allow the body to form clots to stop bleeding. When abnormal cells accumulate in the bone marrow, they can affect the production and function of these healthy blood cells. JMML cells can accumulate in other organs of the body including the lungs, skin, liver, and intestines. JMML is an aggressive and difficult to treat disease but is currently cured in about 50% of cases. Currently, the only effective treatment for most patients is allogeneic hematopoietic stem cell transplantation (HSCT). The exact, underlying causes of JMML are unknown, but nearly all patients will have a mutation that changes the DNA inside their blood cells in a RAS gene or in a gene that controls the activation levels of Ras proteins. With an incidence of 1 in 3000, NF1 is the most common familial cancer syndrome. Affected persons develop multiple noncancerous (benign) tumors of the nerves and skin (neurofibromas) and areas of decreased or increased coloration of the skin. Cafe-au-lait spots are common in neurofibromatosis type 1. However, many of these findings may not be present in very young children. Reference: GHAI Essential pediatrics, 8th edition",
+        "question": "A child is suffering from dry skin and is mentally retarded-diagnosis -",
+        "exp": "Ans. is 'c' i. e., Hypothyroidism. o Vit A deficiency causes oculor symptom. The different eye signs of vitamin A deficiency (VAD) in children, as graded by the WHO, are:# Night blindness (XN)# Conjunctival xerosis (XIA)# Bitot's spots (X1B)# Corneal xerosis (X2)# Corneal ulcer covering less than 1/3 of the cornea (X3A)# Corneal ulcer covering at least 1/3 of the cornea, defined as keratomalacia (X3B)# Corneal scarring (XS) & skin dryness-X-erodermao Cerebral palsy causes mental retardetion but No skin dryness. o Hypothyroidism causes mental reterdetion along with skin dryness and other features. Clinical feature of hypothyroidism. Congenital. Acquired1) Open posterior fontanelle2) Umbilical hernia3) Edematous faces4) Constipation5) Pallor6) Hypothermia7) Large tongue8) Rough skin9) Hypotonia10) Large abdomen1) Growth retardation2) Delayed dentition3) Delayed puberty4) Myopathy5) Pseudotumor cerebri",
+        "cop": 3,
+        "opa": "Vit A deficiency",
+        "opb": "Crebral palsy",
+        "opc": "Hypothyroidism",
+        "opd": "All above",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "35f619e5-050d-4393-9a1d-cdcfda47a716",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Which among the following is the Most Common tumour associated with Neurofibromatosis in a child?",
+        "exp": "Juvenile myelomonocytic leukemia (JMML) is a rare form of blood cancer. JMML predominately affects young children, most often developing in children under the age of 4. The male/female ratio of affected children is 2-3: 1. The disorder is characterized by the uncontrolled growth of an immature form of a specific type of white blood cell known as monocytes. These abnormal cells accumulate in the bone marrow crowding out other healthy cells. The bone marrow produces specialized cells (hematopoietic stem cells) that grow and eventually develop into red blood cells, white blood cells and platelets. These cells are released into the bloodstream to travel throughout the body and perform specific functions. Red blood cells deliver oxygen to the body; white blood cells help the body to fight infection; and platelets allow the body to form clots to stop bleeding. When abnormal cells accumulate in the bone marrow, they can affect the production and function of these healthy blood cells. JMML cells can accumulate in other organs of the body including the lungs, skin, liver, and intestines. JMML is an aggressive and difficult to treat disease but is currently cured in about 50% of cases. Currently, the only effective treatment for most patients is allogeneic hematopoietic stem cell transplantation (HSCT). The exact, underlying causes of JMML are unknown, but nearly all patients will have a mutation that changes the DNA inside their blood cells in a RAS gene or in a gene that controls the activation levels of Ras proteins. With an incidence of 1 in 3000, NF1 is the most common familial cancer syndrome. Affected persons develop multiple noncancerous (benign) tumors of the nerves and skin (neurofibromas) and areas of decreased or increased coloration of the skin. Cafe-au-lait spots are common in neurofibromatosis type 1. However, many of these findings may not be present in very young children. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "Juvenile myelomonocytic leukemia",
         "opb": "Acute lymphoblastic leukemia",
@@ -416,8 +845,34 @@
         "choice_type": "single"
     },
     {
+        "question": "Mac. Ewen sign is seen in:",
+        "exp": "a. Hydrocephalus(Ref: Nelson's 20/e p 2814, Ghai 8/e p 574). In Hydrocephalus, percussion of the skull might produce a cracked pot sound or Mac. Ewen sign, indicating separation of the sutures.",
+        "cop": 1,
+        "opa": "Hydrocephalus",
+        "opb": "Encephalitis",
+        "opc": "Meningitis",
+        "opd": "Microcephaly",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "5f72f397-3e7d-4c41-abc1-61230d2d7da9",
+        "choice_type": "single"
+    },
+    {
+        "question": "Febrile seizure prophylaxis is recommended in all of the following except:",
+        "exp": "Ans. C. Febrile seizures lasting more than 30 minutes. Correct option is Febrile seizures lasting 1 minutes or more. Intermittent prophylaxis is currently prescribed during episodes of fever. A drug that attains drug levels quickly and prevents febrile convulsions should be used. Oral clobazam (0. 75-1mg/kg/day) is an effective prophylactic and is given for 3 days during fever episodes. Antipyretics, hydrotherapy and meticulous temperature recording should be advocated for all patients. Domiciliary care is recommended. Continuous prophylaxis with antiepileptic drugs is advocated in the event of failure of intermittent therapy, recurrent atypical seizures and in particular, when parents are unable to promptly recognize the onset of fever. Only sodium valproate (10-20mg/kg/day) or phenobarbitone (3-5mg/kg/day) are effective for febrile seizure prophylaxis. Carbamazepine and phenytoin are ineffective. The duration of therapy should be for 1-2 yr or until 5 yr of age.",
+        "cop": 3,
+        "opa": "3 or more febrile seizures in 6 months",
+        "opb": "6 or more febrile seizures in 1 year",
+        "opc": "Febrile seizures lasting more than 30 minutes",
+        "opd": "Febrile seizures requiring pharmacotherapy to control seizures.",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "b3d93b3d-6187-4fc1-9fa0-aa7f5451f320",
+        "choice_type": "multi"
+    },
+    {
         "question": "The clinical manifestation of Sydenham chorea includes all except",
-        "exp": "Sydenham&;s chorea is characterized by the abrupt onset (sometimes within a few hours) of neurologic symptoms, classically chorea, usually affecting all four limbs. Other neurologic symptoms include behavior change, dystharia, gait disturbance, loss of fine and gross motor control with resultant deterioration of handwriting, headache, slowed cognition, facial grimacing, fidgetiness and hypotonia, Also, there may be tongue fasiculations (\"bag of worms\") and a \"milk sign\", which is a relapsing grip demonstrated by alternate increases and decreases in tension, as if hand milking. Chorea Dysahria Emotional Facial grimacing Generalized hypotonia Headache Hemiballismus Inappropriate behavior Irritability Movement abnormality of the tongue Obsessive-compulsive behavior Unsteady gait 5%-29% of people have these symptoms Endocarditis Erythema Recurrent streptococcus pneumoniae infections Septic ahritis Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Sydenham&; s chorea is characterized by the abrupt onset (sometimes within a few hours) of neurologic symptoms, classically chorea, usually affecting all four limbs. Other neurologic symptoms include behavior change, dystharia, gait disturbance, loss of fine and gross motor control with resultant deterioration of handwriting, headache, slowed cognition, facial grimacing, fidgetiness and hypotonia, Also, there may be tongue fasiculations (\"bag of worms\") and a \"milk sign\", which is a relapsing grip demonstrated by alternate increases and decreases in tension, as if hand milking. Chorea Dysahria Emotional Facial grimacing Generalized hypotonia Headache Hemiballismus Inappropriate behavior Irritability Movement abnormality of the tongue Obsessive-compulsive behavior Unsteady gait 5%-29% of people have these symptoms Endocarditis Erythema Recurrent streptococcus pneumoniae infections Septic ahritis Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 3,
         "opa": "Choreiform movements",
         "opb": "Hung up reflexes",
@@ -426,6 +881,32 @@
         "subject_name": "Pediatrics",
         "topic_name": "Central Nervous system",
         "id": "7a37bbea-615b-4e38-946e-536c110b451d",
+        "choice_type": "multi"
+    },
+    {
+        "question": "In a premature baby with convulsion after 2 days of birth, first investigation to be done is:",
+        "exp": "a. Transcranial USG(Ref: Nelson's 20/e p 2831-2856, Ghai 8/e p 557-561). Intracranial hemorrhage can be a common cause for seizures in a preterm neonate, which can be picked up easily on a transcranial USG through the open anterior fontanelle.",
+        "cop": 1,
+        "opa": "Transcranial USG",
+        "opb": "MRI",
+        "opc": "Skull radiography",
+        "opd": "CT skull",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "d063c85b-9f17-4961-bfb5-069c0cc609fe",
+        "choice_type": "single"
+    },
+    {
+        "question": "Tuft of hair over the lumbosacral region in a newborn is suggestive of:",
+        "exp": "d. Any of the above(Ref: Nelson's 20/e p 2580, 2816)90% of patients with occult spinal dysraphism, have a cutaneous abnormality overlying the lower spine, including a small dimple, tuft of hair, dermal vascular malformation, or subcutaneous lipoma. Occult spinal dysraphism includes spina bifida occulta, lipomeningocele, intradural lipoma, diastematomyelia, tight filum terminale, dermoid cyst-sinus, aberrant nerve roots, anterior sacral meningocele, and cauda equina tumor.",
+        "cop": 4,
+        "opa": "Spina bifida occulta",
+        "opb": "Sinus tract",
+        "opc": "Tumor",
+        "opd": "Any of the above",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "d2d4709d-734d-485b-aeed-0ed1f74adf42",
         "choice_type": "multi"
     },
     {
@@ -442,8 +923,21 @@
         "choice_type": "single"
     },
     {
+        "question": "Which is the prognostic scoring system for head injury in children?",
+        "exp": "Ans. is 'a' i. e., CCS * Scoring scales such as the Abbreviated Injury Scale (AIS), Injury Severity Score (ISS), Pediatric Trauma Score and Revised Trauma Score are used to predict mortality as well as morbidity in patients sustaining trauma in general.* They use physiological parameters to predict patient outcome.* CCS (Children Coma Score) is the paediatric counterpart of Glasgow Coma Score for patient with head injury. Children Coma Score: Eye Opening (Total Possible Points 4). Spontaneous4 To voice3 To pain2 None1 Verbal Response (Total Possible Points 5). Older Children Anfants and Young Children Oriented5. Appropriate words, smiles, fixes, and follows5. Confused4. Consolable crying4. Inappropriate3. Persistently imitable3. Incomprehensible2. Restiess, agitated2. None1. None1. Motor Response (Total Possible Points 6). Obeys6 Localized pain5 Withdraws4 Flexion3 Extension2 None1",
+        "cop": 1,
+        "opa": "CCS",
+        "opb": "AUDIT",
+        "opc": "Injury severity score",
+        "opd": "Pediatric Trauma Score",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "bcfb6684-85cd-4261-b16d-3ef06132cc31",
+        "choice_type": "single"
+    },
+    {
         "question": "A 2 old boy with fever and rhinorrhea developed a maculopapular rash, to the face, the neck, chest, arms in that order. Diagnosis includes",
-        "exp": "The disease is most common in preschool children; infants are protected by transplacental antibodies, which generally decay by 9 months The prodromal phase is characterized by fever, rhinorrhea, conjunctiva! congestion and a dry hacking cough. Koplik spots, considered as pathognomonic of measles, appear opposite the lower second molars on the buccal mucosa on the second or third day of the illness as grey or white lesions resembling grains of sand with surrounding erythema. The rash, usually appears on the fouh day with a rise in fever, appears as faint reddish macules behind the ears, along the hairline and on the posterior aspects of the cheeks. The rash rapidly becomes maculopapular and spreads to the face, the neck, chest, arms, trunk, thighs and legs in that order over the next 2-3 days. It then stas fading in the same order that it appeared and leaves behind branny desquamation and brownish discolouration, which fade over 10 days Refer : O.P Ghai 8e pg:213",
+        "exp": "The disease is most common in preschool children; infants are protected by transplacental antibodies, which generally decay by 9 months The prodromal phase is characterized by fever, rhinorrhea, conjunctiva! congestion and a dry hacking cough. Koplik spots, considered as pathognomonic of measles, appear opposite the lower second molars on the buccal mucosa on the second or third day of the illness as grey or white lesions resembling grains of sand with surrounding erythema. The rash, usually appears on the fouh day with a rise in fever, appears as faint reddish macules behind the ears, along the hairline and on the posterior aspects of the cheeks. The rash rapidly becomes maculopapular and spreads to the face, the neck, chest, arms, trunk, thighs and legs in that order over the next 2-3 days. It then stas fading in the same order that it appeared and leaves behind branny desquamation and brownish discolouration, which fade over 10 days Refer: O. P Ghai 8e pg: 213",
         "cop": 1,
         "opa": "Measles",
         "opb": "Meningococcal septicaemia",
@@ -455,8 +949,21 @@
         "choice_type": "single"
     },
     {
+        "question": "A baby is born with fused eyes, single nasal chamber and undeveloped callosum. What is diagnosis?",
+        "exp": "a. Holoprosencephaly(Ref: Nelson 20/e p 901). Holoprosencephaly. An abnormality of brain development in which the brain does not properly divide into the right and left hemispheres. 3 main types (from most to least severe): Alobar, semi-lobar & lobar. Severity of facial defects corresponds to severity of brain defect. Other signs and symptoms often include intellectual disability, seizures, pituitary dysfunction, short stature. Associated with trisomy 13 (MC), trisomy 18, CHARGE syndrome, Smith-Lemli-Opitz syndrome, Rubinstein-Taybi syndrome. In alobar holoprosencephaly, there is loss of midline structures of the brain and face as well as fusion of lateral & 3rd ventricles of the brain. Facial findings may include a single eye (cyclopia) or very closely spaced eyes (ethmocephaly) or absent eyes (anophthalmia), or very small eye (microphthalmia) with a tubular-shaped nose (proboscis)",
+        "cop": 1,
+        "opa": "Holoprosencephaly",
+        "opb": "Schizencephaly",
+        "opc": "Plagiocephaly",
+        "opd": "Brachycephaly",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "3f39f5ef-5b33-4f59-a147-8614943fffc0",
+        "choice_type": "multi"
+    },
+    {
         "question": "Commonest type of seizure in newborn",
-        "exp": "Hypoxic-ischemic encephalopathy : It is an impoant cause of neonatal seizures. Seizures resulting from hypoxic-ischemic encephalopathy may be seen in term and prematureinfants. They frequently present within the first 72 hours of life.Seizures may include subtle, clonic, or generalized seizures. These are subtle seizure . There are 4 major types of seizures in neonates: Subtle seizures are relatively common in the neonatal period and are more often encountered in the preterm than full term infant. Such seizures include oral-buccal-lingual movements, ceain ocular phenomena, peculiar limb movements, autonomic alterations and apnea. Clonic seizures include focal and multifocal varieties which may migrate to another pa of the body in a non-ordered fashion. Tonic seizures include focal episodes (less common) and generalized episodes (more common). Generalized tonic seizures may mimic decerebrate and decoicate posturing. Myclonic seizures may be focal, multifocal or generalized and are the least common of the four varieties during the neonatal period. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Hypoxic-ischemic encephalopathy: It is an impoant cause of neonatal seizures. Seizures resulting from hypoxic-ischemic encephalopathy may be seen in term and prematureinfants. They frequently present within the first 72 hours of life. Seizures may include subtle, clonic, or generalized seizures. These are subtle seizure. There are 4 major types of seizures in neonates: Subtle seizures are relatively common in the neonatal period and are more often encountered in the preterm than full term infant. Such seizures include oral-buccal-lingual movements, ceain ocular phenomena, peculiar limb movements, autonomic alterations and apnea. Clonic seizures include focal and multifocal varieties which may migrate to another pa of the body in a non-ordered fashion. Tonic seizures include focal episodes (less common) and generalized episodes (more common). Generalized tonic seizures may mimic decerebrate and decoicate posturing. Myclonic seizures may be focal, multifocal or generalized and are the least common of the four varieties during the neonatal period. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 3,
         "opa": "Clonic",
         "opb": "Tonic",
@@ -468,8 +975,34 @@
         "choice_type": "single"
     },
     {
+        "question": "In a 7 months old child diagnosed with H influenza meningitis, which of the following investigation should be done on follow up:",
+        "exp": "Ans. A. BERASensorineural hearing loss (SNHL) is the most common neuropsychological sequel of ABM. It occurs in as many as 30% of patients with pneumococcal meningitis, 10% with meningococcal meningitis and 5-20% with Haemophilus influenza type 'b' meningitis. The effect of SNHL on language is well-recognized and therefore early detection is mandatory. However, hearing assessment is difficult in infants and young children. Brainstem evoked response audiometry (BERA) can help to assess hearing in this population.",
+        "cop": 1,
+        "opa": "BERA",
+        "opb": "CECT Scan",
+        "opc": "MRI",
+        "opd": "X ray skull",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "ad6d9ef7-cda6-4329-8afe-03a901a4d092",
+        "choice_type": "single"
+    },
+    {
+        "question": "Craniopharyngioma arises from -",
+        "exp": "Ans. is 'a' i. e., Pituitary stalko Craniophyngioma is the most common supratentorial tumor in children. It is a suprasellar tumor which presents as cystic mass. Calcification is common. o It arises from squamous epithelial cells crests of embryonic rathke's pouch. In children they present as - visual loss, growth failure, Bitemporal hemianopsia. o Craniopharyngeoma arises from cells along pituitary stalk, especially from odontogenic epitheliumo Craniopharyngeoma is the most common cause of suprasellar calcification. Calcification is characteristic midline and immediately above cells.",
+        "cop": 1,
+        "opa": "Pituitary stalk",
+        "opb": "Posterior pituitary",
+        "opc": "Pineal gland",
+        "opd": "Cerebellum",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "dfe84be7-bdde-44f2-b4df-cd355c935211",
+        "choice_type": "single"
+    },
+    {
         "question": "True about severity of affection of limbs in Spastic Diplegia of Cerebral Palsy is",
-        "exp": "In spastic diplegia of cerebral palsy it affects lower limbs more than upper limbs , comprising approximately 80 percent of all cases. Spastic CP typically involves increased muscle tone and difficult or unusual movements. Spastic diplegia (or diparesis) is a subtype of spastic cerebral palsy in which the legs are the most affected limbs. People with spastic diplegia often have a \"scissor walk,\" characterized by the knees turning inward/crossing. This is due to tightness in the hip and leg muscles. In some cases, the arms may also be affected, although usually to a lesser degree . Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "In spastic diplegia of cerebral palsy it affects lower limbs more than upper limbs, comprising approximately 80 percent of all cases. Spastic CP typically involves increased muscle tone and difficult or unusual movements. Spastic diplegia (or diparesis) is a subtype of spastic cerebral palsy in which the legs are the most affected limbs. People with spastic diplegia often have a \"scissor walk, \" characterized by the knees turning inward/crossing. This is due to tightness in the hip and leg muscles. In some cases, the arms may also be affected, although usually to a lesser degree. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "Lower limbs>Upper limps",
         "opb": "Lower limbs only",
@@ -481,8 +1014,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "In a small child diagnosed with H. influenza meningitis, What investigation must be done before discharging him from the hospital ?",
-        "exp": "Residual auditory defect is common complication after Haemophilus meningitis ,so BERA is the investigation of choice Ref Ghai pediatrics eighth edition pg no 564",
+        "question": "In a small child diagnosed with H. influenza meningitis, What investigation must be done before discharging him from the hospital?",
+        "exp": "Residual auditory defect is common complication after Haemophilus meningitis, so BERA is the investigation of choice Ref Ghai pediatrics eighth edition pg no 564",
         "cop": 1,
         "opa": "BERA",
         "opb": "MBI",
@@ -494,8 +1027,21 @@
         "choice_type": "multi"
     },
     {
+        "question": "Neonatal meningitis is caused by all except?",
+        "exp": "a. N. meningitidis(Ref: Nelson's 20/e p 2936-2948, Ghai 8/e p 563-565). Common causes of Neonatal meningitis include E. coli, Listeria and Gr B Streptococci",
+        "cop": 1,
+        "opa": "N. meningitis",
+        "opb": "E. coli",
+        "opc": "Listeria",
+        "opd": "Group B streptococci",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "5fff0c20-e12f-49c4-91d7-1bbed3d26618",
+        "choice_type": "multi"
+    },
+    {
         "question": "Drug of choice in Absence Seizure",
-        "exp": "Ethosuximide is the drug of choice in Absence seizures. Ethosuximide: Ethosuximide (Zarontin), a succinimide, has been considered an effective agent for the treatment of absence seizures since the mid-20th century.Although ethosuximide's mechanism of action is not fully understood, the blockade of a specific voltage-gated calcium channel (the T channel) in thalamic neurons appears integral to its antiepileptic activity. This blockade suppresses thalamic excitability, which is thought to be necessary for sustaining the characteristic spike-wave discharge of absence seizures. Serious adverse events linked to ethosuximide include agranulocytosis, aplastic anemia, pancytopenia, Stevens-Johnson syndrome (SJS), and systemic lupus erythematosus; however, these occur rarely and the medication is generally well tolerated. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Ethosuximide is the drug of choice in Absence seizures. Ethosuximide: Ethosuximide (Zarontin), a succinimide, has been considered an effective agent for the treatment of absence seizures since the mid-20th century. Although ethosuximide's mechanism of action is not fully understood, the blockade of a specific voltage-gated calcium channel (the T channel) in thalamic neurons appears integral to its antiepileptic activity. This blockade suppresses thalamic excitability, which is thought to be necessary for sustaining the characteristic spike-wave discharge of absence seizures. Serious adverse events linked to ethosuximide include agranulocytosis, aplastic anemia, pancytopenia, Stevens-Johnson syndrome (SJS), and systemic lupus erythematosus; however, these occur rarely and the medication is generally well tolerated. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
         "opa": "Carbamazepine",
         "opb": "Phenytoin",
@@ -507,8 +1053,21 @@
         "choice_type": "single"
     },
     {
-        "question": "In a small child diagnosed with H.influenza meningitis, what investigation must be done before discharging him from the hospital ?",
-        "exp": "Clinical description : Bacterial meningitis is characterized by acute onset of fever (usually > 38.5 degC rectal or 38.0 degC axillary), headache and one of the following signs: neck stiffness, altered consciousness or other meningeal signs. Hib, meningococcal meningitis and pneumococcal meningitis cannot be differentiated on clinical grounds alone Laboratory criteria for diagnosis Bacterial meningitis can be confirmed by three methods. (1) Culture method: isolation of a bacterial pathogen from a normally sterile clinical specimen such as CSF or blood. (2) Antigen detection methods: identification of a bacterial antigen in normally sterile fluids (i.e. CSF or blood) by such methods as latex agglutination or counterimmunoelectrophoresis (CIE). (3) Gram stain results Case classification Suspected: Any person with sudden onset of fever (> 38.5 degC rectal or 38.0 degC axillary) and one of the following signs: neck stiffness, altered consciousness or other meningeal sign Probable: A suspected case with CSF examination showing at least one of the following: - turbid appearance; - leukocytosis (> 100 cells/mm3); - leukocytosis (10-100 cells/ mm3) AND either an elevated protein (> 100 mg/dl) or decreased glucose (< 40) Confirmed: A case that is laboratory-confirmed by growing (i.e. culturing) or identifying (i.e. by Gram stain or antigen detection methods) a bacterial pathogen (Hib, pneumococcus or meningococcus) in the CSF or from the blood in a child with a clinical syndrome consistent with bacterial meningitis. Acute bacterial meningitis (ABM) constitutes 1.5% of all admissions in the pediatric ward with a mean case fatality of 16%. Sensorineural hearing loss (SNHL) is the most common neuropsychological sequel of ABM. It occurs in as many as 30% of patients with pneumococcal meningitis, 10% with meningococcal meningitis and 5-20% with Haemophilus influenzae type &;b&; meningitis.The effect of SNHL on language is well-recognized and therefore early detection is mandatory. However, hearing assessment is difficult in infants and young children. Brainstem evoked response audiometry (BERA) can help to assess hearing in this population. BERA is a helpful tool for screening of SNHL, especially in the young children and infants in whom other conventional methods may not be of much use. There is significantly increased risk of developing SNHL if the CSF has increased cells, paicularly polymorphs and proteins. Reference: GHAI Essential pediatrics, 8th edition",
+        "question": "Commonest cause of convulsions in a child with fever is:",
+        "exp": "a. Febrile convulsions(Ref: Nelson's 20/e p 2831-2856, Ghai 8/e p 557-561). Febrile seizures are the most common cause of convulsions in a child with fever.",
+        "cop": 1,
+        "opa": "Febrile convulsions",
+        "opb": "Meningitis",
+        "opc": "Epilepsy",
+        "opd": "Hypothyroidism",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "c1a75fa8-fcaa-484a-94ed-4b5264e0c921",
+        "choice_type": "single"
+    },
+    {
+        "question": "In a small child diagnosed with H. influenza meningitis, what investigation must be done before discharging him from the hospital?",
+        "exp": "Clinical description: Bacterial meningitis is characterized by acute onset of fever (usually > 38. 5 degC rectal or 38. 0 degC axillary), headache and one of the following signs: neck stiffness, altered consciousness or other meningeal signs. Hib, meningococcal meningitis and pneumococcal meningitis cannot be differentiated on clinical grounds alone Laboratory criteria for diagnosis Bacterial meningitis can be confirmed by three methods. (1) Culture method: isolation of a bacterial pathogen from a normally sterile clinical specimen such as CSF or blood. (2) Antigen detection methods: identification of a bacterial antigen in normally sterile fluids (i. e. CSF or blood) by such methods as latex agglutination or counterimmunoelectrophoresis (CIE). (3) Gram stain results Case classification Suspected: Any person with sudden onset of fever (> 38. 5 degC rectal or 38. 0 degC axillary) and one of the following signs: neck stiffness, altered consciousness or other meningeal sign Probable: A suspected case with CSF examination showing at least one of the following: - turbid appearance; - leukocytosis (> 100 cells/mm3); - leukocytosis (10-100 cells/ mm3) AND either an elevated protein (> 100 mg/dl) or decreased glucose (< 40) Confirmed: A case that is laboratory-confirmed by growing (i. e. culturing) or identifying (i. e. by Gram stain or antigen detection methods) a bacterial pathogen (Hib, pneumococcus or meningococcus) in the CSF or from the blood in a child with a clinical syndrome consistent with bacterial meningitis. Acute bacterial meningitis (ABM) constitutes 1. 5% of all admissions in the pediatric ward with a mean case fatality of 16%. Sensorineural hearing loss (SNHL) is the most common neuropsychological sequel of ABM. It occurs in as many as 30% of patients with pneumococcal meningitis, 10% with meningococcal meningitis and 5-20% with Haemophilus influenzae type &; b&; meningitis. The effect of SNHL on language is well-recognized and therefore early detection is mandatory. However, hearing assessment is difficult in infants and young children. Brainstem evoked response audiometry (BERA) can help to assess hearing in this population. BERA is a helpful tool for screening of SNHL, especially in the young children and infants in whom other conventional methods may not be of much use. There is significantly increased risk of developing SNHL if the CSF has increased cells, paicularly polymorphs and proteins. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "BERA",
         "opb": "MBI",
@@ -521,7 +1080,7 @@
     },
     {
         "question": "Lecithin-Sphingomyelin ratio is used for",
-        "exp": "Lecithin- Spingomyelin ratio is used for lung maturity. The results of this test are given as a ratio of lecithin to sphingomyelin. The range of results are: A ratio of less than 1.5:1. This means that your baby&;s lungs are immature. If born now, your baby may have breathing problems. A ratio between 1.5:1 and 1.9:1. This means that your baby may be at risk for immature lungs and breathing problems. A ratio of more than 2:1. This means that your baby has mature lungs. He or she is ready for life outside the uterus. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Lecithin- Spingomyelin ratio is used for lung maturity. The results of this test are given as a ratio of lecithin to sphingomyelin. The range of results are: A ratio of less than 1. 5: 1. This means that your baby&; s lungs are immature. If born now, your baby may have breathing problems. A ratio between 1. 5: 1 and 1. 9: 1. This means that your baby may be at risk for immature lungs and breathing problems. A ratio of more than 2: 1. This means that your baby has mature lungs. He or she is ready for life outside the uterus. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "Lung maturity",
         "opb": "Age of infant",
@@ -534,7 +1093,7 @@
     },
     {
         "question": "Which one of the following in the characteristic feature of juvenile myoclonic epilepsy",
-        "exp": "Infantile spasms occur in clusters usually on waking - It&;s characterized by a combination of salaam spells ( sudden dropping of the head and flexion of arms ) - Prognosis for complete mental development is poor -vigabatrin is the drug of choice . Juvenile myoclonic epilepsy (JME) is the most common generalized epilepsy syndrome. It is also called Juvenile Myoclonic Epilepsy of Janz. It typically begins in adolescence. Teens with JME do not have other developmental problems. Myoclonic seizures (brief shock-like muscle jerks) are the most common type of seizure. They happen sholy after waking. Generalized tonic-clonic seizures occur in nearly all people with JME. The cause is predominantly genetic. An EEG is the most impoant way to diagnose JME. Ref : Ghai , 8th edition ; pg no : 559",
+        "exp": "Infantile spasms occur in clusters usually on waking - It&; s characterized by a combination of salaam spells ( sudden dropping of the head and flexion of arms ) - Prognosis for complete mental development is poor -vigabatrin is the drug of choice. Juvenile myoclonic epilepsy (JME) is the most common generalized epilepsy syndrome. It is also called Juvenile Myoclonic Epilepsy of Janz. It typically begins in adolescence. Teens with JME do not have other developmental problems. Myoclonic seizures (brief shock-like muscle jerks) are the most common type of seizure. They happen sholy after waking. Generalized tonic-clonic seizures occur in nearly all people with JME. The cause is predominantly genetic. An EEG is the most impoant way to diagnose JME. Ref: Ghai, 8th edition; pg no: 559",
         "cop": 1,
         "opa": "Myoclonic seizures frequently occur in morning",
         "opb": "Complete remission is common",
@@ -546,8 +1105,73 @@
         "choice_type": "single"
     },
     {
-        "question": "Not the cause of neonatal seizures ?",
-        "exp": "Hypokalemia is not a cause of seizure. Instead pyridoxine dependency, hypoxia , hypocalcaemia ,hypomagnesemia, hypoglycemia causes seizures. Ref : Ghai pediatrics eighth edition pg no 553",
+        "question": "Puff of smoke appearance on contrast CT angiography is seen -",
+        "exp": "Ans. is 'a' i. e., Moya Moya Disease Movamova diseaseo Moyamoya disease is an idiopathic, non inflammatory, non atherosclerotic progressive vasculo-occlusive disease involving the circle of Willis, typically the supraclinoid internal carotid arteries. Epidemiologyo Moyamoya is a disease of children and young people, with a bi-modal age distribution: 1) Early childhood: peak ~4 years of age (two-thirds)2) Middle age: 30-40 years of age (one-third)o The condition was initially described in Japanese patients, where it is still most common, in which 7-10% of cases are familial. Clinical presentationo Presentation is to some degree age dependent. In children hemispheric ischaemic strokes are most pronounced, whereas in adults haemorrhage from the abnormal vessels is more common. Watershed infarcts are also very commonly identified. Radiographic featureso Moyamoya disease affects the bilateral distal ICAs and circle of Willis. Up to 18% of patients with moyamoya may present with unilateral angiography-documented disease8. o Small abnormal net-like vessels proliferate giving the characteristic \"puff of smoke\" appearance on direct angiography. CTA and MRA is not always able to demonstrate this appearance on account of lower flow and spatial resolution. o Although classically described affecting the ICA, over 50% of patients also have involvement of the posterior cerebral arteries. Treatment and prognosiso Bypassing the occlusive segments is the aim of most surgical therapy. o In adults external carotid artery to middle cerebral artery (ECA-MCA) anastomoses can be performed as the vessels are larger. One of the surgical option is superficial temporal artery to middle cerebral artery (STA-MCA) bypass. o Encephaloduroarteriosynangiosis is the treatment of choice in paediatric patients as their vessels are too small to allow direct anastomosis.",
+        "cop": 1,
+        "opa": "Moya Moya Disease",
+        "opb": "Acrodermatitis Enterohepatica",
+        "opc": "Neuromyelitis Optica",
+        "opd": "Kasbach Meritt Syndrome",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "38010b9c-10c9-40b3-8635-9bae6ad8d61c",
+        "choice_type": "single"
+    },
+    {
+        "question": "Treatment of infantile spasm includes all except-",
+        "exp": "Ans. is 'b' i. e., Phenytoin Infantile spasm (Infantile myoclonus or West syndrome)* The onset is usually between 3-8 months of life* It is characterized by triad of -i) Salaam spells (sudden dr oping of the head & flexion of arms)ii) Mental retardationiii) Hypsarrhythmic pattern of. EEG (diffuse high voltage slow spike and chaotic activity)* The spasm occur in clusters usually on waking.* Prognosis for normal mental development is poor.* Vigabatrin (drug of choice), ACTH (2nd choice) and corticosteroids are used for treatment.",
+        "cop": 2,
+        "opa": "Corticosteroids",
+        "opb": "Phenytoin",
+        "opc": "ACTH",
+        "opd": "Vigabatrin",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "1558e0ee-a5ea-4f5a-82f3-1af178a9cc63",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A CSF/serum glucose ratio of <0. 4 is highly suggestive of:",
+        "exp": "a. Bacterial Meningitis(Ref: Nelson's 20/e p 2936-2948, Ghai 8/e p 563-565). Hypoglycorrhachia (Low CSF: serum glucose ratio) is commonly seen in Bacterial meningitis.",
+        "cop": 1,
+        "opa": "Bacterial Meningitis",
+        "opb": "Viral Meningitis",
+        "opc": "Carcinomatous Meningitis",
+        "opd": "None of the above",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "8fe8ea30-4607-45d2-bdf8-b21e484f4be7",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A 2-week-old female infant has a head circumference of 40 cm (>98%), with a large, tense fontanelle and downward deviation of the eyes. She has been vomiting her formula and she is irritable. Common cause of her symptoms include all EXCEPT:",
+        "exp": "Ans. B. Brain tumor. The common causes of hydrocephalus in neonates are intraventricular (subarachnoid) hemorrhage, infection; and congenital malformations (e. g., aqueductal stenosis, Arnold-Chiari malformation). Brain tumors rarely occur in the first year of life, and if present at this age, they are most likely to be supratentorial. When hydrocephalus occurs in infants and is associated with signs of raised intracranial pressure (especially without fever), vomiting, and irritability, an infratentorial brain tumor must be suspected.",
+        "cop": 2,
+        "opa": "Intraventricular hemorrhage",
+        "opb": "Brain tumor",
+        "opc": "Meningitis",
+        "opd": "Aqueductal stenosis",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "e6271b98-98ba-4153-8566-e08f99f0b42f",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Myelomeningocele most commonly involves which region of spine:",
+        "exp": "c. Lumbosacral(Ref: Nelson's 20/e p 2802-2803). Myelomeningocele involves lumbosacral region (75% of cases). Appearance: a sac-like cystic structure with remnants of neural tissue visible beneath the membrane, which occasionally ruptures and leaks CSF or an exposed flat neural placode. Hydrocephalus with a type II Chiari malformation develops in 80% of patients with MMCThe lower the deformity in the neuraxis, the less likely is the risk of hydrocephalus.",
+        "cop": 3,
+        "opa": "Cervico-dorsal",
+        "opb": "Dorsolumbar",
+        "opc": "Lumbosacral",
+        "opd": "Sacro-coccygeal",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "201f49ec-9ca2-4f61-84ce-ce922ce01f03",
+        "choice_type": "single"
+    },
+    {
+        "question": "Not the cause of neonatal seizures?",
+        "exp": "Hypokalemia is not a cause of seizure. Instead pyridoxine dependency, hypoxia, hypocalcaemia, hypomagnesemia, hypoglycemia causes seizures. Ref: Ghai pediatrics eighth edition pg no 553",
         "cop": 2,
         "opa": "Pyridoxine deficiency",
         "opb": "Hypokalemia",
@@ -559,8 +1183,21 @@
         "choice_type": "multi"
     },
     {
+        "question": "A child presented with mental retardation and spastic limbs with h/o perinatal distress. Diagnosis:",
+        "exp": "a. Cerebral palsy(Ref: Nelson's 20/e p 2896-2899, Ghai 8/e p 581-583). The CNS consequences and Sequelae due to perinatal asphyxia is referred as cerebral plasy.",
+        "cop": 1,
+        "opa": "Cerebral palsy",
+        "opb": "HIE",
+        "opc": "Down's syndrome",
+        "opd": "Edward syndrome",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "c2ac9e0f-63a9-4fdf-b6f1-dd7dd0f428fd",
+        "choice_type": "single"
+    },
+    {
         "question": "Which of the following is not associated with increase in the risk of seizures in future in a child with febrile seizures",
-        "exp": "Risk factors of recurrence of simple and complex febrile seizures are : 1. Early age of onset ( less than 15 months ) 2. Epilepsy or fevers in 1st degree relatives 3. Frequent fevers and low temperature at the Onset of febrile seizure -The risk of developing epilepsy is higher if the seizure are atypical , EEG is persistently abnormal , if the child has abnormal neuro- development or a family history of epilepsy. -Complex paial seizures may manifest after several years of prolonged atypical febrile convulsions. Ref : Ghai , 8th edition; pg no : 557",
+        "exp": "Risk factors of recurrence of simple and complex febrile seizures are: 1. Early age of onset ( less than 15 months ) 2. Epilepsy or fevers in 1st degree relatives 3. Frequent fevers and low temperature at the Onset of febrile seizure -The risk of developing epilepsy is higher if the seizure are atypical, EEG is persistently abnormal, if the child has abnormal neuro- development or a family history of epilepsy. -Complex paial seizures may manifest after several years of prolonged atypical febrile convulsions. Ref: Ghai, 8th edition; pg no: 557",
         "cop": 2,
         "opa": "Developmental delay",
         "opb": "Late age of onset",
@@ -572,7 +1209,7 @@
         "choice_type": "single"
     },
     {
-        "question": "True about Reye&;s syndrome",
+        "question": "True about Reye&; s syndrome",
         "exp": "In Reyes syndrome complications related to liver such as fatty deposits, abnormal liver function and poor blood clotting, bleeding. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "Microvesicular fatty infiltration",
@@ -582,6 +1219,19 @@
         "subject_name": "Pediatrics",
         "topic_name": "Central Nervous system",
         "id": "5a02c875-a1f6-44d3-a347-8c1d35e918ca",
+        "choice_type": "multi"
+    },
+    {
+        "question": "All of following are neural tube defects except:",
+        "exp": "d. Holoprosencephaly(Ref: Nelson's 20/e p 2802-2803, Ghai 8/e p 575-577). Different types of neural tube defects are: Spina bifida occulta, meningocele, encephalocele, myelomeningocele, anencephaly, caudal regression syndrome, dermal sinus, tethered cord, syringomyelia, diastematomyelia and iniencephaly Holoprosencephaly is incomplete separation of the cerebral hemispheres across the midline.",
+        "cop": 4,
+        "opa": "Myelomeningocele",
+        "opb": "Anencephaly",
+        "opc": "Encephalocele",
+        "opd": "Holoprosencephaly",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "d658ebb3-54ea-44c2-878b-2db76b1ba22b",
         "choice_type": "multi"
     },
     {
@@ -598,8 +1248,60 @@
         "choice_type": "single"
     },
     {
+        "question": "A child presented to the casualty with seizures. On examination an oval hypopigmented macules were noted on the trunk, along with sub-normal IQ. Probable diagnosis of the child is:",
+        "exp": "c. Tuberous Sclerosis(Ref: Nelson's 20/e p 2877-2878, Ghai p 586). Hypopigmented macules (ash leaf macules), sub-normal IQ and seizures point towards a diagnosis of Tuberous sclerosis.",
+        "cop": 3,
+        "opa": "Neurofibromatosis",
+        "opb": "Sturge-Weber syndrome",
+        "opc": "Tuberous Sclerosis",
+        "opd": "Incontinentia Pigmenti",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "8594136e-4ceb-4962-b377-1e2371805494",
+        "choice_type": "single"
+    },
+    {
+        "question": "1 month old baby brought by the mother complaining of a mass on back associated with wetness and inability of both legs to move ever since birth. Possible diagnosis?",
+        "exp": "Ans. (c) Meningomyelocele style=\"font-size: 1. 04761904761905em; color: rgba(0, 0, 0, 1); font-family: Times New Roman, Times, serif; margin: 0 0 8pt\">",
+        "cop": 3,
+        "opa": "Pilonidal cyst",
+        "opb": "Spina bifida",
+        "opc": "Meningomyelocele",
+        "opd": "Sacrococcygeal teratoma",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "3e6a88b0-ee51-44a7-bd95-b4bfc948bcf8",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Absence seizures are seen in?",
+        "exp": "c. Petit mal epilepsy(Ref: Nelson's 20/e p 2831-2856, Ghai 8/e p 557-561). Absence seizures are sometimes referred to as petit mal seizures (from the French for \"little illness\").",
+        "cop": 3,
+        "opa": "Grand mal epilepsy",
+        "opb": "Myoclonic epilepsy",
+        "opc": "Petit mal epilepsy",
+        "opd": "Hyperkinetic child",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "a66642fb-5789-4e0c-ab13-5f9f6defd1db",
+        "choice_type": "single"
+    },
+    {
+        "question": "Which of the following is not seen in fetal alcohol syndrome?",
+        "exp": "b. Macrocephaly(Ref: Nelson's 20/e p 2813). Microcephaly, Growth retardation, ptosis, absent philtrum, congenital heart disease (ASD), feeding problems, neuroglial heterotopia & disorganization of neurons are features of fetal alcohol syndrome.",
+        "cop": 2,
+        "opa": "Microcephaly",
+        "opb": "Macrocephaly",
+        "opc": "Holoprosencephaly",
+        "opd": "Thinning of corpus callosum",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "2394f8da-f454-4955-b605-d71bc0f45eff",
+        "choice_type": "multi"
+    },
+    {
         "question": "True about Status marmoratus is all except",
-        "exp": "Status marmoratus is a congenital condition of corpus striatum associated with choreoathetosis .It is present in basal ganglia , and has marble like appearance and has bilateral hyperdensity areas in thalamus. Refer :",
+        "exp": "Status marmoratus is a congenital condition of corpus striatum associated with choreoathetosis. It is present in basal ganglia, and has marble like appearance and has bilateral hyperdensity areas in thalamus. Refer:",
         "cop": 4,
         "opa": "Present in basal ganglia",
         "opb": "Associated with asphyxia",
@@ -611,8 +1313,47 @@
         "choice_type": "multi"
     },
     {
+        "question": "Which of these is a neural tube defect?",
+        "exp": "Ans. D. All of these are NTDNeural tube defects are failure of closure of the neural tube between 3rd-4th weeks of intrauterine life. Important neural tube defects include spina bifida occulta, meningocele, meningomyelocele, dermal sinus, encephalocele, anencephaly, syringomyelia and diastematomyelia.",
+        "cop": 4,
+        "opa": "Spina bifida occulta",
+        "opb": "Encephalocele",
+        "opc": "Dermal sinus",
+        "opd": "All of these are NTD",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "7a98366f-c025-43fd-b8ef-3a0840f76935",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Kernicterus is associated with:",
+        "exp": "Ans. D. All of the above. Common long term sequelae:* Extrapyramidal abnormalities: Athetosis is the most common movement disorder associated with chronic bilirubin encephalopathy* Visual abnormalities: Ocular movements are affected, most commonly resulting in upward gaze* Auditory abnormalities: Hearing abnormalities are the most consistent feature of chronic bilirubin encephalopathy and can develop in patients who show none of the other characteristic features. The most common abnormality is high-frequency hearing loss* Abnormalities of dentition: Some degree of dental enamel hypoplasia can be observed in about three quarters of patients with chronic bilirubin encephalopathy.",
+        "cop": 4,
+        "opa": "Choreoathetoid cerebral palsy",
+        "opb": "Hearing abnormalities",
+        "opc": "Upward gaze palsy",
+        "opd": "All of the above",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "a4776268-c244-42ed-89a9-79952eea5daa",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Pseudo tumour cerebri is caused by all except:",
+        "exp": "Ans: d (Digoxin) Ref: Nelson, 17th ed, p. 2048 & OP Ghai, 6th ed, p. 530. Pseudo tumour cerebri is a clinical syndrome that mimics brain tumours and is characterized by increased intra cranial pressure with a normal cerebrospinal fluid cell count and protein content and normal ventricular size, anatomy and position. CAUSES OF PSEUDOTUMOUR CEREBRIMetabolic disoders * Galactosemia* Hypoparathyroidism* Pseudohypoparathyroidism* Hypophosphatasia* Prolonged corticosteroid therapy or too rapid corticosteroid withdrawal* Growth hormone treatment* Refeeding of a significantly malnourished child* Hypervitaminosis A* Vitamin A deficiency* Addison's disease* Obesity* Menarche* Oral contraceptive pills* Pregnancy. Infections. Haemetological disorders* Roseola infantum* Chronic otitis media* Mastoiditis* Guillain Barre syndrome* Polycythaemia* Hemolytic anemia* Iron deficiency anemia* Wiskott Aldrich syndrome. Drugs * Nalidixic acid* Outdated tetracyclins* Nitrofurantoin* Isotretinoin Obstruction of intracranial drainage by venous thrombosis. Head injury. Obstruction of superior venacava.",
+        "cop": 4,
+        "opa": "Hypervitaminosis A",
+        "opb": "Outdated tetracycline",
+        "opc": "Nalidixic acid",
+        "opd": "Digoxin",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "35591242-18aa-49b0-ba41-154227aae44a",
+        "choice_type": "multi"
+    },
+    {
         "question": "Decoicate child-False statement is",
-        "exp": "Causes of decoicate posturing : brain tumor. stroke. brain problem due to drug use, poisoning, infection, or liver failure. increased pressure in the brain. Decoicate Posturing The mechanism for decoicate posturing is not as well studied as that of decerebrate. Phylogenetically, the region of the red nucleus within the midbrain plays a significant pa in locomotion. In primates, the rubrospinal tract influences primitive grasp reflexes, paicularly in infants and is, incidentally, responsible for crawling.The rubrospinal tract carries signals from the red nucleus to the spinal motor neurons. Primates are reliant on fine motor skills, and therefore the motor coex the coicospinal tracts is more prominent in movement than phylogenetically lower regions. Extensive lesions involving the forebrain, diencephalon, or rostral midbrain are known to cause decoicate posturing. This includes the motor coex, premotor coex, corona radiata, internal capsule, and thalamus.In primates, the rubrospinal tract descends as far as the thoracic spine, it, therefore, has effects on the upper limbs but not lower. The red nucleus, the rubrospinal tract, causes a flexion, grasping type reflex of the upper limbs. The higher brain centers, such as the cerebral coex, inhibit this reflex during normal physiology. With a lesion of the coicospinal tract, the red nucleus is disinhibited, and the flexion reflex of the upper limbs is unimpeded. The vestibulospinal tracts, as discussed above, are also left disinhibited, and extension of the lower limbs occurs. This flexion of the upper limbs and extension of lower limbs is decoicate posturing. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Causes of decoicate posturing: brain tumor. stroke. brain problem due to drug use, poisoning, infection, or liver failure. increased pressure in the brain. Decoicate Posturing The mechanism for decoicate posturing is not as well studied as that of decerebrate. Phylogenetically, the region of the red nucleus within the midbrain plays a significant pa in locomotion. In primates, the rubrospinal tract influences primitive grasp reflexes, paicularly in infants and is, incidentally, responsible for crawling. The rubrospinal tract carries signals from the red nucleus to the spinal motor neurons. Primates are reliant on fine motor skills, and therefore the motor coex the coicospinal tracts is more prominent in movement than phylogenetically lower regions. Extensive lesions involving the forebrain, diencephalon, or rostral midbrain are known to cause decoicate posturing. This includes the motor coex, premotor coex, corona radiata, internal capsule, and thalamus. In primates, the rubrospinal tract descends as far as the thoracic spine, it, therefore, has effects on the upper limbs but not lower. The red nucleus, the rubrospinal tract, causes a flexion, grasping type reflex of the upper limbs. The higher brain centers, such as the cerebral coex, inhibit this reflex during normal physiology. With a lesion of the coicospinal tract, the red nucleus is disinhibited, and the flexion reflex of the upper limbs is unimpeded. The vestibulospinal tracts, as discussed above, are also left disinhibited, and extension of the lower limbs occurs. This flexion of the upper limbs and extension of lower limbs is decoicate posturing. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 3,
         "opa": "Acute Brain injury",
         "opb": "Susthalamic, CT & frontal lobe lesion",
@@ -624,8 +1365,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "A school going boy was noted with vacant stare several times a day. There was no history of fever , seizures and neurological deterioration. What is the Diagnosis",
-        "exp": "During an absence seizure, your brain&;s electrical signals repeat themselves. A person who has absence seizures may also have altered levels of neurotransmitters. Hyperventilation or flashing lights may trigger an absence seizure in others. Doctors may never find a specific cause for some patients. Symptoms An indication of simple absence seizure is a vacant stare, which may be mistaken for a lapse in attention that lasts about 10 seconds, though it may last as long as 20 seconds, without any confusion, headache or drowsiness afterward. Signs and symptoms of absence seizures include: Sudden stop in motion without falling Lip smacking Eyelid flutters Chewing motions Finger rubbing Small movements of both hands. Reference: GHAI Essential pediatrics, 8th edition",
+        "question": "A school going boy was noted with vacant stare several times a day. There was no history of fever, seizures and neurological deterioration. What is the Diagnosis",
+        "exp": "During an absence seizure, your brain&; s electrical signals repeat themselves. A person who has absence seizures may also have altered levels of neurotransmitters. Hyperventilation or flashing lights may trigger an absence seizure in others. Doctors may never find a specific cause for some patients. Symptoms An indication of simple absence seizure is a vacant stare, which may be mistaken for a lapse in attention that lasts about 10 seconds, though it may last as long as 20 seconds, without any confusion, headache or drowsiness afterward. Signs and symptoms of absence seizures include: Sudden stop in motion without falling Lip smacking Eyelid flutters Chewing motions Finger rubbing Small movements of both hands. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 2,
         "opa": "Atonic seizures",
         "opb": "Absence seizures",
@@ -638,7 +1379,7 @@
     },
     {
         "question": "% of children with Simple Febrile seizure developing Epilepsy is",
-        "exp": "Only 1-2% of children are developing simple febrile seizures The Risks For Developing Epilepsy : Problems with the child&;s development before the febrile seizure Having <a href=\" or complicated febrile seizures</a> that last longer than 15 minutes, more than one seizure in 24 hours, or seizures in which only one side of the body is affected Seizures without fever in a parent or a brother or sister If the child has none of these risk factors, the chances of epilepsy developing later are only 1% to 2% (1 or 2 out of 100). This is very similar to the risk of developing epilepsy in any other child. Children with 1 of these risk factors have a 2.5% (1 in 40) chance of later epilepsy. For children with 2 or 3 risk factors, their chance of developing epilepsy later ranges from 5% (1 in 20) to over 10% (greater than 1 in 10). In rare cases, febrile seizures that last more than 30 minutes may cause scar tissue in the temporal lobe of the brain. In some of these children, chronic epilepsy develops. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Only 1-2% of children are developing simple febrile seizures The Risks For Developing Epilepsy: Problems with the child&; s development before the febrile seizure Having <a href=\" or complicated febrile seizures</a> that last longer than 15 minutes, more than one seizure in 24 hours, or seizures in which only one side of the body is affected Seizures without fever in a parent or a brother or sister If the child has none of these risk factors, the chances of epilepsy developing later are only 1% to 2% (1 or 2 out of 100). This is very similar to the risk of developing epilepsy in any other child. Children with 1 of these risk factors have a 2. 5% (1 in 40) chance of later epilepsy. For children with 2 or 3 risk factors, their chance of developing epilepsy later ranges from 5% (1 in 20) to over 10% (greater than 1 in 10). In rare cases, febrile seizures that last more than 30 minutes may cause scar tissue in the temporal lobe of the brain. In some of these children, chronic epilepsy develops. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "1-2%",
         "opb": "2-5%",
@@ -651,7 +1392,7 @@
     },
     {
         "question": "Drug of choice for Juvenile Myoclonic epilepsy is?",
-        "exp": "Avoiding precipitating events such as alcohol use and sleep deprivation may be useful. However, medical therapy with anti-convulsants is typically needed and well tolerated. The majority of patients can be well-controlled on a single drug, most commonly valproic acid. Other medications that might be used separately or in combination include lamotrigine, levetiracetam, clonazepam, and topiramate. Drug of choice for juvenile myoclonic epilepsy is Sodiumvalproate, benzodiazepines, ACTH . Newer antiepileptics such as topiramate,zonisamide, lamotrigine can be used. Juvenile myoclonic epilepsy is an epilepsy syndrome characterized by myoclonic jerks (quick jerks of the arms or legs), generalized tonic-clonic seizures (GTCSs), and sometimes, absence seizures. The seizures of juvenile myoclonic epilepsy often occur when people first awaken in the morning. Seizures can be triggered by lack of sleep, extreme fatigue, stress, or alcohol consumption. Onset typically occurs around adolesence in otherwise healthy children.The causes of juvenile myoclonic epilepsy are very complex and not completely understood. Mutations in one of several genes, including the GABRA1 and the EFHC1 genes, can cause or increase susceptibility to this condition. Although patients usually require lifelong treatment with anticonvulsants, their overall prognosis is generally good. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Avoiding precipitating events such as alcohol use and sleep deprivation may be useful. However, medical therapy with anti-convulsants is typically needed and well tolerated. The majority of patients can be well-controlled on a single drug, most commonly valproic acid. Other medications that might be used separately or in combination include lamotrigine, levetiracetam, clonazepam, and topiramate. Drug of choice for juvenile myoclonic epilepsy is Sodiumvalproate, benzodiazepines, ACTH. Newer antiepileptics such as topiramate, zonisamide, lamotrigine can be used. Juvenile myoclonic epilepsy is an epilepsy syndrome characterized by myoclonic jerks (quick jerks of the arms or legs), generalized tonic-clonic seizures (GTCSs), and sometimes, absence seizures. The seizures of juvenile myoclonic epilepsy often occur when people first awaken in the morning. Seizures can be triggered by lack of sleep, extreme fatigue, stress, or alcohol consumption. Onset typically occurs around adolesence in otherwise healthy children. The causes of juvenile myoclonic epilepsy are very complex and not completely understood. Mutations in one of several genes, including the GABRA1 and the EFHC1 genes, can cause or increase susceptibility to this condition. Although patients usually require lifelong treatment with anticonvulsants, their overall prognosis is generally good. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 3,
         "opa": "Phenytoin",
         "opb": "Lamotrigine",
@@ -677,7 +1418,7 @@
     },
     {
         "question": "Rapid Antigen Test for meningitis organisms in a child can be done on the following specimens except",
-        "exp": "Throat swab is not a test for meningitis organisms in child . Since organisms may present in the CSF , blood and urine they are to be tested for rapid antigen test. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Throat swab is not a test for meningitis organisms in child. Since organisms may present in the CSF, blood and urine they are to be tested for rapid antigen test. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
         "opa": "Blood",
         "opb": "CSF",
@@ -689,7 +1430,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "Best prognosis of Neonatal Seizures is in ?",
+        "question": "Best prognosis of Neonatal Seizures is in?",
         "exp": "Focal seizures have the best prognosis when compared with other. Neonatal seizure classification Clonic seizures These movements most commonly are associated with electrographic seizures. They often involve 1 extremity or 1 side of the body. The rhythm of the clonic movements is usually slow, at 1-3 movements per second. Tonic seizures These may involve 1 extremity or the whole body. Focal tonic seizures involving 1 extremity often are associated with electrographic seizures. Generalized tonic seizures often manifest with tonic extension of the upper and lower limbs and also may involve the axial musculature in an opisthotonic fashion. Generalized tonic seizures mimic decoicate posturing; the majority are not associated with electrographic seizures. Myoclonic seizures These may occur focally in 1 extremity or in several body pas (in which case they are described as multifocal myoclonic seizures). Focal and multifocal myoclonic seizures typically are not associated with electrographic correlates. These movements are thought to be non-epileptic in nature and a reflection of severe encephalopathy. Prognosis Prognosis is determined by the etiology of the neonatal seizures. If the EEG background is normal, the prognosis is excellent for seizures to resolve; normal development is likely. Severe EEG background abnormalities indicate poor prognosis; such patients frequently have cerebral palsy and epilepsy. The presence of spikes on EEG is associated with a 30% risk of developing future epilepsy. The prognosis following neonatal seizures that result from isolated subarachnoid hemorrhage is excellent, with 90% of children not having residual neurologic deficits. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 3,
         "opa": "Myoclonic",
@@ -702,8 +1443,60 @@
         "choice_type": "single"
     },
     {
+        "question": "Marker of neural tube defects is:",
+        "exp": "d. Acetylcholinesterase(Ref: Nelson's 20/e p 2802-2803, Ghai 8/e p 575-577). Diagnosis Tools for prenatal diagnosis of Neural tube Defects include detailed ultrasound examinations and measurements of maternal serum -fetoprotein MSAFP, amniotic fluid a-fetoprotein, and amniotic fluid acetylcholinesterase (AChE).",
+        "cop": 4,
+        "opa": "PAPPA",
+        "opb": "h. CG",
+        "opc": "Estriol",
+        "opd": "Acetylcholinesterase",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "b0f65868-47a4-4dd1-9a84-c430af5c30fe",
+        "choice_type": "single"
+    },
+    {
+        "question": "Treatment of Guillain-Barre Syndrome (GBS) in a child includes:",
+        "exp": "d. All of above(Ref: Nelson's 20/e p 3010, Ghai 8/e p 590). The drug of choice for Guillain-Barre syndrome in a child is IVIg; Plasmapheresis is also used in refractory cases. In severe case, mechanical ventilation is also required to provide resp support.",
+        "cop": 4,
+        "opa": "IV Ig",
+        "opb": "Ventilation",
+        "opc": "Plasmapheresis",
+        "opd": "All of above",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "04bc73a7-7ee5-4b53-8e4a-bb598064c587",
+        "choice_type": "multi"
+    },
+    {
+        "question": "All of the following are manifestations of hypervitamin- osis A except?",
+        "exp": "Ans. (c) Decreased Intracranial pressure. Ref: OP Ghai 8th ed. Hll-112* Manifestations of acute toxicity include muscle and bone tenderness, especially over the long bones of the upper and lower extremities, as well as neurologic manifestations with signs of increased intracranial pressure (eg, children may have bulging fontanelles).* Manifestations of chronic toxicity include the following: Alopecia /xeroderma with itchy skin/Skin erythema/Skin desquamation/ itching/Brittle nails/ Exanthema/ Cheilitis/ Conjunctivitis/Petechiae/ Liver cirrhosis/Premature epiphysial closure in children/Hepato-splenomegaly/Peripheral neuritis/Benign intracranial hypertension/ Ataxia/Papilledema/ Diplopia/Hyperostosis. Previous year questions on Topic: vitamin A* Pseudotumor cerebri/benign intracranial hypertension= vitamin A toxicity* Earliest sign of vitamin A deficiency = conjunctival xerosis* Treatment of vitamin A toxicity= vitamin A orally 2 LAC IU on day 0, 1 and day 14.",
+        "cop": 3,
+        "opa": "Loss of hair",
+        "opb": "Generalized exfoliation",
+        "opc": "Decreased Intracranial pressure",
+        "opd": "Muscle pains",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "9e979bba-1ac4-4448-aeff-df32529efa18",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Comment on the diagnosis of 1-year-old child?",
+        "exp": "Ans. (b) Hydrocephalus.* The scalp of the baby in picture shows a large head with dilated superficial veins diagnostic of hydrocephalus.* In hydrancephaly, the cortical hemispheres are absent or represented by membranous sacs with remnants of frontal, temporal or occipital cortex dispersed over the membrane making survival difficult. Computed tomography scanning demonstrates a preservation of the falx, thalami, and various amounts of the occipital lobes and basal ganglia. Macrocrania or microcrania may be present, or the head circumference may be normal. Image source. style=\"font-size: 1. 04761904761905em; color: rgba(0, 0, 0, 1); font-family: Times New Roman, Times, serif; margin: 0 0 8pt\">",
+        "cop": 2,
+        "opa": "Hydranencephaly",
+        "opb": "Hydrocephalus",
+        "opc": "Lissencephaly",
+        "opd": "Encephalocele",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "365913f7-864b-4fb7-b89b-96735f82c7d4",
+        "choice_type": "single"
+    },
+    {
         "question": "True about Infantile Tremor Syndrome",
-        "exp": "There is hyperpigmentation, especially over dorsum of hands ,feet ,knees,ankles ,wrists and terminal phalanges Clinical Features- A classical picture of ITS is a plump looking infant between 6 months to 18 months with presence of malnutrition. These children are listless, apathetic and disinterested in surroundings. Scalp hair is sparse and light colored. Dark pigmentation is present over dorsal aspects of hands, nail folds, feet, knees, ankles, buttocks and axillae. There is regression of milestones in the recent past. Tremors have an acute onset following an acute infection or stress. Initially they are intermittent but become continuous in a few days. They are more prominent in distal pas of limbs, head, face and tongue. These tremors disappear during sleep. Hypotonia with flabbiness of muscles is common. There is presence of anemia, which may be macrocytic, microcytic or even normocytic. Ref : Ghai pediatrics eighth edition pg no 581",
+        "exp": "There is hyperpigmentation, especially over dorsum of hands, feet, knees, ankles, wrists and terminal phalanges Clinical Features- A classical picture of ITS is a plump looking infant between 6 months to 18 months with presence of malnutrition. These children are listless, apathetic and disinterested in surroundings. Scalp hair is sparse and light colored. Dark pigmentation is present over dorsal aspects of hands, nail folds, feet, knees, ankles, buttocks and axillae. There is regression of milestones in the recent past. Tremors have an acute onset following an acute infection or stress. Initially they are intermittent but become continuous in a few days. They are more prominent in distal pas of limbs, head, face and tongue. These tremors disappear during sleep. Hypotonia with flabbiness of muscles is common. There is presence of anemia, which may be macrocytic, microcytic or even normocytic. Ref: Ghai pediatrics eighth edition pg no 581",
         "cop": 1,
         "opa": "Hyperpigmentation of extremities",
         "opb": "Fine tremor",
@@ -729,7 +1522,7 @@
     },
     {
         "question": "Most common cause of convulsion on the First day of life in a newborn is",
-        "exp": "Most common cause of seizure in first day of new born baby is anoxia ,hypoxia induced ischemic. Symptomatic neonatal seizures may be caused by: lack of oxygen before or during bih because of problems such as placental abruption (premature detachment of the placenta from the uterus), a difficult or prolonged labour, or compression of the umbilical cord infection acquired before or after bih, such as bacterial (a blood clot in the brain) bleeding in the brain congenital brain abnormalities, either genetic or acquired during fetal development, such as tuberous sclerosis blood sugar or electrolyte imbalances, including hypoglycemia (low blood sugar), hypocalcemia (low calcium), hyponatremia (low sodium), or hypernatremia (high sodium) metabolic problems, such as maple syrup urine disease, pyridoxine dependency, or <a href=\" (PKU)</a> drug withdrawal, which may be seen in infants born to mothers addicted to barbiturates, alcohol, heroin, cocaine or methadone Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Most common cause of seizure in first day of new born baby is anoxia, hypoxia induced ischemic. Symptomatic neonatal seizures may be caused by: lack of oxygen before or during bih because of problems such as placental abruption (premature detachment of the placenta from the uterus), a difficult or prolonged labour, or compression of the umbilical cord infection acquired before or after bih, such as bacterial (a blood clot in the brain) bleeding in the brain congenital brain abnormalities, either genetic or acquired during fetal development, such as tuberous sclerosis blood sugar or electrolyte imbalances, including hypoglycemia (low blood sugar), hypocalcemia (low calcium), hyponatremia (low sodium), or hypernatremia (high sodium) metabolic problems, such as maple syrup urine disease, pyridoxine dependency, or <a href=\" (PKU)</a> drug withdrawal, which may be seen in infants born to mothers addicted to barbiturates, alcohol, heroin, cocaine or methadone Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "Anoxia",
         "opb": "Head injury",
@@ -742,7 +1535,7 @@
     },
     {
         "question": "Automatism is seen in",
-        "exp": "A complex paial seizure is a type of seizure that arises in one lobe of the brain, rather than the whole brain. The seizure affects people&;s awareness and may cause them to lose consciousness . A complex paial seizure stas focally within the brain and causes impairment of consciousness. This definition is based on both clinical and electroencephalographic (EEG) data. A complex paial seizure is most commonly a manifestation of temporal lobe epilepsy, but the term is so broadly defined (le, as any focal seizure with Impairment of consciousness) that it is very nonspecific. For this reason, many clinicians make a point of distinguishing between temporal and extratemporal complex paial seizures. Complex paial seizures are paial seizures that are associated with an alteration of consciousness ( Complex-Paial Seizures with Automatisms). The term psychomotor describes a paicular semiology characterized by automatisms and impairment of consciousness, usually of temporal lobe origin. Automatisms: Automatisms are nonpurposeful, stereotyped, and repetitive behaviors that commonly accompany complex paial seizures (In the sem lologic classification, they define automotor seizures). The behavior Is Inappropriate for the situation. Verbal automatisms range from simple vocalizations, such as moaning, to more complex, comprehensible, stereotyped speech. The most common automatisms, at least In temporal lobe epilepsy, are oral (eg, lip smacking, chewing, swallowing) and manual (eg, picking. fumbling, patting). Unilateral manual automatisms accompanied by contralateral arm dystonia usually Indicates seizure onset from the cerebral hemisphere !psilateral to the manual automatisms. Automatisms can also be more elaborate, coordinated movements Involving bilateral extremities. Bizarre automatisms, such as alternating limb movements, right-to-left head rolling, or sexual automatisms, may occur with frontal lobe seizures. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "A complex paial seizure is a type of seizure that arises in one lobe of the brain, rather than the whole brain. The seizure affects people&; s awareness and may cause them to lose consciousness. A complex paial seizure stas focally within the brain and causes impairment of consciousness. This definition is based on both clinical and electroencephalographic (EEG) data. A complex paial seizure is most commonly a manifestation of temporal lobe epilepsy, but the term is so broadly defined (le, as any focal seizure with Impairment of consciousness) that it is very nonspecific. For this reason, many clinicians make a point of distinguishing between temporal and extratemporal complex paial seizures. Complex paial seizures are paial seizures that are associated with an alteration of consciousness ( Complex-Paial Seizures with Automatisms). The term psychomotor describes a paicular semiology characterized by automatisms and impairment of consciousness, usually of temporal lobe origin. Automatisms: Automatisms are nonpurposeful, stereotyped, and repetitive behaviors that commonly accompany complex paial seizures (In the sem lologic classification, they define automotor seizures). The behavior Is Inappropriate for the situation. Verbal automatisms range from simple vocalizations, such as moaning, to more complex, comprehensible, stereotyped speech. The most common automatisms, at least In temporal lobe epilepsy, are oral (eg, lip smacking, chewing, swallowing) and manual (eg, picking. fumbling, patting). Unilateral manual automatisms accompanied by contralateral arm dystonia usually Indicates seizure onset from the cerebral hemisphere! psilateral to the manual automatisms. Automatisms can also be more elaborate, coordinated movements Involving bilateral extremities. Bizarre automatisms, such as alternating limb movements, right-to-left head rolling, or sexual automatisms, may occur with frontal lobe seizures. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 2,
         "opa": "Paial seizures",
         "opb": "complex paial seizures",
@@ -754,8 +1547,34 @@
         "choice_type": "single"
     },
     {
+        "question": "Which of the following drugs is not used in Juvenile Myoclonic Epilepsy?",
+        "exp": "c. Carbamazepine(Ref: Nelson's 20/e p 2831-2856, Ghai 8/e p 557-561). Drugs used for treatment of JME are Valproate (drug of choice), Levetiracetam; Lamotrigine, Topiramate, Zonisamide.",
+        "cop": 3,
+        "opa": "Topiramate",
+        "opb": "Zonisamide",
+        "opc": "Carbamazepine",
+        "opd": "Valproate",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "dcfab40f-8fa9-47ac-8d33-a1ccdab85a6e",
+        "choice_type": "single"
+    },
+    {
+        "question": "Not found in cerebral palsy is:",
+        "exp": "Ans. D. Flaccid paralysis. Flaccid paralysis is not a feature of Cerebral palsy. Flaccid paralysis is a feature of lower motor neuron disease. Cerebral palsy is a static encephalopathy and a disorder of posture and movement often associated with:* A deficit in the motor, language, and social milestones* Microcephaly is a feature of cerebral palsy because of insult to the developing brain.* Dystonic CP is associated with hypotonia* Extrapyramidal CP is associated with ataxia* It is an upper motor neuron disease characterized by rigidity and scissoring gait.* Spastic cerebral palsy is the common type (65%)",
+        "cop": 4,
+        "opa": "Hypotonia",
+        "opb": "Microcephaly",
+        "opc": "Ataxia",
+        "opd": "Flaccid paralysis",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "283113a0-d704-4ac6-87f3-869aa6d653f6",
+        "choice_type": "single"
+    },
+    {
         "question": "Wide open Anterior Fontanelle is found in following diseases except ________",
-        "exp": "Craniosynostosis (kray-nee-o-sin-os-TOE-sis) is a bih defect in which one or more of the fibrous joints between the bones of your baby&;s skull (cranial sutures) close prematurely (fuse), before your baby&;s brain is fully formed. Brain growth continues, giving the head a misshapen appearance Craniosynostosis usually involves fusion of a single cranial suture, but can involve more than one of the sutures in your baby&;s skull (complex craniosynostosis). In rare cases, craniosynostosis is caused by ceain genetic syndromes (syndromic craniosynostosis). Treating craniosynostosis involves surgery to correct the shape of the head and allow for normal brain growth. Early diagnosis and treatment allow your baby&;s brain adequate space to grow and develop. Although neurological damage can occur in severe cases, most children have normal cognitive development and achieve good cosmetic results after surgery. Early diagnosis and treatment are key. Types of Craniosynostosis The types of craniosynostosis depend on what sutures join together early. Sagittal synostosis- The sagittal suture runs along the top of the head, from the baby's soft spot near the front of the head to the back of the head. When this suture closes too early, the baby's head will grow long and narrow (scaphocephaly). It is the most common type of craniosynostosis. Coronal synostosis - The right and left coronal sutures run from each ear to the sagittal suture at the top of the head. When one of these sutures closes too early, the baby may have a flattened forehead on the side of the skull that closed early (anterior plagiocephaly). The baby's eye socket on that side might also be raised up and his or her nose could be pulled toward that side. This is the second most common type of craniosynostosis. Bicoronal synostosis - This type of craniosynostosis occurs when the coronal sutures on both sides of the baby's head close too early. In this case, the baby's head will grow broad and sho (brachycephaly). Lambdoid synostosis - The lambdoid suture runs along the backside of the head. If this suture closes too early, the baby's head may be flattened on the back side (posterior plagiocephaly). This is one of the rarest types of craniosynostosis. Metopic synostosis - The metopic suture runs from the baby's nose to the sagittal suture at the top of the head. If this suture closes too early, the top of the baby's head shape may look triangular, meaning narrow in the front and broad in the back (trigonocephaly). This is one of the rarest types of craniosynostosis. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Craniosynostosis (kray-nee-o-sin-os-TOE-sis) is a bih defect in which one or more of the fibrous joints between the bones of your baby&; s skull (cranial sutures) close prematurely (fuse), before your baby&; s brain is fully formed. Brain growth continues, giving the head a misshapen appearance Craniosynostosis usually involves fusion of a single cranial suture, but can involve more than one of the sutures in your baby&; s skull (complex craniosynostosis). In rare cases, craniosynostosis is caused by ceain genetic syndromes (syndromic craniosynostosis). Treating craniosynostosis involves surgery to correct the shape of the head and allow for normal brain growth. Early diagnosis and treatment allow your baby&; s brain adequate space to grow and develop. Although neurological damage can occur in severe cases, most children have normal cognitive development and achieve good cosmetic results after surgery. Early diagnosis and treatment are key. Types of Craniosynostosis The types of craniosynostosis depend on what sutures join together early. Sagittal synostosis- The sagittal suture runs along the top of the head, from the baby's soft spot near the front of the head to the back of the head. When this suture closes too early, the baby's head will grow long and narrow (scaphocephaly). It is the most common type of craniosynostosis. Coronal synostosis - The right and left coronal sutures run from each ear to the sagittal suture at the top of the head. When one of these sutures closes too early, the baby may have a flattened forehead on the side of the skull that closed early (anterior plagiocephaly). The baby's eye socket on that side might also be raised up and his or her nose could be pulled toward that side. This is the second most common type of craniosynostosis. Bicoronal synostosis - This type of craniosynostosis occurs when the coronal sutures on both sides of the baby's head close too early. In this case, the baby's head will grow broad and sho (brachycephaly). Lambdoid synostosis - The lambdoid suture runs along the backside of the head. If this suture closes too early, the baby's head may be flattened on the back side (posterior plagiocephaly). This is one of the rarest types of craniosynostosis. Metopic synostosis - The metopic suture runs from the baby's nose to the sagittal suture at the top of the head. If this suture closes too early, the top of the baby's head shape may look triangular, meaning narrow in the front and broad in the back (trigonocephaly). This is one of the rarest types of craniosynostosis. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
         "opa": "Rickets",
         "opb": "Cretinism",
@@ -767,8 +1586,21 @@
         "choice_type": "multi"
     },
     {
+        "question": "Commonest cause of obstructive hydrocephalus in children:",
+        "exp": "(Aqueductal stenosis) (1990-Nelson 17th) (548-Ghai7th)(A) Obstructive or Non communicating hydrocephalus - develops most common in children because of an abnormality of the aqueduct or lesion in the fourth ventricles. Aqueductal stenosis results from an abnormality narrow aqueduct of sylvius that is often associated with branching or forking. (B) Non-obstructive or communicating hydrocephalus most commonly follows as subarachnoid hemorrhage which is usually a result of intraventricular hemorrhage in a premature infants.",
+        "cop": 1,
+        "opa": "Acqueductal stenosis",
+        "opb": "Aqueductal gliosis",
+        "opc": "Subarachnoid hemorrhage",
+        "opd": "Tubercular meningitis",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "c2203ec5-5875-4583-822d-1ee3a2893a40",
+        "choice_type": "single"
+    },
+    {
         "question": "Which of the following statements about cerebellar astrocytomas in pediatric age group is false",
-        "exp": "Cerebellar astrocytoma is a low grade tumours and have good prognosis and is most commonly seen in first and second decades . These tumours are most commonly seen in males. Reference: GHAI Essential pediatrics, 8th edition.",
+        "exp": "Cerebellar astrocytoma is a low grade tumours and have good prognosis and is most commonly seen in first and second decades. These tumours are most commonly seen in males. Reference: GHAI Essential pediatrics, 8th edition.",
         "cop": 4,
         "opa": "These are usually low grade tumors",
         "opb": "These tumors have a good prognosis",
@@ -781,7 +1613,7 @@
     },
     {
         "question": "Causes of status epilepticus in a child",
-        "exp": "Approximately 25 % of childhood status epilepticus is idiopathic; 25% is associated with fever or meningoencephalitis; 50% of patients have a neurodevelopmental abnormality, head trauma, stroke, drug intoxication, subarachnoid bleed, pyridoxine deficiency, or metabolic abnormality ( hypoglycemia and hyponatremia ).Ref: Ghai, 8th edition; Pg no: 553",
+        "exp": "Approximately 25 % of childhood status epilepticus is idiopathic; 25% is associated with fever or meningoencephalitis; 50% of patients have a neurodevelopmental abnormality, head trauma, stroke, drug intoxication, subarachnoid bleed, pyridoxine deficiency, or metabolic abnormality ( hypoglycemia and hyponatremia ). Ref: Ghai, 8th edition; Pg no: 553",
         "cop": 2,
         "opa": "Hypernatremia",
         "opb": "Hyponatremia",
@@ -807,7 +1639,7 @@
     },
     {
         "question": "A typical febrile seizure is characterised by all except",
-        "exp": "Classification of Febrile Seizures : Simple (all of the following) Duration of less than 15 minutes Generalized No previous neurologic problems Occur once in 24 hours Complex (any of the following) Duration of more than 15 minutes Focal Recurs within 24 hours Reference: GHAI Essential pediatrics, 8th edition.",
+        "exp": "Classification of Febrile Seizures: Simple (all of the following) Duration of less than 15 minutes Generalized No previous neurologic problems Occur once in 24 hours Complex (any of the following) Duration of more than 15 minutes Focal Recurs within 24 hours Reference: GHAI Essential pediatrics, 8th edition.",
         "cop": 3,
         "opa": "Male children are more prone",
         "opb": "Occurs with sudden rise in temparature",
@@ -816,6 +1648,19 @@
         "subject_name": "Pediatrics",
         "topic_name": "Central Nervous system",
         "id": "b133bc3a-52ef-4650-859c-0be14c6db429",
+        "choice_type": "multi"
+    },
+    {
+        "question": "The genetic mutation most commonly linked with congenital central hypoventilation syndrome is:",
+        "exp": "b. Mutation in paired like homeobox 2B gene(Ref: Nelson's 20/e p 2148). Congenital central hypoventilation syndrome (CCHS) or Ondine curse is most commonly related to a PHOX2B fpaired-like homeobox 2B) mutation, which presents in the neonatal period and also associates with autonomic problems (Hirschsprung disease) and neural crest tumors. In the classic case of CCHS, symptoms of alveolar hypoventilation are manifest in the newborn period and during sleep only--with diminished tidal volume and a typically monotonous respiratory rate with cyanosis and hypercarbia. In more severe cases of CCHS, the hypoventilation is manifest during wakefulness and sleep.",
+        "cop": 2,
+        "opa": "Mutation in sodium channel alpha 1 subunit",
+        "opb": "Mutation in paired like homeobox 2B gene",
+        "opc": "Mutation in outer dynein arm",
+        "opd": "All of the above",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "2ba57430-d3ec-43f8-9ff3-dfb24c47c6d2",
         "choice_type": "multi"
     },
     {
@@ -832,7 +1677,46 @@
         "choice_type": "multi"
     },
     {
-        "question": "Most common cause of fatal ventriculomegaly is ?",
+        "question": "Which marker is increased in amniotic fluid in neural tube defects?",
+        "exp": "Ans. is 'a' & 'b' i. e., a fetoprotein & Acetylcholinesterase * In intra embryonic life, neural tube is open at both end and freely communicate with amniotic cavity. Failure of closure of neural tube results in persistent of this communication. This allows excretion of following fetal substances into amniotic cavity -1) Alpha - fetoprotein2) Acetylcholinesterase* These serve as biochemical markers for NTDs for prenatal diagnosis.* In patients with elevated amniotic fluid AFP to differentiate between NTD and abdominal wall defect, acetylcholinesterase and pseudocholinesterase are measured. Marker. Neural tube defect. Abdominal wall defect. Acetylcholinesterase. High. Low. Pseudocholinesterase. Low. High. Ratio of Ach/ pseudocholinesterase>0. 14<0. 14",
+        "cop": 1,
+        "opa": "a fetoprotein",
+        "opb": "Acetylcholinesterase",
+        "opc": "bh. CG",
+        "opd": "All of the above",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "17498b51-b153-415d-95c2-c9bcb1c8549a",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Arnold Chiari malformation is characterized by all except",
+        "exp": "Ans. is 'a' i. e., Hypoplasia of cerebellar vermis Arnold-chiari malformation* Arnold-Chiari malformation consists of herniation of the cerebellum and fourth ventricle into the foramen magnum, flattening of the base of the skull, and spina bifida with meningomyelocele.* Chiari malformation is divided intoi) Type I: Produce symptoms during adolescence or adulthood is usually not associated with hydrocephalus. The deformity consists of displacement of cerebellar tonsils into the cervical canal, ii) Type II: It is characterized by progressive hydrocephalus with a myelomeningocele in newborns. There is a failure of pontine flexure during embryogenensis, which results in elongation of 4th ventricle; kinking of brainstem and breaking of quadrigeminal plate (tectum); along with displacement of inferior vermis, pons and medulla into cervical canal. This causes widening of cervical canal (syringomyelia), iii) Type III: Usually associated with occipital encephalocele and causes abundant neurological deficit, iv) Type IV: Characterised by lack of cerebeller development and usually not compatible with life.",
+        "cop": 1,
+        "opa": "Hypoplasia of cerebellar vermis",
+        "opb": "Herniation of cerebellum",
+        "opc": "Flattened base of skull",
+        "opd": "Adulthood syndrome not associated with hydrocephalus",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "8baea749-95e5-4a31-a1bf-ec83e467d3f0",
+        "choice_type": "multi"
+    },
+    {
+        "question": "The CSF findings in TB meningitis include:",
+        "exp": "b. Low sugar + high protein and lymphocytosis(Ref: Nelson's 20/e p 2936-2948, Ghai 8/e p 563-565). Lymphocytosis is seen in Tuberculous meningitis, though in early stages, CSF neutrophilia may be seen",
+        "cop": 2,
+        "opa": "High sugar + low protein",
+        "opb": "Low sugar + high protein and lymphocytosis",
+        "opc": "High sugar + high chloride",
+        "opd": "Low sugar + high protein and lymphopenia",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "37e76875-54b6-4092-a801-204f6577c23b",
+        "choice_type": "single"
+    },
+    {
+        "question": "Most common cause of fatal ventriculomegaly is?",
         "exp": "Most common cause of hydrocephalus and ventriculomegaly is aqueductal stenosis. Ventricles develop early in pregnancy and can be seen on a a minor self-limiting imbalance in fluid circulation and absorption that becomes compensated defects in brain development damage or loss of brain tissue Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 3,
         "opa": "Arnold Chiari Malformation - I",
@@ -845,11 +1729,89 @@
         "choice_type": "single"
     },
     {
-        "question": "A 10 yr old boy, unconscious with 2 days h/o fever, comes to pediatric ICU with R.R 46/min, B.P.110/80 and E1 V1 M3 on Glasgow coma scale, next step of Mx includes",
-        "exp": "There is increased respiratory rate.the child must be intubated and venilated to provide suppo . Reference: GHAI Essential pediatrics, 8th edition",
+        "question": "Which of the following are signs of tentorial herniation?",
+        "exp": "Ans. D. All of the above. If the intracranial pressure exceeds the compensatory mechanisms, herniation with secondary compression and infarction of brain tissue occurs. Common signs of tentorial herniation include sunset sign, sixth nerve palsy, coma, tonic fits, decebrate rigidity, hypertension, bradycardia, hemiplegia, hemianopia and bilateral fixed dilated pupils.",
+        "cop": 4,
+        "opa": "Sunset sign",
+        "opb": "Sixth nerve palsy",
+        "opc": "Decerebrate rigidity",
+        "opd": "All of the above",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "3a65e4dc-8dcb-4bdb-b3ef-84a7af90ec94",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Acute lead poisoning in children commonly presents with:",
+        "exp": "Ans. A. Cerebellar ataxiaa. LEAD-poisoning: - The most serious manifestations of lead poisoning in acute encephalopathyb. Encephalopathy includesi. Persistent vomitingii. Ataxiaiii. Seizuresiv. Impaired consciousnessv. Comac. Peripheral neuropathy common in adults, is rare in childrend. The symptoms of childhood lead poisoning in the absence of clear signs of encephalopathy are usually nonspecific and vague, Abdominal colic, behavioral abnormalities, attention disorders, hyperactivity or severe unexplained retardation should lead one to suspect clinical lead poisoning. e. Chronic intoxication can cause learning disorders (children) and motor neuropathy (e. g. Wrist drop)",
+        "cop": 1,
+        "opa": "Cerebellar ataxia",
+        "opb": "Status epilepticus",
+        "opc": "Focal neurological deficits",
+        "opd": "| ICT and papilledema",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "887cb480-aebf-45fa-88ef-852846c735c3",
+        "choice_type": "single"
+    },
+    {
+        "question": "What is the underlying abnormality in this child with seizures?",
+        "exp": "b. Sturge-Weber syndrome. Port wine stain of half of the face involving ophthalmic & maxillary divisions of trigeminal nerve suggest Sturge-Weber syndrome",
+        "cop": 2,
+        "opa": "Tuberous sclerosis",
+        "opb": "Sturge-Weber syndrome",
+        "opc": "Mc. Cune Albright syndrome",
+        "opd": "Neurofibromatosis",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "cf70095c-d05e-4519-9257-0509b84ee1fe",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 2-year-old child is brought by parents with history of seizures and developmental delay. He has multiple hypopigmented macules over the back. What is the most probable diagnosis:",
+        "exp": "b. Tuberous sclerosis(Ref: Nelson's 20/e p 2877-2878, Ghai p 586). History of seizures and developmental delay along with multiple hypopigmented macules over the back suggests Tuberous sclerosis.",
+        "cop": 2,
+        "opa": "Neurofibromatosis type I",
+        "opb": "Tuberous sclerosis",
+        "opc": "Sturge Weber syndrome",
+        "opd": "Linear sebacous nevus syndrome",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "634539d4-f27f-4519-9261-c691a15f1f60",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 7-days-old neonate present with recurrent seizures. On examination, tachycardia and S3 gallop, bruit in anterior fontanelle. Blood investigations are normal. Neurosonogram shows a hypoechoic lesion. What is the diagnosis?",
+        "exp": "b. Vein of Galen malformation(Ref: Nelson's 20/e p 1193). Newborn presenting with features of heart failure and cranial bruit with a hypoechoic lesion seen on cranial ultrasound suggests Vein of Galen malformation. Vein of Galen malformation is an arteriovenous connection between primitive choroidal vessels & median prosencephalic vein of Markowski, that develops between 6th & 11th weeks of gestation, after development of circle of Willis.",
+        "cop": 2,
+        "opa": "Arachoid cyst",
+        "opb": "Vein of Galen malformation",
+        "opc": "Dilated ventricles",
+        "opd": "Intraventricular hemorrhage",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "5a2df313-b990-4afc-90f6-8e14249b29ef",
+        "choice_type": "multi"
+    },
+    {
+        "question": "Drug of choice among these for neonatal seizures:",
+        "exp": "Ans. A. Phenobarbitone. The drug of choice for treating neonatal seizures is phenobarbitone. Its initial IV dose is 20-40mg/kg IV, followed by maintenance dose of 3-5mg/kg/day. IV/IM or oral.",
+        "cop": 1,
+        "opa": "Phenobarbitone",
+        "opb": "Phenytoin",
+        "opc": "Diazepam",
+        "opd": "Clobazam",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "99259615-1192-4a5c-bacc-0a4a3ea31184",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 10 yr old boy, unconscious with 2 days h/o fever, comes to pediatric ICU with R. R 46/min, B. P. 110/80 and E1 V1 M3 on Glasgow coma scale, next step of Mx includes",
+        "exp": "There is increased respiratory rate. the child must be intubated and venilated to provide suppo. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "Intubate and ventilate",
-        "opb": "Give 0.9% NaCl",
+        "opb": "Give 0. 9% Na. Cl",
         "opc": "Sta dopamine at the rate of 1-2 g/min/kg",
         "opd": "Dopamine at the rate of 1-2 g/min/kg & furosemide",
         "subject_name": "Pediatrics",
@@ -858,8 +1820,21 @@
         "choice_type": "multi"
     },
     {
+        "question": "Commonly used shunt in hydrocephalus management:",
+        "exp": "b. Ventriculoperitoneal(Ref: Nelson's 20/e p 2814). Therapy for hydrocephalus: Medical management, including use of acetazolamide and furosemide, can provide temporary relief. Most cases of hydrocephalus require extracranial shunts, particularly a ventriculoperitoneal shunt. The major complications of shunting are occlusion (characterized by headache, papilledema, emesis, mental status changes) and bacterial infection (fever, headache, meningismus), usually due to Staph epidermidis. Endoscopic third ventriculostomy (ETV) has evolved as a viable approach and criteria have been developed for its use, but the procedure might need to be repeated to be effective.",
+        "cop": 2,
+        "opa": "Ventriculoatrial",
+        "opb": "Ventriculoperitoneal",
+        "opc": "Ventriculopericardial",
+        "opd": "Ventriculopleural",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "48881834-1d86-4415-b78d-6df107fad8e8",
+        "choice_type": "single"
+    },
+    {
         "question": "Most common organism causing neonatal meningitis is",
-        "exp": "The most common causes of neonatal meningitis is bacterial infection of the blood, known as bacteremia (specifically group B streptococci (Streptococcus agalactiae), Escherichia coli, and Listeria monocytogenes . Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "The most common causes of neonatal meningitis is bacterial infection of the blood, known as bacteremia (specifically group B streptococci (Streptococcus agalactiae), Escherichia coli, and Listeria monocytogenes. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "E. coli",
         "opb": "Listeria",
@@ -871,8 +1846,21 @@
         "choice_type": "single"
     },
     {
+        "question": "Initial drug of choice in a child with status epilepticus:",
+        "exp": "a. Lorazepam(Ref: Nelson's 20/e p 2831-2856, Ghai 8/e p 557-561). Initial drug given in Status epilepticus in a child is a short acting Benzodiazepine like Lorazepam or Midazolam, to abort the seizures",
+        "cop": 1,
+        "opa": "Lorazepam",
+        "opb": "Phenobarbitone",
+        "opc": "Valproate",
+        "opd": "Phenytoin",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "cbbdb94a-9b8a-40d1-9ee1-a3088c327148",
+        "choice_type": "single"
+    },
+    {
         "question": "Residual auditory defect is a common complication in meningitis caused by",
-        "exp": "Residual auditory defect is caused by Haemophilus meningitis .so BERA is the investigation of choice done in them. Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Residual auditory defect is caused by Haemophilus meningitis. so BERA is the investigation of choice done in them. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
         "opa": "Staphylococcus",
         "opb": "Meningococcus",
@@ -884,8 +1872,21 @@
         "choice_type": "single"
     },
     {
+        "question": "A 9 months old previously healthy infant was brought with complaints of fever of 12 hours' duration along with a running nose and an episode of generalized tonic clonic movements lasting for 34 minutes. Child was brought to the emergency within 1 hour. Child was observed in the emergency and was found to be alert active and playful after the fever came down. The most probable diagnosis in this infant is:",
+        "exp": "Ans. A. Febrile Convulsions. Febrile convulsions are the commonest provoked seizures affecting 3-5% children. They are defined as seizures. During fever occurring between 6 months and 5 yr. age in the absence of infection of the central nervous system in a neurologically normal child. Febrile seizures are frequently genetically determined. The convulsions are not related to the degree of temperature, but are frequent if temperature rises abruptly. Febrile convulsions may be (i) simple, benign; or (ii) atypical, complex. Lumbar puncture should be performed in the first episode of febrile seizure, in infants below 1 yr who are not immunized with Hib and pneumococcal vaccine, In all patients with febrile convulsions, a lumbar puncture is not required routinely. EEG and neuroimaging have no role in febrile seizures.",
+        "cop": 1,
+        "opa": "Febrile convulsions",
+        "opb": "Transient myoclonic epilepsy",
+        "opc": "Hypocalcemia",
+        "opd": "Hypernatremia",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "416bc39a-0867-46e5-ba99-5fd5746afd3e",
+        "choice_type": "single"
+    },
+    {
         "question": "Initial drug of choice in a child with status epilepticus",
-        "exp": "Prompt treatment with benzodiazepines is the first-line treatment of status epilepticus, but many patients will need additional treatment with additional medications including phenytoin, valproic acid, phenobarbital, or levetiracetam. The Neurocritical Care Society's guideline states that benzodiazepines remain the \"emergent initial therapy\" of choice based both on available evidence and expe consensus. When possible, intravenous benzodiazepine administration is preferred. However, formulations exist for buccal, intranasal, intramuscular, and rectal administration, and these should be administered if intravenous access cannot be rapidly established. The American Epilepsy Society's guideline concludes that intravenous lorazepam and diazepam are efficacious at stopping seizures lasting at least five min and that rectal diazepam, intramuscular midazolam, intranasal midazolam, and buccal midazolam are probably effective at terminating seizures lasting at least five minutes . Reference: GHAI Essential pediatrics, 8th edition",
+        "exp": "Prompt treatment with benzodiazepines is the first-line treatment of status epilepticus, but many patients will need additional treatment with additional medications including phenytoin, valproic acid, phenobarbital, or levetiracetam. The Neurocritical Care Society's guideline states that benzodiazepines remain the \"emergent initial therapy\" of choice based both on available evidence and expe consensus. When possible, intravenous benzodiazepine administration is preferred. However, formulations exist for buccal, intranasal, intramuscular, and rectal administration, and these should be administered if intravenous access cannot be rapidly established. The American Epilepsy Society's guideline concludes that intravenous lorazepam and diazepam are efficacious at stopping seizures lasting at least five min and that rectal diazepam, intramuscular midazolam, intranasal midazolam, and buccal midazolam are probably effective at terminating seizures lasting at least five minutes. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "Lorazepam",
         "opb": "Phenobarbitone",
@@ -895,6 +1896,19 @@
         "topic_name": "Central Nervous system",
         "id": "915f4dec-f6e4-412d-89aa-7efa5c092fe4",
         "choice_type": "single"
+    },
+    {
+        "question": "Wide open anterior fontanelle is found in following diseases except:",
+        "exp": "d. Craniosynostosis(Ref: Nelson's 20/e p 2817-2819, Ghai 8/e p 41). In Craniosynostosis there is premature fusion of cranial sutures and so fontanelles close early and are small; While, Rickets, Cretinism (Hypothyroidism), Ostoeogenesis imperfecta & Achondroplasia are important causes of large anterior fontanelle.",
+        "cop": 4,
+        "opa": "Rickets",
+        "opb": "Cretinism",
+        "opc": "Osteogenesis imperfecta",
+        "opd": "Craniosynostosis",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "9966de22-518e-442f-9759-463f93760769",
+        "choice_type": "multi"
     },
     {
         "question": "Second most common neoplasm seen in children is",
@@ -910,8 +1924,34 @@
         "choice_type": "single"
     },
     {
+        "question": "Management of typical febrile seizure include all except:",
+        "exp": "Ans. D. Prophylactic Phenobarbitone. Pediatric febrile seizures, which represent the most common childhood seizure disorder, exist only in association with an elevated temperature. Evidence suggests, however, that they have little connection with cognitive function, so the prognosis for normal neurologic function is excellent in children with febrile seizures. Most common in children 6 months - 5 years. No specific laboratory studies are indicated for a simple febrile seizure. Physicians should instead focus on diagnosing the cause of fever. Strongly consider lumbar puncture in children younger than 12 months, because the signs and symptoms of bacterial meningitis may be minimal or absent in this age group. Neither long-term nor intermittent anticonvulsant therapy is indicated for children who have experienced 1 or more simple febrile seizures. Antipyretics have typically been suggested with a primary goal of comfort in mind",
+        "cop": 4,
+        "opa": "Tepid sponging",
+        "opb": "Paracetamol",
+        "opc": "Intermittent Clobazam prophylaxis",
+        "opd": "Prophylactic phenobarbitone",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "62b27000-ca15-4ec9-8f22-17cd921d09bf",
+        "choice_type": "multi"
+    },
+    {
+        "question": "The most common type of cerebral palsy is?",
+        "exp": "a. Spastic(Ref: Nelson's 20/e p 2896-2899; Ghai 8/e p 581-583). Most common type of cerebral palsy is spastic diplegia in 35% cases, followed by Hemiplegia in 25% cases. Spastic quadriplegia is the most severe form of CP because of marked motor impairment of all extremities and the high association with intellectual disability and seizures.",
+        "cop": 1,
+        "opa": "Spastic",
+        "opb": "Atonic",
+        "opc": "Extrapyramidal",
+        "opd": "Mixed",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "ee6d377f-1372-4b56-8165-48b35bbe0888",
+        "choice_type": "single"
+    },
+    {
         "question": "Management of Typical Febrile seizures include except",
-        "exp": "Sponging, paracetamol ibuprofen ,intermittent diazepam are treated for febrile seizures Most children with typical febrile seizures do not require specific treatment except for vigorous antipyretic therapy during febrile illnesses. Children experiencing excessively frequent or prolonged febrile seizures may be treated using diazepam 0.5mg/kg rectally during high fevers or prophylactically using <a href=\" at standard doses.</p> Ref : Ghai pediatrics eighth edition pg no 556",
+        "exp": "Sponging, paracetamol ibuprofen, intermittent diazepam are treated for febrile seizures Most children with typical febrile seizures do not require specific treatment except for vigorous antipyretic therapy during febrile illnesses. Children experiencing excessively frequent or prolonged febrile seizures may be treated using diazepam 0. 5mg/kg rectally during high fevers or prophylactically using <a href=\" at standard doses.</p> Ref: Ghai pediatrics eighth edition pg no 556",
         "cop": 4,
         "opa": "Sponging",
         "opb": "Paracetamol Ibuprofen",
@@ -923,7 +1963,46 @@
         "choice_type": "multi"
     },
     {
-        "question": "A 6 yr old child with Acute onset of fever of 104o fever developed febrile seizure was treated. To avoid recurrence of seizure attack what should be given ?",
+        "question": "Content of meningocele?",
+        "exp": "Ans. is 'a' i. e., Dura mater [Ref: Ghai 8th/e p. 576). Meningocele* There is protrusion of meninges (dura mater, arachnoid mater) through a defect in neural arch. This contains only CSF. There may be associated genital tract abnormalities, e. g. vaginal septa and rectovaginal fistula. Myelomeningocele (meningomyelocele)* There is protrusion of meninges along with some neural elements, e. g. spinal cord or cauda equina. It is the most severe form. The commonest site of lesion is lumbosacral region. Encephalocele* There is protrusion of brain tissue (cerebral cortex, cerebellum or brainstem) through a cranial defect (cranium bifidum). Most common site is occipital region. Hydrocephalus can occur due to aqueductal stenosis, chiari malformation or Dandy-Walker syndrome.",
+        "cop": 1,
+        "opa": "Dura mater",
+        "opb": "Spinal cord",
+        "opc": "Brain mater",
+        "opd": "Cauda equina",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "3cef83b5-b626-43c7-aee0-b364a3fb1e7e",
+        "choice_type": "single"
+    },
+    {
+        "question": "Landau-Kleffner syndrome is characterized by all of following except",
+        "exp": "Ans. C. Normal EEG during sleep Ref: Nelson Textbook of Pediatrics 20th/ed p2837. Explanation. Landau-Kleffner syndrome is a condition of unknown cause characterized by:# Loss of language skills attributed to auditory agnosia in a previously normal child# Seizures (focal, generalized tonic-clonic, atypical absence, partial complex, and, occasionally, myoclonic seizures).# High-amplitude spike-and-wave discharges ON EEG which are always more apparent during non-rapid eye movement sleep; thus, a child in whom Landau-Kleffner syndrome is suspected should have an EEG during sleep, particularly if the awake record is normal.# CT and MRI studies typically yield normal results.",
+        "cop": 3,
+        "opa": "Seizure",
+        "opb": "Loss of language skill",
+        "opc": "Normal EEG during sleep",
+        "opd": "Normal brain CT scan",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "32b366a1-fb34-4016-a2c1-3d52381cb5e7",
+        "choice_type": "multi"
+    },
+    {
+        "question": "A newborn baby has severe facial abnormalities, as shown below. What could be the underlying CNS abnormality in this baby?",
+        "exp": "c. Holoprosencephaly. Single eye (cyclopia) with a tubular-shaped nose (proboscis), are usually seen in a child with Holoprosencephaly",
+        "cop": 3,
+        "opa": "Lissencephaly",
+        "opb": "Dandy walker malformation",
+        "opc": "Holoprosencephaly",
+        "opd": "Iniencephaly",
+        "subject_name": "Pediatrics",
+        "topic_name": "Central Nervous System",
+        "id": "ab8d61d8-21ee-4a71-b63f-4f86e97654c4",
+        "choice_type": "single"
+    },
+    {
+        "question": "A 6 yr old child with Acute onset of fever of 104o fever developed febrile seizure was treated. To avoid recurrence of seizure attack what should be given?",
         "exp": "Oral clobazam (benzodiazepines) is an effective prophylaxis and is given during fever episodes for 3 days Ref Ghai pediatrics eighth edition pg no 557",
         "cop": 2,
         "opa": "Paracetamol 400 mg and phenobarbitone",
@@ -936,8 +2015,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Investigation of choice for Hydrocephalus in infants ?",
-        "exp": "Brain imaging Imaging tests can help diagnose hydrocephalus and identify underlying causes of the symptoms. These tests may include: Ultrasound. Ultrasound imaging, which uses high-frequency sound waves to produce images, is often used for an initial assessment for infants because it&;s a relatively simple, low-risk procedure. The ultrasound device is placed over the soft spot (fontanel) on the top of a baby&;s head. Ultrasound may also detect hydrocephalus prior to bih when the procedure is used during routine prenatal examinations. Magnetic resonance imaging (MRI) uses radio waves and a magnetic field to produce detailed 3D or cross-sectional images of the brain. This test is painless, but it is noisy and requires lying still. MRI scans can show enlarged ventricles caused by excess cerebrospinal fluid. They may also be used to identify underlying causes of hydrocephalus or other conditions contributing to the symptoms. Children may need mild sedation for some MRI scans. However, some hospitals use a very fast version of MRIthat generally doesn&;t require sedation. Computerized tomography (CT) scan is a specialized X-ray technology that can produce cross-sectional views of the brain. Scanning is painless and quick. But this test also requires lying still, so a child usually receives a mild sedative. Drawbacks to CT scanning include less detailed images than an MRI, and exposure to a small amount of radiation. CT scans for hydrocephalus are usually used only for emergency exams. Reference: GHAI Essential pediatrics, 8th edition",
+        "question": "Investigation of choice for Hydrocephalus in infants?",
+        "exp": "Brain imaging Imaging tests can help diagnose hydrocephalus and identify underlying causes of the symptoms. These tests may include: Ultrasound. Ultrasound imaging, which uses high-frequency sound waves to produce images, is often used for an initial assessment for infants because it&; s a relatively simple, low-risk procedure. The ultrasound device is placed over the soft spot (fontanel) on the top of a baby&; s head. Ultrasound may also detect hydrocephalus prior to bih when the procedure is used during routine prenatal examinations. Magnetic resonance imaging (MRI) uses radio waves and a magnetic field to produce detailed 3D or cross-sectional images of the brain. This test is painless, but it is noisy and requires lying still. MRI scans can show enlarged ventricles caused by excess cerebrospinal fluid. They may also be used to identify underlying causes of hydrocephalus or other conditions contributing to the symptoms. Children may need mild sedation for some MRI scans. However, some hospitals use a very fast version of MRIthat generally doesn&; t require sedation. Computerized tomography (CT) scan is a specialized X-ray technology that can produce cross-sectional views of the brain. Scanning is painless and quick. But this test also requires lying still, so a child usually receives a mild sedative. Drawbacks to CT scanning include less detailed images than an MRI, and exposure to a small amount of radiation. CT scans for hydrocephalus are usually used only for emergency exams. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
         "opa": "Cranial USG",
         "opb": "CT Scan",

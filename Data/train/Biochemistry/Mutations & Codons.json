@@ -1,7 +1,7 @@
 [
     {
         "question": "All of the following are synonymous codon pair EXCEPT",
-        "exp": "Synonymous codons Codons that specify the same amino acids. E.g- GGA, GGG, GGU, and GGC codes for glycine Methionine is coded by AUG only. So, there is no synonymous codon for methionine.",
+        "exp": "Synonymous codons Codons that specify the same amino acids. E. g- GGA, GGG, GGU, and GGC codes for glycine Methionine is coded by AUG only. So, there is no synonymous codon for methionine.",
         "cop": 3,
         "opa": "CAU & CAC",
         "opb": "AUU & AUC",
@@ -14,7 +14,7 @@
     },
     {
         "question": "Sta codon is:",
-        "exp": "AUG : Sta Codon - Methionine First Amino acids in protein: Methionine (Eukaryotes) Formyl Methionine (Prokaryotes) Other three are stop codons: UAA, UAG, UGA",
+        "exp": "AUG: Sta Codon - Methionine First Amino acids in protein: Methionine (Eukaryotes) Formyl Methionine (Prokaryotes) Other three are stop codons: UAA, UAG, UGA",
         "cop": 4,
         "opa": "UAA",
         "opb": "UAG",
@@ -26,7 +26,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is a Nonsense codon :",
+        "question": "Which of the following is a Nonsense codon:",
         "exp": "Non-sense codons/Terminator Codons/Punctuator codons Codons which do not code for any paicular amino acid. Mark end of protein synthesis. These codons are UAA UAG UGA UGA is a stop codon; But in special circumstances, it stands for seleno-cysteine (\"21st\" amino acid). UAG is a stop codon; But in special circumstances, it stands for pyrrolysine (22nd amino acid)",
         "cop": 1,
         "opa": "UAG",
@@ -66,7 +66,7 @@
     },
     {
         "question": "All the following are salient features of genetic code, EXCEPT",
-        "exp": "Salient features of genetic code : Triplet base sequence Non- overlap Non- punctuated Degenerate Unambiguous Universal NOTE: The demonstration that DNA contained the genetic information was first made in 1944 in a series of experiments by Avery, MacLeod, and McCay.",
+        "exp": "Salient features of genetic code: Triplet base sequence Non- overlap Non- punctuated Degenerate Unambiguous Universal NOTE: The demonstration that DNA contained the genetic information was first made in 1944 in a series of experiments by Avery, Mac. Leod, and Mc. Cay.",
         "cop": 3,
         "opa": "Degeneracy",
         "opb": "Unambiguous",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Defect in which of the following protein leads to Rett syndrome?",
-        "exp": "Rett syndrome : a.k.a. , Cerebro-atrophic hyperammonemias X-linked dominant disorder. Defective protein - methyl CpG binding protein . Methyl cytosine binding proteins are epigenetic code reader.",
+        "exp": "Rett syndrome: a. k. a., Cerebro-atrophic hyperammonemias X-linked dominant disorder. Defective protein - methyl CpG binding protein. Methyl cytosine binding proteins are epigenetic code reader.",
         "cop": 2,
         "opa": "Histone acetyl transferase",
         "opb": "Methyl cytosine binding protein",
@@ -117,7 +117,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "Silent mutations occurs because codon is :",
+        "question": "Silent mutations occurs because codon is:",
         "exp": "Degenerate Silent mutations occurs because codon is degenerate. Degeneracy/Redundancy is a propey of codons that each amino acid is having more than one codons. Silent mutations means a codon is replaced by another codon, which is coding for same amino acid.",
         "cop": 4,
         "opa": "Non overlapping",
@@ -131,7 +131,7 @@
     },
     {
         "question": "8 year old boy is brought with c/o progressive weakness & difficulty getting up the shows the following finding what is the MC type of mutation leading to this condition?",
-        "exp": "Frame shift mutation Inseion or deletion of genes can alter the reading frame of the DNA Eg: Muscular dystrophy Mutation of DMD gene at Xp21 encodes dystrophin- sarcolemal Protein C/f : progressive weakness difficulty in getting up",
+        "exp": "Frame shift mutation Inseion or deletion of genes can alter the reading frame of the DNA Eg: Muscular dystrophy Mutation of DMD gene at Xp21 encodes dystrophin- sarcolemal Protein C/f: progressive weakness difficulty in getting up",
         "cop": 3,
         "opa": "Inversion",
         "opb": "Transrversion",
@@ -144,7 +144,7 @@
     },
     {
         "question": "If Codon no 302 UAG is replaced by UAA, then this mutation is:",
-        "exp": "In this mutation, stop codon - UAG is replaced by another stop codon- UAA. So, this is silent mutation. In silent mutations, there is no change in primary structure of protein. OTHER QUESTIONS FREQUENTLY ASKED ON THIS TOPIC: Silent Mutation:The codon containing the changed base codes for the same amino acid.For example, if the serine (Ser) codon UCA is given a different third base, U, to become UCU, it still codes for Ser. This is termed a \"silent\" mutation. Missense Mutation:The codon containing the changed base codes for different amino acid. For example, if the Ser codon UCA is given a different first base, C, to become CCA, it will code for a different amino acid (in this case, proline ). This is called a \"missense\" mutation. Nonsense Mutation:The codon containing the changed base become a termination codon. For example, if the Ser codon UCA is given a different second base, A, to become UAA, the new codon causes termination of translation at that point and the production of a shoened (truncated) protein.",
+        "exp": "In this mutation, stop codon - UAG is replaced by another stop codon- UAA. So, this is silent mutation. In silent mutations, there is no change in primary structure of protein. OTHER QUESTIONS FREQUENTLY ASKED ON THIS TOPIC: Silent Mutation: The codon containing the changed base codes for the same amino acid. For example, if the serine (Ser) codon UCA is given a different third base, U, to become UCU, it still codes for Ser. This is termed a \"silent\" mutation. Missense Mutation: The codon containing the changed base codes for different amino acid. For example, if the Ser codon UCA is given a different first base, C, to become CCA, it will code for a different amino acid (in this case, proline ). This is called a \"missense\" mutation. Nonsense Mutation: The codon containing the changed base become a termination codon. For example, if the Ser codon UCA is given a different second base, A, to become UAA, the new codon causes termination of translation at that point and the production of a shoened (truncated) protein.",
         "cop": 2,
         "opa": "Missense",
         "opb": "Silent",

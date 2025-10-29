@@ -42,10 +42,10 @@
         "question": "Arrange the cyclins and CDKs in cell cycle from G1 to S checkpoint. a) CDK6/ Cyclin E b) CDK4/ Cyclin D c) CDK 1 / Cyclin B d) CDK2/ Cyclin A",
         "exp": "Cyclins D, E, A, and B appear sequentially during the cell cycle and bind to one or more CDKs.",
         "cop": 1,
-        "opa": "b,a,d,c",
-        "opb": "c,a,d,b",
-        "opc": "a,b,d,c",
-        "opd": "a,d,b,c",
+        "opa": "b, a, d, c",
+        "opb": "c, a, d, b",
+        "opc": "a, b, d, c",
+        "opd": "a, d, b, c",
         "subject_name": "Pathology",
         "topic_name": "Etiological Factors of Neoplasia",
         "id": "8af360d5-26b5-44c3-aaaa-93141f78e449",
@@ -66,7 +66,7 @@
     },
     {
         "question": "The following have defect in DNA repair mechanism except for:",
-        "exp": "Huntington disease (HD) Autosomal dominant disease It is a prototypes of the polyglutamine trinucleotide repeat expansion diseases. The gene for it is located on chromosome 4p16.3, encodes a 348 kD protein known as huntingtin. Xeroderma Pigmentosum Inherited disorder of DNA repair Diseases with Defects in DNA Repair by Homologous Recombination: Bloom syndrome Ataxia-telangiectasia Fanconi anemia",
+        "exp": "Huntington disease (HD) Autosomal dominant disease It is a prototypes of the polyglutamine trinucleotide repeat expansion diseases. The gene for it is located on chromosome 4p16. 3, encodes a 348 kD protein known as huntingtin. Xeroderma Pigmentosum Inherited disorder of DNA repair Diseases with Defects in DNA Repair by Homologous Recombination: Bloom syndrome Ataxia-telangiectasia Fanconi anemia",
         "cop": 3,
         "opa": "Xeroderma Pigmentosa",
         "opb": "Fanconi anemia",
@@ -105,7 +105,7 @@
     },
     {
         "question": "Secondaries are common in all, except:",
-        "exp": "Metastasis may occur any bone but most commonly involve axial skeleton (e.g. veebra, pelvis, ribs,skull, sternum) > Proximal femur > humerus. Metastasis in small bone of hand and feet are uncommon and usually originates in cancer of lung, kidney and colon",
+        "exp": "Metastasis may occur any bone but most commonly involve axial skeleton (e. g. veebra, pelvis, ribs, skull, sternum) > Proximal femur > humerus. Metastasis in small bone of hand and feet are uncommon and usually originates in cancer of lung, kidney and colon",
         "cop": 2,
         "opa": "Skull",
         "opb": "Hand and feet bones",
@@ -131,7 +131,7 @@
     },
     {
         "question": "A 60-year-old man who worked for 30 years in a chemical factory complains of painless hematuria. Urine cytology discloses dysplastic cells. A bladder biopsy demonstrates transitional cell carcinoma. Which of the following carcinogens was most likely involved in the pathogenesis of bladder cancer in this patient?",
-        "exp": "Transitional cell carcinoma Most common malignant tumor of the urinary bladder Painless hematuria is the most consistent feature of carcinoma bladder Incidence of bladder cancer is increased in aniline dye workers. These azo dyes are conveed to water-soluble carcinogens in the liver. They are excreted in the urine, where they primarily affect the transitional epithelium of the bladder. Benzene exposure (choice C) is associated with leukemia.Diagnosis: Transitional cell carcinoma of bladder",
+        "exp": "Transitional cell carcinoma Most common malignant tumor of the urinary bladder Painless hematuria is the most consistent feature of carcinoma bladder Incidence of bladder cancer is increased in aniline dye workers. These azo dyes are conveed to water-soluble carcinogens in the liver. They are excreted in the urine, where they primarily affect the transitional epithelium of the bladder. Benzene exposure (choice C) is associated with leukemia. Diagnosis: Transitional cell carcinoma of bladder",
         "cop": 1,
         "opa": "Aniline dyes",
         "opb": "Arsenic",
@@ -143,8 +143,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Uses of tumor marker are all except :",
-        "exp": "Tumor markers are not specific, so, cannot be used for confirmation of diagnosis. Confirmation is done by biopsy Examples: PSA Prostate cancer Ig Multiple myeloma hCG Choriocarcinoma Calcitonin Medulaary thyroid cancer Catecholamines Pheochromocytoma CEA Colon ca, Pancreatic ca CA 15.3 Breast cancer CA 19-9 Pancreatic cancer CA 125 Ovarian ca NSE Neuroblastoma",
+        "question": "Uses of tumor marker are all except:",
+        "exp": "Tumor markers are not specific, so, cannot be used for confirmation of diagnosis. Confirmation is done by biopsy Examples: PSA Prostate cancer Ig Multiple myeloma h. CG Choriocarcinoma Calcitonin Medulaary thyroid cancer Catecholamines Pheochromocytoma CEA Colon ca, Pancreatic ca CA 15. 3 Breast cancer CA 19-9 Pancreatic cancer CA 125 Ovarian ca NSE Neuroblastoma",
         "cop": 3,
         "opa": "Screening of a cancer",
         "opb": "Follow up of a cancer patient, esp. for knowing about recurrence",
@@ -156,8 +156,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "All are the potential carcinogens for hepatic angiosarcoma except :",
-        "exp": "Hepatic angiosarcoma carcinogen:- T :- Thorotrast A :- Arsenic P :- Poly vinyl chloride Other carcinogen :- Aflatoxin :- HCC Asbestos :- Lung cancer/ Mesothelioma Nitrosamine :- Stomach cancer. Naphthylamine:- urothelial carcinoma of bladder",
+        "question": "All are the potential carcinogens for hepatic angiosarcoma except:",
+        "exp": "Hepatic angiosarcoma carcinogen:- T:- Thorotrast A:- Arsenic P:- Poly vinyl chloride Other carcinogen:- Aflatoxin:- HCC Asbestos:- Lung cancer/ Mesothelioma Nitrosamine:- Stomach cancer. Naphthylamine:- urothelial carcinoma of bladder",
         "cop": 4,
         "opa": "Thorotrast",
         "opb": "Arsenic",

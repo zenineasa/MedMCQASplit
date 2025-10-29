@@ -1,9 +1,9 @@
 [
     {
         "question": "A 30-year old patient having a history of rheumatic fever during adolescence, presented with high grade fever and erythematous lesion on both palms. On echocardiography, the cardiologist detects small sterile vegetations along line of closure of the mitral valve. Which of the following is least likely to be found in this patient?",
-        "exp": "The patient is suffering from infective endocarditis. With a background of rheumatic fever, the likely risk factor for IE in this case is rheumatic hea disease (RHD). Some of the clinical features of infective endocarditis related to microthromboemboli include erythematous or hemorrhagic nontender lesions on the palms or soles (Janeway lesions), subcutaneous nodules in the pulp of the digits (Osler nodes), and retinal hemorrhages in the eyes (Roth spots). Subendocardial lesions in RHD, exacerbated by regurgitant jets, can induce irregular thickenings called MacCallum plaques, usually in the left atrium. Aschoff bodies are rarely seen in surgical specimens or autopsy tissue from patients with chronic RHD, because of the long intervals between the initial insult and the development of the chronic deformity. Aschoff bodies and Anitschkow cells are seen in acute rheumatic fever.",
+        "exp": "The patient is suffering from infective endocarditis. With a background of rheumatic fever, the likely risk factor for IE in this case is rheumatic heart disease (RHD). Some of the clinical features of infective endocarditis related to microthromboemboli include erythematous or hemorrhagic nontender lesions on the palms or soles (Janeway lesions), subcutaneous nodules in the pulp of the digits (Osler nodes), and retinal hemorrhages in the eyes (Roth spots). Subendocardial lesions in RHD, exacerbated by regurgitant jets, can induce irregular thickenings called Mac. Callum plaques, usually in the left atrium. Aschoff bodies are rarely seen in surgical specimens or autopsy tissue from patients with chronic RHD, because of the long intervals between the initial insult and the development of the chronic deformity. Aschoff bodies and Anitschkow cells are seen in acute rheumatic fever.",
         "cop": 2,
-        "opa": "MacCallum plaques",
+        "opa": "Mac. Callum plaques",
         "opb": "Aschoff bodies",
         "opc": "Osler nodes",
         "opd": "Roth spots",
@@ -14,9 +14,9 @@
     },
     {
         "question": "A 32 yr old man present to ER with history of high-grade fever, dyspnea and fatigue. On physical examination reveals a new holosystolic murmur that is best heard over cardiac apex. Skin examination shows following skin lesion. What is most likely diagnosis?",
-        "exp": "Janeway lesion are nontender, macular and erythematous lesions on palms and soles of patient with acute infective endocarditis. Osler nodes are tender, violaceous nodules typically located in pulp of fingers and toes seen in patient with infective endocarditis. Libman Sack endocarditis occurs in up to 25% of patient with SLE. This condition can cause small cardiac valvular vegetations on wither side of a valve, resulting in fibrotic valve thickening in fibrotic valve thickening anf deformity. SLE may cause an acute coronary syndrome at young age even with angiographically normal coronary aeries. Rheumatic fever can lead to mitral stenosis, which is characterize by a late, rumbling, diastolic murmur at cardiac apex. Numerous symptoms are associated with acute rheumatic fever, these can be: fever, erythema marginatum, valvular damage, increase ESR, joint pain, Subcutaneous nodule and Sydenham chorea. Erythema marginatum is a nonpruritic, circular, pink eruption on the trunk that is present in few cases of acute rheumatic fever. Kaposi sarcoma: a vascular tumor that is the most common neoplasm in patients with AIDS.The lesions of KS are characterized by the proliferation of spindle-shaped cells that express markers of both endothelial cells (vascular or lymphatic) and smooth muscle cells.",
+        "exp": "Janeway lesion are nontender, macular and erythematous lesions on palms and soles of patient with acute infective endocarditis. Osler nodes are tender, violaceous nodules typically located in pulp of fingers and toes seen in patient with infective endocarditis. Libman Sack endocarditis occurs in up to 25% of patient with SLE. This condition can cause small cardiac valvular vegetations on wither side of a valve, resulting in fibrotic valve thickening in fibrotic valve thickening anf deformity. SLE may cause an acute coronary syndrome at young age even with angiographically normal coronary aeries. Rheumatic fever can lead to mitral stenosis, which is characterize by a late, rumbling, diastolic murmur at cardiac apex. Numerous symptoms are associated with acute rheumatic fever, these can be: fever, erythema marginatum, valvular damage, increase ESR, joint pain, Subcutaneous nodule and Sydenham chorea. Erythema marginatum is a nonpruritic, circular, pink eruption on the trunk that is present in few cases of acute rheumatic fever. Kaposi sarcoma: a vascular tumor that is the most common neoplasm in patients with AIDS. The lesions of KS are characterized by the proliferation of spindle-shaped cells that express markers of both endothelial cells (vascular or lymphatic) and smooth muscle cells.",
         "cop": 2,
-        "opa": "Rheumatic hea disease",
+        "opa": "Rheumatic heart disease",
         "opb": "Infective endocarditis",
         "opc": "Libman sack endocarditis",
         "opd": "Kaposi sarcoma",
@@ -31,8 +31,8 @@
         "cop": 1,
         "opa": "Infective endocarditis",
         "opb": "Libman Sacks endocarditis",
-        "opc": "Rheumatic hea disease",
-        "opd": "Rheumatoid hea disease",
+        "opc": "Rheumatic heart disease",
+        "opd": "Rheumatoid heart disease",
         "subject_name": "Pathology",
         "topic_name": "Endocarditis",
         "id": "bfd52f2b-62c9-4579-a30b-a9e7dde45baf",
@@ -52,8 +52,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 40-year-old man with a history of intravenous drug abuse develops rapidly progressive right-sided hea failure. These symptoms are most likely due to which of the following conditions?",
-        "exp": "Tricuspid insufficiency secondary to bacterial endocarditis is one of the most common complications of intravenous drug abuse. Intravenous drug abusers inject pathogenic organisms along with their illicit drugs. In such patients, 80% have no underlying cardiac lesion and the tricuspid valve is infected in half of cases. Septic pulmonary emboli characterize tricuspid valve endocarditis in drug addicts. Despite antibiotic therapy, a third of cases of endocarditis caused by S. aureus are fatal. Other risk factors for bacterial endocarditis include aging, diabetes, pregnancy, transient bacteremia and prosthetic valves. The most common predisposing condition for bacterial endocarditis in children is congenital hea disease. The other choices primarily affect the left ventricle. Tricuspid stenosis is distinctly uncommon and does not occur rapidly.",
+        "question": "A 40-year-old man with a history of intravenous drug abuse develops rapidly progressive right-sided heart failure. These symptoms are most likely due to which of the following conditions?",
+        "exp": "Tricuspid insufficiency secondary to bacterial endocarditis is one of the most common complications of intravenous drug abuse. Intravenous drug abusers inject pathogenic organisms along with their illicit drugs. In such patients, 80% have no underlying cardiac lesion and the tricuspid valve is infected in half of cases. Septic pulmonary emboli characterize tricuspid valve endocarditis in drug addicts. Despite antibiotic therapy, a third of cases of endocarditis caused by S. aureus are fatal. Other risk factors for bacterial endocarditis include aging, diabetes, pregnancy, transient bacteremia and prosthetic valves. The most common predisposing condition for bacterial endocarditis in children is congenital heart disease. The other choices primarily affect the left ventricle. Tricuspid stenosis is distinctly uncommon and does not occur rapidly.",
         "cop": 4,
         "opa": "Aoic insufficiency",
         "opb": "Mitral regurgitation",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Least chances of infective endocarditis is associated with:-",
-        "exp": "Risk of infective endocarditis in various lesions High Risk Moderate Risk Low Risk Prosthetic hea value Tetralogy of Fallot PDA Aoic regurgitation Aoic stenosis Coarctation of Aoa VSD Mitral regurgitation MVP + M.R. Tricuspid stenosis Tricuspid regurgitation Pulmonary stenosis Mitral stenosis ASD MVP without MR",
+        "exp": "Risk of infective endocarditis in various lesions High Risk Moderate Risk Low Risk Prosthetic hea value Tetralogy of Fallot PDA Aoic regurgitation Aoic stenosis Coarctation of Aoa VSD Mitral regurgitation MVP + M. R. Tricuspid stenosis Tricuspid regurgitation Pulmonary stenosis Mitral stenosis ASD MVP without MR",
         "cop": 3,
         "opa": "Mild MS",
         "opb": "Mild MR",
@@ -91,7 +91,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "Which among the following is false about Non Bacterial Thrombotic Embolism(NBTE) :",
+        "question": "Which among the following is false about Non Bacterial Thrombotic Embolism(NBTE):",
         "exp": "Vegetation in SLE Vegetation in NBTE Small, sterile, firm Both surface of valve Lower surface> upper surface Libman sack endocarditis Marantic endocarditis Along the line of closure Non invasive Don't elicit inflammatory reaction Small, Sterile Friable: Embolism Seen in - Ca Pancreases- AML M3 Vegetation of IE Vegetation Of RHD Large, multiple Friable High risk of embolism Vegetation at periphery Deposition of bacteria in multiple Organ like kidney and Brain. Small, sterile Along line of closure Firm - less chance of embolism",
         "cop": 3,
         "opa": "Marantic endocarditis",

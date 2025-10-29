@@ -26,11 +26,11 @@
         "choice_type": "single"
     },
     {
-        "question": "A cold exposure which is expected to bring the body temperature from 37degC to 20degC, actually brings it down to only 36.5degC. Calculate the 'Gain' of the thermoregulatory system.",
-        "exp": "Gain = Correction/Error Cold exposure causes body temperature to fall from 37 to 36.5degC in presence of thermoregulatory system, so error is 37-36.5=0.5degC If thermoregulatory system would not be working the body temperature would have become 20degC. But due to thermoregulatory system body temperature was 36.5degC on exposure to cold. So, the correction done by thermoregulatory mechanisms: 36.5-20=16.5degC Gain = 16.5/0.5 = 33",
+        "question": "A cold exposure which is expected to bring the body temperature from 37degC to 20degC, actually brings it down to only 36. 5degC. Calculate the 'Gain' of the thermoregulatory system.",
+        "exp": "Gain = Correction/Error Cold exposure causes body temperature to fall from 37 to 36. 5degC in presence of thermoregulatory system, so error is 37-36. 5=0. 5degC If thermoregulatory system would not be working the body temperature would have become 20degC. But due to thermoregulatory system body temperature was 36. 5degC on exposure to cold. So, the correction done by thermoregulatory mechanisms: 36. 5-20=16. 5degC Gain = 16. 5/0. 5 = 33",
         "cop": 3,
-        "opa": "0.54",
-        "opb": "1.03",
+        "opa": "0. 54",
+        "opb": "1. 03",
         "opc": "33",
         "opd": "24",
         "subject_name": "Physiology",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Most impoant buffer in interstitial fluid:",
-        "exp": "Principal buffers in body fluids: Blood H2CO3 = H+ + HCO3-HProt complex = H+ + Prot-HHb= H+ + Hb- Interstitial fluid H2CO3=H+ + HCO3- Intracellular fluid HProt complex = H+ + Prot-H2PO4- = H+ + HPO42-",
+        "exp": "Principal buffers in body fluids: Blood H2. CO3 = H+ + HCO3-HProt complex = H+ + Prot-HHb= H+ + Hb- Interstitial fluid H2. CO3=H+ + HCO3- Intracellular fluid HProt complex = H+ + Prot-H2. PO4- = H+ + HPO42-",
         "cop": 2,
         "opa": "Phosphate",
         "opb": "Bicarbonate",
@@ -92,7 +92,7 @@
     },
     {
         "question": "Major contributor to plasma osmolarity is:",
-        "exp": "Urea = 2.14 Kh BUN BUN is the Blood Urea Nitrogen",
+        "exp": "Urea = 2. 14 Kh BUN BUN is the Blood Urea Nitrogen",
         "cop": 4,
         "opa": "Glucose",
         "opb": "Plasma proteins",
@@ -104,8 +104,8 @@
         "choice_type": "single"
     },
     {
-        "question": "In a man with 45 kg of weight and 1.5 m of height, the BMI is:",
-        "exp": "BMI = Weight(kg)/ Height (m2) 45/2.25 = 20 Classification of adults according to BMI: Classification BMI Underweight < 18.50 Normal BMI 18.50-24.99 Overweight > 25 Pre-Obese 25-29.99 Obese Class 1 30.00 -34.99 Obese Class 2 35.00-39.99 Obese Class 3 > 40.00",
+        "question": "In a man with 45 kg of weight and 1. 5 m of height, the BMI is:",
+        "exp": "BMI = Weight(kg)/ Height (m2) 45/2. 25 = 20 Classification of adults according to BMI: Classification BMI Underweight < 18. 50 Normal BMI 18. 50-24. 99 Overweight > 25 Pre-Obese 25-29. 99 Obese Class 1 30. 00 -34. 99 Obese Class 2 35. 00-39. 99 Obese Class 3 > 40. 00",
         "cop": 2,
         "opa": "19",
         "opb": "20",
@@ -135,8 +135,8 @@
         "cop": 3,
         "opa": "Hemoglobin",
         "opb": "Other proteins",
-        "opc": "H2CO3",
-        "opd": "H2PO4",
+        "opc": "H2. CO3",
+        "opd": "H2. PO4",
         "subject_name": "Physiology",
         "topic_name": "Concepts in physiology",
         "id": "f5f02b44-803b-4b17-a8f4-4321be5f43d3",

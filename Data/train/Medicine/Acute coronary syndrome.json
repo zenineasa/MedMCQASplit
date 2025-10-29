@@ -1,7 +1,7 @@
 [
     {
-        "question": "Rescue P.C.I is done for which of the following?",
-        "exp": "Option C = Rescue P.C.I. After thrombolysis ST Elevation begin to reduce If ST Elevation persisting in spite of thrombolysis. So it's failure of thrombolysis | within 90 minutes Rescue PCI Types of PCI Primary PCI done for STEMI (Door to device time < 90 minutes). Delayed PCI done for Unstable Angina NSTEMI Rescue PCI Failure of thrombolysis (within 90 minutes).",
+        "question": "Rescue P. C. I is done for which of the following?",
+        "exp": "Option C = Rescue P. C. I. After thrombolysis ST Elevation begin to reduce If ST Elevation persisting in spite of thrombolysis. So it's failure of thrombolysis | within 90 minutes Rescue PCI Types of PCI Primary PCI done for STEMI (Door to device time < 90 minutes). Delayed PCI done for Unstable Angina NSTEMI Rescue PCI Failure of thrombolysis (within 90 minutes).",
         "cop": 3,
         "opa": "Persistent chest pain with ST elevation > 60 min after thrombolysis",
         "opb": "Persistent chest pain with ST elevation > 30 min after thrombolysis",
@@ -27,7 +27,7 @@
     },
     {
         "question": "Which of the following finding is shown in the chest leads?",
-        "exp": "The hea rate is nearly 125bpm. Notice the predominant T wave inversion in V1-V3. This is seen in myocardial ischemia. Diagnosis of myocardial injury needs elevated cardiac biomarkers. Digoxin leads to ST segment depression Digoxin toxicity leads to Ventricular Bigeminy Causes of T wave inversion Normal in children Myocardial ischemia Bundle branch block Ventricular hyperophy Pulmonary embolism Hyperophic obstructive cardiomyopathy Raised intracranial pressure",
+        "exp": "The heart rate is nearly 125bpm. Notice the predominant T wave inversion in V1-V3. This is seen in myocardial ischemia. Diagnosis of myocardial injury needs elevated cardiac biomarkers. Digoxin leads to ST segment depression Digoxin toxicity leads to Ventricular Bigeminy Causes of T wave inversion Normal in children Myocardial ischemia Bundle branch block Ventricular hyperophy Pulmonary embolism Hyperophic obstructive cardiomyopathy Raised intracranial pressure",
         "cop": 1,
         "opa": "Myocardial ischemia",
         "opb": "Myocardial injury",
@@ -39,8 +39,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 65 year old man was seen as an outpatient complaining of central chest pain on exeion. His son tells you that 5 years ago he had been admitted for MI in the CCU of the same hospital. His vitals are stable and chest is clear. No added hea sounds are heard. What is the next best step?",
-        "exp": "The ECG shows a hea of 60/min with normal sinus rhythm. Prominent Q waves are noted in lead III, AVF indicating a previous inferior wall MI. Markedly Peaked T waves are noted in V2 and V3. Known case of ASCVD and currently is having chronic stable angina. He needs stress tests to decide the need for revascularization procedure like PCI with Stenting or CABG.cardiac biomarkers will not be elevated since angina is going on .infarction has not yet occured. stress test will decide whether patient need cardiac intervention or not Check for daily intake of aspirin, Statins, Long acting nitrates and cardio-selective Beta Blockers",
+        "question": "A 65 year old man was seen as an outpatient complaining of central chest pain on exeion. His son tells you that 5 years ago he had been admitted for MI in the CCU of the same hospital. His vitals are stable and chest is clear. No added heart sounds are heard. What is the next best step?",
+        "exp": "The ECG shows a hea of 60/min with normal sinus rhythm. Prominent Q waves are noted in lead III, AVF indicating a previous inferior wall MI. Markedly Peaked T waves are noted in V2 and V3. Known case of ASCVD and currently is having chronic stable angina. He needs stress tests to decide the need for revascularization procedure like PCI with Stenting or CABG. cardiac biomarkers will not be elevated since angina is going on. infarction has not yet occured. stress test will decide whether patient need cardiac intervention or not Check for daily intake of aspirin, Statins, Long acting nitrates and cardio-selective Beta Blockers",
         "cop": 1,
         "opa": "Perform Stress tests",
         "opb": "Perform Cardiac biomarkers",
@@ -52,8 +52,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "A 50-year-old construction worker continues to have elevated BP of 160/100 mmHg after a third agent (thiazide) is added to his anti-hypeensive regimen. Physical examination is normal, electrolytes are normal and he is not taking any over the counter medications. Which is the next helpful step in the diagnosis of this patient?",
-        "exp": "The patient is suffering from resistant hypeension and the leading cause of resistant hypeension is non- compliance on the pa of patient. Resistant hypeension is defined as blood pressure that remains above goal in spite of the concurrent use of 3 antihypeensive agents of different classes. Ideally, one of the 3 agents should be a diuretic and all agents should be prescribed at optimal dose amounts.",
+        "question": "A 50-year-old construction worker continues to have elevated BP of 160/100 mm. Hg after a third agent (thiazide) is added to his anti-hypeensive regimen. Physical examination is normal, electrolytes are normal and he is not taking any over the counter medications. Which is the next helpful step in the diagnosis of this patient?",
+        "exp": "The patient is suffering from resistant hypertension and the leading cause of resistant hypertension is non- compliance on the pa of patient. Resistant hypertension is defined as blood pressure that remains above goal in spite of the concurrent use of 3 antihypeensive agents of different classes. Ideally, one of the 3 agents should be a diuretic and all agents should be prescribed at optimal dose amounts.",
         "cop": 1,
         "opa": "Check pill count",
         "opb": "Perform renal Doppler",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Coronary aery disease is associated with all except?",
-        "exp": "Alcohol in mild amounts has been shown to have a beneficial effect on thehea. Studies have shown chlamydia and poor dental hygiene as incriminating factors for atherosclerosis. Red wine contains siuin that increases levels of H.D.L and increases longevity.",
+        "exp": "Alcohol in mild amounts has been shown to have a beneficial effect on thehea. Studies have shown chlamydia and poor dental hygiene as incriminating factors for atherosclerosis. Red wine contains siuin that increases levels of H. D. L and increases longevity.",
         "cop": 4,
         "opa": "Chlamydia",
         "opb": "Poor dental hygiene",
@@ -79,12 +79,12 @@
     },
     {
         "question": "Which score is calculated during performance of this test?",
-        "exp": "The image shows a Treadmill test being performed on the patient. Duke treadmill score is used to decide fuher workup and management of patients of chronic stable angina. Duke treadmill score : Maximum exercise time in minutes - 5xST segment detion in mm - 4xangina index Angina index 0 = no angina 1 = non-limiting angina 2 = exercise limiting angina A score >5 indicates low risk for cardiovascular events (predicted 4 year survival is 99%). A score <-11 indicates high risk for cardiovascular events (predicted 4 year survival is 79%). These patients require fuher investigation with coronary angiography. A score between 4 and -10 indicates intermediate risk. Such patients may require fuher investigation with myocardial perfusion scanning or coronary angiography, or both, depending on the pre-test probability.",
+        "exp": "The image shows a Treadmill test being performed on the patient. Duke treadmill score is used to decide fuher workup and management of patients of chronic stable angina. Duke treadmill score: Maximum exercise time in minutes - 5x. ST segment detion in mm - 4xangina index Angina index 0 = no angina 1 = non-limiting angina 2 = exercise limiting angina A score >5 indicates low risk for cardiovascular events (predicted 4 year survival is 99%). A score <-11 indicates high risk for cardiovascular events (predicted 4 year survival is 79%). These patients require fuher investigation with coronary angiography. A score between 4 and -10 indicates intermediate risk. Such patients may require fuher investigation with myocardial perfusion scanning or coronary angiography, or both, depending on the pre-test probability.",
         "cop": 1,
         "opa": "Duke Score",
         "opb": "Bruce score",
         "opc": "Jones Score",
-        "opd": "DeBakey Score",
+        "opd": "De. Bakey Score",
         "subject_name": "Medicine",
         "topic_name": "Acute coronary syndrome",
         "id": "dc00ce1e-9253-4c61-be11-7355bc31cbab",
@@ -92,7 +92,7 @@
     },
     {
         "question": "Elevated triglycerides and decreased HDL are seen in?",
-        "exp": "The most common pattern of dyslipidemia in diabetes mellitus is hyperiglyceridemia and reduced HDL levels. Increase free fatty acid flow to the liver - | production of apoB-containing triglyceride-rich VLDLs Hyperiglyceridemia -Excellent marker of the insulin-resistant condition. Thiazides cause dyslipidemia,hyperglycemia hence contraindicated in diabetic hypeensives. Antihypeensive drug of choice:-Angiotensin Conveing Enzyme (ACE) Inhibitors/Angiotensin II Receptor Blockers (ARBs). Metabolic syndrome X - Elevated levels of apoC-III carried on VLDLs Increase apoC-III can inhibit lipoprotein lipase- Hyperiglyceridemia Reduction in HDL cholesterol.",
+        "exp": "The most common pattern of dyslipidemia in diabetes mellitus is hyperiglyceridemia and reduced HDL levels. Increase free fatty acid flow to the liver - | production of apoB-containing triglyceride-rich VLDLs Hyperiglyceridemia -Excellent marker of the insulin-resistant condition. Thiazides cause dyslipidemia, hyperglycemia hence contraindicated in diabetic hypeensives. Antihypeensive drug of choice:-Angiotensin Conveing Enzyme (ACE) Inhibitors/Angiotensin II Receptor Blockers (ARBs). Metabolic syndrome X - Elevated levels of apoC-III carried on VLDLs Increase apoC-III can inhibit lipoprotein lipase- Hyperiglyceridemia Reduction in HDL cholesterol.",
         "cop": 4,
         "opa": "Smoker",
         "opb": "Alcoholics",
@@ -104,8 +104,8 @@
         "choice_type": "single"
     },
     {
-        "question": "48 y old male patient with anterior myocardial infarction has undergone a primary angioplasty with a bare metal stent . You are posted as a junior resident in the ward preparing a discharge card . What duration of antiplatelets will you advise to the patient ?",
-        "exp": "Stent thrombosis Prevention Acute (<24 h) Dual antiplatelet therapy (DAPT) Subacute(1-30 days) -Aspirin -P2Y12 receptor blocker(ticagrelor) Late (30 days-1 year) DAPT for up to 1 year - If DAPT is discontinued in the 1st month- 3 - 9 fold increased risk for stent thrombosis. - If elective surgery has to be done where discontinuation of antiplatelet therapy is required, surgery should be postponed for minimum 3 months and ideally for 6 months.",
+        "question": "48 y old male patient with anterior myocardial infarction has undergone a primary angioplasty with a bare metal stent. You are posted as a junior resident in the ward preparing a discharge card. What duration of antiplatelets will you advise to the patient?",
+        "exp": "Stent thrombosis Prevention Acute (<24 h) Dual antiplatelet therapy (DAPT) Subacute(1-30 days) -Aspirin -P2. Y12 receptor blocker(ticagrelor) Late (30 days-1 year) DAPT for up to 1 year - If DAPT is discontinued in the 1st month- 3 - 9 fold increased risk for stent thrombosis. - If elective surgery has to be done where discontinuation of antiplatelet therapy is required, surgery should be postponed for minimum 3 months and ideally for 6 months.",
         "cop": 1,
         "opa": "Dual antiplatelets for 12months and then aspirin longterm",
         "opb": "Ticagrelor for 1month and aspirin longterm",
@@ -130,13 +130,13 @@
         "choice_type": "single"
     },
     {
-        "question": "A 46-year-old female presents to casuality with chest pain. Her BP is 140/80mmHg, hea rate 90bpm, and saturations 99% on roomair. What should be yournext step ?",
+        "question": "A 46-year-old female presents to casuality with chest pain. Her BP is 140/80mm. Hg, heart rate 90bpm, and saturations 99% on roomair. What should be yournext step?",
         "exp": "An ECG should be performed as soon as possible as prompt diagnosis of ST elevation MI is essential. The majority of patients presenting with chest pain are of non-ischaemic origin and so the other treatments may not be necessary. If ACS is suspected, aspirin should be given first. Oxygen is not recommended in the chest pain management unless saturations are <94%",
         "cop": 4,
         "opa": "Administeroxygen",
         "opb": "Administer analgesia",
         "opc": "Give aspirin300mg",
-        "opd": "Perform a 12-leadECG",
+        "opd": "Perform a 12-lead. ECG",
         "subject_name": "Medicine",
         "topic_name": "Acute coronary syndrome",
         "id": "35cf0212-a0dd-4e33-af52-da0e72148ce6",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Comment on the ECG given below.",
-        "exp": "Notice the \"tombstone pattern\" of ECG throughout the precordial (VI-V6) and lead I and aVL This is seen in proximal LAD obstruction and indicates high possibility of cardiogenic shock developing in the patient Therefore ,extensive anterior wall MI",
+        "exp": "Notice the \"tombstone pattern\" of ECG throughout the precordial (VI-V6) and lead I and a. VL This is seen in proximal LAD obstruction and indicates high possibility of cardiogenic shock developing in the patient Therefore, extensive anterior wall MI",
         "cop": 1,
         "opa": "Extensive anterior wall MI",
         "opb": "Anterior wall MI",
@@ -182,7 +182,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "All are false statements regarding atherosclerotic plaque formation except ?",
+        "question": "All are false statements regarding atherosclerotic plaque formation except?",
         "exp": "Atherosclerotic plaque Subintimal collections of fat, smooth muscle cells, fibroblasts. Tends to develop at branching sites due to turbulence flow in epicardial vessels Characteristic -Grow into intima and media of epicardial coronary vessels and don't encroach lumen initially Mycotic aneurysm usually develops at site of an atherosclerotic plaque.",
         "cop": 3,
         "opa": "Acute inflammatory disease of the vascularintima",
@@ -221,7 +221,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following aery is most common to undergo atherosclerotic changes leading to coronary aery disease ?",
+        "question": "Which of the following aery is most common to undergo atherosclerotic changes leading to coronary aery disease?",
         "exp": "Left anterior descending coronary aery(40-50%) is most commonly involved in CAD, followed by Right coronary aery (30-40%)then Left Circumflex coronary aery (15-20%).",
         "cop": 2,
         "opa": "Right coronary aery",
@@ -235,7 +235,7 @@
     },
     {
         "question": "A 60 year old man, who is a known case of LV Aneurysm post MI in 2017, presents with recurrent episodes of syncope. Today after having a strong coffee he developed syncope and was rushed to the hospital. What is the best way to prevent such episodes from developing again?",
-        "exp": "The ECG shows hea rate of 300/min with broad complex tachycardia. Axis is indeterminate. This indicates a monomorphic Ventricular Tachycardia. In acute setting DC shock 200J Biphasic should be given. However recurrence of VT episodes can occur due to structural damage in form of LV aneurysm. Hence Implantable cardioveer defibrillator is the best method to prevent recurrent VT episodes Catheter ablation is done for idiopathic monomorphic VT.",
+        "exp": "The ECG shows heart rate of 300/min with broad complex tachycardia. Axis is indeterminate. This indicates a monomorphic Ventricular Tachycardia. In acute setting DC shock 200J Biphasic should be given. However recurrence of VT episodes can occur due to structural damage in form of LV aneurysm. Hence Implantable cardioveer defibrillator is the best method to prevent recurrent VT episodes Catheter ablation is done for idiopathic monomorphic VT.",
         "cop": 3,
         "opa": "Daily oral amiodarone",
         "opb": "DC shock 200J",
@@ -247,13 +247,13 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following findings during an exercise tolerance test is associated with left coronary aery disease except ?",
-        "exp": "An Exercise Tolerance Test (ETT) is an Electrocardiogram (ECG) that is recorded while patient is exercising. A failure to increase SBP by 10 mm Hg, or a sustained decrease in SBP of 10 mm Hg or more, is suggestive of multivessel (or left main) CAD. Findings suggesting high probability of coronary aery disease: Horizontal ST segment depression of 2 mm Down sloping ST segment depression Persistence of ST depression for > 6 minutes into recovery ST segment depression in five or more leads persisting >=5 minutes into recovery. ST-segment elevation of >=1 mm in lead aVR may be a significant predictor of left main coronary aery disease.",
+        "question": "All of the following findings during an exercise tolerance test is associated with left coronary aery disease except?",
+        "exp": "An Exercise Tolerance Test (ETT) is an Electrocardiogram (ECG) that is recorded while patient is exercising. A failure to increase SBP by 10 mm Hg, or a sustained decrease in SBP of 10 mm Hg or more, is suggestive of multivessel (or left main) CAD. Findings suggesting high probability of coronary aery disease: Horizontal ST segment depression of 2 mm Down sloping ST segment depression Persistence of ST depression for > 6 minutes into recovery ST segment depression in five or more leads persisting >=5 minutes into recovery. ST-segment elevation of >=1 mm in lead a. VR may be a significant predictor of left main coronary aery disease.",
         "cop": 3,
         "opa": "Early onset of ST depression",
         "opb": "Persistence of ST segment changes late into recovery phase",
         "opc": "Failure to increase systolic BP by at least 20mm Hg",
-        "opd": "ST segment elevation in aVR",
+        "opd": "ST segment elevation in a. VR",
         "subject_name": "Medicine",
         "topic_name": "Acute coronary syndrome",
         "id": "962968d2-6bc0-41e3-80c4-df14bb7764f5",
@@ -261,12 +261,12 @@
     },
     {
         "question": "The ratio of chest compression to rescue breath ratio for a lone rescuer in CPR for all ages is?",
-        "exp": "The chest compression to ventilation ratio is 30: 2 for all age groups except neonatal resuscitation where the ratio is 3:1. Even in infants and children the ratio is 30:2 For adults irrespective of number of rescuers the ratio of chest compression to ventilation ratio is 30: 2. For children if 1 rescuer is present the chest compression to ventilation ratio is 30: 2 For children if 2 or more rescuers are present the chest compression to ventilation ratio is 15:2",
+        "exp": "The chest compression to ventilation ratio is 30: 2 for all age groups except neonatal resuscitation where the ratio is 3: 1. Even in infants and children the ratio is 30: 2 For adults irrespective of number of rescuers the ratio of chest compression to ventilation ratio is 30: 2. For children if 1 rescuer is present the chest compression to ventilation ratio is 30: 2 For children if 2 or more rescuers are present the chest compression to ventilation ratio is 15: 2",
         "cop": 1,
-        "opa": "30:02:00",
-        "opb": "15:02",
-        "opc": "3:01",
-        "opd": "30:01:00",
+        "opa": "30: 02: 00",
+        "opb": "15: 02",
+        "opc": "3: 01",
+        "opd": "30: 01: 00",
         "subject_name": "Medicine",
         "topic_name": "Acute coronary syndrome",
         "id": "bfc14c39-f74c-4941-91f3-5ea4048185bb",
@@ -274,10 +274,10 @@
     },
     {
         "question": "A 65-year old man presents with crushing chest pain for 2 hours. On examination, BP = 80/60 mm Hg and JVP are elevated 4 cm above the sternal angle. All are true about the condition shown except:",
-        "exp": "The ECG shows * Sinus rhythm is present with a normal QRS axis and tall T waves. * ST elevation >1 mm in V4R and leads II, III, aVF * ST depression (reciprocal) is present in anterior leads. * Hence the diagnosis is right ventricular MI. * Right ventricular infarction leads to hypotension with clear lung fields and presence of elevated JVP (Kussmaul sign +).",
+        "exp": "The ECG shows * Sinus rhythm is present with a normal QRS axis and tall T waves. * ST elevation >1 mm in V4R and leads II, III, a. VF * ST depression (reciprocal) is present in anterior leads. * Hence the diagnosis is right ventricular MI. * Right ventricular infarction leads to hypotension with clear lung fields and presence of elevated JVP (Kussmaul sign +).",
         "cop": 2,
         "opa": "ST elevation in V4R",
-        "opb": "ST segment depression in lead II, III, aVF",
+        "opb": "ST segment depression in lead II, III, a. VF",
         "opc": "Right ventricular infarction",
         "opd": "Kussmaul sign +",
         "subject_name": "Medicine",
@@ -299,8 +299,8 @@
         "choice_type": "single"
     },
     {
-        "question": "In ECG lead II, III, and aVF are abnormal. Which of the following vessel is blocked?",
-        "exp": "Leads II, III, and aVF detect Inferior wall ischemia. Inferior wall of hea is formed mainly by the major pa of right ventricle and left ventricles separated by the posterior interventricular groove, which is mainly supplied by the right coronary aery. Any block in RCA results in inferior wall and posterior 1/3rd of interventricular septum MI.",
+        "question": "In ECG lead II, III, and a. VF are abnormal. Which of the following vessel is blocked?",
+        "exp": "Leads II, III, and a. VF detect Inferior wall ischemia. Inferior wall of hea is formed mainly by the major pa of right ventricle and left ventricles separated by the posterior interventricular groove, which is mainly supplied by the right coronary aery. Any block in RCA results in inferior wall and posterior 1/3rd of interventricular septum MI.",
         "cop": 3,
         "opa": "Left coronary aery",
         "opb": "Left anterior descending",
@@ -313,7 +313,7 @@
     },
     {
         "question": "What ECG finding is shown here?",
-        "exp": "The ECG shows presence of large T wave. They are relatively broad, and are not pointed when compared to Tall tented T wave of Hyperkalemia. Hyperkalemia Hyper-acute T waves in MI Normal Variant Symmetric,narrow based, pointed tenting Symmetricbroad -based, not tented, not pointed Asymmetric and not narrow V3 V3 V3",
+        "exp": "The ECG shows presence of large T wave. They are relatively broad, and are not pointed when compared to Tall tented T wave of Hyperkalemia. Hyperkalemia Hyper-acute T waves in MI Normal Variant Symmetric, narrow based, pointed tenting Symmetricbroad -based, not tented, not pointed Asymmetric and not narrow V3 V3 V3",
         "cop": 1,
         "opa": "Hyperacute T wave",
         "opb": "T wave Alternans",
@@ -326,7 +326,7 @@
     },
     {
         "question": "Which of the following is the best test for ble myocardium after MI?",
-        "exp": "A thallium scan is a class I indication for Risk assessment, prognosis, and assessment of therapy after STE acute myocardial infarction and can be used to determine the following : 1. Rest or exercise RV/LV function 2. Presence/extent of stress-induced ischemia 3. Detection of infarct size and residual ble myocardium 4. Diagnosis, prognosis, and assessment of therapy in patients with unstable angina/NSTEMI",
+        "exp": "A thallium scan is a class I indication for Risk assessment, prognosis, and assessment of therapy after STE acute myocardial infarction and can be used to determine the following: 1. Rest or exercise RV/LV function 2. Presence/extent of stress-induced ischemia 3. Detection of infarct size and residual ble myocardium 4. Diagnosis, prognosis, and assessment of therapy in patients with unstable angina/NSTEMI",
         "cop": 1,
         "opa": "Thallium scan",
         "opb": "MUGA scan",
@@ -342,7 +342,7 @@
         "exp": "Agatson scoring used to evaluate severity of calcification in coronary aery using MDCT (Multi Detector CT Scan) based on area and density of calcification.",
         "cop": 1,
         "opa": "Coronary aery disease",
-        "opb": "End organ damage in hypeension",
+        "opb": "End organ damage in hypertension",
         "opc": "End organ damage in SLE",
         "opd": "CHF with preserved",
         "subject_name": "Medicine",
@@ -367,7 +367,7 @@
         "question": "Tadalafil is contraindicated in?",
         "exp": "Tadalafil is C/I with NTG which is taken for acute attack of angina as in this case. Tadalafil- Uses: For erectile dysfunction For symptoms of BPH Nitrates should not be used within 24 hours of sildenafil, tadalafil, or vardenafil (may produce severe hypotension) Nitrates- C/I in the presence of hyperophic CMP or severe Aoic Stenosis MC side effect of nitrate treatment is headache Hypotension may occur in hypovolemic patients. Development of tolerance To avoid nitrate tolerance, a daily 8 to 12 hour interval free of nitrate exposure is recommended",
         "cop": 2,
-        "opa": "Pulmonary aery hypeension",
+        "opa": "Pulmonary aery hypertension",
         "opb": "Chronic stable angina (acute episode)",
         "opc": "Active infections",
         "opd": "Hepatic dysfunction",
@@ -403,12 +403,12 @@
         "choice_type": "multi"
     },
     {
-        "question": "A 67-year-old man with a history of hypeension, hyperlipidemia and tobacco use has been diagnosed with infra-renal aoic aneurysm of size 3 X 3.5 cm. Which is best suited for this patient?",
-        "exp": "Indications for surgery of AAA Size of AAA exceeds >= 5.5cm Rapid expansion Onset of symptoms. Endovascular stent grafts for infra-renal AAA are achieving success in selected patients. Choice D is a close option but waiting for symptoms to appear would not a be logical step.",
+        "question": "A 67-year-old man with a history of hypertension, hyperlipidemia and tobacco use has been diagnosed with infra-renal aoic aneurysm of size 3 X 3. 5 cm. Which is best suited for this patient?",
+        "exp": "Indications for surgery of AAA Size of AAA exceeds >= 5. 5cm Rapid expansion Onset of symptoms. Endovascular stent grafts for infra-renal AAA are achieving success in selected patients. Choice D is a close option but waiting for symptoms to appear would not a be logical step.",
         "cop": 3,
         "opa": "Endovascular stenting of an aneurysm",
         "opb": "Serial follow up with MRI, major determinant of surgery being renal aery involvement",
-        "opc": "Serial follow up with MRI, initiate statins and major determinant of surgery being size greater than 5.5cm",
+        "opc": "Serial follow up with MRI, initiate statins and major determinant of surgery being size greater than 5. 5cm",
         "opd": "Serial follow up with MRI, initiate Statins and operate only in case of acute anginal pain",
         "subject_name": "Medicine",
         "topic_name": "Acute coronary syndrome",
@@ -442,8 +442,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Ischemic hea disease is the usual sequel to:",
-        "exp": "Ischemic hea disease Caused by coronary atherosclerosis, resulting in decreased blood flow to the myocardium. May develop into angina pectoris, myocardial infarction, chronic ischemic cardiopathy, or sudden cardiac death. On the other hand, aeriosclerosis (hardening of the aeries) usually attacks renal aeries and is related to hypeension and diabetes mellitus. Subendocardium region is most vulnerable to ischemic damage .",
+        "question": "Ischemic heart disease is the usual sequel to:",
+        "exp": "Ischemic heart disease Caused by coronary atherosclerosis, resulting in decreased blood flow to the myocardium. May develop into angina pectoris, myocardial infarction, chronic ischemic cardiopathy, or sudden cardiac death. On the other hand, aeriosclerosis (hardening of the aeries) usually attacks renal aeries and is related to hypertension and diabetes mellitus. Subendocardium region is most vulnerable to ischemic damage.",
         "cop": 4,
         "opa": "Abdominal aoic aneurysm",
         "opb": "Rheumatic fever",
@@ -455,8 +455,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 58-year-old man presents to you complaining of chest pain. The pain occurs when he walks to the corner shop on his lunch break and disappears within a couple of minutes when he stops to rest. He has never had pain at rest or pain that did not spontaneously remit.Clinical examination is normal except for mildly elevated blood pressure at 145/85. An ECG shows normal sinus rhythm. What is the most appropriate investigation?",
-        "exp": "Case of chronic stable angina Option A: Fasting blood lipids= Yes, It is mandatory to identify there is a presence of blockage in coronary aery secondary to hypercholesterolemia or any deranged lipid profile. But it is not most appropriate here. Option B: First we give patient medical treatment if it fails then only, we go for angiography so it is ruled out. Option D: CT Angiography = It can identify blockages in coronary aery with the high sensitivity .Nowadays we are using CT angiography over stress test.",
+        "question": "A 58-year-old man presents to you complaining of chest pain. The pain occurs when he walks to the corner shop on his lunch break and disappears within a couple of minutes when he stops to rest. He has never had pain at rest or pain that did not spontaneously remit. Clinical examination is normal except for mildly elevated blood pressure at 145/85. An ECG shows normal sinus rhythm. What is the most appropriate investigation?",
+        "exp": "Case of chronic stable angina Option A: Fasting blood lipids= Yes, It is mandatory to identify there is a presence of blockage in coronary aery secondary to hypercholesterolemia or any deranged lipid profile. But it is not most appropriate here. Option B: First we give patient medical treatment if it fails then only, we go for angiography so it is ruled out. Option D: CT Angiography = It can identify blockages in coronary aery with the high sensitivity. Nowadays we are using CT angiography over stress test.",
         "cop": 4,
         "opa": "Fasting blood lipids",
         "opb": "Urgent invasive coronary angiography",
@@ -468,8 +468,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "All statements are true regarding non-ST elevation acute coronary syndromes (NSTE-ACS) and ST elevation myocardial infarctions (STEMI) except ?",
-        "exp": "Epidemiologic studies indicate there is a shift in the pattern of AMI over the last 15 years with more patients with NSTEMI than STEMI.The relative incidence of NSTEMI is rising due to the increasing burden of diabetes and chronic kidney disease in an aging population, while STEMI is declining due to greater use of aspirin, statins, and less smoking. Among patients with NSTE-ACS, the propoion with NSTEMI is rising while that with UA is falling because of the wider use of troponin assays with higher sensitivity to detect myocyte necrosis, thereby reclassifying UA as NSTEMI. Infarction of >=40% of the left ventricle usually results in cardiogenic shock. Pump failure is now the primary cause of in-hospital death from STEMI PCI is the treatment of choice for patients with acute coronary syndromes",
+        "question": "All statements are true regarding non-ST elevation acute coronary syndromes (NSTE-ACS) and ST elevation myocardial infarctions (STEMI) except?",
+        "exp": "Epidemiologic studies indicate there is a shift in the pattern of AMI over the last 15 years with more patients with NSTEMI than STEMI. The relative incidence of NSTEMI is rising due to the increasing burden of diabetes and chronic kidney disease in an aging population, while STEMI is declining due to greater use of aspirin, statins, and less smoking. Among patients with NSTE-ACS, the propoion with NSTEMI is rising while that with UA is falling because of the wider use of troponin assays with higher sensitivity to detect myocyte necrosis, thereby reclassifying UA as NSTEMI. Infarction of >=40% of the left ventricle usually results in cardiogenic shock. Pump failure is now the primary cause of in-hospital death from STEMI PCI is the treatment of choice for patients with acute coronary syndromes",
         "cop": 3,
         "opa": "The relative incidence of NSTEMI is rising due to the increasing burden of diabetes and chronic kidney disease in an aging population.",
         "opb": "Pump failure is now the primary cause of in-hospital death from STEMI",
@@ -482,7 +482,7 @@
     },
     {
         "question": "Framingham risk score is used to determine?",
-        "exp": "Framingham risk score is used to determine 10-year Cardiovascular moality for Atherosclerosis. Framingham criteria are used for diagnosis of Congestive hea failure",
+        "exp": "Framingham risk score is used to determine 10-year Cardiovascular moality for Atherosclerosis. Framingham criteria are used for diagnosis of Congestive heart failure",
         "cop": 3,
         "opa": "CHF severity",
         "opb": "CHF diagnosis",
@@ -495,7 +495,7 @@
     },
     {
         "question": "A 50-year old man who had recently joined a gym collapsed on the treadmill. He was rushed to the hospital where the ECG shows the presence of:",
-        "exp": "* The ECG shows patient in sinus Rhythm, normal QRS axis * Upsloping ST-segment elevation is seen in V2-V5 and aVL * In extreme left, premature ventricular beats can be noticed in Lead II and Lead III * Rhythm strip lead II shows ST depression (right at the bottom) Brugada syndrome has ST elevation in VI-V3 and can present with sudden collapse during physical exeion but the collapse occurs due to ventricular tachycardia. ECG strip, however, does not show any tachyarrhythmia. Arrhythmogenic right ventricular dysplasia shows the presence of epsilon waves.",
+        "exp": "* The ECG shows patient in sinus Rhythm, normal QRS axis * Upsloping ST-segment elevation is seen in V2-V5 and a. VL * In extreme left, premature ventricular beats can be noticed in Lead II and Lead III * Rhythm strip lead II shows ST depression (right at the bottom) Brugada syndrome has ST elevation in VI-V3 and can present with sudden collapse during physical exeion but the collapse occurs due to ventricular tachycardia. ECG strip, however, does not show any tachyarrhythmia. Arrhythmogenic right ventricular dysplasia shows the presence of epsilon waves.",
         "cop": 1,
         "opa": "Acute extensive anterior wall MI",
         "opb": "Brugada syndrome",
@@ -507,7 +507,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "A patient with anterior wall MI was thrombolysed within 6 hours of presentation with STK. On day 3 he had a fever with chills and platelet count of 60,000. Which of the following is responsible for this presentation?",
+        "question": "A patient with anterior wall MI was thrombolysed within 6 hours of presentation with STK. On day 3 he had a fever with chills and platelet count of 60, 000. Which of the following is responsible for this presentation?",
         "exp": "Thrombocytopenia is a rare but dangerous adverse effect of clopidogrel, encompassing Thrombotic Thrombocytopenic Purpura (TTP), isolated thrombocytopenia and autoimmune thrombocytopenia",
         "cop": 4,
         "opa": "Aspirin",
@@ -520,7 +520,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "An 18-year-old man is admitted to the hospital with acute onset of substernal chest pain that began abruptly 30 minutes ago. He repos the pain radiating to his neck and right arm. He has otherwise been in good health. On physical examination, he is diaphoretic and tachypnoeic. His BP is 102/48 mmHg and hea rate is 112 bpm, regular rhythm but is tachycardiac. A 2/6 holosystolic murmur is heard best at the apex and radiates to the axilla. His lungs have bilateral rales at the bases. The ECG demonstrates 4 mm of ST elevation in the anterior leads. In the past he was hospitalized for some problem with his hea when he was 4 years old. His mother, who accompanies him, repos that he received aspirin and g- globulin as treatment. Since that time, he has required intermittent follow-up with echocardiography. What is the most likely cause of this patient's acute coronary syndrome?",
+        "question": "An 18-year-old man is admitted to the hospital with acute onset of substernal chest pain that began abruptly 30 minutes ago. He repos the pain radiating to his neck and right arm. He has otherwise been in good health. On physical examination, he is diaphoretic and tachypnoeic. His BP is 102/48 mm. Hg and heart rate is 112 bpm, regular rhythm but is tachycardiac. A 2/6 holosystolic murmur is heard best at the apex and radiates to the axilla. His lungs have bilateral rales at the bases. The ECG demonstrates 4 mm of ST elevation in the anterior leads. In the past he was hospitalized for some problem with his hea when he was 4 years old. His mother, who accompanies him, repos that he received aspirin and g- globulin as treatment. Since that time, he has required intermittent follow-up with echocardiography. What is the most likely cause of this patient's acute coronary syndrome?",
         "exp": "The most likely cause of the acute coronary syndrome in this patient is thrombosis of a coronary aery aneurysm in an individual with a past history of Kawasaki disease. Kawasaki disease is an acute multisystem disease that primarily presents in children <5 years of age. Clinical Feature: 1. Conjunctivitis ( Non exudative ) 2. Rash (Polymorphous Non vesicular rash) 3. Oedema of hands/feet. 4. Cervical lymphadenopathy 5. Mucosal involvement Treatment: Early treatment (within 7-10 days of onset) with IV immunoglobulin and high-dose aspirin decreases the risk of developing coronary aneurysms Complications of persistent coronary aery aneurysms include rupture, thrombosis and recanalization, and stenosis at the outflow area.",
         "cop": 3,
         "opa": "Dissection of the aoic root and left coronary ostia",
@@ -533,8 +533,8 @@
         "choice_type": "single"
     },
     {
-        "question": "A 45 year old man presents with central chest pain for 4 hours. Troponin I is 0.8ng/dl. Diagnosis is?",
-        "exp": "The hea rate is 60/min with normal axis. Normal sinus rhythm is present. QRS complex duration is normal. T wave inversion is seen in V2-V4. Since cardiac biomarkers are elevated and ischemic changes are present in ECG, the diagnosis is anterior wall ischemia, NSTEMI.",
+        "question": "A 45 year old man presents with central chest pain for 4 hours. Troponin I is 0. 8ng/dl. Diagnosis is?",
+        "exp": "The heart rate is 60/min with normal axis. Normal sinus rhythm is present. QRS complex duration is normal. T wave inversion is seen in V2-V4. Since cardiac biomarkers are elevated and ischemic changes are present in ECG, the diagnosis is anterior wall ischemia, NSTEMI.",
         "cop": 2,
         "opa": "Anterior wall, STEMI",
         "opb": "Anterior wall, NSTEMI",
@@ -546,8 +546,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "A patient in CCU on day 2 of PCI procedure has the following rhythm. BP=90/60mmHg. Which is the next best step for management of this patient?",
-        "exp": "The ECG shows a Ventricular rate of 30/min and atrial rate of 100/min. the patient has developed a third-degree hea block and needs a pacemaker for the same. Currently, a transvenous pacemaker is recommended for the patient.",
+        "question": "A patient in CCU on day 2 of PCI procedure has the following rhythm. BP=90/60mm. Hg. Which is the next best step for management of this patient?",
+        "exp": "The ECG shows a Ventricular rate of 30/min and atrial rate of 100/min. the patient has developed a third-degree heart block and needs a pacemaker for the same. Currently, a transvenous pacemaker is recommended for the patient.",
         "cop": 1,
         "opa": "Pacemaker",
         "opb": "Lignocaine",
@@ -560,7 +560,7 @@
     },
     {
         "question": "A patient becomes pulseless and his BP crashes after myocardial infarction. Diagnosis is?",
-        "exp": "The hea rate is 250 bpm and broad complex QRS is seen in all leads. The patient has Ventricular Tachycardia Needs a DC shock of 200 J biphasic.",
+        "exp": "The heart rate is 250 bpm and broad complex QRS is seen in all leads. The patient has Ventricular Tachycardia Needs a DC shock of 200 J biphasic.",
         "cop": 1,
         "opa": "Monomorphic ventricular tachycardia",
         "opb": "Bidirectional tachycardia",
@@ -573,7 +573,7 @@
     },
     {
         "question": "Viability of ischemic myocardium is best diagnosed by?",
-        "exp": "SPECT PET Tracers used Thallium-201 Technetium 99m 99Mtc Rubidium 82 13N ammonia Sensitivity 87% 90% Specificity 73% 89% Features Detects hibernating myocardium Ventricular function assessment gated SPECT Better attenuation and Assessment of myocardial metabolism and bility If PET is not among the given options then go for SPECT thallium scan MUGA scan: Multi-gated blood pool acquisition radionuclide angiography is used to assess LV function and volume. The FDA approved PET tracers are- 1. Rubidium-82 2. 13-N Ammonia 3. Fluoro-deoxy-glucose FDG-18 assesses myocardial glucose metabolism which is an indicator of bility. Coronary Angiography can tell about blockages but cannot differentiate scar tissue from hibernating myocardium.",
+        "exp": "SPECT PET Tracers used Thallium-201 Technetium 99m 99. Mtc Rubidium 82 13N ammonia Sensitivity 87% 90% Specificity 73% 89% Features Detects hibernating myocardium Ventricular function assessment gated SPECT Better attenuation and Assessment of myocardial metabolism and bility If PET is not among the given options then go for SPECT thallium scan MUGA scan: Multi-gated blood pool acquisition radionuclide angiography is used to assess LV function and volume. The FDA approved PET tracers are- 1. Rubidium-82 2. 13-N Ammonia 3. Fluoro-deoxy-glucose FDG-18 assesses myocardial glucose metabolism which is an indicator of bility. Coronary Angiography can tell about blockages but cannot differentiate scar tissue from hibernating myocardium.",
         "cop": 3,
         "opa": "MUGA scan",
         "opb": "Thallium scan",
@@ -585,7 +585,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "On the basis of given ECG what is the most probable diagnosis ?",
+        "question": "On the basis of given ECG what is the most probable diagnosis?",
         "exp": "The given ECG shows ST elevation in leads V1-V4 which suggest acute anteroseptal wall MI. Acute septal MI is associated with ST elevation, Q wave formation and T wave inversion in the leads overlying the septal region of the hea (V2 and V3).",
         "cop": 2,
         "opa": "Anterolateral wall MI",
@@ -598,8 +598,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "A 65-year-old male had MI one year ago. Now the same patient presents with hypeension. Which of the following drug is best suited for this patient?",
-        "exp": "In hypeension with Concomitant hea disease , cardio-selective beta blockers are used and not non -selective beta blocker Propranolol . The Beta blockers used are like Nebivolol, Carvedilol or Metoprolol. ACEIs attenuate the development of left ventricular hyperophy(VENTRICULAR REMODELING ), improve symptoms and risk of death from C.H.F, and reduce morbidity and moality rates in post-myocardial infarction patients. Similar benefits in cardiovascular morbidity and moality rates in patients with C.H.F have been observed with the use of ARBs. ACEIs provide better coronary protection than do calcium channel blockers, whereas calcium channel blockers provide more stroke protection than do either ACEI or beta blockers.",
+        "question": "A 65-year-old male had MI one year ago. Now the same patient presents with hypertension. Which of the following drug is best suited for this patient?",
+        "exp": "In hypertension with Concomitant heart disease, cardio-selective beta blockers are used and not non -selective beta blocker Propranolol. The Beta blockers used are like Nebivolol, Carvedilol or Metoprolol. ACEIs attenuate the development of left ventricular hyperophy(VENTRICULAR REMODELING ), improve symptoms and risk of death from C. H. F, and reduce morbidity and moality rates in post-myocardial infarction patients. Similar benefits in cardiovascular morbidity and moality rates in patients with C. H. F have been observed with the use of ARBs. ACEIs provide better coronary protection than do calcium channel blockers, whereas calcium channel blockers provide more stroke protection than do either ACEI or beta blockers.",
         "cop": 4,
         "opa": "Clonidine",
         "opb": "Thiazide",
@@ -625,7 +625,7 @@
     },
     {
         "question": "High HDL cholesterol is seen in?",
-        "exp": "Hyperalphalipoproteinemia Elevated Apo-A-I and Apo-A-II -Elevated HDL. Paradoxically have a higher incidence of hea disease. Abetalipoproteinemia Low cholesterol and triglycerides. Present in infancy with diarrhea and fat malabsorption. Neurological features develop with loss of DTR, reduced vibration and proprioception. Spastic gait develops with pigmentary retinopathy Sitosterolemia Due to inability to metabolise plant phyto-sterols. Multiple tendon xanthomas with normal cholesterol. Dysbetalipoproteinemia Presents with equal elevations of cholesterol and triglycerides Type III hyperlipidemia -Premature atherosclerosis.",
+        "exp": "Hyperalphalipoproteinemia Elevated Apo-A-I and Apo-A-II -Elevated HDL. Paradoxically have a higher incidence of heart disease. Abetalipoproteinemia Low cholesterol and triglycerides. Present in infancy with diarrhea and fat malabsorption. Neurological features develop with loss of DTR, reduced vibration and proprioception. Spastic gait develops with pigmentary retinopathy Sitosterolemia Due to inability to metabolise plant phyto-sterols. Multiple tendon xanthomas with normal cholesterol. Dysbetalipoproteinemia Presents with equal elevations of cholesterol and triglycerides Type III hyperlipidemia -Premature atherosclerosis.",
         "cop": 2,
         "opa": "Abetalipoproteinemia",
         "opb": "Hyperalphalipoproteinemia",
@@ -638,7 +638,7 @@
     },
     {
         "question": "Which of the following is called \"flipping effect\"?",
-        "exp": "Option A = LDH 1>LDH 2 In Normal person, LDH2>LDH1 LDH 1 is present in cardiac Myocyte. If MI occurs, LDH1 levels | Lactate dehydrogenase (LDH): Tetrameric enzyme formed by combination of 2 subunits: H (Hea) and M (Muscle): Type Subunit Tissues of origin LDH-1 H4 Hea muscle LDH-2 H3M1 RBCs LDH-3 H2M2 lungs LDH-4 H1M3 Liver LDH5 M4 Muscles",
+        "exp": "Option A = LDH 1>LDH 2 In Normal person, LDH2>LDH1 LDH 1 is present in cardiac Myocyte. If MI occurs, LDH1 levels | Lactate dehydrogenase (LDH): Tetrameric enzyme formed by combination of 2 subunits: H (Hea) and M (Muscle): Type Subunit Tissues of origin LDH-1 H4 Hea muscle LDH-2 H3. M1 RBCs LDH-3 H2. M2 lungs LDH-4 H1. M3 Liver LDH5 M4 Muscles",
         "cop": 1,
         "opa": "LDH 1 >LDH 2",
         "opb": "LDH 2 > LDH 1",
@@ -651,7 +651,7 @@
     },
     {
         "question": "A 25-year old patient with a history of recent respiratory tract infection complains of severe chest pain at rest. The ECG of the patient is given. The most probable diagnosis of the patient is?",
-        "exp": "The history points to a recent viral infection that could contribute to the development of pericarditis. Acute Pericarditis -Most common cause of pericarditis is idiopathic or viral. -ECG findings: Hea rate= 75 bpm Axis= normal PR interval= 0.16 sec QRS= 0.08 sec QT= 400 msec Uniform ST segment elevation - Concave upwards (RED) in all the leads ST segment depression (BLUE) in aVR seals the diagnosis of pericarditis.",
+        "exp": "The history points to a recent viral infection that could contribute to the development of pericarditis. Acute Pericarditis -Most common cause of pericarditis is idiopathic or viral. -ECG findings: Heart rate= 75 bpm Axis= normal PR interval= 0. 16 sec QRS= 0. 08 sec QT= 400 msec Uniform ST segment elevation - Concave upwards (RED) in all the leads ST segment depression (BLUE) in a. VR seals the diagnosis of pericarditis.",
         "cop": 4,
         "opa": "Acute MI",
         "opb": "Prinzmetal angina",

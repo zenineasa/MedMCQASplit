@@ -53,7 +53,7 @@
     },
     {
         "question": "Tetanus toxin acts on which of the following synaptic protein",
-        "exp": "Tetanus toxin cleaves synaptobrevin-2 . Synaptobrevin is a R-SNARE protein also known as Vesicle Associated Membrane Protein(VAMP) Q-SNARE proteins are syntaxin (Qa), SNAP25(Qb & Qc)and SM protein (Munc18) Botulinum toxin (BT) serotype A, B and E are toxic to humans. BT-A, BT-E cleaves SNAP25, BT-C cleaves both SNAP25 and syntaxin. BT-B, BT-D, BT-F, BT-G cleaves synaptobrevin- 2 (VAMP-2)",
+        "exp": "Tetanus toxin cleaves synaptobrevin-2. Synaptobrevin is a R-SNARE protein also known as Vesicle Associated Membrane Protein(VAMP) Q-SNARE proteins are syntaxin (Qa), SNAP25(Qb & Qc)and SM protein (Munc18) Botulinum toxin (BT) serotype A, B and E are toxic to humans. BT-A, BT-E cleaves SNAP25, BT-C cleaves both SNAP25 and syntaxin. BT-B, BT-D, BT-F, BT-G cleaves synaptobrevin- 2 (VAMP-2)",
         "cop": 1,
         "opa": "R-SNARE",
         "opb": "Q-SNARE",
@@ -91,8 +91,8 @@
         "choice_type": "single"
     },
     {
-        "question": "If this cell were permeable only to K+, what would be the effect of reducing the extracellular K concentration from 5 to 2.5 millimolar? Intracellular (mM) Extracellular (mM) 140 K+ 5 K+ 12 Na+ 145 Na+ 5 CI- 125 CI- 0.0001 Ca++ 5 Ca++",
-        "exp": "If a membrane is permeable to only a single ion Vm is equal to the equilibrium potential for that ion. In this hypothetical cell, EK+ = 88 millivolts. If the extracellular K+ concentration is reduced by half, EK+ = 61 x log (2.5/140) = 107 millivolts, (Hyperpolarisation of 19 millivolts.)",
+        "question": "If this cell were permeable only to K+, what would be the effect of reducing the extracellular K concentration from 5 to 2. 5 millimolar? Intracellular (mM) Extracellular (mM) 140 K+ 5 K+ 12 Na+ 145 Na+ 5 CI- 125 CI- 0. 0001 Ca++ 5 Ca++",
+        "exp": "If a membrane is permeable to only a single ion Vm is equal to the equilibrium potential for that ion. In this hypothetical cell, EK+ = 88 millivolts. If the extracellular K+ concentration is reduced by half, EK+ = 61 x log (2. 5/140) = 107 millivolts, (Hyperpolarisation of 19 millivolts.)",
         "cop": 2,
         "opa": "19 millivolts depolarization",
         "opb": "19 millivolts hyperpolarization",

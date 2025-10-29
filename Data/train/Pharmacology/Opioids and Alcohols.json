@@ -14,12 +14,12 @@
     },
     {
         "question": "Arrange the following opioids according to their potency (most potent first) a. Fentanyl b. Sufentanil c. Morphine d. Pethidine",
-        "exp": "a. Fentanyl group of opioids are most potent opioids. Among these most potent is Sufentanil (approx 1000 times more potent than morphine) . The sequence of potency from high to low in this group is Sufentanil > Fentanyl > Alfentanil. b. Pethidine is 10 times less potent than morphine",
+        "exp": "a. Fentanyl group of opioids are most potent opioids. Among these most potent is Sufentanil (approx 1000 times more potent than morphine). The sequence of potency from high to low in this group is Sufentanil > Fentanyl > Alfentanil. b. Pethidine is 10 times less potent than morphine",
         "cop": 2,
-        "opa": "a,d,c,b",
-        "opb": "b,a,c,d",
-        "opc": "a,d,b,c",
-        "opd": "b,c,d,a",
+        "opa": "a, d, c, b",
+        "opb": "b, a, c, d",
+        "opc": "a, d, b, c",
+        "opd": "b, c, d, a",
         "subject_name": "Pharmacology",
         "topic_name": "Opioids and Alcohols",
         "id": "396b6f93-ae19-4ec6-8f40-6d17f6f1d941",
@@ -39,7 +39,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "A patient Manoj with severe pain thought to be of gastrointestinal origin received 60 mg of meperidine subsequent to which he developed reaction characterized by tachycardia, hypeension, hyperpyrexia and seizures. He gave the history that he is also taking some medicine for his psychiatric condition. Which of the following drug can be held responsible for this so of reaction?",
+        "question": "A patient Manoj with severe pain thought to be of gastrointestinal origin received 60 mg of meperidine subsequent to which he developed reaction characterized by tachycardia, hypertension, hyperpyrexia and seizures. He gave the history that he is also taking some medicine for his psychiatric condition. Which of the following drug can be held responsible for this so of reaction?",
         "exp": "Meperidine (pethidine) is metabolized mainly to meperidinic acid (inactive) by MAO inhibitors. Minor pathway is conversion to nor-meperidine (possesses excitatory propeies and shows cumulation) MAO inhibitors like phenelzine inhibits the major pathway; therefore minor pathway assumes impoance resulting in generation of nor-pethidine that can cause seizures. Long term use of meperidine can result in accumulation of normeperidine and thus seizures can occur.",
         "cop": 4,
         "opa": "Alprazolam",
@@ -118,9 +118,9 @@
     },
     {
         "question": "Morphine is used in the treatment of:-",
-        "exp": "These are used as analgesic agents. Visceral, dull and constant pain is relieved more effectively than inflammatory pain. Opioids are however contraindicated in biliary colic. Morphine (i.v.) is useful in myocardial infarction as well as in pulmonary edema due to acute left ventricular failure.",
+        "exp": "These are used as analgesic agents. Visceral, dull and constant pain is relieved more effectively than inflammatory pain. Opioids are however contraindicated in biliary colic. Morphine (i. v.) is useful in myocardial infarction as well as in pulmonary edema due to acute left ventricular failure.",
         "cop": 3,
-        "opa": "Hypeension",
+        "opa": "Hypertension",
         "opb": "Cardiac arrhythmias",
         "opc": "Acute left ventricular failure",
         "opd": "A-V block",
@@ -144,7 +144,7 @@
     },
     {
         "question": "The drug which is a specific inhibitor of the enzyme alcohol dehydrogenase and is useful in the treatment of methanol and ethylene glycol poisoning is:",
-        "exp": "Fomepizole (4-methylpyrazole) is a specific inhibitor of alcohol dehydrogenase and the drug of choice for methanol poisoning by retarding its metabolism. A loading dose of 15 mg/kg i.v. followed by 10 mg/kg every 12 hours till serum methanol falls below 20 mg/dl, has been found effective and safe. It has several advantages over ethanol, viz. longer t 1/2 and lack of inebriating action, but is not available commercially in India.",
+        "exp": "Fomepizole (4-methylpyrazole) is a specific inhibitor of alcohol dehydrogenase and the drug of choice for methanol poisoning by retarding its metabolism. A loading dose of 15 mg/kg i. v. followed by 10 mg/kg every 12 hours till serum methanol falls below 20 mg/dl, has been found effective and safe. It has several advantages over ethanol, viz. longer t 1/2 and lack of inebriating action, but is not available commercially in India.",
         "cop": 4,
         "opa": "Disulfiram",
         "opb": "Ethylene glycol",
@@ -157,9 +157,9 @@
     },
     {
         "question": "Use of morphine should be avoided in all of the following patients EXCEPT?",
-        "exp": "Morphine is used for the treatment of myocardial infarction (ischemic hea disease) and LVF. Morphine is contra-indicated in extremes of age i.e., very young and elderly persons. It is also contra-indicated in bronchial asthma because it can cause respiratory depression and worsen the condition. By increasing intrabiliary pressure, morphine can worsen the pain of biliary colic.",
+        "exp": "Morphine is used for the treatment of myocardial infarction (ischemic heart disease) and LVF. Morphine is contra-indicated in extremes of age i. e., very young and elderly persons. It is also contra-indicated in bronchial asthma because it can cause respiratory depression and worsen the condition. By increasing intrabiliary pressure, morphine can worsen the pain of biliary colic.",
         "cop": 1,
-        "opa": "Ischemic hea disease patients",
+        "opa": "Ischemic heart disease patients",
         "opb": "Bronchial asthma patients",
         "opc": "Elderly male patients",
         "opd": "Biliary colic patients",
@@ -221,8 +221,8 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following effects are produced by mu opioid receptor except ?",
-        "exp": "Effects of Mu opioid receptor activation results in S- Sedation A- Analgesia C- Constipation R- Respiratory depression U- eUphoria M- Miosis",
+        "question": "All of the following effects are produced by mu opioid receptor except?",
+        "exp": "Effects of Mu opioid receptor activation results in S- Sedation A- Analgesia C- Constipation R- Respiratory depression U- e. Uphoria M- Miosis",
         "cop": 1,
         "opa": "Tachycardia",
         "opb": "Miosis",

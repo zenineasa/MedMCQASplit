@@ -13,8 +13,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "\"Risk ratio\" is utilized to calculate :-",
-        "exp": "- Risk ratio is the ratio of incidence of disease in exposed to incidence of disease in non-exposed. - It is utilized to calculate relative risk. EXTRA EDGE: - R.R. = Ie / Ine - A.R. = x 100 - P.A.R. = x 100",
+        "question": "\"Risk ratio\" is utilized to calculate:-",
+        "exp": "- Risk ratio is the ratio of incidence of disease in exposed to incidence of disease in non-exposed. - It is utilized to calculate relative risk. EXTRA EDGE: - R. R. = Ie / Ine - A. R. = x 100 - P. A. R. = x 100",
         "cop": 1,
         "opa": "Relative risk",
         "opb": "Attributable risk",
@@ -40,7 +40,7 @@
     },
     {
         "question": "Exposure to multiple outcomes can be studied in",
-        "exp": "In Coho study, multiple outcomes can be studied together. In Case control study, multiple exposures can be studied together. COHO STUDY: Time consuming & expensive study Incidence & RR can be calculated No recall bias Ethical problems are present & is not useful for rare diseases Loss of follow-up can be seen - max allowable attrition rate is < 5% ; ideal retention rate >= 95% HAWTHORN BIAS - study subjects alter their behavior without notice ; can be seen.",
+        "exp": "In Coho study, multiple outcomes can be studied together. In Case control study, multiple exposures can be studied together. COHO STUDY: Time consuming & expensive study Incidence & RR can be calculated No recall bias Ethical problems are present & is not useful for rare diseases Loss of follow-up can be seen - max allowable attrition rate is < 5%; ideal retention rate >= 95% HAWTHORN BIAS - study subjects alter their behavior without notice; can be seen.",
         "cop": 1,
         "opa": "Coho study",
         "opb": "Case control study",
@@ -53,7 +53,7 @@
     },
     {
         "question": "A one-day census of inpatients in a mental hospital could-",
-        "exp": "- This would be a cross-sectional study, which will provide information about prevalence of diseases in that hospital at that time only. - Cross sectional study: Aka Snapshot study/ Prevalence study . Done at point of time . Based on primary data. Can't calculate strength of association.",
+        "exp": "- This would be a cross-sectional study, which will provide information about prevalence of diseases in that hospital at that time only. - Cross sectional study: Aka Snapshot study/ Prevalence study. Done at point of time. Based on primary data. Can't calculate strength of association.",
         "cop": 1,
         "opa": "Give good information about the patients in that hospital at that time",
         "opb": "Give reliable estimates of seasonal factors in admissions",
@@ -84,7 +84,7 @@
         "opa": "1",
         "opb": "3",
         "opc": "5",
-        "opd": "0.2",
+        "opd": "0. 2",
         "subject_name": "Social & Preventive Medicine",
         "topic_name": "Classification, Coho Study",
         "id": "bc2bd177-a7ec-4ec3-86ba-c426eb4eca75",
@@ -94,9 +94,9 @@
         "question": "In a coho study conducted, out of those exposed to risk factor 10 are diseased and out of those non - exposed to risk factor only 5 are diseased. What is the Relative risk?",
         "exp": "Relative risk = Incidence among exposed / incidence among non - exposed Incidence among exposed is 10, Incidence among non - exposed is 5 Thus, relative risk is 10/5 = 2 Relative risk 2 implies that association is present; and risk of development of disease among exposed is twice as common as compared to non - exposed.",
         "cop": 2,
-        "opa": "1.33",
+        "opa": "1. 33",
         "opb": "2",
-        "opc": "0.5",
+        "opc": "0. 5",
         "opd": "50",
         "subject_name": "Social & Preventive Medicine",
         "topic_name": "Classification, Coho Study",
@@ -157,7 +157,7 @@
     },
     {
         "question": "Measles shows age distribution. It is found most commonly in which age group?",
-        "exp": "Impoant diseases & their age distribution: Measles - 6 months to 3 years Mumps - 5-9yrs Chicken pox - 5-9yrs Rheumatic fever - 5 to 15 years Cancers, Cataract - >50 years Rota virus - younger infants Diabetes , HTN, CHD - > 40yrs",
+        "exp": "Impoant diseases & their age distribution: Measles - 6 months to 3 years Mumps - 5-9yrs Chicken pox - 5-9yrs Rheumatic fever - 5 to 15 years Cancers, Cataract - >50 years Rota virus - younger infants Diabetes, HTN, CHD - > 40yrs",
         "cop": 4,
         "opa": "9 months to 3 years",
         "opb": "6 months to 2 years",
@@ -170,7 +170,7 @@
     },
     {
         "question": "The incidence of carcinoma cervix in women with multiple sexual paners is 5 times the incidence seen in those with a single paner. Based on this, what is the attributable risk?",
-        "exp": "- If the incidence of carcinoma cervix in those with single paner is 'I' , then the incidence in those with multiple sexual paners will be 5 'I'. - Now attributable risk = (Incidence in exposed-Incidence in non-exposed/Incidence in exposed ) X 100 = (5I-I / 5I) X 100 = (4/5) X 100 = 80%.",
+        "exp": "- If the incidence of carcinoma cervix in those with single paner is 'I', then the incidence in those with multiple sexual paners will be 5 'I'. - Now attributable risk = (Incidence in exposed-Incidence in non-exposed/Incidence in exposed ) X 100 = (5I-I / 5I) X 100 = (4/5) X 100 = 80%.",
         "cop": 4,
         "opa": "20%",
         "opb": "40%",
