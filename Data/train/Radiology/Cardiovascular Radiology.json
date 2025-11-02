@@ -26,8 +26,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "Boot shaped Hea on chest radiograph is seen in",
-        "exp": "Boot shaped Hea - Tetralogy of fallot Egg on side - TGA Snowman appearence / figure of eight - TAPVC Box shaped hea - Ebsteins anomaly",
+        "question": "Boot shaped Heart on chest radiograph is seen in",
+        "exp": "Boot shaped Heart - Tetralogy of fallot Egg on side - TGA Snowman appearence / figure of eight - TAPVC Box shaped heart - Ebsteins anomaly",
         "cop": 1,
         "opa": "Tetralogy of fallot",
         "opb": "TAPVC",
@@ -39,8 +39,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "Column-A Column-B 1. Tetralogy of Fallot(TOF) a. Egg on side 2. Transpoion of Great Aeries(TGA) b. Snow man appearance 3. Total anomalous pulmonary venous connection(TAPVC) c. Boot shaped hea 4. Ebstein anomaly d. Money bag appearance. e. Box shaped hea",
-        "exp": "Tetralogy of Fallot: Features of TOF: Pulmonary stenosis Overriding aoa Membranous VSD RVH \"Boot shaped of hea\" on X-Ray TGA: Transpoion of Great Aeries: Narrow mediastinum Globular hea \"Egg on string\" / \"Egg on side \" appearance on X-ray Ebstein anomaly: Has low inseion of tricuspid valve causing aerializatio of Rt ventricle Small right ventricle Associated with ASD & PDA Shows \"box shaped hea\" on x-ray. Pulmonary oligemia is also seen. Total anomalous pulmonary venous connection: Supra cardiac TAPVC \"Snowman / figure of 8 /cottage loaf appearance\" on x-ray",
+        "question": "Column-A Column-B 1. Tetralogy of Fallot(TOF) a. Egg on side 2. Transpoion of Great Aeries(TGA) b. Snow man appearance 3. Total anomalous pulmonary venous connection(TAPVC) c. Boot shaped heart 4. Ebstein anomaly d. Money bag appearance. e. Box shaped heart",
+        "exp": "Tetralogy of Fallot: Features of TOF: Pulmonary stenosis Overriding aoa Membranous VSD RVH \"Boot shaped of heart\" on X-Ray TGA: Transpoion of Great Aeries: Narrow mediastinum Globular heart \"Egg on string\" / \"Egg on side \" appearance on X-ray Ebstein anomaly: Has low inseion of tricuspid valve causing aerializatio of Rt ventricle Small right ventricle Associated with ASD & PDA Shows \"box shaped heart\" on x-ray. Pulmonary oligemia is also seen. Total anomalous pulmonary venous connection: Supra cardiac TAPVC \"Snowman / figure of 8 /cottage loaf appearance\" on x-ray",
         "cop": 2,
         "opa": "1-b, 2-c, 3-a, 4-d",
         "opb": "1-c, 2-a, 3-b, 4-e",
@@ -66,9 +66,9 @@
     },
     {
         "question": "Which of the following is not a Chest radiographic feature of Left atrial enlargement?",
-        "exp": "* Left atrial enlargement / Mitral stenosis: Features: * Straighten of left hea borders * Widening of carina with elevated left main bronchus * Has double right hea borders * Enlargement of left atrial appendage * Indentation of oesophagus",
+        "exp": "* Left atrial enlargement / Mitral stenosis: Features: * Straighten of left heart borders * Widening of carina with elevated left main bronchus * Has double right heart borders * Enlargement of left atrial appendage * Indentation of oesophagus",
         "cop": 1,
-        "opa": "Double Left hea border",
+        "opa": "Double Left heart border",
         "opb": "Elevated Left main bronchus",
         "opc": "Splaying of carina",
         "opd": "Enlargement of Left atrial appendage",
@@ -78,7 +78,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Arrange the radiographic findings of Congestive heart failure in sequential order with earlier changes first and advanced findings later. 1. Kerley Lines 2. Cephalisation 3. Equalisation of Upper Lobe and Lower lobe vessels 4. Batwing appearence",
+        "question": "Arrange the radiographic findings of Congestive Heart Failure in sequential order with earlier changes first and advanced findings later. 1. Kerley Lines 2. Cephalisation 3. Equalisation of Upper Lobe and Lower lobe vessels 4. Batwing appearence",
         "exp": "Equalisation of Upper Lobe and Lower lobe vessels | Cephalisation | Kerley Lines | Batwing appearance",
         "cop": 1,
         "opa": "3-2-1-4",
@@ -92,7 +92,7 @@
     },
     {
         "question": "Plethoric lung fields are seen in all of the following conditions, except:",
-        "exp": "Ebsteins' anomaly: Plethoric lung fields are seen in conditions which increase pulmonary blood flow. They are: Left to right shunt - ASD, VSD, PDA, Coronary aery fistula into right hea, Aoopulmonary window Transposition of great aeries with ASD or VSD Truncus aeriosus Total anomalous pulmonary venous connection",
+        "exp": "Ebsteins' anomaly: Plethoric lung fields are seen in conditions which increase pulmonary blood flow. They are: Left to right shunt - ASD, VSD, PDA, Coronary aery fistula into right heart, Aoopulmonary window Transposition of great aeries with ASD or VSD Truncus aeriosus Total anomalous pulmonary venous connection",
         "cop": 3,
         "opa": "Atrial septal defect (ASD)",
         "opb": "TAPVC (Total Anomalous Pulmonary venous connection)",
@@ -117,7 +117,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Angle of tracheal bifurcation is increased in which chamber of hea enlargement.",
+        "question": "Angle of tracheal bifurcation is increased in which chamber of heart enlargement.",
         "exp": "Normal tracheal angle: 40- 80deg The angle of tracheal bifurcation may be widened in the following conditions due to the mechanical splaying of the bronchi: Subcarinal masses Lobar collapse Left atrial enlargement Generalized cardiomegaly Pericardial effusion",
         "cop": 1,
         "opa": "Left atrium",
@@ -131,7 +131,7 @@
     },
     {
         "question": "Inveed Moustache Sign is seen in",
-        "exp": "Suggestive Of Congestive heart failure Reverse Moustache Sign, Stag Antler Sign, Hands Up sign Indicate prominence of Upper Lobe Vessels(cephalization) TAPVC -Figure of 8 Constrictive pericarditis -Egg in Cup PAPVC- Scimitar Sign",
+        "exp": "Suggestive Of Congestive Heart Failure Reverse Moustache Sign, Stag Antler Sign, Hands Up sign Indicate prominence of Upper Lobe Vessels(cephalization) TAPVC -Figure of 8 Constrictive pericarditis -Egg in Cup PAPVC- Scimitar Sign",
         "cop": 4,
         "opa": "TAPVC",
         "opb": "PAPVC",
@@ -195,8 +195,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Right hea border on CXR is formed by all except?",
-        "exp": "Borders of the hea: Right hea border: Superior Vena Cava Rt atrium Inferior vena cava Left Hea Border: Aoic knuckle Pulmonary conus Left auricle Left ventricle",
+        "question": "Right heart border on CXR is formed by all except?",
+        "exp": "Borders of the heart: Right heart border: Superior Vena Cava Rt atrium Inferior vena cava Left Heart Border: Aoic knuckle Pulmonary conus Left auricle Left ventricle",
         "cop": 4,
         "opa": "SVC",
         "opb": "Right atrium",
@@ -234,8 +234,8 @@
         "choice_type": "single"
     },
     {
-        "question": "On X-ray chest PA view, the anterior surface of the hea is formed by:",
-        "exp": "The Right ventricle forms the front of the hea with a contribution at its upper pa from the Right atrial appendage.",
+        "question": "On X-ray chest PA view, the anterior surface of the heart is formed by:",
+        "exp": "The Right ventricle forms the front of the heart with a contribution at its upper pa from the Right atrial appendage.",
         "cop": 1,
         "opa": "Right ventricle",
         "opb": "Left ventricle",
@@ -248,11 +248,11 @@
     },
     {
         "question": "Radiological signs of coarctation of aoa are all EXCEPT:",
-        "exp": "Coarctation of the aoa is the most common congenital cardiovascular cause of hypertension. The diagnosis may be confirmed by Chest x-ray and Transesophageal echocardiography. Rib notching is the most specific sign and it occurs mainly in the fouh to the tenth ribs and appears by the age of 10. The left border of the hea shows the 3 sign. Therapeutic options include Surgical repair and balloon angioplasty, with or without placement of an Intravascular stent. TRANSPOSITION OF GREAT AERIES (TGA): The vascular pedicle is characteristically narrow in the frontal plane because the pulmonary aery lies behind the aoa and not by its side. The Hea is enlarged and takes the shape of an \"egg on the side\"",
+        "exp": "Coarctation of the aoa is the most common congenital cardiovascular cause of hypertension. The diagnosis may be confirmed by Chest x-ray and Transesophageal echocardiography. Rib notching is the most specific sign and it occurs mainly in the fouh to the tenth ribs and appears by the age of 10. The left border of the heart shows the 3 sign. Therapeutic options include Surgical repair and balloon angioplasty, with or without placement of an Intravascular stent. TRANSPOSITION OF GREAT AERIES (TGA): The vascular pedicle is characteristically narrow in the frontal plane because the pulmonary aery lies behind the aoa and not by its side. The Heart is enlarged and takes the shape of an \"egg on the side\"",
         "cop": 4,
         "opa": "Rib notching",
         "opb": "'E' sign",
-        "opc": "Normal shaped hea",
+        "opc": "Normal shaped heart",
         "opd": "'Egg on side' appearance",
         "subject_name": "Radiology",
         "topic_name": "Cardiovascular Radiology",
@@ -273,8 +273,8 @@
         "choice_type": "multi"
     },
     {
-        "question": "A 48-year-old female was admitted to the hospital with dyspnoea, chest pain and a feeling of pressure on her chest. A CXR was ordered as pa of her investigations. The patient had a normal CXR 5 months ago with normal hea size. Which of the following is the most probable diagnosis?",
-        "exp": "The CXR shows globular enlargement of the cardiac shadow. The lungs and pleural spaces are clear. The differentials include pericardial effusion, cardiac chamber enlargement or cardiomyopathy. In this case, as the patient had a normal CXR 5 months prior, the most likely diagnosis is a pericardial effusion. A globular appearance (Money bag appearance) to the cardiac outline has been described with pericardial effusions, but the most useful sign is a rapid change in hea size or shape with little or no evidence of pulmonary venous congestion. Diagnosis is usually confirmed by echocardiography.",
+        "question": "A 48-year-old female was admitted to the hospital with dyspnoea, chest pain and a feeling of pressure on her chest. A CXR was ordered as pa of her investigations. The patient had a normal CXR 5 months ago with normal heart size. Which of the following is the most probable diagnosis?",
+        "exp": "The CXR shows globular enlargement of the cardiac shadow. The lungs and pleural spaces are clear. The differentials include pericardial effusion, cardiac chamber enlargement or cardiomyopathy. In this case, as the patient had a normal CXR 5 months prior, the most likely diagnosis is a pericardial effusion. A globular appearance (Money bag appearance) to the cardiac outline has been described with pericardial effusions, but the most useful sign is a rapid change in heart size or shape with little or no evidence of pulmonary venous congestion. Diagnosis is usually confirmed by echocardiography.",
         "cop": 2,
         "opa": "Cardiomyopathy",
         "opb": "Pericardial effusion",

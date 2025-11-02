@@ -27,7 +27,7 @@
     },
     {
         "question": "In a patient with history of recurrent syncope, Holter recording shows QT interval of 680msec. Which disease is suspected in this patient?",
-        "exp": "Normal QT interval= 360-440 msec. Option A: QT interval prolonged- predisposes to Torsades de Pointes, so Dx of this is Long QT syndrome. Option B: Channel defect (SCN5A defect) in hea-->depolarization is defective -->defective development of voltage gradient leads to arrhythmia which result in Brugada syndrome. Option C: ARVD is fibrofatty deposition in RV epicardium & in ECG presence of Epsilon wave Option D: Lev's disease characterized by fibrosis in conduction system, so will result in Bradyarrhythmia.",
+        "exp": "Normal QT interval= 360-440 msec. Option A: QT interval prolonged- predisposes to Torsades de Pointes, so Dx of this is Long QT syndrome. Option B: Channel defect (SCN5A defect) in heart-->depolarization is defective -->defective development of voltage gradient leads to arrhythmia which result in Brugada syndrome. Option C: ARVD is fibrofatty deposition in RV epicardium & in ECG presence of Epsilon wave Option D: Lev's disease characterized by fibrosis in conduction system, so will result in Bradyarrhythmia.",
         "cop": 1,
         "opa": "Long QT syndrome",
         "opb": "Brugada syndrome",
@@ -53,7 +53,7 @@
     },
     {
         "question": "Which of the following is associated with A-V block?",
-        "exp": "Hypothyroidism will lead to myxedema which can interfere in A. V conduction pathway of hea. Etiologies of Atrioventricular Block Autonomic Carotid sinus hypersensitivity Vasovagal Metabolic/ Endocrine Hyperkalemia Hypermagnesemia Hypothyroidism Adrenal insufficiency Drug Related Beta blocker Calcium channel blockers Digitalis Adenosine Antiarrhythmics (class I and III) Lithium Infectious Endocarditis Lyme disease Chagas disese Syphilis Tuberculosis Diphtheria Toxoplasmosis Heritable/ congenital",
+        "exp": "Hypothyroidism will lead to myxedema which can interfere in A. V conduction pathway of heart. Etiologies of Atrioventricular Block Autonomic Carotid sinus hypersensitivity Vasovagal Metabolic/ Endocrine Hyperkalemia Hypermagnesemia Hypothyroidism Adrenal insufficiency Drug Related Beta blocker Calcium channel blockers Digitalis Adenosine Antiarrhythmics (class I and III) Lithium Infectious Endocarditis Lyme disease Chagas disese Syphilis Tuberculosis Diphtheria Toxoplasmosis Heritable/ congenital",
         "cop": 1,
         "opa": "Hypothyroidism",
         "opb": "Hypehyroidism",
@@ -66,7 +66,7 @@
     },
     {
         "question": "A 65-year-old man is about to undergo an elective hip replacement. A pre-operative ECG is taken (see below). Based upon the ECG, which of the following jugular venous pressure (JVP) abnormalities is most likely to be present?",
-        "exp": "ECG= Variable RR interval in the later pa of ECG. So, it is Dx of Atrial fibrillation. Option A: Absent A wave Option B: Cannon A waves found in Heart block & Junctional tachycardia Option C: Giant V wave=TR Option D: Rise JVP during Inspiration= Kussmaul sign",
+        "exp": "ECG= Variable RR interval in the later pa of ECG. So, it is Dx of Atrial fibrillation. Option A: Absent A wave Option B: Cannon A waves found in Heart Block & Junctional tachycardia Option C: Giant V wave=TR Option D: Rise JVP during Inspiration= Kussmaul sign",
         "cop": 1,
         "opa": "Absent A waves",
         "opb": "Cannon A waves",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Most common sustained tachycardia in healthy young women is?",
-        "exp": "Most common sustained tachycardia in healthy young women is: AVN/PSVT Option B: AV (Atrioventricular Reentrant Tachycardia) seen with pre excitation syndrome like WPW syndrome where there is abnormal conduction pathway in the hea.",
+        "exp": "Most common sustained tachycardia in healthy young women is: AVN/PSVT Option B: AV (Atrioventricular Reentrant Tachycardia) seen with pre excitation syndrome like WPW syndrome where there is abnormal conduction pathway in the heart.",
         "cop": 1,
         "opa": "AVN",
         "opb": "AV",
@@ -222,9 +222,9 @@
     },
     {
         "question": "Mrs Sharma, a retired government officer has recently been diagnosed with non-valvular atrial fibrillation. When considering the need for staing anti-coagulation therapy which scoring system can be used to calculate her percentage 1 year risk of developing a major bleed?",
-        "exp": "Option A: HEA - Chest pain severity Option B: HASBLED- Risk of CNS bleeed Option C: CHADS2- Vasc - Decision for anticoagulation Option D: NIHSS - Stroke severity score HAS - BLED Letter Clinical Characteristic Points H Hypertension 1 A Abnormal Liver or Renal Function 1 or 2 S Stroke 1 B Bleeding 1 L Labile INR 1 E Elderly (age>65) 1 D Drugs or Alcohol 1 or 2 Maximum 9 HEA score for chest pain patients History Highly suspicious 2 Moderately suspicious 1 Slightly SUSPICIOUS 0 ECG Significant ST-detion 2 Non-specific repolarisation 1 Normal 0 Age > 65 years 2 45 -- 65 years 1 <45 years 0 Risk factors >3 risk factors or history of atherosclerotic disease 2 1 or 2 risk factors 1 No risk factors known 0 Troponin 3x normal limit 2 1-3x normal limit 1 Normal limit 0",
+        "exp": "Option A: HEART - Chest pain severity Option B: HASBLED- Risk of CNS bleeed Option C: CHADS2- Vasc - Decision for anticoagulation Option D: NIHSS - Stroke severity score HAS - BLED Letter Clinical Characteristic Points H Hypertension 1 A Abnormal Liver or Renal Function 1 or 2 S Stroke 1 B Bleeding 1 L Labile INR 1 E Elderly (age>65) 1 D Drugs or Alcohol 1 or 2 Maximum 9 HEART score for chest pain patients History Highly suspicious 2 Moderately suspicious 1 Slightly SUSPICIOUS 0 ECG Significant ST-detion 2 Non-specific repolarisation 1 Normal 0 Age > 65 years 2 45 -- 65 years 1 <45 years 0 Risk factors >3 risk factors or history of atherosclerotic disease 2 1 or 2 risk factors 1 No risk factors known 0 Troponin 3x normal limit 2 1-3x normal limit 1 Normal limit 0",
         "cop": 2,
-        "opa": "HEA",
+        "opa": "HEART",
         "opb": "HASBLED",
         "opc": "CHADS2 -Vasc",
         "opd": "NIHS",

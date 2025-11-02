@@ -39,7 +39,7 @@
         "choice_type": "single"
     },
     {
-        "question": "A 52-year-old woman presents with exeional fatigue and ascites. She is noted to have a rapid, irregular pulse rate. The chest X-ray reveals a small hea with calcification seen on the lateral view. The 12-lead ECG demonstrates low QRS voltage. Clinical diagnosis is?",
+        "question": "A 52-year-old woman presents with exeional fatigue and ascites. She is noted to have a rapid, irregular pulse rate. The chest X-ray reveals a small heart with calcification seen on the lateral view. The 12-lead ECG demonstrates low QRS voltage. Clinical diagnosis is?",
         "exp": "Calcification & low QRS voltage - indicates Constrictive pericarditis Other option: 1. Restrictive cardiomyopathy -No calcification 2. Acute Cor pulmonale- clots will be present 3. Rheumatic pan carditis - affects children",
         "cop": 2,
         "opa": "Rheumatic pan-carditis",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Which of the following is not seen with hyperkalemia?",
-        "exp": "Bidirectional tachycardia - associate with digoxin toxicity but MC - Ventricular Bigeminy K+ slows the hea it can trigger sinus bradycardia contribute to sinus arrest Hyperkalemia - Diastolic arrest Sinus bradycardia Slow idioventricular rhythm Digoxin toxicity Ventricular Bigeminy Nonparoxysmal atrial tachycardia with AV block Bidirectional Tachycardia",
+        "exp": "Bidirectional tachycardia - associate with digoxin toxicity but MC - Ventricular Bigeminy K+ slows the heart it can trigger sinus bradycardia contribute to sinus arrest Hyperkalemia - Diastolic arrest Sinus bradycardia Slow idioventricular rhythm Digoxin toxicity Ventricular Bigeminy Nonparoxysmal atrial tachycardia with AV block Bidirectional Tachycardia",
         "cop": 4,
         "opa": "Sinus bradycardia",
         "opb": "Ventricular tachycardia",
@@ -130,8 +130,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Normal Axis of the hea is best described as being between:",
-        "exp": "Cardiac Axis Normal Cardiac Axis Normal cardiac axis flow down and towards the left lower aspect of the hea between - 30 and +110 Left Axis Detion Cardiac axis flow is upward and toward the left upper half of the hea between -30 and -90 Right Axis Detion Cardiac axis flow is downward and toward the right pa of the hea between +90 and +/-180 Extreme Right Axis Detion When flow of cardiac axis is upward and to the right between +/-180 and -90",
+        "question": "Normal Axis of the heart is best described as being between:",
+        "exp": "Cardiac Axis Normal Cardiac Axis Normal cardiac axis flow down and towards the left lower aspect of the heart between - 30 and +110 Left Axis Detion Cardiac axis flow is upward and toward the left upper half of the heart between -30 and -90 Right Axis Detion Cardiac axis flow is downward and toward the right pa of the heart between +90 and +/-180 Extreme Right Axis Detion When flow of cardiac axis is upward and to the right between +/-180 and -90",
         "cop": 1,
         "opa": "-30 to + 110",
         "opb": "+30 to - 110",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Complete AV nodal block results in?",
-        "exp": "Option A: Progressive increase of PR interval followed by dropped hea beat is ECG feature of Mobitz I Heart block Option B: More than 3 different morphologies of 'P' wave is feature of Multifocal Atrial Tachycardia. Option C: Pwave is absent in atrial fibrillation. Option D: ECG finding of complete heart block",
+        "exp": "Option A: Progressive increase of PR interval followed by dropped heart beat is ECG feature of Mobitz I Heart Block Option B: More than 3 different morphologies of 'P' wave is feature of Multifocal Atrial Tachycardia. Option C: Pwave is absent in atrial fibrillation. Option D: ECG finding of complete heart block",
         "cop": 4,
         "opa": "Progressive increase of PR interval followed by dropped beat",
         "opb": "More than 3 different morphologies of P waves",
@@ -159,7 +159,7 @@
         "question": "A 35 year old lady with following skin lesion and repeated episodes of syncope on sudden change of position. ECG shows?",
         "exp": "The rhythm strip shows lack of relation between P wave and QRS complexes. Notice a P wave followed by another P wave. (RED). P-P interval is about 100/min (BLUE). RR interval is 40/min (ORANGE). PR interval is changing with every beat. These findings are seen in complete heart block. The picture of nose of patient indicates lupus pernio. The patient is suffering from cardiac complications of sarcoidosis.",
         "cop": 1,
-        "opa": "Complete heart block",
+        "opa": "Complete heart Block",
         "opb": "First degree heart block",
         "opc": "Second degree heart block",
         "opd": "2: 1 heart block",
@@ -170,7 +170,7 @@
     },
     {
         "question": "You are asked to review the ECG below, for a 72-year-old male who has presented to ER with falls. Based on your ECG interpretation, what is the likely diagnosis?",
-        "exp": "Missed beat in ECG, PR interval-before & after missed beat are unequal in size-patient have serial prolongation of PR interval F/B drop beat - MOBITZ-I Heart block",
+        "exp": "Missed beat in ECG, PR interval-before & after missed beat are unequal in size-patient have serial prolongation of PR interval F/B drop beat - MOBITZ-I Heart Block",
         "cop": 4,
         "opa": "Hyperkalaemia",
         "opb": "Second degree - Mobitz Type 2 - heart block",
@@ -429,7 +429,7 @@
         "choice_type": "single"
     },
     {
-        "question": "This ECG is of a 23 year old medical student who complained of an irregular heabeat. Other than an irregular pulse, his hea was clinically normal. What does the ECG show?",
+        "question": "This ECG is of a 23 year old medical student who complained of an irregular heabeat. Other than an irregular pulse, his heart was clinically normal. What does the ECG show?",
         "exp": "The ECG shows a heart rate of 100/min with normal axis. P wave and PR interval are in normal limits. Wide complex q. RS is noted in lead II, III indicating Ventricular extra-systoles or premature ventricular contractions. ST segment and QT interval are within normal limits. In young and asymptomatic individuals extra-systoles do not indicate any significant heart disease.",
         "cop": 1,
         "opa": "Venticular Extra-systole",
@@ -456,7 +456,7 @@
     },
     {
         "question": "A 50 year old breast cancer patient presents with breathlessness. What does the ECG show?",
-        "exp": "HR is about 150/min with variation in electrical axis due to fluctuation in amplitude of QRS complex on beat to beat variation. Malignancies like breast cancer and lung cancer can metastasize to the hea leading to cardiac tamponade.",
+        "exp": "HR is about 150/min with variation in electrical axis due to fluctuation in amplitude of QRS complex on beat to beat variation. Malignancies like breast cancer and lung cancer can metastasize to the heart leading to cardiac tamponade.",
         "cop": 3,
         "opa": "Normal tracing",
         "opb": "AV dissociation",

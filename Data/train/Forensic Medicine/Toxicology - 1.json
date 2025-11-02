@@ -91,8 +91,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Beer drinker's hea is associated with",
-        "exp": "Beer drinker's hea is associated with COBALT. C/F of cobalt toxicity: 1. Classic toxidrome of chronic cobalt poisoning: Tetrad of -Goitre -Polycythaemia -Cardiomyopathy -Metabolic acidosis. 2. Chronic inhalation of cobalt - hard metal lung disease, characterised by pulmonary fibrosis and an obstructive airway syndrome. 3. Regular consumption of beer to which cobalt chloride or sulfate is added (to enhance foaming), results in cardiomyopathy, k/a Beer drinker's hea. 4. Dermal contact can cause \"cobalt itch\" or \"carboloy-itch\" (an allergic erythematous papular eruption).",
+        "question": "Beer drinker's heart is associated with",
+        "exp": "Beer drinker's heart is associated with COBALT. C/F of cobalt toxicity: 1. Classic toxidrome of chronic cobalt poisoning: Tetrad of -Goitre -Polycythaemia -Cardiomyopathy -Metabolic acidosis. 2. Chronic inhalation of cobalt - hard metal lung disease, characterised by pulmonary fibrosis and an obstructive airway syndrome. 3. Regular consumption of beer to which cobalt chloride or sulfate is added (to enhance foaming), results in cardiomyopathy, k/a Beer drinker's heart. 4. Dermal contact can cause \"cobalt itch\" or \"carboloy-itch\" (an allergic erythematous papular eruption).",
         "cop": 4,
         "opa": "Copper",
         "opb": "Magnesium",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Flea bitten appearance of stomach mucosa is seen in:",
-        "exp": "PM findings of acute arsenic poisoning: 1. Gastrointestinal congestion is a feature in acute arsenic poisoning and varies from reddening of mucosa (red velvet) to frank haemorrhagic gastritis. 2. Focal haemorrhages giving rise to flea bitten appearance is said to be characteristic. 3. Intestines may be inflamed and may contain \"rice water\" contents. 4. Subendocardial haemorrhages are often seen in hea.",
+        "exp": "PM findings of acute arsenic poisoning: 1. Gastrointestinal congestion is a feature in acute arsenic poisoning and varies from reddening of mucosa (red velvet) to frank haemorrhagic gastritis. 2. Focal haemorrhages giving rise to flea bitten appearance is said to be characteristic. 3. Intestines may be inflamed and may contain \"rice water\" contents. 4. Subendocardial haemorrhages are often seen in heart.",
         "cop": 1,
         "opa": "Arsenic poisoning",
         "opb": "Sulphuric acid poisoing",
@@ -222,7 +222,7 @@
     },
     {
         "question": "The toxidrome of goitre, polycythaemia, cardiomyopathy, and metabolic acidosis is diagnostic of:-",
-        "exp": "Clinical Features of cobalt toxicity: 1. The classic toxidrome of chronic cobalt poisoning is the tetrad of goitre, polycythaemia, cardiomyopathy, and metabolic acidosis. 2. Chronic exposure to cobalt in the form of inhalation results in hard metal lung disease, characterised by pulmonary fibrosis and an obstructive airway syndrome. It can induce or exacerbate asthma. 3. Regular consumption of beer to which cobalt chloride or sulfate has been added (to enhance foaming) over a period of time can result in cardiomyopathy, referred to as beer drinker's hea which carries a relatively high moality of nearly 50%. 4. Dermal contact can cause \"cobalt itch\" or \"carboloy-itch\" (an allergic erythematous papular eruption). Chronic exposure can cause nerve deafness and optic atrophy. 5. Ingestion of magnets can cause acute cobalt toxicity. 6. Cobalt exposure has also been linked to an increased risk of cancer.",
+        "exp": "Clinical Features of cobalt toxicity: 1. The classic toxidrome of chronic cobalt poisoning is the tetrad of goitre, polycythaemia, cardiomyopathy, and metabolic acidosis. 2. Chronic exposure to cobalt in the form of inhalation results in hard metal lung disease, characterised by pulmonary fibrosis and an obstructive airway syndrome. It can induce or exacerbate asthma. 3. Regular consumption of beer to which cobalt chloride or sulfate has been added (to enhance foaming) over a period of time can result in cardiomyopathy, referred to as beer drinker's heart which carries a relatively high moality of nearly 50%. 4. Dermal contact can cause \"cobalt itch\" or \"carboloy-itch\" (an allergic erythematous papular eruption). Chronic exposure can cause nerve deafness and optic atrophy. 5. Ingestion of magnets can cause acute cobalt toxicity. 6. Cobalt exposure has also been linked to an increased risk of cancer.",
         "cop": 1,
         "opa": "Cobalt",
         "opb": "Barium",
@@ -287,7 +287,7 @@
     },
     {
         "question": "Brain is preserved in all of the following, except:",
-        "exp": "Preservation of additional viscera: (1) Hea: strychnine, digitalis, yellow oleander. (2) Brain: alkaloids, OPC, opiates, CO, cyanide, strychnine, barbiturates; and volatile organic poisons. (3) Spinal cord: strychnine and gelsemium. (4) C. S. F: alcohol (5) Bile: Narcotic drugs, cocaine, methadone, glutathione, barbiturates (6) Vitreous humour: alcohol, chloroform, cocaine. (7) Lung: one lung in gaseous poisons, hydrocyanic acid, alcohol, chloroform, etc. (8) Bone: arsenic, antimony, thallium or radium. (9) Fat: 10 gm from abdominal wall or perinephric region in cases of poisoning by pesticides and insecticides.",
+        "exp": "Preservation of additional viscera: (1) Heart: strychnine, digitalis, yellow oleander. (2) Brain: alkaloids, OPC, opiates, CO, cyanide, strychnine, barbiturates; and volatile organic poisons. (3) Spinal cord: strychnine and gelsemium. (4) C. S. F: alcohol (5) Bile: Narcotic drugs, cocaine, methadone, glutathione, barbiturates (6) Vitreous humour: alcohol, chloroform, cocaine. (7) Lung: one lung in gaseous poisons, hydrocyanic acid, alcohol, chloroform, etc. (8) Bone: arsenic, antimony, thallium or radium. (9) Fat: 10 gm from abdominal wall or perinephric region in cases of poisoning by pesticides and insecticides.",
         "cop": 3,
         "opa": "OPC poisoning",
         "opb": "Alkaloid poisoning",

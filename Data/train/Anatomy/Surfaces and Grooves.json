@@ -52,8 +52,8 @@
         "choice_type": "single"
     },
     {
-        "question": "In PA view CXR, right border of the hea is contributed by-",
-        "exp": "Right border of hea SVC Right atrium IVC Ascending aoa",
+        "question": "In PA view CXR, right border of the heart is contributed by-",
+        "exp": "Right border of heart SVC Right atrium IVC Ascending aoa",
         "cop": 2,
         "opa": "pulmonary trunk",
         "opb": "ascending aoa",
@@ -79,7 +79,7 @@
     },
     {
         "question": "Mediastinal surface of right lung is related to",
-        "exp": "> (because hea & its blood vessels should be preferred first as an answer as they cause direct impression on lungs). * mediastinal surface of Right lung contains Left lung contains Hea (right atrium) Superior vena cava Inferior vena cava Azygos vein Esophagus Right subclan aery & vein arch over and are related to superior lobe of right lung. Hea (left ventricle) Aoic arch Thoracic aoa Esophagus Left subclan aery & vein arch over & related to superior lobe of left lung. fig;- major structure related to mediastinal surface of right lung Right lymphatic duct - not related to lung Thoracic duct - related to left lung mediastinal surface But they do not put great impression on lungs * Trachea is more towards right lung * Esophagus is more towards left lung",
+        "exp": "> (because heart & its blood vessels should be preferred first as an answer as they cause direct impression on lungs). * mediastinal surface of Right lung contains Left lung contains Heart (right atrium) Superior vena cava Inferior vena cava Azygos vein Esophagus Right subclan aery & vein arch over and are related to superior lobe of right lung. Heart (left ventricle) Aoic arch Thoracic aoa Esophagus Left subclan aery & vein arch over & related to superior lobe of left lung. fig;- major structure related to mediastinal surface of right lung Right lymphatic duct - not related to lung Thoracic duct - related to left lung mediastinal surface But they do not put great impression on lungs * Trachea is more towards right lung * Esophagus is more towards left lung",
         "cop": 1,
         "opa": "Azygos vein",
         "opb": "Right lymphatic duct",
@@ -144,7 +144,7 @@
     },
     {
         "question": "The structure makred by the blue arrow develops from which of the following structures?",
-        "exp": "Answer- Endocardial cushions ( structure makred is membranous inter-ventricular septum) DEVELOPMENT OF HEA Hea develops from: Angioblastic tissue(Splanchnopleuric mesoderm). Main subdivisions of hea tube and their fate: Subdivision tube fate Truncus aeriosus Forms Ascending aoa, Pulmonary trunk Conus Absorbed into ventricle Ventricle Forms chamber divided into left and right ventricles Atrioventricular canal Form pa of atria Atrium Paitioned into right and left atrium Sinus venosus Absorbed into right atrium Right common cardinal vein Forms Superior vena cava Umblical vein Disappears Right vitelline vein Forms pa of Inferior vena cava Left horn of sinus venosus Forms pa of coronary sinus",
+        "exp": "Answer- Endocardial cushions ( structure makred is membranous inter-ventricular septum) DEVELOPMENT OF HEART Heart develops from: Angioblastic tissue(Splanchnopleuric mesoderm). Main subdivisions of heart tube and their fate: Subdivision tube fate Truncus aeriosus Forms Ascending aoa, Pulmonary trunk Conus Absorbed into ventricle Ventricle Forms chamber divided into left and right ventricles Atrioventricular canal Form pa of atria Atrium Paitioned into right and left atrium Sinus venosus Absorbed into right atrium Right common cardinal vein Forms Superior vena cava Umblical vein Disappears Right vitelline vein Forms pa of Inferior vena cava Left horn of sinus venosus Forms pa of coronary sinus",
         "cop": 2,
         "opa": "Septum primum",
         "opb": "Endocardial Cushion",
@@ -183,10 +183,10 @@
     },
     {
         "question": "All are true about mediastinum EXCEPT -",
-        "exp": "Mediastinum: is middle space left in thoracic cavity in between the lungs. The superior & inferior mediastinum is divided by an imaginary line passing through sternal angle anteriorly & lower border of T4 posteriorly. Inferiorly, mediastinum is subdivided into anterior, middle & posterior mediastinum by the pericardium. CONTENTS OF MEDIASTINUM: Superior mediastinum Middle mediastinum Anterior mediastinum Posterior mediastinum Oesophagus Trachea Aoic arch + branches Upper pa of SVC Phrenic nerves Vagus nerve Major pa of thymus Pericardium Hea Pulmonary trunk Ascending aoa Lower SVC Upper IVC Phrenic nerve Sterno - pericardial ligaments Lymph nodes Lowest pa of thymus Areolar tissue Oesophagus Descending thoracic aoa Vagus nerve Azygous, hemiazygos veins.",
+        "exp": "Mediastinum: is middle space left in thoracic cavity in between the lungs. The superior & inferior mediastinum is divided by an imaginary line passing through sternal angle anteriorly & lower border of T4 posteriorly. Inferiorly, mediastinum is subdivided into anterior, middle & posterior mediastinum by the pericardium. CONTENTS OF MEDIASTINUM: Superior mediastinum Middle mediastinum Anterior mediastinum Posterior mediastinum Oesophagus Trachea Aoic arch + branches Upper pa of SVC Phrenic nerves Vagus nerve Major pa of thymus Pericardium Heart Pulmonary trunk Ascending aoa Lower SVC Upper IVC Phrenic nerve Sterno - pericardial ligaments Lymph nodes Lowest pa of thymus Areolar tissue Oesophagus Descending thoracic aoa Vagus nerve Azygous, hemiazygos veins.",
         "cop": 1,
-        "opa": "Hea passes through superior mediastinum",
-        "opb": "Hea passes through middle mediastinum",
+        "opa": "Heart passes through superior mediastinum",
+        "opb": "Heart passes through middle mediastinum",
         "opc": "Thymus present in superior mediastinum",
         "opd": "Lower border of posterior mediastinum is extended more than anterior mediastinum",
         "subject_name": "Anatomy",
@@ -208,7 +208,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "WRONG about venous drainage of hea:",
+        "question": "WRONG about venous drainage of heart:",
         "exp": "Middle cardiac vein lies in posterior interventricular (not atrioventricular) groove.",
         "cop": 2,
         "opa": "Coronary sinus is guarded by Thebesian valve",

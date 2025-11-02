@@ -4,7 +4,7 @@
         "exp": "ECG s/o Supraventricular tachycardia Characterized by rapid heart rate (about 250 beats per minute)and a consistent P wave for each QRS complex. Prolonged SVT can lead to heart failure with hepatomegaly and respiratory compromise. Fetal SVT can lead to hydrops fetalis. The first-line treatment is to stimulate the vagus nerve using techniques such as carotid massage, immersion of the face in cold water, or voluntary straining. Rapid infusion of IV adenosine can affect resolution if the maneuvers are not successful. Verapamil is contraindicated in this age group, as it may cause acute hypotension and cardiac arrest. Synchronized DC cardioversion may be performed in patients in shock or with heart failure; it must, however, be synchronized to the QRS complex. Transthoracic pacing is useful in bradyarrhythmias.",
         "cop": 3,
         "opa": "Rapid verapamil infusion",
-        "opb": "Transthoracic pacing of the hea",
+        "opb": "Transthoracic pacing of the heart",
         "opc": "Carotid massage",
         "opd": "DC cardioversion",
         "subject_name": "Pediatrics",
@@ -18,7 +18,7 @@
         "cop": 3,
         "opa": "TGA with VSD",
         "opb": "VSD",
-        "opc": "Hypoplastic left hea syndrome",
+        "opc": "Hypoplastic left heart syndrome",
         "opd": "Non-obstructive TAPVC",
         "subject_name": "Pediatrics",
         "topic_name": "Other heart diseases in children",
@@ -27,7 +27,7 @@
     },
     {
         "question": "chest x- ray shows the following finding. What is the diagnosis?",
-        "exp": "--> Given x-ray is showing \" FIGURE OF 8 \" / \"SNOW MAN\" appearance --> Characteristic feature of supracardiac TAPVC --> TAPVC: In this condition, Pulmonary veins instead of draining into left atrium, anomalously drains into the right atrium directly/indirectly 3 types based on level of its drain Supracardiac (MC) --> Drain above level of hea in superior vena cava --> Non-obstructive Cardiac --> Drain at level of hea directly into right atrium or coronary sinus Infracardiac --> Drain below level of hea - IVC/ hepatic vein/ poal vein (always obstructive). X-ray shows\" Ground glass \" appearance --> Treatment: Surgery OTHER OPTIONS: --> Boot shaped hea/ cor en sabot appearance --> Tetralogy of fallot --> Left axis detion on ECG + congenital cyanotic heart disease --> Tricuspid atresia",
+        "exp": "--> Given x-ray is showing \" FIGURE OF 8 \" / \"SNOW MAN\" appearance --> Characteristic feature of supracardiac TAPVC --> TAPVC: In this condition, Pulmonary veins instead of draining into left atrium, anomalously drains into the right atrium directly/indirectly 3 types based on level of its drain Supracardiac (MC) --> Drain above level of heart in superior vena cava --> Non-obstructive Cardiac --> Drain at level of heart directly into right atrium or coronary sinus Infracardiac --> Drain below level of heart - IVC/ hepatic vein/ poal vein (always obstructive). X-ray shows\" Ground glass \" appearance --> Treatment: Surgery OTHER OPTIONS: --> Boot shaped heart/ cor en sabot appearance --> Tetralogy of fallot --> Left axis detion on ECG + congenital cyanotic heart disease --> Tricuspid atresia",
         "cop": 4,
         "opa": "Tetralogy of fallot",
         "opb": "Tricuspid atresia",
@@ -66,7 +66,7 @@
     },
     {
         "question": "A two-month-old infant is brought to emergency depament with marked respiratory distress. On examination, the infant has cyanosis and bilateral crepitations. Heart rate is 180/min, respiratory rate 56/min and the liver span 7. 5 cm. The child had repeated episodes of fever, cough and respiratory distress since the time of bih. Cardiovascular examination reveals a grade III ejection systolic murmur in left para-sternal area and the chest X-ray reveals cardiomegaly with a narrow base and plethoric lung fields. What is the most likely diagnosis?",
-        "exp": "- In the given case scenario, infant has features of heart failure, cyanosis with repeated episodes of pneumonia suggesting increased pulmonary blood flow. - These clinical features along with the chest X ray findings are suggestive of Transposition of great aeries. - ON X-RAY: 'Egg on side' or 'Egg on string' appearance is characteristic of transposition of great aeries Other options: Congenital methemoglobinemia: Inherited in autosomal recessive pattern Diagnosed by genetic testing/ blood tests CYSTIC FIBROSIS: Mutation in gene encoding for CFTR - Located on long arm of chromosome 7 Presents with recurrent bronchiolitis in infancy, recurrent lower resp tract infections, bronchiectasis, steatorrhea, pancreatitis & azoospermia Diagnosed by presence of typical phenotype/ family history & confirmed by high sweat chloride on atleast 2 occasions/ by identifying mutation in both copies of CFTR TOF: Doesn't present with cyanosis at bih. X-ray shows Boot shaped hea.",
+        "exp": "- In the given case scenario, infant has features of heart failure, cyanosis with repeated episodes of pneumonia suggesting increased pulmonary blood flow. - These clinical features along with the chest X ray findings are suggestive of Transposition of great aeries. - ON X-RAY: 'Egg on side' or 'Egg on string' appearance is characteristic of transposition of great aeries Other options: Congenital methemoglobinemia: Inherited in autosomal recessive pattern Diagnosed by genetic testing/ blood tests CYSTIC FIBROSIS: Mutation in gene encoding for CFTR - Located on long arm of chromosome 7 Presents with recurrent bronchiolitis in infancy, recurrent lower resp tract infections, bronchiectasis, steatorrhea, pancreatitis & azoospermia Diagnosed by presence of typical phenotype/ family history & confirmed by high sweat chloride on atleast 2 occasions/ by identifying mutation in both copies of CFTR TOF: Doesn't present with cyanosis at bih. X-ray shows Boot shaped heart.",
         "cop": 2,
         "opa": "Congenital methemoglobinemia",
         "opb": "Transposition of great aeries",
@@ -91,8 +91,8 @@
         "choice_type": "single"
     },
     {
-        "question": "According to American hea association & world hea federation 2015 criteria, low risk is defined as having An Acute Rheumatic Fever incidence <---------- per 100, 000 school aged children per year?",
-        "exp": "- As per AHA & world hea federation 2015 criteria: Low risk is defined as having an Acute Rheumatic Fever incidence <2 per 100, 000 school aged children (5-14 yrs) /year or Prevalence of RHD of <1 per 1000 population per year.",
+        "question": "According to American heart association & world heart federation 2015 criteria, low risk is defined as having An Acute Rheumatic Fever incidence <---------- per 100, 000 school aged children per year?",
+        "exp": "- As per AHA & world heart federation 2015 criteria: Low risk is defined as having an Acute Rheumatic Fever incidence <2 per 100, 000 school aged children (5-14 yrs) /year or Prevalence of RHD of <1 per 1000 population per year.",
         "cop": 2,
         "opa": "1",
         "opb": "2",
@@ -105,10 +105,10 @@
     },
     {
         "question": "A 2-month-old baby with central cyanosis presented with the following findings on chest X-ray & ECG. What is the most probable underlying diagnosis?",
-        "exp": "- Given ECG is showing Himalayan P waves & x-ray is showing Box shaped hea - features of Ebstein anomaly. EBSTEIN ANOMALY: - Downward displacement of posterior & septal leaflets of Tricuspid valve resulting in atrialization of right ventricle. - Huge cardiomegaly, especially of Rt atrium is seen - ECG: very tall & broad P waves seen d/t enlarged atria. These P waves look like a mountain; hence called 'Himalayan' p waves",
+        "exp": "- Given ECG is showing Himalayan P waves & x-ray is showing Box shaped heart - features of Ebstein anomaly. EBSTEIN ANOMALY: - Downward displacement of posterior & septal leaflets of Tricuspid valve resulting in atrialization of right ventricle. - Huge cardiomegaly, especially of Rt atrium is seen - ECG: very tall & broad P waves seen d/t enlarged atria. These P waves look like a mountain; hence called 'Himalayan' p waves",
         "cop": 4,
         "opa": "Tetralogy of Fallot",
-        "opb": "Hypoplastic left hea syndrome",
+        "opb": "Hypoplastic left heart syndrome",
         "opc": "Coarctation of aoa",
         "opd": "Ebstein anomaly",
         "subject_name": "Pediatrics",
@@ -117,7 +117,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "In a 5 year old child, instead of the physiological splitting of second hea sound which is expected only during inspiration, a wide and a fixed split of S2 is heard during both inspiration as well as expiration. Wide fixed split of second hea sound can be seen in all of the following EXCEPT?",
+        "question": "In a 5 year old child, instead of the physiological splitting of second heart sound which is expected only during inspiration, a wide and a fixed split of S2 is heard during both inspiration as well as expiration. Wide fixed split of second heart sound can be seen in all of the following EXCEPT?",
         "exp": "--> Normally, S2 is single during expiration & split during inspiration with louder A2 preceding P2 --> Wide splitting: - S2 splitting d/t early A2 or late P2 resulting in A2-P2 interval > 0. 03 sec during expiration. If the splitting interval increases during inspiration, it is wide variable splitting of S2. Seen in Pulmonic stenosis Mitral regurgitation Ventricular septal defect If the interval is same in inspiration & expiration, it is wide & fixed splitting of S2. Seen in Atrial septal defect Right Bundle Branch Block Total Anomalous Pulmonary Venous Connection",
         "cop": 2,
         "opa": "Atrial septal defect",
@@ -131,7 +131,7 @@
     },
     {
         "question": "Commonest cause of heart failure in infancy is:",
-        "exp": "--> The most common cause of Congestive heart failure (CHF) in infants-- Congenital heart disease. OTHER IMPOANT ONE LINERS: --> MC congenital heart disease in children --> VSD --> MC congenital acyanotic heart disease in children --> VSD --> MC congenital heart diseases affected by infective endocarditis in children --> VSD --> Congenital heart disease which is least commonly affected by Infective endocarditis --> ASD --> MC congenital heart disease causing moality in 1st wk of life --> Hypoplastic Left Hea Syndrome.",
+        "exp": "--> The most common cause of Congestive heart failure (CHF) in infants-- Congenital heart disease. OTHER IMPOANT ONE LINERS: --> MC congenital heart disease in children --> VSD --> MC congenital acyanotic heart disease in children --> VSD --> MC congenital heart diseases affected by infective endocarditis in children --> VSD --> Congenital heart disease which is least commonly affected by Infective endocarditis --> ASD --> MC congenital heart disease causing moality in 1st wk of life --> Hypoplastic Left Heart Syndrome.",
         "cop": 4,
         "opa": "Myocarditis",
         "opb": "Rheumatic fever",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Persistent truncus aeriosus leads to:",
-        "exp": "TRUNCUS AERIOSUS: - Single aerial trunk arises from hea & supplies - systemic, pulmonary & coronary circulations. VSD is always present with it. - Associated with Di. George syndrome - deletion of large region of 22q11 - Clinical features: Immediate new born period - Heart failure is absent. Murmur & minimal cyanosis are only initial findings Next 1-2 months of life - Heart failure is seen d/t increased pulmonary circulation; but still minimum cyanosis is present Wide pulse pressure & bounding pulses are seen Systolic ejection murmur sometimes accompanied by thrill - audible along left sternal border - Diagnosis: ECG - shows right, left / combined ventricular hyperophy X-ray - Cardiac enlargement in 1st week of life - Increased pulmonary vascularity after 1st few weeks of life - pulmonary plethora Echocardiography: Diagnostic & demonstrate large truncal aery overriding VSD & pattern of origin of pulmonary aeries. - It is Ductus independent.",
+        "exp": "TRUNCUS AERIOSUS: - Single aerial trunk arises from heart & supplies - systemic, pulmonary & coronary circulations. VSD is always present with it. - Associated with Di. George syndrome - deletion of large region of 22q11 - Clinical features: Immediate new born period - Heart failure is absent. Murmur & minimal cyanosis are only initial findings Next 1-2 months of life - Heart failure is seen d/t increased pulmonary circulation; but still minimum cyanosis is present Wide pulse pressure & bounding pulses are seen Systolic ejection murmur sometimes accompanied by thrill - audible along left sternal border - Diagnosis: ECG - shows right, left / combined ventricular hyperophy X-ray - Cardiac enlargement in 1st week of life - Increased pulmonary vascularity after 1st few weeks of life - pulmonary plethora Echocardiography: Diagnostic & demonstrate large truncal aery overriding VSD & pattern of origin of pulmonary aeries. - It is Ductus independent.",
         "cop": 1,
         "opa": "Bilateral ventricular hyperophy",
         "opb": "Pulmonary oligemia",
@@ -170,9 +170,9 @@
     },
     {
         "question": "Ductus dependent blood flow is required for all of the following congenital heart disease except:-",
-        "exp": "DUCTUS DEPENDENT CONDITIONS: --> Conditions which depend on a patent ductus aeriosus (PDA) to supply pulmonary or systemic blood flow. Systemic circulation Pulmonary circulation - Critical Aoic Stenosis - Severe coarctation of aoa - Interrupted aoic arch - Hypoplastic Left Hea Syndrome -Severe Pulmonary Stenosis - Severe TOF - Pulmonary atresia - Tricuspid atresia - Ebstein anomaly DUCTUS INDEPENDENT CONDITIONS: - Truncus aeriosus - TAPVC - ALCAPA",
+        "exp": "DUCTUS DEPENDENT CONDITIONS: --> Conditions which depend on a patent ductus aeriosus (PDA) to supply pulmonary or systemic blood flow. Systemic circulation Pulmonary circulation - Critical Aoic Stenosis - Severe coarctation of aoa - Interrupted aoic arch - Hypoplastic Left Heart Syndrome -Severe Pulmonary Stenosis - Severe TOF - Pulmonary atresia - Tricuspid atresia - Ebstein anomaly DUCTUS INDEPENDENT CONDITIONS: - Truncus aeriosus - TAPVC - ALCAPA",
         "cop": 4,
-        "opa": "Hypoplastic left hea syndrome",
+        "opa": "Hypoplastic left heart syndrome",
         "opb": "Pulmonary stenosis",
         "opc": "TGA with intact ventricular septum",
         "opd": "Persistent truncus aeriosus",
@@ -183,7 +183,7 @@
     },
     {
         "question": "All are signs of congestive cardiac failure in infants except?",
-        "exp": "CONGESTIVE CARDIAC FAILURE: --> Inability of hea to maintain cardiac output, necessary to meet metabolic needs of the body. --> SIGNS OF CCF: LEFT SIDED FAILURE FAILURE OF EITHER SIDE RIGHT SIDED FAILURE Tachypnea Cardiac Enlargement Hepatomegaly Tachycardia Gallop rhythm ( S3 ) Facial Edema Cough Peripheral cyanosis Jugular venous enlargement Wheezing Small volume pulse Pedal edema Rales in chest Lack of weight gain",
+        "exp": "CONGESTIVE CARDIAC FAILURE: --> Inability of heart to maintain cardiac output, necessary to meet metabolic needs of the body. --> SIGNS OF CCF: LEFT SIDED FAILURE FAILURE OF EITHER SIDE RIGHT SIDED FAILURE Tachypnea Cardiac Enlargement Hepatomegaly Tachycardia Gallop rhythm ( S3 ) Facial Edema Cough Peripheral cyanosis Jugular venous enlargement Wheezing Small volume pulse Pedal edema Rales in chest Lack of weight gain",
         "cop": 3,
         "opa": "Gallop rhythm ( S3)",
         "opb": "Lack of weight gain",
@@ -212,7 +212,7 @@
         "exp": "- In Truncus aeriosus, both the aoa and pulmonary aery arise from a common large blood vessel. - So there is already complete mixing of systemic and pulmonary circulations; fuher mixing is not necessary. Hence it is ductus independent. - In all other given options, mixing of pulmonary systemic circulations is necessary to maintain relatively better oxygenation. Thus, dependent on ductus",
         "cop": 1,
         "opa": "Truncus aeriosus",
-        "opb": "Hypoplastic left hea syndrome",
+        "opb": "Hypoplastic left heart syndrome",
         "opc": "TGA with Intact ventricular septum",
         "opd": "Obliterated aoic arch",
         "subject_name": "Pediatrics",
@@ -222,7 +222,7 @@
     },
     {
         "question": "Which of the following is not a major criteria in NADA's criteria-",
-        "exp": "Nadas criteria: --> Predicts the presence of congenital heart disease --> MAJOR CRITERIA: Systolic murmur Grade-3 or more Any grade diastolic murmur cyanosis congestive cardiac failure --> MINOR CRITERIA: Systolic murmur Grade-1 or 2 Abnormal second hea sound (S2) Abnormal ECG Abnormal X-ray Abnormal B. P --> Presence of 1 major / 2 minor criteria --> Essential for indicating the presence of heart disease.",
+        "exp": "Nadas criteria: --> Predicts the presence of congenital heart disease --> MAJOR CRITERIA: Systolic murmur Grade-3 or more Any grade diastolic murmur cyanosis congestive cardiac failure --> MINOR CRITERIA: Systolic murmur Grade-1 or 2 Abnormal second heart sound (S2) Abnormal ECG Abnormal X-ray Abnormal B. P --> Presence of 1 major / 2 minor criteria --> Essential for indicating the presence of heart disease.",
         "cop": 2,
         "opa": "Diastolic murmur",
         "opb": "Abnormal ECG",
@@ -235,7 +235,7 @@
     },
     {
         "question": "The following X - ray shows:-",
-        "exp": "- The given X ray shows cardiac shadow occupying almost entire hemithorax, giving rise to a 'BOX SHAPED' hea which is a feature of Ebstein's anomaly - EBSTEIN ANOMALY: It is d/t downward displacement of posterior & septal leaflets of tricuspid valve resulting in atrialization of right ventricle Huge cardiomegaly is seen especially right atrium ECG - shows Himalayan P waves - PPHN: Aka Persistent pulmonary hypertension in newborn Failure of normal circulatory transition that occurs after bih resulting in hypoxemia. - TTNB: Aka Transient Tachypnea of New Born MCC of respiratory distress in a term neonate BASIC DEFECT - Delayed clearance of lung fluids RISK FACTOR - Delivery by cesarean section X-ray shows - Fluid in interlobar fissure, Pleural effusion, Perihilar streaking -TOF: MC congenital cyanotic heart disease in children 4 COMPONENTS: 1. Large, unrestricted VSD 2. Pulmonary infundibular stenosis 3. Overriding of aoa 4. Right ventricular hyperophy X-ray shows --> Boot shaped hea / coeur en sabot",
+        "exp": "- The given X ray shows cardiac shadow occupying almost entire hemithorax, giving rise to a 'BOX SHAPED' heart which is a feature of Ebstein's anomaly - EBSTEIN ANOMALY: It is d/t downward displacement of posterior & septal leaflets of tricuspid valve resulting in atrialization of right ventricle Huge cardiomegaly is seen especially right atrium ECG - shows Himalayan P waves - PPHN: Aka Persistent pulmonary hypertension in newborn Failure of normal circulatory transition that occurs after bih resulting in hypoxemia. - TTNB: Aka Transient Tachypnea of New Born MCC of respiratory distress in a term neonate BASIC DEFECT - Delayed clearance of lung fluids RISK FACTOR - Delivery by cesarean section X-ray shows - Fluid in interlobar fissure, Pleural effusion, Perihilar streaking -TOF: MC congenital cyanotic heart disease in children 4 COMPONENTS: 1. Large, unrestricted VSD 2. Pulmonary infundibular stenosis 3. Overriding of aoa 4. Right ventricular hyperophy X-ray shows --> Boot shaped heart / coeur en sabot",
         "cop": 2,
         "opa": "PPHN",
         "opb": "Ebstein anomaly",
@@ -247,8 +247,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is a new Major Jones criteria in high risk population, according to AHA & world hea federation 2015 criteria:-",
-        "exp": "Revised Jones criteria for acute rheumatic fever (2015) American Hea Association and World Health Federation For all populations with: - Initial episode of acute rheumatic fever: Two major / one major + two minor criteria - Recurrent episodes of acute rheumatic fever: Two major / one major + two minor / three minor criteria - Essential criteria: Previous evidence of group A beta hemolytic streptococcal infection Low - Risk Populations - Incidence <2/100, 000 in school-going children; rheumatic heart disease prevalence <1/1000 Moderate & High-Risk Populations Incidence >2/100, 000 in school-going children; rheumatic heart disease prevalence >1/1000 Major criteria - Carditis: Clinical or subclinical - Ahritis: Polyahritis only - Chorea - Erythema marginatum - Subcutaneous nodules Major criteria - Carditis: Clinical or subclinical - Ahritis: Polyahritis or monoahritis - Polyahralgia - Chorea - Erythema marginatum - Subcutaneous nodules Minor criteria - Polyahralgia - Fever (>38. 5deg C) - ESR >=60 mm in the first hour; CRP >=3. 0 mg/dL - Prolonged PR interval, after accounting for age variability (unless carditis is a major criterion) Minor criteria - Monoahralgia - Fever (>=38deg C) - ESR >=30 mm in the first hour; CRP >=3. 0 mg/dL - Prolonged PR interval, after accounting for age variability (unless carditis is a major criterion)",
+        "question": "Which of the following is a new Major Jones criteria in high risk population, according to AHA & world heart federation 2015 criteria:-",
+        "exp": "Revised Jones criteria for acute rheumatic fever (2015) American Heart Association and World Health Federation For all populations with: - Initial episode of acute rheumatic fever: Two major / one major + two minor criteria - Recurrent episodes of acute rheumatic fever: Two major / one major + two minor / three minor criteria - Essential criteria: Previous evidence of group A beta hemolytic streptococcal infection Low - Risk Populations - Incidence <2/100, 000 in school-going children; rheumatic heart disease prevalence <1/1000 Moderate & High-Risk Populations Incidence >2/100, 000 in school-going children; rheumatic heart disease prevalence >1/1000 Major criteria - Carditis: Clinical or subclinical - Ahritis: Polyahritis only - Chorea - Erythema marginatum - Subcutaneous nodules Major criteria - Carditis: Clinical or subclinical - Ahritis: Polyahritis or monoahritis - Polyahralgia - Chorea - Erythema marginatum - Subcutaneous nodules Minor criteria - Polyahralgia - Fever (>38. 5deg C) - ESR >=60 mm in the first hour; CRP >=3. 0 mg/dL - Prolonged PR interval, after accounting for age variability (unless carditis is a major criterion) Minor criteria - Monoahralgia - Fever (>=38deg C) - ESR >=30 mm in the first hour; CRP >=3. 0 mg/dL - Prolonged PR interval, after accounting for age variability (unless carditis is a major criterion)",
         "cop": 3,
         "opa": "Monoahralgia",
         "opb": "Chorea",
@@ -261,7 +261,7 @@
     },
     {
         "question": "A five-day-old, full term male infant was severely cyanotic at bih. His chest X ray showed 'Egg-on -side' appearance. Prostaglandin E1 was administered initially and later balloon atrial septosomy was done which showed improvement in oxygenation. The most likely diagnosis of this infant is:",
-        "exp": "- Given features suggests towards diagnosis of TGA Transposition of the great vessels with an intact ventricular septum presents with early cyanosis, normal-sized hea, normal or slightly increased pulmonary vascular markings, and an ECG showing right-axis detion and right ventricular hyperophy - Balloon atrial septostomy: Helpful in a baby with TGA with intact ventricular septum for initial stabilization, It creates a communication between the left and right atria - helps in mixing blood of systemic and pulmonary circulations & maintain relatively better oxygenation. -TREATMENT OF TGA: PGE1 analogue - Keep ductus aeriosus open Balloon atrial septostomy / Rashkind procedure - Emergency procedure Aerial switch operation / Jatene's repair - Definitive surgery",
+        "exp": "- Given features suggests towards diagnosis of TGA Transposition of the great vessels with an intact ventricular septum presents with early cyanosis, normal-sized heart, normal or slightly increased pulmonary vascular markings, and an ECG showing right-axis detion and right ventricular hyperophy - Balloon atrial septostomy: Helpful in a baby with TGA with intact ventricular septum for initial stabilization, It creates a communication between the left and right atria - helps in mixing blood of systemic and pulmonary circulations & maintain relatively better oxygenation. -TREATMENT OF TGA: PGE1 analogue - Keep ductus aeriosus open Balloon atrial septostomy / Rashkind procedure - Emergency procedure Aerial switch operation / Jatene's repair - Definitive surgery",
         "cop": 2,
         "opa": "Tetralogy Fallot",
         "opb": "Transposition of great vessels",

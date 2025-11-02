@@ -105,11 +105,11 @@
     },
     {
         "question": "All are included in the differentials of this ECG except?",
-        "exp": "HR is 50/min with normal axis. Giant T wave inversions are noted in leads I, II, V2-V6. Giant T wave inversion are said to present if T wave is >10mm in depth. Giant T wave inversions: Wellen syndrome: T wave inversions in V2-V3 indicate critical narrowing of Left anterior descending aery. At high risk for developing anterior wall MI. ICH: T wave pattern Apical hyperophy of hea(not HOCM but a variant of same) Stokes Adam Syndrome WPW Hypercalcemia leads to QT shoening.",
+        "exp": "HR is 50/min with normal axis. Giant T wave inversions are noted in leads I, II, V2-V6. Giant T wave inversion are said to present if T wave is >10mm in depth. Giant T wave inversions: Wellen syndrome: T wave inversions in V2-V3 indicate critical narrowing of Left anterior descending aery. At high risk for developing anterior wall MI. ICH: T wave pattern Apical hyperophy of heart(not HOCM but a variant of same) Stokes Adam Syndrome WPW Hypercalcemia leads to QT shoening.",
         "cop": 4,
         "opa": "Wellen Syndrome",
         "opb": "ICH",
-        "opc": "Apical Hyperophy of hea",
+        "opc": "Apical Hyperophy of heart",
         "opd": "Hypercalcemia",
         "subject_name": "Medicine",
         "topic_name": "ECG and Arrhythmia 2",
@@ -339,7 +339,7 @@
     },
     {
         "question": "Which of the following is not a cause of PEA (Pulseless Electrical Activity)?",
-        "exp": "The 5 H and 5 T of pulseless electrical activity - PEA implies that electrical activity is seen on ECG but the pulse is absent. The leading cause of PEA is hypoxia secondary to respiratory failure (40-50% cases) and hypovolemia. Hydrogen ion depletion implies alkalosis whereas PEA occurs with acidosis. H Hypovolemia Hypoxia Hydrogen Ion (acidosis) Hypo / Hyperkalemia Hypothermia T Toxins Tamponade Tension Pneumothorax Thrombosis (hea: acute, massive MI) Thrombosis (lungs: massive PEE)",
+        "exp": "The 5 H and 5 T of pulseless electrical activity - PEA implies that electrical activity is seen on ECG but the pulse is absent. The leading cause of PEA is hypoxia secondary to respiratory failure (40-50% cases) and hypovolemia. Hydrogen ion depletion implies alkalosis whereas PEA occurs with acidosis. H Hypovolemia Hypoxia Hydrogen Ion (acidosis) Hypo / Hyperkalemia Hypothermia T Toxins Tamponade Tension Pneumothorax Thrombosis (heart: acute, massive MI) Thrombosis (lungs: massive PEE)",
         "cop": 2,
         "opa": "Low p. O2 < 60mm Hg",
         "opb": "Hydrogen ion depletion",

@@ -469,7 +469,7 @@
     },
     {
         "question": "Which is used for calculation of ejection fraction?",
-        "exp": "Nuclear Imaging of hea: MUGA scan (Multi-gated acquisition scan): Tc 99m labeled RBC is used Evaluate ventricular function / ejection fraction- Cardiac ventriculography (but most accurate investigation for ventricular function is -MRI) Tc99m labeled RBC is very sensitive investigation for detecting minimal lower GIT bleeding (as low as 0. 1 ml per minute) PET scanning in hea: - N-13 ammonia PET = very sensitive for myocardial perfusion -18 FDG-PET = Myocardial bility If N-13 ammonia PET (-) & 18 FDG PET (-) - Suggestive of scar tissue If N-13 ammonia PET (-) & 18 FDG PET (+) - Hibernating myocardium Note: C-11 methionine PET is better than 18 FDG PET - for brain tumors",
+        "exp": "Nuclear Imaging of heart: MUGA scan (Multi-gated acquisition scan): Tc 99m labeled RBC is used Evaluate ventricular function / ejection fraction- Cardiac ventriculography (but most accurate investigation for ventricular function is -MRI) Tc99m labeled RBC is very sensitive investigation for detecting minimal lower GIT bleeding (as low as 0. 1 ml per minute) PET scanning in heart: - N-13 ammonia PET = very sensitive for myocardial perfusion -18 FDG-PET = Myocardial bility If N-13 ammonia PET (-) & 18 FDG PET (-) - Suggestive of scar tissue If N-13 ammonia PET (-) & 18 FDG PET (+) - Hibernating myocardium Note: C-11 methionine PET is better than 18 FDG PET - for brain tumors",
         "cop": 1,
         "opa": "MUGA",
         "opb": "SPECT using thallium 201",
@@ -482,7 +482,7 @@
     },
     {
         "question": "A 50-year-old patient with ischemic heart disease develops chest pain. ECG shows ST segment elevation and Q waves. Myocardial necrosis in this patient can be best demonstrated by:",
-        "exp": "Myocardial infarct imaging: Tc99m pyrophosphate is used to localize the area of infarct in hea. Area of infarct On thallium scan (Perfusion image) Cold spot Pyrophosphate scan (Infarct image) Hot spot",
+        "exp": "Myocardial infarct imaging: Tc99m pyrophosphate is used to localize the area of infarct in heart. Area of infarct On thallium scan (Perfusion image) Cold spot Pyrophosphate scan (Infarct image) Hot spot",
         "cop": 3,
         "opa": "Technetium 99 tetrofosmin",
         "opb": "Sestambi scan",
@@ -546,7 +546,7 @@
         "choice_type": "single"
     },
     {
-        "question": "Hotspot in a hea is seen in which scan?",
+        "question": "Hotspot in a heart is seen in which scan?",
         "exp": "Tc 99m pyrophosphate scan is also known as myocardial infarct scan and it depicts the segments of myocardium involved with the infarction. Get deposited in the calcified changes associated with the infarction.",
         "cop": 4,
         "opa": "Gallium",

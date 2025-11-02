@@ -40,7 +40,7 @@
     },
     {
         "question": "A 65 year old man was seen as an outpatient complaining of central chest pain on exeion. His son tells you that 5 years ago he had been admitted for MI in the CCU of the same hospital. His vitals are stable and chest is clear. No added heart sounds are heard. What is the next best step?",
-        "exp": "The ECG shows a hea of 60/min with normal sinus rhythm. Prominent Q waves are noted in lead III, AVF indicating a previous inferior wall MI. Markedly Peaked T waves are noted in V2 and V3. Known case of ASCVD and currently is having chronic stable angina. He needs stress tests to decide the need for revascularization procedure like PCI with Stenting or CABG. cardiac biomarkers will not be elevated since angina is going on. infarction has not yet occured. stress test will decide whether patient need cardiac intervention or not Check for daily intake of aspirin, Statins, Long acting nitrates and cardio-selective Beta Blockers",
+        "exp": "The ECG shows a heart of 60/min with normal sinus rhythm. Prominent Q waves are noted in lead III, AVF indicating a previous inferior wall MI. Markedly Peaked T waves are noted in V2 and V3. Known case of ASCVD and currently is having chronic stable angina. He needs stress tests to decide the need for revascularization procedure like PCI with Stenting or CABG. cardiac biomarkers will not be elevated since angina is going on. infarction has not yet occured. stress test will decide whether patient need cardiac intervention or not Check for daily intake of aspirin, Statins, Long acting nitrates and cardio-selective Beta Blockers",
         "cop": 1,
         "opa": "Perform Stress tests",
         "opb": "Perform Cardiac biomarkers",
@@ -300,7 +300,7 @@
     },
     {
         "question": "In ECG lead II, III, and a. VF are abnormal. Which of the following vessel is blocked?",
-        "exp": "Leads II, III, and a. VF detect Inferior wall ischemia. Inferior wall of hea is formed mainly by the major pa of right ventricle and left ventricles separated by the posterior interventricular groove, which is mainly supplied by the right coronary aery. Any block in RCA results in inferior wall and posterior 1/3rd of interventricular septum MI.",
+        "exp": "Leads II, III, and a. VF detect Inferior wall ischemia. Inferior wall of heart is formed mainly by the major pa of right ventricle and left ventricles separated by the posterior interventricular groove, which is mainly supplied by the right coronary aery. Any block in RCA results in inferior wall and posterior 1/3rd of interventricular septum MI.",
         "cop": 3,
         "opa": "Left coronary aery",
         "opb": "Left anterior descending",
@@ -417,7 +417,7 @@
     },
     {
         "question": "What is the etiology of Dressler Syndrome?",
-        "exp": "Dressler syndrome Autoimmune process. Post-pericardiotomy syndrome following myocardial infarction Unusual complication after percutaneous procedures such as coronary stent implantation, after implantation of epicardial pacemaker leads and transvenous pacemaker leads, and following blunt trauma, stab wounds, and hea puncture. Involves the pleura and pericardium",
+        "exp": "Dressler syndrome Autoimmune process. Post-pericardiotomy syndrome following myocardial infarction Unusual complication after percutaneous procedures such as coronary stent implantation, after implantation of epicardial pacemaker leads and transvenous pacemaker leads, and following blunt trauma, stab wounds, and heart puncture. Involves the pleura and pericardium",
         "cop": 2,
         "opa": "Viral",
         "opb": "Autoimmune",
@@ -520,7 +520,7 @@
         "choice_type": "multi"
     },
     {
-        "question": "An 18-year-old man is admitted to the hospital with acute onset of substernal chest pain that began abruptly 30 minutes ago. He repos the pain radiating to his neck and right arm. He has otherwise been in good health. On physical examination, he is diaphoretic and tachypnoeic. His BP is 102/48 mm. Hg and heart rate is 112 bpm, regular rhythm but is tachycardiac. A 2/6 holosystolic murmur is heard best at the apex and radiates to the axilla. His lungs have bilateral rales at the bases. The ECG demonstrates 4 mm of ST elevation in the anterior leads. In the past he was hospitalized for some problem with his hea when he was 4 years old. His mother, who accompanies him, repos that he received aspirin and g- globulin as treatment. Since that time, he has required intermittent follow-up with echocardiography. What is the most likely cause of this patient's acute coronary syndrome?",
+        "question": "An 18-year-old man is admitted to the hospital with acute onset of substernal chest pain that began abruptly 30 minutes ago. He repos the pain radiating to his neck and right arm. He has otherwise been in good health. On physical examination, he is diaphoretic and tachypnoeic. His BP is 102/48 mm. Hg and heart rate is 112 bpm, regular rhythm but is tachycardiac. A 2/6 holosystolic murmur is heard best at the apex and radiates to the axilla. His lungs have bilateral rales at the bases. The ECG demonstrates 4 mm of ST elevation in the anterior leads. In the past he was hospitalized for some problem with his heart when he was 4 years old. His mother, who accompanies him, repos that he received aspirin and g- globulin as treatment. Since that time, he has required intermittent follow-up with echocardiography. What is the most likely cause of this patient's acute coronary syndrome?",
         "exp": "The most likely cause of the acute coronary syndrome in this patient is thrombosis of a coronary aery aneurysm in an individual with a past history of Kawasaki disease. Kawasaki disease is an acute multisystem disease that primarily presents in children <5 years of age. Clinical Feature: 1. Conjunctivitis ( Non exudative ) 2. Rash (Polymorphous Non vesicular rash) 3. Oedema of hands/feet. 4. Cervical lymphadenopathy 5. Mucosal involvement Treatment: Early treatment (within 7-10 days of onset) with IV immunoglobulin and high-dose aspirin decreases the risk of developing coronary aneurysms Complications of persistent coronary aery aneurysms include rupture, thrombosis and recanalization, and stenosis at the outflow area.",
         "cop": 3,
         "opa": "Dissection of the aoic root and left coronary ostia",
@@ -586,7 +586,7 @@
     },
     {
         "question": "On the basis of given ECG what is the most probable diagnosis?",
-        "exp": "The given ECG shows ST elevation in leads V1-V4 which suggest acute anteroseptal wall MI. Acute septal MI is associated with ST elevation, Q wave formation and T wave inversion in the leads overlying the septal region of the hea (V2 and V3).",
+        "exp": "The given ECG shows ST elevation in leads V1-V4 which suggest acute anteroseptal wall MI. Acute septal MI is associated with ST elevation, Q wave formation and T wave inversion in the leads overlying the septal region of the heart (V2 and V3).",
         "cop": 2,
         "opa": "Anterolateral wall MI",
         "opb": "Anteroseptal MI",
@@ -638,7 +638,7 @@
     },
     {
         "question": "Which of the following is called \"flipping effect\"?",
-        "exp": "Option A = LDH 1>LDH 2 In Normal person, LDH2>LDH1 LDH 1 is present in cardiac Myocyte. If MI occurs, LDH1 levels | Lactate dehydrogenase (LDH): Tetrameric enzyme formed by combination of 2 subunits: H (Hea) and M (Muscle): Type Subunit Tissues of origin LDH-1 H4 Hea muscle LDH-2 H3. M1 RBCs LDH-3 H2. M2 lungs LDH-4 H1. M3 Liver LDH5 M4 Muscles",
+        "exp": "Option A = LDH 1>LDH 2 In Normal person, LDH2>LDH1 LDH 1 is present in cardiac Myocyte. If MI occurs, LDH1 levels | Lactate dehydrogenase (LDH): Tetrameric enzyme formed by combination of 2 subunits: H (Heart) and M (Muscle): Type Subunit Tissues of origin LDH-1 H4 Heart muscle LDH-2 H3. M1 RBCs LDH-3 H2. M2 lungs LDH-4 H1. M3 Liver LDH5 M4 Muscles",
         "cop": 1,
         "opa": "LDH 1 >LDH 2",
         "opb": "LDH 2 > LDH 1",

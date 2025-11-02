@@ -3082,10 +3082,10 @@
     },
     {
         "question": "Insulin dependent glucose uptake is not seen in?",
-        "exp": "Insulin dependent glucose uptake is through GLUT-4 and is seen in:? 1) Skeletal muscles 2) Cardiac muscles (hea) 3) Adipose tissue",
+        "exp": "Insulin dependent glucose uptake is through GLUT-4 and is seen in:? 1) Skeletal muscles 2) Cardiac muscles (heart) 3) Adipose tissue",
         "cop": 4,
         "opa": "Skeletal muscles",
-        "opb": "Hea",
+        "opb": "Heart",
         "opc": "Adipose tissue",
         "opd": "Kidney",
         "subject_name": "Biochemistry",
@@ -3446,7 +3446,7 @@
     },
     {
         "question": "Ketone bodies are used by all except?",
-        "exp": "Ans. is 'd' i. e., Hepatocytes Ketone bodies are synthesized by liver and are utilized by extrahepatic tissues like hea, muscles, renal coex and brain (in starvation). Liver cannot utilize ketone bodies because it lacks enzyme succinyl-CoA-acetoacetate CoA transferase, which is required for the activation of ketone bodies. The first reaction in use of ketone bodies is activation of acetoacetate. CoA-transferase Succinyl CoA + acetoacetate ___________________ Acetoacetyl CoA + succinate",
+        "exp": "Ans. is 'd' i. e., Hepatocytes Ketone bodies are synthesized by liver and are utilized by extrahepatic tissues like heart, muscles, renal coex and brain (in starvation). Liver cannot utilize ketone bodies because it lacks enzyme succinyl-CoA-acetoacetate CoA transferase, which is required for the activation of ketone bodies. The first reaction in use of ketone bodies is activation of acetoacetate. CoA-transferase Succinyl CoA + acetoacetate ___________________ Acetoacetyl CoA + succinate",
         "cop": 4,
         "opa": "Brain",
         "opb": "RBCs",
@@ -4096,11 +4096,11 @@
     },
     {
         "question": "Insulin dependent entry of glucose is seen in-",
-        "exp": "- GLUT-4 occurs in Hea, skeletal muscle, adipose tissue.",
+        "exp": "- GLUT-4 occurs in Heart, skeletal muscle, adipose tissue.",
         "cop": 3,
         "opa": "a) Liver",
         "opb": "b) Brain",
-        "opc": "c) Hea",
+        "opc": "c) Heart",
         "opd": "d) Kidney",
         "subject_name": "Biochemistry",
         "topic_name": null,
@@ -8802,7 +8802,7 @@
     },
     {
         "question": "Other name of AST:",
-        "exp": "SGOT: Serum glutamic oxaloacetic transaminase, an enzyme that is normally present in liver and hea cells. SGOT is released into blood when the liver or hea is damaged. The blood SCOT levels are thus elevated with liver damage (for example, from viral hepatitis) or with an insult to the hea (for example, from a hea attack). Some medications can also raise SCOT levels. SGOT is also called aspaate aminotransferase (AST).",
+        "exp": "SGOT: Serum glutamic oxaloacetic transaminase, an enzyme that is normally present in liver and heart cells. SGOT is released into blood when the liver or heart is damaged. The blood SCOT levels are thus elevated with liver damage (for example, from viral hepatitis) or with an insult to the heart (for example, from a heart attack). Some medications can also raise SCOT levels. SGOT is also called aspaate aminotransferase (AST).",
         "cop": 1,
         "opa": "SGOT",
         "opb": "SGPT",
@@ -8906,7 +8906,7 @@
     },
     {
         "question": "Adipocytes use which of following:",
-        "exp": "GLUT4 is expressed exclusively in adipocytes and skeletal and hea muscles, and translocation of GLUT4 from an intracellular pool to the plasma membrane is a major mechanism of the insulin-stimulated glucose uptake in these tissues adipocytes, and Chinese hamster ovary (CHO) cells expressing Gq-coupled bradykinin B2 receptors (BK2. Rs). The bradykinin-stimulated GLUT4 translocation may explain the exercise-induced glucose uptake in muscle cells.",
+        "exp": "GLUT4 is expressed exclusively in adipocytes and skeletal and heart muscles, and translocation of GLUT4 from an intracellular pool to the plasma membrane is a major mechanism of the insulin-stimulated glucose uptake in these tissues adipocytes, and Chinese hamster ovary (CHO) cells expressing Gq-coupled bradykinin B2 receptors (BK2. Rs). The bradykinin-stimulated GLUT4 translocation may explain the exercise-induced glucose uptake in muscle cells.",
         "cop": 4,
         "opa": "GLUT1",
         "opb": "GLUT2",

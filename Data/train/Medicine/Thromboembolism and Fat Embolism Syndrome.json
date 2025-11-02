@@ -118,12 +118,12 @@
     },
     {
         "question": "Comment on the diagnosis of the patient.",
-        "exp": "Given X ray shows prominent descending right pulmonary aery- giving \"Jug handle\" appearance Aoic Dissection - seen on CT COA - 3 sign TOF - Boot shaped hea",
+        "exp": "Given X ray shows prominent descending right pulmonary aery- giving \"Jug handle\" appearance Aoic Dissection - seen on CT COA - 3 sign TOF - Boot shaped heart",
         "cop": 3,
         "opa": "Aoic dissection",
         "opb": "Coarctation of aoa",
         "opc": "Pulmonary aery hypertension",
-        "opd": "Boot shaped hea",
+        "opd": "Boot shaped heart",
         "subject_name": "Medicine",
         "topic_name": "Thromboembolism and Fat Embolism Syndrome",
         "id": "1d03a955-cc67-4a7f-bd0d-951fb301b237",
@@ -144,7 +144,7 @@
     },
     {
         "question": "Which of the following conditions is most likely to occur in a patient with the following hemodynamic data? Pressures: RA = 12 mm Hg, RV = 50/12 mm Hg, PA=50/15 mm Hg, PA wedge pressure = 8 mm Hg, Aoa=80/60, Cardiac Index = 1. 4, SVR= 1800, PVR=500.",
-        "exp": "Normal pressure Value given ( in mm. Hg) Interpretation RA = 2-6 mm. Hg 12 Elevated RV = 25/5 mm. Hg 50/12 Elevated Pulmonary aery = 25/10mm. Hg 50/15 Elevated PCWP = 8 -12 mm. Hg 8 Normal Aoa = < 120/80 80/60 Hypotension The presence of Normal PCWP rules out the primary involvement of left side hea. so, Acute MI with LVF is ruled out. Hypovolemic shock following Gastroenteritis will lead to under-filling of the right side of hea but this patient has elevated pressure values on the right side of the hea. Early septic shock will lead to increased cardiac output but this patient has hypotension. (ruled out) Increased RA, PV pressure with PAH indicates RV malfunction. Less flow to lungs will lead to systemic hypotension. Hence, the patient has presentation of Acute Cor-Pulmonale.",
+        "exp": "Normal pressure Value given ( in mm. Hg) Interpretation RA = 2-6 mm. Hg 12 Elevated RV = 25/5 mm. Hg 50/12 Elevated Pulmonary aery = 25/10mm. Hg 50/15 Elevated PCWP = 8 -12 mm. Hg 8 Normal Aoa = < 120/80 80/60 Hypotension The presence of Normal PCWP rules out the primary involvement of left side heart. so, Acute MI with LVF is ruled out. Hypovolemic shock following Gastroenteritis will lead to under-filling of the right side of heart but this patient has elevated pressure values on the right side of the heart. Early septic shock will lead to increased cardiac output but this patient has hypotension. (ruled out) Increased RA, PV pressure with PAH indicates RV malfunction. Less flow to lungs will lead to systemic hypotension. Hence, the patient has presentation of Acute Cor-Pulmonale.",
         "cop": 1,
         "opa": "Acute massive pulmonary embolism",
         "opb": "Acute MI with LVF and cardiogenic shock",
@@ -157,7 +157,7 @@
     },
     {
         "question": "What is the most common ECG finding for pulmonary embolism?",
-        "exp": "M/C ECG abnormality in pulmonary embolism- Sinus tachycardia M/C symptom is unexplained breathlessness. Screening test - D-dimer test. Most specific finding is S1. Q3. T3. The classic findings of right hea strain and acute cor pulmonale are tall, peaked P waves in lead II (P pulmonale); right axis detion; right bundle-branch block and S1. Q3. T3 pattern.",
+        "exp": "M/C ECG abnormality in pulmonary embolism- Sinus tachycardia M/C symptom is unexplained breathlessness. Screening test - D-dimer test. Most specific finding is S1. Q3. T3. The classic findings of right heart strain and acute cor pulmonale are tall, peaked P waves in lead II (P pulmonale); right axis detion; right bundle-branch block and S1. Q3. T3 pattern.",
         "cop": 1,
         "opa": "Sinus tachycardia",
         "opb": "S1 Q3 T3",
@@ -183,7 +183,7 @@
     },
     {
         "question": "All of the following are true of pulmonary embolism except:",
-        "exp": "Classic Findings in Pulmonary Embolism:- Right Hea strain and Acute Cor Pulmonale - sudden onset of pleuritic chest pain, hemoptysis and hypotension - Tall, peaked P waves in lead II (P pulmonale) - Right axis detion - Right bundle-branch block - S1. Q3. T3 pattern. On Xray:- Hampton's hump, Westermark sign (areas of relative oligemia secondary to decreased caliber of regional pulmonary aeries) and Palla's sign (Enlarged right descending pulmonary aery )are seen. - CTPA is imaging modality of choice - It shows Rt. ventricular stress instead of left ventricular stress.",
+        "exp": "Classic Findings in Pulmonary Embolism:- Right Heart strain and Acute Cor Pulmonale - sudden onset of pleuritic chest pain, hemoptysis and hypotension - Tall, peaked P waves in lead II (P pulmonale) - Right axis detion - Right bundle-branch block - S1. Q3. T3 pattern. On Xray:- Hampton's hump, Westermark sign (areas of relative oligemia secondary to decreased caliber of regional pulmonary aeries) and Palla's sign (Enlarged right descending pulmonary aery )are seen. - CTPA is imaging modality of choice - It shows Rt. ventricular stress instead of left ventricular stress.",
         "cop": 2,
         "opa": "Sudden onset of pleuritic pain and hemoptysis and hypotension.",
         "opb": "ECG shows evidence of acute left ventricular stress.",

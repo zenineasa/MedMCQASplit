@@ -3,7 +3,7 @@
         "question": "Severity of mitral stenosis is determined by:",
         "exp": "Since there is mitral stenosis, more time for blood to enter LV. Therefore, increased transient time, so increase duration of murmur of S1 sound can be loud or soft. If sound is soft it tells us about calcified mitral valves but not of severity",
         "cop": 2,
-        "opa": "Intensity of S1 hea sound",
+        "opa": "Intensity of S1 heart sound",
         "opb": "Diastolic murmur duration",
         "opc": "Opening snap",
         "opd": "Intensity of diastolic murmur",
@@ -14,7 +14,7 @@
     },
     {
         "question": "What is electrical storm?",
-        "exp": "Electrical storm: Condition in which patient develops recurrent V. tachycardia. Cut off >3 episodes of V. T within 24 hrs. Option C: Electromechanical Dissociation: Terminology used to describe rupture hea which causes pulseless BP|| Option D: Electrical alternans- Variations in QRS amplitude in conditions - C. tamponade",
+        "exp": "Electrical storm: Condition in which patient develops recurrent V. tachycardia. Cut off >3 episodes of V. T within 24 hrs. Option C: Electromechanical Dissociation: Terminology used to describe rupture heart which causes pulseless BP|| Option D: Electrical alternans- Variations in QRS amplitude in conditions - C. tamponade",
         "cop": 1,
         "opa": "> 3 episodes of ventricular tachycardia within 24 hours",
         "opb": "> 3 episodes of atrial tachycardia within 24 hours",
@@ -52,8 +52,8 @@
         "choice_type": "single"
     },
     {
-        "question": "Most common tumor of hea valves:",
-        "exp": "Most common tumor of hea valves in papillary fibroelastoma. Small and single, occur most often on valvular surfaces, and may be mobile, resulting in embolization. Because of the potential for embolic events, symptomatic patients, patients undergoing cardiac surgery for other lesions, and those with highly mobile and large PF should be considered for surgical excision Remnants of CMV have been recovered from these tumors, raising the possibility that they arise as a result of chronic viral endocarditis",
+        "question": "Most common tumor of heart valves:",
+        "exp": "Most common tumor of heart valves in papillary fibroelastoma. Small and single, occur most often on valvular surfaces, and may be mobile, resulting in embolization. Because of the potential for embolic events, symptomatic patients, patients undergoing cardiac surgery for other lesions, and those with highly mobile and large PF should be considered for surgical excision Remnants of CMV have been recovered from these tumors, raising the possibility that they arise as a result of chronic viral endocarditis",
         "cop": 1,
         "opa": "Papillary fibroelastoma",
         "opb": "Malignant fibrous histiocytoma",
@@ -66,7 +66,7 @@
     },
     {
         "question": "Duroziez's sign is seen in?",
-        "exp": "Duroziez's sign is seen in severe aoic regurgitation 1. Duroziez Sign - Gently press the femoral aery using stethoscope | Murmur in hea d/t turbulence | To and fro murmur Aerial pulse seen with aoic regurgitation: 2. Corrigan's pulse -Water hammer pulse 3. Quincke's sign - Flushing and blanching at distal pa of nail 4. Traube Sign - Pistol shot sounds heard at femoral aery",
+        "exp": "Duroziez's sign is seen in severe aoic regurgitation 1. Duroziez Sign - Gently press the femoral aery using stethoscope | Murmur in heart d/t turbulence | To and fro murmur Aerial pulse seen with aoic regurgitation: 2. Corrigan's pulse -Water hammer pulse 3. Quincke's sign - Flushing and blanching at distal pa of nail 4. Traube Sign - Pistol shot sounds heard at femoral aery",
         "cop": 1,
         "opa": "Aoic Regurgitation",
         "opb": "Aoic Stenosis",
@@ -78,7 +78,7 @@
         "choice_type": "single"
     },
     {
-        "question": "The first hea sound is loud in which of the following conditions? 1. Mitral regurgitation 2. Pregnancy 3. Anemia 4. Mitral stenosis",
+        "question": "The first heart sound is loud in which of the following conditions? 1. Mitral regurgitation 2. Pregnancy 3. Anemia 4. Mitral stenosis",
         "exp": "Loud S1-Tachycardia Sho PR interval CHF Anemia Pheochromocytoma Thyrotoxicosis Physiological: Children /pregnancy In Mitral stenosis-Physical obstruction- | Left atrial pressure S1 becomes softer in - Later stages of MS when the leaflets are rigid and calcified After exposure to beta adrenergic receptor blockers - Long PR intervals - left ventricular contractile dysfunction",
         "cop": 4,
         "opa": "1 and 4",
@@ -117,7 +117,7 @@
         "choice_type": "single"
     },
     {
-        "question": "A 68-year-old man presents with progressive shoness of breath. He had a metallic hea valve replacement 13 years ago for severe aoic stenosis. Which of the following clinical findings is most indicative of a failing aoic valve replacement?",
+        "question": "A 68-year-old man presents with progressive shoness of breath. He had a metallic heart valve replacement 13 years ago for severe aoic stenosis. Which of the following clinical findings is most indicative of a failing aoic valve replacement?",
         "exp": "Option B: Early diastolic murmur heard at left sternal edge We know if metallic valves get older & undergo on sheering stress, so there will be backflow of blood from aoa to L. V so early diastolic murmur heard at left sternal edge. Severe aoic stenosis: 1. Transvalvular pressure gradient of > 40 mm. Hg. 2. Ejection velocity - >4 m/sec 3. Size of orifice - < 0. 6 cm2/ m2 BSA",
         "cop": 2,
         "opa": "Clicking sound to S2",
