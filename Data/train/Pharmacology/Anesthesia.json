@@ -1,31 +1,5 @@
 [
     {
-        "question": "All statements are true except remifentanil is true except",
-        "exp": "Refer Goodman Gilman 11/e p 572 Remifentanil is shoest acting opioid due to its metabolism by plasma esterases Due to its sho duration of action, it is indicated for sho term painful procedures Intravenous bolus dosing is not practical Potency is equal to fentanyl",
-        "cop": 4,
-        "opa": "Useful for sho painful procedures",
-        "opb": "Metabolized by plasma esterases",
-        "opc": "Equipotent as fentanyl",
-        "opd": "Long acting anesthetic",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "ebff54b9-c931-4287-9c78-35b2e07cdf86",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Neostigmine antagonizes non depolarising blockade by all of the following mechanism except",
-        "exp": "Refer Katzung 10/e p 436 Neostigmine is an anti cholinerasterase. It inhibits the breakdown of ACh at the mother end plate This results in increased activity of ACh that causes depolarization of motor end plate by opening Na+channels. It posseses some direct agonistic activating on NM receptors resulting in depolarization",
-        "cop": 1,
-        "opa": "Decreasing the breakdown of acetyl choline at the motor end plate",
-        "opb": "Preventing the K+efflux",
-        "opc": "Increasing the release of acetyl choline at the motor end plate",
-        "opd": "Depolarization at the motor end plate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "08f26dfc-5327-4afa-a1f8-0402cc92d178",
-        "choice_type": "multi"
-    },
-    {
         "question": "Shivering\" is observed in the early pa of postoperative period due to",
         "exp": "Postoperative shivering (halothane shakes) and hypothermia is maximum with halothane among inhalational anesthetics. It can be used to sta or maintain anaesthesia. One of its benefits is that it does not increase the production of saliva, which can be paicularly useful in those who are difficult to intubate",
         "cop": 2,
@@ -117,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Suxamethonium is:",
-        "exp": "Suxamethonium is Succinyl choline that is a depolarising blocker. Suxamethonium chloride, also known assuxamethonium or succinylcholine, is a medication used to cause sho-term paralysis as pa of general anesthesia. This is done to help with tracheal intubation or electroconvulsive therapy. It is given either by injection into a vein or muscle. From KD Tripati 7th edition Page no 345",
-        "cop": 2,
-        "opa": "Non depolarizing muscle relaxant",
-        "opb": "Depolarising muscle relaxant",
-        "opc": "Direct acting muscle relaxant",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "53e940cc-f5d2-4a13-9bb5-f5de4a2536da",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most potent and longest acting anaesthetic agent is:",
         "exp": "Dubucaine is the most potent, most toxic, and longest acting local anesthetic Cinchocaine or dibucaine is an amide local anesthetic. Among the most potent and toxic of the long-acting local anesthetics, current use of cinchocaine is generally restricted to spinal and topical anesthesia. From KD Tripati 7th edition Page no 367",
         "cop": 1,
@@ -182,19 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Use of Morphine should be avoided in all of the following patients Except",
-        "exp": "Contraindications for morphine 1. Use of pure agonists with weak paial agonists: When a weak paial agonist such as pentazocine is given to a patient also receiving a full agonist (eg, morphine), there is a risk of diminishing analgesia or even inducing a state of withdrawal; combining full agonist with paial agonist opioids should be avoided. 2. Use in patients with head injuries: risk of elevated intracranial pressure3. Use during pregnancy: In pregnant women who are chronically using opioids, the fetus may become physically dependent in utero and manifest withdrawal symptoms in the early postpaum period. 4. Use in patients with impaired pulmonary function: In patients with borderline respiratory reserve, the depressant propeies of the opioid analgesics may lead to acute respiratory failure. 5. Use in patients with impaired hepatic or renal function: Because morphine is primarily metabolized in the liver, their use in patients in a prehepatic coma may be questioned. Half-life is prolonged in patients with impaired renal function. 6. Use in patients with endocrine disease: Patients with adrenal insufficiency (Addison's disease) and those with hypothyroidism (myxedema) may have prolonged and exaggerated responses to opioids. Reference: Katzung Pharmacology; 13th edition; Chapter 31; Opioid Analgesics & Antagonists",
-        "cop": 1,
-        "opa": "IHD",
-        "opb": "Bronchial asthma",
-        "opc": "Elderly male",
-        "opd": "Biliary colic",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "0d4f1b41-e939-47da-830d-ee38062be69b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following agents is used for day care surgery?",
         "exp": "Propofol produces quick induction(30 sec) and rapid recovery(4 min)from a single dose. Because of rapid recovery it is preferred for day cases. Thiopentone duration of action is 4-7min. And ketamine10-15min but amnesia lasts for 1-2 hours. From padmaja 4th edition Page no 194, 195, 196",
         "cop": 1,
@@ -221,19 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Neostigmine antagonizes non-depolarizing blockade by all of the following mechanisms EXCEPT",
-        "exp": "Neostigmine, sold under the brand name Prostigmin among others, is a medication used to treat myasthenia gravis, Ogilvie syndrome, and urinary retention without the presence of a blockage. It is also used together with atropine to end the effects of neuromuscular blocking medication of the non-depolarizing type.",
-        "cop": 2,
-        "opa": "Decreasing the breakdown of acetylcholine at the motor end plate",
-        "opb": "Preventing the K+ efflux from the cell",
-        "opc": "Increasing the release of acetylcholine at the motor end plate",
-        "opd": "Depolarization at the motor end plate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "2eb21726-9974-4204-945d-5fd514c1a73c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mehemmoglobinemia is caused by",
         "exp": "Refer Katzung 11/e p449. The admistration of large doses of prilocarpine during regional anesthesia may lead to accumulation of the metabolite o-toludine an oxidizing agent capable of conveing hemoglobin to methemoglobin",
         "cop": 1,
@@ -245,19 +180,6 @@
         "topic_name": "Anesthesia",
         "id": "7c4fe19f-5d78-4535-9006-7649d8c5a65a",
         "choice_type": "single"
-    },
-    {
-        "question": "Xenon anesthesia all are true except",
-        "exp": "Advantages of Xenon anesthesia Ine Minimal effect on CVS function Lowest blood solubility Does not trigger malignant hypothermia Environmental friendly Non explosive Refer Goodman Gilman 12/e p 547",
-        "cop": 1,
-        "opa": "Slow induction and recovery",
-        "opb": "Non explosive",
-        "opc": "Minimal cardiovascular side effect",
-        "opd": "Low blood solubility",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "11e261e9-da61-450c-8bea-1ab3d9899f27",
-        "choice_type": "multi"
     },
     {
         "question": "Anaesthetic that has a smooth induction is",
@@ -377,19 +299,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Choose the local anaesthetic that is specifically used to produce corneal anaesthesia for tonometry",
-        "exp": "Benoxinate:- It is a good surface anaesthetic for the eye; has little irritancy. A 0. 4% solution rapidly produces corneal anaesthesia sufficient for tonometry without causing mydriasis or corneal damage. Ref:- kd tripathi; pg num:-367",
-        "cop": 4,
-        "opa": "Tetracaine",
-        "opb": "Ropivacaine",
-        "opc": "Oxethazaine",
-        "opd": "Benoxinate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "fdc9bca1-be99-45a1-ae45-d359cc06d027",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following intravenous induction agent suppress steroidogenesis",
         "exp": "Refer Goodman Gilman 12/e p 538 It does not interfere with cardiovascular functions It can also produce myoclonus It can lead to adrenocoical suppression Vitamin C deficiency can cause develop with use of etomidate",
         "cop": 4,
@@ -414,19 +323,6 @@
         "topic_name": "Anesthesia",
         "id": "2fc82f76-6511-42c1-b0d7-2d5319fe141b",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following statements about lignocaine are true EXCEPT:",
-        "exp": "Lidocaine, also known as lignocaine, is a medication used to numb tissue in a specific area (local anesthetic). It is also used to treat ventricular tachycardia and to perform nerve blocks. Lidocaine mixed with a small amount of adrenaline(epinephrine) is available to allow larger doses for numbing, to decrease bleeding, and to make the numbing effect last longer. When used as an injectable, lidocaine typically begins working within four minutes and lasts for half an hour to three hours. Lidocaine mixtures may also be applied directly to the skin or mucous membranes to numb the area.",
-        "cop": 3,
-        "opa": "It blocks active sodium channels with more affinity than resting sodium channels",
-        "opb": "It can cause cardiotoxicity",
-        "opc": "It is given orally for treatment of cardiac arrhythmias",
-        "opd": "Adrenaline increases the duration of action of lignocaine when used for infiltration anaesthesia.",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "a7ba06cd-1d34-49d0-bf2d-dc127b56e01b",
-        "choice_type": "multi"
     },
     {
         "question": "Anaesthetic having epileptogenic potential is:",
@@ -650,19 +546,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following can aggravate Myasthenia gravis except",
-        "exp": "Essentials of medical pharmacology, seventh edition, page no 864, Answer is option 1, Azathioprine This antipurine acts by getting conveed to 6-MP, but has more prominent immunosuppresant action. It mainly supresses cell mediated iimmunity and is mainly used in autoimmune diseases like rheumatoid ahritis, myasthenia gravis, ulcerative collitis etc.",
-        "cop": 1,
-        "opa": "Azathioprine",
-        "opb": "d-Tubocurarine",
-        "opc": "Tetracycline",
-        "opd": "Aminoglycoside",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "f8629855-c1b1-4339-8da6-55f16a9e2f0c",
-        "choice_type": "multi"
-    },
-    {
         "question": "In case of spasticity, the drug not used is:",
         "exp": "Spasticity is a condition in which ceain muscles are continuously contracted. This contraction causes stiffness or tightness of the muscles and can interfere with normal movement, speech and gait. Spasticity is usually caused by damage to the poion of the brain or spinal cord that controls voluntary movement. Amitriptyline, sold under the brand name Elavil among others, is a medicine primarily used to treat a number of mental illnesses. These include major depressive disorder and anxiety disorders, and less commonly attention deficit hyperactivity disorder and bipolar disorder.",
         "cop": 4,
@@ -702,19 +585,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Xenon anesthesia all are true accept:",
-        "exp": "Xenon is an ine gas that has propeies very close to an ideal anesthetic. Rapid induction, insoluble in blood, and tissues. Rapid recovery Potent anesthetic No effect on hepatic, renal and pulmonary function. No significant cardiovascular effects. Not metabolized in body. Fro padmaja 4th edition Page no 193",
-        "cop": 1,
-        "opa": "Slow induction and recovery",
-        "opb": "Non explosive",
-        "opc": "Minimal cardiovascular side-effects",
-        "opd": "Low blood solubility",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "389c3b5b-c632-41d2-88b1-3bb10d411a20",
-        "choice_type": "multi"
-    },
-    {
         "question": "Shivering is observed in the early pa of postoperative period is due to",
         "exp": "Halothane Post operative shivering and hypothermia is maximum with Halothane Pethidine is used for treatment of this condition Refer Ajay yadav 2/e p 61",
         "cop": 2,
@@ -741,32 +611,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True statements regarding halothane is:",
-        "exp": "All the above statements are true. Halothane is neither a good analgesic or muscle relaxant but it potentates competitive neuromuscular blockade. Halothane causes relatively greater depression of respiration: breathing is shallow and rapid. Hepatitis occurs in rare susceptible individuals especially after repeated use and in those with familial predisposition. From KD Tripati 7th edition Page no 379",
-        "cop": 4,
-        "opa": "Hepatitis occurs in susceptible individuals after repeated dose",
-        "opb": "It potentiates competitive neuromuscular blockers",
-        "opc": "Causes respiratory depression",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "1e53dc8f-14c8-413c-949a-299531b5a6d8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Baclofen is:",
-        "exp": "Baclofen is a centrally acting muscle relaxant. Baclofen is primarily used for the treatment of spastic movement disorders, especially in instances of spinal cord injury, cerebral palsy, and multiple sclerosis. Its use in people with stroke or Parkinson's disease is not recommended From padmaja 4th edition Page no 83",
-        "cop": 1,
-        "opa": "Centrally acting muscle relaxant",
-        "opb": "Peripherally acting muscle relaxant",
-        "opc": "Both centrally and peripherally acting muscle relaxant",
-        "opd": "Direct acting muscle relaxant",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "dea6fa62-cddf-4a20-916f-e77629217f26",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following intravenous induction agent suppress steroidogenesis?",
         "exp": "Etomidate causes adrenocoical suppression on long term use hence suppress steroidogenesis. All other drugs don&; t cause adrenocoical suppression. From padmaja 4th edition Page no 195",
         "cop": 4,
@@ -778,19 +622,6 @@
         "topic_name": "Anesthesia",
         "id": "fb77e235-8ed6-4c43-a49d-d571f0842e37",
         "choice_type": "single"
-    },
-    {
-        "question": "All are vasodilators except",
-        "exp": "Cocaine in the periphery blocks uptake of NA and adrenaline into adrenergic nerve endings, resulting in higher concentration of the transmitter around the receptors leading to sympathomimetic effect thats is vasoconstriction, tachycardia, rise in BP, mydriasis. From KD Tripati 7th edition Page no 365",
-        "cop": 3,
-        "opa": "Procaine",
-        "opb": "Lidocaine",
-        "opc": "Cocaine",
-        "opd": "Chlorprocaine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "02798bd3-4e07-4ca1-a24e-ca1546eb0273",
-        "choice_type": "multi"
     },
     {
         "question": "Anaesthetic that has a smooth induction is:",
@@ -871,19 +702,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The admistration of succinylcholine to a paraplegic patient led to appearance of dysarrythimas, conduction abnormalities band finally cardiac arrest. The most likely cause is",
-        "exp": "Refer Katzung 11/e p460 Succinylcholine can cause Hyperkalemia especially in patients with nerve and muscle disorders. Therefore it is contra indicated in patients with nerve diseases and muscle diseases",
-        "cop": 2,
-        "opa": "Hypercalcemia",
-        "opb": "Hyperkalemia",
-        "opc": "Anaphylaxis",
-        "opd": "Hypermagnesmia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "d2f8cd0b-e5df-46f0-8b32-ade66c74cc54",
-        "choice_type": "multi"
-    },
-    {
         "question": "The plane of surgical anesthesia during ether anesthesia is defined as",
         "exp": "Refer KDT 7th/373 The plane of surgical anesthesia during ether anesthesia is defined as from onset of regular respiration to cesssation of spontaneous breathing",
         "cop": 3,
@@ -895,32 +713,6 @@
         "topic_name": "Anesthesia",
         "id": "9b805c1f-078b-4f74-9d8d-035d62ecfd0d",
         "choice_type": "single"
-    },
-    {
-        "question": "True statement regarding Bupivacaine is:",
-        "exp": "Bupivacaine is more cardio toxic than Lignocaine as it more prone to prolong QTc interval and induce ventricular tachycardia or cardiac depression- should not be used for intravenous regional anesthesia. It has high lipid solubility: distributes more in tissues than in blood after spinal or epidural injection. Therefore less likely to reach foetus. Hence used widely in obstetrics. From Tripati 7th edition Page no 367",
-        "cop": 2,
-        "opa": "Used intravenously along with lignocaine",
-        "opb": "More cardiotoxic than lignocaine",
-        "opc": "Contraindicated in pregnancy",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "c7748ed9-37cc-43e9-aaca-1a8519c89562",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The enzyme pseudocholinesterase acts on",
-        "exp": "Refer Katzung 11/e p454 Suxamethonium is the other name of succinylcholine It is the shoest acting muscle relaxant due to metabolism by pseudocholinesterase",
-        "cop": 4,
-        "opa": "Decamethonium",
-        "opb": "Tubocurarine",
-        "opc": "Gallamine",
-        "opd": "Suxamethonium",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "32f995d4-8ac5-41cb-a35b-d3c76078841c",
-        "choice_type": "multi"
     },
     {
         "question": "The recommended time for prophylactic antibiotic is",
@@ -947,32 +739,6 @@
         "topic_name": "Anesthesia",
         "id": "051e1a66-fd21-455d-9a05-227406cf8873",
         "choice_type": "single"
-    },
-    {
-        "question": "Hallucinations are seen after............... anaesthesia:",
-        "exp": "Ketamine anesthesia produces hallucination and delirium(pyschomimetic effect). Thiopentone, Fentanyl and nitrous oxide are devoid of these effects. From padmaja 4th edition Page no 196, 195",
-        "cop": 1,
-        "opa": "Ketamine",
-        "opb": "Thiopentone",
-        "opc": "Fentanyl",
-        "opd": "Nitrous oxide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "a1a73f38-b0d7-4086-9228-4d0eb5a5d8e7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "25-year-old woman is being treated for a laceration to the forearm. Local anesthesia is used prior to suturing. An allergic reaction is most likely to occur with wof local anesthetics",
-        "exp": "The clinically useful LAs are weak bases with amphiphilic propey. A hydrophilic secondaryor teiary amine on one side and a lipophilic aromatic residue on the other are joined by an alkyl chain through an ester or amide linkage. Ref:- kd tripathi; pg num:-360, 361",
-        "cop": 2,
-        "opa": "Lidocaine",
-        "opb": "Procaine",
-        "opc": "Mepivacaine",
-        "opd": "Bupivacaine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "602074fc-d6ff-4ba2-adcc-6bb9b93e0519",
-        "choice_type": "multi"
     },
     {
         "question": "Which one of the following skeletal muscle relaxants cause pain on injection",
@@ -1038,19 +804,6 @@
         "topic_name": "Anesthesia",
         "id": "db5bf992-c809-4e5f-b2cf-d01ef9e033f3",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following statements about lignocaine are true except",
-        "exp": "All local anesthetics are weak bases. These drugs act by penetrating the axonal membrane and blocking the voltage gated sodium channels within Vasoconstrictors like adrenaline can prolong the duration of action. All LA can cause cardiotoxicity and neurotoxicity",
-        "cop": 3,
-        "opa": "It blocks active sodium channels with more affinity than resulting sodium channels",
-        "opb": "It can cause cardiotoxicity",
-        "opc": "It is given orally for treatment of cardiac arhymias",
-        "opd": "Adrenaline increases the duration of action of lignocaine when used for infiltration anesthesia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "95807a18-4932-4e7b-ab4a-4784c30b07f1",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drug do not cross the blood-brain barrier?",
@@ -1183,32 +936,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about bupivacaine Except",
-        "exp": "Bupivacaine is more prone to prolong QTc interval and induce ventricular tachycardia or cardiac depression - should not be used for IV regional anesthesia. Whereas Lignocaine cause arrhythmia in overdosage only. All other statements are true. From Tripati 7th edition Page no 366, 367",
-        "cop": 1,
-        "opa": "Less cardiotoxic than lignocaine",
-        "opb": "Dose increases with adrenaline",
-        "opc": "Long acting",
-        "opd": "Cannot given m vein",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "9b940221-cb0f-495c-b113-d6cdc09272e7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement about sevoflurane is:",
-        "exp": "Sevoflurane is chemically unstable and is degraded by carbon dioxide absorbers to a metabolite taut can cause nephrotoxicity. Sevoflurane undergoes bio transformation in the liver to release fluoride ions which can cause nephrotoxicity. Sevoflurane doesn't cause fulminating hepatitis nor convulsions. From padmaja 4th edition Page no 193",
-        "cop": 1,
-        "opa": "It is nephrotoxic at high doses",
-        "opb": "It has maximum risk of causing convulsions",
-        "opc": "It is cardiostable",
-        "opd": "It can cause fulminant hepatitis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "756632b1-8fc5-4d80-96f7-ff795e9f1a03",
-        "choice_type": "multi"
-    },
-    {
         "question": "In spinal anesthesia is the drug is deposited between",
         "exp": "Refer Katzung 10/e p 419. In spinal anesthesia, drug is deposited in the sub Arachnoid space.,, whereas in epidural anesthesia, it is given outside the duramater",
         "cop": 2,
@@ -1220,19 +947,6 @@
         "topic_name": "Anesthesia",
         "id": "cdeb049b-d861-4174-b663-271abbf15332",
         "choice_type": "single"
-    },
-    {
-        "question": "Drug not acting on neuromuscular junction is:",
-        "exp": "Essentials of medical pharmacology, seventh edition, page no=357 Answer is option 4, all the above Since carisoprodol, baclofen, and haloperidol are centrally acting muscle relaxants. These are drugs which reduce skeletal muscle tone by a selective action in the cerebrospinal axis without altering consciousness.",
-        "cop": 4,
-        "opa": "Baclofen",
-        "opb": "carisoprodol",
-        "opc": "Haloperidol",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "1b147097-ed7e-434e-9328-609c9a14151b",
-        "choice_type": "multi"
     },
     {
         "question": "Remifentanil is:",
@@ -1352,19 +1066,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True statement regarding depolarizing neuromuscular blocking drugs is:",
-        "exp": "All the given statements are true. The depolarised muscle fibre are unresponsive to other stimuli as they bind to nicotinic receptors at motor end plate causing membrane depolarization and persistent depolarization leads to flaccid paralysis. Muscle fasiculations are seen mostly in chest and abdominal regions. Only non depolarising blockers action can be reversed by neostigmine. From padmaja 4th edition Page no 86",
-        "cop": 4,
-        "opa": "The depolarized muscles fibres are unresponsive to other stimuli",
-        "opb": "Causes muscular fasciculations",
-        "opc": "Not reversed by neostigmine",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "bac1774a-55c6-4ca9-b203-44df62b8c879",
-        "choice_type": "multi"
-    },
-    {
         "question": "Nitrous oxide contraindicated on patients with pnumothorax, pneumopericrdium or intestinal obstruction, because it",
         "exp": "Refer Goodman Gilman 12/e p 547 N2O use is contraindicated in pneumothorax and volvulus because it may lead to development of High pressure in the closed cavities in the body",
         "cop": 4,
@@ -1430,32 +1131,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following drug releases Nitric oxide",
-        "exp": "Hydralazine is used with or without other medications to treat high blood pressure. Lowering high blood pressure helps prevent strokes, heart attacks, and kidney problems. Hydralazine is called a vasodilator. It works by relaxing blood vessels so blood can flow through the body more easily. Hydralazine may induce aeriolar vasodilation by preventing oxidation of nitric oxide and thereby lowering blood pressure.",
-        "cop": 1,
-        "opa": "Hydralazine",
-        "opb": "Aminophylline",
-        "opc": "Amrinone",
-        "opd": "Sildenaphil sulphate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "690ce7aa-4013-461e-a314-d54bde38a25f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement about Sevoflurane is",
-        "exp": "Refer Goodman Gilman 11/e p 360 Sevoflurane is a general anesthetic used by inhalation route It is very good agent for children and asthmatic patients It can produce dose dependent hypotension and decrease in cardiac output It high doses it can release fluoride resulting min Nephrotoxicity",
-        "cop": 1,
-        "opa": "It is nephrotoxic at high doses",
-        "opb": "It has maximum risk of causing convulsions",
-        "opc": "It is cardiostable",
-        "opd": "It can cause fulminatnt hepatitis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "d8e35357-c5be-4394-ac9b-c3f217afd2d2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following does not have analgesic propey",
         "exp": "Refer KDT 6 /e p 372 Halothane and newer flourinated inhalation anesthestic agent are devoid of analgesic propey",
         "cop": 3,
@@ -1480,19 +1155,6 @@
         "topic_name": "Anesthesia",
         "id": "52c2a040-d5d0-4cc3-86bb-5239ca4fbeda",
         "choice_type": "single"
-    },
-    {
-        "question": "The following statements about Bupivacaine are true except",
-        "exp": "Prilocaine is the local anesthetic that produces methemoglobinemia as an adverse effect. All other statements are true. Ref: K D Tripathi; 7th edition; Page no 367",
-        "cop": 4,
-        "opa": "Must never be injected into a vein",
-        "opb": "More cardiotoxic than lignocaine",
-        "opc": "0. 5 percent is effective for sensory block",
-        "opd": "It produces methemoglobinemia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "18dd3ec6-81c3-431c-a3c8-60cad9f1fc3d",
-        "choice_type": "multi"
     },
     {
         "question": "The neuromuscular blocker that does not need reversal of action by neostigmine at the end of the operation is",
@@ -1716,45 +1378,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The enzyme Peudocho. Iinesterase acts on:",
-        "exp": "Suxamethonium is Succinyl choline. Abnormal Psuedocholinestrase is a hereditary defect. In such people S-ch doesn't get metabolized. Usual dose results in prolonged apnoea and paralysis that lasts for hours. Aificial ventilation and blood transfusion are needed to supply Psuedocholinestrase. From padmaja 4th edition Page no 86",
-        "cop": 4,
-        "opa": "Decamethonium",
-        "opb": "Tubocurarine",
-        "opc": "Gallamine",
-        "opd": "Suxamethonium",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "1495a15f-7536-4bc6-b621-85d60eeafd19",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Suxamethonium is",
-        "exp": "Depolarizing neuromuscular blockers Succinylcholine (SCh., Suxamethonium), Side effects:- Muscle fasciculations and soreness, changes in BP and HR, arrhythmias, histamine release and K+ efflux from muscles causing hyperkalaemia. Uses:- SCh is the most commonly used muscle relaxant for passing tracheal tube. It induces rapid, complete and predictable paralysis with spontaneous recovery in ~5 min. Excellent intubating condition viz. relaxed jaw, vocal cords apa and immobile with no diaphragmatic movements, is obtained within 1-1. 5 min. Avoided/contraindication:- It should be avoided in younger children unless absolutely necessary, because risk of hyperkalaemia and cardiac arrhythmia is higher. Risk of regurgita- tion and aspiration of gastric contents is increased by SCh in GERD patients and in the obese, especially if stomach is full. Ref:- kd tripathi; pg num:-347, 353",
-        "cop": 3,
-        "opa": "Non depolarizing muscle relaxant",
-        "opb": "Direct acting muscle relaxant",
-        "opc": "Depolarising muscle relaxant",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "75f41502-56c7-44bb-8ee2-1b50dc9a9166",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The drug causing curare like effects are all except",
-        "exp": "Refer KDT 6/e p 346 Drugs causing curare like effect are Aminoglycosides Polypeptide antibiotics Tetracycline Clindamycin, lincomycin",
-        "cop": 1,
-        "opa": "Chloramphenicol",
-        "opb": "Polymyxin",
-        "opc": "Tetracycline",
-        "opd": "Streptomycin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "e303c83a-2e9c-410e-9210-f9dc2922fa0b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which local anesthetic has a shoer duration of action?",
         "exp": "Procaine has least duration among the following. Procaine, Bencocaine, chlorprocaine all of them are sho acting LA. <img class=\"fr-fic fr-dib\" style=\"width: 300px;\" src=\" />Ref: Katzung 13e pg: 443",
         "cop": 2,
@@ -1792,19 +1415,6 @@
         "topic_name": "Anesthesia",
         "id": "f1ed6405-44f1-417f-9a2f-e58d032aff37",
         "choice_type": "single"
-    },
-    {
-        "question": "Hepatotoxic drugs are",
-        "exp": "Refer KDT 6/e p372 Massive liver necrosis following Halothane anaesthesia is seen in some cases If chloroform cos given for long period liver damage occurs",
-        "cop": 3,
-        "opa": "Chloroform",
-        "opb": "Halothane",
-        "opc": "Both are above",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anesthesia",
-        "id": "a694ce66-4884-4fdd-9534-e488006ea631",
-        "choice_type": "multi"
     },
     {
         "question": "An anesthetic agent with boiling temperature more than 75 C is",

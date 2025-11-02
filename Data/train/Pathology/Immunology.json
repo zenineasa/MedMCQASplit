@@ -39,45 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following statements about NK cells are true except:",
-        "exp": "NK cells are innate immune cells They are functional without prior activation and do not express highly variable and clonally distributed receptors for antigens. NK cells have two types of receptors-- Inhibitory and Activating. They are capable of MHC - unrestricted direct cell lysis which is not mediated by an immune response.",
-        "cop": 3,
-        "opa": "They are derived from large granular cells",
-        "opb": "They comprise about 5% of human peripheral lymphoid cells",
-        "opc": "They are MHC restricted cytotoxic cells",
-        "opd": "They express IgG Fc receptors",
-        "subject_name": "Pathology",
-        "topic_name": "Immunology",
-        "id": "9f1cbb04-e7f2-431a-9109-5bbd68ec57a4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The following interleukin is characteristically produced in a TH1 response?",
-        "exp": "After coming in contact with antigen presenting cells, CD4+ helper T cells secrete IL-2 and expresses high-affinity receptors for IL-2. IL-2 is a growth factor that acts on these T lymphocytes and stimulates their proliferation, leading to an increase in the number of antigen-specific lymphocytes.",
-        "cop": 1,
-        "opa": "IL-2",
-        "opb": "IL-4",
-        "opc": "IL-5",
-        "opd": "IL-10",
-        "subject_name": "Pathology",
-        "topic_name": "Immunology",
-        "id": "dd92ab88-9bc9-4e77-93b7-2c47e56469ec",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true regarding Hyper IgE syndrome, except:",
-        "exp": "Hyper IgE syndrome / Job's syndrome Autosomal dominant inhibitory mutations in signal transducer and activator of transcription 3 (STAT3) lead to inhibition of normal STAT signaling Patients have characteristic facies:- Broad nose Kyphoscoliosis Osteoporosis Eczema Abnormal chemotaxis is a variable feature Recurrent sinopulmonary and cutaneous infections (\"cold abscesses\") Serum IgE level is significantly elevated whereas IgM, IgG and IgA level are normal In vivo assessment of inflammation is possible with a Rebuck skin window test or an in vivo skin blister assay, which measures the ability of leukocytes and inflammatory mediators to accumulate locally in the skin. In vitro tests of phagocyte aggregation, adherence, chemotaxis, phagocytosis, degranulation, and microbicidal activity (for S. aureus) are used for laboratory diagnosis",
-        "cop": 4,
-        "opa": "Autosomal dominant",
-        "opb": "Kyphoscoliosis",
-        "opc": "Recurrent cutaneous abscesses",
-        "opd": "Low serum IgG, IgA and IgM levels",
-        "subject_name": "Pathology",
-        "topic_name": "Immunology",
-        "id": "6cf7ef22-0b2f-41e5-b73a-c441c8dee3f5",
-        "choice_type": "multi"
-    },
-    {
         "question": "MHC class III genes encode:",
         "exp": "HLA class III contains genes for Complement components C2 and C4Q of classical pathway (Not C3Q) Properdin factor BQ of alternate pathway Tumor necrosis factorQ: Alpha and Beta Heat shock protein 70 Q Enzyme tyrosine hydroxylase Genes for MHC (also known as HLA) are located on sho arm of chromosome 6.",
         "cop": 2,

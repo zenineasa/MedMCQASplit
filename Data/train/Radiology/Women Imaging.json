@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about Mammography is?",
-        "exp": "*Mammography uses lesser Kvp And greater m. As than Conventional Radiography *Target used in mammography is Molybdenum *BIRADS 3 requires sho term follow up in 6 months *Characteristic radiations by photoelectric effect are chief source of X ray generation in mammography *Bremstrahlung radiation are major source of x-ray generation in conventional radiography",
-        "cop": 4,
-        "opa": "Uses higher KVp than Chest X ray",
-        "opb": "Target material used is Tungsten",
-        "opc": "BIRADS score 3 requires biopsy",
-        "opd": "Photoelectric effect is chief source of X ray Production in mammography",
-        "subject_name": "Radiology",
-        "topic_name": "Women Imaging",
-        "id": "524812c4-9ac3-4f42-a927-8e28f19c1fda",
-        "choice_type": "multi"
-    },
-    {
         "question": "The following Hysterosalpingogram shows which of the following condition?",
         "exp": "Uterus didelphys is a type of Mullerian duct anomaly where there is a complete duplication of uterine horns as well as duplication of the cervix, with no communication between them. Figure: Didelphys uterus.",
         "cop": 3,
@@ -65,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Investigation preferred for evauluation of suspected breast mass in a patient with breast implant is?",
-        "exp": "MRI is the technique of choice for assessing the integrity of breast implants, with a sensitivity and specificity of over 90%. When imaging breast implants, no contrast agent is required unless malignancy is suspected. Imaging should be performed in the prone position using a dedicated breast coil. The main goal is to determine whether the implant has ruptured and if so, to establish the location of the leaked filler (usually silicon). NOTE Ix to evaluate a lump in a young female- USG Ix to evaluate painful lump in lactating mothers- USG Ix for differentiating scar Vs residual / recurrence of Ca- MRI IOC in Breast / silicone implant- MRI",
-        "cop": 3,
-        "opa": "USG",
-        "opb": "Mammography",
-        "opc": "MRI",
-        "opd": "All of the above",
-        "subject_name": "Radiology",
-        "topic_name": "Women Imaging",
-        "id": "43de8b60-8556-49b7-b38c-4978669c8a4d",
-        "choice_type": "multi"
-    },
-    {
         "question": "A score of BIRADS- 0 on mammography indicates:",
         "exp": "Final Assessment Categories Category Management Likelihood of cancer 0 Need additional imaging of prior examinations Recall for additional imaging and /or await prior examinations N/A 1 Negative Routine screening Essentially 0% 2 Benign Routine screening Essentially 0% 3 Probably Benign Sho interval-follow-up (6 month) or continued >0% but< 2 % 4 Suspicious Tissue diagnosis 4a. low suspicion for malignancy (>2% to <10%) 4b. moderate suspicion for malignancy (>10% to< 50%) 4c. high suspicion for malignancy (>50% to <95%) 5 Highly suggestive of malignancy Tissue diagnosis > 95% 6 Known biopsy proven Surgical excision when clinical appropriate N/A",
         "cop": 4,
@@ -89,19 +63,6 @@
         "topic_name": "Women Imaging",
         "id": "07445f4c-d8d7-4613-ae79-aa6515f1716b",
         "choice_type": "single"
-    },
-    {
-        "question": "Investigation to differentiate between a scar tissue and residual/recurrence of a breast tumor is",
-        "exp": "Ix for differentiating scar Vs residual / recurrence of Ca Breast- CE-MRI Breast scar Post-surgical breast scar is a benign complication that usually occurs following surgical intervention to breast tissue. It can, however, be a strong and potentially very confusing mimicker of breast malignancy. Residual breast tumor It is a remaining poion of the original primary breast cancer after incomplete resection or following radiotherapy or chemotherapy. Residual Breast Tumor shows contrast enhancement but scars donot enhance on a Contrast Enhanced Mri",
-        "cop": 3,
-        "opa": "USG",
-        "opb": "Mammography",
-        "opc": "MRI",
-        "opd": "All of the above",
-        "subject_name": "Radiology",
-        "topic_name": "Women Imaging",
-        "id": "5eaf0e6e-cb3b-4e28-8e57-c2f5992806b7",
-        "choice_type": "multi"
     },
     {
         "question": "Investigation preferred to Confirm intrauterine device in place with missing strings of IUD?",

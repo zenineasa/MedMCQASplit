@@ -52,45 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Hyperkalemia presents with all except?",
-        "exp": "Hyperkalemia from a variety of causes can also present with ascending paralysis this is known as secondary hyperkalemic paralysis to differentiate it from familial hyperkalemic periodic paralysis (HYPP). The presentation may include diaphragmatic paralysis and respiratory failure. Cardiac rhythm disorder with hyperkalemia includes slow indioventricular rhythm. Hypokalemia results in slow repolarization of skeletal muscle, impairing the capacity to contract: weakness and even paralysis may ensue. The paralytic effects of hypokalemia on intestinal smooth muscle may cause intestinal ileus.",
-        "cop": 3,
-        "opa": "Periodic paralysis",
-        "opb": "Hemodynamic collapse",
-        "opc": "Ileus",
-        "opd": "Slow idioventricular rhythms",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "7b9c49a4-1fbe-4f16-bde3-ed042758bc47",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All can be seen as Post-Diarrhoea complications except:",
-        "exp": "Complications of Chronic diarrhea * Lactase deficiency * Small-bowel bacterial overgrowth * Malabsorption syndromes (tropical and celiac sprue) * Initial presentation or exacerbation of inflammatory bowel disease * Irritable bowel syndrome * Reactive ahritis (formerly known as Reiter's syndrome) * Hemolytic-uremic syndrome (hemolytic anemia, thrombocytopenia, and renal failure) * Guillain-Barre syndrome",
-        "cop": 2,
-        "opa": "HUS",
-        "opb": "Nephritic syndrome",
-        "opc": "Reactive ahritis",
-        "opd": "Guillain Barre syndrome",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "b234bb2a-b81e-40d3-a653-b67f8aae31ed",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are useful for management of Hypermagnesemia except?",
-        "exp": "* Hypermagnesemia is seen rarely seen in the absence of renal insufficiency as kidneys can excrete a large load of magnesium. Management of Hypermagnesemia 1. Use of magnesium free cathaics may clear ingested magnesium from the gut. 2. Intravenous hydration will reduce chances of cardiac toxicity. 3. Temporary improvement will be provided by calcium gluconate. Amiloride is a diuretic and by causing loss of water from body will worsen the pre-existing hypermagnesemia.",
-        "cop": 4,
-        "opa": "Magnesium free enema",
-        "opb": "IV FLUID",
-        "opc": "Calcium gluconate",
-        "opd": "Amiloride",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "bb4db4f6-1bdc-4a7d-b145-cf65dbe81b2b",
-        "choice_type": "multi"
-    },
-    {
         "question": "pH= 7. 30, p. CO2= 38, HCO3 = 18, Diagnosis is?",
         "exp": "Since pH is less, and HCO3 is less, it implies metabolic acidosis Now for compensation p. CO2 = HCO3+ 15 = 18 + 15 = 33 The value predicted is not matching with given p. CO2 of 38 mm. Hg. It implies compensation is not there and it is a mixed disorder. Conclusion metabolic acidosis with respiratory acidosis.",
         "cop": 4,
@@ -156,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In metabolic acidosis caused by diabetic ketoacidosis, which of the following would be greater than normal:",
-        "exp": "In diabetic ketoacidosis there is an increased production of acetoacetic and b-hydroxybutyric acids, which leads to an increase in plasma concentration of hydrogen ions. These fixed acids are buffered by all body buffers but mainly by bicarbonate. The concentration of plasma HCO3- is therefore below normal. The consumption of bicarbonate and the addition of the anions of the fixed acids to the plasma cause an elevation of the anion gap. The acidosis would stimulate the carotid body chemoreceptors (and eventually the central chemoreceptors) to cause an increase in ventilation, which decreases aerial p. CO2-.",
-        "cop": 2,
-        "opa": "Concentration of plasma HCO3-",
-        "opb": "Anion gap",
-        "opc": "Aerial p. CO2",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "822eb49c-0ef7-4295-a6b2-a907d3785d5d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Not a cause of Hypomagnesemia:",
         "exp": "* Gitelman is a defect of DCT where TRPM6 receptor for magnesium reabsorption is present and is defective leading to Hypomagenesemia * In Re-feeding syndrome seen with starvation, provision of nutrition in form of substrates will lead to cellular consumption leading to rapid shift of magnesium from extracellular fluid to intracellular compaments. * Hyperaldosteronism will lead to expansion of plasma volume and resultant fall of magnesium. * In Rhabdomyolysis cell destruction will lead to Hypermagnesemia.",
         "cop": 4,
@@ -180,32 +128,6 @@
         "topic_name": "Fluids and Electrolyte Imbalance",
         "id": "c65f0168-a827-4f6b-814b-3e71e6e77cec",
         "choice_type": "single"
-    },
-    {
-        "question": "Hypernatremia causes all EXCEPT?",
-        "exp": "Sudden shrinkage of brain cells in acute hypernatremia may lead to parenchymal or subarachnoid hemorrhages Brain cells accommodate to a chronic | in ECF osmolality (>48h) by activating membrane transpoers- influx and intracellular accumulation of organic osmolytes- increase in ICF water and normalization of brain parenchymal volume. Cellular response to chronic hypernatremia predisposes these patients to the development of cerebral edema and seizures during overly rapid hydration",
-        "cop": 2,
-        "opa": "Seizure",
-        "opb": "Pseudo- Paralysis",
-        "opc": "Brain hemorrhage",
-        "opd": "Cerebral edema",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "b1c135e6-98f8-45ce-ad1d-21cc210f453c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are useful for treatment of metabolic alkalosis except?",
-        "exp": "Normal saline is useful if volume contraction is present PPI is given if H+ is lost from stomach or kidney Dilute HCL (0. 1N HCL) can be effective but can lead to hemolysis and hence should be given slowly a central line KCL will correct K+ deficits due to hyperaldosteronism",
-        "cop": 4,
-        "opa": "Sodium chloride",
-        "opb": "Potassium chloride",
-        "opc": "Hydrochloric acid",
-        "opd": "Ammonium chloride",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "d6d43a12-b473-41b1-bfc0-c4b50e9276a4",
-        "choice_type": "multi"
     },
     {
         "question": "Most common cause of hypernatremia?",
@@ -234,32 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are used for management for hypernatremia except?",
-        "exp": "Hypernatremia is treated with free water intake by month or NG tube if patient is not obtunded. Dilute hypotonic fluids like 5% dextrose in water and N/2 in 5% water are given to decrease serum sodium at a rate of 0. 3 mmol/Hr. Drug that stimulate vasopressin like chlorpropamide / indomethacin / carbamazepine and clofibrate will also increase water absorption from collecting duct and reduce serum sodium.",
-        "cop": 3,
-        "opa": "5% dextrose in water",
-        "opb": "N/2 in 5% dextrose",
-        "opc": "Nil by mouth",
-        "opd": "Indomethacin",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "55816e8f-2d75-4cee-bf43-cfdba080dab0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are features of hypermagnesemia except?",
-        "exp": "Hypermagnesemia leads to inhibition of PTH release as well as inhibits calcium absorption from calcium sensitive receptor The resultant calcium depletion leads to vasodilation and neuromuscular blockade. The vasodilatation explains the hypotension and neuromuscular blockade explains ileus and decreased DTR.",
-        "cop": 3,
-        "opa": "Hypotension",
-        "opb": "Ileus",
-        "opc": "Tetany",
-        "opd": "Decreased DTR",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "8a909692-3df1-4443-8a5e-f430f7d4ddfb",
-        "choice_type": "multi"
-    },
-    {
         "question": "ORS plus zinc is given in diarrhea because?",
         "exp": "Zinc reduces severity of illness so it reduces the duration of diarrhea. Zinc should be given for 14 days in any episode of gastroenteritis in children Zinc upgrades the immunity, so the duration of illness is lessened",
         "cop": 3,
@@ -284,19 +180,6 @@
         "topic_name": "Fluids and Electrolyte Imbalance",
         "id": "7dcd6a5a-eb25-42dd-93c6-25364a0911dd",
         "choice_type": "single"
-    },
-    {
-        "question": "All are used for management of hyperkalemia except?",
-        "exp": "Management of Hyperkalemia IV calcium gluconate/ chloride Insulin lowers plasma K+ concentration by shifting K+ into cells. Beta 2 agonists, most commonly albuterol are effective IV bicarbonate has no role in the routine treatment of hyperkalemia. Removal of potassium by using cation exchange resins, diuretics and dialysis. Sodium polystyrene sulfonate (SPS) exchanges Na+ for K+ in the gastrointestinal tract and increases the fecal excretion of K+.",
-        "cop": 3,
-        "opa": "Calcium gluconate",
-        "opb": "Insulin plus dextrose",
-        "opc": "Beta 2 antagonist",
-        "opd": "Dialysis",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "a1e6b78a-365d-410f-8f85-a359815b171d",
-        "choice_type": "multi"
     },
     {
         "question": "Hyperphosphatemia is treated by?",
@@ -325,19 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Anion gap is increased in all except?",
-        "exp": "Anion gap: The anion gap is the difference between primary measured cations and the primary measured anions in serum. AG= Na-(Cl- + HCO3-) Value of Normal anion gap= 10 to 12 mmol/L Anion gap is increased in: Diabetic ketoacidosis Acute tubular necrosis Ethylene glycol poisoning",
-        "cop": 1,
-        "opa": "Renal tubular acidosis",
-        "opb": "Diabetic ketoacidosis",
-        "opc": "Acute tubular necrosis",
-        "opd": "Ethylene glycol poisoning",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "9c30834c-22e5-4536-80b0-5837d095a26e",
-        "choice_type": "multi"
-    },
-    {
         "question": "pH = 7. 27, HCO3= 10 m. Eq/dl and p. C02 = 23 mm Hg:",
         "exp": "Applying Winter's formula Estimated p. CO2 = {HCO3 x 1. 5} + 8 +2 = {10 x 1. 5} + 8+2 = 21-25 Since the actual p. CO2 falls within the estimated range, we can deduce that the compensation is adequate and there is no separate respiratory disorder present",
         "cop": 1,
@@ -349,19 +219,6 @@
         "topic_name": "Fluids and Electrolyte Imbalance",
         "id": "d90efdfc-d82a-40e3-8c90-318149cf7e8e",
         "choice_type": "single"
-    },
-    {
-        "question": "Cardiac rhythm seen with hyperkalemia is all except?",
-        "exp": "Cardiac arrhythmias associated with hyperkalemia are: Asystole Sinus bradycardia Sinus arrest Slow idioventricular rhythms Ventricular tachycardia Ventricular fibrillation",
-        "cop": 4,
-        "opa": "Sinus arrest",
-        "opb": "Sinus bradycardia",
-        "opc": "Ventricular fibrillation",
-        "opd": "Torsades de pointes",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "ee9c384e-8b37-4805-b6e4-77b884b079cc",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following leads to hyponatremia and low osmolality:",
@@ -427,19 +284,6 @@
         "topic_name": "Fluids and Electrolyte Imbalance",
         "id": "1737af63-9e82-4808-a01d-84f03fd0ea3d",
         "choice_type": "single"
-    },
-    {
-        "question": "T. T. K. G >8 is seen in all except:",
-        "exp": "Transtubular potassium gradient > 8 is associated with hyperkalemia. Choices 1, 2, 3 lead to hyperkalemia. Choices 1 and 2 lead to kidney damage. Choice 3 due to aldosterone deficiency leads to potassium excess due to inability to loose potassium the collecting duct. Cushing syndrome has excess of coisol, which stimulates the mineralocoicoid receptors to cause hypokalemic metabolic alkalosis.",
-        "cop": 4,
-        "opa": "Diabetes mellitus",
-        "opb": "Acute glomerulonephritis",
-        "opc": "Adrenocoical insufficiency",
-        "opd": "Cushing syndrome",
-        "subject_name": "Medicine",
-        "topic_name": "Fluids and Electrolyte Imbalance",
-        "id": "6cf32b40-f578-4963-afcc-890ca27761c9",
-        "choice_type": "multi"
     },
     {
         "question": "Urinary anion gap is?",

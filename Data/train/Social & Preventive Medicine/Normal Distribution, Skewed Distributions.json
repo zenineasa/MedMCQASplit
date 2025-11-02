@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Standard detion is the measure of:",
-        "exp": "STANDARD DETION (SD) SD is the measure of Detion from mean value. SD is most common and generally most appropriate measure of dispersion SD is defined as the 'root-mean-square (RMS) detion of the values from their mean', or as the square root of the variance SD calculation: =",
-        "cop": 3,
-        "opa": "Chance",
-        "opb": "Central tendency",
-        "opc": "Detion from mean value",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Normal Distribution, Skewed Distributions",
-        "id": "0b698c03-95eb-4b54-a5bf-da8556d99858",
-        "choice_type": "multi"
-    },
-    {
         "question": "68% values are covered in how many Standard Detions (SD)?",
         "exp": "Normal / Gaussian curve:- Is 'bilaterally symmetrical, bell - shaped'. Mean, Median and Mode coincide. (Mean = Median = Mode) Has mean (u) = 0 and SD (s) = 1. 1) Mean +- 1. SD (u +- 1s) covers 68% values. 2) Mean +- 2. SD (u +- 2s) covers 95% values. 3) Mean +- 3. SD (u +- 2s) covers 99% values.",
         "cop": 1,
@@ -76,19 +63,6 @@
         "topic_name": "Normal Distribution, Skewed Distributions",
         "id": "09ea11a9-ddf1-4d41-bf63-9653774d54cb",
         "choice_type": "single"
-    },
-    {
-        "question": "A researcher draws unbiased sample of 100 adult delhites and find that their mean weight is 72 kg with a standard detion of 1. 5. 95% of wt of delhites shall be between:",
-        "exp": "In the given question, n = 100 adult Delhites, mean weight (u) = 72kg, standard detion (SD) = 1. 5 95% wt of delhites = Mean +- 2. SD (u +- 2. SD) = 72 +- 2 (1. 5) = 72 +- 3 =b/w 69 & 75 kg wt",
-        "cop": 2,
-        "opa": "66 and 78 kg",
-        "opb": "69 and 75 kg",
-        "opc": "70. 5 and 73. 5 kg",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Normal Distribution, Skewed Distributions",
-        "id": "9d3380c0-0c0b-42cd-8308-9a2f5944e93c",
-        "choice_type": "multi"
     },
     {
         "question": "Variation of Sample mean from Population mean is:",

@@ -1,18 +1,5 @@
 [
     {
-        "question": "A 30-year old patient having a history of rheumatic fever during adolescence, presented with high grade fever and erythematous lesion on both palms. On echocardiography, the cardiologist detects small sterile vegetations along line of closure of the mitral valve. Which of the following is least likely to be found in this patient?",
-        "exp": "The patient is suffering from infective endocarditis. With a background of rheumatic fever, the likely risk factor for IE in this case is rheumatic heart disease (RHD). Some of the clinical features of infective endocarditis related to microthromboemboli include erythematous or hemorrhagic nontender lesions on the palms or soles (Janeway lesions), subcutaneous nodules in the pulp of the digits (Osler nodes), and retinal hemorrhages in the eyes (Roth spots). Subendocardial lesions in RHD, exacerbated by regurgitant jets, can induce irregular thickenings called Mac. Callum plaques, usually in the left atrium. Aschoff bodies are rarely seen in surgical specimens or autopsy tissue from patients with chronic RHD, because of the long intervals between the initial insult and the development of the chronic deformity. Aschoff bodies and Anitschkow cells are seen in acute rheumatic fever.",
-        "cop": 2,
-        "opa": "Mac. Callum plaques",
-        "opb": "Aschoff bodies",
-        "opc": "Osler nodes",
-        "opd": "Roth spots",
-        "subject_name": "Pathology",
-        "topic_name": "Endocarditis",
-        "id": "1ee3d997-cdf1-4952-913a-9a067da3c8bc",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 32 yr old man present to ER with history of high-grade fever, dyspnea and fatigue. On physical examination reveals a new holosystolic murmur that is best heard over cardiac apex. Skin examination shows following skin lesion. What is most likely diagnosis?",
         "exp": "Janeway lesion are nontender, macular and erythematous lesions on palms and soles of patient with acute infective endocarditis. Osler nodes are tender, violaceous nodules typically located in pulp of fingers and toes seen in patient with infective endocarditis. Libman Sack endocarditis occurs in up to 25% of patient with SLE. This condition can cause small cardiac valvular vegetations on wither side of a valve, resulting in fibrotic valve thickening in fibrotic valve thickening anf deformity. SLE may cause an acute coronary syndrome at young age even with angiographically normal coronary aeries. Rheumatic fever can lead to mitral stenosis, which is characterize by a late, rumbling, diastolic murmur at cardiac apex. Numerous symptoms are associated with acute rheumatic fever, these can be: fever, erythema marginatum, valvular damage, increase ESR, joint pain, Subcutaneous nodule and Sydenham chorea. Erythema marginatum is a nonpruritic, circular, pink eruption on the trunk that is present in few cases of acute rheumatic fever. Kaposi sarcoma: a vascular tumor that is the most common neoplasm in patients with AIDS. The lesions of KS are characterized by the proliferation of spindle-shaped cells that express markers of both endothelial cells (vascular or lymphatic) and smooth muscle cells.",
         "cop": 2,
@@ -76,44 +63,5 @@
         "topic_name": "Endocarditis",
         "id": "3403049b-76fb-4b39-8a26-e1951beb2e02",
         "choice_type": "single"
-    },
-    {
-        "question": "Least chances of infective endocarditis is associated with:-",
-        "exp": "Risk of infective endocarditis in various lesions High Risk Moderate Risk Low Risk Prosthetic heart value Tetralogy of Fallot PDA Aoic regurgitation Aoic stenosis Coarctation of Aoa VSD Mitral regurgitation MVP + M. R. Tricuspid stenosis Tricuspid regurgitation Pulmonary stenosis Mitral stenosis ASD MVP without MR",
-        "cop": 3,
-        "opa": "Mild MS",
-        "opb": "Mild MR",
-        "opc": "Small ASD",
-        "opd": "Small VSD",
-        "subject_name": "Pathology",
-        "topic_name": "Endocarditis",
-        "id": "021fe826-109f-4171-a70c-aa9424f004b1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which among the following is false about Non Bacterial Thrombotic Embolism(NBTE):",
-        "exp": "Vegetation in SLE Vegetation in NBTE Small, sterile, firm Both surface of valve Lower surface> upper surface Libman sack endocarditis Marantic endocarditis Along the line of closure Non invasive Don't elicit inflammatory reaction Small, Sterile Friable: Embolism Seen in - Ca Pancreases- AML M3 Vegetation of IE Vegetation Of RHD Large, multiple Friable High risk of embolism Vegetation at periphery Deposition of bacteria in multiple Organ like kidney and Brain. Small, sterile Along line of closure Firm - less chance of embolism",
-        "cop": 3,
-        "opa": "Marantic endocarditis",
-        "opb": "Thrombi on the leaflets of the cardiac valves",
-        "opc": "Vegetations elicit inflammatory reaction",
-        "opd": "Non invasive in nature",
-        "subject_name": "Pathology",
-        "topic_name": "Endocarditis",
-        "id": "ce4d3e8f-d66f-465e-8446-211b32aa43d6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is the feature of vegetations in Libmann Sacks endocarditis?",
-        "exp": "Mitral and tricuspid valvulitis with small, sterile vegetations, called Libman-Sacks endocarditis, is occasionally encountered in systemic lupus erythematosus. The lesions are small (1 to 4 mm in diameter), single or multiple, sterile, pink vegetations with a way (verrucous) appearance. They may be located on the undersurfaces of the atrioventricular valves, on the valvular endocardium, on the chords, or on the mural endocardium of atria or ventricles.",
-        "cop": 3,
-        "opa": "Large and fragile",
-        "opb": "Small way along the line of closure of valve",
-        "opc": "Small or medium sized on either or both sides of valve",
-        "opd": "Small bland vegetations",
-        "subject_name": "Pathology",
-        "topic_name": "Endocarditis",
-        "id": "08d512d2-494a-4454-bf2e-d0100bc95982",
-        "choice_type": "multi"
     }
 ]

@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient presents to the doctor with diplopia when looking towards the right. On examination, he is unable to move his right eye laterally past the midline. Damage to which of these nerves would produce this clinical presentation?",
-        "exp": "Clinical Presentation is of impaired abduction of one eye (right eye) d/t damage of VI nerve. Lateral rectus is paralysed",
-        "cop": 1,
-        "opa": "Abducent nerve",
-        "opb": "Trochlear nerve",
-        "opc": "Optic nerve",
-        "opd": "Oculomotor nerve",
-        "subject_name": "Medicine",
-        "topic_name": "Myasthenia Gravis and Muscular dystrophy",
-        "id": "e495dbdf-d02e-4521-800a-8efe5652f0e6",
-        "choice_type": "multi"
-    },
-    {
         "question": "In a case of myasthenia gravis, CT Chest shows anterior mediastinal mass. Diagnosis is?",
         "exp": "Thymus gland abnormalities are seen in 75% of anti-Ach Receptor positive antibodies patients. CT chest can identify a Thymic hyperplasia or a thymoma which though benign can produce mass effects.",
         "cop": 2,
@@ -37,19 +24,6 @@
         "topic_name": "Myasthenia Gravis and Muscular dystrophy",
         "id": "bc6cc514-4494-40a5-a310-46f380e4e9b3",
         "choice_type": "single"
-    },
-    {
-        "question": "All of following are examples of proximal muscle weakness EXCEPT?",
-        "exp": "Myasthenia gravis Features Eye muscle weakness, Ptosis, Diplopia In contrast, all myopathies have a proximal weakness (an exception being Myotonic dystrophy, which has a distal weakness).",
-        "cop": 3,
-        "opa": "Myasthenia gravis",
-        "opb": "Thyroid myopathy",
-        "opc": "Myotonic dystrophy",
-        "opd": "Duchenne's muscular dystrophy",
-        "subject_name": "Medicine",
-        "topic_name": "Myasthenia Gravis and Muscular dystrophy",
-        "id": "f8a4f36a-05b2-4b19-bc77-5614490d8cf7",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not seen in Horner syndrome?",
@@ -128,18 +102,5 @@
         "topic_name": "Myasthenia Gravis and Muscular dystrophy",
         "id": "b062497a-2c05-4f87-a3f4-b45680ab1122",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following tests must be done before initiating treatment of M. Gravis, except?",
-        "exp": "Generalised M. Gravis is associated with Thymic hyperplasia or Thymoma. CT chest is recommended. Baseline PFT will help in case of development of Myasthenia Crisis by the patient Since thyroid abnormalities like Hashimoto's thyroiditis is associated with M. Gravis, TSH is performed. Recommended laboratory test or procedures CT or MRI of chest Test for lupus erythematosus, antinuclear antibody, rheumatoid factor, antithyroid antibodies Pulmonary function test Thyroid function test Fasting blood glucose, hemoglobin A1 PPD skin tests Bone densitometry",
-        "cop": 3,
-        "opa": "CT Chest",
-        "opb": "Pulmonary function test",
-        "opc": "CRP",
-        "opd": "TSH",
-        "subject_name": "Medicine",
-        "topic_name": "Myasthenia Gravis and Muscular dystrophy",
-        "id": "bb8e372d-d4e8-492c-bf39-87e677eb46b1",
-        "choice_type": "multi"
     }
 ]

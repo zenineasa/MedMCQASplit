@@ -1,31 +1,5 @@
 [
     {
-        "question": "Neurofibromatosis 1 criteria include all except:",
-        "exp": "In Neurofibromatosis 1 (NF1), two or more of the following clinical manifestations are present: Six or more Cafe-au-lait macules Axillary and inguinal freckling Two or more iris Lisch nodules Two or more neurofibromas or 1 plexiform neurofibroma A distinctive osseous lesion such as sphenoidal and tibial dysplasia Optic gliomas A 1st degree relative with NF1 Ref: Nelson textbook of pediatrics 21st edition pgno: 3141",
-        "cop": 2,
-        "opa": "Brain tumor",
-        "opb": "Acoustic neuromas",
-        "opc": "Dysplasia of the sphenoidal and tibial bone",
-        "opd": "Cafe-au-lait spots",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "367cad83-4383-4c47-b2dd-d31fa56115ba",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Barr body is absent in female having",
-        "exp": "Barr body is absent in those with genotype 45 XO. For a brr body to be present a minimum of 2 x chromosomes should be there. No of Barr body = no of x chromosomes - 1. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 2,
-        "opa": "46 XX genome",
-        "opb": "45 X0 genome",
-        "opc": "47 XXX",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "31fd76d6-3fa7-4dc2-9dc3-d1dc95728702",
-        "choice_type": "multi"
-    },
-    {
         "question": "Maternal disomy of chromosome 15 is seen in",
         "exp": "Uniparental disomy occurs when both chromosomes of a pair or areas from 2 chromosome in any individual have been inherited from a single parent. Maternal uniparental disomy is seen in Leader -Willi syndrome. Paternal uniparental disomy is seen in Angelman syndrome. Reference: Nelson TB of pediatrics pg 412 19th edition.",
         "cop": 1,
@@ -52,32 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is not true about Fragile X syndrome",
-        "exp": "Fragile X syndrome is associated with the loci Xq27. 3 on the distal long arm of the X chromosome. In affected males, it is mainly characterized by mental retardation, macroorchidism, autistic behaviour, facial features like long face, large ears, prominent square jaw Pigmented naevi are not seen associated with fragile X syndrome. Reference: Nelson paediatrics 19th edition pg 411",
-        "cop": 2,
-        "opa": "Large testis",
-        "opb": "Pigmented nevi",
-        "opc": "Large ear present",
-        "opd": "Long face",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "feb1b947-995f-4a14-9b14-5cc1f1a50062",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following diseases are associated with trinucleotide repeat sequence except:",
-        "exp": "Rest of the options are associated with trinucleotide repeat sequence. Triple-repeat mutations (Allelic expansion disorders) Due to an increase in the number of nucleotide repeats above a ceain threshold Length of the nucleotide repeat often correlates with the severity of the disease Anticipation: When repeat length increases from one generation to the next, disease manifestations may worsen or be observed at an earlier age. Disease Repeats Clinical features Fragile X-Syndrome CGG Mental retardation, large ears and jaws, macroorchidism in males Myotonic Dystrophy (Chromosome 19) CTG Muscle loss, cardiac arrhythmia, cataracts, frontal balding Huntington&; s disease CAG Affective disorder Spinocerebellar ataxia type 1 CAG Progressive ataxia, dysahria, dysmetria Friedreich&; s ataxia GAA Progressive ataxia, dysahria, hyperophic cardiomyopathy Ref: Nelson textbook of Medical Physiology 21st edition Pgno: 647",
-        "cop": 4,
-        "opa": "Huntington's disease",
-        "opb": "Fredreich's ataxia",
-        "opc": "Myotonica dystrophy",
-        "opd": "Hereditary motor-sensory neuropathy",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "e4f285b0-8771-4abe-8871-44f7b412ee65",
-        "choice_type": "multi"
-    },
-    {
         "question": "Adrenogenital syndrome is most commonly caused by?",
         "exp": "The most common type of congenital adrenal hyperplasia is deficiency of in boys--that becomes prominent as the child grows. There may also be decreased production of, low serum sodium concentrations (hyponatremia), and high serum <a href=\" deficiency</a> accounts for 95% of all cases of CAH and is inherited in an autosomal recessive pattern. It is due to a mutation of the CYP21 gene. It can occur in a classical or nonclassical form. The incidence of the classical form of CAH is roughly 1: 15 000, while that of the nonclassical form is approximately 1: 100. Classical CAH can be fuher divided into a salt-wasting form (75%) and a simple virilizing form (25%). 21-Hydroxylase is necessary for the production of coisol and aldosterone. Lack of this enzyme shunts intermediate steroid precursors toward androgen production. Symptoms are related to excess androgens and, in the salt-wasting form of classical CAH, decreased aldosterone. Aldosterone is necessary for normal sodium retention and potassium secretion by the kidney. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 1,
@@ -89,32 +37,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "ef9b3446-69d3-4992-952c-d2c0c015c3a8",
         "choice_type": "single"
-    },
-    {
-        "question": "Non-invasive prenatal screening (NIPS) is paicularly useful in the modern era of diagnosis in clinical genetics. Which of the following statements is not true regarding this test?",
-        "exp": "Non-invasive prenatal screening (NIPS) has a high negative predictive value. NIPS: Useful in screening high-risk pregnancies for aneuploidies Done after 10 weeks of gestation Evaluates maternal blood for screening Positive tests need confirmation by invasive testing (like amniocentesis, Chorionic villous sampling) Ref: Ghai essential pediatrics 9th edition Pgno: 643",
-        "cop": 3,
-        "opa": "Useful in screening for aneuploidies",
-        "opb": "Evaluates maternal blood for abnormalities",
-        "opc": "HIgh positive predictive value",
-        "opd": "Positive test need confirmation by invasive testing",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "dfe92c5a-1b60-47fa-a934-2f765f019810",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A child with a small head, minor anomalies of the face including a thin upper lip, growth delay, and developmental disability can have all of the following, except",
-        "exp": "The features given can occur as a pa of a chromosomal / teratogenic / mendelian syndrome. Polygenic inheritance is the answer of exclusion. In a polygenic inheritance, multiple genes are involved in the phenotypic expression. Some examples of polygenic inheritance are hypertension and diabetes. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 4,
-        "opa": "A chromosomal syndrome",
-        "opb": "A teratogenic syndrome",
-        "opc": "A mendelian syndrome",
-        "opd": "A polygenic syndrome",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "373916eb-7cb9-43bb-a560-7a8455c5621d",
-        "choice_type": "multi"
     },
     {
         "question": "Triangular facies is indicative of ________",
@@ -141,19 +63,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "8bc8267b-17bf-4195-9f9d-9985fca6f99b",
         "choice_type": "single"
-    },
-    {
-        "question": "Prader - Willi syndrome is associated with following EXCEPT",
-        "exp": "PWS has many signs and symptoms. The symptoms cann range from poor muscle tone during infancy to behavioral problems in early childhood. Some symptoms that are usually found in infants, besides poor muscle tone, are a lack of eye coordination, some are born with almond-shaped eyes, and due to poor muscle tone, some may not have a strong sucking reflex. Their cries are weak, and they have difficulty waking up. Another sign of this condition is a thin upper lip. More aspects seen in a clinical overview include hypotonia and abnormal neurologic function, hypogonadism, adult onset diabetes mellitus, developmental and cognitive delays, hyperphagia and obesity, sho stature, and behavioral and psychiatric disturbances. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 3,
-        "opa": "Hypogonadotropic hypogonadism",
-        "opb": "Hyperphagia - obesity",
-        "opc": "Chronic muscle hypeonia",
-        "opd": "Adult - onset diabetes mellitus",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "32e71d58-67df-427b-ad36-950bf6850b8b",
-        "choice_type": "multi"
     },
     {
         "question": "Type of inheritance in MELAS is ________",
@@ -195,45 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Down Syndrome, All are seen except",
-        "exp": "Majority of translocations in Down syndrome are fusions at the centromere between chromosomes 13, 14, 15, 21 and 22. These are known as Robeson I an translocation. t(11: 14 ) is not seen in down syndrome. Reference: Nelson TB of pediatrics 19th edition pg 402.",
-        "cop": 3,
-        "opa": "t (14; 21)",
-        "opb": "Trisomy 21",
-        "opc": "t (11: 14)",
-        "opd": "t (15: 21)",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "7e183363-434e-437e-9c83-49a796fbc5d9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In Down syndrome",
-        "exp": "Down syndrome:- Trisomy 21 Patients with down syndrome have mental and physical retardation, flat facial profile, an upward slant of eyes and epicanthic folds. Oblique palpebrak fissure seen. Nose is small with flat nasal bridge. Mouth shows narrow sho palate with small teeth and furrowed protruding tongue. There is significant hypotonia. Skull appears small and brachycephalic with flat occiput. Ears are small and dysplastic. Characteristic facial grimace on crying. Hands are sho and broad. Clinodactyly( hypoplasia of middle phalanx of fifth finger) and simian crease are usual. There is wide gap between the first and second toe( Sandle gap). Associated anomalies:- 1. Congenital heart disease- ventricular septal defect. 2. Gastrointestinal - atresia, annular pancreas and Hirschsprung disease. 3. Ophthalmic- cararact, nystagmus, squint. 4. Thyroid dysfunction 5. Conductive hearing loss Best serological marker for down syndrome is Beta HCG. Reference: GHAI Essential pediatrics, eighth edition",
-        "cop": 4,
-        "opa": "Sandle gap",
-        "opb": "Hypotonia",
-        "opc": "Clinodactyly",
-        "opd": "All the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "71ccbfe8-09e0-4bce-a325-3d0bc771acc5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Turner syndrome is maximally associated with",
-        "exp": "Turner syndrome, a condition that affects only females, results when one of the X chromosomes (sex chromosomes) is missing or paially missing. Turner syndrome can cause a variety of medical and developmental problems, including sho height, failure of the ovaries to develop and heart defects. Turner syndrome may be diagnosed before bih (prenatally), during infancy or in early childhood. Occasionally, in females with mild signs and symptoms of Turner syndrome, the diagnosis is delayed until the teen or young adult years. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 2,
-        "opa": "Horseshoe kidney",
-        "opb": "Coarctation of aoa",
-        "opc": "VSD",
-        "opd": "ASD",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "a16fbb55-24f9-4435-9ab9-39e38ec5be36",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common Enzyme Deficiency leading to childhood hypertension is",
         "exp": "Most common enzyme deficiency causing hypertension in pediatric child group is APPARENTMINERALOCOICOID EXCESS. Apparent mineralocoicoid excess (AME) is an autosomal recessive disorder caused by deficiency of 11 beta hydroxysteroid dehydrogenase 2 (11-beta HSD 2) enzyme which is encoded by a gene in chromosome 16q22. Congenital adrenal hyperplasia due to 11b-hydroxylase deficiency is a form of congenital adrenal hyperplasia (CAH) which produces a higher than normal amount of androgen, resulting from a defect in the gene encoding the enzyme steroid 11b-hydroxylase (11b-OH) which mediates the final step of coisol synthesis in the adrenal. 11b-OH CAH results in hypertension due to excessive mineralocoicoid effects. It also causes excessive androgen production both before and after bih and can virilize a genetically female fetus or a child of either sex. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 3,
@@ -271,19 +141,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "0a415b0e-ffe9-45f7-958e-107136a6e22d",
         "choice_type": "single"
-    },
-    {
-        "question": "Genetic factor is associated with which of the following",
-        "exp": "Autistic disorder:- Pervasive developmental disorders. Also called autistic spectrum disorders, cluster of syndromes that share marked abnormalities in the development of social and communicative skills. Symptoms: Qualitative impairment in social interaction as manifested by two of the following- impairment in use of multiple non verbal behaviors( eye gaze, facial expression, body postures), failure to develop peer relationships, lack of sharing of enjoyment, lack of social or emotional reciprocity. Qualitative impairment in communication in at least one of the following areas- delay or total lack of spoken languages, marked impairment in the ability to initiate or sustain a conversation with others, stereotyped or repetitive use if languages and lack of varied spontaneous play. Restricted repetitive and stereotyped patterns of behaviors, interests, and activities as manifested by preoccupation with one or more restricted patterns of interests; inflexible adherence to nonfunctional routines or rituals; repetitive motor mannerisms( such as rocking, hand flipping, finger flicking) and preoccupation with pas of objects. Intelligence is variable. Reference: GHAI Essential pediatrics, eighth edition",
-        "cop": 1,
-        "opa": "Autism",
-        "opb": "Rheumatic heart disease",
-        "opc": "Pellagra",
-        "opd": "All of above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "f83030ed-9b1b-4295-b886-f2f718560936",
-        "choice_type": "multi"
     },
     {
         "question": "Patau syndrome feature include A/E",
@@ -351,19 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Wiskott-Aldrich syndrome is characterized by all of the following except:",
-        "exp": "IgM is decreased in Wiskott-Aldrich syndrome, not increased. Wiskott-Aldrich syndrome characterized by X-linked recessive Thrombocytopenia Infections Eczema It is associated with decreased IgM, increased IgA, and increased IgE levels. Ref: Nelson textbook of pediatrics 21st edition Pgno: 1117",
-        "cop": 4,
-        "opa": "X-linked recessive mode of inheritance",
-        "opb": "Atopic dermatitis and eczema during infancy",
-        "opc": "Thrombocytopenia",
-        "opd": "IgM is increased",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "796fa1c9-96f0-40dd-a957-a68668b9ab9b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common presentation of Down syndrome is",
         "exp": "Down syndrome:- Trisomy 21 Patients with down syndrome have mental and physical retardation, flat facial profile, an upward slant of eyes and epicanthic folds. Oblique palpebral fissure seen. Nose is small with flat nasal bridge. Mouth shows narrow sho palate with small teeth and furrowed protruding tongue. There is significant hypotonia. Skull appears small and brachycephalic with flat occiput. Ears are small and dysplastic. Characteristic facial grimace on crying. Hands are sho and broad. Clinodactyly( hypoplasia of middle phalanx of fifth finger) and simian crease are usual. There is wide gap between the first and second toe( Sandle gap). Associated anomalies:- 1. Congenital heart disease- ventricular septal defect. 2. Gastrointestinal - atresia, annular pancreas and Hirschsprung disease. 3. Ophthalmic- cararact, nystagmus, squint. 4. Thyroid dysfunction 5. Conductive hearing loss Best serological marker for down syndrome is Beta HCG. Reference: GHAI Essential pediatrics, eighth edition",
         "cop": 1,
@@ -375,19 +219,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "a7f2ea4f-13cd-4d37-9226-f2e4d8002ee6",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about fragile X syndrome except:",
-        "exp": "In fragile-X syndrome, there would be a small nose, not large. Fragile--X syndrome or Main-Bell Syndrome: Trinucleotide repeat mutation of CGG Characteristics Hyperextensible joint or high-arched palate Mitral valve prolapse FMR1 P deficiency (fragile X mental retardation 1 protein)- upregulates the metabotropic glutamate receptor (m. GluR) 5 pathway and alters the expression of matrix metalloproteinase (MMP) 9 Repeating the sequence of 3 nucleotides CGG, recurrent otitis media Autism/Attention deficit-hyperactivity disorder/Anxiety Giant braim (macrocephaly) and giant testis (macroorchidism) Intellectual disability i. e., mental retardation Long face with a large mandible Eveed ear X-Linked disorder The most common genetic cause of mental retardation is Down&; s syndrome > Fragile X syndrome. Sherman&; s Paradox: Risk of expressing mental retardation in fragile X syndrome increases in later generations (anticipation) Fragile X-associated tremor or ataxia: Intention tremors and cerebellar ataxia, which may progress to parkinsonism Ref: Nelson textbook of pediatrics 21st edition Pgno: 671",
-        "cop": 2,
-        "opa": "Large head",
-        "opb": "Large nose",
-        "opc": "Large ear",
-        "opd": "Large testis",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "1ef87189-f0cc-4e90-b6d1-1bf38eb5cc08",
-        "choice_type": "multi"
     },
     {
         "question": "Edema of hands & feet in infants is characterised",
@@ -403,32 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is not true regarding Ataxia telangiectasia?",
-        "exp": "The mode of inheritance in Ataxia telangiectasia is autosomal recessive Ataxia Telangiectasia Gene involved: Mutation in the ATM gene mapped to the long arm of chromosome 11(11q22-23) Defective DNA repair, increased sensitivity to ionizing radiation Hypoplastic thymus Clinical Features: Progressive cerebellar ataxia Oculocutaneous telangiectasias Chronic sinopulmonary disease High incidence of malignancy: adenocarcinomas and lymphoreticular tumors(lymphoma, leukemia, and Hodgkin disease) Humoral and cellular immunodeficiency Raised alpha fetoprotein levels Ref: Nelson textbook of pediatrics 21st edition Pgno: 1117",
-        "cop": 2,
-        "opa": "Mutations in 11q gene is implicated",
-        "opb": "Follows autosomal dominant mode of inheritance",
-        "opc": "Humoral and cellular immunodeficiency",
-        "opd": "Linked to adenocarcinomas",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "908ca19f-d773-48ba-a9cf-48b6b66253aa",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following may occur in Down&; s syndrome except",
-        "exp": "Congenital or acquired hypothyroidism, brush field spots in iris, and ventricular septal defect IS seen in a case with down syndrome. Undescended testis is not a feature. Reference: Nelson TB of pediatrics 19th edtn pg 402",
-        "cop": 2,
-        "opa": "Hypothyroidism",
-        "opb": "Undescended testis",
-        "opc": "Ventricular septal defect",
-        "opd": "Brushfield's spots",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "8ee939d6-5b45-4ce6-ab58-4f231c5da8f5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following hormones are raised in Praderwilli syndrome",
         "exp": "Prader-Willi syndrome (PWS) is a disorder caused by a deletion or disruption of genes in the proximal arm of chromosome 15 or by maternal disomy in the proximal arm of chromosome 15. Commonly associated characteristics of this disorder include diminished fetal activity,, <a href=\" stature</a>, hypogonadotropic hypogonadism, strabismus, and small hands and feet. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
@@ -440,32 +245,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "b5be1ac7-5802-461f-8c4f-5086635238af",
         "choice_type": "single"
-    },
-    {
-        "question": "Complication of Wilson&; s disease include all except",
-        "exp": "Peripheral neuropathy is not a complication of Wilson&; s disease. The major complications in patients with untreated Wilson disease are those associated with acute liver failure, chronic hepatic dysfunction with either poal hypertension or hepatocellular carcinoma, and the sometimes-relentless course to cirrhosis, which is characterized by a progressive lassitude, fatigue, anorexia, jaundice, spider angiomas, splenomegaly, and ascites. Bleeding from varices, hepatic encephalopathy, hepatorenal syndrome, and coagulation abnormalities occur as liver failure ensues. Death occurs, generally at age 30 years, if emergent liver transplantation is not performed. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 4,
-        "opa": "Fanconi syndrome",
-        "opb": "Ataxia",
-        "opc": "Hemolytic anemia",
-        "opd": "Peripheral neuropathy",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "5a4ac39a-f9f0-47ff-81de-6188d45a4f76",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Prenetal diagnosis of Down Syndrome is by",
-        "exp": "Prenatal diagnosis of down syndrome can be done by all the above. Fetal ultrasonography or nuchal translucency scan is done in the first trimester. Triple test using alpha fetoprotein, unconjugated estriol and beta h. CG helps in 2nd trimester also helps to detect down syndrome. Karyotyping helps to locate 3 copies of chromosome 21. Reference: Nelson TB of pediatrics 19th edition, pg 402",
-        "cop": 4,
-        "opa": "Karyotyping",
-        "opb": "Triple test",
-        "opc": "Fetal ultrasonography",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "b40fc24a-391a-49bb-bebe-daa78564c25c",
-        "choice_type": "multi"
     },
     {
         "question": "Mousy odor of urine is seen in",
@@ -533,19 +312,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Barr body is absent in female having _______",
-        "exp": "Barr body is absent in female having 45 XO genome. Barr body: Densely staining inactivated condensed X chromosome present in each somatic cell of a female is found in the nucleus. Chromatid body (Barr body or sex chromatin) is derived from one of the two X Chromosomes which became inactivated The number of Barr bodies is thus one less than the number of X chromosomes. Turner&; s syndrome is female without Barr body. Klinefelter&; s syndrome is male with Barr body. Ref: Concepts of genetics 11th edition Pgno: 208",
-        "cop": 2,
-        "opa": "46 XX genome",
-        "opb": "45 XO Genome",
-        "opc": "47 XXX",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "ff4b4ebc-125e-43a1-baa0-79e8de2b5f70",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which one of the following is not a feature of Turner&; s syndrome",
         "exp": "Key clinical features of Turner syndrome are a lack of breast development or amenorrhea, with elevated follicle-stimulating hormone levels by 14 years of age; and infeility in women. Other characteristics of Turner syndrome include sho stature, a webbed neck, a low posterior hairline, misshapen or rotated ears, a narrow palate with crowded teeth, a broad chest with widely spaced nipples, cubitus valgus, hyperconvex nails, multipigmented nevi, pubeal delay, and cardiac malformation. <img src=\" /> Figure 1. A 12-year-old girl with Turner syndrome. Note the subtle, distinctive facial features including prominent, posteriorly rotated auricles with looped helices and attenuated tragi; infraorbital skin creases; and mildly foreshoened mandible. One third of patients with Turner syndrome have a cardiac malformation; 75 percent of these patients have coarctation of aoa or a bicuspid aoic valve. Progressive aoic root dilatation or dissection can also occur, paicularly in patients with a bicuspid valve, coarctation, or untreated hypertension. Patients with Turner syndrome often have an atherogenic cardiovascular risk factor profile. Other potential complications of Turner syndrome include strabismus, sensorineural hearing loss, recurrent otitis media, ohodontic anomalies, renal malformation (e. g., horseshoe kidney, duplicated or cleft renal pelvis), autoimmune thyroiditis, celiac disease, congenital hip dysplasia, and scoliosis. Girls with Turner syndrome typically have normal intelligence. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 2,
@@ -570,32 +336,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "ba827033-e290-4e0a-9134-2d9146585f48",
         "choice_type": "single"
-    },
-    {
-        "question": "A down syndrome child is mentally retarded. All cytogenetic abnormalities may occurs except?",
-        "exp": "In approximately 95% cases down syndrome is due to presence of 3 copies of chromosome 21. Approximately 1% cases with trisomy 21 are mosaics. Another 4% have a translocation that involves chromosome 21. Majority of translocation are fusions at the centromere between chromosome 13, 14, 15, 21, and 22 known as robesonial translocation. Reference: Nelson TB of pediatrics edition 19 pg 402.",
-        "cop": 1,
-        "opa": "Deleted 21",
-        "opb": "Trisomy 21",
-        "opc": "Robesonia translocation",
-        "opd": "Mosaic",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "453a10d5-34d6-497b-87a2-facbdaabb7d6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A baby presenting with multiple deformities, cleft lip, cleft palate, microphaly, small eyes, scalp defect and polydactyly, seen in which syndrome",
-        "exp": "Multiple deformities, cleft lip, cleft palate, microcephaly, small eyes, polydactyly and scalp defects are a feature of trisomy 13 or Patau syndrome. Image shows features of patau syndrome. Reference: Nelson TB of pediatrics pg 404 19th edition.",
-        "cop": 1,
-        "opa": "Trisomy 13",
-        "opb": "Trisomy 18",
-        "opc": "Trisomy 21",
-        "opd": "Monosomy 2",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "7826223d-7a3a-43b1-a8ad-3937f4dde0c4",
-        "choice_type": "multi"
     },
     {
         "question": "A 12 year old boy presented with progressive muscular weakness showing the following finding, and it was found that the child is unable to get up from squatting position. He was diagnosed with hereditary muscular disorder. What is the mode of inheritance in this disorder?",
@@ -741,32 +481,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following is the finding noted in a 12-month-old baby who is growing well and developing normally since bih. Which of the following is a true statement regarding this finding?",
-        "exp": "The picture depicts a Simian crease-single transverse palmar crease. It is a normal finding in about 3% of population. And in child with Simian crease and normal growth and development, simple reassurance should be provided. Other options: A Simian crease is one of the findings of Down syndrome however presence of only this finding should not lead to a diagnosis of Down syndrome. Maternal history of Phenytoin intake during pregnancy doesnot lead to this finding. However, maternal alcohol intake can be associated with this condition. Chromosomal analysis in an otherwise well child is not indicated. Ref: Nelson textbook of pediatrics 21st edition Pgno: 995",
-        "cop": 3,
-        "opa": "Down syndrome is the diagnosis",
-        "opb": "Maternal history of phenytoin intake during pregnancy should be suspected",
-        "opc": "Simple reassurance should be provided",
-        "opd": "Chromosomal analysis should be done to rule out other chromosomal abnormalities",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "a6baf75d-4c80-400d-9c96-4183a5e0767d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which one of the following is not true regarding Noonan&; s syndrome",
-        "exp": "Individuals who have Noonan syndrome have normal chromosome studies. Four genes - PTPN11, SOS1, RADF1and KRAS - are the only genes that are known. Symptoms of Noonan syndrome may include the following: A characteristic facial appearance. Sho stature. Heart defect present at bih (congenital heart defect). A broad or webbed neck. Minor eye problems such as strabismus in up to 95 percent of individuals. Bleeding problems such as a history of abnormal bleeding or bruising. An unusual chest shape with widely-spaced and low set nipples. Developmental delay of varying degrees, but usually mild. In males, undescended testes (cryptorchidism). Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 3,
-        "opa": "Affects males and females",
-        "opb": "Sho stature",
-        "opc": "Chromosomal abnormality",
-        "opd": "Congenital heart disease - ASD",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "255fa938-7c1f-45ab-8d11-be1e1c3b4481",
-        "choice_type": "multi"
-    },
-    {
         "question": "Edward syndrome is",
         "exp": "Edward syndrome is trisomy 18. It is due to non dysfunction of chromosomes during meiosis Trisomy 21 is down symdrome and trisomy 13 is patau syndrome. Reference: Nelson TB of pediatrics pg 404 edi 19.",
         "cop": 2,
@@ -778,19 +492,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "5631586c-28c3-4691-bd12-b8bc06a26080",
         "choice_type": "single"
-    },
-    {
-        "question": "Sweaty feet smelling urine is seen in A characteristic feature of isovaleric acidemia is a distinctive odor of sweaty feet. This odor is caused by the buildup of a compound called isovaleric acid in affected individuals. Reference: GHAI Essential pediatrics, 8th edition",
-        "exp": "A characteristic feature of isovaleric acidemia is a distinctive odor of sweaty feet. This odor is caused by the buildup of a compound called isovaleric acid in affected individuals. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 3,
-        "opa": "Maple Syrup",
-        "opb": "Gaucher",
-        "opc": "Isovaleric acidemia",
-        "opd": "Phenyl Ketonuria",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "8de38ea8-86df-4e64-b3ea-6d3a807987c3",
-        "choice_type": "multi"
     },
     {
         "question": "Large tongue is common in",
@@ -817,19 +518,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "875ab805-0366-44bf-b6fa-e0becf979412",
         "choice_type": "single"
-    },
-    {
-        "question": "Acrodermatitis continua of Hallopeau is due to",
-        "exp": "Acrodermatitis continua of Hallopeau (ACH) is a rare inflammatory disease characterised by pustular eruptionsbeginning in the tips of fingers and toes (digits). The pustules may vary in extent over a chronic, recurrent course Acrodermatitis continua of Hallopeau is often triggered by localised trauma or infection at the distal phalanx(the tip of the digit). 80% begin in only one digit, most commonly the thumb. During acute flare-ups, the skin of the distal phalanx becomes red and scaly and develops small pustules. The pustules often join together and on bursting, reveal a painful, red and glazed area where new pustules then develop. Pustulation of the nail bed and its growth site (matrix) can result in onychodystrophy (malformation) and anonychia (loss of nail). Slowly, the disease can rarely spread proximally to affect the hand, forearm and/or foot. There may be osteolysis (destruction of bone) resulting in a wasted and tapered tip of finger or toe. In adults, acrodermatitis continua of Hallopeau may evolve into generalised Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 1,
-        "opa": "Pustular psoriasis",
-        "opb": "Zinc toxicity",
-        "opc": "Zinc deficiency",
-        "opd": "Colloidion baby",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "ac8ebfc1-a8b1-4dbe-a213-fe139e74b162",
-        "choice_type": "multi"
     },
     {
         "question": "Single gene defect causing multiple unrelated problems",
@@ -884,19 +572,6 @@
         "choice_type": "single"
     },
     {
-        "question": "If the first child is heterozygous and the wife is homozygous for an autosomal-recessive gene, what will be the outcome?",
-        "exp": "If the husband is heterozygous and the wife is homozygous for an autosomal recessive gene, 50% of the children will be affected; the rest will be carriers. This is pseudo-dominant inheritance, which refers to the observation of apparent dominant (parent to child) transmission of a known autosomal-recessive disorder, or it can also mean the inheritance of a recessive trait mimics a dominant pattern. This occurs when a homozygous affected individual has a paner who is a heterozygous carrier, and their children have 1 in 2 chance to get affected (50%) Ref: Nelson textbook of pediatrics 21st edition Pgno: 645",
-        "cop": 3,
-        "opa": "75% children affected",
-        "opb": "No child affected, but all are carriers",
-        "opc": "50% children affected, rest are carriers",
-        "opd": "25% children affected, rest are carriers",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "e977352b-366b-414d-80aa-b154d9af0882",
-        "choice_type": "multi"
-    },
-    {
         "question": "In an Autosomal Recessive (AR) disorder, one parent is normal and the other is carrier and the child is also affected. What is the reason",
         "exp": "Uniparental disomy refers to the situation in which 2 copies of a chromosome come from the same parent, instead of 1 copy coming from the mother, and 1 copy coming from the father. Angelman syndrome (AS) and Prader-Willi syndrome (PWS) are examples of disorders that can be caused by uniparental disomy. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
@@ -908,19 +583,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "f077b7de-c5eb-45fd-b89a-9390e00b2bac",
         "choice_type": "single"
-    },
-    {
-        "question": "The process underflying differences in expression of a gene, according to which parent has transmitted, is called",
-        "exp": "Genomic imprinting is an epigenetic phenomenon that causes genes to be expressed in a parent-of-origin-specific manner. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 4,
-        "opa": "Anticipation",
-        "opb": "Mosiacism",
-        "opc": "Non-penetrance",
-        "opd": "Genomic imprinting",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "af5a9047-911a-4ef7-ac94-32c4e1987489",
-        "choice_type": "multi"
     },
     {
         "question": "Most common enzyme deficiency in congenital adrenal hyperplasia is",
@@ -936,19 +598,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about Fragile X syndrome is",
-        "exp": "Fragile X Syndrome: - * Fragile sites also have a role in tumorigenesis. CGG repeat expansion silences the gene responsible for fragile X mental retardation protein (FMRP) which regulates the translation of multiple m. RNA's to specific proteins, hence it affects the synaptic function. * Lack of this FMRP protein upregulates the metabotropic glutamate receptormm pathway. * Lack of FMEP also affects the expression of matrix metalloproteinase Clinical Manifestations in Affected Males are:- * intellectual disability, * autistic behavior, * macroorchidism(may not be evident until pubey) * hyperextensible finger joints, and * characteristic facial features long face, large ears, and a prominent square jaw * Connective tissue abnormalities: mitral valve prolapse, scoliosis, joint laxity, flat feet * Others: seizures (20%), recurrent otitis media (60%), strabismus (8-30%) * Developmental delay- mean IQ = 42 in Males; * IQ is higher if significant residual FMRP is produced (e. g., females and mosaic males or unmethylated full mutations) * Autism 20-30% * ADHD 80% * Anxiety 70-100% Treatment:- * Minocycline (lowers MMP9) has resulted in sho term improvements in anxiety, mood, and the clinical Global Impression Scale. * M-gluR antanogists under trial Ref:- Nelson 20th edition; pg num:- 622, 623",
-        "cop": 2,
-        "opa": "Gain of function mutation",
-        "opb": "Males have IQ 20-40",
-        "opc": "10% Female carriers are mentally retarded",
-        "opd": "Triple nucleotide CAG Sequence mutation",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "5f2203ca-aebb-4b5c-a2ab-e14ac13dc5be",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following diseases is autosomal dominant?",
         "exp": "Tuberous sclerosis is an autosomal dominant (AD) disorder. Note: All Ehler-Danlos syndrome types are Autosomal Dominant, except types V, VI, and VII All types of osteogenesis imperfecta are Autosomal Dominant, except types II, III and VII Autosomal Dominant Disorders: Achondroplasia Von Willebrand disease Pseudohypoparathyroidism Dystrophia myotonica Osteogenesis imperfecta Marfan syndrome Intermittent porphyria Neurofibromatosis Adult polycystic kidney disease Noonan syndrome Tuberous sclerosis Hypercholesterolemia(Familial) Huntington&; s disease Hereditary spherocytosis Hyperophic obstructive cardiomyopathy Hereditary non-polyposis coli Hereditary hemorrhagic telangiectasia Ref: Nelson textbook of Pediatrics 21st edition Pgno: 3144",
         "cop": 4,
@@ -960,32 +609,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "27ed1319-7330-4fb7-a296-4182cf15fc1a",
         "choice_type": "single"
-    },
-    {
-        "question": "Turners syndrome is maximally associated with",
-        "exp": "Turner syndrome (TS or monosomy X) is a genetic disorder that occurs in girls. It causes many traits and problems. Girls with TS are shoer than most girls. They don't go through normal pubey as they grow into adulthood. They may also have other health problems such as heart or kidney problems. The seriousness of these problems varies from girl to girl. Many of the health problems affecting girls with Turner syndrome can be managed or fixed with treatment. Turner syndrome is rare. It occurs in about 1 in 2, 000 to 2, 500 girl babies. There are 2 types of Turner syndrome: monosomy X TS and mosaic TS. About half of all girls with Turner syndrome have a monosomy disorder. Monosomy means that a person is missing one chromosome in the pair. Instead of 46 chromosomes, the person has only 45 chromosomes. This means a girl with TS has only one X chromosome in her 23rd pair. Sometimes an error occurs when an egg or sperm cell is forming. This causes it to have a missing sex chromosome. But it is often an error that happened by chance when the father&; s sperm cell was forming. The missing sex chromosome error can occur in either the mother&; s egg cell or the father&; s sperm cell. Girls with TS often have: Puffy hands and feet at bih Wide neck with folds of skin down the sides of neck (webbed neck) Sho height A low hairline at the back of the neck Feeding problems as a baby Small differences in the shape and position of the ears Broad chest with widely spaced nipples More small brown moles (nevi) on the skin than normal Deep-set nails Small jaw Narrow top of the inside of the mouth Skeletal problems Eye problems requiring glasses Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 2,
-        "opa": "Horseshoe kidney",
-        "opb": "Coarctation of aoa",
-        "opc": "VSD",
-        "opd": "ASD",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "f2090721-f891-4398-921e-625188e14272",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are features in Treacher-collin syndrome except:",
-        "exp": "Intelligence is not affected in Treacher-Collin syndrome(like Turners syndrome) Treacher-Collins syndrome/Franceschetti syndrome Autosomal dominant Facial appearance: downward sloping palpebral fissures, colobomas and drooping of the lower eyelids, sunken cheekbones, deformed pinnae, atypical hair growth extending towards cheeks Facial clefts, malformed ears, deafness Hypoplastic mandible Ref: Nelson textbook of pediatrics 21st edition Pgno: 1917",
-        "cop": 3,
-        "opa": "Coloboma of inferior lid",
-        "opb": "Mandibular hypoplasia",
-        "opc": "Low intelligence",
-        "opd": "Cleft palate",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "dc52fa7d-3b5c-4841-8085-ae68807d2f2f",
-        "choice_type": "multi"
     },
     {
         "question": "Trident hand is seen in _______",
@@ -1014,32 +637,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Causes of female pseudohermaphrodism is ____________",
-        "exp": "21 alpha hydroxylase dficiecy is characterised by deficiency of glucocoicoids and mineralocoritcoids with elevated androgen level. Excess androgen production during the critical period of fetal development leads to masculinization of female. female pseudohermaphroditism is a condition in which the gonadal sex is female, but the external genitalia are masculinized. Reference: Ghai textbook of pediatrics 8th edition pg 539",
-        "cop": 2,
-        "opa": "17-alpha hydroxylase deficiency",
-        "opb": "21-alpha hydroxylase deficiency",
-        "opc": "Mixed gonadal dysgenesis",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "db6afc60-63c0-47b1-9e00-0b3ec73c8812",
-        "choice_type": "multi"
-    },
-    {
-        "question": "17 hydroxylase dificiency causes - increase production of",
-        "exp": "Deficiency of 17 alpha hydroxylase leads to increased production of aldosterone. Progesterone synthesised from cholestrole is normally acted upon by 21 alpha hydroxylase which is fuher conveed to coicosterone and aldosterone. Some amount of progesterone is channeled to production of coisol and estradiol by the action of 17 alpha hydroxylase through a separate pathway. So in the absence of 17 alpha hydroxylase progesterone is entirely channeled to the production of aldosterone by the action of 21 alpha hydroxylase Reference: Ghai TB of pediatrics 8th edition pg 527 fig 17. 11",
-        "cop": 1,
-        "opa": "Aldosterone",
-        "opb": "Coisol",
-        "opc": "Androstene",
-        "opd": "All of above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "860346c6-a7f6-44da-b938-c8043bb515d6",
-        "choice_type": "multi"
-    },
-    {
         "question": "The child presents to you with learning disabilities. On examination, horseshoe kidney&; s and streak gonads are noted. What is your diagnosis?",
         "exp": "The child which shows characteristic webbed neck, learning disabilities, horseshoe kidneys, and streak gonads is diagnosed with Turner&; s syndrome. Turner&; s syndrome: Karyotype, 45; XO phenotypically females Chromosomal abnormality X) is present in 60% individuals, mosaic pattern in 40%. Impoant features associated with Turner&; s syndrome: Sho stature, Sho fouh metacarpal, Sensineural hearing loss, Shield chest Amenorrhea (primary), infeility Barr body absent Cardiac defects, Cubitus valgus, Congenital lymphedema Learning disabilities Ovaries underdeveloped(streak ovaries), Gonadoblastoma (increased risk if Y chromosome material is present) Webbed neck Nipples widely spaced Horseshoe kidneys Ref: Nelson textbook of pediatrics 21st edition Pgno: 669, 3003",
         "cop": 3,
@@ -1053,19 +650,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Median chain acyl Co A dehydrogenase deficiency is characterised by all except",
-        "exp": "Clinical characteristics: Medium-chain acyl-coenzyme A dehydrogenase (MCAD) is one of the enzymes involved in mitochondrial fatty acid b-oxidation. Fatty acid b-oxidation fuels hepatic ketogenesis, which provides a major source of energy once hepatic glycogen stores become depleted during prolonged fasting and periods of higher energy demands. MCAD deficiency is the most common disorder of fatty acid b-oxidation and one of the most common inborn errors of metabolism. Most children are now diagnosed through newborn screening. Clinical symptoms in a previously apparently healthy child with MCAD deficiency include hypoketotic hypoglycemia and vomiting that may progress to lethargy, seizures, and coma triggered by a common illness. Hepatomegaly and liver disease are often present during an acute episode. Children appear normal at bih and - if not identified through newborn screening - typically present between age three and 24 months, although presentation even as late as adulthood is possible. The prognosis is excellent once the diagnosis is established and frequent feedings are instituted to avoid any prolonged periods of fasting. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 3,
-        "opa": "Autosomal recessive inheritance",
-        "opb": "Hypoketotic hypoglycemia",
-        "opc": "Cardiomyopathy",
-        "opd": "Episodes associated with fasting",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "582a9677-8120-4337-b4a6-cbedb9494f41",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is an X-Linked disorder?",
         "exp": "Inheritance pattern of Imporatant Diseases: Autosomal Dominant Autosomal recessive Hereditary spherocytosis, Hypercholesterolemia Ehler-Danlos syndrome Achondroplasia Von Willebrand disease Dystrophica myotonica Osteogenesis imperfecta Marfans syndrome Intermittent porphyria Neurofibromatosis ADPKD Noonan&; s syndrome Tuberous sclerosis Ataxia telengiectasia Beta-thalassemia, Sickle cell anemia Cystic fibrosis Deafness Emphysema Friedrich ataxia Gauchers Homocystinuria Inborn errors of metabolism X-Linked recessive X-linked dominant Lesch-Nyhan syndrome Hunter syndrome, Hemophilia Chronic granulomatous disease G-6. PD deficiency Duchenne muscular dystrophy Color blindness Agammaglobulinemia Alpo syndrome fabry disease Wiskott-Aldrich syndrome Rett&; s syndrome Rickets Alpo syndrome Type X charcott-Marie--Tooth disease Ref: Robbins and cotran pathological basis of disease 9th edition Pgno: 142",
         "cop": 1,
@@ -1077,84 +661,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "5ec866f2-5740-4366-943e-5eff977211d5",
         "choice_type": "single"
-    },
-    {
-        "question": "Non-immune hydrops fetalis is caused by all except",
-        "exp": "Immune hydrops fetalis is caused by red blood cell alloimmunisation haemolytic disease. All other causes are described as non-immune hydrops fetalis (NIHF). Hydrops is a symptom of a wide range of conditions which have resulted in an imbalance in fetal fluid between the vascular and interstitial space. Diagnostic criteria are fluid in at least two body cavities (pleural space, pericardial space, peritoneal space, skin or placental enlargement). The prognosis depends on associated prematurity, the underlying cause, the severity of any associated pulmonary hypoplasia and the severity of the ongoing post-natal fluid accumulation. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 4,
-        "opa": "Parvo B19 virus",
-        "opb": "Chromosomal abnormalities",
-        "opc": "alpha-thalassemia",
-        "opd": "ABO incompatibility",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "324b50d3-760a-4f81-9107-334efecc8cda",
-        "choice_type": "multi"
-    },
-    {
-        "question": "10 year old with poor growth, poor appetite, recurrent chest infections and steatorrhea is likely to have",
-        "exp": "The above given case suggestive that child with High sodium and chloride in sweat. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 1,
-        "opa": "High sodium and chloride in sweat",
-        "opb": "Diabetes mellitus",
-        "opc": "Recurrent skin allergy",
-        "opd": "Mental retardation",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "e9334b85-4837-46c5-91c3-4cb488068ca2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All the following diseases are associated with triplet and other repeat sequences except",
-        "exp": "Disease Nucleotide Repeat Gene affected Chromosome Fragile X syndrome CGG FMR1 Sex X chromosome Friedrich ataxia GAA FXN 9 Huntington&; s disease CAG HTT 4 Myotonic dystrophy - type 1 CTG DMPK 19 Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 4,
-        "opa": "Huntington's disease",
-        "opb": "Friedreich's ataxia",
-        "opc": "Myotonic dystrophy",
-        "opd": "Hereditary motor-sensory neuropathy",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "51390845-78fb-4dd1-b4d1-1bfac598cc4b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Features of cystinuria are",
-        "exp": "Cystinuria is an autosomal recessive disorder characterized by impaired tubular reabsorption of cystine and dibasic amino acids (ornitine, lysine and arginine) Thus occurs supersaturation of urine with cystine crystals leading to formation of radiopaque calculi. Reference: Ghai TB of pediatrics 8th edition pg 503.",
-        "cop": 4,
-        "opa": "Impaired proximal tubular reabsorption of cystin",
-        "opb": "Autosomal recessive",
-        "opc": "Recurrent renal stone",
-        "opd": "All of above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "46d4b401-c537-4334-aa74-14f028948c67",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Male pseudohermaphroditism",
-        "exp": "Male pseudohermaphroditism refers to individuals whose gonads are testes but whose secondary sexual characteristics or external genitalia resemble those of a female. Ex: androgen insensitivity syndrome Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 2,
-        "opa": "XX genotype, male external genitalia",
-        "opb": "XY genotype, female external genitalia",
-        "opc": "Testis and ovary both present",
-        "opd": "Male external genetalia and ovary present",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "13d2bc3e-8817-41b0-8560-2bf240ebbd6d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "An effected male infant born to normal parents could be an example of all of the following, except",
-        "exp": "An autosomal dominant disorder if present in the parents will always express itself phenotypically. So it is not possible for normal parents to have an child affected with an autosomal dominant disorder. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 1,
-        "opa": "An Autosomal Dominant disorder",
-        "opb": "An Autosomal Recessive disorder",
-        "opc": "A Polygenic disorder",
-        "opd": "A Veically Transmitted disorder",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "d3b51fcd-76cd-47f8-b598-c5ecc8a6ffaa",
-        "choice_type": "multi"
     },
     {
         "question": "The neonatal feature of cystic fibrosis is",
@@ -1196,19 +702,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Following are common causes of sho stature in a child EXCEPT",
-        "exp": "Signs and symptoms of Klinefelter syndrome may include: Taller than average stature. Longer legs, shoer torso and broader hips compared with other boys. Absent, delayed or incomplete pubey. After pubey, less muscle and less facial and body hair compared with other teens. Small, firm testicles. Small penis. Enlarged breast tissue (gynecomastia) Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 4,
-        "opa": "Familial",
-        "opb": "Undernutrition",
-        "opc": "Turners syndrome",
-        "opd": "Klinefelte's syndrome",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "4db26afd-62a7-4e22-b201-517a18d4c230",
-        "choice_type": "multi"
-    },
-    {
         "question": "Trisomy 13 is seen in",
         "exp": "Trisomy 13 is seen in Patau syndrome Edward syndrome is trisomy 18 Down syndrome trisomy 21 and turner syndrome is due to 45 XO. Reference: Nelson TB of pediatrics 19th edition.",
         "cop": 2,
@@ -1220,19 +713,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "1e8a8adb-1e71-42e9-8815-85aa752e139b",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following conditions have Autosomal Dominant Inheritance except",
-        "exp": "Fabry disease is an X-linked lysosomal disorder that leads to excessive deposition of neutral glycosphingolipids in the vascular endothelium of several organs and in epithelial and smooth muscle cells. Progressive endothelial accumulation of glycosphingolipids accounts for the associated clinical abnormalities of skin, eye, kidney, heart, brain, and peripheral nervous system. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 1,
-        "opa": "Fabry disease",
-        "opb": "Marfan's syndrome",
-        "opc": "Osteogenesis imperfecta",
-        "opd": "Ehlers Danlos syndrome",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "a43a7842-a27f-4a2a-8165-77b85abf3dfb",
-        "choice_type": "multi"
     },
     {
         "question": "Best serogical marker of Down&; s syndrome in first trimester is",
@@ -1287,19 +767,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A paicular genetic disorder appears in three consecutive generations of a family without any sex predilection. It was also noticed that phenotypically normal family members were having healthy offspring. What is the pattern of inheritance in this disorder?",
-        "exp": "The pattern of inheritance in this disorder is autosomal dominant. Points in our: Autosomal dominant disorders have a veical mode of transmission (individuals of two generations are affected-Parent and children affected) Genetic disorder has appeared in three consecutive generations of a family without any sex predilection, and normal family members have healthy offspring. An affected individual has 50% chance of passing on the deleterious gene in each pregnancy Males and females are equally affected. Unaffected individuals donot pass on the disorder to their children Autosomal Dominant Ref: Nelson textbook of pediatrics 21st edition Pgno: 640",
-        "cop": 2,
-        "opa": "Autosomal recessive",
-        "opb": "Autosomal dominant",
-        "opc": "Mitochondrial inheritance",
-        "opd": "Uniparenteral disomy",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "1df4d1c9-eed8-4fc8-b12a-b71bd1544ab7",
-        "choice_type": "multi"
-    },
-    {
         "question": "In children the most commonly recognized form of Familial Hyperlipidemia is",
         "exp": "Familial combined hyperlipidemia is a disorder that is passed down through families. It causes high cholesterol and and early coronary aery disease. Reference: GHAI Essential pediatrics, 8th edition",
         "cop": 4,
@@ -1324,19 +791,6 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "9e23d24a-2c58-4ed8-8bc8-25d3f9a77448",
         "choice_type": "single"
-    },
-    {
-        "question": "Down&; s syndrome predisposes to............ cancer",
-        "exp": "Down syndrome:- Trisomy 21 Patients with down syndrome have mental and physical retardation, flat facial profile, an upward slant of eyes and epicanthic folds. Oblique palpebral fissure seen. Nose is small with flat nasal bridge. Mouth shows narrow sho palate with small teeth and furrowed protruding tongue. There is significant hypotonia. Skull appears small and brachycephalic with flat occiput. Ears are small and dysplastic. Characteristic facial grimace on crying. Hands are sho and broad. Clinodactyly( hypoplasia of middle phalanx of fifth finger) and simian crease are usual. There is wide gap between the first and second toe( Sandle gap). Associated anomalies:- 1. Congenital heart disease- ventricular septal defect. 2. Gastrointestinal - atresia, annular pancreas and Hirschsprung disease. 3. Ophthalmic- cararact, nystagmus, squint. 4. Thyroid dysfunction 5. Conductive hearing loss Predisposes to AML. Best serological marker for down syndrome is Beta HCG. Reference: GHAI Essential pediatrics, eighth edition",
-        "cop": 1,
-        "opa": "AML",
-        "opb": "CML",
-        "opc": "ALL",
-        "opd": "CLL",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "6c1984b3-d8c4-4dc9-bce4-a2ab1e7b12b6",
-        "choice_type": "multi"
     },
     {
         "question": "A child presents with antimongoloid slant, pulmonary stenosis, sho stature, and undescended testis. The likely diagnosis is _____",
@@ -1376,18 +830,5 @@
         "topic_name": "Genetic and genetic disorders",
         "id": "5f5d9279-8c85-42ad-8275-da8883f1eed5",
         "choice_type": "single"
-    },
-    {
-        "question": "A child having delayed separaion of umbilical cord with leukocytosis with Downs syndrome and recurrent infections. Diagnosis?",
-        "exp": "Leukocyte adhesion deficiency (LAD) is a rare primary immunodeficiency. The clinical picture is characterized by marked leukocytosis and localized bacterial infections that are difficult to detect until they have progressed to an extensive level secondary to lack of leukocyte recruitment at the site of infection. Thus the infections in patients with leukocyte adhesion deficiency act similarly as those observed in patients with neutropenia. See the images below. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 1,
-        "opa": "Leucocyte Adhesion deficiency",
-        "opb": "Neonatal sepsis",
-        "opc": "Histiocytosis-X",
-        "opd": "All of above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Genetic and genetic disorders",
-        "id": "c5e6adb2-792a-47e5-a514-bf0f6162785f",
-        "choice_type": "multi"
     }
 ]

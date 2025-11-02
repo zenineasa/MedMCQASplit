@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 43-year-old 190 cm man post a flight to Chennai presents with left-sided chest discomfo and dyspnoea. On chest X-ray, there is a small area devoid of lung markings in the apex of the left lung. Diagnosis is?",
-        "exp": "1. 190 cm man- Marfan syndrome 2. Devoid of lung margin, absent breath sounds- Pneumothorax 3. Aoic dissection- typical interscapular severe pain 4. Acute Cor pulmonary ruled out there is no history of ohopedic implant surgery, long flight",
-        "cop": 1,
-        "opa": "Spontaneous pneumothorax",
-        "opb": "Myocardial infarction",
-        "opc": "Acute cor- pulmonale",
-        "opd": "Aoic dissection",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumothorax",
-        "id": "0c7e6eac-87c3-473a-9fad-e1cf0d57effa",
-        "choice_type": "multi"
-    },
-    {
         "question": "The given CXR shows the presence of:",
         "exp": "Hydro-pneumothorax - On Erect chest radiography, it shows an air-fluid level. On Supine radiography, sharp pleural line is bordered by increased opacity lateral to it within the pleural space. Pleural effusion:- Blunting of CP angle and presence of Meniscus sign. Lung collapse:- lung appears to be collapsed to one side",
         "cop": 1,
@@ -65,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Pneumothorax occurs in all except?",
-        "exp": "Langerhans cell histiocytosis:- - is a smoking-related, diffuse lung disease- presenting with cough, dyspnea, chest pain, weight loss and fever. Pneumothorax occurs in 25% of patients Marfan's syndrome:- - due to a defect of fibrillin, pulmonary symptoms are not a major feature but spontaneous pneumothorax is common. In spontaneous unilateral pneumothorax, air escapes from a lung and occupies the pleural space between the chest wall and lung. Assisted ventilation:- - Positive pressure ventilation can excerbate air leaks and prevent pleural healing thus leading to pneumothorax",
-        "cop": 4,
-        "opa": "Langerhans cell histiocytosis",
-        "opb": "Marfan's syndrome",
-        "opc": "Assisted ventilation",
-        "opd": "Bronchopulmonary aspergillosis",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumothorax",
-        "id": "2cc59fe5-ce53-4437-b6a9-2aaf89f8373f",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the treatment of spontaneous pneumothorax?",
         "exp": "Initial treatment for primary spontaneous pneumothorax is Needle Aspiration Primary spontaneous pneumothorax occurs almost exclusively in smokers; suggests that these patients have subclinical lung disease. If the patient has a recurrent pneumothorax, thoracoscopy with stapling of blebs and pleural abrasion is indicated. Thoracoscopy is almost 100% successful in preventing recurrences.",
         "cop": 3,
@@ -91,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about Tension pneumothorax except?",
-        "exp": "Tension pneumothorax occurs mostly during Mechanical ventilation or Resuscitative effos The positive pressure is transmitted to mediastinum decreasing the venous return and cardiac output. A large bore needle should be inseed into pleural space through second intercostal space to allow air to escape. Needle aspiration using syringe is done for primary spontaneous pneumothorax Types of pneumothorax and primary management Primary spontaneous pneumothorax Simple needle aspiration followed by thoracoscopy with pleural abrasion. Secondary pneumothorax Tube thoracotomy followed by thoracostomy with stapling of blebs. Traumatic pneumothorax Supplemental oxygen or aspiration followed by tube thoracostomy. Tension pneumothorax Large bore needle in 2nd I/C space followed by tube thoracostomy.",
-        "cop": 3,
-        "opa": "Leading cause is mechanical ventilation.",
-        "opb": "Positive pressure in pleural space throughout the respiratory cycle.",
-        "opc": "Needle aspiration of air",
-        "opd": "Inadequate cardiac output.",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumothorax",
-        "id": "af3b6d4d-b60a-47cf-b1d9-5b4c11418eb5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which parameter is the best to differentiate cardiac tamponade from tension pneumothorax?",
         "exp": "Option A - Raised JVP is seen in both. Option B - Absent breath sound in tension pneumothorax Option C - Raised heart rate is a non-specific finding. Option D - both are example of obstructive shock, so IV fluid will not work.",
         "cop": 2,
@@ -115,44 +76,5 @@
         "topic_name": "Pneumothorax",
         "id": "b3fda628-fcd6-4a42-ad3a-d73cd6bd9c5d",
         "choice_type": "single"
-    },
-    {
-        "question": "Which statement is true regarding pneumothorax?",
-        "exp": "Tracheal tug is an abnormal downward movement of the trachea during systole that indicates an aneurysm of the aoic arch. Pneumothorax shows hyper-resonance to percussion, and absent breath sounds Tension pneumothorax must be treated as a medical emergency. A large-bore needle should be inseed into the pleural space through the second anterior intercostal space. If large amounts of gas escape from the needle after inseion, the diagnosis is confirmed. The needle should be left in place until a thoracostomy tube can be inseed.",
-        "cop": 1,
-        "opa": "Absent breath sounds",
-        "opb": "Decreased percussion note",
-        "opc": "Always needs chest tube inseion",
-        "opd": "Tracheal tug",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumothorax",
-        "id": "b8e6688b-7975-4d4b-9cd9-50b03daf64de",
-        "choice_type": "multi"
-    },
-    {
-        "question": "50 year old male known case of emphysema presents to OPD with complaint of shoness of breath for 2 weeks. Chest X Ray revealed 3 cm pneumothorax on the right side. What shall be the management approach for the patient?",
-        "exp": "This patient is having secondary Pneumothorax due to presence of underlying lung disease. Cut off used for large vs small pneumothorax is 3 cm distance from Apex. So this is a large symptomatic Pneumothorax and is treated with Seldinger chest drain. Choice A is used for small pneumothorax and can damage other bulla too Choice B is ruled out as we need to intervene actively in this case Choice D, Wide bore Chest drain is used for drainage of empyema, Hemothorax and Malignant pleural effusions.",
-        "cop": 3,
-        "opa": "Repeated aspirations as chest drain inseion is dangerous if bullae are present",
-        "opb": "High flow oxygen and carefully monitor the patient",
-        "opc": "Inseion of Seldinger intercostal chest drain to cause resolution of pneumothorax",
-        "opd": "Inse a large bore chest drain as there may be a significant Air leak",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumothorax",
-        "id": "5ded7157-6633-4e09-a3dc-64911faeee6f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Tension pneumothorax results in all except?",
-        "exp": "Tension Pneumothorax:- Reduced blood supply to lungs | Affected lung has collapsed and contralateral lung will not be able to do the work of both the lungs. | This results in carbon dioxide retention ultimately leading to Respiratory Acidosis",
-        "cop": 1,
-        "opa": "Respiratory alkalosis",
-        "opb": "Decreased cardiac output",
-        "opc": "Decreased venous return",
-        "opd": "Absent breath sounds",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumothorax",
-        "id": "da03a28b-742b-4927-86fc-cacf5868b521",
-        "choice_type": "multi"
     }
 ]

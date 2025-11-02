@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true for Craniopharyngioma except?",
-        "exp": "Craniopharyngioma: Benign Suprasellar tumor Derived from cells of Rathke's pouch. Lead to pressure on optic chiasma leading to bitemporal hemianopia. Can also lead to central DI.",
-        "cop": 3,
-        "opa": "Derived from Rathke's pouch",
-        "opb": "Can lead to central DI",
-        "opc": "Present in sellar or infrasellar location",
-        "opd": "Causes visual disturbances",
-        "subject_name": "Medicine",
-        "topic_name": "Intracranial Space Occupying Lesion",
-        "id": "b95d3d61-b877-4bd0-906c-b5336957a68a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Stenosis of aqueduct of sylvius results in?",
         "exp": "Aqueduct of sylvius connects 3rd ventricle to the 4th one. Obstruction to Aqueduct of sylvius Enlargement of 3rd ventricle Dilatation of the ventricle proximal to the obstruction(3rd ventricle)",
         "cop": 3,
@@ -102,18 +89,5 @@
         "topic_name": "Intracranial Space Occupying Lesion",
         "id": "a7b5bb4c-2c92-4610-90a6-2b3eadf69ce1",
         "choice_type": "single"
-    },
-    {
-        "question": "Intra-tumoral calcification in the brain is seen in all except?",
-        "exp": "Intratumoral calcification develops in the slow-growing tumors like Craniopharyngioma Meningioma Oligodendroglioma -Hemangioblastoma is a highly vascular tumor.",
-        "cop": 4,
-        "opa": "Craniopharyngioma",
-        "opb": "Meningioma",
-        "opc": "Oligodendroglioma",
-        "opd": "Hemangioblastoma",
-        "subject_name": "Medicine",
-        "topic_name": "Intracranial Space Occupying Lesion",
-        "id": "1a4f8ece-02f0-47b9-8a7b-3e9c13763061",
-        "choice_type": "multi"
     }
 ]

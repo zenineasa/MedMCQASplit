@@ -1,57 +1,5 @@
 [
     {
-        "question": "A 20 month old female child is brought for routine check-up. Complete blood count (CBC) shows moderate neutropenia. Child looks healthy, eats well and within expected parameters for age and sex. Other parameters of blood count are within normal range expected for age. Family history is unremarkable. CBC after 1 and 2 weeks shows same results. Bone marrow examination is normal. Next step",
-        "exp": "Answer: c) Watch and wait strategy. BENIGN NEUTROPENIAA rare disease usually found in young children that is self-limiting. Despite low neutrophil count, the cells are functional, so infections in these children are not more common than in children with normal neutrophil count. Neutropenia is expected to get better on its own after several weeks to several months. Corticosteroids would not help with the neutrophil count and would be potentially dangerous because of all the side effects they have. Benign neutropenia is not a result of vitamin deficiency, so multivitamin therapy would not be helpful. Despite low neutrophil count, severe infections are not expected in these children, so antibiotics administration is not necessary.",
-        "cop": 3,
-        "opa": "Corticosteroid administration",
-        "opb": "Multivitamin administration",
-        "opc": "Watch and wait strategy",
-        "opd": "Antibiotics to prevent infection",
-        "subject_name": "Pediatrics",
-        "topic_name": "Blood",
-        "id": "ddbe2008-30f0-40d2-92ac-45ca60ce2246",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Hallmarks of the hemophilia is",
-        "exp": "(Hemarthroses): Ref: 326-G, 1657-Nelson 17th (321-Ghai 7th). Hemophilia - X-1 inked recessive, The females carries the hemophilia trait but only male offspring suffers from the disease. Clinical features - Bleeding following tooth extraction, severe trauma or following surgery muscle hematoma, and bleeding in joints.* Prolonged bleeding following circumcision may be the first symptoms* Excessive bleeding episodes from umbilical cord may be the presenting features in newborns* As the child learns to walk, there are repeated episodes of hemarthrosis* Bleeding may occur in the any area of the body, the hallmark of hemophilia is the hemarthrosis. The earliest joint hemorrhages appears most commonly in the ankle, because of the lack of stability of this joint as the toddler assumed an upright posture (1657-Nelson 17th)",
-        "cop": 2,
-        "opa": "Epistaxis",
-        "opb": "Hemarthrosis",
-        "opc": "Abdominal pain",
-        "opd": "Anemia",
-        "subject_name": "Pediatrics",
-        "topic_name": "Blood",
-        "id": "8865278a-5360-4e66-b4dc-4d6013826241",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A healthy 3-year-old girl presents with acute onset of petechiae, purpura, and epistaxis. Her Hb 12 g/dl, WBC 5550/mm3, platelet count 2000/mm3. The most likely diagnosis is:",
-        "exp": "Ans. A. Idiopathic thrombocytopenic purpura (ITP)ITP is most commonly seen in previously healthy children, who may have encountered a recent viral infection. Because the pathogenesis involves peripheral destruction of platelets, the BM appears normal and other hemic lineages are not affected (unlike the case for acute leukemia or aplastic anemia). In contrast to patient with ITP, child with DIC usually is extremely ill.",
-        "cop": 1,
-        "opa": "ITP",
-        "opb": "ALL",
-        "opc": "Aplastic anemia",
-        "opd": "DIC",
-        "subject_name": "Pediatrics",
-        "topic_name": "Blood",
-        "id": "05f39d2e-75c8-40ad-b1ec-307471fe79bc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are suggestive of Iron deficiency anemia except:",
-        "exp": "Ans. C. Increased Red blood cells. Iron deficiency has a low RBC count. Thalassemia major is also a differential of microcytic hypochromic anemia but increased red cell count is a feature of Thalassemia and not Iron deficiency anemia.",
-        "cop": 3,
-        "opa": "Microcytosis",
-        "opb": "Hypochromia",
-        "opc": "Increased Red blood cells",
-        "opd": "Increased Red cell distribution width",
-        "subject_name": "Pediatrics",
-        "topic_name": "Blood",
-        "id": "a8ddbe5e-3bb3-43ad-aeb3-e0ef354964a3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Two weeks after a viral syndrome, a 2-year-old child develops bruising and generalized petechiae, more prominent over the legs. No hepatosplenomegaly or lymph node enlargement is noted. The examination is otherwise unremarkable. Laboratory testing shows the patient to have a normal hemoglobin, hematocrit, and white blood cell (WBC) count and differential. The platelet count is 15, 000/mL. Which of the following is the most likely diagnosis?",
         "exp": "In children, ITP is the most common form of thrombocytopenic purpura. In most cases, a preceding viral infection can be noted. No diagnostic test identifies this disease; exclusion of the other diseases listed in the question is necessary. In this disease, the platelet count is frequently less than 20, 000/mL, but other laboratory tests yield essentially normal results, including the bone marrow aspiration (if done). Complications are uncommon; significant bleeding occurs in only 5% of cases and intracranial hemorrhage is even rarer. The treatment of childhood ITP is controversial. Patients with mild symptoms such as bruising and self-limited epistaxis may be observed, while patients with significant bleeding should be treated. IVIG and corticosteroids are effective in causing a rapid increase in platelet count, but controversy exists surrounding the use of prednisone before ruling out leukemia with a bone marrow aspirate. For Rh-positive patients with a working spleen, the use of anti-D immunoglobulin also results in an increase in platelet count. For patients with chronic (> 1 year) ITP, a splenectomy may be necessary. Aplastic anemia is unlikely if the other cell lines are normal. v. WD might be expected to present with bleeding and not just bruising. It is unlikely that acute leukemia would present with thrombocytopenia only. Thrombotic thrombocytopenic purpura is rare in children.",
         "cop": 3,
@@ -63,32 +11,6 @@
         "topic_name": "Blood",
         "id": "e675b134-430c-4e38-8e06-89dec30f728e",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following are seen in thalassemia major except:",
-        "exp": "Ans: c (Low iron content in blood). Serum iron content is increased in thalassaemia major and not decreased. THALASSAEMIA MAJOR / COOLY'S ANEMIAAge is usually 3-6 months. Regular, monthly blood transfusion dependent. Clinical Features* Mainly due to extramedullary erythropoiesis in facial and skull bones -> haemolytic facies* Hepatosplenomegaly. Lab Findings* Peripheral smear- hypochromic microcytic anemia with bizarre fragmented poikilocytes* Intra erythrocytic inclusions - Heinz bodies Heinz bodies are precipitated extra alpha chain* Hb F increased* TIBC normal* Osmotic fragility is reduced* X ray skull - hair on end appearance. Complications 1) Hypersplenism 2) Haemosiderosis 3) Endocrine complications4) Cardiomyopathy - cause of death# Diabetes mellitus# Hypothyroidism# Delayed puberty5) Hyperpigmentation due to melanin deposition6) Growth retardation. Treatment. Regular packed cell transfusion. Bone marrow transfusion is curative",
-        "cop": 3,
-        "opa": "Microcytic hypochromic anemia",
-        "opb": "Hepatosplenomegaly",
-        "opc": "Low iron content in blood",
-        "opd": "None",
-        "subject_name": "Pediatrics",
-        "topic_name": "Blood",
-        "id": "df364358-5ed5-420d-89d7-efe52e6cdde9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In a patient with mild hemophilia levels of clotting factor (antihemophilic factor) would be above",
-        "exp": "Ans. a (5%) (Ref. Nelson paediatrics 18th ed., p. 2068)HEMOPHILIA# Life-threatening hemorrhages require replacement therapy to achieve normal plasma level (100 IU/dL, or 100%).# Patients with mild hemophilia who have factor VIII or factor IX levels of >5 IU/dL usually do not have spontaneous hemorrhages. These individuals may experience prolonged bleeding after dental work, surgery, or injuries.# The hemostatic level for factor VIII is >30-40 pL, and for factor IX, it is >25-30%.# The lower limit of levels for factors VIII and IX in normal individuals is approximately-50%.# Even in patients with severe hemophilia, only 90% have evidence of | bleeding by 1 yr of age. Although bleeding may occur in any area of the body, the hallmark of hemophilia is hemarthrosis. PTPTTMechanism and comments. Hemophilia A or B Increased# X-linked recessive inheritance, Intrinsic pathway coagulation defect.# A: deficiency of factor VIII -|PTT. And B; deficiency of factor IX -|PTT.# Macrohemorrhage in hemophilia --hemarthroses (bleeding into joints), easy bruising, | PTT.# Treatment: recombinant factor VIII (in hemophilia A). Vitamin K deficiency. Increased. Increased. General coagulation defect. Bleeding time normal, synthesis of factors II, VII, IX, X, protein C, protein S",
-        "cop": 1,
-        "opa": "5%",
-        "opb": "10%",
-        "opc": "30%",
-        "opd": "Any of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Blood",
-        "id": "6f95f84b-ad8e-46f2-b138-e6a301bb85b8",
-        "choice_type": "multi"
     },
     {
         "question": "Golden har svndrome-",
@@ -115,19 +37,6 @@
         "topic_name": "Blood",
         "id": "6c1583ed-dcf0-4958-933f-f7105fdf8b1e",
         "choice_type": "single"
-    },
-    {
-        "question": "All are causes of eosinophilia except:",
-        "exp": "Ans: C (Corticosteroid therapy) Ref: Nelson Textbook of Pediatrics, 19th edition. Pg 740. Explanation: Corticosteroid therapy causes eosinopenia. Causes of Eosinophilia. Allergic Disorders. Allergic rhinitis. Asthma. Acute and chronic urticaria. Hypersensitivity drug reactions. Infectious Diseases. Tissue-Invasive Helminth Infections Trichinosis. Toxocariasis. Strongyloidosis. Ascariasis. Fiiariasis. Pneumocystis carinii. Toxoplasmosis. Amebiasis. Malaria. Bronchopulmonary aspergillosis. Scabies. Malignant Disorders. Brain tumors. Hodgkin disease and T-cell lymphoma. Myeloproliferative disorders. Gastrointestinal Disorders. Inflammatory bowel disease. Eosinophilic gastroenteritis. Chronic active hepatitis. Rheumatologic Disease. Rheumatoid arthritis. Eosinophilic fascitis. Immunodeficiency Disease. Hyper-IgE syndrome. Wiskott-Aldrich syndrome. Loftier syndrome. Eosinophilic leukemia. Hypersensitivity pneumonia. Miscellaneous. Thrombocytopenia with absent radii. Vasculitis. Histiocytosis with cutaneous involvement",
-        "cop": 3,
-        "opa": "Allergic Rhinitis",
-        "opb": "Trichinosis",
-        "opc": "Corticosteroid therapy",
-        "opd": "Rhematoid arthritis",
-        "subject_name": "Pediatrics",
-        "topic_name": "Blood",
-        "id": "413820b8-9019-4ec0-be32-9438f21e67e0",
-        "choice_type": "multi"
     },
     {
         "question": "While bathing her newly received 2-year-old son, a foster mother feels a mass in his abdomen. A thorough medical evaluation of the child reveals aniridia, hypospadias, horseshoe kidney, and hemihypertrophy. Which of the following is the most likely diagnosis for this child?",
@@ -167,19 +76,6 @@
         "topic_name": "Blood",
         "id": "64b77e15-e27a-4bc1-9711-ecc5f6159a08",
         "choice_type": "single"
-    },
-    {
-        "question": "An otherwise healthy child has on his 1-year-old routine CBC the polymorphonuclear neutrophil shown below. Which of the following is an appropriate next step?",
-        "exp": "The finding of hyper-segmented neutrophils in the peripheral blood is one of the most useful laboratory aids in making an early diagnosis of folate deficiency. Serum folate levels become low in weeks with an inadequate dietary source.",
-        "cop": 3,
-        "opa": "Bone marrow aspiration",
-        "opb": "Begin oral iron therapy",
-        "opc": "Begin folic acid supplementation",
-        "opd": "Hemoglobin electrophoresis",
-        "subject_name": "Pediatrics",
-        "topic_name": "Blood",
-        "id": "53aa77a8-ca44-4390-8290-39a409916bbc",
-        "choice_type": "multi"
     },
     {
         "question": "AML best prognosis is seen with -",
@@ -325,32 +221,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Constitutional pancytopenia can be seen in following except",
-        "exp": "Ans. b (Diamond-Blackfan syndrome) (Ref. Nelson Paediatrics 18th12047; Table 468-1). Diamond-Blackfan syndrome (DBS), also called congenital hypoplastic anemia, is a macrocytic pure red aplasia associated with several congenital anomalies such as short stature, webbed neck, cleft lip, shielded chest and triphalangeal thumbs. Therapy is mainly corticosteroids. For unresponsive patients, transfusion therapy is indicated. CONSTITUTIONAL (INHERITED) PANCYTOPENIA# It is defined as decreased marrow production of the 3 major hematopoietic lineages on an inherited basis, resulting in anemia, neutropenia, and thrombocytopenia. 0# Constitutional pancytopenias account for approximately 1/3 of cases of pediatric marrow failure. 0# Fanconi anemia is the most common constitutional disorder. 0# Causes of constitutional pancytopenia:- Fanconi anemia- Shwachman-Diamond syndrome- Dyskeratosis congenital- Amegakaryocytic thrombocytopenia- Down syndrome- Dubowitz syndrome- Seckel syndrome- Reticular dysgenesis- Schimke immune-osseous dysplasia- Familial aplastic anemia (non-Fanconi)- Pearson syndrome- Noonan syndrome. Fanconi (Aplastic) Anemia# Fanconi's anemia is an autosomal recessive disorder characterized by progressive pancytopenia and macrocytosis. Cell fusion of Fanconi cells with normal cells or with cells from unrelated patients with Fanconi anemia produces a corrective effect on chromosomal fragility, a process called complementation. No other constitutional pancytopenia is associated with an abnormal chromosomal breakage study. 0 The average age at diagnosis is 8 years.# The most common anomaly is Hyperpigmentation of the trunk, neck, and intertriginous areas, as well as cafe-au-lait spots and vitiligo, alone or in combination. Other associated deformities include microcephaly, microphthalmia, short stature, horseshoe kidneys and absent thumbs (not triphalangeal thumbs).# The most frequent solid tumors are carcinomas of the head, neck, and upper esophagus, followed by carcinomas of the vulva and/or anus and lower esophagus.# Hematopoietic stem cell transplantation is the only curative therapy for the hematologic abnormalities. Androgens produce a response in 50% of patients. Oral oxymetholone is used most frequently once a day. Low-dose prednisone orally every 2nd day may be added. Transposons are nonviral vectors that have been used successfully for gene delivery hold promise in humans. Shwachman-Diamond sxndrome (Autosomal recessive) - Essential diagnostic criteria are:# Exocrine pancreatic insufficiency# Variable hematologic cytopenias due to marrow failure.# Chromosomes are normal, and there is no increased breakage after DEB clastogenic stress testing.# The mutant gene SBDS maps to chromosome 7qll. Dyskeratosis congenita (DC)# Mucocutaneous and hematopoietic systems involved in association with somatic abnormalities.# The diagnostic ectodermal triad is:- Reticulate skin pigmentation of the upper body- Mucosal leukoplakia, and- Nail dystrophy.# DC is a constitutional pancytopenia; aplastic anemia occurs in approximately 50% of cases, usually in the 2nd decade of life. Patients also have a predisposition to cancer and MDS.# Approximately 85% of patients are male, compatible with X-linked recessive inheritance.# The X-linked recessive form of DC maps to Xq28.",
-        "cop": 2,
-        "opa": "Fanconi's anemia",
-        "opb": "Diamond-Blackfan syndrome",
-        "opc": "Dyskeratosis congenita",
-        "opd": "Schwachman Diamond syndrome",
-        "subject_name": "Pediatrics",
-        "topic_name": "Blood",
-        "id": "b85ad32a-0da4-43b0-8a27-970d8f7538ee",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 10-year-old child with short stature pallor, multiple petechiae, and hypoplastic thumb has HB of 7 g %, normal reticulocyte count (1%), hematocrit 25%, and absolute neutrophil count 200/cu mm. The most likely diagnosis is",
-        "exp": "Ans. a (Fanconi's anemia) (Ref. Nelson Textbook of Pediatrics, 19th ed./Ch. 489). Neutropenia may be present with some viral infections, particularly parvovirus B19 infection; drug reactions; systemic lupus erythematosus; typhoid; brucellosis; and infiltrative diseases of the bone marrow, including lymphoma, leukemia, tuberculosis, and histoplasmosis. The rash of erythema infectiosum (fifth disease), which is caused by human parvovirus B19, primarily affects children 3 to 12 years old; it develops after fever has resolved as a bright blanchable erythema on the cheeks (\"slapped cheeks\") with perioral pallor. Educational point:# Earliest feature of Fanconi's anemia is pancytopenia.# Filgastrim is drug used in Rx of febrile neutropenia.",
-        "cop": 1,
-        "opa": "Fanconi's anemia",
-        "opb": "HIV bone morrow infection",
-        "opc": "Hypersplenism induced bicytopenia",
-        "opd": "Parvovirus B virus infection with transient erythro- blastopenia of childhood",
-        "subject_name": "Pediatrics",
-        "topic_name": "Blood",
-        "id": "927d7899-1a42-4878-96b4-3acb7ed3b5f6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Opsoclonus is associated with -",
         "exp": "Ans. is 'a' i. e., Neuroblastoma o Opsolonus is seen primarily in Neuroblastoma. o Neuroblastoma is embryonal cancer of peripheral sympathetic nervous system, o Thirst most common childhood cancer (lst - leukemia, 2nd - Brain tumor), o MC diagnosed neoplasm in infancy. o Arises in abdomen either in adrenal gland or retroperitoneal sympathetic ganglion, o Superior cervical ganglion involvement produce Horner syndrome, o Can present as Paraneoplastic as ataxia or opsomvoclonus. o Optoclonus also seen sometimes in encephalitis.",
         "cop": 1,
@@ -362,18 +232,5 @@
         "topic_name": "Blood",
         "id": "f0b60d73-f4e4-46e9-a366-047c96292236",
         "choice_type": "single"
-    },
-    {
-        "question": "Red cell Protoporphyrin levels more than 100 microgram/ dL is suggestive of which of the following?",
-        "exp": "Ans. a (Iron deficiency anemia) (Ref. Harrison 18th/ ch. 103)RED CELL PROTOPORPHYRIN LEVELS# Protoporphyrin is an intermediate in the pathway to heme synthesis.# Under conditions in which heme synthesis is impaired, protoporphyrin accumulates within the red cell.# This can reflect an inadequate iron supply to erythroid precursors to support hemoglobin synthesis.# Normal values are less than 30 microg/dL of red cells.# In iron deficiency, values in excess of 100 microg/dL are seen.# The most common causes of increased red cell protoporphyrin levels are absolute or relative iron deficiency and lead poisoning.",
-        "cop": 1,
-        "opa": "Iron deficiency anemia",
-        "opb": "Lead poisoning",
-        "opc": "Myelodysplasia",
-        "opd": "All",
-        "subject_name": "Pediatrics",
-        "topic_name": "Blood",
-        "id": "41eb29fe-1b14-4b8f-9fe3-1dd97e201068",
-        "choice_type": "multi"
     }
 ]

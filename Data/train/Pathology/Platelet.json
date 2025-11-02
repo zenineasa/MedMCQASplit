@@ -1,18 +1,5 @@
 [
     {
-        "question": "A 25-year-old woman is being evaluated for chronic fatigue. She has a history of heavy menstrual periods since menarche and also recalls frequent nosebleeds as a child. Her past medical history is otherwise insignificant and she takes no medications. Laboratory studies show normal prothrombin time (PT), activated paial thromboplastin time (APTT), platelet count and fibrinogen levels. Which of the following is the most likely diagnosis?",
-        "exp": "Hypofibrinogemia Patient will low level of fibrinogen Factor IX deficiency Clotting factor deficiency APTT value is abnormal Rare in females Immune thrombocytopenia Platelet count will be low Von Willebrand disease Most common cause of inherited bleeding disorder One of the common causes of pubey menorrhagia PT, platelet count and fibrinogen levels will be normal APTT will be normal or mildly increased in type 1, types 2A, 2B, 2M APTT will be significantly increased in type 2N, type 3 VWF antigen and activity will be reduced leading to bleeding symptoms Function of VWF - Adhesion of platelets and increase half life of factor 8",
-        "cop": 4,
-        "opa": "Hypofibrinogemia",
-        "opb": "Factor IX deficiency",
-        "opc": "Immune thrombocytopenia",
-        "opd": "Von Willebrand disease type 1",
-        "subject_name": "Pathology",
-        "topic_name": "Platelet",
-        "id": "b6b780cb-bfcf-49c4-9aed-de4aa4f26cb5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Normal platelet count is found in:",
         "exp": "All other options have decreased platelet count except Henoch Schonlein purpura. Henoch-Schonlein purpura is a systemic syndrome involving the skin (purpuric rash), gastrointestinal tract (abdominal pain), and joints (ahritis). skin manifestations in HSP are due to small vessel vasculitis and platelet count is normal. Wiskott-Aldrich syndrome is an X-linked disease characterized by thrombocytopenia, eczema, and a marked vulnerability to recurrent infection that results in early death. The platelets are small and are reduced in number.",
         "cop": 2,
@@ -24,19 +11,6 @@
         "topic_name": "Platelet",
         "id": "35eb2f0c-f128-424f-943c-94de9df3f947",
         "choice_type": "single"
-    },
-    {
-        "question": "Blood group antigens chemically are made up of?",
-        "exp": "Blood group antigens (ABO) Made up of glycoproteins. Expressed on the surface of RBCs and Platelets.",
-        "cop": 2,
-        "opa": "Carbohydrate",
-        "opb": "Glycoprotein",
-        "opc": "Phospholipids",
-        "opd": "Polysaccharide",
-        "subject_name": "Pathology",
-        "topic_name": "Platelet",
-        "id": "464d48bf-88da-4cb6-9e34-0c67a2c90fad",
-        "choice_type": "multi"
     },
     {
         "question": "Glanzmann disease is characterised by which of the following?",
@@ -78,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 56-year-old man is surgically treated by a four-vessel coronary aery bypass graft procedure and placed on prophylactic daily aspirin therapy. Aspirin has been shown to prevent recurrent myocardial infarction through its ability to inhibit the synthesis of",
-        "exp": "Aspirin Irreversibly inhibits the enzymes cyclooxygenase 1 and 2 Inhibits synthesis of Thromboxane A2 (Tx. A2). Tx. A2 promotes platelet aggregation, as does ADP. Aspirin inhibits platelet aggregation, which is an impoant early step in atherogenesis.",
-        "cop": 4,
-        "opa": "Adenosine diphosphate (ADP).",
-        "opb": "Leukotriene B4 (LTB4 )",
-        "opc": "Nitric oxide (NO).",
-        "opd": "Thromboxane A2 (TXA2)",
-        "subject_name": "Pathology",
-        "topic_name": "Platelet",
-        "id": "5dd98ac7-79f1-4b05-8cbb-c1096f76812f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Ham test is done for detection of which of the following?",
         "exp": "Ham test (Acidified serum lysis test) This is the screening test for PNH Used to detect cells deficient in CD59 CD55 and CD59 are GPI-linked proteins which are defective in PNH due to acquired somatic mutation in PIGA gene located on X chromosome Acidification of serum activates complement alternate pathway and causes haemolysis of red cells if they are abnormally sensitive to complement Flow cytometry (FLAER) test is used to as confirmatory test for PNH",
         "cop": 2,
@@ -102,19 +63,6 @@
         "topic_name": "Platelet",
         "id": "b26f0e8a-0ecb-4d9b-8b0b-e647186252f6",
         "choice_type": "single"
-    },
-    {
-        "question": "Secondary hemochromatosis is associated with all except:",
-        "exp": "Anemia that stems from ineffective hematopoiesis is associated with inappropriate increases in iron absorption from the gut, which can lead to iron overload (Secondary hemochromatosis) with consequent damage to endocrine organs and the heart. Secondary hemochromatosis seen in - Thalassemia Sideroblastic anemia Multiple blood transfusions",
-        "cop": 4,
-        "opa": "Thalassemia",
-        "opb": "Sideroblastic anemia",
-        "opc": "Multiple blood transfusions",
-        "opd": "Paroxysmal nocturnal hemoglobinuria",
-        "subject_name": "Pathology",
-        "topic_name": "Platelet",
-        "id": "ae2b675a-af63-4d59-b376-3798bb64ce33",
-        "choice_type": "multi"
     },
     {
         "question": "You are working in a PHC and have to send a sample for blood glucose estimation. Which of the following anticoagulant will you use for sending your sample?",

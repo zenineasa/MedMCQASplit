@@ -1,18 +1,5 @@
 [
     {
-        "question": "For RNA, which blotting technique is used -",
-        "exp": "Ans. is 'b' i. e., Northern blot Technique. Sample analyzed. Gel used. Probe. Southern blot. DNAQYes. Radioactive DNAAllele specific oligonucleotide (ASO)DNANo. Allele specific oligonucleotide. Microarravm-RNA or c-DNANo. DNA probe. Northern blot. RNAQYes. DNA probe. Western (immuno) blot. Protein QYes. Labeled antibody QSouth Western blot. Protein DNANo. DNA probe. ELISAProtein or antibodies. No. Antibody Q (Specific for protein to be measured). Proteomics. Protein QYes-",
-        "cop": 2,
-        "opa": "Western blot",
-        "opb": "Northern blot",
-        "opc": "Southernblod",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology Techniques",
-        "id": "3dc0dd82-3432-4b61-ad9f-a773a732b840",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which method is used to locate a known gene locus?",
         "exp": "Ans. A. FISH(Ref: Robbins 9/e page 177). Robbins 9th edition gives the following description. FISH uses DNA probes that recognize sequences specific to particular chromosomal regions. Method. Requires growing cells. Detects deletion and duplication. Detects balanced structural rearrangements. Detects uniparental disomy. Lower limits of detectionG banding. Yes. Yes. Yes. No5-10mb. Metaphase FISHYes. Yes. Yes. No40-250 thousand mb. Interphase FISHNo. Yes. Some. No40-250 thousand mb. CGH array. No. Yes. No. No. Single Exon or Single gene. SNP array. No. Yes. No. Some. Single Exon or Single gene",
         "cop": 1,
@@ -24,19 +11,6 @@
         "topic_name": "Molecular Biology Techniques",
         "id": "4b825897-f36f-4e85-9e06-b3a78c3d0874",
         "choice_type": "single"
-    },
-    {
-        "question": "Epigenetic deals with genetic modifications that do not alter the sequence of DNA. All of the following can detect epigenetic modification except:",
-        "exp": "Ans. a. HPLC (Ref: Robbins 9/e p180, 319-320 8/e p180-181). Methylation specific PCR, Bisulphite method and ChlP on Chip can detect epigenetic modification but not the HPLC. 'Epigenetics is defined as the study of heritable chemical modification of DNA or chromatin that does not alter the DNA sequence itself Examples of such modification include the methylation of DNA, and the methylation and acetylation of histones. Since traditional Sanger sequencing alone cannot detect DNA methylation; other techniques have been developed to uncover these chemical modifications. One common approach is to treat genomic DNA with sodium bisulfite, a chemical that converts unmethylated cytosines to uracil, white methylated cytosines are protected from modification. An assay termed methylation-specific PCR uses two PCR primer sets to analyze single DNA loci: one to detect a DNA sequence with unmethylated cytosines (which are converted to uracils after bisulfite treatment) and the other to detect DNA sequences with methylated cytosines (which remain cytosines after bisulfite treatment). Additional techniques are evolving that provide a genome-wide snapshot of epigenetically altered DNA. These techniques are based on the ability to detect histone modifications such as methylation and acetylation (which, like DNA methylation, are important regulators of gene expression) by using antibodies against specifically modified histones. Such antibodies can be used to pull down bound DNA sequences, a method termed chromatin immunoprecipitation (Ch. IP). These pulled- down sequences can be amplified and analyzed by hybridizing to microarrays ('Ch. IP on Chip') or sequencing ('Ch. IP- Seq') to map epigenetically modified genes throughout the genome. - Robbins 8/e p180 Isolation of cells of the immune response* Use the correct number of cells: 1 x 106 x to 10 x 106* Collect biological replicates of cells* Choose an appropriate control for antibody specificity (knockout or RNAi knockdown). Fragmentation by sonication or MNase treatment* Shear chromatin to a size range of ~ 150-300 bp* Sonicate chromatin extracts for non-histone proteins. Sonication conditions should be determined empirically for each cell type. Treat chromatin extracts with MNase for analysis of histone modifications. Do not overdigest chromatin. Ch. IP analysis of histone modifications, transcription factors or epigenetic regulators* Select antibody: monoclonal versus polyclonal* Choose reference control (Input or IgG)* Perform Ch. IP with established protocols* Purify DNALibrary construction* Do end repair and adapter ligation* Perform PCR using primers compatible with sequencing platform. Avoid overamplifying DNA Sequencing* Determine sequencing depth on the basis of the prevalence of binding throughout the genome: more sequencing tags may be needed for diffuse signals (such as H3. K27me3)* Perform single-end or paired-end sequencing. Epigenetic Alterations. Epigenetics is defined as the study of heritable chemical modification of DNA or chromatin that does not alter the DNA sequence itself. Examples of such modification include the methylation of DNA. and the methylation and acetylation of histonesQ. Since traditional Sanger sequencing alone cannot detect DNA methylation, other techniques have been developed to uncover these chemical modifications. One common approach is to treat genomic DNA with sodium bisulfite, a chemical that converts unmethylated cytosines to uracil, while methylated cytosines are protected from modificationQ. An assay termed methylation-specific PCR uses two PCR primer sets to analyze single DNA loci: one to detect a DNA sequence with unmethylated cytosines (which are converted to uracils after bisulfite treatment) and the other to detect DNA sequences with methylated cytosinesQ (which remain cytosines after bisulfite treatment). Additional techniques are evolving that provide a genome-wide snapshot of epigenetically altered DNA. These techniques are based on the ability to detect histone modifications such as methylation and acetylation (which, like DNA methylation, are important regulators of gene expression) by using antibodies against specifically modified histones. Such antibodies can be used to pull down bound DNA sequences, a method termed chromatin immunoprecipitation (ChlP). These pulled-down sequences can be amplified and analyzed by hybridizing to microarrays ('ChlP on Chip') or sequencing ('Ch. IP-Seq') to map epigenetically modified genes throughout the genome.",
-        "cop": 1,
-        "opa": "HPLC",
-        "opb": "Methylation specific PCR",
-        "opc": "Bisulphite method",
-        "opd": "Ch. IP on Chip",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology Techniques",
-        "id": "77295292-d28a-43fd-a1f8-79d4ddadb539",
-        "choice_type": "multi"
     },
     {
         "question": "Western blot is used for -",
@@ -143,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In sequential order what are the three steps of PCR?",
-        "exp": "Ans. is 'c' i. e., Denature DNA, Anneal Primers, Extend DNA Steps in PCRIsolation of target DNA sequence|Primer Construction|Denaturation of DNA|Annealing of primers to single stranded DNA|Chain extension",
-        "cop": 3,
-        "opa": "Anneal Primers, Extend DNA, Denature DNA",
-        "opb": "Denature DNA, Extend DNA, Anneal Primers",
-        "opc": "Denature DNA, Anneal Primers, Extend DNA",
-        "opd": "Extend DNA, Anneal Primers, Denature DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology Techniques",
-        "id": "933fbef2-8008-46a8-b5e0-652650034843",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not used as vector in genetics -",
         "exp": "Ans. is 'b' i. e., Proteosomes o The traditional viral vectors are adenoviral vectors followed by papilloma viruses and retroviruses. Retroviruses are the main and most commonly used viral vectors. o Other cloning vectors for gene delivery are. Plasmid. Bacteriophageiii) Cosmid. BAC (Bacterial artificial chromosome)YAC (Yeast artificial chromosome). o Liposomes or iipoplexes are also used as vector for gene delivery.",
         "cop": 2,
@@ -180,32 +141,6 @@
         "topic_name": "Molecular Biology Techniques",
         "id": "b7123f7c-ed4c-469b-918d-5e1426370422",
         "choice_type": "single"
-    },
-    {
-        "question": "All are steps of PCR EXCEPT:",
-        "exp": "ANSWER: (D) Transformation. REF: Harper's 28 ed chapter 39. The polymerase chain reaction (PCR) is a method of amplifying a target sequence of DNA. PCR provides a sensitive, selective, and extremely rapid means of amplifying any desired sequence of DNA. Specificity is based on the use of two oligonucleotide primers that hybridize to complementary sequences on opposite strands of DNA and flank the target sequence. The DNA sample is first heated to separate the two strands of the template DNA containing the target sequence; the primers, added in vast excess, are allowed to anneal to the DNA; and each strand is copied by a DNA polymerase, starting at the primer sites in the presence of all 4 d. XTPs. The two DNA strands each serve as a template for the synthesis of new DNA from the two primers. Repeated cycles of heat denaturation, annealing of the primers to their complementary sequences, and extension of the annealed primers with. DNA polymerase result in the exponential amplification of DNA segments of defined length (a doubling at each cycle). Early PCR reactions used an E coli DNA polymerase that was destroyed by each heat denaturation cycle. Substitution of a heat-stable DNA polymerase from Thermusaquaticus (or the corresponding DNA polymerase from other thermophilic bacteria), an organism that lives and replicates at 70-80degC, obviates this problem and has made possible automation of the reaction, since the polymerase reactions can be run at 70degC. This has also improved the specificity and the yield of DNA.",
-        "cop": 4,
-        "opa": "Denaturation",
-        "opb": "Annealing",
-        "opc": "Extension",
-        "opd": "Transformation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology Techniques",
-        "id": "3e8fa5dc-22ea-4422-9d21-8d73d6ef126a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the follow ing is/are the application/s of FISH?",
-        "exp": "Ans. is 'd' i. e., All the above [Ref: align=\"center\" style=\"font-family: Times New Roman, Times, serif\">Examples of FISH applications. Diagnostic. Research. The identification of specific chromosome abnormalities. The identification of new non-random abnormalities (by M-FISH or SKY). The characterization of marker chromosomes. Gene mapping. Interphase FISH for specific abnormalities in cases of failed cytogenetics. Identification of regions of amplification or deletion by CGHMonitoring disease progression. The identification of translocation breakpoints. Monitoring the success of bone marrow transplantation. The study of 3D chromosome organization in interphase nuclei",
-        "cop": 4,
-        "opa": "Gene mapping",
-        "opb": "Study of 3D chromosome organization in interphase nuclei",
-        "opc": "Monitoring the success of bone marrow transplantation",
-        "opd": "All the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology Techniques",
-        "id": "769259fd-f286-4b07-ab89-7d391fafff02",
-        "choice_type": "multi"
     },
     {
         "question": "Northern blot test is used for",
@@ -325,19 +260,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statement is true about Linkage analysis?",
-        "exp": "Ans. A. Detection of characteristic DNA polymorphism in a family associated with disorders(Ref Robbins 9/e page 177-179). Linkage analysis. The genetic marker loci very close to the disease allele, that are transmitted through pedigrees called linkage disequilibrium. Assess the genetic marker loci in family members having the disease or trait of interest. With time it becomes possible to define a panel of marker loci, all of which co-segregate with the putative diseases. Hence Linkage analysis facilitates localization and cloning of the disease allele. The genetic markers used are, SNPs and repeat-length polymorphisms (minisatellite and microsatellite).",
-        "cop": 1,
-        "opa": "Detection of characteristic DNA polymorphism in a family associated with disorders",
-        "opb": "Useful to make pedigree chart to show affected and non-affected family members",
-        "opc": "Used to make a pedigree chart to show non-paternity",
-        "opd": "Non gene mapping method of genetic study",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology Techniques",
-        "id": "84bc15ab-e3e4-44bc-90a0-7fba9c5767a0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Rapid method of chromosome identification in intersex is:",
         "exp": "Ans. A. FISHCertain probes used in FISH hybridize to repetitive sequences located to the pericentromeric regions. These probes are useful for the rapid identification of certain trisomies in interphase cells of blood smears, or even in FISH requires prior knowledge of the one or few specific chromosomal regions suspected of being altered. Genomic abnormalities canal so be detected without prior knowledge of what these aberrations may be, using a global strategy such as array CGH. From the above description it is concluded that. To locate a known gene locus FISH can be used. To locate an unknown gene locus, a global strategy like CGH is used.",
         "cop": 1,
@@ -349,19 +271,6 @@
         "topic_name": "Molecular Biology Techniques",
         "id": "30c64eed-77c3-4548-915a-2130491a9d26",
         "choice_type": "single"
-    },
-    {
-        "question": "DNA microarrays allow detection of Gene mutations using?",
-        "exp": "ANSWER: (D) Hybridization. REF: Harrisons 17 Edition, Table 62-9 chapter 62, Biology by Raven Tata Mc. Graw-Hill Education p 331, http://en. wikipedia. org/wiki/DNA_microarray\"A DNA microarray (also commonly known as gene chip, DNA chip, or biochip) is a collection of microscopic DNA spots attached to a solid surface. The core principle behind microarrays is hybridization between two DNA strands, the property of complementary nucleic acid sequences to specifically pair with each other by forming hydrogen bonds between complementary nucleotidebase pairs\"Method. Principle. Type of Mutation Detected. Cytogenetic analysis. Unique visual appearance of various chromosomes. Numerical or structural abnormalities in chromosomes. Fluorescent in situ hybridization (FISH). Hybridization to chromosomes with fluorescently labeled probes. Numerical or structural abnormalities in chromosomes. Southern blot. Hybridization with genomic probe or c. DNA probe after digestion of high molecular DNALarge deletion, insertion, rearrangement, expansions of triplet repeat, amplification. Polymerase chain reaction (PCR). Amplification of DNA segment. Expansion of triplet repeats, variable number of tandem repeats (VNTR), gene rearrangements, translocations; prepare DNA for other mutation methods. DNA sequencing. Sequencing of DNA segments clonedinto plasmid vectors. Direct sequencing of PCR products. Point mutations, small deletions and insertions. Restriction fragmentpolymorphism(RFLP). Detection of altered restriction pattern of genomic DNA (Southern blot) or PCR products. Point mutations, small deletions and insertions. Microarrays. Hybridization of PCR products to midtype or mutated oligonucleotides. Point mutations, small deletions and insertions. Genotyping of SNPs",
-        "cop": 4,
-        "opa": "Polymerase Chain Reaction",
-        "opb": "Cloning",
-        "opc": "Southern Blotting",
-        "opd": "Hybridization",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology Techniques",
-        "id": "115db66d-17c3-44a9-8828-bcb67d8d419b",
-        "choice_type": "multi"
     },
     {
         "question": "After digestion by restriction endonucleases DNA strands can be joined again by:",
@@ -401,19 +310,6 @@
         "topic_name": "Molecular Biology Techniques",
         "id": "fc53d5b1-5b64-4160-92bc-92a91b211ebd",
         "choice_type": "single"
-    },
-    {
-        "question": "All are added to PCR, except:",
-        "exp": "Ans. B. Dideoxynucleotide(Ref: Tietz Textbook of Clinical Chemistry 4fe page1446). Pre requisites of PCRSample DNA to be amplified. Deoxynucleotides. Thermostable Polymerase--Taq Polymerase obtained from Thermus Aquaticus found in hot springs. Primer. Mgcl2, KCl",
-        "cop": 2,
-        "opa": "Deoxynucleotide",
-        "opb": "Dideoxynucleotide",
-        "opc": "Thermostat DNAP",
-        "opd": "Template DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology Techniques",
-        "id": "f312e29f-c42b-42fb-973e-48df7aecacf9",
-        "choice_type": "multi"
     },
     {
         "question": "DNA fingerprinting is based on possessing in DNA of:",

@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about 18 FDG Pet scanning except",
-        "exp": "Half Life of 18F is 110 min",
-        "cop": 1,
-        "opa": "Half Life Of 18F is 110 days",
-        "opb": "Brown adipose tissue shows normal symmetrical uptake",
-        "opc": "Detects pairs of gamma rays produced",
-        "opd": "Good functional detail but poor anatomical detail than CT",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "e3b721c9-7568-4419-a01a-fe4444bbf38b",
-        "choice_type": "multi"
-    },
-    {
         "question": "The Renal function is best assessed by:",
         "exp": "Ans. C. Tc 99m MAG3* The Renal function is best assessed by Tc-99m MAG3 (mercaptoacetyltriglycine). It is eliminated through kidney as via both glomeruli filtration and tubular excretion.* Tc-99m DMSA (dimercaptosuccinic acid) is used to evaluate renal structure and morphology, particularly in pediatric imaging for detection of scarring and pyelonephritis.* DMSA is an ideal agent for the assessment of renal cortex as it binds to the sulfhydryl groups in proximal tubules at the renal cortex with longer retention than other agents. Also, it allows better assessment of differential renal function* Tc-99m DTPA (diethylene-triamine-Penta acetate) is cleared only via glomeruli with no tubular excretion. Hence used for direct measurement of GFR.* The screening investigation used in reno-vascular hypertension is Captopril DTPA and the gold standard investigation is renal angiography.",
         "cop": 3,
@@ -76,19 +63,6 @@
         "topic_name": "Nuclear Medicine",
         "id": "638f7b74-3a31-47e2-88d2-e17d1e510da1",
         "choice_type": "single"
-    },
-    {
-        "question": "In radionuclide imaging, the most useful pharmaceutical agent for skeletal imaging is___:",
-        "exp": "Ans. B. Technetium 99 linked to MDPMDP (Methyl diphosphonate) adsorbs into the hydroxyapatite crystals and gets accumulated in the areas of active bone formation which can be detected by nuclear imaging.",
-        "cop": 2,
-        "opa": "Gallium 67",
-        "opb": "Technetium 99 linked to MDP",
-        "opc": "Technetium-Sulphur colloid",
-        "opd": "Technetium 99m",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear Medicine",
-        "id": "4d268cd9-fa16-4811-b51a-8d42c32aab50",
-        "choice_type": "multi"
     },
     {
         "question": "The most radiosensitive tissue among the following?",
@@ -117,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Hot rim sign on hepatobiliary scintigraphy (Tc99m-HIDA ) is seen in?",
-        "exp": "* Increased Pericholecystic hepatic band of radio tracer activity called Rim sign. * A rim of increased hepatic activity directly adjacent to the gallbladder fossa in association with non visualization of the gall bladder is a specific sign of acute cholecystitis paicularly associated with gangrene and perforation. Below CT Image Shows Emphysematous Cholecystitis with Necrosis and Air within the wal of GB. It is surgical Emergency with high risk of GB perforation and moality.",
-        "cop": 3,
-        "opa": "Chronic cholecystitis",
-        "opb": "Biliary Atresia",
-        "opc": "Gangrenous Cholecystitis",
-        "opd": "Porcelain Gall. Bladder",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "d2a5417e-a450-4400-b54d-582cd34c73e0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Radionucleotide used in Scintimammography is?",
         "exp": "Ans CThe ability of scintimammography to detect cancer is not limited by dense breast tissue, post-operative scar tissue or breast implants, and it can reduce unnecessary procedures by helping determine whether an abnormality requires biopsy. Technetium-99m sestamibi (99m. Tc-MIBI) is the most commonly used radiopharmaceutical.",
         "cop": 3,
@@ -141,19 +102,6 @@
         "topic_name": "Nuclear Medicine",
         "id": "ec7ab9f3-e81d-4707-a3ab-c580d053f7a8",
         "choice_type": "single"
-    },
-    {
-        "question": "Radioisotopes emit all the following except?",
-        "exp": "X rays are aificially produced in the Xray tube or by using LINAC(Linear Accelerator) Radioisotopes emit either Alpha Rays, Beta Rays and Gamma Rays",
-        "cop": 4,
-        "opa": "Alpha Rays",
-        "opb": "Beta Rays",
-        "opc": "Gamma Rays",
-        "opd": "X-rays",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "e88a1f4a-b13a-40a5-8c71-bf7d86981c6a",
-        "choice_type": "multi"
     },
     {
         "question": "Bragg peak effect is most noticable in?",
@@ -182,45 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In Radionuclide imaging the most useful radiopharmaceutical for skeletal imaging is:",
-        "exp": "Technetium--99m linked to Methylene diphosphonate Normal Bone Scan Tracer uptake greatest in axial skeleton Background activity of soft tissue Kidneys routinely visualized Skull can appear uneven (variations in calvarial thickness) Sites of persistently increased symmetric uptake are- Acromial and Coracoid processes of the scapulae, Medial ends of the clavicles, Junction of the body Manubrium of the sternum The sacral alae",
-        "cop": 4,
-        "opa": "Gallium 67",
-        "opb": "Technetium sulphur colloid",
-        "opc": "Technetium-99m",
-        "opd": "Technetium--99m linked to Methylene disphosphonate",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "39bd2a5b-5cb2-4669-8f78-a051f70157f8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The \"R\"s of radiobiology include the following except:",
-        "exp": "Processes after radiation exposure are \"4 R's\" of radiobiology. Repair - Enzymatic mechanisms for healing intracellular injury. Reoxygenation- Process whereby oxygen is actually better distributed to ble cells following radiation injury and cell killing. Repopulation- Ability of the cell population to continue to divide and to replace dying and dead cells. Redistribution- Reflects the variability of a cell's radiosensitivity over the cell cycle.",
-        "cop": 4,
-        "opa": "Repair",
-        "opb": "Reoxygenation",
-        "opc": "Repopulation",
-        "opd": "Reexcitation",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "be337b4d-f49f-4764-b72b-09b5f0e71f73",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Fluorodeoxyglucose-positron emission tomography (FDG-PET) does not detect which of the following?",
-        "exp": "ANS. ATumors which have low metabolic rate is negative on FDG-PET. Examples of low metabolic tumors are: 1. Bronchoalveolar carcinoma2. Carcinoid tumors. But the question had both typical and atypical carcinoid. Typical carcinoid has less number of mitosis than atypical carcinoid, hence, it has less metabolic rate than atypical carcinoid. So, typical carcinoid is the answer.",
-        "cop": 1,
-        "opa": "Typical carcinoid",
-        "opb": "Atypical carcinoid",
-        "opc": "Small cell neuroendocrine tumor",
-        "opd": "Large cell neuroendocrine tumor",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear Medicine",
-        "id": "2b6b1d98-8d78-4e5d-ad78-31722e02e167",
-        "choice_type": "multi"
-    },
-    {
         "question": "Parent compound of Tc-99m is",
         "exp": null,
         "cop": 2,
@@ -245,19 +154,6 @@
         "topic_name": "Nuclear Medicine",
         "id": "3c94a85c-241b-41e9-9282-00b222f47d27",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following show hot spot on Bone Scan except?",
-        "exp": "Bone scan: Done with: Tc99m-MDP (Methylene diphosphonate) Tc99m Medronate Hot uptake on bone scan indicates osteoblastic activity Cold uptake on bone scan indicates osteoclastic activity Hot uptake of bone scan seen with: Osteoblastic metastasis/ prostatic metastasis Paget's disease Fibrous dysplasia Osteoahritis Osteomyelitis (3 phase bone scan) Cold uptake of bone scan is seen in: Multiple myeloma (not preferred for bone scan) Focal coical defects",
-        "cop": 1,
-        "opa": "Multiple Myeloma",
-        "opb": "Fibrous Dysplasia",
-        "opc": "Pagets Disease",
-        "opd": "Osteomyelitis",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "6a354e90-588d-4b4c-8d92-e9cac43a48e1",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is a Alpha emitter?",
@@ -286,32 +182,6 @@
         "choice_type": "single"
     },
     {
-        "question": "PET Scan is useful in evaluating all the following except?",
-        "exp": "*PET is good for detection of functional/Metabolic activities and not good enough for anatomical detailing like to look for a aberrant Subclan aery. *MR Angio/CT Angio are used for detection of Dysphagia Lusoria (aberrant Subclan aery)",
-        "cop": 4,
-        "opa": "Solitary pulmonary Nodule",
-        "opb": "Skeletal metastasis",
-        "opc": "Myocardial Viability",
-        "opd": "Dysphagia Lusoria",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "a3ca741a-909d-4a18-9b0d-3516bc7f3134",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement regarding nitrates in myocardial perfusion study:-",
-        "exp": "Nitrates in myocardial perfusion study Enhances the detection of myocardial bility in Thallium 201 radiopharmaceutical agent Causes increased myocardial flow in ischemia Increases collateral flow into ischemic zone Stress agents used in myocardial perfusion study Dobutamine Adenosine To study Myocardial bility 18-FDG PET (best agent) Nitrate augmented Thallium 201 Scintigraphy Dynamic contrast enhanced MRI",
-        "cop": 3,
-        "opa": "Stress agent",
-        "opb": "Decreased myocardial flow in ischemia",
-        "opc": "Enhances the detection of myocardial bility in Thallium 201 radiopharmaceutical agent",
-        "opd": "Reduced collateral flow into ischemic zone",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "f8e38912-f699-4866-a678-420cd1469d3c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Selenium methionine scan is used in-",
         "exp": "Parathyroid adenoma: Tc99m Sestamibi scan used (previously thallium subtraction study is done) Pancreatic carcinoma: Selenium-methionine scan used Bone metastasis: Tc99m- MDP scan used Meckel's diveiculum: Tc99m- Peechnate scan used Normal Bone Scan Tracer uptake greatest in axial skeleton Background activity of soft tissue Kidneys routinely visualized Skull can appear uneven (variations in calvarial thickness) Sites of persistently increased symmetric uptake are- Acromial and Coracoid processes of the scapulae, Medial ends of the clavicles, Junction of the body and manubrium of the sternum and the sacral alae",
         "cop": 2,
@@ -325,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the given statements are true about PET scan except:",
-        "exp": "Positron emission tomography (PET) Is a sensitive and specific functional imaging method that allows metabolic mapping of disease processes. The most widely used tracer, 18F-fluorodeoxyglucose (18. FDG), acts as a glucose analogue allowing imaging of glucose utilization, a process that is enhanced in many malignant tumours. Various PET radionuclides, including 18 F-fluorine, 11 C-carbon, 13 N-nitrogen and 15 O-oxygen, provides the potential to investigate multiple aspects of tumour biology in addition to glucose utilization, including cellular proliferation, hypoxia, neo-angiogenesis and apoptosis. 18 FDG is the ideal isotope for PET scan with a half life of -110 minutes. 18-Fluoro-2-deoxy-D-glucose positron emission tomography (18-FDG PET) is highly sensitive for the detection of malignancy and can be used to detect small metastases or local recurrence that may not be obvious on CT. FDG PET is not specific and therefore cannot be used for differentiating few benign conditions from malignant lesions. Disadvantages Glucose utilization is not entirely specific to malignant tissue, some benign processes like inflammatory sites, infections, granulomas being associated with enhanced glycolysis. Normal variation of uptake of 18. FDG in some tissues, including bowel, urinary tract, muscle and brown fat, can cause interpretative pitfalls",
-        "cop": 4,
-        "opa": "PET is a functional imaging method that allows metabolic scanning.",
-        "opb": "18F-fluorine, 11 C-carbon, 13 N-nitrogen and 15 O-oxygen are positron emitters.",
-        "opc": "18 FDG PET is is not entirely specific to malignant tissue.",
-        "opd": "Half life of 18 F-fluorine is 21 days.",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "aeeef03d-7bec-4a19-a1ce-596fa49a6fd1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Conversion of one nucleus into another was first demonstrated in 1919 by __________.",
         "exp": "Ernest Rutherford is known as the father of nuclear physics. He discovered the concept of radioactive half-life, proved that radioactivity involved the transmutation of one chemical element to another, and also differentiated and named alpha and beta radiation. Henri Becquerel - discoverer of radioactivity. Marie Curie discovered Radium and Polonium, Coined the term \"radioactivity\".",
         "cop": 1,
@@ -349,32 +206,6 @@
         "topic_name": "Nuclear medicine",
         "id": "dab2c045-9679-4caf-8fce-948a6f0ba129",
         "choice_type": "single"
-    },
-    {
-        "question": "Which one of the following is NOT true concerning Radon?",
-        "exp": "Radon Radioactive, colorless, odorless, tasteless noble gas, occurring naturally as the decay product of uranium or thorium. Its most stable isotope, 222. Rn, has a half-life of 3. 8 days. Often the single largest contributor to an individual's background radiation dose Radon continues to decay to emit alpha paicles. Rn-222 represents a long-term hazard despite its sho half life of 3. 8 days.",
-        "cop": 1,
-        "opa": "Decays by gamma emission",
-        "opb": "Single largest contributor to an individual's background radiation dose",
-        "opc": "Most stable isotope, 222. Rn, has a half-life of 3. 8 days",
-        "opd": "Implicated in Lung cancer",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "b1c6814e-5b4c-4f37-abe6-2573ab7c6d79",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about Hybrid PET/CT scans:",
-        "exp": "Hybrid imaging allows the superimposition of PET and CT images, a technique known as functional-anatomical mapping. Hybrid PET/CT scans provide images that help pinpoint the abnormal metabolic activity to anatomical structures seen on CT and provide more accurate diagnoses than the two scans performed separately. FDG-PET: It can differentiate benign from malignant lesions as small as 1 cm. However, false-negative findings can occur in lesions with low metabolic activity such as carcinoid tumors and bronchioloalveolar cell carcinomas, or in lesions <1 cm in which the required threshold of metabolically active malignant cells is not present for PET diagnosis. False-positive results can be seen due to FDG uptake in inflammatory conditions such as pneumonia and granulomatous diseases. Areas of normal physiological uptake in PET CT:- - Brown fat - Thymus - Brain tissue - Myocardium - GI Tract",
-        "cop": 4,
-        "opa": "Functional-anatomical mapping",
-        "opb": "Provide images that help to pinpoint the abnormal metabolic activity to respective anatomical structures",
-        "opc": "Can differentiate benign from malignant lesions as small as 1 cm.",
-        "opd": "All of the above",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "910e512f-1620-4e80-ad01-b2e1d95677b5",
-        "choice_type": "multi"
     },
     {
         "question": "Isotope of iodine used in treatment for brachytherapy of prostate carcinoma?",
@@ -416,32 +247,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Radio pharmaceutical used for phagocyte study scan used:",
-        "exp": "Technetium 99m Sulphur colloid scan: Taken up by reticuloendothelial cells, Macrophages and Kupffer cells Therefore, used for Phagocytes study Evaluate splenic disease Detect occult abscess It shows hot uptake in focal nodular hyperplasia (because it has increased number of Kupffer's cells) Liver Fibrolamellar variant of HCC (has increased hepatocyte) | On Sulphur colloid scan No hot uptake Focal nodular hyperplasia (has increased hepatocyte and Kupffer cells) | hot uptake",
-        "cop": 1,
-        "opa": "Sulfur colloid scan",
-        "opb": "Thallium 201",
-        "opc": "Technetium peechnetate scan",
-        "opd": "MDPscan",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "27c595a1-3fe2-42c3-b784-7c3335344a65",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Definition of nuclear medicine includes which of the following?",
-        "exp": "Ans. d (Field of medicine which depends on accretion, transit & disappearance of radioactive tracer in specific regions of body & useful in management of cancer). (Ref. Modem Trends in Radiotherapy by Deeley, 216)# Nuclear medicine is the field of medicine which depends on accretion, transit & disappearance of radioactive tracer in specific regions of body & hence useful in management of cancer.# It provides both physiological and structural information in a quantifiable form.# It is helpful for location and extent of cancer without much hazards & discomfort to patient.",
-        "cop": 4,
-        "opa": "Field of medicine helpful for radiotherapeutic management of all.",
-        "opb": "Field of medicine, which provides both physiological, & structrual information in non-quantifiable form.",
-        "opc": "Field of medicine helpful for location & extent of cancer but with many hazards.",
-        "opd": "Field of medicine which depends on accretion, transit & disappearance of radioactive tracer in specific regions of body & useful in management of cancer.",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear Medicine",
-        "id": "6d375b62-e480-4827-a646-833bae3a940d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Thyrotoxicosis patients with least radio iodide uptake seen in:",
         "exp": "Sub-acute thyroiditis or de Quervain thyroiditis is an uncommon condition, yet is considered the most common cause of painful thyroiditis. Disease is thought to have a viral origin, Has the least radioactive iodine uptake. RAIU in other diseases:",
         "cop": 4,
@@ -466,32 +271,6 @@
         "topic_name": "Nuclear medicine",
         "id": "c33f115a-99d2-4e16-9652-91f4c870be99",
         "choice_type": "single"
-    },
-    {
-        "question": "Which is used for calculation of ejection fraction?",
-        "exp": "Nuclear Imaging of heart: MUGA scan (Multi-gated acquisition scan): Tc 99m labeled RBC is used Evaluate ventricular function / ejection fraction- Cardiac ventriculography (but most accurate investigation for ventricular function is -MRI) Tc99m labeled RBC is very sensitive investigation for detecting minimal lower GIT bleeding (as low as 0. 1 ml per minute) PET scanning in heart: - N-13 ammonia PET = very sensitive for myocardial perfusion -18 FDG-PET = Myocardial bility If N-13 ammonia PET (-) & 18 FDG PET (-) - Suggestive of scar tissue If N-13 ammonia PET (-) & 18 FDG PET (+) - Hibernating myocardium Note: C-11 methionine PET is better than 18 FDG PET - for brain tumors",
-        "cop": 1,
-        "opa": "MUGA",
-        "opb": "SPECT using thallium 201",
-        "opc": "PET myocardial perfusion imaging",
-        "opd": "Sestamibi scan with pharmacological stress",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "ec13bc31-f496-4c4b-868a-fe3177a77dcf",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 50-year-old patient with ischemic heart disease develops chest pain. ECG shows ST segment elevation and Q waves. Myocardial necrosis in this patient can be best demonstrated by:",
-        "exp": "Myocardial infarct imaging: Tc99m pyrophosphate is used to localize the area of infarct in heart. Area of infarct On thallium scan (Perfusion image) Cold spot Pyrophosphate scan (Infarct image) Hot spot",
-        "cop": 3,
-        "opa": "Technetium 99 tetrofosmin",
-        "opb": "Sestambi scan",
-        "opc": "Technetium 99 Pyrophosphate",
-        "opd": "Thallium 201",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "23e04a70-2555-4b62-9647-59337e06bb58",
-        "choice_type": "multi"
     },
     {
         "question": "Radio isotope Preferred for measuring GFR:",
@@ -520,19 +299,6 @@
         "choice_type": "single"
     },
     {
-        "question": "FDG-PET negative tumor is:",
-        "exp": "* 18 FDG negative tumors - Have low mitotic & low metabolic activity (M-TB) - Mucinous Ca- Typical carcinoids- Bronchoalveolar Ca",
-        "cop": 2,
-        "opa": "Atypical carcinoid",
-        "opb": "Typical carcinoid",
-        "opc": "Small cell carcinoma",
-        "opd": "Large cell neuroendocrine carcinoma",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "5e484a44-1a0b-44fb-a81f-21f9250b5191",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a functional investigation:",
         "exp": "Ans. (d) PET scan* Positron emission tomography (PET) is a nuclearmedical imaging modality that produces a three-dimensional image of functional processes in the body* The most common indication for a PET scan is to detect cancer metastasis.* The technique operates on the principle of detecting gamma rays emitted indirectly by a positron-emitting radionuclide (tracer).* Three dimensional imaging is done with the aid of a CT X-ray scan performed on the patient during the same session.* The biologically active molecule chosen for PET is FDG (18-Fluoro deoxy glucose), an analogue of glucose, the concentrations of tracer imaged will indicate tissue metabolic activity by virtue of the regional glucose uptake.* ALSO REMEMBER: Functional magnetic resonance imaging or functional MRI (f. MRI) is an imaging procedure that measures brain activity by detecting associated changes in blood flow. This technique relies on the fact that cerebral blood flow and neuronal activation are coupled.",
         "cop": 4,
@@ -544,31 +310,5 @@
         "topic_name": "Nuclear Medicine",
         "id": "62f74e2e-e87d-47d9-beb8-fe69ef4a1dfa",
         "choice_type": "single"
-    },
-    {
-        "question": "Hotspot in a heart is seen in which scan?",
-        "exp": "Tc 99m pyrophosphate scan is also known as myocardial infarct scan and it depicts the segments of myocardium involved with the infarction. Get deposited in the calcified changes associated with the infarction.",
-        "cop": 4,
-        "opa": "Gallium",
-        "opb": "Albumin labelled",
-        "opc": "Thallium",
-        "opd": "Tc pyrophosphate scan",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "d376e723-0667-4f66-881e-de12dda13d6d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Radioisotopes used in Myocardial perfusion imaging: Thallium 201 18 FDG PET Tc-99m Sestamibi Tc-99m Pyrophosphate Tetrafosmin N-13 Ammonium",
-        "exp": "- Thallium-201, Sestamibi, Tetrofosmin scan are used for Myocardial Perfusion Imaging. - Pyrophosphate scan for Myocardial Infarction. - 18 FDG PET is used to detect Myocardial Viability - N-13ammonia. PETmyocardial perfusion imaging(MPI) yields larger stressperfusiondefects than dipyridamole stress and might reflect the truemyocardialischemic burden.",
-        "cop": 2,
-        "opa": "1, 3, 4, 5",
-        "opb": "1, 2, 3, 4, 5, 6",
-        "opc": "1, 3, 5, 6",
-        "opd": "1, 3, 4, 5, 6",
-        "subject_name": "Radiology",
-        "topic_name": "Nuclear medicine",
-        "id": "443372cc-b626-4bbe-bd13-7ab9d8830ae0",
-        "choice_type": "multi"
     }
 ]

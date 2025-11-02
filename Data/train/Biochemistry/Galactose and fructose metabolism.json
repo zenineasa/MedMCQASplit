@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Inhibition of anaerobic glycolysis by increase supply of O2 is called:",
-        "exp": "Pasteur effect Warburg effect Crabtree Effect In aerobic conditions, glucose consumption decreases Or In the presence of O2, anaerobic glycolysis is inhibited Under aerobic conditions, glucose consumption increases Or Even In the presence of O2, anaerobic glycolysis is promoted (in cancer cells) If glucose increases, then O2 consumption falls Or When O2 supply is kept constant & glucose concentration is increased, then the O2 consumption by cell falls",
-        "cop": 2,
-        "opa": "Carbtree effect",
-        "opb": "Pasteur effect",
-        "opc": "Lewis effect",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Galactose and fructose metabolism",
-        "id": "809864c3-54d6-4310-9f6f-a474c6e2d2b7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The compound that regulates both glycolysis and gluconeogenesis is:",
-        "exp": "Fructose 2, 6 bisphosphate Potent activator of PFK-1 inhibitor of gluconeogenic enzyme fructose 1, 6 bisphosphatase. This helps in reciprocal regulation of glycolysis and gluconeogenesis.",
-        "cop": 2,
-        "opa": "Fructose-1, 6-bisphosphate",
-        "opb": "Fructose-2, 6-bisphosphate",
-        "opc": "Citrate",
-        "opd": "Glucose-6-phosphate",
-        "subject_name": "Biochemistry",
-        "topic_name": "Galactose and fructose metabolism",
-        "id": "1fac5200-59ef-4c69-af66-90617dd68d8a",
-        "choice_type": "multi"
-    },
-    {
         "question": "A child presents with hepatomegaly and bilateral lenticular opacities. Deficiency of which of the following enzyme will NOT cause such features:",
         "exp": "This is a case of galactosemia in which Liver is affected Oil drop cataract occurs. Glucokinase is not an enzyme of galactose metabolism. Rest all are enzymes of galactose metabolism, which can be deficient in galactosemia. GALACTOSEMIA: Galactose-1-phosphate uridyl transferase deficiency leads to classical galactosemia. It is an autosomal recessive disorder. Urinary reducing sugar (Benedict's test) and Mucic acid test is positive. Treatment is galactose - free diet.",
         "cop": 3,
@@ -63,19 +37,6 @@
         "topic_name": "Galactose and fructose metabolism",
         "id": "19e25fae-506a-4aa4-ac31-c57a81ddece5",
         "choice_type": "single"
-    },
-    {
-        "question": "Patient's blood glucose levels were normal by GOD - POD method. But urine shows positive Benedict's test. The reason for disparity in results is:",
-        "exp": "Benedict's test positive means reducing sugar is present in urine. Both fructose and galactose are reducing. But if blood glucose is normal, then it cannot be fructosemia because fructose accumulation causes hypoglycemia as fructose-1-P inhibits glycogenolysis by inhibiting Glycogen phosphorylase. So the answer is galactosemia, because in glactosemia, blood glucose is normal. In both fructosemia and galactosemia liver is affected but hypoglycaemia occurs only in fructosemia. (See fig below) NOTE: Benedict's test is not answered by sucrose since it's a non-reducing sugar.",
-        "cop": 3,
-        "opa": "False positive",
-        "opb": "Fructosemia",
-        "opc": "Galactosemia",
-        "opd": "Glucose intolerance",
-        "subject_name": "Biochemistry",
-        "topic_name": "Galactose and fructose metabolism",
-        "id": "6b994acc-4cbd-41e5-89f9-6779b8ca0c9c",
-        "choice_type": "multi"
     },
     {
         "question": "THEME AND FOCUS: METABOLISM OF CARBOHYDRATES Case Study: A 3 year old boy was brought to the emergency depament after several episodes of vomiting and lethargy. He was also found to have hypoglycemia. His pediatrician was concerned about possible hepatic failure along with recurrent episodes of vomiting and lethargy. After a careful history, it was observed that these episodes occur after ingestion of sweets or fruits. Lead Question: What is the most likely diagnosis?",

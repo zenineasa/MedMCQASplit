@@ -1,18 +1,5 @@
 [
     {
-        "question": "A patient presents with breathlessness. He has bilateral basal crepitations, lung function tests reveal a decrease in total lung capacity (TLC) and vital capacity (VC) with normal FEV1 /FVC ratio. What is the most likely diagnosis?",
-        "exp": "The presence of reduced TLC & VC points to Restrictive pattern and is confirmed by normal FEV1/FVC ratio. Cystic fibrosis & Chronic Bronchitis leads to Obstructive airway disease. ABPA causes central bronchiectasis and is a suppurative lung disease.",
-        "cop": 2,
-        "opa": "Chronic bronchitis",
-        "opb": "Idiopathic pulmonary fibrosis",
-        "opc": "Cystic fibrosis",
-        "opd": "Allergic bronchopulmonary aspergillosis",
-        "subject_name": "Medicine",
-        "topic_name": "Flow Volume curve, Spirometry and DLCO",
-        "id": "deab17c2-a2cb-40a6-80f1-64e43f1ad237",
-        "choice_type": "multi"
-    },
-    {
         "question": "The probable diagnosis in a patient with below given flow volume loop after spirometry?",
         "exp": "The probable diagnosis in this patient based on restrictive pattern in the flow volume loop is Myasthenia gravis Features of the flow volume loop above: Decreased TLC and Vital capacity Residual volume is elevated. Because of which loop is shifted to right side(Normally it is present in the center) All the above features are seen in restrictive type of lung disease Myasthenia gravis In it, Both lung recoil and passive chest wall recoil are normal. Respiratory muscle strength is insufficient to push the passive respiratory system fully toward either volume extreme Because of reduced muscle strength MG presents with restrictive pattern on flow volume loop. =Obstructive flow pattern seen in: Asthma, Emphysema, Endobronchial neoplasm.",
         "cop": 2,
@@ -37,71 +24,6 @@
         "topic_name": "Flow Volume curve, Spirometry and DLCO",
         "id": "ed628a89-8145-449c-9f63-83e3720deaeb",
         "choice_type": "single"
-    },
-    {
-        "question": "Alveolar-aerial tension gradient increases in all except?",
-        "exp": "Alveolar aeriolar gradient = p. AO2- p. AO2 Choices A, C, D will alter only pa02 leading to an increase in gradient. Higher the gradient more severe is the disease and would require ventilator suppo. Causes of increase alveolar aeriolar mismatch are: 1. V/Q Mismatch (e. g. PNA, CHF, ARDS, atelectasis) 2. Shunt (e. g. PFO, ASD, PE, pulmonary AVMs) 3. Alveolar Hypoventilation (e. g. interstitial lung disease, environmental lung disease) Remember that hypoventilation due to CNS diseases or neuromuscular disease will reduce the ventilatory drive and will lead to thereduction in both p. AO2 and p. AO2.",
-        "cop": 2,
-        "opa": "Diffusion defects",
-        "opb": "Central Hypoventilation",
-        "opc": "R-L Shunt",
-        "opd": "Ventilation-Perfusion abnormality",
-        "subject_name": "Medicine",
-        "topic_name": "Flow Volume curve, Spirometry and DLCO",
-        "id": "fd6f54f5-f0e6-4042-9805-942c8cca189c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The diffusion capacity of the lung is decreased in all of the following conditions except:",
-        "exp": "DLCO is increased in Goodpasture's since the basement membrane is damaged, thereby increasing the chances of diffusion of CO across lesser number of anatomical layers. DLCO is decreased in pulmonary aery hypertension since the fibrosis in pulmonary vessels will reduce the diffusion of CO across the anatomical layers. DLCO is decreased in patients with: Interstitial lung disease Emphysema (COPD usually have normal DLCO) Bronchiolitis obliterans Lymphangioleiomyomatosis Pulmonary hypertension Thromboembolic disease DLCO is increased in patients with: Alveolar hemorrhage Congestive heart failure Asthma",
-        "cop": 2,
-        "opa": "Interstitial lung disease",
-        "opb": "Goodpasture's syndrome",
-        "opc": "Pneumocystis jirovecii",
-        "opd": "Primary pulmonary hypertension",
-        "subject_name": "Medicine",
-        "topic_name": "Flow Volume curve, Spirometry and DLCO",
-        "id": "a0c2f683-e40d-428b-9814-96011fa46044",
-        "choice_type": "multi"
-    },
-    {
-        "question": "What is true for restrictive lung disease?",
-        "exp": "In Restrictive lung disease, parenchymal involvement will lead to pulmonary fibrosis and hence it will be difficult to inflate the lung leading to the reduction in lung compliance. The FEV1/ FVC ratio is increased in restrictive lung disease because the numerator and denominator in the ratio are both reduced in restrictive lung disease, with FVC decreasing dispropoionately.",
-        "cop": 4,
-        "opa": "FEV1/FVC decreased, compliance normal",
-        "opb": "FEV1/FVC increased, compliance increased",
-        "opc": "FEV1/FVC decreased, compliance increased",
-        "opd": "FEV1/FVC increased, compliance decreased",
-        "subject_name": "Medicine",
-        "topic_name": "Flow Volume curve, Spirometry and DLCO",
-        "id": "d305c56e-422f-4e2a-8062-a43b6d9697ff",
-        "choice_type": "multi"
-    },
-    {
-        "question": "If FEV1 is 1. 3 L, FVC is 3. 1 L in an adult man, the pattern is suggestive of:",
-        "exp": "Obstructive lung disease:- - FEV1 is reduced due to obstruction of air escaping from the lungs. Thus, FEV1/ FVC ratio will be reduced. Restrictive lung disease:- - FEV1 and FVC are equally reduced due to fibrosis or other lung pathology. Thus, FEV1/FVC ratio -normal or even increased. In this question, a ratio of 1. 3/3. 1 is about 40% in contrast to a normal of > 80%.",
-        "cop": 3,
-        "opa": "Normal lung function",
-        "opb": "Restrictive lung disease",
-        "opc": "Obstructive lung disease",
-        "opd": "None of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Flow Volume curve, Spirometry and DLCO",
-        "id": "a3a188a9-fe16-4658-9fbe-714c7c32bb7f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of these pulmonary changes are seen in restrictive lung disease except:",
-        "exp": "Vital capacity is sum of ERV + TV + IRV. All these lung volumes are Reduced in Restrictive lung disease due to pulmonary fibrosis. Do not mix with Timed vital capacity which is a ratio of FEV1/ FVC and is increased in restrictive lung disease.",
-        "cop": 4,
-        "opa": "|FEV1/FVC",
-        "opb": "|TLC",
-        "opc": "|RV",
-        "opd": "| VC",
-        "subject_name": "Medicine",
-        "topic_name": "Flow Volume curve, Spirometry and DLCO",
-        "id": "89b26b03-3517-446a-8c9e-82e00f17b3a6",
-        "choice_type": "multi"
     },
     {
         "question": "Maximum oxygen concentration can be delivered by?",

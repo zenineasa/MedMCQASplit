@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is True about dobutamine?",
-        "exp": "Ref: HL Sharma 3rd ed pg no: 177 Dobutamine is a derivative of dopamine and is a selective beta1 agonist. It causes an increase in the force of contraction without a significant increase in heart rate. It also produces some vasodilatation by stimulating the beta 2 receptors. It doesn't decrease kidney circulation.",
-        "cop": 1,
-        "opa": "Dobutamine decreases peripheral resistance",
-        "opb": "Acts on D1 and D2 receptors",
-        "opc": "Decrease kidney circulation",
-        "opd": "Has no effect on coronary circulation",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "e2fd6f27-7d7f-4716-aa70-ecba8b9eabad",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dry skin seen due to excess dosage of datura is due to",
         "exp": "One of the anticholinergic effects is dry skin due to absence of sweating due to blockade of m3 receptors on sweat glands Datura is nothing but atropine-anticholinergic drug Ref: KDT 6th ed pg 114-116",
         "cop": 2,
@@ -65,32 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Following a myocardial infarct, a 40-year-old man is being treated prophylactically with propranolol. You would be concerned about the use of this drug if the patient also had what comorbid condition",
-        "exp": "Metabolic actions:- Propranolol inhibits glycogenolysis in heart, skeletal muscles and in liver, which occurs due to Adr release during hypoglycaemia--recovery from insulin action is delayed. Warning signs of hypoglycaemia mediated through sympathetic stimulation (tachycardia, tremor) are suppressed in patients taking beta blockers like propranolol, so it should be cautiously used in patients with diabetes. Ref:- kd tripathi; pg num:-145, 146",
-        "cop": 3,
-        "opa": "Glaucoma",
-        "opb": "Essential tremor",
-        "opc": "Diabetes",
-        "opd": "Supraventricular tachycardia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "d446048b-0034-4303-8417-5ef013eb95af",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Norepinephrine is metabolized by which of the following enzymes",
-        "exp": "Both COMT and MAO breakdown norepinephrine. Ref:- KD Tripathi",
-        "cop": 3,
-        "opa": "COMT",
-        "opb": "MAO",
-        "opc": "Both",
-        "opd": "Neither",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "570cb668-667f-4c91-8344-963ebb06c7a8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Pilocarpine reduce the intraocular pressure in person with closed angle glaucoma by",
         "exp": "Refer k. DT 7/e p 156 It has also been used in the treatment of chronic open-angle glaucoma and acute angle-closure glaucoma It acts on a subtype of muscarinic receptor (M3) found on the iris sphincter muscle, causing the muscle to contract -resulting in pupil constriction (miosis). Pilocarpine also acts on the ciliary muscleand causes it to contract. When the ciliary muscle contracts, it opens the trabecular meshwork through increased tension on the scleral spur. This action facilitates the rate that aqueous humor leaves the eye to decrease intraocular pressure",
         "cop": 3,
@@ -102,19 +63,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "eb77de2e-b112-48a9-a06f-17f6eb732342",
         "choice_type": "single"
-    },
-    {
-        "question": "Edrophonium binds to which site of Acetylcholinesterase",
-        "exp": "Edrophonium is ultra sho-acting acetylcholinesterase drug which binds only to anionic site Ref: KDT 6th ed pg 104",
-        "cop": 1,
-        "opa": "Anionic site",
-        "opb": "Esteric site",
-        "opc": "Both the sites",
-        "opd": "Doesn't bind to any site",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "f3219196-36ba-47a8-9670-22775215f588",
-        "choice_type": "multi"
     },
     {
         "question": "The most impoant action of beta-blockers in glaucoma is:",
@@ -141,19 +89,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "6a33a749-4f99-455d-8bd3-7aafbcdd3dec",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following drugs should be given in a patient with acute angle closure glaucoma. except",
-        "exp": "Three drugs in the option i. e clozapine, fluph fluphen, paroxentine have anti-cholinergic propeies and should be avoided in angle closure glaucoma. Ref-KDT 6/e p426",
-        "cop": 1,
-        "opa": "Pilocarpine",
-        "opb": "Clozapine",
-        "opc": "Fluphenazine",
-        "opd": "Paroxentine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "5b9579e8-d52e-44ac-b3e5-3f2e4a5bc4e1",
-        "choice_type": "multi"
     },
     {
         "question": "Botulinum toxin acts by",
@@ -195,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Cholinomimetic drugs can be used for treatment of all of the following conditions except",
-        "exp": "Refer k. DT 6/e p 104 Cholinomimetic drugs can cause bradycardia as an adverse effect and this cannot be used for the treatment",
-        "cop": 2,
-        "opa": "Closed angle glaucoma",
-        "opb": "Bradycardia",
-        "opc": "Cobra bite",
-        "opd": "Myasthenia gravis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "46d9cde3-5184-4b1b-a958-4f8757f24153",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a mydriatic drug with longest duration of action",
         "exp": "Ref: HL Sharma 3rd ed: Pg no: 152 Tropicamide is the shoest acting, so very commonly used for fundoscopy atropine is the longest acting - acts for 1 week not commonly used for adults, used only for children for fundoscopy - 1% atropine ointment",
         "cop": 4,
@@ -245,19 +167,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "d15f7cba-283c-4014-96b5-cdb6a4e53f55",
         "choice_type": "single"
-    },
-    {
-        "question": "The drug which inhibits the rate-limiting step of acetylcholine synthesis is",
-        "exp": "Rate limiting step is mediated by choline acetyltransferase which is blocked by hemicholinium. Ref: KD T ripathi 8th ed.",
-        "cop": 2,
-        "opa": "Vesamicol",
-        "opb": "Hemicholinium",
-        "opc": "Botulinum toxin",
-        "opd": "Cocaine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "cb386a79-982e-412d-a4c3-788e55412c25",
-        "choice_type": "multi"
     },
     {
         "question": "The dose of Dopamine used for renal vasodilatation is?",
@@ -325,19 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following are contraindications to beta-blockers except ( REPEAT)",
-        "exp": "Beta blockers are used In the treatment of tachycardia as they are sympatholytics.",
-        "cop": 2,
-        "opa": "Bradycardia",
-        "opb": "Tachycardia",
-        "opc": "Bronchial asthma",
-        "opd": "Raynaud's disease",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "702c9a7b-3d2d-4ad5-82fe-176ddb8b3c58",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is the binding site of organophosphorous compounds",
         "exp": "Ref: HL Sharma 3rd ed: Pg no: 147 OP compounds binds to esteric site of ACHE carbamates binds to both anionic and esteric sites of ACHE oximes binds to anion site of ACHE",
         "cop": 2,
@@ -362,19 +258,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "414be883-45d7-4413-8d1b-eba2753ccab4",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following agents are used in glaucoma treatment, except",
-        "exp": "Ref: KD Tripathi 7th edition (page. no: 127, 144, 153) Katzung 10/e p103 metoprolol is b1 selective blocker, so it can't be used for glaucoma. b2 receptor is present in the eye. so drugs acting on beta 2 should be given. Other drugs used for glaucoma are- b blocker- Timolol, Betaxolol, a agonist; Apraclonidine, Brimonidine, PG analogue; Latanoprost, Bimatoprost, Carbonic anhydrase inhibitors; acetazolamide, Dorzolamide, Miotics; Pilocarpine",
-        "cop": 4,
-        "opa": "Apraclonidine",
-        "opb": "Timolol",
-        "opc": "Pilocarpine",
-        "opd": "Metoprolol",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "fea332b4-7a9e-4df8-ac1b-ae0497a6dd7a",
-        "choice_type": "multi"
     },
     {
         "question": "Lid retraction is caused by?",
@@ -546,45 +429,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Alpha 2 agonist cause all of the following Except",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 384) Alpha 2 agonists produce sedation, analgesia, anxiolysis, muscle relaxation, decreases BP they will not increase pain or produce Hyperalgesia eg: clonidine, dexmedetomidine, methyldopa etc",
-        "cop": 2,
-        "opa": "Analgesia",
-        "opb": "Hyperalgesia",
-        "opc": "Sedation",
-        "opd": "Anxiolysis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "03c21cb9-5154-44e8-b6b9-50eace7cb387",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statements about neostigmine are",
-        "exp": "(Ref. KDT6/e p101-102; Lee 12/ep217) Neostigmine is a reversible cholinesterase inhibitor. It is a quaernary ammonium compound. (lipid insolube agent), so it does not cross blood-brain-barrie. It is paly hydrolyzed by serum cholinesterase and paly excreted unchanged by the kidneys. It possesses some agonistic action on NM receptors.",
-        "cop": 1,
-        "opa": "It is a quaternary ammonium compounds",
-        "opb": "It is metabolized by the liver",
-        "opc": "It can cross the blood brain barrier",
-        "opd": "Prominent effect on cardiac muscle",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "2c6fd3d2-c26a-471a-80c9-2012cc872258",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is a prodrug of adrenaline used topically in glaucoma",
-        "exp": "a Adrenergic agonists Dipivefrine:- It is a prodrug of Adr; penetrates cornea and is hydrolysed by the esterases present there into Adr. The released Adr (from dipivefrine) lowers i. o. t. by augmenting uveoscleral outflow, b2 receptor mediated increase in hydraulic conductivity of trabecular filtering cells, as well as by reducing aqueous formation (a1 + a2 receptor mediated). Though better tolerated and longer acting than Adr, dipivefrine still produces significant ocular burning and other side effects. Ref:- kd tripathi; pg num:-154",
-        "cop": 2,
-        "opa": "Dorzolamide",
-        "opb": "Dipivefrine",
-        "opc": "Phenylpropanolamine",
-        "opd": "Brimonidine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "90055562-2e77-4b0f-be0e-3fb13da2c32f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drug increases gastro -intestinal motility",
         "exp": "ref; KD Tripathi 7the edition pharmacology (page no; 471, 114, 103) Constipation is a prominent feature of Fentanyl action. Acts on intestines and in CNS-increases tone and segmentation but decreases propulsive movements. Atropine and Glycopyrrolate are anticholinergics. All visceral smooth muscles that receive parasympathetic motor innervation are relaxed by anticholinergics (M3 blockade). Tone and amplitude of contractions of stomach and intestine are reduced; the passage of chyme is slowed-constipation may occur, Neostigmine is an anticholinesterase. Smooth muscle in most organs is contracted (mainly through M3 receptors). Tone and peristalsis in the gastrointestinal tract are increased and sphincters relax=abdominal cramps and evacuation of bowel.",
         "cop": 3,
@@ -650,19 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are used in glaucoma treatment except",
-        "exp": "Refer katzung 10e p103, 152, k. DT 6/e p144/147 Metoprolol is a Beta blocker with local anaesthetic propey. Such beta blockers are not indicated in glaucoma Apraclonidine (alpha 2 agonist), timolol (Beta blocker with local anaesthetic propey), and (pilocarpine directly acting miotic) are used in glaucoma",
-        "cop": 4,
-        "opa": "Apraclonidine",
-        "opb": "Timolol",
-        "opc": "Pilocarpine",
-        "opd": "Metoprolol",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "300f7911-b02c-4226-9e17-7c0fe458871b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Select the diuretic that is most effective in acute congestive glaucoma",
         "exp": "Angle closure (narrow angle, acute congestive) glaucoma It occurs in individuals with a narrow iridocorneal angle and shallow anterior chamber. The i. o. t. remains normal until an attack is precipitated, usually by mydriasis. The i. o. t. rises rapidly to very high values (40-60 mm. Hg). It is an emergent condition with marked congestion of eyes and severe headache. Treatment:- 1. Hypeonic mannitol (20%) 1. 5-2 g/kg or glycerol (10%): infused i. v. decongest the eye by osmotic action. 2. Acetazolamide:- 0. 5 g i. v. followed by oral twice daily is staed concurrently. 3. Miotic:- Once the i. o. t. stas falling due to the above i. v. therapy, pilocarpine 1-4% is instilled every 10 min initially and then at longer intervals. Contraction of sphincter pupillae changes the direction of forces in the iris tolessen its contact with the lens and spreads the iris mass centrally - pupillary block is removed and iridocorneal angle is freed. 4. Topical b blocker:- Timolol 0. 5% is instilled 12 hourly in addition. 5. Apraclonidine (1%)/latanoprost 0. 005% instillation may be added. Drugs are used only to terminate the attack of angle closure glaucoma. Definitive treatment is surgical or laser iridotomy. Ref:- kd tripathi; pg num:-155, 156, 157",
         "cop": 4,
@@ -715,19 +546,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are actions of muscarinic antagonists except",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 114, 115) Actions of Muscuranic antagonists (atropine) are CNS stimulation CVS: the prominent effect is tachycardia by decreasing the refractory period of the AV node and facilitate AV conduction. Gland; decrease sweat, salivary, tracheobronchial and lacrimatory secretion Smooth muscle: decrease tone and contraction Eye; mydriasis by contraction of the radial muscle of iris Rise in body temperature",
-        "cop": 2,
-        "opa": "Decreases gastric secretion",
-        "opb": "prolongs AV conduction",
-        "opc": "Decreases tracheobronchial secretions",
-        "opd": "Causes contraction of radial muscle of iris",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "832ad994-b90d-4231-95af-d60858fd29ea",
-        "choice_type": "multi"
-    },
-    {
         "question": "Sho acting mydriatic used in fundoscopy is:",
         "exp": "Ref: KD Tripathi pharmacology 6th edition (page. no: 111) Tropicamide has the quickest (20-40 min) and briefest (3--6 hours) action but is a relatively unreliable cycloplegic. However, it is satisfactory for refraction testing in adults and as sho acting mydriatic for fundoscopy. in children, atropine ointment is used for fundoscopy as the ciliary tone is high among them.",
         "cop": 4,
@@ -739,45 +557,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "14b20f2a-244e-453e-87a3-e8744ac5a453",
         "choice_type": "single"
-    },
-    {
-        "question": "Beta blockers are indicated for all of the following conditions EXCEPT:",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 150) beta blockers used in thyrotoxicosis because Propranalol inhibit peripheral conversion of T4 to T3 Other uses are Hypertension, Phaeochromocytoma, Anxiety, Alcohol withdrawal, Myocardial infarction, Angina pectoris, Poal hypertension etc",
-        "cop": 1,
-        "opa": "Hypothyroidism",
-        "opb": "Alcohol Withdrawal",
-        "opc": "Poal hypeention",
-        "opd": "Performance anxiety",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "74cf84d4-9d64-4f89-845d-e50fafb518fc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement about pralidoxime is:",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 30) Drugs facts and comparison 2010/599 Pralidoxime given during organophosphate poisoning attaches to anionic site of enzyme which remains unoccupied in presence of OP inhibitors. It's Oxime end react with phosphorus atom attached to the esteratic site. Oxime-Phosphonate so formed diffuses away leaving the reactivated ChE In the case of OP poisoning: Blood for drug level estimation should be taken at the earliest and then repeatedly to confirm the poisoning and to monitor the progress. When atropine and pralidoxime are used together, the signs of atropinization (flushing, mydriasis, tachycardia, dryness of the mouth and nose) may occur earlier than might be expected when atropine is used alone. This is especially true if the total dose of atropine has been large and the administration of pralidoxime has been delayed. It is used for nerve gases used in chemical warfare",
-        "cop": 4,
-        "opa": "Signs of atropinization occur more slowly when pralidoxime is used as compared to the use of atropine alone",
-        "opb": "It can be used for chlorinated pesticides",
-        "opc": "It should not used for nerve gases used in chemical warfare",
-        "opd": "Therapy with pralidoxime should ideally be monitored by measuring blood cholinesterase concentration",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "293389d9-66be-4355-b6eb-de56d6725ca7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drug used to perform stress ECHO is:",
-        "exp": "Dobutamine causes an increase in the force of contraction of the heart without a significant increase in heart rate. It causes a dose-related increase in FOC and HR. It is useful in CCF, acute MI, or following cardiac surgery when there may be pump failure. Since it's action is similar to that produced after exercise so used in stress Echo. Adenosine depresses AV conduction, suppresses automaticity, dilates coronaries and is used in arrhythmia. It can be used for a stress test but it's disadvantage is it's duration of action of about 10-20 sec. Adrenaline causes an increase in HR, FOC, CO and conduction velocity. The work done by the heart and resultant O2 consumption is increased. From medical pharmacology Padmaja 4th edition page no 97, 157",
-        "cop": 2,
-        "opa": "Thallium",
-        "opb": "Dobutamine",
-        "opc": "Adrenaline",
-        "opd": "Adenosin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "dc9d75b0-1439-4c38-9220-1a7e8eaf0357",
-        "choice_type": "multi"
     },
     {
         "question": "The main mechanism of hyperpyrexia induced by atropine is?",
@@ -819,19 +598,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Treatment of nicotine dependence includes all the following except",
-        "exp": "For nicotine dependence, nicotine is used in forms of transdermal patches, lozenges, inhalers and chewing gums Not as tablets Varenicline-paial agonist is also used for nicotine dependence Ref: Katzung 11th ed pg: 120-121",
-        "cop": 4,
-        "opa": "Nicotine patches",
-        "opb": "Nicotine gums",
-        "opc": "Varenicline",
-        "opd": "Nicotine tablets",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "764093f1-4550-4243-bc8e-3a4625e6acdb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Drug which is used as pre-anaesthetic medication?",
         "exp": "Glycopyrrolate is used as pre-anaesthetic medication, it is a quaernary amine which doesn't cross BBB and produce unnecessary CNS effects Ref: KDT 6th ed pg 109",
         "cop": 3,
@@ -843,19 +609,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "432dc6c0-f034-45b1-bd7a-f970ece9c1c5",
         "choice_type": "single"
-    },
-    {
-        "question": "Nicotinic receptor sites include all of the following except",
-        "exp": "Refer k. DT 7/e p 102 Nicotinic receptors are found in: The somatic nervous system (neuromuscular junctions in skeletal muscles). The sympathetic and parasympathetic nervous system (autonomic ganglia",
-        "cop": 1,
-        "opa": "Bronchial smooth muscle",
-        "opb": "Adrenal medulla",
-        "opc": "Skeletal muscle",
-        "opd": "Sympathetic ganglia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "a737cee6-c5dc-479c-8f0c-0b4883245ffb",
-        "choice_type": "multi"
     },
     {
         "question": "A patient complains of muscle weakness it was reversed on administration of neostigmine, because",
@@ -910,19 +663,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Uses of alpha 2 agonists are all EXCEPT",
-        "exp": "Alpha 2 antagonists like prazosin, tamsulosin are used in BPH, as they relax urinary bladder neck and the prostate capsule. All the others are the uses of alpha 2 agonists. From medical pharmacology Padmaja 4th edition page no 101, 103",
-        "cop": 3,
-        "opa": "To produce sedation",
-        "opb": "Glaucoma",
-        "opc": "Benign hyperplasia of prostate",
-        "opd": "Hypertension",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "f1f34c9c-3c84-440f-a44c-cecd64f27979",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dopamine is preferred in treatment of shock because of",
         "exp": "ref; KD Tripathi 6th edition pharmacology (page no; 134) Dopamine (DA) is a dopaminergic (D1 and D2) as well as adrenergic alps 1 &b 1 (but not b2 ) agonist. The D1 receptors in renal and mesenteric blood vessels are the most sensitive: i. v. infusion of a low dose of DA dilates these vessels (by raising intracellular c. AMP). This increases GFR and Na+ excretion.",
         "cop": 1,
@@ -934,19 +674,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "8d4ba708-7445-4634-8ec0-45e487a47ab1",
         "choice_type": "single"
-    },
-    {
-        "question": "The uses of anticholinergics include all the following except",
-        "exp": "Atropine is used in bradycardia as it increases heart rate by inhibiting m2 receptors on heart Ref: KDT 6th ed pg 106",
-        "cop": 3,
-        "opa": "Peptic ulcer",
-        "opb": "Motion sickness",
-        "opc": "Tachycardia",
-        "opd": "Spasmodic pain",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "d3c21293-5f5f-48d2-b5dd-15443ce34098",
-        "choice_type": "multi"
     },
     {
         "question": "The schematic diagram is depicting some features of autonomic and somatic nervous systems. The neurotransmitter at site 'F' is",
@@ -1001,19 +728,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is not true about dopamine action",
-        "exp": "Ref: HL Sharma 3rd ed pg no: 173 dopamine acts on D1, D2, Beta1, alpha1 alpha action is seen at high doses. It doesn't act on beta 2 or beta 3 receptors",
-        "cop": 4,
-        "opa": "D1 agonist",
-        "opb": "Alpha agonist",
-        "opc": "Beta 1 agonist",
-        "opd": "Beta 2 agonist",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "5887ec6a-60ee-4f25-8deb-08e9e81a6e1e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mechanism of action of pralidoxime is",
         "exp": "Refer k. DT 6/e p105, katzung 12e p116 pralidoxime and diacetyl monoxime Arey cholinesterase Re generator compounds used for organophosphorus poisoning",
         "cop": 4,
@@ -1066,19 +780,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The synaptic transmission in autonomic ganglia is usually",
-        "exp": "Ref: HL Sharma 3rd ed pg: 132 Major neurotransmitter is ACH followed by Nor epinephrine",
-        "cop": 3,
-        "opa": "Adrenergic",
-        "opb": "Mediated by NO",
-        "opc": "Cholinergic",
-        "opd": "None of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "16f05b7f-cca0-4f7a-9d95-63907c9f94e2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is the longest acting Beta-blocker",
         "exp": "Nadolol is a non-selective b-adrenergic antagonist that lacks intrinsic sympathomimetic activity and membrane-stabilizing propeies. Graeme Alexander, in Clinical Pharmacology (Eleventh Edition), 2012",
         "cop": 4,
@@ -1103,19 +804,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "3ff733f5-5928-429f-ab26-f04bd85685f9",
         "choice_type": "single"
-    },
-    {
-        "question": "Cholinomimetics are useful in all the following conditions except",
-        "exp": "Refer k. DT 7/e p108 Cholinergic drugs decreases the conduction from atrium to ventricle, thus they should be avoided in heart block Cholinergic drugs like pilocarpine and physostigmine are used in angle closure glaucoma. Neostigmine(Acetylcholinesterase inhibitor, a cholinergic drug)is used for treatment of Myasthenia Gravis Neostigmine is also used for post operative paralytic ileus and post operative urinary retention",
-        "cop": 4,
-        "opa": "Glaucoma",
-        "opb": "Myasthenia gravis",
-        "opc": "Post operative atony of bladder",
-        "opd": "Paial heart block",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "3127fbe6-0a2c-4c3a-9ea2-0de57992189d",
-        "choice_type": "multi"
     },
     {
         "question": "Drug of choice for poisoning with Amanita muscaria",
@@ -1144,19 +832,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Dexmedetomidine is a",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 384) Dexmedetomidine is a centrally active a2A agonist It is introduced for sedating critically ill/ventilated patients in the intensive care unit. It is used as an adjunct to anaesthesia. Analgesia and sedation are produced with little respiratory depression, amnesia, or anaesthesia",
-        "cop": 1,
-        "opa": "Centrally acting alpha 2 agonist",
-        "opb": "Peripherally acting alpha2 agonist",
-        "opc": "Centrally acting alpha 2 antagonist",
-        "opd": "Peripherally acting alpha 2 antagonist",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "1ffa1b11-0c2b-427c-952f-ee78fba0c1a2",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient presented in emergency with tachycardia, hypehermia, bronchial dilation and constipation. The person is likely to be suffering from overdose of",
         "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 114, 115) Actions of Muscarinic antagonist (atropine) CNS stimulation CVS: the prominent effect is tachycardia by abbretes refractory period of AV node and facilitate AV conduction Gland; decrease salivary, tracheobronchial and lacrimatory secretion, gastric secretions Smooth muscle: decrease tone and contraction, bronchodilatation, constipation Eye; mydriasis by contraction of longitudinal ciliary muscle Rise in body temperature (hypehermia)",
         "cop": 1,
@@ -1183,19 +858,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are cholinergic agents except I",
-        "exp": "Refer k. DT 6/e p 472, 473 Donepazil, rivastigmine, gallantamine and tacrine are cholinergic drugs( due to inhibition of cholenesterase enzyme)useful for Alzheimer's disease Memantine is an NMDA blocker, used for Alzheimer's disease",
-        "cop": 4,
-        "opa": "Galantamine",
-        "opb": "Donepezil",
-        "opc": "Tacrine",
-        "opd": "Memantine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "2d000c9d-6200-44a5-831c-9ab92d64000c",
-        "choice_type": "multi"
-    },
-    {
         "question": "In which of the following conditions, anti-muscarinic drugs are to be avoided",
         "exp": "Ref: HL Sharma 3rd ed pg no: 139 Mydriasis is seen in glaucoma causing increased IOP Antimuscarinics like atropine also increase IOP. so they are contraindicated cholinergic drugs like physostigmine can be used",
         "cop": 1,
@@ -1220,19 +882,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "85580af5-f283-44ca-90e4-c83d70951995",
         "choice_type": "single"
-    },
-    {
-        "question": "Which among the following is contraindicated in Myasthenia patient",
-        "exp": "Refer k. DT 6/e p 722 Aminoglycoside can result in neuromuscular blockade that can aggravate Myasthenia gravis",
-        "cop": 1,
-        "opa": "Aminoglycosides",
-        "opb": "Sulfonamides",
-        "opc": "Penicillin",
-        "opd": "All the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "89e8e2f1-423c-49b8-ac13-132487debc37",
-        "choice_type": "multi"
     },
     {
         "question": "The mydriatic drug with sho duration of action is",
@@ -1287,19 +936,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are used in organophosphorus poisoning except",
-        "exp": "Refer k. DT 7/e p 110, 111 Pharmacologic Treatment Atropine - The endpoint for atropine is dried pulmonary secretions and adequate oxygenation. Tachycardia and mydriasis must not be used to limit or to stop subsequent doses of atropine. The main concern with OP toxicity is respiratory failure from excessive airway secretions. Sta with a 1-2 mg IV bolus, repeat q3-5min prn for desire effects (drying of pulmonary secretions and adequate oxygenation). Consider doubling each subsequent dose for rapid control of patients in severe respiratory distress. An atropine drip titrated to the above endpoints can be initiated until the patient's condition is stabilized. Pralidoxime - Nucleophilic agent that reactivates the phosphorylated AChE by binding to the OP molecule. Used as an antidote to reverse muscle paralysis resulting from OP AChE pesticide poisoning but is not effective once the OP compound has bound AChE irreversibly (aged). Current recommendation is administration within 48 h of OP poisoning. Because it does not significantly relieve depression of respiratory center or decrease muscarinic effects of AChE poisoning, administer atropine concomitantly to block these effects of OP poisoning. Sta with 1-2 g (20-40 mg/kg) IV in 100 mL isotonic sodium chloride over 15-30 min; repeat in 1 h if muscle weakness is not relieved; then repeat q3-8h if signs of poisoning recur; other dosing regimens have been used, including continuous drip.",
-        "cop": 4,
-        "opa": "Pralidoxime",
-        "opb": "Atropine",
-        "opc": "Activated charcoal",
-        "opd": "Naltrexone",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "4834cf06-014b-46d5-8b64-85134c52a430",
-        "choice_type": "multi"
-    },
-    {
         "question": "Oxime is not useful in case of which poisoning",
         "exp": "Ref: HL Sharma 3rd ed pg no: 147 oximes are cholinesterase reactivators- not used in carbamate poisoning like carbaryl, propoxur as anionic site of ACHE is not free they can be used for OP poisoning",
         "cop": 2,
@@ -1337,19 +973,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "1212d005-5005-43dd-8e2e-3438afcefce7",
         "choice_type": "single"
-    },
-    {
-        "question": "Atropine is useful in organophosphate poisoning because it",
-        "exp": "Atropine acts as an antagonist at muscarinic receptors. It has no activity on nicotinic receptor and do not interfere with the release of ACh Ref-KDT 6/e p106",
-        "cop": 4,
-        "opa": "Reactivates Acetylcholineesterase",
-        "opb": "Competes with acetyl chloline release",
-        "opc": "Binds with both nicotinic and muscarinic acetylcholine receptors",
-        "opd": "Is a competitive antagonist of acetylcholine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "2191bbf2-1406-4a2f-87b0-595f47db7ffd",
-        "choice_type": "multi"
     },
     {
         "question": "Organophosphate sacked by inhibiting the enzyme acetylcholinesterase. Which type of enzyme inhibitors are they",
@@ -1495,19 +1118,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A child on Beta-2 agonists for the treatment of bronchial asthma may exhibit all of the following features EXCEPT:",
-        "exp": "ref; KD Tripathi Pharmacology 7th edition(page no; 132) Beta two agonists produce bronchodilatation. Muscle tremors are the dose-related side effect. Palpitation, restlessness, nervousness, throat irritation and ankle oedema can also occur. Beta-2 agonists produce glycogenolysis -hyperglycaemia",
-        "cop": 2,
-        "opa": "Tremors",
-        "opb": "Hypoglycemia",
-        "opc": "Hypokalemia",
-        "opd": "Bronchodilation",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "b1b1013a-0820-4f5e-8bae-a8874e8912f2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Contraindications to use of Beta Blockers",
         "exp": "* Bronchial asthma is an absolute contraindication of non selective beta Blockers - as they induce bronchoconstriction by knocking off beta 2 mediated adrenergic bronchodilation. Ref:- Sharma's Principles of Pharmacology 3rd Ed; Pg No:- 191-2",
         "cop": 1,
@@ -1625,32 +1235,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The rate-limiting step for nor-epinephrine synthesis is:",
-        "exp": "Ref: KD Tripathi Pharmacology 7th edition(page no; 125) Catecholamines like epinephrine, norepinephrine, dopamine are synthesized from the amino acid phenylalanine. Tyrosine hydroxylase is the rate-limiting enzyme and its inhibition by alpha-methyl-p-tyrosine results in depletion of norepinephrine Tyrosine hydroxylase helps in Conversion of tyrosine to DOPA",
-        "cop": 2,
-        "opa": "Conversion of phenylalanine to tyrosine",
-        "opb": "Conversion of tyrosine to DOPA",
-        "opc": "Conversion of DOPA to dopamine",
-        "opd": "Conversion of dopamine to norepinephrine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "10e0dbe9-3cda-4941-8564-c8cec40f8066",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which drug is not used in Alzheimer's disease",
-        "exp": "Refer k. DT 6/e p 102, 472, 473 Because of hepatotoxicity, and requirement of frequent dosing, Tekken is less often used than other agents",
-        "cop": 1,
-        "opa": "Tacrine",
-        "opb": "Gallantamine",
-        "opc": "Donepezil",
-        "opd": "Rivastigmine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "312ca7f9-9e67-431a-903e-159e988f3dfb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of these Is not an FDA approved indication for use of modafinil as an adjunct?",
         "exp": "Ref: KD Tripathi 7th edition Page no 487 Modafinil is a newer psychostimulant and it's approved indications are narcolepsy, sleep apnea syndrome and shift work syndrome. It is being evaluated as a drug to prevent relapse of cocaine dependence. It is not used for depression",
         "cop": 1,
@@ -1662,19 +1246,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "c0a5200c-f517-41fc-90da-0deccf9660d6",
         "choice_type": "single"
-    },
-    {
-        "question": "Cholinomimetics can be used for the treatment of following condition except",
-        "exp": "Chlolinometic drug will cause bradycardia as an adverse effect and thus cannot be used for its treatment Ref-KDT 6/e p104",
-        "cop": 2,
-        "opa": "Closed angle glaucoma",
-        "opb": "Bradycardia",
-        "opc": "Cobra bite",
-        "opd": "Myasthenia gravis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "8fbb5db0-c2e2-4e37-bd8d-173d0019dc95",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following agent is not used in erectiledysfunction:",
@@ -1703,19 +1274,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Pralidoxime is ineffective in case of which poisoning",
-        "exp": "Refer k. DT 6/e p 105 Carbaryl is a chemical in the carbamate family used chiefly as an insecticide.",
-        "cop": 2,
-        "opa": "Organophosphorous",
-        "opb": "Carbaryl",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "16043a07-a87e-49b2-8b00-14aac099ea41",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is beta antagonist?",
         "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 144) classification of b blockers: Nonselective (b 1 and b 2 ) a. Without intrinsic sympathomimetic activity; Propranolol, Sotalol, Timolol. b. With intrinsic sympathomimetic activity; Pindolol c. With additional a blocking propey; Labetalol, Carvedilol Cardioselective ( b1 ) Metoprolol, Atenolol, Acebutolol, Bisoprolol; Esmolol, Betaxolol, Celiprolol, Nebivolol beta -2-agonists- Salmeterol, Salbutamol",
         "cop": 2,
@@ -1742,32 +1300,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Synaptic transmission in the autonomic ganglion is usually",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 121) Katzung 10/e p76 Acetylcholine is the primary excitatory neurotransmitter in both sympathetic and parasympathetic ganglia Other adrenergic, peptidergic receptors bring secondary, slowly developing changes in membrane potential in ganglia",
-        "cop": 3,
-        "opa": "Adrenergic",
-        "opb": "peptidergic",
-        "opc": "Cholinergic",
-        "opd": "Mediated by substance P",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "0715de47-6ced-46c3-945d-8421b36a7284",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are anticholinergics except:",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 113) Anticholinergic drugs classification: 1. Natural alkaloids - Atropine, Hyoscine (Scopolamine). 2. Semisynthetic derivatives; Homatropine, Atropine methonitrate, Hyoscine butyl bromide, Ipratropium bromide, Tiotropium bromide. 3. Synthetic compounds (a) Mydriatics: Cyclopentolate, Tropicamide b) Antisecretory-antispasmodics: (i) Quaternary compounds: Propantheline, Oxyphenonium, Clidinium, Pipenzolate, methyl bromide, Isopropamide, Glycopyrrolate. (ii) Teiary amines: Dicyclomine, Valethamate, Pirenzepine. (c) Vasicoselective: Oxybutynin, Flavoxate, Tolterodine. (d) Antiparkinsonian: Trihexyphenidyl (Benzhexol), Procyclidine, Biperiden. Amphetamine is adrenergic drug",
-        "cop": 4,
-        "opa": "Ipratropium bromide",
-        "opb": "Dicyclomine",
-        "opc": "Atropine",
-        "opd": "Amphetamine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "fece3900-14b7-45a8-968f-e26b7d17bf9d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mydriatic with no cycloplegic effect is seen with",
         "exp": "Mydriasis with no loss of accommodation(cycloplegia) is seen with phenylephrine which is alpha agonist Ref: Katzung 11th ed pg 117",
         "cop": 2,
@@ -1779,45 +1311,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "d54d421c-8494-4104-8d29-854bf250e964",
         "choice_type": "single"
-    },
-    {
-        "question": "True about tachyphylaxis is:",
-        "exp": "Tachyphylaxis refers to rapid development of tolerance when doses of a drug repeated in quick succession result in marked reduction in response. This is usually seen with indirectly acting drugs, such as ephedrine, Tyramine, nicotine. From medical pharmacology padmaja 4th edition page no 70",
-        "cop": 4,
-        "opa": "Direct sympathomimetics involved",
-        "opb": "Mechanism clearly understood",
-        "opc": "Ephedrine tachyphylaxis reversed with dopamine",
-        "opd": "Indirect sympathomimetics involved",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "ee92d7d3-8499-4831-85ff-b8218eea3a88",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Salbutamol is preferred over adrenaline in an asthmatic due to:",
-        "exp": "Ans: B Salbutamol is more selective in its action- acts on beta 2 receptors on brochus adrenaline acts on all alpha and beta receptors",
-        "cop": 2,
-        "opa": "Sho acting",
-        "opb": "Adverse effects of adranaline",
-        "opc": "Safer",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "a15342b0-70fb-4130-ae5a-ed2e4c3dee21",
-        "choice_type": "multi"
-    },
-    {
-        "question": "ADRs of anticholinergics are all except",
-        "exp": "Diarrhoea is a cholinergic effect. not an anticholinergic effect Ref: KDT 6th ed pg 113",
-        "cop": 2,
-        "opa": "Dry mouth",
-        "opb": "Diarrhoea",
-        "opc": "Constipation",
-        "opd": "Sedation",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "63bcaeb6-9b40-44ef-adda-310f82e7806b",
-        "choice_type": "multi"
     },
     {
         "question": "A patient present to emergency with pinpoint pupil, salivation, lacrimation, tremors and red tears. Plasma cholinesterase level was 30% of normal. Most probable diagnosis is",
@@ -1872,19 +1365,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Clonidine has the following attributes except:",
-        "exp": "Clonidine is an alpha 2A receptor agonist. clonidine produces sedation due to decreased central sympathetic outflow The adverse effects of Clonidine- sedation, mental depression, dryness of mouth, nose and eyes( secretion is decreased by central action ). The alarming rise of BP, restlessness, nausea, vomiting, tachycardia, anxiety, sweating develop if Clonidine is missed for1-2 days. It is due to the sudden removal of central sympathetic inhibition resulting in a relapse of large quantities of stored CAs and also due to supersensitivity of peripheral adrenergic receptors to CAs that develops due to the chronic reduction of sympathetic tone during Clonidine therapy. From essential of medical pharmacology K D Tripati 7th edition page no 565",
-        "cop": 3,
-        "opa": "Acts on alpha2 adrenergic receptors",
-        "opb": "Can produce rebound hypertension on abrupt with- drawal",
-        "opc": "Can Produce CNS stimulation",
-        "opd": "Inhibits salivation",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "fc1d4cef-115d-4250-9e06-fcebecab7c77",
-        "choice_type": "multi"
-    },
-    {
         "question": "An example of covalent drug-receptor interaction is:",
         "exp": "ref; KD Tripathi Pharmacology 7th edition (page no; 60) A Nonequilibrium type of enzyme inhibition can also occur with drugs which react with the same catalytic site of the enzyme but either form strong covalent bonds or have such high affinity for the enzyme that the normal substrate is not able to displace the inhibitor, e. g. Organophosphates react covalently with the esteretic site of the enzyme cholinesterase. Methotrexate has 50, 000 times higher affinity for dihydrofolate reductase than the normal substrate DHFA. Phenoxybenzamine is a nonequilibrium antagonist of adrenaline at the alpha adrenergic receptor- irreversible inhibitor of alpha receptors",
         "cop": 4,
@@ -1909,19 +1389,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "34b68ecf-a836-41e8-b7bc-8cafa3c1acbd",
         "choice_type": "single"
-    },
-    {
-        "question": "True statement about Esmolol is/are:",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 148) esmolol is a selective beta1 blocker. so it is a cardioselective It is an ultrasho-acting beta 1 blocker Uses are LV decompensation, Supraventricular tachycardia, Atrial fibrillation or flutter",
-        "cop": 4,
-        "opa": "It is an alpha blocker",
-        "opb": "It has a long half life",
-        "opc": "It is not cardioselective",
-        "opd": "It is used in LV decompensation",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "c54e031d-80ce-45e4-9ffa-af1e98cc4367",
-        "choice_type": "multi"
     },
     {
         "question": "Select the drug which can improve urinary flow rate in benign prostatic hyperophy without affecting prostate size",
@@ -1961,19 +1428,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "cfed0a9f-1c8e-4e1a-8cdf-1de829b462b8",
         "choice_type": "single"
-    },
-    {
-        "question": "True statement about neostigmine aa",
-        "exp": "Refer k. DT 6/e p 101, 102 neostigmine is a reversible cholinesterase inhibitor. It is a quaernary ammonium compound(lipid insoluble agent) So it doesn't cross blood brain barrier It is paly hydrolysed by serum cholinesterase and paly excreted unchanged by the Kidneys It possesses some agonistic action on Nm receptors",
-        "cop": 1,
-        "opa": "It is quaternary Ammonium compounds",
-        "opb": "It is metabolized by liver",
-        "opc": "It can cross blood brain barrier",
-        "opd": "Prominent effect on cardiac muscle",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "6b307cf9-8763-4faa-bfcc-cd81ff9d7a81",
-        "choice_type": "multi"
     },
     {
         "question": "A 24 years old farmworker is rushed to a nearby emergency depament after accidental exposure to parathion. Which of the following drugs can be given to increase the activity of his anticholinesterases",
@@ -2067,19 +1521,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are cholinergic agents EXCEPT:",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 489) All these drugs are used in Alzheimer's disease. But only A, B, C increase cholinergic activity in Alzheimer's. Memantine is a Glutamate Antagonist. it is an NMDA blocker Examples of direct-acting cholinergic agents include choline esters (acetylcholine, methacholine, carbachol, bethanechol, tacrine) and alkaloids (muscarine, pilocarpine, cevimeline)",
-        "cop": 4,
-        "opa": "Gallantamine",
-        "opb": "Donepezil",
-        "opc": "Tacrine",
-        "opd": "Memantine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "8795ff49-b506-4f11-a04c-835d6d855854",
-        "choice_type": "multi"
-    },
-    {
         "question": "The action of botulinum toxin is through wof mechanisms",
         "exp": "Botulinum toxin Botulinum toxin A and B are highly potent exotoxins produced by Clostridium botulinum that are responsible for 'botulism' (a type of food poisoning). mech of action:- These neurotoxic proteins cause long-lasting loss of cholinergic transmission by interacting with axonal proteins involved in exocytotic release of ACh. uses:- In the treatment of a number of spastic and other neurological conditions due to overactivity of cholinergic nerves, like blepharospasm, spastic cerebral palsy, strabismus, spasmodic toicollis, nystagmus, hemifacial spasm, post stroke spasticity, spasmodic dysphonia, axillary hyperhydrosis, etc. It is increasing being employed as beauty treatment by removal of age-related facial wrinkles. Ref:- kd tripathi; pg num:-99, 100",
         "cop": 4,
@@ -2104,19 +1545,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "cb17cf0d-5985-4a45-9937-c1ce7c944b2d",
         "choice_type": "single"
-    },
-    {
-        "question": "Cholinergic drugs are used in all the following conditions except",
-        "exp": "Cholinergic drugs produce bradycardia by acting on M2 receptors on heart Ref: KDT 7th ed pg 101",
-        "cop": 4,
-        "opa": "Cobra Bite",
-        "opb": "Post operative paralytic ileus",
-        "opc": "Glaucoma",
-        "opd": "Bradycardia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "6125acc0-1459-4c04-a31c-ededbcaa99f7",
-        "choice_type": "multi"
     },
     {
         "question": "Conversion of norepinephrine to epinephrine occur by",
@@ -2158,19 +1586,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following cholinomimetics activates both muscarinic and nicotinic receptors?",
-        "exp": "Carbachol is a parasympathomimetic that mimicks the effect of Ach on both muscarinic and nicotinic receptors. It is a synthetic choline ester where others act on muscarinic receotors only. <img class=\"fr-fic fr-dib\" style=\"width: 300px;\" src=\" />Ref: Katzung 13e pg: 108",
-        "cop": 4,
-        "opa": "Methacholine",
-        "opb": "Bethanechol",
-        "opc": "Pilocarpine",
-        "opd": "Carbachol",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "a33b5447-0ea0-4c4a-94d3-26d154e5e002",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following beta blocker is NOT considered cardio-selective?",
         "exp": "Labetalol, carvedilol, nebivolol are alpha PLUS beta blockers. betaxolol, bisprolool, atenolol, esmolol, meoprolol are considered cardio selective. Ref: KD Tripathi 8th ed.",
         "cop": 4,
@@ -2184,19 +1599,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True statement regarding use of adrenaline in anlhylactic shock is:",
-        "exp": "Adrenaline is the drug of choice in anaphylactic shock 0. 3 - 0. 5 ml of 1: 1000 solution. IM is the preferred route as absorption by subcutaneous route is not reliable in shock. It is not repeated every 2-4 hours. From medical pharmacology padmaja 4th edition page no 96",
-        "cop": 1,
-        "opa": "The usual dose is O. 5-1 mg by i. m. route",
-        "opb": "Cerebral hemorrhage never Occurs as an adverse effect to epinephrine when used in treatment of anaphylactic shock",
-        "opc": "It is repeated after every 2-4 hours",
-        "opd": "Same solution can be given for s. c. as well as i. v. route",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "3cb3ba47-a5c3-4b19-8a4a-2b41686b7617",
-        "choice_type": "multi"
-    },
-    {
         "question": "1st dose hypotension is commonly seen with",
         "exp": "Alpha blockers produce 1st dose hypotension. also seen with ACE inhibitors. hence there are to be given when the patient is in supine position and asked to be taken care not to stand immediately so preffered to be given at night. Ref: KD Tripathi 8th ed.",
         "cop": 2,
@@ -2208,19 +1610,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "99c2d076-514f-43dd-83b7-753215e2578a",
         "choice_type": "single"
-    },
-    {
-        "question": "True statement about a pralidoxime is",
-        "exp": "(Rf: KDT 6/e p105, Drug facts and comparison2010/599) Pralidoxime is ACh esterase reactivator used for organophosphate poisoning. Blood cholinesterase levels can be used to monitor therapy, however RBC cholinesterase levels better reflect ACh esterase activity than serum or plasma levels because with chronic exposire to organo-phosphates, serum levels may return to normal but RBC levels remain depressed. Chlorinated pesticides like DDT are CNS stimulants and their overdose is treated by diazepam like drugs. Pralidoxime has no role in their treatment. Nerve gases used in warfare act bv inhibiting acetylcholinesterase. Atropine and oximes are used for their treatment. When atropine and pralidoxime are used together, the signs of atropinization may occur earlier than might be expected when atropine is used alone.",
-        "cop": 4,
-        "opa": "Signs of atropinization occur more slowly when pralidoxime is used as compared to the use of atropine alone",
-        "opb": "It can be used defect chlorinated pesticides",
-        "opc": "It should not used for nerve gases used in chemical warfare",
-        "opd": "Therapy with pralidoxime should ideally be monitored by measuring blood chlolinesterase concentration",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "26360d82-3c39-4ea7-92bb-9fab75fbec36",
-        "choice_type": "multi"
     },
     {
         "question": "which of the following drug binds only with the aniotic site of cholinesterase?",
@@ -2314,19 +1703,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Clonidine is used for:",
-        "exp": "ref; KD Tripathi 7the edition pharmacology (page no; 565, 567) Clonidine is an imidazoline derivative and agonist for a2 receptors, especially a2A subtype the in brainstem. uses: Opioid withdrawal, Alcohol withdrawal, Postoperative analgesia, Control loose motion due to Diabetec neuropathy, Migraine, hypertension (nowadays not used due to withdrawal hypertension), post menopausal hot flushes",
-        "cop": 4,
-        "opa": "Migraine",
-        "opb": "Opioid withdrawal syndrome",
-        "opc": "Diabetic diarrhea",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "85f98c11-843b-47ab-ab01-ca3a6449b133",
-        "choice_type": "multi"
-    },
-    {
         "question": "Children are more susceptible than adults to the following action of atropine",
         "exp": "PHARMACOLOGICAL ACTIONS (Atropine as prototype) Body temperature:- Rise in body temperature occurs at higher doses. It is due to both inhibition of sweating as well as stimulation of temperature regulating centre in the hypothalamus. Children are highly susceptible to atropine fever. Ref:- kd tripathi; pg num:-115",
         "cop": 3,
@@ -2418,19 +1794,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following drugs are used for detrussor instability except",
-        "exp": "Refer k. DT 6/e p 111 Anticholinergic drugs decrease the mobility of urinary tract and thus result in urinary retention (hence contraindicated in BPH) Dicyclomine, flavoxate and oxybutynin are useful for the treatment of urinary incontinence due to detrussor instability Duloxetine is an SSRI used for the treatment of depression",
-        "cop": 4,
-        "opa": "Solefenacin",
-        "opb": "Tolterodine",
-        "opc": "Flavoxate",
-        "opd": "Duloxetine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "9949bc6f-c835-4ef6-ab1b-bb0525aadcf2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Drug commonly used in the treatment of iridocyclitis is",
         "exp": "Atropine is used in iridocyclitis to break adhesions in the uveal tract Ref: KDT 6th ed pg 116",
         "cop": 2,
@@ -2494,19 +1857,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "adbc3566-e8c2-4b6c-bf18-1704d34920ca",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following drug should be avoided in a patient with acute angle closure glaucoma. except",
-        "exp": "Three drugs given in the option that is clozapine, fluphenazine and paroxetine has anti cholinergic propeies and should be avoided in angle closure glaucoma. Refer katzung 10e p461 KDT 6/e p426",
-        "cop": 1,
-        "opa": "Pilocarpine",
-        "opb": "Clozapine",
-        "opc": "Fluphenazine",
-        "opd": "Paraxetine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "b2592db6-b672-41b7-a02a-079d893b7d39",
-        "choice_type": "multi"
     },
     {
         "question": "Selective alpha 2 agonist is",
@@ -2639,19 +1989,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following drugs cause aeriolar dilatation except",
-        "exp": "Nitrates are primary venodilators. Nefidipine is a calcium channel blocker and aeriolar dilator. Fenoldopam, minoxidil also cause vasodilation. Ref: KD Tripathi; 6th ed, pg 540",
-        "cop": 4,
-        "opa": "Hydralazine",
-        "opb": "Diazoxide",
-        "opc": "Nifedipine",
-        "opd": "Glyceryl trinitrate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "abeb13cf-c262-4fc6-8b1b-3ab62fd9c9eb",
-        "choice_type": "multi"
-    },
-    {
         "question": "The antianginal effect of b-blockers may be attributed to which one of the following",
         "exp": "The beneficial effects of b-blocking agents are related to their hemodynamic effects--decreased heart rate, blood pressure, and contractility--which decrease myocardial oxygen requirements at rest and during exercise. Lower heart rate is also associated with an increase in diastolic perfusion time that may increase coronary perfusion. Undesirable effects of b-blocking agents in angina include an increase in end-diastolic volume and an increase in ejection time, both of which tend to increase myocardial oxygen requirement. Ref: Katzung 13e pg: 203",
         "cop": 2,
@@ -2702,58 +2039,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "f61a68e2-19ec-41a0-a019-48e26d92cbe8",
         "choice_type": "single"
-    },
-    {
-        "question": "Fundoscopic examination is typically done in 35yr old male using",
-        "exp": "IN adults fundoscopic examination is done usually with tropicamide eye drops as onset of action is within 15 to 20 min and the duration of action is sho when compared to other drugs Ref: KDT 6th ed pg 115",
-        "cop": 3,
-        "opa": "Homatropine",
-        "opb": "Phenylephrine",
-        "opc": "Tropicamide",
-        "opd": "Atropine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "f08ff820-b74f-466c-992a-02ede738d13b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statement is not true regarding dobutamine",
-        "exp": "Dobutamine is a derivative of D. A but not a D1 or D2 receptor agonist. It is a selective beta 1 agonist. It so less arrhythmogenic than adrenaline. From essential of medical pharmacology K D Tripati 7th edition Page no 134",
-        "cop": 1,
-        "opa": "Agonist of D1 and D2 receptors",
-        "opb": "Derivative of dopamine",
-        "opc": "Selective beta-agonistic action",
-        "opd": "Reduced chances of arrhythmia than adrenaline",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "c51a9898-ef75-4091-a02a-5938c0623db4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which antiglaucoma drugs can be used in Asthamatic patient",
-        "exp": "Refer k. DT 6/e p 145 Betaxolol is a selective beta1 receptor blocker used in the treatment of hypertension and glaucoma. Being selective for beta1 receptors, it typically has fewer systemic side effects than non-selective beta-blockers, for example, not causing bronchospasm as timolol may",
-        "cop": 2,
-        "opa": "Timolol",
-        "opb": "Betoxolol",
-        "opc": "Propanolol",
-        "opd": "All the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "1bbdfb45-5105-4aaa-9ed8-7096aa6c7963",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following drugs are useful in destrussor instability EXCEPT:",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 117, 118, 462) Vesicoselective drugs are used for detrusor instability resulting in urinary frequency and urge incontinence. It selectively blocks M1/M3 subtypes. Example are Oxybutynin, Tolterodine, Flavoxate, Darifenacin, Drotaverine, Solifenacin. Duloxetine is an SNRI. it is neither sedative nor anticholinergic, nor antihistaminic, nor a blocker",
-        "cop": 4,
-        "opa": "Solefenacin",
-        "opb": "Tolterodine",
-        "opc": "Flavoxate",
-        "opd": "Duloxetine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "40680abf-584e-4c47-b2eb-abf250c92111",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is the shoest acting mydriatic?",
@@ -2808,19 +2093,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are therapeutic uses of prazosin except:",
-        "exp": "Prazosin is a highly selective alpha 1 blocker. It blocks vasoconstriction in peripheral vascular disorders like Raynaud's alpha 1 receptor stimulation- vasoconstriction blockade- vasodilatation Pheochromocytoma is a tumour of adrenal medullary cells that cause excess catecholamine secretion that result in intermittent or persistent hypertension. Scorpion sting causes hypertension that can be treated with prazosin. From essential of medical pharmacology K D Tripathi 7th edition page no 142, 143",
-        "cop": 3,
-        "opa": "Peripheral vascular disease",
-        "opb": "Phaeochromocytoma",
-        "opc": "Lupus Erythematosus",
-        "opd": "Scorpion sting",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "e8afd023-3773-461e-b6f9-18520964e7b7",
-        "choice_type": "multi"
-    },
-    {
         "question": "Idazoxan is a (REPEAT)",
         "exp": "Yohimbine, idazoxan -selective alpha 2 blockers.",
         "cop": 3,
@@ -2873,19 +2145,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are actions of muscarinic antagonist except",
-        "exp": "Refer katzung 11e p 113, 123 Muscarinic antagonist will produce action opposite of parasympathetic system, that will decrease gastric as well as respiratory secretion Action of acetylcholine through muscarinic receptors is to increase the AV conduction, thus, resulting in bradycardia. Antagonists will thus result in opposite effect that is shoen the AV conduction Acetylcholine muscarinic receptors cause contraction of sphincter pupillae muscle and result in miosis. Muscarinic antagonist will have opposite effect that is mydriasis.",
-        "cop": 2,
-        "opa": "Decrease gastric secretion",
-        "opb": "Prolonged AV conduction",
-        "opc": "Decreases tracheobronchial secretion",
-        "opd": "Causes contraction of radial muscle of iris",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "8b96f3e2-135c-464a-a1a4-c5645c8c233c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not a cholinergic action?",
         "exp": "Miosis is produced by M3 receptor activation, not mydriasis Ref: KDT 7th ed pg 101",
         "cop": 3,
@@ -2899,19 +2158,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which among the following is contraindicated in myasthenia patient?",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 745) All aminoglycosides reduce ACh release from the motor nerve endings. They interfere with the mobilization of centrally located synaptic vesicles to fuse with the terminal membrane (probably by antagonizing Ca2+) as well as decrease the sensitivity of the muscle endplates to ACh. Myasthenic weakness is accentuated Aminoglycosides. Neuromuscular blockers should be used cautiously in patients receiving aminoglycosides.",
-        "cop": 1,
-        "opa": "Aminoglycosides",
-        "opb": "Sulphonamides",
-        "opc": "Penicillin",
-        "opd": "All",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "48995165-65eb-42c7-bd05-508660eed973",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following antiglaucoma drugs can cause heterochromia iridis",
         "exp": "Refer katzung 12e p 328 PGF2 alpha agonists like lantanoprost can cause iris pigmentation (heterochromia iridis) and growth of eye lashes(hyperichosis) as adverse effect",
         "cop": 2,
@@ -2923,32 +2169,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "99967d4d-3e99-48a6-8fcb-70acebc58f30",
         "choice_type": "single"
-    },
-    {
-        "question": "Clinical signs of atropine Intoxication are all EXCEPT:",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 120) Atropine intoxication features are Dry mouth, dry skin, dry eye due to a decrease in the salivary, lacrimatory, sweat secretion (M3 blockade) Flushed, hot skin. Decreased bowel sounds due to M3 blockade (decrease tone and contraction of smooth muscle in the intestine) Difficulty in micturition Dilated pupil, blurring of near vision, photophobia Hypotension, weak and rapid pulse, cardiovascular collapse with respiratory depression Excitement, psychotic behaviour, ataxia, delirium, dreadful visual hallucinations",
-        "cop": 4,
-        "opa": "Decreased bowel sounds",
-        "opb": "Dry skin",
-        "opc": "scarlet flushing of face",
-        "opd": "Increased bowel sounds",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "0f29970a-c4fa-4d0a-ac4f-eb9b1864d0e8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Cholinomimetic drugs can be used for the treatment of all the following conditions EXCEPT",
-        "exp": "Ref: 7th edition KD Tripathi (page no: 103) ACh hyperpolarizes SA nodal cells, as a results bradycardia occur. so cholinomimetics can't be used for bradycardia. Anticholinergics like atropine should be used for bradycardia Cardiac muscuranic receptor is M2 subtype",
-        "cop": 2,
-        "opa": "Closed angle Glaucoma",
-        "opb": "Bradycardia",
-        "opc": "Cobra bite",
-        "opd": "Myasthenia gravis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "d52e9371-fc88-4a66-87c1-166f04fb88fb",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following does not cross the blood-brain barrier?",
@@ -2990,45 +2210,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Vasomotor reversal phenomenon after administration of an a adrenergic blocker is seen with",
-        "exp": "Rapid i. v. injection of Adr produces a marked increase in both systolic as well as diastolic BP (at high concentration a response predominates and vasoconstriction occurs even in skeletal muscles). The BP returns to normal within a few minutes and a secondary fall in mean BP follows. The mechanism is--rapid uptake and dissipation of Adr - concentration around the receptor is reduced - low concentrations are not able to act on a receptors but continue to act on b2 receptors. When an a blocker has been given, only fall in BP is seen--vasomotor reversal of Dale. Ref:- kd tripathi; pg num:-131",
-        "cop": 3,
-        "opa": "Noradrenaline",
-        "opb": "Isoprenaline",
-        "opc": "Adrenaline",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "46879266-c149-47b1-81d3-1bb1caa6c017",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Use of phenoxybenzamine is",
-        "exp": "Phenoxybenzamine is a non-selective alpha blocker used in HTN, Pheo and for aeriography sometimes. Ref: KD Tripathi 8th ed.",
-        "cop": 4,
-        "opa": "Hypertension",
-        "opb": "Pheochromocytoma",
-        "opc": "Angiography",
-        "opd": "All the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "53152a85-c614-4475-bfd4-7a858199e533",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are chlolinergic agents except",
-        "exp": "Donepezil, rivastigmine, gallantamine and tacrine are cholinergic (due to inhibition of cholinesterase enzyme) drugs useful for alzheimer's disease. Memantine is an NMDA blocker, used for Alzheimer's disease. Ref-KDT 6/3 p472, 473",
-        "cop": 4,
-        "opa": "Galantamine",
-        "opb": "Donepezil",
-        "opc": "Tacrine",
-        "opd": "Memantine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "d655e3d5-7246-4b3c-ae6c-0bbeb9e5e1f3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a selective Beta 2 antagonist?",
         "exp": "Esmolol, Betaxolol, Celiprolol are cardioselective beta 1 blockers. Butoxamine is a selective beta 2 blocker. From essential of medical pharmacology K D Tripathi 7th edition page no 144",
         "cop": 3,
@@ -3055,19 +2236,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Propranolol is useful in all, Except",
-        "exp": "Propranolol is used for essential tremor but not in parkinsonian tremor. In Graves disease, Propranolol (20-40 mg every 6 h) or longer-acting selective b1 receptor blockers such as atenolol may be helpful to control adrenergic symptoms, especially in the early stages before antithyroid drugs take effect. Beta blockers are also useful in patients with thyrotoxic periodic paralysis, pending correction of thyrotoxicosis. Propranolol reduces the frequency and intensity of a migraine headache. Beta-receptor antagonists have been found to diminish poal vein pressure in patients with cirrhosis. There is evidence that both propranolol and nadolol decrease the incidence of the first episode of bleeding from oesophagal varices Ref: Katzung 13e pg: 164-165",
-        "cop": 3,
-        "opa": "Migrane",
-        "opb": "Thyrotoxicosis",
-        "opc": "Parkinsonian tremor",
-        "opd": "Oesophageal varices",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "c759cccc-163b-41e9-8e77-b9ae2e4c7925",
-        "choice_type": "multi"
-    },
-    {
         "question": "Beta blocker with intrinsic sympathomimetic activity is",
         "exp": "Beta blockers with intrinsic sympathomimetic activity are acebutolol, celiprolol, pindolol etc Ref: KD tripathi 8th ed.",
         "cop": 4,
@@ -3081,32 +2249,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Dorzolamide is a",
-        "exp": "Carbonic anhydrase inhibitors Include Acetazolamide, Dorzolamide. Dorzolamide (2% eyedrops BD-TDS):- It is a topically useful carbonic anhydrase inhibitor. It lowers i. o. t. by ~20%; somewhat less efficacious than timolol. side effects:- Ocular stinging, burning, itching, corneal edema and bitter taste. Dorzolamide is used only as add on drug to topical b blockers/PG analogues, or when these drugs are contraindicated. Ref:- kd tripathi; pg num:-155",
-        "cop": 4,
-        "opa": "Second generation sulfonylurea hypoglycaemic",
-        "opb": "Topical sulfonamide antibacterial",
-        "opc": "Luminal amoebicide",
-        "opd": "Topically applied ocular carbonic anhydrase inhibitor",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "3f263e5b-6e66-4861-8122-1c273b9d3a45",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Propanolol can be used in all of the following conditions EXCEPT:",
-        "exp": "ref; KD Tripathi 7the edition pharmacology (page no; 147, 149) Propranolol exacerbates variant (Prinzmetal' s) angina due to unopposed a mediated coronary constriction. uses of propranolol are Hypertension, Angina pectoris, Migraine, thyrotoxicosis, Pheochromocytoma, Glaucoma, MI, Cardiac Arrhythmias,",
-        "cop": 2,
-        "opa": "Thyrotoxicosis",
-        "opb": "Variant angina",
-        "opc": "Migraine",
-        "opd": "Hypeention",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "351c3123-c683-40ba-b681-adb883580edb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following system is most sensitive to atropine",
         "exp": "Ref: HL Sharma 3rd ed: Pg no: 154 The endpoint for atropinization is dried pulmonary secretions. Tachycardia and mydriasis must not be used to limit or to stop subsequent doses of atropine",
         "cop": 1,
@@ -3118,32 +2260,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "f9e25305-0cb6-491c-a618-484b6899c970",
         "choice_type": "single"
-    },
-    {
-        "question": "Cholinomimetic drugs can be used for the treatment of all the following conditions EXCEPT:",
-        "exp": "Anticholinergic drugs are used to treat a variety of conditions: Gastrointestinal disorders (e. g., peptic ulcers, diarrhea, pylorospasm, diveiculitis, ulcerative colitis, nausea, and vomiting) Genitourinary disorders (e. g., cystitis, urethritis, and prostatitis) Respiratory disorders (e. g., asthma, chronic bronchitis, and chronic obstructive pulmonary disease ) Sinus bradycardia due to a hypersensitive vagus nerve. Insomnia, although usually only on a sho-term basis. Dizziness (including veigo and motion sickness-related symptoms) Anticholinergics generally have antisialagogue effects (decreasing saliva production), and most produce some level of sedation, both being advantageous in surgical procedures. Ref-KDT 7/e p200",
-        "cop": 2,
-        "opa": "Closed angle Glaucoma",
-        "opb": "Bradycardia",
-        "opc": "Cobra bite",
-        "opd": "Myasthenia gravis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "ffa77d0f-fba4-47c1-a4f5-dce681cb0621",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A patient requires mild cholinomimetic stimulation following surgery. Physostigmine and bethanechol in small doses has significantly different effect on which of the following",
-        "exp": "Refer katzung 11e p 98 Bethanechol Acts on muscarinic receptors only whereas is physostigmine increases acetylcholine, thus can stimulate both muscarinic and nicotinic receptors. Neuromuscular junction contains in Nm receptors, thus will be affected by physostigmine and not with bethanechol.",
-        "cop": 2,
-        "opa": "Gastric secretion",
-        "opb": "Neuromuscular junction",
-        "opc": "Sweat glands",
-        "opd": "Ureter. Al tone",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "358ed04c-e086-43be-8dcb-fa3f4e18f566",
-        "choice_type": "multi"
     },
     {
         "question": "The drugs increasing trabecular outflow in glaucoma is",
@@ -3211,19 +2327,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are seen in atropine poisoning Except",
-        "exp": "Ref: HL Sharma 3rd ed pg no: 156 Atropine produces hypehermia - increase in body temperature due to inhibition of sweating in children below 5 years, atropine can produce atropine fever",
-        "cop": 3,
-        "opa": "Mydriasis",
-        "opb": "Hallucination",
-        "opc": "Hypothermia",
-        "opd": "Coma",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "95085c84-b2e6-455b-a56e-e07f501fbdde",
-        "choice_type": "multi"
-    },
-    {
         "question": "Myaesthenia gravis is diagnosed by (REPEAT)",
         "exp": "Tensilon is also known as edrophonium. as it is sho acting it is used to diagnose or differentiate the cause of muscle paralysis-cholinergic vs myasthenia crisis Ref: KDT 6th ed pg 104",
         "cop": 4,
@@ -3235,19 +2338,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "80ac12c5-ab70-4d7b-ae48-47b24d39ef31",
         "choice_type": "single"
-    },
-    {
-        "question": "Acetylcholine is not used commercially because:",
-        "exp": "Ref: KD Tripathi pharmacology 7th edition (page. no: 99) ACh is hydrolyzed by the enzyme cholinesterase and choline is recycled. A specific (Acetylcholinesterase-AChE or true cholinesterase) and a nonspecific (Butyrylcholinesterase-Bu. ChE or pseudocholinesterase) type of enzyme occur in the body. So Ach is rapidly destroyed in the body",
-        "cop": 3,
-        "opa": "Long duration of action",
-        "opb": "Costly",
-        "opc": "rapidly destroyed in the body",
-        "opd": "Crosses blood brain barrier",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "6257d969-4385-40ef-b7cc-eff8bade9520",
-        "choice_type": "multi"
     },
     {
         "question": "Thermoregulatory sweat glands in the body utilize what type of pathway",
@@ -3276,19 +2366,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following are the sites of ion channel cholinergic receptors except",
-        "exp": "NM, NN are ion channel receptors. bronchial muscle contains M3 receptors which are GPCR Ref: KDT 7th ed pg 101",
-        "cop": 2,
-        "opa": "Adrenal medulla",
-        "opb": "Bronchial muscle",
-        "opc": "Skeletal muscle",
-        "opd": "Ganglia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "ae2c0c2c-b638-46f9-a46d-c443f1e4a9c7",
-        "choice_type": "multi"
-    },
-    {
         "question": "Alpha 1a selective blocker is",
         "exp": "Tamsulosin, silodosin are more selective alpha blockers in prostrate uhera. used for BPH. Ref: KD Tripathi 8th ed.",
         "cop": 1,
@@ -3300,19 +2377,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "603728da-2e77-463b-b431-d8b17202d62e",
         "choice_type": "single"
-    },
-    {
-        "question": "Which anti-glaucoma drug can be used in an asthmatic patient?",
-        "exp": "Ref: KD Tripathi pharmacology 6th edition (page. no: 144) Betaxolol is b1 selective blocker offering the advantage of less bronchopulmonary and probably less cardiac, central and metabolic side effects. In addition, it may exe a protective effect on retinal neurones independent of I. O. T lowering, possibly by reducing Na+ /Ca+ influx. Propanolol and Timolol are-selective b blockerS(b1 &b2). So b2 blocking effect precipitate asthma",
-        "cop": 2,
-        "opa": "Timolol",
-        "opb": "Betaxolol",
-        "opc": "Propanolol",
-        "opd": "All",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "be2f5bde-bd31-4944-974f-ee0677dfd3a2",
-        "choice_type": "multi"
     },
     {
         "question": "Anti-cholinesterases are ineffective against:",
@@ -3367,19 +2431,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Adrenalin increases all of the following blood pressures significantly except",
-        "exp": "Adrenaline given by slow infusion causes a rise in systolic but fall in diastolic BP, peripheral resistance sometimes may decrease because vascular beta 2 receptors are more sensitive than alpha receptors. beta 2 receptors produce vasodilatation causing fall in diastolic at times Mean BP generally rises. Pulse pressure is increased. From essential of medical pharmacology K D Tripati 7th edition Page no 131",
-        "cop": 2,
-        "opa": "Systolic",
-        "opb": "Diastolic",
-        "opc": "Mean BP",
-        "opd": "Pulse pressure",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "427d6c07-a478-4888-96e8-223a9bed372f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drugs cannot cross the blood placental barrier",
         "exp": "Refer k. DT 7/e p116 Glycopyrrolate is a quaternary ammonium compound and is this water soluble and unable to penetrate blood brain barrier",
         "cop": 2,
@@ -3432,19 +2483,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs are non-selective Beta blockers EXCEPT:",
-        "exp": "Non-selective beta blocker are propranolol, sotalol, timolol. Non-selective beta blockers with additional alpha blocking propey are labetalol and carvedilol. From essential of medical pharmacology K D Tripati 7th edition page no 144",
-        "cop": 4,
-        "opa": "Propanolol",
-        "opb": "Timolol",
-        "opc": "Sotalol",
-        "opd": "Carvedilol",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "1faab49d-83a7-48fd-bef4-e4dc6a19f831",
-        "choice_type": "multi"
-    },
-    {
         "question": "Sweating as a result of excretion is mediated through",
         "exp": "Refer k. DT 7/e p 93 Most aeries and veins in the body are innervated by sympathetic adrenergic nerves, which release norepinephrine (NE) as a neurotransmitter. Some blood vessels are innervated by parasympathetic cholinergic orsympathetic cholinergic nerves, both of which release acetylcholine (ACh) as their primary neurotransmitter.",
         "cop": 4,
@@ -3469,19 +2507,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "771986b7-abe6-4664-8a69-192100a75c29",
         "choice_type": "single"
-    },
-    {
-        "question": "Organophosphates bind to",
-        "exp": "(Ref: KDT 6/e p99-100) The active region of Acetylcholinesterase (AChE) has two sites i. e. an anionic site and an esteratic site. Anticholinesterase poisoning like Organophosphate compounds binds to esteratic site of AChE.",
-        "cop": 2,
-        "opa": "Anionic site of ACh. Es",
-        "opb": "Esteratic site of ACh. Es",
-        "opc": "Ach",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "7f3f4e5d-162a-4c26-b314-f6944ed0f717",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following does not cross a blood brain barrier",
@@ -3523,19 +2548,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Acute cholinesterase inhibitors intoxication include all of the following except",
-        "exp": "Cholinesterase inhibitors have cholinomimetic actions. The major source of such intoxications is pesticide use in agriculture. The dominant initial signs are those of muscarinic excess: miosis, salivation, sweating, bronchial constriction, vomiting, and diarrhea. Central nervous system involvement (cognitive disturbances, convulsions, and coma) usually follows rapidly, accompanied by peripheral nicotinic effects, especially depolarizing neuromuscular blockade. Katzung 13e pg: 118",
-        "cop": 2,
-        "opa": "Salivation, sweating",
-        "opb": "Mydriasis",
-        "opc": "Bronchial constriction",
-        "opd": "Vomiting and diarrhea",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "70e42988-5271-46b9-9bd7-d1b7669c0694",
-        "choice_type": "multi"
-    },
-    {
         "question": "Bad dreams are a rare adverse effect of which of the following drug?",
         "exp": "Erectile dysfunction, impotence, bad dreams and hallucinations can be seen with beta blockers REFERENCES: KDT 6th ed pg 135-140 Goodman Gillman 12th ed pg 280-285",
         "cop": 1,
@@ -3560,19 +2572,6 @@
         "topic_name": "Autonomic nervous system",
         "id": "8cf9ffc5-650e-4879-bde1-357ad6c2c816",
         "choice_type": "single"
-    },
-    {
-        "question": "All are cholinergic drugs except",
-        "exp": "Memantine acts on NMDA receptors. remaining all the drugs are indirectly acting cholinergicn drugs used in the treatment of alzhimers disease. Ref: KDT 6th ed pg 472, 473",
-        "cop": 1,
-        "opa": "Memantine",
-        "opb": "Tacrine",
-        "opc": "Rivastigmine",
-        "opd": "Donepezil",
-        "subject_name": "Pharmacology",
-        "topic_name": "Autonomic nervous system",
-        "id": "946c21b4-0df5-4a5e-8c04-0b840813a290",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is a relatively cerebroselective anticholinesterase found to afford symptomatic improvement in Alzheimer&; s disease",

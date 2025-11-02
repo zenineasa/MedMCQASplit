@@ -13,45 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Midostaurin is a new drug used for the treatment of:",
-        "exp": "Midostaurin: Multitargeted protein kinase inhibitor indicated along with standard cytarabine and daunorubicin for adult with newly diagnosed Acute Myeloid Leukemia (AML) who are FLT3 mutation positive.",
-        "cop": 3,
-        "opa": "CML",
-        "opb": "ALL",
-        "opc": "AML",
-        "opd": "CLL",
-        "subject_name": "Pharmacology",
-        "topic_name": "JIPMER 2017",
-        "id": "6b799433-0065-4cdc-a2c7-e5f0e0614d44",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Table sugar can be used for treatment of hypoglycaemia secondary to all of the following drugs EXCEPT:",
-        "exp": "Acarbose: Alpha glucosidase inhibitor, stops the conversion of sucrose to glucose. Therefore using table sugar for treatment of hypoglycemia when patient is on acarbose is not useful. MOA: Located in the intestinal brush border, a-glucosidase enzymes break down carbohydrates into glucose and other simple sugars that can be absorbed. Acarbose and miglitol reversibly inhibit a-glucosidase enzymes. Major s/e are flatulence, diarrhea and abdominal cramping.",
-        "cop": 1,
-        "opa": "Acarbose",
-        "opb": "Metformin",
-        "opc": "Glipizide",
-        "opd": "Insulin",
-        "subject_name": "Pharmacology",
-        "topic_name": "JIPMER 2017",
-        "id": "3ef86127-3036-49fd-b3fc-bef2471f90ee",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All the following drugs are used in the treatment of metastatic breast cancer except:",
-        "exp": "Sunitinib is a novel oral multitargeted tyrosine kinase inhibitor with antitumor and antiangiogenic activities. It was recently approved in first-line treatment for patients with advanced renal cell carcinoma (RCC) and for the treatment of patients with gastrointestinal stromal tumors (GIST). Ixabepilone: Antimicrotubule inhibitor(M Phase): use for breast cancer Abemaciclib and Ribocilib: CDK-4 and CDK-6 inhibitor use in breast cancer",
-        "cop": 4,
-        "opa": "Ixabepilone",
-        "opb": "Abemaciclib",
-        "opc": "Ribociclib",
-        "opd": "Sunitinib",
-        "subject_name": "Pharmacology",
-        "topic_name": "JIPMER 2017",
-        "id": "6aa77f9e-6f9b-4d63-ac3e-75f99b54a8e6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following antimicrobial shows time dependent killing?",
         "exp": "Bactericidal agents can be divided into two groups: Agents that exhibit concentration-dependent killing (e. g. aminoglycosides and quinolones) Agents that exhibit time-dependent killing (e. g., b lactams and vancomycin).",
         "cop": 3,
@@ -143,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statement is false regarding Leflunomide:",
-        "exp": "Leflunomide is a prodrug of an inhibitor of pyrimidine synthesis by inhibiting enzyme dihydro orotate dehydrogenase thereby inhibiting proliferation of T and B cell. Toxicities include elevation of liver enzymes with some risk of liver damage, renal impairment, and teratogenic effects. It is approved only for rheumatoid ahritis at present, although studies are underway combining leflunomide with mycophenolate mofetil for a variety of autoimmune and inflammatory skin disorders, as well as preservation of allografts in solid organ transplantation. Mycophenolate mofetil: Act by inhibiting IMP dehydrogenase enzyme, suppresses both B and T-lymphocyte.",
-        "cop": 2,
-        "opa": "Used in treatment of Rheumatoid ahriti",
-        "opb": "Act by inhibiting IMP dehydrogenase enzyme",
-        "opc": "Inhibits proliferation of T and B cells",
-        "opd": "It is contraindicated in pregnancy",
-        "subject_name": "Pharmacology",
-        "topic_name": "JIPMER 2017",
-        "id": "c635f1d3-6b59-4d3b-84e9-857bf34f54e6",
-        "choice_type": "multi"
-    },
-    {
         "question": "New drug approved for treatment of tardive dyskinesia is:",
         "exp": "Tardive dyskinesia is late symptom which appears on treatment with typical antipsychotic like haloperidol. It occurs due to D2 receptor supersensitivity. Treatment of choice isvalbenazine Tetrabenazine and deutetrabenazine are use in Huntington's chorea. Safinamide is a new MAO B inhibitor which is use for treatment of Parkinson.",
         "cop": 3,
@@ -167,19 +115,6 @@
         "topic_name": "JIPMER 2017",
         "id": "4a7c9cd9-fdd9-4ca4-9eb8-aeae8396d70f",
         "choice_type": "single"
-    },
-    {
-        "question": "All can cause serotonin increase except:",
-        "exp": "Stimulant drugs commonly abused in the USA include methamphetamine (crank, crystal) methylenedioxymethamphetamine (MDMA, ecstasy) act's to increase 5. HT. SSRI like fluoxetine and paroxetine increase serotonin level and can lead to excessive serotonin response when administered with other serotonergic drug like MAOIs. LSD act on 5. HT serotonin receptor but does not increase serotonin level.",
-        "cop": 4,
-        "opa": "MDMA",
-        "opb": "Amphetamine",
-        "opc": "Fluoxetine",
-        "opd": "LSD",
-        "subject_name": "Pharmacology",
-        "topic_name": "JIPMER 2017",
-        "id": "e4cc94ca-339e-486f-bac1-de3bcba88ad9",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is a guanylate cyclase agonist used in irritable bowel syndrome?",

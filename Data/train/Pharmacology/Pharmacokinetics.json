@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Essential drug is?",
-        "exp": "ANSWER: (B) Those drugs that satisfy the health care needs of the majority of the population. REF: KDT 6th edition page 5. Essential drugs (medicines), as defined by the World Health Organization (WHO) are \"those drugs that satisfy the health care needs of the majority of the population; they should therefore be available at all times in adequate amounts and in appropriate dosage forms, at a price the community can afford.",
-        "cop": 2,
-        "opa": "Drugs that has been developed specifically to treat a rare medical condition",
-        "opb": "Those drugs that satisfy the health care needs of the majority of the population",
-        "opc": "Those drugs that satisfy the health care needs of at least 50% of the population",
-        "opd": "Drug that is to be used with in first hour of the acute attack of the disease",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "10349d56-0c4a-41d1-bf47-19ae53d126b8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Zero order kinetics is shown by which drug -",
         "exp": "Ans. is 'b' i. e., Theophylline 1 o Drugs showing zero/pseudo-zero order kinetics:# Phenytoin# Tolbutamide# Theophylline# Warfarin# Alcohol# Salicylates (Aspirin)",
         "cop": 2,
@@ -76,32 +63,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "ff76a738-7668-48ed-b8ef-2a4e83095d14",
         "choice_type": "single"
-    },
-    {
-        "question": "True about non competitive in hibition are all except-",
-        "exp": "Ans. is 'a' i. e., Potency reduced Competitive antagonist. Non comoetitive antagonist1. Antagonist bind to the same receptors as agonist2. Antagonist resembles chemically with the agonist3. The same maximal response can be obtained4. Potency is reduced (Right shift of DRC)5. Km is increased but Vmax is unchanged1. Binds to another site of receptor2. Does not resemble3. Maximal response is supressed4. Efficacy is reduced (Flattening of DRC)5. Km is unchanged but Vmax. is reduced.",
-        "cop": 1,
-        "opa": "Potency reduced",
-        "opb": "Km unchanged",
-        "opc": "V max reduced",
-        "opd": "Binds to another site of receptor",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "675d538f-7d22-49ee-a7ef-1592273a6d62",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Pharmacokinetics is-",
-        "exp": "Ans. is 'a' i. e., Study of drug movement in the body Pharmakokineticso Pharmakokinetics is the quantitative study of drug movement, in through and out of the body, o That means, it is the study of the effect of body on the drug. o So, it is also known as ADME study as it deals with Absorption, Distribution, Metabolism and Excretion of a drug. Remember. Pharmacodynamics (D)- Drug does to body. Pharmacokinetics- Body does to drug.",
-        "cop": 1,
-        "opa": "Study of drug movement in the body",
-        "opb": "Study of drug effects",
-        "opc": "Study of drug responses, governed by heredity'",
-        "opd": "None of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "8ecc5a07-88d5-4201-b172-c7d58d336c81",
-        "choice_type": "multi"
     },
     {
         "question": "In the metabolism of alcohol, high doses of aspirin & phenytoin, mechanism is -",
@@ -141,45 +102,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "7168b6df-20df-4911-b2cb-d158db33ec1e",
         "choice_type": "single"
-    },
-    {
-        "question": "A drug X has affinity to bind with albumin and Y has 150 times more affinity to bind with albumin than X. TRUE statement is:",
-        "exp": "Ans. is 'a' Drug X will be available more in tissues In the question drug X has 150 times lower affinity to bind with albumin than drug Y and it is clearly given in the book that highly plasma protein bound drugs are largely restricted to the vascular compartment and tends to have lower volume of distribution. So it is clear that volume of distribution of drug X will be greater than drug Y and thus it will be more available to the tissue. Now don't get confused with the option \"Free concentration of drug X in blood will be more, \" Make it clear that free concentration of the drug does not depend upon the plasma protein binding. The other clinically significant implications of plasma protein binding are: Bound fraction is not available for action. However, it is in equilibrium with the free drug in plasma and dissociates when the concentration of the latter is reduced due to elimination *. High degree of protein binding generally makes the drug long acting, because bound fraction is not available for metabolism or excretion*. Highly protein bound drugs are not removed by hemodialysis*.",
-        "cop": 1,
-        "opa": "Drug X will available more in tissues",
-        "opb": "Drug Y will be more available in tissues",
-        "opc": "Free cone, of drug X in blood will me more",
-        "opd": "Toxicity of Y will be more",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "0fa1a9b3-4c25-4365-b235-a722a1aa5fbe",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Non competitive inhibitor of carbonic anhydrase-",
-        "exp": "Ans. is 'b' i. e., Acetazolamide o Carbonic anhydrase inhibitors act by a non-competitive, reversible inhibition of the enzyme carbonic anhydrase. Carbonic anhvdrase inhibitors (acetazolamide)o Carbonic anhydrase (CAse) is an enzyme which catalyzes the reversible reaction H2O + CO2 - H2. CO3 - H++HCO3-. o The enzyme is present in renal tubular cells (especially PT), gastric mucosa, exocrine pancrease, ciliary body of eye, brain and RBC. o Carbonic anhydrase inhibitors inhibit intracellular CAse in PT cells resulting in slowing of hydration of CO2 -decreased availability of H+ to exchange with luminal Na+ through Na+-H+ antiport, o Inhibition of brush border CAse retards dehydration of H2. CO3 in the tubular fluid so that less C02 diffuses back into the cells. o The net effect is inhibition of HCO3- (and accompanying Na+) reabsorption in PT - alkaline diuresis. o Secretion of H+ in DT and CD is also inhibited. Though H+ is secreted at this site by H+-ATPase, it is generated in the cell by CAse mediated reaction. As such, this is a subsidiary site of action of CAse inhibitors, o For the same degree of natriuresis CAse inhibitors cause most marked kaliuresis compared to other diuretics. Read below. Collecting tubule is the most important site of K+ secretion by the kidney. K+ secretion occurs in exchange with Na+If Na+ load is higher in collecting tubels it will be absorbed in exchange with K+ and more K+ will be secreted, i. e. higher the Na+ load in CD, higher will be K+ excretion in urine. Carbonic anhydrase inhibitors act on proximal tubules, where maximum Na+ (70%) is absorbed -they block this absorption and will cause maximum kaliuresis (K+ excretion in urine). o Extrarenal actions of acetazolamide. Lowering of IOT due to decreased formation of aqueous humour. Decreased gastric HCL and pancreatic Na. HCO3 secretion. Raised level of CO2 in brain and lowering of pH - sedation and elevation of seizure threshold. Alteration of CO2 trasport in lungs and tissues, o Uses of CAse inhibitors* Glaucoma# Acute mountain sickness# Periodic paralysis* Epilepsy# To alkalinise urine for UTI or to promote excretion of acidic drugso Dorazolamide and brinzolamide are used topically for glaucoma. o Adverse effects. Hypersensitivity reactions in patients sensitive to sulfonamides (CAse inhibitors are sulfonamide derivatives). Bone marrow depression, metabolic acidosis, hypokalemia, drowsiness, paresthesias, fatigue and abdominal discomfort. In hepatic diseases may precipitate hepatic coma by interfering with urinary elimination of NH3. o Contraindications for carbonic anhydrase inhibitors. COPD # Hepatic cirrhosis # Hyperchloremic acidosiso Carbonic anhydrase inhibitor (acetazolamide) can cause allergic reactions in patients hypersensitive to sulfonamides.",
-        "cop": 2,
-        "opa": "Allopurinol",
-        "opb": "Acetazolamide",
-        "opc": "Bimatoprost",
-        "opd": "Dipivefrine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "d9d16185-b276-4754-b540-395337bfdba0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement about weakly basic drugs is:",
-        "exp": "Acidic drugs bind to plasma albumin whereas basic drugs to alpha-1 acid glycoprotein. Acidic drugs are excreted faster in alkaline urine whereas basic drugs in acidic urine. Acidic drugs are ionized in alkaline medium (as in intestine) whereas basic drugs are ionized in acidic medium (as in stomach) Non-ionized drugs can cross the membrane and can be absorbed.",
-        "cop": 2,
-        "opa": "These are bound primarily to plasma albumin",
-        "opb": "These are excreted faster in acidic urine",
-        "opc": "Are highly ionized in the intestinal juice",
-        "opd": "These are absorbed mainly from stomach",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "3e44122b-5b33-4d33-8bba-94a9434d9c65",
-        "choice_type": "multi"
     },
     {
         "question": "Glucuronidation takes place in -",
@@ -245,58 +167,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "cb202d79-91d5-43cb-a3cc-61d68999256e",
         "choice_type": "single"
-    },
-    {
-        "question": "Following drugs show zero order kinetics except-",
-        "exp": "Ans. is 'd' i. e., Fomipizole o The drugs whose kinetics changes from first order to zero order at therapeutic concentration are said to follow pseudo - zero order kinetics or mixed order kinetics or saturation kinetics. o Drugs showing zero, ''pseudo-zero order kinetics: y Phenytoiny Tolbutamidey Propanolol (ref- Pharmocolgy recap)y Theophylliney Warfariny Alcoholy Salicylates (Aspirin)",
-        "cop": 4,
-        "opa": "Phenytoin",
-        "opb": "Tolbutamide",
-        "opc": "Alcohol",
-        "opd": "Fomipizole",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "25ffa9b5-4124-469b-9c02-f05c5eaf307e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Active drug transport true is ail except -",
-        "exp": "Ans. is 'c' i. e., Carrier transport is nonsaturable Active transporto As the name suggests active transport is active pumping of drug molecules through a membrane against concentration gradient by a molecular pump (carrier mediated% which requires energy to function. o So, active transport has following characteristics: 1. Movement is against concentration gradient2. A molecular pump (carrier protein) is required. 3. Energy is requiredo On the basis of energy utilization, active transport is divided to: Primary (Direct) active transport. Transporter (carrier protein) binds ATP directly and energy is obtained directly by the hydrolysis of ATP. These transporters (carrier protein) belong to the superfamily of ATP binding cassettee (ABC) transporters whose intracellular loops have ATPase activity. Examples are Na+-K+ ATPase, H+ -K+ ATPase, Ca+2 ATPase. Secondary (Indirect) active transport. The energy to pump one solute is derived from the downhill movement of another solute, i. e. In secondary active transport, molecules are moved through a membrane as a result of the diffusion of other substance. When both molecules move in the same direction it is called svmport (cotransport), e. g. Na+- -glucose transporter in the intestine. Na+-:-iodide transporter in thyroid. When molecules move in opposite directions, it is termed as antiport (exchange transport) e. g. Na+-Ca+2 exchanger in myocardium. About option 'c'o Carrier transport (both facilitated diffusion and active transport) are saturable and follows the Michaelis- Menten kinetics.",
-        "cop": 3,
-        "opa": "Energy dependent",
-        "opb": "Make use of specific transporter protein",
-        "opc": "Carrier transport is nonsaturable",
-        "opd": "Carries the drug against the concentration gradient",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "aba6bcec-c986-44b6-8674-592ebdfd2caa",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statements about a drug having high plasma protein binding is true?",
-        "exp": "* When a drug is highly bound to plasma proteins, it is more likely to stay in blood because protein bound drug does not cross membranes and thus Vd is less. * Glomerular filtration depends on renal blood flow and plasma protein binding. Highly protein bound drugs are less likely to be filtered by the glomerulus. * More than one drug can bind to the same site of plasma protein. This can give rise to displacement interactions among drugs bound to the same site. The drug bound with higher affinity will displace the drug with lower affinity and increase the concentration of its free form.",
-        "cop": 4,
-        "opa": "Volume of distribution of the drug is very high",
-        "opb": "This drug will be filtered quickly by glomerulus",
-        "opc": "This drug is likely to have minimum chances of drug interactions",
-        "opd": "High plasma protein binding decreases the volume of distribution",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "28641e39-6c48-4a32-97cf-636f05d2892a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following drug act on ionic channels EXCEPT:",
-        "exp": "ANSWER: (B) Insulin. REF: KDT 6th edition various pages (394, 256, 266). For valproate mechanisms of action see previous question. Binding of insulin to a subunit if insulin receptor induces the aggregation and internalization of the receptor along with the bound insulin molecule. This activates tyrosine kinase activity if (3 subunit. Sulfonylureas (Glibenclamide) provoke a brisk release if insulin from pancreas. They act on the so called sulfonylurea receptors on the pancreatic b cells membrane- causes' depolarization by reducing conductance of ATP sensitive K+ channels. This enhances Ca2+ influx - degranulation. BZD (Diazepam) act by enhancing pre synaptic/post synaptic inhibition through a specific BZD receptor which is an integral part of the GABAA receptor - Cl- channel complex.",
-        "cop": 2,
-        "opa": "Valproate",
-        "opb": "Insulin",
-        "opc": "Glibenclamide",
-        "opd": "Diazepam",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "a1ef98fa-f3c7-4472-b923-17768f4cd954",
-        "choice_type": "multi"
     },
     {
         "question": "Drug affecting positive free water clearance without affecting negative free water clearance -",
@@ -416,19 +286,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs are metabolized by acetylation except:",
-        "exp": "Ans. is 'd' i. e. Metoclopromide Acetylation is a phase II metabolic reaction. Phase II reactions serves to attach a conjugate to the drug molecule. After the phase II reactions all drugs becomes water soluble, so that they can be readily eliminated from the body. Phase II reactions includes. Glucuronidation. Acetylation. Methylation. Sulfation. Glycine conjugation Acetylation. Drugs having amino or hydrazine resides are conjugated with the help of acetyl coenzyme A. Examples are: S - SulfonamidesH- Hydralazine I -Isoniazid P-PASAcetylation is a genetically mediated condition. Multiple genes control the acetyl transferases and the rate of acetylation shows genetic polymorphism",
-        "cop": 4,
-        "opa": "INH",
-        "opb": "Hydralazine",
-        "opc": "Procainamide",
-        "opd": "Metoclopromide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "8af7d2f0-ac98-4293-89da-25fe35af05d4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common phase-2 reaction -",
         "exp": "Ans. is 'a' i. e., Glucuronide conjugation o Most important metabolizing reaction, overall - Oxidationo Most important phase I reaction - Oxidationo Most important phase II reaction - Glucuranide conjugation",
         "cop": 1,
@@ -440,32 +297,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "96c8f048-ff1c-4cd6-871f-c321cb3fd16f",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements is true about steady state?",
-        "exp": "Steady state is achieved when rate of administration is equal to rate of elimination Three impoant points to remember: Steady state is achieved within 4-5 half lives Dosing rate (dose per unit time) determines the average plasma concentration obtained at steady state. Frequency - drug when given intermittently, concentration will vary around baseline - peak and trough are obtained Longer interval - difference between peak and trough is more Lesser the interval - difference between peak and trough is less",
-        "cop": 4,
-        "opa": "It does not depend upon half life",
-        "opb": "Plasma concentration achieved is independent of dose rate",
-        "opc": "Longer is dosing interval, lesser is the difference between peak and trough values",
-        "opd": "Rate of administration is equal to rate of elimination",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "424f3e4f-7bf5-495e-851e-433889e33b63",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following drugs are metabolised by acetylation except",
-        "exp": "Ans. is 'c' i. e. Ketoconazole Drugs undergoing Acetylation-Sulfonamides. Isoniazid. PASHydralazine. Procainamide. Also know. Drugs undergoing glucuronide conjugation. Chloramphenicol. Aspirin. Phenacetin. Morphine. Metronidazole. Drugs undergoing Glycine conjugation. Salicylates and. Other drugs with Carboxyl group. Drugs undergoing Glutathione conjugation. Paracetamol.",
-        "cop": 3,
-        "opa": "INH",
-        "opb": "Sulfonamides",
-        "opc": "Ketoconazole",
-        "opd": "Hydralazine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "61192d44-d5e2-4c27-86eb-2d19f7d8939c",
-        "choice_type": "multi"
     },
     {
         "question": "Thiopentone is used for induction of anaesthesia. It shows marked redistribution which is a characteristic of:",
@@ -572,19 +403,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most of the drugs are excreted in -",
-        "exp": "Ans. is 'b' i. e., Urine o Most important channel of excretion for most drugs is through kidney (in urine). EXCRETION OF DRUGSo Drugs and their metabolites are excreted in: Urineo Through the kidneyo It is the most important channel of excretion for most drugs. o Net renal excretion = (Glomerular filtration + tubular secretion) - Tubular reabsorption, o Glomerular filtration. Depends on plasma protein binding and renal blood flow. Does not depend on lipid solubility. o Tubular reabsorption. Depends on lipid solubility. More lipid soluble drugs are absorbed more and less excreted. Ionized drugs, being less lipid soluble, are more excreted. Acidic drugs (salicylates, barbiturates) are more ionized at alkaline pH. So urine should be alkalinized in poisoning of these drugs. Similarly, urine should be acidified in poisoning of basic drugs (morphine). o Tubular secretion. Does not depend on plasma protein binding or lipid solubility. This is active transport of organic acid and bases by two separate classes of relatively nonspecific transporters (OATand OCT). In addition, efflux transporters P-gp and MRP2 are located in the luminal membrane of proximal tubular cells. Organic acid transport (through OAT) for Penicillin, Probenecid, uric acid, salicylates and sulfinpyrazone. Organic base transport (through OCT) for diuretics (thiazide, amiloride, furosamide, triameterene), quinine and procainamide. Both transport processes are bidirectional, for drugs, secretion into the tubular lumen predominates, whereas an endogenous substrate like uric acid is predominantly reabsorbed. Faeceso Drugs present in the faeces are derived from unabsorbed fraction plus actively secreted into bile, o Drugs that attain high concentration in bile are -* Erythromycin# Oral contraceptives# Rifampin* Ampicillin# Tetracycline# Phenolphthalein. Exhaled airo Gases and volatile liquids are eliminated by lungs. Saliva and sweato These are of minor importance. o Lithium, Pot. iodide and rifampin are present in these secretions. 5. Milko Most drugs enter breast milk by passive diffusion, o Lipid soluble and less protein bound drugs cross better.",
-        "cop": 2,
-        "opa": "Faeces",
-        "opb": "Urine",
-        "opc": "Saliva",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "11b10564-2417-42e3-b64d-b7f6331a60bd",
-        "choice_type": "multi"
-    },
-    {
         "question": "Effect of oral contraceptive pills is inhibited by:",
         "exp": "Ans. is 'a' i. e. Rifampicin",
         "cop": 1,
@@ -596,19 +414,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "5bf80900-28cc-4532-a9e5-7c4b4dd20ef1",
         "choice_type": "single"
-    },
-    {
-        "question": "False about sustained release tablets -",
-        "exp": "Ans. is 'b' i. e., Less chances of toxicity o A sustained-release dosage form provides an initial amount of drug sufficient to produce a desired therapeutic plasma concentration and continuously releases the drug at a constant (zero-order) rate which will maintain the therapeutic concentration for an extended period (recommended dosage interval). The margin of safety of the drug (active ingredient) is an important consideration in the selection of a candidate drug, because sustained-release products contain a large amount of the drug and the possibility of 'dosedumping' with resultant toxicity exists.",
-        "cop": 2,
-        "opa": "Release drug at a constant rate",
-        "opb": "Less chances of toxicity",
-        "opc": "Contain large amount of drug",
-        "opd": "Margin of safety is an important consideration",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "88ffabff-0c44-4a89-9051-f6bc45e20b55",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following metabolic reactions is not catalysed by microsomal enzymes?",
@@ -713,19 +518,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "cc0bd7f5-de6d-4f37-a917-6e450fa56f80",
         "choice_type": "single"
-    },
-    {
-        "question": "All are enzyme inhibitors EXCEPT:",
-        "exp": "Ans. (a) Carbamazepine* Enzyme induction involves microsomal enzyme in liver as well as in other organ.* It increases the rate of metabolism 2-4 fold. Therefore effect of drug decreases.* Enzyme inhibitors also involves microsomal enzyme.* It inhibits the microsomal enzyme, which decreases drug metabolism rate and increases duration of drug action.* Lets take an example of warfarin, which is used as an anti thrombotic agent.# Warfarin + enzyme inducer= Thrombosis (warfarin metabolism increases action of warfarin diminishes rapidly and thrombotic condition arises).# Warfarin + enzyme inhibitor = Bleeding (warfarin metabolism decreases duration of warfarin action increases and patient develops bleeding tendency). Drugs which are enzyme inducers and enzyme inhibitors* Griseofulvin* Phenytoin* Rifampicin* Smoking* Carbamazipine* Phenobarbitone* Valproate* Ketokonazole* Ciprofloxacin* Cimetidine* Erythromycin* Isoniazid. Remembered as: GPRS Cell Phone. Mn: Vitamin K Can Cause Enzyme Inhibition. Also Know* Most of the anti epileptic are enzyme inducers except VALPROATE* Most of the antimicrobial are enzyme inhibitors except GRISEOFULVIN",
-        "cop": 1,
-        "opa": "Carbamazipine",
-        "opb": "Cimetidine",
-        "opc": "Valproate",
-        "opd": "Risperidone",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "b064cfa7-1861-4ff8-97b6-1e290da00bf8",
-        "choice_type": "multi"
     },
     {
         "question": "Metabolism of a drug primarily results in:",
@@ -845,32 +637,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about zero order kinetics:",
-        "exp": "Ans. (a) Rate of elimination independent of plasma concentration. Ref Review of Pharma by Dr. Gobind-Sparsh 7th ed. / 5* In pharmacokinetics, drugs clearance, rate of elimination and half life is given by the order of kinetics i. e. by zero order kinetics or first order kinetics. Zero order kinetics. First order kinetics. Rate of elimination is independent of plasma concentration. Rate of elimination is directly proportional to plasma concentration. Clearance is more at low concentration and less at high concentration. Clearance remains constant. Half life less at low concentration, more at high concentration. Half life- constant. Constant amount of drug is eliminated per unit of time. Constant fraction of drug eliminated per unit of time. Only few drugs follow zero order kinetics. Most of the drugs follow first order kinetics NOTE: drugs which follow zero order kinetics: (WATT- Power)* Warfarin* Alcohol/aspirin* Theophylline* Tolbutamide* Phenytoinkinetics in a Nutshell: Zero order. First order* ROE = constant* CLal/P. C.* tl/2 a PC* ROEaP. C.* CL = constant* tl/2 = constant",
-        "cop": 1,
-        "opa": "Rate of elimination is independent of plasma concen- tration",
-        "opb": "Rate of elimination is dependent on plasma concentration",
-        "opc": "Clearance of drug is always constant",
-        "opd": "Half life of drug is constant",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "3fca4271-3371-40a9-97e4-6263b21cea7e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In metabolism of xenobiotics all of the following reactions occur in phase one except?",
-        "exp": "Ans. is 'c' i. e., Conjugation. Drugs are not intrinsic cellular constituents. They are xenobiotics. They are eliminated from the body mainly through kidney. Drug metabolism means necessary changes in the drug molecule which are essential for easy excretion from the body. Drug metabolism usually converts lipophilic chemical compounds into more readily excreted polar / water soluble / ionizable compounds. When the drug turns polar it becomes more soluble in the extracellular fluid and thus more filterable in the renal tubules. The drug also becomes highly ionizable so it is less reabsorbale and hence readily excretable from the kidney. The metabolism occcurs more or less in every tissue but mainly in the liver. Usually the drug metabolism occurs in two phases -Phase I and. Phase IIPhase I and phase II reactions are biotransformations of chemicals that occur during drug metabolism. Phase I reactions. Phase I reactions usually precede phase II reactions though not necessarily. During these reactions, polar molecules are either added or unmasked, which results in more polar metabolites of the original chemicals. These metabolites are more water soluble than the original compound. Phase I reactions can lead to either activation or inactivation of the drug. Phase I reactions are usually of the following types: Oxidation. Reduction. Hydrolysis. Cyclization. Decyclization. If the metabolites of phase I reactions are sufficiently polar they may be readily excreted at this point. However many phase I products are not eliminated rapidly and undergo a subsequent reaction in which an endogenous substrate combines with the newly incorporated functional group to form a highly polar conjugate (Phase II reaction). Phase II reactions. Phase II reactions are usually known as \"conjugation reactions\". This involves conjugation with glucuronic acid, sulfonates and glutathione. The phase II reactions are -Methylation. Sulfation. Acetylation. Glucuronidation. The products of conjugation have increased molecular weight and are usually inactive unlike phase I reactions which often produce active metabolites.",
-        "cop": 3,
-        "opa": "Oxidation",
-        "opb": "Reduction",
-        "opc": "Conjugation",
-        "opd": "Hydrolysis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "2860ee38-3116-4565-b35f-7f0b9b9d9921",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most general term for the process by which the amount of active drug in the body is reduced after absorption into the systemic circulation is:",
         "exp": "* If the amount of active drug reduces in the body before it enters the systemic circulation, it is called first pass metabolism, whereas if the amount of active drug reduces in body after it enters systemic circulation, it is called elimination. *Elimination is the term used for termination of action of a drug. * It is a broader term that includes both metabolism as well as excretion.",
         "cop": 2,
@@ -895,19 +661,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "3ad794ef-6fef-41eb-9320-545a3b851035",
         "choice_type": "single"
-    },
-    {
-        "question": "True statement regarding zero order kinetics is:-",
-        "exp": "Zero Order Kinetics: Half life is less at low concentrations and more at high concentrations. Rate of elimination is independent of plasma concentration. Clearance is more at low concentrations and less at high concentrations. Very few drugs follow pure zero order kinetics e. g. alcohol",
-        "cop": 3,
-        "opa": "Half life is constant",
-        "opb": "Rate of elimination is dependent on plasma drug concentration",
-        "opc": "Clearance decreases with increase in plasma concentration",
-        "opd": "Applies to majority of the drugs",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "aef7dfd3-44ef-4373-aee3-c4573ea52339",
-        "choice_type": "multi"
     },
     {
         "question": "Monitoring of drug level is not required with:",
@@ -986,45 +739,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "b45f74af-e4be-4632-ae46-2628b0255c91",
         "choice_type": "single"
-    },
-    {
-        "question": "Drug X is normally administered to patients at a rate of 50 mg/hour. Elimination of the drug X from body takes place as: - Hepatic Metabolism 10% - Biliary Secretion 10% - Renal Excretion 80% This drug has to be administered to a 65 years old patient Uttaam Singh, with a GFR of 60 ml/min. (assuming normal GFR is 120ml/min). Liver and biliary functions are normal in this patient. What should be the dose rate of drug X in this patient?",
-        "exp": "* In this question 80 percent of drug is eliminated by renal route and 20 percent by non-renal routes (10 percent by hepatic metabolism and 10 percent by biliary secretion). * This patient has 50 percent renal function (60 ml/min of GFR instead of 120 ml/min). Thus, the drug that can be eliminated in this person is 20 percent (Non-renal route) + 40 percent (Renal route; 50 percent of 80 percent) = 60 percent * Thus, the dose rate should be 60 percent of the original. i. e. 50 mg/hr x 60 percent = 30 mg/hr.",
-        "cop": 2,
-        "opa": "50 mg/hour",
-        "opb": "30 mg/hr",
-        "opc": "25 mg/hr",
-        "opd": "100 mg/hr.",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "2145c6f0-d021-493d-b307-a80f882f2bc3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Atropine and acetylcholine show the following type ofantagonism-",
-        "exp": "Ans. is 'a' Le., Competetive [Ref: K D Tripathi 7th/ e p. 59}Competitive (equilibrium type). Noncompetitive1) Antagonist binds with the same receptor as the agonist2) Antagonist resembles chemically with the agonist3) Parallel nghtward shift of agonist DRC4) The same maximal response can be (surmountable antagonism). Binds to another site of receptor. Does not resemble. Flattening of agonist DRCMaximal response is suppressed (unsrmountable antagonism)5) Intensity of response depends on the concentration of both agonist and antagonist. Maximal response depends only on the concentration antagonist6) Exampies ACr - atropine Morphine-Naiorone. Diazepam-Bicuclline",
-        "cop": 1,
-        "opa": "Competitive",
-        "opb": "Noncompetetive",
-        "opc": "Both of the above",
-        "opd": "None of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "86705dcb-1ea0-4657-a0d4-d6a2a6809264",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drug not given sublingually is:",
-        "exp": "ANSWER: (D) ISOSORBIDE-5. MONONITRATEREF: KDT 6th edition page 7, Pharmacology and Pharmacotherapeutics (New Revised 21 St Ed.) Page 9\"Isosorbide-5-mononitrate and Isosorbide-2-mononitrate are two active metabolites of Isosorbide dinitrate which are not given sublingually unlike isosorbide dinitrate\"Sublingual administration has certain advantages over oral administration. Being more direct, it is often faster, and it ensures that the substance will risk degradation only by salivary enzymes before entering the bloodstream, whereas orally administered drugs must survive passage through the hostile environment of the gastrointestinal tract, which risks degrading them, either by stomach acid or bile, or by the many enzymes. Drugs given sublingually are: Psychoactive substance like Salvinorin A, LSD, MDMA, morphine, alprazolam, clonazepam, diazepam. Buprenorphine (0. 4-0. 8 mg) produces satisfactory analgesia in postoperative patients. Nitroglycerin is a lipid-soluble substance that is rapidly absorbed across the sublingual or buccal mucosa. Isosorbide dinitrate and pentaerythritol tetranitrate also can be administered sublingually or buccally. Methyl testosterone. Ergotamine tartrate. Nefidipine. Domperidone. Ondansetron. Desamino-oxytocin",
-        "cop": 4,
-        "opa": "Isosorbide dinitrate",
-        "opb": "Buprenorphine",
-        "opc": "Ergotamine tartrate",
-        "opd": "Isosorbide-5-mononitrate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "c959773e-ba88-4bbe-8ea2-a79d7b385ba8",
-        "choice_type": "multi"
     },
     {
         "question": "Intramuscular injections are given which quadrant of buttock-",
@@ -1118,32 +832,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true for sublingual route except -",
-        "exp": "Ans. is 'b' i. e., All drugs can be given Sublingual route of administrationo The tablet or pellet containing the drug is placed under the tongue or crushed in the mouth and spread over the buccal mucosa. o Only the lipid soluble and non-irritating drugs can be administered by this routeo Absoption is rapid and action can be produced in minuteso Action can be easily terminated by spitting the drug after the desired effect is achieved, o Liver is bypassed with this route, thus the drugs with high first pass metabolism can be easily given by this route. o Drugs given by this route are: GTN, buprenorphine, desamino-oxytocin.",
-        "cop": 2,
-        "opa": "Escape first pass metabolism",
-        "opb": "All drugs can be given",
-        "opc": "Action can be terminated any time",
-        "opd": "Rapid absorption",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "f0f1e748-9e95-45e8-8ce9-7c248629a3d5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Acidic drugs bind to -",
-        "exp": "Ans. is 'c' i. e., Albumin o Many natural substances circulate around the body partly free in plasma water and partly bound to plasma proteins, e. g. cortisol, thyroxine. o Similarly drugs circulate in protein bound and free states, and the significance is that the free fraction is pharmacologically active whereas the protein bound component is a reservoir of drug that is inactive because of this binding. o Acidic drugs generally bind to plasma albumin. o Basic drugs bind to a{ acid glycoprotein. o Binding to albumin is quantitatively more important.",
-        "cop": 3,
-        "opa": "Globulin",
-        "opb": "a-1 glycoprotein",
-        "opc": "Albumin",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "e3953397-e854-46cd-ba7a-a66534bed7cc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Narrow therapeutic index is seen with:",
         "exp": "Ans. B. Lithium. Drugs with narrow therapeutic Index: digoxin, theophylline, lidocaine, cyclosporine, clonidine, anticonvulsant (Phenytoin), TCA (imipramine), aminoglycosides, glipizide (not metformin)",
         "cop": 2,
@@ -1168,19 +856,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "f9758351-afa2-4863-96a1-bb24efa55949",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements is TRUE regarding termination of action of a drug?",
-        "exp": "* Action of a drug can be terminated either by hepatic metabolism or by renal excretion. Other pathways like excretion in sweat or saliva plays minor roles. * Most of the drugs are inactivated by metabolism. However, some drugs may be activated from inactive form (prodrugs) and others may produce active metabolites. * Some drugs may act away from blood e. g. digoxin leaves bloodstream and enters the heart to produce its action.",
-        "cop": 3,
-        "opa": "Drugs must be excreted from the body to terminate their action",
-        "opb": "Metabolism of drugs always abolishes their pharmacologic activity",
-        "opc": "Hepatic metabolism and renal excretion are the two most impoant mechanisms involved",
-        "opd": "Distribution of a drug out of blood stream terminates the drug's effects",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "064a87c2-a2de-4f4e-b70e-3f427dc06b09",
-        "choice_type": "multi"
     },
     {
         "question": "Route of administration of Gn RH analogue -",
@@ -1222,19 +897,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Drug with elimination by lsl order kinetics -",
-        "exp": "Ans. is 'd' i. e., All of the above o Most of the drugs follow first order kinetics except following which follow zero order kinetics.# Phenytoin# Tolbutamide# Theophylline# Warfarin# Alcohol# Salicylates (Aspirin)",
-        "cop": 4,
-        "opa": "Opioids",
-        "opb": "Verapamil",
-        "opc": "Lignocaine",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "485c2dbd-d62a-4985-bd5f-a13546afddda",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is an example of a phase 1 Xenobiotic reaction? (Repeat)",
         "exp": "Ans: B (Hydroxylation) Ref: The Pharmacological basis of therapeutics by Goodman & Gilman - 12th ed, page no. 125. Explanation: Hydroxylation is an example for phase 1 reaction while. Acetylation, glucuronidation and methylation are examples of conjugation reactions which are phase 2 reactions. (See Table 7)",
         "cop": 2,
@@ -1246,19 +908,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "0e0846cf-12df-4e05-af6b-7daeb8ff9d38",
         "choice_type": "single"
-    },
-    {
-        "question": "True about t 1/2 -",
-        "exp": "Ans. is 'a' i. e., Time required to reduce the plasma cone, to half Half life T 1/2 o It is the time required to reduce the plasma concentration to half (50%) of the original value. It determines the dosing interval and time required to reach the steady state. It is a secondary pharmakokinetic parameter derived from two primary parameters, volume of distribution (Vd) and clearance (CL). t 1/2 =0. 693 x Vd----------CLo After: 1 t 1/2 - 50% drug is eliminated2 t 1/2 - 75% (50 + 25) drug is eliminated3 t 1/2 - 87. 5% (50 + 25+ 12. 5) drug is eliminated4 t 1/2 - 93. 75% (50 + 25 + 12. 5 + 6. 25) drug is eliminated5 t 1/2 - 96. 875% (50+ 25+ 12. 5+ 6. 25+ 3. 125) drug is eliminatedo Thus, nearly complete drug elimination occurs in 5 half lifes. o For drugs eliminated by: 1. First order kinetics - t 1/2 remains constant2. Zero order kinetics - t 1/2 increases",
-        "cop": 1,
-        "opa": "Time required to reduce the plasma cone, to half",
-        "opb": "Zero order kinetics -t 1/2 remains constant",
-        "opc": "First order kinetics -t 1/2 increases",
-        "opd": "Complete drug elimination occurs in 2-3 t 1/2",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "6610ffc7-e301-4be6-aecb-8826a3c3847b",
-        "choice_type": "multi"
     },
     {
         "question": "Therapeutic index signifies?",
@@ -1313,19 +962,6 @@
         "choice_type": "single"
     },
     {
-        "question": "When gentamicin is given, its half life is 2-3 hours but it accumulates in kidney and its half life is prolonged to 53 hour. This half life is called as:",
-        "exp": "Terminal half life: With prolonged dosing (or with high drug concentrations), a drug may penetrate beyond the central compament into \"deep\" or secondary body compaments that equilibrate only slowly with the plasma. When the infusion or dosing stops, the drug will be initially cleared from plasma as expected but will eventually drop to a point at which net diffusion from the secondary compaments begins, and this slow equilibration will produce a prolongation of the half-life of the drug, referred to as the terminal half-life.",
-        "cop": 2,
-        "opa": "Secondary half life",
-        "opb": "Terminal half life",
-        "opc": "Zero order half life",
-        "opd": "First order half life",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "87749d51-234a-46ae-93e3-b253f6d1d9d4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a pro drug is -",
         "exp": "Ans. is 'a' i. e., Levodopa Prodrugo Few drugs are inactive as such and need conversion in the body to one or more active metabolites, o Such a drug is called a prodrug. o All the drugs in following table are very important, sorry, I can not shorten the list. Prodrug. Levodopa. Enalaprila - Methyldopa. Chloralhydrate. Dipiveffine. Oxcarbazepine. Prednisone. Bacampicillin. Sulfasalazine. Cyc lophospham ide. Mercaptopurine. Fluorouracil. Sulindac. Azathioprine. Cortisone. Benorilate. Proguanil. Zidovudin. Terfenadine. Prontosilo Advantages of prodrugs over active form. More stable. Better bioavailability. Less side effects and toxicity.",
         "cop": 1,
@@ -1337,32 +973,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "dc663690-d90c-485c-b7d7-3a1c561c73de",
         "choice_type": "single"
-    },
-    {
-        "question": "The drugs w hich achieve concentration in bile are all except -",
-        "exp": "Ans. is 'd' i. e., Alpha methyl dopa Drugs that attain high concentration in bile areo Erythromycino Oral contraceptiveso Rifampino Ampicillino Tetracyclineo Phenolphthalein",
-        "cop": 4,
-        "opa": "Erythromycin",
-        "opb": "Tetracycline",
-        "opc": "Oral contraceptives",
-        "opd": "Alpha methyldopa",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "22924b87-247b-4a03-8793-12e6d2ce8945",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Ability of body to eliminate the drug from body is called as:",
-        "exp": "Ans. B. Clearance (Ref: KDT 7/e p3, 6/e p31). Ability of body to eliminate the drug from body is called as Clearance. Clearance. The clearance of the drug is theoretical volume of plasma from which the drug is completely removed in unit time. It can be calculated as: CL = Rate of elimination/CC is plasma concentration",
-        "cop": 2,
-        "opa": "Volume of distribution",
-        "opb": "Clearance",
-        "opc": "Steady state",
-        "opd": "Rate of elimination",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "9ebf0797-bf3f-4574-801f-9c34cf69c152",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is an enzyme inhibitor -",
@@ -1378,45 +988,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is not true for therapeutic drug monitoring (TDM)?",
-        "exp": "Criteria for doing TDM Low therapeutic index When therapeutic response cannot be easily measured Inconsistent pharmacokinetics of the drug TDM is done for A Aminoglycosides Drug Digoxin Possessing Phenytoin Very Valproate Low Lithium Therapeutic Tricyclic Antidepressants Index Immunosuppressants",
-        "cop": 1,
-        "opa": "Done when clinical response can be easily measured",
-        "opb": "Done for narrow therapeutic index drugs",
-        "opc": "Digoxin is an example of a drug for which TDM is done",
-        "opd": "TDM can be done if drug has erratic pharmacokinetics",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "378b7a6f-6273-4dc5-9e44-432e64ad1d0d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are metabolized by acetylation, EXCEPT",
-        "exp": "Ans. is 'd' i. e., Chlorpromazine Drugs undergoing Acetylation-Sulfonamides. Isoniazid. PASHydralazine. Procainamide. Also know. Drugs undergoing glucuronide conjugation. Chloramphenicol. Aspirin. Phenacetin. Morphine. Metronidazole. Drugs undergoing Glycine conjugation. Salicylates and. Other drugs with Carboxyl group. Drugs undergoing Glutathione conjugation. Paracetamol",
-        "cop": 4,
-        "opa": "Hydralazine",
-        "opb": "INH",
-        "opc": "Procainamide",
-        "opd": "Chlorpromazine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "502eb0ae-fac8-4f9c-ad3a-9d4902d59107",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are advantages of transdermal drug delivery systems EXCEPT:",
-        "exp": "Transdermal route is employed for highly lipid soluble drugs that can traverse intact skin. The size of the pores in transdermal patch is adjusted to produce a uniform and smooth absorption of the drug. This will thus, produce a delayed and smaller peak in the plasma concentration. As the drug is going directly in the bloodstream, first pass metabolism is avoided. Eg: Transdermal patch- Rotigotine is used in Parkinson disease",
-        "cop": 1,
-        "opa": "They produce high peak plasma concentration of the drug",
-        "opb": "They produce smooth and nonfluctuating plasma concentration of the drug",
-        "opc": "They minimize inter-individual variations in the achieved plasma drug concentration",
-        "opd": "They avoid hepatic first pass metabolism of the drug",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "b58683cd-4d2e-4689-8d84-b4030560e5d2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hoffmann's elimination is -",
         "exp": "Ans. is 'd' i. e., Inactivation by molecular rearrangement Hofmann eliminationo This refers to inactivation of the drug in the body fluids by spontaneous molecular rearrangement without the agency of any enzyme, o Atracurium is eliminated by this method.",
         "cop": 4,
@@ -1430,19 +1001,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Drug excretion through kidney depends on all, EXCEPT",
-        "exp": "Ans. is 'b' molecular weight of the drug The amount of drug excreted by the kidney depends on 3 factors:- Glomerular filtration, tubular reabsorption, tubular secretion. Glomerular filtration. It depends upon Plasma protein binding - Only unbound form is excreted. Renal blood flow - G. F. R. increase with increase in renal blood flow. Tubular reabsorption. This depends upon. Lipid solubility of the drug - Nonlipid soluble drugs are excreted more Ionization of the drug - highly ionized drugs are excreted more. Tubular secretion. It is the active transfer of organic acids and bases by two separate nonspecific mechanisms",
-        "cop": 2,
-        "opa": "High blood flow in kidney",
-        "opb": "Molecular weight of drug",
-        "opc": "Lipid solubility of drug",
-        "opd": "Plasma protein binding of drug",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "2a72e19e-9af2-454b-a1c8-cebacdfccfbc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Steady state concentration of a drug is achieved in:-",
         "exp": "STEADY STATE - If fixed dose of a drug is administered after regular intervals, its plasma concentration stas increasing. - However, as plasma concentration rises, rate of elimination also stas increasing. When rate of administration becomes equal to rate of elimination, plasma concentration stabilizes. This is called steady state. - Time to reach steady state depends on t 1/2. It takes approximately 4-5 half lives. - Steady state plasma concentration achieved depends on dose rate. - Variation between peak and trough concentration at steady state depends on dosing interval. However, average steady state plasma concentration remains same irrespective of dosing interval provided dose rate remains same.",
         "cop": 3,
@@ -1454,19 +1012,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "1f977974-1f8c-42f1-8473-16f6d24dbf45",
         "choice_type": "single"
-    },
-    {
-        "question": "Dosage of drug is determined by following except-",
-        "exp": "Ans. is 'None', but go with \"b\" as the best option here o Loading dose is governed by volume of distribution and volume of distribution is affected by lipid solubility. o Maintenance dose is governed by clearance (excretion) of drug and half life. o For one option go ahead for option b ie half life because:\"Clearance is the most important factor for maintenance dose\".------Katzung 10th/e - 44",
-        "cop": 2,
-        "opa": "Volume of distribution",
-        "opb": "Half life",
-        "opc": "Lipid solubility",
-        "opd": "Excretion of drug",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "2f3666e8-f152-4eff-8dc9-5742f1590606",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drugs has maximum chances of absorption from gastric mucosa?",
@@ -1495,19 +1040,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Renal threshold of drug means -",
-        "exp": "Ans. is 'a' i. e., Drug concentration above which it appears in urine Renal Thresholdo The renal threshold is the concentration of a substance dissolved in the blood above which the kidneys begin to remove it into the urine. When the renal threshold of a substance is exceeded, reabsorption of the substance by the proximal convoluted tubule is incomplete; consequently, part of the substance remains in the urine, o Thus renal threshold is the Drug concentration above which it appears in urine.",
-        "cop": 1,
-        "opa": "Drug concentration above which it appears in urine",
-        "opb": "Drug concentration below which it appears in urine",
-        "opc": "Drug concentration above which it appears in blood",
-        "opd": "Drug concentration below which it appears in urine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "bf7cdeff-1992-46e1-b830-bc78c62d7267",
-        "choice_type": "multi"
-    },
-    {
         "question": "Drug, NOT metabolised by liver is:",
         "exp": "Ans. is 'a' Penicillin G Penicillin G is metalized mainly in kidney. Approximately 10% of the drug is eliminated by glomerular filtration and 90% by tubular secretion. Rest of the drugs given in the question erythromycin, cimetidine and phenytoin are metabolized in the liver.",
         "cop": 1,
@@ -1519,19 +1051,6 @@
         "topic_name": "Pharmacokinetics",
         "id": "1d2cda14-7251-49d2-b313-47701de59389",
         "choice_type": "single"
-    },
-    {
-        "question": "False regarding Cytochrome P450 is:",
-        "exp": "Ref: Goodman and Gilmans \"Pharmacological basis of therapeutics\" 12th ed. Explanation: The cytochrome P450 superfamily (CYP) is a large and diverse group of enzymes that catalyze the oxidation of organic substances. The cytochrome P450 (CYP) mixed function monooxygenases are located on the smooth endoplasmic reticulum of cells throughout the body, but the highest concentrations are found in the liver (hepatocytes) and small intestine. These enzymes are responsible for the oxidative (Phase I) metabolism of a wide number of compounds, including many medications. They biotransform lipophilic drugs to more polar compounds that can be excreted by the kidneys. The metabolites are usually less active than the parent compound, although some drugs undergo biotransformation to pharmacologic active agents. The substrates of CYP enzymes include metabolic intermediates such as lipids and steroidal hormones, as well as xenobiotic substances such as drugs and other toxic chemicals. CYPs are the major enzymes involved in drug metabolism and bioactivation, accounting for about 75% of the total number of different metabolic reactions. Based on the nature of the electron transfer proteins. CYPs can be classified into several groups: Microsomal P450 systems in which electrons are transferred from NADPH via cytochrome P450 reductase (variously CPR, POR. or CYPOR). Cytochrome b5 (cyb5) can also contribute reducing power to this system after being reduced by cytochrome b5 reductase (CYB5R). Mitochondrial P450 systems, that employ adrenodoxin reductase and adrenodoxin to transfer electrons from NADPH to P450. Bacterial P450 systems, that employ a ferredoxin reductase and a ferredoxin to transfer electrons to P450. CYB5R/cyb5/P450 systems in which both electrons required by the CYP come from cytochrome b5. FMN/Fd/P450 systems originally found in Rhodococcus sp. in which a FMN-domain- containing reductase is fused to the CYP. P450 only systems, which do not require external reducing power. Notable ones include CYP5 (thromboxane synthase), CYP8 (prostacyclin synthase), and CYP74A (allene oxide synthase).",
-        "cop": 1,
-        "opa": "Found only in bone marrow",
-        "opb": "CYP3. A4 is the most common isoform",
-        "opc": "Participate in Phase 1 Xenobiotic reactions",
-        "opd": "They are present in Smooth Endoplasmic reticulum within cells",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "b48c7bf9-b959-4e01-a7bf-1eb595b8a100",
-        "choice_type": "multi"
     },
     {
         "question": "Which is phase - II drug metabolic reaction -",
@@ -1560,71 +1079,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Clearance-",
-        "exp": "Ans. is 'd' i. e., All of the above o Clearance of a drug is the theoretical volume of plasma from which the drug is completely removed in unit time, o It refers to efficacy of elimination of a drug: Clearance =Rate of elimination. Plasma concentrationo As drug is to be removed from plasma in unit time, clearance can not be greater than blood flow to an organ. o Steady state plasma concentration is determined by t 1/2. t 1/2 is dependent on clearance: 154=0-693 x. VCLSo, clearance determines the steady state plasma concentration.",
-        "cop": 4,
-        "opa": "Refers to the efficacy of elimination of a drug by an organ or whole body",
-        "opb": "Cannot be greater than blood flow to an organ",
-        "opc": "Determines the steady of the drug concentration",
-        "opd": "All the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "911ce36e-46d0-44bc-a41b-301cfe272830",
-        "choice_type": "multi"
-    },
-    {
-        "question": "When one drug decreases or inhibits the action of other it is called-",
-        "exp": "Ans. is 'a' i. e., Antagonism Antagonismo When one drug decreases or inhibits the action of other. o Effect of drugs A + B < effect of drug A + effect of drug B. o Antagonism may be: Physical. Based on physical property'Chemical. The two drugs react chemically and form an inactive product. Physiological, functional. The two drugs act on different receptors or by different mechanisms, but have opposite overt effects on the same physiological function ie have pharmacological effect in opposite direction. Receptor. The antagonist interferes with binding of the agonist with its receptor or inhibits the generation of response consequent to such binding.",
-        "cop": 1,
-        "opa": "Antagonism",
-        "opb": "Agonism",
-        "opc": "Inverseagonism",
-        "opd": "Synergism",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "095a4b31-a636-4079-acaf-c2b33fe0ec74",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which drug can be given subdermally -",
-        "exp": "Ans. is 'd' i. e., Progesterone [ style=\"font-size: 1. 04761904761905em; font-family: Times New Roman, Times, serif; margin: 0 0 8pt 8px; text-indent: 0; text-align: left\">o Progesterone can be given in the form of subdermal implant. o Subdermal contraceptive implants involve the delivery of a steroid progestin from polymer capsules or rods placed under the skin. o The hormone diffuses out slowly at a stable rate, providing contraceptive effectiveness for 1-5 years, o The period of protection depends upon the specific progestin and the type of polymer. o Advantages of progestin implants include long term contraceptive action without requiring the user's or provider's attention, low dose of highly effective contraception without the use of estrogen, and fertility is readily reversible after the removal of implants. o The levonorgestrel implant Norplant R system is the only one that has been approved for distribution, o The contraceptive efficacy of Norplant is the highest observed amongst the most effective methods with an annual pregnancy rate of 0[?]2 during the first and second year and 1[?]1 on the fifth year. Menstrual problems are the mainreason for the discontinuation of Norplant and 9% of women stopped using it during the first year of treatment.",
-        "cop": 4,
-        "opa": "Nicotine",
-        "opb": "Fentanyl",
-        "opc": "GTN",
-        "opd": "Progesterone",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "eef7ed03-4ca5-4be1-a351-6783e4689201",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following have poor penetration in brain and eyes except",
-        "exp": "Glycopyrrolate, Tiotropium bromide, Isopropamide are Atropine substitute Quaternary compounds. These compounds are lipid insoluble and therefore have poor penetration in brain and eyes. Glycopyrrolate blocks the peripheral muscarinic side effects(caused by increased Ach levels) without causing unwanted central anticholinergic effects. Pilocarpine and Arecoline being teiary aminesare readily absorbed and can cross the blood-brain barrier.",
-        "cop": 2,
-        "opa": "Glycopyrrolate",
-        "opb": "Pilocarpine",
-        "opc": "Tiotropium bromide",
-        "opd": "Isopropamide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "e849d40c-b036-466d-8aa2-7c5b76b45e69",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about first order kinetics is:",
-        "exp": "Ans. d. The rate of elimination is proportional to the plasma concentration (Ref: Katzung 12/e p43-44: KDT 7/e p30-31, 6/e p31-32). Rate of elimination is proportional to plasma concentrationQ first order kinetics (Linear kinetics). First Order Kinetics (Linear kinetics). Zero Order Kinetics (Non linear Kinetics)* Constant fraction of drug is eliminated per unit of timeQ.* Rate of elimination is proportional to plasma concentrationQ.* Clearance remains constantQ.* Half-life remains constantQ.* Most of the drugs follow first order kineticsQ.* Constant amount of the drug is eliminated per unit timeQ.* Rate of elimination is independentQ of plasma concentration.* Clearance is more at low concentrations and less at high concentrationsQ.* Half-life is less at low concentrations and more at high concentrationsQ.* Very few drugs follow pure zero order kinetics e g. alcoholQ* Any drug at high concentration (when metabolic or elimination pathway is saturated) may show zero order kineticsQ.",
-        "cop": 4,
-        "opa": "A constant amount is eliminated in unit time",
-        "opb": "The half-life increases with an increase in dose",
-        "opc": "The rate of elimination is constant",
-        "opd": "The rate of elimination is proportional to the plasma concentration",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "6b301571-46fe-409a-bda8-80d146e8aa66",
-        "choice_type": "multi"
-    },
-    {
         "question": "A drug X is secreted through renal tubules, tubular secretion of this drug can be confirmed if renal clearance of drug X is:",
         "exp": "* After filtration from glomerulus, a drug may undergo two processes (tubular reabsorption and tubular secretion) before going out from the body i. e. renal clearance *Suppose 100 mg of a drug is filtered by glomerulus and the renal clearance is 150 mg, it means 50 mg is coming from somewhere else, i. e. tubular secretion must be present. However, we cannot say that reabsorption is not occuring because if 20 mg is reabsorbed and 70 mg is secreted, same thing can happen. * Suppose, 100 mg of a drug is filtered but renal clearance is 50 mg. Therefore, 50 mg must have gone somewhere i. e. tubular reabsorption must be occurring. Again, we cannot say that tubular secretion is not present.",
         "cop": 1,
@@ -1636,18 +1090,5 @@
         "topic_name": "Pharmacokinetics",
         "id": "97562fb9-c62b-4bec-99f2-2850e396176a",
         "choice_type": "single"
-    },
-    {
-        "question": "Which drug can be administered through all routes?",
-        "exp": "Ref: Katzung 11th ed. p. 542. Explanation: Most opioid analgesics are well absorbed when given by subcutaneous, intramuscular, and oral routes. Rectal suppositories of morphine and hydromorphone have been used when oral and parenteral routes are undesirable. The transderma I patch provides stable blood levels of drug and better pain control while avoiding the need for repeated parenteral injections. Fentanyl has been the most successful opioid in transdermal application and is indicated for the management of persistent unremitting pain. The intranasal route avoids repeated parenteral drug injections and the first-pass metabolism of orally administered drugs. Butorphanol is the only opioid currently available in the USA in a nasal formulation. Butorphanol has shown greater analgesia in women. Another alternative to parenteral administration is the buccal transmucosal route, which uses a fentanyl citrate lozenge or a \"lollipop'' mounted on a stick.",
-        "cop": 1,
-        "opa": "Fentanyl",
-        "opb": "Paracetamol",
-        "opc": "Penicillin G",
-        "opd": "Azithromycin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pharmacokinetics",
-        "id": "4767f2aa-baf1-4500-8e57-dc7eb329f76a",
-        "choice_type": "multi"
     }
 ]

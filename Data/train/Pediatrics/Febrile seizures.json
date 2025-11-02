@@ -1,31 +1,5 @@
 [
     {
-        "question": "All of the following are characteristics of complex febrile seizures EXCEPT?",
-        "exp": "Types of febrile seizures:",
-        "cop": 3,
-        "opa": "Focal seizures",
-        "opb": "Recurrent seizures within the same febrile illness",
-        "opc": "Generalised seizures",
-        "opd": "Duration > 15 minutes",
-        "subject_name": "Pediatrics",
-        "topic_name": "Febrile seizures",
-        "id": "eff03a39-d5f2-4e15-a523-42f3f30ca4ef",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Indication for lumbar puncture in child with febrile seizures are all except?",
-        "exp": "- All the above given choices are indication for lumbar puncture but the least useful indication is option D i. e. infants pretreated with antibiotics. - As the baby is already treated with antibiotics, the lumbar puncture wouldn't give a true picture that whether the baby actually had CNS infection or not, the condition might be altered and be normalized with antibiotics. - Since we already staed antibiotics, it might not help much although it might help decide duration of antibiotics. But compared to above other 3 situations, lumbar puncture here is least useful. LUMBAR PUNCTURE IN FEBRILE SEIZURES: Meningitis should be considered in the differential diagnosis, and lumbar puncture should be performed for: All infants <6m of age who presents with fever and seizure, or If the child is ill-appearing or at any age if there are clinical signs or symptoms of concern. A lumbar puncture is an option in a child 6-12m of age who is deficient in H. influenzae type b and streptococcus pneumoniae immunizations or for whom immunization status is unknown.",
-        "cop": 4,
-        "opa": "All infants <6 months",
-        "opb": "Children 6 to 12 months with no Hib & pneumococcal vaccination",
-        "opc": "Severely ill infants with clinical signs and symptoms",
-        "opd": "Infants pretreated with antibiotics",
-        "subject_name": "Pediatrics",
-        "topic_name": "Febrile seizures",
-        "id": "d420d959-c370-41db-9f75-cd9159774054",
-        "choice_type": "multi"
-    },
-    {
         "question": "Continuous prophylactic anticonvulsant therapy is not needed in a child with febrile convulsions with?",
         "exp": "Continuous antiepileptic therapy is not required for simple febrile seizures, but intermittent prophylaxis may be given. Febrile seizures Types Simple febrile seizures Complex febrile seizures Generalised, usually tonic clonic Lasting for a maximum of 15 minutes Does not reoccur within 24 hrs period Focal in nature More prolonged >15 minutes Recurs within 24 hrs.",
         "cop": 3,
@@ -39,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Risk factors for recurrent febrile seizures include all the following EXCEPT?",
-        "exp": "Risk factors for epilepsy in a child with febrile seizures include: Risk Factors for Recurrence of Febrile Seizures* MAJOR Age < 1 yr. Duration of fever < 24 hr Fever 38-39degC (100. 4-102. 2degF) MINOR Family history of febrile seizures Family history of epilepsy Complex febrile seizure Daycare Male gender. Lower serum sodium at time of presentation *Having no risk factors carries a recurrence risk of approximately 12%; one risk factor, 25-50%; two risk factors, 50-59%; three or more risk factors, 73-100%.",
-        "cop": 3,
-        "opa": "Age at 1st episode < 18 months",
-        "opb": "Family history of febrile seizures",
-        "opc": "Female gender",
-        "opd": "First seizure at temperature < 40oC",
-        "subject_name": "Pediatrics",
-        "topic_name": "Febrile seizures",
-        "id": "2a618614-2c54-45f7-8650-013249190116",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Management of typical febrile seizures include all EXCEPT:",
-        "exp": "Measures to lower temperature (in a child with fever) like paracetamol and sponging and intermittent prophylaxis with Diazepam or Clobazam are used in the treatment of typical febrile seizures.",
-        "cop": 4,
-        "opa": "Sponging",
-        "opb": "Paracetamol or ibuprofen",
-        "opc": "Intermittent diazepam",
-        "opd": "Prophylactic phenobarbitone",
-        "subject_name": "Pediatrics",
-        "topic_name": "Febrile seizures",
-        "id": "7b12f5fd-0394-408e-8be7-09469106a099",
-        "choice_type": "multi"
-    },
-    {
         "question": "Midazolam given after how many minutes after continuous febrile seizures?",
         "exp": "If the seizure lasts for longer than 5 min, acute treatment with diazepam, lorazepam, or midazolam is needed.",
         "cop": 2,
@@ -76,19 +24,6 @@
         "topic_name": "Febrile seizures",
         "id": "2863b899-385c-4445-82e3-2ac52a986858",
         "choice_type": "single"
-    },
-    {
-        "question": "A 3 year old child presents with a history of 1 episode of GTCS lasting for 3-4 minutes, 6 hours ago, accompanied fever of 102degF and mild coryza. On examination, the child is conscious and ale, hemodynamically stable and has no meningeal signs. Which of the following is true about child's condition?",
-        "exp": "This is a case of Febrile Seizure - Seizure + Significant fever (>100. 4degF) without any evidence of CNS infection in the age group of 6 months -5 years. 2 types: Simple Complex Generalized Focal <15 min 15min or longer Single episode in 24 hrs Frequent episode So as a pa of treatment:- Intermittent prophylaxis with Clobazam is recommended Long term antiepileptic treatment is of no use in Simple febrile seizure.",
-        "cop": 2,
-        "opa": "Antiepileptics should be staed and given for at least 2 years",
-        "opb": "Intermittent prophylaxis with Clobazam is recommended",
-        "opc": "Lumbar puncture and CSF study should be done",
-        "opd": "Paracetamol will decrease the recurrence risk of seizures",
-        "subject_name": "Pediatrics",
-        "topic_name": "Febrile seizures",
-        "id": "1bb44819-3996-4272-a71a-d99c0ceb1c1d",
-        "choice_type": "multi"
     },
     {
         "question": "Intermittent prophylaxis for febrile seizures should be given for how many days when a fever recurrs?",

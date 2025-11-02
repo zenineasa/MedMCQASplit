@@ -65,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Prokaryotes doesn't have",
-        "exp": "Ans: b) Mitochondria. Kingdom protista is divided into Prokaryotes and Eukaryotes. Prokaryotes Bacteria & blue green algae. Eukaryotes. Fungi, slime moulds, other algae & protozoa. Almost all organelle and cell components are absent in prokaryotes which are found in Eukaryotes. Muramic acid and Diaminopimelic acid (cell wall precursors) are present in prokaryotes & not in Eukaryotes. Chromosome is circular in prokaryotes (single) & more than one (linear) in eukaryotes.",
-        "cop": 2,
-        "opa": "Cell membrane",
-        "opb": "Mitochondria",
-        "opc": "Ribosome",
-        "opd": "Cell wall",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "ed35ed89-0f19-4eda-b55c-dd85672f2796",
-        "choice_type": "multi"
-    },
-    {
         "question": "Microbiological waste should be segregated in which color bag:",
         "exp": "Ans. A. Yellow. Color coded bag. Item. Yellow bag. Infectious non-plastic (Anatomical & microbiological). Red bag. Infectious plastic waste. White/Translucent sharp container (Puncture proof box). Metal sharp. Blue container (Puncture proof box). Broken glass items and metal implants",
         "cop": 1,
@@ -182,19 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Porin present in-",
-        "exp": "Ans. is 'd' i. e.. Outer membrane of gram negative bacteria o Cell envelop of bacteria comprises-An outer membrane (only in gram negative bacteria). A cell wall composed of peptidoglycan. Periplasm (only in gram negative bacteria). Cell membrane (cytoplasmic membrane), wrhich encloses cytoplasm. o Outer membranes, which are present only in gram negative bacteria, function as the cell's initial barrier to the environment. o The membrane is a bilayered structure composed of lipopolysaccharide. o Scattered throughout the lipopolysaccharide macromolecules are protein structures called porins. These control the passage of nutrients and other solutes, including antibiotics, through outer membrane.",
-        "cop": 4,
-        "opa": "Cell wall of gram positive bacteria",
-        "opb": "Cell membrane of gram positive bacteria",
-        "opc": "Cell wall of gram negative bacteria",
-        "opd": "Outer membrane of gram negative bacteria",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "a65d5def-6a8f-4ef6-aab2-9654b9dacefe",
-        "choice_type": "multi"
-    },
-    {
         "question": "Property of acquiring antibiotic resistance from viral colony is by:",
         "exp": "Ans. is 'c' i. e., Transduction (Ref: Ananthanarayan, 9th/e, p. 59 and 8th/e, p. 63, 67, 681). Acquiring antibiotic resistance by viral colony (bacteriophage) is by transduction.",
         "cop": 3,
@@ -232,19 +206,6 @@
         "topic_name": "General",
         "id": "940cd593-ebd9-4ca4-a951-fc62c3ffb472",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is true about pasteurization?",
-        "exp": "Ans. is 'b' i. e., It kills all bacteria except thermoduric bacteria (Ref: Ananthanarayan, 9th/e, p. 31, 8th/e, p. 31-32) Thermoduric bacteria - Bacteria which can survive, to varying extents, the pasteurization process. Pasteurization kills nearly 90% of bacteria in milk except certain bacteria like Coxiella burnetti which is resistant to Holders method of sterilization but killed by Flash method of Sterilization.",
-        "cop": 2,
-        "opa": "It kills all bacteria and spores",
-        "opb": "It kills all bacteria except thermoduric bacteria",
-        "opc": "It kills 95% of microorganisms",
-        "opd": "All bacteria are destroyed",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "3f2ee2a3-a5f7-4315-9574-e0760e3f871e",
-        "choice_type": "multi"
     },
     {
         "question": "Thermatomyces is used in?",
@@ -312,19 +273,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Transfer of genetic material by direct physical contact is bacteria in called?",
-        "exp": "Ref: Textbook of Microbiology, Surinder Kumar pg. 530* Lysogeny does not affect bacterial metabolism. The prophage behaves likes segment of host chromosome and replicates synchronously by binary fission.* Bacterial conjugation is the transfer of genetic material between bacterial cells by direct cell-to-cell contact and is a mechanism of horizontal gene transfer, like transformation and transduction, although these two other mechanisms do not involve cell-to-cell contact.* Transduction is transfer of genetic material from bacteria to bacteria by bacteriophage. It was discovered by Zinder and Lederberg in Salmonella typhimurium. Clinically speaking it provides a way to study gene linkage.* Transformation is the genetic alteration of a cell resulting from the direct uptake and incorporation of exogenous genetic material (exogenous DNA) from its surroundings through the cell membrane.",
-        "cop": 3,
-        "opa": "Lysogeny",
-        "opb": "Transduction",
-        "opc": "Conjugation",
-        "opd": "Transformation",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "fcd10134-1287-4676-8713-5a659fa76d45",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most effective way of preventing hospital infection is:",
         "exp": "Ans. C. Hand washing. Hand of healthcare personnel ae the most important reservoir for transmission of healthcare associated infections",
         "cop": 3,
@@ -349,19 +297,6 @@
         "topic_name": "General",
         "id": "7ff6672a-11d2-4623-99e8-5d7233176a70",
         "choice_type": "single"
-    },
-    {
-        "question": "True about sex pilus",
-        "exp": "Ans: a) (Hollow tubular....) Ref: Medical microbiology Jawetz 23nl ed. Baily & Scott's diagnostic microbiology 12th ed. CONJUGATION* Process where male/ donor bacterium mates or makes physical contact with female/ recipient bacterium & transfers genetic elements into it. 1st described by Lederberg & Tatum in E coli called K12.* Plasmids are the genetic elements most frequently transferred by conjugation. But host. DNA& transposons all can be transferred by conjugation.* Fertility factor carried on plasmid is designated F+. This plasmid confers certain donor characteristics upon cells; these characteristics include a sex pilus: an extracellular multimeric protein extrusion that attaches donor cells to recipient organism lacking F factor.* Plasmid DNA in donor replicates & a copy of it passes from door to recipient along sex pilus. Thus recipient becomes F+& can conjugate with other cells.* Along with plasmid DNA, a portion of host DNA is sometimes transferred.* When F exists in some cells in intergrated state with host chromosome - HFr",
-        "cop": 1,
-        "opa": "Hollow tubular structure binding bacteria during conjugation",
-        "opb": "During conjugation host DNA is always transferred",
-        "opc": "Plasmid is transferred always",
-        "opd": "?",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "5cef5815-1703-4969-98f1-5fbe8cd514d8",
-        "choice_type": "multi"
     },
     {
         "question": "Best chemical disinfectant to disinfect stethoscope:",
@@ -531,19 +466,6 @@
         "topic_name": "General",
         "id": "415bb703-340a-4595-bfae-39fa4ded0944",
         "choice_type": "single"
-    },
-    {
-        "question": "Z-value of an organism:",
-        "exp": "Ans. C. Is the temperature change required for the D-value to change by a factor of tena. D value of an organism is the time needed at a certain temperature to kill 90% of the organisms in the medium, b. Z-value of an organism is the temperature change required for the D-value to change by a factor of ten",
-        "cop": 3,
-        "opa": "The time required to kill 90% of cells at a particular temperature",
-        "opb": "The time required to kill all cells at a particular temperature",
-        "opc": "Is the temperature change required for the D-value to change by a factor of ten",
-        "opd": "Is the temperature change required for the D-value to change by a factor of five",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "870f5483-462c-433e-a157-233d2b700783",
-        "choice_type": "multi"
     },
     {
         "question": "Bacillus used to test efficacy of Sterilisation by Autoclave is?",
@@ -741,19 +663,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Gentian violet colouration of gram positive bacteria is due to -",
-        "exp": "Ans. is 'a' i. e., Peptidoglycan GRAM STAININGo The gram stain differentiates bacteria into two broad groups1. Gram positive - Resist decolourization and retain primary stain, appear violet. 2. Gram negative - Decolourised by organic solvents, and therefore, take the counterstain, appearing red. Smear stained with gentian violet (primary stain)|Application of dilute solution of iodine|Decolourisation with organic solvent, e. g., ethanol|Counterstaining by carbol fuchsin|||Retain primary stain (violet)|Gram positive. Take colour of counterstain (red)|Gram negative. Why do gram-positive organisms retain primary stain, but not gram negative organisms. o In gram-positive bacteria there is a thick layer of peptidoglycan (ceil wall) just outside the bacterial cytoplasmic membrane. o This thick wall traps the primary stain (crystal violet) wrhich is not decolorised by ethanol, o In gram-negative bacteria this peptidoglycan (cell wall) layer is thin and just outside this peptidoglycan layer is outer cell membrane (which is not present in gram positive bacteria), o This outer cell membrane is partially dissolved by ethanol, thus washing out the crystal violet and allowing the counterstain to take.",
-        "cop": 1,
-        "opa": "Peptidoglycan",
-        "opb": "Capsule",
-        "opc": "Cell membrane",
-        "opd": "None of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "db362d58-11a9-4426-aafe-cb2ad3a8caf4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which organism acts as the control of autoclave?",
         "exp": "Ans: b (Bacillus stearothermophilus) Ref: Ananthanarayan, 7th ed, p. 78. Autoclaving: (Moist heat) (121degC X 15 min under 15 lb/sq. inch pressure) - dressings, gloves, glass syringes, culture media, suture materials except catgut. Sterilizing control is by bacillus stearo thermophilus. Hot air oven: (Dry heat) (160deg. CX 1 hr)-glasswares, glass syringes, oil, grease, liquid paraffin, dusting powder. Sterilization control is by spores of non toxigenic strains of Clostridium tetani.",
         "cop": 2,
@@ -765,19 +674,6 @@
         "topic_name": "General",
         "id": "95df8455-b153-436b-a5e7-eb41d5227751",
         "choice_type": "single"
-    },
-    {
-        "question": "Eukaryotes are different in causing infection because -",
-        "exp": "Ans. is 'b' i. e., Highly structured cell with organized cell organelles Prokary otes and Eukaryotes. All cells fall into one of the two major classification- 1 ). Prokaryotes or 2) Eukaryotes. Prokaryoteso Prokaryotes are evolutionally ancient, i. e. they are first living organisms to evolve. o They were here first and for billions of years were the only form of life. o Prokaryotic cells are not carrying ot life processes by themselves. The reason is that they don't have all the organelles (e. g. nucleus, mitochondria, golgi apparatus etc.) required to carry out life processes. So, these cells are dependent on other cells in order to form what is necessary for the life processes, o Prokaryotes divide by binary fission. o Prokaryotes are always single celled except wrhen they exist in colonies. o Examples- bacteria (including chlamydia & mycoplasma). Blue green algae, Archea. Eukaryoteso Eukaryotes are more complex, evolving from a prokary ote like precdecessor. o Eukaryotic ceils contain all the organelles required to carry out the processes of life. o Eukaryotes may be single ceiled or multicelled. o The most noticable feature that differentiates eukaryotes from prokaryotes is the presence of nucleus. o Eukaryotes divide by either mitosis or meiosis. o Examples- Fungi, Algae other than blue green algae, protozoa.",
-        "cop": 2,
-        "opa": "Divide by biniary fission",
-        "opb": "Highly structured cell with organized cell organelles",
-        "opc": "Dont have all organelles",
-        "opd": "Evolutionally ancient",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "f4efdd9a-bae2-4fee-8061-727c83099e38",
-        "choice_type": "multi"
     },
     {
         "question": "Holder method of Pasteurization does not kill -",
@@ -806,19 +702,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Cell wall structure is found in all EXCEPT:",
-        "exp": "(Mycoplasma pneumoniae) (395-AN 7th) (420-CP). General character of mycoplasma and ureaplasma are1. Pleomorphic smallest free living bacteria. They occur as granules andfilaments of various sizes2. Lack cell wall resulting in plasticity of the organisms and do not stain with conventional bacteriological stains3. Requires cholesterol or sterols for growth in culture; lipopolysaccharides - rich molecules attach to the cholesterol rich cell membrane. 4. Fastidious - grow slowly on complex enriched media5. \"Fried egg\" colonies6. M. pneumoniae grows aerobically other species are facultative anaerobes7. Species can be easily differentiated by metabolic characteristics. 8. Mycoplasmas differ from viruses in two respects. They contain both RNA and DNA and can reproduce in cell free media.",
-        "cop": 3,
-        "opa": "Staph-aureus",
-        "opb": "Pseudomonas aeruginosa",
-        "opc": "Mycoplasma pneumoniae",
-        "opd": "Corymebacterium diphtherae",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "5e1c9263-8181-4dc2-8cba-5bffe70fc0db",
-        "choice_type": "multi"
-    },
-    {
         "question": "Swarming motility is shown by:",
         "exp": "Ref: Ananthnaraycm R, Paniker CKJ. Textbook of Microbiology. 8th Edition. Hyderabad: Universities Press; 2009. Pg 280-1. Explanation: Organism. Characteristic motility. Vibrio. Darting motility. Listeria monocytogenes. Tumbling motility. Clostridium tetani. Stately motility. Spirochaetes. Cork-screw motility. Proteus and Clostridium tetani. Swarming. Salmonella. Sluggishly motile with oeritrichous flaaella. Shioella. Non-motile. Swarming of Proteus. Proteus mirabilis and Proteus vulgaris swarm on solid culture media. Discrete colonies are seen in young cultures but thereafter actively motile cells spread on the surface of the plate in successive waves to form a thin filmy layer in eoneentrie circles. Several methods have been used to inhibit swarming: Increased (600) concentration of agar. Incorporation of chloral hydrate (1: 500), sodium azide (1: 500), alcohol (5-6 %), sulphonamide, surface active agents or boric acid (1: 1 000). Swarming does not occur on Mac. Conkey's medium, on which smooth colourless colonies are formed.",
         "cop": 1,
@@ -830,19 +713,6 @@
         "topic_name": "General",
         "id": "d54d896c-a342-4df9-b0c9-7051e0891ef0",
         "choice_type": "single"
-    },
-    {
-        "question": "Cell wall deficient organisms are:",
-        "exp": "Ans. is 'b' i. e., Mycoplasma(Ref: Ananthanarayan, 9th/e, p. 386 and 8th/e, p. 16). Mycoplasma is bacteria that are cell wall deficient and hence don't possess a stable morphology. Mycoplasma represents Stable L - forms.* L - forms named after Lister INSTITUTE, London.* Streptobacillus moniliformis, Mycoplamsa.* Resistant to cell wall acting drug. Protoplast (Gm+ve) Spheroplast (Gm-ve).",
-        "cop": 2,
-        "opa": "Chlamydia",
-        "opb": "Mycoplasma",
-        "opc": "Staphylococcus",
-        "opd": "Clostridium",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "459ec513-6063-4de7-bc2a-3c021e5241dd",
-        "choice_type": "multi"
     },
     {
         "question": "A 24-year-old female presented with pain during urination. Gram stain of the uncentrifuged urine revealed the presence of gram-negative rods. What virulence factor is essential for the survival of these uropathogenic bacteria in the urinary tract?",
@@ -923,19 +793,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Human anatomical waste is disposed by?",
-        "exp": "ANSWER: (A) Incineration. REF: Park 20th edition page 699, align=\"center\" style=\"font-family: Times New Roman, Times, serif\">Colourcode. Type of container. Waste disposed. Treatment options. Black bag. Plastic bag. Noninfectious waste (papers, plastic covers) Discarded medicines & cytotoxic drugs. Disposal in secured landfills. Red bag. Plastic bag/ Disinfected container. Infected solid disposable wastes other than sharps (gloves, tunings, catheters, iv sets). Infected solid wastes contaminated with blood and body ftuidsfdressing, plaster, linen) Microbiology/Biotech waste (vaccines, cultures). Autoclaving/ Microwaving/ Chemical treatment. Yellow bag. Plastic bag. Human anatomical iwaste Animal waste. Microbiology/Biotech waste (vaccines, cultures) Infected solid wastes contaminated with blood and body fluidsf dressing, plaster, linen). Incineration/Deep burial. Blue bag. Plastic bag/ Puncture proof container. Solid sharps (needles, syringes, scalpels, blades) Infected solid disposable wastes other than sharps (gloves, tunings, catheters, iv sets). Autoclaving/ Microwaving/Chemical treatment/ Shredding",
-        "cop": 1,
-        "opa": "Incineration",
-        "opb": "Autoclaving",
-        "opc": "Chemically",
-        "opd": "None",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "68683906-600c-4beb-be13-bbc8134301ec",
-        "choice_type": "multi"
-    },
-    {
         "question": "The spores of which bacterium are used to check efficacy of hot air oven:",
         "exp": "Ans. C. Bacillus subtilisa. Spores of Bacillus subtilis are used as biological control in hot air oven sterilization. b. Spores of Bacillus atropheus are used as biological control in ETO sterilization. c. Spores of Bacillus pumilus are used as biological control of gamma sterilization. d. Spores and crystalline insecticidal proteins produced by B. thuringiensis have been used to control insect pests like mosquitoes.",
         "cop": 3,
@@ -962,19 +819,6 @@
         "choice_type": "single"
     },
     {
-        "question": "ETO (Ethylene oxide) is used for the following EXCEPT:",
-        "exp": "Ans. b (Fumigation of rooms) (Ref. Ananthanarayan, Microbiology, 7th ed., 42)# Liquid and gaseous ETHYLENE OXIDE destroys bacteria, viruses, fungi, and various spores.# It is also flammable and toxic, and it will cause severe burns if it comes in contact with the skin.# Gas sterilization with ETO is an excellent method for sterilization of most heat-sensitive materials:- Telescopic instruments, - Plastic and rubber goods, - Sharp and delicate instruments, - Electrical cords, and- Sealed ampules.# It has largely replaced soaking in antiseptics as a means of sterilizing materials that cannot withstand autoclaving. Ethylene oxide is toxic and represents a safety hazard unless used according to strict regulations. STERILIZATION# The only completely reliable methods of sterilization in wide current use for surgical instruments and supplies are:(1) Steam under pressure (autoclaving), (2) Dry heat, and(3) Ethylene oxide gas.# Autoclaving- Saturated steam at a pressure of 750 mm Hg (14. 5 psi above atmospheric pressure) at a temperature of 120degC destroys all vegetative bacteria and most resistant dry spores in 13 minutes. Sterilization time is markedly shortened by the high-vacuum or high-pressure autoclaves now widely used.# Dry Heat- Exposure to continuous dry heat at 170degC for 1 hour will sterilize articles that would be spoiled by moist heat or are more conveniently kept dry. If grease or oil is present on instruments, safe sterilization calls for a 4-hour exposure at 160degC.# Gas Sterilization: ETOAgent. Comments. Ethyl alcohol, isopropyl alcohol, and n-propanol# Exhibit rapid, broad-spectrum antimicrobial activity against vegetative bacteria, viruses, and fungi but are not sporicidal.# Activity is optimal when they are diluted to a concentration of 60-90% with water. Aldehydes# Glutaraldehyde is used for low-temperature disinfection and sterilization of endoscopes and surgical equipment.# It is normally used as a 2% solution to achieve sporicidal activity.# Formaldehyde is bactericidal, sporicidal, and virucidal - fumigation. Biguanides# Chlorhexidine is widely used in handwashing and oral products and as a disinfectant and preservative.# Mycobacteria are generally highly resistant. Bisphenols# The bisphenols are widely used in antiseptic soaps and hand rinses.# In general, they are broad-spectrum but have little activity against Pseudomonas aeruginosa and molds.# Triclosan and hexachlorophene are bactericidal and sporostatic. Halogen-releasing agents# The most important types of chlorine-releasing agents are sodium hypochlorite, chlorine dioxide, and sodium dichloroisocyanurate, which are oxidizing agents that destroy the cellular activity of proteins. # Hypochlorous acid is the active compound responsible for the bactericidal and virucidal effect of these compounds.# At higher concentrations, these compounds are sporicidal.# Iodine is rapidly bactericidal, fungicidal, tubercuiocidal, virucidal, and sporicidal.# lodophors (e. g., povidone-iodine) are complexes of iodine and a solubilizing agent or carrier, which acts as a reservoir of the active l2. Organic acids. Organic acids are used as preservatives in the pharmaceutical and food industries. Benzoic acid is fungistatic. Propionic acid is both bacteriostatic and fungistatic. Hydrogen peroxide. Has broad-spectrum activity against viruses, bacteria, yeasts, and bacterial spores. Sporicidal activity requires higher concentrations (10-30%) of H202 and longer contact times. Quaternary ammonium compounds. They have been used for a variety of clinical purposes (e. g., preoperative disinfection of unbroken skin) as well as for cleaning hard surfaces. They are sporostatic. They inhibit the outgrowth of spores but not the actual germination process. They are also mycobacteriostatic and have an effect on lipid-enveloped but not lipid-nonenveloped viruses. Vapor-phase sterilants. Heat-sensitive medical devices and surgical supplies can be effectively sterilized by vapor-phase systems employing ethylene oxide, formaldehyde, hydrogen peroxide, or peracetic acid. ETO is highly penetrative non-corrosive gas. It is not recommended for ventilator respiratory equipment or soiled instruments because organic debris, including serum, has a marked adverse effect. Educational Points: Term. Definition. SterilizationA physical or chemical process that completely destroys or removes all microbial life, including spores. Disinfectants. Products or biocides used to kill microorganisms on inanimate objects or surfaces. Disinfectants are not necessarily sporicidal, but are sporostatic, inhibiting germination or outgrowth. Antiseptic AsepticA biocide or product that destroys or inhibits the growth of microorganisms in or on living tissue. Characterized by the absence of pathogenic microbes.",
-        "cop": 2,
-        "opa": "Sterilization of Heart-Lung Machine",
-        "opb": "Fumigation of rooms",
-        "opc": "Sterilization of Dental equipments",
-        "opd": "Sterilization of clothing",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "95700578-7637-4b91-97f7-f37f4398d43a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Blood agar is an example of -",
         "exp": "Ans. is 'a' i. e., Enriched media Type of medium. Name of medium. Laboratory use. Liquid Media A. Basal (simple)1 Peptone water. Routine culture, basal medium for sugar fermentation test. Routine culture2. Nutrient brothB. Special (complex) a. Enrichedb. Enrichment1. Glucose broth1. Robertson's cooked meat medium2 Tetrathionate broth3, Selenite F broth4. Thioglycolate broth5. Alkaline peptone water. Blood culture. Culture of anaerobic bacteria. Enrichment culture for salmonella. Enrichment culture for Salmonella & shigellaC ulture of anaerobic bacteria. Enrichment culture for vibrio. Solid mediaA. Simple. Nutrient agar (2-3% agar). Routine cultureB. Speciala. Enriched1. Blood agar (also indicator media)2 Chocolate agar3. Loefflers serum4. Dor sett's egg. General culture, Streptococcus; Most widely used medium. Culture of H. influenzae, N. gonorrheae. Culture ofC. Diptheriae. Culture of Mycobacteriab. Selective (contains inhibitory substance1. Mac. Conkey agar (also indicator and differential medium. Enterobacteria (Lactose fermenters produce pink colonies)2. Deoxycholate citrate agar (DCA). Selective medium for Salmonella and Shigella3. Lowenstein Jensen (LJ). Culture of M. tuberculosis",
         "cop": 1,
@@ -999,32 +843,6 @@
         "topic_name": "General",
         "id": "1e8bf1cb-b9fa-4ca7-aeae-7d2eb4dc8ece",
         "choice_type": "single"
-    },
-    {
-        "question": "A 62-year-old woman with diagnosed type 2 diabetes lived alone and did essentially nothing to manage her illness, including disregarding her physician's instructions. She was taken to her local emergency room (ER) with severe, multiple infected foot lesions, which yielded a variety of opportunistic microbes with a mixture of antibiotic susceptibilities. The physician decided to treat with systemic and topical antimicrobials. Which of the following antimicrobial agents must only be used topically?",
-        "exp": "Penicillin (d) is well-tolerated as is itraconazole (c). Vancomycin (e) is irritating and can result in phlebitis at the site of injection; nephrotoxicity of aminoglycosides is exacerbated by concomitant use of vancomycin but can be controlled by careful dosage. Gentamicin (b) and other aminoglycosides are ototoxic and nephrotoxic, but these adverse effects can usually be controlled by monitoring of serum concentration and careful dosage. Bacitracin (a) is highly nephrotoxic, so much so that it cannot be administered systemically. Because bacitracin is poorly absorbed, it can be used topically, providing local antibacterial activity but no systemic toxicity.",
-        "cop": 1,
-        "opa": "Bacitracin",
-        "opb": "Gentamicin",
-        "opc": "Itraconazole",
-        "opd": "Penicillin",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "2dd2c8f7-2744-4b5a-a875-c91b0645d7cf",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Enrichment media for Salmonella are all except:",
-        "exp": "Ans. A. Wilson Blair. Salmonella Transport media: Sachs' buffered glycerol saline, Cary Blair medium. Salmonella enrichment media: Selenite F, Tetrathionate broth, Gram negative broth. Salmonella selective media: XLD, DCA, Wilson Blair medium",
-        "cop": 1,
-        "opa": "Wilson Blair",
-        "opb": "Selenite F",
-        "opc": "Tetrathionate broth",
-        "opd": "Gram negative brot",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "b3faf3ca-7158-4e0e-a4f4-8e3ffa3b0e93",
-        "choice_type": "multi"
     },
     {
         "question": "Chocolate agar is an example of?",
@@ -1155,19 +973,6 @@
         "topic_name": "General",
         "id": "ce3d7227-c400-4f86-8a57-d50656b830c1",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is true about sex pili?",
-        "exp": "Ans: c (Hollow tubular structure) Ref Ananatha7th ed, p. 16. Sex pili are hollow conjugation tubes. They are found in male bacteria and it helps in attachment to female bacteria. Genetic material is transferred from the donor to the recipient cell. There may be a doubt that choice b \"transfer plasmid only\" is also correct but the choice c i. e. sex pili is a tubular structure is absolutely correct. So among the given options choice c would be the better answer.",
-        "cop": 3,
-        "opa": "Attachment only",
-        "opb": "Transfer plasmid only",
-        "opc": "Hollow tubular structure",
-        "opd": "All bacteria with sex pili have plasmid",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "570a9522-f9b4-4389-99ac-1eabd8490d72",
-        "choice_type": "multi"
     },
     {
         "question": "Autoclaving is done in:",
@@ -1313,58 +1118,6 @@
         "choice_type": "single"
     },
     {
-        "question": "E. coli has two major porins located in the outer membrane. The function of porins is the",
-        "exp": "E. coli has two major porins, OMP C and OMP E (OMP is outer-membrane protein). A porin is a protein trimer with each subunit containing a pore with a diameter of 1 nm. Porins function in outer-membrane (OM) permeability. While porins are known to permit the transfer of small molecules across the OM, specific porins may also influence the diffusion of layer molecules. Depending on charge, porins may also repel certain molecules, such as bile salts found in the intestinal environment.",
-        "cop": 3,
-        "opa": "Stabilization of the mesosome",
-        "opb": "Metabolism of phosphorylated intermediates",
-        "opc": "Transfer of small molecules through the outer membrane",
-        "opd": "Serologic stabilization of the O antigen",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "48f77dbe-2507-425d-a252-6351f3e4e002",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Glutaraldehyde is used for all of the following EXCEPT:",
-        "exp": "Ref: Textbook of Diagnostic Microbiology, E-book, P 67* High level of disinfectant: 2% glutaraldehyde for 20 minutes for all instruments coming in contact with mucous membrane. Like bronchoscope, proctoscope, endoscopic tubes, etc.* Intermediate level of disinfectant: Phenol or alcohol is used to disinfect thermometer.* Low level of disinfectant: Lysol for floors and fabrics.",
-        "cop": 2,
-        "opa": "Bronchoscope",
-        "opb": "Thermometer",
-        "opc": "Proctoscopes",
-        "opd": "Endoscopic tubes",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "9e898dd3-d40b-46b5-b3a2-3d8f4f0a0a9e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about campylobacter-",
-        "exp": "Ans. is 'a' i. e., Polar flagella Campvlobactoro Campylobacter is gram negative, non capsulated, non sporing comma shaped or 'gull wing' shaped bacilluso It is motile by a single polar flagellum and shows darting or tumbling motility. o Campylobactor is nonfermenter (does not ferment carbohydrate); catalase and oxidase positive; and nitrate reduction positive. Gram negative curved spiral rods - Campylobactor jejuni. Culture characteristicso Growth occurs under microaerophilic conditions (5% O2, 10% CO2 and 85% N2). o Thermophilic, growing at 42degC (Can grow at 37degC, but incubation at higher tempratures suppresses normal fecal flora). o Transport medium for Campylobacter is Cary-Blair medium. o Media used for cultivation of Campylobacter are:-i) Campy BAP mediumii) Skirrow's mediumiii) Butzlers mediumiv) CVA (Cefoperazone, Vancomycin and amphotericin B)v) Campylobactor agar basevi) Columbia blood agar. Infections caused by Campylobactero Campylobacter causes following infections: 1) Diarrheal disease# It is the most common disease and is caused most commonly by Campylobacter jejuni.# It is a zoonosis and animals are the main reservoir.# Source is food of animal origin like raw milk and poultry.# Infection occurs by ingestion.# The jejunum and the ileum are the primary sites of colonization.# C. jejuni is invasive pathogen, may involve mesenteric lymph node and cause bacteremia.# After an incubation period of 1-7 days there is fever, abdominal pain and diarrhea. Diseases is usually self limiting and subsides in 5-8 days. But complications may occur:-i) GIT: Cholecystitis, pancreatitis. ii) Extraintestinal: Meningitis, endocarditis, HUS, GB syndrome, arthritis, perotinitis. 2) Abscesses# It is caused by Campylobacter sputorum. 3) Extraintestinal infections# These are caused by Campylobacter fetus.",
-        "cop": 1,
-        "opa": "Polar flagella",
-        "opb": "Grows at 25degC",
-        "opc": "Strict aerobe",
-        "opd": "Psychrophilic",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "b9d42e79-05e5-4116-85c4-91e2ee6c62bc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Ethylene oxide gas is used for sterilization of all EXCEPT",
-        "exp": "(Electrical instrument): (38-Baveja 4th edition)ETHYLENE OXIDE (ETO) - specially used for sterilizing plastic and rubber articles, respirators, heart-lung mashines sutures, dental equipments and clothing* It is commercially used to sterilize disposable plastic syringes, petridishes* It has a high penetrating power and thus can sterilised prepackaged materials* Ethylene oxide sterilizer called as chemiclave* It is unsuitable for fumigation of rooms because of its explosive nature, irritant* Bacillus globigi (a red pigmented variant of Bacillus subtilis) has been used as biological control for testing of ethylene oxide sterilisers* Surgical instrument sterilized by - Autoclaving* Sharp instrument - 5% Cresol. USES OF GLUTARALDEHYDE(i) For sterilization of cystoscopes, endoscopes, and bronchoscope(ii) To sterilize plastic endotracheal tubes, face masks, corrugated rubber anaesthetic tubes and metal instrument",
-        "cop": 2,
-        "opa": "Intercostal Drainage tube",
-        "opb": "Electric instrument",
-        "opc": "PVC tubes",
-        "opd": "Ventilator support system",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "bec21dc5-e0b4-438e-9c75-3b06e9702781",
-        "choice_type": "multi"
-    },
-    {
         "question": "Quinolone antibiotic with broad Gram-negative and Gram-positive activity is",
         "exp": "Many new antibiotics have become available during the past few years. Although expensive, these antibiotics generally have a broader spectrum of effectiveness than the ones they are intended to replace. Resistance to these newly introduced agents may be a problem that will minimize their effects on the treatment of infectious disease. While most are labeled broad spectrum, each appears to be characteristically more effective against some organisms than others. Ceftriaxone is a new-third generation cephalosporin. It is administered once a day either intravenously or intramuscularly. Ceftriaxone is used against a wide variety of Gram-negative rods, it has found special use in the treatment of Lyme disease. It is now claimed to be the most effective antibiotic for borreliosis.",
         "cop": 4,
@@ -1404,32 +1157,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Gluteraldehyde is used to sterilize -",
-        "exp": "Ans. is 'd' i. e., All of the aboveo 2% Glutaradehyde (cidex) is an aldehyde disinfectant with a broad spectrum of action against bacteria, fungi, viruses, as well as spores (slow action)o It is most often used for equipment such as endoscopes that cannot be sterilized or disinfected by heat (cytoscopes bronchoscopes)o Glutraldehyde is used for -i) Cystoscopes and bronchoscopesii) Corrgated rubber anaesthetic tubesiii) Face masksiv) Plastic endotracheal tubesv) Polythene tubingvi) Endoscopes",
-        "cop": 4,
-        "opa": "Endoscopes",
-        "opb": "Corrugated rubber anaesthetic tube",
-        "opc": "Plastic endotracheal tubes",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "1df2f2a3-ac2e-4d77-a483-4b1152c29f5b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Prokaryotes are characterized by:",
-        "exp": "Ans. is 'a' i. e., Absence of nuclear membrane(Ref: Ananthanarayan, 9th/e, p. 10 and 8th/e, p. 10, 13). Prokaryotes. Eukaryotes. Nuclear membrane absent. Nuclear membrane well defined. Cytoplasmic structures absent, e. g., Mitochondria, Lysosomes, Golgi apparatus, and endoplasmic reticulum are absent. All these cell organelles are present. In cell wall muramic acid and diaminopimelic acids (DAPA) present. Both absent in cell wall. No sterols in cell membrane. Sterols present in cell membraneE. g.: Bacteria, blue-green algae. Fungi, protozoa, slime moulds. Site of respiration - Mesosomes. Mitochondria",
-        "cop": 1,
-        "opa": "Absence of nuclear membrane",
-        "opb": "Presence of microvilli on its surface",
-        "opc": "Presence of smooth endoplasmic reticulum",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "b02dd819-d678-473e-9d0b-010f5b656e0d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of these is sporicidal?",
         "exp": "Ans: D (Glutaraldehyde) Ref: Ananthnarayan R, Paniker CKJ. Textbook of Microbiology. 8th Edition. Hyderabad: Universities Press; 2009. Pg. 35-8. Explanation: (See Table 13) Table 13. Disinfectant. Effective against. Characteristic. Alcohols Compounds (Ethanol, methanol, isopropyl alcohol). Active against bacteria. Methanol is active against fungal spores. Good general use disinfectant. Aldehydes(Formaldehyde. Glutaraldehyde). Active against bacteria and virus and spores. Good activity against bacteria, vims and spores. Chlorine. Good disinfectant for blood and body fluid spiils. Active against bacteria, virus and mocerate action against spores",
         "cop": 4,
@@ -1443,19 +1170,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Irradiation are used for all except -",
-        "exp": "Ans. is 'd' i. e., Endoscope Radiationso Two types of radiations are used for sterilization: (1) Ionizing radiation, and (2) Non-ionizing radiations. 1) Ionizing readiations# Sterilization by Ionizing radiation does not cause increase in temperature --> Cold sterilization.# Ionizing irradiation used for sterilization:-1) g (photon) irradiation - most commonly used ionizing radiation. 2) b (electrons) irradiation# Materials which are destroyed by heat such as rubber or plastic disposable goods, disposable syringes, surgical catgut, bone and tissue grafts, adhesive dressings are sterilised by ionising radiations. o Gamma rays are used to sterilize heat labile instrument, plastic, syringes, swabs, greases, surgical catgut (suture), and bone & tissue grafts. 2) Non-ionizing radiations# Following non-ionizing radiations are usedi) Infrared: For prepacked items such as syringes and catheters. ii) UV radiation: Used for enter ways, operation theaters and laboratories.",
-        "cop": 4,
-        "opa": "Syringes",
-        "opb": "Catgut suture",
-        "opc": "Grafts",
-        "opd": "Endoscope",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "05f87dee-a318-43d2-a33c-6b27e54b8992",
-        "choice_type": "multi"
-    },
-    {
         "question": "Special characteristic of electron microscope-",
         "exp": "Ans. is 'b' i. e., Tungston filament is used Electron Microscope vs Light Microscope. Electron Microscope. Light Microscope. Illuminating source is beam of electrons. Illuminating source is light. It is very large and complicated. Microscope is compact and handy. Only fixed specimens are studied. Both living and fixed specimens can be studied. The objects is ultrathin, 0-1 mm or below. The object is 5 mm or thicker. Only dehydrated specimens are used. The specimen need not be dehydrated. Vacuum is essential for its operationA vacuum is not required. High voltage electric current is required (50, 000 volts and above). There is no need for high voltage electricity. Tungsten filament is used to produce electronsA filament is not used. It has a cooling system to take out heat generated by high voltage electric current. There is no cooling system. There is risk of radiation leakage. Radiation risk is absent. It employs elecromagnets. Light microscope uses glass lenses. Image is seen only on a fluorescent screen. Image can be seen directly. Specimen is coated with heavy metals in order to reflect electrons. Specimen is stained by coloured dyes. Image black and white. Image is colored. Resolving power is 0-5-5-0 Adeg, though theoretically it can be 0-25 Adeg. Resolving power is 0-25 mm or 250 nm (2500. Adeg). Magnification is up to 300, 000. Magnification is upto 4000. Electron microscope is used in the study of external surface (Scanning Electron Microscope SEM), ultra structure of cell and very small organism (Transmission Electron Microscope TEM). It is used for the study of detailed gross internal structure",
         "cop": 2,
@@ -1467,19 +1181,6 @@
         "topic_name": "General",
         "id": "b34823e6-69a6-468d-a59e-09603a1cf4ed",
         "choice_type": "single"
-    },
-    {
-        "question": "Some of the E. coli bacteria that were originally isolated from a contaminated salad were tetracycline resistant while the others were susceptible. However, when tetracycline-resistant and -susceptible strains were grown together, all of them became tetracycline resistant. This efficient transfer of resistance depends on which of the following?",
-        "exp": "Many antibiotic resistance genes in bacteria are carried on conjugative plasmids (c) also known as R factors. These plasmids are transferred from one bacterium to another, of the same or related species, by conjugation. Conjugation is a process by which the donor bacterium (male cell) is brought in direct contact with the recipient bacterium (female cell) through the conjugative pilus. In E. coli, the conjugative pilus is referred to as a sex pilus or F pilus. The conjugative plasmid carries genes necessary for its transfer including the pilus genes. The plasmid is transferred into the recipient cell as a strand of ss. DNA, which re-circularizes within the recipient cell. The complementary DNA strand is then synthesized in the recipient cell. The ss. DNA in the donor cell is also replicated; thus, both the donor and the recipient now carry a copy of the plasmid. Due to the direct contact between bacteria through the pilus, conjugation is an efficient process of DNA transfer. A transposon (e) is a mobile genetic element that is capable of moving from one replicon (a chromosome or a plasmid) to another but is incapable of initiating DNA transfer. Recombinase enzymes (d) are required for the recombination process that occurs between homologous regions of DNA (as in integration of a DNA in a replicon). Competent cells (b) are part of the bacterial population that is capable of taking up DNA from a solution (naked DNA). This may occur naturally or artificially (in the laboratory). E. coli competent cells are only generated in the laboratory through treatment with certain chemicals. Cell lysis and release of donor DNA (a) may be part of a mechanism through which naturally competent bacteria such as Neisseria take up naked DNA during infection.",
-        "cop": 3,
-        "opa": "Cell lysis and the release of DNA from donor bacteria",
-        "opb": "Competent cells",
-        "opc": "Conjugative plasmids",
-        "opd": "Recombinase enzymes",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "fa318085-be26-4c76-a1ac-75470b3fcc0a",
-        "choice_type": "multi"
     },
     {
         "question": "Autoclaving is used for sterilization of -",
@@ -1547,19 +1248,6 @@
         "choice_type": "single"
     },
     {
-        "question": "False regarding bacterial plasmids is:",
-        "exp": "Ans. is 'd' i. e., Can cause lysogenic conversion(Ref: Ananthanarayan, 9th/e, p. 60 and 8th/e, p. 60)* Lysogenic conversion is due to phage (viral) genome, not due to bacterial plasmid.* Plasmid is extrachromosomal DNA and Radiation can damage Plasmid.* Plasmid can be transferred to different species, e. g., multi-drug resistance transfer between shigella and E. coli factor.",
-        "cop": 4,
-        "opa": "Extrachromosomal",
-        "opb": "Eliminated by treating with radiation",
-        "opc": "Transmission of different species",
-        "opd": "Can cause lysogenic conversion",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "18a521f5-34e2-488a-a561-8f44bf14a326",
-        "choice_type": "multi"
-    },
-    {
         "question": "In 1997, Prusiner was awarded Nobel prize for his work in:",
         "exp": "Ans. c (Prion proteins). (Ref. Anathanarayan, Microbiology, 6th ed., p 448, 567)PRION# Stanley Prusiner, a U. S. biochemist whose discovery provided key insights into dementia-related diseases, won the 1997 Nobel Medicine Prize.# Thus, Stanley Prusiner added prions to the list of infectious agents like bacteria, viruses, fungi, and parasites.# Prions exist normally as innocuous cellular proteins;# Prion diseases may be inherited, laterally transmitted, or occur spontaneously. RECOMBINANT DNA TECHNOLOGY# Recombinant DNA (r. DNA) technology is a field of molecular biology in which scientists \"edit\" DNA to form new synthetic molecules, which are often referred to as \"chimeras\".# The practice of cutting, pasting, and copying DNA dates back to Arthur Kornberg's successful replication of viral DNA in a breakthrough that served as a proof-of-concept for cloning.# This was followed by the Swiss biochemist Werner Arber's discovery of restriction enzymes in bacteria that degrade foreign viral DNA molecules while sparing their own DNA.# It also touched off a firestorm among activists such as Jeremy Rifkin, for whom terms like 'cloning' and 'recombinant DNA'. were new.# The most recent advance is the development of insulin analogues produced by recombinant DNA, peptide synthesis, and enzyme-catalyzed semisynthesis. Early 1970's Paul Berg, Stanley Cohen and Herbert Boyer developed ways to cut and splice DNA, introducing recombinant DNA techniques.# Recombinant DNA technology was first used commercially to produce human insulin from bacteria.",
         "cop": 3,
@@ -1571,32 +1259,6 @@
         "topic_name": "General",
         "id": "2b82e8e5-5437-4ca0-89f2-370fc94e2776",
         "choice_type": "single"
-    },
-    {
-        "question": "Cell wall of gram positive bacteria contain s-",
-        "exp": "Ans. is 'c' i. e., Teichoic acid Comparison of cell walls of Gram positive and Gram negative bacteria Gram positive. Gram negative. Thickness. Thicker. Thinner. Variety of aminoacids. Few. Several. Aromatic and Sulphur containing aminoacids. Absent. Present. Lipids. Absent or scanty. Present. Teichoic acid. Present. Absent",
-        "cop": 3,
-        "opa": "Lipids",
-        "opb": "Aromatic amino acids",
-        "opc": "Teichoic acid",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "3246083f-e9ca-4ec7-8f8a-fe63dec9f4fd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about actinomyces is:",
-        "exp": "Ans. is 'a' ie. (Gram +ve) Actinomyces is an organism of the group Actinomycetes. Actinomycetes are bacteria but they form long branching filaments that resemble the hyphae of fungi. There are two medically important organisms. Actinomyces israelii &Nocardia\"Actinomycetes are Gram positive, non motile, nonsporting noncapsulatedfilaments\"Most of them are Saprophytes that live in soils, but members of this group of bacteria are responsible for 3 human infection. Actinomycosis*Nocardiosis*Actinomycetoma*Actinomycosis. It is a chronic suppurative granulomatous infection that produce pyogenic lesions with interconnecting sinus tracts that contains Granules. Granules are composed of micro colonies of bacteria* embedded in tissue elements. Most cases are due to Actinomyces Israeli*Site of involvement. Cervicofacial Actinomycosis. Thoracic Actinomycosis. Abdominal Actinomycosis. Mode of entry. Infection is initiated by trauma that introduces these bacteria. Nocardiosis. Causative Agent -Most commonly by Nocardia Asteroides or less frequently with Nocardia Brasiliensis. Route of Entry -Inhalation of the Bacteria (Thus inhalation is the route of entry for Nocardia not for actinomyces). Usual presentation -Subacute to chronic pulmonary infection. It begins as chronic lobar pneumonia. Nocardia are partially Acid Fast*Actinomycetoma. Mycetoma -It is a localized\\ slowly progressive chronic infection that begins in subcutaneous tissue and spreads to adjacent tissue. Most common site is foot. Entry is by trauma. Mycetoma is of 2 types. Actinomycetoma: Caused by filamentous bacteria* such as Nocardia* Nocardiopsis, Streptomyces & Actinomadura. Eumycetoma: caused by saprophytic fungus*Treatment DOC for Actinomyces is - Penicillin *DOC for Nocardia is - Sufonamides, (Alternative is minocycline)",
-        "cop": 1,
-        "opa": "Gram +ve",
-        "opb": "Most common site is brain",
-        "opc": "Tetracycline is drug of choice",
-        "opd": "Portal of entry is inhalation",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "b7ab7b6a-1830-4a68-b007-82a4a16984e9",
-        "choice_type": "multi"
     },
     {
         "question": "Dye used for direct immunofluorescence -",
@@ -1690,19 +1352,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 6-year-old girl is diagnosed with meningitis. A lumbar puncture reveals numerous neutrophils and gram-negative diplococci. She is admitted to the hospital for antibiotic treatment, which is complicated by the fact that she is known to be allergic to b-lactams. What is the mechanism of action of the alternative drug of choice to treat this infant's meningitis?",
-        "exp": "The girl in the vignette most likely has Neisseria meningitidis meningitis. The drug of choice is ceftriaxone, which is contraindicated by the child's known b-lactam allergy due to cross-hypersensitivity. The alternative drug of choice is chloramphenicol, which inhibits formation of the peptide bond (c) through inhibition of the transpeptidase reaction. Meropenem, a second alternative, is also a b-lactam with cross-hyper-sensitivity. Tetracycline, which blocks t. RNA binding to the A site (a), is not used to treat meningitis and should not be used in children under 10. Aminoglycosides, which cause misreading of m. RNA (b) and result in premature termination (e) of translation, as well as blocking initiation of protein synthesis, are not generally used to treat meningitis except in cases caused by Listeria. Macrolides prevent translocation (d) and are not used to treat meningitis.",
-        "cop": 3,
-        "opa": "Blocks t. RNA binding to the A site",
-        "opb": "Causes misreading of m. RNA",
-        "opc": "Inhibits formation of the peptide bond",
-        "opd": "Prevents translocation",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "6a19f521-ece4-41ac-a722-6d60bf2ceccd",
-        "choice_type": "multi"
-    },
-    {
         "question": "Bronchoscopes are best sterilized with",
         "exp": "Ans. a (Glutaraldehyde) (Ref. Ananthanarayan, Microbiology, 7th/ 31, 86)# Glutaraldehyde:- Is specifically effective against tubercle bacilli, fungi, and viruses.- Glutaraldehyde has a short shelf life (<2 weeks), and is expensive.- It is less toxic and irritant to eyes than formaldehyde.- It has no deleterious effect on the cement or lenses of instruments like cystoscopes and bronchoscopes.- It can safely be used to treat corrugated rubber anaesthetic tubes and face masks, plastic endotracheal tubes, polythene tubing, and metal instruments.# CIDEX (2% gluteraldehyde) is commonly used for sterilization of endoscopes.# Most rigid endoscopes are compatible with steam, formaldehyde, ethylene oxide and certain liquid chemical disinfectants.# Flexible scopes can also be sterilized by peracetic acid. Ethylene oxide (EO or EtO) gas# Is commonly used to sterilize objects sensitive to temperatures greater than 60degC such as plastics, optics and electrics.# Ethylene oxide treatment is generally carried out between 30degC and 60degC with relative humidity above 30% and a gas concentration between 200-800 mg/L for at least three hours.# Ethylene oxide penetrates well, moving through paper, cloth, and some plastic films and is highly effective.# Ethylene oxide sterilizers are used to process sensitive instruments which cannot be well sterilized by other methods.# EtO can kill all known viruses, bacteria and fungi, including bacterial spores and is satisfactory for most medical materials, even with repeated use.# However it is highly flammable, and requires a longer time to sterilize than any heat treatment.# Ethylene oxide is the most common sterilization method. used for over 70% of total sterilizations. and for 50% of all disposable medical devices.# Bacillus subtilis, a very resistant organism, is used as a rapid biological indicator for EO sterilizers. If sterilization fails, incubation at 37degC causes a fluorescent change within four hours, which is read by an auto-reader. The color change indicates a pH shift due to bacterial metabolism. Formaldehyde solutions# Like Glutaraldehyde, it is also accepted liquid sterilizing agents# Immersion time is sufficiently long (To kill all spores in a clear liquid can take up to 12 hours with glutaraldehyde and even longer with formaldehyde). Formaldehyde is also used as a gaseous sterilizing agent.# Many vaccines, such as the original Salk polio vaccine, are sterilized with formaldehyde. OZONE# Is used in industrial settings to sterilize water and air, as well as a disinfectant for surfaces.# It has the benefit of being able to oxidize most organic matter.# It is a toxic and unstable gas that must be produced on-site, so it is not practical to use in many settings. CHLORINE BLEACH# Household bleach consists of 5. 25% sodium hypochlorite.# It is usually diluted to 1/10 immediately before use; however to kill M. tuberculosis it should be diluted only 1/5.# Bleach will kill many organisms immediately, but for full sterilization it should react for 20 min.# Bleach will kill many, but not all spores.# It is highly corrosive and may corrode even stainless steel surgical instruments.# Chlorine and Na. OH are the most consistent agents for prions. Chlorine is too corrosive to use on certain objects. Educational point:# COLD STERILIZATION is done b\\: y -radiation, Cosmic rays.",
         "cop": 1,
@@ -1742,19 +1391,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are methods of sterilization except -",
-        "exp": "Ans. is 'd' i. e., Chlorhexidne Sterilizationo The process by which an article surface or medium is freed of all living microorganisms either in the vegetative or spore state - Complete absence of microorganism. Disinfectiono Destruction or removal of all pathogenic organisms capable of giving rise to infection - reduction in the microorganisms to such a level which is deemed no longer harmful to health. o Various methods of sterilization and disinfection are. Methods|||Sterilization. Disinfection1) Heat1) Heat2) Ionizing radiations# b (electron) irradiation# g (photon) irradiation2) U. V. radiation3) Gases4) Filtration3) Filtration5) Chemicals4) Sterilant gases# Ethylene oxide# Formaldehyde# Alcohols# Chlorhexidine# Glutaraldehyde5) Sterilant liquids# Glutaraldehyde# Hypochlorites# Iodine# Phenolic compounds",
-        "cop": 4,
-        "opa": "Ionizing radiation",
-        "opb": "Ethylene oxide",
-        "opc": "Formaldehyde",
-        "opd": "Chlorhexidne",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "661aef12-3f09-4b04-a80b-4eb1dbf6d496",
-        "choice_type": "multi"
-    },
-    {
         "question": "The best skin disinfectant:",
         "exp": "Ans. is 'b' i. e., Betadine (Ref: Ananthanarayan, 9th/e). Best skin disinfectant is Povidone iodine, Aqueous and alcohol based povidone iodine preparations are widely used in skin disinfection and skin preparation of the skin. Savlon and Dettol are more active against gram positive bacteria than gram negative bacteria.",
         "cop": 2,
@@ -1792,58 +1428,6 @@
         "topic_name": "General",
         "id": "867c9708-a9af-4069-b1c0-cbd071762019",
         "choice_type": "single"
-    },
-    {
-        "question": "Insitu hybridization is used for:(1994)",
-        "exp": "Ans: d",
-        "cop": 4,
-        "opa": "Diagnosis of specific genetic disease",
-        "opb": "Diagnosis of enzyme deficiency diseases",
-        "opc": "Treatment of genetic diseases",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "46fd0f04-1145-4a4f-b2e6-702a61bbb5ef",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Ideally, an antibiotic should focus on a microbial target not found in mammalian cells. By this standard, which of the following antibiotic agents would be expected to be most toxic to humans?",
-        "exp": "Ideally, antibiotics should attack a microbial structure or function not found in human cells. Except for mitomycin, all the antibiotics listed in the question interfere with cell-wall synthesis in bacteria. Mitomycin inhibits DNA synthesis in both mammalian and microbial systems; viral DNA synthesis, however, is relatively resistant to mitomycin.",
-        "cop": 2,
-        "opa": "Penicillin",
-        "opb": "Mitomycin",
-        "opc": "Cephalosporin",
-        "opd": "Bacitracin",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "5c9a30e2-d11e-4619-a16d-15fd374fbc13",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statements regarding disinfectant is not true?",
-        "exp": "Ans. is 'd' i. e., Phenol is bactericidal and readily inactivated by organic matter. Phenolic act by denaturing proteins and disrupting cell membranes and effective in the presence of organic materials.",
-        "cop": 4,
-        "opa": "Hypochlorites are bactericidal and inactivated by organic matter",
-        "opb": "Glutaraldehyde is sporicidal and not inactivated by organic matter",
-        "opc": "Formaldehyde is bactericidal, sporicidal and virucidal",
-        "opd": "Phenol is bactericidal and readily inactivated by organic matter",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "fbce2970-7634-4156-84db-142c38077f2d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following will not have cell wall?",
-        "exp": "Ans: c (Protozoa) Ref: Ananthanarayan, 7th ed, p. 7. Protozoa doesn't have cell wall. The typical protozoan cell is bounded by a trilaminar unit membrane, supported by a sheet of contractile fibrils which enable the cell to change its shape and to move. Cell wall of prokaryotes contains muramic acid and peptidoglycans while cell wall of eukaryotes contain sterols. Prokaryotes are devoid of membrane bound organelles. Other features: Nucleus: Devoid of nuclear membrane and nucleolus. They do not contain deoxyribonucleoproteins that is their nucleic acid DNA is not associated with basic protein histone. The genome consists of a single molecule double stranded DNA arranged in the form of a circle. Mitotic division does not occur and these divide by binary fission. Cytoplasm: It differs from eukaryotic cytoplasm in not exhibiting protoplasmic streaming. Mitochondria, endoplasmic reticulum, lysosomes and Golgi apparatus are all absent.",
-        "cop": 3,
-        "opa": "Prokaryotes",
-        "opb": "Eukaryotes",
-        "opc": "Protozoa",
-        "opd": "Fungi",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "1317fd56-676a-4b19-a38a-62e7b23e432f",
-        "choice_type": "multi"
     },
     {
         "question": "Sterilization of fibre optic is done by?",
@@ -2002,32 +1586,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is seen in both prokaryotes and eukaryotes:",
-        "exp": "Ans: b (Ribosomes) Ref: Ananthanarayan, 7th ed, p. 7. Ribosomes are present in both prokaryotic and eukaryotic cells. Prokaryotic. Eukaryotic. Size. Small. Large 1000 to 10, 000 times. Cell wall. Rigid. Membrane of lipid bilayer. Nucleus. Not defined. Well defined. Organelles. Nil. Several-mitochondria lysosome etc. Muramic acid. Present. Absent. Sterols. Absent. Present. Chromo somes. One (circular). More than one( linear)",
-        "cop": 2,
-        "opa": "Mitochondria",
-        "opb": "Ribosome",
-        "opc": "Endoplasmic reticulum",
-        "opd": "Lysosomes",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "56a6f454-ec01-4ab4-a12b-e7e913195286",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Endocopes are usually disinfected with:",
-        "exp": "Ref: Ananthanarayan, Paniker CJ. Textbook of Microbiology. 6th Ed. London: John Wiley & Sons: 2000. Explanation: Disinfectant. Active against. Use. Ethyl alcohol. Bactericidal but not sporicidal. Skin antiseptics. Isopropylalcohol. Bactericidal but not sporicidal. Disinfection of suture material, clinicalthermometers. Methyl alcohol. Active against bacterial and fungal spores. Cabinets & incubators. Formaldehyde. Bactericidal, sporicidal & virucidal. OT fumigation. Giutaraldehyde. Bactericidal, sporicidal & virucidal (less toxic/ irritant). Bronchoscopes, endoscopes, cystoscopes. Hypochlorite. Bactericidal, sporicidal & virucidal. Blood spill. Chlorhexidinebactericidal, moderate sporicidal & virucidal. Treatment of wounds. Ethylene oxide. Bactericidal, sporicidal & virucidal (highly penetrating gas). Heart lung machines, respirators, dental equipement",
-        "cop": 1,
-        "opa": "Glutaraldehyde",
-        "opb": "Isopropyl alcohol",
-        "opc": "Gamma irradiation",
-        "opd": "Ethylene oxide",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "cf9ed1be-e589-41fe-8f0b-d0b850505551",
-        "choice_type": "multi"
-    },
-    {
         "question": "Percentage of glutaraldehvde used -",
         "exp": "Ans. is 'b' i, e., 2% Gluteraldehvdeo 2% Glutaradehyde (cidex) is an aldehyde disinfectant with a broad spectrum of action against bacteria, fungi, viruses, as well as spores (slow action)o It is most often used for equipment such as endoscopes that cannot be sterilized or disinfected by heat (cytoscopes/bronch oscopes)o Glutraldehyde is used for-* Cystoscopes and bronchoscopes# Face masks# Polythene tubing* Corrgated rubber anaesthetic tubes# Plastic endotracheal tubes",
         "cop": 2,
@@ -2041,19 +1599,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 25-year-old man presents to the emergency room with several red, swollen, tender bite wounds on both arms that he stated occurred yesterday when he rescued his dog from a dogfight involving three other dogs, whose owner(s) is unknown. His right wrist and left elbow are also swollen and there is axillary lymphadenopathy on the left side. Gram stain of purulent material from the worst wound shows small gram-negative pleomorphic coccobacilli. The patient reports his last tetanus vaccination was 2 years ago. In addition to antibiotics, which of the following should be included in this patient's treatment?",
-        "exp": "The patient has bite wounds most likely infected with Pasteurella multocida. Since the wounds were caused by dogs whose owners were unknown, the patient should also begin rabies prophylaxis (c). There is no need for varicella-zoster prophylaxis (e) since there is no history of shingles at this time. The patient is up to date on his tetanus immunization, so tetanus prophylaxis is not needed either (d). IV immunoglobulins (nonspecific) (b) are used to treat patients with IgG deficiency. Hepatitis B virus (HBV) prophylaxis is not needed unless the bites were inflicted by a human whose HBV status was unknown and could not be determined.",
-        "cop": 3,
-        "opa": "Hepatitis B virus prophylaxis",
-        "opb": "IV immunoglobulins (nonspecific)",
-        "opc": "Rabies prophylaxis",
-        "opd": "Tetanus prophylaxis",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "04cde576-1e9a-4465-941e-00816aa63731",
-        "choice_type": "multi"
-    },
-    {
         "question": "Nobel prize for the discovery of oncogenic viruses were given to:",
         "exp": "Ans: b (Rous) Ref: Ananthanarayan, 7th ed, p. 574. Rous won nobel prize for the discovery that Fowl sarcoma is caused by viruses. Ellerman and Bang - First observed the association of viruses with malignancy similar to an infectious disease. Bittner-Association of breast cancer with viruses transmitted through breast milk. Shope - Isolated rabbit fibroma virus and papilloma virus",
         "cop": 2,
@@ -2065,19 +1610,6 @@
         "topic_name": "General",
         "id": "1f74e7d6-e280-46b7-bad6-59fd000e9bcd",
         "choice_type": "single"
-    },
-    {
-        "question": "Resistance in bacteria is by:",
-        "exp": "Ans. D. All of the above. Explanation. Plasmid. They are extrachromosomal ds circular DNA molecules that exist in free state in the cytoplasm of bacteria, and also found in some yeasts. Plasmids are not essential for life. They can be present singly or in multiple numbers up to 40 plasmids per cell. They are capable of independent replication. Episome: Plasmids integrating with chromosomal DNA of bacteria. Curing: The process of eliminating the plasmids from bacteria. It can be spontaneous or induced by acridine, radiations, thymine starvations, growth at higher temperature. Classification of plasmids: On ability to perform conjugation. Conjugative plasmids. Non-conjugative plasmids. On compatibility between plasmids. Compatible plasmids. Incompatible plasmids. On function. Fertility or F-plasmids: Help in bacterial conjugation by forming the conjugation tube. Resistance plasmids: They code for resistance genes to various antibiotics. Col plasmids: They code for bacteriocins. Virulence plasmids: They code for virulence factors and toxins. Metabolic plasmids. Plasmids are also vectors in genetic engineering. Transposons. Also called as jumping genes or mobile genetic elements. Transposons or transposable elements are bacterial genes that are capable of intracellular transfer between chromosome to chromosome, plasmid to plasmid, and chromosome to plasmid or vice versa. Transposons were first discovered by Barbara Mc. Clintock during her maize studies in 1940s and she was awarded noble prize in 1983. Transduction. Transmission of bacteriophages from one bacterium to another, a part of host DNA may accidentally get incorporated into bacteriophage and then gets transferred to recipient bacterium. Two types of life-cycle: (a) lytic or virulent cycle (b) lysogenic or temperate cycle. Transduction transfers bacterial genes coding for drug resistance, e. g. plasmid coded penicillin resistance in staphylococci.",
-        "cop": 4,
-        "opa": "Transposon",
-        "opb": "Plasmid",
-        "opc": "Transduction",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "f5f17923-08f5-4ccc-86ea-8186b1769cd8",
-        "choice_type": "multi"
     },
     {
         "question": "Lysogenic conversion is",
@@ -2106,32 +1638,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true regarding disinfectants except:",
-        "exp": "Ans. d. Phenol isbactericidaiand readily inactivated by organic matter Ref: Ananthanarayan 7/e p30, 31, 32; Jawetz 24/e p6]. Phenols are bactericidal, but these are not readily inactivated by organic matter. Effective against. Susceptible to organic matter. Disinfectant. Bacteria. Spores. Virus. Formaldehyde+++++++++-Glutaraldehyde+++++++++-Chlorine (hypochlorite)++++/-++++++Phenols++(+)-++/-",
-        "cop": 4,
-        "opa": "Glutaraldhyde is sporicidal",
-        "opb": "Hypochlorites are virucidal",
-        "opc": "Ethylene oxide is intermediate disinfectant",
-        "opd": "Phenol is bactericidal and readily inactivated by organic matter",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "a958214a-4c7d-4042-8dd0-5f1b7802ff00",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is an intermideiate level disinfectant -",
-        "exp": "Ans. is 'c' i. e., Hypochlorite Categories of effective potencyo Sterilants are capable of completely eliminating or destroying in all forms of microbial life, including spores, o Disinfectants. Destroy some, but not necessarily all organisms. The category is further divided into subcategories:- i) High level disinfectants In their usual concentration and contact period, they destroy all microorganisms, with exception of high number of bacterial spores ( small number of spores can be destroyed). It is worth noting that at higher concentrations and prolonged contact period, high level disinfectant can act as steriliant. i. e. can kill high numbers of spores as well. Examples are:-2% gluteraldehyde, 8% formaldehyde, 6-10% hydrogen peroxide and ethylene oxide gas. ii) Intermediate level disinfectants:- Inactivate even resistant organisms such as mycobacterium tuberculosis as well as vegetative bacteria, most viruses and most fungi, but do not necessarily kill bacterial spores. Examples are:-0. 5% iodine, 70-90% ethanol and isopropanol, chlorine compounds (hypochlorite), some phenolic compounds and iodophor based disinfectants. iii) Low level disinfectants kill most bacteria, some viruses and some fungi, but cannot be relied on to kill resistant microorganisms such as tubercular bacilli or bacterial spores. Examples are quarterly ammonium compounds, mercurials, some phenolic compounds and iodophores. Note:- the disinfectant levels of iodophors (iodines) and phenolic compounds may be classified as intermediate or low depending on the concentration employed. Levels of disinfectant Activity. Level of activity. Bacteria. Spores. Fungi. Viruses. Vegetative. Tubercular Lipid medium size. Nonlipid & Small. High++++++Intermediate++-+++Low+--++-",
-        "cop": 3,
-        "opa": "2% glutarldyhyde",
-        "opb": "Ethylene oxide",
-        "opc": "Hypoclorite",
-        "opd": "None",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "7b768344-6c0b-451e-a630-6beefff3e2da",
-        "choice_type": "multi"
-    },
-    {
         "question": "Reversion of Neisseriagonorrhoeae from a fimbriated (fim 1) to a non-fimbriated (fim 2) state would result in which one of the following phenomena?",
         "exp": "Bacteria may shift rapidly between the fimbriated (fim +) and the non-fimbriated (fim -) states. Fimbriae function as adhesions to specific surfaces and consequently play a major role in pathogenesis. Lack of fimbriae prevents colonization of the mucosal surface by the bacterium.",
         "cop": 1,
@@ -2143,19 +1649,6 @@
         "topic_name": "General",
         "id": "400e4d0a-8ead-470b-aa17-0246526caa6b",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about culture media except",
-        "exp": "(A) (Mac- Conkey agar prevent growth of G-ve bacteria) (45, 46- Bevja 4th; 42-43- Ananthanarayan 9th). Mac-Conkev agar* Mainly used to differentiate between varius Gram negative rod shaped organisms* It is also used to inhibit growth of gram positive organism thus it is both differential and selective media. Mac-conkey medium which consists of peptone, lactose agar, neutral red and taurocholate shows up lactose fermenters as pink colonies while non-lactose fermenters are coloumess or pale. This may also be termed indicator medium. Composition and uses of Liquid Media. Medium. Composition. Uses1. Peptone water. Peptone - 1% Na Ci- 0. 5%water- 100 ml (PH 7. 4). Routine culture, sugar fermentation tests2. Nutrient broth. Peptone water + Meat extract- 1 % 3. Glucose broth. Nutrient broth + Glucose- 0. 5%Blood culture, culture of certain organisms e, g, Streptococci4. Enrichment media i) Alkaline peptone water. Peptone water (p H 9. 0). Culture of vibrioii) Selenite F broth. Peptone water, sodium selenite. Culture of faeces for salmonellae and shigellaeiii) Tetrathionate broth. Nutrient broth, sodium thiosulphate, calcium carbonate, iodine solution. Culture of faeces especially for salmonellaeiv) Cooked meat broth (CMB) Rebertson's cooked meat broth (RCM). Nutrient broth, predigested cooked meat of ox heart. Culture of anaerobic bacteria. Composition and uses of Solid Media. Medium. Composition. Uses1. Simple medium i) Nutrient agar. Nutrient broth Agar (2-3%). Routine culture2. Enriched media i) Blood agarii) Chocolate agariii) Loeffler's serum slope (LSS). Nutrient agar, Sheep blood (5-10%). Heated blood agar (55degC X2 hr). Nutrient broth Glucose, Horse serum. Routine culture. Culture of Neisseria H, influenza. Culture of C diphtheria3. Indicator medium i) Mac. Conkey's medium. Peptone. Lactose. Sodium taurocholate. Agar. Neutral red. Culture of Gram negative bacilli4. Selective media i) Deoxycholate citrate agar (DCA)ii) Bile salt agar (BSA). Nutrient agar, Sodium deoxycholate, sodium citrate, Lactose, Neutral red. Nutrient agar, Sodium taurocholate (0. 5%) pH 8. 2. Culture of salmonellae and Shigellae. Culture of vibrio cholera. KEY POINTS1. Culture media are required to grow the organisms from infected material to identify the causative agent2. The basic constituents of culture media are water, electrolyte, peptone, meat extract, blood or serum and agar. 3. When basal medium is added with some nutrients such as blood, serum of egg, it is called enriched medium. 4. Some substances are incorporated in the liquid medium which have a stimulating effect on the bacteria and be growth or inhibits the competitors. Such media are called enrichment media, e, g, selenite broth. 5. Selective media contain substances that inhibit all but a few types of bacteria and facilitate the isolation of a particular species. Example is bite salt agar (BSA). 6. Differential medium contains substances which help to distinguish differing characteristics of bacteria. Example is Mac. Conkey's medium7. Indicator media contain an indicator which changes colour when bacterium grows in them. mac. Conkey's medium is differential as well as an indicator medium8. Anaerobic media are used for cultivation of anaerobic bacteria, e, g, cooked meat broth (CMB",
-        "cop": 1,
-        "opa": "Mac-Conkey agar prevents growth of g- \"ve\"bacteria",
-        "opb": "Thayer- martin - gonococcus",
-        "opc": "LJ media - mycobacteria",
-        "opd": "Selenite F broth - salmonella",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "08e35cf9-39d3-4a6b-af58-bb58f9e8c9f8",
-        "choice_type": "multi"
     },
     {
         "question": "Sporulation is seen in which phase of bacterial growth phase?",
@@ -2182,19 +1675,6 @@
         "topic_name": "General",
         "id": "3476c910-9943-4cc2-bbda-09da397e76bd",
         "choice_type": "single"
-    },
-    {
-        "question": "Twelve elderly residents living in an assisted care facility suffered from sinusitis, otitis media, and mild pneumonias during midwinter. Despite the fact that they had all received the 13-valent pneumococcal conjugate vaccine recently licensed for adults, S. pneumoniae was isolated from 10 of the patients. Which of the following is the best explanation for the pneumococcal infections?",
-        "exp": "There are more than 90 capsular immunotypes of Streptococcus pneumoniae. Immunity to S. pneumoniae is conveyed by antibodies against the specific capsular type. Vaccines have been formulated to contain the most commonly isolated capsular types. Originally, the S. pneumoniae conjugated vaccine contained seven serotypes. Unfortunately, the serotype replacement phenomenon occurred in which a nonvaccine strain began to cause disease among the vaccinated population. Over time this lead to the licensing of a 13-valent pneumococcal conjugated vaccine (PCV-13), which was recommended for children. A 23-valent nonconjugated vaccine (PV-23) was developed for children over age 2 and adults who are at risk for the disease. Recent research showed that older adults vaccinated with PCV-13 elaborated higher protective antibody titers than those immunized with PV-23. PCV-13 has now been licensed for adults 50 and older. The failure of the vaccine to protect these individuals is most likely due to the replacement phenomenon-the capsular type responsible was not present in the vaccine (c). Elderly patient do mount good immune responses to vaccines so (a) is not the likely cause. Some patients will not respond to the vaccine (b), but the effectiveness of the vaccine is higher than 17% (10/12, the number of patients who became infected). In fact, recent analyses of strains causing illness in those over 65 suggest that over 70% of the cases of invasive pneumococcal disease are covered by PCV-13. It is unlikely that the vaccine was defective (d), although this can occur.",
-        "cop": 3,
-        "opa": "Elderly patients do not mount good immune responses to vaccines",
-        "opb": "Some patients will not respond to the vaccine",
-        "opc": "The capsular type responsible was not present in the vaccine",
-        "opd": "The vaccine was defective",
-        "subject_name": "Microbiology",
-        "topic_name": "General",
-        "id": "4bfa1367-a61f-416f-bad8-f2bf6e8caaa5",
-        "choice_type": "multi"
     },
     {
         "question": "Which is used for sterilization of cystoscope",

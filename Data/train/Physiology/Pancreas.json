@@ -65,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Insulin secretion is/are increased by all except: (PGI Nov 2010)",
-        "exp": "Ans: C (VIP) (Ref. Guyton llth/968-69; Ganong 24th/441, 23rd/326 ]. Insulin: Effect of Various Hormones Guyton nth/969. Gastrointestinal Hormones. A mixture of several important gastrointestinal hormones-gastrin, secretin, cholecystokinin, and gastric inhibitory peptide3 (which seems to be the most potent)- causes a moderate increase in insulin secretion. These hormones are released in the gastrointestinal tract after a person eats a meal. Other Hormones and the Autonomic Nervous System. Other hormones that either directly increase insulin secretion or potentiate the glucose stimulus for insulin secretion include glucagon, growth hormone, cortisol, and, to a lesser extent, progesterone and estrogen3. Table (Ganong 23rd/326): Factors affecting insulin secretion. Stimulators. Inhibitors. Glucose. Somatostatin. Mannose2-Deoxyglucose. Amino acids (leucine, arginine, others). Mannoheptulose. Intestinal hormones (GIP, GLP- 1, gastrin, secretin, CCK, others?). Qa-Adrenergic stimulators (norepinephrine, epinephrine)b-Keto acidsb -Adrennergic blockers (propranolol) Stimulators. Inhibitors. Acetylcholine. Thiazide diuretics. Glucagons. Galanin. Cyclic AMP and various c. AMP- generating substance. Diazoxideb-Adrenergic stimulatorsK+ depletion. Theophyline. Phenytoin; Microtubule inhibitors. Sulfonyl ureas. Alloxan; Insulin",
-        "cop": 3,
-        "opa": "Gastrin",
-        "opb": "Secretin",
-        "opc": "VIP",
-        "opd": "G1P",
-        "subject_name": "Physiology",
-        "topic_name": "Pancreas",
-        "id": "0d332c3a-b724-4e1b-a9bd-a33edca1366b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is secreted by beta cells of pancreas along with insulin?",
         "exp": "Ans. b. Amylin (Ref: Katzung 12/ep763; Ganong 23/e p316; Guyton 12/e p939; Sabiston 19/e p946) Amylin is produced by pancreatic beta cells, packaged within beta-cell granules in a concentration 1-2 % that of insulin and co-secreted with insulin in a pulsatile manner and in response to physiologic secretory stimuli\"Amylin is a 37-amino-acid peptide originally derived from islet amyloid deposits in pancreas material from patients with long-standing type 2 diabetes or insulinomas. It is produced by pancreatic beta cells, packaged within beta-cell granules in a concentration 1-2% that of insulin and co-secreted with insulin in a pulsatile manner and in response to physiologic secretory stimuli. The physiologic effect of amylin may be to modulate insulin release by acting as a negative feedback on insulin secretion. At pharmacologic doses, amylin reduces glucagon secretion, slows gastric emptying by a vagally medicated mechanism, and centrally decreases appetite. \"--Katzung 12/e p763. Islet Cells. Content. Alpha cells. Glucagon, pancreastatinQ, glicentinQ (PG). Beta cells. Insulin, amylinQ pancreastatinQ (IAP)D celts. Somatostatin. D2 cells. VIPG cells. Gastrin. PP cells. Pancreatic polypeptide",
         "cop": 2,
@@ -141,18 +128,5 @@
         "topic_name": "Pancreas",
         "id": "c908d9d6-caa2-413b-8e96-9a7bc347074c",
         "choice_type": "single"
-    },
-    {
-        "question": "In starvation, earliest to become depleted -",
-        "exp": "Ans. is 'a' i. e., Carbohydrates. Metabolic alteration during fasting-starvationo he metabolic changes observed in fasting are generally opposite to those described for absorptive (fed) state. In the absence of food, plasma levels of glucose, amino acids, and TGs fall, triggering a decline in insulin secretion and an increase in glucagon release. This results in decreased insulin: glucagon ratio. Which is responsible for most of the metabolic changes. o The primary role of altered metabolism during fasting is to maintain blood glucose through the synthesis (gluconeogenesis) and utilization of alternate substrates. Fasting-starvation is divided in three broad categories:-Initial stage:- Lasts upto 2-3 days. Intermediate stage Lasts upto 24 days. Advanced stage:- begins after 24 days. Initial stage (first stage):- Liver glycogen is the first main provider of energy. But due to limited storage it can not last longe (16-18 hrs.). Further glucose is provided by gluconeogenesis by non- carbohydrate sources (muscle protein breakdown is increased which provides amino acids alanine and glutamine for gluconeogenesis). Utilization of alternate substrates (other than glucose) starts increasing interminal period of this stage. Free fatty acids and ketone bodies start rising in this stage. Glycogenis completely depleted by the end of this stage. Blood glucose is slightly decreased. Intermediate stage (Second stage):- Free fatty acids are the major substrates for energy production. They are derived from hydrolysis of fat (triglycerides) in adipose tissue. Ketone bodies serve as additional source of energy. As glycogen source is already depleted, the only source of glucose is increased gluconeogenesis. After sometimes muscle breakdown decreases due to decreased need of glucose as a fuel for brain which has began using ketone bodies as a source of energy. Advanced stage (Third stage):- When fat stores are almost exhaused, energy requirment is obtained from breakdown of tissue proteins and protein stores once again enter in stage of rapid depletion.",
-        "cop": 1,
-        "opa": "Carbohydrates",
-        "opb": "Proteins",
-        "opc": "Fats",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "Pancreas",
-        "id": "97ab74ed-0abb-4268-9641-649cc4776c70",
-        "choice_type": "multi"
     }
 ]

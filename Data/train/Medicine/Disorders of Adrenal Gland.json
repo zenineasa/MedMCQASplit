@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 45 year old male presented with palpitations, tachycardia & anxiety. His BP is 158/90 mm. Hg. The patient also has mild depression and is presently taking citalopram, labetalol & amlodipine to control his blood pressure. 24-hour urine total metanephrines are ordered and show an elevation of 1. 5 times the upper limit of normal. What is the next best step?",
-        "exp": "Investigations done in pheochromocytoma 24 hour urinary fractionated metanephrine 24 hour urinary catecholamines 24 hour urinary vanillylmandelic acid level IOC- Plasma fractionated metanephrine levels 24-hour urine total metanephrines has high sensitivity & value of three times the upper limit of normal is highly suggestive of pheochromocytoma. Borderline elevation- likely to be false positives. Drugs related- include levodopa, sympathomimetics, diuretics, TCA, and a- and b-blockers (Labetalol) Therefore, hold labetalol for 1 week and repeat testing is the best next step",
-        "cop": 1,
-        "opa": "Hold labetalol for 1 week and repeat testing",
-        "opb": "Hold citalopram for 1 week and repeat testing",
-        "opc": "Refer immediately for surgical evaluation",
-        "opd": "Measure 24-hour urine vanillylmandelic acid level",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "153eb6d2-2430-4054-8c7a-5c0f3da4c493",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Causes of diffuse hyperpigmentation include all of the following except?",
-        "exp": "Busulfan administration Busulfan, cyclophosphamide, 5-fluorouracil, and inorganic arsenic induce pigment production and cause diffuse hyperpigmentation Nelson's syndrome Increased ACTH (Which has paial MSH activity) due to bilateral adrenalectomy Addison's disease Increased ACTH (Which has paial MSH activity) due to destruction of adrenal coex and low coisol Hermanksy- Pudlak syndrome Autosomal recessive disorder which results in oculo-cutaneous albinism (decreased pigmentation), and bleeding problems due to a platelet abnormality (platelet storage pool defect)",
-        "cop": 4,
-        "opa": "Busulfan administration",
-        "opb": "Nelsons syndrome",
-        "opc": "Addison disease",
-        "opd": "Hermansky-Pudlak Syndrome",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "c2c6e421-af34-4f5a-b456-ddc818061d2f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is the initial Imaging modality of choice for Insulinoma?",
         "exp": "For PETs in the pancreas, EUS is highly sensitive, localizing 77-100% of insulinomas, which occur almost exclusively within the pancreas. Tests for location of p. NET: Somatostatin Receptor Scintigraphy is the initial imaging modality but is less available. Helical CT scan has a sensitivity of 82-94%. Gadolinium based MRI has sensitivity of 85%. If above scans are negative, then Endoscopic ultrasound will be able to pick up the insulinoma which is usually <1. 5 cm in size. If all the above tests turn negative then calcium stimulated angiography can be used to localize the tumor. The intra-aerial calcium test also allows differentiation of the cause of the hypoglycaemia and indicates whether it is due to an insulinoma or a nesidioblastosis.",
         "cop": 4,
@@ -63,19 +37,6 @@
         "topic_name": "Disorders of Adrenal Gland",
         "id": "52a17e17-ca9e-48f9-bdc4-a6aeff3e06a7",
         "choice_type": "single"
-    },
-    {
-        "question": "Which is the best test for diagnosis of adrenal insufficiency?",
-        "exp": "The diagnosis of Primary Adrenal Insufficiency is established by Cosyntropin test Coisol values of <18ug/dl sampled 30-60 minutes after ACTH stimulation will diagnose the disease. This is followed by plasma ACTH values to identify primary versus secondary Addison disease. Steroid auto-antibodies are marker for Autoimmune Adrenalitis. Fludrocoisone challenge test is done for Conn syndrome.",
-        "cop": 4,
-        "opa": "CT abdomen",
-        "opb": "Steroid autoantibodies",
-        "opc": "Fludrocoisone challenge test",
-        "opd": "Cosyntropin test",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "19e5586b-1c1e-4333-9a8a-4abcac797f64",
-        "choice_type": "multi"
     },
     {
         "question": "Which clinical feature is not associated with pheochromocytoma?",
@@ -115,19 +76,6 @@
         "topic_name": "Disorders of Adrenal Gland",
         "id": "4c2515bb-6dd4-46c7-962f-3ae8f512ac75",
         "choice_type": "single"
-    },
-    {
-        "question": "Conn's syndrome is characterized by all except?",
-        "exp": "Anasarca or Generalised swelling is not seen in CONN syndrome due to salt escape mechanism. Though there is gain of salt and water due to aldosterone excess, the increased preload will stretch the right atrium and cause release of ANF. This increase in ANF will cause natriuresis and will cancel the gain caused by aldosterone. This natriuresis or salt loss shall be associated with water loss and leads to Polyuria. The resultant polyuria will lead to Polydipsia. The weakness is explained by hypokalemia seen in Conn syndrome.",
-        "cop": 4,
-        "opa": "Polyuria",
-        "opb": "Polydipsia",
-        "opc": "Weakness",
-        "opd": "Anasarca",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "028184a8-0bfa-4b8a-ba6e-eb68edc95944",
-        "choice_type": "multi"
     },
     {
         "question": "A 35 year old male known case of MEN 1 presents to OPD with urinary stones and increased serum calcium. Next investigation to be done is?",
@@ -234,32 +182,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is true about treatment of hypeensive crisis with encephalopathy in a patient with a pheochromocytoma.",
-        "exp": "Option A- Not done as the patient may require pre-operative or intra-operative management. Option C > option B- As first we will stabilize the patient and then surgery can be done post stabilizing the patient. Option D- b is given but only after a Only after a blocker",
-        "cop": 3,
-        "opa": "Immediate surgical removal of the mass is indicated",
-        "opb": "High-dose phenoxybenzamine should be used to control the blood pressure with surgery in 24 to 48 hours",
-        "opc": "Treatment with phentolamine should be staed with low-dose phenoxybenzamine to be titrated upward. Surgery should be done in 2 to 3 weeks once blood pressure is below 160/100 mm. Hg",
-        "opd": "Beta blockade is contraindicated",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "1926e768-1dfb-4f02-9bf6-764adaad8950",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In a patient with pheochromocytoma, all of the following are seen except?",
-        "exp": "Due to increased sympathomimetic stimulation, Pheochromocytoma has a weight loss. Phaeochromocytoma produces norepinephrine (80% cases) leading to hypertension but since the catecholamines act for sho duration and are released in bursts abnormally, the BP increases for some hours a day, which is referred to as Episodic hypertension. This catecholamine excess in future will lead to a persistent vasoconstriction, referred to as volume contracted state. This explains the Postural Hypotension/Ohostatic Hypotension Pheochromocytoma is a nasty tumor that can produce V. I. P and leads to Secretory diarrhea.",
-        "cop": 4,
-        "opa": "Diarrhoea",
-        "opb": "Ohostatic hypotension",
-        "opc": "Episodic hypertension",
-        "opd": "Weight gain",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "00ef22c6-2d25-41d0-b6de-c5f22e473ab3",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the leading cause of adrenal insufficiency?",
         "exp": "This is a closely worded question Please note that incidence of Secondary adrenal insufficiency is MORE common than primary adrenal insufficiency. The most common cause of secondary adrenal insufficiency is hypothalamic pituitary insufficiency. Most common cause of primary adrenal insufficiency is Autoimmune Adrenalitis.",
         "cop": 4,
@@ -286,19 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Adrenal insufficiency causes:-",
-        "exp": "Plasma Na /K ratio | in Addison's disease Weight loss not d/t protein breakdown but its because of salt and water retention. IOC - ACTH Stimulation Test/Co- Syntropin Test Rx- Hydrocoisone (DOC)",
-        "cop": 2,
-        "opa": "A rise in plasma sodium/potassium ratio",
-        "opb": "Low blood pressure",
-        "opc": "Increase breakdown of protein",
-        "opd": "A fall in extra-cellular fluid volume",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "b4e5eb69-6ac7-47c7-99fb-dcc8deb030cb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is the screening test for evaluation of mineralocoicoid excess?",
         "exp": "The accepted screening test for mineralocoicoid excess is aldosterone renin ratio. Since the leading cause is Adrenal Adenoma, the autonomous aldosterone values will rise and renin values will be low due to feedback. ARR screening is positive if ratio is > 750pmol/L per ng/ml. Spironolactone should be discontinued for at-least 4 weeks before performing this test for obvious reasons. This is followed by performance of investigation of choice for mineralocoicoid excess which is Saline infusion test.",
         "cop": 4,
@@ -312,19 +221,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are features of MEN2B except?",
-        "exp": "MEN2B Medullary Thyroid Cancer with pheochromocytoma and associated abnormalities: Mucosal neuroma Marfanoid Habitus Medullated corneal nerve fibres Megacolon",
-        "cop": 4,
-        "opa": "Mucosal neuroma",
-        "opb": "Marfanoid Habitus",
-        "opc": "Medullated corneal nerve fibres",
-        "opd": "Meningioma",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "9747b54b-8f52-414e-9589-69e05dabdfc7",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common functional neuroendocrine tumor of pancreas?",
         "exp": "The incidence of Insulinoma is 1-2% whereas the =dente of ZES is given as 0. 5-1. 5%. Name Biologically active peptide(s) secreted Incidence (new cases /106 population/year) Tumor location Well- established functional p. NET syndromes Zollinger- Ellison Syndrome Gastrin 0. 5-1. 5 Duodenum (70%)* Pancreas (25%) Insulinoma Insulin 1-2 Pancreas (>99%) VIPoma (Verner-Morrison syndrome, pancreatic cholera, WDHA) Vasoactive intestinal peptide 0. 05-0. 2 Pancreas (99%, adult) other (10%, neural, adrenal, periganglionic) Glucagonoma Glucagon 0. 01-0. 1 Pancreas (100%) Somatostatinoma Somatostatin Rare Pancreas (55%) Duodenum/jejunum (44%)",
         "cop": 3,
@@ -336,19 +232,6 @@
         "topic_name": "Disorders of Adrenal Gland",
         "id": "2067738f-141e-4e6e-92d0-5129e2f78687",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following medications is typically avoided in patients with pheochromocytoma due to the risk of hypeensive crisis?",
-        "exp": "For pheochromocytoma patients, METOCLOPRAMIDE is C/I as it can lead to Hypeensive crisis. The gastroprokinetic agent metoclopramide is known to stimulate catecholamine secretion from pheochromocytomas. Metoclopramide is contraindicated in patients with pheochromocytoma due to the risk of hypeensive crisis. Metoclopramide induced hypeensive crisis can be treated with phentolamine. If the patient has emesis, a serotonin 5-HT3 receptor antagonist should be used. Ondansetron does not have any effect on dopamine or norepinephrine",
-        "cop": 2,
-        "opa": "Promethazine",
-        "opb": "Metoclopramide",
-        "opc": "Haloperidol",
-        "opd": "Ondansetron",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "073c15a4-6d29-449e-8e26-2faf46abe756",
-        "choice_type": "multi"
     },
     {
         "question": "Addison disease with hypoparathyroidism and mucocutaneous candida infection is seen with?",
@@ -390,19 +273,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Adrenal suppression is caused by all of the following drugs EXCEPT",
-        "exp": "Adrenal insufficiency: Metabolic failure in hormone production Congenital adrenal hyperplasia. Enzyme inhibitors (e. g. metyrapone, Ketoconazole, aminoglutethimide) Cytotoxic agent - (Mitotane) Primary adrenal insufficiency: Acquired etiologies Drugs: Ketoconazole, an antifungal drug, can cause adrenal insufficiency by inhibiting adrenal enzymes. Rifampicin and anticonvulsant drugs such as phenytoin & Phenobarbital reduce the effectiveness and bioavailability of coicosteroid replacement therapy by inducing steroid metabolizing enzymes in the liver. Mitotane used in the treatment of adrenal carcinoma and refractory Cushing syndrome, is cytotoxic to the adrenal coex and may also alter extra adrenal Coisol metabolism. Signs of adrenal insufficiency occur in a substantial percentage of patients treated with Mitotane. Addisonian - like syndrome seen with: Busulfan Etomidate Ketoconazole",
-        "cop": 3,
-        "opa": "Ketoconazole",
-        "opb": "Rifampicin",
-        "opc": "Erythromycin",
-        "opd": "Phenytoin",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "c48a61da-827e-48d7-98cc-54d978b7390c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Weight loss is a feature of?",
         "exp": "Weight loss is seen in Addison disease because of salt and water loss from body Insulinoma: - Insulin |; Weight gain Hypothyroidism: - BMR|; Weight gain Fatty liver: Obesity: Weight gain",
         "cop": 3,
@@ -414,19 +284,6 @@
         "topic_name": "Disorders of Adrenal Gland",
         "id": "c5fbadc1-3388-46d8-b567-89935d6f9480",
         "choice_type": "single"
-    },
-    {
-        "question": "All are features of glucocoicoid deficiency except?",
-        "exp": "Signs and Symptoms caused by Glucocoicoid Deficiency Signs and symptoms Caused by Mineralocoicoid Deficiency Hyponatremia (due to loss of feedback inhibition of AVP release) Postural hypotension/ Low BP Unexplained Fever Fatigue Weight loss, anorexia Myalgia, joint pain Anemia, lymphocytosis, eosinophilia Slightly increased TSH (due to loss of feedback inhibition of TSH release) Hypoglycemia (more frequent in children) Hyponatremia (due to aldosterone deficiency) Hyperkalemia (due to aldosterone deficiency) Abdominal pain, nausea, vomiting Dizziness, postural hypotension Salt craving Low blood pressure, Postural hypotension. Increased Serum Creatinine (due to volume depletion)",
-        "cop": 3,
-        "opa": "Weight loss",
-        "opb": "Fever",
-        "opc": "Hyperkalemia",
-        "opd": "Postural hypotension",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "d96ca423-28ea-43d2-be67-cbbd7d12c1bd",
-        "choice_type": "multi"
     },
     {
         "question": "A 45 year old male was evaluated for secondary hypertension & was diagnosed with pheochromocytoma. MRI abdomen revealed a 3 cm mass in left adrenal gland. He underwent a left adrenalectomy. After this, his hypertension is well controlled. How will you decide whether his pheochromocytoma was malignant?",
@@ -455,32 +312,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is true about SIADH?",
-        "exp": "SIADH- condition which activates V2 Receptor in the collecting duct of the kidneys and INCREASE ADH will lead to gain of water in the body. - TBW ||, Total salt is normal (Relative hyponatremia i. e. euvolemic hyponatremia ) Euvolemic Hyponatremia 1. SIADH 2. Glucocoicoid deficiency 3. Hypothyroidism Hypervolemic Hyponatremia 1. Cirrhosis 2. CHF 3. AKI Hypovolemic Hyponatremia 1. Diarrhea 2. Cantal salt wasting syndrome",
-        "cop": 1,
-        "opa": "Euvolemic hyponatremia",
-        "opb": "Euvolemic hypernatremia",
-        "opc": "Hypervolemic hypernatremia",
-        "opd": "Hypervolemic hyponatremia",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "781eb0ee-746a-4475-8876-254f797a09b9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 30 year old woman has developed increased facial hair and acne for last 5 months. She has noticed deepening of voice and clitoris enlargement. On physical examination her height is 170 cm, weight is 95kg, BP=130/75 with abdominal obesity. There is no evidence of striae or bruising. All of the following would be impoant steps in clinical assessment of patient, except?",
-        "exp": "The clinical history is of hirsutism and development of virilisation process due to changes in voice. Virilisation indicates ovarian or adrenal source of DHEAS. Hormonal evaluation of testosterone and DHEAS hence becomes logical. Family history is impoant as in some families' hirsutism can be seen. USG for ovary evaluation is an insensitive test for diagnosis as polycystic ovaries can be found without any androgen excess or females can have androgen excess while ovaries are normal.",
-        "cop": 4,
-        "opa": "Family history",
-        "opb": "Serum testosterone",
-        "opc": "Serum DHEAS",
-        "opd": "USG abdomen",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "cee53dc6-ca71-4a09-983d-157dfb6497ae",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is not a feature of glucocoicoid deficiency?",
         "exp": "Clinical features of glucocoicoid deficiency: Weight loss and myalgia Fever NCNC anemia, eosinophilia and increased lymphocytes Postural hypotension Hyponatremia Hypoglycaemia Hyponatremia occurs in glucocoicoid deficiency due to loss of feedback inhibition of AVP release. Coisol maintains blood sugar and low coisol explains hypoglycaemia. From the remaining two options the answer is hyperkalemia since it is a known feature of mineralocoicoid deficiency.",
         "cop": 4,
@@ -507,32 +338,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about pheochromocytoma except?",
-        "exp": "Paraganglioma is a term used to describe catecholamine producing tumors in the skull base and neck. The classic rule of tens is valid for pheochromocytoma. Organ of Zuckerkandl is a collection of chromaffin cells near the origin of the inferior mesenteric aery or near the aoic bifurcation. It is the most common extra-adrenal site of pheochromocytoma. Urinary VMA is used for diagnosis of neuroblastoma and not pheochromocytoma. The most sensitive test for pheochromocytoma is urinary fractionated metanephrine",
-        "cop": 1,
-        "opa": "Urinary V. M. A is most specific",
-        "opb": "Paraganglioma occurs at skull base",
-        "opc": "10% extra adrenal",
-        "opd": "Organ of Zuckerkandl is most common extra adrenal site",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "dae85c74-c7a2-4f8e-b63f-3416ebf1264d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All the following drugs are used in pheochromocytoma except?",
-        "exp": "Beta blockers will lead to unopposed alpha action leading to worsening of pre-existing vasoconstriction in pheochromocytoma. Thus the correct way to manage pheochromocytoma patients is to first initiate alpha blockade and then follow up with beta blockade. Metyrosine inhibits catecholamine production and is useful in malignant pheochromocytoma. Adequate alpha blockade generally requires 7 days, with a typical final dose of 20-30 mg phenoxybenzamine three times per day. HTN crisis might require sodium nitroprusside. Oral prazosin or intravenous phentolamine can be used to manage paroxysms while awaiting adequate alpha blockade. Before surgery, blood pressure should be consistently below 160/90 mm. Hg, with moderate ohostasis. Beta blockers (e. g., 10 mg propranolol three to four times per day) can be added after staing alpha blockers and increased as needed if tachycardia persists. Other antihypeensives, such as calcium channel blockers or angiotensin-conveing enzyme inhibitors, have been used when blood pressure is difficult to control with phenoxy-benzamine alone.",
-        "cop": 2,
-        "opa": "Prazosin",
-        "opb": "Atenolol",
-        "opc": "Nitroprusside",
-        "opd": "Metyrosine",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "8bd88e67-f957-421f-bad9-45d9ef58df35",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 35 year old female presents to OPD with complaints of fatigue and weakness. She has had decreased appetite, weight loss, and severe light-headedness upon standing. Vital signs show a heart rate of 88 bpm, respiration rate of 18 breaths per minute, and temperature of 37. 2deg C. The exam is remarkable for pigmentation of the oral mucosa, proximal muscle weakness of the lower extremities, and hyperpigmentation of the palmar creases, knuckles and knees. What is the most likely diagnosis?",
         "exp": "Hyperpigmentation of Oral mucosa: ADDISON'S disease ( Primary Addison's disease) Primary ADDISON'S disease Feature of BRADYCARDIA should be present Here the Primary Addison's disease may be d/t Auto immune TB Secondary Addison's disease- Doesn't have hyperpigmentation DOC in this case: HYDROCOISONE * To stabilize BP: FLUDROCOISONE * To stabilize Hypoglycemic condition- DEXAMETHASONE",
         "cop": 1,
@@ -557,19 +362,6 @@
         "topic_name": "Disorders of Adrenal Gland",
         "id": "053f0435-45f2-4009-96bb-a3ecd27b1d09",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following investigations are needed for evaluation of the given case except?",
-        "exp": "The image shows clitoromegaly, labial fusion of a virilised female child. Inguinal folds don't exhibit any mass or swelling. The leading cause for this is congenital adrenal hyperplasia. Deficiency of 21-hydroxylase, resulting from mutations or deletions of CYP21A, is the most common form of CAH, accounting for more than 90% of cases. Choice A Useful for determining bone age which is advanced in CAH due to sex steroids Choice B Useful to identify CAH where a girl child has ambiguous genitalia Choice C Useful due to salt wasting and elevated potassium secondary to decreased aldosterone levels 24 hour urinary chloride is useful for renal tubular disorders like Bater syndrome and Gitelman syndrome.",
-        "cop": 4,
-        "opa": "X ray wrist and elbow",
-        "opb": "Karyotype",
-        "opc": "Serum electrolytes",
-        "opd": "24 hour urinary chloride",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "99588874-7a50-45d8-8b36-7768a59a8451",
-        "choice_type": "multi"
     },
     {
         "question": "Inactivation of coisol into coisone occurs mainly in which organ?",
@@ -624,19 +416,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 20-year-old hypertension patient has been diagnosed as a case of pheochromocytoma with positive biochemical evidence. What is the next step in work up of this patient?",
-        "exp": "Option A: 1st imaging of the Abdomen should be done in pheochromocyte in patient to locate whether it is adrenal or extra adrenal pheochromocytoma. If site of Tumor is not located means tumor is less than 1 cm, then MIBG scintigraphy should be done in patient. Screening Test= 24 hr. Urinary fractionated metanephrine levels. IOC: Plasma metanephrine level Imaging - MRI Abdomen If size <1cm Tumor 1. MIBG scan= for Adrenal Pheochromocytoma (Metaiodobenzyl guanidine scan) 2. PET DOPA= For Extra Adernal Pheochromocytoma.",
-        "cop": 1,
-        "opa": "MRI Abdomen",
-        "opb": "Perform urinary VMA levels",
-        "opc": "Perform adrenal vein sampling",
-        "opd": "MIBG scintigraphy",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "6738ca08-61d0-40ea-b970-9734e092b35b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following medications should be used for pheochromocytoma associated hypertension after phenoxybenzamine is staed?",
         "exp": "Option B- in order to control tremors and palpitation complaints in the patient For Pheochromocytoma: (a+b) =Ideal management recommended protocol (b+a) = C/I",
         "cop": 2,
@@ -663,19 +442,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Congenital adrenal hyperplasia due to 11 beta hydroxylase deficiency presents with all except?",
-        "exp": "11 -b-Hydroxylase Deficiency, is characterized by: Mineralocoicoid excess and hence hypertension can be seen. Mineralocoicoid excess leads to hypokalemia and Metabolic Alkalosis. Glucocoicoid deficiency leads to hypoglycemia and excess of ACTH leads to hyperpigmentation around genitals. Excess of adrenal androgens leads to Virilization Variant Gene Impact on Steroid Synthesis Diagnostic Marker in Serum (and Urine) 21-Hydroxylase CYP21. A2 Glucocoicoid deficiency, mineralocoicoid deficiency, adrenal androgen excess 17-Hydroxyprogesterone 11-Hydroxylase deficiency (11. OHD) CYP11. B1 Glucocoicoid deficiency, mineralocoicoid excess, adrenal androgen excess 11-Deoxycoisol",
-        "cop": 1,
-        "opa": "Metabolic acidosis",
-        "opb": "Hypokalemia",
-        "opc": "Hypernatremia",
-        "opd": "Hypertension",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "8cc1c631-5a6a-454e-8198-596916b2710e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is the best imaging modality in pheochromocytoma?",
         "exp": "MRI Abdomen has higher sensitivity than the remaining choices. Imaging Sensitivity Specificity CT ++++ +++ MRI ++++ +++ MIBG scintigraphy +++ ++++ Somatostatin receptor scintigraphy ++ ++ Fluoro - DOPA PET/CT +++ ++++",
         "cop": 4,
@@ -687,19 +453,6 @@
         "topic_name": "Disorders of Adrenal Gland",
         "id": "abb75b03-f188-4b2f-9609-d9763d2f8253",
         "choice_type": "single"
-    },
-    {
-        "question": "Carcinoid syndrome is associated with all except?",
-        "exp": "Vanillyl Mandelic acid (V. M. A) is an end product of catecholamine metabolism and is used for screening for pheochromocytoma. In carcinoid syndrome, the 5. HT derivative histamine results in flushing episodes. Neuroendocrine tumors along the GI tract use tryptophan as the source for serotonin production, which limits the available tryptophan for niacin synthesis. In normal patients, only one percent of dietary tryptophan is conveed to serotonin; however, in patients with carcinoid syndrome, this value may increase to 70%. Carcinoid syndrome may thus produce Niacin deficiency and clinical manifestations of pellagra. 5. HT derivative histamine released by carcinoid causes bronchospasm and rhonchi.",
-        "cop": 3,
-        "opa": "Flushing of skin",
-        "opb": "Skin lesions like pellagra",
-        "opc": "VMA in urine",
-        "opd": "Bronchospasm",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "7283d978-dd28-4787-8e57-dec1d3ff6f67",
-        "choice_type": "multi"
     },
     {
         "question": "A 27-year-old male has had a hard to control hypertension for 2 years. He is taking clonidine, hydrochlorothiazide, verapamil, and lisinopril. His blood pressure is 170/105 mm. Hg, pulse 90 beats/min, and respirations 16/min. The cardiopulmonary exam is normal. Pedal pulses are intact and there is no edema or mis-distribution of fat. Laboratories show potassium of 2. 7 m. Eq/L, BUN 20 mg/dL, creatinine 1. 2 mg/dL, bicarbonate 33 mg/dL, and fasting glucose 98 mg/dL. What is the most likely diagnosis?",
@@ -752,18 +505,5 @@
         "topic_name": "Disorders of Adrenal Gland",
         "id": "cd23b8e9-11e7-47a9-a87c-07e309cfcd09",
         "choice_type": "single"
-    },
-    {
-        "question": "True about pheochromocytoma are all except:-",
-        "exp": "Urinary VMA is most specific for Neuroblastoma (Impoant) Paraganglioma occur at skill base (aka) Chemodectoma (aka) Potato tumor Pheochromocytomas are 10% extra adrenal Organ Of Zuckerkandl is MC extra adrenal Sympathetic chain positive",
-        "cop": 1,
-        "opa": "Urinary VMA is most specific for pheochrocytoma",
-        "opb": "Paraganglioma occurs at skull base",
-        "opc": "10% are extra adrenal.",
-        "opd": "Organ of Zukerkandi is most common extra adrenal site",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of Adrenal Gland",
-        "id": "9eca2045-4e9e-4dee-87a4-f374c4d09eed",
-        "choice_type": "multi"
     }
 ]

@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The ion that contributes maximally to the development of RMP is:",
-        "exp": "A resting cell is much more permeable to K+ as compared to Na+ or other ions. During resting conditions, if all the ions are moving down their concentration gradients to finally reach equilibrium, the movement of K+ will be much greater. Thus, K+ diffusing out, down its concentration gradient will be the greatest contributor to the RMP. As K+ diffuses outward to reach equilibrium, it drags the membrane potential to its own equilibrium potential. (Equilibrium potential for K+ = - 90 mV)",
-        "cop": 2,
-        "opa": "Na+",
-        "opb": "K+",
-        "opc": "Cl-",
-        "opd": "Ca++",
-        "subject_name": "Physiology",
-        "topic_name": "Membrane potiential",
-        "id": "bceaf0a7-0284-49de-a068-3d51985cea90",
-        "choice_type": "multi"
-    },
-    {
         "question": "Contribution of Na+/K+ pump to the development of RMP is:",
         "exp": "Na+/K+-pump is electrogenic. It causes 3 positive charges (Na+) to be pumped out for 2 positive charges (K+) pumped into the cell. Thus, with the activity of the pump, the number of positive charges becomes less. Relatively, the number of negative charges become more. Thus, the pump on its own, contributes about - 4 mV to the membrane potential. The pump contributes a small potential directly. However, the remaining major potential can be said to be an indirect contribution of the pump. The pump causes concentration gradients of Na+ and K+ to be established across the membrane. These concentration gradients, in turn, cause the diffusion of these ions across the membrane. The diffusion of ions is responsible for development of major fraction of RMP.",
         "cop": 4,
@@ -102,19 +89,6 @@
         "topic_name": "Membrane potiential",
         "id": "1bed7b56-b2f6-4a75-b4a5-05c4ed2f8f36",
         "choice_type": "single"
-    },
-    {
-        "question": "Not true about action potential recording:",
-        "exp": "For typical action potential recording (which is also known as monophasic action potential), one microelectrode is placed inside the nerve fibre and the other electrode on the outside surface For biphasic recording of action potential, both the exploring electrodes are placed on the outside surface of nerve fibre, and they are connected to a CRO (cathode ray oscilloscope) Compound AP is an algebraic summation of the all the monophasic recording of AP from a mixed nerve which contains different types of nerve fibres with varying diameter.",
-        "cop": 1,
-        "opa": "Compound action potential of a mixed nerve is recorded by cathode ray oscilloscope",
-        "opb": "Biphasic action potential is recorded by surface electrode",
-        "opc": "Compound AP is an algebraic summation of the all the monophasic recording from a mixed nerve",
-        "opd": "Typical action potential is recorded by microelectrode placed inside the nerve fibre",
-        "subject_name": "Physiology",
-        "topic_name": "Membrane potiential",
-        "id": "e0994145-0545-42c8-a68f-7d44f8c721de",
-        "choice_type": "multi"
     },
     {
         "question": "Movement and eventual equilibrium of Na+, K+and Cl- across the muscle membrane would develop a potential of:",

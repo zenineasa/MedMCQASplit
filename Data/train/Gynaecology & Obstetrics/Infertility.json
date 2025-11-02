@@ -1,18 +1,5 @@
 [
     {
-        "question": "What is the cause for luteal phase defect?",
-        "exp": "Luteal phase defect- In this condition, there is inadequate growth and function of the corpus luteum. There is inadequate progesterone secretion. The lifespan of corpus luteum is shoened less than 10days. As a result, there is inadequate secretory changes in the endometrium which hinder implantation. LPD is due to defective folliculogenesis which again may be de to varied reasons. Reference- DC Dutta's textbook of gynaecology -7th edition- page no 188",
-        "cop": 1,
-        "opa": "Progesterone is inadequately secreted",
-        "opb": "Excess estrogen is secreted",
-        "opc": "Excess progesterone is secreted",
-        "opd": "Both estrogen and progesterone are in excess",
-        "subject_name": "Gynaecology & Obstetrics",
-        "topic_name": "Infertility",
-        "id": "5a072d86-34bc-4c32-940c-30a09213ce71",
-        "choice_type": "multi"
-    },
-    {
         "question": "Ferning of cervical mucus (fern test) is due to:",
         "exp": "Fern test- A specimen of cervical mucus obtained using a platinum loop or pipette is spread on a clean glass slide and allowed to dry. When viewed under low power microscope during the estrogenic phase, a characteristic pattern of fern formation is seen. Ferning is due to the presence of high Na. Cl and low protein content in the mucus secreted under high estrogen effect in the midmenstral phase prior to the ovlation. Shaw's textbook of gynaecology -16th edition-page no 256.",
         "cop": 2,
@@ -65,32 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Ideally, the total motile sperm count in the IUI specimen should be",
-        "exp": "IUI is the best studied and most widely practiced of all the insemination techniques. It involves placement of about 0. 3 to 0. 5 mL of washed, processed, and concentrated sperm into the intrauterine cavity by transcervical catheterization. Ideally, the total motile sperm count in the IUI specimen should be 5 million or 10 million or more. Pregnancy rates with semen meeting those thresholds have been repoed to be 10. 5% per cycle and 38% after 4 to 6 cycles. ICSI should be offered if the semen analysis shows less than 2 million motile sperm, less than 5% motility, or if surgically recovered sperm are used. Reference: Novak's Gynecology; 14th edition; Chapter 32; Infeility and Assisted Reproductive Technology",
-        "cop": 1,
-        "opa": "10 millilon/ml or more",
-        "opb": "12 millilon/ml or more",
-        "opc": "15 millilon/ml or more",
-        "opd": "20 millilon/ml or more",
-        "subject_name": "Gynaecology & Obstetrics",
-        "topic_name": "Infertility",
-        "id": "2e3cdc13-7acf-46c0-9078-d39d0090c5c0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is true about obstructi azoospermia:",
-        "exp": "Shaw's textbook of Gynaecology- 16th edn- pg no 244. Normal FSH and LH level indicates obstructive lesion in the vas or epididymis. High FSH indicates gonadal failure. Low FSH Indicates pituitary or hypothalamic failure.",
-        "cop": 2,
-        "opa": "FSH and LH increased",
-        "opb": "Normal FSH and normal LH",
-        "opc": "LH raised/ Normal FSH",
-        "opd": "FSH raised, Normal LH",
-        "subject_name": "Gynaecology & Obstetrics",
-        "topic_name": "Infertility",
-        "id": "159543da-8fce-4603-87e4-86c54deb8c8b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Non steroidal/ anti hormonal substance used to induce ovulation:",
         "exp": "Clomiphene citrate is used for ovulation induction. Dose- 50mg/day staingfrom day 2 to day 6 of the cycle for 5 days. Clomiphene citrate is nonsteroidal triphenylethylene derivative that demonstrates both estrogen agonist and antagonist propeies. Williams textbook of gynaecology 3rd edition page 451",
         "cop": 2,
@@ -102,32 +63,6 @@
         "topic_name": "Infertility",
         "id": "9d151058-f7b1-4f24-88a6-aeda2803b453",
         "choice_type": "single"
-    },
-    {
-        "question": "In which case homologous aificial insemination is used in females:",
-        "exp": "Cervical factor: cervical mucous protects sperm from the hostile environment of the vagina and also phagocytosis. cervical factor when cannot be treated is overcome by A procedures IUI, IVF, GIFT. cervical mucous quality improved by conjugated estrogen 1. 25mg orally daily staing on day 8 for 5 days D. C. DUTTA&; S TEXTBOOK OF GYNAECOLOGY, Pg no: 249, 6th edition",
-        "cop": 3,
-        "opa": "Hormonal disturbance",
-        "opb": "Tubal block",
-        "opc": "Cervical factor",
-        "opd": "All of the above",
-        "subject_name": "Gynaecology & Obstetrics",
-        "topic_name": "Infertility",
-        "id": "fc215f1f-6a60-4d8d-b137-96a005eb4dad",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A male with azoospermia. On examination size of testis is normal. FSH and testosterone levels are within normal limits. Most probable cause is:",
-        "exp": "Normal levels of FSH with azoospermia suggests obstructive lesions in the vas or epididymis. High FSH and LH may indicate primary gonadal failure-testicular Dysfunction. Low level of FSH and LH suggest hypogonadotropic hypogonadism. Shaw's Textbook of Gynaecology 16th edition page no 244",
-        "cop": 4,
-        "opa": "Non-descended testis",
-        "opb": "Klinefelter's syndrome",
-        "opc": "Kallmann's syndrome",
-        "opd": "VAS obstruction",
-        "subject_name": "Gynaecology & Obstetrics",
-        "topic_name": "Infertility",
-        "id": "89f96110-4119-456d-b204-c8e69b27669b",
-        "choice_type": "multi"
     },
     {
         "question": "Postcoital test (PCT) is done for:",
@@ -154,19 +89,6 @@
         "topic_name": "Infertility",
         "id": "93406edb-ce3e-4bb5-9ea9-cf66c8c817b9",
         "choice_type": "single"
-    },
-    {
-        "question": "Ovulation can be diagnosed by all except:",
-        "exp": "Method to document ovulation Feile window: it is the 6th day interval ending on the day of ovulation but not after ovulation. Basal body temperature: ovulation is assumed after 3 consecutive days of raised temperatures. It involvew daily recording of oral or rectal temperature using a BBT thermometer before the patient arises, eats or drinks. The secretion of Progesterone following ovulation causes a temperature increase of about 0. 5-1 degree F over the baseline temperature of 97-98. 8 degree F that is typically recorded during the follicular phase of menstrual cycle. It produces a characteristic biphasic pattern in women with ovulatory cycles. Limitations: inability to prospectively predict ovulation and its frequent false negative results. Smoking and irregular sleep patterns can interfere with accurate testing. Cervical mucus: around ovulation the secretions are slippery and clear and volume of cervical mucus peaks 2-3 days around ovulation. LH monitoring: Once the LH surge is detected, ovulation may occur within next 48 hours. Mid Luteal serum progesterone: level above 3 ng/ml typically confirms ovulation. ultrasound monitoring: ovulation is charectarised by decrease in the size and crenated margins at the site of monitored ovarian follicle and appearance of fluid in the cul de sac. Reference: Novak's Textbook of gynaecology 15th edition page no 1151",
-        "cop": 1,
-        "opa": "Measuring day 14 serum progesterone",
-        "opb": "b. Rise in basal body temperature in the second half of cycle",
-        "opc": "Study of cervical mucus",
-        "opd": "Endometrial histology",
-        "subject_name": "Gynaecology & Obstetrics",
-        "topic_name": "Infertility",
-        "id": "54c076c6-8cb5-46f2-abe9-f594a1e6e8de",
-        "choice_type": "multi"
     },
     {
         "question": "In long protocol IVF, Gn. RH agonist is staed on",
@@ -219,19 +141,6 @@
         "topic_name": "Infertility",
         "id": "0327f995-438a-4133-9e74-4bcfa9b894b2",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is not true according to WHO 2010 for normal semen analysis:",
-        "exp": "Normal Semen Analysis: WHO 2010 volume: more than or equal to 1. 5ml sperm concentration: more than or equal to 15 million/ml sperm motility: more than equal to 32% progressive motility morphology (strict criteria): more than or equal to 4% normal forms white blood cells: < 1 million/ml Immunobead test or mixed antiglobulin reaction test < 50% Refernce: Novak Text book of Gynaecology 15th edition page 1141 Image Reference: DC Dutta's Tetbook of Gynecology 7th edition page 190",
-        "cop": 2,
-        "opa": "Sperm count > or equal to 15 million/ml",
-        "opb": "Volume > 1ml",
-        "opc": "Sperm with normal morphology (strict criteria) > or equal to 4%",
-        "opd": "Motility > or equal to 32% with progressive motility",
-        "subject_name": "Gynaecology & Obstetrics",
-        "topic_name": "Infertility",
-        "id": "9e8e5aca-e1c8-44d3-8de4-80fdf710ff82",
-        "choice_type": "multi"
     },
     {
         "question": "Drugs used for ovulation induction are:",
@@ -338,45 +247,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Semen analysis of a male of an infeile couple, shows absence of spermatozoa but presence of fructose. The most probable diagnosis is:",
-        "exp": "The efferent ducts may be obstructed by infection like tubercular, gonococcal or by surgical trauma following vasectomy. The absence of fructose suggests congenital absence of seminal vesicle or poion of ductal system or both. Its clinical significance is less. D. C. DUTTA'S TEXTBOOK OF GYNECOLOGY, Pg no: 190, 7th edition",
-        "cop": 3,
-        "opa": "Prostatic infection",
-        "opb": "Mumps orchitis",
-        "opc": "Block in efferent duct system",
-        "opd": "All of the above",
-        "subject_name": "Gynaecology & Obstetrics",
-        "topic_name": "Infertility",
-        "id": "b07144f9-9dbf-4a73-98d4-71f32fe7d3e8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Absence of fructose in the semen suggests:",
-        "exp": "Absence of fructose suggests congenital absence of seminal vesicle or paial obstructio of the ductal system or both. D. C. DUTTA'S TEXTBOOK OF GYNECOLOGY, Pg no: 250, 6th edition",
-        "cop": 4,
-        "opa": "Congenital absence of seminal vesicle",
-        "opb": "Paial duct obstruction",
-        "opc": "None",
-        "opd": "Both",
-        "subject_name": "Gynaecology & Obstetrics",
-        "topic_name": "Infertility",
-        "id": "b54e8c55-620a-43b4-8182-8facd1905191",
-        "choice_type": "multi"
-    },
-    {
-        "question": "An infeile women has bilateral tubal block at comua diagnosed on hysterosalpingography. Next step in treatment is:",
-        "exp": "Shaw's textbook of Gynaecology- 16th edn- pg no 253. A hysteroscopy must be combined with laparoscopy for cornual pathology. Mucus plug, polyps and synechiae can be managed. Dense adhesions can not be dealt with this way.",
-        "cop": 2,
-        "opa": "IVF",
-        "opb": "Laparoscopy and hysteroscopy",
-        "opc": "Tuboplasty",
-        "opd": "Hydrotubation",
-        "subject_name": "Gynaecology & Obstetrics",
-        "topic_name": "Infertility",
-        "id": "d1b40a9c-9a74-4c91-a1b0-3de9231f4ed7",
-        "choice_type": "multi"
-    },
-    {
         "question": "If life style factor is causing infeility in a young male is identified. Which of the following life style modification will have no effect on feility:",
         "exp": "Obesity increases peripheral conversion of androgen to oestrogen and affects feility. Hence life style modification to reduce obesity will help in the treatment of infeility. Vegetarian diet is not impoant in the management. Reference: Shaw's Textbook of Gynaecology 16th edition page no 241.",
         "cop": 3,
@@ -401,19 +271,6 @@
         "topic_name": "Infertility",
         "id": "042ade14-dbdd-4de5-aced-d5cfa7e41086",
         "choice_type": "single"
-    },
-    {
-        "question": "Most likely affected organ in Mayer Rokitansky Kuster Hauser syndrome is",
-        "exp": "Mayer-Rokitansky-Kuster-Hauser syndrome includes vaginal agenesis with variable mullerian duct abnormalities accompanied in some cases by renal, skeletal, and auditory abnormalities. Berek and Novak&; s Gynecology; 15th edition; Chapter 30; Amenorrhea",
-        "cop": 2,
-        "opa": "Ovary agenesis",
-        "opb": "Vaginal agenesis",
-        "opc": "Fallopian tubes absent",
-        "opd": "Bicornuate uterus",
-        "subject_name": "Gynaecology & Obstetrics",
-        "topic_name": "Infertility",
-        "id": "94930223-724d-4bb9-b7bc-69dd5f2540b9",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following have been implicated in the pathogenesis of ovarian hyperstimulation syndrome?",

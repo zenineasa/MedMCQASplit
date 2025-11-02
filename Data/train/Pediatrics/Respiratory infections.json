@@ -65,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A child with fever and barky cough presented to emergency at 3 am. His respiratory rate is 36/min, stridor only on crying, fever 39 degrees celsius, no other abnormality. What is the next logical step?",
-        "exp": "This child is suffering from Croup (Laryngotracheobronchitis): mild variety. Oral/IM Dexamethasone (single dose) are beneficial in mild croup, as measured by reduced need and duration of hospitalization. Nebulized epinephrine is indicated inmoderate to severe croup (stridor at rest, the possible need for intubation, respiratory distress, and hypoxia) Antibiotics are not indicated in croup as it is a viral disease.",
-        "cop": 2,
-        "opa": "Racemized epinephrine nebulisation",
-        "opb": "Dexamethasone",
-        "opc": "Do nothing, just reassure",
-        "opd": "Give surfactant",
-        "subject_name": "Pediatrics",
-        "topic_name": "Respiratory infections",
-        "id": "6dc4ea39-8ce3-452f-a06a-ada1a87aa5bc",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 4-year-old child presents to the emergency depament with high grade fever, respiratory difficulty and noisy breathing. On examination. X ray of his neck is shown below. The most probable diagnosis is?",
         "exp": "The given clinical picture along with the X-ray shows thumb sign, this finding suggests a diagnosis of Acute Epiglottitis. Thumb sign is a term also used in other conditions: Thumb sign (Marfan disease) (also known as Steinberg sign): a clinical test in which the tip of the thumb is visible medial to the little finger when it is clasped in the clenched hand. Thumb sign (chordoma): a radiological sign showing a clival tumour projection indenting the pons.",
         "cop": 3,
@@ -115,18 +102,5 @@
         "topic_name": "Respiratory infections",
         "id": "8b892de3-31ec-4737-b682-6ed299bfaee0",
         "choice_type": "single"
-    },
-    {
-        "question": "A 6-week baby presents with cough and cold for the past 3 days. Respiratory rate is 48/min. On examination, patient is febrile with wheezing but no chest indrawing. Which of the following is not true?",
-        "exp": "This child does not have fast breathing or chest indrawing; So there is no pneumonia. Hence antibiotics are not required. But fever and wheezing should be treated. SIGNS CLASSIFY AS TREATMENT Any general danger sign or stridor in a calm child Severe pneumonia or VERY severe disease Give 1st dose of Inj. Ampicillin & Gentamycin and refer urgently to hospital Chest indrawing AND/ or fast breathing Fast Breathing < 2 months ->60/min < 2-12 months ->50/min < 1-5 years ->40/min PNEUMONIA 1. Give oral Amoxycillin x 5 days 2. If wheezing present, inhaled bronchodilator x 5D 3. Soothe the throat & relieve cough with a safer remedy 4. If Cough > 15 days or recurrent wheeze - refer for the evaluation of TB or bronchial asthma 5. Advise the mother when to return immediately 6. Follow up in 2 days If the O2 saturation < 90% - refer urgently No sign of pneumonia or very severe disease NO PNEUMONIA Cough or cold Steps 2 to 5 Follow up in 5 days General danger signs - Persistent vomiting - Unconsciousness - Convulsions - Inability to drink or breast feed - Lethargy",
-        "cop": 1,
-        "opa": "Child has pneumonia",
-        "opb": "Antibiotics are not required",
-        "opc": "Wheezing should be treated",
-        "opd": "Fever should be treated",
-        "subject_name": "Pediatrics",
-        "topic_name": "Respiratory infections",
-        "id": "eb7fc9fc-31e8-442d-912e-b1f598d33a5c",
-        "choice_type": "multi"
     }
 ]

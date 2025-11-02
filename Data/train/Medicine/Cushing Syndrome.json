@@ -1,18 +1,5 @@
 [
     {
-        "question": "All of the following are ACTH independent Cushing syndrome except:",
-        "exp": "ACTH dependent Cushing syndrome is caused by: ACTH producing pituitary adenoma Ectopic ACTH Bronchial or pancreatic carcinoid Small cell cancer of lung Medullary carcinoma of thyroids Pheochromocytoma ACTH Independent Cushing syndrome is caused by: Adrenocoical adenoma/ carcinoma Primary pigmented nodular adrenal disease Adrenal hyperplasia Mc. Cune Albright Syndrome Petrosal/Peripheral ACTH ratio > 2 indicates the presence of a pituitary adenoma-secreting ACTH. NOTE: Overall the most common cause of Cushing's syndrome is Iatrogenic steroids but if asked regarding ACTH dependent cause then answer should be given as Pituitary adenoma.",
-        "cop": 1,
-        "opa": "Pituitary adenoma",
-        "opb": "Adrenal hyperplasia",
-        "opc": "Adrenocoical carcinoma",
-        "opd": "Mc. Cune Albright Syndrome",
-        "subject_name": "Medicine",
-        "topic_name": "Cushing Syndrome",
-        "id": "5a242165-f06e-49de-9b9c-0cc4e1303f75",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following tests is best for differentiating ACTH secreting pituitary tumour from Ectopic ACTH production?",
         "exp": "24 hour urinary coisol levels are elevated in both subsets: ACTH secreting pituitary tumour and Ectopic ACTH secretion. Overnight Dexamethasone suppression test involves overnight 1mg dexamethasone tablet and measurement of 8am morning serum or urinary coisol. It is used to diagnose hypercoisolism but cannot identify etiology of Cushing syndrome. High dose dexamethasone suppression test involves giving 6 hourly dexamethasone 2mg, which leads to etiological diagnosis. ( differentiates between ACTH secreting pituitary tumor from Ectopic ACTH ) Serum Coisol> 5mg/dl: Ectopic ACTH production.",
         "cop": 4,
@@ -50,32 +37,6 @@
         "topic_name": "Cushing Syndrome",
         "id": "560f150b-bc8e-4860-b3eb-3caa6ea8e706",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are common features of Cushing's syndrome, except?",
-        "exp": "Cushing syndrome is characterized with proximal muscle weakness resulting in difficulty in climbing stairs. \"Lemon on sticks\" appearance results in centripetal obesity. The Weight gain leads to insulin resistance coupled with effects of coisol leading to impaired glucose tolerance.",
-        "cop": 3,
-        "opa": "Truncal obesity",
-        "opb": "Osteoporosis",
-        "opc": "Distal myopathy",
-        "opd": "Glucose intolerance",
-        "subject_name": "Medicine",
-        "topic_name": "Cushing Syndrome",
-        "id": "a6ce4a45-f1ec-4d17-9b0f-85aed9a89b29",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 46-year-old man has mild renal failure and hypertension which is proving difficult to manage. CT scan shows both a small adrenal tumor and bilateral hyperplasia. Which of the following is the best test to make a definitive diagnosis?",
-        "exp": "Option A- Useful for diagnosis of Cushing syndrome Option B- Used for the diagnosis of Pheochromocytoma (which doesn't have renal failure) C/P given as B/L hyperplasia + Small adrenal tumor = ADRENAL ADENOMA (cause of Conn's Syndrome) Option C- Since CT scan has already been done so MRI is not that useful. Option D- useful as it can enable us to see the hormones produced by the tumor.",
-        "cop": 4,
-        "opa": "Dexamethasone suppression test",
-        "opb": "NP-59 adrenal scintigraph",
-        "opc": "Adrenal MRI",
-        "opd": "Selective adrenal vein sampling",
-        "subject_name": "Medicine",
-        "topic_name": "Cushing Syndrome",
-        "id": "bca5b312-0dcf-4f3c-860d-b9212f8e5daa",
-        "choice_type": "multi"
     },
     {
         "question": "A patient presents with hypertension and hypokalemia. CT abdomen was performed. What is the diagnosis?",
@@ -130,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 60 year old male presented with skin hyperpigmentation, central obesity, violet striae & proximal myopathy. His BP is 160/90 mm. Hg. Lab studies show hypokalemic metabolic alkalosis. Which of the following statements is true regarding this condition?",
-        "exp": "The given scenario suggests the diagnosis of Cushing syndrome. Basal ACTH levels are elevated in pituitary tumors & ectopic ACTH secretion Coicotropin-releasing hormone is rarely the cause of Cushing syndrome. MRI of the pituitary gland will not visualize lesions <2 mm Serum potassium level <3. 3 mmol/L is suggestive of ectopic ACTH production Also, hypertension, hypokalemic metabolic alkalosis & glucose intolerance are more prominent in ectopic ACTH secretion than in pituitary tumors",
-        "cop": 4,
-        "opa": "Basal ACTH level is likely to be low.",
-        "opb": "Circulating coicotropin-releasing hormone is likely to be elevated.",
-        "opc": "Pituitary magnetic resonance imaging (MRI) will visualize all ACTH-secreting tumors.",
-        "opd": "Serum potassium level <3. 3 mmol/L is suggestive of ectopic ACTH production",
-        "subject_name": "Medicine",
-        "topic_name": "Cushing Syndrome",
-        "id": "2efdce9f-19cf-4b0b-8f13-34eeafca8f35",
-        "choice_type": "multi"
-    },
-    {
         "question": "Leading cause of ACTH independent Cushing syndrome is?",
         "exp": "ACTH independent Cushing Syndrome: constitutes 10% of total cases of Cushing syndrome. The causes of ACTH independent Cushing syndrome: Adrenocoical adenoma (MC) Adrenocoical carcinoma Macro-nodular adrenal hyperplasia (<1%) The most common cause( MCC) of ACTH dependant Cushing syndrome is Pituitary coicotroph adenoma.",
         "cop": 4,
@@ -154,19 +102,6 @@
         "topic_name": "Cushing Syndrome",
         "id": "555481b3-8ac9-4ac2-88ae-1d2fc76a7780",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about the condition shown except?",
-        "exp": "Presentation of Buffalo hump & Violet striae: Seen in CUSHING'S syndrome In Cushing's syndrome there is increase in coisol(three times) which activates the Epithelial Na+channels leads to more salt and water coming in, but more K+ and H+ loss leads to Hypokalemic Alkalosis (Metabolic Alkalosis) but NO HYPERKALEMIA Single midnight serum coisol measurement helps in diagnosis",
-        "cop": 3,
-        "opa": "Hyperpigmentation",
-        "opb": "Purplish striae",
-        "opc": "Hyperkalemia",
-        "opd": "Metabolic alkalosis",
-        "subject_name": "Medicine",
-        "topic_name": "Cushing Syndrome",
-        "id": "cfeb5593-f9f8-48d9-853d-494bb382ca1d",
-        "choice_type": "multi"
     },
     {
         "question": "Which is the most common clinical feature of Cushing syndrome?",
@@ -195,32 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Obesity is seen in all except?",
-        "exp": "Sipple syndrome/ MEN 2A charecterized by: Pheochromocytoma Medullary Carcinoma Of Thyroid Hyperparathyroidism It has a pheochromocytoma which is associated with weight loss due to sympathomimetic activity secondary to increased catecholamines.",
-        "cop": 4,
-        "opa": "Cushing syndrome",
-        "opb": "Pickwickian syndrome",
-        "opc": "Prader Willi syndrome",
-        "opd": "Sipple syndrome",
-        "subject_name": "Medicine",
-        "topic_name": "Cushing Syndrome",
-        "id": "a4a37f19-750c-49b8-a845-edce48750e3b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are possible diagnoses in these changes in nails except?",
-        "exp": "In patients with Wilson's disease lunula of nail takes on a blue coloration which is called as azure lunula. Excessive fluoride ingestion can turn nails brown or black. Causes of black nails: Systemic Addison's disease Cushing's disease AIDS Alkaptonuria /Ochronosis Irradiation Secondary syphilis Nelson syndrome Dermatological Amyloid (primary) Basal cell carcinoma/Bowen's disease Lichen planus Malignant melanoma Peutz- Jeghers-Syndrome Porphyria cutanea tarda Radiotherapy and radiodermatitis",
-        "cop": 4,
-        "opa": "Peutz - Jehgers syndrome",
-        "opb": "Addison disease",
-        "opc": "Cushing disease",
-        "opd": "Wilson disease",
-        "subject_name": "Medicine",
-        "topic_name": "Cushing Syndrome",
-        "id": "d6fbb33c-16b1-465c-b0ca-896bf0fbc642",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following agents is not used in management of Cushing syndrome?",
         "exp": "Agents used in Medical Management of Cushing Syndrome: Ketoconazole: inhibits P450 enzymes and lowers coisol. Mifepristone: glucocoicoid receptor antagonist. Metyrapone: inhibits 11b hydroxylase. Mitotane: inhibit 11b hydroxylase and cholesterol side chain cleavage enzymes. It is preferred agent for management of adrenocoical carcinoma. Etomidate: used in sub-anaesthetic dose and lowers coisol",
         "cop": 4,
@@ -232,18 +141,5 @@
         "topic_name": "Cushing Syndrome",
         "id": "c2f8d8c7-c75b-4b60-bea5-1bacecccf61d",
         "choice_type": "single"
-    },
-    {
-        "question": "A middle age male patient met with a road traffic accident & is brought to emergency in an unconscious state. CT abdomen reveals a splenic laceration, emergency splenectomy is done & patient is shifted to ICU. His BP remains low in post op period even after a bolus of normal saline. O/E- he is afebrile, has moon like face with central obesity & presence of violet striae over abdomen. Repeat CT scan of the chest, abdomen, and pelvis shows no hemorrhage. What is the next best step in management of this patient?",
-        "exp": "Moon like facies, central obesity & abdominal striae are signs of glucocoicoid excess - endogenous (Cushing syndrome)/ exogenous. A physiologic stressor (trauma) may trigger adrenal crisis. Acute adrenal insufficiency requires immediate initiation of rehydration (saline infusion at initial rates of 1 L/hr) with continuous cardiac monitoring. Glucocoicoid replacement- initiated by bolus injection of 100 mg of hydrocoisone, followed by the administration of 100-200 mg of hydrocoisone over 24 hours. Mineralocoicoid replacement can be initiated once the daily hydrocoisone dose is <50 mg as at higher doses, hydrocoisone provides sufficient stimulation of mineralocoicoid receptors.",
-        "cop": 2,
-        "opa": "Return to the operating room for exploratory laparotomy",
-        "opb": "Administer hydrocoisone 100 mg IV",
-        "opc": "Administer vancomycin and piperacillin/tazobactam",
-        "opd": "Perform MRI of the spine.",
-        "subject_name": "Medicine",
-        "topic_name": "Cushing Syndrome",
-        "id": "b47f57e9-8fac-4fdc-a22e-21df75ff8060",
-        "choice_type": "multi"
     }
 ]

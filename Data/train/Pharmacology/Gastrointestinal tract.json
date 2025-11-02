@@ -1,31 +1,5 @@
 [
     {
-        "question": "Drug used in cancer chemotherapy induced vomiting is?",
-        "exp": "Ondansetron is drug of choice for chemotherapy induced vomiting Dexamethasone, lorazepam and aprepitant are also used for chemotharapy induced vomiting. ( ref KDT 7/e p876)",
-        "cop": 4,
-        "opa": "Aprepitant",
-        "opb": "Dexamethasone",
-        "opc": "Ondansetrin",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "57b5b287-ca45-4e1b-be8f-a09a847fb97f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Despite their sho half lives(2hrs) proton pump inhibitors cause a prolonged suppresion of acid secretiin(upto 48hr) because:",
-        "exp": "They irreversibly inhibit the proton pump molecule and hence, acid secretion requires synthesis of new proton pumps(ref Rang and Dale 5/e p370-371, goidman gilman 12/e p1311-1312) The activated form of PPI binds covalently with sulfahydryl groups of cysteine in the H+ K+ atpase, irreversbly inacativating the pump molecule. acid secretion resumes only after new pump molecules are synthesized and inseed into the luminal membranes ptoviding a prolonged suppresion of acid secretion despite the much shoer pladma half lives of the parent compounds.",
-        "cop": 3,
-        "opa": "They are prodrugs and undergo activation gradually",
-        "opb": "They exit from the palsma and enter acid secretory canaliculi and stay there blocking the secretion of acid for a long time",
-        "opc": "They irreversibly inhibit the proton pump molecule and hence, acid secretion requires synthesis of new proton pumps",
-        "opd": "They are available as enteric coated capsules, from which drug is gradually released",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "8c6db2f9-fb6a-4f14-86a7-dca31eacd799",
-        "choice_type": "multi"
-    },
-    {
         "question": "The mechanism of action of Sofosbuvir?",
         "exp": "Sofosbuvir is used orally for Hep C. Orally given once daily in combination with ledipasvir or ribavirin or PEG-interferon for 24 weeks. It is a Hep C NS5B polymerase inhibitor. Ref: HL. Sharma 3rd ed. Pg 800",
         "cop": 1,
@@ -76,19 +50,6 @@
         "topic_name": "Gastrointestinal tract",
         "id": "9942c7f1-5c2b-4ec9-a218-8f4e38875cbe",
         "choice_type": "single"
-    },
-    {
-        "question": "Regarding aprepitant all are true execpt:",
-        "exp": "Aprepitant is a highly selective NK1 receptor antagonist orally active and enter the brain. It is used in treating and preventing chemotherapy induced emesis. It is metabolized by CYP3. A4 enzymes and can also inhibit the metabolism of drugs metabolized by this enzyme e. g. warfarin. (Katzung 11/e p 1086, Goodman and Gilman 11/ep650)",
-        "cop": 1,
-        "opa": "Agonist at NK1 receptors",
-        "opb": "Crosses blood brain barrier",
-        "opc": "Ameliorate nausea and vomiting induced by chemotherapy",
-        "opd": "Metabolized by CYP450 enzymes",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "fdbc2bb9-7c58-404c-b96e-535b793e410e",
-        "choice_type": "multi"
     },
     {
         "question": "Ondansetron acts by:",
@@ -169,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Esomeprazole acts by inhibiting:",
-        "exp": "Esmoprosol is an example of proton pumb inhibitor ESSENTIALS OF MEDICAL PHARMACOLOGY SEVENTH EDITION KD TRIPATHI PG NO. 653",
-        "cop": 1,
-        "opa": "H+K+ ATPase pump",
-        "opb": "H+Na+ ATPase pump",
-        "opc": "H+ pump",
-        "opd": "Any of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "ef1ad0dc-3317-458b-84ee-a37d4e59d6f3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Bisacodyl is:",
         "exp": "stimulant purgatives 1. diphenylmethane( bisacodyl, sodium picosulfate) 2. Anthraquinones(senna) 3. 5. HT4 antagonisr(prucalopride) 4. fixed oil(castor oil) ESSENTIALS OF MEDICAL PHARMACOLOGY SEVENTH EDITION KD TRIPATHI PG NO. 672",
         "cop": 3,
@@ -208,19 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is the most likely adverse effect of metoclopramide",
-        "exp": "Metoclopramide Adverse effects:- Metoclopramide is generally well tolerated. Sedation, dizziness, loose stools, muscle dystonias (especially in children) are the main side effects. Long-term use can cause parkinsonism, galactor rhoea and gynaecomastia, but it should not be used to augment lactation. No harmful effects are known when used during pregnancy. Though the amount secreted in milk is small, but suckling infant may develop loose motions, dystonia, myoclonus. Ref:- Kd tripathi; pg num:-666",
-        "cop": 1,
-        "opa": "Tardive dyskinesia",
-        "opb": "Hyperactivity",
-        "opc": "Hypehyroidism",
-        "opd": "Hallucinations",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "6f0a5808-2e34-4c47-bfbb-e913be02e56b",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 56-year-old woman has nausea due to chemotherapy for breast cancer. Droperidol is effective in reducing nausea because it blocks wof",
         "exp": "NEUROLEPTICS The older neuroleptics(phenothiazines, haloperidol) are potent antiemetics; act by blocking D2 receptors in the CTZ; antagonize apomorphine induced vomiting and have additional antimuscarinic as well as H1 antihistaminic propey. They have broad spectrum antiemetic action effective in: (a) Drug induced and postoperative nausea and vomiting (PONV). (b) Disease induced vomiting: gastroenteritis, uraemia, liver disease, migraine, etc. (c) Malignancy associated and cancer chemotherapy (mildly emetogenic) induced vomiting. (d) Radiation sickness vomiting (less effective). (e) Morning sickness: should not be used except in hyperemesis gravidarum. Ref:- kd tripathi; pg num:-664",
         "cop": 3,
@@ -232,32 +167,6 @@
         "topic_name": "Gastrointestinal tract",
         "id": "2842822f-b1de-429b-ad47-7302e509ac74",
         "choice_type": "single"
-    },
-    {
-        "question": "The Inhibition of hydrochloric acid (HC1) secretion by omeprazole occurs within an hour, reaches a peak at 2 hours, and plateaus by 4th day. After how many days will the secretion gradually normalize:",
-        "exp": "secretion of omeprazole resumes gradually over 3-5 days of stopping drug ESSENTIALS OF MEDICAL PHARMACOLOGY SEVENTH EDITION KD TRIPATHI PG NO. 652",
-        "cop": 3,
-        "opa": "<24 hours",
-        "opb": "1-2 days",
-        "opc": "3-5 days",
-        "opd": "3-5 days",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "7e86edc3-f955-4eae-a014-03e35a94b08c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following adverse effects are associated with the use of proton pump inhibitors except:",
-        "exp": "Long term use of proton pump inhibitors may lead to: -Mild to moderate decrease in vitamin B12, iron and calcium absorption. -increased risk of enteric infections including C. difficile and bacterial gastroenteritis. -modest increase in risk of hip fractures. -modest increase in risk of pnemonia. (Ref. CMDT 2015/609-610)",
-        "cop": 4,
-        "opa": "Community acquired pnemonia",
-        "opb": "Clostridium difficile infection",
-        "opc": "Osteoporosis leading to hip fractures",
-        "opd": "Hypothyroidism",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "c198f1e5-e1b8-4031-be21-a7df2e2d90ac",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is the most likely indication for the use of pirenzepine?",
@@ -364,19 +273,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following are bulk-forming laxatives except",
-        "exp": "Glycerin is a hyperosmotic laxative. Bulk formers: Polycarbophil, psyllium, and methylcellulose preparations. the dosage varies, consult product labeling. Hyperosmotics: Glycerin, 2-3 g suppository per rectum daily. Polyethylene glycol 3350 (powder), 17 g dissolved in 4-8 oz of beverage daily. Stool softeners: Docusate sodium, 50-500 mg daily. Docusate calcium, 240 mg daily. Stimulant laxatives: Bisacodyl, 5-15 mg daily. Senna, the dosage varies, consult product labeling. Ref: Katzung 13th ed. Pg 1090",
-        "cop": 4,
-        "opa": "Polycarbophil",
-        "opb": "Psyllium",
-        "opc": "Methylcellulose",
-        "opd": "Glycerin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "3a17b05e-286f-4973-bd5b-bba993821f60",
-        "choice_type": "multi"
-    },
-    {
         "question": "Levosulpiride acts as an antagonist of which central dopamine receptor",
         "exp": "D2 receptor antagonists being explored as prokinetic agents include levosulpiride, the levo-enantiomer of sulpiride Levosulpiride is claimed to have mood elevating propeies. Levosulpiride is used in the treatment of psychoses, paicularly negative symptoms of schizophrenia, anxiety disorders, dysthymia, veigo, dyspepsia, irritable bowel syndrome and premature ejaculation. Ref: G&G 12e pg: 1506",
         "cop": 2,
@@ -401,32 +297,6 @@
         "topic_name": "Gastrointestinal tract",
         "id": "b8ea2c72-8eb3-410f-832d-fc540ed05a4d",
         "choice_type": "single"
-    },
-    {
-        "question": "A 57-year-old patient, living at home, has severe pain due to a metastatic Carcinoma that is being managed with Fentanyl, delivered transdermally from a patch. He should also be taking, or at least have on hand",
-        "exp": "Constipation caused by Fentanyl could be treated by a laxative like docusate. As Fentanyl has equivalent effects like Morphine, an addition of Morphine might cause toxicity. Fentanyl causes vomiting so the addition of an emetic like Apomorphine would be counterproductive. Naloxone is an antagonist to opioid analgesics",
-        "cop": 2,
-        "opa": "Apomorphine",
-        "opb": "Docusate",
-        "opc": "Morphine",
-        "opd": "Naloxone",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "b06448bc-43a8-4a4b-bf00-110e32f98f16",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drug stimulating 5. HT4 receptors to act as prokinetic agents are all of the following Except:",
-        "exp": "domperidone it is a D2 receptor antagonist ESSENTIALS OF MEDICAL PHARMACOLOGY SEVENTH EDITION KD TRIPATHI PG NO. 666",
-        "cop": 3,
-        "opa": "Renzapride",
-        "opb": "Metoclopramide",
-        "opc": "Domperidone",
-        "opd": "Cisapride",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "dc5991be-2081-4a9d-ac11-d358aa359ae7",
-        "choice_type": "multi"
     },
     {
         "question": "NSAID induced ulcer are treated by:",
@@ -598,19 +468,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs intensify gastrointestinal motility Except",
-        "exp": "Papaverine an opioid decreases motility Prokinetic drugs are 5-HT3 antagonists (granisetron, ondansetron, and tropisetron), 5-HT 4 -receptor agonists (Cisapride, Mosapride, Tegaserod), D 2 -receptor antagonists (Metoclopramide and domperidone), Cholinomimetic agonists (bethanechol, Neostigmine) Ref: Katzung 13th edition pg 531",
-        "cop": 1,
-        "opa": "Papaverine",
-        "opb": "Metoclopramide",
-        "opc": "Domperidone",
-        "opd": "Cisapride",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "7f77337d-5b52-4ce2-91f2-97cdcbe31713",
-        "choice_type": "multi"
-    },
-    {
         "question": "Drug used in hepatic encephalopathy is:",
         "exp": "Lactulose is a laxative that acts by conversion to sho chain fatty acids in the colon. These fatty acids resulrs in decrese in PH of intestinal juice. At low PH ammonia becomes ionized and thus cannot be absorbed.",
         "cop": 2,
@@ -637,32 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Ursodiol reduces the size of common bile duct gallstones by wof mechanisms",
-        "exp": "GALLSTONE DISSOLVING DRUGS Cholesterol (CH) remains dissolved in bile with the help of bile salts (salts of cholic acid and chenodeoxycholic acid conjugated with glycine and taurine) because bile salts are highly amphiphilic. A high CH: bile salt ratio ours crystallization of CH in bile; these crystals act as nidi for stone formation. Chenodeoxycholic acid (Chenodiol) and Ursodeoxycholic acid (Ursodiol) decrease CH content of bile, enabling solubilization of CH from stone surface. Ursodiol:- It is a hydroxy epimer of chenodiol, is more effective and needs to be used at lower doses. Complete dissolution of CH stones has been achieved in upto 50% cases. It is also much better tolerated. Calcification of some gall stones may be induced. Ref:- kd tripathi; pg num:-671",
-        "cop": 4,
-        "opa": "Decreasing the synthesis of bile",
-        "opb": "Increasing the cholesterol content in bile",
-        "opc": "Chelating Ca 2+ out of the stone",
-        "opd": "Slowly dissolving cholesterol from the stone",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "a98a2826-2501-42b5-adeb-8cc408118d82",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Metoclopramide acts to achieve which of the following",
-        "exp": "PROKINETIC DRUGS Metoclopramide Mech of action on GIT:- Metoclopramide has more prominent effect on upper g. i. t.; increases gastric peristalsis while relaxing the pylorus and the first pa of duodenum - speeds gastric emptying. This action is independent of vagal innervation, but is stronger when vagus is intact. Lower esophageal sphincter (LES) tone is increased and gastroesophageal reflux is opposed. It also increases intestinal peristalsis to some extent, but has no significant action on colonic motility and gastric secretion. Ref:- kd tripathi; pg num:-664",
-        "cop": 4,
-        "opa": "Decrease lower esophageal sphincter pressure",
-        "opb": "Decrease transit through the small intestine",
-        "opc": "Stimulate vomiting",
-        "opd": "Increase gastric emptying",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "444081d2-2c93-4476-87e5-250d817af204",
-        "choice_type": "multi"
-    },
-    {
         "question": "Drug used in irritable bowel syndrome with constipation is?",
         "exp": "Lubiprostone acts by stimulating cl- channel opening in the intestine increasing liquid secretion in the gut and decresing transit time therefore used for chronic constipation. It has also been approved for constipation dominant irritable bowel syndrome in women. ( ref katzung 11/e p1080)",
         "cop": 1,
@@ -674,19 +505,6 @@
         "topic_name": "Gastrointestinal tract",
         "id": "89cd80a0-dd12-4b14-9c32-0c560fe68422",
         "choice_type": "single"
-    },
-    {
-        "question": "The following is true of aluminium hydroxide gel except",
-        "exp": "Neutralization of gastric acid (Antacids) (a) Systemic:- Sodium bicarbonate, Sod. citrate (b) Nonsystemic:- Magnesium hydroxide, Mag. trisilicate, Aluminium hydroxide gel, Magaldrate, Calcium carbonate. Aluminium hydroxide gel:- It is a bland, weak and slowly reacting antacid. On keeping it slowly polymerizes to variable extents into still less reactive forms. Thus, the ANC of a preparation gradually declines on storage. The Al3+ ions relax smooth muscle. Thus, it delays gastric emptying. Alum. hydrox. frequently, causes constipation due to its smooth muscle relaxant and mucosal astringent action. Alum. hydrox. binds phosphate in the intestine and prevents its absorption--hypophosphatemia occurs on regular use. This may: (a) cause osteomalacia (b) be used therapeutically in hyperphosphatemia and phosphate stones. Ref:- kd tripathi; pg num:-649, 655",
-        "cop": 1,
-        "opa": "It causes loose motions as a side effect",
-        "opb": "It interferes with absorption of phosphate in the intestine",
-        "opc": "It is a weak and slowly reacting antacid",
-        "opd": "Its acid neutralizing capacity decreases on storage",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "3b0b5fb5-7383-48b0-9931-3424ab164946",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following agents is beneficial in NSAID induced gastric ulcer?",
@@ -713,45 +531,6 @@
         "topic_name": "Gastrointestinal tract",
         "id": "97540bdc-2f8f-416f-9351-13573769ac7c",
         "choice_type": "single"
-    },
-    {
-        "question": "Anti-peptic ulcer drug that can be given in patients with chronic renal failure (CRF)",
-        "exp": "all those drugs are aluminium derivative hence leads to aliminium toxicity so not used in renal failure ESSENTIAL OF MEDICAL PHARMACOLOGY SEVENTH EDITION KD TRIPATHI PG NO. 649",
-        "cop": 4,
-        "opa": "Aluminium Hydroxide",
-        "opb": "Aluminium Hydroxide",
-        "opc": "Sucralfate",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "7ac822a0-ec6b-4690-9893-37380e2f6b18",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Regarding aprepitant all are true except:",
-        "exp": "it is a recently introduced selective high affinity NK1 receptor antagonst that blocks the emetic action of substance P, with little effect on 5. HT3and D2 or other receptor ESSENTIALS OF MEDICAL PHARMACOLOGY SEVENTH EDITION KD TRIPATHI PG NO. 669",
-        "cop": 1,
-        "opa": "Agonist at NK1 receptors",
-        "opb": "Crosses Blood Brain Barrier",
-        "opc": "Ameliorate nausea and vomiting induced by chemotherapy",
-        "opd": "Metabolized by CYP450 enzymes",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "a1973354-6c98-4f21-ad31-91ee9445cdca",
-        "choice_type": "multi"
-    },
-    {
-        "question": "cimetidine inhibits the metabolism of all the following drugs except:",
-        "exp": "cimetidine is a potent inhibitor of. microsomal enzymes. it prolongs the half life of warfarin, theophyllin, phenytoin, oral hypoglycemic agents, alcohol and benzidiazepines. (ref KDT 6/e p630)",
-        "cop": 3,
-        "opa": "phenytoin",
-        "opb": "warfarin",
-        "opc": "ketoconazole",
-        "opd": "diazepam",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "0816bb01-ed18-46ed-b702-3c162b81c041",
-        "choice_type": "multi"
     },
     {
         "question": "Drug not used in H. pylori is:",
@@ -817,19 +596,6 @@
         "topic_name": "Gastrointestinal tract",
         "id": "83d11f6f-924f-49d4-af78-9d92ad75b1af",
         "choice_type": "single"
-    },
-    {
-        "question": "Despite their sho half-lives (2 hrs), proton pump inhibitors (PPIs) cause a prolonged Suppression of acid secretion (up to 48 h) because:",
-        "exp": "The only significant pharmacological action of proton pump inhibitor is dose dependent suppression of gastric acid secretion; without anticholinergic or Hz blocking action. It is a powerful inhibitor of gastric acid: can totally abolish HCl secretion, both resting as well as that stimulated by food or any of the secretagogues, without much effect on pepsin, intrinsic factor, juice volume and gastric motility. Proton pump inhibitors like omeprazole is inactive at neutral pH, but at pH < 5 rearranges to two charged cationic forms (a sulphenic acid and a sulphenamide configurations) that react covalently with SH groups of the H*K*ATPase enzyme and inactivate it irreversibly, especially when two molecules of omeprazole react with one molecule of the enzyme. After diffusing into the parietal cell from blood, it gets concentrated in the acidic pH of the canaliculi because the charged forms generated there are unable to diffuse back. Moreover, it gets tightly bound to the enzyme (Essentials of pharmavology KD Tripathy, 6th edition, pg no. 631)",
-        "cop": 3,
-        "opa": "They are prodrugs and undergo activation gradually",
-        "opb": "They exit from the plasma and enter acid secretory canaliculi and stay there, blocking the secretion of acid for a long time",
-        "opc": "They irreversibly inhibit the proton pump molecule and hence, acid secretion requires synthesis of new proton pumps",
-        "opd": "They irreversibly inhibit the proton pump molecule and hence, acid secretion requires synthesis of new proton pumps",
-        "subject_name": "Pharmacology",
-        "topic_name": "Gastrointestinal tract",
-        "id": "28cb36ae-5103-4069-a26d-9ed00f849d23",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drugs is not used for H. pylon treatment?",

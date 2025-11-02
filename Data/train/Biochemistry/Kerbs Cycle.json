@@ -65,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Substrate level phosphorylation in TCA cycle is in step?",
-        "exp": "ANSWER: (D) Succinate thiokinase. REF: Murray pp 130-135, Scriver, pp 1521-1552, http://en. wikipedia. org/wiki/Substratelevel_ phosphorylation. Substrate-level phosphorylation is a type of metabolism that results in the formation and creation of adenosine triphosphate (ATP) or guanosine triphosphate (GTP) by the direct transfer and donation of a phosphoryl (PO3) group to adenosine diphosphate (ADP) or guanosine diphosphate (GDP) from a phosphorylated reactive intermediate. Note that the phosphate group does not have to directly come from the substrate. By convention, the phosphoryl group that is transferred is referred to as a phosphate group. Once the pyruvate product of glycolysis is moved to the mitochondrial matrix, the pyruvate is converted to acetate and binds Coenzyme A to form Acetyl CoA to enter the Krebs cycle. While the Krebs cycle is oxidative respiration, one more instance of substrate-level phosphorylation occurs as Guanosine triphosphate (GTP) is created from GDP by transfer of a phosphate group during the conversion of Succinyl CoA to Succinate. This phosphate is transferred to ADP in another substrate-level phosphorylation event. The reaction is catalyzed by the enzyme Succinyl- CoA synthetase. A molecule of guanosine triphosphate is synthesized from guanosine diphosphate and phosphate at the cost of hydrolyzing succinyl-CoA to succinate and CoA. This constitutes substrate-level phosphorylation, and, in contrast to oxidative phosphorylation, this is the only reaction in the citric acid cycle that directly yields a high-energy phosphate bond. The sequence of reactions from a ketoglutarate to succinate is catalyzed by the a ketoglutarate dehydrogenase complex and succinyl-CoA synthetase, respectively. Succinate thiokinase is the only enzyme that generates ATP directly by substrate-level phosphorylation. a ketoglutarate + NAD+ + acetyl-CoA - succinyl-CoA + CO2 + NADHsuccinyl-CoA + Pi + GDP - succinate + GTP + acetyl-CoA",
-        "cop": 4,
-        "opa": "Isocitrate dehydrogenase",
-        "opb": "Malate dehydrogenase",
-        "opc": "Aconitase",
-        "opd": "Succinate thiokinase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Kerbs Cycle",
-        "id": "fb0e7921-83ac-405d-8f6f-22b5218fa4d1",
-        "choice_type": "multi"
-    },
-    {
         "question": "a keloglutarate dehydrogenase is inhibited by -",
         "exp": "Ans. is 'c' i. e., Arsenite. In glycolysiso Fluoride inhibitso Iodoacetate inhibitso Arsenite inhibits---Enolase. Glyceroldehyde 3-phosphate dehydrogenase. Phosphoglycerate kinase. In TCA cycleo Fluoroacetate inhibits aconitase non-competitively. o Arsenite inhibits a-ketoglutarate dehydrogenase non-competitively. o Malonate inhibits succinate dehydrogenase competitively.",
         "cop": 3,
@@ -102,19 +89,6 @@
         "topic_name": "Kerbs Cycle",
         "id": "3c7863d8-2e37-4700-ac1a-c794b034b4e7",
         "choice_type": "single"
-    },
-    {
-        "question": "Which step in TCA cycle is irreversible?",
-        "exp": "Ans. (b) Alpha ketoglutarate dehydrogenase. Ref: Harper's Biochemistry 28/e, ch-9, p 306",
-        "cop": 2,
-        "opa": "Succinate thiokinase",
-        "opb": "Alpha ketoglutarate dehydrogenase",
-        "opc": "ISO citrate dehydrogenase",
-        "opd": "Aconitase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Kerbs Cycle",
-        "id": "937b097f-4892-414b-892f-abc400fd56f8",
-        "choice_type": "multi"
     },
     {
         "question": "Number of ATPs formed per cycle of TCA -",

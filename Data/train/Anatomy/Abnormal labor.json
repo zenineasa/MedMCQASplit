@@ -13,45 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The complications of shoulder presentations are all of the following except",
-        "exp": "Complications of shoulder presentation Cord prolapse Tonic contraction of uterus Obstructed labor Rupture of uterus",
-        "cop": 4,
-        "opa": "Fetal death",
-        "opb": "Uterine rupture",
-        "opc": "Obstructed labour",
-        "opd": "Shoulder dystocia",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "702dfadc-d831-4505-9d52-8fba75741425",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The following statements are related to occipito posterior except",
-        "exp": "In more than 50% the occipito posterior position is associated with either anthrapoid or android pelvis",
-        "cop": 2,
-        "opa": "Malrotation of occiput may cause occipito sacral arrest",
-        "opb": "10% cases are associated with anthrapoid or android pelvis",
-        "opc": "Incomplete forward rotation of occiput may cause deep transverse arrest",
-        "opd": "Non rotation of occiput may cause are associated",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "fa745ea0-a53b-4f4b-a46b-a619e6473f3a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In deep transverse arrest, all of the following can be done except:",
-        "exp": "Deep transeverse arrest occurs at the level of ischial spine and hence it cannot be managed by wrigleys forceps which is an outlet forceps basically and forceps cannot rotate the head of body except kielland forceps",
-        "cop": 4,
-        "opa": "Cesarean section",
-        "opb": "Vacuum extraction",
-        "opc": "Kielland forceps",
-        "opd": "Wrigley's forceps",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "5f4bb636-6fd5-46c5-90b7-789261e31739",
-        "choice_type": "multi"
-    },
-    {
         "question": "Procedure to be performed in the case of arrest of after coming head due to contracted pelvis in breech",
         "exp": "The last rescue for entrapped fetal head in term fetus is replacement of the fetus higher into the vagina and uterus followed by cesarean delivery this is zavanelli maneuver",
         "cop": 3,
@@ -76,19 +37,6 @@
         "topic_name": "Abnormal labor",
         "id": "7e78821d-56f6-42e1-a998-c78410512679",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are features of obstructed labour except:",
-        "exp": "In case of obstructed labour: Membranes are ruptured Vagina is hot and dry Foul smelling discharge Ref: Datta Obs 9e pg 380.",
-        "cop": 4,
-        "opa": "Hot dry vagina",
-        "opb": "Tonic contracted uterus",
-        "opc": "Bandl's ring",
-        "opd": "Unruptured membranes",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "d48b50b1-c46a-4b9c-9bb8-1b6eae2d1efc",
-        "choice_type": "multi"
     },
     {
         "question": "The complications that can occur with internal podalic version for transverse lie:",
@@ -156,58 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In case of unstable lie of fetus, the placenta is usually:",
-        "exp": "Unstable lie is seen in placenta pre. Other conditions include: Multipara Hydramnios Contracted pelvis Pelvic tumor Ref: Datta Obs 9e pg 372.",
-        "cop": 4,
-        "opa": "Cornual",
-        "opb": "Lateral wall",
-        "opc": "Fundus",
-        "opd": "Placenta in lower segment",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "704e3078-6a09-499d-bf37-bb924407c4a8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The complications of shoulder presentations are all of the following except:",
-        "exp": "In neglected shoulder presentation there is a increased fetal loss due to: Cord prolapse Tonic contraction of uterus /Obstructed labour Rupture of uterus Shoulder dystocia is not a complication of neglected shoulder presentation. Ref: Datta Obs 9e pg 370.",
-        "cop": 4,
-        "opa": "Fetal death",
-        "opb": "Uterine rupture",
-        "opc": "Obstructed labour",
-        "opd": "Shoulder dystocia",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "38d21f94-4af4-4d20-bc1c-fdaf12ecbf2b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "ECV is absolutely contraindicated in all except:",
-        "exp": "Absolute contraindication of ECV: Placenta pre Multiple pregnancies H/o antepaum hemorrhage IUGR Severe pre-eclampsia and hypertension Rupture of membranes Known uterine malformation Ref: Williams Obs 24e pg 570.",
-        "cop": 1,
-        "opa": "Previous LICS scar",
-        "opb": "Severe pre-eclampsia",
-        "opc": "Placenta pre",
-        "opd": "Septate uterus",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "3808cc14-dfc5-4197-8bf4-6646692a89c2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Deep transverse arrest is seen in all except",
-        "exp": "Causes of deep transverse arrest Android pelvis Depression of head Weak uterine contractions Laxity of pelvic floor muscles",
-        "cop": 3,
-        "opa": "Android pelvis",
-        "opb": "Epidural analgesia",
-        "opc": "Transverse lie",
-        "opd": "Uterine ineia",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "9d6fbc89-ff9a-4052-834f-cfa63a703d4f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Face to pubis delivery occurs in which position?",
         "exp": "Face to pubis delivery is done in occipito posterior position head rotates posteriorly and becomes direct occipito posterior position",
         "cop": 1,
@@ -219,45 +115,6 @@
         "topic_name": "Abnormal labor",
         "id": "39e6cda5-d6dd-4cf0-bbfe-cc8bb0b73f3c",
         "choice_type": "single"
-    },
-    {
-        "question": "Best method to deliver arms in breech:",
-        "exp": "Lovset's method: The baby is lifted slightly to cause lateral flexion. The trunk is rotated through 180deg keeping the back anterior and maintaining a downward traction. This brings the posterior arm to emerge under the pubic arch which is then hooked out The trunk is then rotated in reverse direction keeping the back anterior to deliver the anterior shoulder under the symphysis pubis Ref: Datta Obs 9e pg 363.",
-        "cop": 1,
-        "opa": "Lovset's method",
-        "opb": "Smellie - Viet",
-        "opc": "Pinard's maneuver",
-        "opd": "Any of the above",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "8531dd71-1057-4c02-9bf5-32d8d85e4fbb",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which statement is true regarding Ventouse (vacuum extractor):",
-        "exp": "Maternal trauma is less in vacuum than in forceps. Vacuum promote autorotation. So, it can be used in unrotated or malrotated occipitoposterior position of the head Ref: Dutta Obs 9e pg 539.",
-        "cop": 1,
-        "opa": "Minor scalp abrasion and Subgaleal hematomas in newborn are more frequent than forceps",
-        "opb": "Can be applied when fetal head is above the level of ischial spine",
-        "opc": "Maternal trauma is more frequent than forceps",
-        "opd": "Cannot be used when fetal head is not fully rotated",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "1bb38a16-dcc2-4b17-8aad-05283007a302",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 40 year old primipara who has been infeile for 12 years attends the antenatal clinic of 37 weeks. The fetus is in breech presentation. The estimated fetal weight is 3 kg. The pregnancy is otherwise uncomplicated. The pelvis is adequate. What is the best management option?",
-        "exp": "In this case pregnancy is very precious as this female has been infeile for 12 years and then conceived, hnece ECV should not be done and elective cesarean section should be done at 39 weeks",
-        "cop": 2,
-        "opa": "Await spontaneous onset of labor and normal vaginal delivery",
-        "opb": "Perform a cesarean section at 39 weeks",
-        "opc": "Perform a cesarean section, if labor becomes prolonged",
-        "opd": "Perform an external cephalic version",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "c429d3ce-e678-4901-ac78-c277fc85e850",
-        "choice_type": "multi"
     },
     {
         "question": "Procedure to be performed in the case of arrest of after coming head due to contracted pelvis in breech:",
@@ -286,19 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "ECV is absolutely contraindicated in all except",
-        "exp": "Absolute contraindications for ECV Placenta pre Multiple pregnancies IUGR history of antepaum hemorrhage Severe preeclampsia Rupture of membranes Uterine malformations",
-        "cop": 1,
-        "opa": "Previous LSCS scar",
-        "opb": "Severe preeclampsia",
-        "opc": "Placenta pre",
-        "opd": "Septate uterus",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "6da0bd9c-3b8d-4c59-bc76-405c12907244",
-        "choice_type": "multi"
-    },
-    {
         "question": "A forceps rotation of 30deg from left occiput anterior (LOA) to occiput anterior (OA) with extraction of fetus from +2station is described as which type of forceps delivery?",
         "exp": "Presence of fetal head at +2station indicate low forceps delivery. High forceps -head not engaged Mid cavity forceps-head engaged, presenting pa above +2station Low forceps -head at +2or below it but not at reached pelvic flow Outlet-head at or on perineum. Ref: Datta Obs 9e pg 533, table 37. 2",
         "cop": 3,
@@ -310,19 +154,6 @@
         "topic_name": "Abnormal labor",
         "id": "2c88c0a1-dc93-4a12-916f-842a957d3046",
         "choice_type": "single"
-    },
-    {
-        "question": "The after coming head of breech, chin to pubis is delivered by:",
-        "exp": "Sometimes in Breech presentation, the after coming head rotates posteriorly so that face is behind pubis, this condition is difficult to deliver and is called Chin to pubis rotation In this situation, manual rotation of fetal head and trunk is done as in malar flexion and shoulder traction and then head is delivered with forceps. In case of premature baby, the delivery of head may be completed as face to pubis by reversed malar flexion and shoulder traction or by forceps. Ref: Datta Obs 9e pg 363, Williams Obs 23e pg 537.",
-        "cop": 4,
-        "opa": "Marcelli technique",
-        "opb": "Burns-Marshall method",
-        "opc": "Lovset's method",
-        "opd": "Manual rotation and extraction by Piper's forceps",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "93cda4ef-3ea9-41ca-a21b-9a6a6806e624",
-        "choice_type": "multi"
     },
     {
         "question": "Blood in urine in labour is diagnostic of:",
@@ -377,32 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "38 weeks primi in early labour with transverse presentation, TOC is:",
-        "exp": "Elective cesarean section is preferred method of delivery, because of risk of early rupture of membranes and cord prolapse. Ref: Datta Obs 9e pg 372.",
-        "cop": 3,
-        "opa": "Allow for cervical dilatation",
-        "opb": "Internal podalic version",
-        "opc": "LSCS",
-        "opd": "Forceps",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "9fa5123e-3402-424e-9f78-51dc51ac3f37",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Techniques of delivery of after coming head in breech presentation include all except:",
-        "exp": "Methods of delivery of after coming head of breech: Burns-Marshall technique Mauriceau Smellie Viet technique Piper's forceps Ref: Datta Obs 9e pg 360.",
-        "cop": 4,
-        "opa": "Burns-Marshall method",
-        "opb": "Forceps delivery",
-        "opc": "Modified Mauriceau Smellie Viet technique",
-        "opd": "Lovset's maneuver",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "db9790cf-98b9-4d96-a501-3cd4b245269c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Traction force required for forceps delivery in primigravida is:",
         "exp": "Traction force required by forceps is: Primigravida -18-20 kgs Multigravida-13 kgs Vacuum - initial pressure is 0. 2 kg/cm2 induced over 2 minutes. The pressure is gradually increased at the rate of 0. 1 kg/cm2 to a maximum of 0. 8 kg/cm2. Ref: Datta Obs 9e pg 533.",
         "cop": 2,
@@ -442,19 +247,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is the most likely complication of IUD?",
-        "exp": "Complications of IUD: Psychological upset Uterine infections Blood coagulation disorder Hypofibrogenemia occurs due to gradual absorption of thromboplastin, liberated from the dead placenta and decides. Ref: Datta Obs 9e pg 304.",
-        "cop": 1,
-        "opa": "Hypofibrogenemia",
-        "opb": "Sterility",
-        "opc": "Cervical tear",
-        "opd": "None of the above",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "565bc099-df28-4024-96ab-90163b20dfc0",
-        "choice_type": "multi"
-    },
-    {
         "question": "In transverse lie presentation is",
         "exp": "In transverse lie shoulder presentation is seen",
         "cop": 4,
@@ -466,19 +258,6 @@
         "topic_name": "Abnormal labor",
         "id": "7da0f9dd-c922-46b9-9921-340d8f8a9498",
         "choice_type": "single"
-    },
-    {
-        "question": "Deep transverse arrest is seen in all except:",
-        "exp": "Deep transverse arrest is a complication of occipitoposterior position, how can it occur in transverse lie. Causes of deep transverse arrest: Faulty pelvic architecture Depression of head Weak uterine contractions Laxity of pelvic floor muscles In transverse lie, presenting pa is shoulder, so deep transverse arrest doesn't occur. Ref: Datta Obs 9e pg 349.",
-        "cop": 3,
-        "opa": "Android pelvis",
-        "opb": "Epidural analgesia",
-        "opc": "Transverse lie",
-        "opd": "Uterine ineia",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "eb86ec15-eb54-4b33-af3d-449230d096ba",
-        "choice_type": "multi"
     },
     {
         "question": "In which fetal presentation vaginal delivery can be expected?",
@@ -494,32 +273,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following statements are related to occipitoposterior except:",
-        "exp": "Occipitoposterior position: In more than 50% of occipitoposterior position is associated with anthropoid or android pelvis Ref: Datta Obs 9e pg 343.",
-        "cop": 2,
-        "opa": "Malrotation of occiput may cause occipitoacral arrest",
-        "opb": "10% cases are associated with anthropoid or android pelvis",
-        "opc": "Incomplete forward rotation of occiput may cause deep transverse arrest",
-        "opd": "Non rotation of occiput may cause",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "11aba1b1-731e-400a-927f-514ff2e282ed",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The following is always an indication of cesarean section except:",
-        "exp": "Cesarean section is not indicated in all cases of situation placentae. In carcinoma cervix, vaginal delivery should not be allowed because of cervical dystocia and injuries Cesarean section is indicated in an active primary genital HSV infection where the membranes are intact or recently ruptured In severe degree of placenta pre cesarean section is indicated for maternal interest even if baby is dead. Ref: Dutta Obs 9e pg 242, 235, 282, 288.",
-        "cop": 1,
-        "opa": "Attention placentae",
-        "opb": "Untreated stage of 1b Ca cervix",
-        "opc": "Active primary genital herpes",
-        "opd": "Type IV placenta pre(major pre)",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "be70fe81-c19a-4b40-b008-f090400503ea",
-        "choice_type": "multi"
-    },
-    {
         "question": "In left oblique breech presentation head engages in",
         "exp": "Head in breech engages in opposite oblique diameter as that occupied by buttocks. since breech is in left oblique hence head will engage in right oblique diameter",
         "cop": 1,
@@ -531,19 +284,6 @@
         "topic_name": "Abnormal labor",
         "id": "f8591b05-d68f-4e4c-8480-c6ea4c4ae632",
         "choice_type": "single"
-    },
-    {
-        "question": "Incase of unstable lie of fetus the placenta is usually",
-        "exp": "Unstable lie is seen in placenta pre",
-        "cop": 4,
-        "opa": "Cornual",
-        "opb": "Lateral wall",
-        "opc": "Fundus",
-        "opd": "Lower segment",
-        "subject_name": "Anatomy",
-        "topic_name": "Abnormal labor",
-        "id": "3921f1d3-592c-4233-8fed-2ed2e937e2d2",
-        "choice_type": "multi"
     },
     {
         "question": "In an after coming head the following bone is perforated during craniotomy:",

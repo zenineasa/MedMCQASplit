@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Interval between primary and secondary case is called as:-",
-        "exp": "The gap in time between the onset of the primary case and the secondary case is called \"serial interval\". Incubation period: The time interval between invasion by an infectious agent and appearance of the first sign or symptom of the disease in question. Generation time: interval of time between the receipt of infection by a host and maximal infectivity of that host Lead time: it is the advantage gained by screening, i. e. the period between diagnosis by early detection and diagnosis by other means.",
-        "cop": 1,
-        "opa": "Serial interval",
-        "opb": "Generation time",
-        "opc": "Incubation period",
-        "opd": "Lead time",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "DNB 2018",
-        "id": "2c85a5cb-5eb5-4ac5-acfe-c7062cc4734c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Quantitative test for same group of individuals before and after study is:-",
         "exp": "1. Z-test for large samples 2. t-test for small samples applied as: a. Unpaired t-test (two independent samples) b. Paired t-test (single sample correlated observations) 3. ANOVA test for 3 or more samples Parametric Tests Non Parametric Tests Based on Normal distribution Non normal distribution Type of data Quantitative Qualitative Compares Means %, Propoions, Fractions Examples Paired t-test Unpaired t-test ANOVA test Sign test Chi-square test Wilcoxan test",
         "cop": 1,
@@ -50,19 +37,6 @@
         "topic_name": "DNB 2018",
         "id": "37146459-4bf1-4a9d-998c-c030a0ac9ffe",
         "choice_type": "single"
-    },
-    {
-        "question": "Bias in Which variation occur due to different disease treated in different hospitals:-",
-        "exp": "Berkesonian bias is a special type of bias, named after Dr. Joseph Berkeson, who recognized this problem due to different rates of admission to hospitals for people with different diseases Neyman bias: due to missing of fatal cases, mild/silent cases and cases of sho duration from the study. Attention bias or Hawthorne effect: study subjects may systematically alter their behavior when they know they are being observed. Recall bias: cases are more likely to remember exposure more correctly than controls.",
-        "cop": 2,
-        "opa": "Neyman bias",
-        "opb": "Berksonian bias",
-        "opc": "Attention bias",
-        "opd": "Recall bias",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "DNB 2018",
-        "id": "c0193cd5-9186-4385-a8ab-c16f6e64548c",
-        "choice_type": "multi"
     },
     {
         "question": "What will be the BMI of a male whose weight is 89 kg and height is 172 cms?",

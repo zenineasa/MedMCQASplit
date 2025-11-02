@@ -52,71 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "CHF leads to?",
-        "exp": "CHF - |CO -|GFR | activate RAAS | | Aldosterone - TBW||, Salt| - Hypervolemic Hyponatremia Hypovolemic hyponatremia - Diarrhoea Euvolemic hypnonatremia Hypothyroidism, Glucocoicoid deficiency SIADH",
-        "cop": 1,
-        "opa": "Hypervolemic hyponatremia with UNa < 20",
-        "opb": "Hypovolemic hyponatremia with UNa < 20",
-        "opc": "Euvolemic hyponatremia with UNa < 20",
-        "opd": "None of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Heart failure",
-        "id": "566089a0-824b-44f7-a754-61b3a66ede24",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Intracardiac defibrillator is useful in management of?",
-        "exp": "ICD= useful in Pt who have tendency to Tachyarrhythmias In all these conditions there will be tachyarrhythmia. So ICD is useful. Indications for use of ICD: A: ARVD, Aneurysm B: Brugada syndrome C: Cardiomyopathy Long QT syndrome/Romano ward syndrome",
-        "cop": 4,
-        "opa": "Arrhythmogenic RV dysplasia",
-        "opb": "Brugada syndrome",
-        "opc": "LV aneurysm (Post MI)",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Heart failure",
-        "id": "bb5735f0-909b-4a64-a5a3-35cce678d842",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Elevated JVP is seen in all except?",
-        "exp": "Option A: PAH leads to RVH which contribute to Elevated JVP Option B: TOF yes Option C: if MS is long standing - PAH - RVH Ans Option D: JVP will not be elevate in Aoic stenosis",
-        "cop": 4,
-        "opa": "PAH",
-        "opb": "TOF",
-        "opc": "Mitral stenosis",
-        "opd": "Aoic stenosis",
-        "subject_name": "Medicine",
-        "topic_name": "Heart failure",
-        "id": "587e4ff7-0c8c-46d0-90b8-a337a911f54b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Blunted y descent is seen with?",
-        "exp": "Normally 'y' descent seen at diastasis event but if there is any obstruction in valve opening = y descent will be blunted (absent). 2 causes of Blunted 'y' descent: i) C. Tamponade ii) T. Stenosis Option A: TOF= Large 'A' wave in JVP. Option C: Tricuspid Regurgitation= Steep Y descent =Constrictive Pericarditis= Steep x & steep y = Cardiac Tamponade= Steep x & Absent/Blunted y",
-        "cop": 2,
-        "opa": "Tetralogy of Fallot",
-        "opb": "Tricuspid stenosis",
-        "opc": "Tricuspid regurgitation",
-        "opd": "Tricuspid atresia",
-        "subject_name": "Medicine",
-        "topic_name": "Heart failure",
-        "id": "48f62b41-6f64-44ec-9b9c-85db092b307e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Decreased dietary intake of potassium is incriminated in leading to all except?",
-        "exp": "Reduced dietary K+ are implicated in the pathophysiology and progression of hypertension heart failure, and stroke. For example, sho term K+ restriction in healthy humans and patients with essential hypertension induces Na+Cl-retention and hypertension. Correction of hypokalemia is paicularly impoant in hypeensive patients treated with diuretics, in whom blood pressure improves with the establishment of normokalemia. Since hypertension and Coronary aery disease patients if untreated can develop CHF, reducing incidence of these will reduce incidence of CHF.",
-        "cop": 4,
-        "opa": "Hypertension",
-        "opb": "Stroke",
-        "opc": "CHF",
-        "opd": "Diabetes mellitus",
-        "subject_name": "Medicine",
-        "topic_name": "Heart failure",
-        "id": "891b895d-69d0-4231-9dfb-fc0b0a02adc3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is effective in management of patients of heart failure with preserved ejection fraction?",
         "exp": "HFp. EF (heart failure with preserved ejection fraction)- A. R. N. I (ARB & Nephrilysin inhibitor) HFr. EF (heart failure with reduced ejection fraction)- ACE inhibitor+ Beta Blocker Phosphodiesterase inhibitor: RELAX trial- no improvement in functional capacity, quality of life (QOL), or other clinical and surrogate parameters in patients with HFp. EF. Isosorbide mononitrate: (NEAT-HFp. EF) trial- no improvement in QOL or submaximal exercise capacity in patients with HFp. EF Digoxin Digitalis Investigation Group (DIG) found no role for digoxin in the treatment of HFp. EF.",
         "cop": 2,
@@ -141,19 +76,6 @@
         "topic_name": "Heart failure",
         "id": "3cbbe9a9-2085-4224-bcb6-43d321df9f77",
         "choice_type": "single"
-    },
-    {
-        "question": "The 50 year old man comes to emergency with chest pain and shoness of breath. He smokes 2 pack of cigarette diaily. His BP Is 150/90mm. Hg and HR is 110. ECG is done as shown below. What is your diagnosis?",
-        "exp": "Symptoms of RVH can include: Chest pain Dizziness Excess fluid build up Shoness of breath Heart palpitations ECG findings of RVH: Right ventricular wall thickens due to chronic pressure overload, similar to that of left ventricular hyperophy. RVH is diagnosed on ECG in the presence of a R/S ratio of > 1 in lead V1 in the absence of other causes, or if the R wave in lead V1 is > 7 millimeters tall. The strain pattern occurs when the right ventricular wall is quite thick, and the pressure is high, as well. Strain causes ST segment depression and asymmetric T wave inversions in leads V1 to V3.",
-        "cop": 1,
-        "opa": "Right ventricular hyperophy",
-        "opb": "Left ventricular hyperophy",
-        "opc": "Torsades De pointes",
-        "opd": "Inferior wall MI",
-        "subject_name": "Medicine",
-        "topic_name": "Heart failure",
-        "id": "42a49371-91af-4a1c-bd5a-5d785b02fb0b",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drugs is not recommended in septic shock?",

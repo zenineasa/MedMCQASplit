@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 40-year-old man has been diagnosed with autosomal dominant polycystic kidney disease. How should the cysts be present in USG to call it ADPKD?",
-        "exp": "Diagnostic criteria for ADPKD Age (years ) Number of Cysts 15-29 2 renal cysts (unilateral or bilateral) 30-59 2 cysts per kidney >60 4 cysts per kidney",
-        "cop": 2,
-        "opa": "1 cyst per kidney",
-        "opb": "2 cysts per kidney",
-        "opc": "3 cysts per kidney",
-        "opd": "4 cysts per kidney",
-        "subject_name": "Medicine",
-        "topic_name": "Polycystic Kidneys",
-        "id": "861b98cd-6f7a-4940-9a37-d08c6d70a0aa",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common cause of death in polycystic kidneys is?",
         "exp": "GFR ||- Renin increases - Hypertension",
         "cop": 4,
@@ -63,32 +50,6 @@
         "topic_name": "Polycystic Kidneys",
         "id": "6553b607-e4d6-4b7f-b7aa-a0884dfbb20c",
         "choice_type": "single"
-    },
-    {
-        "question": "All can be manifestations of polycystic kidney except?",
-        "exp": "Clinical features of ADPKD Hypertension is common and often precedes renal dysfunction- | activity of the renin-angiotensin system. There is only mild proteinuria, and impaired urinary concentrating ability manifests early as polyuria and nocturia. Gross hematuria may result from cyst rupture into the collecting system or from uric acid or calcium oxalate kidney stones. Nephrolithiasis occurs in about 20% of patients. Urinary tract infection, including acute pyelonephritis, occurs with increased frequency in ADPKD",
-        "cop": 1,
-        "opa": "Urine retention",
-        "opb": "Renal hypertension",
-        "opc": "Renal failure",
-        "opd": "Hematuria",
-        "subject_name": "Medicine",
-        "topic_name": "Polycystic Kidneys",
-        "id": "dc0dcb74-6a40-42df-a9ad-cd5cda784605",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is FALSE regarding Autosomal dominant polycystic kidney disease (ADPKD)",
-        "exp": "* In ADPKD, mutations in the PKD1 gene on chromosome 16 (ADPKD-1) account for 85% of cases * Mutations in the PKD2 gene on chromosome 4 (ADPKD-2) account for the remainder",
-        "cop": 3,
-        "opa": "Berry aneurysm is the most common CNS manifestation",
-        "opb": "Increased risk of subarachnoid from a ruptured intracranial aneurysm",
-        "opc": "Polyductin gene is involved in ADPKD",
-        "opd": "Saccular aneurysms may be detected in up to 10% of asymptomatic patients",
-        "subject_name": "Medicine",
-        "topic_name": "Polycystic Kidneys",
-        "id": "23c477ee-7057-4fe3-a1ad-21f2670f836d",
-        "choice_type": "multi"
     },
     {
         "question": "The gross specimen section of kidney depicts:",

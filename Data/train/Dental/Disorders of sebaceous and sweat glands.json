@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 25 year old female comes to OPD with history of spots, red bumps that are located principally on the proximal cheeks, central chin, nose and central forehead. It gets aggravated on sun exposure. On examination, telangiectasia is seen on cheeks. What is the most probable cause?",
-        "exp": "The given clinical scenario is of Rosacea as it gets aggravated on exposure to sunlight, redness seen on face convexities and telangiectasia Rosacea has 4 subtypes: Subtype 1: Erythematotelangiectatic rosacea (ETTR). Subtype 2: Papulopustular rosacea (PPR). Subtype 3: Phymatous rosacea (PR). Subtype 4: Ocular rosacea (OR). In SLE, rash spares Nasolabial fold",
-        "cop": 4,
-        "opa": "Polymorphic light eruption",
-        "opb": "SLE",
-        "opc": "Acne vulgaris",
-        "opd": "Rosacea",
-        "subject_name": "Dental",
-        "topic_name": "Disorders of sebaceous and sweat glands",
-        "id": "6e90315e-2341-44dd-892e-26443d3dc27f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Skin with all its appendages is known as:",
-        "exp": "Skin with all of its appendages is known as Integumentary system. It protects the body from external damage, loss of water etc. It includes hair and nails as well. (in case of animals/birds/reptiles- includes scales, feathers, hooves as well)",
-        "cop": 2,
-        "opa": "Pilosebaceous unit",
-        "opb": "Integumentary system",
-        "opc": "Reactive unit",
-        "opd": "Malpighian system",
-        "subject_name": "Dental",
-        "topic_name": "Disorders of sebaceous and sweat glands",
-        "id": "caa56d75-797e-44ac-ae78-09a35059b138",
-        "choice_type": "multi"
-    },
-    {
         "question": "Fordyce spots are?",
         "exp": "Fordyce's spots are ectopic sebaceous glands which appear as whitish-yellow bumps on the edge of your lips (most common) / inside your cheeks/penis/scrotum/labia DD of Koplik's spots (pathognomonic of measles) Miliaria occurs due to obstruction of eccrine sweat glands. Fox Fordyce disease occurs due to obstruction of apocrine glands.",
         "cop": 1,
@@ -65,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Diagnosis?",
-        "exp": "Syringomas are harmless eccrine sweat duct tumor(adenomas of intraepidermal eccrine ducts) Adenoma sebaceum - seen in tuberous sclerosis(nose involvement)",
-        "cop": 2,
-        "opa": "Adenoma Sebaceum",
-        "opb": "Syringoma",
-        "opc": "Milia crystallina",
-        "opd": "Milia profunda",
-        "subject_name": "Dental",
-        "topic_name": "Disorders of sebaceous and sweat glands",
-        "id": "2ea515b2-3ba3-4584-a7ed-1787a28685fb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Miliaria is disorder of?",
         "exp": "Miliaria is a disorder of the eccrine sweat glands due to ductal obstruction This is a common acute or subacute skin condition more in hot humid conditions leakage of sweat into the epidermis - miliaria crystallina and miliaria rubra leakage of sweat into the dermis - miliaria profunda Type of gland Eccrine Apocrine Duct Directly open over skin surface Open along with hair follicle Site Common everywhere Axilla Areola Groin Nerve Supply Cholinergic symphathetic Adrenergic symphathetic Disorder Anhidrosis, Hypohidrosis Bromhidrosis, Chromhidrosis, Fox Fordyce disease",
         "cop": 1,
@@ -102,31 +63,5 @@
         "topic_name": "Disorders of sebaceous and sweat glands",
         "id": "5b41d9ad-cf32-486a-8945-f6a91b461e78",
         "choice_type": "single"
-    },
-    {
-        "question": "Example of sebaceous glands opening directly to the surface of the skin, and not by way of a hair follicle are all except",
-        "exp": "In a number of sites, sebaceous glands open directly to the surface of the skin, and not by way of a hair follicle. Examples of such glands are the Meibomian glands of the eyelids and the Tyson's glands of the prepuce. Free sebaceous glands are also found on the mucocutaneous surfaces of the female genitalia, areola, and ectopic sites like tongue and cervix Free sebaceous glands in the margin of the upper lip are often visible to the naked eye as pale-yellow bodies, which vary in size from minute specks to about 1. 5 mm in diameter; they are known as Fordyce's spots. Koplik's spots are pathognomonic for measles seen as 1- to 2-mm white or bluish lesions with an erythematous halo on the buccal mucosa near the upper 1st and 2nd molars",
-        "cop": 3,
-        "opa": "Meibomian glands of the eyelids",
-        "opb": "Tyson's glands of the prepuce",
-        "opc": "Koplik's spots",
-        "opd": "Fordyce's spots",
-        "subject_name": "Dental",
-        "topic_name": "Disorders of sebaceous and sweat glands",
-        "id": "e755ff7a-84e3-4385-9e70-177f2ca583ea",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Apocrine mode of secretion is classically seen in _______ glands?",
-        "exp": "Apocrine mode of secretion is seen in Mammary gland Modes of Secretion of exocrine glands can be classified as - Merocrine Apocrine Holocrine",
-        "cop": 1,
-        "opa": "Mammary",
-        "opb": "Sebaceous",
-        "opc": "Parotid",
-        "opd": "Meibomian gland",
-        "subject_name": "Dental",
-        "topic_name": "Disorders of sebaceous and sweat glands",
-        "id": "edde6c70-edc4-41f9-bd2a-c96a2a2397b1",
-        "choice_type": "multi"
     }
 ]

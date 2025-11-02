@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Direct fibrinolytics are/is:",
-        "exp": "Ans. b (Alfimeprase). (Ref. Harrison's medicine 16th ed. 690). Alfimeprase is a metalloproteinase that degrades fibrin in a plasmin-independent fashion. It is a novel thrombolytic based on snake venom derived protein. It is a direct fibrinolytic. It is not a plasminogen activator. It is neutralized by alpha-macroglobulin. PHARMACOLOGICAL REPERFUSION# Therapeutic plasminogen activators include streptokinase, urokinase, t. PA and non-t. PA fibrinolytics like Recombinant prourokinase, staphylokinase, and alfimeprase.- They are fashioned after endogenous t. PA or urokinase that convert plasminogen into active plasmin. Plasmin degrades fibrinogen and fibrin in to FDPs.- t. PA is released from endothelial cells, enters the fibrin clot, and activates plasminogen to plasmin.- Any free plasmin is complexed with a, plasmin inhibitor (a2. PI).- Fibrin is degraded to low-molecular-weight fragments, fibrin degradation products (FDPs).# Innovative intravenous pharmacological reperfusion strategies include:- Novel fibrinolytic agents (tenecteplase, reteplase, desmetolplase, plasmin, and microplasmin), - GP Ilb/IIIa antagonists = platelet disaggregating effects (abciximab and tirofiban), - Combination therapies to improve efficacy of clot lysis (fibrinolytics and GP IIb/IIIa agents, and fibrinolytics and direct thrombin inhibitors), increase the time window for clot lysis (fibrinolytics and neuroprotectants), and reduce the frequency of hemorrhagic complications.",
-        "cop": 2,
-        "opa": "R4prourokinase",
-        "opb": "Alfimiprase",
-        "opc": "rtpA",
-        "opd": "All",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "709e9acd-83c8-4c25-8041-5e7df4f9c83c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drugs inhibit platelet cyclooxygenase reversibly?",
         "exp": "NSAID'S Inhibit COX enzyme reversibly, Except Aspirin which is an irreversible inhibitor of this enzyme. Alprostadil -PGE1 and prednisolone do not inhibit cox enzyme.",
         "cop": 3,
@@ -156,32 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Anticoagulant effect of Warfarin is increased by all of the following EXCEPT:",
-        "exp": "Phytonadione is Vit K. It is used as an antidote in warfarin toxicity. From essential of medical pharmacology K D Tripati 7th edition Page no 613",
-        "cop": 2,
-        "opa": "Cimetidine",
-        "opb": "Phytonadione",
-        "opc": "Amiodarone",
-        "opd": "Phenylbutazone",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "7fd01052-235b-4f21-8c6f-4f8b3bbb8b88",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which fibrinolytic agent selectively activate fibrin bound plasminogen rather than circulating plasminogen",
-        "exp": "FIBRINOLYTICS (Thrombolytics) Alteplase It is moderately specific for fibrin bound plasminogen, so that circulating fibrinogen is lowered only by ~ 50%. It is rapidly cleared by liver and inactivated by plasminogen activator inhibitor-1 (PAI-1). The plasma t 1/2 is 4-8 min. Because of the sho t 1/2, it needs to be given by slow i. v. infusion and often requires heparin co-administration. It is nonantigenic, but nausea, mild hypotension and fever. Ref:- kd tripathi; pg num:-627",
-        "cop": 3,
-        "opa": "Streptokinase",
-        "opb": "Urokinase",
-        "opc": "Alteplase",
-        "opd": "Both 'A' and 'C'",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "79b0a639-66b3-4204-9fc8-fdfe4ecd07f6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mechanism of action of aspirin is inhibition of:",
         "exp": "Aspirin inactivates cyclo-oxygenase by irreversible acetylation of the enzyme and thereby inhibit the synthesis of throboxane A2. From medical pharmacology padmaja 4th edition Page no 344",
         "cop": 1,
@@ -193,19 +154,6 @@
         "topic_name": "Hematology",
         "id": "d499a3fa-d4ac-4bbd-9b9c-c7b0b5b64f7d",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are true regarding enoxaparin EXCEPT:",
-        "exp": "Ref KDT, 6th ed. pg. 599-600* Low molecular weight heparin, Enoxaparin, inhibits only factor Xa whereas unfractionated heparin inhibits both factor IIa and factor Xa.",
-        "cop": 2,
-        "opa": "It has higher and predictable bioavailability",
-        "opb": "It act by inhibiting both factor Ila and factor Xa",
-        "opc": "Monitoring is not required",
-        "opd": "It has more favorable pharmacokinetics",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "02b6e8e2-392d-4aa6-922b-fab3a9de01ef",
-        "choice_type": "multi"
     },
     {
         "question": "Apixaban is classified as",
@@ -258,19 +206,6 @@
         "topic_name": "Hematology",
         "id": "34d10c70-d8e7-490a-ba58-fea5def1a077",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are used in management of acute severe bleeding due to warfarin overdose except:-",
-        "exp": "Management of warfarin overdose is done as follows: *INR < 5 but above therapeutic range - Discontinue warfarin temporarily and resta at low dose. *INR 5-9 - Vitamin K1 (1 mg oral) *INR > 9 but no bleeding - Vitamin K1 (2 - 3 mg oral) *INR > 20 or bleeding - Four factor prothrombin complex or Fresh frozen plasma.",
-        "cop": 3,
-        "opa": "Withhold the anticoagulant",
-        "opb": "Vitamin K1",
-        "opc": "Protamine sulphate",
-        "opd": "Fresh frozen plasma",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "6587aed7-82ca-413c-86a2-8fcda07dbef9",
-        "choice_type": "multi"
     },
     {
         "question": "Filgrastim is a.",
@@ -351,19 +286,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Mechanism of action of Abciximab?",
-        "exp": "Ans. a (Inhibitor of GPIIb/IIIa) (Ref. KDT 6th/pg. 610). Inhibitors of GPIIb/IIIa receptors on platelets. ABCIXIMAB(o humanized monoclonal antibody directed against the IIb/IIIa complex)# Tirofiban# Eptifibatide# Abciximab. Mechanism. Monoclonal antibody that binds to the glycoprotein receptor IIb/IIIa on activated platelets, preventing aggregation. Clinical use. Acute coronary syndromes, Percutaneous transluminal coronary angioplasty. Toxicity. Bleeding, Thrombocytopenia Drug. Mechanism of action. Tirofiban & Eptifibatide. Specific Gp. IIb/IIIa receptor inhibition. Clopidogrel. ADP-induced platelet aggregation inhibition by irreversibly Dlocking P2. Y12. Fondaparinux. Inhibition of factor Xa. Dabigatran. Oral thrombin inhibition. Atfimeprase. Plasmin-independent fibrinolysis",
-        "cop": 1,
-        "opa": "Inhibitor of GPIIb/IIIa",
-        "opb": "Inhibitor of adenosine reuptake",
-        "opc": "Anti-thrombin III inhibitor",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "94f18244-0469-4527-b3db-b447024db2be",
-        "choice_type": "multi"
-    },
-    {
         "question": "For oral iron supplements used for iron deficiency anemia:",
         "exp": "The elemental iron content of different salts vary and is impoant. In adult a maximum of 200 mg and for children3 - 5 mg / kg of elemental iron in 2-3 divided dose can be given daily in deficiency. Iron therapy should be continued for3-6 months after the correction of deficiency in order to replenish the iron stores. From medical pharmacology padmaja 4th edition Page no 328",
         "cop": 1,
@@ -388,32 +310,6 @@
         "topic_name": "Hematology",
         "id": "780179a5-f7fd-48ff-b6c5-56fcdd26bb1f",
         "choice_type": "single"
-    },
-    {
-        "question": "Warfarin embryopathy manifests characteristically as -",
-        "exp": "Ans. is 'a' i. e., Chondrodysplasia punctata * Warfarin embryopathy is characterized by bone and cartilage abnormalities known as chondrodysplasia punctata. Affected infants may have nasal hypoplasia and excessive calcifications in the epiphyses and vertebrae.",
-        "cop": 1,
-        "opa": "Chondrodysplasia punctata",
-        "opb": "Dysplastic hips",
-        "opc": "Auditory sensineuronal hearing loss",
-        "opd": "Gastrointestinal atresias",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "fc2b85c9-393d-47aa-85c1-a2f69e2ec71a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Orally acting direct thrombin inhibitor is?",
-        "exp": "Ximelgatran is an oral direct thrombin inhibitor. All the other given drugs are parenterally acting direct thrombin inhibitor. From medical pharmacology padmaja 4th edition Page no 334",
-        "cop": 2,
-        "opa": "Bivalirudin",
-        "opb": "Ximelgatran",
-        "opc": "Lepirudin",
-        "opd": "Argatroban",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "641cac46-141d-43a1-bc89-bcd7d18aa8c0",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following metabolic reactions require vitamin B12 but not folate?",
@@ -494,19 +390,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Heparin is the commonly used anticoagulant in cardiac surgery. All of the following are true about heparin EXCEPT:",
-        "exp": "Heparin is the strongest acid in the body. All the other statements about heparin are true. From medical pharmacology padmaja 4th edition Page no 334",
-        "cop": 1,
-        "opa": "Weakest acid found in living being",
-        "opb": "Most commercial preparations of heparin are derived from pig intestine",
-        "opc": "Acts antithrombin activation",
-        "opd": "Produce thrombocytopenia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "20215b2e-8406-432e-93be-58d4f3211f7d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Asprin is not given in a patient who is already on heparin because aspirin causes:",
         "exp": "Aspirin inactivates cyclo-oxygenase by irreversible acetylation of the enzyme and thereby inhibit the synthesis of thromboxane A2. Thromboxane A2 normally promotes platelet aggregation. This COX inhibition lasts for 7 - 10 days till fresh platelets are formed. From medical pharmacology padmaja 4th edition Page no 344",
         "cop": 1,
@@ -544,19 +427,6 @@
         "topic_name": "Hematology",
         "id": "f7c7e2b9-5a7e-48c2-8bd0-430b94c5217c",
         "choice_type": "single"
-    },
-    {
-        "question": "Thrombolytic therapy with streptokinase is contraindicated in all of the following except",
-        "exp": "In all the other given conditions thrombolytics increase bleeding. From essential of medical pharmacology K D Tripati 7th edition Page no 627",
-        "cop": 1,
-        "opa": "Supraventricular tachycardia",
-        "opb": "Recent trauma",
-        "opc": "Recent cerebral bleeding",
-        "opd": "Recent surgery",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "55da0952-2ebd-45fd-9488-effbb4cab35f",
-        "choice_type": "multi"
     },
     {
         "question": "Warfarin induced skin necrosis is more common in patients with",
@@ -650,19 +520,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Folinic acid is specifically indicated for",
-        "exp": "Methotrexate toxicity:- Folinic acid (Leucovorin, citrovorum factor, 5-formyl-THFA) is an active coenzyme form which does not need to be reduced by DHFRase before it can act. Methotrexate is a DHFRase inhibitor; its toxicity is not counteracted by folic acid, but antagonized by folinic acid. Ref:- kd tripathi; pg num:-611",
-        "cop": 3,
-        "opa": "Anemia associated with renal failure",
-        "opb": "Pernicious anemia",
-        "opc": "Counteracting toxicity of high dose methotrexate",
-        "opd": "Prophylaxis of neural tube defect in the offspring of women receiving anticonvulsant medication",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "ffd8c577-6d63-484a-8b9f-8336a08a9ba3",
-        "choice_type": "multi"
-    },
-    {
         "question": "CAPLACIZUMAB is used for treatment of?",
         "exp": "CAPLACIZUMAB: a. It is a Von - Willebrand factor (v. WF) directed antibody fragment b. Target the A1 - domain of v. WF, and inhibits the interaction between v. WF and platelets, thereby reducing both v. WF - mediated platelet adhesion and platelet consumption. c. Used for treatment of acquired Thrombotic Thrombocytopenic Purpura (a. TTP)",
         "cop": 1,
@@ -674,32 +531,6 @@
         "topic_name": "Hematology",
         "id": "eef8bdea-dfe2-4cf4-a94a-cfdb49ec070c",
         "choice_type": "single"
-    },
-    {
-        "question": "Patient with DVT on therapeutic dose of Warfarin came with complaints of breathlessness and hypotension. True statement regarding this:",
-        "exp": "C i. e. Maintain INR at 2 and continue. Ref: Harrison, 19th edition, page 755. Explanation: INR Ranges When Treating with Warfarin1. 5-1. 9. Higher rate of recurrent venous thromboembolism.<1. 7. Increased risk of cardioembolic stroke. 2. 0-3. 0. Warfarin is administered in doses that produce above INR. This the recommended INR while treating with warfarin. This INR is effective as higher intensity treatment and produces less bleeding. 2. 5-3. 5. Allowed in special situations like in patients with mechanical heart valves, particularly those in the mitral position or older ball and cage valves in the aortic.>4. 5. Increase in bleeding. Note: In a study, patients receiving long-term warfarin therapy for unprovoked venous thromboembolism demonstrated a higher rate of recurrent venous thromboembolism with a target INR of 1. 5-1. 9 compared with a target INR of 2. 0-3. 0. So, in this case patient with DVT on therapeutic dose of Warfarin came with do breathlessness, hypotension. May be he has unprovoked venous thromboembolism and recurrent venous thromboembolism, so maintain INR at 2. 0 to 3. 0 and continue warfarin. IMPORTANT: Warfarin induced bleeding. The INR should be maintained in the therapeutic range to minimize the risk of bleeding. In asymptomatic patients whose INR is between 3. 5 and 10, warfarin should be withheld until the INR returns to the therapeutic range. If the INR is over 10, oral vitamin K should be administered, at a dose of 2. 5-5 mg. Higher doses of oral vitamin K (5-10 mg) produce more rapid reversal of the INR but may render patients temporarily resistant to warfarin when the drug is restarted. Patients with serious bleeding need more aggressive treatment. These patients should be given 5-10 mg of vitamin K by slow IV infusion. Additional vitamin K should be given until the INR is in the normal range. Treatment with vitamin K should be supplemented with fresh-frozen plasma as a source of the vitamin K-dependent clotting proteins. Four factor prothrombin complex concentrates, which contain all four vitamin K-dependent clotting proteins, are the treatment of choice for: Life-threatening bleeds. Rapid restoration of the INR into the normal range in patients requiring urgent surgery or intervention, Patients who cannot tolerate the volume load of fresh-frozen plasma.",
-        "cop": 3,
-        "opa": "Warfarin to be continued for 6 months",
-        "opb": "Maintain INR at 3. 5 and continue",
-        "opc": "Maintain INR at 2 and continue",
-        "opd": "Discontinue warfarin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "7e8db7e2-84be-4f76-9b23-00944102b10e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are anticoagulant, except",
-        "exp": "Phytonadione is Vit K. All others are anti coagulants. From essential of medical pharmacology K D Tripati 7th edition Page no 613",
-        "cop": 1,
-        "opa": "Phytonadione",
-        "opb": "Warfarin",
-        "opc": "LMW heparin",
-        "opd": "Lepirudin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "e61320ca-ce9d-4acd-93d7-2823eb5a67dd",
-        "choice_type": "multi"
     },
     {
         "question": "Pegylated Filgrastim is used for treatment of:",
@@ -726,32 +557,6 @@
         "topic_name": "Hematology",
         "id": "03fe5c5c-d584-4022-b027-47f3ab6d24d2",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are characteristic features of treatment of iron deficiency anemia with oral iron supplements, except:",
-        "exp": "A total of200mg given daily in three divided doses produces the maximal haemopoietic response. Iron therapy should be continued for 3-6 months after the correction of deficiency in order to replenish the iron stores. From medical pharmacology padmaja 4th edition page 328 and essential of medical pharmacology K D Tripati 7th edition page no 603",
-        "cop": 4,
-        "opa": "If 200-300 mg elemental iron is consumed, about 50 mg is absorbed",
-        "opb": "The propoion of iron absorbed reduces as hemoglobin improves",
-        "opc": "The reticulocyte count should begin to increase in two weeks and peak in 4 weeks --this suggests good response to treatment",
-        "opd": "The treatment should be discontinued immediately once hemoglobin normalizes to prevent side effects of iron.",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "fb2d22e6-3247-4bbb-ae51-3e15e1515a8c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Aspirin acts by inhibiting which of the following enzymes?",
-        "exp": "Aspirin inhibits COX enzyme irreversibly and thus results in decreased synthesis of TXA2 as well as PGI2. TXA2 is produced by platelets and as platelets do not contain nuclei, TXA2 is not synthesized till there is production of fresh platelets, whereas vessel wall contains nucleus and thus can resume the synthesis of enzymes required for the formation of prostacyclins. The net effect is inhibition of TXA2 synthesis leading to anti-aggregatory effects.",
-        "cop": 1,
-        "opa": "Cyclooxygenase",
-        "opb": "Lipoxygenase",
-        "opc": "Phospholipase",
-        "opd": "None of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "38813a99-aa84-4266-8c13-9f697161ccec",
-        "choice_type": "multi"
     },
     {
         "question": "Which one the following drugs is a Parenteral Direct Thrombin Inhibitor?",
@@ -832,19 +637,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are antiplatelets drugs EXCEPT:",
-        "exp": "(Warfarin): Ref: 571-72-KDT (609-602-KDT 6th)ANTIPLATELET-DRUGS (Antithrombotic drugs)* Aspirin* Clopidogrel* Dipyridamol* Abciximab* Ticlopidine (GPII b/IIIa antagonist)* Antifibrinolvtics - Epsilon amino-caproic acid (EACA) Transexaemic acid Aprotinin* Fibrinolytics (Thrombolytics) - Streptokinase, urokinase, Alteplase* Warfarin is oral anticoagulants",
-        "cop": 4,
-        "opa": "Aspirin",
-        "opb": "Clopidogrel",
-        "opc": "Dipyridamol",
-        "opd": "Warfarin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "c0114f92-33d3-483b-9fb1-b7a3096cd71c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following Iron is used for Parenteral Iron Therapy?",
         "exp": "Parenteral irons Oral irons Iron dextran Iron - sorbitol - citric acid Ferrous sucrose Ferric carboxy maltose Iron isomaltoside Ferrous sulphate Ferrous gluconate Ferrous fumarate Colloidal Ferric hydroxide Carbonyl Iron Iron requirement (mg) = 4. 4 x body weight (kg) x Hb deficit (g/dl)",
         "cop": 1,
@@ -856,32 +648,6 @@
         "topic_name": "Hematology",
         "id": "73752d04-fa05-48de-b3a0-496ec1629ef2",
         "choice_type": "single"
-    },
-    {
-        "question": "Activated protein C is used therapeutically in:",
-        "exp": "Answer is option4, sepsis Human recombinant activated protein C for severe sepsis. Mai-Carvajal AJ1, Sola I, Lathyris D, Cardona AF. Author information Update in Human recombinant protein C for severe sepsis and septic shock in adult and paediatric patients. Abstract BACKGROUND: Sepsis is a common and frequently fatal condition. Human recombinant activated protein C (APC) has been used to reduce the high rate of death by severe sepsis or septic shock. This is an update of a Cochrane review (originally published in 2007 and updated in 2008).",
-        "cop": 4,
-        "opa": "Abnormal PT\\/PTT",
-        "opb": "Ml",
-        "opc": "Fungal infection",
-        "opd": "Sepsis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "4ee4443c-9662-457b-848c-e452b7c3c5a0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All the following are target specific oral anticoagulants except",
-        "exp": "Rivaroxaban, apixaban, dabigatran are target specific because they inhibit only factor XA not Factor II They can be given orally Ref: HL Sharma, KK Sharma, 3rd edition, pg no: 685",
-        "cop": 1,
-        "opa": "Betrixaban",
-        "opb": "Apixaban",
-        "opc": "Dabigatran",
-        "opd": "Rivaroxaban",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "d553102a-247f-4087-aff5-07d138a38e1f",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drugs is used in heparin-induced thrombocytopenia",
@@ -908,19 +674,6 @@
         "topic_name": "Hematology",
         "id": "e00cea4e-01b9-469e-a3f0-57fa3c878bda",
         "choice_type": "single"
-    },
-    {
-        "question": "All of following are anti platelet EXCEPT:",
-        "exp": "Ref: KDT 6th ed. pg. 608* Antiplatelet drugs interfere with platelet function and are useful in prophylaxis of thromboembolic disorders.* Platelets express several glycoprotein (GP) receptors on their surface like GP IIa/IIIb.* These receptors are not exposed normally, but once exposed due to some injury they make the platelets sticky.* Upon injury thromboxane A2 (TXA2) and ADP produced, which expose the sticky receptors (GP IIa/ IIIb) that crosslinks the platelets, inducing aggregation.* Prostacyclin (PGI2) synthesized in the intima of blood vessel is an inhibitor of TXA2. Normally, a balance between PGI2 and TXA2 is required to control thrombus formation. Antiplatelet drugs and their target of inhibition. Antiplatelet drugs. Target of inhibition. Aspirin. Inhibit TXA2. Clopidogrel and Ticlodipine. Inhibit ADP irreversibly by binding with P2. Y12 receptor. Cangrelor, Ticagrelor. Inhibit ADP reversibly. Abciximab. Tirofiban. Eptifibatide. Inhibit GP IIb/IIIa. Fibrin is associated with clotting. Agents which lyse this fibrin is known as Fibrinolytics. Overdose of fibrinolytic agents causes results in excessive intravascular fibrinolysis resulting in bleeding. Tranexamic acid is a specific antidote for fibrinolytic agents. Antifibrinolytic drugs are:* Epsilon Amino Caproic acid (EACA)* Tranexamic acid",
-        "cop": 4,
-        "opa": "Aspirin",
-        "opb": "Clopidogrel",
-        "opc": "Abciximab",
-        "opd": "Tranexamic acid",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "f2a74e7e-9d31-4e80-ae61-83668def60af",
-        "choice_type": "multi"
     },
     {
         "question": "An old woman, Nanda suffered stroke for which she was given alteplase. She improved considerably. To prevent the recurrence of stroke, this patient is most likely to be treated indefinitely with:",
@@ -988,19 +741,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are antiplatelet drugs except:",
-        "exp": "Aprotinin is a drug that inhibits the initiation of clot formation and fibrinolysis. All others are antiplatlet drugs. From medical pharmacology padmaja 4th edition Page no 343",
-        "cop": 4,
-        "opa": "Clopidogrel",
-        "opb": "Abciximab",
-        "opc": "Ticlopidine",
-        "opd": "Aprotinin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "60072a83-f8ba-4de7-8407-4dee4f96b0ee",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is advocated in dicumarol overdose?",
         "exp": "Dicumarol is an oral anticoagulant. It acts by inhibiting the activation of vitamin K dependent clotting factors(2, 7, 9, 10) Antidote for such a drugs is vitamin K",
         "cop": 4,
@@ -1012,32 +752,6 @@
         "topic_name": "Hematology",
         "id": "58be521a-684c-4d31-8173-7a176c55e2fc",
         "choice_type": "single"
-    },
-    {
-        "question": "The anticoagulant activity of warfarin can be potentiated by all of the following except",
-        "exp": "Rifampin induces the hepatic mixed function oxidases that metabolize warfarin. Platelet inhibitors, such as aspirin, increase the anticoagulant effect of warfarin. Phenylbutazone can transiently increase the level of free warfarin by displacing it from the plasma albumin binding site. Cimetidine inhibits warfarin metabolism and causes potentiation of the anticoagulant. Ref: SHARMA N SHARMA chapter 10 blood and blood products.",
-        "cop": 3,
-        "opa": "Aspirin",
-        "opb": "Disulfiram",
-        "opc": "Rifampin",
-        "opd": "Phenylbutazone",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "dad7d1f5-38ee-45d5-8563-a6c42e9b8651",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about vitamin K is:",
-        "exp": "Ans. (B) Long term use of antimicrobials can cause deficiency of vitamin K(Ref: KDT 8/e p661). Vitamin K is involved in activation of factor II, VII, IX and X (not synthesis). It is a fat soluble vitamin like Vitamin A, D and E. Vitamin B and C are water soluble. Warfarin (an inhibitor of vitamin K) is used for treatment of DVT. Long term antimicrobial use can alter gut flora leading to deficiency of vitamin K.",
-        "cop": 2,
-        "opa": "It is required for synthesis of factor VII",
-        "opb": "Long term use of antimicrobials can cause deficiency of vitamin K",
-        "opc": "It is a water soluble vitamin",
-        "opd": "DVT is associated with vitamin K deficiency",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "d43eb525-8d17-410f-b6f4-60721664beac",
-        "choice_type": "multi"
     },
     {
         "question": "The mechanism of action of Apixaban is",
@@ -1090,19 +804,6 @@
         "topic_name": "Hematology",
         "id": "42ec6b6b-ebe5-4bf4-859a-e01a433429bb",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements about warfarin group of oral anticoagulants is FALSE?",
-        "exp": "Activation of factor II, VII, IX and X are inhibited by warfarin group of oral anticoagulants in presence of vitamin K These anticoagulants do not affect the synthesis of these factors.",
-        "cop": 1,
-        "opa": "They interfere with an early step in the synthesis of clotting factors",
-        "opb": "Irrespective of the dose administered, their anticoagulant effect has a latency of onset of 1-3 days",
-        "opc": "Their dose is adjusted by repeated measurement of prothrombin time",
-        "opd": "They are contraindicated during pregnancy",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "068eaaa6-4847-4489-bcc8-49a03d117e12",
-        "choice_type": "multi"
     },
     {
         "question": "What is the mechanism of action of Ticagrelor?",
@@ -1196,19 +897,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs are contraindicated in G6. PD EXCEPT:",
-        "exp": "Ref: KDT 6th ed. pg. 64* G6. PD is an enzyme present on RBC membrane provides strength to RBC which can counteract free radicals and oxidizing stress of drugs.* In absence of G6. PD enzyme, these cells cant bear the stress and results in Hemolysis.* Drugs causing Hemolysis in G6. PD deficiency patients are:# Anti malarials (Primaquine, chloroquine)# Antibiotic (Nitrofurantoin)# Anti emetic (Furazolidone)# Sulfonamide (dapsone)# Fava beans* Ciprofloxacin is one of the quinolones, effective against G+ and G- including pseudomonas.* It is contraindicated in pregnancy and children below 18 years of age because it effects growing bone and tendons.* Ciprofloxacin is considered as oral DOC for enteric fever.* DOC for enteric fever: Ceftriaxone",
-        "cop": 1,
-        "opa": "Ciprofloxacin",
-        "opb": "Primaquine",
-        "opc": "Dapsone",
-        "opd": "Sulfonamide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "721d859c-73f5-4295-9211-5c42ed7a32f9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Thrombolytics can provide relative moality reduction in the treatment of acute myocardial infarction, if patient comes within:",
         "exp": "They should be given within 6 hours but preferably immediately because early treatment largely reduces moality. From medical pharmacology padmaja 4th edition Page no 342",
         "cop": 1,
@@ -1220,19 +908,6 @@
         "topic_name": "Hematology",
         "id": "d3b7e531-108d-43c8-b846-e85a32301358",
         "choice_type": "single"
-    },
-    {
-        "question": "Warfarin acts by inhibiting the activation of all the following factors except:-",
-        "exp": "Warfarin acts by inhibiting the activation of vitamin K dependent clotting factors- directly inhibiting Vit K epoxide reductase These factors include clotting factors II, VII, IX and X.",
-        "cop": 1,
-        "opa": "Factor III",
-        "opb": "Factor VII",
-        "opc": "Factor IX",
-        "opd": "Factor X",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "5d809b2c-d00f-441e-af3a-abc5f0f2a5e1",
-        "choice_type": "multi"
     },
     {
         "question": "Parenteral Iron therapy is indicated only when:",
@@ -1313,19 +988,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following drugs have high plasma protein binding to serum albumin?",
-        "exp": "Acidic drugs bind to albumin and basic drugs bind to alpha 1 acid glycoprotein. Drugs ending with 'ine' are basic drugs. So, lignocaine and quinidine bind to alpha 1 acid glycoprotein whereas warfarin binds to albumin. High albumin bound drugs High alpha 1 glycoprotein CNS- Barbiturates, BZD, Phenytoin, Valproate, lorazepam Anti-arrhythmic drugs-lignocaine, verapamil, beta blockers, quinidine Antibiotics-Penicillin, tetracycline, naproxen, sulfonamide Warfarin, NSAIDs, ceftriaxone CNS- opioids, TCA significanty decrease with disease & malnutrition increases in disease (chronic inflammatory disorders, malignancy) doesnot significantly decrease with healthy aging no effect seen with healthy aging",
-        "cop": 2,
-        "opa": "Lignocaine",
-        "opb": "Warfarin",
-        "opc": "Quinidine",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "b53a9907-9167-4bf4-a407-4ed880a06747",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the mode of action of warfarin?",
         "exp": "Ref: KD Tripathi, 7th ed. pg. 620, 621* Warfarin and its congeners act as anticoagulants only in vivo (body), NOT in vitro (lab).* It acts by inhibiting Vitamin K. Due to overdose, hematuria is the first manifestation noted.* Dose monitoring is done by INR* Antidote of warfarin overdose: Vitamin K",
         "cop": 2,
@@ -1389,32 +1051,6 @@
         "topic_name": "Hematology",
         "id": "3c5950de-f321-4172-ab0f-96769399c69c",
         "choice_type": "single"
-    },
-    {
-        "question": "Megaloblastic anemia may be caused by all of the following, except",
-        "exp": "Aspirin intake doesn&; t cause megaloblastic anemia. All the others cause megaloblastic anemia. From medical pharmacology padmaja 4th edition Page no 256",
-        "cop": 4,
-        "opa": "Dilantin toxicity",
-        "opb": "Vitamin B12 deficiency",
-        "opc": "Folic acid deficiency",
-        "opd": "Long term aspirin intake",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "6e401cc2-837a-44db-906e-d51bc479a3da",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following, are seen with heparin therapy except",
-        "exp": "Skin necrosis is not a side effect of heparin therapy. From medical pharmacology padmaja 4th edition Page no 335",
-        "cop": 1,
-        "opa": "Skin necrosis",
-        "opb": "Thrombosis and thrombocytopenia",
-        "opc": "Osteoporosis",
-        "opd": "Alopecia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "edcb65a4-45fb-4469-a23b-8c381f123fcd",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following substance can be used as an antidote to fibrinolytics",
@@ -1482,32 +1118,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements about prasugrel is true as compared to clopidogrel?",
-        "exp": "Ans. (B) Due to higher risk of bleeding, prasugrel is contraindicated in stroke(Ref: CMDT 2018/e 374, KDT 8/e 679). Prasugrel is irreversible antagonist of ADP receptors like clopidogrel. Prasugrel is more potent and faster acting than clopidogrel. Both clopidogrel and prasugrel are given orally. Prasugrel has higher risk of intracranial bleeding in patients with TIA and stroke and is thus contraindicated.",
-        "cop": 2,
-        "opa": "It is slower acting than clopidogrel",
-        "opb": "Due to higher risk of bleeding, prasugrel is contraindicated in stroke",
-        "opc": "It is reversible antagonist of ADP receptors",
-        "opd": "It is effective orally unlike clopidogrel",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "762659a7-9940-412f-8dad-66c64a76246b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drug used in heparin overdose is:",
-        "exp": "In heparin overdose an antagonist is needed to arrest it&; s anticoagulant effects. Protamine sulphate given IV (1mg for every 100 units of heparin) neutralizes heparin. From medical pharmacology padmaja 4th edition Page no 337",
-        "cop": 1,
-        "opa": "Protamine sulfate",
-        "opb": "Phylloquinone",
-        "opc": "Ticlopidine",
-        "opd": "Clopidogrel",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "152675f4-325a-4721-b79f-74201a83ea36",
-        "choice_type": "multi"
-    },
-    {
         "question": "Urgent reversal of warfarin induced bleeding can be done by the administration of",
         "exp": "Fresh frozen plasma contains clotting factors. Hence given immediately in warfarin induced bleeding. From essential of medical pharmacology K D Tripati 7th edition Page no 620",
         "cop": 3,
@@ -1532,32 +1142,6 @@
         "topic_name": "Hematology",
         "id": "417fa57e-c667-45c4-8d24-cf14dda83953",
         "choice_type": "single"
-    },
-    {
-        "question": "Heparin is contraindicated in patients suffering from the following diseases except",
-        "exp": "HEPARIN Contraindications 1. Bleeding disorders, history of heparin induced thrombocytopenia. 2. Severe hypertension (risk of cerebral haemor rhage), threatened aboion, piles, g. i. ulcers (risk of aggravated bleeding). 3. Subacute bacterial endocarditis (risk of embolism), large malignancies (risk of bleeding in the central necrosed area of the tumour), tuberculosis (risk of hemoptysis). 4. Ocular and neurosurgery, lumbar puncture. 5. Chronic alcoholics, cirrhosis, renal failure. 6. Aspirin and other antiplatelet drugs should be used very cautiously during heparin therapy. Ref:- kd tripathi; pg num:-619",
-        "cop": 1,
-        "opa": "Bleeding due to defibrination syndrome",
-        "opb": "Pulmonary tuberculosis",
-        "opc": "Subacute bacterial endocarditis",
-        "opd": "Large malignant tumours",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "79094f0d-122e-4526-abdd-58f4db48a48a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about low molecular weight heparin except:",
-        "exp": "Ans. B. Inhibit factor IIa and Xa. Low molecular weight is sensitive to factor Xa. It has better bioavailability. Its response is predictable therefore monitoring of PT is not required. Example are- dalteparin, enoxaparin.",
-        "cop": 2,
-        "opa": "Predictable bioavailability",
-        "opb": "Inhibit factor Ela and Xa",
-        "opc": "Favorable pharmacokinetics",
-        "opd": "PT, apt monitoring not required.",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "9a649151-ae4d-44be-8f01-17874f2835a0",
-        "choice_type": "multi"
     },
     {
         "question": "Anti-coagulant of choice for heparin induced thrombo.. Cytopenia is?",
@@ -1599,19 +1183,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are ADP inhibitors except -",
-        "exp": "Ans. is 'b' i. e., Tirofiban Antiplatelet drugs* Antiplatelet drugs act by inhibiting one or other proaggregative mediators or mechanism.* Aspirin (in low doses) - inhibits synthesis of TXA2 by inhibiting the enzyme cycloxygenase So that immediate precursor (prostaglandins) of TXA2 are not synthesized.* Ticlopidine, clopidogrel, Prasugrel - they block ADP mediated platelet activation by irreversible antagonism of P2 Yl2 receptor on ADP. Can grelor and ticagrelor - are reversible antagonist of ADP (P2 Y12), in contrast to ticlopidine, which is irreversible antagonist.* Dipyridamol - Inhibits phosphodiesterase - | c. AMP, It also blocks uptake of adenosine.* Epoprostinol - A prostacyclin - | c. AMP.* Abciximab, eptifibatide, tirofiban, Lamifiban - GPIIb/IIIa inhibitors.* Cilastazole is a phosphodiesterase-3 inhibitors and result in elevated c. AMP levels. It reduces platelet aggregation and also passess peripheral vasodilatory action. It can be used for the treatment of intermittent claudication.",
-        "cop": 2,
-        "opa": "Ticlopidine",
-        "opb": "Tirofiban",
-        "opc": "Clopidogrel",
-        "opd": "Prasugel",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "a4948be8-dd4f-46b9-ae4f-ed2698dc0d1e",
-        "choice_type": "multi"
-    },
-    {
         "question": "RAVULIZUMAB is a new drug approved for treatment of?",
         "exp": "RAVULIZUMAB: It is monoclonal antibody against C5 complement component. PNH is a rare acquired disorder that leads to hemolysis. Ravulizumab is a longest acting complement inhibitor that prevents hemolysis. Given intravenously every 8 weeks. Another monoclonal antibody against C5, eculizumab is given every 2 weeks. It carries a black box warning of risk of meningococcal infection / sepsis. Therefore patient should be vaccinated for meningococcal disease. VOXELOTOR is used for oral treatment of sickle cell anemia. GIVOSIRAN is used for Acute hepatic prophyria.",
         "cop": 1,
@@ -1638,19 +1209,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Macrocytic anemia is noted with all of the following except",
-        "exp": "Except ciprofloxacin all the other three given drugs induce folate deficiency and result in macrocytic anemia. From medical pharmacology padmaja 4th edition Page no 331",
-        "cop": 4,
-        "opa": "Phenytoin",
-        "opb": "Methotrexate",
-        "opc": "Pyrimethamine",
-        "opd": "Ciprofloxacin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "8dfc712b-a9dc-4fa2-ae89-45fe9276c59d",
-        "choice_type": "multi"
-    },
-    {
         "question": "With respect to ticlopidine, clopidogrel:",
         "exp": "Ticlopidine and clopidogrel are ADP antagonists and are used as antiplatelet drugs. Antiplatelet action, chances of bleeding and formation of antibodies is similar with these two agents. Clopidogrel is better tolerated because it is less likely to cause severe neutropenia and thrombocytopenia as compared to ticlopidine. Leukopenia seen in the first three months of treatment of ticlopidine around 1 % of the patients.",
         "cop": 2,
@@ -1662,19 +1220,6 @@
         "topic_name": "Hematology",
         "id": "b2945f40-b3aa-4792-aa12-9b196219362e",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are adverse effects of unfractionated heparin except:-",
-        "exp": "Adverse effects of heparin are B: Bleeding O: Osteoporosis T: Thrombocytopenia H: Hyperkalemia A: Alopecia",
-        "cop": 3,
-        "opa": "Alopecia",
-        "opb": "Osteoporosis",
-        "opc": "Thrombocytosis",
-        "opd": "Bleeding",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "77fbbcb8-5d41-4ea2-a183-1c21f09d4c41",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following anticoagulants doesnot require routine laboratory coagulant profile monitoring?",
@@ -1703,19 +1248,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Uses of platelet activating factor (PAF) are all EXCEPT",
-        "exp": "(Congestive heart failure) (182-83-KDT 6th). Pathophysiological role of PAF 1. Inflammation - Generated by leukocytes at the site of inflammation, PAF appears to participate in the causation of vasodilation, exudation, cellular infiltration and hyperalgesia2. Bronchial asthma - producing prolonged airway hyper- reactivity 3. Anaphylactic (and other) shock conditions4. Haemostasis and thrombosis 5. Rupture of mature graffian follicle and implantation6. Ischaemic states of brain, heart and g. i. t including GIT. ulceration. Platelet Activating Factor (PAF) - is a cell membrane derived polar lipid with intense biological activity* PAF is acetyl-glyceryl ether- phosphoryl choline* PAF antagonist is - ginkgolide - BPlatelet - Aggregation Inhibitors - Abciximab, Aspirin, Clopidogrel, Dipyridamole, Eptifibatide, Ticlopidine, Tirofiban. Anticoagulants - Argatroban, Dalteparin, Enoxaparin, Fondaparinus, Heparin, Lepirudin, Warfarin",
-        "cop": 4,
-        "opa": "Rupture of mature graffian follicle and implantation",
-        "opb": "Haemostasis and thrombosis",
-        "opc": "Bronchial asthma",
-        "opd": "Congestive heart failure",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "ac677183-015a-4ee7-a1a7-b5ea3d1d8107",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drugs should not be administered concomitantly with warfarin as it decreases the effect of oral anticoagulants?",
         "exp": "Estrogen increases the synthesis of various clotting factors and produce a hypercoagulable state. Thus OCP containing estrogen decrease the effectiveness of warfarin and other oral anticoagulants.",
         "cop": 4,
@@ -1740,32 +1272,6 @@
         "topic_name": "Hematology",
         "id": "67df5a6a-02cf-4ad8-80ab-2d73cc11176f",
         "choice_type": "single"
-    },
-    {
-        "question": "Heparin is the commonly used anticoagulant in cardiac surgery. All of the following are true about heparin except",
-        "exp": "Refer KDT 6/e p 597 Heparin is the strongest organic acid found in human being It acts by activating AT-3 that inhibits factor CA and 2a Most commercial preparations of heparin are derived from ox lung and pig intestine",
-        "cop": 1,
-        "opa": "Weakest acid found in living beings",
-        "opb": "Most commercial preparations of heparin are derived from pig intestine",
-        "opc": "Acts antithrombin activation",
-        "opd": "Produce thrombocytopenia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "73a426c5-734d-4fb4-8370-6237b395e68d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following statements about unfractionated heparin are true except:-",
-        "exp": "Heparin Warfarin 1. Route of administration parenteral (IV, SC) Oral 2. Onset of action Rapid Delayed (1-3 days) 3. Activity In vitro and in vivo In vivo only 4. MOA Activates Antihrombin III | Activation of II, VII, IX, X 5 Monitoring by a. PTT PT 6. Antagonist Protamine sulphate Vit. K1 (Phytonadione) 7. Placental barrier Does not cross placenta Fetal warfarin syndrome 8. Use To initiate therapy For maintenance",
-        "cop": 1,
-        "opa": "It is a powerful anticoagulant only in vivo",
-        "opb": "Protamine sulfate is the antidote",
-        "opc": "It should not be given by intramuscular route",
-        "opd": "It acts by inhibiting factor IIa and Xa",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "3ad3c129-f633-4573-8270-89df963a9f68",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is an example of low molecular weight heparin?",
@@ -1820,19 +1326,6 @@
         "choice_type": "single"
     },
     {
-        "question": "An old lady came with complaint of pain in left calf region. A diagnosis of deep vein thrombosis (DVT) was made and she was put on warfarin therapy. After 3 months, she was brought to hospital with complaint of nose bleed which automatically stopped in few minutes. Her lab repos show INR of 7. 0. To avoid hemorrhage, what to do next in addition to discontinuation of the drug?",
-        "exp": "Vit K acts as a cofactor in the synthesis of clotting factors II, VII, IX and X by liver. Warfarin works as an anticoagulant by inhibiting vitamin K epoxide reductase (VKOR) in the liver. Inhibition of VKOR decreases the synthesis of clotting factors. Overdose of warfarin can result in bleeding. Haematuria is usually first to occur. Other common sites of bleeding are - GIT, nose, and under the skin ecchymoses. Excessive anticoagulant effect and bleeding from warfarin can be prevented by stopping the drug and administering oral or parenteral vitamin K1 (phytonadione). Acute bleeding can be treated by four factor complex or fresh-frozen plasma.",
-        "cop": 2,
-        "opa": "Desmopressin",
-        "opb": "Vitamin K1",
-        "opc": "Factor VIII",
-        "opd": "Protamine sulfate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "da9d12fa-dc39-4e38-a8f3-803c81f84310",
-        "choice_type": "multi"
-    },
-    {
         "question": "Aspirin prolongs bleeding by inhibiting the synthesis of which of the following?",
         "exp": "Aspirin inactivates cyclo- oxygenase by irreversible acetylation of the enzyme and thereby inhibit the synthesis of thromboxane A2 even in low doses (75mg/day). From medical pharmacology padmaja 4th edition page no 344",
         "cop": 4,
@@ -1872,19 +1365,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following cause hypertension except",
-        "exp": "NSAIDS- Cause retention of sodium and water causing edema and also decreases the effects of antihypeensive drugs. Hypertension is more common in coxib users than NSAIDS. Cyclosporine- May cause hypertension in 50% of renal transplants and in almost all cardiac transplants. L-Dopa- Peripheral decarboxylation of L-Dopa releases dopamine which in circulation may activate vascular dopamine receptors and cause ohostatic hypotension. Administration of Ldopa with nonspecific MAO inhibitors may precipitate a hypeensive crisis and hyperpyrexia. Drugs Causing Hypertension a. Clonidine withdrawal b. Coicotropin c. Cyclosporine d. Erythropoietin e. MAO inhibitors with sympathomimetic f. NSAIDS (some) g. OCP h. Sympathomimetic i. TCA with sympathomimetics",
-        "cop": 2,
-        "opa": "NSAID",
-        "opb": "L-Dopa",
-        "opc": "Cyclosporine",
-        "opd": "Erythropoietin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "bf191637-62e1-4a6c-bf29-56dddb6cf3fc",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient Amit Kumar is suffering from atherosclerosis. Which of the following is the most beneficial drug for prevention of stroke in this patient?",
         "exp": "Antiplatelet drugs are used for the prophylaxis of aerial thrombotic conditions like stroke and MI. Atrial fibrillation increases the risk of thromboembolism and can result in stroke.",
         "cop": 1,
@@ -1911,32 +1391,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Heparin inactivates all of the following clotting factors except -",
-        "exp": "Ans. is 'd' i. e., Vila Anticoagulant action of heparin* Anticoagulant Heparin is a powerful and instantaneously acting anticoagulant, effective bothin vivo and in vitro.* It acts indirectly by activating plasma antithrombin III (AT III, a serine proteinase inhibitor).* The heparin-AT III complex then binds to clotting factors of the intrinsic and common pathways (Xa, Ha, IXa, XIa, XIIa and XIIIa) and inactivates them but not factor Vila operative inthe extrinsic pathway.* At low concentrations of heparin, factor Xa mediated conversion of prothrombin to thrombin is selectively affected.* The anticoagulant action is exerted mainly by inhibition of factor Xa as well as thrombin (IIa)mediated conversion of fibrinogen to fibrin.* Low concentrations of heparin prolong a. PTT without significantly prolonging PT. High concentrations prolong both. Thus, low concentrations interfere selectively with the intrinsic pathway, affecting amplification and continuation of clotting, while high concentrations affect the common pathway as well.",
-        "cop": 4,
-        "opa": "Ha",
-        "opb": "Xa",
-        "opc": "XIIa",
-        "opd": "VIIa",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "adb479ae-3c5a-416f-bfc1-c54dfa36a7da",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statements is false about unfractionated heparin?",
-        "exp": "Heparins act by activating anti-thrombin III (not inhibition) Unfractionated heparin acts by activating antithrombin III (AT III) in plasma. Normally AT III inactivates several clotting factors, most impoantly factor Xa and IIa (thrombin) but the reaction is very slow. Heparin accelerates this inactivation process by binding to ATIII and inducing the conformational change in it to expose the binding sites. Only conformational change is required for inactivation of factor Xa whereas inactivation of thrombin is also dependent on formation of scaffolding by heparin (that binds both ATIII and IIa). Unfractionated heparin provides this scaffolding and thus inhibits both factor IIa and Xa whereas LMW heparins and fondaparinux only cause conformational change in ATIII and thus inhibit only factor Xa. As heparin inhibits already activated factors, so there is no time lag between the administration and action of this drug, therefore it can be used both in vivo as well as in vitro.",
-        "cop": 3,
-        "opa": "It is effective both in-vitro and in-vivo",
-        "opb": "It inhibits factor Xa",
-        "opc": "It inhibit anti-thrombin III",
-        "opd": "It inhibit factor IIa",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "441494b1-86bd-432c-8092-442eae146533",
-        "choice_type": "multi"
-    },
-    {
         "question": "The action of Fondaparinux includes?",
         "exp": "Fondaparinux is an example for low molecular weight heparin - used as an anticoagulant. Ref: Goodman Gillman 12th ed; pg 857.",
         "cop": 4,
@@ -1961,19 +1415,6 @@
         "topic_name": "Hematology",
         "id": "b85a4af4-3710-4d7c-bead-555541b32abb",
         "choice_type": "single"
-    },
-    {
-        "question": "A diabetic female on INH and rifampicin for TB developed DVT. She was staed on warfarin, PT is not raised, and next step should be:",
-        "exp": "Rifampicin is a microsomal enzyme inducer and hence enhances the metabolism of warfarin. Hence warfarin can be replaced with a LMWH as the treatment is to stop warfarin. Acenocoumarin is a coumarin derivative similar to warfarin. From medical pharmacology padmaja 4th edition Page no 339, 340",
-        "cop": 4,
-        "opa": "Increase the dose of warfarin",
-        "opb": "Replace warfarin with acenocoumarin",
-        "opc": "Switch ethambutol for rifampicin",
-        "opd": "Use LMW heparin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "3c8d7c7a-80c5-4680-9dea-cf33354ec342",
-        "choice_type": "multi"
     },
     {
         "question": "A patient of chronic renal failure maintained on intermittent haemodialysis has anemia not responding to iron therapy. Which of the following additional drug is indicated",
@@ -2028,19 +1469,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following plasminogen activator (fibrinolytic) can be given as bolus dose in patients with acute myocardial infarction:",
-        "exp": "Essentials of medical pharmacology, seventh edition, page no =627 Answer is option3, reteplase It is a modified form of -PA that is longer acting, but somewhat less specific for fibrin bound plasminogen. The longer duration of action enables bolus dose administration, 10mg over 10 minutes repeated after 30minutes.",
-        "cop": 3,
-        "opa": "Urokinase",
-        "opb": "Alteplase",
-        "opc": "Reteplase",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "94d9ce43-6569-4e5b-a80a-767d01220f03",
-        "choice_type": "multi"
-    },
-    {
         "question": "Coumarin necrosis occurs due to:",
         "exp": "Ref: Goodman & Gillman 13th ed. P 593-94* Warfarin (one of coumarin derivative) is an oral antagonist acts by antagonizing vitamin K dependent factors.* Vitamin K dependent clotting factor: II, VII, IX, X* Vitamin K dependent anticlotting factors: Protein C and Protein S* Warfarin is administered as a racemic mixture of S- and R-warfarin.* S-Warfarin is 3- to 5-fold more potent than R-warfarin and is mainly metabolized by CYP2. C9.* Because of the long t 1/2 of coagulation factors, the antithrombotic action of warfarin is achieved in 4-5 days. SIDE EFFECTS* Bleeding: Most common side effect (risk high if INR >4)* Birth defect and abortion if administered during pregnancy (fetal warfarin syndrome)* Skin necrosis/Coumarin necrosis: Can occur 3-10 days after initiation of warfarin. Usually due to protein C and S deficiency* Purple toe syndrome-blue tinged discoloration of plantar surface and side of toes, that blanches with pressure. Can occur 3-8 weeks after initiation of therapy.",
         "cop": 3,
@@ -2067,32 +1495,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True statements about heparin are all EXCEPT:",
-        "exp": "Heparin can inhibit the synthesis of aldosterone and may result in hyperkalemia. All the other statements are true. From medical pharmacology padmaja 4th edition Page no 336",
-        "cop": 2,
-        "opa": "It prolongs a. PTT",
-        "opb": "Hyperkalemia is not seen",
-        "opc": "It can result in alopecia",
-        "opd": "It can cause thrombocytopenia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "f4d9d4fa-d8e6-441f-be7a-309ae7df8a57",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Folic acid:",
-        "exp": "All the given statements about folic acid are true. From essential of medical pharmacology K D Tripati 7th edition Page no 609",
-        "cop": 4,
-        "opa": "Is also called as pteroyl glutamic acid",
-        "opb": "Is useful in carriage of one carbon atom moiety",
-        "opc": "Tetrahydrofolate is the active form",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "dabf4fba-acfb-4ff1-b27b-86c9c42a3d86",
-        "choice_type": "multi"
-    },
-    {
         "question": "Tirofiban is a:",
         "exp": "Tirofiban is an antiplatlet drug that acts as a glycoprotein IIa /IIIb receptor antagonist. From medical pharmacology padmaja 4th edition Page no 343",
         "cop": 2,
@@ -2117,19 +1519,6 @@
         "topic_name": "Hematology",
         "id": "81dc7308-dcc1-4447-ad0b-b568b653bdf9",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are false regarding prasugrel, except:-",
-        "exp": "Irreversible ADP receptor antagonists(P2. Y12 receptor antagonist) are: * Prasugrel * Clopidogrel Both are prodrugs, so the metabolite formed inhibits the ADP receptor. Prasugrel is faster acting than clopidogrel and it has very high risk of causing cerebral haemorrhage. So, it is contraindicated in stroke or cerebrovascular accident. Reversible inhibitors of ADP receptor are: * Ticagrelor * Canegrelor",
-        "cop": 4,
-        "opa": "Not much metabolism in body",
-        "opb": "Slow onset of action than clopidogrel",
-        "opc": "Reversible inhibitors of ADP",
-        "opd": "Contraindicated in cerebrovascular accident",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "865b8724-150b-4315-b55d-3d5ca093f08a",
-        "choice_type": "multi"
     },
     {
         "question": "Mechanism of action of aspirin as antiplatelet drug is its inhibitory action on?",
@@ -2171,32 +1560,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are antiplatelet drugs Except",
-        "exp": "Warfarin is an oral anticoagulant. All the others are anti platelet drugs. From medical pharmacology padmaja 4th edition Page no 341, 343",
-        "cop": 4,
-        "opa": "Aspirin",
-        "opb": "Clopidogrel",
-        "opc": "Dipyridamole",
-        "opd": "Warfarin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "310e1825-e1c9-44b2-a83d-81f501f26f77",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A patient has subclinical folate deficiency. All of the following drugs can precipitate megaloblastic anemia in this patient except",
-        "exp": "Chloroquine doesnot produce megaloblastic anemia. Whereas all the other three drugs can precipitate megaloblastic anemia. From medical pharmacology padmaja 4th edition Page no 224, 399, 217, 478",
-        "cop": 3,
-        "opa": "Alcohol",
-        "opb": "Phenytoin",
-        "opc": "chloroquine",
-        "opd": "Sulfasalzine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "6ba58b64-38f0-4e93-a802-f4cb9dd18821",
-        "choice_type": "multi"
-    },
-    {
         "question": "Anticoagulant of choice for heparin induced thrombocytopenia is?",
         "exp": "Drug of choice for HIT syndrome are Direct thrombin inhibitor: Lepirudin. Direct Thrombin Inhibitor: Hirudin Lepirudin Bivalirudin Argatroban Melagatran Injectables Dabigatran: given orally Warfarin takes 4-5 days to manifest it's action.",
         "cop": 1,
@@ -2208,19 +1571,6 @@
         "topic_name": "Hematology",
         "id": "f4999a76-b48b-4578-a8f5-1c4af72c5874",
         "choice_type": "single"
-    },
-    {
-        "question": "Megaloblastic anemia is caused by all EXCEPT:",
-        "exp": "Methorexate can induce folate deficiency. Prolonged N2O anesthesia has the potential to depress bone marrow and cause peripheral neuropathy. Primidone is similar to phenytoin that is induces folate deficiency. From medical pharmacology padmaja 4th edition Page no 331 and Essential of medical pharmacology K D Tripati 7th edition page no 378",
-        "cop": 1,
-        "opa": "Aspirin",
-        "opb": "primidone",
-        "opc": "Methotrexate",
-        "opd": "N2O",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "3e694c30-1e73-4617-9a41-7dff9cc7503c",
-        "choice_type": "multi"
     },
     {
         "question": "Eltrombopag is a:",
@@ -2249,19 +1599,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about warfarin, except",
-        "exp": "It&; s dose should be reduced in liver and renal impairment as it is metabolized by glucoronide conjugation and is excreted by urine. From medical pharmacology padmaja 4th edition Page no 339, 341",
-        "cop": 4,
-        "opa": "It inhibits the activation of vitamin K dependent cloting factors",
-        "opb": "Its half life is 36 hours",
-        "opc": "It can cross placenta",
-        "opd": "Its dose is increased in liver disease",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "f9548933-44b9-4c8a-9986-63956acdcfb3",
-        "choice_type": "multi"
-    },
-    {
         "question": "The difference between iron sorbitol-citric acid and iron dextran is that the former:-",
         "exp": "Iron sorbitol citrate should not be used i. v. because it may rapidly saturate the transferrin receptors and which can result in Iron toxicity due to more free Iron. IRON - DEXTRAN IRON-SORBITOL-CITRATE can be given i/v or i/m only i/m not excreated in urine about 30% excreated in urine absorbed through lymphatics absorbed directly in circulation not bound to transferrin bound to transferrin & may saturate it when given in high doses",
         "cop": 1,
@@ -2286,19 +1623,6 @@
         "topic_name": "Hematology",
         "id": "98516909-3260-4790-9cad-410396e6555e",
         "choice_type": "single"
-    },
-    {
-        "question": "Drugs used in acute myocardial infarction are all EXCEPT:",
-        "exp": "Tissue plasminogen activators are used in acute MI (not the inhibitors) Thrombolytic agents like streptokinase, urokinase, alteplase and reteplase are used to lyse the thrombus. Antiplatelet drugs like aspirin are staed to prevent the re-infarction. Thrombolytics reduces moality in the treatment of MI if the patient arrives within 12 hours",
-        "cop": 1,
-        "opa": "Plasminogen activation inhibitors",
-        "opb": "Thrombolytics",
-        "opc": "Antiplatelet drugs",
-        "opd": "Alteplase",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "e5bd8aa4-aa16-4c24-9039-a249c7e06885",
-        "choice_type": "multi"
     },
     {
         "question": "Mechanism of action of apixaban is:-",
@@ -2353,19 +1677,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient was taking warfarin and INR comes out to be 8. Next step would be to stop the drug and:-",
-        "exp": "Management of warfarin overdose is done as follows: *INR < 5 but above therapeutic range - Discontinue warfarin temporarily and resta at low dose. *INR 5-9 - Vitamin K1 (1 mg oral) *INR > 9 but no bleeding - Vitamin K1 (2 - 3 mg oral) *INR > 20 or bleeding - Four factor prothrombin complex or Fresh frozen plasma.",
-        "cop": 2,
-        "opa": "Resta at a lower dose once the INR is in therapeutic range",
-        "opb": "Give oral vitamin K1",
-        "opc": "Administer fresh frozen plasma",
-        "opd": "Transfuse fresh blood",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "7bd6b4c1-0dfb-42ef-b894-72aaf3cd9875",
-        "choice_type": "multi"
-    },
-    {
         "question": "Route of administration of LMWH for prophylaxis of thrombosis in a patient who had undergone surgery few hours back is:",
         "exp": "Ans. (A) i. e. Subcutaneous(Ref: Goodman Gilman 13thed; pg. 589)LMWH and fondaparinux can be used by subcutaneous route once a day for both treatment and prophylaxis of thrombosis. Unfractionated heparin can be used by subcutaneous route twice a day for prophylaxis and by intravenous route four times a day for treatment of thrombosis.",
         "cop": 1,
@@ -2377,32 +1688,6 @@
         "topic_name": "Hematology",
         "id": "41832512-cfad-4649-86f3-c325945f834f",
         "choice_type": "single"
-    },
-    {
-        "question": "Aspirin in very low doses inhibits the formation of:-",
-        "exp": "Aspirin inhibits COX enzyme irreversibly and thus results in decreased synthesis of TXA2 as well as PGI2. TXA2 is produced by platelets and as platelets do not contain nuclei, TXA2 is not synthesized till there is production of fresh platelets, whereas vessel wall contains nucleus and thus can resume the synthesis of enzymes required for the formation of prostacyclins. The net effect is inhibition of TXA2 synthesis leading to anti-aggregatory effects.",
-        "cop": 2,
-        "opa": "Prostaglandin F2",
-        "opb": "Thromboxane A2",
-        "opc": "Prostaglandin I2",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "d32b6fab-ea3c-4ba4-aaa0-c94fab149634",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Heparin therapy should be monitored with intermittent estimation of:",
-        "exp": "a. PTT is maintained 1. 5 - 2 times the normal mean a. PTT value. Clotting time is maintained at 1. 8 - 2. 5 times the normal mean a. PTT value. From medical pharmacology padmaja 4th edition Page no 335",
-        "cop": 2,
-        "opa": "Bleeding time",
-        "opb": "a. PTT",
-        "opc": "Prothrombin time",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "8d5122af-0295-40e2-8e78-2e09cd2204d0",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drug is a direct inhibitor of clotting factor Xa?",
@@ -2442,45 +1727,6 @@
         "topic_name": "Hematology",
         "id": "6fa2b704-5dc8-4b73-88e8-2eacd895a88a",
         "choice_type": "single"
-    },
-    {
-        "question": "True about oral anticoagulant warfarin are all EXCEPT:",
-        "exp": "* Oral anticoagulant is warfarin. It is used only in vivo (body), not in vitro (lab).* Warfarin is not used to store blood.* It acts by inhibiting Vitamin K. Due to overdose, hematuria is the first manifestation noted.* Dose monitoring is done by INR.* Antidote of warfarin overdose: Vitamin KPT (Prothrombin Time)a. PTT (activated Partial Thromboplastin Time). Assess activity of Extrinsic coagulation pathway Used when on warfarin treatment. We. PT: Warfarin for extrinsic; PT value assessed. Assess activity of Extrinsic coagulation pathway. Used while on heparin treatment. HINT: Heparin for Intrinsic; a. PTT value assessed.",
-        "cop": 2,
-        "opa": "Acts in vivo",
-        "opb": "Acts both in vivo and in vitro",
-        "opc": "Interferes with synthesis of Vit K",
-        "opd": "Causes Hematuria",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "a23293ff-bdb6-42c8-a9c0-3aa6c2fd3a66",
-        "choice_type": "multi"
-    },
-    {
-        "question": "LMW heparin is preferred over unfractionated heparin because:",
-        "exp": "LMW heparin inhibit factor Xa only and have a weak effect on thrombin, a. PTT, or CT are not prolonged. Heparin acts by activation of antithrombin III. LMW heparin is given subcutaneosly due to better bioavalability. LMW heparin have subcutaneous bioavalability of 70 - 90%. From medical pharmacology padmaja 4th edition Page no 337",
-        "cop": 4,
-        "opa": "LMW heparin directly inhibit thrombin whereas unfractionated heparin acts activation of anti thrombin",
-        "opb": "LMW heparins have higher risk of causing bleeding",
-        "opc": "LMW heparin can be given subcutaneously as well as orally",
-        "opd": "LMW heparin has consistent bioavailability.",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "6840b7b5-f280-4252-87b2-2592cffd7e16",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following statements are true about warfarin except:-",
-        "exp": "WARFARIN It acts by inhibiting the activation of vitamin K dependent clotting factors. These factors include clotting factors II, VII, IX and X. Half life of warfarin is 36-48 hours. Bleeding is the most common adverse effect of all anticoagulants. If a patient develops bleeding due to overdose of warfarin, fresh frozen plasma (to supply clotting factors) is the treatment of choice but specific antidote is vitamin K1 (but the action will be delayed). It crosses the placenta and can cause fetal warfarin syndrome; also known as Contradi syndrome (growth retardation, stippled epiphyses, hypoplasia of nose and hand bones etc.) if used during pregnancy (therefore contraindicated). Prothrombin time is used to adjust the dose of warfarin (because it mainly affects the extrinsic pathway). Better test for monitoring the effect of oral anticoagulants is INR (international normalized ratio). In liver disease, there is decrease in formation of clotting factors. The dose of warfarin therefore should be reduced.",
-        "cop": 4,
-        "opa": "It inhibits activation of vitamin K dependent clotting factors",
-        "opb": "It can cross placenta",
-        "opc": "Its half-life is approximately 36 hours",
-        "opd": "Its dose should be increased in liver disease",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematology",
-        "id": "e59d038a-1785-4938-b9be-57d93df402cc",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drug is used postop to reverse the effect of heparin used intraoperatively in cardiac surgery?",

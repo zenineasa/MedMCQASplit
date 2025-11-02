@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A cold exposure which is expected to bring the body temperature from 37degC to 20degC, actually brings it down to only 36. 5degC. Calculate the 'Gain' of the thermoregulatory system.",
-        "exp": "Gain = Correction/Error Cold exposure causes body temperature to fall from 37 to 36. 5degC in presence of thermoregulatory system, so error is 37-36. 5=0. 5degC If thermoregulatory system would not be working the body temperature would have become 20degC. But due to thermoregulatory system body temperature was 36. 5degC on exposure to cold. So, the correction done by thermoregulatory mechanisms: 36. 5-20=16. 5degC Gain = 16. 5/0. 5 = 33",
-        "cop": 3,
-        "opa": "0. 54",
-        "opb": "1. 03",
-        "opc": "33",
-        "opd": "24",
-        "subject_name": "Physiology",
-        "topic_name": "Concepts in physiology",
-        "id": "e805fc9a-b6d8-4171-8fc2-2a8163b884bc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Resting membrane potential is mainly due to:",
         "exp": "Nernst equilibrium potential for K+ =-94 mV is much close to RMP value of -90mV in nerves Nernst equilibrium potential for Na+= +61mv Hence RMP is close to or mainly due to K+ ion.",
         "cop": 2,

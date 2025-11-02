@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The pathological feature in Wegener's granulomatosis on renal biopsy is:",
-        "exp": "Wegener's Granulomatosis: The renal lesions range from a mild/ early disease, where glomeruli show acute focal necrosis with thrombosis of isolated glomerular capillary loops (focal and segmental necrotizing glomerulonephritis). Advanced glomerular lesions are characterized by diffuse necrosis and parietal cell proliferation to form crescents (crescentic glomerulonephritis).",
-        "cop": 2,
-        "opa": "Nodular glomerulosclerosis",
-        "opb": "Focal necrotizing glomerulonephritis",
-        "opc": "Granulomas in the vascular wall",
-        "opd": "Granuloma of parenchyma of kidney",
-        "subject_name": "Pathology",
-        "topic_name": "Nephrotic Syndrome",
-        "id": "c35dea1a-2f58-4ca0-8d06-209c4a9db943",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Looking at the serum protein electrophoresis above, which of the following is the likely diagnosis of the patient?",
-        "exp": "In the given graph, there is | albumin, | alpha-2 globulin, |in gamma globulin. Tuberculosis -gamma globulins increase. Multiple myeloma -M-spike due to rise in gamma globulins. Liver cirrhosis- Decrease in function of liver due to which all proteinswill decrease. Nephrotic syndrome Albumin appears in urine, thus albumin decrease in blood. alpha2 globulin is a larger protein which can not cross glomerular membrane. alpha2 globulin increases in serum.",
-        "cop": 3,
-        "opa": "Tuberculosis",
-        "opb": "Multiple myeloma",
-        "opc": "Nephrotic syndrome",
-        "opd": "Liver cirrhosis",
-        "subject_name": "Pathology",
-        "topic_name": "Nephrotic Syndrome",
-        "id": "2ac74e87-59ad-4265-bfda-a202ab7145b8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Finnish type of nephrotic syndrome is associated with mutations of which of the following?",
         "exp": "NPHS1 gene mutations = Congenital nephrotic syndrome of the Finnish type, producing a minimal-change disease like glomerulopathy with extensive foot process effacement. NPHS1 is located on chromosome 19q13 and encodes the protein nephrin.",
         "cop": 1,
@@ -76,19 +50,6 @@
         "topic_name": "Nephrotic Syndrome",
         "id": "aa0849c4-c3f7-4f24-82d4-a08383f31116",
         "choice_type": "single"
-    },
-    {
-        "question": "A person with radiologically confirmed reflux nephropathy develops nephrotic range proteinuria. Which of the following would be the most likely histological finding in this patient?",
-        "exp": "Focal segmental glomerulosclerosis It is the most common cause of nephrotic syndrome in adults. Sclerosis is seen in only segment of glomerulus. It is associated with HIV infection, reflux nephropathy & definitive association with sickle cell disease. The patient presents with nephrotic range proteinuria too.",
-        "cop": 1,
-        "opa": "Focal segmental glomerulosclerosis",
-        "opb": "Nodular glomerulosclerosis",
-        "opc": "Membranous glomerulopathy",
-        "opd": "Proliferative glomerulonephritis with crescents",
-        "subject_name": "Pathology",
-        "topic_name": "Nephrotic Syndrome",
-        "id": "afbfe8bb-0833-4587-821a-8093bff6b5f8",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is the characteristic histological feature of HIV associated collapsing glomerulopathy?",

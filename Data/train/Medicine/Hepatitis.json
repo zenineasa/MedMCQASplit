@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true regarding chronic active hepatitis, except:",
-        "exp": "Chronic hepatitis is defined as a chronic inflammatory reaction of the liver of more than 3-6 months duration, demonstrated by persistently abnormal serum aminotransferase levels and characteristic histologic findings. The causes of chronic hepatitis include. HBV, HCV and HDV autoimmune hepatitis, chronic hepatitis associated with ceain medications (paicularly isoniazid), Wilson's disease, and antiprotease deficiency. Autoimmune hepatitis responds to steroids and is more common in females with 4: 1 ( F: M) ratio.",
-        "cop": 2,
-        "opa": "Common in females",
-        "opb": "Progression to cirrhosis is not seen",
-        "opc": "Remission with steroids",
-        "opd": "May associate with autoimmune disease",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "14fa16a8-1f89-4de9-9e85-f4ab360f5f2a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A patient with acute viral hepatitis should undergo the following tests except?",
-        "exp": "For Acute Viral hepatitis patient should evaluable for Hep A Hep B Hep C IgM anti HAV lgM anti HBc. Ag Anti-HCV antibody *If Hep A, B, C is negative then it is Hep D Impoant Diagnostic Test in Common Liver Disease DISEASE DIAGNOSTIC TEST Hepatitis A Anti-HAV IgM Hepatitis B Acute Chronic HBs. Ag and anti-HBc IgM HBs. Ag and HBe. Ag and/or HBV DNA Hepatitis C Anti-HCV and HCV RNA Hepatitis D (delta) Anti-HDV Hepatitis E Anti-HEV IgM and HEV RNA",
-        "cop": 4,
-        "opa": "IgM- anti HAV",
-        "opb": "IgM- anti- HBc. Ag",
-        "opc": "Anti-HCV antibody",
-        "opd": "Anti- HDV antibody",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "8db57cac-5845-4b6a-a4fa-2888072f5a5c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Granulomatosis hepatitis is not caused by:",
         "exp": "Granulomatous hepatitis is a cause of pyrexia of unknown origin and granulomas are picked up on CT scan or USG abdomen. It is associated with infections like tuberculosis, cat scratch disease, blastomycosis, histoplasmosis.",
         "cop": 2,
@@ -63,19 +37,6 @@
         "topic_name": "Hepatitis",
         "id": "67e34020-3bf1-4ab8-a263-38d10573ee58",
         "choice_type": "single"
-    },
-    {
-        "question": "Tender hepatomegaly is seen in all except?",
-        "exp": "Tender hepatomegaly * CHF (acute) * Viral hepatitis * Amoebic liver abscess Reye syndrome - Anicteric hepatitis with combination of Aspirin + V. Zoster",
-        "cop": 4,
-        "opa": "CHF (Acute)",
-        "opb": "Viral hepatitis",
-        "opc": "Amoebic liver abscess",
-        "opd": "Reye syndrome",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "59fb9c73-bd88-4125-904d-0d48663e3d9c",
-        "choice_type": "multi"
     },
     {
         "question": "Treatment for alcoholic hepatitis with discriminant function of >32 is?",
@@ -117,19 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about hepatitis with HCV is:",
-        "exp": "Genotyping is helpful for predicting the likelihood of response and duration of treatment. Patients with genotypes 1 and 4 are generally treated for 12 months, whereas 6 months of treatment is sufficient for other genotypes. Genotyping can be performed by direct sequence analysis, reverse hybridization to genotype-specific oligonucleotide probes, or restriction fragment length polymorphisms(RFLPs).",
-        "cop": 3,
-        "opa": "Present with fulminant liver failure",
-        "opb": "Chronicity is not seen",
-        "opc": "Genotyping helps in treatment duration",
-        "opd": "Feco/oral transmission",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "0fe3f919-414c-475b-a89d-ecd9c7459185",
-        "choice_type": "multi"
-    },
-    {
         "question": "Treatment for genotype 1a of hepatitis C",
         "exp": "- Hepatitis C genotypes and their treatment Genotype 1a Ledipasvir + sofosbuvir Genotype 1b Ledipasvir + sofosbuvir Genotype 2 Sofosbuvir + velpatasvir Genotype 3 Sofosbuvir + velpatasvir Genotype 4 Sofosbuvir + velpatasvir Genotype 5, 6 Sofosbuvir + velpatasvir",
         "cop": 1,
@@ -143,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which statement is wrong regarding Hepatitis B?",
-        "exp": "Hepatitis B It is the only hepadna virus causing infection in humans It comprises capsule and a core containing DNA and DNA polymerase enzymes. Blood is the main source of infection Chronic HBV infection is marked by the presence of HBs. Ag and Anti HBc IgG in the blood.",
-        "cop": 1,
-        "opa": "It is due to RNA virus",
-        "opb": "Blood is the main source of infection",
-        "opc": "Chronicity is present",
-        "opd": "It may turn into hepatocellular carcinoma",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "9b9618e2-ddf9-4b2d-b0fd-a196c739e7b5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Incubation period of hepatitis B is:",
         "exp": "Incubation period of hepatotrophic viruses Virus Incubation period Hepatitis A 15-45 days Hepatitis B 30-180 days with average of 75 days Hepatitis C 15-160 days Hepatitis D 30-180 days Hepatitis E 14-60 days",
         "cop": 1,
@@ -167,19 +102,6 @@
         "topic_name": "Hepatitis",
         "id": "6f38fef9-aaa4-4358-a975-1dbf156c7a4c",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following are used for treatment of chronic Hepatitis B except?",
-        "exp": "Entecavir Entecavir, an oral cyclopentyl guanosine analogue polymerase inhibitor, appears to be the most potent of the HBV antivirals. Telbivudine Telbivudine, a cytosine analogue, appears to be similar in efficacy to entecavir; however, it is slightly less potent in suppressing HBV DNA. Lamivudine Lamivudine inhibits reverse transcriptase activity of both HIV and HBV and is a potent and effective agent for patients with chronic hepatitis B.",
-        "cop": 3,
-        "opa": "Entecavir",
-        "opb": "Telbivudine",
-        "opc": "Zidovudine",
-        "opd": "Lamivudine",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "bf329486-5744-4ddb-885d-7d8f10289029",
-        "choice_type": "multi"
     },
     {
         "question": "The following is a marker of acute hepatitis B infection",
@@ -258,19 +180,6 @@
         "topic_name": "Hepatitis",
         "id": "5fef85fc-76d9-4fd5-bf0b-934051b7f16b",
         "choice_type": "single"
-    },
-    {
-        "question": "HCV is associated with:",
-        "exp": "Cross-reactivity between viral antigens (HCV NS3 and NS5A) and host autoantigens (cytochrome P450, 2. D6) has been invoked to explain the association between hepatitis C and a subset of patients with autoimmune hepatitis and antibodies to Liver-Kidney Microsomal (LKM) antigen.",
-        "cop": 2,
-        "opa": "Autoimmune cirrhosis",
-        "opb": "LKM antibody",
-        "opc": "Antimitochondrial antibody",
-        "opd": "None",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "7b0de599-ecd7-498e-a622-9400e68406d2",
-        "choice_type": "multi"
     },
     {
         "question": "Chance of acquiring hepatitis by eye splash with hepatitis B positive patient blood:",
@@ -390,19 +299,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Patient comes for blood donation but he has HBs Ag and HBe. Ag positive, and serum transaminases level is normal. What would be the next step in management?",
-        "exp": "Since the patient has voluntarily donated blood it implies that he does not have any active liver disease. Recommendations for Treatment of Chronic Hepatitis B HBe. Ag Clinical HBV DNA ALT Recommendation Reactive Inactive/ mild disease >2 X 104 <2X Upper limit of normal No treatment; monitor. In patients >40, with family history of hepatocellular carcinoma, and/or ALT persistently at the high end of the two fold range, liver biopsy may help in decision to treat. Reactive Chronic hepatitis >2 X 104 >2X Upper limits of normal Treat Reactive Chronic compensated >2 X 103 Upper limits of normal Treat with oral agents, not PEG IFN Reactive Cirrhosis transplantation Detectable Upper limits of normal Treat with oral agents, not PEG IFN Refer for transplantation for Liver Undetectable Upper Limits of normal Observe; refer for liver transplantation",
-        "cop": 2,
-        "opa": "Treat with interferon",
-        "opb": "HBV DNA estimation",
-        "opc": "Liver biopsy",
-        "opd": "Observation",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "f5c7410d-92da-4d2a-8ccb-7a6f1cb32e14",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hbs. Ag carrier state is not associated with:",
         "exp": "Glomerulonephritis with the nephrotic syndrome is observed occasionally; HBs. Ag, Ig and C3 deposition has been found in the glomerular basement membrane. Polyaeritis Nodosa develops in fewer than 1% of patients with chronic HBV infection, 20-30% of patients with PAN have HBs. Ag in serum. Due to decreased humoral response and repeated admissions in hospital in childhood patients of Down's have a higher prevalence of hepatitis B infection.",
         "cop": 4,
@@ -414,19 +310,6 @@
         "topic_name": "Hepatitis",
         "id": "036e5095-b70f-47b6-ab76-b205d994326e",
         "choice_type": "single"
-    },
-    {
-        "question": "A 26 years old man was found to be HBs. Ag positive but HBe. Ag negative and ALT/AST normal, what will be the next step in his management?",
-        "exp": "ANSWER: (A) Serial monitoring. REF: Harrison's 17th ed page 1957-1962. The patient profile indicates that he is either in a non-reactive state or inactive carrier of chronic hepatitis; such patients are usually monitored sequentially. Markers for active replication - Hbe. AG, HBV- DNAAntiviral therapy is best indicated for patients with active replication. Recommendations for Treatment of Chronic Hepatitis B: HBe. Ag. Status. Clinical. HBV DNA(copies/mL)ALTRecommendation. HBe. Ag-reactive. Clinically inactive<l05. Normal(2 x ULN). No treatment; monitor Chronic hepatitis105. Normal. No treatment; current treatment of limited (2 x ULN)benefit (Some suggest liver biopsy and treating if abnormal) Chronic hepatitis105. Elevated (>2 x ULN)b. Treat Cirrhosis compensated+ or-Normal or elevated. Treat with oral agents, not PEG IFN Cirrhosisdecompensated+ or -Normal or elevated. Treat with oral agents, not PEG IFN; refer for liver transplantation. HBe. Ag-negative. Clinically inactive<104 or 105h. Normal (2 x ULN)b. Inactive carrier; treatment not necessary Chronic hepatitis104 or 105h. Normal. Consider liver biopsy; treat if biopsy abnormal Chronic hepatitis104 or 105h (>2 x ULN). Elevrated. Treat Cirrhosis compensated+ or -Elevated or normal. Treat with oral agents, not PEG IFN (some authorites recommend either following or treating for HBV DNA < 104 copies/mL). Treat with oral agents, not PEG IFN (some authorities would follow without therapy for undetectable HBV DNA; refer for liver transplantation) Cirrhosisdecompensated+ or -Elevated or normal",
-        "cop": 1,
-        "opa": "Serial monitoring",
-        "opb": "Lamivudine therapy",
-        "opc": "Lamivudine therapy along with pulsed IFN therapy",
-        "opd": "IFN alone",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "7687602e-6faa-4f90-9361-71fec50d182e",
-        "choice_type": "multi"
     },
     {
         "question": "Occult hepatitis B is:",
@@ -481,19 +364,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Extrahepatic manifestations of HCV are all except:",
-        "exp": "Extra-hepatic manifestations of hepatitis C Hematological Systemic Rheumatology Dermatology Organ dysfunction Cryoglobulinemia Ahralgia Behcet's disease Lichen myxoedematosus Diabetes Membranoproliferative glomerulonephritis Ahritis Vasculitis Porphyria cutanea tarda Cardiomyopathy Multiple myeloma Fatigue Raynaud's syndrome Pruritis Idiopathic lung fibrosis Neutropenia/ thrombocytopenia Fibromyalgia Sialadenitis Spider naevi Peripheral neuropathy Non-hodgkin's lymophoma Corneal ulceration Systemic lupus erythematous Renal failure Hypothyroidism Waldenstrom Macroglobulinaemia Vitiligo Extra edge: Polyaeritis nodosa is related to Hepatitis B>hepatitis C,",
-        "cop": 2,
-        "opa": "Lichenoid eruptions",
-        "opb": "Celiac disease",
-        "opc": "Glomerulonephritis",
-        "opd": "Cryoglobulinemia",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "e65dcfb9-ec25-4fdf-ab59-b2adfca3fa7a",
-        "choice_type": "multi"
-    },
-    {
         "question": "The commonest hepatotropic virus causing increased chronic carrier state is:",
         "exp": "* Globally, chronic HBV infection affects 350-400 million people, with disease prevalence varying among geographic regions, from 1-20%. * Most common cause of chronic hepatitis is hepatitis C but carrier stage is seen higher with hepatitis B.",
         "cop": 3,
@@ -505,45 +375,6 @@
         "topic_name": "Hepatitis",
         "id": "2e772807-2e9c-4475-ac91-83808aff21a1",
         "choice_type": "single"
-    },
-    {
-        "question": "True statement about acute hepatitis:",
-        "exp": "Ans: B (Anti-HCV...) \"Age: Infection with HAV is more frequent among children than in adult\"-Park 21st/190\"In patients with hepatitis C. an episodic pattern of aminotransferase elevation is common. A specific serologic diagnosis of hepatitis C can be made by demonstrating the presence in serum of anti-HCV. When contemporary immunoassays are used, anti-HCV can be detected in acute hepatitis C during the initial phase of elevated aminotransferase activity. This antibody may never become detectable in 5-10% of patients with acute hepatitis C, and levels of anti-HCV may become undetectable after recovery (albeit rare) from acute hepatitis C. In patients with chronic hepatitis C, anti-HCV is detectable in >95% of cases\"- Harrison 18th/2551\"The average time from exposure to seroconversion is 8-9 weeks, and about 90% of patients are anti-HCV-positive within 5 months\"- Robbins 7th/895\"Prevalence of hepatitis: HAV (Worldwide), HBV (Worldwide), HCV (Probably worldwide), HDV (Endemic area) & HEV (Only developing countries- India, Asia, Africa, and Central America)\"- Ananthanarayan 8th/547(Table)\"The B hepatitis is the most widespread & the most important type of viral hepatitis Ananthanarayan 8th/538. HCV GENOTYPE Greenwood Microbiology 16th/508. There are six main genotypes(l-6) & a no. of commoner subtypes (a, b, c)1b: Commonest genotype worldwide. Older age group, risk factors generally ill-defined2a, b, c: Foundpredominan tly in older HCV-infected individuals from Mediterranean countries & far east3a: Widely distributed in intravenous drug users, particularly from Europe",
-        "cop": 2,
-        "opa": "In HCV, genotype 2 & 3 are most prevalent worldwide",
-        "opb": "Anti-HCV antibody never present in 10% cases",
-        "opc": "HEV-commonest cause of acute hepatitis",
-        "opd": "HAV-more common in adult than children",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "8e3ab159-405b-4e55-8c19-bd79697f3048",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Antigen which does not appear in blood in hepatitis B:",
-        "exp": "Because HBc. Ag is intracellular and, when in the serum, sequestered within an HBs. Ag coat, naked core paicles do not circulate in serum and, therefore, HBc. Ag is not detectable routinely in the serum of patients with HBV infection. By contrast, anti-HBc is readily demonstrable in serum, beginning within the first 1-2 weeks after the appearance of HBs. Ag and preceding detectable levels of anti-HBs by weeks to months.",
-        "cop": 1,
-        "opa": "Hbc. Ag",
-        "opb": "Hbe. Ag",
-        "opc": "Hbs. Ag",
-        "opd": "None of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "7a7de14d-82e6-4978-87e6-015345fc9aed",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A patient is being evaluated for jaundice and liver fibrosis. His AST=87 IU/mL and ALT=81 IU/mL. His serological tests are given below. Which of the following is the next step in the diagnosis? IgM Anti- Hbc. Ag Non- reactive IgG Anti- Hbc. Ag Reactive Hbs. Ag Non-Reactive HBe. Ag Non-Reactive Anti-HCV Reactive",
-        "exp": "The serological status of this patient shows HCV infection since anti-HCV antibody is reactive. Hepatitis B surface antigen is negative and IgG Anti- HBc. Ag is reactive indicating remote infection with hepatitis B. Recovery is the rule in hepatitis B. In contrast hepatitis C results in development of cirrhosis. Even if transaminases are normal, hepatitis C results in long term damage to the liver. Hence the reason for elevated liver enzymes with development of liver fibrosis points to HCV being the culprit. The next step shall be to perform a PCR-HCV RNA and initiate treatment based on prevalent genotype in the area. Liver biopsy is ruled out as question says patient is already having fibrosis",
-        "cop": 3,
-        "opa": "HBV DNA",
-        "opb": "Anti- Hbs. Ag",
-        "opc": "HCV-RNA-PCR",
-        "opd": "Liver biopsy",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatitis",
-        "id": "b9f5ee4c-188b-4993-85b5-55e48d9f020a",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following infections is not documented to be spread sexual contact?",

@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "IOC for Acute Aoic Dissection in a Clinically Unstable patient is?",
-        "exp": "*In Acute Aoic Dissection Stable Patient-CT-Angio (MDCT with contrast) Unstable Patient-Trans. Esophageal Echo(TEE)",
-        "cop": 3,
-        "opa": "NCCT",
-        "opb": "CT-Angio",
-        "opc": "TEE",
-        "opd": "MRI",
-        "subject_name": "Radiology",
-        "topic_name": "Angiography",
-        "id": "7143ad65-5922-40a0-904b-0779bd1ed08a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most Definitive test for evaluating Intracranial aneurysms is?",
         "exp": "*Cerebral Angiography is the Gold standard for the detection of intracranial Aneurysms",
         "cop": 3,
@@ -63,32 +50,6 @@
         "topic_name": "Angiography",
         "id": "b8dc730a-a4f7-4062-a614-76ce9ad1cb3a",
         "choice_type": "single"
-    },
-    {
-        "question": "Feeding Aery and a well defined nidus is characteristic of?",
-        "exp": "Feeding Aery and Nidus is seen in True AV malformation Popcorn Appearance in Cavernous Angioma Medusa Head /Spoke wheel pattern in Venous Angioma",
-        "cop": 1,
-        "opa": "True AV malformation",
-        "opb": "Venous angioma",
-        "opc": "Cavernous angioma",
-        "opd": "Hemangioma",
-        "subject_name": "Radiology",
-        "topic_name": "Angiography",
-        "id": "d26c84be-5e39-46a7-8ff3-e7f6b65a14bb",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 26 years old man came with complaints of pain in abdomen with few episodes of haematuria. On examination, patient's BP is 160/100 mm of Hg. Patient is refractory to standard antihypeensive drugs. On renal Doppler, parvus tardus pattern was seen. Subsequently, CT renal angiogram was done. This condition as shown below may occur in all of the following except?",
-        "exp": "Among the option provided, renal aery stenosis is least likely to be seen in PAN. Causes of renal aery stenosis- Atherosclerosis, FMD, takayasu aeritis, non-specific aoo-aeritis, APLA, renal aery embolism.",
-        "cop": 4,
-        "opa": "Atherosclerosis",
-        "opb": "FMD",
-        "opc": "Takayasu aeritis",
-        "opd": "PAN",
-        "subject_name": "Radiology",
-        "topic_name": "Angiography",
-        "id": "647003a8-d4b5-44ab-8ff4-5c221f87c268",
-        "choice_type": "multi"
     },
     {
         "question": "Gold Standard investigation for pulmonary Thromboembolism?",

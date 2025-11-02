@@ -1,18 +1,5 @@
 [
     {
-        "question": "All of the following are true about neuroblastoma except?",
-        "exp": "Cafe au lait spots are associated with neurofibromatosis.",
-        "cop": 3,
-        "opa": "Diarrhea",
-        "opb": "Bone pain",
-        "opc": "Cafe-au-lait spots",
-        "opd": "Opsomyoclonus",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood malignancies",
-        "id": "3dc70df4-bc4b-44b1-a479-e2e66aae078a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Opsoclonus is associated with:",
         "exp": "Opsoclonus-myoclonus-ataxia syndrome' associated with Neuroblastoma Rapid, uncontrollable jerking eye & body movements, poor coordination",
         "cop": 1,
@@ -26,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about retinoblastoma are all except:",
-        "exp": "Retinoblastoma: AD Most common intraocular tumor of childhood Males & females are equally affected Bilateral involvement not rare",
-        "cop": 3,
-        "opa": "AD",
-        "opb": "Most common intraocular tumor of childhood",
-        "opc": "Females are more affected than males",
-        "opd": "Bilateral involvement not rare",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood malignancies",
-        "id": "3f937d28-6486-4833-87cb-6a9f04de7027",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 2-year-old male child presents with a lump in the right side of the abdomen. Ultrasound revealed it to be a solid mass. On examination, his right arm and leg were found to be longer. The most likely diagnosis is:",
         "exp": "The finding of right arm and leg to be longer suggests hemihyperophy. This is a feature of Beckwith Wiedemann syndrome associated with Wilms tumor.",
         "cop": 1,
@@ -50,18 +24,5 @@
         "topic_name": "Childhood malignancies",
         "id": "c64582ac-7f08-4106-b3d7-94c911575049",
         "choice_type": "single"
-    },
-    {
-        "question": "A 4-year-old child having palpable abdominal mass and hypertension with sweating and diarrhea is due to:",
-        "exp": "Neuroblastoma produce catecholamines- cause increased sweating and hypertension, and release vasoactive intestinal peptide, causing a profound secretory diarrhea. Nephroblastoma- abdominal mass, fever, hypertension, hematuria PCKD- enlarged kidneys, hypertension, renal failure",
-        "cop": 1,
-        "opa": "Neuroblastoma",
-        "opb": "Nephroblastoma",
-        "opc": "PCKD (Polycystic kidney disease)",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood malignancies",
-        "id": "0a52afb8-8a76-443e-9850-cae2ff8540e9",
-        "choice_type": "multi"
     }
 ]

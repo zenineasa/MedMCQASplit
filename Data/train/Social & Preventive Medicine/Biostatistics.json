@@ -1,18 +1,5 @@
 [
     {
-        "question": "For a positively skewed curve which measure of central tendency is largest",
-        "exp": "A distribution is negatively skewed, or skewed to the left, if the scores fall toward the higher side of the scale and there are very few low scores. In positively skewed distributions, the mean is usually greater than the median, which is always greater than the mode. Ref:",
-        "cop": 1,
-        "opa": "Mean",
-        "opb": "Mode",
-        "opc": "Median",
-        "opd": "All are equal",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "b1a4e1b8-fb3d-40e4-9da7-ebc8a9c0963b",
-        "choice_type": "multi"
-    },
-    {
         "question": "One standard detion in normal standard curev includes value-",
         "exp": "Ref: Parks 23rd edition pg 849. 1. SD: confidence limit = 68% 2. SD: confidence limit = 95% 3. SD: confidence limit = 99. 7%",
         "cop": 2,
@@ -104,32 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most commonly used measure of central tendency-",
-        "exp": "Ans. is 'a' i. e., Mean * The commonly used statistical average (measures of central tendency) are (i) Arithmetic mean, (ii) Median and (iii) Mode. Arithmetic mean* It is the most commonly used statistical average. It is obtained by sum of all the values divided by total number of values. Mean =[?]x----e* The major disadvantage of mean is that it may be unduly influenced by abnormal high or low values in the distribution. Median* It is the middle most value in a distribution arranged in ascending or descending order. If there are two values in the middle, instead of one, the median is worked out by taking the average of two middle values.* The main advantage of median is that it is not affected by abnormal high or low values (unlike mean). Therefore, median is used in skewed distribution (distribution which is skewed/deviated due to small number of very high or low values). Mode* It is the most frequently occuring value in a distribution. If there are two most frequent values, there are two modes and the distribution is called 'bimodal distribution In bimodal distribution the mode is the average of two modes.* For bimodal distribution. Mode = (3 x median) - (2 x mean)* Mode is the central tendency which is least affected by extreme values or skewness (But median is the preferred central tendency in skewed distribution).",
-        "cop": 1,
-        "opa": "Mean",
-        "opb": "Median",
-        "opc": "Mode",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "acecdb7b-2ae5-4281-a0f3-214ce09063b4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Area falling under 2 S. D. curve would be around -",
-        "exp": "Ref: Parks 23rd edition pg 848 The several measures of variation or dispersion of which the following are widely known: Range. The mean or Average detion The standard detion. Ref: Parks 23rd edition pg 849. 1. SD: confidence limit = 68% 2. SD: confidence limit = 95% 3. SD: confidence limit = 99. 7%",
-        "cop": 2,
-        "opa": "66%",
-        "opb": "95%",
-        "opc": "57%",
-        "opd": "99%",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "8549885d-e978-4e44-a291-bcf640bb83dd",
-        "choice_type": "multi"
-    },
-    {
         "question": "When observations are made before and after the exposure to the factor, it is -",
         "exp": "Ref: Parks 23rd edition pg 852 Tests of significance: Qualitative: Chi- square: 2 or more than 2 groups Mc Nemar test: 1 group. ( before and after intervention) Quantitative: Paired T test: 1 group Student T test/ unpaired T test: 2 groups Anova: more than 2 groups.",
         "cop": 3,
@@ -143,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Test of association between two variables is done by-",
-        "exp": "Ref: Parks 23rd edition pg 852 In order to find out whether there is significant association or not between the two variables, coefficient or Corelation is calculated. r lies between -1 and +1 r near -1: indicates strong negative correlation. r = 0: indicates no association r near +1: indicates strong positive correlation. Note: correlation does not necessarily prove causation. Chi-square test offers an alternate method of testing the significance of difference between two propoions. Advantage: it can also be used when more than 2groups are to be compared.",
-        "cop": 2,
-        "opa": "X2",
-        "opb": "Correlation",
-        "opc": "Regression",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "36f9e01c-90be-4901-a14c-277027119c46",
-        "choice_type": "multi"
-    },
-    {
         "question": "A group tested for a drug shows 60% improvement as against a standard group showing 40% improvement. The best test to test the significance of result is-",
         "exp": "Ref: Parks 23rd edition pg 852 Chi-square test offers an alternate method of testing the significance of difference between two propoions. Advantage: it can also be used when more than 2groups are to be compared. Ref: Parks 23rd edition pg 852 Tests of significance: Qualitative: Chi- square: 2 or more than 2 groups Mc Nemar test: 1 group. ( before and after intervention) Quantitative: Paired T test: 1 group Student T test/ unpaired T test: 2 groups Anova: more than 2 groups.",
         "cop": 2,
@@ -167,19 +115,6 @@
         "topic_name": "Biostatistics",
         "id": "3224c26b-8f9e-4dac-9bcb-de5473f2a3c1",
         "choice_type": "single"
-    },
-    {
-        "question": "All are measures of dispersion around central value except",
-        "exp": "The several measures of variation or dispersion of which the following are widely known Range The mean or Average detion The standard detion Ref: Park&; s Textbook of Preventive and Social Medicine; 23rd edition - Pgno. 848",
-        "cop": 2,
-        "opa": "Mode",
-        "opb": "Variance",
-        "opc": "Standard detion",
-        "opd": "Mean",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "0324b7e7-917a-4aef-a87d-a009273c1492",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is the national level system that provides annual national as well as state level reliable estimation of feility and moality -",
@@ -206,19 +141,6 @@
         "topic_name": "Biostatistics",
         "id": "d74d4814-098b-4866-8117-50149c5a9e50",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true regarding Normal distribution curve except",
-        "exp": "NORMAL DISTRIBUTION The normal distribution or 'normal curve' is an impoant concept in statistical theory. Let us suppose, we collect the hemoglobin values of a very large number of people and make a frequency distribution with narrow class intervals, we are likely to get a smooth, symmetrical curve. Such a curve is called a normal distribution or normal curve. The shape of the curve will depend upon the mean and standard detion which in turn will depend upon the number and nature of observations. It follows, therefore, there will be an infinite number of normal curves. Standard normal curve Although there is an infinite number of normal curves depending upon the mean and standard detion, there is only one standardized normal curve, which has been devised by statisticians to estimate easily the area under the normal curve, between any two ordinates. The standard normal curve is a smooth, bell-shaped, perfectly symmetrical curve, based on an infinitely large number of observations. The total area of the curve is 1; its mean is zero; and its standard detion is 1. The mean, median and mode all coincide. The distance of a value (x) from the mean (X) of the curve in units of standard detion is called \"relative dete or standard normal variate\" and is usually denoted by Z. Ref: Park 23rd edition Pgno: 849",
-        "cop": 1,
-        "opa": "One standard detion includes 95% of values",
-        "opb": "Mean, Median, Mode coincides",
-        "opc": "Median is mid value",
-        "opd": "Area under the curve is one",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "97b618d2-e538-4e63-babf-8a5002e22cb2",
-        "choice_type": "multi"
     },
     {
         "question": "If a 95% confidence interval for prevalence of cancer smokers aged> 65 years is 56% to 76%, the chance that the prevalence could be less than 56% is-",
@@ -260,19 +182,6 @@
         "choice_type": "single"
     },
     {
-        "question": "NOT true about co-relation is-",
-        "exp": "Ref: Parks 23rd edition pg 852 In order to find out whether there is significant association or not between the two variables, coefficient or Corelation is calculated. r lies between -1 and +1 r near -1: indicates strong negative correlation. r = 0: indicates no association r near +1: indicates strong positive correlation. Note: correlation does not necessarily prove causation.",
-        "cop": 2,
-        "opa": "Doesn't tell about causation",
-        "opb": "Tells about risk of the disease",
-        "opc": "-1. 0 correlation shows linear relationship",
-        "opd": "Tells association between two variables",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "08ed2984-6c2d-4a55-b57c-ac67128dff7d",
-        "choice_type": "multi"
-    },
-    {
         "question": "In a bimodal series, if mean is 2 and median is 3, what is the mode",
         "exp": "In bimodal series Mode = 3xmedian - 2xmean= 3x3 - 2x2 = 5 Ref: Park&; s Textbook of Preventive and Social Medicine; 23rd edition - Pgno. 847",
         "cop": 1,
@@ -284,19 +193,6 @@
         "topic_name": "Biostatistics",
         "id": "3e27baa0-d63a-4e2b-9925-07f4dcc03c7d",
         "choice_type": "single"
-    },
-    {
-        "question": "Type-II error is",
-        "exp": "In statistical hypothesis testing a type I error is the rejection of a true null hypothesis (also known as a \"false positive\" finding or conclusion), while a type II error is the non-rejection of a false null hypothesis (also known as a \"false negative\" finding or conclusion). Much of statistical theory revolves around the minimization of one or both of these errors, though the complete elimination of either is a statistical impossibility for non-deterministic algorithms A type I error (or error of the first kind) is the rejection of a true null hypothesis. Usually a type I error leads to the conclusion that a supposed effect or relationship exists when in fact it does not. Examples of type I errors include a test that shows a patient to have a disease when in fact the patient does not have the disease, a fire alarm going on indicating a fire when in fact there is no fire, or an experiment indicating that a medical treatment should cure a disease when in fact it does not. A type II error (or error of the second kind) is the failure to reject a false null hypothesis. Some examples of type II errors are a blood test failing to detect the disease it was designed to detect, in a patient who really has the disease; a fire breaking out and the fire alarm does not ring; or a clinical trial of a medical treatment failing to show that the treatment works when really it does Ref: https://en. m. wikipedia. org/wiki/Type_I_and_type_II_errors",
-        "cop": 4,
-        "opa": "Rejecting true null hypothesis",
-        "opb": "Rejecting false null hypothesis",
-        "opc": "Accepting true null hypothesis",
-        "opd": "Accepting false null hypothesis",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "b40df268-b747-4175-8927-ce80576c1625",
-        "choice_type": "multi"
     },
     {
         "question": "When an intervention is applied to community to evaluate its usefulness, it is termed as a trial for-",
@@ -312,19 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Fasting blood sugar (FBS of a population is known to be normally distributed, with a mean of 105 mg%. SD =10. Thus 95% of the population will have FBS within-",
-        "exp": "Ref: Parks 23rd edition pg 849. 1. SD: confidence limit = 68% 2. SD: confidence limit = 95% 3. SD: confidence limit = 99. 7% 95% means +/- 2. SD Here SD =10 So +/- 20 So, between 85 and 125",
-        "cop": 3,
-        "opa": "104 and 106",
-        "opb": "95 and 115",
-        "opc": "85 and 125",
-        "opd": "75 and 135",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "a9a827d4-bdd3-47f5-a0d3-af496ff6c617",
-        "choice_type": "multi"
-    },
-    {
         "question": "correlation coefficient tends to lie between -",
         "exp": "Ref: Parks 23rd edition pg 852 In order to find out whether there is significant association or not between the two variables, coefficient or Corelation is calculated. r lies between -1 and +1 r near -1: indicates strong negative correlation. r = 0: indicates no association r near +1: indicates strong positive correlation. Note: correlation does not necessarily prove causation.",
         "cop": 2,
@@ -336,32 +219,6 @@
         "topic_name": "Biostatistics",
         "id": "29dc10a7-585a-42ef-8f29-40654f97e73c",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are true in a randomized control trial (RCT) except -",
-        "exp": ".",
-        "cop": 4,
-        "opa": "Baseline characteristics of intervention and control groups should be similar",
-        "opb": "Investigator's bias is minimized by double blinding",
-        "opc": "The sample size required depends on the hypothesis",
-        "opd": "The drop-outs from the trial should be excluded from the analysis",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "e5c37fd6-9d00-498c-ba4d-20a983942fd4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A study was conducted on two different samples for comparing variation between DBP and Vitamin D. Diastolic blood pressure normal is 110 with standard deviation 11 and vitamin D levels normal 18 with standard deviation 3. Which of the sample has more variable?",
-        "exp": "Ans. (b) Vitamin D is more than DBPRef: Parks Text book of Preventive and Social Medicine 24th Ed; Page No-886* Coefficient of variation (CV)=Mean. SD x100* Standard Deviation (SD):# It is denoted by the Greek word sigma.# It gives us an idea of \"spread\" of dispersion.# Standard deviation =Variance * Coefficient of variation for DBP=11011 x100=10%* Coefficient of variation for vitamin D=183 x100=16%* So Coefficient of variation for DBP< Coefficient of variation for vitamin D",
-        "cop": 2,
-        "opa": "DBP is more than Vitamin D.",
-        "opb": "Vitamin D is more than DBP.",
-        "opc": "Both DBP and Vitamin D will equal variability.",
-        "opd": "It can't be ascertained from information provided.",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "fe267215-1610-460f-8e5b-8c39b431ff46",
-        "choice_type": "multi"
     },
     {
         "question": "Sampling method used in assessing immunization status of children under immunization programme is-",
@@ -429,58 +286,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about cluster sampling except?",
-        "exp": ".",
-        "cop": 1,
-        "opa": "Sample size is same as that of simple random sampling",
-        "opb": "It is a two stage sampling",
-        "opc": "It is cheapter than other methods of sampling",
-        "opd": "It has a disadvantage of higher sampling error",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "ae5b0e37-ae43-49a3-8a4a-81c706c8f435",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In an agreement between Sp. O2 of two groups with and without micropore in a pediatric population the values spotted is as below. Which of the following is true?",
-        "exp": "(d) The curve shows a regression line means co-relation. BLAND-ALTMAN PLOT* Difference plot* A graphical method to compare two measurements techniques* The differences/ratios between the two techniques are plotted against the averages of the two techniques* Alternatively the differences can be plotted against one of the two methods, if this method is a reference or \"Gold standard\" method* Horizontal lines are drawn at the mean difference, and at the limits of agreement, which are defined as the mean difference plus and minus 1. 96 times the standard deviation of the differences* Interpretation of Bland-Altman Plot:- Perfect correlation if the points lie perfectly along any straight line- Regression line indicates Correlation: (See previous page)- Perfect agreement only if they lie perfectly along the line of equality- Line of equality does not indicate perfect agreement: (See above)",
-        "cop": 4,
-        "opa": "There is no agreement between the two groups",
-        "opb": "The two groups have a constant relation with a variation of 3%",
-        "opc": "The is no association between the two groups",
-        "opd": "The curve shows a regression line means co-relation",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "e6260b85-75df-42df-9ea9-503dbe6fd254",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Normal standard detion true is-",
-        "exp": "Repeated question the standard detion (SD, also represented by the Greek letter sigma s or the Latin letter s) is a measure that is used to quantify the amount of variation or dispersion of a set of data values. A low standard detion indicates that the data points tend to be close to the mean (also called the expected value) of the set, while a high standard detion indicates that the data points are spread out over a wider range of values",
-        "cop": 1,
-        "opa": "Mean = Median",
-        "opb": "Mean > Median",
-        "opc": "Median > Mean",
-        "opd": "Mode > Mean",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "a1297d2f-e490-4ed9-8906-a405771f5cb6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Standard error of mean is called as -",
-        "exp": ".",
-        "cop": 1,
-        "opa": "Standard detion",
-        "opb": "Mode",
-        "opc": "Median",
-        "opd": "Variable",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "e7c90a1c-bdc7-4255-b23c-4354681276f9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Bih is to be registered within-",
         "exp": ".",
         "cop": 1,
@@ -505,19 +310,6 @@
         "topic_name": "Biostatistics",
         "id": "412e7c46-8236-41aa-8620-4febe22583c6",
         "choice_type": "single"
-    },
-    {
-        "question": "True statements with regard to sampling",
-        "exp": ".",
-        "cop": 1,
-        "opa": "Snowball sampling is used for hidden population",
-        "opb": "More sample in systematic random sampling",
-        "opc": "In stratified random sampling population is divided into strata",
-        "opd": "Cluster sampling is less cost - effective",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "92584e41-e74a-4877-8e12-e49f3f87661b",
-        "choice_type": "multi"
     },
     {
         "question": "Best cha to represent incidence of disease over a period of time",
@@ -585,19 +377,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What is the method of sampling in which the units are picked up at regular intervals from the universe-",
-        "exp": ".",
-        "cop": 2,
-        "opa": "Simple random sampling",
-        "opb": "Systematic random sampling",
-        "opc": "Stratified random sampling",
-        "opd": "Snow - ball sampling",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "25633e61-043d-4d87-93c7-c587f2425120",
-        "choice_type": "multi"
-    },
-    {
         "question": "Normal distribution curve is determined by:",
         "exp": "Ans. a (Standard deviation and mean). (Ref. Park PSM 22nd/pg. 792)1. Normal distribution curve/ Standard normal curve/ Normal Gaussian curve# A smooth symmetrical curve.# Total area of the curve is 1; its mean is zero; and its standard deviation is 1.# The mean, median and mode all coincide.# Limits on either side of mean are called \"confidence limits\".- Area between one standard deviation on either side of the mean (x + 1 m) will include approximately 68% in the distribution.- The area between two SD on either side of the mean (x + 2 m) approximately 95 %.- Area between three SD on either side of mean (x + 3 m) approximately 99. 7 % in the distribution.# Percentage of values in a population, which will fall within various ranges within an ideal curve of normal distribution:- Mean +/- d 68. 27%- Mean +/- 1. 96d 95. 00%- Mean +/- 2d 95. 45%- Mean+/-3d 99. 73%2. Poisson distribution. Limiting form of binominal distribution when probability of success is closer to zero and numbers of trials are infinite. Mean=variance. 3. Skew distribution Skewed to left (negatively skewed); Skewed to Right (Positively skewed)1. If more outlying values are smaller than the rest, data are said to be skewed to left; If more outlying values are larger than the rest, data are said to be skewed to left2. Data have longer tail among lower values; Data have longer tail among higher values3. Median>mean; Median<mean",
         "cop": 1,
@@ -663,32 +442,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about bar cha",
-        "exp": "Ref: Park's Textbook of Preventive and Social Medicine 25th Ed",
-        "cop": 4,
-        "opa": "Width of the bar is propoional to representative values",
-        "opb": "Used for quantitative data",
-        "opc": "Same as histogram",
-        "opd": "Rectangular bars are used to represent the data",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "8fb2447b-772e-4d5c-9c6b-021e79059b5c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "If we reject null hypothesis, when actually it si true it is known as-",
-        "exp": "<p> Type 1 error. Reference: Simple Biostatistics by Indeayan & Indrayan, 1st edition, pg no: 155-57. <\\p>",
-        "cop": 1,
-        "opa": "Type I error",
-        "opb": "Type II error",
-        "opc": "Power",
-        "opd": "Specificity",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "3ef202c4-6512-4624-be7c-aeb5a916c5ff",
-        "choice_type": "multi"
-    },
-    {
         "question": "In the WHO recommended EPI cluster sampling for assessing primary immunization coverage, the age group of children to be surveyed is",
         "exp": "Cluster Random Sampling: Applicable when units of population are natural groups or clusters. Use of CRS in India: Evaluation of immunization coverage. WHO technique used in CRS: 30*7 technique (Total= 210 children) 30 clusters, each containing 7 children who are 12-23 months age and are completely immunized for primary immunization (till measles vaccine) Clusters are heterogenous within themselves but homogenous with respect to each other. Sampling interval is also calculated in CRS. Accuracy: Low error rate only +/- 5% Limitation: Clusters cannot be compared with each other. Ref: Simple Biostatistics by Indrayan and Indrayan 1st edition Pgno: 35",
         "cop": 4,
@@ -700,19 +453,6 @@
         "topic_name": "Biostatistics",
         "id": "b61f73c9-c461-49ba-afe7-7291bc196327",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are random sampling methods except-",
-        "exp": "<p> Quota sampling. Reference: Park&; s textbook of preventive and social medicine, K. Park, 23rd edition, page no: 850. <\\p>",
-        "cop": 4,
-        "opa": "Simple random",
-        "opb": "Cluster sampling",
-        "opc": "Stratified random",
-        "opd": "Quota sampling",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "495b1348-f121-4737-8d92-9b7a755ee724",
-        "choice_type": "multi"
     },
     {
         "question": "In a community of 3000 people, 80% are Hindus 10% muslims, 5%",
@@ -793,19 +533,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are nonparametric test, except:",
-        "exp": "Ans. b. Z-test. Ref: Parks Text book of Preventive and Social Medicine, 24th Ed; Page No-274-75 PARAMETRIC AND NONPARAMETRICTESTS Parametric tests. Nonparametric tests. Based on. Gaussian/Normal distributions. Non-normal distributions. Type of data. Quantitative. Qualitative. Compares. Means (+SD). Percentage, proportions and fractions. Example*. Students (Paired) t-test*. Students (Unpaired) t-test*. ANOVA F-test*. Sign test*. Chi-square test*. Wilcoxon Rank sum test*. Wilcoxon signed Rank test",
-        "cop": 2,
-        "opa": "Chi-square test",
-        "opb": "Z-test",
-        "opc": "Wilcoxon Rank sum test",
-        "opd": "Kruskal-Wallis 'H' test",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "5af47a79-b2d8-4d26-a8f8-1c6b08ebc96a",
-        "choice_type": "multi"
-    },
-    {
         "question": "If the grading of diabetes is classified as \"mild\", \"moderate\" and \"severe\" the scale of measurement used is -",
         "exp": "Scales can be: Qualitative: Categorical scales: Nominal: eg: names of countries. Dichotomous: eg: yes/no, presence/absence. Ordinal: severity of disease: mild/moderate/severe. eg: staging of cancer, kuppusamy socioeconomic class. Quantitative: Metric scales: Interval Ratio",
         "cop": 3,
@@ -817,32 +544,6 @@
         "topic_name": "Biostatistics",
         "id": "57e7f930-46e3-442b-95f5-0c3605642809",
         "choice_type": "single"
-    },
-    {
-        "question": "True about negatively skewed data is",
-        "exp": "negative or left skew means the mean is less than the median. mean<median<mode",
-        "cop": 1,
-        "opa": "Mean is less than median",
-        "opb": "Mean is more than median",
-        "opc": "Mean is equal to median",
-        "opd": "No correlation",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "821f706d-67da-484c-83f2-1a2a82cc25af",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All the following are example of nominal scale except-",
-        "exp": "Blood pressure comes under metric scales. Scales can be: Qualitative: Categorical scales: Nominal: eg: names of countries. Dichotomous: eg: yes/no, presence/absence. Ordinal: severity of disease: mild/moderate/severe. eg: staging of cancer, kuppusamy socioeconomic class. Quantitative: Metric scales: Interval Ratio",
-        "cop": 4,
-        "opa": "Race",
-        "opb": "Sex",
-        "opc": "Iris color",
-        "opd": "Blood pressure",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "e734dc04-54ee-4176-b34d-68906e8a2c18",
-        "choice_type": "multi"
     },
     {
         "question": "In normal distribution curve, which have same value-",
@@ -884,19 +585,6 @@
         "choice_type": "single"
     },
     {
-        "question": "When the dependent or outcome variable is the survival data, the regression method applied is",
-        "exp": "Cox Regression builds a predictive model for time-to-event data. The model produces a survival function that predicts the probability that the event of interest has occurred at a given time t for given values of the predictor variables. The shape of the survival function and the regression coefficients for the predictors are estimated from observed subjects; the model can then be applied to new cases that have measurements for the predictor variables. Note that information from censored subjects, that is, those that do not experience the event of interest during the time of observation, contributes usefully to the estimation of the model. Ref:",
-        "cop": 3,
-        "opa": "Multiple linear regression analysis",
-        "opb": "Multiple logistic regression analysis",
-        "opc": "Cox regression analysis",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "0dd9628e-1740-4fad-9453-09eaea1e1957",
-        "choice_type": "multi"
-    },
-    {
         "question": "Continuous data is represented by-",
         "exp": "Ans. is 'c' i. e., Histogram* Continuous (quantitative) data is represented by histogram (among the given options). Data. Scale. Graph/Diagram. Quantitative. Interval scale. Ratio scale. Histogram. Frequency polygonfrequency curves linechart scatter diagram. Cumulative frequency Curve. Line Chart graph. Qualitative. Nominal scale. Ordinal scale. Bar diagram. Pie chart. Pictogram. Map diagram or spot map",
         "cop": 3,
@@ -936,19 +624,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Individual in a village population are arranged alphabetically and then every 8th person is selected for the study. The type of study is-",
-        "exp": "Ans. is 'c' i. e., Systemic random sampling * Types of random sampling are: -i) Simple random sampling# It is also known as \"unrestricted random sampling\". Each individual is chosen randomly and entirely by chance. There is no stratification in similar groups. Thus, each individual has the same probability of being chosen.# Methods of simple random sampling are: -i) Lottery methodii) Random number tableiii) Computer technique.# It is suitable for small homogenous population and is used in clinical trials. It provides the greatest number of possible samples. ii) Systemic random sampling# In order to do systematic random sampling, the individuals in a population are arranged in a certain way (for example, alphabetically).# A random starting point is selected and then every nth (for example 10th or 15th) individual is selected for the sample.# That is, after arranging the individuals in certain pattern (e. g., alpabetically) a starting point is chosen at random, and choices thereafter at regular intervals. iii) Stratified random sampling# When sub-populations vary considerably, it is advantageous to sample each subpopulation (stratum) independently.# Stratification is the process of grouping members of the population into relative hemogenous subgroups before sampling.# The strata should be mutually exclusive, every element in the population must be assigned to only one stratum. Then systematic random sampling method is applied within each stratum.# Stratified random sampling is particularly useful where one is interested in analysing the data by a certain characteristic of the population, viz Hindus, Muslims, Christians, age group etc, - as we know these groups are not equally distributed in the population. iv) Cluster sampling# Cluster sampling is a sampling technique used when natural groupings are evident in a statistical population. In this technique, the total population is divided into these groups (or clusters) and a sample of groups is selected.# The characteristic feature is that selected groups act as samples (while in other types of random sampling individuals act as sample).# Cluster sampling is rapid, simple and economic (less expensive).# Sample size may vary according to study.# Cluster sampling is an example two-stage sampling.# There are chances of sampling error.# Cluster sampling is used in India to evaluate immunization coverage. WHO used 30 x 7 technique (total = 210 children) for cluster sampling in which there are 30 clusters, each containing 7 children who are 12-23 months old and are completely immunized for primary immunization (till measles vaccine at 9 month). v) Multistage random sampling# It is done in successive stages; each successive sampling unit is nested in the previous sampling unit. Advantage: Introduces flexibility in sampling.# For example, in large country surveys, states are chosen, then districts, then villages, then every 10th person in village as final sampling unit. vi) Multiphse random sampling# It is done in successive phase; part of information is obtained from whole sample and part from the sub-sample.# For example, in a TB survey, Mantourx test done in first phase, then X-ray done in all Mantoux positive, then sputum examined in all those with positive X-ray findings.",
-        "cop": 3,
-        "opa": "Simple random sampling",
-        "opb": "Stratified random sampling",
-        "opc": "Systemic random sampling",
-        "opd": "Cluster sampling",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "03d2d3d5-f05c-4763-9b77-9a4f89362d97",
-        "choice_type": "multi"
-    },
-    {
         "question": "In a test of significance, P value is 0. 023 the observed difference in study can be considered as-",
         "exp": "<p> Null hypothesis rejected and the study is accepted. Reference: Park&; s textbook of preventive and social medicine, K. Park, 23rd edition, page no: 852. <\\p>",
         "cop": 2,
@@ -973,32 +648,6 @@
         "topic_name": "Biostatistics",
         "id": "329f7a1e-c3e1-4ebb-9213-43a990846a04",
         "choice_type": "single"
-    },
-    {
-        "question": "True about sample registration system are all except?",
-        "exp": ".",
-        "cop": 1,
-        "opa": "It is same as census",
-        "opb": "It is dual record system",
-        "opc": "It provides reliable estimate of bih rate and death rate",
-        "opd": "Independent retrospective half - yearly",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "29ee2ebc-07cd-4ac4-abcc-5f620119648e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Not true about chi- square test is-",
-        "exp": "Ref: Parks 23rd edition pg 852 Chi-square test offers an alternate method of testing the significance of difference between two propoions. Advantage: it can also be used when more than 2groups are to be compared.",
-        "cop": 3,
-        "opa": "Tests the significance of difference between two propoions",
-        "opb": "Tells about presence or absence of an association between two variables",
-        "opc": "Directly measures the strength of association",
-        "opd": "Can be used when more than two groups are two be compared",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "bb1e47c2-b0e9-42ce-ad83-dd0a2f7e7b04",
-        "choice_type": "multi"
     },
     {
         "question": "Weight in kg is",
@@ -1040,19 +689,6 @@
         "choice_type": "single"
     },
     {
-        "question": "correlation between two continuous variables is measured by",
-        "exp": "Ref: Park's Textbook of Preventive and Social Medicine 25th Ed",
-        "cop": 3,
-        "opa": "Coefficient of variance",
-        "opb": "Range of variation",
-        "opc": "Correlation coefficient",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "35d36423-8e0f-4db6-a568-88cdd5858416",
-        "choice_type": "multi"
-    },
-    {
         "question": "3 Standard deviation from mean covers how much areas under normal distribution curve-",
         "exp": "Ans. is 'd' i. e., 99% Area under standard normal distribution curve* It can be understand by the 68-95-99. 7 rule -i) The area between one standard deviation on either side of the mean ( x +- 1 o) will include 68 percent of the values. ii) The area between two standard deviations on either side of the mean will cover 95% of values. iii) The area between three standard deviation will include 99. 7% of values.* These limits on either side of the mean is called \"confidence limits\".* For example, if we are considering the 95 percent confidence limits (Area under 2 SD), that means that 95% of the values in the distribution will be included between the limits (2 SD x +- 2 a). Therefore, the probability of a reading falling outside confidence limit (95%) is only 5%, i. e. 1 in 20 (P = 0. 05).* So, For 1 SD, confidence limit - 68%For 2 SD, confidence limit - 95%For 3 SD, confidence limit - 99. 7%",
         "cop": 4,
@@ -1064,32 +700,6 @@
         "topic_name": "Biostatistics",
         "id": "784978d0-bb70-4b09-a6ca-a816e38faceb",
         "choice_type": "single"
-    },
-    {
-        "question": "A randomized trial comparing the efficacy of two drugs showed a differebce between the two (p value < 0. 005). However, in reality the two drug do not differ. This is an example of-",
-        "exp": "<p> Type 1 error (alpha error ). A test with a high specificity has a low Type 1 error rate. False positive rate (a)=1- specificity False negative rate(ss)=1-sensitivity Reference: Simple Biostatistics by Indeayan & Indrayan, 1st edition, pg. 155-57 and Methods in Biostatistics by Mahajan, 7th edition, pg no. 111-113. <\\p>",
-        "cop": 1,
-        "opa": "Type I error",
-        "opb": "Type II error",
-        "opc": "Both type I and II error",
-        "opd": "Random error",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "f8e5b9b7-e396-42b0-86db-8281c3423898",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Correlation in height & weight are measured by-",
-        "exp": "Ref: Parks 23rd edition pg 852 In order to find out whether there is significant association or not between the two variables, coefficient or Corelation is calculated. r lies between -1 and +1 r near -1: indicates strong negative correlation. r = 0: indicates no association r near +1: indicates strong positive correlation. Note: correlation does not necessarily prove causation..",
-        "cop": 3,
-        "opa": "Coefficient of variation",
-        "opb": "Range of variation",
-        "opc": "Correlation coefficient",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "3bb370a9-459e-4f9d-a138-6a953bd0ed59",
-        "choice_type": "multi"
     },
     {
         "question": "Randomization is a process by which the paicipants have equal chance of being selected as",
@@ -1118,19 +728,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Probability samplings are all except",
-        "exp": "SAMPLING When a large propoion of individuals or items or units have to be studied, we take a sample. It is easier and more economical to study the sample than the whole population or universe. Great care therefore is taken in obtaining a sample. It is impoant to ensure that the group of people or items included in the sample are representative of the whole population to be studied Sampling Methods The following three methods are most commonly used: (1) Simple random sample: This is done by assigning a number to each of the units (the individuals or households) in the sampling frame. A table of random numbers is then used to determine which units are to be included in the sample. Random numbers are a haphazard collection of ceain numbers, arranged in a cunning manner to eliminate personal selection of unconscious bias in taking out the sample. With this procedure, the sample is drawn in such a way that each unit has an equal chance of being drawn in the sample. This technique provides the greatest number of possible samples. (2) Systematic random sample: This is done by picking every 5th or 10th unit at regular intervals. For example, to carry out a filaria survey in a town, we take 10 per cent sample. The houses are numbered first. Then a number is selected at random between 1and10 (say four). Then every 10th number is selected from that point on 4, 14, 24, 34, etc. By this method, each unit in the sampling frame would have the same chance of being selected, but the number of possible samples is greatly reduced. (3) Stratified random sample: The sample is deliberately drawn in a systematic way so that each poion of the sample represents a corresponding strata of the universe. This method is paicularly useful where one is interested in analysing the data by a ceain characteristic of the population, viz. Hindus, Christians, Muslims, age-groups etc. as we know these groups are not equally distributed in the population. It is useful to note at this stage that Greek letters are usually used to refer to population characteristics: mean (u), standard detion (cr), and Roman letters to indicate sample characteristics: mean ( x), standard detion (s). Ref: Park 23rd edition Pgno: 849",
-        "cop": 4,
-        "opa": "Simple random sampling",
-        "opb": "Systematic random sampling",
-        "opc": "Cluster sampling",
-        "opd": "Quota sampling",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "66779d8f-af70-4758-b634-f41853c7be0d",
-        "choice_type": "multi"
-    },
-    {
         "question": "After applying a statistical test, an investigator gets the &; p value&; as 0. 01. It means that-",
         "exp": "<p> The probability of declaring a significant difference is 1%. Reference: Simple Biostatistics by Indrayan & Indrayan, 1st edition, pg no: 155-56.. <\\p>",
         "cop": 2,
@@ -1155,19 +752,6 @@
         "topic_name": "Biostatistics",
         "id": "8822ed06-61fb-4ea0-a4bb-c48c08585885",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements about \"Simple Randam sampling\" is true-",
-        "exp": ".",
-        "cop": 1,
-        "opa": "Every element in the population has an equal probability of being included",
-        "opb": "Sampling is based on similar characteristics",
-        "opc": "Suitable for large heterogenous population",
-        "opd": "Complete list of items within the sampling frame is not required",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "3361c2f5-aa89-4824-870e-609f137e9f9a",
-        "choice_type": "multi"
     },
     {
         "question": "Area under normal curve within +- 1. SD (standard detion)-",
@@ -1222,71 +806,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is/are source of mortality related data:",
-        "exp": "Ans: D (AlI) SAMPLE REGISTRATION SYSTEM Park23rd/84l. The SRS is a dual-record system, consisting of continuous enumeration of births & deaths by an enumerator & an independent survey every 6 months by an investigator- supervisor. Since the introduction of this system, more reliable information on birth & death rates, age-specific fertility & mortality rates, infant, under-five & adult mortality etc. have become available. The central births & deaths registration act, 1969 Park 23rd/841# The act came into force on 1 april 1970# The act provides for compulsory registration of births & deaths throughout the country# The time limit for registering the event of births & that of deaths is 21 days uniformly allover India",
-        "cop": 4,
-        "opa": "Sample registration system",
-        "opb": "Death certificate",
-        "opc": "Central births & deaths registration act",
-        "opd": "All",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "9f466893-1be3-4650-b4e4-23c7887de64a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Correlation coefficient of 0. 5 indicates",
-        "exp": "Ref: Park's Textbook of Preventive and Social Medicine 25th Ed",
-        "cop": 2,
-        "opa": "Confidence interval of 95 %",
-        "opb": "Weak association",
-        "opc": "Not statistically significant",
-        "opd": "Good association",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "26d2daeb-96b2-4939-978a-25850c7c1d45",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about P-value except-",
-        "exp": "<p> Is equal to 1-ss. Type 1 error is usually fixed in advance by the choice of level of significance employed in the test. Power of a test: 1-ss -is probability of rejecting a null hypothesis when a predetermined clinically significant difference is indeed present. -power can be increased by increasing the no. of subjects in a trial. Reference: Simple Biostatistics by Indrayan & Indrayan, 1st edition, page no. 155. <\\p>",
-        "cop": 2,
-        "opa": "It is the probability of committing type I error",
-        "opb": "I s equal to I-ss",
-        "opc": "Is the chance that the presence of difference is concluded when actually there is none",
-        "opd": "When p-value is less than a, the result is statistically significant",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "f251c4ae-fbc8-49c3-a1b3-0dc77ff924bf",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Direct standardisation is also known as",
-        "exp": "DIRECT STANDARDIZATION Two examples of direct standardization are given. In the first, a \"standard population\" is selected. A standard population is defined as one for which the numbers in each age and sex group are known. A frequently used standard age-composition is shown in Table 3. The standard population may also be \"created\" by combining 2 populations; this is shown in the second example. The next step is to apply to the standard population, the age-specific rates of the population whose crude death rate is to be adjusted or standardized. As a result, for each age group, an \"expected\" number of deaths (or events) in the standard population is obtained; these are added together for all the age groups, to give the total expected deaths. The final operation is to divide the \"expected\" total number of deaths by the total of the standard population, which yields the standardized or age-adjusted rate. Ref: Park 23rd edition Pgno: 58",
-        "cop": 2,
-        "opa": "Changing base method",
-        "opb": "Fixed base method",
-        "opc": "Hanging base method",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "cb60946d-4ff7-4f07-a182-01385e941dfa",
-        "choice_type": "multi"
-    },
-    {
-        "question": "What is the probability that confounding factor fall to the right of 95%-",
-        "exp": "Ref: Parks 23rd edition pg 849. 1. SD: confidence limit = 68% 2. SD: confidence limit = 95% 3. SD: confidence limit = 99. 7% Here 5% values remains and falls to the right and left altogether. So, 2. 5% lies to the right and 2. 5 to the left. 2. 5/100= 1/40",
-        "cop": 4,
-        "opa": "1 in 5",
-        "opb": "1 in 10",
-        "opc": "1 in 20",
-        "opd": "1 in 40",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "56d3ac66-4a37-49db-b7bd-e4116380e6a5",
-        "choice_type": "multi"
-    },
-    {
         "question": "In which system, continous enumeration of bihs and deaths by enumerator and an independent survey by investigator supervisor is done?",
         "exp": ".",
         "cop": 2,
@@ -1339,19 +858,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Meaning of baby has 15th percentile of head circumference is-",
-        "exp": "Ref: Parks 23rd edition Means 15% of children have HC less than that.",
-        "cop": 3,
-        "opa": "15% of children will have HC more than that",
-        "opb": "15% of HC, the child is having",
-        "opc": "15% of children will have HC less than that",
-        "opd": "None.",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "6e785180-f9a3-4526-86e6-7e87b6e032f6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Height to weight is a/an",
         "exp": "Ref: Parks 23rd edition pg 852 Height and weight are association. In order to find out whether there is significant association or not between the two variables, coefficient or Corelation is calculated. r lies between -1 and +1 r near -1: indicates strong negative correlation. r = 0: indicates no association r near +1: indicates strong positive correlation. Note: correlation does not necessarily prove causation.",
         "cop": 1,
@@ -1365,19 +871,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Validity includes -",
-        "exp": "Ans. is 'a' i. e., Sensitivity and specificity Screening test to be appliedo The screening test to be applied should fulfil the following important criteria before it is considered suitable for screening: -Acceptability. The test should be acceptable to the people at whom it is aimed. In general painful or embarrasing tests e. g., per rectal or vaginal examination are not likely to be acceptable. Repeatability (reliability). Repeatability means, the test must give consistent results when it is repeated more than once on the same individual under same conditions. That means the results of test are precise (exact). So repeatability is some time called precision, reliability or reproducibility. 3 Validity (accuracy). Validity refers to what extent the test accurately measures which is purports to measures. That means a valid test distinguish the people who have the disease from those who do not. Validity has components - Sensitivity and specificity. 4 Ohers# Simplicity# Rapidity# Ease of administration# Safety# Low cost",
-        "cop": 1,
-        "opa": "Sensitivity and specificity",
-        "opb": "Precision",
-        "opc": "Acceptibility",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "5fd42ada-43fb-4043-9aca-967c3412e823",
-        "choice_type": "multi"
-    },
-    {
         "question": "Best way to plot the change of incidence of disease oveime-",
         "exp": "- line diagrams are used to show the trend of events with the passage of time. - it can be used to represent the trend of disease cases over a period of time. Reference: Park's textbook of preventive and social medicine, 23rd edition, pg no: 846",
         "cop": 1,
@@ -1389,19 +882,6 @@
         "topic_name": "Biostatistics",
         "id": "73c5e4af-0d17-4304-9ee3-14eb77e16b11",
         "choice_type": "single"
-    },
-    {
-        "question": "TRUE about simple random sampling is:",
-        "exp": "Ans. is 'a' i. e. All person have equal right to be selected In simple random sampling, the sample is drawn in such a way that each unit has an equal chance of being drawn in the sample.",
-        "cop": 1,
-        "opa": "All person have equal right to be selected",
-        "opb": "Only selected person have right to be selected",
-        "opc": "Technique provides least number of possible samples",
-        "opd": "Every fixed unit is taken for sampling.",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "90a8b154-0848-4dbe-83b4-afb81967e08f",
-        "choice_type": "multi"
     },
     {
         "question": "The correlation between IMR and Socio Economic status is best dipicted by-",
@@ -1482,32 +962,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Stratified sampling is ideal for",
-        "exp": "Ref: Park's Textbook of Preventive and Social Medicine 25th Ed",
-        "cop": 1,
-        "opa": "Hetergenous data",
-        "opb": "Homogenous data",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "72be25ed-1f53-44cf-9b16-62187a5d3fc8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Disadvatage to calculate mean-",
-        "exp": "Ref: Parks 23rd edition pg 847 Mean: Advantages: Easy to calculate and understand. Disadvantages: Unduly influenced by abnormal values in the distribution.",
-        "cop": 3,
-        "opa": "Difficult to calculate",
-        "opb": "Difficult to understand",
-        "opc": "May be influenced by abnormal high or low values",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "af93cdbd-c056-4cdd-9bfe-320ce3f8e956",
-        "choice_type": "multi"
-    },
-    {
         "question": "Strong correlation is signified by a correlation coefficient of?",
         "exp": ".",
         "cop": 2,
@@ -1547,19 +1001,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Correlation in height and weight are measured by",
-        "exp": "Ref: Park's Textbook of Preventive and Social Medicine 25th Ed",
-        "cop": 3,
-        "opa": "Coefficient of variation",
-        "opb": "Range of variation",
-        "opc": "Correlation coefficient",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "b3ea8b9a-f51c-4ad2-899f-0a759573d0b0",
-        "choice_type": "multi"
-    },
-    {
         "question": "The best method to show the association between height and weight of children in a class is by-",
         "exp": "- scatter maps show the relationship between two variables - if dots cluster round a straight line, it shows evidence of relationship of a linear nature. If there is no such cluster, it is probable that there is no relationship between the variables. Reference: Park's textbook of preventive and social medicine, 23rd edition, pg no: 847",
         "cop": 3,
@@ -1597,19 +1038,6 @@
         "topic_name": "Biostatistics",
         "id": "f860e4fc-3ea3-49a8-b5c7-79b57070e959",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true regarding students t-test, except-",
-        "exp": "Ref: Parks 23rd edition pg 852 Student T test requires mean and SD Tests of significance: Qualitative: Chi- square: 2 or more than 2 groups Mc Nemar test: 1 group. ( before and after intervention) Quantitative: Paired T test: 1 group Student T test/ unpaired T test: 2 groups Anova: more than 2 groups.",
-        "cop": 1,
-        "opa": "Standard error of mean is not estimated",
-        "opb": "Standard population is selected",
-        "opc": "Two samples are compared",
-        "opd": "Student's t- test map is required for calculation",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "a108091c-0ca9-4d76-a74d-be9f1ab53a21",
-        "choice_type": "multi"
     },
     {
         "question": "Statistical method of calculate death rate among two population with different age groups-",
@@ -1675,19 +1103,6 @@
         "topic_name": "Biostatistics",
         "id": "4d4da24d-7c64-4ed4-9fa6-6c9f65ebcd70",
         "choice_type": "single"
-    },
-    {
-        "question": "Scatter diagram represents-",
-        "exp": "Ans. is 'c' i. e., Correlation / Association. Data. Method. Frequency of occurrence. Bar Chart(comparisons of magnitude). Pie chart. Trends over time. Line graph. Distribution (not related to time). Histogram, Frequency polygon. Association(Looking for correlation between two variables). Scatter diagram",
-        "cop": 3,
-        "opa": "Frequency of occurence",
-        "opb": "Trend over time",
-        "opc": "Correlation / Association",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "cf36f1aa-63b7-44cd-a645-78184805f2a4",
-        "choice_type": "multi"
     },
     {
         "question": "The scatter plot is used to display",
@@ -1781,19 +1196,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Box and whisker plot is also known as",
-        "exp": "A box and whisker plot--also called a box plot--displays the five-number summary of a set of data. The five-number summary is the minimum, first quaile, median, third quaile, and maximum. In a box plot, we draw a box from the first quaile to the third quaile. A veical line goes through the box at the median. Ref: https://en. m. wikipedia. org/wiki/Five-number_summary",
-        "cop": 3,
-        "opa": "Magical box",
-        "opb": "Four summary plot",
-        "opc": "Five summary plot",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "fd49a27c-99d3-4fee-be0b-e6be6275e37b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Standard detion is a measure of-",
         "exp": "Ref: Parks 23rd edition pg 849 Standard detion: Gives idea of the spread or dispersion Lager the standard detion value, greater is the dispersion of values about the mean.",
         "cop": 2,
@@ -1885,19 +1287,6 @@
         "choice_type": "single"
     },
     {
-        "question": "P-value is the probabilty of-",
-        "exp": "<p> Rejecting a null hypothesis when true. Reference: Simple Biostatistics by Indrayan & Indeayan, 1st edition, pg no: 156. <\\p>",
-        "cop": 2,
-        "opa": "Not rejecting a null hypothesis when true",
-        "opb": "Rejecting a null hypothesis when true",
-        "opc": "Not rejecting a null hypothesis when false",
-        "opd": "Rejecting a null hypothesis when false",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "7d6ada7b-1399-44b6-8909-0e42fbcdd5de",
-        "choice_type": "multi"
-    },
-    {
         "question": "95% of the values in the distribution corresponds to",
         "exp": "B i. e. (2 SD) (701 Park 19th) (751-Park 20th). In normal distribution curve* 1 Standard deviation =68% of value.* 2 Standard deviation =95% of value* 3 Standard deviation =99. 7% value* Standard normal curve - Smooth bell shaped, perfectly symmetrical**1. Total area of the curve is 1*2. Its mean is Zero3. Standard deviation is 14. The mean, median and mode all coinside**",
         "cop": 2,
@@ -1911,32 +1300,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The correlation between age and height in a toddler is best depicted by",
-        "exp": "Ref: Park's textbook of Preventive and Social Medicine 25 th Ed",
-        "cop": 1,
-        "opa": "Correlation coefficient = +1",
-        "opb": "Correlation coefficient = -1",
-        "opc": "Correlation coefficient = +2",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "08f4c3b0-9a63-445e-8998-fcff010919a5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "shape of normal distribution curve-",
-        "exp": "Ref: Parks 23rd edition pg 849. Standard normal curve: It is a smooth, bell-shaped, perfectly symmetrical curve based on an infinitely large number of observations. The total area of the curve is 1. Mean =0 Standard detion is 1 Mean, median and mode all coincide.",
-        "cop": 3,
-        "opa": "J shape",
-        "opb": "U shape",
-        "opc": "Bell shape",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "f10022d3-fb81-44be-983b-77bab5a7e123",
-        "choice_type": "multi"
-    },
-    {
         "question": "A chest physician observed that the distribution of forced expiratory volume (FEV) in 300 smokers had a median value of 2. 5 litres with the first and third quailes being 1. 5 and 4. 5 litres respectively. Based on this data now many persons in the sample ra eexpectable have a FEV between 1. 5 and 4. 5 litres-",
         "exp": "Here, it&; s given 1st and 3rd quaile, which includes 50% values. Here total is 300. So 50% means 150",
         "cop": 2,
@@ -1948,32 +1311,6 @@
         "topic_name": "Biostatistics",
         "id": "14e36875-c5df-4b18-8452-781d1cc30571",
         "choice_type": "single"
-    },
-    {
-        "question": "Systolic BP of a group of 200 people follows normal distribution. Mean BP is 120 mm Hg and standard detion 10. Which of the following is true-",
-        "exp": "Ref: Parks 23rd edition pg 849. 1. SD: confidence limit = 68% 2. SD: confidence limit = 95% 3. SD: confidence limit = 99. 7% 68% have BP: 110 - 130 95% have BP: 100 - 140 99. 7% have BP: 90 - 150",
-        "cop": 1,
-        "opa": "68% of people have BP between 110-130 mm Hg",
-        "opb": "95% of people have BP between 110-130 mm Hg",
-        "opc": "68% of people have BP between 100-140 mm Hg",
-        "opd": "99% of people have BP between 100-140 mm Hg",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "72bc6771-10ba-48d8-afe1-c2e954680ade",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Descrete variability are all except-",
-        "exp": "Descrete variables: Have fixed values no intermediate values eg: no. of brothers, no. of children, etc",
-        "cop": 1,
-        "opa": "Color of skin",
-        "opb": "Boys in the class room",
-        "opc": "Obesity weight",
-        "opd": "Leukocyte count",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "e64e4eb1-39c1-46e1-80c6-6859a642a252",
-        "choice_type": "multi"
     },
     {
         "question": "Ten readings of BP taken before and after treatment is studied by-",
@@ -2028,19 +1365,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A study generated a normal distribution with a mean value as 200 and standard deviation of 20. 68% of area will fall between",
-        "exp": "Normal curve (De Moivrre and Gauss)* Bell shaped, bilaterally symmetrical infinitely large number of observations* Area of the curve is 1* Mean median and mode all coincide which is 0* Standard deviation and variance- 1* Mean +- I SD = 68 % area* Mean +- 2 SD = 95 % area* Mean +- 3 SD = 99% area",
-        "cop": 1,
-        "opa": "180-220",
-        "opb": "160-240",
-        "opc": "190-210",
-        "opd": "150-250",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "31e5d239-1b9d-4353-96ca-2c83e8e533dd",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hypothesised null value for confidence interval of relative risk",
         "exp": "RELATIVE RISK Relative risk (RR) is the ratio of the incidence of the disease (or death) among exposed and the incidence among non-exposed. Some authors use the term \"risk ratio\" to refer to relative risk. Estimation of relative risk (RR) is impoant in aetiological enquiries. It is a direct measure (or index) of the \"strength\" of the association between suspected cause and effect. A relative risk of one indicates no association; relative risk greater than one suggests \"positive'. ' association between exposure and the disease under study. Hypothesised null value for confidence value is arbitrarily taken as 1. A relative risk of 2 indicates that the incidence rate of disease is 2 times higher in the exposed group as compared with the unexposed. Equivalently, this represents a 100 per cent increase in risk. A relative risk of 0. 25 indicates a 75% reduction in the incidence rate in exposed individuals as compared with the unexposed It is often useful to consider the 95 per cent confidence interval of a relative risk since it provides an indication of the likely and maximum levels of risk. In our hypothetical example the relative risk is 10. It implies that smokers are 10 times at greater risk of developing lung cancer than non-smokers. The larger the RR, the greater the \"strength\" of the association between the suspected factor and disease. It may be noted that risk does not necessarily imply causal association. Ref: Park 23rd edition Pgno: 78",
         "cop": 2,
@@ -2052,19 +1376,6 @@
         "topic_name": "Biostatistics",
         "id": "21dc037c-c100-41b4-bd08-5d0fed5ee487",
         "choice_type": "single"
-    },
-    {
-        "question": "True about simple randomization is",
-        "exp": "Ans. is 'a' Every person has an equal chance of selection Simple random sampling: It's done by assigning no. to each units and then selecting them randomly using a table of random numbers. with this procedure the sample is drawn in such a way that each unit has an equal chance of being drawn in sample. This technique provides the greatest number of possible samples not less. Simple randomization is not same as systemic random sampling. Systemic random sampling: It's done by picking every 5th or 10th unit at regular intervals. Stratified random sample: The sample is drawn in such a systemic way so that each position of the sample represents a corresponding strata of the universe.",
-        "cop": 1,
-        "opa": "Every person has an equal chance of selection",
-        "opb": "Less number of samples are obtained",
-        "opc": "Also known as systemic randomisation",
-        "opd": "Groups are not equally distributed",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "a431c9ca-8282-4e11-b4eb-612dad041584",
-        "choice_type": "multi"
     },
     {
         "question": "Which one of the following is not measure of dispersion-",
@@ -2145,19 +1456,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Order for the Margin of error in the graph given above is?",
-        "exp": "(a) 3>2>1* Margin of Error: Amount of random sampling error in a survey's results* Margin of error is simply the \"radius\" (or half the width) of a confidence interval* Margin of error = Critical value x Standard error* Standard error is inversely related to sample size (SEmean = SD/[?]. Sample size)* Margin of error is inversely related to the Sample size",
-        "cop": 1,
-        "opa": "3>2>1",
-        "opb": "3>1>2",
-        "opc": "1>3>2",
-        "opd": "1=2=3",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "b5d5d771-96f7-4dc7-ae2f-f1497de2b145",
-        "choice_type": "multi"
-    },
-    {
         "question": "Association of two variables explained by third variable",
         "exp": "Ref: Park's Textbook of Preventive and Social Medicine 25th Ed",
         "cop": 2,
@@ -2171,32 +1469,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Positive predictive value of a screening test is measured by-",
-        "exp": ".",
-        "cop": 1,
-        "opa": "True positive x 100 (True positive + False positive)",
-        "opb": "True negative x 100 (false positive + false negative)",
-        "opc": "True positive x 100\\/ (True positive + False negative)",
-        "opd": "True negative x 100 (True positive + False negative",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "d45adba0-afaf-44ec-a497-0174e32ac53e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are example of nominal scale except-",
-        "exp": "Body weight comes under metric scales. Scales can be: Qualitative: Categorical scales: Nominal: eg: names of countries. Dichotomous: eg: yes/no, presence/absence. Ordinal: severity of disease: mild/moderate/severe. eg: staging of cancer, kuppusamy socioeconomic class. Quantitative: Metric scales: Interval Ratio",
-        "cop": 3,
-        "opa": "Age",
-        "opb": "Sex",
-        "opc": "Body weight",
-        "opd": "Socio-economic status",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "7089e293-7a08-4889-bc49-e400c7316779",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is/are non random sampling methods-",
         "exp": "<p> Quota sampling is non-random sampling. Reference: Simple Biostatistics by Indeayan & Indrayan, 1st edition, pg no: 35-36 and Methods in Biostatistics by Mahajan, 7 th edition, pg no: 91. <\\p>",
         "cop": 1,
@@ -2208,19 +1480,6 @@
         "topic_name": "Biostatistics",
         "id": "899a262e-756d-4d93-acbc-a328e5a802d5",
         "choice_type": "single"
-    },
-    {
-        "question": "Association can be measured by all of the following except-",
-        "exp": ".",
-        "cop": 2,
-        "opa": "Correlation coefficient",
-        "opb": "cronbach's alpha",
-        "opc": "P value",
-        "opd": "Odds ratio",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "6d5edf2b-4b36-4231-9ad5-15a1210a8933",
-        "choice_type": "multi"
     },
     {
         "question": "A study was done in a population of 2000 individuals. Mean value of hemoglobin is 13. 5 grams and the distribution follows normal distribution curve. What percentage of people will be having hemoglobin level more than 13. 5 gram?",
@@ -2247,19 +1506,6 @@
         "topic_name": "Biostatistics",
         "id": "444b4e59-f27c-4e4d-95df-db61bd5f7134",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is a pre-requistic for the Chi square test to compare-",
-        "exp": ".",
-        "cop": 1,
-        "opa": "Both sample should be mutually exclusive",
-        "opb": "Both sample need not be mutually exclusive",
-        "opc": "Normal distribution",
-        "opd": "All of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "e3d1b356-283e-4766-8a1a-1bde2169a5f4",
-        "choice_type": "multi"
     },
     {
         "question": "When the confidence level of a test is increased which of the following will happen-",
@@ -2301,19 +1547,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Association can be measured by all of the following except",
-        "exp": "Ref: Park's Textbook of Preventive and Social Medicine 25th Ed",
-        "cop": 2,
-        "opa": "Correlation coefficient",
-        "opb": "Cronbach's Alpha",
-        "opc": "P value",
-        "opd": "Odd's ratio",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "e6736322-94e3-4add-855d-e4adcf5e6981",
-        "choice_type": "multi"
-    },
-    {
         "question": "In normal distribution which have same value",
         "exp": "Ref: Park's Textbook of Preventive and Social Medicine 25th Ed",
         "cop": 3,
@@ -2325,19 +1558,6 @@
         "topic_name": "Biostatistics",
         "id": "ad9d1d96-22af-4812-8a81-f5b7ddabcc3c",
         "choice_type": "single"
-    },
-    {
-        "question": "Rejecting a null hypothesis when it is true is called as?",
-        "exp": ".",
-        "cop": 1,
-        "opa": "Type 1 error",
-        "opb": "Type 2 error",
-        "opc": "Type 3 error",
-        "opd": "Type 4 error",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "2a721deb-514b-40e8-a10f-7d1ea4b2bed9",
-        "choice_type": "multi"
     },
     {
         "question": "Which graph shows continuous frequency distribution -",
@@ -2364,19 +1584,6 @@
         "topic_name": "Biostatistics",
         "id": "fce3d4fb-9e61-4cce-bf41-cadba64402c5",
         "choice_type": "single"
-    },
-    {
-        "question": "Chance of passing a genetic disease &; y&; trait by the affected parents to children is 0. 16. They plan to have two children. Prabability of both the children having &; y&; trait is -",
-        "exp": "<p> In the given question, chance of passing a Genetic disease &; y&; trait by the affected parents to children is 0. 16 and they plan to have two children, Probability of 1st child having &; y&; trait P(A)=0. 16(16%). Probability of 2nd child having &; y&; trait, P(B)= 0. 16(16%). Probability of both the children having &; y&; trait is. P( total)=P(A)+P(B). P(total)=0. 16*0. 16=0. 0256(2. 56%). Reference: Simple Biostatistics by Indrayan & Indrayan, 1st edition, pg no: 105-107. <\\p>",
-        "cop": 4,
-        "opa": "zero",
-        "opb": "0. 16",
-        "opc": "0. 32",
-        "opd": "0. 0256",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "96ad1d0b-96f3-4202-92c6-29ee8cff67ea",
-        "choice_type": "multi"
     },
     {
         "question": "In a normal surve, what percent of the values will be included in the area between two standard detions on either side of the mean (x+-....)?",
@@ -2418,19 +1625,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 'non-parametric test' used to compare three or more independent groups of sampled data?",
-        "exp": "Kruskal-Wallis Test is a non-parametric test (distribution-free) used to compare three or more independent groups of sampled data.",
-        "cop": 3,
-        "opa": "Chi-square test",
-        "opb": "Fishers test",
-        "opc": "Kruskal-Wallis test",
-        "opd": "Mc. Nemar test",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "7600a14a-03d6-4330-a4ec-640ba5a737ae",
-        "choice_type": "multi"
-    },
-    {
         "question": "On a given day, a hospital had 50 admissions with about 20 girls and 30 boys, out of which 10 girls and 20 boys needed surgery. What is the possibility of picking ou a person requiring surgery",
         "exp": "P(surgery) = (those requiring surgery) / total number = 30/50 = 3/5. The probability of picking boy requiring surgery would be 2/5. The probability of picking girl requiring surgery would be 1/5",
         "cop": 2,
@@ -2470,19 +1664,6 @@
         "choice_type": "single"
     },
     {
-        "question": "While testing a hypolidemic drug, serum lipid levels were tested both before and after its use. Which test is best suited for the stastical analysis of the result-",
-        "exp": "Ref: Parks 23rd edition pg 852 Here measurement is Quantitative and involves only a single group (before and after intervention). So we use paired T test. Tests of significance: Qualitative: Chi- square: 2 or more than 2 groups Mc Nemar test: 1 group. ( before and after intervention) Quantitative: Paired T test: 1 group Student T test/ unpaired T test: 2 groups Anova: more than 2 groups.",
-        "cop": 1,
-        "opa": "Paired T test",
-        "opb": "Student's test",
-        "opc": "Chi square test",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "1077bf68-dedf-49ca-a836-cb80e3fbb7d1",
-        "choice_type": "multi"
-    },
-    {
         "question": "The standard normal distribution:",
         "exp": "Normal Distribution: Is also known as &; Gaussian distribution&; or &; Standard distribution&; Type of distribution: Is the distribution of values of a quantitative variable such that they are symmetric with respect to a middle value with same mean, median and mode, and then the frequencies taper off rapidly and symmetrically on both sides- &; bell shaped distribution&; Fig: Normal curve showing distribution of values Normal or Gaussian curve Is &; bilaterally symmetrical and bell-shaped Is based on Mean and standard detion Mean, Median and Mode coincide (Mean=Median=Mode) Has mean (m ) = 0 and SD(s) = 1 Mean +- 1. SD (m +-1s) covers 68% values Mean +- 2. SD (m +-2s) covers 95% values Mean +- 3. SD (m +-3s) Covers 99% values In a normal distribution, 50% values lie above mean & 50 % below mean. Ref: Park 25th edition Pgno: 912",
         "cop": 4,
@@ -2507,32 +1688,6 @@
         "topic_name": "Biostatistics",
         "id": "c4293ad7-4789-4370-8700-9833de50da73",
         "choice_type": "single"
-    },
-    {
-        "question": "In a positively shewed curve, true statement is?",
-        "exp": ".",
-        "cop": 3,
-        "opa": "Mean = median",
-        "opb": "Mean < Mode",
-        "opc": "Mean > Mode",
-        "opd": "Mean = Mode",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "844ce1ac-71f4-48cc-8ad3-494b5dbb5983",
-        "choice_type": "multi"
-    },
-    {
-        "question": "An investigator concluded that presence or absence of five factors determine the disease condition. Which of the following would be most appropriate next study to determine if any of these five factors are independent precursors of the disease?",
-        "exp": "Logistic regression analysis is a popular and widely used analysis that is similar to linear regression analysis except that the outcome is dichotomous (e. g., success/failure or yes/no or died/lived). we examine the odds of an outcome occurring (or not), and by using the natural log of the odds of the outcome as the dependent variable the relationships can be linearized and treated much like multiple linear regression.",
-        "cop": 2,
-        "opa": "Multiple linear regression analysis",
-        "opb": "Multiple logistic regression analysis",
-        "opc": "Analysis of variance (ANOVA)",
-        "opd": "Kruskall - Wallis Analysis of ranks",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "83f8e658-98de-4226-8590-42f65f68b8c3",
-        "choice_type": "multi"
     },
     {
         "question": "A graphical presentation of a frequency distribution for grouped data for a continuous variable is known as:",
@@ -2600,45 +1755,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Standard error of mean is calles as -",
-        "exp": "<p> Standard detion. Reference: Park&; s textbook of preventive and social medicine, K. Park, 23rd edition, page no: 850. <\\p>",
-        "cop": 1,
-        "opa": "Standard detion",
-        "opb": "Mode",
-        "opc": "Median",
-        "opd": "Variable",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "d1bc5175-07b1-4f2e-96a2-0865fa54fbdd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "If coefficient of correlation between height and weight is 2. 6, TRUE is-",
-        "exp": "Ref: Parks 23rd edition pg 852 Corelation coefficient values can&; t go beyond 1. In order to find out whether there is significant association or not between the two variables, coefficient or Corelation is calculated. r lies between -1 and +1 r near -1: indicates strong negative correlation. r = 0: indicates no association r near +1: indicates strong positive correlation. Note: correlation does not necessarily prove causation.",
-        "cop": 4,
-        "opa": "Positive correlation",
-        "opb": "No association",
-        "opc": "Negative Correlation",
-        "opd": "Calculation of coefficient is wrong",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "05486a59-c32b-4b04-9d49-bb8f048d6dd7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Power is the ability to",
-        "exp": "Power is the probability of rejecting the null hypothesis when, in fact, it is false. Power is the probability of making a correct decision (to reject the null hypothesis) when the null hypothesis is false. Power is the probability that a test of significance will pick up on an effect that is present. Ref:",
-        "cop": 2,
-        "opa": "Reject true null hypothesis",
-        "opb": "Reject false null hypothesis",
-        "opc": "Accept true null hypothesis",
-        "opd": "Accept false null hypothesis",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "a8b57a61-5b63-4ad6-b2e5-f72023fe3fca",
-        "choice_type": "multi"
-    },
-    {
         "question": "On a given day, a hospital had 50 admissions with about 20 girls and 30 boys, out of which 10 girls and 20 boys needed surgery. What is the possibility of picking up a person requiring surgery",
         "exp": "<p> 2/6. Reference: Text of preventive and social medicine, K. Park, 20th edition, page no: 755. <\\p>",
         "cop": 1,
@@ -2650,19 +1766,6 @@
         "topic_name": "Biostatistics",
         "id": "c9e12160-f0c1-48fe-b96b-74e726ca85f0",
         "choice_type": "single"
-    },
-    {
-        "question": "What does correlation coefficient of 0. 5 indicate",
-        "exp": "Ref: Park's Textbook of Preventive and Social Medicine 25th Ed",
-        "cop": 2,
-        "opa": "Confidence interval of 95 %",
-        "opb": "Weak association",
-        "opc": "Not statistically significant",
-        "opd": "Good association",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "2f0e9e22-ddbb-4dc4-b234-17183c977b45",
-        "choice_type": "multi"
     },
     {
         "question": "Which one of the following tests can be used to study ordinal date from two independence samples from a population that is not noraml distributed?",
@@ -2717,19 +1820,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Sample size determinations depends upon all except",
-        "exp": "Sample size determination is the act of choosing the number of observations or replicates to include in a statistical sample. The sample size is an impoant feature of any empirical study in which the goal is to make inferences about a population from a sample. In practice, the sample size used in a study is usually determined based on the cost, time, or convenience of collecting the data, and the need for it to offer sufficient statistical power. In complicated studies there may be several different sample sizes: for example, in a stratified survey there would be different sizes for each stratum. In a census, data is sought for an entire population, hence the intended sample size is equal to the population. In experimental design, where a study may be divided into different treatment groups, there may be different sample sizes for each group. Sample sizes may be chosen in several ways: using experience - small samples, though sometimes unavoidable, can result in wide confidence intervals and risk of errors in statistical hypothesis testing. using a target variance for an estimate to be derived from the sample eventually obtained, i. e. if a high precision is required (narrow confidence interval) this translates to a low target variance of the estimator. using a target for the power of a statistical test to be applied once the sample is collected. using a confidence level, i. e. the larger the required confidence level, the larger the sample size (given a constant precision requirement). Ref: https://en. m. wikipedia. org/wiki/Sample_size_determination",
-        "cop": 2,
-        "opa": "Type I error",
-        "opb": "Test statistic value",
-        "opc": "Power",
-        "opd": "Expected parameter value",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "d870e7c6-edb7-47ab-af79-2734f7fe7a41",
-        "choice_type": "multi"
-    },
-    {
         "question": "To achieve a Net Reproduction Rate (NRR) of be 1 couple protection rate should be:",
         "exp": "Ans. b. 60%Ref: Parks Text book of Preventive and Social Medicine, 24th Ed; Page No-527. NET REPRODUCTION RATE (NRR)NRR is demographic indicator. It is defined as the number of daughters a newborn girl will bear during her life time assuming fixed age specific fertility and mortality rates. COUPLE PROTECTION RATE (CPR). It is an indicator of prevalence of contraceptive practice in a community. CPR is percent of eligible couples (ECs) protected against one or the other approved method of family planning, viz. Condoms, OCPs, IUDs, sterilization. NRR=1 can be achieved if CPR>60%CPR (India): 47. 1%(2106). Goal for CPR in RCH-II (2004-09): >65%(Goal by 2020 FP vision: 63. 7%)CPR =x100",
         "cop": 2,
@@ -2743,19 +1833,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Q. Which of the following true regarding the following two curves (Blue and red) overall?",
-        "exp": "(b) Mean = Median, not equal to Mode. In the given question, * Red curve is Bilaterally symmetrical, bell shaped curve, hence it's a Normal distribution- In Normal distribution, Mean = Median = Mode (Green vertical line)* Blue curve has two modes (both symmetrical too), hence it's a Bimodal distribution- Since Bimodal curve is symmetrical, its Mean and Mode would lie at intersection 'X', so Mean = Median (Black arrow)",
-        "cop": 2,
-        "opa": "Mean = Median = Mode",
-        "opb": "Mean = Median, not equal to Mode",
-        "opc": "Mean = Mode, not equal to Median",
-        "opd": "Mean, Median and Mode are not equal",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "6e2c7cd0-2222-4cc0-a39b-4c3660754c6b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following variabls is measure on ordinal scale-",
         "exp": "Scales can be: Qualitative: Categorical scales: Nominal: eg: names of countries. Dichotomous: eg: yes/no, presence/absence. Ordinal: severity of disease: mild/moderate/severe. eg: staging of cancer, kuppusamy socioeconomic class. Quantitative: Metric scales: Interval Ratio",
         "cop": 2,
@@ -2767,19 +1844,6 @@
         "topic_name": "Biostatistics",
         "id": "440919a3-b2cf-4805-8e41-1cc5e76d4d12",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following can be analyzed with chi square test except?",
-        "exp": "(b) Heart rate/min and Age, Ref: Biostatistics Principles and Practice by B Antonisamy, Me graw hill publication, Pg-117. In given question, all options except heart rate/minute and age are of qualitative variables (nominal or ordinal). Qualitative variables are usually presented in frequencies or count. Chi square test is used to compare any difference or association between two qualitative variables. Heart rate/minute and age are quantitative variables where chi square test cannot be applied. Hence correct answer is b here.",
-        "cop": 2,
-        "opa": "Sex and stage of cancer",
-        "opb": "Heart rate/min and Age",
-        "opc": "Benign or malignant, and type of surgery",
-        "opd": "Age group and cancer stage",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "4cefbbbe-9e51-4135-8e25-c5b2a178fec3",
-        "choice_type": "multi"
     },
     {
         "question": "[?](pq/n) is",
@@ -2806,19 +1870,6 @@
         "topic_name": "Biostatistics",
         "id": "5ee5b370-4cfc-4960-8d52-00502ba2b13a",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is a pre - requissite for the Chi square test to compare-",
-        "exp": ".",
-        "cop": 1,
-        "opa": "Both sample should be mutually exclusive",
-        "opb": "Both sample need not be mutually exclusive",
-        "opc": "Normal distribution",
-        "opd": "All of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "d914e093-891b-42f0-bcdc-540b011e2b63",
-        "choice_type": "multi"
     },
     {
         "question": "Not a measure of central tendency -",
@@ -2858,71 +1909,6 @@
         "topic_name": "Biostatistics",
         "id": "15dab884-9c18-47f2-80bd-94f4ab32b5f6",
         "choice_type": "single"
-    },
-    {
-        "question": "ANOVA is",
-        "exp": "Ref: Park's Textbook of Preventive and Social Medicine 25th Ed",
-        "cop": 1,
-        "opa": "Parametric",
-        "opb": "Non parametric",
-        "opc": "Qualitative",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "0718288e-94ae-4d1a-9f77-edb9522006b0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The PEFR of a group of 11 year old girls follow a normal distribution with mean 300 L/min and stardard detion 20 L/min-",
-        "exp": "Ref: Parks 23rd edition pg 849. SD = 1: confidence limit = 68% SD = 2: confidence limit = 95% SD = 3: confidence limit = 99. 7% Here 2. SD = 2x20 = +/-40 So, between 260 and 340 2. SD covers 95% values, remaining is 5%, So 5% fall below 260 and above 340 Precisely 2. 5% below 260 and 2. 5% above 340",
-        "cop": 1,
-        "opa": "About 95 % of the girls have PEFR between 260 and 340 L\\/min",
-        "opb": "The girls have healthy lungs",
-        "opc": "About 5% of girls have PEFR below 260 L\\/min",
-        "opd": "All the PEFR must be less than 340 L\\/min",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "11074cf4-bfbb-464b-b339-2a64472873ac",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Square root of detion is called as",
-        "exp": "The standard detion Most frequently used measure of detion Widely used measure of variability or diversity used in statistics and probability theory Ref: Park&; s Textbook of Preventive and Social Medicine; 23rd edition - Pgno. 848",
-        "cop": 1,
-        "opa": "Standard detion",
-        "opb": "Standard error",
-        "opc": "Mean detion",
-        "opd": "Range",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "1960768e-878c-4353-9f26-31db852b9608",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about chi-square test-",
-        "exp": "Ans. is 'd' i. e., Used when there are more than 2 group Chi-square test* It is a non-parametric test to measure the association between two or more qualitative variables, i. e. when observations are in proportions, percentage or fractions. It tests the significance of difference between two proportions. As with all non-parametric tests, it is used for non-Normal (non-Gaussian) distribution.* The chi square test has an added advantage. It can be applied to find association or relationship between two discrete attributes when there are more than two class orgroupsas happens in multinomial samples.* Studies often collect data on categorial (qualitative) variables that can be summarized as a series of counts. These counts are commonly arranged in a tubular format known as a contingency table. For example, a study designed to determine whether or not there is association between cigarette smoking and asthma attack might collect data that could be assembled into a 2-2 table - table containing two columns and two rows.* The chi - square test can be used to evaluate whether there is an association between the rows and columns in a contingeny table i. e. between two variables (smoking and asthma attack).* The chi square test assumes that no association occurs between two events in question unless proved otherwise - Null hypothesis. The chi-sequare test is designed to test the null hypothesis which says that there is no association betweens two variables (the rows and columns of a contigency table).* Chi-square test only tells about the presence or absence of association, but it dose not measure the strength of association. Degree of freedom* Degree of freedom is the number of observations in the final calculation that are free to vary. The number of degree of freedom of contigency table is the product of one less the number ofrows(r) and one less the number of column(c). DOF = (C-l) (r-1)* For example in a contigency table with 4 rows and 4 columns, DOF is 9 (4-1 x 4-1 ). Contingency table. Degree of freedom (dof)2 x 2 table(2 - 1) (2 - 1) = 13 x 3 table(3 - 1) (3 - 1) = 44 x 4 table(4 - 1) (4 - 1) = 95 x 5 table(5 - 1) (5 - 1) = 163 x 4 table(3 - 1) (4 - 1) = 610 x 20 table(10 - 1) (20 - 1) = 171* The categories defining rows and columns of contigency table must be mutually exclusive.* Yates correction: If there is difference between calculated and theoretical values of chi-square test, this can be compensated by Yates's correction.",
-        "cop": 4,
-        "opa": "Parametric test",
-        "opb": "Used for Gaussian distribution",
-        "opc": "Measure the strength of association",
-        "opd": "Used when there are more than 2 group",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "fb7ce1b7-6c79-40b7-9819-311787282cce",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about correlation coefficient:",
-        "exp": "Ans. D. Value lies between -1 to +1. Correlation: Often we wish to know if there is linear relation between two variables, e. g. height and weight. To find out the strength of association between the two variables we calculate the coefficient of correlation and it is denoted by V. The value of r can lie between -1 to +1. If r = 0 then there is no association between the two variables. Regression: Used when we wish to calculate unknown value of a variable, when we know value of another variable. The known variable is called independent variable and denoted by x and the unknown variable is called dependent variable denoted by y. Equation for linear regression is given byy = a + bx. Where y is dependent variable, a is constant, b is the regression coefficient and x is independent variable. Coming to the present question. Option a is wrong as correlation coefficient is denoted by r and not r2. Option b has to be false if option d is correct. In such questions, where there are two mutually exclusive options, i. e. of the two statement one explains the other and only one can be true, you easily rule out the other two even if you do not know about them. Thus, in this question even if you do not know a thing about correlation (which by now you do pretty well) you can conclude answer has to be either option c or d. Option d is the only true statement among all four. Option c is the definition of regression.",
-        "cop": 4,
-        "opa": "Denoted by r2",
-        "opb": "Its value can never be Zero",
-        "opc": "Can be used to calculate value of one variable if other is known",
-        "opd": "Value lies between -1 to +1",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "b1266dcf-2749-4335-b7c1-e8d19f83c4b5",
-        "choice_type": "multi"
     },
     {
         "question": "A study measures a patients's serum cholesterol before and after a new lipid lowering therapy has been given. What type of significance test should be used to analyze the data?",
@@ -3042,32 +2028,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In a study to determine relationship between presence of I. H. D and smoking, the appropriate Statistical test is",
-        "exp": "CHI-SQUARE TEST Chi-square (x2) Test offers an alternate method of testing the significance of difference between two propoions. It has the advantage that it can also be used when more than two groups are to be compared. Steps (1) TEST THE 'NULL HYPOTHESIS' (2) APPLYING THE x2 TEST (3) FINDING THE DEGREE OF FREEDOM (4) PROBABILITY TABLES Ref: Park 23rd edition Pgno: 852",
-        "cop": 3,
-        "opa": "Z-test",
-        "opb": "Paired 't' test",
-        "opc": "Chi-square test",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "6e459615-a51e-42b0-8cbc-519b3b900d06",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about bell's curve is -",
-        "exp": "Ans. is 'd' i. e., Has variance =1. 0 Standard normal curve (Bell curve or Gaussian distribution) has been explained in previous sessions.",
-        "cop": 4,
-        "opa": "It skewed to the left",
-        "opb": "Has mean =1[?]0",
-        "opc": "Has standard deviation = 0[?]0",
-        "opd": "Has variance =1[?]0",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "7085c624-044c-4c7a-bccb-24eae9f1f41b",
-        "choice_type": "multi"
-    },
-    {
         "question": "If one wants to compare variation in two variables, which unit of measurement should be used",
         "exp": "Ref: Park's Textbook of Preventive and Social Medicine 25th Ed",
         "cop": 4,
@@ -3172,19 +2132,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about simple randomization is-",
-        "exp": "Park's textbook of preventive and social medicine 23rd edition *With this procedure, the sample is drawn in such a way that each unit has an equal chance of being drawn in the sample.",
-        "cop": 1,
-        "opa": "Every person has an equal chance of selection",
-        "opb": "Less number of samples are obtained",
-        "opc": "Also known as systemic randomization",
-        "opd": "Groups are not distributed",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "e394ef15-5500-49e4-98f1-2b33a58966a8",
-        "choice_type": "multi"
-    },
-    {
         "question": "The Hb level is healthy women has mean 13. 5 g/dl and standard detion 1. 5 g/dl, what is the Z score for a woman iwht Hb level 15. 0 g/dl-",
         "exp": "Ref: Parks 23rd edition pg 849 Z score = (individual value - mean) / SD =(15-13. 5)/1. 5= 1",
         "cop": 4,
@@ -3237,19 +2184,6 @@
         "choice_type": "single"
     },
     {
-        "question": "about test of significance between two large population, one of the following statements is true-",
-        "exp": ".",
-        "cop": 4,
-        "opa": "Null hypothesis states that 2 means are equal",
-        "opb": "Standard error of difference is the sum of the standard error of 2 means",
-        "opc": "Standard error of means are equal",
-        "opd": "Standard error of difference between populations calculated",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "921fe79a-04bf-4396-aedd-8cb7de40fee9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Under the registration act of 1969, bih should be registered within -",
         "exp": ".",
         "cop": 1,
@@ -3261,32 +2195,6 @@
         "topic_name": "Biostatistics",
         "id": "20f14673-fdc0-483d-b26f-ca81ccd7fd02",
         "choice_type": "single"
-    },
-    {
-        "question": "300 diseased people were made to undergo a test of which only 60 were positive. 40 people were found to be false positive for the test. The positive predictive value of the test is:",
-        "exp": "Ans: b (60/100). Ref: Park, 20th ed. Pg. 126 19 ed., Pg. 119. Screening test results. Diagnosis. Total. Diseased. Not diseased. Positive. Negativea (True positive)c (False negative)b (False positive)d (True negative)a+bc+d. Totala+cb+da+b+c+d. Sensitivity = a/ (a+c) x 1 (X). Specificity = d/ (b+d) x 1 (M). Predictive value of positive test= a/ (a+b) x 100. Predictive value of a negative test = d/ (c+d) x 100. Percentage of false negatives = c/ (a+c) x 100. Percentage of false positives = b/ (b+d) x 100. Sensitivity is the ability of a test to identify correctly all those who have the disease that is \"true positive\". A screening test which is very sensitive has few \"false negatives\". Specificity is the ability of a test to identify correctly those who do not have the disease that is true negatives. A screening test which is very specific has few \"false positives\".",
-        "cop": 2,
-        "opa": "40/100",
-        "opb": "60/100",
-        "opc": "40/300",
-        "opd": "240/300",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "78829adf-46e6-4c37-b03c-d75e60228987",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about a negatively skewed data",
-        "exp": "A left skewed distribution or negatively skewed distribution because it's long tail is in the negative direction on a number line. The mean is to the left of the peak. (mode) The tail is longer on the left. In most cases, the mean is to the left of the median. mean < median < mode",
-        "cop": 2,
-        "opa": "Mode is Less than median",
-        "opb": "Mode is More than median",
-        "opc": "Mode is equal to median",
-        "opd": "No correlation",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "b6700b47-c0e9-4ee4-85a3-fac374a3606d",
-        "choice_type": "multi"
     },
     {
         "question": "The staing numbers in life table is known as",
@@ -3328,32 +2236,6 @@
         "choice_type": "single"
     },
     {
-        "question": "TRUE regarding chi square test is",
-        "exp": "Ref: Parks 23rd edition pg 852 Chi-square test offers an alternate method of testing the significance of difference between two propoions. Advantage: it can also be used when more than 2groups are to be compared.",
-        "cop": 3,
-        "opa": "Null hypothesis is equal",
-        "opb": "Doesn't test the significance",
-        "opc": "Measures the significance of difference between two propoion",
-        "opd": "Tests correlation and regression",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "e8c7168d-0c68-4a0a-a2c3-b9a34238619f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statements about confidence limits/ interval is true-",
-        "exp": ".",
-        "cop": 4,
-        "opa": "Smaller the confidence level larger will be the confidence interval",
-        "opb": "Less variable the data, wider will be the confidence interval",
-        "opc": "Sample size does not affect the confidence interval",
-        "opd": "95% confidence interval will cover 2 standard errors around the mean",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "a226ea9c-8fde-402a-a56e-0f2d702ee17b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Results of a test were given as very satisfied, satisfied, dissatisfied, it representes",
         "exp": "Scales can be: Qualitative: Categorical scales: Nominal: eg: names of countries. Dichotomous: eg: yes/no, presence/absence. Ordinal: severity of disease: mild/moderate/severe. eg: staging of cancer, kuppusamy socioeconomic class. Quantitative: Metric scales: Interval Ratio",
         "cop": 2,
@@ -3367,32 +2249,6 @@
         "choice_type": "single"
     },
     {
-        "question": "ANOVA is-",
-        "exp": "Ref: Parks 23rd edition pg 852 It is a Quantitative test/Metric test. Tests of significance: Qualitative: Chi- square: 2 or more than 2 groups Mc Nemar test: 1 group. ( before and after intervention) Quantitative: Paired T test: 1 group Student T test/ unpaired T test: 2 groups Anova: more than 2 groups.",
-        "cop": 1,
-        "opa": "Parametric test",
-        "opb": "Non parametric test",
-        "opc": "Qualitative test",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "41b095b9-11d6-4d68-aa20-e45163020199",
-        "choice_type": "multi"
-    },
-    {
-        "question": "For a survey a village is divided into 5 lanes then each lane is sapled randomly is an example is -",
-        "exp": "- systematic random sample is done by picking every 5th or 10th unit at regular intervals. - by this method, each unit in the sampling frame would have the sane chance of being selected, but the number of possible samples is greatly reduced. Reference: Park's textbook of preventive and social medicine, 23rd edition, pg no: 850",
-        "cop": 3,
-        "opa": "Simple random sampling",
-        "opb": "Stratified random sampling",
-        "opc": "Systematic random sampling",
-        "opd": "All of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "51b6b314-4ff7-4299-8b6a-a552f245dde9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Simple random sampling-",
         "exp": ".",
         "cop": 2,
@@ -3404,19 +2260,6 @@
         "topic_name": "Biostatistics",
         "id": "667b7332-b81a-47c3-9926-85c9b9e099a1",
         "choice_type": "single"
-    },
-    {
-        "question": "True negative means-",
-        "exp": "Ref: Parks 23rd edition pg 136 specificity is defined as the ability of a test to identify those who do not have the disease. That is true negatives.",
-        "cop": 2,
-        "opa": "Sensitivity",
-        "opb": "Specificity",
-        "opc": "Positive predictive value",
-        "opd": "Negative predective value",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "13542b08-c3d8-4cfb-8889-f1381c237086",
-        "choice_type": "multi"
     },
     {
         "question": "Percentiles divides the data into _____ equal pas",
@@ -3443,32 +2286,6 @@
         "topic_name": "Biostatistics",
         "id": "d180322d-fa0c-4040-a92f-683fab03afdd",
         "choice_type": "single"
-    },
-    {
-        "question": "A non symmetrical frequency distribution is known as -",
-        "exp": ".",
-        "cop": 2,
-        "opa": "Normal distribution",
-        "opb": "Skewed distribution",
-        "opc": "Cumulative frequency distribution",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "0d2f17b9-4c6f-4047-ac60-74cce2717c59",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about cluster sampling except-",
-        "exp": ".",
-        "cop": 1,
-        "opa": "Samples are similar to those in simple Random sampling",
-        "opb": "Is a Rapid and simple method",
-        "opc": "The sample size may very according to study design",
-        "opd": "It is a type of probability sample",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostatistics",
-        "id": "299b8c5b-46aa-48dd-bd70-81db6ec700b5",
-        "choice_type": "multi"
     },
     {
         "question": "Histogram is used to describe-",

@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are moality indicators except?",
-        "exp": "Disability adjusted life years (DALY) is a disability rate. Moality Indicators are: Crude death rate Life expectancy Infant moality rate Propoion moality rate Case fatality rate Years of potential life lost (YPLL)",
-        "cop": 1,
-        "opa": "Disability adjusted life years (DALY)",
-        "opb": "Years of potential life lost (YPLL)",
-        "opc": "Life Expectancy",
-        "opd": "Case fatality rate",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Disease Causation, Measurements, Milestones",
-        "id": "c8b9519c-f713-4fc4-ac51-6f1f6da5312c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are example of Ratios except",
-        "exp": "Tools of measurement in epidemics: Rate = x 1000/ 10000/ 100000; a is pa of b Ratio = a/b; a is not a pa of b Propoion = x 100 = %; a is pa of b - Eg: Rate Ratio Propoion IMR Incidence Crude death rate MMR Sex ratio Relative risk Prevalence Case fatality rate Survival rate Propoional moality rate",
-        "cop": 2,
-        "opa": "Relative risk",
-        "opb": "Incidence",
-        "opc": "Sex ratio",
-        "opd": "Maternal moality ratio",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Disease Causation, Measurements, Milestones",
-        "id": "de3482f4-b508-49fd-8afb-2e7462662686",
-        "choice_type": "multi"
-    },
-    {
         "question": "Germ theory of disease causation is given by:-",
         "exp": "THEORIES OF DISEASE CAUSATION: Theory of Spontaneous generation - given by Aristotle. Germ theory of disease - Louis Pasteur. Multifactorial causation of disease - Pattenkoffer. Web of causation - Mc Mohan & pugh.",
         "cop": 2,
@@ -65,45 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "About Direct standardization all are true except:",
-        "exp": "Standardization is done to compare the death rate of two populations with different age composition. Direct Standardization Indirect Standardization Method Use actual ASDRs* on the standard age structure Use Standard ASDRs* on the actual age structures Utility when 1. No. of deaths in each age group 2. Population in each age group Both are available Both are unavailable (ASDR*: Age Specific Death Rate)",
-        "cop": 1,
-        "opa": "Age specific death rate is not needed",
-        "opb": "A standard population is needed",
-        "opc": "Population should be comparable",
-        "opd": "Two populations are compared",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Disease Causation, Measurements, Milestones",
-        "id": "15071daa-29c4-41d8-959d-0f32d64e22c7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "If a new effective treatment is initiated for a communicable disease and all the other factors remain the same, which of the following is most likely to happen?",
-        "exp": "In an infectious disease case, as the prevalence comes down, the number of infective people in the community also comes down and hence incidence also comes down.",
-        "cop": 4,
-        "opa": "Incidence will not change",
-        "opb": "Prevalence will change but incidence will not change",
-        "opc": "Neither incidence nor prevalence will change",
-        "opd": "Incidence and prevalence both will change",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Disease Causation, Measurements, Milestones",
-        "id": "0e21b511-d860-4768-b860-50047401123d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All about incidence are false, except:-",
-        "exp": "INCIDENCE Incidence is independent of duration of the disease. Incidence may be more or less or equal to prevalence. Incidence measures only the new cases. Incidence can be measured by coho study. It is more suitable for measurement in acute conditions. Measures efficacy of preventive and therapeutic measures. Good indicator of efficacy of health programs. Incidence = x 1000 Prevalence = total number of cases / total population x 100",
-        "cop": 1,
-        "opa": "Not affected by duration",
-        "opb": "More than prevalence",
-        "opc": "Measures old and new cases",
-        "opd": "Used for chronic conditions",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Disease Causation, Measurements, Milestones",
-        "id": "763cbf30-1cb0-463f-af52-551daac6441b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Attack rate is:-",
         "exp": "Attack Rate Is synonymous with disease incidence. Other synonyms include risk/ hazard. Incidence = x 1000.",
         "cop": 1,
@@ -117,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Propoional moality rate is:-",
-        "exp": "Propoional Moality Rate (PMR) x 100. Numerator is a pa of the denominator & expressed in %. Hence, it is a propoion. Rate Ratio Propoion IMR Incidence Crude death rate MMR Sex ratio Relative risk Prevalence Case fatality rate Survival rate Propoional moality rate",
-        "cop": 3,
-        "opa": "Rate",
-        "opb": "Ratio",
-        "opc": "Propoion",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Disease Causation, Measurements, Milestones",
-        "id": "56e0f71c-961b-46b0-8786-d8101dc7420c",
-        "choice_type": "multi"
-    },
-    {
         "question": "The extent to which a specific health care treatment, service, procedure, program or other intervention does what it is intended to do when used in a community dwelling population is termed its:-",
         "exp": "Effectiveness looks at how the intervention works in real-life settings. Efficacy, tests the same in controlled or laboratory settings. Effect modification is all about stratification & occurs when an exposure has a different effect among different subgroups. Effect modification is associated with the outcome but not exposure.",
         "cop": 2,
@@ -141,19 +63,6 @@
         "topic_name": "Disease Causation, Measurements, Milestones",
         "id": "3571baed-0236-4962-9459-4ecc48fa5712",
         "choice_type": "single"
-    },
-    {
-        "question": "A couple has 4 children, all unvaccinated for Measles. A child got Measles on 5 August 2015. Two other children developed Measles by 15 August 2015. Secondary attack rate is:",
-        "exp": "In the given question, One primary case given rise to two secondary cases Total susceptible = 3 (4 children minus primary case) SAR = No. of secondary cases/ Total susceptibles X 100 So, SAR = 2/3 X 100= 66. 6%",
-        "cop": 3,
-        "opa": "0%",
-        "opb": "33%",
-        "opc": "66%",
-        "opd": "75%",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Disease Causation, Measurements, Milestones",
-        "id": "22f313ee-bccd-4b42-8596-deda3f349297",
-        "choice_type": "multi"
     },
     {
         "question": "Epidemiological transition ratio is defined as:-",
@@ -180,19 +89,6 @@
         "topic_name": "Disease Causation, Measurements, Milestones",
         "id": "b1cf568d-13b7-4b08-81f0-0b9d76259368",
         "choice_type": "single"
-    },
-    {
-        "question": "Select true statement regarding propoion:-",
-        "exp": "Propoion = a/b X 100. numerator (a) is pa of Denominator (b). always expressed in percentage. Examples: Prevalence of disease, Case fatality Rate are also propoion.",
-        "cop": 2,
-        "opa": "Numerator is not a pa of denominator",
-        "opb": "Numerator is pa of denominator and always expressed as percentage",
-        "opc": "Numerator is pa of denominator and not expressed as percentage",
-        "opd": "Numerator is not a pa of denominator and always expressed as percentage",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Disease Causation, Measurements, Milestones",
-        "id": "5b8244f0-89cb-47db-beaa-bf47e2d00f72",
-        "choice_type": "multi"
     },
     {
         "question": "In a village having population of 1000, we found patients with ceain disease. The results of new diagnostic test on disease are as follows: Test result Disease Present Absent + 180 400 - 20 400 What is the percent prevalence of disease?",

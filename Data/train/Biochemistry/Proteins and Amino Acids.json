@@ -1,18 +1,5 @@
 [
     {
-        "question": "A 34-year-old female has a history of intermittent episodes of severe abdominal pain. She has had multiple abdominal surgeries and exploratory procedures with no abnormal findings. Her urine appears dark during an attack and gets even darker if exposed to sunlight. The attacks seem to peak after she takes erythromycin, because of her penicillin allergy. This patient most likely has difficulty in synthesizing which one of the following?",
-        "exp": "The patient has acute intermittent porphyria, which is a defect in one of the early steps leading to heme synthesis. The buildup of the intermediate that cannot continue along the pathway leads to the dark urine, and it turns darker when ultraviolet (UV) light interacts with the conjugated double bonds in the molecule. Erythromycin is metabolized through an induced P450 system, which requires increased heme synthesis. This leads to metabolite buildup to the level where the abdominal pain appears. The defect in heme synthesis does not affect creatine phosphate, cysteine, thymine, or methionine levels.",
-        "cop": 1,
-        "opa": "Heme",
-        "opb": "Creatine phosphate",
-        "opc": "Cysteine",
-        "opd": "Thymine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "0f52a203-4d3d-4fee-b3c2-ee98ee03fe10",
-        "choice_type": "multi"
-    },
-    {
         "question": "DNA enzyme for aging:",
         "exp": "Ans. (c) Telomerase. Ref: Harper's Biochemistry, 30th ed. pg. 374, 732, 26th ed. Pg- 318* The ends of each chromosome contain structures called telomeres.* Telomeres consist of short, repeat TG-rich sequences. Human telomeres have a variable number of repeats of the sequence 5'-TTAGGG-3', which can extend for several kilobases.* Telomerase, is related to viral RNA-dependent DNA polymerases (reverse transcriptases) and is the enzyme responsible for telomere synthesis and thus for maintaining the length of the telomere.* Telomere shortening has been associated with both aging and malignant transformation. Because of this reason, telomerase has become an attractive target for cancer chemotherapy and drug development.",
         "cop": 3,
@@ -89,19 +76,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "cadf8a35-bbee-49b9-a54c-b855ae257161",
         "choice_type": "single"
-    },
-    {
-        "question": "Tyrosine is required for the synthesis of all of the following except:",
-        "exp": "Ans. A. Melatonin. Melatonin is a hormone, synthesized by pineal gland. The amino acid required is tryptophan. It is also called N-acetyl 5- methoxy serotonin. Melatonin is involved in circadian rhythms. Epinephrine, Nor-epinephrine and thyroxine are all synthesized by Tyrosine.",
-        "cop": 1,
-        "opa": "Melatonin",
-        "opb": "Epinephrine",
-        "opc": "Norepinephrine",
-        "opd": "Thyroxine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "531c4517-9ab0-4a28-bdcc-3a5912e257a6",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following amino acid is active at neutral pH?",
@@ -195,32 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Tryptophan is:",
-        "exp": "Ans. D. Non polar, essential, both glucogenic & ketogenic. Tryptophan is a non-polar, heterocyclic amino acid. It acts as glucogenic as well as ketogenic amino acid. It is an essential amino acid as it helps in the formation of Niacin (active form NAD) and serotonin and melatonin.",
-        "cop": 4,
-        "opa": "Non polar, essential and pure glucogenic",
-        "opb": "Polar, essential and both glucogenic & ketogenic",
-        "opc": "Polar, non-essential, both glucogenic & ketogenic",
-        "opd": "Non polar, essential, both glucogenic & ketogenic",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "8bbc39bf-3ec5-4926-836e-7c3bd0eee195",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Glucogenic aminoacids give rise to all of the following intermediates of citric acid cycle except-",
-        "exp": "Ans. is 'a' i. e., Isocitrate. Glucogenic amino acids Component of TCA cycle produced. Histidine, proline, glutamine, arginine. Glutamatea-ketogiutarate. Isoleucine, methioniney valine Succinyl Co. ATyrosine, phenylalanine Fumarate. Tryptophan. Alanine. Pyruvate. Hydroxyproline, serine, cysteine, threonine, glycine Pyruvate",
-        "cop": 1,
-        "opa": "Isocitrate",
-        "opb": "a ketoglutarate",
-        "opc": "Succinyl CoA",
-        "opd": "Fumarates",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "582dfc7e-86de-4bc5-858c-ee3612515768",
-        "choice_type": "multi"
-    },
-    {
         "question": "In one carbon metabolism Serine loses which carbon atom?",
         "exp": "Ans. B. Beta. Carbon atom. Enzyme is Serine Hydroxy Methyl Transferase. Serine loses the beta Carbon atom to form Glycine and Methylene THFA",
         "cop": 2,
@@ -232,19 +180,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "414907aa-88b4-4a1b-b137-6a0541eba572",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is true about glycine?",
-        "exp": "Ans: d (Optically inactive) Ref: Vasudevan, 4th, ed, p. 5th ed, p. 173. Glycine is the simplest amino acid. Optically inactive. It forms every third amino acid in collagen (and most abundant amino acid in collagen). Glycine is a glucogenic amino acid formed from serine. Guanido group is present in arginine. ESSENTIAL AMINO ACIDNON ESSENTIAL AMINO ACIDLeucine. Valine, Alanine. Glutamic acid. Lysine. Threonine, Glycine. Aspartic acid. Isoleucine. Tiyptophan, Proline. Tyrosine. Phenylalanine. Methionine. Cysteine. Serine. Asparagine. Glutamine. SEMI ESSENTIAL AMINO ACIDS: Arginine, histidine.",
-        "cop": 4,
-        "opa": "Glycine is an essential amino acid",
-        "opb": "Sulphur containing at 4th position",
-        "opc": "Has a guanidine group",
-        "opd": "Optically inactive",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "2138d00b-28ba-4af7-85c5-1dc8f6206b15",
-        "choice_type": "multi"
     },
     {
         "question": "Fish odour syndrome can be prevented by intake of:",
@@ -494,19 +429,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following amino acids forms Acetyl CoA via pyruvate dehydrogenase except:",
-        "exp": "Ans. B. Tyrosine(Ref: Harper 31/e page 151-155). Amino acid that enter via Pyruvate to TCA cycle are: Hydroxy Proline, Serine, Cysteine, Threonine, Glycine. Tryptophan, Alanine",
-        "cop": 2,
-        "opa": "Glycine",
-        "opb": "Tyrosine",
-        "opc": "Hydroxyproline",
-        "opd": "Alanine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "a4ed1300-e658-4d9c-9ff2-3e869ae24637",
-        "choice_type": "multi"
-    },
-    {
         "question": "Sickle cell disease is present with which mutation:",
         "exp": "Ans. (d) Base pair substitution. Ref: Harper's Biochemistry, 30th ed. pg. 416-17A partial missense mutation (type of base pair substitution) glutamic acid, the normal amino acid in position 6 of the b chain, has been replaced by valine.",
         "cop": 4,
@@ -531,32 +453,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "cff2a8e4-2756-4627-a47b-49fff49774fe",
         "choice_type": "single"
-    },
-    {
-        "question": "A 30-year-old male has had multiple episodes of sudden, severe pain, redness, and swelling of metatarsophalangeal joint of his great toes. These problems seem to occur after the man has had a night out on the town with his friends, when they go barhopping, and the night usually ends with a cab ride home for the group. This problem would also be exacerbated if the man eats which one of the following during his night out?",
-        "exp": "The man is experiencing gout attacks, cause by a buildup of uric acid. Uric acid is the end product of purine degradation. The liver contains larger levels of nucleic acids (DNA and RNA) than do the other foods listed as answers, and the intestinal epithelial cells will convert the purines in the food to uric acid and release it into the circulation. The alcohol the man has consumed leads to dehydration, which raises the uric acid concentration to the point where it will precipitate in the blood, leading to the painful episodes.",
-        "cop": 3,
-        "opa": "Hamburger",
-        "opb": "Chicago hot dog",
-        "opc": "Chopped liver",
-        "opd": "Nachos and salsa",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "c4675e2f-981c-4d12-831f-2b2e961f1e4f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are excreted in cystinuria, except:",
-        "exp": "Ans. b. Leucine. Ref: Harpers 30th Ed, Page No- 302. Cystine, lysine, arginine, and ornithine are excreted in cystine-lysinuria (cystinuria), a defect in renal reabsorption of these amino acids. Apart from cystine calculi, cystinuria is benign. The mixed disulfide of 1-cysteine and 1-homocysteine excreted by cystinuric patients is more soluble than cystine and reduces formation of cystine calculi. Several metabolic defects result in vitamin B6-responsive or vitamin B6-unresponsive homocystinurias. These include a deficiency in the reaction catalyzed by cystathionine b-synthase; Serine+homocysteine-cystathionine +H2 O",
-        "cop": 2,
-        "opa": "Cystine",
-        "opb": "Leucine",
-        "opc": "Arginine",
-        "opd": "Ornithine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "d509db16-80b3-4bf7-b75f-8d45e3543072",
-        "choice_type": "multi"
     },
     {
         "question": "Enzyme deficient in Alkaptonuria?",
@@ -624,19 +520,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Metabolic water is -",
-        "exp": "Ans. is 'c' i. e., Water produced by metabolism o A small amount of water is produced during metabolism of food called metabolic water. o It is approximately 150-350 ml/day.",
-        "cop": 3,
-        "opa": "Ingested water",
-        "opb": "Water infused iv",
-        "opc": "Water produced by metabolism",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "7717e1e8-dc48-4ff8-b5de-bd7bd5d94957",
-        "choice_type": "multi"
-    },
-    {
         "question": "The protein synthesis is sorted out at / by",
         "exp": "(Golgi - Apparatus) (7 RS 7th). Golgi - complex (or Golgi - apparatus) or Dietysomes - Recent evidence suggests strongly that the complex serve as unique sorting device that recieve newly synthesized proteins* The post translational modifications takes place in the golgi lumen (median part) where the carbohydrate and lipid precursors are added to proteins to form glycoproteins and lipo proteins respectively* Ribosomes - are the centre of factories of protein synthesis* Rough Endoplasmic reticulum (RER) synthesizes membrane lipids and secretory proteins**",
         "cop": 3,
@@ -663,19 +546,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Structure of proteins is best studied by:",
-        "exp": "A Harper, 26th ed, p. 35 & 25th ed, p. 55",
-        "cop": 1,
-        "opa": "X -ray crystallography",
-        "opb": "Ultra centrifugation",
-        "opc": "Using Sangers reagent",
-        "opd": "Sucrose density gradient centrifugation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "2fa769ad-721e-409e-8762-0299067d770d",
-        "choice_type": "multi"
-    },
-    {
         "question": "In blood bilirubin is with -",
         "exp": "Ans. is 'a' i. e., Protein Bilirubin metabolismo Bilirubin is the end product of heme degradation, o The heme is derived from -Senescent erythrocytes by mononuclear phagocytic system in the spleen, liver and bone marrow (major source). Tturnover of hemoproteins (e. g. cytochrome p. 450). o Heme is oxidized to biliverdin by heme oxygenase. o Biliverdin is then reduced to bilirubin by biliverdin reductase, o Bilirubin is transported to liver in bound form with albumin, o There is carrier mediated uptake of bilirubin in the liver. o This bilirubin is conjugated with glucuronic acid by UDP glucuronyl transferase (UGT1 Al) to from conjugated bilirubin (bilirubin glucronides). o Conjugated bilirubin is excreted into bile. o Most of the conjugated bilirubin is deconjugated and degraded to urobilinogen. o The most of the urobilinogen is excreted in the feces. o Approximately 20% of the urobilinogen is reabsorbed in the ileum and colon and is returned to the liver, and promptly rexcreied into bile - Enterohepatic circulation, o The small amount that escapes this enterohepatic circulation is excreted in urine.",
         "cop": 1,
@@ -700,19 +570,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "7ed6176b-5312-4e06-bbb0-d4318c58d202",
         "choice_type": "single"
-    },
-    {
-        "question": "Each of the following is a physiological uncoupler EXCEPT:",
-        "exp": "Ans. A. 2, 4 dinitrophenol* Compounds that can uncouple or delink the ETC from oxidative phosphorylation, such compounds are known as uncouplers* As a result ATP synthesis doesn't occur.* 2, 4 Dinitrophenol is an example of chemical uncoupler. Chemical uncouplers* Chemical uncouplers* Physiological uncouplers# 2, 4 dinitrophenol (has been extensively studied)# Thyroid hormones# Dinitrocresol# Long chain fatty acids# Pentachlorophenol# Unconjugated bilirubin# Tri fluoro carbonyl cyanide phenyl hydra zone (FCCP)* These act as uncouplers only at high concentration# Aspirin (high doses)",
-        "cop": 1,
-        "opa": "2, 4 dinitrophenol",
-        "opb": "Thyroid hormone",
-        "opc": "Unconjugated bilirubin",
-        "opd": "Long chain fatty acid",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "004a8ac7-d130-4f6d-9af1-4a8097329548",
-        "choice_type": "multi"
     },
     {
         "question": "Oxaloacetate is formed from:",
@@ -767,19 +624,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about Nitric Oxide are all except:",
-        "exp": "Ans. D. Acts through c. AMPNitric Oxide acts through c. GMPFormed from Argininei. NOS, e. NOS, n. NOS are three isoforms of Nitric Oxide Synthase. Nitric Oxide. Uncharged molecule having an unpaired electron, so it is highly reactive, free radical. Very short half life (0. 1 seconds). Formerly called Endothelium Derived Relaxing Factor. Gaseous molecule. Second messenger is c. GMP. Functions of Nitric Oxide. Potent Vasodilator. Involved in Penile erection. Neurotransmitter in brain and Peripheral Nervous System. Low level of NO involved in Pylorospasmin Congenital Hypertrophic Pyloric Stenosis. Inhibit adhesion, activation and aggregation of Platelets.",
-        "cop": 4,
-        "opa": "Produced from arginine",
-        "opb": "Nitric oxide synthase has three isoforms",
-        "opc": "Otherwise called endothelium derived relaxing factor",
-        "opd": "Acts through c AMP",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "573bfd3f-73ca-4c8a-b162-3fe295ab31d3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Maple syrup urine disease can be caused by a problem with the metabolism of which particular compound.",
         "exp": "Some amino acids (isoleucine, tryptophan, phenylalanine, and tyrosine) are both glucogenic and ketogenic because their degradation pathway forms multiple products. a. Amino acids that are converted to pyruvate (see Figure I). (1). The amino acids that are synthesized from the intermediates of glycolysis (serine, glycine, cysteine, and alanine) are degraded to form pyruvate. (a). Serine is converted to 2-phosphoglycerate, an intermediate of glycolysis, or directly to pyruvate and NH4+ by serine dehydratase, an enzyme that requires PLP. (b). Glycine, in a reversal of the reaction utilized for its synthesis, reacts with methylene-FH4 to form serine. 1. Glycine also reacts with FH4 and NAD+ to produce CO2 and NH4+ (glycine cleavage enzyme). 2. Glycine can be converted to glyoxylate, which can be oxidized to CO2 and H2 O or converted to oxalate. (c). Cysteine forms pyruvate. Its sulfur, which was derived from methionine, is converted to H2 SO4, which is excreted by the kidneys. (d). Alanine can be transaminated to pyruvate. b. Amino acids that are converted to intermediates of the TCA cycle (see Figure II). (1). The carbons from the four groups of amino acids form the TCA cycle intermediates: a-ketoglutarate, succinyl-CoA, fumarate, and oxaloacetate. (a). Amino acids that form a-ketoglutarate (see Figure III). 1. Glutamate can be deaminated by glutamate dehydrogenase or transaminated to form a- ketoglutarate. 2. Glutamine is converted by glutaminase to glutamate with the release of its amide nitrogen as NH4+ 3. Proline is oxidized so that its ring opens, forming glutamate semialdehyde, which is oxidized to glutamate. 4. Arginine is cleaved by arginase in the liver to form urea and ornithine. Ornithine is transaminated to glutamate semialdehyde, which is oxidized to glutamate. 5. Histidine is converted to formiminoglutamate (FIGLU). The formimino group is transferred to FH4, and the remaining five carbons form glutamate. (b). Amino acids that form succinyl-CoA (see Figure IV)1. Four amino acids are converted to propionyl-CoA, which is carboxylated in a biotin requiring reaction to form methylmalonyl-CoA, which is rearranged to form succinyl-CoA in a reaction that requires vitamin B12 (seen previously in the metabolism of odd-chain number fatty acids). a). Threonine is converted by a dehydratase to NH4+ and a-ketobutyrate, which is oxidatively decarboxylated to propionyl-CoA. In a different set of reactions, threonine is converted to glycine and acetyl-CoA. b). Methionine provides methyl groups for the synthesis of various compounds; its sulfur is incorporated into cysteine; and the remaining carbons form succinyl-CoA. i. Methionine and ATP form S-adenosylmethionine (SAM), which donates a methyl group and forms homocysteine. ii. Homocysteine is reconverted to methionine by accepting a methyl group from the FH4 pool via vitamin B12. iii. Homocysteine can also react with serine to form cystathionine. The cleavage of cystathionine produces cysteine, NH4+, and a-ketobutyrate, which is converted to propionyl-CoA. c). Valine and isoleucine, two of the three branched-chain amino acids, form succinyl-CoA (see Figure IV). i. The degradation of all the three branched-chain amino acids begins with a transamination followed by an oxidative decarboxylation catalyzed by the branched-chain a-keto acid dehydrogenase complex (Figure V). This enzyme, like pyruvate dehydrogenase and a-ketoglutarate dehydrogenase, requires thiamine pyrophosphate, lipoic acid, CoA, flavin adenine dinucleotide (FAD), and NAD+. ii. Valine is eventually converted to succinyl-CoA via propionyl-CoA and methylmalonyl-CoA. iii. Isoleucine also forms succinyl-CoA after two of its carbons are released as acetyl-CoA. (c). Amino acids that form fumarate1. Three amino acids (phenylalanine, tyrosine, and aspartate) are converted to fumarate (see Figure II). a). Phenylalanine is converted to tyrosine by phenylalanine hydroxylase in a reaction requiring tetrahydrobiopterin and O2 (Figure VI). b). Tyrosine, obtained from the diet or by hydroxylation of phenylalanine, is converted to homogentisic acid. The aromatic ring is opened and cleaved, forming fumarate and acetoacetate. c). Aspartate is converted to fumarate via reactions of the urea cycle and the purine nucleotide cycle. d). Aspartate reacts with IMP to form AMP and fumarate in the purine nucleotide cycle. (d). Amino acids that form oxaloacetate (see Figure II)1. Aspartate is transaminated to form oxaloacetate. 2. Asparagine loses its amide nitrogen as NH4+, forming aspartate in a reaction catalyzed by asparaginase. c. Amino acids that are converted to acetyl-CoA or acetoacetate (see Figure VI). (1). Four amino acids (lysine, threonine, isoleucine, and tryptophan) can form acetyl-CoA, and phenylalanine and tyrosine form acetoacetate. Leucine is degraded to form both acetyl-CoA and acetoacetate. In maple syrup urine disease, the a-keto acid dehydrogenase involved in metabolism of the branched-chain amino acids (valine, isoleucine, and leucine) is defective. Mc. Ardle disease is caused by a defective muscle glycogen phosphorylase, such that the muscle cannot generate glucose from glycogen, leading to exercise intolerance. Glycogen accumulates in the muscle because of this enzyme deficiency (Mc. Ardle disease is one of the glycogen storage disease). A defect in the synthesis or processing of collagen will lead to a variety of diseases, of which Ehlers-Danlos syndrome is one (osteogenesis imperfecta is another). Parkinson disease is caused by low levels of dopamine in the nervous system. In the initial stages of Parkinson disease, giving DOPA can reduce the severity of the symptoms because DOPA can be decarboxylated to form dopamine. DOPA can easily enter the brain, whereas dopamine cannot. Tay-Sachs disease results from an inability to degrade GM2, a ganglioside (it is also a sphingolipid). The enzyme missing is b-hexosaminidase. I. Amino acids derived from the intermediates of glycolysis. These amino acids can be synthesized from glucose and can be reconverted to glucose in the liver. II. The degradation of amino acids. A. Amino acids that produce pyruvate or the intermediates of the TCA cycle. These amino acids are considered glucogenic because their carbons can produce glucose in the liver. B. Amino acids that produce acetyl-CoA or ketone bodies. These amino acids are considered ketogenic. CoA, coenzyme A; HMG-CoA, hydroxymethylglutaryl-CoA; TCA, tricarboxylic acid. III. Amino acids related through glutamate. These amino acids contain carbons that can be converted to glutamate, which can be converted to glucose in the liver. All of these amino acids except histidine can be synthesized from glucose. IV. Amino acids that can be converted to succinyl-CoA. The amino acids methionine, threonine, isoleucine, and valine, which form succinyl-CoA via methyl malonyl-CoA, are all essential. Because succinyl-CoA can form glucose, these amino acids are glucogenic. The carbons of serine are converted to cysteine and do not form succinyl-CoA by this pathway. A defect in cystathionine synthase causes homocystinuria. A defect in cystathionase causes cystathioninuria. B12-CH3, methyl cobalamin; N5-CH3-FH4, N 5- methyl tetrahydrofolate; PLP, pyridoxal phosphate; SAM, S-adenosylmethionine; TCA, tricarboxylic acid. V. The degradation of the branched-chain amino acids. Valine forms propionyl-CoA. Isoleucine forms propionyl-CoA and acetyl-CoA. Leucine forms acetoacetate and acetyl-CoA. CoA, coenzyme A; FAD, flavin adenine dinucleotide; HMG-CoA, hydroxymethylglutaryl-CoA. VI. A. Ketogenic amino acids. Some of these amino acids (tryptophan, phenylalanine, and tyrosine) also contain carbons that can form glucose. Leucine and lysine are strictly ketogenic; they do not form glucose. B. A deficiency in various steps leads to the diseases indicated. CoA, coenzyme A; NAD, nicotinamide adenine dinucleotide; NADP, nicotinamide adenine dinucleotide phosphate; PKU, phenylketonuria; PLP, pyridoxal phosphate; TCA, tricarboxylic acid cycle.",
         "cop": 4,
@@ -791,19 +635,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "1186ecd4-31ac-4f77-bd81-e70ca6fe28cb",
         "choice_type": "single"
-    },
-    {
-        "question": "A 2-year-old intellectually disabled child is having blue eyes, blonde hair and fair skin. He also has a peculiar body odour. What is the diagnosis?",
-        "exp": "Ans. C. Phenylketonuria. Blue eyes, blonde hair and fair skin is a classical description of a case of PKU. The child is Intellectually disabled and they have mousy body odour.",
-        "cop": 3,
-        "opa": "MSUD",
-        "opb": "Isovaleric Aciduria",
-        "opc": "Phenylketonuria",
-        "opd": "Canavan's disease",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "85a12cf9-b6d5-487d-90f1-8ebc2e62fca9",
-        "choice_type": "multi"
     },
     {
         "question": "The amino acid that can be converted into a vitamin:",
@@ -845,19 +676,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient reports a change in colour of urine on air exposure. All are true about the condition shown below except:",
-        "exp": "Ans. C. Urine Benedict's test is negativea. Alkaptonuria leads to blackening of urine which is accelerated by exposure to sunlight and oxygen. b. The alkapton bodies are polymers of Homogentisic acid and are deposited in vertebral discs, cartilage of nose, pinna. c. Benedict's test is positive with muddy yellow precipitated. Nitisinone, is an inhibitor of the enzyme 4 hydroxyphenylpyruvate dioxygenase that produces Homogentisic acid.",
-        "cop": 3,
-        "opa": "Blackening of urine is accelerated on exposure to sunlight",
-        "opb": "Alkapton bodies are deposited in intervertebral disc",
-        "opc": "Urine Benedict's test is negative",
-        "opd": "Nitisinone is an inhibitor of the enzyme 4- hydroxy phenyl pyruvate dioxygenase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "849372a2-07e0-476e-ae2c-1b86618fe25d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Transferofan amino group from an amino acid to an alpha ketoacid is done by:",
         "exp": "A. Transaminases. Key points. Transamination. Interconvert pair of a amino acids and a Ketoacid.#Ketoacid formed by transamination from Alanine is Pyruvate#Ketoacid formed by transamination from Aspartate is Oxaloacetate.#Ketoacid formed by transamination from Glutamate is a Keto Glutarate. Freely reversible. Transamination concentrate a amino group of nitrogen as L-Glutamate. L-Glutamate is the only enzyme that undergo significant amount of oxidative deamination in mammals. Takes place via ping pong mechanism. Takes an important role in biosynthesis of nutritionally nonessential amino acids. Specific for one pair of substrate but nonspecific for other pair of substrates. Pyridoxal Phosphate is the coenzyme",
         "cop": 1,
@@ -895,32 +713,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "77ae930d-805e-4b72-be54-19a45fed8ff0",
         "choice_type": "single"
-    },
-    {
-        "question": "For untreated Myocardial infarction condition, select the blood or urine value that best distinguishes Myocardial infarction condition from the others. All values are measured after an overnight fast and are compared with those of a normal individual.",
-        "exp": "Tissues contain characteristic isozymes or mixtures of isozymes. Enzymes, such as lactate dehydrogenase and creatine kinase (CK), differ from one tissue to another. Lactate dehydrogenase contains four subunits. Each subunit may be either of the heart (H) or the muscle (M) type. Five isozymes exist (HHHH, HHHM, HHMM, HMMM, and MMMM). CK contains two subunits. Each subunit may be either of the muscle (M) or the brain (B) type. Three isozymes exist (MM, MB, and BB). The MB fraction is most prevalent in heart muscle. Troponin I is found in large amounts in muscle cells. When a tissue is damaged, cellular enzymes leak into the blood. Heart muscle will release cardiac troponin I into the blood in response to a heart attack. In the absence of insulin, a person with type 1 DM will behave metabolically like a person undergoing prolonged starvation, except that blood glucose levels will be elevated. Lipolysis in adipose tissue will produce fatty acids, which will be converted to ketone bodies in the liver if the diabetes is left untreated. Because the blood glucose levels are also elevated, the brain continues to use glucose as a fuel, and the ketone bodies accumulate in the blood. Hepatitis and chronic alcoholism damage the liver, which would interfere with the urea cycle, leading to decreased BUN and increased ammonia in the circulation. Renal failure would display reduced creatinine in the urine and elevated creatinine in the blood.",
-        "cop": 1,
-        "opa": "Increased troponin I",
-        "opb": "Increased blood ketone bodies",
-        "opc": "Decreased creatinine in the urine",
-        "opd": "Decreased blood lactate",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "37cd67a6-e3ea-417b-a80f-6fdc26246a88",
-        "choice_type": "multi"
-    },
-    {
-        "question": "DNA repair defect is seen in:",
-        "exp": "Ans. (a) Xeroderma pigmentosum. Ref: Harper's Biochemistry, 30th ed. pg. 389-90, 28th ed. pg. 330-32* Xeroderma pigmentosum is an autosomal recessive genetic disease which arises due to defect in DNA repair particularly of thymidine dimers. Examples of Conditions Arising due to DNA Repair Defects:* Xeroderma pigmentosa* Ataxia telangiectasia* Fanconi's syndrome* Bloom syndrome* HNPCC",
-        "cop": 1,
-        "opa": "Xeroderma pigmentosum",
-        "opb": "Li-fraumani syndrome",
-        "opc": "Retinoblastoma",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "a0c34843-540e-48f0-abfa-7e24d33f4c00",
-        "choice_type": "multi"
     },
     {
         "question": "Increased alanine during prolonged fasting represents:",
@@ -1040,32 +832,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are features of Lesch-Nyhan syndrome EXCEPT:",
-        "exp": "Ans. (d) Immunodeficiency. Ref: Harper's Biochemistry, 30th edn. pg. 354-355* Lesch-Nyhan syndrome is a rare inherited disorder caused by a deficiency of the enzyme hypoxanthine- guanine phosphoribosyl transferase (HGPRT), produced by mutations in the HPRT gene located on X chromosome. Clinical Features* One of the first symptoms of the disease is the presence of sand-like crystals of uric acid in the diapers of the affected infant. Overproduction of uric acid may lead to the development of uric acid crystals or stones in the kidneys, ureters, or bladder. Such crystals deposited in joints later in the disease may produce gout-like arthritis, with swelling and tenderness* Irritability is most often noticed along with the first signs of nervous system impairment. Within the first few years of life, extrapyramidal involvement causes abnormal involuntary muscle contractions such as dystonia, atheotosis and opisthotonus.* Cognitive impairment: Affected persons have behavioral disturbances that emerge between 2-3 years of age. The self-injury begins with biting of the lips and tongue at the age of 3 years. Remember* A less severe related disease is partial HGPRT deficiency is known as Kelley-Seegmiller Syndrome (Lesch-Nyhan Syndrome involves total HGPRT deficiency). Symptoms generally involve less neurological involvement but the disease still causes gout and kidney stones.* The prognosis for individuals with severe LNS is poor. Death is usually due to renal failure or complications from hypotonia (PNEUMONIA), in the first or second decade of life.",
-        "cop": 4,
-        "opa": "Hyperuricaemia",
-        "opb": "Self-mutilation",
-        "opc": "Mental retardation",
-        "opd": "Immunodeficiency",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "ec7e2eaf-a8f6-4333-bd7d-88bba6447490",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 2-year-old intellectutually disabled child is having blue eyes, blonde hair and fair skin. He also have a peculiar body odour. What is the diagnosis?",
-        "exp": "Ans. C. Phenyl ketonuria. Identifying features:* Blue eyes, blonde hair and fair skin is a classical description of a case of PKU. The child is intellectually disabled and they have mousy body odour.",
-        "cop": 3,
-        "opa": "MSUD",
-        "opb": "Isovaleric aciduria",
-        "opc": "Phenyl ketonuria",
-        "opd": "Canavan's disease",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "38b16da1-334e-4678-886a-87e11db70227",
-        "choice_type": "multi"
-    },
-    {
         "question": "The aminoacid excreted in Hartnup's disease is -",
         "exp": "Ans. is 'c' i. e., Tryptophan* Hartnup's disease is caused by a defect of a neutral aminoacid transporter which is specific for tryptophan absorption along intestine and tryptophan reabsorption along renal tubules.* Tryptophan malabsorption leads to tryptophan deficiency* As tryptophan is necessary for formation of niacin, Hartnup's disease presents with niacin deficiency manifestations or pellagra.# Photosensitive Dermatitis# Diarrhoea# Psychiatric manifestations - anxiety, mood changes, delusions, hallucinations* As niacin is necessary for insertion of neutral aminoacid transporters into the renal tubules, Hartnup's disease presents with aminoaciduria. There is increased excretion of neutral aminoacids like:# Tryptophan# Isoleucine# Phenyalanine# Histidine# Leucine# Lysine* Characteristically in aminoaciduria due to hartnup s disease, levels of proline, hydroxyproline and arginine levels are normal. This differentiates Hartup's disease aminoaciduria from fanconi's syndrome* Onset of presentation is variable. Infants with Hartnup's disease present with failure to thrive, ataxia, nystagmus.* As when tryptophan gets oxidised, the indole ring is released, Obermeyer's test or test for urinary Indican is positive.",
         "cop": 3,
@@ -1144,19 +910,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Phenylketonuria is due to the deficiency of:",
-        "exp": "(B) Phenylalanine hydroxylase (PAH)[?]PHENYLKETONURIAo. Classical is Hyper. Phenylaminemia. Other can be due to defective biopterin cofactoro. Biosynthesis-GTP cyclohydrolase I-6-pyruvoyl-tetrahydropterin synthase - Dihydropterin reductase. [?]. Biology of Phenylketonuriao. Phenylketonuria or PKU is the inability of the body to Metabolize pheynlamine. o. Phenylaline builds to toxic levels in the tissues, particularly damaging the nervous systemo. PKU is a chronic disease, but it is possible to greatly reduce the probability of further damage by following a strict low-protein dieto. PKU is autosomal recessive and carried on chromosome 1 2[?]. Symptoms: Often have lighter skin, hair, and eyes than brothers or sisters without the disease. o. Other symptoms include:-Eczema-Recurrent vomiting-Jerking movements in arms and legs-Tremors & Mood disorders, MicrocephalyoA birth defect that causes an amino acid called phenylalanine to build up in the body. o. PKU is an autosomal recessive metabolic genetic disorder. o. PKU is characterized by homozygous or compound heterozygousmutations in the gene for the hepatic enzyme phenylalanine hydroxylase (PAH), rendering it nonfunctional. o. This enzyme is necessary to metabolize the amino acid phenylalanine (Phe) to the amino acid tyrosine (Tyr). When PAH activity is reduced, phenylalanine accumulates and is converted into phenylpyruvate (phenyl ketone), which can be detected in the urine. o. PAH gene is located on chromosome 12 in the bands 12q22-q24. 1. o. More than 400 disease-causing mutations have been found in the PAH gene. INBORN ERRORS OF AMINO ACID METABOLISMS DISORDERSDisorder. Enzyme Deficiency*. Phenylketonuria. Phenylalanine hydroxylase*. Alkptonuria. Homogentistate 1, 2- Dioxygenase complex*. Homocystenuria Type IDefect in cofactor binding site of cystathionine synthase*. Homocysteinuria Type IIMethylene THF Reductase Decrease*. Cysteinuria Type ICystathionine synthase*. Cystathioninuria. Cystathionase*. Tyrosinemia Type ICystathionine synthase*. Tyrosinemia Type IITyrosine Aminotransferase*. Tyrosinemia Type IIIPara-hydroxyphenylpyruvate dioxygenase*. Albinism. Tyrosinase",
-        "cop": 2,
-        "opa": "Phenylalanine",
-        "opb": "Phenylalanine hydroxylase (PAH)",
-        "opc": "Phenylene",
-        "opd": "All of these",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "ff1bc7bf-e259-498e-9867-0d2195e1f105",
-        "choice_type": "multi"
-    },
-    {
         "question": "Nitric oxide is synthesized from which Amino acid",
         "exp": "(B) Arginine[?]. Important Facts about Nitric Oxideo. Improves oxygen deliveryo. Improves oxygen delivery to every cello. Expands blood vesselso. Improves overall circulationo. Lowers risk of plaque accumulationo. Aids in preventing blood clotso. Helps to regulate your blood pressureo. Improves erectile dysfunctiono. Raises the effectiveness of your workoutso. Critical to neurotransmissionso. Helps prevent cognitive decline. Other Options[?]. Lysine:-Encoded by the codons AAA and AAG, is an a-amino acid that is used in the biosynthesis of proteins. [?]. Serine:-Serine is the most important source of substituted folates for biosynthetic reactions, and the activity of serine hydroxy methyltransferase is regulated by the state of folate substitution and the availability of folate. [?]. Threonine:-Threonine aldolase (EC 4. 1. 2. 5) cleaves threonine to glycine and acetaldehyde.-Catabolism of glycine is discussed above. Oxidation of acetaldehyde to acetate is followed by formation of acetyl-CoA",
         "cop": 2,
@@ -1233,19 +986,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "2f757371-660a-4225-98db-0c5c7c575bcc",
         "choice_type": "single"
-    },
-    {
-        "question": "Over the past 2 months, a patient was on a nonscientific fad diet for weight loss which excluded all meats, eggs, legumes, nuts, and seeds. She takes a protein powder supplement, but not a vitamin supplement. Which one of the following will be greatly impaired in this patient?",
-        "exp": "The excluded foods are all great dietary sources of vitamin B6 (pyridoxine). Vitamin B6 is water soluble so is easily excreted from the human body and is poorly stored by the body. At this time, the patient would have developed a B6 deficiency. B6 is essential in the production of PLP, which is the cofactor for the transamination reactions. Low PLP would greatly impair transamination, along with glycogen phosphorylase activity. A lack of B6 would have no effect on absorption of amino acids, membrane-transport systems, or uric acid production. Ammonia is produced by bacteria in the gut in a B6 -independent mechanism. The protein powder supplement will not provide B6 in sufficient quantity for the body's needs.",
-        "cop": 3,
-        "opa": "Absorption of amino acids by the intestine",
-        "opb": "Membrane-transport systems for amino acids",
-        "opc": "Transamination reactions",
-        "opd": "Ammonia production by bacteria",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "a9480888-a62f-4421-b6a3-91a40c81429d",
-        "choice_type": "multi"
     },
     {
         "question": "Urea cycle take place in:",
@@ -1430,19 +1170,6 @@
         "choice_type": "single"
     },
     {
-        "question": "p. KA=pH when:",
-        "exp": "Ans. B. When the concentration of ionized and unionized form is same. This question is an application of Henderson Hasselbalch equation. It ispH=p. Ka+log/ is concentration of ionised form is concentration of unionised form. When =, thenpH=p. Ka+log/pH=p. Ka+log1i. e. pH=p. Ka+0",
-        "cop": 2,
-        "opa": "Solute is completely ionised",
-        "opb": "When the concentration of ionised and unionized form is same",
-        "opc": "Solute is completely unionized",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "8cd6d7cf-b9b2-49c7-9b51-250268f2ae69",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cystine has how many molecules of cysteine?",
         "exp": "Ans. is 'b' i. e., 2* Cysteine is a sulphur containing aminoacid* It is a polar but uncharged aminoacid* Cysteine with a sulphydryl group can get oxidised and forms a dimer (2) called as cystine.* Cysteine acquires its polar nature only by virtue of its sulfhydryl group.* When it gets oxidised to form cystine, the polar nature is reduced.* This is principally why cystinuria presents with recurrent renal stones.* Cystinuria is caused by a defect of a neutral aminoacid transporter, which reabsorbs four aminoacids from tubular fluid - Cysteine, Ornithine, Lysine and Arginine.* When these four aminoacids do not get reabsorbed in the renal tubules, they get excreted in the urine. On supersaturation, cysteine forms a dimer which is cystine. Cystine is insoluble in water and hence it precipitates to form renal stones. Hence Cystinuria presents as recurrent renal stones.",
         "cop": 2,
@@ -1480,32 +1207,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "76918ea3-cc1f-4487-a443-0bcd0488874f",
         "choice_type": "single"
-    },
-    {
-        "question": "In comparing the de novo synthesis of IMP and UMP, which one of the following best represents commonalities in the pathways?",
-        "exp": "De novo purine and pyrimidine biosynthesis occurs in the liver and, to a limited extent, in the brain. In pyrimidine biosynthesis, carbamoyl phosphate, produced from glutamine, CO2, and ATP, reacts with aspartate to form a base that, after oxidation, reacts with phosphoribosyl pyrophosphate (PRPP) to form a nucleotide. This nucleotide is decarboxylated to form UMP. In purine biosynthesis, the base is produced on ribose-5-phosphate, which is generated from PRPP. Glycine is incorporated into the precursor, and tetrahydrofolate derivatives donate carbons 2 and 8 as IMP is formed. Glutamine is a nitrogen donor for both purine and pyrimidine biosynthesis. Aspartate is required for both UMP and IMP synthesis. Aspartate is also required in the conversion of IMP to AMP.",
-        "cop": 1,
-        "opa": "Both Require PRPP - yes; Both Require Folate Derivatives - no; Both Require Glutamine - yes; Both Require Glycine - no; Both Require Aspartic Acid - yes",
-        "opb": "Both Require PRPP - yes; Both Require Folate Derivatives - no; Both Require Glutamine - no; Both Require Glycine - no; Both Require Aspartic Acid - yes",
-        "opc": "Both Require PRPP - yes; Both Require Folate Derivatives - yes; Both Require Glutamine - yes; Both Require Glycine - no; Both Require Aspartic Acid - no",
-        "opd": "Both Require PRPP - no; Both Require Folate Derivatives - yes; Both Require Glutamine - no; Both Require Glycine - yes; Both Require Aspartic Acid - yes",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "1e97979e-0c60-4c81-b563-6a5147f89fee",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are tryptophan derivatives except-",
-        "exp": "Ans. is 'a' i. e., Melanin. Amino acids. Biological important compound. Tyrosine. Catecholamines (epinephrine, norepinephrine, dopamine), thyroxine, triiodothryonine, melanin. (Note: - Phenylalanine is the precursor of tyrosine, thus it can also give rise to all these compounds through tyrosine (phenylalanine - Tyrosine - Catecholamines, thyroxine, T3' melanin). Tryptophan. Vitamin niacin, melatonin, Serotonin. Glycine, Arginine, methionine. Creatine. Glycine, cysteine. Bile salts. Glycine. Heme. Aspartic acid and glutamine. Pyrimidine bases. Glycine, aspartic acid, glutamine. Purine basesb-alanine. Coenzyme-AArginine. Nitric oxide. Histidine, Arginine, lysine. Keratin. Methionine, lysine. Carnitine. GABAGlutamate. Glutamate, cysteine, glycine. Glutathione",
-        "cop": 1,
-        "opa": "Melanin",
-        "opb": "Serotonin",
-        "opc": "Melatonin",
-        "opd": "Niacin",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "762151e6-3ac6-4279-b17e-f0349601f241",
-        "choice_type": "multi"
     },
     {
         "question": "Nitrogen atoms of Urea contributed by:",
@@ -1560,19 +1261,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is true about stop codon?",
-        "exp": "Ans. (d) 3 codon act as terminator codon* Stop codons are a normal part of protein synthesis--they are the reason that all proteins do not go on 'forever. During translation, it is stop codon on m. RNA sequence, that terminates the process. Therefore they are known to act as terminator codon.* There are three stop codons namely:# UAG: Amber# UGA: Opal# UAA: Ochre. Initiator codon:* In eukaryotes: AUG (codes for methionine)* In prokaryotes: AUG (codes for N-Formyl methionine)* UGA codes for tryptophan in mitochondrial DNA.",
-        "cop": 4,
-        "opa": "3 codon coding for one amino acid",
-        "opb": "3 codon coding for whole DNA",
-        "opc": "3 codon coding for whole RNA",
-        "opd": "3 codon act as terminator codon",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "d14de129-0184-4e1e-98fc-48648781dc4e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which amino acid is acidic?",
         "exp": "Ans. (a) Aspartic acid. Based in variable side chain, amino acid can be classified into: Aliphatic amino acid and Aromatic amino acid. Aliphatic amino acid. Aromatic amino acid. It is further classified into several subtypes:* Simple AA: Glycine, Alanine* Branched chain AA: Leucine, Isoleucine, Valine* Sulphur containing: Cysteine, Methionine* With-OH group: Serine, Threonine* With amide group: Asparagine, Glutamine* Acidic AA: Aspartic acid, Glutamic acid* Basic AA: Arginine, Lysine* Histidine* Tyrosine* Tryptophan* Phenylalanine* Basic amino acid: Histidine, Arginine, Lysine (Histidine is also basic in nature, but it is aromatic)* -OH containing AA: Threonine, Serine, Tyrosine* Most basic amino acid: Arginine",
         "cop": 1,
@@ -1610,19 +1298,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "00a6cb28-5ef1-4aaf-b059-35764b2e9d16",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are derivatives of tryptophan EXCEPT:",
-        "exp": "Ans. (d) Creatinine* Tryptophan is one of the essential aromatic amino acid* Metabolic fate of tryptophan: Metabolized by enzyme Tryptophan oxygenase (pyrrolase)* Derivatives of tryptophan:# Niacin (Nicotinic acid)# Serotonin# Melatonin* Note: Creatinine is synthesized from 3 amino acids namely: Glycine, Arginine. Methionine",
-        "cop": 4,
-        "opa": "Melatonin",
-        "opb": "Serotonin",
-        "opc": "Niacin",
-        "opd": "Creatinine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "d414796a-a244-4945-ae10-0f80e3202e41",
-        "choice_type": "multi"
     },
     {
         "question": "2, 4 Dinitrophenol is formed from?",
@@ -1714,19 +1389,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "de3d5d68-00a5-4fa6-97dc-500372914c43",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following amino acid has a high risk for CHD (Coronary heart diseases):",
-        "exp": "Ans. A. Homocysteine. Homocysteine is an amino acid formed during the biosynthetic pathway of cysteine from methionine. People with high serum levels of homocysteine have an unusually risk for CHD and arteriosclerosis. The molecular basis is not known, but it damage the cells lining blood vessels and increases growth of vascular smooth muscle. It can be measured by Gas chromatography, HPLC and immunoassay.",
-        "cop": 1,
-        "opa": "Homocysteine",
-        "opb": "Methionine",
-        "opc": "Glycine",
-        "opd": "None of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "a2b4f4db-c82f-4bb3-b657-f4d56fcedcb3",
-        "choice_type": "multi"
     },
     {
         "question": "Nitric oxide is synthesized from this amino acid:",
@@ -1846,19 +1508,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Amino acid which contributes to biosynthesis of purine ribonucleotide are all EXCEPT:",
-        "exp": "Ans. (b) Histidine. Ref: Harper's Biochemistry, 30th ed. pg. 340-42* N1 of purine is derived from amino group of aspartate* N3 & N9 are obtained from amide group of glutamine* C4, C5, & N7 of the purine ring of nucleotides are contributed by glycine.",
-        "cop": 2,
-        "opa": "Aspartate",
-        "opb": "Histidine",
-        "opc": "Glutamate",
-        "opd": "Glycine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "3031024d-e34c-4848-ab52-84bec8256072",
-        "choice_type": "multi"
-    },
-    {
         "question": "FIGLU is related to -",
         "exp": "Ans. is 'c' i. e., Histidine* FIGLU test or Formiminoglutamate test is done to detect the deficiency of folate.* This test is based on histidine metabolism.",
         "cop": 3,
@@ -1870,19 +1519,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "8c9e6a65-f74d-4388-aebc-7c5a49e0f387",
         "choice_type": "single"
-    },
-    {
-        "question": "Amyloid protein in human being is:",
-        "exp": "Ans. D. A material which gets deposited in extracellular spaces(Ref. Robbins and Cotran Pathologic basis of Disease 9/e Chapter 6). Amyloid Fibrils. Physical nature of amyloidX-ray crystallography and infrared spectroscopy demonstrate a characteristic cross-b-pleated sheet conformation.",
-        "cop": 4,
-        "opa": "A naturally present protein in normal individuals",
-        "opb": "Involves selectively blood vessels",
-        "opc": "Is visible by naked eyes as whitish cheesy material",
-        "opd": "A material which gets deposited in extracellular spaces",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "03f033bc-43d0-46e6-8c40-cdaeff1f8971",
-        "choice_type": "multi"
     },
     {
         "question": "'Boiled cabbage' smell of urine is feature of?",
@@ -1987,19 +1623,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "3b93e7e8-1746-4519-82de-630c2829396d",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is not true about Cystinosis?",
-        "exp": "Ans. A. Cysteine stones in urine common. Cystinosis is an autosomal recessive genetic disorder of the renal tubules, characterized by the presence of carbohydrates and amino acids in the urine, excessive urination, and low blood levels of potassium and phosphates. Amino acid. Condition. Enzyme Defect. Clinical Findings. Inheritance. Cystine. Cystinosis (Lysosomal Membranes). Cystinosis CTNS (lysosomal efflux). Renal Fanconi syndrome, Rickets, Renal failure, Photophobia, Hypotonia, Hypothyroidism, Blindness. ARCystine, lysine, arginine, ornithine. Classic cystinuria. Proximal renal tubule, jejunal mucosa Shared dibasic cystine Transport protein SLC3. A1, SLC7. A9. Cystine nephrolithiasis. AR",
-        "cop": 1,
-        "opa": "Cysteine stones in urine common",
-        "opb": "Corneal crystals",
-        "opc": "Fanconi syndrome",
-        "opd": "White blond hair and photophobia",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "0817f85e-0f00-420c-bdb4-5de1154af23e",
-        "choice_type": "multi"
     },
     {
         "question": "Serotonin is produced from?",
@@ -2132,19 +1755,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are excreted in Cysteinuria EXCEPT",
-        "exp": "(A) Cystine[?]CYSTINE DISORDERS: o. Cystinuria:-Presence of cystine (and often other amino acids) in the urine due to inability of renal tubules to reasbsorb them. Patient often has kidney stones. Urine & stones can be screened for cystine using cyanide-nitroprusside. o. Cystinosis:-Inborn error of metabolism, where cystine is incompletely metabolized resulting in cystine deposits in tissues. Isosthenuria common. o. Both are 2 distinct disorders: o. Both of these result in sulfur odor, o. Both of these produce cyanide-nitroprusside test positive.-Quantitative test for presence of cystine gives rise a stable red-purple color (positive for presence of cystine). [?]. Metabolic disorders of Cysteine: o. Cystinuria:-It is the most common inborn error of AA transport.-Autosomal Recessive.-Defect: Impaired Reabsorption of Cystine, Ornithine, Arginine, Lysine (COAL).-This is characterized by urinary excretion of these AAs. [?]. Pathogenesis of Cystinuria: o. Autosomal recessive disorder. o. Involves a defect in the renal transport of cystine by the tubules. Defect results in lack of cystine reabsorption of the kidney. o. Homozygous patients usually the only ones to present with problems. o. Heterozygotes have a milder form of cystinuria (cystine crystals found in urine during analysis but don't usually form stones). o. Cystine is relatively insoluble & increased concentrations leads to precipitation & formation of cystine stones in kidney & urinary tract. o. Cystinuria is usually identified in the laboratory by cyanide nitro- prusside test. o. The treatment includes restricted ingestion of dietary cystine & high intake of fluids. CYSTINURIAo. Mnemonic: COLA: Cystine, Ornithine, Lysine, and Arginine. o. Biochemical Defect: An autosomal recessive disorder that results in the formation of a defective amino acid transporter in the renal tubule and intestinal epithelial cells. o. Pathophysiology: The amino acid transporter is responsible for transporting cystine, ornithine, lysine, and arginine. Defective tubular re-absorption of these amino acids in the kidneys results in increased cysteine in the urine, which can precipitate and cause kidney stones. o. Clinical Manifestations: Cysteine kidney stones presenting with severe, intermittent flank pain and hematuria. o. Lab findings: Increased urinary excretion of cystine, ornithine, arginine, and lysine on urine amino acid chromatography; hematuria and cystine crystals (hexagonal) on cooling of acidified urine sediment. o. Imaging: Radiopaque kidney stones on CT scan. o. Treatment: Low-methionine diet; increased fluid intake; acetazolamide to alkalize the urine.",
-        "cop": 1,
-        "opa": "Cystine",
-        "opb": "Cysteine",
-        "opc": "Arginine",
-        "opd": "Ornithine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "76d5b3ca-7eae-4aad-98b8-dc025f421095",
-        "choice_type": "multi"
-    },
-    {
         "question": "Isovaleric academia is caused by deficiency of -",
         "exp": "Ans. is 'c' i. e., Isovaleryl CoA dehydrogenase* Isovaleric acidemia is an inborn error of metabolism caused by a defect of Isovaleryl CoA dehydrogenase* Isovaleryl CoA dehydrogenase is an enzyme involved in the metabolism of a branched chain aminoacid, leucine.* It is characterized by failure to thrive, feeding difficulties, seizures, vomiting that progresses to coma. It is characterized by sweaty feet odour.* Diagnosis is done by estimation of isovalerylglycine and isovaleryl carnitine. This is done by Tandem Mass Spectrometry* Treatment is by protein restriction, glycine and carnitine supplementation (Isovaleryl CoA is conjugated with glycine and carnitine to form Isovaleryl glycine and Isovaleryl Carnitine and get excreted), Biotin Supplementation.",
         "cop": 3,
@@ -2275,19 +1885,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Glutathione is composed of:",
-        "exp": "Ans. (d) All of the above. Ref: Harpers Biochemistry 30th ed. pg. 22-23, 748* Glutathione (GSH) is a tripeptide with a gamma peptide linkage between the amine group of cysteine (which is attached by normal peptide linkage to a glycine) and the carboxyl group of the glutamate side chain.* It is an antioxidant, preventing damage to important cellular components caused by reactive oxygen species such as free radicals and peroxides.",
-        "cop": 4,
-        "opa": "Glycine",
-        "opb": "Cycteine",
-        "opc": "Glutamate",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "d8999412-1826-4f2f-a0fb-0b0c53121e6f",
-        "choice_type": "multi"
-    },
-    {
         "question": "In the given cycle shown, Hydrolysis of Arginine forms what:",
         "exp": "Ans. C. Ornithine. UREA CYCLEa. First Reaction: This is a pathway that spans two cellular compartments occurs in the matrix of the mitochondria; the subsequent reactions occurs in the cytosolb. Catalyzed by ornithine transcarbamoylase which transfers a carbamoyl group form carbamoyl phosphate to ornithine to form citrullinec. Second reaction: Catalyzed by arginosuccinate synthetase it uses ATP to activate citrulline by forming a citrullyl- AMP which is an intermediate is attacked by the amino group of an aspartame residue to form arginosuccinate. d. Third step: Catalyzed by arginosuccinate lyase which cleaves arginosuccinate into fumarate and arginine. e. Fourth step: Catalyzed by arginase which cleaves arginine to produce urea and ornithine (Box in Image) completing the cycle",
         "cop": 3,
@@ -2312,19 +1909,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "b5e42812-4f61-4ae2-8b95-42e5d3ffea32",
         "choice_type": "single"
-    },
-    {
-        "question": "Protein synthesis occurs in which part of the cell:",
-        "exp": "Ans. (b) Rough endoplasmic reticulum. Ref: Harper's Biochemistry, 30th ed. pg. 576-77* The surface of the rough endoplasmic reticulum is studded with protein-manufacturing ribosomes giving it a \"rough\" appearance.* The ribosomes bound to ER are not a stable part of this organelle's structure as they are constantly being bound and released from the membrane.* A ribosome only binds to the RER once a specific protein-nucleic acid complex forms in the cytosol. This special complex forms when a free ribosome begins translating the m. RNA of a protein destined for the secretory pathway.* Protein once produced from RER will go to golgi apparatus - secretory vesicles - which is further released.",
-        "cop": 2,
-        "opa": "Smooth endoplasmic reticulum",
-        "opb": "Rough endoplasmic reticulum",
-        "opc": "Golgi body",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "408f1b66-19f3-4d9b-ac49-a861727a999a",
-        "choice_type": "multi"
     },
     {
         "question": "Protein folding is done by:",
@@ -2600,19 +2184,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Sites of heme synthesis are all of these except:",
-        "exp": "Ans. a. RBC (Ref: Harper 30/e p325). Heme biosynthesis occurs in most mammalian cells except mature erythrocytes, which lack mitochondria. \"Heme biosynthesis occurs in most mammalian cells with the exception of mature erythrocytes, which do not contain mitochondria. However, approximately 85% of heme synthesis occurs in erythroid precursor cells in the bone marrow and the majority of the remainder in hepatoeytes. \"- Harper 30/e p325. Heme biosynthesis. Heme biosynthesis occurs in most mammalian cells with the exception of mature erythrocytes, which do not contain mitochondriaQ. Sites: 85% of heme synthesis occurs in erythroid precursor cells in the bone marrow, and the majority of the remainder in hepatocytesQ. The enzymatic process that produces heme is properly cailed porphyrin synthesis. In humans, this pathway serves almost exclusively to form heme. The pathway is initiated by the synthesis of D-Aminolevulinic acid (d. ALA or 6. ALA) from amino acid glycine & succinyl- CoA from the citric acid cycle (Krebs cycle) Q. Rate-limiting enzyme responsible for this reaction, ALA synthase, is negatively regulated by glucose & heme concentrationQ. It involves both cytoplasm & mitochondria. QHemes are most commonly recognized as components of hemoglobin, but are also found in a number of other biologically important hemoproteins such as myoglobin, cytochrome, catalase & endothelial nitric oxide synthaseQ.",
-        "cop": 1,
-        "opa": "RBC",
-        "opb": "Hepatocytes",
-        "opc": "Osteocytes",
-        "opd": "Bone marrow",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "7b0dedae-126b-4e0f-847f-6cccf20158dc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Polypeptide formation in amino acid is by:",
         "exp": "Ans. A. Primary structure. Primary structure. It is the linear sequence of amino acid held together by peptide bonds in its peptide chains. Bond involved in primary structure is Peptide Bond, a type of covalent bond. Secondary Structure. Configurational relationship between residues which are about 3-4 amino Acids apart in linear sequence. The folding of short (3- to 30-residue), contiguous segments of polypeptide into geometrically ordered units. Tertiary structure. The entire three-dimensional conformation of a polypeptide is referred to as tertiary structure. Quaternary structure. If more than one polypeptides aggregate to form one functional protein, the spatial relationship between the polypeptide subunits is referred to as Quaternary structure.",
         "cop": 1,
@@ -2663,19 +2234,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "a39d4871-6f65-4854-9e3e-2c18218d139b",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are true regarding cytosolic eukaryotic gene expression EXCEPT:",
-        "exp": "Ans. (b) N formyl methionine t-RNA will be the first t-RNA to come into action. Ref: Harper's Biochemistry, 30th ed. pg. 433-37* Methionine t-RNA is the first t-RNA involved in eukaryotic protein synthesis.",
-        "cop": 2,
-        "opa": "Capping helps in attachment of m. RNA to 40 S Ribosome",
-        "opb": "N formyl methionine t-RNA will be the first t-RNA to come into action",
-        "opc": "EF2 shifts between GDP & GTP",
-        "opd": "Releasing factor releases the polypeptide chain from the P site",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "a441f684-0b75-459a-8c1c-2327f031d3f4",
-        "choice_type": "multi"
     },
     {
         "question": "The composition of creatine is:",
@@ -2808,32 +2366,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Urea cycle occurs in:",
-        "exp": "Ans: c (Both) Ref: Vasudevan Sreekumari, 4th ed, p. 168; Lippincott, p. 253. The first two reactions of urea cycle occur in mitochondria and the remaining 6 steps occur in cytosol. Citrulline enters cytoplasm and ornithine returns to mitochondria to combine with carbamoyl phos phate.* Mitochondrial enzymes are: 1) CPS-I2) OTCCPS-II is a cytoplasmic enzyme. 1) Used for pyramidine synthesis2) Uses glutamine for synthesis of carbamoyl Po4 instead of ammonia. Most important points about urea cycle defects: Features: Hyperammonaemia| blood glutamine|BUN. Symptoms: Lethargy, vomiting, hyperventilation, coma, respiratory failure. Causes: This can be due to defeciency of any enzyme in urea cycle, but mainly due to: a) CPS defeciency (No increase in uracil / orotic acid)b) OTC defeciency (Uracil and orotic acid level | in blood)",
-        "cop": 3,
-        "opa": "Cytoplasm",
-        "opb": "Mitochondria",
-        "opc": "Both",
-        "opd": "Endoplasmic reticulum",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "3f0fdaa8-6357-438b-a70d-239e6c4399a1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The Watson's Crick double helix model of DNA is",
-        "exp": "Ans. (a) Right handed anti parallel. Ref: Harper's Biochemistry, 30th edn. pg. 360-361* Helical structure assumed by two strands of deoxyribonucleic acid, held together throughout their length by hydrogen bonds between bases on opposite strands, referred to as Watson-Crick base pairing. The structure is right handed anti-parallel structure.",
-        "cop": 1,
-        "opa": "Right handed anti parallel",
-        "opb": "Left handed anti parallel",
-        "opc": "Right handed parallel",
-        "opd": "Left handed parallel",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "2f930e36-308d-46c9-8a83-731f0501ee38",
-        "choice_type": "multi"
-    },
-    {
         "question": "On consumption of which aminoacid, requirement of methionine is reduced because of sparing effect?",
         "exp": "Ans. is 'b' i. e., Cysteine\"Adequate dietary source of cysteine 'spares' methionine\".* Methionine is an essential amino acid.* Methionine is required for synthesis of cysteine (thus cysteine is non-essential amino acid)* Thus, cysteine can spare the requirment of methionine in diet.",
         "cop": 2,
@@ -2845,19 +2377,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "74438d44-ecd7-4993-8a09-039bb4932a41",
         "choice_type": "single"
-    },
-    {
-        "question": "True about Lesch Nyhan Syndrome:",
-        "exp": "Ans. (c) Uric acid stones are frequently formed. Ref: Harper's Biochemistry, 30th ed. pg. 354-55, 26th ed. pg. 300. LESCH-NYHAN SYNDROME* It is a X- linked recessive disorder which is characterized by:# An overproduction hyperuricemia# Frequent episodes of uric acid lithiasis# Self-mutilative behavior, # Mental retardation.* It reflects a defect in hypoxanthine-guanine phospho- ribosyl transferase, an enzyme of purine salvage. The accompanying rise in intracellular PRPP results in purine overproduction. Mutations that decrease or abolish hypoxanthine-guanine phosphoribosyl transferase activity include deletions, frameshift mutations, base substitutions, and aberrant m. RNA splicing.",
-        "cop": 3,
-        "opa": "Patient have normal intellectual capacity",
-        "opb": "Pyrimidine overproduction is the cause",
-        "opc": "Uric acid stones are frequently formed",
-        "opd": "X- Linked dominant",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "82273a69-ff24-472a-b6b7-e0d5c976304a",
-        "choice_type": "multi"
     },
     {
         "question": "The amino acid that can be converted into a vitamin is:",
@@ -2912,32 +2431,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are essential amino acids except:",
-        "exp": "C. Alanine. Essential (Mett. Vil. Phly. Read As Met Will Fly). All the other amino acid. Nonessential. Methionine. Arginine. All the other amino acid. Threonine Tryptophan Valine Isoleucine Leucine Phenylalanine Lysine",
-        "cop": 3,
-        "opa": "Methionine",
-        "opb": "Lysine",
-        "opc": "Alanine",
-        "opd": "Leucine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "f96b1a43-0ad2-4814-9233-84694f1d61bc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Creatinine is formed from all except -",
-        "exp": "Ans. is 'd' i. e., Asparagine * The three aminoacids used for the synthesis of creatine are Glycine, Arginine and Methionine* In Kidney, Glycine reacts with Arginine in the presence of Arginine Glycine Amido Transferase to for Guanidoacetate and Ornithine* Guanidoacetate through circulation is taken to liver. In liver Guanidoacetate undergoes transmethylation reaction with S- Adenosyl Methionine in the presence of Guanidoacetate Methyl Transferase to form Creatine.* The creatine through circulation reaches tissues.* 90% of creatine is taken up by skeletal muscles and is phosphorylated by creatine Kinase to form creatine Phosphate.* This creatine phosphate acts as the immediate source of energy for skeletal muscle.",
-        "cop": 4,
-        "opa": "Glycine",
-        "opb": "Arginine",
-        "opc": "Methionine",
-        "opd": "Asparagine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "5ddbaad6-17a3-4aac-b91f-8fe5b4eecfcf",
-        "choice_type": "multi"
-    },
-    {
         "question": "Proteins are transported into the cell by?",
         "exp": "Ans. a (Pinocytosis). (Ref. Ganong, Physiology, 21st/pg. 29). Pinocytosis (\"Cell drinking\")# It is the process by which proteins are taken into the cell. The substance ingested are insoluble & not seen by microscope.# Endocytosis: It is a process by which a molecule is taken into the cell.# Endocytosis can be of 2 types: Phagocytosis & pinocytosis.# Endocytosis can be constitutive or clathrin-mediated, which is responsible for internalisation of many receptors & ligands binding to them. e. g. NGF, LDL, Synaptic function.",
         "cop": 1,
@@ -2975,19 +2468,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "1c310075-f758-4d4a-97c9-abdfa30cd3d4",
         "choice_type": "single"
-    },
-    {
-        "question": "Branched chain ketoaciduria is a defect of catabolism of all the following aminoacids except-",
-        "exp": "Ans. is 'd' i. e., Methionine * Branched chain ketoaciduria or Maple Syrup Urine Disease (MSUD) is caused by a defect of branched chain keto acid dehydrogenase enzyme complex (BCKD). BCKD catalyses the second step of catabolism of branched chain amino acids - Leucine, Isoleucine and Valine.",
-        "cop": 4,
-        "opa": "Leucine",
-        "opb": "Isoleucine",
-        "opc": "Valine",
-        "opd": "Methionine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "5c3dd36d-3430-4075-9a2e-8e1100d56e87",
-        "choice_type": "multi"
     },
     {
         "question": "Mc. Ardle disease can be caused by a problem with the metabolism of which particular compound.",
@@ -3055,19 +2535,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Glutathione contains all except-",
-        "exp": "Ans. is 'b' i. e., Glutamine* Glutathione is a tripeptide* It is g glutamyl cysteinyl glycine* It is made up of three aminoacids - glutamic acid, cysteine and glycine* Hence Glutamine is not a component of glutathione",
-        "cop": 2,
-        "opa": "Cysteine",
-        "opb": "Glutamine",
-        "opc": "Glutamic acid",
-        "opd": "Glycine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "09e7bd2c-3eda-474f-b33b-659b8b7c6200",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which amino acid can protonate and deprotonate at neutral pH?",
         "exp": "Ans. A. Histidine. Amino acid which can protonate and deprotonate means those which can act as buffer. Amino acid whose p. Ka=pH of the medium has maximum buffering capacity. p. Ka of imidazole group of histidine is 6. 5 - 7. 4. At pH=7, Imidazole group of histidine can act as buffer.",
         "cop": 1,
@@ -3120,19 +2587,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are aromatic amino acids EXCEPT:",
-        "exp": "(Lysine): Ref 49, U. S. (75- R. S. 7th)* Aromatic amino acids: Phenylalanine, tyrosine and tryptophan (with indole ring) are aromatic amino acids, Basides these histidine may also be considered this category.* Hydroxyl group containing amino acids: - Serine, Threonine, Tyrosine* Amino acids with aliphatic side chains: - Leucine, Isoleucine, Valine {Branchedchain amino acids) Glycine, Alanine* Basic amino acids: - Lysine, Arginine {with guanidine group) and Histidine {imidazole ring)* Non polar amino acids: - Alanine, laucine, Isoleucine, Valine, Methionine, Phenylalanine, tryptophan and proline",
-        "cop": 4,
-        "opa": "Phenylalanine",
-        "opb": "Tyrosine",
-        "opc": "Tryphophan",
-        "opd": "Lysine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "f7986f8a-eac8-4cc2-b90f-2de79c6bcd03",
-        "choice_type": "multi"
-    },
-    {
         "question": "HHH syndrome is due to a defect of which pathway?",
         "exp": "Ans. is 'd' i. e., Urea cycle* In urea cycle, as the enzyme ornithine transcarbamylase is present in mitochondria, ornithine should be taken into mitochondria. Ornithine then reacts with carbamyl phosphate to form citrulline within mitochondria. After citrulline is formed, it should leave the mitochondria to reach cytoplasm.* Hence ornithine should get into mitochondria and citrulline should leave the mitochondria. This is by ornithine citrulline transporter.* Defect of ornithine citrulline transporter results in HHH syndrome characterised by# Hyperammonemia (as ornithine can not get into mitochondria, urea cycle is inhibited and hence ammonia accumulates)# Hyperornithinemia (as ornithine is not being utilised for urea cycle)# Hyperhomocitrullinemia (when carbamyl phosphate of urea cycle does not find ornithine within mitochondria, it reacts with lysine to form homocitrulline and hence homocitrullinemia)* Thus HHH syndrome or Hyperammoniemia Hyperornithinemia Hyperhomocitrullinemia is caused by Ornithine Citrulline transporter present in mitochondrial membrane.",
         "cop": 4,
@@ -3144,19 +2598,6 @@
         "topic_name": "Proteins and Amino Acids",
         "id": "557d9021-d0ac-49f0-8a9b-a7df32ccb85f",
         "choice_type": "single"
-    },
-    {
-        "question": "Maple syrup urine disease is characterised by all except -",
-        "exp": "Ans. is 'd' i. e., Hypopigmentation* Maple syrup urine disease is caused by a defect of branched chain keto acid dehydrogenase (BCKADH), the enzyme which is involved in the catabolism of branched chain amino acids - valine, leucine and isoleucine* The disorder is so called because of the classic sweet odour observed in urine. This classic odour is found to be because of the presence of sotolone (a metabolite of branched chain keto acids) in urine* The enzyme BCKADH has three subunits - Branched chain keto acid dehydrogenase, Dihydrolipoyl transacetylase, Dihydrolipoyl dehydrogenase. It uses 5 coenzymes - thiamine pyrophosphate,, lipoamide, CoA, FAD and NAD* Mutation of any of the genes of any of the subunits involved in the complex can result in maple syrup urine disease.* It presents as either an early onset acute illness or as late onset chronic disorder.* Early onset acute illness# The infant is normal at birth but slowly neurodegenerative features are observed and it progresses rapidly and the infant dies close to 6 months* Late onset chronic illness# In late onset type, the person is normal and features appear during metabolic crisis states like during starvation or catabolic states. As during starvation or during catabolic states, the person presents with# Weight loss# Hypoglycemia# Ketoacidosis# Diorrhea, vomiting, dehydration# Neurological manifestations like alternating hypotonia and hypertonia, ataxia, seizures, coma# Pancreatitis* Diagnosis can be done using dried blood spot analysed using HPLC and Tandem mass spectrometry* Screening tests includes DNPH test (Dinitrophenylhydrazine test). DNPH reacts with the carbonyl groups of aldehydes and ketone to give a red or yellow complex.* Treatment involves diet (restriction of valine, leucine and isoleucine with formula foods) and supplementation of vitamins, minerals and omega 3 fatty acid)* To avoid RBCs of the sample utilising glucose of the plasma, fluride is added in the tube (Grey topped tube). Fluride inhibits glycolysis in RBCs. Hence it avoids false low values of glucose.* Pyruvate dehydrogenase is an enzyme complex made up of three subunits - pyruvate dehydrogenase, dihydrolipoyl transacetylase. Dihydrolipoyl dehydrogenase. Lipoamide is one of the coenzymes required for this enzyme complex. During the process of conversion of pyruvate to acetyl CoA, lipoamide gets reduced to form dihydrolipoamide. Regeneration of lipoamide is not possible in the presence of arsenite",
-        "cop": 4,
-        "opa": "Hypotonia",
-        "opb": "Hypertonia",
-        "opc": "Pancreatitis",
-        "opd": "Hypopigmentation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Proteins and Amino Acids",
-        "id": "2ab5999f-e897-4b04-af86-be7183f3eeb5",
-        "choice_type": "multi"
     },
     {
         "question": "Hartnup disease can present with:",

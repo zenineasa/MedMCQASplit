@@ -13,84 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In preanaesthetic evaluation of airway anesthesiologist wrote Mallampati grade III. What does it signify-",
-        "exp": null,
-        "cop": 2,
-        "opa": "Full view of soft palate uvula, tonsillar pillars",
-        "opb": "View of Soft palate and hard palate",
-        "opc": "Only hard palate",
-        "opd": "Full view of soft palate, uvula, fauces, tonsillar pillars",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "3283dbec-c8d4-44ec-ac12-bfbc29e3a684",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Difficulty in laryngoscopy and intubation is seen in all except:",
-        "exp": "Modified mallampati classification 1 and 2 no difficulty Modified mallampati classification 3 and 4 difficulty in intubation. Mallampati classification - Standard for assessing the relationship of the tongue size relative to oral cavity. Rest all are predictors of difficult airway 1. Interincisor gap of <3 indicates inadequate mouth opening. 2. Upper lip bit test negative again predictor of difficult airway 3. Cervical joint immobility indicates difficulty in positioning.",
-        "cop": 2,
-        "opa": "Cervical joint immobility",
-        "opb": "Modified mallampati class 2",
-        "opc": "Upper lip bite test negative.",
-        "opd": "Interincisor gap of <3cm",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "7688c619-69e5-410d-ab80-54c52045bc85",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Mallampati score is used in:",
-        "exp": "Mallampati score is used to predict difficult tracheal intubation based on the size of tongue base relative to the oropharyngeal space. Mallampati classification: Class I: soft palate, fauces, entireuvula, pillars Class II: soft palate, fauces, poionof uvula Class III: soft palate, base of uvula Class IV: hard palate only",
-        "cop": 4,
-        "opa": "Thoracoabdominal angular curvature during respiration",
-        "opb": "Flexion and extension of neck during intubation",
-        "opc": "Free rotation",
-        "opd": "To assess difficulty in intubation in oral cavity",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "d2bde4aa-5c9f-4d8d-b543-bb8810f77ef0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true statements regarding drugs to be discontinued before surgery except:",
-        "exp": "The following drugs has tobe continued on the day of surgery: Antihypeensive medications Cardiac medications (e. g., b-blockers, digoxin) Antidepressants, anxiolytics, and other psychiatric medications Thyroid medications Anticonvulsantmedications Asthma medications. Steroids (oral and inhaled) Drugs that should be discontinued on the day of surgery Oral hypoglycemic agents NSAIDs - Discontinue 48 hours before the day of surgery Warfarin - Discontinue 4 days before surgery, except for patients having cataract surgery without a bulbar block. Sho acting Insulins except when given by a continuous pump Thienopyridines (e. g., clopidogrel, ticlopidine) except in cataract surgery, patients with metallic/drug eluting stents Aspirin in selected cases where reversal of platelet inhibition is necessary MAO Inhibitors - 2 weeks prior (MAO Inhibitors are usually continued. They should be discontinued if the patient and anesthesiologist factors are not orable to continue them)",
-        "cop": 2,
-        "opa": "Thyroid medications need not be stopped before surgery",
-        "opb": "NSAIDs should be discontinued 72 hours before surgery",
-        "opc": "Warfarin should be discontinued 4 days before surgery",
-        "opd": "MAO Inhibitors should be discontinued 2 weeks before surgery",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "34e368d0-fa4f-4db8-b7e0-2bdf947d47df",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Patient should be kept nil orally for:",
-        "exp": "for adults 6 hours for liquids and semisolids 8 hours for fried, fatty food Recommended Preoperative Fasting period for neonates and infants are 6 hours for solids/formula feeds/cow's milk 4 hours for breast milk Recommended Preoperative Fasting periods for all above 1 year of age are 2 hours for clear fluids 4 hours for breast milk 6 hours for light meal 8 hours for fried, fatty food For clear fluid new clinical Study has recommended for liberal approach and 2hrs is upgraded to 1 hr. If type of food is not specified NPO status should be 6 hrs.",
-        "cop": 2,
-        "opa": "4 hours",
-        "opb": "6 hours",
-        "opc": "8 hours",
-        "opd": "12 hours",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "e471fc28-7a4e-470c-9ff1-af07d3e0901a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Conscious sedation is:",
-        "exp": "Sedation with ability to respond to command. Dexmedetomidine is nowerdays is considered best drug for concious sedation. Dexmedetomidine * Highly selective alpha - 2 adrenoreceptor agonist * Used mainly as IV adjunct during induction and /or maintenance of general anesthetics * Minimal respiratory and cardiovascular depression * Good sedation, good analgesic, sympatholytic effects * Selectivity for alpha1: alpha 2 receptors is 1: 1640 Uses of IV anesthetic agents:- 1. Induction of anesthetics 2. Maintenance of anesthetics 3. Sedation",
-        "cop": 3,
-        "opa": "CNS depression with unconsciousness",
-        "opb": "Sedation with inability to respond to command",
-        "opc": "Sedation with ability to respond to command",
-        "opd": "Any of the above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "df8ea54e-fd38-4d45-b391-6e615d4d1945",
-        "choice_type": "multi"
-    },
-    {
         "question": "19-year-old boy was posted for emergency repair of the ruptured globe. The patient had last meal 5 hr ago. Which among the following is anesthetic technique of choice in this patient?",
         "exp": "Anesthetic technique of choice for emergency repair of the ruptured globe in full stomach patients is General anesthesia--despite the increased risk of aspiration pneumonia. The patient is considered to have a full stomach if the injury occurred within 8 hr after the last meal, even if the patient did not eat for several hours after the injury Although Retrobulbar block, Subtenon block and Peribulbar block minimizes the risk of aspiration pneumonia, it is still C/I in patients with penetrating eye injuries Because injecting local anesthetic behind the globe increases intraocular pressure and may lead to expulsion of intraocular contents.",
         "cop": 3,
@@ -130,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are risk factor for postoperative pulmonary complications except?",
-        "exp": "Risk factor for postoperative pulmonary complications: Patients >=60 years of age COPD Markedly reduced exercise tolerance and functional dependence Heart failure ASA class 3 and 4 Cigarette smoking Longer surgeries (>4 h), Ceain types of surgery Abdominal Thoracic Aoic aneurysm Head and neck Emergency surgery GA (compared with cases in which GA was not used).",
-        "cop": 2,
-        "opa": "ASA class 3 and 4 patients",
-        "opb": "Longer surgeries >2 hr",
-        "opc": "Upper Abdominal surgery",
-        "opd": "Age > 60 years",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "af6e5cc0-0b82-4810-8cae-46efff44bc2d",
-        "choice_type": "multi"
-    },
-    {
         "question": "A moribund patient who has little chance of survival but is submitted to surgery as a last reso belongs to ASA class-",
         "exp": "ASA Grading and Predictive Moality ASA Grade Definition Moality % I Normal healthy individual 0. 06 II Mild systemic disease that doesn't limit activity 0. 4 III Severe systemic disease that limits activity 4. 5 IV Severe systemic disease that is constant threat to life 23 V Moribund, not expected to survive 24 hrs with or without surgery 51",
         "cop": 4,
@@ -156,45 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What difficulty is assessed by Mallampati classification during intubation -",
-        "exp": "The Mallampati classification has become the standard for assessing the relationship of the tongue size relative to oral cavity.",
-        "cop": 3,
-        "opa": "Inadequate neck movement",
-        "opb": "Inadequate mouth opening",
-        "opc": "Large tongue",
-        "opd": "Receding mandible",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "6b60593d-0d11-4ad6-8f2e-7b8e55225282",
-        "choice_type": "multi"
-    },
-    {
-        "question": "What is role of Mallampati classification in preanesthetic evaluation?",
-        "exp": "Mallampati classification is preanesthetic evaluation of difficulty in Intubation.",
-        "cop": 2,
-        "opa": "To identify difficulty in ventilation",
-        "opb": "To identify difficulty in intubation",
-        "opc": "To identify difficulty in both ventilation & intubation",
-        "opd": "To identify cardiac risk with surgery",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "0069ab3e-5d10-4876-8973-e9081610ab21",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A risk score for predicting postoperative nauseas and Vomitings after inhalational agent comprises all except-",
-        "exp": "Most significant Risk factors which increases Post Operative Nausea Vomitting 1. Female gender 2. Prior history of motion sickness 3. Non smoking 4. Used for opioid postoperative FACTORS INFLUENCING POSTOPERATIVE NAUSEA AND VOMITING The etiology of emesis is multifactorial. The factors influencing the PONV are as follows: Patient factors Preoperative factors Intraoperative factors: Surgical factors Anesthesia factors Postoperative factors Patient factors Sex: Women are more likely to experience PONV compared to men. It is the strongest patient-specific predictor Motion sickness: Patients with history of motion sickness or vomiting after previous surgery are at increased risk for PONV Smoking: Nonsmokers are more prone for PONV. In smokers, gradual desensitization of CTZ occurs Age: Age <50 years is a significant risk factor for PONV Obesity: Recent data suggest that body mass index is not correlated with an increased risk for development of PONV Delayed gastric emptying: Patients with abdominal pathology, diabetes mellitus, hypothyroidism, pregnancy, increased intracranial tension, history of swallowing blood, and with full stomach are at increased risk of PONV. Preoperative factors Perioperative fasting: It is unceain as risk factor Anxiety: Clinically not relevant for PONV prediction. Intraoperative factors Surgical factors: Type of surgery: Cholecystectomy and gynecological and laparoscopic surgeries are associated with high incidence of PONV Duration of surgery: Longer duration surgeries are associated with increased incidence of PONV. Increasing operative duration by 30 min may increase the risk of PONV by 60%. Anesthesia factors: General anesthesia: * Nitrous oxide: Significant decrease in postoperative emesis was noted if nitrous oxide was avoided in patients undergoing laparoscopic procedures. Three mechanisms have been suggested as contributing factors to the increase in postoperative emesis associated with nitrous oxide 1. Stimulation of sympathetic nervous system with catecholamine release 2. Middle ear pressure changes resulting in traction of the membrane of round window and consequent stimulation of the vestibular system 3. Increased abdominal distension resulting from exchange of nitrous oxide and nitrogen in gas introduced into gastrointestinal tract during mask ventilation * Inhalational agents: Ether and cyclopropane cause a higher incidence of PONV due to increase in endogenous catecholamines. Sevoflurane, enflurane, desflurane, and halothane are associated with lesser degree of PONV. Effect of volatile anesthetics on PONV is dose-dependent and prominent in the first 2-6 h after surgery. Volatile anesthetics were the primary cause of early PONV (0-2 h after surgery); they did not have an impact on delayed PONV (2-24 h after surgery) * Etomidate: Continuous etomidate infusion as a pa of balanced anesthetic technique markedly increases the incidence of postoperative emesis * Ketamine: Studies have shown that ketamine used for induction resulted in delayed discharge, vivid dreams, hallucinations, and higher incidence of PONV compared to a patient receiving barbiturates with nitrous oxide. Emetic effect is secondary to endogenous catecholamine release * Propofol: It is popular for outpatient anesthesia due to its orable recovery characteristics including rapid emergence and reduced PONV * Balanced anesthesia: Compared to inhalational or total intravenous (IV) technique, the use of nitrous oxide-opioid-relaxant technique is associated with higher incidence of postoperative emesis. Emesis with balanced anesthesia has been attributed to use of an opioid-nitrous oxide combination, directly stimulating CTZ * Opioids: It causes emesis through stimulation of opioid receptors located in CTZ. The contribution of intraoperative opioids is weak; there is no difference among different opioids * Neuromuscular reversal agents: Incidence of PONV is unceain. Regional anesthesia: Risk for PONV was 9 times less among patients receiving regional anesthesia than those receiving general anesthesia. The incidence of postoperative emesis following regional nerve block procedures is usually lower than with general anesthesia. Emesis with central neuraxial block is greater than that with peripheral nerve block because of associated sympathetic nervous system blockade, which contributes to postural hypotension induced nausea and vomiting. The incidence of nausea after epidural opioid may be lower with more lipid soluble opioids such as fentanyl and sufentanil, which have less rostral spread from lumbar epidural injection site to CTZ and vomiting center, than the less lipid soluble opioids such as morphine. POSTOPERATIVE FACTORS Pain: Visceral or pelvic pain is a common cause of postoperative emesis Ambulation: Sudden motion, changes in position, transpo from the postanesthetic recovery unit to the postsurgical ward can precipitate nausea and vomiting in patients who have received opioid compounds Opioids: Postoperative opioids increase risk for PONV in a dose-dependent manner; this effect appears to last for as long as opioids are used for pain control in the postoperative period. Irrespective of route of administration, the incidence of nausea and vomiting appears to be similar. Nonsteroidal anti-inflammatory agents can be used in perioperative period to reduce opioid requirement Supplemental oxygen is no longer recommended for PONV prevention.",
-        "cop": 4,
-        "opa": "Female gender",
-        "opb": "Prior history of motion sickness",
-        "opc": "Non smoking",
-        "opd": "Obesity",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "d80b5bd6-373c-41b6-9943-2e426e790f1d",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient with severe systemic disease which is a constant threat to the life belong to which ASA class:-",
         "exp": "ASA Grading and Predictive Moality ASA Grade Definition Moality % I Normal healthy individual 0. 06 II Mild systemic disease that doesn't limit activity 0. 4 III Severe systemic disease that limits activity 4. 5 IV Severe systemic disease that is constant threat to life 23 V Moribund, not expected to survive 24 hrs with or without surgery 51 ASA grade Vl - comatose patient / brain dead patient for organ transplantation.",
         "cop": 2,
@@ -206,32 +76,6 @@
         "topic_name": "Pre Anesthetic Evaluation",
         "id": "ad6efa04-9c4d-4a5b-9621-3cd37d693e14",
         "choice_type": "single"
-    },
-    {
-        "question": "A Pediatric patient posted for surgery should be rescheduled in all of the following condition except-",
-        "exp": "Surgery is pediatric patient should be rescheduled if there is sign of recent infection. Signs of recent infections Fever (>38. 5degC) Wheeze present Obstructive sleep apnea is not sign of recent respiratory tract infection.",
-        "cop": 4,
-        "opa": "Fever (>38. 5degC)",
-        "opb": "Purulent secretion",
-        "opc": "Wheeze present",
-        "opd": "Obstructive sleep apnea",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "59e1c2b7-a288-4f33-8034-b73f779c12cc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of all following is not a Goldman revised cardiac risk index",
-        "exp": ". In 1977 Goldman, et al., developed the first cardiac risk index, which included nine variables associated with an increased risk of perioperative cardiac complications. This became known as the Original Cardiac Risk Index (or alternatively the Goldman Index). Revised Cardiac Risk Index.... 1999",
-        "cop": 4,
-        "opa": "History of ischemic heart disease",
-        "opb": "History of preoperative treatment with insulin",
-        "opc": "History of preoperative serum creatinine >2. 0 mg/dL",
-        "opd": "Age > 80 yrs",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "b1aa0e10-0360-4be1-ad0a-07a620a6775a",
-        "choice_type": "multi"
     },
     {
         "question": "The best time period to give preoperative antibiotics:",
@@ -312,32 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What difficulty is assessed by Mallampati score/classification-",
-        "exp": "The Mallampati classification has become standard for assessing the relationship of the tongue size relative to oral cavity. from class 1 to 4 gradually tongue size is increasing.",
-        "cop": 4,
-        "opa": "Inadequate mouth opening",
-        "opb": "Sho and thick neck",
-        "opc": "Long upper incisors",
-        "opd": "Large tongue",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "92974957-80b7-4dca-ade6-c68cb80fb599",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Upon airway examination, if only soft palate and hard palate is visible. Where will you place this in modified mallampatti classification?",
-        "exp": "Mallampati classification: Class I: The entire palatal arch, including the bilateral faucial pillars, are visible down to their bases. Class II: The upper pa of the faucial pillars and most of the uvula are visible. Class III: only the soft and hard palates are visible. Class IV: only the hard palate is visible.",
-        "cop": 3,
-        "opa": "Class 1",
-        "opb": "Class 2",
-        "opc": "Class 3",
-        "opd": "Class 4",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "5f00cacb-242f-43bc-bdf2-819d83568243",
-        "choice_type": "multi"
-    },
-    {
         "question": "According to AHA/American college of cardiology which is not surgery with high risk in patients with known coronary aery disease-",
         "exp": "Risk stratification Procedure examples Vascular (repoed cardiac risk >5%) Aoic and other major vascular surgery Peripheral vascular surgery Intermediate risk (repoed cardiac risk 1%-5%) Intraperitoneal and intrathoracic surgery Carotid endaerectomy Head and neck surgery Ohopedic Surgery Prostate surgery Low risk (repoed cardiac risk <1% Endoscopic procedures Superficial procedures Cataract surgery Breast surgery Ambulatory surgery",
         "cop": 3,
@@ -349,31 +167,5 @@
         "topic_name": "Pre Anesthetic Evaluation",
         "id": "517f032d-f1f6-4407-9e76-0483914b05bb",
         "choice_type": "single"
-    },
-    {
-        "question": "During preanaesthetic evaluation Anaesthetist wrote Mallampati grade 3 what it signifies:-",
-        "exp": "other predictors of difficult intubation. Thyromental distance <6. 5 cm with head in maximum extension Sterno-mental distance <12 cmwith head in maximum extension Increased neck circumference (>17 inches in men or >16 inches in women) Upper lip bite test: Inability to protrude the mandible or lower teeth in front of the upper teeth",
-        "cop": 1,
-        "opa": "A large tongue",
-        "opb": "Decreased neck movement",
-        "opc": "A big epiglottis",
-        "opd": "Trismus",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "f2f2d4b2-085e-4498-8541-58a6b58c38b2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "According to AHA/ACC all the surgeries are associated with low risk requiring no preoperative cardiac testing in patients with known coronary aery disease except-",
-        "exp": "Risk stratification Procedure examples Vascular (repoed cardiac risk >5%) Aoic and other major vascular surgery Peripheral vascular surgery Intermediate risk (repoed cardiac risk 1%-5%) Intraperitoneal and intrathoracic surgery Carotid endaerectomy Head and neck surgery Ohopedic Surgery Prostate surgery Low risk (repoed cardiac risk <1% Endoscopic procedures Superficial procedures Cataract surgery Breast surgery Ambulatory surgery",
-        "cop": 3,
-        "opa": "Cataract surgery",
-        "opb": "Endoscopic procedure",
-        "opc": "Prostate Sx",
-        "opd": "Breast Sx",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Pre Anesthetic Evaluation",
-        "id": "198bc3c2-5bc0-4de7-a43f-718119ae4a4a",
-        "choice_type": "multi"
     }
 ]

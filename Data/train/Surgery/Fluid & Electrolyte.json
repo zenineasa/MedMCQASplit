@@ -26,32 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Initial fluid of choice in treatment of hypovolemia in trauma patient:",
-        "exp": "Ans. (c) Crystalloids. Ref: Bailey and Love 27th edition page 19). The ideal fluid of choice in emergency ward is crystalloids and especially the best is normal saline > Ringer lactate.",
-        "cop": 3,
-        "opa": "Colloid",
-        "opb": "Blood",
-        "opc": "Crystalloid",
-        "opd": "Plasma expanders",
-        "subject_name": "Surgery",
-        "topic_name": "Fluid & Electrolyte",
-        "id": "9ed0b722-0452-455d-93ef-d046763a0a34",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is a side effect of vagotomy?",
-        "exp": "Ans. (d) All of the above. Post Vagotomy Complications: 1. Post vagotomy diarrhea:# About 30% or more of patients suffer from diarrhea after gastric surgery.# Most patients with post-vagotomy diarrhea have their symptoms resolve over time, treatment should be symptomatic. 2. Post vagotomy gastric atony:# After vagotomy, gastric emptying is delayed. This is true for both truncal and selective vagotomies but not in the case of highly selective or parietal cell vagotomy.# With selective or truncal vagotomy, patients lose antral pump function and therefore have a reduction in their ability to empty solids3. Incomplete Vagal Transaction:# It predisposes the patient to the possible development of recurrent ulcer formation. The type of vagotomy performed influences the likelihood of this problem.# In highly selective vagotomy, incomplete vagotomy is rarely a problem because of the meticulous dissection required during this procedure.",
-        "cop": 4,
-        "opa": "Delayed gastric emptying",
-        "opb": "Gastric atony",
-        "opc": "Diarrhea",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Fluid & Electrolyte",
-        "id": "38515417-24d4-4e35-92f7-eb5e6021eec4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Among patients who require nutritional resuscitation in an intensive care unit, the best evidence that nutritional support is adequate is",
         "exp": "The serum albumin level provides a rough estimate of protein nutritional adequacy. The accuracy of this estimate is affected by the long half-life of albumin (3 week) and vagaries of hemodilution. The acute-phase serum proteins have a very short half-life (hours) and may also provide good short-term indications of nutritional status. Transferrin is one of these acute-phase proteins, but unfortunately its levels too are influenced by changes in intravascular volume and, along with the other acute-phase reactants, rise nonspecifically during acute illness. All the listed responses provide some useful information about nutrition and adequacy of replacement.",
         "cop": 3,
@@ -63,32 +37,6 @@
         "topic_name": "Fluid & Electrolyte",
         "id": "d610e7be-6eda-4814-9096-549308f79702",
         "choice_type": "single"
-    },
-    {
-        "question": "Most common cause of hyponatremia in surgical practice",
-        "exp": "Ans. a (Small intestinal obstruction) (Ref. Bailey and Love Short textbook of surgery 24th ed., p 56). The most frequent cause of sodium depletion in surgical practice is obstruction of the small intestine. SODIUM BALANCE# Sodium is the principal cation content of the extracellular fluid.# On average it is 1 mmol/kg sodium chloride or 500 mL of isotonic 0. 9 % saline solution. An equivalent amount is excreted daily, mainly in the urine and some in the faeces. Sodium Depletion (syn. Hyponatremia). Etiology# Small intestinal obstruction (most frequent cause in surgical practice).# Duodenal, total biliary, pancreatic and high intestinal external fistulae.# Severe diarrhea will cause hyponatremia with acidosis.# Hyponatremia with elevated potassium would suggest adrenocortical insufficiency.# SIADH. Potassium Depletion# It occurs most frequently in diabetic coma treated by insulin and prolonged infusion of saline solution.# Diuretics.# The diarrhoea from ulcerative colitis, villous tumours of the rectum and the loss from external fistulae of the alimentary tract are also common causes (e. g., duodenal fistula, ileostomy); Clinical features# risk of cardiac arrhythmias.# Symptoms of severe hypokalemia include listlessness and slurred speech, muscular hypotonia, depressed reflexes and abdominal distension as a result of a paralytic ileus.# ECG: Prolonged QT interval, depression of ST segment and flattening or inversion of the T-wave. Rx# Oral potassium. Potassium can be given in the form of milk, meat extracts, fruit juices and honey. However, in hospital practice, effervescent tablets of potassium chloride 2 g can be given by mouth 6-hourly.# IV potassium. Rapid IV supplementation (especially when renal function is impaired) carries the risk of dysrhythmias and cardiac arrest if the serum concentration rises to a dangerous level.# When there is no associated alkalosis, potassium deficit can be restored by adding 40 mmol KCL to each litre of 5% glucose, glucose-saline or 0. 9 % saline solution, given 6-8-hrly. Sodium Excess (syn. Hypernatremia). Etiology# excessive amount of 0. 9% saline solution given intravenously during the early postoperative period. Clinical Features# Slight puffiness of the face is the only early sign. POTASSIUM BALANCE# Potassium is almost entirely intracellular.# No less than 98% is intracellular, and only 2% is present in the extracellular fluid.# Three-quarters of the total body potassium (approximately 3500 mmol) is found in skeletal muscles.",
-        "cop": 1,
-        "opa": "Small intestinal obstruction",
-        "opb": "Duodenal fistula",
-        "opc": "Pancreatic fistula",
-        "opd": "Intussuception",
-        "subject_name": "Surgery",
-        "topic_name": "Fluid & Electrolyte",
-        "id": "592cb791-d975-4e50-b342-c526b5e09c33",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Side effect of massive blood transfusion are all except",
-        "exp": "Ans. (d) Hypokalemia. Ref: Bailey and Love 27th Edition Page 22, Surgery Sixer 3rd Edition Page 12. Complications of Massive Blood Transfusion ( > 10 units packed cells in 24 hours). Decreased things:* Hypocalcemia* Hypomagnesemia* Hypothermia* Dilutional Thrombocytopenia* Coagulopathy* Decreased 2, 3 DPG and hence Oxygen delivery Increased Things:* Hyper kalemia* Metabolic Alkalosis* Volume overload* Iron overload (in people who receive long term Blood transfusions)",
-        "cop": 4,
-        "opa": "Hypothermia",
-        "opb": "Hypocalcemia",
-        "opc": "Hypomagnesemia",
-        "opd": "Hypokalemia",
-        "subject_name": "Surgery",
-        "topic_name": "Fluid & Electrolyte",
-        "id": "031ad5fb-15e4-4db6-8388-63cf8ba0f3c2",
-        "choice_type": "multi"
     },
     {
         "question": "Trousseaus sign is seen in -",
@@ -143,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is called balanced resuscitation?",
-        "exp": "ANS. CComponents of damage control resuscitation: 1. Permissive hypotension essential definitive surgical control2. Minimize crystalloid use3. Initial use of 5% hypertoxic saline4. Early use of blood products5. Treat coagulopathy",
-        "cop": 3,
-        "opa": "Giving colloids and crystalloids at a ratio of 1: 1",
-        "opb": "Maintaining pH ensuring acid-base balance",
-        "opc": "Maintaining permissible hypotension to avoid bleeding",
-        "opd": "Maintaining airway, breathing and circulation",
-        "subject_name": "Surgery",
-        "topic_name": "Fluid & Electrolyte",
-        "id": "20f96383-4528-4b27-864b-1e4770d9592c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Normal intra abdominal pressure is?",
         "exp": "ANSWER: (A) 5 mm Hg. REF: Sabiston 18tn ed chapter 15, Schwartz 9th ed Table 7-12. Normal intra-abdominal pressure is around 5 mm Hg (range, 0. 2-16. 2 mm Hg). With an increase in intra-abdominal pressure, deleterious effects are observed in the intra- and extra-abdominal organs and the abdominal wall. Abdominal Compartment Syndrome Grading System Bladder pressure. Grademm Hgcm H20. I10-1513-20. II16-2521-35. III26-3536-47. IV>35>48",
         "cop": 1,
@@ -169,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Generally accepted indications for mechanical ventilatory support include",
-        "exp": "Anticipation and early aggressive treatment of pulmonary insufficiency by mechanical ventilatory support are critical in managing the seriously ill patient. Readily measured changes that can be used to determine either the need for intubation or the appropriate time for weaning from mechanical respiratory support include arterial blood gas levels, dead space-tidal volume ratio (VD /VT ), alveolar-arterial oxygen tension difference, vital capacity, and respiratory rate. Indications for mechanical ventilation include a respiratory rate over 35 breaths/min, vital capacity less than 15 mL/kg, greater than 350 k. Pa after 15 min on 100% oxygen, VD /VT greater than 0. 6, Pa. O2 less than 60 k. Pa, and Pa. CO2 greater than 60 k. Pa.",
-        "cop": 4,
-        "opa": "Pa. O2 of less than 70 k. Pa and Pa. CO2 of greater than 50 k. Pa while breathing room air",
-        "opb": "Alveolar-arterial oxygen tension difference of 150 k. Pa while breathing 100% O2",
-        "opc": "Vital capacity of 40-60 mL/kg",
-        "opd": "Respiratory rate greater than 35 breaths/min",
-        "subject_name": "Surgery",
-        "topic_name": "Fluid & Electrolyte",
-        "id": "3ef59327-18e4-4dd8-b482-666afc9a6833",
-        "choice_type": "multi"
-    },
-    {
         "question": "In fluid replacement following a 20% BSA burn, the fluid requirement for the initial 24-hour period is dependent on which of the following?",
         "exp": "In burns, the Parkland formula is used to calculate initial fluid management. Fluid requirement =4xweight(kg)x% second and third degree BSA. Half this volume is given over the first 8 hours from time of the burn and the other half over the next 16 hours. After the initial 24-hour period, clinical parameters are used to guide fluid management.",
         "cop": 1,
@@ -193,19 +115,6 @@
         "topic_name": "Fluid & Electrolyte",
         "id": "f67df0b3-3258-4996-8bd8-59a132730b99",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following electrolyte abnormalities can be seen after brain injury?",
-        "exp": "Ans. is 'd' i. e., All the above Electrolyte abnormalities seen in brain injury* Electrolyte abnormalities occur in 60% of the patients with head injury.* Hyponatremia is the most common electrolyte abnormality seen and is often secondary to SIADH.* Other Electrolyte disorders including hypernatremia, hypokalemia, hyperkalemia, hypophosphatemia and hypomagnesemia are also common after acquired brain injury.",
-        "cop": 4,
-        "opa": "Hyponatremia",
-        "opb": "Hyperkalemia",
-        "opc": "Hypomagnesemia",
-        "opd": "All the above",
-        "subject_name": "Surgery",
-        "topic_name": "Fluid & Electrolyte",
-        "id": "4c37239d-c10d-494e-8fcd-4d9c01674142",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not seen in the post op period:",
@@ -260,19 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Initial fluid of choice in treatment of hypovolemia in patients presenting after trauma is -",
-        "exp": "Ans. is 'd' i. e., Crystalloid * Initial fluid of choice in treatment of hypovolemia in patients presenting after trauma crytalloid. Particularly in patients presenting after truam normal saline is preferred over hartmans solution.",
-        "cop": 4,
-        "opa": "Colloid",
-        "opb": "Blood",
-        "opc": "Plasma expanders",
-        "opd": "Crytalloid",
-        "subject_name": "Surgery",
-        "topic_name": "Fluid & Electrolyte",
-        "id": "b3c7f1af-ad67-4b72-9322-dd41af2780a7",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is the preferred route of access for total parenteral nutrition in a patient who requires the same for <14 days and there is otherwise no indication for use of central catheter?",
         "exp": "Ans. is 'c' i. e., Peripheral vein * Following are the recommendations of the route of access for total parental nutrition: Route of access1. 8. 8. In hospital, parenteral nutrition can be given via a dedicated peripherally inserted central catheter as an alternative to a dedicated centrally placed central venous catheter. A free dedicated lumen in a multilumen centrally placed catheter may also be used. 1. 8. 9. Administration of parenteral nutrition via a peripheral venous catheter should be considered for patients who are likely to need short-term parenteral nutrition (less than 14 days) who have no need for central access for other reasons. Care should be taken in catheter choice, and in attention to pH, tonicity and long-term compatibility of the parenteral nutrition formulations in order to avoid administration or stability problems. 1. 8. 10. Tunnelling subclavian lines is recommended for long-term use (more that 30 days). 1. 8. 11. Catheters do not have to be tunnelled for short-term use (less than 30 days).",
         "cop": 3,
@@ -284,18 +180,5 @@
         "topic_name": "Fluid & Electrolyte",
         "id": "cbdbfca0-0444-4338-9ff5-184fda6813b3",
         "choice_type": "single"
-    },
-    {
-        "question": "Refeeding Syndrome - Lab values to be monitored are all except",
-        "exp": "Ans. (d) Ammonium. Ref: Bailey and Love 27th edition Page 288, Surgery Sixer 3rd Edition Page 6. Refeeding Syndrome* Characterized by severe fluid and electrolyte shifts in malnourished patients undergoing refeeding.* It can occur with Enteral and Parenteral nutrition (MC with TPN)* Lab values: Hypophosphatemia, Hypocalcemia, Hypomagnesemia(Mneumonic-CPM Low)* Risk factors: Alcohol, Severe malnutrition, Anorexia, Prolonged fasting* Treatment: Avoid Overfeeding* Deliver calories slowly* Electrolyte imbalance needs to corrected",
-        "cop": 4,
-        "opa": "Calcium",
-        "opb": "Magnesium",
-        "opc": "Phosphate",
-        "opd": "Ammonium",
-        "subject_name": "Surgery",
-        "topic_name": "Fluid & Electrolyte",
-        "id": "e530722d-fd21-4026-8be6-d9fd20cabc84",
-        "choice_type": "multi"
     }
 ]

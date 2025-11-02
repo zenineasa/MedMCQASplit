@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Elevated WBC count is seen in all except?",
-        "exp": "Typhoid is characterized by leucopenia. Elevated WBC count is seen in Peussis Lymphoreticular malignancy TB",
-        "cop": 1,
-        "opa": "Typhoid",
-        "opb": "Peussis",
-        "opc": "Lymphoreticular malignancy",
-        "opd": "TB",
-        "subject_name": "Medicine",
-        "topic_name": "AML & ALL",
-        "id": "214e558c-fb7a-424b-9d92-cc35975ee55f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which organ is mainly affected in Leukostasis?",
         "exp": "Brain and Lungs (BOTH) are the most commonly affected organs by hyper leukocytosis and leukostasis syndrome WBC counts in excess of >100, 000/cu. mm leads to leukostatic plugging of the capillaries followed by endothelial damage to blood vessels. The presence of dysnea, tachypnea and respiratory distress indicates pulmonary leukostasis. CNS leukostasis presents with stupor, headache and dizziness. The moality occurs due to respiratory failure, intracranial haemorrhage and coma. The low P02 is due to increased consumption of oxygen by leucocytes. It is common with Acute leukemia subtypes like Acute promyelocytic leukemia, acute monocytic leukemia and T cell type of ALL",
         "cop": 4,
@@ -78,58 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Leukostasis is common with which of the following?",
-        "exp": "Hyperleukocytosis and the leukostasis syndrome is commonly associated with a complication of acute leukemia (paicularly myeloid leukemia) It can occur when the peripheral blast cell count is >100, 000/mL. The frequency of hyperleukocytosis is 13% in acute myeloid leukemia (AML) and 10-30% in acute lymphoid leukemia; however, leukostasis is rare in lymphoid leukemia.",
-        "cop": 2,
-        "opa": "ALL",
-        "opb": "AML",
-        "opc": "CML",
-        "opd": "CLL",
-        "subject_name": "Medicine",
-        "topic_name": "AML & ALL",
-        "id": "b458c11d-d434-4dc7-a04c-128e299a4593",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 20 year old female was diagnosed with acute myeloid leukaemia & underwent allogenic stem cell transplantation a year ago. In her follow up visit, she has manifestations of chronic graft-versus-host disease but otherwise is doing well & has no evidence of recurrence. Which of the following vaccines should not be administered to this patient at this point of time?",
-        "exp": "Patients who have undergone allogenic stem cell transplantation remain at risk for infectious complications Graft versus host disease (GVHD) requires immunosuppression that fuher increases infectious risk. Measles, mumps, and rubella vaccine is a live virus vaccine so avoided in transplantation patients with history of GVHD It can be safely given after 24 months if the patient does not have GVHD Patients should be revaccinated against: After 1 year of allogeneic stem cell transplantation After 2 years of allogeneic stem cell transplantation Diphtheria-tetanus 23-Valent pneumococcal polysaccharide Poliomyelitis injection Haemophilus Measles, mumps, and rubella Varicella-zoster",
-        "cop": 3,
-        "opa": "Diphtheria-tetanus",
-        "opb": "23-Valent pneumococcal polysaccharide",
-        "opc": "Measles, mumps, and rubella",
-        "opd": "Poliomyelitis injection",
-        "subject_name": "Medicine",
-        "topic_name": "AML & ALL",
-        "id": "5941a621-b3a8-40d1-94e3-aa5f38656d93",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Most common subtype of adult ALL?",
-        "exp": "ALL is the most frequent neoplastic disease in children with an early peak at the age of 3-4 years More than 70% of adult ALLs are of B-cell origin, and the most frequent immunological subtype, common ALL, is characterized by the presence of ALL antigen, a glycoprotein (gp100/CD10). Pro-B-ALL (also termedearly B-precursor ALL) is a leukemia that was formerly termednon-T, non-B-ALL, ornull-ALL as neither T-cell nor B-cell features could be demonstrated. This subtype forms about 11% of adult ALL. Approximately 25% of adult ALL belongs to the T-cell lineage. All cases express the T-cell antigen (gp40, CD7) and cytoplasmatic or surface CD3. They may, according to their step of T-cell differentiation, express other T-cell antigens, e. g., the E-rosette receptor (CD2) and/or the coical thymocyte antigen T6 (CD1). A minority of T-ALL blast cells may also express common ALL antigen together with other T-cell antigens. According to these markers, it is possible to distinguish a pro-T-ALL (also termedearly T-precursor ALL), coical, or thymic T-ALL and a mature T-ALL expressing different stages of differentiation.",
-        "cop": 1,
-        "opa": "B- lineage ALL",
-        "opb": "Pre-B- ALL",
-        "opc": "T-lineage ALL",
-        "opd": "Coical T-ALL",
-        "subject_name": "Medicine",
-        "topic_name": "AML & ALL",
-        "id": "95ea4710-ad31-4785-b82a-9ffbf5885aed",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following ALL will not show a dismal prognosis?",
-        "exp": "Prognostic factor in acute lymphoblastic leukemia Excellent prognosis Excellent prognosis t(12; 21) and TEL-AML1 fusion Hyperdiploidy and trisomy of specific chromosomes (4, 10 and 17) is associated with an excellent prognosis. Age > 1 years and < 10 years Dismal prognosis t(9; 22) or Philadelphia chromosome and BCR-ABL fusion Hypodiploidy with chromosome number<45 is associated with a poor prognosis Age > 10 years WBC> 50, 000/cu. mm3 CNS leukemia at presentation",
-        "cop": 1,
-        "opa": "Age between 1-10 years",
-        "opb": "TLC > 1 lac",
-        "opc": "Petechiae",
-        "opd": "t(9: 22)",
-        "subject_name": "Medicine",
-        "topic_name": "AML & ALL",
-        "id": "de7f23cd-c1e5-4281-8ecb-422cbccc389f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Gum hyperophy is seen in which type of AML?",
         "exp": "Infiltration of the gingivae, skin, soft tissues, or the meninges with leukemic blasts at diagnosis is characteristic of the monocytic subtypes (M4 and M5). Significant gastrointestinal bleeding, intra-pulmonary hemorrhage, or intracranial hemorrhage occur in M3 AML. Bleeding associated with coagulopathies occur in M5 AML.",
         "cop": 2,
@@ -141,18 +76,5 @@
         "topic_name": "AML & ALL",
         "id": "4814ce4b-33e8-474a-8ef7-26e24501212e",
         "choice_type": "single"
-    },
-    {
-        "question": "Which is the most impoant prognostic marker in ALL?",
-        "exp": "Response to treatment is the most impoant prognostic marker in ALL. Leucocyte count> 50000/ul Poor prognosis Hyperploidy Favorable prognostic factor Response to treatment Remission status at 14 days of chemotherapy is best guide to prognosis. Organomegaly Poor prognosis. Lymph node, liver, spleen and testis enlargement indicate spread of cancer Unorable prognostic factors for ALL: Extreme age group: <1 year or >10 years Black males TLC>1 lac/cu. mm Organomegaly CNS Leukemia L2 ALL, pre B cell and mature B cell ALL Hypoploidy t(9: 22) and t(4: 11) Remission> 14 days",
-        "cop": 3,
-        "opa": "Leucocyte count >50000",
-        "opb": "Hyperploidy",
-        "opc": "Response to treatment",
-        "opd": "Organomegaly",
-        "subject_name": "Medicine",
-        "topic_name": "AML & ALL",
-        "id": "e5cb89ab-5bbe-4e7f-a1c1-3a6dd86dd003",
-        "choice_type": "multi"
     }
 ]

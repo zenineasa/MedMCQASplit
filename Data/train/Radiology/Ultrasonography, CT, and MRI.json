@@ -91,32 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 8-year old child was injected contrast in hand for CECT chest. Immediately he developed swelling in the arm which gradually increased. After 4 hours, there was numbness and pain, and he was not allowing the doctor to flex the hand. Pulse is present. What should be done?",
-        "exp": "Ans. c. Immediate fasciotomy (Ref: Rockwood 6/e p2127-2129; Apley 9/e p714, 8/e p728-729). Immediate development of swelling in the arm after contrast injection with numbness and pain is highly suggestive of compartment syndrome due to extravasation of contrast medium. Best treatment is immediate fasciotomy, so that contrast medium and fluid can be drained and patient can be relieved. Extravasation of Contrast and Compartment Syndrome. Extravasation of contrast is a possible complication of imaging studies performed with contrast. Most cases of subcutaneous extravasation occur due to small volumes of extravasation of contrast causing pain, minimum swelling and localized erythema, that is rapidly resolved. If larger volumes are extravasated, extensive tissue and skin necrosis may occur. Compartment syndrome is a very rare complication. Acute compartment syndrome occurs when the tissue pressure within a closed muscle compartment exceeds the perfusion pressure and results in nerve and muscle ischemiaQ. It typically occurs subsequent to a traumatic event, most commonly a fractureQ. Clinical Features: Classic features: Pain (bursting sensation), altered sensibility and paresis (or more usually, weakness in muscle contraction). Ischemic muscle is highly sensitive to stretch. If the limb is unduly painful, swollen or tense, the muscles (which may be tender) should be tested by stretching them. Diagnosis: Confirmation of the diagnosis can be made by measuring the intra-compartmental pressure. Treatment: Emergency fasciotomyQ",
-        "cop": 3,
-        "opa": "High dose prednisolone",
-        "opb": "Arterial thrombectomy",
-        "opc": "Immediate fasciotomy",
-        "opd": "Angiography",
-        "subject_name": "Radiology",
-        "topic_name": "Ultrasonography, CT, and MRI",
-        "id": "7efa1de8-f453-416f-94f6-6912bffb63bc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A Pt. is presented with a metallic foreign body in eye. Which investigation shoul not done:",
-        "exp": "Ans: A (MRI) Table(Harrison). Common Contraindications to MR Imaging. Cardiac pacemaker or permanent pacemaker leads. Internal defibrillatory device. Cochlear prostheses. Bone growth stimulators. Spinal cord stimulators. Electronic infusion devices. Intracranial aneurysm clips (some but not all). Ocular implants (some) or ocular metallic foreign body. Mc. Gee stapedectomy piston prosthesis. Omniphase penile implant. Swan-Ganz catheter. Magnetic stoma plugs. Magnetic dental implants. Magnetic sphincters. Ferromagnetic JVC filters, coils, stents--safe 6 weeks after implantation. Tattooed eyeliner (contains ferromagnetic material and may irritate eyes. MRI should used be used cautiously in the 1st trimester of pregnancy because it is the time of organogenesis of the fetus. It is done for confirmation of fetal intra uterine malformation.- Sutton 7th /1066",
-        "cop": 1,
-        "opa": "MRI",
-        "opb": "USG",
-        "opc": "X-ray",
-        "opd": "CT",
-        "subject_name": "Radiology",
-        "topic_name": "Ultrasonography, CT, and MRI",
-        "id": "5e4a9fec-663f-4b27-a67c-893a7aa966b6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hounsfield units used in?",
         "exp": "ANSWER: (A) CT scan. REF: Sutton's Radiology 7th e p. 1724. The Hounsfield scale, named after Sir Godfrey Newbold Hounsfield, is a quantitative scale for describing radiodensity. The Hounsfield unit (HU) scale is a linear transformation of the original linear attenuation coefficient measurement into one in which the radiodensity of distilled water at standard pressure and temperature (STP) is defined as zero Hounsfield units (HU), while the radiodensity of air at STP is defined as -1000 HUThe Hounsfield scale applies to medical grade CT scans but not to cone beam computed tomography (CBCT) scans. Substance. HUAir-1000. Fat-120. Water0. Blood+30 to +45. Muscle+40. Contrast+130. Bone+400 or more",
         "cop": 1,
@@ -271,45 +245,6 @@
         "topic_name": "Ultrasonography, CT, and MRI",
         "id": "3967b932-d2f4-44e9-bc9d-a6f1edb4d645",
         "choice_type": "single"
-    },
-    {
-        "question": "USG is done to visualize all except-",
-        "exp": "Ans. is 'd' i. e., Bone. Structures on USGo Regions of body distal to highly attenuating structures, such as bone or gas, appear dark on image because of shadowing As most of the sound beams are reflected by highly attenuating structures, little is available for imaging of deeper structures. It is referred to as Acoustic shadowing. Acoustic shadowing is produced by bone, calculus, and air (gas). o On the other hand, structures deep to low attenuating structures, such as liquid, appear bright Acoustic enhancement. Acoustic enhancement is produced by cyst.",
-        "cop": 4,
-        "opa": "Fluid",
-        "opb": "Bile",
-        "opc": "Blood flow",
-        "opd": "Bone",
-        "subject_name": "Radiology",
-        "topic_name": "Ultrasonography, CT, and MRI",
-        "id": "b15f09e3-27a3-4582-88ea-b39538384236",
-        "choice_type": "multi"
-    },
-    {
-        "question": "FAST USG focuses on all of the following areas except-",
-        "exp": "Ans. is 'c' i. e., Pleura FAST stands for Focused Abdominal Sonar for Traymao technique whereby USG is used to assess the presence of blood, either in the abdominal cavity or in the pericardium. o It is a non- invasive bed - side test, o It focuses only on four areas: Pericardium. Spleen. Hepatic. Pelvic",
-        "cop": 3,
-        "opa": "Splenic",
-        "opb": "Hepatic",
-        "opc": "Pleura",
-        "opd": "Pelvic",
-        "subject_name": "Radiology",
-        "topic_name": "Ultrasonography, CT, and MRI",
-        "id": "0d0e4192-fbc9-428f-ba4e-e66877f26a66",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A child was taken for CECT Chest and contrast, was injected; child had swelling which gradually increased. There is numbness. There is pain on passive extension of fingers. He is not allowing you to touch the arm. Pulse was present. What will you do?",
-        "exp": "Ans is 'c' i. e. Immediate Fasciotomy The child is having Compartment syndrome due to extravasation of contrast. This is a medical emergency and immediate fasciotomy needs to be done to prevent tissue necrosis. Extravasation of contrast and Compartment syndrome. Extravasation of contrast is a possible complication of imaging studies performed with contrasts. Most cases of subcutaneous extravasation occur due to small volumes of extravasation of contrast causing pain, minimum swelling and localized erythema that is rapidly resolved. If larger volumes are extravasated, extensive tissue and skin necrosis may occur. Compartment syndrome is a very rare complication. Acute compartment syndrome occurs when the tissue pressure within a closed muscle compartment exceeds the perfusion pressure and results in muscle and nerve ischemia. It typically occurs subsequent to a traumatic event, most commonly a fracture. If left untreated or if inadequately treated, the muscles and nerve within the compartment undergo ischemic necrosis, and a limb contracture, called a Volkmann contracture, results. Severe cases may lead to renal failure and death. The earliest of the 'classic' features are pain (or a 'bursting' sensation), altered sensibility and paresis (or, more usually, weakness in active muscle contraction). Ischaemic muscle is highly sensitive to stretch. If the limb is unduly painful, swollen or tense, the muscles (which may be tender) should be tested by stretching them. When the toes or fingers are passively hyperextended, there is increased pain in the calf or forearm. Confirmation of the diagnosis can be made by measuring the intra compartmental pressures. Treatment is emergent fasciotomy.",
-        "cop": 3,
-        "opa": "High Dose Prednisolone",
-        "opb": "Arterial Thrombectomy",
-        "opc": "Immediate Fasciotomy",
-        "opd": "Antihistaminics / Anticoagulants",
-        "subject_name": "Radiology",
-        "topic_name": "Ultrasonography, CT, and MRI",
-        "id": "3aa91255-9110-46ab-81b1-eb694614a08d",
-        "choice_type": "multi"
     },
     {
         "question": "Retinoblastoma best evaluated by -",

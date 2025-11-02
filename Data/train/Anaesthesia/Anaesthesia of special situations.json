@@ -1,31 +1,5 @@
 [
     {
-        "question": "This cream is appropriate for all of the following procedures Except",
-        "exp": "EMLA (eutectic mixture of local anesthetics) is a eutectic mixture of 5 percent lidocaine and prilocaine that is used to produce anesthesia over intact skin. Its primary use is to produce anesthesia before venipuncture and lumbar puncture. In other settings, this cream has been used for anesthesia of split-thickness graft donor sites, curettage of molluscum contagiosum, cautery of genital was, and myringotomy. EMLA is not recommended for topical anesthesia of lacerations because it induces an exaggerated inflammatory response, thereby damaging host defenses and inviting the development of infection.",
-        "cop": 2,
-        "opa": "Venipuncture",
-        "opb": "Laceration repair",
-        "opc": "Lumbar puncture",
-        "opd": "Myringotomy",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anaesthesia of special situations",
-        "id": "b246096e-4220-4df4-a8e3-2104b1f05017",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following are hepatotoxic anesthetic agents Except",
-        "exp": "Following are the groups of hepatotoxic anesthetic agents: Group I: Drugs with well known hepatotoxic potential and containing chlorine or bromine, Eg: chloroform Group II: Drugs which contain fluorine Eg: halothane, methoxyflurane Desflurane, enflurane, sevoflurane, isoflurane, nitrous oxide and carbon tetrachloride are also linked with hepatotoxicity. (Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no. 160-168)",
-        "cop": 4,
-        "opa": "Halothane",
-        "opb": "Chloroform",
-        "opc": "Ether",
-        "opd": "Propofol",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anaesthesia of special situations",
-        "id": "adb8c9bf-2695-4c52-bfa4-0f24a5420e03",
-        "choice_type": "multi"
-    },
-    {
         "question": "During your preoperative assessment, a 28-year-old woman complains of dyspnea on exeion. Upon auscultation of her heart, you notice a mid-diastolic rumbling murmur. This murmur is most characteristic of which valvular lesion",
         "exp": "The murmur described is characteristic of mitral stenosis. The murmur of mitral stenosis is a mid-diastolic rumbling murmur, best heard at the apex with the patient in the left lateral position. The murmur of mitral regurgitation is typically a holosystolic murmur that may radiate to the axilla. The murmur associated with aoic regurgitation is a midsystolic ejection murmur generally heard best at the base of the heart and is transmitted to the jugular notch. The murmur associated with aoic stenosis is a mid-systolic crescendo- decrescendo murmur that often radiates to the carotids.",
         "cop": 1,
@@ -65,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In porphyria all the following drugs are safe Except",
-        "exp": "There are at least five different classes of precipitating factors in Acute intermittent porphyria: ALAS-N inducers: most precipitating factors can be related to an associated increase in the activity of ALAS-N in the liver. An overproduction of ALA then makes the paially deficient PBGD activity rate limiting. Endocrine factors: the clinical disease is more common in women, especially at the time of menses. The disease also hardly becomes manifest before pubey. Calorie intake: reduced calorie intake often leads to exacerbations of AIP. Additional calories on a diet may reduce PBG excretion and suppress clinical symptoms. Drugs and foreign chemicals: barbiturates, sex steroids, and other foreign chemicals that exacerbate porphyria have the potential to induce cytochrome P450. The resultant enhanced demand for heme synthesis may lead to induction of hepatic ALAS-N. Stress: stress is known to upregulate the heme oxygenase gene and leads to exacerbations of AIP. Similarly, other forms of stress, including intercurrent illnesses, infections, alcoholic excess, and surgery, are all known to contribute to the genesis of an acute attack of this disorder.",
-        "cop": 4,
-        "opa": "Propofol",
-        "opb": "Midazolam",
-        "opc": "Alfentanyl",
-        "opd": "Pentazocine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anaesthesia of special situations",
-        "id": "c75157eb-c452-45f1-90b4-69d0c1fd8775",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 30 year old woman with coarctation of aoa is admitted to the labour room for elective caesarean section. Which of the following is the anaesthesia technique of choice",
         "exp": "General anesthesia is the preferred technique for performing cessearean section with coarctation of aoa as it has advantage of more rapid induction, less hypotenion and better airway and ventilation. Ref.: Morgan 5th/e p. 676",
         "cop": 3,
@@ -115,32 +76,6 @@
         "topic_name": "Anaesthesia of special situations",
         "id": "ebbe986c-3887-40a5-a1be-eb82ec317b32",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statement about the pathophysiology of mitral stenosis is accurate",
-        "exp": "The pathophysiology of mitral stenosis involves impaired diastolic filling of the left ventricle because of an obstruction at the level of the mitral valve. This results in a pressure gradient between the left atrium and the left ventricle. Consequently, left atrial pressure rises while the left ventricle is under-filled. As left atrial pressure increases, pulmonary venous return is impaired and pulmonary hypertension with right ventricular failure can occur.",
-        "cop": 2,
-        "opa": "Patients with mitral stenosis have decreased left atrial pressure.",
-        "opb": "Patients with mitral stenosis generally have an under-loaded left ventricle.",
-        "opc": "The increased pressure gradient between the left atrium and left ventricles results in left ventricular hyperophy.",
-        "opd": "Diastolic filling of the left ventricle is increased in mitral stenosis because of the increased pressure gradient between the left atrium and left ventricle.",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anaesthesia of special situations",
-        "id": "cba921da-8b75-4ff9-b7b4-441b46521444",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement regarding pain management in critical care",
-        "exp": "It is estimated that >70% of critical care patients remember experiencing pain during their critical care stay. The BPS is composed of three observational areas (facial expression, upper limb movements and compliance with mechanical ventilation). Each is scored from 1 to 4, with higher numbers indicating discomfo. The BPS score ranges from 3 (no pain) to 12 (most pain). It has been studied and validated in both deeply sedated and moderately sedated patients. The CPOT assesses four areas (facial expression, movements, muscle tension and ventilator compliance). Each area is scored from 0-2, with total scores ranging from 0 (no pain) to 8 (most pain). It is validated in both intubated and non-intubated critical care patients. CPOT has superior reliability and validity when used in non-verbal critically ill adults. Chronic pain or delirium may make asceaining a pain level difficult with CPOT. Uncontrolled pain is common in critically ill patients. Uncontrolled pain is associated with many adverse physiological and psychological consequences and may cause increased overall morbidity and death. Consequences include: arrhythmias, immune system alteration, increased catecholamine and coisol release, depression, anxiety and post-traumatic stress disorder. Refrence: Stites M. Observational pain scales in critically ill adults. Crit Care Nurs 2013; 33(3): 68-79. 2. Barr J, Puntillo K, Ely EW, et al. Clinical practice guidelines for the management of pain, agitation, and delirium in adult patients in the intensive care unit. Crit Care Med 2013; 41(1): 263-306.",
-        "cop": 4,
-        "opa": "It is estimated that 45% of critical care patients remember experiencing pain during their stay",
-        "opb": "The Behaviourial Pain Scale (BPS) is composed of four observational areas and is scored from 0 to a maximum of 8",
-        "opc": "The Critical-care Pain Observation Tool (CPOT) is not suitable for intubated patients",
-        "opd": "Uncontrolled pain has been linked to adverse patient consequences",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anaesthesia of special situations",
-        "id": "01ff7d4b-b6f0-4f81-a335-17f2f68feb9e",
-        "choice_type": "multi"
     },
     {
         "question": "The current mode of analgesia best for intrapaum pain relief is",

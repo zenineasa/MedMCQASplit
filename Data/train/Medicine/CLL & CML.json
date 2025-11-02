@@ -117,32 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are WHO classified Myelodysplastic Syndromes except:",
-        "exp": "The MDS are a heterogeneous group of hematologic disorders broadly characterized by both: (1) cytopenias due to bone marrow failure and (2) a high risk of development of AML. WHO classification of MDS is as follows Refractory cytopenia with unilineage dysplasia - this includes refractory anemia, refractory neutropenia, or refractory thrombocytopenia RARS (Refractory Anemia with ringed sideroblasts) RAEB (Refractory Anemia with excess Blasts) Refractory cytopenia with multilineage dysplasia MDS with isolated deletion of 5q MDS, unclassifiable Childhood MDS",
-        "cop": 1,
-        "opa": "CML",
-        "opb": "Refractory anemia with excess blasts",
-        "opc": "Refractory anemia with ringed sideroblasts",
-        "opd": "Refractory anemia",
-        "subject_name": "Medicine",
-        "topic_name": "CLL & CML",
-        "id": "89859b63-ae4d-4d6d-9252-6cc7226fef2a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following has the least 5 year survival rate following allogenic bone marrow transplantation?",
-        "exp": "Blast crisis in CML has the least 5 year survival rate following allogenic bone marrow transplantation. 5 year Survival rate after bone marrow transplantation: A. M. L 40-60% A. L. L 40-50% C. M. L Chronic phase 70% C. M. L Blast crisis 15% C. L. L 50% N. H. L 40% SCID, Aplastic Anemia, Thalassemia 90%",
-        "cop": 3,
-        "opa": "Severe Combined Immunodeficiency state",
-        "opb": "Aplastic Anemia",
-        "opc": "Blast crisis in CML",
-        "opd": "Chronic lymphocytic leukaemia",
-        "subject_name": "Medicine",
-        "topic_name": "CLL & CML",
-        "id": "d3974b6c-e94c-4cab-bd78-c13fe5b07672",
-        "choice_type": "multi"
-    },
-    {
         "question": "Roth spots are seen in?",
         "exp": "Roth spots are white-centered retinal hemorrhages seen on fundoscopic examination. These are found in infective endocarditis, leukemia and lymphoma.",
         "cop": 1,
@@ -154,18 +128,5 @@
         "topic_name": "CLL & CML",
         "id": "0bf31365-aad8-463c-9584-ab3b7b5f9146",
         "choice_type": "single"
-    },
-    {
-        "question": "What is the most effective treatment for accelerated phase of chronic myeloid leukaemia?",
-        "exp": "Allogeneic SCT was considered first-line CML therapy before 2000. The maturing positive experience with TKIs has now relegated its use to after first-line TKI failures. An impoant question is the optimal timing and sequence of TKIs and allogeneic SCT (whether allogeneic SCT should be used as second- or third-line therapy). Among patients who present with or evolve to blastic phase, combinations of chemotherapy and TKIs should be used to induce remission, followed by allogeneic SCT as soon as possible. The same applies to patients who evolve from chronic to accelerated phase. Patients with de novo accelerated-phase CML may do well with long-term TKI therapy (estimated 8-year survival rate 75%); the timing of allogeneic SCT depends on their optimal response to TKI (achievement of complete cytogenetic response). Among patients who relapse in chronic phase, the treatment sequence depends on several factors: (1) patient age and availability of appropriate donors; (2) risk of allogeneic SCT; (3) presence or absence of clonal evolution and mutations; (4) patient's prior history and comorbidities; and (5) patient and physician preferences Nowdays with the availability of effective TKI primary treatment modality for chronic and accelerated phase of CML is TKI therapy. If patient fails to respond to TKI then allogenic stem cell transplantation is the treatment of choice. so SCT is still the most effective treatment for accelerated and blast phase of CML Tyrosine kinase inhibitors are used as an interim therapy to achieve minimal CML burden. Interferons are given when allogeneic SCT is not feasible. Hydroxyurea, a ribonucleotide reductase inhibitor is used for controlling cell counts.",
-        "cop": 1,
-        "opa": "Allogeneic bone marrow transplantation",
-        "opb": "Autologous bone marrow transplantation",
-        "opc": "Chemotherapy",
-        "opd": "Hydroxyurea & interferon",
-        "subject_name": "Medicine",
-        "topic_name": "CLL & CML",
-        "id": "b21205c2-7f9b-4898-9300-58590e971fd3",
-        "choice_type": "multi"
     }
 ]

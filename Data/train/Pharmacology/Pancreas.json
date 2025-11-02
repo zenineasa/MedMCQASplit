@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs act by increasing the secretion of insulin except?",
-        "exp": "Exenatide ->GLP-1 analogue - incretin which release insulin. S/E: Pancreatitis Saxagliptin -> DPP4 inhibitor which inhibit the metabolism of GLP-1, therefore increase insulin. Rosiglitazone acts PPAR gamma receptor. Reverse insulin resistance, associated with increase cardiovascular risk, Fluid retention, edema, anemia, weight gain, macular edema, bone fractures in women Glipizide is a sulfonylurea that increase release of insulin",
-        "cop": 3,
-        "opa": "Exenatide",
-        "opb": "Saxagliptin",
-        "opc": "Rosiglitazone",
-        "opd": "Glipizide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pancreas",
-        "id": "8a858d99-3194-4606-947f-ec25c5eb697d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following insulin should not be mixed with other insulins?",
         "exp": "Insulin preparations: Sho acting insulin - Aspa Glulisine Lispro Regular Intermediate acting -> Lente insulin Long acting insulin Detemir Degludec NPH Ultra long acting insulin: Glargine Inhaled insulin - Afrezza All insulin preparation are available at neutral pH. Insulin glargine has acidic pH<4, so insulin glargine should not be mixed with any other insulin.",
         "cop": 1,
@@ -91,45 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True statement regarding mechanism of action of sulfonylureas is:-",
-        "exp": "SULFONYLUREAS These bind to sulfonuyl urea receptors 1 (SUR1) on b cells of pancreas and inhibit ATP sensitive K+ channels. This cause depolarization of b cells resulting in release of insulin. These drugs are effective only if 30 % or more of the b cells in the pancreas are available. Major limitation of these drugs is like insulin, can also cause hypoglycemia.",
-        "cop": 3,
-        "opa": "Increase peripheral utilization of glucose",
-        "opb": "Reduce hepatic glucose output",
-        "opc": "Act on SUR1 receptors on pancreatic beta cell membrane",
-        "opd": "Increase transcription of genes regulating glucose metabolism",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pancreas",
-        "id": "11fc188c-7c5b-4560-94a1-a45824db5948",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true regarding adverse effects of chlorpropamide except:-",
-        "exp": "CHLORPROPAMIDE 1st generation sulfonylurea. Like all sulfonylureas, it can cause weight gain and hypoglycemia (maximum with chlorpropamide) It can cause dilutional hyponatremia (ADH like action), cholestatic jaundice and disulfiram like reaction (intolerance to alcohol). A: ADH release B: Blood sugar decreases C: Cholestatic jaundice D: Disulfiram like reaction E: Excessive weight gain",
-        "cop": 2,
-        "opa": "Releases ADH",
-        "opb": "Less incidence of hypoglycemia",
-        "opc": "More incidence of weight gain",
-        "opd": "Disulfiram like reaction may occur",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pancreas",
-        "id": "3364638d-09fb-4d52-baad-e4221cbb79d9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following statements are true about Afrezza except",
-        "exp": "Afrezza Approved in 2014 For both Type I and Type II diabetes Available as single-use caridges of 4 and 8 units Is rapid acting inhaled insulin, administered at the beginning of each meal * Inhaled insulin formulation (2. 5mm) and technosphere technology Remember: Afrezza Not a substitute for long acting insulin Must be used in combination with long acting insulin in Type I diabetes Not recommended for treatment of Diabetic Ketoacidosis or in patient who smoke. Use restricted in Asthma Active lung cancer Chronic Obstructive Pulmonary Disease",
-        "cop": 2,
-        "opa": "Used for both Type I and Type II diabetes",
-        "opb": "Substitute for long acting insulin",
-        "opc": "It is a rapid acting insulin",
-        "opd": "Used as inhaled insulin formulation and techno-sphere technology",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pancreas",
-        "id": "9db6f91b-f29e-421f-a9fb-b0f50eaa95aa",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of following is not rapid acting insulin?",
         "exp": "Insulin: Indication: - DM type 1- Uncontrolled DM 2- Gestational DM- DK- Hyperkalemia Preparations: All insulin preparation are given by - Sub cutaneous route Regular insulin also be given by - IV route All insulin preparation are at - Neutral pH Glargine is at acidic pH (<4)(No insulin should be mixed with it) S/E of insulin: Hypoglycemia",
         "cop": 3,
@@ -141,19 +89,6 @@
         "topic_name": "Pancreas",
         "id": "8519e381-e6eb-45d3-abcb-56c8b30da208",
         "choice_type": "single"
-    },
-    {
-        "question": "Type I Diabetes Mellitus is initially managed by:-",
-        "exp": "Insulin is the only treatment of Type 1 DM. Pramlintide is also approved for Type 1 diabetes along with insulin. DOC for Type 2 DM is Metformin.",
-        "cop": 4,
-        "opa": "Metformin",
-        "opb": "Sulfonylureas",
-        "opc": "Meglitinides",
-        "opd": "Insulin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pancreas",
-        "id": "a365a90f-0eb7-4953-9733-4b2d511db34e",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is wrong about Afrezza?",
@@ -180,19 +115,6 @@
         "topic_name": "Pancreas",
         "id": "5a8b5fad-89e1-4a79-b744-9ab9cb1ada98",
         "choice_type": "single"
-    },
-    {
-        "question": "Which one of the following statements about mechanism of action of Metformin is true?",
-        "exp": "Metformin decrease blood glucose by activating AMPK (Adenosine Mono Phosphate-activated protein Kinase) that helps in Decreasing production by - Inhibiting gluconeogenesis - inhibiting glycogenolysis Increasing utilization by -Stimulation of glycolysis -Uptake of glucose by muscles and fat.",
-        "cop": 3,
-        "opa": "Stimulate glycogenolysis",
-        "opb": "Stimulate hepatic gluconeogenesis",
-        "opc": "Enhance glucose uptake by skeletal muscle",
-        "opd": "Release insulin from beta cells of pancreas",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pancreas",
-        "id": "4edba636-fe5d-4004-90c7-ba2dddc60251",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drug is avoided in patients with diabetes and can be used for treatment of insulinoma?",
@@ -247,45 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Glibenclamide is preferred over chlorpropamide in the treatment of diabetes mellitus because the latter is more likely to cause:",
-        "exp": "Chlorpropamide can cause: Jaundice Disulfiram like reaction Increase ADH Hyponatremia Increase Insulin Sulfonylureas Meglitinides 1st Generation: Chlorpropamide Tolbutamide - Nateglinide - Repaglinide 2nd generation: Glipizide Glicanide Glibenclamide",
-        "cop": 4,
-        "opa": "Dilutional hyponatremia",
-        "opb": "Alcohol intolerance",
-        "opc": "Cholestatic jaundice",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pancreas",
-        "id": "29ffe295-2a07-403a-baef-bbe7d9c49608",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 20-year-old male has type 1 diabetes mellitus. For tight control of his blood sugar levels, the most appropriate regimen is?",
-        "exp": "For good control of blood sugar, long acting insulin is given in morning to establish baseline levels of insulin. This is followed by rapid acting insulins just before meals. Long acting insulin include: Glargine, detemir, degludec Rapid acting insulin include: Lispro, aspa, glulisine",
-        "cop": 2,
-        "opa": "Evening injections of mixed regular insulin and insulin glargine",
-        "opb": "Morning injections of insulin detemir, supplemented by small amounts of insulin aspa at food times",
-        "opc": "Morning injection of NPH insulin and evening injection of regular insulin",
-        "opd": "Morning injections of mixed insulin lispro and insulin glulisine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pancreas",
-        "id": "427cb210-db94-4828-a979-9c5be4a38228",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drug which can be used in both type1 as well as type 2 diabetes mellitus is",
-        "exp": "Pramilinide is amylin analogue, It should be avoided in patients with diabetic gastroparesis (delayed stomach emptying) Given subcutaneously Causes hypoglycemia and indicated for both type 1 as well as type 2 diabetes mellitus. Colesevelam is bile acid sequestrant given in dyslipidemia. It is also approved in type 2 diabetes mellitus. Bromocriptine is D2 agonist used to reverse insulin resistance. Exenatide GLP analogue has been associated with pancreatitis Patients are adviced to dicontinue when they are experience severe abdominal pain should be avoided in renal failure patients Only insulin and pramlintide are approved in both type 1 as well as type 2 diabetes mellitus. All other drugs are used only in type 2 diabetes mellitus.",
-        "cop": 2,
-        "opa": "Bromocriptine",
-        "opb": "Pramlintide",
-        "opc": "Colesevelam",
-        "opd": "Exenatide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pancreas",
-        "id": "5477e883-7024-403b-9419-3b4092448379",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following patients is most likely to be treated with intravenous glucagon?",
         "exp": "Glucagon: Use in hypoglycemia DOC for beta blocker poisoning A life-threatening adverse cardiac effect of a b antagonist may be overcome directly with isoproterenol or with glucagon (glucagon stimulates the heart glucagon receptors, which are not blocked by b antagonists), but neither of these methods is without hazard.",
         "cop": 3,
@@ -297,31 +180,5 @@
         "topic_name": "Pancreas",
         "id": "6e222ead-6f0c-41d7-be16-fb4d6a96b988",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements about biguanides is true?",
-        "exp": "BIGUANIDES Metformin and phenformin are biguanides and are preferred agents for obese patients (as these are weight neutral and may even cause weight loss). These can improve hyperiglyceridemia in obese patients. Biguanides do not stimulate the release of insulin, therefore have negligible risk of causing hypoglycemia. Metformin is: Totally excreted unchanged (without metabolism) by the kidney. Useful for polycystic ovarian disease (PCOD) First-line therapy for type 2 DM and cause maximum reduction in Hb. A1c levels. Most antidiabetic drugs are made to reduce microvascular complications of diabetes like nephropathy, retinopathy etc. Metformin is only oral agent to reduce macrovascular events in type 2 DM.",
-        "cop": 1,
-        "opa": "It cause little or no hypoglycemia",
-        "opb": "It stimulates pancreatic beta cells to release insulin",
-        "opc": "It is completely metabolized before excretion",
-        "opd": "Cannot reduce macrovascular events in type 2 DM",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pancreas",
-        "id": "1b0b738b-4c8f-4d18-9c26-9f7d7a9caaea",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following are the adverse effects of pioglitazone?",
-        "exp": "Glitazones - They act by stimulating PPAR- g receptor - Reverse insulin resistance - e. g. Pioglitazone Pioglitazone: -Adverse effects: Hepatotoxic Sodium and water retention weight gain Increases risk of urinary bladder carcinoma Avoid in liver disease or heart failure -Rosiglitazone increases the risk of myocardial infarction -Troglitazone banned because it cause liver damage",
-        "cop": 4,
-        "opa": "Weight gain",
-        "opb": "Hepatotoxicity",
-        "opc": "Increased risk of urinary bladder cancer",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Pancreas",
-        "id": "05759983-b6d9-4716-bdfe-046ac69a704c",
-        "choice_type": "multi"
     }
 ]

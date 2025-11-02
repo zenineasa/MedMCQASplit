@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Insulin inhibits ketogenesis by all except",
-        "exp": "Insulin inhibits lipolysis in adipose tissue due to inhibition of hormone-sensitive lipase Insulin depresses HMG CoA synthase and so ketogenesis is decreased In the presence of insulin, acetyl CoA is completely utilized in the citric acid cycle because oxaloacetate generated from glucose is available in plenty. Insulin also ours fatty acid synthesis from acetyl CoA. All these factors reduce the availability of acetyl CoA so that production of ketone bodies reduced. Ref: DM Vasudevan, 7th edition, page no: 322",
-        "cop": 4,
-        "opa": "Inhibiting lipolysis",
-        "opb": "Increased esterification of fatty acids",
-        "opc": "Directing acetyl-CoA to TCA cycle",
-        "opd": "Increasing b-oxidation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "18b158c0-ca9d-4df9-a0f4-23a65ce4a404",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following regulates lipolysis in adipocytes?",
         "exp": "Ans. B. Activation of triglyceride lipase as a result of hormone-stimulated increases in cyclic AMP levelsa. Lipolysis is directly regulated by hormones in adipocytes. Epinephrine stimulates adenylate cyclase to produce cyclic AMP, which in turn stimulates a protein kinase. b. The kinase activates triglyceride lipase by phosphorylating it. Lipolysis then proceeds and results in the release of free fatty acids and glycerol. c. A futile re esterification of free fatty acids is prevented, since adipocytes contain little glycerol kinase to phosphorylate the liberated glycerol, which must be processed in the liver. Inhibition of lipolysis occurs in the presence of insulin, which lowers cyclic AMP levels. Lipoprotein lipase is not an adipocyte enzyme.",
         "cop": 2,
@@ -50,45 +37,6 @@
         "topic_name": "Endocrinology",
         "id": "a6491268-ce12-4e2c-9831-1997b62e8af9",
         "choice_type": "single"
-    },
-    {
-        "question": "A 24-year-old accountant complains of a white discharge from his breasts. He is most likely experiencing which one of the following?",
-        "exp": "The accountant has galactorrhea (inappropriate production of milk) caused by a prolactinoma (a tumor of the anterior pituitary that secretes PRL). Dopamine, the major regulator of PRL secretion, inhibits PRL production and release by the anterior pituitary. Bromocriptine is a drug that acts like dopamine to inhibit PRL release. While OT stimulates the ejection of milk from the mammary gland, PRL is necessary for milk to be produced in the gland. Neither glucagon nor testosterone will affect milk production. PRL is produced in the anterior pituitary, not the posterior pituitary.",
-        "cop": 4,
-        "opa": "A tumor of the posterior pituitary that could be surgically removed",
-        "opb": "Excessive production of OT in the hypothalamus",
-        "opc": "Deficient testosterone receptors in the mammary glands",
-        "opd": "A prolactinoma that would decrease its secretory activity in response to bromocriptine (an analog of dopamine)",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "8c520c33-c15c-4261-8ac3-3a26d8e01bfc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are required for conversion of progesterone to estrogen except",
-        "exp": "11 - hydroxylase generates coisol from 11-deoxycoisol and coicosterone from 11-deoxycoicosterone. Ref: DM Vasudevan, 7th edition, page no: 665, fig 52. 2 and 52. 3",
-        "cop": 2,
-        "opa": "Lyase",
-        "opb": "11-hydroxylase",
-        "opc": "Reductase",
-        "opd": "Isomerase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "c6143a43-eb72-4a2d-945d-77c688fc6e28",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Increased insulin receptors are seen in",
-        "exp": "Increased circulating levels of insulin reduce the number of receptors--down-regulation of receptors--and decreased insulin levels increase -the number of receptors - up Regulation. The number of receptors per cell is increased in starvation. Ref: DM Vasudevan, 7th edition, page no: 319",
-        "cop": 2,
-        "opa": "Obesity",
-        "opb": "Starvation",
-        "opc": "Acromegaly",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "e7a4bd41-21c2-4ef1-8426-a476c7d0a0d1",
-        "choice_type": "multi"
     },
     {
         "question": "The enzyme defect in von Gierke&; s disease (type-1 glycogen storage disease) is",
@@ -169,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Phosphaturia is seen in the following except",
-        "exp": "Metabolic alkalosis decrease serum phosphorus concentration. Hypophosphatemia secondary to phosphorus redistribution is commonly caused by respiratory alkalosis and refeeding of malnourished patients. Acute respiratory alkalosis and metabolic alkalosis decrease serum phosphorus concentration. The reduction is much greater in respiratory alkalosis than in metabolic alkalosis of comparable severity. During respiratory alkalosis, intracellular CO2decreases, causing intracellular pH to rise. This mechanism stimulates the glycolytic pathway, specifically phosphofructokinase, a key rate-limiting enzyme of glycolysis. Production of sugar phosphates is enhanced, which in turn induces intracellular phosphorus entry, thus decreasing serum phosphorus concentration. Alkalosis enhances phosphorus uptake by muscle. The kidney responds by increasing phosphate reabsorption, independent of serum phosphorus concentration and becomes refractory to the phosphaturic effect of PTH. Ref: DM Vasudevan, 7th edition, page no: 402, 403",
-        "cop": 1,
-        "opa": "Metabolic alkalosis",
-        "opb": "Lead, cadmium or uranium poisonings",
-        "opc": "Hypervitaminosis D",
-        "opd": "Hyperparathyriodism",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "1f141814-7f8a-4b41-b16c-82ae4ebaa633",
-        "choice_type": "multi"
-    },
-    {
         "question": "insulin decreases the activity of:",
         "exp": "Ans. A. c-AMP dependent protein kinase. Insulin is a hypoglycemic hormone and is released in hyperglycemia. It helps in the uptake of glucose by the cells thus promoting glycogenesis and inhibiting glycogenolysis. It increases the activity of Phospho diesterase thus decreasing the activity of c-AMP. ATP-c-AMP-3'-5'AMP",
         "cop": 1,
@@ -193,19 +128,6 @@
         "topic_name": "Endocrinology",
         "id": "85a6a07f-f4f9-4f22-8dda-3e695041daf0",
         "choice_type": "single"
-    },
-    {
-        "question": "Insulin stimulates all except",
-        "exp": "Glycolysis is stimulated by insulin. The activity of key glycolytic enzyme like glucokinase, phosphofructokinase and pyruvate kinase is increased. Insulin inhibits lipolysis in adipose tissue due to inhibition of hormone-sensitive lipase Protein synthesis is promoted and degradation is retarded. Lipogenesis is oured by providing more acetyl CoA by pyruvate dehydrogenase reaction. Ref: DM Vasudevan, 7th edition, page no: 321",
-        "cop": 2,
-        "opa": "Glycolysis",
-        "opb": "Lipolysis",
-        "opc": "Protein synthesis",
-        "opd": "Lipogenesis",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "4a6afadb-9923-43cc-b82f-c96039ac4576",
-        "choice_type": "multi"
     },
     {
         "question": "A 20-year-old male presents with weight loss, heat intolerance, bilateral exophthalmos, a lid lag, sweating, and tachycardia. These symptoms are due to an increased production and secretion of a hormone that is derived from which one of the following?",
@@ -245,19 +167,6 @@
         "topic_name": "Endocrinology",
         "id": "038f2f66-5c8c-4926-b46c-15a0eba0482a",
         "choice_type": "single"
-    },
-    {
-        "question": "Chemically, oestrogens are characterised by",
-        "exp": "One hydroxyl group attached to the D ring",
-        "cop": 3,
-        "opa": "Absence of O2 at D-17",
-        "opb": "Aromatic character at D-ring",
-        "opc": "Absence to methyl group at C-10",
-        "opd": "A 21-carbon steroid skeleton",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "6ad4c162-d50f-4be4-84ae-d5aa59d50507",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following substances acts to increase the release of Ca2+ from endoplasmic reticulum?",
@@ -585,19 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Factors responsible for ketosis in a patient of von Gierke&; s disease are all, except",
-        "exp": "Glucose -6- phosphate deficient Fasting hypoglycemia that doesn&; t respond to stimulation by adrenaline In starvation, the dietary supply of glucose is decreased. Available oxaloacetate is channeled to gluconeogenesis. The increased rate of lipolysis is to provide altenate source of fuel. Ref: DM Vasudevan, 7th edition, page no: 165",
-        "cop": 4,
-        "opa": "Hypoglycemia",
-        "opb": "Impaired gluconeogenesis",
-        "opc": "Impaired glycogenolysis",
-        "opd": "Low fat mobilzation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "731ec4cc-f158-4c38-ab88-7d58aa30bf1f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Estrogen receptors are seen in",
         "exp": "The estrogen receptor (ER) is a ligand-activated enhancer protein that is a member of the steroid/nuclear receptor superfamily. Two genes encode mammalian ER: ERa and ERb. ER binds to specific DNA sequences called estrogen response elements (EREs) with high affinity and transactivates gene expression in response to estradiol. Ref: DM Vasudevan, 7th edition, page no: 57",
         "cop": 3,
@@ -663,19 +559,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 30-year-old female presents with a need to progressively buy larger and wider shoes. She also cannot wear any of her rings anymore because they are too small. A physical examination shows a prominent brow, protruding lower jaw, and spaces between all of her teeth. This woman may have a tumor in which one of the following organs/tissues?",
-        "exp": "The patient is displaying the symptoms of acromegaly, caused by excessive or episodic secretion of GH in the adult (if the growth plates had not closed, then gigantism would result). GH is made in the pituitary and secreted from there in response to GHRH, which is produced in the hypothalamus. A tumor of the hypothalamus, which secretes GHRH, would lead to excessive GH secretion, and the symptoms observed. Tumors of the bone marrow (leukemia), adrenal glands (a variety of endocrine disorders), pancreas, or adipose tissue would not lead to elevated GH levels.",
-        "cop": 1,
-        "opa": "Hypothalamus",
-        "opb": "Bone marrow",
-        "opc": "Adrenal glands",
-        "opd": "Pancreas",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "1136cdf0-d017-49c7-8455-262449d2c79d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Epinephrine is synthesized from norepinephrine by",
         "exp": "Norepinephrine can be conveed into epinephrine by the enzyme phenylethanolamine N-methyltransferase with S-adenosyl-L-methionine as cofactor.",
         "cop": 2,
@@ -700,32 +583,6 @@
         "topic_name": "Endocrinology",
         "id": "2c198f5c-32d4-4932-960b-d021dec4108d",
         "choice_type": "single"
-    },
-    {
-        "question": "Melatonin is derived from",
-        "exp": "Tryptophan is first hydroxylated by tryptophan Hydroxylase 5-hydroxytryptophan is decarboxylated to serotonin. Serotonin is acetylated Fuher methylated with the help of S adenosylmethionine (SAM). Ref: DM Vasudevan, 7th edition, page no: 241, fig 18. 10",
-        "cop": 2,
-        "opa": "Tyrosine",
-        "opb": "Tryptophan",
-        "opc": "Glutathione",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "8d92b714-bc39-49e0-836d-67b1fb45e235",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Steroid hormone receptors have attachment site for all except",
-        "exp": "the steroid hormone act as an enhancer element and when stimulated by the hormone would increase the transcriptional activity. Ref: DM Vasudevan, 7th edition, page no: 656",
-        "cop": 2,
-        "opa": "Steroid hormone",
-        "opb": "Transcription repressors",
-        "opc": "Hormone responsive element",
-        "opd": "Transcription activators",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "ab865ae0-17e8-43a3-8524-ed67303ba870",
-        "choice_type": "multi"
     },
     {
         "question": "In which of the following tissues is glucose transpo into the cell enhanced by insulin?",
@@ -819,45 +676,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is true about somatostatin, insulin, and glucagon?",
-        "exp": "Ans. D. Somatostatin blocks release of insulin and glucagon. (Ref. Ganong 21st fpg. 427; KDT 6th/Pg. 273). Guyton physiology llth/pg. 971...........# Somatostatin inhibits Giucagon and Insulin Secretion.# Insulin, amylin, and somatostatin, elaborated by the neighbouring beta and D cells, inhibit glucagon secretion. SOMATOSTATIN:# It is GH inhibiting hormone, secreted by D-cells of pancreas and by D cells in intestinal mucosa.# It is same chemically as growth hormone inhibitory hormone.# It suppresses anterior pituitary gland function, hence suppresses TSH, ACTH and GH. 6# It inhibits release of gastrin and secretin, and decreases motility of stomach, duodenum and GB.# It inhibits islets of Langerhans and reduces secretion of both, insulin and glucagon. 6# It also inhibits secretion of VIP, GIP & motilin.# It does not inhibit prolactin secretion.# USES:- Beneficial in pancreatic, biliary or intestinal fistulae;- in Gastrinoma, - in management of esophageal varices (octreotide). 6. Glucagon and Its Functions# Glucagon, a hormone secreted by the alpha cells of the islets of Langerhans when the blood glucose concentration falls, has several functions that are diametrically opposed to those of insulin. Most important of these functions is to increase the blood glucose concentration, an effect that is exactly the opposite that of insulin.# Like insulin, glucagon is a large polypeptide. It has a molecular weight of 3485 and is composed of a chain of 29 amino acids. On injection of purified glucagon into an animal, a profound hyperglycemic effect occurs. Only 1 mg/kg of glucagon can elevate the blood glucose concentration about 20 mg/100 ml of blood (a 25 % increase) in about 20 minutes. For this reason, glucagon is also called the hyperglycemic hormone.# The major effects of glucagon on glucose metabolism are: 1) Breakdown of liver glycogen (glycogenolysis) and2) Increased gluconeogenesis in the liver. Both of these effects greatly enhance the availability of glucose to the other organs of the body. 3) Other Effects of Glucagon: Perhaps the most important effect is that glucagon activates adipose cell lipase, making increased quantities of fatty acids available to the energy systems of the body. Glucagon also inhibits the storage of triglycerides in the liver, which prevents the liver from removing fatty acids from the blood; this also helps make additional amounts of fatty acids available for the other tissues of the body. 4) Glucagon in very high concentrations also:(a) Enhances the strength of the heart;(b) Increases blood flow in some tissues, especially the kidneys;(c) Enhances bile secretion; and(d) Inhibits gastric acid secretion. All these effects are of minimal importance in the nor function of body.# Regulation of glucagon secretion:- Increased Blood Glucose Inhibits Glucagon Secretion.- Increased Blood Amino Acids Stimulate Glucagon Secretion.- High concentrations of amino acids, as occur in the blood after a protein meal (especially the amino acids alanine and arginine), stimulate the secretion of glucagon. This is the same effect that amino acids have in stimulating insulin secretion. Thus, in this instance, the glucagon and insulin responses are not opposites.- Exercise Stimulates Glucagon Secretion. Somatostatin Inhibits Glucagon and Insulin Secretion1) increased blood glucose, 2) increased amino acids, 3) increased fatty acids, and4) increased cone of several of the GI hormones released from upper GI tract in response to food intake. In turn, somatostatin has multiple inhibitory effects as follows: 1. Somatostatin acts locally within islets of Langerhans to depress secretion of both insulin and glucagon. 2. Somatostatin decreases the motility of the stomach, duodenum, and gallbladder. 3. Somatostatin decreases both secretion and absorption in the GI tract.",
-        "cop": 4,
-        "opa": "Somatostatin stimulates insulin.",
-        "opb": "Glucagon blocks insulin and Somatostatin release.",
-        "opc": "Insulin increases glucagon release.",
-        "opd": "Somatostatin blocks release of insulin and glucagon.",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "4124c56c-565c-4270-b409-760f7e956ad3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Among the following all are hydrophilic hormones that act on cytosolic receptors except one which is a lipophilic hormone that acts on nuclear receptor:",
-        "exp": "Ans. a. Thyroxine Thyroxine is a lipophilic hormone that acts on nuclear receptor: Classification of Hormones by Mechanism of Action. Bind to Intracellular Receptor. Bind to ceil surface receptor Second messenger. Cytoplasmic Receptors: c-AMPc-GMPCa2+/Phosphatidyl inositol. Kinase/ Phosphatase* Glucocorticoids* Mineralocorticoids0* Androgens, estrogen and progestins0* Retinoic acid (retinoids)* Vitamin Ds (11 25-(OH)2 D3). Nuclear Receptors:* Thyroid hormones0* Retinoic acid* Calcitonin* Glucagon* LH and FSH* Norepinephrine* HCG* ADH* CRH* PTH* TSH* ANF* NO0* a1 adrenergic* Angiotensin II* Oxytocin* Gn. RH* Substance P* Gastrin* Choiecystokinin* Muscarinic (Acetylcholine)* Vasopressin3* TRH* Insulin* GH* EGF, FGF* IGF I and II* Nerve growth factor (NGF)* PDGF* Erythropoietin* Prolactin0* Adiponectin and leptin",
-        "cop": 1,
-        "opa": "Thyroxine",
-        "opb": "Epinephrine",
-        "opc": "GH",
-        "opd": "AUTH",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "853aaafd-0cb2-4114-959e-634f58e7fba1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Among the following, all are hydrophilic hormones that act on cytosolic receptors except one which is a lipophilic hormone that acts on nuclear receptor",
-        "exp": "the hormone attaches to specific nuclear receptors The hormone complex bind to the DNARef: DM Vasudevan, 7th edition, page no: 674",
-        "cop": 1,
-        "opa": "Thyroxine",
-        "opb": "Epinephrine",
-        "opc": "GH",
-        "opd": "ACTH",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "b545bcbc-a59d-4a18-b7fe-3e0fd892cc51",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which among the following is not an example of a steroid hormone?",
         "exp": "ANSWER: (C) Thyroxine. REF: Guyton 11th edition page 907. ENDOCRINE GLANDS, HORMONES, AND THEIR FUNCTIONS AND STRUCTURE: Gland/Tissue. Hormones. Major Functions. Chemical. Structure. Hypothalamus. Thyrotropin-releasing hormone (TRH). Stimulates secretion of TSH and prolactin. Peptide. Corticotropin-releasing hormone (CRH). Causes release of ACTHPeptide. Growth hormone-releasing hormone (GHRH). Causes release of growth hormone. Peptide. Growth hormone inhibitory hormone (GHIH) (somatostatin). Inhibits release of growth hormone. Peptide. Gonadotropin-releasing hormone (Gn. RH). Causes release of LH and FSHPeptide. Dopamine or prolactin- inhibiting factor (PIF). Inhibits release of prolactin. Amine. Anteriorpituitary. Growth hormone. Stimulates protein synthesis and overall growth of most cells and tissues. Peptide. Thyroid-stimulating hormone (TSH). Stimulates synthesis and secretion of thyroid hormones (thyroxine and triiodothyronine). Peptide. Adrenocorticotropic hormone (ACTH). Stimulates synthesis and secretion of adrenocortical hormones (cortisol, androgens, and aldosterone). Peptide. Prolactin. Promotes development of the female breasts and secretion of milk. Peptide. Follicle-stimulating hormone (FSH). Causes growth of follicles in the ovaries and sperm maturation in Sertoli cells of testes. Peptide. Luteinizing hormone (LH). Stimulates testosterone synthesis in Leydig cells of testes; stimulates ovulation, formation of corpus luteum, and estrogen and progesterone synthesis in ovaries. Peptide. Posteriorpituitary'Antidiuretic hormone (ADH) (also called vasopressin). Increases water reabsorption by the kidneys and causes vasoconstriction and increased blood pressure. Peptide. Oxytocin. Stimulates milk ejection from breasts and uterine contractions. Peptide. Thyroid. Thyroxine (T4) and triiodothyronine (T3). Increases the rates of chemical reactions inmost cells, thus increasing body metabolic rate. Amine. Calcitonin: Promotes deposition of calcium in the bones and decreases extracellular fluid calcium ion concentration. Peptide. Adrenal cortex. Cortisol. Has multiple metabolic functions for controlling metabolism of proteins, carbohydrates, and fats; also has anti-inflammatory effects. Steroid. Aldosterone. Increases renal sodium reabsorption, potassium secretion, and hydrogen ion secretion. Steroid. Adrenalmedulla. Norepinephrine, epinephrine. Same effects as sympathetic stimulation. Amine. Pancreas. Insulin (b cells). Promotes glucose entry in many cells, and in this way controls carbohydrate metabolism. Peptide. Glucagon (a cells). Increases synthesis and release of glucose from the liver into the body fluids. Peptide. Parathyroid. Parathyroid hormone (PTH). Controls serum calcium ion concentration by increasing calcium absorption by the gut and kidneys and releasing calcium from bones. Peptide. Testes. Testosterone. Promotes development of male reproductive system and male secondary sexual characteristics. Steroid. Ovaries. Estrogens. Promotes growth and development of female reproductive system, female breasts, and female secondary sexual characteristics. Steroid. Progesterone. Stimulates secretion of \"uterine milk\" by the uterine endometrial glands and promotes development of secretory apparatus of breasts. Steroid. Placenta. Human chorionic gonadotropin (HCG). Promotes growth of corpus luteum and secretion of estrogens and progesterone by corpus luteum. Peptide. Human somatomammotropin. Probably helps promote development of some fetal tissues as well as the mother s breasts. Peptide. Estrogens. See actions of estrogens from ovaries. Steroid. Progesterone. See actions of progesterone from ovaries. Steroid. Kidney. Renin. Catalyzes conversion of angiotensinogen to angiotensin I (acts as an enzyme). Peptide1, 25-Dihydroxycholecalciferol. Increases intestinal absorption of calcium and bone mineralization. Steroid. Erythropoietin. Increases erythrocyte production. Peptide. Heart. Atrial natriuretic peptide (ANP). Increases sodium excretion by kidneys, reduces blood pressure. Peptide. Stomach. Gastrin. Stimulates HC1 secretion by parietal cells. Peptide. Small intestine. Secretin. Stimulates pancreatic acinar cells to release bicarbonate and water. Peptide. Cholecystokinin (CCK). Stimulates gallbladder contraction and release of pancreatic enzymes. Peptide. Adipocytes. Leptin. Inhibits appetite, stimulates thermogenesis. Peptide",
         "cop": 3,
@@ -908,19 +726,6 @@
         "topic_name": "Endocrinology",
         "id": "3b511660-cb10-4c62-ad53-8572554210c7",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following hormones use cyclic AMP as a second messenger except",
-        "exp": "Enter the cell cytoplasm simple diffusionbind to cytoplasmic receptors. Receptors dimerize with each other and enter the nucleus. In the nucleus, zinc finger regions of receptor binds to specific DNA response elements (upstream of target gene). Ref: DM Vasudevan, 7th edition, page no: 664, 665, 666",
-        "cop": 2,
-        "opa": "Glucagon",
-        "opb": "Estrogen",
-        "opc": "Epinephrine",
-        "opd": "Luteinizing hormone",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "b949cd38-33c2-4186-adc2-165f440a5d3f",
-        "choice_type": "multi"
     },
     {
         "question": "Low levels of dopamine produced by the hypothalamus is a pathologic condition associated with which of the blood hormone levels.",
@@ -1001,19 +806,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Calcium as a second messenger in hormone action involves all except",
-        "exp": "The receptors for several protein hormones like insulin are themselves protein kinases which are switched on by binding of hormone. The kinase activity associated with such receptors results in phosphorylation of tyrosine residues on other proteins. Insulin is an example of a hormone whose receptor is a tyrosine kinase. Ref: DM Vasudevan, 7th edition, page no: 656, 318, 323",
-        "cop": 4,
-        "opa": "Gastrin",
-        "opb": "Oxytocin",
-        "opc": "ADH",
-        "opd": "Insulin",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "821f9d84-bbbb-4c41-9084-4fa28b8f529d",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 43-year-old male high-level executive presents to his physician due to a persistent dizziness when standing quickly. He also has been exhibiting chronic fatigue, some muscle weakness, and an unusual craving for salty foods. The physician notices that the patient has a constant \"bronze tan, \" and blood obtained during the visit demonstrated not only normal cholesterol levels but also hypoglycemia, hyperkalemia, and hyponatremia. The underlying cause for these problems is which one of the following?",
         "exp": "The patient is exhibiting the symptoms of Addison disease, initiated by an adrenal insufficiency. Owing to the problem in the adrenal glands, cortisol and aldosterone cannot be produced and released. The lack of cortisol leads to hypoglycemia and fatigue. The lack of aldosterone leads to the alteration in salt balance in the blood and the craving for salt. The hyperpigmentation occurs because of excessive ACTH production, which gives rise to the MSH. The ACTH levels are high because of reduced repression of ACTH synthesis, which is caused by the lack of cortisol release from the adrenal cortex. A reduction of insulin levels would lead to diabetes, not the constellation of symptoms observed in this patient. A lack of GH (in the adult) would lead to increased body fat, high cholesterol, and reduced bone density. A lack of glucagon would lead to hypoglycemia, but not the other symptoms observed in this patient.",
         "cop": 1,
@@ -1038,32 +830,6 @@
         "topic_name": "Endocrinology",
         "id": "5e8e8085-0587-4961-bc3f-23a3d6c46d76",
         "choice_type": "single"
-    },
-    {
-        "question": "Steroid hormone receptors have attachment site for all except:",
-        "exp": "Ans. is 'b' i. e. Transcription repressors Steroid hormone receptors are intracellular receptors that perform signal transduction for steroid hormones. Steroid hormone receptors are part of the nuclear receptor family that also includes a group of homologous structured receptors that bind to non-steroid ligands such as thyroid hormones and vitamin A, as well as to vitamin D. All these receptors are transcription factors. They act on nuclear DNA to regulate gene transcription. The steroid hormones, thyroid hormones, retinoic acid form part of Group I hormones. Group I hormones are those which act on intracellular receptors whereas Group II hormones act on receptors located on the extracellular surface of the plasma membrane. Group I hormones activate gene transcription by 2 different mechanisms. Steroid hormone receptors are located within cytoplasm, in complex with heat shock protein (HSP). The steroid hormones being lipophilic readily diffuse through the plasma membrane and bind to the steroid receptors. Ligand binding causes dissociation of the heat shock protein from the receptor. The receptor ligand complex then moves into the nucleus and bind with high affinity to a specific DNA sequence called the hormone response element (HRE). This DNA-bound, liganded receptor serves as a high-affinity binding site for one or more transcription activator proteins. This complex then activates gene transcription. In contrast to steroid receptors, receptors for thyroid hormones and retinoids lie within the nucleus already bound to the Hormone response element. However this DNA-bound receptor fails to activate transcription because it's Complexed with a transcription repressor. This receptor-corepressor complex serves as an active repressor of gene transcription. Binding of thyroid or retinoid hormone results in dissociation of the transcription repressor from the receptor. Receptor activators then bind to the DNA bound liganded receptor complex to activate gene transcription.",
-        "cop": 2,
-        "opa": "Steroid hormone",
-        "opb": "Transcription repressors",
-        "opc": "Hormone responsive element",
-        "opd": "Transcription activators",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "a2fdab4d-9cff-4085-8368-b505464c9d66",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Patients with both Graves' disease and Cushing syndrome are overproducing hormones that have which one of the following in common?",
-        "exp": "Graves' disease is caused by the hypersecretion of thyroid hormone, whereas Cushing syndrome is an overproduction of cortisol. Steroid hormones and thyroid hormones cross the cell membrane and bind to intracellular receptors. The hormone-receptor complex binds to DNA, not RNA. Polypeptide hormones and epinephrine react with the receptors in the cell membrane, triggering second messengers to transmit the signal that the receptor is occupied. Ribosomal RNA (r. RNA) does not ablate gene expression; the induction of mi. RNA has that ability.",
-        "cop": 3,
-        "opa": "Reacting with receptors in the cell membrane",
-        "opb": "Utilizing second messengers",
-        "opc": "Binding to intracellular receptors",
-        "opd": "Binding to RNA to produce physiologically active proteins",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "2fb81e72-a120-49a7-bcd7-920df0ec107f",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not common metabolite of progesterone excreted in urine?",
@@ -1235,19 +1001,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Insulin stimulates all except -",
-        "exp": "Ans. is 'b' i. e., Lipolysis. Effect of insulin on major metabolic pathway (effects of carbohydrate feeding). Pathway. Effect. Regulated enzyme. Carbohydrate metabolismo Glycolysis|| Phosphofructokinase-1Q, | Pyruvate kinaseQ| Pyruvate dehydrogenaseo Giuconeogenesis|Q| Pyruvate carboxylase, |PEP carboxykinase, |fhictose-l, 6-bisphophatase| glucose-6-phosphotaseo Glycogenesiso Glycogenolysis||| glucokinase, | glycogen synthase| glycogen phosphorylase. Lipid metabolismo Lipogenesiso Lipo lysiso Cholesterol Synthesiso Triacyl glycerol Synthesiso Lipoprotein degradation|||||| Acetyl-Co carboxylaseQ, T Fatty acid synthase| Hormone sensitive lipaseQ| HMG-CoA reductase| Acyl-CoA-glycerol-3-phosphate transferase, T glycerol kinaseQ| Lipoprotein lipase. Protein metabolismo Protein synthesis|| RNA polymerase and ribusome assembely. Note Pyruvate dehydrogenase is neither a glycolytic nor a TCA cycle enzyme, it acts as a bridge between the two.",
-        "cop": 2,
-        "opa": "Glycolysis",
-        "opb": "Lipolysis",
-        "opc": "Protein synthesis",
-        "opd": "Lipogenesis",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "ec3287d7-225c-47ff-992c-9f1a9744740c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Ketone body formation without glycosuria is seen in",
         "exp": "In starvation, the dietary supply of glucose is decreased. Available oxaloacetate is channeled to gluconeogenesis The increased rate of lipolysis is to provide alternate source of fuel. Excess acetyl CoA is conveed to ketone bodies",
         "cop": 3,
@@ -1272,19 +1025,6 @@
         "topic_name": "Endocrinology",
         "id": "3d5aa8a0-65a2-45e8-9185-85f09cbf7719",
         "choice_type": "single"
-    },
-    {
-        "question": "Chemical process involved in conversion of progesterone to glucocoicoids is",
-        "exp": "The reactions are effected by hydroxylation. These specific hydroxylases are monooxygenases These enzymes are NADPH dependent. Ref: DM Vasudevan, 7th edition, page no: 665",
-        "cop": 2,
-        "opa": "Methylation",
-        "opb": "Hydroxylation",
-        "opc": "Carboxylation",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "ca8f537a-1556-4589-909e-8f37cceba952",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is a membrane-bound enzyme that catalyzes the formation of cyclic AMP from ATP?",
@@ -1313,19 +1053,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Precursor of all steroid hormones -",
-        "exp": "Ans. is 'a' i. e., Pregnenolone o All steroid hormones originate from cholesterol. o Steps involved in biosynthesis of various steroid hormones are as follows:-Cholesterol is first acted upon by desmolase to form a 21-carbon product pregnenolone, which is the biosynthetic precursor of all steroid hormones. Pregnenolone is converted to progesterone by dehydrogenase. Progesterone is further converted to glucocorticoids and mineralcorticoids by hydroxy lotions. These reactions are affected by monooxygenases w'hich require cytochrome P-450 as an intermediate electrone carrier. These monooxygenases are -17-hydroxylase and 21-hydroxylase - Microsomal11-hydroxyalse - Mitochondrial",
-        "cop": 1,
-        "opa": "Pregnenolone",
-        "opb": "Deoxycortisol",
-        "opc": "Androstenedione",
-        "opd": "Dehydroepiandrosterone",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "dea89609-9450-4ad1-ac35-df059f3b5c48",
-        "choice_type": "multi"
-    },
-    {
         "question": "GLUT-5 is transpoer for",
         "exp": "GLUT5 is a fructose transpoer expressed on the apical border of enterocytes in the small intestine. GLUT5 allows for fructose to be transpoed from the intestinal lumen into the enterocyte by facilitated diffusion due to fructose&; s high concentration in the intestinal lumen. GLUT5 is also expressed in skeletal muscle, testis, kidney, fat tissue (adipocytes), and brain. Ref: DM Vasudevan, 7th edition, page no: 320",
         "cop": 2,
@@ -1339,19 +1066,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are peptide-based except",
-        "exp": "Thyroxin is a lipid-soluble hormone. Ref: DM Vasudevan, 7th edition, page no: 672",
-        "cop": 3,
-        "opa": "ACTH",
-        "opb": "Gn. RH",
-        "opc": "Thyroxin",
-        "opd": "TRH",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "abb0f233-71d6-410f-8ed2-754df8183026",
-        "choice_type": "multi"
-    },
-    {
         "question": "Rate limiting enzyme in testosterone synthesis",
         "exp": "Cholesterol is first acted upon by desmolase and a 6-carbon unit is cleaved off, forming 21 carbon steroid, pregnenolone It is the common precursor for all the steroid hormones. Ref: DM Vasudevan, 7th edition, page no: 664",
         "cop": 2,
@@ -1363,19 +1077,6 @@
         "topic_name": "Endocrinology",
         "id": "b0e5040c-bd9e-431c-9910-491e300d8aed",
         "choice_type": "single"
-    },
-    {
-        "question": "Cyclic AMP acts as the second messenger for:",
-        "exp": "Ans. D. All of these. Cyclic AMP is a very important second messenger synthesized by ATP in the presence of adenylate cyclase. Here the hormones bind to the cell surface (Plasma membrane) receptors and stimulate the release of second messengers. Second Messenger. Hormonesc-AMPCatechol amines, ACTH, h. CGADH, Calcitonin, FSH, TSH, PTH, Glucagon. Phosphatidyl inositol/calcium. TRH, Gn. RH, Oxytocin, ADH, Gastrin, CCK, Angiotensin IIKinase or Phosphatase cascade. Insulin, Prolactin, EGF, Fibroblast growth factor.",
-        "cop": 4,
-        "opa": "ADH",
-        "opb": "Glucagon",
-        "opc": "Calcitonin",
-        "opd": "All of these",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "c7fadc92-8f35-49ce-8736-4aa13954cc58",
-        "choice_type": "multi"
     },
     {
         "question": "A 68-year-old patient developed atrophic gastritis and, 2 years later, developed a macrocytic, hyperchromic anemia. His anemia has most likely occurred due to which one of the following reasons?",
@@ -1428,32 +1129,6 @@
         "topic_name": "Endocrinology",
         "id": "e0d81130-bfb6-419a-b679-74f1a859bf0b",
         "choice_type": "single"
-    },
-    {
-        "question": "A small Ca2+ binding protein that modifies the activity of many enzymes and other proteins m response to changes in Ca2+ concentration, is known as",
-        "exp": "Calmodulin is a calcium-binding regulatory protein, with a molecular weight of 17, 000 daltons. It can bind with 4 calcium ions. Calcium binding leads to activation of enzymes. It is a pa of various regulatory kinases. Ref: DM Vasudevan, 7th edition, page no: 503, 504",
-        "cop": 2,
-        "opa": "Cycline",
-        "opb": "Calmodulin",
-        "opc": "Collagen",
-        "opd": "Kinesin",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "c759e77f-7628-4931-b481-aa497e17c78c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Chemically steroids are derivatives of",
-        "exp": "Cholesterol is first acted upon by desmolasw and a 6 carbon unit is cleaved off, forming pregnenolone. Progesterone is the first steroid hormone formed from pregnenolone. Progesterone is fuher conveed in to glucocoicoids, mineralocoicoids and sex steroids Ref: DM Vasudevan, 7th edition, page no: 664, 665",
-        "cop": 1,
-        "opa": "Cholesterol",
-        "opb": "Ergosterol",
-        "opc": "Fatty acids",
-        "opd": "Perhydrocyclopentanophenantherene",
-        "subject_name": "Biochemistry",
-        "topic_name": "Endocrinology",
-        "id": "7793833f-c1dc-4b40-ad8b-972c11ea31e1",
-        "choice_type": "multi"
     },
     {
         "question": "luorescence is used in assessment of levels of which hormone commonly -",

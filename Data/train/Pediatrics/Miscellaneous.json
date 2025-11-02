@@ -1,18 +1,5 @@
 [
     {
-        "question": "Small cuff size will lead to?",
-        "exp": "a. Falsely increased BP(Ref: Nelson's 20/e p 2164). In older children, a mercury sphygmomanometer with a cuff that covers approximately two-thirds of the upper part of the arm or leg may be used for blood pressure measurement. A cuff that is too small results in falsely high readings, whereas a cuff that is too large records slightly decreased pressure.",
-        "cop": 1,
-        "opa": "Falsely increased BP",
-        "opb": "Falsely low BP",
-        "opc": "No effect on BP",
-        "opd": "Fluctuating BP",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "cae8e457-d314-4013-b5a3-15fc16015f33",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common cause of Acute Aseptic Meningitis in children is",
         "exp": "(C) Enterovirus # VIRAL CAUSES INCLUDE THE FOLLOWING: Enteroviruses - coxsackievirus, echovirus, poliovirus. Herpes simplex virus (HSV) types 1 and 2 (HSV-1, HSV-2) Varicella-zoster virus. Arboviruses, Epstein-Barr virus, HIV, Influenza virus types A and B, Mumps virus.> Many different viruses can cause meningitis.> About 90% of cases of viral meningitis are caused by members of a group of viruses known as Enteroviruses, such as Coxsacki-eviruses and Echoviruses.> These viruses are more common during summer and fall months.>Herpesviruses and the mumps virus can also cause viral meningitis.",
         "cop": 3,
@@ -24,19 +11,6 @@
         "topic_name": "Miscellaneous",
         "id": "0b14eff2-2d49-4880-b141-d6e9e96f27aa",
         "choice_type": "single"
-    },
-    {
-        "question": "Which one of the following lysosomal storage disorder is associated with mental retardation?",
-        "exp": "(D) All of the above# Metachromatic leukodystrophy (MLD, or Arylsulfatase A deficiency) is a lysosomal storage disease which is commonly listed in the family of leukodystrophies. Leukodystrophies affect the growth and/or development of myelin, the fatty covering which acts as an insulator around nerve fibers throughout the central and peripheral nervous systems. It involves sulfatide accumulation.> Like many other genetic disorders that affect lipid metabolism, there are several forms of MLD, which are late infantile, juvenile, arid adult.> Children with the juvenile form of MLD (onset between 3-10 years of age) usually begin with impaired school performance, mental deterioration, and dementia and then develop symptoms similar to the late infantile form but with slower progression.> Age of death is variable, but normally within 10 to 15 years of symptom onset although some juveniles can live for several decades or longer after onset.> Tay-Sachs disease (abbreviated TSD, also known as GM2 gangliosidosis or Hexosaminidase A deficiency) is an autosomal recessive genetic disorder.> In its most common variant, known as infantile Tay-Sachs disease, it causes a relentless deterioration of mental and physical abilities that commences around six months of age and usually results in death by the age of four.> Fabry disease (also known as Fabry's disease, Anderson.> Fabry disease, angiokeratoma corporis diffusum and alpha-galactosidase A deficiency) is a rare X-linked recessive (inherited) lysosomal storage disease, which can cause a wide range of systemic symptoms. Full body or localized pain to the extremities (known as acroparesthesia) or Gl tract is common in patients with Fabry disease. Kidney complications are a common and serious effect of the disease; renal insufficiency and renal failure may worsen throughout life.> Cardiac complications occur when glycolipids build up in different heart cells; heart related effects worsen with age and may lead to increased risk of heart disease.> Hypertension (high blood pressure) and cardiomyopathy are commonly observed. mental retardation is rare presentation",
-        "cop": 4,
-        "opa": "Metachromatic leucodystrophy",
-        "opb": "Fabry's disease",
-        "opc": "Tay Sach's disease",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "326cdfc0-0002-4381-9fe2-ec91af35b2b5",
-        "choice_type": "multi"
     },
     {
         "question": "The Most common cause of perinatal mortality is",
@@ -65,32 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Tumor lysis syndrome is characterized by:",
-        "exp": "Ans. D. All of the above. Tumor lysis syndrome is an oncologic emergency. Tumor lysis syndrome refers to the constellation of metabolic disturbances that occurs when large numbers of neoplastic cells are killed rapidly, leading to the release of intracellular ions and metabolic by-products into the systemic circulation. Clinically, the syndrome is characterized by rapid development of hyperuricemia, hyperkalemia, hyperphosphatemia, hypocalcemia, and acute kidney injury.",
-        "cop": 4,
-        "opa": "Hyperkalemia",
-        "opb": "Hyperphosphatemia",
-        "opc": "Hyperuricemia",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "622887bb-7b7a-4aec-be79-189a78e0985c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Unconjugated hvperbilirubenemia is seen in all except",
-        "exp": "(B) Dubin Johnson's syndrome# Common causes of raised bilirubin and urobilinogen> Raised conjugated bilirubin (bilirubinuria)> Hepatocellular disease and post-hepatic or cholestatic disease (intrahepatic and extrahepatic), including drug toxicity as well as pancreatic causes of obstructive jaundice.> Inherited defects in excretion - eg, Dubin-Johnson syndrome, Rotor's syndrome.> Raised unconjugated bilirubin (no bilirubinuria) Gilbert's syndrome Haemolysis Post viral hepatitis Mild chronic hepatitis Crigler-Najjar syndrome> PHYSIOLOGIC JAUNDICE (non-pathologic unconjugated hyperbilirubinemia): 1. Term Infants: 50-60 % of all newborns are jaundiced in the first week of life. Total serum bilirubin peaks at age 3-5 d (later in Asian infants). Mean peak total serum bilirubin is 6 mg/dL (higher in Asian infants). 2. Preterm Infants: Incidence of visible jaundice is much higher than in term infants. Peak is later (5-7d). Because of? risk of bilibubin encephalopathy (see below), \"physiologic\" jaundice is more difficult to define and jaundice should be followed closely.",
-        "cop": 2,
-        "opa": "Gilbert's syndrome",
-        "opb": "Dubin Johnson's syndrome",
-        "opc": "Criggle Najar syndrome",
-        "opd": "Neonatal physiological jaundice",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "ca2adc9e-1692-49ef-af1e-7464b528d878",
-        "choice_type": "multi"
-    },
-    {
         "question": "In developmental milestones of children, first draws",
         "exp": "(A) Zero > Scribbling on paper with a crayon or pencil. The child scribbles spontaneously by 12-24 months, copies arid draws a horizontal or vertical line at 2 years; a circle by 3 years, a cross (plus sign) by 4 years and tilted cross (multiplication sign) by 5 years. He can draw a rectangle by the age of 4 years and a triangle by 5 years.",
         "cop": 1,
@@ -104,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about battered baby syndrome:",
-        "exp": "Ans. d. All. The clinical manifestations of Battered baby syndromes are: bruises, scars, internal organ damage, and fractures in various stages of healing. CLINICAL FINDINGSBruises. It is most commonly seen. Accidental--It is thin, leading surfaces overlying bone edges (e. g., shins). Non-accidental-- Back of hands, Buttock region, Back side, genitals, and Thoracoabdominal. Staging-bruises in various stages are not compatible with a single event. Fractures. Corner chip or bucket handle fracture of metaphysis due to wrenching or pulling an extremity. Inflicted fracture of bone shaft. Accidental case rarely causes retinal hemorrhages or rib fractures. Highly specific for abuse. Bilateral fractures. Rib fractures in infants. Complex skull fracture. Fractures of different stages of healing. Intentional Head Trauma. Most common cause of death occurs due to Intentional head trauma. The clinical findings in an injured infant presents with coma, convulsions, apnea, which increases ICP. Intra-abdominal Injuries. Clinical findings are Absent bowel sounds, Abdominal distension, Recurrent vomiting, tenderness AND shock. It may rupture liver or spleen. Row of 3-4 teardrop-shaped, 1 cm bruises in a slight curve seen if struck with fist. Laceration of small intestine occurs at sites of ligamental support. Intramural hematoma seen in temporary obstruction.",
-        "cop": 4,
-        "opa": "Posterior rib fracture may be seen in X-ray",
-        "opb": "Injury at the side of metaphysic is specific",
-        "opc": "Epiphyseal injury is common",
-        "opd": "All",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "1aa44743-5a9b-44af-a169-94c45f9b19b5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which vitamine deficiency can lead to neonatal seizure",
         "exp": "(C) Pyridoxine > Deficiency of pyridoxine can lead to seizures and peripheral neuropathy.* Clinical features include failure to thrive hyperirritability hyperacusis hypochromic microcytic anemia nausea and vomiting* Daily recommended dose is 0. 5-1. Omg/day",
         "cop": 3,
@@ -128,19 +63,6 @@
         "topic_name": "Miscellaneous",
         "id": "f6da3c6b-e547-4867-8137-d86737bf65f1",
         "choice_type": "single"
-    },
-    {
-        "question": "Hypoglycemia is seen in",
-        "exp": "(D) All of the above # Hypoglycemia is seen in 1-3 per 1000 new born infants. Current definition of hypoglycemia is based on blood glucose of less than 40 mg/dL; irrespective of the gestational age, causes of hypoglycemia are given below# Transient hypoglycemia> Inadequate substrate Premature and SGA infants; Smaller of the twins Infants of diabetic mother> Relative hyperinsulinism as in infants of diabetic mothers# Persistent hypoglycemia:> Hyperinsulin states: Beta cell hyperplasia (nesidioblastosis) Adenoma of beta cells; Leucine sensitivity> Deficiency of hormones such as glucagon, h. GH, epinephrine, adrenal and ACTH.> Deficiency of substrate such as in ketotic hypoglycemia and maple syrup urine disease.> Disorders of carbohydrate metabolism such as glycogen storage disease and fructose intolerance",
-        "cop": 4,
-        "opa": "Babies born to diabetic mothers",
-        "opb": "Low birth weight infants",
-        "opc": "Babies bom to mothers who had toxaemia of pregnancy",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "4342105c-35d4-4bf6-a957-722c6fbb9ee4",
-        "choice_type": "multi"
     },
     {
         "question": "Antidote of paracetamol poisoning",
@@ -247,19 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What is the full form of CBNAAT?",
-        "exp": "Ans. A. Cartridge based nucleic acid amplification test. Cartridge based Nucleic Acid amplification test. It is newer diagnostic modality for diagnosis of tuberculosis. It is a genotypic test Results of this are available within 2 hours. It not only reports detection of Mycobacterium but also detects resistance against Rifampicin.",
-        "cop": 1,
-        "opa": "Cartridge based nucleic acid amplification test",
-        "opb": "Cell based nucleic acid amplification test",
-        "opc": "Cartridge based New allele test",
-        "opd": "Cartridge based Newer Amino Acid test",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "98b0d2f8-32dc-432b-8fc3-e6980d2d8a79",
-        "choice_type": "multi"
-    },
-    {
         "question": "Subluxated lens, thin elongated, hyperextensible extremities and aortic aneurysm are the characteristic clinical features of",
         "exp": "(A) Marfan's syndrome # MARFAN'S SYNDROME is a disorder of connective tissue (elastin). The gene called fibrillin is on chromosome 15. Inheritance is autosomal ominant. Sporadic cases may occur. The patients are tall and slender. Extremities especially the fingers and toes are long and thin. The muscles are markedly hypotonic and joints are hyperextendible. At times the disorder may be associated with arthrogryposis (contraction of joints in flexion due to fibrous ankylosis). There may be subluxation of the lens and other ocular abnormalities e. g., cataract, coloboma, squint, nystagmus and megalocornea. Deformities of the chest and spine may be present. Other associated anomalies include aortic cystic medionecrosis leading to aortic dilatation and other valvular deformities. Intelligence is normal. It should be distinguished from cases of homocystinuria, which also may present with ectopia lentis and similar bone changes, but has associated mental retardation. The basic manifestations are joint hypermobility, skin hyperextensibility, dystrophic scarring of the skin and easy bruising, and connective tissue fragility. Wound healing is delayed and there are freely movable subcutaneous nodules. Molecular genetics has helped to characterize 11 different types of Ehlers-Danlos syndrome. Homocystinuria is a relatively common metabolic error with autosomal recessive inheritance. In the most common situation, Type 1, cystathionine is not synthesized from homocysteine and serine because the enzyme cystathionine synthetase in the liver is deficient. Although the precursor, homocysteine accumulates in the tissues, it is rapidly oxidized to homocystine. The usual age of presentation is 3-4 years. The patients develop subluxation of the lens, recurrent thromboembolic episodes and have marfanoid features. Klinefelter syndrome is characterized by tall thin stature, small testes and small phallus, with the chromosomal karyotype of 47 XXY. Behavioral and psychiatric disorders and mental retardation are common.",
         "cop": 1,
@@ -297,19 +206,6 @@
         "topic_name": "Miscellaneous",
         "id": "f514e5ec-8006-4ca3-8740-e05702e90bce",
         "choice_type": "single"
-    },
-    {
-        "question": "Which is not associated with cephalhematoma?",
-        "exp": "Ans. A. Swelling is present at birth. Cephalhematoma is never present at birth. It appears a few hours after birth and at times on the second day. Caput succedaneum is present at birth. Cephalhematoma is a collection of blood between pericranium and skull bones following forceps delivery or normal labor due to rupture of small emissary veins or fracture of scalp bones. It appears 12 to 24 hours after birth. It is limited by skull bones because the pericranium is fixed to margins of the bone. It causes hyper bilirubinaemia due to release of bilirubin from collected blood.",
-        "cop": 1,
-        "opa": "Swelling is present at birth",
-        "opb": "Usually involves parietal and occipital bone",
-        "opc": "Bleeding is subperiosteal",
-        "opd": "Usually reabsorbed in 2-3 months",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "f3f6918f-f152-4eaf-9a71-3ac2b45a3bc5",
-        "choice_type": "multi"
     },
     {
         "question": "When should folic acid supplementation start in order to be effective in preventing neural tube defects?",
@@ -362,19 +258,6 @@
         "topic_name": "Miscellaneous",
         "id": "7130792b-93fb-4463-ae46-14b17340c000",
         "choice_type": "single"
-    },
-    {
-        "question": "False about breast feeding jaundice",
-        "exp": "(D) Starts in first week of life> Bilirubin conjugation may be inhibited by certain fatty acids that are present in breast milk, but not serum of mothers whose infants have excessive neonatal hyperbilirubinemia called breast mild jaundice.",
-        "cop": 4,
-        "opa": "Pregnanediol may be a factor",
-        "opb": "Free fatty acids can be a cause",
-        "opc": "Temporary interruption of bilirubin conjugation",
-        "opd": "Starts in first week of life",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "f019eda5-a258-4f23-a76b-c4ddbc08c0ee",
-        "choice_type": "multi"
     },
     {
         "question": "In congenital pyloric stenosis, which of the following is not seen?",
@@ -468,45 +351,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true about Reyes' syndrome, EXCEPT",
-        "exp": "(D) Good prognosis # REYE SYNDROME is characterized by acute noninflammatory encephalopathy and hepatic failure.> Although the etiology of Reye syndrome is unknown, the condition typically occurs after a viral illness, particularly an upper respiratory tract infection (URTI), influenza, varicella, or gastroenteritis, and it is associated with the use of aspirin during the illness. The discoveries of inborn errors of metabolism that have manifestations similar to those of Reye syndrome and a dramatic decrease in the use of aspirin among children have made the diagnosis and occurrence of Reye syndrome rare.> Some have postulated that salicylates stimulate the expression of inducible nitric oxide synthase (i. NOS) because of findings of i. NOS stimulation in African children with fatal malaria. Malaria causes symptoms similar to those of Reye syndrome and is often treated with aspirin.",
-        "cop": 4,
-        "opa": "Follows viral infection",
-        "opb": "|PG",
-        "opc": "Should be treated as for hepatic failure",
-        "opd": "Good prognosis",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "3d21cc5f-9462-4f3b-b89b-f62bdc7aaf89",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are seen in Congenital Toxoplasmosis EXCEPT",
-        "exp": "(D) All of the above # Toxoplasmosis is a parasitic disease caused by a protozoan, Toxoplasma gondii.> Infections of humans are common, and are usually asymptomatic.> In two cases infection may be serious:> If the infection is transmitted to the fetus during pregnancy (Congenital Toxoplasmosis)> Infection or reactivation of a Toxoplasmosis in patients with immunodeficiency (AIDS...):> Classical triad of Congenital Toxoplasmosis is Chorioretinitis Intracranial calcification Hydrocephalus",
-        "cop": 4,
-        "opa": "Chorioretinitis",
-        "opb": "Hydrocephalus",
-        "opc": "Intracranial calcification",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "2caf59b4-5b01-4cb8-bcb6-762d996aba02",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about Mongolian spots is:",
-        "exp": "Ans. A. Disappear by 1 year of age. Mongolian spot refers to a macular blue-gray pigmentation usually on the sacral area of healthy infants. Mongolian spot is usually present at birth or appears within the first weeks of life.",
-        "cop": 1,
-        "opa": "Disappear by 1 year of age",
-        "opb": "Reappear by 1 year of age",
-        "opc": "Persist throughout life",
-        "opd": "Have variable presentation in non-Mongolians",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "7792d400-d343-472f-a188-b93d4eff2def",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 6-year-old child is brought by his new foster mother who was concerned that when she brushed his teeth last night she noticed that his tongue was red in certain distinct patterns. He has otherwise not been ill: The most likely diagnosis he has is:",
         "exp": "Ans. C. Geographic tongue. Geographic tongue can have a changing appearance, hence its alternative description, erythema migrans. It involves atrophy of the filiform papillae, usually on the dorsum of the tongue. It is harmless and common. Hairy tongue is usually dark colored; it is caused by excess keratin and hypertrophy and elongation of the filiform papillae. Usually these patients are asymptomatic. Patients with Kawasaki traditionally have \"strawberry tongue, \" where the tongue is red and slightly swollen and the papillae appear white as a contrast. These patients are generally quite ill, with high fevers for several days and other symptoms. Pyogenic granulomas can grow on the tongue, although they would be more commonly found on the gingiva, as they are caused by the body's reaction to irritation. It is a painless mass that can be red, blue, or purple",
         "cop": 3,
@@ -531,58 +375,6 @@
         "topic_name": "Miscellaneous",
         "id": "f42749ae-4d1d-4eb9-8177-13e1d4fcb30f",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are components/features of Tetralogy of Fallot, EXCEPT",
-        "exp": "(B) Left ventricular hypertrophy # TETRALOGY OF FALLOT (TOF) is a congenital heart defect which classically has four anatomical components.> It is the most common cyanotic heart defect and the most common cause of blue baby syndrome.> As classically described tetralogy of Fallot involves four heart malformations:> Ventricular septal defect (VSD): a hole between the two bottom chambers (ventricles) of the heart.> Pulmonic stenosis: Right ventricular outflow tract obstruction, a narrowing at or just below the pulmonary valve.> Degree of stenosis varies between individuals with TOF & it is the primary cause of symptoms.> Overriding aorta: The aorta is positioned over the VSD instead of in the left ventricle.> Right ventricular hypertrophy (RVH): The right ventricle is more muscular than normal and may also be dilated. This causes a characteristic coeur-en-sabot (boot-shaped) appearance as seen by chest X-ray.> Pathophysiology:> TOF generally results in low oxygenation of blood due to mixing of oxygenated and deoxygenated blood in the left ventricle and preferential flow of blood from the ventricles to the aorta because of obstruction to flow through the pulmonary valve.> This is known as a right-to-left shunt. It is often evidenced by a bluish tint to the baby's skin (cyanosis).> However there are 'pink tests' in which the degree of obstruction in the right ventricular outflow tract is low.> Blood flows preferentially from the ventricles to the lungs and only minimal desaturation occurs in the systemic circulation beca use of mixing of saturated and desaturated blood in the ventricles.> This degree of desaturation may be undetectable to the eye and requires a pulse oximeter to identify it.> Even children who are generally not too deeply cyanosed (blue) may develop acute severe cyanosis or hypoxic 'tet spells> The precise mechanism of spelling is in doubt but certainly, this is a dangerous event and presumably results from an increas e in resistance to blood flow to the lungs with the increased preferential flow of desaturated blood to the body.> Untreated TOF, over the long term, results in progressive right ventricular hypertrophy and dilatation due to the increased resists nee on the right ventricle.> This progresses to right heart failure and death.",
-        "cop": 2,
-        "opa": "RV outlet obstruction",
-        "opb": "Left ventricular hypertrophy",
-        "opc": "Aorta over riding VSD",
-        "opd": "Malaligned VSD",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "7e7ec705-b9b0-4d0f-9f0c-b9048c6f2474",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following about bronze baby syndrome is not true",
-        "exp": "Bronze baby syndrome is a rare complication seen in neonates with hyperbilirubinemia who are being treated with phototherapy. Affected neonates develop gray-brown skin, serum, and urine within a week of initiation of phototherapy. All neonates with bronze baby syndrome have hyperbilirubinemia necessitating phototherapy, and most have concomitant liver dysfunction. It involves the trunk and extremities. The exact cause of the gray-brown discoloration in bronze baby syndrome is unceain. Products may accumulate as a result of poor excretion secondary to liver dysfunction. The discoloration presents after exposure to phototherapy and fades after phototherapy is discontinued. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 4,
-        "opa": "Phototherapy responsible",
-        "opb": "Spontaneous resolution",
-        "opc": "Covers the trunk and extremities",
-        "opd": "Perform exchange transfusion",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "17480400-7676-4350-ac69-74e680275306",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Unconjugated hyperbilirubinemia is seen in all EXCEPT",
-        "exp": "(B) Dubin Johnson syndrome # Common causes of Raised Bilirubin and Urobilinogen:> Raised conjugated bilirubin (bilirubinuria): Hepatocellular disease and post-hepatic or cholestatic disease (intrahepatic and extrahepatic), including drug toxicity as well as pancreatic causes of obstructive jaundice. Inherited defects in excretion - Eg, Dubin-Johnson syndrome, Rotor's syndrome.> Raised unconjugated bilirubin (no bilirubinuria): Gilbert's syndrome Haemolysis Post viral hepatitis Mild chronic hepatitis Crigler-Najjar syndrome# Physiologic Jaundice (non-pathologic unconjugated hyperbilirubinemia):> Term Infants: 50-60 % of all newborns are jaundiced in the first week of life. Total serum bilirubin peaks at age 3-5 d (later in Asian infants). Mean peak total serum bilirubin is 6 mg/dL (higher in Asian infants).> Preterm Infants: Incidence of visible jaundice is much higher than in term infants. Peak is later (5-7d). Because of increased risk of bilirubin encephalopathy (see below), \"physiologic\" jaundice is more difficult to define and jaundice should be followed closely.",
-        "cop": 2,
-        "opa": "Gilberts syndrome",
-        "opb": "Dubin Johnson syndrome",
-        "opc": "Crigler Najjar syndrome",
-        "opd": "Neonatal physiological jaundice",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "780e3912-ea1a-4d1b-84fd-73e64a84b380",
-        "choice_type": "multi"
-    },
-    {
-        "question": "LEIGH disease is due to the accumulation of",
-        "exp": "(A) Glycogen # L eigh's disease or, subacute Necrotizing Encephalopathy> Is characterized by an arrest of psychomotor development, feeding problem, seizures, extraocular palsies, and weakness with hypotonia between one and 2 years of age> The cardinal Laboratory finding is lactic Addenda> Various biochemical abnormalities have been found, all of which lie in the mitrochondrial pathway for converting pyruvate to ATP.",
-        "cop": 1,
-        "opa": "Glycogen",
-        "opb": "Pyridoxine",
-        "opc": "Sphingomyelin",
-        "opd": "None of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "fce01e81-6ec2-45c3-bb7a-624983470c46",
-        "choice_type": "multi"
     },
     {
         "question": "The CSF findings in tubercular meningitis include:",
@@ -676,19 +468,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 3-year-old child has presented with abdominal lump and aniridia shown below. All genes are responsible for development of this condition except?",
-        "exp": "Ans. (d) K-ras gene. Gene. Wilms tumor characteristic. Frequency. WT1. Inselected-20%P-catenin. Unselected-15% Tumors with WT1 mutations (-20% of total)-50%p53. Anaplastic histology (-5% of total)-80% Image Source:",
-        "cop": 4,
-        "opa": "WT1",
-        "opb": "P53",
-        "opc": "Beta-catenin",
-        "opd": "K-ras",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "24e62322-f325-497c-a857-32632e60050d",
-        "choice_type": "multi"
-    },
-    {
         "question": "A child develops non-blanching macules and papules on lower extremities, mild abdominal pain and skin biopsy showed IgA deposition. Most appropriate diagnosis is -",
         "exp": "Ans. is 'b' i. e., HSP Henoch-Schonlein purpura* Henoch - Schonlein purpura is vasculitis of small vessels (capillaries, venules or arterioles) and characterized by deposition of IgA in the wall of involved vessels.* H. S. purpura is characterized by tetrad of purpura, arthritis, glomerulonephritis, and abdominal pain. Gross hematuria is seen in 20-30% of cases.* All changes result from the deposition of circulating immune complexes, containing IgA and complement on the endothelium of the blood vessels throughout the body and within the glomerular mesangial regions.* Diagnosis is confirmed by presence of palpable purpura with normal platelet count along with one or more of the following: abdominal pain, arthralgia/arthritis and mesangial deposition of IgA.* Biopsy of the kidney may be performed both to establish the diagnosis or to assess the severity of already suspected kidney disease. The main findings on kidney biopsy are increased cells and IgA deposition in the mesangium (part of the glomerulus, where blood is filtered), white blood cells, and the development of crescents.* Renal manifestations usually start at the onset or within 3 months of onset of other symptoms.",
         "cop": 2,
@@ -713,19 +492,6 @@
         "topic_name": "Miscellaneous",
         "id": "b1fa1d9e-0083-4213-b214-b3674a8fc66a",
         "choice_type": "single"
-    },
-    {
-        "question": "The Most Common malignancy in childhood is",
-        "exp": "(A) ALL # LEUKEMIA is a cancer of the blood cells. It is the most common childhood cancer, accounting for almost one-third of all childhood cancers.# Types of leukemia include:> Acute Lymphoblastic Leukemia (ALL): Commonly referred to as \"childhood leukemia\", because it is the most common child- hood cancer. Almost 75% of children with leukemia have ALL, a cancer of the lymphoid cells in the bone marrow and the lymphoid organs of the body. They are involved in the body's immune system.> Usually occurs between 2 and 8 years old.> Acute Myelogenous Leukemia (AML): AML (acute myeloid leukemia, acute nonlymphatic leukemia or ANLL) is cancer of the myeloid blood cells which are produced in the bone marrow and which help fight bacterial infections.> Usually occurs in people over age 25, but sometimes affects teenagers and children.> Wilm's tumour: also called nephroblastoma, is a type of cancer that originates in the kidney. Wilm's tumour is the second most common type of all childhood solid tumours.> Average age of diagnosis is between 2 and 3 years when the disease affects only one kidney, but often diagnosed at a younger age when both kidneys are involved.> Non-Hodgkin's Lymphoma: affects the lymph nodes that are found deep within the body and is the third most common childhood cancer. There are many types of lymphoma, including Burkitf s, non-Burkitf s, and lymphoblastic lymphoma.> Most often in children between 2 and 10. More common in boys than girls. Osteosarcoma: is the most common type of bone sarcomas in children and the sixth most common malignancy in children. These tumours often start at the end of the bone. (This was the type of cancer that Terry Fox had). Occurs between the ages of 10 and 25. Retinoblastoma: is a malignant tumour of the retina (a thin membrane in the back of the eye). It is the most common type of eye cancer found in children. The tumour may be in one eye only or both. Most common in children younger than 5. Neuroblastoma: is a cancer of the sympathetic nervous system and the most common tumour outside of the brain. Generally occurs in children under the age of 5.",
-        "cop": 1,
-        "opa": "ALL",
-        "opb": "Bone tumor",
-        "opc": "Wilm's tumor",
-        "opd": "Retinoblastoma",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "00239e34-343e-443a-b77d-927cd5be6da3",
-        "choice_type": "multi"
     },
     {
         "question": "The characteristic facies of the following may resemble that of Downs syndrome:",
@@ -767,45 +533,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Treatment of choice of this 3-year-old child with an irreducible lump in right scrotum with trans- illuminance positive.",
-        "exp": "Ans. (d) None.",
-        "cop": 4,
-        "opa": "Jaboulay's procedure",
-        "opb": "Lord's plication",
-        "opc": "Sclerotherapy",
-        "opd": "None",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "7c8d6ec0-81f1-4a03-9350-0d10623423ea",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Regarding Kawasaki disease all are true EXCEPT",
-        "exp": "(C) Coronary artery involvement is less common in infants # KAWASAKI DISEASE: Keratic precipitates (detectable by a slit lamp but usually too small to be seen by the unaided eye), and swollen lymph nodes may also be present and can be the first manifestation of the disease. Bilateral, non-exudative conjunctivitis with perilimbal sparing - \"conjunctival injection. The cardiac complications are the most important aspect of the disease. Kawasaki disease can cause vasculitic changes (inflammation of blood vessels) in the coronary arteries and subsequent coronary artery aneurysms. These aneurysms can lead to myocardial infarction (heart attack) even in young children. Overall, about 10-18% of children with Kawasaki disease develop coronary artery aneurysms with much higher prevalence among patients who are not treated early in the course of illness. Kawasaki disease and rheumatic fever are the most common causes of acquired heart disease among children in the United States. Babies less than six months old are most at risk of developing AKD, along with potentially life-threatening damaged coronary arteries. Therefore, treatment is essential when prolonged fever accompanies even just one symptom of Kawasaki disease. Atypical Kawasaki disease (AKD) occurs when a child demonstrates fewer than four of the five diagnostic signs of classic Kawasaki disease (CKD). The subtype is also called incomplete Kawasaki disease.",
-        "cop": 3,
-        "opa": "Cervical lymph node enlargement is the least common among diagnostic criteria",
-        "opb": "Conjunctival ingestion is last to disappear among the diagnostic criteria",
-        "opc": "Coronary artery involvement is less common in infants",
-        "opd": "Atypical Kawasaki is more prone for cardiac involvement",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "7ae09bbe-9ad1-41ba-85cf-d5989d055e78",
-        "choice_type": "multi"
-    },
-    {
-        "question": "MMR vaccine is controversially associated with",
-        "exp": "(B) Autism# MMR vaccine controversy: Colitis and autism spectrum disorders are linked to the combined measles, mumps, and rubella (MMR) vaccine.> Particularly with measles-mumps-rubella (MMR) vaccine, may be related to the development of autism.> Main evidence for a possible association is that the prevalence of autism has been increasing at the same time that infant vaccination coverage has increased, and that in some cases there is an apparent temporal association in which autistic characteristics are first noted shortly after vaccination.> Although the prevalence of autism and similar disorders appears to have increased recently, it is not clear if this is an actual increase or the result of increased recognition and changes in diagnostic criteria.> Apparent onset of autism in close proximity to vaccination may be a coincidental temporal association.> Epidemiological studies, however, have not found an association between MMR vaccination and autism.",
-        "cop": 2,
-        "opa": "ADHD",
-        "opb": "Autism",
-        "opc": "Dyslexia",
-        "opd": "Schizophrenia",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "10802a91-65b6-49b2-a6ab-2bb1d9ccca6b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common cause of Seizures during Neonatal Period includes",
         "exp": "(A) Hypoxic Ischemic Encephalopathy # HYPOXIC ISCHEMIC ENCEPHALOPATHY (HIE) It is a type of brain damage that occurs when an infant's brain doesn't receive enough oxygen and blood. It is a dangerous condition that requires immediate medical intervention. HIE affects 20 out of every 1000 full term births; the incidence rate in premature babies is 60% of all live births.# Causes of Neonatal Seizures:> Seizures resulting from hypoxic-ischemic encephalopathy Seen in both term and premature infants. Present within the first 72 hours of life. Seizures may include subtle, clonic, or generalized seizures.> Intracranial hemorrhage: Occurs more frequently in premature than in term infants. Distinguishing infants with pure hypoxic-ischemic encephalopathy from those with intracranial hemorrhage often is difficult.> Subarachnoid hemorrhage: More common in term infants. Type of hemorrhage occurs frequently and is not clinically significant. Typically, infants with subarachnoid hemorrhage appear remarkably well.> Germinal matrix-intraventricular hemorrhage: Is seen more frequently in premature than in term infants, particularly in infants born prior to 34 weeks' gestation. Subtle seizures are seen frequently with this type of hemorrhage.> Subdural hemorrhage: Is seen in association with cerebral contusion. It is more common in term infants.> Metabolic disturbances: Include Hypoglycemia, Hypocalcemia, & Hypomagnesemia. Less frequent metabolic disorders, such as inborn errors of metabolism, are seen more commonly in infants who are older than 72 hours. Typically, they may be seen after the infant starts feeding.> Intracranial infections (which should be ruled out vigorously) that are important causes of neonatal seizures include Meningitis, Encephalitis (including herpes encephalitis), Toxoplasmosis, and Cytomegalovirus (CMV) infections. Most common bacterial pathogens include Escherichia coli and Streptococcus pneumoniae.> Most cerebral malformations present with seizures at a later age, major malformation syndromes are important to consider.> Lissencephaly, pachygyria, polymicrogyria, and linear sebaceous nevus syndrome can present with seizures in the neonatal period.",
         "cop": 1,
@@ -845,19 +572,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In a 32 weeks preterm baby the X ray showed diffuse opacities bilaterally. The diagnosis is",
-        "exp": "(B) RDS # RDS:> Clinical features. Respiratory distress usually occurs within the first 6 hours of life. Clinical features include tachypnea, retractions, grunting, cyanosis, and decreased air entry.> Diagnosis can be confirmed by chest X-ray.> Radiological features include reticulogranular pattern, ground glass opacity, low lung volume, air bronchogram, and a whiteout lung in severe disease",
-        "cop": 2,
-        "opa": "Congenital cystic lungs",
-        "opb": "RDS",
-        "opc": "Diaphragmatic hernia",
-        "opd": "Tracheoesophageal fistula",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "212b5b06-6f5d-4625-ba58-72ac7a02ad31",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common complication of mumps in children is",
         "exp": "(B) Aseptic meningitis > In adult males, mumps can cause bilateral orchitis and sterility, Meningitis usually follow parotitis and acute pancreatitis occurs in 2nd week, may result in diabetes mellitus.> Meningo encephalitis results 3-10 days after onset of glandular swelling.> Incubation period of mumps is 12-21 days (Mean 17 days)> COMPLICATIONS OF MUMPS: Epididymo-orchitis is a complication seen in about a third of postpubertal male patients. The testis becomes swollen and acutely painful, with accompanying fever and chills. Orchitis is usually unilateral but when it is bilateral and followed by testicular atrophy, sterility or low sperm counts may result. The central nervous system is involved in about 60 per cent of cases, as indicated by pleocytosis in the CSF but only about 10 per cent show symptoms of meningitis.> Mumps has been reported to cause about 10-15 per cent of cases of aseptic meningitis'. Mumps meningitis and meningoencephalitis usually resolve without sequelae but deafness may sometimes result. Munps meningitis may occasionally occur in the absence of parotitis, when diagnosis rests solely on laboratory evidence. The virus can be grown readily from the CSF in the early phase of meningitis.> Other less common complications are arthritis, oophoritis, nephritis, pancreatitis, thyroiditis and myocarditis. Most common complication of mumps in children is aseptic meningitis.",
         "cop": 2,
@@ -869,19 +583,6 @@
         "topic_name": "Miscellaneous",
         "id": "4a46db71-d836-4482-ab14-69f49b41a2ec",
         "choice_type": "single"
-    },
-    {
-        "question": "Signs of Increased intracranial tension include:",
-        "exp": "Ans. D. All of the above. The intracranial space and its contents (brain, CSF and blood) are in a state of delicate equilibrium. After closure of sutures and fontanel the adaptive mechanisms to raised pressure in the brain are through the displacement of CSF from intracranial cavity and compensatory hemodynamic changes. Heart rate slows, respiratory rate is altered and blood pressure rises to maintain the cerebral circulation. Increased ICP may manifest as increasing head size and or papilledema, unexplained projectile vomiting, headache and diplopia and sixth cranial nerve palsy.",
-        "cop": 4,
-        "opa": "Increased head size",
-        "opb": "Unexplained projectile vomiting",
-        "opc": "Persistent headache",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "fc480652-df71-48fc-9de2-0ec57750d232",
-        "choice_type": "multi"
     },
     {
         "question": "Ideal time gap between 2 live vaccinations is about",
@@ -936,32 +637,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most common malignancy in childhood is",
-        "exp": "(A) Acute Lymphoblastic Leukomia (ALL) # LEUKEMIA is a cancer of the blood cells. It is the most common childhood cancer, accounting for almost one-third of all childhood cancers.# Types of leukemia include:> Acute Lymphoblastic Leukemia (ALL): Commonly referred to as \"childhood leukemia\", because it is the most common child- hood cancer. Almost 75% of children with leukemia have ALL, a cancer of the lymphoid cells in the bone marrow and the lymphoid organs of the body. They are involved in the body's immune system. Usually occurs between 2 and 8 years old.> Acute Myelogenous Leukemia (AML): AML (acute myeloid leukemia, acute nonlymphatic leukemia or ANLL) is cancer of the myeloid blood cells which are produced in the bone marrow and which help fight bacterial infections. Usually occurs in people over age 25, but sometimes affects teenagers and children. Wilm's tumour: also called Nephroblastoma, is a type of cancer that originates in the kidney. Wilm's tumour is the second most common type of all childhood solid tumours. Average age of diagnosis is between 2 and 3 years when the disease affects only one kidney, but often diagnosed at a younger age when both kidneys are involved.> Non-Hodgkin's Lymphoma: affects the lymph nodes that are found deep within the body and is the third most common childhood cancer. There are many types of lymphoma, including Burkitt's, non-Burkitt's, and lymphoblastic lymphoma. Most often in children between 2 and 10. More common in boys than girls.# Osteosarcoma is the most common type of bone sarcomas in children and the sixth most common malignancy in children. These tumours often start at the end of the bone. (This was the type of cancer that Terry Fox had). Occurs between the ages of 10 and 25.# Retinoblastoma is a malignant tumour of the retina (a thin membrane in the back of the eye). It is the most common type of eye cancer found in children. The tumour may be in one eye only or both. Most common in children younger than 5.# Neuroblastoma is a cancer of the sympathetic nervous system and the most common tumour outside of the brain. Generally occurs in children under the age of 5.",
-        "cop": 1,
-        "opa": "Acute Lymphoblastic Leukemia (ALL)",
-        "opb": "Bone tumor",
-        "opc": "Wilm's tumor",
-        "opd": "Retinoblastoma",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "1dc68583-c250-473a-809d-e85023ca6867",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of these drugs can be a cause of rhabdomyolysis?",
-        "exp": "Ans. D. All of these. Many drugs can cause rhabdomyolysis. They can cause rhabdomyolysis, both in therapeutic doses and in toxic doses. Some important drugs among these include antidepressants, antipsychotics, statins, corticosteroids, salicylates, many chemotherapeutic agents, and some anaesthetics.",
-        "cop": 4,
-        "opa": "Statins",
-        "opb": "Salicylates",
-        "opc": "Antidepressants",
-        "opd": "All of these",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "cdfb5cfe-6762-467a-a144-5fc4967f7f69",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the recommended dose of steroids for attaining fetal lung maturity?",
         "exp": "b. Inj Betamethasone 12mg for 2 doses 24 hours apart(Ref: Nelson's 20/e p 852). Inj Betamethasone 12mg IM 2 doses, 24 hrs apart or Inj Dexamethasone 6mg IM every 12 hrs for 4 doses can be used",
         "cop": 2,
@@ -986,32 +661,6 @@
         "topic_name": "Miscellaneous",
         "id": "eacd5831-b910-4537-9f2f-0bd29ca8cdde",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following are true for Bronchiolitis in children?",
-        "exp": "Ans. D. All of the above. Bronchiolitis primarily affects young infants (1- 6 months some may be affected upto 2 years of age), clinical manifestations are initially subtle. Infants may become increasingly fussy and have difficulty feeding during the 2 to 5-day incubation period. A low-grade fever, usually less than 101. 5degF, and increasing coryza and congestion usually follow the incubation period. In older children and adults, as well as in up to 60% of infants, respiratory syncytial virus (RSV) infection is generally confined to the upper airway and does not progress further. Over a period of 2-5 days, RSV infection progresses from the upper to the lower respiratory tract, and this progression leads to the development of cough, dyspnea, wheezing, and feeding difficulties.",
-        "cop": 4,
-        "opa": "Commonly seen in children between 1- 6 months of age, but can be seen upto 2 years",
-        "opb": "RSV is the most common causative organism",
-        "opc": "Disease usually occurs in winter and spring season.",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "5dc38ed3-ecc6-4f31-b6e2-b3533b612481",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Flag sign and flaky paint dermatitis are characteristically seen in",
-        "exp": "(A) Kwashiorkar # Hair changes: The hair is thin, dry, brittle, easily pluckable, sparse, and devoid of their normal sheen. It becomes straight and hypopigmented. The length of the hair that grows during the period of nutritional deprivation appears reddish brown. During the phases of better nutrition, the growing part of the hair gets appropriately pigmented. This gives appearance of alternate bands of hypo-pigmented and normally pigmented hair (flag sign)> Hair changes are related more to the duration of undernutrition and are absent in acute PEM.> The eyelashes can undergo the same change, having a so-called broomstick appearance.> Skin changes: Large areas of skin show erythema, followed by hyperpigmentation. Hyperpigmented patches may desquamate to expose raw hypopigmented skin. It gives appearance of old paint flaking off the surface of the wood (flaky paint dermatosis). Lesions are mere marked on extremities. The underlying raw skin is easily infected The skin lesions are marked in body areasmost exposed to continuous pressure and irritation",
-        "cop": 1,
-        "opa": "Kwashiorkar",
-        "opb": "Marasmus",
-        "opc": "Pellagra",
-        "opd": "Nutritional dwarf",
-        "subject_name": "Pediatrics",
-        "topic_name": "Miscellaneous",
-        "id": "1e9edf03-ee3a-48d3-9d07-1ce1fac819cd",
-        "choice_type": "multi"
     },
     {
         "question": "A female child of a mother is diagnosed to have Duchenne's muscular dystrophy. What risk does the mother have for her next male child to suffer from similar illness?",

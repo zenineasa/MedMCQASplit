@@ -1,18 +1,5 @@
 [
     {
-        "question": "Iceberg phenomenon is depicted by all of the following diseases except:",
-        "exp": "Iceberg phenomenon is not shown by diseases which have no carrier state such as: - Rabies - Tetanus - Measles - Rubella - Peussis Tip of iceberg Submerged pa of iceberg Composition Clinical cases Latent, inapparent, pre symptomatic, Undiagnosed cases and carriers Visibility to clinician Visible Invisible Prime impoance for Clinician Epidemiologist Detection Diagnostic tests Screening tests Useful level of prevention Secondary Secondary",
-        "cop": 3,
-        "opa": "Influenza",
-        "opb": "Hypertension",
-        "opc": "Measles",
-        "opd": "Malnutrition",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "ed4575f9-15ea-4eb0-a990-88d8eceb397d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following characteristics is not of much impoance in a screening test-",
         "exp": "ref: ref: Park&; s 23rd edition pg 137 Screening test must satisfy the criteria of acceptability, repeatablity and validity, desides others like yield, simplicity, safety, rapidity, ease of administration and cost. Specificity: defined as the ability of a test to correctly identify those who do not have the diesase, that is \"true negatives\". A screening test need not have high specificity.",
         "cop": 4,
@@ -39,32 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Validity of a test is based upon all except",
-        "exp": "Ref: Parks 23rd edition pg 138 Validity (accuracy): refers to what extend the test accurately measures which it purpos to measure. has two components: sensitivity and specificity. note: Precision / repeatability / reliability: that is test must give consistent redults when repeated more than once on the same individual or material, under same conditions.",
-        "cop": 3,
-        "opa": "Sensitivity",
-        "opb": "Specificity",
-        "opc": "Precision",
-        "opd": "Accuracy",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "5207ab58-435c-4272-bbba-d583aaf45d06",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Example of Multiphase screening is:",
-        "exp": "Multiphasic screening: application of two or more screening tests in combination to a large number of people at one time. Example: annual health check ups. Multipurpose screening: screening by more than one test done simultaneously to detect more than one disease. Example: screening of a pregnant women for VDRL, HIV, HBV serological tests on a blood sample. Mass screening: Screening test applied on large population. Eg- CXR in elderly. High risk/ selective screening: Applied on high risk groups. Eg- screening for HIV in commercial sex workers.",
-        "cop": 2,
-        "opa": "Chest X-ray for TB large population",
-        "opb": "Annual health check up",
-        "opc": "Pap smear in old females",
-        "opd": "Mammography in all young female",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "66401b6e-3d77-4a39-ba85-d5ee7af05961",
-        "choice_type": "multi"
-    },
-    {
         "question": "If biochemical test gives the same reading of early sample on reputed testing, it is inferred that the measurement is-",
         "exp": ". biochemical test gives the same reading of early sample on reputed testing, it is inferred that the measurement is-precise. ref: park&; s textbook, 22 nd edition, pg no 22",
         "cop": 1,
@@ -76,19 +37,6 @@
         "topic_name": "Screening",
         "id": "04c9d3ec-718e-4d4b-8504-9c19e065f0f3",
         "choice_type": "single"
-    },
-    {
-        "question": "High false positive cases in a community signify that disease has-",
-        "exp": "<p>the term \"false positive \"means that patients who do not have the disease are told that they have the disease. in this case, normal healthy people may be subjected to fuher diagnostic tests, at some inconvenience, discomfo, anxiety and expense untill their freedom from disease is established. a screening test with a high specificity will have few false positives. false positives not only burden the diagnostic facilities, but they also bring discredit to screening programmes. high false postives of a disease in a community signifies high incidence and low prevalence.</p><p>ref; park&; s textbook of preventive and social medicine, 22 nd edition, pg no132</p>",
-        "cop": 2,
-        "opa": "High prevalence & Low incidence",
-        "opb": "High incidence & Low prevalence",
-        "opc": "Low prevalence & low incidence",
-        "opd": "High incidence & High prevalence",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "8434bac5-fa50-458b-88f8-cd7d533ce5a0",
-        "choice_type": "multi"
     },
     {
         "question": "Diagnostic power of the test is reflected by-",
@@ -104,45 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All comprise inherent propeies of a screening test except-",
-        "exp": "Ref: Parks 23rd edition pg 140 Yield is not an inherent propey of screening test. Yield is the amount of previously unrecognized disease that is diagnosed as a result of screening effo. It depends on many factors: Sensitivity and specificity of the test Prevalence of disease Paicipation of individuals in the detection programme.",
-        "cop": 3,
-        "opa": "Sensitivity",
-        "opb": "Specifivity",
-        "opc": "Yield",
-        "opd": "Predictive accuracy",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "e29d8751-8fd7-4cb7-9f02-4b8a8621e272",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Specificity measures -",
-        "exp": "specificity is defined as the ability of a test to identify correctly those who do not have the disease, that is true negatives. ref; parks gextbook, ed22, pg no 131",
-        "cop": 1,
-        "opa": "True negative",
-        "opb": "False positives",
-        "opc": "True positives",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "c46bdf7f-b6ec-4567-8796-5f8e6ea04c1c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about \"lead time\" except",
-        "exp": "Concept of Lead Time Lead time - Lead time is the period between early detection by Screening and diagnosis by other means later in life Lead time is the \"Advantage gained by screening\" Detection programs should be restricted to those conditions in which there is considerable time lag The benefits of the programme must be seen in term of its outcomes",
-        "cop": 4,
-        "opa": "Lead time is the period between early detection by Screening and diagnosis by other means later in life",
-        "opb": "Lead time is the advantage gained by screening",
-        "opc": "Detection programs should be restricted to those condition in which there is considerable time lag",
-        "opd": "None of above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "cc4d97ae-cddb-478d-838d-20fe991422e9",
-        "choice_type": "multi"
-    },
-    {
         "question": "A population of 1000 people in whom the prevalence of disease XYZ is 50%. ABC screening test was used to screen disease which has specificity and sensitivity of 50 %. What is positive predictive value of screening test ABC.",
         "exp": "Total Population = 1000 Prevalence = 50% People have Disease = 500 Not have Disease = 500 Method 1 Test Disease [?] Th [?] A TP? B FP? Th C FN? D TN? 500 (given) 500 (given) 1000 (given) Test Disease [?] Th [?] A 250 B 250 Th C 250 D 250 Method 2 ( Baye's Theorum)",
         "cop": 1,
@@ -154,19 +63,6 @@
         "topic_name": "Screening",
         "id": "c74c496a-749d-49e1-a14b-02219d9f2111",
         "choice_type": "single"
-    },
-    {
-        "question": "High sensitive",
-        "exp": "Ref: Parks 23rd edition pg 139. Sensitivity = (True positive) / (True positive + false negative) High sensitivity means high true positive. So, false negative results will be low.",
-        "cop": 2,
-        "opa": "Low false positive",
-        "opb": "Low false negative",
-        "opc": "Low true negative",
-        "opd": "Low true positive",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "991d387b-a473-4e29-be41-392a838daacb",
-        "choice_type": "multi"
     },
     {
         "question": "In the Iceberg phenomenon of diseases, Tip of Iceberg shows",
@@ -195,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "If prevalence of a disease increases, what is true-",
-        "exp": "Ref: Parks 25th edition pg 153. Positive predictive value depends on prevalence: Note: PPV increases as prevalence increases. PPV decreases as prevalence decreases. But sensitivity and specificity is independent of prevalence.",
-        "cop": 1,
-        "opa": "PPV increases",
-        "opb": "PPV decreases",
-        "opc": "No effect on PPV",
-        "opd": "Prevalence is more in A",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "2c7a45b0-3610-4001-8b73-f1da70578eb4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mammography has 90% sensitivity and 98% specificity for breast carcinova. What is the probability that woman with breast carcinoma remains un diagnosed for 2 consecutive years?",
         "exp": "False positive = 1- sensitivity = 1- 0. 9 = 0. 1 For 2 consecutive years = 2x0. 1=0. 2",
         "cop": 2,
@@ -219,19 +102,6 @@
         "topic_name": "Screening",
         "id": "3427d45b-d20b-4306-a97a-d4d179d8451b",
         "choice_type": "single"
-    },
-    {
-        "question": "Most number of false positives by a screening test is becuase of?",
-        "exp": "Ref: Parks 23rd edition pg 140. PPV decreases as prevalence decreases. As PPV decreases it means that TP is decreasing. This is accompanied by an increase in FP PPV =TP /(TP +FP)",
-        "cop": 4,
-        "opa": "High specificity",
-        "opb": "High sensitivity",
-        "opc": "High prevalence",
-        "opd": "Low prevalence",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "9d34ad8f-9153-4ceb-b2b2-a80c6d73fb2b",
-        "choice_type": "multi"
     },
     {
         "question": "The usefulness of a screening test in a community depends on its-",
@@ -258,45 +128,6 @@
         "topic_name": "Screening",
         "id": "8667d1a3-bee7-450c-9897-d44d2b2992a9",
         "choice_type": "single"
-    },
-    {
-        "question": "True positive is indicated by-",
-        "exp": "Ref: Parks 23rd edition pg 139 Sensitivity = TP / (TP + FN) Sensitivity is defined as the ability of a test to identify correctly all those who have the disease, that is \"true positive\".",
-        "cop": 1,
-        "opa": "Sensitivity",
-        "opb": "Specificity",
-        "opc": "Predictive value",
-        "opd": "Validity",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "39a0fbb1-78a9-432a-adc1-1755e45c93cd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following carriers recieved source of infection from other carrier is called-",
-        "exp": ".",
-        "cop": 3,
-        "opa": "Incubatory carrier",
-        "opb": "Convulescent carrier",
-        "opc": "Healthy carrier",
-        "opd": "Chronic carrier",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "48cb064b-9aea-450f-8a9d-753319276a4d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Specifivity of a test refers to its ability to detect -",
-        "exp": "Ref: Parks 23rd edition pg 136 specificity is defined as the ability of a test to identify those who do not have the disease. That is true negatives.",
-        "cop": 2,
-        "opa": "True positive",
-        "opb": "True negative",
-        "opc": "False negative",
-        "opd": "False positive",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "031b29da-ace1-4f1a-b8e4-ee170726e4ad",
-        "choice_type": "multi"
     },
     {
         "question": "If rapidly progressive cancers are missed by a screening test, which type of bias will occur?",
@@ -364,32 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Diagnostic accuracy of a test is determined by-",
-        "exp": "<p>predictive value which reflects the diagnostic power of the test. the predictive accuracy depends upon specificity, and disease prevalence. the predictive value of a positive test indicates the probability that a patient with a positive test result has in fact the disease in question the more prevalent a disease is in a given in population, the more accurate will be the predictive value of a positive screening test.</p><p>ref: park&; s textbook, 22 nd edition, pg no132 </p>",
-        "cop": 3,
-        "opa": "Sensitivity",
-        "opb": "Specificity",
-        "opc": "Predictive value",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "99b22a34-d9f0-4d4d-802d-fde25d2dd229",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The purpose of screening test-",
-        "exp": ".<p>four main uses of screening inc ludes case detection, control of disease, reserch purposes, educational oppounities. screening also helps in the soing out of people who are at a higher risk.</p><p>ref: park&; s textbook of preventive and social medicine, 22 nd edition, pg no128</p>",
-        "cop": 2,
-        "opa": "To diagnose the cases",
-        "opb": "To so out persons who are at increased risk",
-        "opc": "To segregate diseased and non diseased persons",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "ec457b0e-4893-49f9-8b7e-a99d529df8d1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not considered for selecting a screening test?",
         "exp": "Explanation: Criteria for screening. The test must satisfy the criteria of acceptability; repeatability and validity. Simplicity; safety, rapidity; ease of administration and cost are other considerations. Acceptability: Test should be acceptable to the people or whom it is aimed. In general, tests that are painful. discomforting or embarrassing (e. g.. rectal or vaginal examinations) are not likely to be acceptable to the population in mass campaigns. Repeatability: The test must give consistent results when repeated more than once on the same individual or material, under the same conditions. Validity (accuracy): The term validity refers to what extent the test accurately measures which it purports to measure. In other words, validity expresses the ability of a test to separate or distinguish those w! ho have the disease from those who do not. It has two components: Sensitivity and specificity. Sensitivity: It has been defined as the ability of a test to identify correctly all those who have the disease that is \"true positive\". Specificity: It is defined as the ability of a test to identify correctly those who do not have the disease, that is, \"true negatives\". The disease to be screened should fulfill following criteria: Prevalence should be high. There should he latent period / asymptomatic period. Natural history should be adequately known. Facility should be available for confirmation. Effective treatment",
         "cop": 2,
@@ -416,32 +221,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The ability of a screening test to detect \"true positive\" is known as -",
-        "exp": "Sensitivity is the ability of a test to identify correctly all those who have the disease, that is &; true positive&; Specificity is the ability of a test to identify correctly all those who do not have the disease, that is &; true negative&;",
-        "cop": 1,
-        "opa": "Sensitivity",
-        "opb": "Specificity",
-        "opc": "Positive predictive value",
-        "opd": "Negative predictive value",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "6e35597e-c15a-4f75-8bc9-a546d10ef1e0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "If Hemoccult test is negative for screening of colonic cancer, no fuher test is done. If the hemoccult test is positive the individual will have a second stool sample tested with Hemoccult II test. If this second sample is positive for blood, the individual will be referred for more extensive evaluation. The effect of net sensitivity and net specificity of this method of screening is",
-        "exp": "SCREENING TEST USED IN SERIES: A population is subjected to one screening test followed by a second screening test is applied on those individuals only who test positive on th e1st screening test. Combined sensitivity of 2 tests A and B in series: Sensitivity (A) * Sensitivity (B) Combined specificity of 2 tests A and B in series: Specificity (A) + Specificiity (B) - SCREENING TEST USED IN PARALLEL: A population is subjected to two or more screening tests at the both (or all) screening tests. Combined sensitivity of 2 tests A and B in parallel: Sensitivity(A) + Sensitivity (B) - Combines specificity of 2 tests A and B in parallel: Specificity(A)*Specificity(B) Test in series Tests in parallel Combined sensitivity Decreases Increases Combined specificity Increases Decreases Combined PPV Increases Decreases Combined NPV Decreases Increases Ref: Simple Biostatistics by Indrayan and Indrayan 1st edition Pgno: 56",
-        "cop": 2,
-        "opa": "Net sensitivity and net specificity are both increased",
-        "opb": "Net sensitivity is decreased and net specificity is increased",
-        "opc": "Net sensitivity is increased and net specificity is decreased",
-        "opd": "Net sensitivity remains the same and net specificity is increased",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "1c317552-f1cd-4c90-b4b3-ffe2a93ae057",
-        "choice_type": "multi"
-    },
-    {
         "question": "Screening for condition recommended when-",
         "exp": "Ref: Parks 23rd edition pg 136. Screening is carried out in the hope that earlier diagnosis and subsequent treatment, orably alters the natural history of the disease in a significant propoion of those who are identified as \"positive\". Note: We don&; t do screening when the disease has a low case fatality ratio. Diagnostic tools/tests must be made available before doing a screening test. Otherwise it will be in vain. Effective treatment should be available prior to doing a screening test. Also Refer p. 135. Table 1.",
         "cop": 4,
@@ -453,19 +232,6 @@
         "topic_name": "Screening",
         "id": "0ba60d16-e632-4c2d-81f0-5ba2a722a598",
         "choice_type": "single"
-    },
-    {
-        "question": "Screening for which carcinoma is beneficial -",
-        "exp": "Ref: Parks 23rd edition pg 387 Prolonged early phase of the cancer in situ can be detected by the Pap smear. The present strategy is to screen women using visual inspection after application of freshly prepared 5% acetic acid solution.",
-        "cop": 1,
-        "opa": "Carcinoma cervix",
-        "opb": "Lung carcinoma",
-        "opc": "Stomach caricinoma",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "8e127ecd-c204-4333-9530-9f0a8e139c37",
-        "choice_type": "multi"
     },
     {
         "question": "The critieria for validity of a screening test are-",
@@ -481,32 +247,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Too much false positives in a test is due to which of the following-",
-        "exp": "Ref: Parks 25th edition pg 152 Tests with high sensitivity gives too much false positives. Note Specificity and sensitivity are inversely related. High sensitivity means low specificity. Specificity = TN/ (TN+ FP).. low specificity means low TN, meaning high FP",
-        "cop": 3,
-        "opa": "High prevalence",
-        "opb": "Tests with high specificity",
-        "opc": "Tests with high sensitivity",
-        "opd": "High incidence",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "8e5e0c30-ec57-4384-b9b4-f4d1a2d7e95f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True positivity is indicated by-",
-        "exp": ". the term sensitivity is defined as the ability of a test to identify correctly al those who have the disease, that is true positive. ref: park&; s textbook, 22nd edition, pg no 131",
-        "cop": 1,
-        "opa": "Sensitivity",
-        "opb": "Specificity",
-        "opc": "Predictive value",
-        "opd": "Validity",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "53326c7b-ce00-4a14-b423-3bf3df22469e",
-        "choice_type": "multi"
-    },
-    {
         "question": "If a biochemical test gives the same reading for a sample on repeated testing. It is inferred that the measurement is-",
         "exp": "Ref: Parks 23rd edition pg 138 Precision means that the test must give consistent results when repeated more than once on the same individual or material under the same conditions. A screening test must satisfy the criteria of acceptability, repeatability, and validity, besides others such as yield, simplicity, safety, rapidity, ease of administration and cost.",
         "cop": 1,
@@ -518,58 +258,6 @@
         "topic_name": "Screening",
         "id": "6da03f4b-300f-4399-ae1f-e446f3e80745",
         "choice_type": "single"
-    },
-    {
-        "question": "A test was considered for diagnosing a disease. Out of 80 positive cases with this test, 40 actually had no disease. Out of 9920 tested negative cases 9840 actually had no disease. Calculate the sensitivity of the test-",
-        "exp": "Ref: Parks 23rd edition pg 139 Sensitivity = TP / (TP + FP) = 40 / (40+80)=. 33",
-        "cop": 2,
-        "opa": "13%",
-        "opb": "33%",
-        "opc": "50%",
-        "opd": "99%",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "2d78b6e7-f238-4683-8a07-bc450a9960d4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True regarding specificity:",
-        "exp": ". specificity is defined as the ability of a test to identify correctly those who do not have the disease, that is \"true negatives\". ref: park&; s textbook of preventive and social medicine, 22nd edition, pg no 131",
-        "cop": 4,
-        "opa": "Identifies false +ve",
-        "opb": "Identifies false -ve",
-        "opc": "Identifies true + ve",
-        "opd": "Identifies true -ve",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "a13bec9b-7bb3-4b9d-a03c-3d9f82c18ef8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Denominator of positive predictive value is",
-        "exp": ". predictive value of a positive test is calculated as true positive divided by the sum of true positive and false positive expressed in percentage ref: park&; s textbook, 22 nd edition, pg no 130",
-        "cop": 2,
-        "opa": "True positive + False positive",
-        "opb": "True positive + False negative",
-        "opc": "False positive + True negative",
-        "opd": "False positive + false negative",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "5118e2e9-652b-4750-994c-a2fb5272b5cc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Predictive value of a positive test is defined as-",
-        "exp": "Ref: Parks 23rd edition pg 140 PPV = TP / (TP +FP) * 100 Predictive value reflects the diagnostic power of a test.",
-        "cop": 2,
-        "opa": "True+ve\\/true+ve+false-vex100",
-        "opb": "True + ve\\/ true + ve + false + ve x 100",
-        "opc": "False + ve \\/ true + ve + false + ve x 100",
-        "opd": "False + ve \\/ true + ve + false - ve x 100",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "5796bcb1-e484-4fc8-ab96-9cae81af6de6",
-        "choice_type": "multi"
     },
     {
         "question": "Lead time is:",
@@ -596,58 +284,6 @@
         "topic_name": "Screening",
         "id": "49657b25-843e-47a2-b60f-056cf32febcb",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are true regarding Screening of disease except",
-        "exp": "Screening test Diagnostic test Done on apparently healthy Done on those with indications or sick Applied to groups Applied to single patients, all diseases are considered Test results are arbitrary and final Diagnosis is not final but modified in light of new evidence, diagnosis is the sum of all evidence Based on one criterion or cut-off point Based on evaluation of a number of symptoms, signs (e. g. diabetes) and laboratory findings. Less accurate More accurate Less expensive More expensive Not a basis for treatment Used as a basis for treatment The initiative comes from the investigator or agency providing care. The initiative comes from a patient with a complaint",
-        "cop": 2,
-        "opa": "Done on apparently healthy people",
-        "opb": "Time consuming",
-        "opc": "Generally never a basis to sta treatment",
-        "opd": "Arbitrary and final",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "23eef597-3a60-4d1b-95e5-5f8c2e5778e8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Sensitivity is used to calculate:",
-        "exp": "Ans. (c) True positive. SENSITIVITY: Defined as ability of a screening test to identify all those who have disease (cases/ True Posiive)",
-        "cop": 3,
-        "opa": "True negative",
-        "opb": "False positive",
-        "opc": "True positive",
-        "opd": "False negative",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "da273ad6-a932-40e5-b265-9dd6b19e9db3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Receiver operator characteristic (ROC) curve is usually drawn between -",
-        "exp": "Ref: Parks 23rd edition X-axis: (1-specificity) Y-axis: Sensitivity. Receiver operator curve is used to find out the cutoff Cutoff nearest to the ideal line is considered to be the best cutoff.",
-        "cop": 1,
-        "opa": "Sensitivity and ( 1- specificity)",
-        "opb": "(1- sensitivity) and specifivity",
-        "opc": "Sensitivity and specificity",
-        "opd": "(1- sensitivity) and (1-specificity)",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "d0cec77d-3938-4052-b121-86a1f347dab6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Specificity measures-",
-        "exp": "Ref: Parks 23rd edition pg 139 Specificity = TN / (TN + FP) Specificity is defined as the ability of a test to identify correctly all those who do not have the disease, that is \"true negatives\".",
-        "cop": 1,
-        "opa": "True negative",
-        "opb": "False positives",
-        "opc": "True positives",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "ca104438-75f4-4d17-9bae-2bbc5a477652",
-        "choice_type": "multi"
     },
     {
         "question": "L-J cha is used for monitoring-",
@@ -702,71 +338,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Two screening tests in series will increase",
-        "exp": "Condition 1 Condition 2 Test A, B, C, D, E (Screening Test in series ) Test A | B | C | D | E ** | Specificity & PPV | Sensitivity & NPV (Screening test in Parallel) (Together) * | A B C D E (Together) ** | Sensitivity & NPV | Specificity & PPV",
-        "cop": 4,
-        "opa": "Sensitivity alone",
-        "opb": "Specificity alone",
-        "opc": "Both Sensitivity and Negative predicative value",
-        "opd": "Both Specificity and Positive predicative value",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "8f438c6c-b9c9-48de-ba67-3b6c16ee9c4b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Specificity of a test means, all except-",
-        "exp": "Ref: Parks 23rd edition pg 139 Specificity is defined as the ability of a test to identify those who do not have the disease, that is \"true negatives\". Ideal screening test should have been 100% specificity.",
-        "cop": 2,
-        "opa": "Identifies those without disease",
-        "opb": "True positive",
-        "opc": "True negative",
-        "opd": "An ideal screening test should have 100% specificity",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "9057e17b-32ed-4506-802f-5232a17c01bc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true ofr a screening test except -",
-        "exp": ". screening tests that are commonly employed are capable of interpreting results, but only less accurate. test results are always based on arbitrary considerations, and it is not taken as a basis for any kind of treatment thatn is employed in the prevention as well as cure of a disease. but the increased accessibility of screening tets can be attributed to the less expenses they meet with. ref: park&; s textbook, 22 nd edition, pg no 130",
-        "cop": 2,
-        "opa": "Less accurate",
-        "opb": "Forms the basis for treatment",
-        "opc": "Test results are arbitrary",
-        "opd": "Less expensive",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "ce058cbe-f8ca-4651-b381-f9151852d727",
-        "choice_type": "multi"
-    },
-    {
-        "question": "More false positive cases in a community signify that the disease has",
-        "exp": "Ref: Parks 23rd edition pg 138 Low prevalence gives more false positive test results. Note: PPV increases as prevalence increases. PPV decreases as prevalence decreases.",
-        "cop": 4,
-        "opa": "High sensitivity",
-        "opb": "High specificity",
-        "opc": "community has high prevalence",
-        "opd": "community has low prevalence",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "493fd604-0c53-4c26-9bd6-8c6c08fb6aef",
-        "choice_type": "multi"
-    },
-    {
-        "question": "When a diagnostic test is used in series mode then-",
-        "exp": "Ref: Parks 23rd edition pg 137 When used in series: Sensitivity decreases Specificity increases PPV increases NPV decreases When used in parallel: Sensitivity increases Specificity decreases PPV decreases NPV increases",
-        "cop": 2,
-        "opa": "Sensitivity increases but the specificity decreases",
-        "opb": "Specificity increases bu the sensitivity decreases",
-        "opc": "Both sensitivity and specificity increases",
-        "opd": "Both sensitivity and specificity decreases",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "2fc89032-f6c3-41da-9480-fc924c797f74",
-        "choice_type": "multi"
-    },
-    {
         "question": "Active search for disease in an apparently healthy individual is k/a-",
         "exp": "Ref: Parks 23rd edition pg 135 Screening test is not intended to be a diagnostic test. It helps us find out the hidden cases.",
         "cop": 3,
@@ -791,32 +362,6 @@
         "topic_name": "Screening",
         "id": "150bf180-9d69-4559-9b97-ff0a5acfe68d",
         "choice_type": "single"
-    },
-    {
-        "question": "True negative means -",
-        "exp": ". true negative means specificity. it is defined as the ability of a test to identify correctly those who do not have the disease that is true negatives. ref: park&; s textbook, 22nd edition, pg no 112",
-        "cop": 2,
-        "opa": "Sensitivity",
-        "opb": "Specificity",
-        "opc": "Positive predictive value",
-        "opd": "Negative predictive value",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "e7f8c02f-bb94-4634-bfef-75d9a6e21876",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about incidence, except-",
-        "exp": ".<p>incidence rate is defin ed as the number of new case occurring in a defined population during a specified period of time. it will be seen from the above definition that incidence rate refers only to new cases, and during a given period usually assumed as one year. it also refers in a specified population or \"; population at risk\"unless other denominators are chosen.</p><p>ref: park&; s textbook of preventive and social medicine, 22 nd edition, pg no 58</p>",
-        "cop": 3,
-        "opa": "Numerator includes new cases",
-        "opb": "Denominator includes population at risk",
-        "opc": "Does not include population at risk",
-        "opd": "It is a rate",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "80eda6ea-d2b7-4136-8e7d-d3ed03b9ba8e",
-        "choice_type": "multi"
     },
     {
         "question": "Positive predictive value is most affected by-",
@@ -897,32 +442,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Criteria for a disease fit for screening including-",
-        "exp": ". the disease can be screened if it satisfies the following conditions such as, *an impoant health problem it must be *there should be a recognisable latent or early asymptomatic stage. *natural history of condition *tets that detect the disease prior to the onset of symptoms *an effective treatment. *agreed on policy concerning whom to treat as patients. ref: park&; s textbook, 22 nd edition, pg no 129",
-        "cop": 4,
-        "opa": "It should be an impoant public health problem",
-        "opb": "Facilities should be available for confirmation",
-        "opc": "There should be sufficiently long time available",
-        "opd": "All of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "273dc5f1-b679-4950-9050-26979b909e4d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A screening test must satisfy all of the following given criteria except:-",
-        "exp": "Screening test must satisfy the following criteria * Acceptability Repeatability Validity Acceptability: Screening Test should be acceptable to the People at whom it is aimed. In general, tests that are Painful, discomfoing or Embarassing like Rectal and vaginal examination are not likely acceptable in mass campaigns. Repeatability: An Ideal screening test should have Propey of Repeatability. i. e. Test must give consistent results when repeated more than once on the same Individual under same conditions. Validity: also known as Accuracy. Refers to what extent the test accurately measures which it purpos to measure.",
-        "cop": 4,
-        "opa": "Acceptability",
-        "opb": "Repeatability",
-        "opc": "Validity",
-        "opd": "Accountability",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "af732ccc-2d6c-4295-8c05-bbe46cb1004b",
-        "choice_type": "multi"
-    },
-    {
         "question": "The time interval between diagnosid by early detection of screening and diagnosis by other means is -",
         "exp": ". lead time is the advantage gained by screening. that is the period between diagnosis by early detection and diagnosis by other means. the benefits are alwaysd evaluated in terms of outcomes.. lead time is the advantage gained by screening. that is the period between diagnosis by early detection and diagnosis by other means. the benefits are always evaluated in terms of outcomes. ref: park&; s textbook, 22 nd edition, pg no 131",
         "cop": 2,
@@ -975,32 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The validity of a test is based upon all except",
-        "exp": "The term validity refers to what extent the test accurately measures which it purpos to measure. Accuracy refers the closeness with which measured values agree with true values. Validity has two components - sensitivity and specificity. Sensitivity and specificity, together with predictive accuracy are inherent propeies of a screening test. Park 23e pg: 138",
-        "cop": 3,
-        "opa": "Sensitivity",
-        "opb": "Specificity",
-        "opc": "Precision",
-        "opd": "Accuracy",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "613c8bd2-90f2-402e-ac00-8f8fe64d15a9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Evaluation of screening test is by-",
-        "exp": ".<p>evaluation of a screening test is done by*specificity, *sensitivity, *predictive value of a positive test, *predictive value of a negative test, *percentage of false negatives, *percentage of false positives etc.</p><p>ref: park&; s textbook of preventive and social medicine, 22 nd edition, pg no 131</p>",
-        "cop": 4,
-        "opa": "Sensitivity",
-        "opb": "Specificity",
-        "opc": "Predictive value",
-        "opd": "All the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "3115ab4f-ee85-407a-90e9-5a6488550bac",
-        "choice_type": "multi"
-    },
-    {
         "question": "Screening is a type of -",
         "exp": ".<p>secondary prevention can be defined as\"action which halts the progress of a disesease at its incipient stage and prevents complications. the specific interventions are early diagnosis including SCREENING tests, case finding programmes and adequate treatment, secondary prevention attempts to arrest the disease process; restore health by seeking out unrecognised disease and treating it before irreversible pathological changes have taken place; and to reverse communicability of infectious disesases. it may also protect others in the community from acquiring the infection and thus provide at once secondary prevention for the infected individuals and primary prevention for their potential contacts.</p><p>ref: park&; s textbook of preventive and social medicine, 22 nd edition, pg no39</p>",
         "cop": 2,
@@ -1012,45 +505,6 @@
         "topic_name": "Screening",
         "id": "7ead9140-04f8-4e79-96b0-ca9a5389c3ca",
         "choice_type": "single"
-    },
-    {
-        "question": "Validity of an indicator means",
-        "exp": "Ref: Parks 23rd edition pg 138 validity refers to what extend the test accurately measures what it purpos to measure. Validity includes - sensitivity and specificity.",
-        "cop": 1,
-        "opa": "It should actually measure what it is supposed to measure",
-        "opb": "The answer should be same if measured by different persons in similar circumstances",
-        "opc": "Indicators should reflect changes in the situation concerned",
-        "opd": "Indicators should have ability to obtain data needed",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "25c55740-ce53-4988-9fb1-f8590f6fe8f9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Primary and secondary case are used to define-",
-        "exp": ". in actual practice we seldom know precisely the incubation period of a disese. but we know when an outbreak of disease occurs, say in a family of which is the smallest grouop and primary case is followed by 2 or 3 secondary cases within a sho time. the gap in time between the onset of the primary case and the secondary case is called the \"serial interval\" ref: park&; s textbook of preventive and social medicine, 22 nd edition, pg no96",
-        "cop": 2,
-        "opa": "Generation time",
-        "opb": "Serial interval",
-        "opc": "Secondary attack rate",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "5ef75c51-fd82-4ef0-ac9f-44d7820f29b5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "You have diagnosed a patient clinically as having SLE and ordered 6 tests. Out of which 4 tests have come positive and 2 are negative. To determine the probability of SLE at negative. To determine the probability of SLE at this point, you need to know-",
-        "exp": ". sensitivity is the ability of a test to identify correctly those who actually have the disease, that is true positives. specificity is the ability of a test to identify correctly those who in actual do not have the disease. prior probability of disease such as SLE can be calculated by knowing these. ref: park&; s textbook, 22 nd ed, pg 131",
-        "cop": 1,
-        "opa": "Prior Probability of SLE; sensibility and specificity of each test",
-        "opb": "Incidence of SLE predictive value of each test",
-        "opc": "Incidence and prevalence of SLE",
-        "opd": "Relative risk of SLE in this patient",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "bb95fb0f-4e95-40ce-80c7-9fd4aa41b7cf",
-        "choice_type": "multi"
     },
     {
         "question": "The active search for unrecognized disease or defect in apparently health people using rapidly applied tests or procedures is-",
@@ -1077,122 +531,5 @@
         "topic_name": "Screening",
         "id": "95d23813-670f-4ec3-acb3-7a3d403d8961",
         "choice_type": "single"
-    },
-    {
-        "question": "In which of the following disease, the overall survival is increased by screening procedure -",
-        "exp": ". there is strong positive correlation between cancer colon and dietary fat. the studies have shown that increase in the dietary intake of fat has recently increased the incidence of ca colon in the western communities like japan. also dietary fibre intake is said to have a protective role in the development of carcinoma colon. the overall survival is increased by screening procedure - in the case of carcinoma colon. ref: park&; s textbook, 22 nd ed, pg 600",
-        "cop": 3,
-        "opa": "Prostate Ca",
-        "opb": "Lung Cancer",
-        "opc": "Colon Ca",
-        "opd": "Ovarian Ca",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "1aa2ec95-8b25-4b5e-aa51-e3789b9bdcc6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A test has a high false positive rate in a community. True is",
-        "exp": "The propoion of false-positive results among those who test positive is 1 minus the positive predictive value. False positive (discovery) rate = 1- positive predictive value. As the disease prevalence increases, the positive predictive value increases. (PPV). As prevalence increase, PPV increase, False positive rate decrease.",
-        "cop": 2,
-        "opa": "High prevalence",
-        "opb": "Low prevalence",
-        "opc": "High sensitivity",
-        "opd": "High specificity",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "d562185d-1558-4605-91e5-238eedf95e87",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Screening procedure is best for Ca of -",
-        "exp": ". screening is best suited in the case of ceain disease. one among the following is carcinoma colon, the disease can be screened if it satisfies the following conditions such as, *an impoant health problem it must be *there should be a recognisable latent or early asymptomatic stage. *natural history of condition *tets that detect the disease prior to the onset of symptoms *an effective treatment. ref: park&; s textbook, 22 nd edition, pg no 131",
-        "cop": 2,
-        "opa": "Prostate",
-        "opb": "Colon",
-        "opc": "Gastric",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "0d8d840e-e7f4-4067-aa87-ef06881255f5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Specificity of a screening test is the ability of a test to detect",
-        "exp": "Specificity is defined as the ability of a test to identify correctly those who do not have the disease, that is &; true-negatives&; Sensitivity is defined as the ability of a test to identify correctly all those who have the disease, that is &; true-positive&;",
-        "cop": 4,
-        "opa": "True positives",
-        "opb": "False positives",
-        "opc": "False negatives",
-        "opd": "True negatives",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "7bbe17f4-b225-4073-b261-66c031c92225",
-        "choice_type": "multi"
-    },
-    {
-        "question": "For a screening test, 90% specificity means that 90% of non diseased persons will give a -",
-        "exp": "a 90% specificity means that 90%of the non diseased persons will give \"true negative result\", 10% of non diseased people screened by the test will be wrongly classified as &;; diseased\" when they are not. ref: park&; s textbook of preventive and social medicine, 22nd edition, pg no 131",
-        "cop": 1,
-        "opa": "True negative result",
-        "opb": "True positive result",
-        "opc": "False negative result",
-        "opd": "False positive result",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "b7bfa7b0-93dc-47df-b67c-bad4824a9e59",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Sensitivity is",
-        "exp": "Repeated question",
-        "cop": 1,
-        "opa": "True positive\\/ true positive + false negative",
-        "opb": "True negative\\/ false positive + true negative",
-        "opc": "True negative\\/ true negative + false positive",
-        "opd": "True negative\\/ false negative + true positive",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "ec4b9ec2-2950-4733-b9c7-9443967c15f8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which is most economical and best screening",
-        "exp": "Ref: Parks 23rd edition pg 137 High-risk or selective screening: Screening will be most productive if applied selectively to high-risk groups, the groups defined on the basis of epidemiological research. Types of screening: Mass screening. High-risk or selective screening. Multi-phasic screening.",
-        "cop": 2,
-        "opa": "Mass screening",
-        "opb": "High risk screening",
-        "opc": "Multiphasis screening",
-        "opd": "Any of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "e006342d-9ee1-43d2-9057-785090eedfb3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Example of multiphasic screening is",
-        "exp": "Multiphasic screening: It is the application of two or more screening tests to a large population at one time instead of carrying out separate screening tests for single diseases. Randomised control studies suggested that multiphasic screening has not shown any benefit accruing to the population in terms of moality and morbidity reduction.",
-        "cop": 2,
-        "opa": "Chest X-ray for TB on large population",
-        "opb": "Annual health check up",
-        "opc": "Pap smear in old females",
-        "opd": "Mammography in all young females",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "470826f4-16d4-4456-bb98-c5b3067fe328",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement about PPV is:",
-        "exp": "Ans. (a) It increases with prevalence. Ref: K. Park 23rd ed. /140-141# POSITIVE PREDICTIVE VALUE* Ability of screening test to identify correctly all those who have disease out of all those who test positive on a screening test.* It depends upon sensitivity, specificity and prevalence of a disease in a population* PPV of a screening is directly proportional to prevalence of disease* If Prevalence of a disease increases in a population, PPV increase for the screening test. PPV=TP/TP+FP x 100",
-        "cop": 1,
-        "opa": "It increases with prevalence",
-        "opb": "It decreases with prevalence",
-        "opc": "No relation with prevalence",
-        "opd": "Increases incidence",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening",
-        "id": "5be04934-e75c-4b10-9dc0-fa583efb77ed",
-        "choice_type": "multi"
     }
 ]

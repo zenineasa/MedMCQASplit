@@ -26,32 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What happens to minimum sample size when range of allowable error is doubled?",
-        "exp": "Sample size = 4 Pq / L2 ( permissible error ). Sample size a 1/ (error)2= 1/ (2E)2= 1/4",
-        "cop": 2,
-        "opa": "Reduced to 1/2",
-        "opb": "Reduced to 1/4",
-        "opc": "Reduced to 1/16",
-        "opd": "Sample size does not depend on acceptable error",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "JIPMER 2019",
-        "id": "adb972b6-a8e4-4f31-af6f-8e771ffdf36c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following option is true about ROC curve?",
-        "exp": "ROC curve = Recicver. Operator characteristic curve. 1 - No use 2 - fair 3 - Good 4 - Excellent Area under the ROC cure = 1 - if specificity and sensitivity both are 100% ROC curve - it is a method of evaluating the quality / performance of tests.",
-        "cop": 1,
-        "opa": "It is a method of evaluating the quality/performance of tests",
-        "opb": "It is plotted as test Sensitivity as x-coordinate versus its 1-Specificity (False positive rate FPR) as the y-coordinate",
-        "opc": "A perfect test has an area under the ROC curve (AUROCC) of >1",
-        "opd": "A decrease in sensitivity result in decrease in specificity",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "JIPMER 2019",
-        "id": "95f5fa58-31d6-40fa-8c33-eea337a1d9df",
-        "choice_type": "multi"
-    },
-    {
         "question": "Median Incubation period means:-",
         "exp": "Median incubation period - Time taken for 50% of cases to occur. Incubation period - Time interval b/w entry of organism into body till appearance of 1st signs & symptoms. Serial Interval - Time interval b/w primary & secondary case. Generation time - time interval between entry of organism into body till its maximum infectivity. Latent period - Time interval b/w onset of disease till its first detection. It is corresponding term to incubation period for non-communicable diseases.",
         "cop": 1,
@@ -63,31 +37,5 @@
         "topic_name": "JIPMER 2019",
         "id": "69b7b8c7-532b-45c9-ab58-199f1cf0aa7c",
         "choice_type": "single"
-    },
-    {
-        "question": "Rejection of True Null Hypothesis is known as:-",
-        "exp": "Ho true, Rejected - Type I error Ho false, Accepted - Type II error Ho true, accepted - No Error Ho false, rejected - No Error.",
-        "cop": 2,
-        "opa": "Type II error",
-        "opb": "Type I error",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "JIPMER 2019",
-        "id": "b4c67696-5160-42ca-adf5-9a640a620603",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Human developmental index includes all except:",
-        "exp": "PQL I ( physical quality of life index) HDI ( human development index) 1) Literacy rate 1) Literacy rate 2) Infant moality rate 2) Income 3) Life expectancy at 1 year of age 3) life expectancy at bih. 4) 0<PQ LI < 100 4) 0< HDI < +1",
-        "cop": 4,
-        "opa": "Adult literacy rate",
-        "opb": "Per capita income",
-        "opc": "Life expectancy",
-        "opd": "Infant moality rate",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "JIPMER 2019",
-        "id": "dc0a8889-6a6f-4fb7-b17e-26319ca4620b",
-        "choice_type": "multi"
     }
 ]

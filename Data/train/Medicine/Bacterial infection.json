@@ -1,18 +1,5 @@
 [
     {
-        "question": "A 22yrs female was admitted in emergency with c/o nausea, vomiting, and watery diarrhoea since 4 days. He is also having low grade fever. He was hospitalised and treated symptomatically and was being relieved and discharged. His blood samples were sent for culture; repos of which pt. brought during his follow up - which showed the presence of clostridium perfringens. Being his physician what should be your next instruction to such patient -",
-        "exp": "Clostridia Spore bearing, obligate anaerobes and gram positive organisms. Reside normally in GI tract; although they have the propensity to cause fulminant bacteremia, but it is rare. In this question, pt. is well after an acute episode of illness; rules out fulminant course. So, a transient self-limited bacteraemia due to transient gut translocation could occur mostly during an episode of gastroenteritis and doesn't require treatment and fuher workup. So, among the given options returning for penicillin therapy is the best answer.",
-        "cop": 3,
-        "opa": "IV penicillin therapy plus colonoscopy.",
-        "opb": "Return for blood culture.",
-        "opc": "Return for IV penicillin therapy.",
-        "opd": "IV penicillin therapy plus echocardiography.",
-        "subject_name": "Medicine",
-        "topic_name": "Bacterial infection",
-        "id": "afbda94b-6400-4be6-945e-2ad31f11546f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is the drug of choice for prophylaxis of meningococcal meningitis in pregnancy:",
         "exp": "N. meningitidis is dangerous because it can cause Waterhouse Friderichsen syndrome & Addisonian crisis So, chemoprophylaxis is recommended Ceftriaxone as a single IM or IV injection is highly effective in carriage eradication and can be used at all ages and in pregnancy",
         "cop": 2,
@@ -39,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "While discharging a patient of meningitis due to H. influenzae the essential step you will do:",
-        "exp": "H. influenzae is one of the three M/C/C of childhood otitis media (the other two being Streptococcus pneumoniae and Moraxella catarrhalis). A diagnosis of otitis media is based on the detection by pneumatic otoscopy of fluid in the middle ear and bilateral evoked auditory response.",
-        "cop": 3,
-        "opa": "EEG",
-        "opb": "Assess developmental milestones",
-        "opc": "Bilateral evoked auditory response",
-        "opd": "Refer for physiotherapy",
-        "subject_name": "Medicine",
-        "topic_name": "Bacterial infection",
-        "id": "ca0f48ec-9b5d-47d9-9a8f-2115c1cf59bf",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is an initial presentation of HIV infection when A is not staed?",
         "exp": "One of the earliest oppounistic infection - Pneumonia It could be:- a). Bacterial Pneumonia b). Fungal Pneumonia MC cause of pneumonia in HIV patient is Pneumococcus CD4 < 500: TB < 200: P. JIROVECI",
         "cop": 3,
@@ -63,32 +37,6 @@
         "topic_name": "Bacterial infection",
         "id": "74da7bcd-b8d8-442d-87b5-ebd1ebfce765",
         "choice_type": "single"
-    },
-    {
-        "question": "Hutchinson triad consists of all except?",
-        "exp": "Hutchinson triad (syphilis):- * Hutchinson teeth * Interstitial keratitis * Eight cranial nerve deafness",
-        "cop": 4,
-        "opa": "Interstitial keratitis",
-        "opb": "Eight cranial nerve deafness",
-        "opc": "Hutchison teeth",
-        "opd": "Mulberry teeth",
-        "subject_name": "Medicine",
-        "topic_name": "Bacterial infection",
-        "id": "e3ec69ef-a757-463f-8839-0cf72a33861e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are useful for management of severe clostridium difficile treatment except:",
-        "exp": "Treatment of CDI: Initial episode Oral vancomycin or. Fidaxomicin Fulminant CDI Vancomycin plusmetronidazole IV plus consider. Rectal instillation of vancomycin Consider using IV tigecycline in place of metronidazole Multiple recurrences Vancomycin; or. Fidaxomicin or. Fecal microbiota transplantation (FMT)",
-        "cop": 2,
-        "opa": "Intravenous Metronidazole",
-        "opb": "Neomycin enema",
-        "opc": "Fecal transplant",
-        "opd": "Tigecycline",
-        "subject_name": "Medicine",
-        "topic_name": "Bacterial infection",
-        "id": "f5c71956-2967-449d-9259-e4c36dd8c6a1",
-        "choice_type": "multi"
     },
     {
         "question": "There is no correlation between X-ray appearance and clinical state of the patient with pneumonia in:",
@@ -141,19 +89,6 @@
         "topic_name": "Bacterial infection",
         "id": "3361e873-b74c-49fc-b151-d5daa1b381fc",
         "choice_type": "single"
-    },
-    {
-        "question": "A 26 year old presents with history suggestive of tuberculosis. On examination he has pleural effusion. All of the following parameters will be used for analysis of pleural fluid except?",
-        "exp": "Pleural effusion in TB could be a presentation of primary TB due to sub-pleural location of Ghon's focus or can present as extrapulmonary TB. Gene XPE is a nucleic acid amplification based test which in matter of few hours can tell if MTB is present and can also determine resistance. The values of LDH are taken in Light's criteria for pleural effusion to determine exudative nature of the fluid Adenosine deaminase has 90% sensitivity and 92 % specificity for determining the tubercular nature of fluid. Albumin values in serum and ascitic fluid are evaluated in patients of Ascites",
-        "cop": 3,
-        "opa": "Gene XPE",
-        "opb": "LDH",
-        "opc": "Albumin",
-        "opd": "ADA",
-        "subject_name": "Medicine",
-        "topic_name": "Bacterial infection",
-        "id": "d214b2a6-43fc-4f49-b9f5-74c0e283ffec",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not associated with Streptococcus?",
@@ -299,19 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is FALSE about Infectious mononucleosis",
-        "exp": "Atypical lymphocytosis -points diagnosis towards Infectious mononucleosis (EBV) (kissing disease) among the given other options. Essentials of Diagnosis Malaise, fever, and (exudative) sore throat Palatal petechiae, lymphadenopathy, splenomegaly, and, occasionally, a maculopapular rash Positive heterophile agglutination test (Monospot) Atypical large lymphocytes in blood smear; lymphocytosis Complications: hepatitis, myocarditis, neuropathy, encephalitis, airway obstruction from adenitis, hemolytic anemia, thrombocytopenia General Consideration EBV is ubiquitous; infects > 95% of the adult population worldwide and persists for the person's lifetime Infectious mononucleosis is a common manifestation of EBV and may occur at any age EBV is largely transmitted by saliva but can also be recovered from genital secretions Saliva may remain infectious during convalescence, for 6 months or longer after symptom onset The incubation period lasts several weeks (30-50 days) In the United States the incidence of EBV infection is declining although prevalence of EBV remains high for those aged 12-19 years Clinical Findings Symptoms and Signs Fever, sore throat, fatigue, malaise, anorexia, and myalgia typically occur in the early phase of the illness Physical findings include Lymphadenopathy (discrete, nonsuppurative, slightly painful, especially along the posterior cervical chain) Transient bilateral upper lid edema (Hoagland sign) Splenomegaly (in up to 50% of patients and sometimes massive) Conjunctival hemorrhage, exudative pharyngitis, uvular edema, tonsillitis, or gingivitis may occur Soft palatal petechiae may be noted Other manifestations Hepatitis Interstitial pneumonitis (sometimes with pleural involvement) Cholestasis Gastritis Kidney disease (mostly interstitial nephritis) Epiglottitis Nervous system involvement (in 1-5%)",
-        "cop": 1,
-        "opa": "Non-Suppurative, painless Lymphadenopathy",
-        "opb": "Maculo-papular rash or petechial rash",
-        "opc": "Lymphocytosis is usually demonstrable, with >10% atypical lymphocytes",
-        "opd": "Transient bilateral upper lid Edema",
-        "subject_name": "Medicine",
-        "topic_name": "Bacterial infection",
-        "id": "2b76718c-630a-43f6-93af-1fca5f45f074",
-        "choice_type": "multi"
-    },
-    {
         "question": "In a diagnosed lepromatous leprosy patient, the treatment was staed. After intake to drug skin lesions and fever develop within few days. Which type of hypersensitivity reaction leads to this manifestation?",
         "exp": "After intake of drug skin lesions and fever develop, means when you kill organism there is production of cytokines by the immune system. Cytokine responsible for inflammatory manifestation i. e. Type II lepra reaction / erythema nodosum leprosum. Two types of lepra reaction: Type I lepra Type II lepra is seen after drug intake i. e. drug is killing the bacteria. Pathology: Type III Hypersensitivity reaction Type II lepra reaction Type IV Hypersensitivity reaction Type 1 lepra reaction",
         "cop": 2,
@@ -377,19 +299,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are indications for stopping offending ATT drug permanently except?",
-        "exp": "Hyperuricemia and ahralgia caused by pyrazinamide can usually be managed by the administration of acetylsalicylic acid; however, pyrazinamide treatment should be stopped if the patient develops gouty ahritis. Individuals who develop autoimmune thrombocytopenia secondary to rifampicin therapy should not receive the drug thereafter. Similarly, the occurrence of optic neuritis with ethambutol is an indication for permanent discontinuation of this drug. For patients with symptomatic hepatitis and those with marked (five- to six fold) elevations in serum levels of aspaate aminotransferase, treatment should be stopped and drugs reintroduced one at a time after liver function has returned to normal.",
-        "cop": 4,
-        "opa": "Gout",
-        "opb": "Autoimmune Thrombocytopenia",
-        "opc": "Optic neuritis",
-        "opd": "Hepatitis",
-        "subject_name": "Medicine",
-        "topic_name": "Bacterial infection",
-        "id": "9c8c6db5-65e2-4733-810f-fe5685c8428e",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 45 year-old HIV-positive male presented with multiple red hemangioma-like lesions. Biopsy specimens show clusters of bacillithat stain positively with the Wahin-Starry stain. Which of the following could be the causative organism?",
         "exp": "In patients with AIDS, the development of multiple red hemangioma-like lesions points to Bacillary angiomatosis which is caused by Baonella henselae. Bacillary angiomatosis aka Bacillary epithelioid angiomatosis or epithelioid angiomatosis is a disease of severely immunocompromised patients Caused by B. henselae Characterized by neovascular proliferative lesions involving the skin and other organs. Occur primarily in HIV infected persons with CD4+ T cell counts of <100/mL Biopsy specimens show clusters of bacilli that stain positively with the Wahin-Starry stain Disseminated visceral disease is seen primarily in immunocompromised hosts but can occur in immunocompetent individuals Treatment - Erythromycin (500 mg PO qid for 3 months) or Doxycycline (100 mg PO bid for 3 months) B. henselaecauses- Bacillary angiomatosis & cat scratch fever Baonella bacilliformis causes- Oraya fever Baonella quintana causes- Trench fever",
         "cop": 3,
@@ -414,18 +323,5 @@
         "topic_name": "Bacterial infection",
         "id": "a73ba6f0-ecbb-4f54-b9ad-21c2c135c650",
         "choice_type": "single"
-    },
-    {
-        "question": "After returning from a bihday pay, within 6-8 hours a group of 7 friends began to develop non bloody diarrhoea which was associated with cramping abdominal pain and fever. They were admitted in emergency depament and the stool samples were sent and repos showed the presence of Salmonella enteritidis. All are true statements except:-",
-        "exp": "Salmonella enteritidis Gram negative, facultative anaerobe Causes nontyphoidal salmonellosis (NTS) but Enteric fever is caused by S. typhi/S. paratyphi Causes non-bloody diarrhoea which may be copious In healthy adults, disease is usually self-limiting and as the antibiotic therapy doesn't change the disease course it is not recommended Antibiotic therapy is advised in neonates and elderly people, who have more chances of developing bacteremia. Bacteremia occurs in < 10% cases Metastatic infections can occur in bones and joints No vaccination for Non Typhoidal Salmonellosis (NTS)",
-        "cop": 2,
-        "opa": "There is no vaccine available for this illness",
-        "opb": "They causes typhoid fever",
-        "opc": "Antibiotic therapy is not indicated.",
-        "opd": "Bacteraemia occurs in < 10% of cases.",
-        "subject_name": "Medicine",
-        "topic_name": "Bacterial infection",
-        "id": "1188a3bd-317e-41d3-a24b-c6efb696430a",
-        "choice_type": "multi"
     }
 ]

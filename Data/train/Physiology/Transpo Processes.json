@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Ionophores have all of the following actions except:",
-        "exp": "Ionophores- Large number of antibiotic substances, capable of inducing passage of specific ions across biological membranes. Process is called ionophoresis. E. g. valinomycin. Function as ion shuttles for the movement of ions across membranes. Form lipid-soluble complexes (Hydrophobic) with specific cations, which are carried through the mitochondrial membrane. E. g. valinomycin forms complex with K+ and the complex then readily passes through the membrane. Metabolic uncouplers (e. g. dinitrophenol) increase the permeability of mitochondria to protons (the mitochondrial membrane is otherwise impermeable to protons)",
-        "cop": 3,
-        "opa": "Abolish proton gradient",
-        "opb": "Inhibit ADP to ATP conversion",
-        "opc": "Hydrophilic in character",
-        "opd": "Abolish pH gradient",
-        "subject_name": "Physiology",
-        "topic_name": "Transpo Processes",
-        "id": "735620c4-a92c-4cc8-89c0-7973ce2eb3b3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is the \"regulated membrane transfer\"?",
         "exp": "Regulated membrane transfer is the transpo across/through the membrane which is regulated by a specific signal or ligand. Exocytosis is a regulated membrane transfer. E. g. Neurotransmitter secretion at a synaptic junction. The transmitter is released only when the signal/impulse arrives at the nerve terminal. Insulin secretion, by exocytosis, occurs when a signal, i. e. increased blood glucose, is delivered to the pancreatic beta cell. Options (B), (C), and (D) do not occur after a specific signalling ligand has arrived at those respective cells.",
         "cop": 1,
@@ -37,19 +24,6 @@
         "topic_name": "Transpo Processes",
         "id": "db6db397-a969-43aa-aeef-be4f15e78819",
         "choice_type": "single"
-    },
-    {
-        "question": "Passive transfer of solvent occurs in:",
-        "exp": "The diffusion of solvent molecules into a region in which there is a higher concentration of a solute to which the membrane is impermeable--is called osmosis Diffusion: net flux of solute paicles from areas of high concentration to areas of low concentration. Pinocytosis is an active process (cell drinking)",
-        "cop": 1,
-        "opa": "Osmosis",
-        "opb": "Diffusion",
-        "opc": "Pinocytosis",
-        "opd": "All of the above",
-        "subject_name": "Physiology",
-        "topic_name": "Transpo Processes",
-        "id": "9364b2da-5f7f-4e43-b588-17f6cfdbbd10",
-        "choice_type": "multi"
     },
     {
         "question": "In the sodium-calcium exchanger (NCX), the ratio of Na+: Ca++ exchange per event is:",
@@ -117,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Involved in transpo across nucleus:",
-        "exp": "Large and elaborate nuclear pore complexes (NPCs) perforate the nuclear envelope in all eukaryotes. Each NPC is composed of a set of approximately 30 different proteins, or nucleoporins Proteins to be impoed (cargo molecules) to nucleus carry a nuclear localization signal (NLS) To initiate nuclear impo, most nuclear localization signals must be recognized by nuclear impo receptors called impoins Proteins similar to impoins, referred to as expoins, are involved in the expo of many macromolecules that carry nuclear expo signals The family of impoins and expoins are referred to as karyopherins Monomeric GTPase Ran is required for both nuclear impo and expo",
-        "cop": 4,
-        "opa": "Impoins",
-        "opb": "Local signals",
-        "opc": "Ran proteins",
-        "opd": "All of the above",
-        "subject_name": "Physiology",
-        "topic_name": "Transpo Processes",
-        "id": "8544684c-2e59-4d80-ac11-784b9ac2bd7a",
-        "choice_type": "multi"
-    },
-    {
         "question": "In a sedentary individual, greatest propoion of heat generation is in the form of:",
         "exp": "BMR Even when a person is at complete rest. Considerable energy is required to perform all the chemical reaction of body. This minimum level of energy required to exist is k/a - BMR, and accounts for 50 - 70 % energy expenditure in sedentary individual. Normal BMR - 1 Kcal / Kg / Hr. Per hour - 65 - 70 Kcal According to BSA - 37 - 40. Kcal / M2 / HR In men BMR accounts for - 1700. Kcal In women BMR accounts for - 1500 Kcal",
         "cop": 1,
@@ -141,19 +102,6 @@
         "topic_name": "Transpo Processes",
         "id": "d08b4204-b330-48c1-9346-5eaa281fdbbf",
         "choice_type": "single"
-    },
-    {
-        "question": "Which statement is true for both pinocytosis and phagocytosis?",
-        "exp": "Both pinocytosis and phagocytosis involve movement of the plasma membrane. Pinocytosis is cell drinking, whereas phagocytosis is cell eating. Both events require the recruitment of actin and other cytoskeleton elements. Phagocytosis is not spontaneous and is selective, being triggered by specific receptor-ligand interactions and Endocytotic vesicles fuse with ribosomes that release hydrolases into the vesicles",
-        "cop": 1,
-        "opa": "Involves the recruitment of actin filaments",
-        "opb": "Occurs spontaneously and nonselectively",
-        "opc": "Endocytotic vesicles fuse with ribosomes that release hydrolases into the vesicles",
-        "opd": "Is only observed in macrophages and neutrophils",
-        "subject_name": "Physiology",
-        "topic_name": "Transpo Processes",
-        "id": "720ba67c-d1a0-4ed4-8c95-d495f535e681",
-        "choice_type": "multi"
     },
     {
         "question": "The SGLT-1 cotranspoer is present in GIT and it transpos:",
@@ -219,44 +167,5 @@
         "topic_name": "Transpo Processes",
         "id": "50fde97c-b9a3-4512-9ba3-97b8c99402f5",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following transpo processes follow 'saturation kinetics' except:",
-        "exp": "Simple diffusion occurs by viue of kinetic energy of the paicles. Thus, it will never stop, except at absolute zero temperature; neither will it show any saturation kinetics. Saturation kinetics are exhibited by those transpos which are mediated by carriers. Carriers have finite number of binding sites, to bind and transpo a substance. When all the binding sites are occupied, the carrier is said to be \"saturated\". Options A, B, and D are carrier mediated transpos.",
-        "cop": 3,
-        "opa": "Facilitated diffusion",
-        "opb": "Na+- Ca2+exchanger",
-        "opc": "Simple diffusion",
-        "opd": "Na+- coupled active transpo",
-        "subject_name": "Physiology",
-        "topic_name": "Transpo Processes",
-        "id": "05c419ee-c278-477e-9b44-49cb4833ebe1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following substances crosses capillary walls primarily through water-filled clefts between the endothelial cells?",
-        "exp": "Because O2, CO2 and CO are lipophilic, they cross capillary walls primarily by diffusion through the endothelial cell membranes. Glucose is water soluble; it cannot cross through the lipid component of the cell membrane and is restricted to the water-filled clefts, or pores, between the cells.",
-        "cop": 4,
-        "opa": "O2",
-        "opb": "CO2",
-        "opc": "CO",
-        "opd": "Glucose",
-        "subject_name": "Physiology",
-        "topic_name": "Transpo Processes",
-        "id": "d8d74a40-9015-48cb-a48f-45146dd86852",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Regarding transpo of Ca++ across a membrane, which of the following is true?",
-        "exp": "Calcium transpo occurs by secondary active transpo. Hence, option A is incorrect It is an antipo or counter transpo; occurring as Na+/ Ca++ exchanger. Hence, option B is incorrect It is primarily aimed at maintaining a low cytosolic Ca++. Thus, option C is incorrect. To maintain a low intracytoplasmic Ca++, calcium is extruded out of the cell or pumped out from cytosol into the endoplasmic reticulum. Ca2+ ATPase - The enzyme that transpos Ca2+ out of the cytoplasm and into the sarcoplasmic reticulum of muscle cells. These are called P-type ATPases because they form a key phosphorylated intermediate.",
-        "cop": 4,
-        "opa": "It is a passive transpo",
-        "opb": "It is a sympo",
-        "opc": "Maintains a high intracellular Ca++ concentration",
-        "opd": "Requires hydrolysis of ATP",
-        "subject_name": "Physiology",
-        "topic_name": "Transpo Processes",
-        "id": "05b22f8a-162c-4d8c-be93-945710006c5b",
-        "choice_type": "multi"
     }
 ]

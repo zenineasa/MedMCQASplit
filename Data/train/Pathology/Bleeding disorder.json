@@ -1,18 +1,5 @@
 [
     {
-        "question": "All of the following can cause megakaryocytic thrombocytopenia, except:",
-        "exp": "Disseminated Intravascular Coagulation (DIC) DIC is an acute, subacute, or chronic thrombohemorrhagic disorder characterized by the excessive activation of coagulation and the formation of thrombi in themicrovasculature of the body. It occurs as a secondary complication of many different disorders. Patients with DIC can present with prolonged coagulation times, thrombocytopenia, high levels of fibrin degradation products (FDPs), elevated D-dimer levels. Microangiopathic pathology (schistocytes) on peripheral smears are suggestive findings for DIC. Aplastic anemia - Reduction in the number of Hematopoietic stem cells bone marrow is hypoactive amegakaryocytic",
-        "cop": 3,
-        "opa": "Idiopathic thrombocytopenia purpura",
-        "opb": "Systemic lupus erythematosus",
-        "opc": "Aplastic anemia",
-        "opd": "Disseminated intravascular coagulation (DIC)",
-        "subject_name": "Pathology",
-        "topic_name": "Bleeding disorder",
-        "id": "46f077c2-55be-4506-accd-9d88bbb504d4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Patient with hemophilia A have bleeding disorder because of:",
         "exp": "Hemophilia A - X- linked disorder -90% cases- deficiency of factor 8 -10% cases - functional defect of factor 8 -Intrinsic Pathway affected -Factor VIIIa complex is the most impoant activator of factor X required for conversion of prothrombin to thrombin. -In symptomatic cases there is a tendency toward easy bruising and massive hemorrhage after trauma or operative procedures",
         "cop": 2,
@@ -24,32 +11,6 @@
         "topic_name": "Bleeding disorder",
         "id": "2bfa673b-a003-4de5-b1c0-e06014b73a2c",
         "choice_type": "single"
-    },
-    {
-        "question": "Contraindication for platelet transfusion are all except:-",
-        "exp": "Platelet transfusion is done in:- Thrombocytopenia Non functional Platelet Platelet is not given in thrombocytopenic condition where the cause of low platelet is due to presence of antibody against antigen on platelet. Such as:- Heparin Induced Thrombocytopenic (HIT) Immune Thrombocytopenic (ITP) In condition like TTP (Thrombotic Thrombocytopenic purpura), we avoid Platelet transfusion because during platelet transfusion, there is increase risk of thrombosis. Therefore Platelet transfusion is CI:- TTP ITP HIT",
-        "cop": 1,
-        "opa": "Flavivirus infection",
-        "opb": "Thrombotic thrombocytopenic purpura",
-        "opc": "Immune thrombocytopenic purpura",
-        "opd": "Heparin induced thrombocytopenia",
-        "subject_name": "Pathology",
-        "topic_name": "Bleeding disorder",
-        "id": "c270bfac-55a1-4ced-8ec3-92fa7985814b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are seen in clotting factor deficiency EXCEPT:",
-        "exp": "D/o Secondary platelet plug(Coagulation d/o)- Large hematomas after trauma, Prolonged bleeding after surgery, Haemahrosis",
-        "cop": 3,
-        "opa": "Large hematomas after trauma",
-        "opb": "Prolonged bleeding after surgery",
-        "opc": "Spontaneous purpura",
-        "opd": "Haemahrosis",
-        "subject_name": "Pathology",
-        "topic_name": "Bleeding disorder",
-        "id": "d5279b7e-45f9-4952-aa88-dd2198a9b6b1",
-        "choice_type": "multi"
     },
     {
         "question": "Hemophilia B is due to deficiency of:",
@@ -65,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Thrombotic event is seen in all of following except:",
-        "exp": "*PNH is seen due to PIGA gene defect - Pancytopenia Altered function of platelets - | risk of thrombosis Especially in cerebral & hepatic veins - | Moality *DIC is thrombo-hemorrhagic disorder *Heparin-induced thrombocytopenia has ab produced against platelet factor 4. Also associated with | risk of thrombosis *In ITP, Immune dysfunction characterized by ab formation against Platelet antigen. - Pt sequestration Coombs +ve, Hemolytic anemia -| platelet count - Bleeding",
-        "cop": 3,
-        "opa": "Paroxysmal nocturnal hemoglobinuria",
-        "opb": "Disseminated intravascular coagulation",
-        "opc": "Idiopathic thrombocytopenic purpura",
-        "opd": "Heparin induced thrombocytopenia",
-        "subject_name": "Pathology",
-        "topic_name": "Bleeding disorder",
-        "id": "6ab95bf9-dc23-4daf-a226-4943ddfecc15",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 14-year-old boy presents with acute onset of right flank pain, which developed after he helped his father paint the ceiling of his bedroom. Physical examination demonstrates an area of ecchymosis in the right flank that is tender to palpation. The patient has a lifelong history of easy bruising. His brother shows the same tendency. The serum level of clotting factor VIII is less than 2% of normal. Which of the following is the most likely underlying mechanism for bleeding tendency in this patient?",
         "exp": "Hemophilia A -X-linked recessive disorder of blood clotting that results in spontaneous bleeding, paicularly into joints, muscles, and internal organs and easy bruising. -Classic hemophilia results from mutations in the gene encoding factor VIII. -Intrinsic Pathway affected -Factor VIIIa complex is the most impoant activator of factor X required for conversion of prothrombin to thrombin.",
         "cop": 4,
@@ -89,19 +37,6 @@
         "topic_name": "Bleeding disorder",
         "id": "52d59d7f-a560-4615-99e5-62f05f2fef75",
         "choice_type": "single"
-    },
-    {
-        "question": "The following test may be abnormal in DIC, except:",
-        "exp": "Disseminated intravascular coagulation (DIC) acquired disorder characterised by: Widespread systemic activation of coagulation with formation of microthrombi in small blood vessels Bleeding diathesis secondary to depletion of coagulation factors and platelets Causes of DIC: Sepsis or severe infections Trauma especially of brain or crush injury Obstetric conditions: amniotic fluid embolism, abruptio placentae, septic aboion, eclampsia, intrauterine retention of dead foetus Disseminated solid cancers, acute promyelocytic leukemia Severe haemolytic transfusion reactions Thermal injury- heat stroke, extensive burns Snake bite e. g: Russell's viper7 Giant haemangioma (Kasabach-Merritt syndrome) C/F Brain - mc affected confusion, altered sensorium, dizziness, coma Heart - |CO / dyspnea Kidney - Acute tubular necrosis Lungs - Difficulty in breathing, hypoxemia Adrenal Gland - Hemorrhage - Waterhouse- friderichsen syndrome Lab findings- Anemia and thrombocytopenia |LDH | Unconjugated bililrubin Peripheral Smear shows Shistiocytes Prolonged BT, PT and APTT FDP and D-dimer: Increased.",
-        "cop": 4,
-        "opa": "PT",
-        "opb": "APTT",
-        "opc": "D-dimer",
-        "opd": "Clot solubility",
-        "subject_name": "Pathology",
-        "topic_name": "Bleeding disorder",
-        "id": "e4061232-3418-4984-8074-b880d6931ad5",
-        "choice_type": "multi"
     },
     {
         "question": "Investigation to distinguish between pregnancy acquired hemophilia A and lupus anticoagulant?",
@@ -117,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "PTT is prolonged in all except:-",
-        "exp": "a. PTT is used to monitor the activity of Intrinsic pathway. (A.) Hemophilia (B.) Von Willebrand disease C.) Christmas disease (D.) ITP - Idiopathic Thrombocytopenic Purpura most common type of hemophilia is Hemophilia A. Hemophilia A - Factor VIII deficiency | | a. PTT Associated with reduction in the half life of Factor VIII | | a. PTT Factor IX deficiency || a. PTT Disease associated with |platelets, not a clotting factor problem. Parameters affected in ITP a. Increase bleeding time* b. Decrease platelet count",
-        "cop": 4,
-        "opa": "Hemophilia A",
-        "opb": "Von Willebrand disease",
-        "opc": "Christmas disease",
-        "opd": "ITP",
-        "subject_name": "Pathology",
-        "topic_name": "Bleeding disorder",
-        "id": "a903c4dc-dd0c-446d-8801-2a4609505f35",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 40-year-old female presented with acute painful swelling of left leg. USG of left leg showed deep venous thrombosis. Which of the following abnormality is least likely to be involved in this condition?",
         "exp": "Factor V Leiden mutation results in an abnormal form of factor V that is resistant to protein C. It is associated with increased risk for recurrent thromboembolism. The most common thromobphilic genotypes - point mutations in the factor V gene (Factor V Leiden) and prothrombin gene (G20210A variant). Rare inherited causes of primary hypercoagulability include deficiencies of anticoagulants such as antithrombin III, protein C, or protein S. Inherited or acquired causes of elevated homocysteine levels (hyperhomocysteinemia) can be prothrombotic. Prothrombotic effects of homocysteine may be due to ester linkages formed between homocysteine metabolites and a variety of proteins, including fibrinogen.",
         "cop": 3,
@@ -141,32 +63,6 @@
         "topic_name": "Bleeding disorder",
         "id": "a2a818cd-0ac1-46c2-8e45-b3c1fc85bdb1",
         "choice_type": "single"
-    },
-    {
-        "question": "In von Willebrands disease there is:",
-        "exp": "Von Willebrand disease (VWD) - - Autosomal dominant disorder - The main source of plasma von-Willebrand factor is endothelial cells. - v. WF circulates in the plasma in association with factor VIII. - Patients with VWD have defects in platelet function despite a normal platelet count - Deficiency of von willebrand factor (VWF -promote platelet adherence and activation) causes | platelet adhesion ( |BT) and | Intrinsic pathway activity ( | a. PTT). - von willebrand factor can also be found in: Platelet granules Subendothelium Endothelial cells within cytoplasmic vesicles called Weibel-Palade bodies C/F Spontaneous mucosal bleeding - Petechiae /purpura /epistaxis / melena excessive bleeding from wounds menorrhagia Lab findings - Platelet count - Normal Prothrombin time - Normal Bleeding time - Increased Activated paial thromboplastin time (a. PTT)-Increased Rx - Desmopressin for mild form - Cryoprecipitate for severe form",
-        "cop": 1,
-        "opa": "Isolated prolonged PTT with normal PT",
-        "opb": "Normal PTT with normal PT",
-        "opc": "Prolongation of both PT and PTT",
-        "opd": "Prolongation of thrombin time",
-        "subject_name": "Pathology",
-        "topic_name": "Bleeding disorder",
-        "id": "4f2812df-ab9a-4167-92a0-8ee1adaa07d3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Thrombotic event is seen in all of the following, except:",
-        "exp": "Primary or idiopathic ITP -Two clinical subtypes: acute and chronic. -Both are autoimmune disorders in which platelet destruction results from the formation of antiplatelet autoantibodies. -Associated with increased bleeding tendency and not thrombosis. PNH The triad of hemolysis, pancytopenia, and thrombosis is unique to this condition. Thrombosis is the leading cause of death. DIC characterized by activation of the coagulation sequence that leads to the formation of microthrombi throughout the microcirculation of the body. Heparin-Induced Thrombocytopenia Two types; Type I thrombocytopenia which occurs rapidly after the onset of therapy, is moderately severe, Type II thrombocytopenia is more severe and occurs 5 to 14 days after initiation of therapy. It can, paradoxically, lead to life-threatening venous and aerial thrombosis. 4T SCORE FOR HIT: Thrombocytopenia Timing Thrombosis Other cause of Thrombocytopenia In HIT antibodies are targeted against PF-4(platelet factor-4).",
-        "cop": 3,
-        "opa": "Paroxysmal nocturnal hemogloninuria",
-        "opb": "Disseminated intravascular coagulation",
-        "opc": "Immune thrombocytopenic purpura",
-        "opd": "Heparin induced thrombocytopenia",
-        "subject_name": "Pathology",
-        "topic_name": "Bleeding disorder",
-        "id": "3b6201fa-84c9-467b-a265-832bf5df87b1",
-        "choice_type": "multi"
     },
     {
         "question": "A 9-year-old girl develops widespread pinpoint skin hemorrhages. She recovered from a fl u-like illness 1 week earlier. Laboratory findings reveal a platelet count of 20, 000/mL but no other abnormalities. Her bone marrow shows an increased number of megakaryocytes. The platelet count is normal after 2 months. Which of the following is the appropriate diagnosis?",

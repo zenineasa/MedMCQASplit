@@ -26,58 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements is false regarding the drug resistance?",
-        "exp": "Mutational drug resistance Transferable drug resistance One drug resistance at a time Multiple drug resistance Low degree resistance High degree resistance Can be overcome by high drug dose High dose ineffective Drug combinations can prevent Combinations cannot prevent Resistance does not spread Spreads to same or different species Mutants may be defective Not defective Virulence may be low Virulence not decreased",
-        "cop": 2,
-        "opa": "In mutational drug resistance one drug resistance at a time is seen",
-        "opb": "Virulence is decreased in transferable resistance",
-        "opc": "Drug combinations can prevent Mutational drug resistance",
-        "opd": "High degree of resistance is seen in transferable drug resistance",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa-2 and Pa-3 (Sterilization and Bacterial Genetics)",
-        "id": "651e7afe-ad61-4dd8-82a9-41e3496a69e0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Intermittent sterilization",
-        "exp": "Tyndallization or Intermittent sterilization: Sugar, Egg, Serum and Gelatin containing media are sterilized by heating at 100oC for 20 mins on three successive days, using moist heat First day all vegetative forms are killed. Second day germinating spores and remaining if present killed on final day. It is carried out in a Koch and Arnold steam sterilizer. Media which contain any ingredient/component not able to tolerate the temperature of an autoclave are sterilized by tyndallization. Eg. TCBS, XLD, DCA, sugar solutions for fermentation tests and gelatin containing media. Inspissation or Fractional sterilization: Heating at 80-85oC for 30 mins on three successive days.",
-        "cop": 4,
-        "opa": "Pasteurization",
-        "opb": "Boiling",
-        "opc": "Autoclaving",
-        "opd": "Tyndallization",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa-2 and Pa-3 (Sterilization and Bacterial Genetics)",
-        "id": "0b2c7844-b03f-4fb3-908a-91c05a3a5686",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Hot air oven is used for sterilization of all except -",
-        "exp": "Hot air oven - most widely used method of sterilization by dry heat Temperature for sterilization - 160degC for 2 hours Control used - spores of Bacillus subtilis Materials sterilized - 1) Glassware like glass syringes, petri dishes, flasks, pipettes & test tubes 2) Surgical instruments like scalpels, forceps etc. 3) Chemicals such as liquid paraffin, fats, glycerol etc. Culture Media are sterlized by Autoclaving.",
-        "cop": 3,
-        "opa": "Glass wares",
-        "opb": "Dusting Powder",
-        "opc": "L. J. media",
-        "opd": "Liquid paraffin",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa-2 and Pa-3 (Sterilization and Bacterial Genetics)",
-        "id": "388763d0-55e2-4867-acdb-78e3edeba7e2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statements is false regarding transposons?",
-        "exp": "Transposon - Jumping gene - between chromosome & extra chromosomal DNA. Discovered by Barabara Mc. Clintock. Hair pin like - Centre +ve and inveed repeats on both ends. Carry drug resistance genes Not replicative DNA homology not required for transfer. Relatively sho transposons (0. 75-2. 0 kbp long) known as inseion elements",
-        "cop": 3,
-        "opa": "They are also known as \"jumping genes\"",
-        "opb": "It was first discovered by Barbara Mc. Clintock",
-        "opc": "Long transposons are known as inseion sequences",
-        "opd": "The ends of transposons carry \"inveed repeat\" sequences",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa-2 and Pa-3 (Sterilization and Bacterial Genetics)",
-        "id": "1c18ee06-01e8-4bf3-8bbc-0f688d8af5ce",
-        "choice_type": "multi"
-    },
-    {
         "question": "Phenol Coefficient indicates -",
         "exp": "Phenol coefficient - Efficiency of a disinfectant is compared with that of phenol Greater the phenol coefficient, more will be efficiency of disinfectant.",
         "cop": 1,
@@ -89,19 +37,6 @@
         "topic_name": "General Microbiology Pa-2 and Pa-3 (Sterilization and Bacterial Genetics)",
         "id": "f790b758-a446-41fa-89e3-2a9c8a476ffe",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements regarding disinfectant is not true -",
-        "exp": "Phenolic compounds are bactericidal or bacteriostatic and some are fungicidal also. They act by denaturing proteins and disrupting cell membranes. They are effective in the presence of organic material and remain active on surfaces long after application.",
-        "cop": 4,
-        "opa": "Hypochlorites are bactericidal and inactivated by organic matter",
-        "opb": "Glutaraldehyde is sporicidal and not inactivated by organic matter",
-        "opc": "Formaldehyde is bactericidal, sporicidal and virucidal",
-        "opd": "Phenol is bactericidal and readily inactivated by organic matter",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa-2 and Pa-3 (Sterilization and Bacterial Genetics)",
-        "id": "b95f9168-e1cc-47bb-8b72-2323bf29934d",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is an intermediate level disinfectant?",
@@ -156,45 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Out of the following the true statement regarding sterilization is -",
-        "exp": "Option 1 Liquid paraffin is sterilized by Hot air oven (dry heat). Option 2 Glass ware like test tube, pipette, flask and glass syringes. Fixed oil glycerin, liquid paraffin, propylene glycol and zinc oxide etc. sterilized by Hot air oven (dry heat). Option 3 Filtration (Membrane filters) is an excellent way to remove the microbial population in solutions of heat-labile materials like vaccine, antibiotics, toxin, serum and sugar solution as well as for purification of air in laminar air flow systems. Option 4 Pasteurization is an example of sterilization at a temperature <100degC. Methods: 63degC for 30 min (Holder method) and 72degC for 15-20 sec (Flash method) followed by rapid cooling to 13degC",
-        "cop": 1,
-        "opa": "Dry heat is the best method of sterilization of liquid paraffin",
-        "opb": "All glass wares are best sterilized by boiling at 100o C",
-        "opc": "Bacterial vaccines are best sterilized by ethylene oxide",
-        "opd": "Pasteurization of milk by flash method is done by heating at 63degree C for 30 minutes.",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa-2 and Pa-3 (Sterilization and Bacterial Genetics)",
-        "id": "6a2d52e6-e853-42ad-877d-94efeaabf734",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is true about holders method of pasteurization",
-        "exp": "Pasteurization: Pasteurization is a technique in which heat is applied to liquids to kill potential agents of infection and spoilage, while at the same time retaining the liquid's flavor and food value. Pasteurization is an example of sterilization at a temperature <100degC. Methods: 63degC for 30 min (Holder method) and 72degC for 15-20 sec (Flash method) followed by rapid cooling to 13oC (Better method) Pasteurization kills nearly 90% of bacteria in milk except ceain bacteria like Coxiella burnetti which is resistant to Holder's method of sterilization but killed by Flash method of Sterilization.",
-        "cop": 2,
-        "opa": "It kills all bacteria and spores",
-        "opb": "It kills all bacteria except Coxiella burnetti",
-        "opc": "It kills 95% of microorganisms",
-        "opd": "All bacteria are destroyed",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa-2 and Pa-3 (Sterilization and Bacterial Genetics)",
-        "id": "cfa9c6e4-d672-4857-9fe5-9ac1da144c21",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Sputum can be disinfected by all except",
-        "exp": "Autoclaving is the safest and most effective method for sputum disinfection Incineration is an effective alternative. Boiling used after an initial disinfection by 5% phenol (carbolic acid) or its derivatives like Lysol and Cresol.",
-        "cop": 2,
-        "opa": "Autoclaving",
-        "opb": "Chlorhexidine",
-        "opc": "Boiling",
-        "opd": "Cresol",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa-2 and Pa-3 (Sterilization and Bacterial Genetics)",
-        "id": "fce54111-8517-4e59-a7b5-07fb98590600",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is an impoant disinfectant on account of effectively destroying gram positive and gram negative bacteria viruses and even spores at low pH levels",
         "exp": "1. Disinfection action of chlorine compounds is by release of free chlorine When hypochlorites are added to water, Hypochlorous acid is formed which is strong oxidizing agent and effective disinfectant Action is stable in even low pH. Hypochlorite (1%) used for used for routine serological disinfection, should not be used in presence of formaldehyde as it is carcinogenic. 2. Major limitations of chlorine compounds are that they are: Ineffective if used at an alkaline pH Less effective in the presence of excess organic matter Relatively unstable, especially if exposed to light.",
         "cop": 4,
@@ -232,19 +128,6 @@
         "topic_name": "General Microbiology Pa-2 and Pa-3 (Sterilization and Bacterial Genetics)",
         "id": "0e0981a0-6161-4d9d-b07e-9b0ebd183e7d",
         "choice_type": "single"
-    },
-    {
-        "question": "According spaulding classification system of sterilization, following is true except -",
-        "exp": "Clinical device Definition Example Infectious risk Critical device Medical device intended to enter a normal sterile environment, tissue or vasculature Surgical Instruments, cardiac and urinary catheters, Implants, eye & dental instruments, High (to be sterilized) Semi-critical device Medical device intended to come in contact with mucous membranes or minor skin breaches Respiratory therapy & anaesthesia equipments, endoscopes, laryngoscope, tonometers, rectal/vaginal /esophageal probes etc. High, Intermediate (sterlized / HLD) Non- critical devices Medical devices that comes in contact with intact skin BP cuff, ECG electrodes, bedpans, crutches. Stethoscope, thermometer Low (ILD/LLD) Medical equipments Device or component of a device that does not typically come in direct contact with patient Examination table, computers Low (LLD)",
-        "cop": 2,
-        "opa": "\"Non-critical devices\" come into contact with intact skin",
-        "opb": "Semicritical equipment need low-level sterilization",
-        "opc": "\"Semi-critical devices\" come into contact with non-sterile mucous membranes or non-intact skin",
-        "opd": "Cardiac catheter is critical equipment",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa-2 and Pa-3 (Sterilization and Bacterial Genetics)",
-        "id": "63054732-9832-46ee-8445-961588c51018",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following used as skin antiseptic?",

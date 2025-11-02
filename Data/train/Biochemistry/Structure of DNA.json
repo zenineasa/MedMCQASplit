@@ -26,32 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "If a 4 nucleotides sequence code for an amino acid instead of 3, then theoretically how many unique amino acids could be coded by such a system?",
-        "exp": "Ans. d. 256 (Ref: Harper 28/e p353). If there would have been two nucleotides in each codon, the chance of their varied combination will be 42, i. e. 16, and three nucleotide in each codon means there will occur 43, i. e. 64 codons are possible. According to the above calculation, if there occurs 4 nucleotides in a codon, the chance of their varied combination will be 44, i. e. 256. Number of Nucleotides in Codon. Number of Coded Amino Acids242= 16343= 64444= 256",
-        "cop": 4,
-        "opa": "16",
-        "opb": "64",
-        "opc": "128",
-        "opd": "256",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure of DNA",
-        "id": "da92acb1-a7fc-4c23-883f-631d8d6a63f6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Molecular interaction, found in the structure of DNA-",
-        "exp": "Ans. is 'd' i. e., All of the aboveo Bonds involved in DNA structure are -i) With in nucleotides: Glycosidic bond between carbon-1 of pentose sugar (deoxyribose) and nitrogen-9 of purine base or nitrogen-1 of pyrimidine base. ii) Between two strands of DNA; The two chains (strands) are held together by hydrogen bonds between complementary pairs of bases. Adenine is always paired with thymine by formation of two hydrogen bonds and Guanine is always paired with cytosine by formation of three hydrogen bonds. Between suecesive nucleotides: Successive nucleotides in a strand of DNA are attached to each other by 51-31 phosphodiester bonds. Carbon-31 and -51 of deoxyribose subunits are involved in ester linkages with an inorganic phosphate to form a 31, 51 phosphodiester bond (a covalent bond). Thus alternating phosphate and deoxy ribose units form the backbone structure of DNA while purine and pyrimidine bases are stacked inside. Base-staking interactions: The bases (purines and pyrimidines) lie flat in the interior, stacked on top of one another. They interact with one another through vander waals forces and hydrophobic interactions. Collectively these two are known as base-stacking interactions.",
-        "cop": 4,
-        "opa": "Hydrogen bond",
-        "opb": "Glycosidic bond",
-        "opc": "Covalent interactions",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure of DNA",
-        "id": "c09c7854-90b6-4ac5-8556-4e2bdd1ab14a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Same amino acid is coded by multiple codons due to:(AIIMS May 2012, Nov 2011)",
         "exp": "Ans. a. Degeneracy (Ref: Harper 29/e p190, 396, 28/e p354). Degeneracy is the redundancy of the genetic code, where more than one triplet codes one amino acid. (All. MS May 2012, November 2011, November 2006 Repeat). Degeneracy. Degeneracy is the redundancy of the genetic codeQ. The genetic code has redundancy but no ambiguityQ. The codons encoding one amino acid may differ in any of their three positionsQ. There are three amino acids encoded by six different codons: serine, leucine and arginineQ. Only two amino acids are specified by a single codonQ. One of these is the amino-acid methionine, specified by the codon AUG, which also specifies the start of translation: the other is tryptophan, specified by the codon UGGQ. The degeneracy of the genetic code accounts for the existence of synonymous mutations. Degeneracy results because there are more codons than encodable amino acidsQ. Codon. Initiation codon is AUG (Methionine)QTermination codons: UAA (Ochre), UAG (Ambre), UGA (Opal)QCharacteristics of the Genetic Code. The genetic code is unambiguous: each codon specifies one amino acid onlyQ. The code is degenerate: One amino acid maybe specified by more than one codonQ. In most cases, the first two bases perform sufficient coding, the third (or wobble) base playing a minor roleQ. Codons with a similar sequence specify amino acids with similar chemical propertiesQ.",
         "cop": 1,
@@ -89,19 +63,6 @@
         "topic_name": "Structure of DNA",
         "id": "ce2ddd03-f5bc-4e15-a53f-0e32f85192ed",
         "choice_type": "single"
-    },
-    {
-        "question": "DNA model described by Watson and crick was?",
-        "exp": "Ans. (c) Right handed anti parallel. Ref Lippincott's 4/e, chapter 29",
-        "cop": 3,
-        "opa": "Right handed parallel",
-        "opb": "Left handed anti parallel",
-        "opc": "Right handed anti parallel",
-        "opd": "Left handed parallel",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure of DNA",
-        "id": "3fa9d6a4-4bfc-4269-a72c-001d6b6d5d10",
-        "choice_type": "multi"
     },
     {
         "question": "Mitochondiral DNA is -",

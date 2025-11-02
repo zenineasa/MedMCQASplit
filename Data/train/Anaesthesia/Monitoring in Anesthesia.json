@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are the Complication of CVP line except:",
-        "exp": "Ans: A (Airway injury) Complications of central venous pressure line. Mechanical Vascular injury (arterial or venous) Cardiac tamponade Nerve injury Arrhythmias3. Respiratory compromise (most common in subclavian line) Airway compression from hematoma Pneumothorax. Thromboembolic {least common in subclavian line) Venous thrombosis Pulmonary embolism Arterial thrombosis and embolism Catheter or guide wire embolism Air embolism Infectious (least common in subclavian line) Insertion site infection Catheter infection Bloodstream infection Endocarditis. Delayed complications Venobronchial fistua Pseudoaneurysm Carotid artery-internal jugular vein fistula Aortoarterial fistula",
-        "cop": 1,
-        "opa": "Airway injury",
-        "opb": "Haemothroax",
-        "opc": "Air embolism",
-        "opd": "Septicemia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Monitoring in Anesthesia",
-        "id": "a4e05155-0afe-411c-91b2-8fc98c95aae2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Aschners reflex is seen in",
         "exp": "Aschners reflex is also called occulocardiac reflex. Aschners reflex is called oculocardiac reflex. The Oculocardiac reflex, also known as Aschner phenomenon, Aschner reflex, or Aschner-Dagnini reflex, is a decrease in pulse rate associated with traction applied to extraocular muscles and/or compression of the eyeball. The reflex is mediated by nerve connections between the ophthalmic branch of the trigeminal cranial nerve the ciliary ganglion, and the vagus nerve of the parasympathetic nervous system. Nerve fibres from the maxillary and mandibular divisionsof the trigeminal nerve have also been documented. These afferents synapse with the visceral motor nucleus of the vagus nerve, located in the reticular formation of the brain stem. The efferent poion is carried by the vagus nerve from the cardiovascular centerof the medulla to the heart, of which increased stimulation leads to decreased output of the sinoatrial node. This reflex is especially seen children, paicularly during strabismus correction surgery. However, this reflex may also occur with adults. Bradycardia, junctional rhythm and asystole, all of which may be life-threatening, can be induced through this reflex. This reflex has been seen to occur during many pan facial trauma surgeries due to stimulation of any of the three branches of trigeminal nerve.",
         "cop": 4,
@@ -65,45 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All true about interaction of reading of spo2 and methemoglobinaemia, except-",
-        "exp": "Met Hb absorb red and infrared wavelengths of light in a 1: 1 ratio corresponding to an Sp. O2 of approximately 85%. Therefore, increases in Met Hb produce an underestimation when Sp. O2> 70% and an overestimation when Sp. O2 <70%.",
-        "cop": 4,
-        "opa": "Met. Hb absorbs red and infrared wavelength of light in a 1: 1 ratio corresponding",
-        "opb": "Increase in Methb produce an underestimation when spo2 > 70%",
-        "opc": "Increase in Met Hb produce an overestimation when spo2 <70%",
-        "opd": "Does not get affected in Methemoglobinaemia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Monitoring in Anesthesia",
-        "id": "2147ce26-7eb0-4a9f-a0ad-6299d97bfee9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Phase 1 in this normal capnograph represent which pa of expiration:-",
-        "exp": "Cellular metabolism produces carbon dioxide, while the lungs work to eliminate it from the body. The balance between production and elimination can be followed in the rise and fall of Et. CO2 as displayed by the capnogram. More specifically, Et. CO2waveforms provide clinicians with a tool for quick and reliable diagnoses of common pulmonary pathophysiology. Generally, Et. CO2is displayed as a waveform with paial pressure of CO2on the y-axis and time on the x-axis (see the images below). Normal breathing. The capnogram has four phases, as follows: Phase I represents the end of inspiration, and early expiration of gas from dead space (circuit tubing, anatomic) Phase II represents gas from late anatomic and alveolar dead space, upsloping as alveolar gas mixes in and raises the CO 2 Phase III (plateau) represents the paial pressure of carbon dioxide exchanged at the alveoli; the amplitude of the plateau is referred to as Et. CO 2; phase III normally has a very slight upslope due to physiologic V/Q mismatch Phase IV signifies the sta of inspiration, and the capnogram reflects the transition at the sampler from alveolar air flow to fresh air flow, or \"scrubbed\" air, in a closed circuit Of note, the information captured by end-tidal capnography (paial pressure of CO2) is devoid of volumetric information. Therefore, capnography should be used with end-tidal volume measurements to fully assess ventilation parameters.",
-        "cop": 1,
-        "opa": "Dead space ventilation",
-        "opb": "Alveolar ventilation",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Monitoring in Anesthesia",
-        "id": "e265849d-4182-4ef8-8f6c-e8f24b81e98d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Flat capnogram is seen in all except:-",
-        "exp": "A sudden drop of ET Co2 to near Zero followed by absence of a Co2 waveform heralds a potentially life threatening problem. Differential diagnosis D/d. 1. Malposition of an Endotracheal tube into the pharynx or oesophagus. 2. Circuit Disconnection 3. Stoppage of ventilation 4. Cardiac arrest 5. Massive pulmonary embolism",
-        "cop": 4,
-        "opa": "Disconnection of endotracheal tube",
-        "opb": "Accidental extubation",
-        "opc": "Ventilation failure",
-        "opd": "Endobronchial intubation",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Monitoring in Anesthesia",
-        "id": "4a7d2156-e371-4789-83e6-d0599eaa8637",
-        "choice_type": "multi"
-    },
-    {
         "question": "The site for central venous cannulation with least incidence of infection:-",
         "exp": "subclan vein is the site with least infection and best patient tolerance. BUT; the demerit is tourous course and high risk for pneumothorax Right internal jugular vein is the most preferred for central venous cannulation Reasons for this preference are: Absence of valves. Consistent anatomic location of the internal jugular vein. Easily identifiable surface landmarks. Direct communication with the right atrium. Other sites: Subclan vein - greater risk of pneumothorax. Left internal jugular vein - greater risk of pleural effusion & chylothorax. Femoral vein - increased risk of thromboembolic complications, infection and vascular injury.",
         "cop": 1,
@@ -115,45 +63,6 @@
         "topic_name": "Monitoring in Anesthesia",
         "id": "2fd5c8b3-ab8e-4ba6-9120-c1ccbdb320c8",
         "choice_type": "single"
-    },
-    {
-        "question": "Which is false regarding pulse oximetry?",
-        "exp": "Anemia does not affect the reading of pulse oximetry. Factors affecting its accuracy- 1. Dyshemoglobins For example Met Hb absorb red and infrared wavelengths of light in a 1: 1 ratio corresponding to an Sp. O2 of approximately 85%. Therefore, increases in Met Hb produce an underestimation when Sp. O2> 70% and an overestimation when Sp. O2 <70%. 2. Dyes (Methylene blue, indocyamine green) 3. Nail polish 4. Ambient light 5. Hypotension 6. Hypothermia 7. electrocautery",
-        "cop": 3,
-        "opa": "Hemoglobin saturation can be monitored in real time",
-        "opb": "In heavy smokers it may show a false high value",
-        "opc": "False value in anemia",
-        "opd": "Probe can be attached to ear lobe in children",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Monitoring in Anesthesia",
-        "id": "53cf2898-5aff-4fb2-98f2-d0f33185976f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are indication of evoked potential monitoring except:-",
-        "exp": "Indications for intraoperative monitoring of evoked potential include surgical procedures with possible neurological insult. 1. Spinal fusion & instrumentation 2. Spine & spinal cord tumor resection 3. Brachial plexus repair 4. Thoracoabdominal aoic aneurysm repair 5. It also facilitate probe localization during stereotactic surgery",
-        "cop": 3,
-        "opa": "Cerebral tumor resection",
-        "opb": "Brachial plexus repair",
-        "opc": "Mastoid surgery",
-        "opd": "Spinal fusion and instrumentation",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Monitoring in Anesthesia",
-        "id": "7df15c4f-6e8d-4152-b045-6ccc211a4bb4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following is true about neuromuscular monitoring is all except:",
-        "exp": "Neuromuscular blockade is measured using a peripheral nerve stimulator. Nerve Response Ulnar nerve Contraction of adductor pollicis most common stimulus used is Train of four",
-        "cop": 2,
-        "opa": "Ulnar nerve is the most commonly used nerve for the monitoring",
-        "opb": "Double burst stimulation is most commonly used technique for monitoring",
-        "opc": "TOF ratio is best to predict recovery from muscle relaxant",
-        "opd": "TOF can differentiate depolarizers from non depolarizers",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Monitoring in Anesthesia",
-        "id": "d5a612c3-0569-4d5c-adcf-c55a8b2d9211",
-        "choice_type": "multi"
     },
     {
         "question": "Commonest complication of subclan venous puncture is",
@@ -273,19 +182,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most of the anaesthetic drugs are detectable by entropy monitoring except:",
-        "exp": "Entropy monitoringis a method of assessing the effect of ceain anaesthetic drugs on the brain's EEG. It was commercially developed by Datex-Ohmeda, which is now pa of GE Healthcare. Entropy is a quantitative EEG device which captures a single-lead frontal EEG a 3-electrode sensor applied to the patient's forehead. The system relies on a method of assessing the degree of irregularity in electroencephalogram(EEG) signals. The principle is that the irregularity of an EEG signal decreases with increasing brain levels of anaesthetic drugs and that the entropy is a measure of that irregularity. Entropy monitors generate two numbers that are derived from different to frequency bands used. The State Entropy (SE) is calculated from the 0. 8. Hz to 32. Hz range, whereas the Response Entropy (RE) uses frequencies up to 47. Hz. Electromyogram activity is more predominant in those higher frequencies, and so the Response Entropy may respond more quickly when muscle activity is present. Published studies show that Entropy values do relate to clinical levels of anaesthetic depth. Most of the commonly-used anaesthetic drugs are detectable by Entropy monitoring, a notable exception being nitrous oxide, in common with BIS monitoring. Other vital signs such as pulse, heart rate, blood pressure, and movement are indirect indicators of consciousness, but are unreliable. When these are combined with expired gas analysis of inhalational anaesthetic agents, an experienced anaesthetist can be confident a patient is unconscious and not aware of their surroundings.",
-        "cop": 3,
-        "opa": "Isoflurane",
-        "opb": "Halothane",
-        "opc": "Nitrous oxide",
-        "opd": "Sevoflurane",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Monitoring in Anesthesia",
-        "id": "cfb54fa8-3d1e-44d3-8722-0dbc2608878d",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 60 year old female patient underwent modified radical mastectomy under general anesthesia. She is very anxious preoperatively. What monitor anesthetist might have used during surgery so that she does not remember anything intraoperative event.",
         "exp": "Monitors used to assess depth of anesthesia: Electroencephalography (EEG) Bispectral index (BIS) Entropy Evoked responses (EP) - Motor EP, sensory EP (Auditory, visual, brain stem evoked potential) Patient safety index Narcotrend The bispectral index (BIS) is an empirically derived scale which helps to monitor the depth of anesthesia and intraoperative awareness. It processes the EEG and provides an index value between 0 and 100 that indicates the patient's level of consciousness. BIS index values range: 100 - Awake (Responds to normal voice) 0 - Flatline EEG (Deep coma) Recommended range of BIS index values for anesthesia- 40-60.",
         "cop": 3,
@@ -310,18 +206,5 @@
         "topic_name": "Monitoring in Anesthesia",
         "id": "90c2a5df-b166-41ef-a06a-b765b35389ae",
         "choice_type": "single"
-    },
-    {
-        "question": "All are the methods of Aerial blood pressure monitoring except",
-        "exp": "Cardiovascular monitoring Noninvasive Aerial Blood Pressure monitoring methods: Palpation Doppler Auscultation Oscillometry Aerial Tonometry Invasive Aerial Blood Pressure monitoring method Aerial cannulation ( eg: radial, ulnar, femoral, etc) Pulmonary aery catheterization Central venous catheterization Cardiac output measurement Thermodilution Dye Dilution Pulse Contour Devices Esophageal Doppler Thoracic Bioimpedance Fick Principle Echocardiography Transthoracic echocardiography (TTE) Transesophageal echocardiography (TEE) Capnography: It is Non Cardiovascular monitoring method",
-        "cop": 1,
-        "opa": "Capnography",
-        "opb": "Radial aery cannulation",
-        "opc": "Oscillometry",
-        "opd": "Aerial Tonometry",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Monitoring in Anesthesia",
-        "id": "28f0d37e-ceae-419c-86fb-ad57af6abb6e",
-        "choice_type": "multi"
     }
 ]

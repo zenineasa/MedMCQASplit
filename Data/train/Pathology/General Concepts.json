@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Regarding Fanconi anemia, the wrong statement is:",
-        "exp": "Fanconi's anemia is an autosomal recessive disease Characterized:- Progressive pancytopenia Increased risk of malignancy (solid tumors and AML) Congenital developmental anomalies like sho stature, cafe au lait spots, abnormalities affecting thumb, radius and genitourinary tract. Fanconi's anemia is associated with BRCA gene.",
-        "cop": 1,
-        "opa": "Autosomal dominant",
-        "opb": "Bone marrow show pancytopenia",
-        "opc": "Usually aplastic anemia",
-        "opd": "It is due to defective DNA repair",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "6dedd72d-f97b-43fc-8958-00d59ad690b1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The commonest location for the carcinoid tumor is which of the following?",
-        "exp": "Carcinoid tumor:- Neuroendocrine tumor, most common site being GIT and Lungs being 2nd most common In GIT, most common site is small intestine Composed of cells that contains dense-core neurosecretory granules in their cytoplasm.",
-        "cop": 1,
-        "opa": "Small intestine",
-        "opb": "Bronchus",
-        "opc": "Appendix",
-        "opd": "Stomach",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "57e467c2-8b02-4815-87b8-7a088410001a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is essential for tumor metastasis?",
         "exp": "Metastasis is a complex series of steps in which cancer cells leave the original tumor site and migrate to other pas of the body the bloodstream or the lymphatic system. One of the critical events required for metastasis is the growth of a new network of blood vessels, called tumor angiogenesis.",
         "cop": 1,
@@ -52,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 20-year-old woman has an ovarian tumor removed. The surgical specimen is 10 cm in diameter and cystic. The cystic cavity is found to contain black hair and sebaceous material. Histologic examination of the cyst wall reveals a variety of benign differentiated tissues, including skin, cailage, brain, and mucinous glandular epithelium. What is the diagnosis?",
-        "exp": "Teratomas are benign tumors composed of tissues derived from all three primary germ layers: ectoderm, mesoderm, and endoderm. They are most common in the ovary but also occur in the testis and extragonadal sites. Adenoma (choice A) is a benign tumor of epithelial origin. Chondroma (choice B) is a benign cailaginous tumor. Hamaoma (choice C) is disorganized normal tissue.",
-        "cop": 4,
-        "opa": "Adenoma",
-        "opb": "Chondroma",
-        "opc": "Hamaoma",
-        "opd": "Teratoma",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "f4386929-0d3a-42af-9769-20d7b370c1b2",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 25-year-old man presents 1 week after discovering that his left testicle is twice the normal size. Physical examination reveals a nontender, testicular mass that cannot be transilluminated. Serum levels of alpha-fetoprotein and human chorionic gonadotropin are normal. A hemiorchiectomy is performed, and histologic examination of the surgical specimen shows the cells grow inalveolar or tubular patterns, the neoplastic cells have an epithelial appearance, exhibit hyperchromatic nuclei with prominent nucleoli.. Compared to normal adult somatic cells, this germ cell neoplasm would most likely show high levels of expression of which of the following proteins?",
         "exp": "The given histological examination is indicative of embryonal carcinoma. The tumor cells are large and have basophilic cytoplasm, indistinct cell borders, large nuclei, and prominent nucleoli. The neoplastic cells may be arrayed in undifferentiated, solid sheets or may form primitive glandular pattern. Somatic cells do not normally express telomerase, (enzyme that adds repetitive sequences to maintain the length of the telomere) Thus, with each round of somatic cell replication, the telomere shoens. The length of telomeres may act as a \"molecular clock\" and govern the lifespan of replicating cells. Cancer cells and embryonic cells express high levels of telomerase Embryonal carcinoma with papillary growth -The other choices are not involved in malignant transformation.",
         "cop": 4,
@@ -76,19 +37,6 @@
         "topic_name": "General Concepts",
         "id": "951c6beb-03a6-4058-b00f-fad392c27f9c",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are characteristics of malignant tumours, except:",
-        "exp": "Features of malignant neoplasms: Lack of differentiation (anaplasia) Frequent mitosis Cellular and nuclear pleomorphism Loss of polarity Ischemic necrosis Local invasion Metastasis Metaplasia is defined as the replacement of one type of cell with another type. Metaplasia is nearly always found in association with tissue damage, repair, and regeneration. Metaplastic epithelium is prone to malignant transformation, but metaplasia per se is not a feature of malignancy.",
-        "cop": 2,
-        "opa": "Loss of polarity",
-        "opb": "Metaplasia",
-        "opc": "Nuclear pleomorphism",
-        "opd": "Metastasis",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "82a318ab-cb98-43c8-9b4b-f3cbd61f152d",
-        "choice_type": "multi"
     },
     {
         "question": "Sentinel lymph node is defined as:",
@@ -115,97 +63,6 @@
         "topic_name": "General Concepts",
         "id": "ec4ea354-01ee-4d61-86ce-39ed55a50a4c",
         "choice_type": "single"
-    },
-    {
-        "question": "Migratory thrombophlebitis is associated with all of the following malignancies, except:",
-        "exp": "Migratory thrombophlebitis (Trousseau's syndrome) is paicularly associated with adenocarcinomas of:- Pancreas Colon Lung Because of associated paraneoplastic syndrome there is hypercoagulability.",
-        "cop": 1,
-        "opa": "Testis",
-        "opb": "Lung",
-        "opc": "Colon",
-        "opd": "Pancreas",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "7fa1eb37-9cd3-405f-9910-b22b4dc88832",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 35-year-old woman complains of nipple discharge and irregular menses of 5 months duration. Physical examination reveals a milky discharge from both nipples. MRI shows an enlargement of the anterior pituitary. Which of the following is the most likely histologic diagnosis of this patient's pituitary tumor?",
-        "exp": "Benign tumors arising from a glandular epithelium are termed adenomas. Patients with a prolactin-secreting pituitary adenoma present with amenorrhea and galactorrhea Ectopic islands of normal tissue are called choristomas (choice B) Localized, disordered differentiation during development results in a hamaoma (choice C). Papillomas do not occur in the pituitary (choice D).",
-        "cop": 1,
-        "opa": "Adenoma",
-        "opb": "Choriostoma",
-        "opc": "Hamaoma",
-        "opd": "Papilloma",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "ca5cb6c7-20b9-47df-b58a-28fc6a51c51e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 54-year-old woman who has been diagnosed with early-stage breast cancer undergoes surgery for a lumpectomy to remove a small tumor detected by mammography. the pathology repo confirms early stage of the cancer and fuher comments on the fact that there is significant desmoplasia in the surrounding tissue. The term desmoplasia refers to",
-        "exp": "Desmoplasia:- refers to proliferation of non-neoplastic fibrous connective tissue within a tumor. Parenchymal cells stimulate the formation of abundant collagenous storms, referred to as desmoplasia. It is quite common in cases of breast cancer, which become Stony hard or scirrhous. An irregular accumulation of blood vessels is known as a hemangioma. An area of tissue misplaced within another organ is known as a choristoma",
-        "cop": 4,
-        "opa": "an irregular accumulation of blood vessels.",
-        "opb": "Scanty connective tissue causing the neoplasm to be soft and fleshy.",
-        "opc": "normal tissue misplaced within another organ",
-        "opd": "proliferation of non-neoplastic fibrous connective tissue",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "55b60cb7-7892-440c-8469-291161c6b5a3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 52-year-old woman presents with a 1-year history of upper truncal obesity and moderate depression. Physical examination shows hirsutism and moon facies. A CT scan of the thorax displays a hilar mass. A transbronchial lung biopsy discloses small cell carcinoma. Electron microscopy of this patient's lung tumor will most likely reveal which of the following cytologic features?",
-        "exp": "Neuroendocrine tumors may synthesize a number of hormones. The presence of small, membrane-bound granules with a dense core is a feature of these neoplasms. Dense granules are visible by electron microscopy. Carcinomas often exhibit desmosomes and specialized junctional complexes, which are structures that are not typical of sarcomas or lymphomas. Councilman bodies (choice A) are apoptotic hepatocytes (acidophilic bodies).",
-        "cop": 4,
-        "opa": "Councilman bodies",
-        "opb": "Hyperplasia of endoplasmic reticulum",
-        "opc": "Mitochondrial calcification",
-        "opd": "Neuroendocrine granules",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "1c5f833e-1025-4925-922d-159603defb37",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 58-year-old man with a 700-pack-peryear smoking history presents to the emergency depament with shoness of breath and hemoptysis. Poable chest radiography demonstrates a large mass centrally located within the left lung field. The serum calcium is 13. 0 mg/dL (normal 8. 5 to 10. 2). The metabolic abnormality described here is likely due to elaboration of which substance",
-        "exp": "The man is likely to have a lung tumor, given his clinical presentation and the radiographic results. The patient's hypercalcemia is likely due to a paraneoplastic syndrome, such as that due to the elaboration of parathyroid-related hormone (PTrH). PTrH is produced by squamous cell carcinoma Adrenocoicotropic-like substance and antidiuretic hormone are produced by yet another form of lung cancer--small cell carcinoma of the lung. Carcinoembryonic antigen is an onco-fetal antigen produced by colon cancer cells. Erythropoietin causes secondary polycythemia and is related to renal cell carcinoma",
-        "cop": 4,
-        "opa": "Adrenocoicotropic hormone-like substance",
-        "opb": "Antidiuretic hormone",
-        "opc": "Carcinoembryonic antigen",
-        "opd": "Parathyroid-related hormone",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "1b1c5368-cbed-42b1-89e5-dda45d427e9b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "False statement regarding fluorescence in situ hybridization (FISH) is:",
-        "exp": "Fluorescence in Situ Hybridization (FISH) FISH uses DNA probes that recognize sequences specific to paicular chromosomal regions As pa of the Human Genome Project, large libraries of bacterial aificial chromosomes that span the entire human genome were created. These DNA clones are labeled with fluorescent dyes and applied to metaphase chromosome spreads or interphase nuclei that are pretreated so as to \"melt\" the genomic DNA. The probe hybridizes to its homologous genomic sequence and thus labels a specific chromosomal region that can be visualized under a fluorescent microscope. FISH can be performed on prenatal samples, peripheral blood cells, touch preparations from cancer biopsies, and even fixed archival tissue sections. FISH is used to detect numeric abnormalities of chromosomes (aneuploidy); subtle microdeletions or complex translocations that are not demonstrable by routine karyotyping; and gene amplification The number of chromosomes that can be detected simultaneously by chromosome painting is limited by the availability of fluorescent dyes that emit different wavelengths of visible light. This limitation has been overcome by the introduction of spectral karyotyping (also called multicolor FISH).",
-        "cop": 2,
-        "opa": "FISH uses DNA probes that recognize sequences specific to paicular chromosomal regions",
-        "opb": "In the process clones are labeled with fluorescent dyes and applied to prophase of cell cycle",
-        "opc": "Multiple chromosomes can be detected simultaneously by introduction of spectral karyotyping",
-        "opd": "Can be performed on prenatal samples also",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "6dbc966f-1a41-47e6-87e7-5c4be9bc6680",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Arrange the steps in oncogenesis in the sequence: 1. increased activity of telomerase2. angiogenesis3. Evasion of host defense 4. Activation of proto-oncogene 5. Warburg effect",
-        "exp": "All cancers display eight fundamental changes in cell physiology, which are considered the hallmarks of cancer: * Self-sufficiency in growth signals* Insensitivity to growth-inhibitory signals* Altered cellular metabolism* Evasion of apoptosis* Limitless replicative potential (immoality)* Sustained angiogenesis* Invasion and metastasis* Evasion of immune surveillance",
-        "cop": 2,
-        "opa": "3-5-4-2-1",
-        "opb": "4-5-1-2-3",
-        "opc": "1-2-3-4-5",
-        "opd": "4-5-3-2-1",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "9cb05973-a365-4f75-a766-35914df2ea68",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following depicts the cell cycle sequence accurately?",
@@ -245,45 +102,6 @@
         "topic_name": "General Concepts",
         "id": "c73ae72a-80f1-41e6-b08d-00031da81fbf",
         "choice_type": "single"
-    },
-    {
-        "question": "In tumour lysis syndrome, all of the following are seen except:",
-        "exp": "Tumor lysis syndrome: -Seen at the onset of chemotherapy in rapidly dividing tumor cells. Findings: - Hyperkalemia - Hyperphosphatemia - Hyperuricemia - Hypocalcemia RASBURICASE(URATE OXIDASE) IS USEFUL to DECREASE URIC ACID LEVEL.",
-        "cop": 2,
-        "opa": "Hyperuricemia",
-        "opb": "Hypercalcemia",
-        "opc": "Hyperkalemia",
-        "opd": "Hyperphosphatemia",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "b42afbdd-6a02-4579-b3f7-838cd207d9bf",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 58-year-old woman with colon cancer presents with 3 months of increasing shoness of breath. A chest X-ray reveals numerous, bilateral, round masses in both lungs. Histologic examination of an open-lung biopsy discloses malignant gland-like structures, which are nearly identical to the colon primary. Which of the following changes in cell behavior was the first step in the process leading to tumor metastasis from the colon to the lung in this patient?",
-        "exp": "The first event in tumor cell invasion is a breach of the basement membrane that separates an epithelium from the underlying mesenchyme. After invading the interstitial tissue, malignant cells penetrate lymphatic or vascular channels (choice D). In the lymph nodes, communications between the lymphatics and venous tributaries allow malignant cells access to the systemic circulation.",
-        "cop": 3,
-        "opa": "Arrest within the circulating blood or lymph",
-        "opb": "Exit from the circulation into a new tissue",
-        "opc": "Invasion of the underlying basement membrane",
-        "opd": "Penetration of vascular or lymphatic channels",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "4d90b930-07a0-49c1-9312-fe8ef09125f5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Malignancy is typically associated with disordered differentiation and maturation. Which of the following mentioned option best describe anaplasia?",
-        "exp": "Lack of Differentiation is called Anaplasia. Hepatic tumors synthesizing bile - The actual function of the hepatocytes is to produce bile. (Normal state) Skin tumor producing keratin pearl - Skin has the presence of Squamous epithelium and that is going to have the presence of keratin pearl (Again normal) Bronchial epithelium cell producing keratin pearl- The ciliated columnar epithelium of the bronchi is producing something which is the function of squamous epithelium, this is referred as disordered function which signifies anaplasia. Colonic tumor cell producing mucin- colonic epithelium is columnar epithelium and it is its normal function to produce mucin.",
-        "cop": 3,
-        "opa": "Hepatic tumors synthesizing bile",
-        "opb": "Skin tumor producing keratin pearl",
-        "opc": "Bronchial epithelium cell producing keratin pearl",
-        "opd": "Colonic tumor cell producing mucin",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "75f0790b-2b94-4442-a28b-4d9d99581dd1",
-        "choice_type": "multi"
     },
     {
         "question": "A 58-year-old woman undergoes routine colonoscopy. A 2-cm submucosal nodule is identified in the appendix. Biopsy of the nodule shows nests of cells with round, uniform nuclei. Electron microscopy reveals numerous neuroendocrine granules in the cytoplasm. This patient's neoplastic disease is associated with which of the following clinical features?",
@@ -429,19 +247,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is not true about epithelial-mesenchmyal transition (EMT)?",
-        "exp": "Dissociation of cancer cells from one another is often the result of alterations in intercellular adhesion molecules and is the first step in the process of invasion. E-cadherins are transmembrane glycoproteins that mediate the homotypic adhesion of epithelial cells, holding them together. In many epithelial cancers it is hypothesized that E-cadherin expression is silenced, at least transiently, through a process called epithelial-mesenchymal transition (EMT). Postulated that EMT is integral to the metastasis of carcinomas, paicularly breast and prostate cancers EMT is controlled by the transcription factors SNAIL and TWIST Downregulation of epithelial markers (e. g., E-cadherin) Concomitant upregulation of mesenchymal markers (e. g., vimentin and smooth muscle actin)",
-        "cop": 2,
-        "opa": "Controlled by the transcription factors SNAIL and TWIST",
-        "opb": "Upregulation of E-cadherin expression",
-        "opc": "Integral to the metastasis of carcinomas",
-        "opd": "Homotypic intercellular adhesion is lost",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "5e8e6125-7d4f-43b2-9fbe-8b00b4391ac5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Lynch syndrome is associated with cancers of the:",
         "exp": "Lynch syndrome is familial clustering of cancers at several sites:- Colorectum Endometrium Stomach Ovary Ureters Brain Small bowel",
         "cop": 4,
@@ -479,32 +284,6 @@
         "topic_name": "General Concepts",
         "id": "dac7c6a1-9305-4973-9195-dbd07c0a22ab",
         "choice_type": "single"
-    },
-    {
-        "question": "All are malignant tumors, except:",
-        "exp": "* Fibromatosis are a group of fibroblastic proliferations. *They are locally aggressive, they do not metastasize.",
-        "cop": 2,
-        "opa": "Chloroma",
-        "opb": "Fibromatosis",
-        "opc": "Askin's tumor",
-        "opd": "Liposarcoma",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "80da9246-7853-4883-9799-cd4d3283e75f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following is an example of squamous metaplasia except:",
-        "exp": "In Barrett esophagus, in which the esophageal squamous epithelium is replaced by intestinal-like columnar cells under the influence of refluxed gastric acid. Options analysis Cervix in case of chronic irritation show squamous metaplasia The most common epithelial metaplasia is columnar to squamous as occurs in the respiratory tract in response to chronic irritation. Stones in the excretory ducts of the salivary glands, pancreas, or bile ducts, which are normally lined by secretory columnar epithelium, may also lead to squamous metaplasia",
-        "cop": 4,
-        "opa": "Cervix in case of chronic irritation",
-        "opb": "Respiratory tract in case of smoking",
-        "opc": "Stone in bile ducts",
-        "opd": "Esophagus in gastric reflux",
-        "subject_name": "Pathology",
-        "topic_name": "General Concepts",
-        "id": "91ba8dfb-2792-4c2d-aa58-523f9948121e",
-        "choice_type": "multi"
     },
     {
         "question": "Cell-matrix adhesions are mediated by?",

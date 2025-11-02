@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "TECOVIRIMAT is recently approved anti-viral drug. It is used for against which virus?",
-        "exp": "TECOVIRIMAT: a. Used for treatment of Small pox (In bioterror attacks) b. Orally administered c. Binds to envelop virus P37 and inhibits extracellular viral forms d. Inhibits transmission",
-        "cop": 1,
-        "opa": "Small pox",
-        "opb": "Chicken pox",
-        "opc": "Dengue",
-        "opd": "Influenza",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Viral Drugs",
-        "id": "41c9dbb9-4da2-4520-a20b-6223f49ee0a5",
-        "choice_type": "multi"
-    },
-    {
         "question": "More than 90% of this drug is excreted in the urine in intact form. Because its urinary solubility is low, patients should be well hydrated to prevent nephrotoxicity. The drug is:",
         "exp": "- Both indinavir and acyclovir can cause nephrotoxicity and renal stone formation. - But indinavir is metabolized mainly in the liver and acyclovir is excreted unchanged in the urine. - Therefore patients should be well hydrated to prevent nephrotoxicity of acyclovir.",
         "cop": 3,
@@ -37,32 +24,6 @@
         "topic_name": "Anti-Viral Drugs",
         "id": "afd6ce45-6856-4ad7-8c24-e764f71a578e",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true regarding amantadine and rimantadine except:",
-        "exp": "Amantadine and rimantadine As antiviral against influenza A: Mechanisms of action Inhibit an early step in viral replication(viral uncoating) strains At late step it alters hemagglutinin processing Main action is on M2 protein- Drugs inhibit the acid-mediate dissociation of the ribonucleoprotein complex early in replication and potentiate acidic pH-induced conformational changes in the hemagglutinin during its intracellular transpo later in replication NOTE: Rimantadine is 4-10 times more active than amantadine Amantadines are effective against influenza A H1. N1 in adults and children if treatment is initiated within 2 days of the onset of symptoms Both drugs are useful for the prevention and treatment of infections caused by influenza A virus (not influenza B) Viually all H3. N2 strains of influenza circulating worldwide are resistant to these drugs Resistance to these drugs results from a mutation in the RNA sequence encoding for the M2 protein transmembrane domain",
-        "cop": 2,
-        "opa": "Rimantadine is 4-10 times more active than amantadine",
-        "opb": "Combination of amantadine and rimantadine are effective on Influenza B also",
-        "opc": "Both act by inhibiting an early step in viral replication",
-        "opd": "They are effective against influenza A H1. N1 in if treatment is initiated within 2 days of the onset of symptoms",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Viral Drugs",
-        "id": "a0dc18cd-6a64-441a-a24e-9fb2d2313393",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are direct acting agents for HCV infections except?",
-        "exp": "Entecavir is used for treatement of hepatitis B HEPATITIS C: Previously treated with Interferons and Ribavarin this treatment was very toxic now we use all oral agents for the treatment DIRECT ACTING AGENTS ARE: PROTEASE(NS-3A/4) INHIBITORS NS-5A INHIBITORS NS-5B INHIBITORS TELAPREVIR SIMPREVIR BOCEPREVIR GRAZOPREVIR PARITAPREVIR ELBASVIR LEDIPASVIR DACLATASVIR OMBITASVIR PIMBRENTASVIR SOFOSBUVIR DASABUVIR BECLABUVIR",
-        "cop": 3,
-        "opa": "Ledipasvir",
-        "opb": "Beclabuvir",
-        "opc": "Entecavir",
-        "opd": "Paritaprevir",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Viral Drugs",
-        "id": "d8fd0712-2700-4470-8ec2-ea75ae2a114c",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following neuraminidase inhibitor has 100% renal elimination?",
@@ -89,32 +50,6 @@
         "topic_name": "Anti-Viral Drugs",
         "id": "8067e8c0-1c8b-4d31-b689-571b84d3c0f4",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is true about the novel antiviral drug Remdesivir?",
-        "exp": "Remdesivir Novel antiviral agent developed by Gilead Sciences First developed as an antiviral against Ebola virus during the 2014 outbreak in west Africa. Adenosine analog Interferes with the action of the viral RNA dependent RNA polymerase Evades proof reading by the viral exoribonuclease causing decrease in viral RNA production. Promising results in animal studies for MERS-CoV and SARS, suggesting it may have some effects in patients with COVID-19. Dose being studied is 200mg iv on day one followed by 100mg iv once daily for 4 to 9 days. Currently Remdesivir has received investigational new drug (IND) status and several clinical trials are ongoing on patients with SARS-CoV-2 infection.",
-        "cop": 2,
-        "opa": "Was developed during the MERS outbreak in 2012",
-        "opb": "An adenosine analog, interferes with the action of viral RNA-dependent RNA polymerase and causes decrease in viral RNA production",
-        "opc": "Drug of choice for the treatment of pneumonia caused by SARS-CoV-2",
-        "opd": "It is an FDA approved drug for COVID-19",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Viral Drugs",
-        "id": "b3121cbe-609c-4289-b2d8-858a71630204",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drug effective against both hepatitis B as well as HIV is",
-        "exp": "Lamivudine is NI used in both HIV and hepatitis B (low dose). Lamivudine is effective in chronic hepatitis B; this is due to longer intracellular t1/2 of lamivudine in HBV infected cells than in HIV infected cells. Acyclovir - effective against HSV-1>HSV-2>VZV=EBV. Foscarnet -effective against H. simplex, CMV, other herpes group viruses and HIV. Cidovofir- effective against HSV, CMV, pox and adenoviruses.",
-        "cop": 3,
-        "opa": "Acyclovir",
-        "opb": "Foscarnet",
-        "opc": "Lamivudine",
-        "opd": "Cidofovir",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Viral Drugs",
-        "id": "13e6b2f5-20d3-4b5a-8eb3-2dab107e497b",
-        "choice_type": "multi"
     },
     {
         "question": "Ganciclovir is preferred over acyclovir in the following condition:",
@@ -206,18 +141,5 @@
         "topic_name": "Anti-Viral Drugs",
         "id": "b521ddee-9a0b-46ea-8afa-4508b2376b1f",
         "choice_type": "single"
-    },
-    {
-        "question": "Which antiviral drug is used in both HIV an hepatitis B:-",
-        "exp": "Drugs used in treatment of both HIV and Hepatitis B: * Lamivudine * Emtricitabine * Tenofovir Acyclovir and Abacavir are protease inhibitors used in treatment of HIV. Enfuviritide is a Gp41 inhibitor, it inhibits the fusion of virus with host cell.",
-        "cop": 3,
-        "opa": "Acyclovir",
-        "opb": "Abacavir",
-        "opc": "Emtricitabine",
-        "opd": "Enfuviide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Viral Drugs",
-        "id": "55c2a868-c47c-431e-8207-a91e2dd196c9",
-        "choice_type": "multi"
     }
 ]

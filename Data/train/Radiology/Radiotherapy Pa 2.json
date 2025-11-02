@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Radioisotopes produce all the following except?",
-        "exp": "Radioactive elements emit Alpha Rays, Beta and Gamma Rays. X-rays are produced when fast moving electrons from cathode strike the target of Anode of Xray Tube.",
-        "cop": 3,
-        "opa": "Alpha rays",
-        "opb": "Beta Rays",
-        "opc": "X rays",
-        "opd": "Gamma Rays",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy Pa 2",
-        "id": "a3872204-1900-4b6a-a3b2-c6aaad7b6c71",
-        "choice_type": "multi"
-    },
-    {
         "question": "Radiorestistant tumor is-",
         "exp": "RADIORESISTANT RADIOSENSITIVE Osteosarcoma Wilms tumor Melanoma Ewing's sarcoma Hepatic carcinoma Lymphoma Pancreatic carcinoma Myeloma Seminoma / Dysgerminoma",
         "cop": 3,
@@ -76,18 +63,5 @@
         "topic_name": "Radiotherapy Pa 2",
         "id": "1c64d025-4518-4df6-b18a-50b60d02e1a7",
         "choice_type": "single"
-    },
-    {
-        "question": "Which Of the following statements is True?",
-        "exp": "Inverse Square Law states that Radiation Dose is inversely propoional to the square of distance from the Source of Radiation",
-        "cop": 3,
-        "opa": "Intensity of Radiation decreases as a function of the distance from source of radiation",
-        "opb": "Intensity Of Radiation Increases as a function of distance from source of radiation",
-        "opc": "Intensity of Radiation decreases as a function of square of distance from source of Radiation",
-        "opd": "Intensity Of Radiation increases as a function of square of distance from source of Radiation",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy Pa 2",
-        "id": "5aa36b57-0a00-4099-8f07-d490e5f26f67",
-        "choice_type": "multi"
     }
 ]

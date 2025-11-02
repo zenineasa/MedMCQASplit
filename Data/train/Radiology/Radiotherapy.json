@@ -1,18 +1,5 @@
 [
     {
-        "question": "Radiosensitisers are all Except",
-        "exp": "Radiosensitisers are agents that increase the lethal effects of radiation when given during (or sholy prior) to its delivery. There are three clinically used radiosensitisers - hypoxic cell sensitisers, hypoxic cell cytotoxics and the halogenated pyrimidines - that increase the sensitivity of tumour cells with minimal effect on normal tissues. chemotherapy drugs like cisplatin, 5. FU are radiosensitisers. Reference: Eric J Hall Textbook of Radiobiology for Radiologist; 5th edition",
-        "cop": 4,
-        "opa": "Metronidazole",
-        "opb": "Nimorazole",
-        "opc": "Cisplatin",
-        "opd": "Amifostine",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "2912c137-7e86-4858-ba1b-21493f38259e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which part of DNA is most susceptible to radiation?",
         "exp": "(D) Double helix > Relatively flexible areas of the DNA double helix are most susceptible to damage.> Radiation can damage the DNA \"double helix\" - a two-stranded, twisting molecule - in a variety of ways: 1) by knocking off one or more of the DNA \"bases\" known by the letters A, T, G, and C, which form the bonds between the two strands of the double helix; 2) by oxidizing these bases; or 3) by breaking through one or both strands. All can result ir a failure of the molecule to perform its main task - telling cells which proteins to make. That can lead to out-of-control cell growth (cancer) or death.",
         "cop": 4,
@@ -102,32 +89,6 @@
         "topic_name": "Radiotherapy",
         "id": "88df453c-a44f-4b60-ab32-e8f21b11c982",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements regarding the treatment of radiation accident victims is false?",
-        "exp": "If the radiation exposure is known to be less than 4 to 5 Gy (400-500 rad), most expes recommend that the patient is watched carefully but only treated in response to specific symptoms, such as antibiotics for an infection, fresh platelets for local haemorrhage, and so on. If the dose is known to have exceeded about 5 Gy (500 rad), then death from the hematopoietic syndrome 3 to 4 weeks later is a real possibility. In some countries, isolation and barrier nursing--that is, isolation from others so that they do not come in contact with possible infections while their blood count is low--is recommended. It has been shown in animals that the LD50 can be raised by a factor of about 2 by the use of antibiotics, and there is no reason to suppose that the same is not true in humans. The impoant things are to avoid infection, bleeding, and physical trauma during the period in which the circulating blood elements reach a nadir and to give the bone marrow a chance to regenerate. Below about 8 Gy (800 rad), an exposed person is likely to survive with careful nursing and an antibiotic screen because the LD50 can be approximately doubled by such conservative measures. In such cases, therefore, a transplant is not necessary. Above about 10 Gy (1, 000 rad) death from the gastrointestinal syndrome is inevitable, and so a bone-marrow transplant is of no use. Reference: Eric J Hall Textbook of Radiobiology for Radiologist; 5th edition",
-        "cop": 4,
-        "opa": "At doses less than 4 to 5 Gy, the patient is only treated in response to specific symptoms",
-        "opb": "At doses 5-8 Gy, infection, bleeding and physical trauma are to be avoided during the period in which the circulating blood elements have a low concentration",
-        "opc": "At doses 8-10 Gy, a bone-marrow transplant can be administrated",
-        "opd": "At doses above 10 Gy, a bone-marrow transplant must always be administrated",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "828a6157-0f87-4591-b079-1f9dbbb82308",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Surrogate markers for patients physical reserve to plan oncological treatment are all Except",
-        "exp": "The physiologic reserve is a determinant of how a patient is likely to cope with the physiologic stresses imposed by cancer and its treatment. This factor is difficult to assess directly. Instead, surrogate markers for physiologic reserve are used. Older patients and those with a Karnofsky performance status <70 or ECOG performance status = 3 have a poor prognosis unless the poor performance is a reversible consequence of a tumour. Child Pugh score is considered before hepatotoxic treatments and liver cancer treatment decision making. MSKCC neutropenia score is used to decide outpatient versus inpatient care of febrile neutropenia. Reference: Harrison; 19th edition",
-        "cop": 4,
-        "opa": "Karnofsky performance status",
-        "opb": "ECOG performance score",
-        "opc": "Child pugh score",
-        "opd": "MSKCC neutropenia risk score",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "29b10a13-aa1e-4d5a-80da-981e02822581",
-        "choice_type": "multi"
     },
     {
         "question": "A deterministic effect",
@@ -299,19 +260,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Micro RNAs are",
-        "exp": "Micro. RNAs (mi. RNAs) are small noncoding RNAs 20-22 nucleotides in length that are involved in posttranscriptional gene regulation. Studies in chronic lymphocytic leukaemia first suggested a link between mi. RNAs and cancer when miR-15 and miR-16 were found to be deleted or downregulated in the vast majority of tumours. The expression of mi. RNAs is extremely specific and there is evidence that mi. RNA expression patterns may be useful in distinguishing lineage and differentiation state, as well as cancer diagnosis and outcome prediction. Reference: Harrison; 19th edition",
-        "cop": 4,
-        "opa": "Involved in post translational gene regulation",
-        "opb": "20-22 nucleotide length",
-        "opc": "Noncoding RNA",
-        "opd": "All of the above",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "66688394-c206-4113-81b5-13fbba126409",
-        "choice_type": "multi"
-    },
-    {
         "question": "MC cancer due to Radiation:",
         "exp": "Ans: A (Leukaemia) cancer in many different species of animal and in almost all part of the body. It is one of the few scientifically proven carcinogen (cancer-causing agents) in human beings, although it appears to be relatively weak carcinogen compared to many chemical agents Organs differ in their sensitively the effect of radiation. The thyroid glands end bone marrow are most sensitive to radiation, while the kidney, bladder and ovary seem to be least affected. Some forms of leukemia appear to be the most common radiation induced cancers. Development of a second neoplasm is another risk factor of the therapeutic radiation that generally occurs many year after radiation exposure. Depending on the irradiated field, the risk of gliomas, meningiomas, sarcomas & thyroid cancer is increased - Harrison 17th/ 2610 Irradiation cause thyroid ca, sarcoma, breast Ca leukoencephualopathy. Danhert Radiology Review Manual 5th/ 395, 303, 555, 148 Radiation induced second cancer | | | | Most common Head neck irradiation Women<30 yrs receiving mantle field radiation therapy (for eg. Hodgkin's ds) | | | | Leukemia^ Thyroid cancer | | Breast cancer",
         "cop": 1,
@@ -351,19 +299,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Human papillomavirus 16 increases the risk of all Except",
-        "exp": "Oral human papillomavirus (HPV) infection, paicularly HPV -16, increases the risk for cancers of the oropharynx. This association exists even in the absence of other risk factors such as smoking or alcohol use (although the magnitude of increased risk appears greater than additive when HPV infection and smoking are both present). Oral HPV infection is believed to be largely sexually acquired. Reference: Harrison; 19th edition",
-        "cop": 3,
-        "opa": "Cervical squamous cell cancer",
-        "opb": "Anal cancer",
-        "opc": "Endometroid adenocarcinoma",
-        "opd": "Oropharyngeal cancer",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "f5940f2a-1312-402c-aa10-745effeab21f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which one of the following is not sensitive to chemo- therapy in advanced stage?",
         "exp": "(A) Pancreatic carcinoma # Surgery is the Treatment of Choice in:> Lower esophageal CA, CA stomach, CA colon, CA pancreas, hepatocellular CA.> Radiotherapy is the Treatment of Choice in:> CA. s of oral cavity, lip, tongue, cheek, nasopharynx, oropharynx, hypopharynx, larynx nasal cavity, skin (except melanoma), cervix, seminoma testis, early hodgkin's disease, medulloblastoma (after surgical debulking).> Chemotherapy is the Treatment of Choice in: Acute & chronic leukemias, Advanced Hodgkin's disease, Advanced NHL, Testicular teratoma, Choriocarcinoma, Small cell lung cancer, Neuroblastoma.> Malignancies curable with Chemotherapy 70-90% cure rate. Testicular teratoma or seminoma, Choriocarcinoma (in women), Hodgkin's disease, Wilms' tumour; embryonal rhabdomyosarcoma 40-60% cure rate: Childhood acute lymphoblastic leukaemia, Burkitt's lymphoma (endemic variety), Ewing's sarcoma.> 20-30% cure rate: Non-Hodgkin's lymphoma (diffuse large-cell), Adult acute lymphoblastic leukaemia < 5% cure rate: acute myeloblastic leukaemia> Malignancies responsive to Chemotherapy. Low-grade lymphomas; myeloma; chronic leukaemias Breast cancer; Ovarian cancer; Small-cell lung cancer.",
         "cop": 1,
@@ -390,19 +325,6 @@
         "choice_type": "single"
     },
     {
-        "question": "\"Eye of the Tiger\" appearance in MRI is seen in",
-        "exp": "(D) Hallervorden-Spatz syndrome # Eye of the Tiger Sign refers to abnormal low T2 signal (due to abnormal accumulation of iron) on MRI in the globus pallidus with a longitudinal stripe of high signal (due to gliosis & spongiosis) that can be seen in:> Hallervorden-Spatz syndrome: Classical but not 100% pathognomonic. Progressive supranuclear palsy Early-onset levodopa-responsive parkinsonism Corticobasal ganglionic degeneration",
-        "cop": 4,
-        "opa": "Wilsons disease",
-        "opb": "Neuronal accumulation of iron",
-        "opc": "Alzheimer's",
-        "opd": "Hallervorden-Spatz syndrome",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "800b473c-8204-41a4-8974-5a3d379c6f12",
-        "choice_type": "multi"
-    },
-    {
         "question": "Maximum penetrating radiation among the below is",
         "exp": "The penetrating power of alpha rays, beta rays, and gamma rays varies greatly. Alpha paicles can be blocked by a few pieces of paper. Beta paicles pass through paper but are stopped by aluminium foil. Gamma rays are the most difficult to stop and require concrete, lead, or other heavy shielding to block them. Reference: Eric J Hall Textbook of Radiobiology for Radiologist; 5th edition",
         "cop": 2,
@@ -414,19 +336,6 @@
         "topic_name": "Radiotherapy",
         "id": "38d663ab-6f9e-4ca5-8610-1f00256369f4",
         "choice_type": "single"
-    },
-    {
-        "question": "Most important mechanism of action of microwave irradiation is?",
-        "exp": "Ans. is 'a' i. e., Thermal effect * The most important mechanism in medical applications of microwaves is the thermal effects of EM field. Medical applications of microwaves* Since early 80's a microwave thermotherapy is used for cancer treatment, Benign Prostate Hyperplasia (BPH) treatment; it can be used in combination with other complementary treatment methods also.* Medical applications of microwaves and used mechanism can be divided in following three basic groupsi) For the treatment purpose (with the use of either thermal or non-thermal effects - sometimes both of these types of effects can play its role). ii) For diagnosis purpose (e. g. by aid of permittivity measurements, attenuation measurements and microwave tomographyiii) For treatment or diagnosis (e. g. linear accelerator).* Medical applications of microwaves is mainly represented by the treatment methods based on thermal effect (i. e. Microwave thermotherapy), which can be further divided into three different modalities distinguished according to the goal temperature level or interval: -a) Diathermia: heating up to 41 C (applications in physiotherapy)b) Hyperthermia: heating into the interval of 41-45 C (applications in oncology)c) Thermodestruction / thermoablation: over 45 C (applications in urology)",
-        "cop": 1,
-        "opa": "Thermal effect",
-        "opb": "Ionizing effect",
-        "opc": "Stereotactic effect",
-        "opd": "All of the above",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "445926a4-a9dc-4314-8728-3ea246efa0a7",
-        "choice_type": "multi"
     },
     {
         "question": "Seminoma is best treated by",
@@ -455,45 +364,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Permanent implant for brachytherapy are all except-",
-        "exp": "Ans. is 'd' i. e. Iridium-192 * There are three main types of radiotherapy depending upon the position of the source of radiation1) External beam radiotherapy (EBRT) or Teletherapy# In teletherapy the source of radiation is distant from the patient. Teletherapy may be given by the following. i) X-rays beams (Linear acceleration)* Superficial x-rays: 40 to 120 KV* Orthovoltage x-rays: 250 to 400 KV* Supervoltage x-rays: 400 to 1000 KV* Megavoltage: 2, 4, 6, 12 & 35 Me. Vii) Gamma rays: - Cobalt - 60 beam or Cesium-137iii) Particulate beams: -* Electron (Linear accelerator)* Proton (Betatron or cyclotron)* Neutrons (Californium)2) Internal radiotherapy or brachytherapy: - In brachytherapy, the radiation source in close contact with tumor. The principle is to use an Intra or Juxta lesional radiation implant to irradiate the tumor in vicinity. Sealed source in placed within or near the tumor i. e., Short distance therapy. Brachytherapy may be of following types: -a) Interstitial: - Artificial radioactive sources are inserted directly into tumor tissues. The radioactive sources (implant) may be either temporary/removable or permanent. Removable/Temporary sources or implants. Permanent sources or implants* Iridium-192 (Ir-192). Cesium-131 (Cs-131)* Cesium-137 (Cs-137). Yttrium* Cobalt-60 (Co-60). Gold-198 (Au-198)* Californum125I* Radium-226 (Ra-226). Radon-222 (Rn-222)* Tantalum. Pallidum -103 (Pd-103). Note: Co-60 and Cs-137 are used for both teletherapy and brachytherapy. b) Intracavitary: - Artificial radioactive sources are inserted into natural body cavities. Most important use of intracavitary radiation is in patients with the cancer of the cervix after external radiation. It is also used in cancer of uterus, esophageal cancer and lung cancer. Removable. Permanent. Radium. Colloidal radioactive gold. Cesium-137. Yttrium. Cobalt-60. Radioactive iodine (l31I)c) Mould:- Source is used in mould form, as used in carcinoma of penis.# Depending on the dose, Brachytherapy may be divided into: -i) Low dose rate (LDR);- Sources emit radiation at a rate of up to 2 Gy/hour. LDR brachytherapy is commonly used for cancer of oral cavity, oropharynx, sarcomas and prostate. ii) Medium dose rate (MDR):- Sources emit radiation between 2-12 Gy/hour. iii) High dose rate (HDR) Sources emit radiation >12 Gy/hour. The most common applications of HDR brachytherapy are in tumors of the cervix, esophagus, lungs, breasts and prostate. Most common radioisotope used for HDR brachytheray is iridium-192. Other isotopes which have been used are Cobalt-60 and cesium-137iv) Pulsed-dose rate (PDR):- Involves short pulses of radiation, typically once an hour, to simulate the overall rate and effectiveness of LDR treatment. Advantages of brachytherapy* Maximum radiation effect in diseased tisue and microscopic residual disease.* Relative sparing of adjacent normal tissues.* Better oxygenation of the surgical bed.* Reduced overall treatment time.* Can be used for most of the malignancies where radiotherapy is the component of treatment. Disadvantages of brachytherapy* Invasive* Requires trained 'personnel': - Cancer control is operator dependent.* Local symptoms, e. g., Burning sensation when used in prostatic cancer; diarrhea & pain or proctitis when used in rectal carcinoma.* Has to be performed under anesthesia (Local or general). 3) Systemic radiotherapy: - Radioisotopes are given systemically (iv). Following are used (Pure beta-emitters):-# 32p (in polycythemia rubra vera).# 1311 (in papillary carcinoma thyroid)# Strontium-89 (In painful bone metastasis).# Samarium -153 (in painful bone metastasis)# Yttrium (in medical synovectomy)# Rhenium",
-        "cop": 4,
-        "opa": "Cesium-131",
-        "opb": "Gold-198",
-        "opc": "Radon-222",
-        "opd": "Iridium-192",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "4af62e66-a273-477a-aad3-80b14a3cb410",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are indications for Gamma Knife Radiosurgery EXCEPT",
-        "exp": "(D) Brain tumors or lesions 4 cm or larger in diameter# GAMMA KNIFE RADIOSURGERY or Stereotactic Radiosurgery (SRS), is a very precise form of therapeutic radiology. Even though it is called surgery, a Gamma Knife procedure does not involve actual surgery, nor is the Gamma Knife really a knife at all. It uses beams of highly-focused gamma rays to treat small to medium size lesions, usually in the brain. Many beams of gamma radiation join to focus on the lesion under treatment, providing a very intense dose of radiation without a surgical incision or opening.> Gamma Knife radiosurgery has shown some promise for treating conditions such as tremor and rigidity related to Parkinson's disease, epilepsy, and chronic pain.# Gamma Knife Radiosurgery Indications: 1. Arteriovenous malformation (AVM) can be managed by microsurgery, endovascular embolization, or SRS. 2. Trigeminal neuralgia (TN): Treatment options include medications, surgical procedures including microvascular decompression, radiofrequency rhizotomy, glycerol rhizolysis and balloon compression, and SRS (Gamma Knife- or linear accelerator-basedradiosurgery). SRS targets the proximal trigeminal root3. Meningioma: SRS can deliver a single, high dose of radiation to a localized area in the brain for the treatment of meningiomas that are unresectable, recurrent, or residual after surgery. 4. Acoustic neuroma or acoustic schwannoma, acoustic neurinoma, vestibular schwannoma, and vestibular neurilemoma: It is a Schwann cell-derived tumor arising from the vestibular portion of the eighth cranial nerve. Treatment options include observation, microsurgery, SRS, and stereotactic radiotherapy. 5. Pituitary adenoma. Treatment options include microresection, medical therapy, fractionated radiotherapy, SRS, and stereotactic radiotherapy. SRS has been used in the treatment of endocrine-inactive as well as secretory pituitary adenomas. 6. Brain metastases: Brain metastases tend to be spherical and have a sharp demarcation from normal brain parenchyma. These characteristics are ideal for SRS because spherical dose distributions can readily be generated by the radio surgical systems and the use of tight margins is feasible. 7. Malignant glioma is highly lethal. Multiple strategies, including SRS, have been used to execute dose escalation8. Glomus tumors are ideal targets for SRS since they are well demarcated and are readily identified on MRI. 9. Low-grade astrocytoma: The standard treatment for low-grade astrocytoma is surgery and/or conventional radiotherapy. SRS has been used to treat low-grade astrocytoma in the recurrent, boost, and primary setting10. Ependymoma: The standard treatment for intracranial ependymoma is maximal safe resection followed by postoperative radiotherapy. 11. Uveal melanoma: Historically, uveal melanomas were primarily managed by enucleation. Eye plaques (using iodine-125) and proton beam therapy have since been established as treatment alternatives for the disease. Use of Gamma Knife-based SRS has been explored in uveal melanoma. 12. Epilepsy: SRS has been used to manage seizure disorders such as mesial temporal epilepsy (MTE) and seizures caused by AVMs, cavernomas, and hypothalamic hamartomas.> GAMMA KNIFE Radiosurgery Contraindications: 1. Gamma Knife-based SRS is not suitable for tumors or lesions 4 cm or larger in diameter or immediately adjacent to eloquent structures such as the optic apparatus and brainstem if a dose of higher than 12 Gy is needed to control the tumor. 2. In the pediatric age group, Gamma Knife-based SRS is, in general, not suitable for patients whose skulls are not completely fused, because invasive pin placement for securing the stereotactic head frame is required in Gamma Knife surgery. 3. In circumstances in which the tumor is located inferior to the skull base to a degree that the stereotactic head frame cannot be placed to enable adequate stereotactic localization, a frameless system such as Cyber Knife can be used.",
-        "cop": 4,
-        "opa": "Trigeminal neuralgia",
-        "opb": "Acoustic neuroma",
-        "opc": "Arteriovenous malformation",
-        "opd": "Brain tumours or lesions 4 cm or larger in diameter",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "ad7ca918-7ee4-4053-ad26-0ffab2826591",
-        "choice_type": "multi"
-    },
-    {
-        "question": "About Linear energy transfer all are false except",
-        "exp": "LET (linear energy transfer) - it is the amount of energy deposited per unit length. Given as Kev/ micrometer. It is highest for alpha paicle (high LET), low for beta paicles and gamma emissions (Low LET). It is a propey of the radiation. OER (oxygen enhancement ratio )is the ratio of the quantity of radiation required to kill tumor cells in the absence of oxygen to the quantity of radiation required to kill the same amount of tumor cells in the presence of oxygen. OER is low for high LET radiations (OER= 1) and high for low LET radiations(OER= 2-3).",
-        "cop": 4,
-        "opa": "Low LET radiations are more lethal",
-        "opb": "It is the propey of the tissue",
-        "opc": "Same as relative biological effectiveness",
-        "opd": "High LET radiations have low oxygen enhancement ratio",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "94033fc7-3ea1-4741-b245-fe02f06f8e32",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common cancer worldwide is",
         "exp": "Lung cancer is the most common cancer and the most common cause of cancer death in the world. Reference: Harrison; 19th edition",
         "cop": 2,
@@ -518,19 +388,6 @@
         "topic_name": "Radiotherapy",
         "id": "0816b77c-a2c1-4276-a8cb-bb21e4bfce7e",
         "choice_type": "single"
-    },
-    {
-        "question": "True about gamma knife radiotherapy",
-        "exp": "(B) It is used for both benign and malignant cases # GAMMA KNIFE is a type of Radiosurgery machine that acts by focussing low dose Gamma radiation from many sources on a precise target. Areas adjacent to the target receive only slight dose of radiation while the target receive the full intensity. It works by the principle of alteration of the DNA structure within the lesion that fails to reproduce. This procedure is unique in that no surgical incision are performed to expose the target.> It contains Co-60 sources of approx. 30 Curies each placed in a circular array in a heavily shielded unit. The units directs Gamma rays to the target.> As this type of Surgery is less invasive, so post-op. pain is less with early recovery.> Gamma Knife is used in: Benign & malignant brain tumors Arteriovenous Malformations Pain (Trigeminal Neuralgias) & movement disorders (Parkinsonism) Treatment of epilepsy Acoustic neuroma",
-        "cop": 2,
-        "opa": "Gamma rays are emitted from uranium",
-        "opb": "It is used for both benign and malignant cases",
-        "opc": "It is a special kind of knife",
-        "opd": "Reduced blood loss in surgery",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "f161dd8f-580d-4ad2-b509-85d3fe7aefa4",
-        "choice_type": "multi"
     },
     {
         "question": "Maximum radiation dose tolerable tissue is -",
@@ -585,19 +442,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A free radical is",
-        "exp": "Free radicals are atoms or groups of atoms with an odd (unpaired) number of electrons. Reference: Khan Physics of Radiation therapy; 5th edition",
-        "cop": 2,
-        "opa": "Any charged paicle",
-        "opb": "An atom or molecule with an unpaired electron in the outer shell",
-        "opc": "An atom with an even number of electrons",
-        "opd": "A chemically stable atom",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "4d369b2c-3de4-4d74-9052-f72afab2c0f9",
-        "choice_type": "multi"
-    },
-    {
         "question": "The thresholds for permanent sterility in women for prepubeal exposure and premenopausal exposure conditions are",
         "exp": "In women, radiation is highly effective at inducing permanent ovarian failure, but there is a marked age dependence insensitivity. The dose required to induce permanent sterility varies from 12 Gy (1, 200 rad) prepubeal to 2 Gy (200 rad) premenopausal. Pronounced hormonal changes, comparable to those associated with the natural menopause, accompany radiation-induced sterilization in females. Reference: Eric J Hall Textbook of Radiobiology for Radiologist; 5th edition",
         "cop": 3,
@@ -637,19 +481,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The most radio sensitive tumor amongst the following is:",
-        "exp": "Ans. (b) Seminoma. Ref: Devita Th/1907* Most radiosensitive tumor: HL > Ewings* Most radiosensitive tumor of head and Neck: Nasopharyngeal CA > Glottic CARadiosensitivity of tumors. Highly sensitive. Moderate sensitive. Relatively Resistant. Highly Resistant# Ewing's sarcoma# Lymphoma# Wilms tumor# Multiple Myeloma# Seminoma# Nasopharyngeal CA# Dysgerminoma# Medulloblastoma# Small Cell Cancer lung# Breast Cancer# Ovarian Cancer# Basal cell cancer# Nasopharyngeal Cancer# Dysgerminoma# Small Cell Cancer lung# Breast Cancer# Ovarian Cancer# Basal cell cancer# Renal cell CA# Rectal/ colon cancer# Bladder Carcinoma# Soft tissue sarcoma Squamous cell carcinoma of lung# Cervix cancer# Hepatoma# Melanoma# Pancreatic cancer# Osteosarcoma",
-        "cop": 2,
-        "opa": "Small cell lung cancer",
-        "opb": "Seminoma",
-        "opc": "Soft tissue sarcoma",
-        "opd": "Osteosarcoma",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "16d39c5e-9183-4937-a134-51632b9ba664",
-        "choice_type": "multi"
-    },
-    {
         "question": "Principle of X-ray production used in diagnostic and therapeutic radiation devices is",
         "exp": "Conventional x-ray tube consists of a glass envelope which has been evacuated to high vacuum. At one end is a cathode (negative electrode) and at the other an anode (positive electrode), both hermetically sealed in the tube. The cathode is a tungsten filament which when heated emits electrons, a phenomenon known as thermionic emission. The anode consists of a thick copper rod, at the end of which is placed a small piece of tungsten target. When a high voltage is applied between the anode and the cathode, the electrons emitted from the filament are accelerated toward the anode and achieve high velocities before striking the target. The x-rays are produced by the sudden deflection or acceleration of the electron caused by the attractive force of the tungsten nucleus. Reference: Eric J Hall Textbook of Radiobiology for Radiologist; 5th edition",
         "cop": 1,
@@ -661,19 +492,6 @@
         "topic_name": "Radiotherapy",
         "id": "69791c25-3634-46b6-be42-f415ac466182",
         "choice_type": "single"
-    },
-    {
-        "question": "Clinically useful radiation from cobalt 60 is",
-        "exp": "Cobalt units produce stable, dichromatic gamma beams of 1. 17 and 1. 33 MeV, resulting in an average beam energy of 1. 25 MeV. The cobalt-60 isotope has a half-life of 5. 3 years Reference: Eric J Hall Textbook of Radiobiology for Radiologist; 5th edition",
-        "cop": 1,
-        "opa": "Gamma radiation",
-        "opb": "Beta radiation",
-        "opc": "Alpha paicles",
-        "opd": "Photons",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "727f6eef-01ca-4af4-8d4d-2da3f4be22cc",
-        "choice_type": "multi"
     },
     {
         "question": "Field carcinogenesis theory is commonly seen in",
@@ -700,19 +518,6 @@
         "topic_name": "Radiotherapy",
         "id": "3e111589-eea5-4a70-a538-bcddcb2308e7",
         "choice_type": "single"
-    },
-    {
-        "question": "Tissue or tumor-specific tumor markers are all Except",
-        "exp": "LDH, it is elevated in many hematological malignancies and Ewing&; s sarcoma, it is considered as a representative of tumor burden. Reference: Harrison; 19th edition",
-        "cop": 4,
-        "opa": "PSA",
-        "opb": "Calcitonin",
-        "opc": "Cathecolamines",
-        "opd": "LDH",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "15c9413b-a59c-4ae7-9efc-9ceb5353c588",
-        "choice_type": "multi"
     },
     {
         "question": "Earliest feature of radiation toxicity is",
@@ -752,19 +557,6 @@
         "topic_name": "Radiotherapy",
         "id": "60fa1475-03dc-4cf5-a4cf-a4481696d728",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about stereotactic radiosurgery except-",
-        "exp": "Ans. is 'd' i. e. Damage to nearby structures is significant* Streotactic radiosurgery is a form of radiation therapy that focuses high powered X-rays on a small area of the body. Stereotactic radiosurgery better focuses teh radiation on the abnormal area. Despite its name, radiosurgery is a form of radiation therapy, not a surgical procedure. Stereotactic radiosurgery is often used to slow down the growth of small, deep brain tumors that are hard to remove during surgery. Such therapy may also be used in patients who are unable to have surgery, such as the elderly or those who are sick.* In Stereotactic radiosurgery, focused high dose of radiation is administered to a precisely defined volume of tissue in a single treatment, usually using the gamma Knife. Gamma knife contains Cobalt-60 sources of approximately 30 curis placed in circular array in a heavily shielded unit. The unit directs the gamma rays to the target. Besides gamma knife, X-ray knife (linear accelerator) and cyclotron (proton beam) are also used.* Advantage of stereotactic radiosurgery are: -i) Achieve tumor ablation without surgery. ii) Damage to nearby structure is minimized as radiation is delivered to focused area. iii) Tumor ablation can be achieved in difficult location, e. g., brain. Uses of stereotactic surgery* The most important use of stereotactic surgery is for brain tumors and the use of stereotactic surgery was once limited to brain tumors. But today it may be used to treat many other diseases and conditions. Uses of Stereotactic radiosurgery. Tumors in Nervous system. Other conditions. Other cancers for which radiosurgery is being used or studied* Brain tumors (including metastasis)* Acoustic neuroma* Head & Neck (e. g., nasopharyngeal carcinoma)* Pituitary tumors* Spinal cord tumors* Cancer of eye (uveal melanoma)* AV malformation* Movement disorders* Parkinsonism* Some type of epilepsy* Trigeminal neuralgia* Liver cancer* Lung cancer (Stage I inoperable)* Prostate cancer",
-        "cop": 4,
-        "opa": "X-rays are used",
-        "opb": "A form of radiotherapy",
-        "opc": "Used in AV malformation",
-        "opd": "Damage to nearby structures is significant",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "8022ee90-f9a5-4613-a97e-3ca68e4dc0a2",
-        "choice_type": "multi"
     },
     {
         "question": "Most Radio sensitive stage-",
@@ -819,19 +611,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What is the most impoant lesion produced in chromosomal DNA by exposure to ionizing radiation?",
-        "exp": "In intact DNA, single strand breaks (SSBs) are of little biologic consequence because they are repaired readily using the opposite strand as a template. If the repair is incorrect (misrepair), it may result in a mutation. If both strands of the DNA are broken and the breaks are well separated, repair again occurs readily, because the two breaks are handled separately. By contrast, if the breaks in the two strands are opposite one another or separated by only a few base pairs, this may lead to a double-strand break (DSB); that is, the piece of chromatin snaps into two pieces. Double-strand breaks are the most impoant lesions produced in chromosomes by radiation. Reference: Eric J Hall Textbook of Radiobiology for Radiologist; 5th edition",
-        "cop": 3,
-        "opa": "A break on one DNA strand ('single-strand break')",
-        "opb": "Well-separated breaks on both DNA strands",
-        "opc": "Breaks on both DNA strands which are opposite each other or separated by only a few bases ('double-strand break')",
-        "opd": "Multiple breaks on the same DNA strand",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "112bdb28-2d32-4207-98fe-de472a7145c5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mould therapy is used in the treatment of:",
         "exp": "Ans: d (Skin cancer). Mould therapy is actually used in the treatment of penile carcinomas. But in the choices there was no penile cancer. As penile carcinoma can be considered as penile skin cancer and is squamous cell carcinoma, it better to go for the option skin cancer",
         "cop": 4,
@@ -843,18 +622,5 @@
         "topic_name": "Radiotherapy",
         "id": "c98ffa4a-bf88-4296-a38a-7fc9aeb4e328",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements is false",
-        "exp": "It is impoant to recognize that hypoxia in tumours can result from two quite different mechanisms. Chronic hypoxia results from the limited diffusion distance of oxygen through tissue that is respiring. The distance to which oxygen can diffuse is largely limited by the rapid rate at which it is metabolized by respiring tumour cells. Many tumour cells may remain hypoxic for long periods of time. In contrast to chronic hypoxia, acute hypoxia is the result of the temporary closing of a tumour blood vessel owing to the malformed vasculature of a tumour, which lacks smooth muscle and often has an incomplete endothelial lining and basement membrane. Tumor cells are exposed to a continuum of oxygen concentrations, ranging from the highest in cells surrounding the capillaries to almost anoxic conditions in cells more distant from the capillaries. This is significant because both chronic and acute hypoxia has been shown to drive malignant progression. Reference: Eric J Hall Textbook of Radiobiology for Radiologist; 5th edition",
-        "cop": 4,
-        "opa": "Hypoxia in tumours can result from two different mechanisms: chronic hypoxia and acute hypoxia",
-        "opb": "Acute hypoxia is caused by a temporary closing of a blood vessel in the tumour",
-        "opc": "Chronic hypoxia is caused by the limited diffusion distance of oxygen through tissue that is respiring",
-        "opd": "Oxygen does not affect the radiosensitivity of tumours",
-        "subject_name": "Radiology",
-        "topic_name": "Radiotherapy",
-        "id": "01dfa21f-3221-422e-a229-4d6c887dbea7",
-        "choice_type": "multi"
     }
 ]

@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "'Cloudy cornea' is a feature of?",
-        "exp": "Ans. D. All of the above. (Ref Essential Paediatrics by OP Ghai 7th/pg. 637)'Cloudy cornea' is known to be a feature of Hurler's disease/IH, Scheie's disease/IS, Morquio's disease/IV and Maroteaux Lamy disease/VI. C/f of mucopolysaccharidoses: Eponyms/MPS numbers. Mentalretardation. Coarse facies. Hepatospleno-megaly. Dysostosismultiplex. Corneal clouding1. Hurler/IH+++++2. Scheie's/IS----+3. Hunter/U++++-4. Sanfilipo/lll+----5. Morquio/IV---++6. Maroteaux-Lamy / VI---++7. Sly/VII--++-Features of Hurler Syndrome:# H: Hepatosplenomegaly# U: Ugly facies# R: Recessive (AR)# L: L-iduronidase deficiency# E: Eyes (Cornea) clouded# R: Retarded mentally# S: Short stubby fingers",
-        "cop": 4,
-        "opa": "Hurler's disease",
-        "opb": "Morquio's disease",
-        "opc": "Maroteaux Lamy disease",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Inborn Errors of Metabolism",
-        "id": "ff604516-e8e7-43c4-8500-844f636d7ae9",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 6-month-child presents with episodes of vomiting after ingesting fruit juice. Which of following enzyme deficiency is likely?",
         "exp": "a. Aldolase B(Ref: Nelson's 20/e p 720-728, Ghai 8/e p 655-657). In the given scenario, the child becomes symptomatic after ingesting fruit juice, which is often sweet, containing sucrose and hence, glucose and fructose. So, he is suffering from Hereditary Fructose intolerance.",
         "cop": 1,
@@ -50,19 +37,6 @@
         "topic_name": "Inborn Errors of Metabolism",
         "id": "b153eaf7-cf1a-46db-8dbb-434a15eeeafe",
         "choice_type": "single"
-    },
-    {
-        "question": "Wilson disease all are true except -",
-        "exp": "Ans. is 'd' i. e., Raised ceruloplasmin level Wilson diseaseo Autosomal recessive. o Degenerative changes in brain, liver and KF ring in cornea (Descement membrane), o Defect in Copper metabolism (copper toxicosis). o Best screeing test is to measure serum ceruloplasmin, o Decrease ceruloplasmin in WDo Failure of copper to be incorporated into ceruloplasmin leads to plasma protein with shorter TlA which leads to decrease ceruloplasmin level.",
-        "cop": 4,
-        "opa": "AR",
-        "opb": "KF ring",
-        "opc": "Raised copper level",
-        "opd": "Raised ceruloplasmin level",
-        "subject_name": "Pediatrics",
-        "topic_name": "Inborn Errors of Metabolism",
-        "id": "c0996bf2-5709-4ef4-b362-d0c47a12c89a",
-        "choice_type": "multi"
     },
     {
         "question": "A child with hypoglycemia is not able to utilize glucose from glycogenolysis or gluconeogenesis. Which of the following enzyme is deficient in the child?",
@@ -247,32 +221,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Metabolic abnormalities in which jaundice is seen are all of the following except?",
-        "exp": "a. Von Gierke disease(Ref: Nelson 20/e p 716). In Von Gierke disease, hepatic carbohydrate metabolism is affected, which is responsible for plasma glucose homeostasis. So, fasting hypoglycemia and hepatomegaly is seen. Despite, marked hepatomegaly, the liver transaminase levels are usually normal or only slightly elevated. Jaundice is usually not seen.",
-        "cop": 1,
-        "opa": "Von Gierke disease",
-        "opb": "Galactosemia",
-        "opc": "Tyrosinemia",
-        "opd": "Hereditary fructose intolerance",
-        "subject_name": "Pediatrics",
-        "topic_name": "Inborn Errors of Metabolism",
-        "id": "81fb0cc5-5437-442b-90c4-ef7d8f8a37a6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is false about alkaptonuria?",
-        "exp": "a. Genitourinary system not involved(Ref: Nelson's 20/e p 636-642, Ghai 8/e p 653-655). Genitourinary system is also involved in Alkaptonuria, as this enzyme is expressed only in liver and kidneys; darkening of urine on standing is an important feature of Alkaptonuria.",
-        "cop": 1,
-        "opa": "Genitourinary system not involved",
-        "opb": "Homogentisic acid oxidase deficiency",
-        "opc": "Black urine",
-        "opd": "Calcification in vertebral bodies",
-        "subject_name": "Pediatrics",
-        "topic_name": "Inborn Errors of Metabolism",
-        "id": "10e919cc-67a9-42cb-a90b-76c774652afa",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following enzymes is deficient in albinism?",
         "exp": "Ans. is 'c' i. e., Tyrosinase",
         "cop": 3,
@@ -416,19 +364,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In which of the following metabolic disorders, this skin finding is characteristically seen?",
-        "exp": "a. Fabry disease. The skin lesions shown in the given picture are angiokeratomas, that are characteristically seen in Fabry disease, but can also be seen in Fucosidosis & b mannosidosis.",
-        "cop": 1,
-        "opa": "Fabry disease",
-        "opb": "Farber disease",
-        "opc": "Galactosemia",
-        "opd": "Albinism",
-        "subject_name": "Pediatrics",
-        "topic_name": "Inborn Errors of Metabolism",
-        "id": "e1b29c5c-663e-4ff4-b6be-b3b8b7633159",
-        "choice_type": "multi"
-    },
-    {
         "question": "Darkening of urine on standing is associated with:",
         "exp": "a. Alkaptonuria(Ref: Nelson's 20/e p 636-642, Ghai 8/e p 653-655). Darkening of urine on standing is associated with Alkaptonuria, due to Homogentisic acid oxidase deficiency.",
         "cop": 1,
@@ -533,19 +468,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true regarding subacute combined immunodeficiency except:",
-        "exp": "Ans: B (Toxicity of leucocytes due to accumulation of c. AMP) Ref: Net son's Textbook of Pediatries. 19th Edition, Page: Explanation:\"Marked accumulations of adenosine, 22 - deoxyadenosine, and 22 -O-methyladenosine lead directly or indirectly to T-cell apoptosis, which causes the immunodeficiency\" (Ref: Net son). Severe Combined Immunodeficiency (SOD). Both cellular and humoral immunity affected. MC type is X-linked SCID (X-SCD) due to mutation in Common Cytokine Receptor g Chain (gC). Second most common form of SCID is absence of the enzyme adenosine deaminase (ADA) (15% patients). All patients with SCID have very small thymuses (<1 g). Thymus fail to descend from the neck, contain no thymocytes, and lack corticomedullary distinction or Hassall corpuscles. The thymic epithelium appears histologically normal. Both the follicular and paraeortical areas of the spleen are depleted of lymphocytes. Lymph nodes, tonsils, adenoids, and Peyer patches are absent or extremely underdeveloped. Clinical Manifestations. Affected infants present within the 1st few months of life with- Recurrent or persistent diarrhea- Pneumonia- Otitis media- Sepsis- Cutaneous infections- Growth failure. Persistent infections with opportunistic organisms including lead to death. Candida albicans. Pneumocystis jiroveci. Parainfluenza 3 virus. Adenovirus. Respiratory syncytial virus. Rotavirus vaccine virus. Cytomegalovirus (CM V). Epstein- Barr virus (EB V) Varicella-zoster virus. Measles virus. MMR-V vaccine virus. Bacillus Calmette-Guerin (BCG). Affected infants also lack the ability to reject foreign tissue and are therefore at risk for severe or fatal graft versus host disease (GVHD) from T lymphocytes in nonirradiated blood products or in allogeneic stem cell transplants or less severe GVHD from maternal immunocompetent T cells that crossed the placenta while the infant was in utero. These infants also have an absence of lymphocyte proliferative responses to mitogens, antigens, and allogeneic cells in vitro. Patients with adenosine deaminase (ADA) deficiency have the lowest absolute lymphocyte counts, usually <500/mm3. Serum immunoglobulin concentrations are low or absent. No antibodies are formed after immunizations. T cells are extremely low or absent. Treatment. SCID is a true pediatric emergency. Unless immunologic reconstitution is achieved through stem cell transplantation, death usually occurs during the 1 st yr of life and almost invariably before 2 yr of age.",
-        "cop": 2,
-        "opa": "Due to deficiency of adenosine deaminase",
-        "opb": "Toxicity of leucocytes due to accumulation of c. AMP",
-        "opc": "Both cellular and humoral immunity affected",
-        "opd": "Bone marrow transplantation is the treatment",
-        "subject_name": "Pediatrics",
-        "topic_name": "Inborn Errors of Metabolism",
-        "id": "82889032-baa5-41b1-b421-83414277be8a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Oochronosis is found in:",
         "exp": "a. Alkaptonuria(Ref: Nelson's 20/e p 636, Ghai 8/e p 652). Ochronosis (dark spot on sclera/ear cartilage) is seen in Alkaptonuria which is an autosomal recessive disorder due to deficiency of enzyme homogentisic acid oxidase.",
         "cop": 1,
@@ -583,19 +505,6 @@
         "topic_name": "Inborn Errors of Metabolism",
         "id": "0c0d76b5-320b-4c8d-9684-01c17fc30cda",
         "choice_type": "single"
-    },
-    {
-        "question": "An Infant presents with hepatomegaly, hypoglycemia, hyperlipidemia and acidosis. Most probable underlying diagnosis is:",
-        "exp": "a. Von Gierke's(Ref: Nelson's 20/e p 715-725, Ghai 8/e p 655-657). Presence of hepatomegaly, hypoglycemia, hyperlipidemia & acidosis, point towards Von Gierke disease.",
-        "cop": 1,
-        "opa": "Von Gierke's",
-        "opb": "Con's disease",
-        "opc": "Pompe's disease",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Inborn Errors of Metabolism",
-        "id": "884e38eb-3d63-49b2-878a-723a8a81ede4",
-        "choice_type": "multi"
     },
     {
         "question": "In Hartnup disorder, metabolism of which of the following amino acids is affected?",
@@ -648,19 +557,6 @@
         "topic_name": "Inborn Errors of Metabolism",
         "id": "cc8a6ca9-db5e-4c22-936c-d548e68f179d",
         "choice_type": "single"
-    },
-    {
-        "question": "All are metabolic causes of liver disease except:",
-        "exp": "a. Histiocytosis(Ref: Ghai 9/e p 648). Metabolic causes of Liver disease: Carbohydrate disorders: Galactosemia, HFI, GSDAmino acid disorders: Tyrosinemia, Urea cycle defects, MSUDLipid disorders: Gaucher disease, Niemann-Pick disease, Wolman disease. Others: Zellweger syndrome, Wilson disease, alpha 1 AT deficiency, CF, Hemochromatosis Langerhans cell histiocytosis refers to reactive proliferation of dendritic cells",
-        "cop": 1,
-        "opa": "Histiocytosis",
-        "opb": "Hemochromatosis",
-        "opc": "Gaucher disease",
-        "opd": "Wilson disease",
-        "subject_name": "Pediatrics",
-        "topic_name": "Inborn Errors of Metabolism",
-        "id": "514e8773-2b73-40a9-b71d-d408e9c2321b",
-        "choice_type": "multi"
     },
     {
         "question": "Mental retardation is not a feature in this aminoaciduria:",
@@ -726,19 +622,6 @@
         "topic_name": "Inborn Errors of Metabolism",
         "id": "78dc8079-d09a-4419-85c2-9994dca36a82",
         "choice_type": "single"
-    },
-    {
-        "question": "False about hartnup's disease:",
-        "exp": "Ans: B (Menial retardation is the common presentation) Ref: Nt? Ison's Textbook of Pediatrics. 19th Edition. Explanation: Hartnup disease. It is a rare inborn error of metabolism with autosomal recessive inheritance. Neutral amino acids, including tryptophan, are not transported across the brush border epithelium of the intestine and kidneys, This results in deficiency of synthesis of nicotinamide. It causes a photo-induced pellagra-like syndrome. Increased urinary monoamine monocarboxylic amino acids. Cutaneous signs precede neurologic manifestations. Eczematous, occasionally vesiculobullous eruption noted on the face and extremities in a glove-and-stocking photodistribution. Hyperpigmentation and hyperkeratosis may supervene and are intensified by further exposure to sunlight. Episodic flares may be precipitated by febrile illness, sun exposure, emotional stress, and poor nutrition. Emotional instability and episodic cerebellar ataxia. Neurologic symptoms are fully reversible. Administration of nicotinamide and protection from sunlight improves both cutaneous and neurologic manifestations.",
-        "cop": 2,
-        "opa": "Defect in neutral aminoacid transport",
-        "opb": "Mental retardation is the common presentation",
-        "opc": "Most children are asymptomatic",
-        "opd": "Photosenitivity",
-        "subject_name": "Pediatrics",
-        "topic_name": "Inborn Errors of Metabolism",
-        "id": "f8c48762-5b53-4105-8e21-7031ad3c2747",
-        "choice_type": "multi"
     },
     {
         "question": "Massive aminoaciduria without a corresponding increase in plasma amino acid level is characteristic of which one of the following diseases?",

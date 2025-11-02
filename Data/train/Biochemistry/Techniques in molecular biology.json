@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are used in a PCR reaction, EXCEPT",
-        "exp": "Components of PCR 1. Template DNA 2. Pair of DNA Primers 3. Thermostable DNA polymerase 4. d. NTPs 5. Buffer with divalent cation dd. NTP (dideoxynucleotide triphosphates) Not used in PCR; Used in sanger's chain-termination method",
-        "cop": 2,
-        "opa": "Buffer",
-        "opb": "dd. NTPs",
-        "opc": "Oligonucleotide Primer pair",
-        "opd": "Template DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Techniques in molecular biology",
-        "id": "dd6691c8-7a50-4162-8c97-9969bf5f41fa",
-        "choice_type": "multi"
-    },
-    {
         "question": "DNA foot printing is used to detect",
         "exp": "Techniques of detection of DNA-Protein interaction: DNA footprinting Yeast one-hybrid system Electrophoretic mobility shift assay (EMSA)",
         "cop": 4,
@@ -117,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What strategy in transcription factor research allows for the simultaneous identification of all of the genomic sites bound by a given transcription factor under a given set of physiological conditions?",
-        "exp": "Fluorescence Resonance Energy Transfer (FRET) DNase I hypersensitive sites (DHSs) Flourscent In Situ Hybridisation (FISH) Chromosome Immunoprecipitation (Chip) Detect the distance between two macromolecules Used to detect actively transcribed genes Used to detect Aneuploidy To find the region of DNA to which DNA binding proteins bind Protein-protein interaction technique Based on the principle that Chromatin containing active genes are sensitive to cleavage by DNase I enzyme Can detect few genes at a time (Not High-throughput) Use Fluorescent DNA probes that binds to a specific region of chromatin Can detect few genes at a time (Not High-throughput) use number of specific probes (DNA, RNA) attached to a solid suppo such as glass slide. can simultaneously detect a number of sites (High-throughput)",
-        "cop": 3,
-        "opa": "Fluorescence Energy Transfer (FRET)",
-        "opb": "DNAse I sensitivity",
-        "opc": "Chromatin immuno precipitation-sequencing (Ch. IP-seq)",
-        "opd": "FISH",
-        "subject_name": "Biochemistry",
-        "topic_name": "Techniques in molecular biology",
-        "id": "64a8b043-8ba7-4658-88f2-fbcb0378aef7",
-        "choice_type": "multi"
-    },
-    {
         "question": "SYBR Green Dye is used for:",
         "exp": "Dyes used in real time PCR SYBR based detection Taq. Man based detection Uses SYBR Green dye ds-DNA binding dye Not sequence specific Uses a fluorogenic probe specific to target gene It accumulates during PCR. Real Time PCR / Quantitative Fluorescence PCR (QF-PCR) / q PCR: Products are detected by fluorescence during (NOT after) the PCR reaction (in real time), not end time PCR.",
         "cop": 3,
@@ -156,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following can be used as vector for Gene therapy",
-        "exp": "Vectors used for gene delivery: Viral Vectors Non-viral Vectors Retroviruses Liposomes Adenoviruses Plasmids Herpes simplex viruses Physical methods",
-        "cop": 4,
-        "opa": "Viruses",
-        "opb": "Liposomes",
-        "opc": "Plasmids",
-        "opd": "All of these",
-        "subject_name": "Biochemistry",
-        "topic_name": "Techniques in molecular biology",
-        "id": "24777842-a93b-4e8a-a4ef-f6d6bcf5894e",
-        "choice_type": "multi"
-    },
-    {
         "question": "DNA from RNA is synthesized by-",
         "exp": "RNA can be conveed to DNA by reverse transcriptase. This DNA is c. DNA (complementary DNA). Reverse transcription Synthesis of DNA using RNA as template Enzyme: RNA dependent DNA Polymerase Involved in Retroviruses: HIV virus Transposons/jumping genes Telomerase",
         "cop": 3,
@@ -180,19 +141,6 @@
         "topic_name": "Techniques in molecular biology",
         "id": "e020e7cd-ffa0-4fe7-9d2d-130c76912df5",
         "choice_type": "single"
-    },
-    {
-        "question": "The process used to prevent the recircularization of the stick ends of DNA is:",
-        "exp": "The process used to prevent the recircularization of the stick ends of DNA is Homopolymer tailing Homopolymer tailing Involves adding a series of nucleotides on the 3'OH termini of a double-stranded DNA molecule using enzyme terminal deoxynucleotidyl transferase. Homopolymer tail is produced in the presence of one deoxynucleotide. Prevents recircularization of the stick ends of DNA For ligation of two tailed molecules, the homopolymers must be complementary.",
-        "cop": 1,
-        "opa": "Homopolymer tailing",
-        "opb": "Ligation by restriction endonucleases",
-        "opc": "Transfection",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Techniques in molecular biology",
-        "id": "b4068007-92d3-4089-9ff7-b1aeb15c2325",
-        "choice_type": "multi"
     },
     {
         "question": "Mutations that completely disrupt the function of the gene used in which of the following technique:",
@@ -221,19 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following method is used for the analysis of the C-terminal end of a polypeptide?",
-        "exp": "Akabori method is used for the analysis of C-terminal end of a polypeptide N-terminal analysis Carboxy-terminal analysis For post-translational modifications Sanger's reagent- fluoro-2, 4 dinitrobenzene (FDNB) Carboxypeptidase assay Mass spectrometry Edman's reagent- Phenylisothiocyanate (PITC) Akabori reaction",
-        "cop": 3,
-        "opa": "Sanger's method",
-        "opb": "Edman's degradation method",
-        "opc": "Akabori method",
-        "opd": "None of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Techniques in molecular biology",
-        "id": "6a0b35a5-fd86-47a6-8bce-0229890ef50a",
-        "choice_type": "multi"
-    },
-    {
         "question": "For karyotyping, the dividing cells are arrested by the addition of colchicines in the following mitotic phase:",
         "exp": "Colchicine is used during karyotyping to arrest the cell in metaphase In metaphase, all chromosomes lie at the equator",
         "cop": 2,
@@ -247,19 +182,6 @@
         "choice_type": "single"
     },
     {
-        "question": "PCR is primarily a",
-        "exp": "PCR (Polymerase chain reaction) DNA amplification technique. Even a single copy of DNA can be amplified to billion-fold due to exponential amplification.",
-        "cop": 2,
-        "opa": "DNA degradation technique",
-        "opb": "DNA amplification technique",
-        "opc": "DNA sequencing technique",
-        "opd": "All of these",
-        "subject_name": "Biochemistry",
-        "topic_name": "Techniques in molecular biology",
-        "id": "cb8e07e9-e357-47d3-9b1d-45a8a08b6506",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is necessarily to be present in expression vector but not in cloning vector?",
         "exp": "Cloning vector Expression vector DNA of interest is replicated and cloned into multiple copies. No transcription or translation happens with the cloning vector. The DNA of interest is expressed as RNA and proteins. The promoter is needed for transcription Shine-Dalgarno sequence (ribosomal entry site) is there to be recognized by ribosomal RNAs. eg: Synthesis of insulin All the other three components mentioned in question are present in both vector.",
         "cop": 4,
@@ -271,32 +193,6 @@
         "topic_name": "Techniques in molecular biology",
         "id": "878b70a5-c016-42df-8d56-d42023207052",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are true about genomic library, EXCEPT",
-        "exp": "A genomic library is bacteria with plasmids containing DNA fragments representing the majority of the genetic information from a plant or animal. Genomic library c. DNA library Genomic DNA isolated from an organism is digested by restriction enzymes and put in separate vectors. m. RNA is conveed to c. DNA which contains only exons. Each clone contains a fragment of the entire genome (exon + intron) of an organism within a vector. Each clone usually contains an intact gene Appropriate for small genome. Appropriate for large genome.",
-        "cop": 3,
-        "opa": "Collection of cloned DNA fragments",
-        "opb": "Screening is done by oligonucleotide probes",
-        "opc": "Only exons are present",
-        "opd": "Vectors are used to carry and replicate the fragments",
-        "subject_name": "Biochemistry",
-        "topic_name": "Techniques in molecular biology",
-        "id": "6a1f02a0-1647-4141-9fd7-8634d0a0ef64",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Genetic material is transferred from one bacteria to another by all EXCEPT:",
-        "exp": "Conjugation -A natural microbial recombination process. During conjugation a donor and a recipient come together, join by cytoplasmic bridges and transfer single stranded DNA. Inside the recipient the DNA will combine with chromosome which is rare or it will be remain free in case of plasmid Transduction - Transfer of DNA from one bacteria to another bacteria virus like bacteriophage Transformation - Transfer of DNA from dead bacteria or environment to another live bacteria Lipofection - Liposome mediated gene transfer. Liposome is lipid molecule that can carry nucleic acids. Transfection - DNA transfer into eukaryotic cell",
-        "cop": 4,
-        "opa": "Conjugation",
-        "opb": "Transduction",
-        "opc": "Transformation",
-        "opd": "Transfection",
-        "subject_name": "Biochemistry",
-        "topic_name": "Techniques in molecular biology",
-        "id": "d0b7253d-3478-4bc3-a220-c252b90ac555",
-        "choice_type": "multi"
     },
     {
         "question": "Which one of the following enzymes is obtained from Thermophillus aquaticus bacterium which is heat stable and used in PCR at high temperature:",
@@ -336,19 +232,6 @@
         "topic_name": "Techniques in molecular biology",
         "id": "f08f0c49-d184-401c-9236-789a9f3b5f1a",
         "choice_type": "single"
-    },
-    {
-        "question": "Steps of PCR in sequence are?",
-        "exp": "PCR - Method of amplifying a target sequence of DNA developed by Karry Mullis in 1984 Essential requirements of a PCR reaction: Targeted DNA Two primers Four deoxyribonucleotide Thermostable DNA polymerase Steps of PCR: 1. Denaturation: Two DNA strands separated (94o C) 2. Annealing: Addition of primers (one for each strand) (60oC) 3. Extension/Elongation: Polymerization or synthesis of DNA. (72oC) These cycles of Denaturation, Annealing, and Extension are repeated again and again to synthesize large amounts of DNA.",
-        "cop": 3,
-        "opa": "Extend DNA, Anneal Primers, Denature DNA",
-        "opb": "Anneal Primers, Extend DNA, Denature DNA",
-        "opc": "Denature DNA, Anneal Primers, Extend DNA",
-        "opd": "Denature DNA, Extend DNA, Anneal Primers",
-        "subject_name": "Biochemistry",
-        "topic_name": "Techniques in molecular biology",
-        "id": "ac1194cd-7f86-4b55-8871-e66c9db82b6f",
-        "choice_type": "multi"
     },
     {
         "question": "Enzyme used for c. DNA synthesis is",
@@ -466,19 +349,6 @@
         "topic_name": "Techniques in molecular biology",
         "id": "4be5c3a8-e2df-4dab-bb61-f3baf813b7f2",
         "choice_type": "single"
-    },
-    {
-        "question": "Transgenic animals are:",
-        "exp": "Transgenic animal Whose genome has been altered by the transfer of a gene from another species Genetically modified organisms with a new heritable character which serves as model for understanding human diseases. Proteins produced by transgenic animals are used as therapeutic agents.",
-        "cop": 4,
-        "opa": "Genetically modified organisms with a new heritable character",
-        "opb": "Serve as models for understanding the human diseases",
-        "opc": "Proteins produced by them are used as therapeutic agents",
-        "opd": "All the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Techniques in molecular biology",
-        "id": "d75ccaad-2bf3-4caf-a6a8-2a6a6d5ef6f1",
-        "choice_type": "multi"
     },
     {
         "question": "CRISPR/Cas9 mediated gene editing involves which of the following DNA repair mechanisms?",

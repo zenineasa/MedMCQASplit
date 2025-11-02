@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statement is true regarding Atazanavir:-",
-        "exp": "Atazanavir is effective against both against HIV 1 and HIV 2 but NNI are effective only against HIV 1. They do not decrease cholesterol and triglyceride levels. Combination with ritonavir have an advantage due to the phenomenon of Ritonavir boosting. The resistance is due to mutation in codon 50 isoleucine to valine substitution.",
-        "cop": 2,
-        "opa": "Effective against only HIV-1",
-        "opb": "Resistance is due to mutation in codon 50 isoleucine to valine substitution",
-        "opc": "Decrease cholesterol and triglyceride levels",
-        "opd": "Combination with ritonavir do not have any advantage",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-HIV Drugs",
-        "id": "20c3f14f-2cf7-4952-ab36-08f6f761564a",
-        "choice_type": "multi"
-    },
-    {
         "question": "A person is being treated for Human Immunodeficiency Virus-1. He developed hyperiglyceridemia and hypercholesterolemia. Most likely drug implicated for these adverse effects is",
         "exp": "Ritonavir is a protease inhibitor and can cause hyperiglyceridemia and hypercholesterolemia. All protease inhibitors are metabolized by liver and all can cause metabolic abnormalities including hypercholesterolemia, diabetes mellitus, hyperlipidemia, insulin resistance and altered fat istribution (lipodystrophy). Atazanavir is devoid of this adverse effect. Tesamorelin is a synthetic analogue of growth hormone releasing factor indicated to reduce excess abdominal fat in HIV-infected patients with lipodystrophy.",
         "cop": 1,
@@ -50,32 +37,6 @@
         "topic_name": "Anti-HIV Drugs",
         "id": "77df41a2-9fa0-4913-8457-286e96e60088",
         "choice_type": "single"
-    },
-    {
-        "question": "The following are true about enfuviide except:",
-        "exp": "Enfuviide It is an Entry (fusion) inhibitor. MOA: By binding to HIV-1 gp41 Active on HIV 1& not active against HIV-2. Cross resistance not seen with other classes of ARV drugs. Given s. c. twice daily. Used as add on drug for failed regimens. Adverse effects: Pain at injection site and it cause local nodules or cysts.",
-        "cop": 2,
-        "opa": "Administered by s. c route",
-        "opb": "Effective on HIV 1 and HIV 2 strains",
-        "opc": "Binds to HIV gp41",
-        "opd": "No cross resistance with other anti-retroviral drugs",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-HIV Drugs",
-        "id": "e2e0a964-3276-42ec-8000-bb2b9a4cc158",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statements about stavudine is accurate?",
-        "exp": "Stavudine is an NI that is responsible for maximum peripheral neuropathy. It is a thymidine analogue which acts in the same way as Zidovudine. Because of long term serious metabolic complications like lipodystrophy, lactic acidosis and peripheral neuropathy stavudine is no longer employed in WHO as well as NACO regimens.",
-        "cop": 2,
-        "opa": "Bone marrow suppression is dose limiting",
-        "opb": "It causes marked neurotoxicity",
-        "opc": "It inhibits HIV protease",
-        "opd": "It is a non-nucleoside reverse transcriptase inhibitor",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-HIV Drugs",
-        "id": "0bdb6f03-a5d6-4b2d-9499-a743afb97c2c",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drugs is most likely to cause additive anemia and neutropenia if administered to an AIDS patient taking zidovudine?",
@@ -169,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Eirenz limits HIV infection by:",
-        "exp": "Eirenz is a NNI which acts as an allosteric (non-competitive) inhibitor of HIV reverse transcriptase. It is more potent than zidovudine on HIV-1, but do not inhibit HIV-2. If used alone, viral resistance develops rapidly by point mutation of the enzyme; therefore it should always be combined with 2 other effective drugs. S/E of Eirenz: Headache, rashes, dizziness, insomnia, neuro-psychiatric symptoms",
-        "cop": 4,
-        "opa": "Binding to active site of HIV reverse transcriptase",
-        "opb": "Impairing the binding of HIV virion to CD4 receptors on T- cells",
-        "opc": "Inhibiting the HIV protease",
-        "opd": "Serving as an allosteric inhibitor of HIV reverse transcriptase",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-HIV Drugs",
-        "id": "9901fc97-bb51-416f-9196-2241fcc5e7c8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Nucleoside reverse transcriptase inhibiting drug, which is a guanosine analogue is:-",
         "exp": "NI ANALOGUE OF Zidovudine Thymidine Stavudine Thymidine Lamivudine Cytosine Emtricitabine Cytosine Zalcitabine Cytosine Tenofovir Adenosine Didanosine Adenosine Abacavir Guanosine",
         "cop": 3,
@@ -195,19 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs are HIV protease inhibitors except?",
-        "exp": "Drugs ending with 'NAVIR' are HIV protease inhibitors. Abacavir is a nucleoside reverse transcriptase inhibitor of HIV",
-        "cop": 2,
-        "opa": "Indinavir",
-        "opb": "Abacavir",
-        "opc": "Atazanavir",
-        "opd": "Ritonavir",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-HIV Drugs",
-        "id": "03c5e08f-6329-45d9-a910-f46d1d2b0cc2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Ritonavir boosting is not recommended with which of the following protease inhibitor of HIV?",
         "exp": "RITONAVIR: 1. Ritonavir is strongest microsomal enzyme inhibitor (CYP3. A4) 2. It is not used as a protease inhibitor instead in low doses, it is used to inhibit microsomal enzymes and to boost the effect of other protease inhibitors except nelfinavir. Therefore NELFINAVIR effect is not boosted by Ritonavir. NELFINAVIR: It is a nonpeptidic protease inhibitor that is active against both HIV-1 and HIV-2. Long-term virologic suppression with Nelfinavir based combination regimens is significantly inferior to Lopinavir/Ritonavir, Atazanavir, or Eirenz based regimens.",
         "cop": 3,
@@ -219,19 +154,6 @@
         "topic_name": "Anti-HIV Drugs",
         "id": "3f498f9d-ad87-4bff-9486-ac95b2127879",
         "choice_type": "single"
-    },
-    {
-        "question": "In AIDS patients with pregnancy a drug X is not given orally because it consists of propylene glycol. The side effects of this drug are hyper-pigmentation on the palms of the hands and soles of the feet. What is the drug X?",
-        "exp": "Oral form amprenavir and emtricitabine having propylene glycol, a toxic compound. The distinctive side effect of emtricitabine is hyperpigmentation. Eirenz found teratogenic in pregnant monkeys and should not be given in first 8 weeks of pregnancy.",
-        "cop": 3,
-        "opa": "Amprenavir",
-        "opb": "Eirenz",
-        "opc": "Emtricitabine",
-        "opd": "Zalcitabine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-HIV Drugs",
-        "id": "7ca30a02-57d8-4f93-9953-1fc81fa8e8de",
-        "choice_type": "multi"
     },
     {
         "question": "Testing of HLA-B' 5701 is recommended prior to initiation of this antiretroviral agent:-",

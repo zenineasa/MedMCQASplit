@@ -1,18 +1,5 @@
 [
     {
-        "question": "True regarding lag phase is?",
-        "exp": "Lag phase: Immediately following the seeding of a culture medium, there is no appreciable number, though there may be an increase in the size of the cells. This initial period is the time required for the adaptation to the new environment, during which the necessary enzymes and metabolic intermediates are built up in adequate quantities for multiplication to proceed. The duration of the lag phase varies with the species, sizes of the inoculation, nature of the culture media and the environmental factors such as temperature REF: Ananthanarayan & Panicker's Textbook of Microbiology 8th edition pg no: 24",
-        "cop": 1,
-        "opa": "Time taken to adpt in the new environment",
-        "opb": "Growth occurs exponentially",
-        "opc": "The plateau in lag phase is due to cell death",
-        "opd": "It is the 2nd phase in bacterial growth curve",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "d64eabcf-da66-438f-a53f-7137d3bba9dd",
-        "choice_type": "multi"
-    },
-    {
         "question": "Acid fast organisms are -",
         "exp": "Spores may be seen in unstained preparations as Refractile bodies. The forespore stains intensely but once the spores envelope is laid down the spores does not stain readly. Spores appear as unstained areas in Gram-stained preparations but being more acid fast than the vegetative cells they can be stained by a modification of the Diehl -Nelson technique. Ref: Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 21",
         "cop": 1,
@@ -78,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Specific reason to disallow the sample for culture -",
-        "exp": "Sample brought in formalin are not allowed for culture, as it may loose it's characteristic propeies specific to that organism. Ref ananthnarayana and panikers microbiology textbook",
-        "cop": 3,
-        "opa": "Sample brought within 2 hr of collection",
-        "opb": "Sample brought in sterile plastic container",
-        "opc": "Sample brought in formalin",
-        "opd": "Sample obtained after cleaning the collection site",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "91ea791b-0f1d-48df-b99b-371703fdfcf6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dark ground microscopy is used to see?",
         "exp": "Darkfield / Dark ground microscope in which reflected light is used instead of transmitted light used in the ordinary microscope. Flagella are less than 0. 02 um in thickness and hence beyond the limit of resolution of the light microscopes. They may in some instances be seen under dark field / Dark ground illumination. They can be visualized by special staining techniques in which their thickness is increased by mordanting or by electron microscopy. Ref: Textbook of Microbiology; Ananthanarayan and Paniker; 9th edition; Pg no: 11",
         "cop": 2,
@@ -104,58 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Oakley fulthrope procedure is",
-        "exp": "Antibody (antiserum) is incorporated in agar, poured into a tube and allowed to harden. A second layer of agar without antibody is placed above and allowed to solidify. Antigen solution is placed above the agar. The precipitin band appears in the plain agar column. Ref ananthnarayana and panikers microbiology textbook 8/e",
-        "cop": 2,
-        "opa": "Agglutination test",
-        "opb": "Precipitation test",
-        "opc": "Flocculation test",
-        "opd": "None of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "0162ce88-9a94-42db-8938-08238b68b6a9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is true regarding lattice formation?",
-        "exp": "Marrack proposed the lattice hypothesis to explain the mechanism of precipitation. Precipitation results when a large lattice is formed consisting of alternating antigen and antibody molecules. This is possible only in the zone of equivalence. The lattice hypothesis holds good for agglutination also. Ref: Ananthanarayan 9th edition, p105",
-        "cop": 3,
-        "opa": "Associated with precipitation and not agglutination",
-        "opb": "Associated with agglutination and not precipitation",
-        "opc": "Associated with both",
-        "opd": "Neither associated with precipitation nor agglutination",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "dea11c86-5df3-4eb8-be6f-acf57fc0e7f0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Bacterial cell wall is composed of all except -?",
-        "exp": "Bacteria are usually single-celled, except when they exist in colonies.... The major component of the bacterial cell wall is peptidoglycan or murein. This rigid structure of peptidoglycan, specific only to prokaryotes, gives the cell shape and surrounds the cytoplasmic membrane. Ref: Ananthanarayan & panikers Textbook of microbiology 9th edition page no 15, 16",
-        "cop": 2,
-        "opa": "Muramic acid",
-        "opb": "Teichoic acid",
-        "opc": "Glucosamine",
-        "opd": "Mucopeptide",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "b853d316-c23a-412d-93cc-d83fa516ade8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Lipopolysaccharide structure is characteristic of -",
-        "exp": "Endotoxins heat stable lipopolysaccharides which form an integral pa of the cell wall of gram-negative bacteria. Their toxicity depends on the lipid component. They are released only by the disintegration of the cell wall. They cannot be toxoided. They are poor antigens and their toxicity is not completely neutralized by the homologous antibodies. they are active only in relatively large doses. Ref Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 74.",
-        "cop": 2,
-        "opa": "Exotoxin",
-        "opb": "Endotoxin",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "915a350d-3061-4491-b862-985ba3c33f91",
-        "choice_type": "multi"
-    },
-    {
         "question": "Prokaryote among the following is?",
         "exp": "Based on differences in cellular organisation and biochemistry this kingdom has been divided into two groups: prokaryotes and eukaryotes. Bacteria and blue-green algae are prokaryotes while fungi, other algae, slime moulds and protozoa are eukaryotes. Bacteria are prokaryotic microorganisms that do not contain chlorophyll. They are unicellular and do not show true branching except in the so-called higher bacteria (Actinomycetes). Ref: Textbook of Microbiology; Ananthanarayan and Paniker; 9th edition.",
         "cop": 1,
@@ -167,45 +89,6 @@
         "topic_name": "general microbiology",
         "id": "d0ecc061-5478-442a-9b20-b8c8b3558069",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following are features of Endotoxins Except",
-        "exp": "Distinguishing features of exotoxins and endotoxins. Exotoxins. Endotoxins. Proteins. Lipopolysaccharides. Heat-labile. Heat Stable. Actively secreted by cells; diffuse into surrounding medium. Form pa of the cell wall; do not diffuse into surrounding medium. Readily separable from cultures by physical means such as filtration. Obtained only by cell lysis. Action often enzymic. No enzymatic action. Specific pharmacological effect for each exotoxin. Effect nonspecific; action common to all endotoxins. Specific tissue affinities. No specific tissue affinity. Active in very minute doses. Active only in very large doses. Highly antigenic. Weakly antigenic. Action specifically neutralized by antibody. Neutralisation by antibody ineffective. Ref: Ananthanarayan; 7th edition; Page no: 67",
-        "cop": 2,
-        "opa": "Lipopolysaccharides",
-        "opb": "Proteins",
-        "opc": "Heat stable",
-        "opd": "No enzymic action",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "bcd6d29e-f27a-4d3d-87c5-9ab466aa3092",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Organisms that have not been cultured successfully so far is?",
-        "exp": "Pathogenic Treponemes do not grow in aificial culture media. They require a living organism like a virus for their growth REF: Textbook of microbiology Ananthanarayan, and Paniker. Page no.: 371",
-        "cop": 2,
-        "opa": "Leptospira",
-        "opb": "Treponema pallidum",
-        "opc": "Bordetella",
-        "opd": "Staphylococcus",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "053c22e0-f67f-4edb-90ef-fae4a3fe84b9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Louis Pasteur is associated with all except -",
-        "exp": "The development of microbiology as a scientific discipline dates from Louis pasteur (1822-95). He introduced techniques of sterilisation and developed the steam sterilizer, Hot air oven and auto clave. He also established the differing growth needs of different bacteria and contributed to the knowledge of anthrax, chicken cholera and hydrophobia. An accidental observation that chicken cholera bacillus cultures left on the branch for several weeks lost their pathogenic propey but retained their ability to protect the birds against subsequent infection by them, led to the discovery of the process of attenuation and the development of live vaccine. He attenuated cultures of the anthrax bacillus by incubation at high temperature and proved that inoculation of such cultures in animals induced specific protection aganist anthrax. It was pasteur who coined the term vaccine for such prophylactic preparation to commemorate the first of such preparations, namely cowpox employed by Edward Jenner for protection against small pox Ref: Ananthanarayan & paniker's textbook of microbiology 9th edition page no 3",
-        "cop": 1,
-        "opa": "Vaccination of small pox",
-        "opb": "Germ theory",
-        "opc": "Pasteurization",
-        "opd": "Vaccination of rabies",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "9eff2e40-1455-4396-aa44-df6f94128b0e",
-        "choice_type": "multi"
     },
     {
         "question": "NNN media used in?",
@@ -232,32 +115,6 @@
         "topic_name": "general microbiology",
         "id": "5905f2c6-84d3-454e-84de-4197e78922d3",
         "choice_type": "single"
-    },
-    {
-        "question": "Sterilisation by steam under pressure",
-        "exp": "Autoclave - Moist heat, steam under pressure. 121C for 15 min Two types of autoclaves are available: gravity displacement type and high vaccum sterilizers. In its simplest form, the laboratory autoclaves consist of a veical or horizontal cylinder of gunmetal or of stainless steel in a suppoing sheet iron case. The lid or door Is fastened by screw clamps and made aiight using suitable washer. The autoclave has on its lid or upperside a discharge tap for air and steam, a pressure gauge and a safety valve that can be set to blow off at any desired pressure. Heating is by gas or electricity Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno: 32",
-        "cop": 4,
-        "opa": "Tyndall's Chamber",
-        "opb": "Koch's Arnold Steamer",
-        "opc": "Hot air oven",
-        "opd": "Autoclave",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "4c28e55e-af21-446e-9c41-b242ab585f23",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Pasteur developed the vaccine for",
-        "exp": "Pasteur introduced an attenuated vaccine for chicken pox, cholera, anthrax and rabies. Development of vaccine for hydrophobic marked a milestone in the development of immunisation in medicine.",
-        "cop": 4,
-        "opa": "Anthrax",
-        "opb": "Rabies",
-        "opc": "Chicken cholera",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "969a4476-2375-4998-aa47-1808325145e7",
-        "choice_type": "multi"
     },
     {
         "question": "The animal used for monoclonal antibodies production is",
@@ -336,32 +193,6 @@
         "topic_name": "general microbiology",
         "id": "f856b1be-93be-4cb7-aadc-8635305572c1",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is used for antibiotic sensitivity testing",
-        "exp": "Muller-Hinton agar is a microbiological growth medium that is commonly used for antibiotic susceptibility testing. It is also used to isolate and maintain Neisseria and Moraxella species Ref ananthnarayana and panikers microbiology textbook 8/e",
-        "cop": 2,
-        "opa": "Thayer main medium",
-        "opb": "Mueller hinton agar",
-        "opc": "Chocolate agar",
-        "opd": "None of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "6dde832a-651e-46d7-9c4b-4ebc4aa38c91",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are Phenolic disinfectant except-",
-        "exp": "Phenol (carbolic acid) is a powerful microbicidal substance. This and other phenolic disinfectant derived from coal tar are widely used as a disinfectant for various purposes in hospitals. Lysol and Cresol are active against a wide range of organisms. They are not readily inactivated by the presence of organic matter and are a good general disinfectant. These are toxic to humans REF: Ananthanarayan and Panicker's Textbook of. Microbiology 8th. Edition pg no: 37",
-        "cop": 1,
-        "opa": "Dettol",
-        "opb": "Cresol",
-        "opc": "Lysol",
-        "opd": "Carbolic acid",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "6080775c-039b-4c34-bb52-fac8a9770639",
-        "choice_type": "multi"
     },
     {
         "question": "Autotrophic requirements are",
@@ -533,32 +364,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Teichoic acid is present in the cell wall of",
-        "exp": "Teichoic acids, which are polymers of polyribitol-phosphate, are cross-linked to the peptidoglycan and can be antigenic. They are impoant in cell wall metabolism. Antiteichoic acid antibodies detectable by gel diffusion may be found in patients with active endocarditis caused by S aureus. Components. Gram-Positive. Gram-Negative. Color of Gram. Stained Cell. Purple. Reddish-pink. Representative. Genera. Bacillus, Staphylococcus, Streptococcus. Escherichia, Neisseria, Pseudomonas. Peptidoglycan. Thick layer. Thin layer. Teichoic acids. Present. Absent. Outer membrane. Absent. Present. Lipopolysaccharide(endotoxin). Absent. Present. Porin proteins. Absent. Present; allow passage ofmolecules through outermembrane. Periplasm. Absent. Present. Ref: Jawetz; 27th edition; Page no: 23",
-        "cop": 1,
-        "opa": "Gram positive bacteria",
-        "opb": "Gram negative bacteria",
-        "opc": "Acid fast bacteria",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "12e86185-2a14-403e-aeef-8d10ea82c514",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Steam at 100 degrees centigrade for 20min on 3 consecutive days is called as",
-        "exp": "Boiling, tyndallization and steam sterilizer are eg for temperature of 100 degree in moist heat sterilization Above 100 degree-autoclave Below 100 degrees- pasteurization, vaccine bath, inspissation Ref: CP Baveja 4th ed Pg: 31",
-        "cop": 2,
-        "opa": "Boiling",
-        "opb": "Tyndallization",
-        "opc": "Inspissation",
-        "opd": "Pasteurization",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "30c20cdb-34c8-4b83-a55f-c51aa99a2c33",
-        "choice_type": "multi"
-    },
-    {
         "question": "Vaccines are sterilized by?",
         "exp": "Vaccines may be prepared by heat inactivation of bacteria. Thus heat can be employed to free the vaccine from other contaminants. REF: Textbook of microbiology Ananthanarayan, and Paniker.",
         "cop": 4,
@@ -570,19 +375,6 @@
         "topic_name": "general microbiology",
         "id": "f992c29f-0fe7-4600-bb6e-3f51d3032cf1",
         "choice_type": "single"
-    },
-    {
-        "question": "All are methods of sterilization by dry heat except -",
-        "exp": "Dry heat: Flaming, incineration, hot air REF: Ananthanarayan & paniker's textbook of Microbiology 9th edition page no 78",
-        "cop": 4,
-        "opa": "Flaming",
-        "opb": "Incineration",
-        "opc": "Hot air oven",
-        "opd": "Autoclaving",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "9b17937f-b100-49cd-80b7-de2c2187d224",
-        "choice_type": "multi"
     },
     {
         "question": "The hot-cold phenomenon is seen due to which toxin-",
@@ -793,19 +585,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following terms are used to describe bacterial chromosome Except",
-        "exp": "The Nucleoid. Prokaryotes have no true nuclei; instead, they package their DNA in a structure known as the nucleoid. The nucleoid of most bacterial cells consists of a single continuous circular molecule ranging in size from 0. 58 to almost 10 million base pairs. In bacteria, the number of nucleoids, and therefore the number of chromosomes, depending on the growth conditions. Rapidly growing bacteria have more nucleoids per cell than slowly growing ones; however, when multiple copies are present, they are all the same (ie, prokaryotic cells are haploid). Ref: Jawetz; 27th edition; Page no: 15",
-        "cop": 2,
-        "opa": "Haploid",
-        "opb": "Diploid",
-        "opc": "Nucleoid",
-        "opd": "Circular",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "b79fe502-28c9-4aac-9986-f5bdd5c43354",
-        "choice_type": "multi"
-    },
-    {
         "question": "Robe Koch assistant advised him to use agar instead of gelatine for solidifying culture media for cultivation of bacteria as -",
         "exp": "Gelatin melts at 24degC. REF: Textbook of Microbiology, Ananthanarayan, and Paniker. Page no.: 39",
         "cop": 2,
@@ -923,19 +702,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Of the following pick the False option on Flagella",
-        "exp": "Flagella They are long unbranched sinuous filaments which are organs of locomotion. Each flagellum consist of 3 distinct pa the filament the hook and the basal body. the filament is external to the cell and connected to the hook at the cell surface Structure: The Hook-Basal body poion is embedded in the cell envelope. They are antigenically different. Flagella are made up of protein(flagellin). Though flagella of different bacteria have similar composition they antigenically different. Flagellar antibodies are not protective but are useful in sero diagnosis The presence or absence of flagella and their number and arrangement are characteristic of different genere of bacteria. Flagella may be arranged all round the cell (peritrichous) as a typhoid bacilli, or situated at one or both ends of the cell (polar). Polar flagella may be single (monotrichous) as in cholere vibrio. in tufts (lophotrichous)as in spirilla or with flagella at both poles(amphitrichous) REF: Ananthanarayan & panikers Textbook of microbiology 9th edition page no 19",
-        "cop": 2,
-        "opa": "Locomotion",
-        "opb": "Attachment",
-        "opc": "Protein in nature",
-        "opd": "Antigenic",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "e4faf9a8-1c72-45c8-8219-bb85b7ec9074",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not used for routine faecal culture",
         "exp": "Hoyle's agar is a selective medium that uses tellurite to differentially select Corynebacterium diphtheriae from other upper respiratory tract flora. The medium appears cream to yellow colored, and takes the form of a free-floating powder. Ref ananthnarayana and panikers microbiology textbook 8/e",
         "cop": 3,
@@ -1012,45 +778,6 @@
         "topic_name": "general microbiology",
         "id": "534504eb-61f7-46f2-9b85-54691c91031c",
         "choice_type": "single"
-    },
-    {
-        "question": "Endoscope and bronchoscope instruments are under which category according to Spaulding classification",
-        "exp": "Spaulding classification:}Proposed by Earl H. Spaulding}Categorized into 4 categories*Critical devices *Semi critical devices*Noncritical devices*Medical equipments. Critical devices:(Infection risk - High). Medical devices that are intended to enter a sterile environment, sterile tissue or the vasculature. Example - Surgical instruments, Cardiac catheters}Reprocessing procedure*FDA classification - Sterilization by steam, plasma, or ethylene oxide, liquid sterilization acceptable if no other methods feasible. Semi critical devices:(Infection risk - High, intermediate). Medical devices that is intended to come in contact with mucous membrane or minor skin breaches. Example - Flexible endoscope, Respiratory equipments}Reprocessing procedure*FDA classification - Sterilization by desirable - High level disinfection acceptable. Non-critical devices: (Infection risk - Low). Medical devices that comes in contact with intact skin. Example - Blood pressure cuff, Electrocardiogram electrodes.}Reprocessing procedure*FDA classification - Intermediate or low level. Medical equipment:(Infection risk - Low). Device or component of a device that does not typically come in direct contact with the patient. Example - Examination table}Reprocessing procedure*FDA classification - Low level disinfectant, use of sanitizer(Ref: Ananthanarayan 9th edition, p37)",
-        "cop": 2,
-        "opa": "Critical item",
-        "opb": "Semi critical item",
-        "opc": "Noncritical item",
-        "opd": "None of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "b662a856-f644-4aa7-9667-9ad3c4058114",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which statement concerning plasmids is true?",
-        "exp": "Plasmids are small, circular, supercoiled DNA molecules found in some bacteria. They usually do not carry essential genes, but some plasmids, such as R (resistance) plasmids, carry genes coding for antibiotic resistance. All plasmids have their own origin of replication so that they are replicated along with the host chromosome and passed along to progeny cells. Only some plasmids possess genes that allow for their transmittal to other bacteria by the process of conjugation. Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno: 18",
-        "cop": 3,
-        "opa": "All plasmids possess the information for their own transfer by conjugation",
-        "opb": "Much of the information coded in the plasmid is essential to the survival of the bacteria cell",
-        "opc": "R plasmids carry genes for antibiotic resistance",
-        "opd": "R plasmids cannot be transferred to other bacterial cells",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "59ecd5c5-10a9-4224-bf9d-449ca205eb58",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is true regarding Toll-like receptor?",
-        "exp": "Toll-like receptor: Many of the molecules involved in innate immunity have the propey of pattern recognition, ability to recognize a given class of molecules. Toll-like receptor. Recognition molecules. TLR - 2. Peptidoglycan of gram-positive bacteria, Lipopolysaccharide of Leptospira. TLR - 3ds - RNA viruses TLR - 4 Chlamydia, Lipopolysaccharide of gram negative bacteria except Leptospira. Ref: Ananthanarayan 9th edition, 398",
-        "cop": 3,
-        "opa": "Antigen specific",
-        "opb": "Acts by cytokine release",
-        "opc": "Pa of adaptive immunity",
-        "opd": "Antibodies",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "4b70b5a5-4942-4f65-8dbc-cb25cd90a1ee",
-        "choice_type": "multi"
     },
     {
         "question": "Gamma radiations are used for sterilizing?",
@@ -1222,19 +949,6 @@
         "choice_type": "single"
     },
     {
-        "question": "An &; Antiseptic&; means -",
-        "exp": "Antiseptic are chemical disinfectants that can be safely applied on the skin or mucous membrane and are used to prevent infection by inhibiting the growth of bacteria REF: Ananthanarayan & paniker's textbook of Microbiology 9th edition page no 28",
-        "cop": 1,
-        "opa": "An agent applied on skin to eradicate pathogenic microbes",
-        "opb": "Used to sterile inanimate objects",
-        "opc": "An agent which kills only bacteria but not spores",
-        "opd": "Kills all microorganism",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "d4956437-296f-4960-b068-475d6ce65a10",
-        "choice_type": "multi"
-    },
-    {
         "question": "Length of most of the bacteria of medical impoance are about?",
         "exp": "The limit of resolution with the unaided eye is about 200 microns bacteria being much smaller can be visualized only under magnification. Bacteria of medical impoance generally measures 0. 2-1. 5 um in diameter and about 3-5 um in length Ref: Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 10",
         "cop": 3,
@@ -1326,19 +1040,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is used commercially for sterilization of disposable plastic items?",
-        "exp": "Ethyl alcohol is used for sterilization of disposable plastic items. Ref: Textbook of Microbiology Baveja 5th ed Pg 41",
-        "cop": 4,
-        "opa": "Autoclave",
-        "opb": "Glutaraldehyde",
-        "opc": "Ethylene oxide",
-        "opd": "Ethyl alcohol",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "fd331c59-288a-409f-a387-5b1d0b8333aa",
-        "choice_type": "multi"
-    },
-    {
         "question": "Patient having gastroenteritis after eating contaminated food. microscopy showed gram-positive bacillus with subterminal spore. The bacteria is",
         "exp": "Clostridium-gram positive bacillus Food poisoning -clostridium perfringes Ref: Textbook of Microbiology Baveja 4th ed Pg 591",
         "cop": 1,
@@ -1350,32 +1051,6 @@
         "topic_name": "general microbiology",
         "id": "15d2acd4-e718-4102-bf49-05002729ddb1",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following organisms are known to survive intracellularly except?",
-        "exp": "Streptococcus pyogenes are delicate organisms that are easily destroyed by heat and antiseptics. They are arranged in chains, the length of which vary within wide limits and is influenced by the nature of culture medium REF: Textbook of Microbiology, Ananthanarayan, and Paniker. Page no.: 209",
-        "cop": 3,
-        "opa": "Neisseria meningitides",
-        "opb": "Salmonella typhi.",
-        "opc": "Streptococcus pyogenes",
-        "opd": "Legionella pneumophila",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "b787ca39-98f8-4af4-bdf4-093ffdd0f3ff",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Composition of ZN stain is all Except",
-        "exp": "Primary stain: 0. 3% Carbol Fuchsin - Dissolve 50g phenol in 100ml ethanol (90%) or methanol(95%). Dissolve 3g basic fuchsin in the mixture and add distilled water to bring the volume to 1 L. Counter stain: 0. 3% methylene blue or malachite green Ref ananthnarayana and panikers microbiology textbook 8/e",
-        "cop": 1,
-        "opa": "Basic fuschin",
-        "opb": "Acid fuschin",
-        "opc": "Phenol",
-        "opd": "Alcohol",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "a9fe859b-aa6d-45e2-b1e2-2eec3cdfd6b7",
-        "choice_type": "multi"
     },
     {
         "question": "Thayer - Main media is used for -",
@@ -1402,19 +1077,6 @@
         "topic_name": "general microbiology",
         "id": "48e546d5-e6db-4242-8b92-924129c5e1b0",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is true about Extended spectrum beta lactamases?",
-        "exp": "Background: Extended spectrum beta-lactamases (ESBLs) are heterogeneous group of plasmid mediated b-lactamases enzymes that confer resistant to oxyimino cephalosporins, monobactam (aztreonam) and usually show co-resistance to other classes of antibiotics. The present was done to identify and characterize the most common plasmid-mediated ESBL genes associated with diabetic foot infections in Egypt. Methods and findings: A total of 135 Gram negative bacterial isolates were re- covered from 91 diabetic foot ulcers specimens of patients attending governmental hospitals and private clinics in Cairo, Egypt. The antibiogram analysis revealed a remarkable high resistance pattern towards different classes of the tested antimi- crobial agents. Based on CLSI, a total of 114 isolates out of 135 were considered potential ESBLs producer by using disc diffusion and broth microdilution screening assays followed by double disc synergy test (DDST). 58 out of 114 isolates were ESBLs producers and almost 14% (8 out of 58), were plasmid-mediated as deter- mined by plasmid extraction and transformation experiments. The majority of the tested plasmids (6 out of 8) carried 2 or more genes on the same plasmid. The most common combination was bla. CTX-M and bla. TEM (n=3/8; 37. 5%), followed by bla. SHV and bla. CTX-M(n=2/8; 25%) and bla. CTX-M+ bla. TEM+ bla. SHV (n=1/8; 12. 5%). One E. coli isolate harbored a plasmid (p. ECDF16) coding for the three ESBLs genes. The final nucleotide sequences of bla. TEM1 and bla. SHV-8 were submitted to the Gen. Bank database under accessions coder JX976326, and JX976327, respectively. Conclusion: High prevalence of plasmid-mediated ESBLs was detected among DFIs in Egypt. Therefore, new guidelines should be undeaken in Egypt to limit or prevent the misuse and abuse of antimicrobial agents.",
-        "cop": 3,
-        "opa": "Only seen in gram positive bacteria",
-        "opb": "Only seen in gram negative bacteria",
-        "opc": "Plasma mediated",
-        "opd": "Associated only in communityl acquired disease",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "dda17bec-6442-44b7-9099-4bb52e988d1c",
-        "choice_type": "multi"
     },
     {
         "question": "Recommended transpo medium for stool specimen suspected to contain enteric pathogen is -",
@@ -1599,32 +1261,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Whitmore's bacillus is",
-        "exp": "Bacteria Eponyms. Corynebacterium pseudotuberculosis Nocard bacillus Hemophilus aegypticus Koch weeks bacillus Hemophilus influenza. Pfeiffer's bacillus Klebsiella pneumonia. Freidlanders bacillus Mycobacterium chelonei Tule tubercle bacillus Mycobacterium fouitum Frog tubercle bacillus Mycobacterium intracellulare Battey bacillus Mycobacterium paratuberculosis Johnes bacillus Mycoplasma pneumonia. Eaton agent Burkholderia pseudomallei Whitmore's bacillus (Ref: Ananthanarayan 9th edition, )",
-        "cop": 3,
-        "opa": "H. influenzae",
-        "opb": "B. mallei",
-        "opc": "B. pseudomallei",
-        "opd": "B. cepaciae",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "9f1666aa-c359-4cec-a503-ce5e89f42081",
-        "choice_type": "multi"
-    },
-    {
-        "question": "False statement regarding culture media in microbiology -",
-        "exp": "Anaerobic media: these media are used to grow anaerobic organisms for eg, Robeson's cooked meat medium Blood agar is an enriched, onselective, general purpose medium able to grow most aerobes, anaerobes, and fungi REF: Ananthanarayan & Panicker's Textbook of Microbiology 8th Edition pg no: 43",
-        "cop": 1,
-        "opa": "Blood agar is best for anaerobic organisms",
-        "opb": "Chocolate agar is best for hemophilic organisms",
-        "opc": "Lowenstein-Jenson media is bestnfor mycobacteria",
-        "opd": "Mc. Conkey agar is best for gram negative enteric pathogens",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "00b93ae8-4f44-494f-af71-308c9f7ebb05",
-        "choice_type": "multi"
-    },
-    {
         "question": "Peracetic acid comes under which class of sterilizing agent or disinfectant",
         "exp": "Peracetic acid--oxidizing agent effective in presence of organic matter End product is acetic acid and oxygen Used in plasma sterilization procedure Ref: CP Baveja 4th ed Pg: 36",
         "cop": 3,
@@ -1636,19 +1272,6 @@
         "topic_name": "general microbiology",
         "id": "ed210455-67cb-4928-88c4-46365f843036",
         "choice_type": "single"
-    },
-    {
-        "question": "Methods used to see the bacteria are?",
-        "exp": "The morphological study of bacteria requires the use of microscopes. Microscopy has come a long way since Leeuwenhoek first observed bacteria over three hundred years ago using hand grounded lenses. Optical or Light microscope, Phase contrast microscopy, Fluorescent microscope, dark field / Dark ground microscope and Electron microscope Live bacteria do not show much structural detail under the light microscope due to lack of contrast. Hence it is customary to use staining techniques to produce color contrast. Bacteria may be stained in the living state, but this type of staining is employed only for special purposes. Routine methods of staining of bacteria involve drying and fixing smears - procedures that kill them. Bacteria have an affinity to basic dyes due to the acidic nature of their protoplasm. Simple stains, Negative staining, Impregnation methods, Differential stains, Gram stain, Acid fast stain and Albes stain. Ref: Ananthanarayan & paniker's Textbook of mi. Microbiologyth edition pg no 10",
-        "cop": 3,
-        "opa": "Microscopy",
-        "opb": "Stained preparations",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "f6bad166-57c7-4b06-be93-cac43e5f892f",
-        "choice_type": "multi"
     },
     {
         "question": "Phage DNA becomes integrated with bacterial chromosome as prophage which codes new characteristics is referred to as",
@@ -1688,19 +1311,6 @@
         "topic_name": "general microbiology",
         "id": "78cac6ec-3c9d-4052-8d2e-9519763c66e8",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following agents can be used as skin disinfectants, except",
-        "exp": "Chloroxylenol - Phenol. Tincture iodine - Halogen, Isopropyl alcohol - Alcohol Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno: 33",
-        "cop": 3,
-        "opa": "Chloroxylenol",
-        "opb": "Tincture iodine",
-        "opc": "Quaternary ammonium compounds",
-        "opd": "Isopropyl alcohol",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "e8007091-ac40-4d54-8b3e-c0c1ec0c0155",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following stimulate adenylate cyclase with G-protein coupled action?",
@@ -1755,19 +1365,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Following grows in the cell free medium except -",
-        "exp": "Rickettsiae cannot be grown in cell-free culture media. They usually grow in the cytoplasm of infected cells. REF: Textbook of. Microbiologyy, Anantha Narayan, and Paniker. Page no.: 406",
-        "cop": 1,
-        "opa": "Rickettsia",
-        "opb": "M leprae",
-        "opc": "Baonella",
-        "opd": "Syphilis",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "069ca06a-66b7-4d09-9a9c-28bcd6e2dd53",
-        "choice_type": "multi"
-    },
-    {
         "question": "The earliest discovery of a pathogenic microorganism was made by",
         "exp": "The earliest discovery of a pathogenic microorganism was probably made by Augustino Bassi(1835), showed that the muscardine disease of silkworms was caused by a fungus. Ref: Ananthanarayan; 7th edition; Page no: 1",
         "cop": 1,
@@ -1779,19 +1376,6 @@
         "topic_name": "general microbiology",
         "id": "5bf5f3a3-426d-4290-bf67-523348b005f2",
         "choice_type": "single"
-    },
-    {
-        "question": "&; Disinfectant&; kills the following -",
-        "exp": "Disinfection is the destruction or removal of all pathogenic organisms or organisms capable of giving rise to infection Including spores Ref Ananthanarayan & paniker's textbook of Microbiology 9th edition page no 28",
-        "cop": 2,
-        "opa": "All microorganisms",
-        "opb": "Pathogenic microorganisms",
-        "opc": "Viruses and fungi",
-        "opd": "Non - pathogenic microorganisms",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "ba2529fa-e5e4-45d3-b19a-413dce794ba5",
-        "choice_type": "multi"
     },
     {
         "question": "Hospital dressing is best disposed off by -",
@@ -1820,19 +1404,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Following statements are true on dark ground microscopy EXCEPT -",
-        "exp": "Darkfield / Dark ground microscope in which reflected light is used instead of transmitted light used in an ordinary microscope. The essential pa of the dark field microscope is the dark field condenser with central circular stop, which illuminates the object with a cone of light without letting any ray of light fall directly on the objective lens. Light rays falling on the object are reflected or scattered on to the objective lens with the result that the object appears self-luminous against a dark background. The contrast gives an illusion of increased resolution, so that very slender organisms such as spirochetes, not visible under ordinary illumination, can be clearly seen under a dark field microscope Ref: Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 11",
-        "cop": 4,
-        "opa": "Suitable for slender organism like spirochetes",
-        "opb": "Dark field field condenser with a central circular stop used to illuminate the object -",
-        "opc": "Light falling on the object with a dark background reflects and objects appear self luminous",
-        "opd": "Transmitted light is used to illuminate the object",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "26b6ccf7-177d-4cfa-a2b0-67a98ee75db0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following have More Peptidoglycans present in them-",
         "exp": "Peptidoglycan layer of Gram positive bacteria is thicker (15-18nm) than that of Gram negative bacteria Peptidoglycan layer of Gram negative bacteria is thin (2-3nm) and is bound by the lipoprotein and plasma membrane Ref: Ananthanarayan & paniker's Textbook of microbiology 9th edition pg no 16",
         "cop": 2,
@@ -1857,19 +1428,6 @@
         "topic_name": "general microbiology",
         "id": "d8ae5670-7e60-4a45-80c1-3dedf7bac55e",
         "choice_type": "single"
-    },
-    {
-        "question": "The endotoxin which leads to endotoxic shock is actually -",
-        "exp": "Endotoxin s heat stable lipopolysaccharides which form an integral pa of the cell wall of gram negative bacteria. their toxicity depends on lipid component. they are released only by the disintegration of the cell wall. they cannot be toxoided. they are poor antigens and their toxicity is not completely neutralised by the homologous antibodies. they are active only in relativly large doses Ref: Ananthanarayan & paniker's Textbook of microbiology 9th edition pg no 74",
-        "cop": 2,
-        "opa": "Lipoprotein",
-        "opb": "Lipopolysaccharide",
-        "opc": "Polysaccharide",
-        "opd": "Polyamide",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "e51ed4c6-d3ba-4c63-bdda-2e17597983c9",
-        "choice_type": "multi"
     },
     {
         "question": "Significance of Adhesin in Pathogenesis-",
@@ -1922,19 +1480,6 @@
         "topic_name": "general microbiology",
         "id": "4da7e692-1fbc-480f-9b2a-644d956c1954",
         "choice_type": "single"
-    },
-    {
-        "question": "False regarding bacterial plasmids is?",
-        "exp": "Plasmids are circular DNA molecule present in the cytoplasm of bacteria, capable of autonomous replication (independent replicons). By their ability to transfer genes from one cells to another, plasmids have become impoant vectors in genetic engineering. Plasmids may also be seen in yeasts, which are eukaryotes. plasmid DNA may sometimes be integrated with chromosomal DNA. The name episome was employed for such integration forms, though this distinction is not usually made now. Plasmids have been classified in many ways depending on whether they are self transmissible or nontransmissible on the propey encoded by restriction endonuclease finger printing or other criteria. REF: Ananthanarayan and Panicker's Textbook of. Microbiology 8th. Edition pg no: 60",
-        "cop": 4,
-        "opa": "Extrachromosomal",
-        "opb": "Eliminated by treating with radiation",
-        "opc": "Transmission of different species",
-        "opd": "Can causes lysogenic conversion",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "be9ab5c4-1d6a-41b3-a29c-2b4c855fa068",
-        "choice_type": "multi"
     },
     {
         "question": "Temperature used in Pasteurization is:",
@@ -2002,32 +1547,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Bacteria with a tuft of flagellae at one end are called -",
-        "exp": "Flagella They are long unbranched sinuous filaments which are organs of locomotion. Each flagellum consist of 3 distinct pa the filament the hook and the basal body. The filament is external to the cell and connected to the hook at the cell surface. Structure: The Hook-Basal body poion is embedded in the cell envelope. They are antigenically different. Flagella are made up of protein(flagellin). Though flagella of different bacteria have similar composition they antigenically different. flagellar antibodies are not protective but are usful in sero diagnosis. The presence or absence of flagella and their number and arrangement are characteristic of different genere of bacteria. Flagella may be arranged all round the cell (peritrichous) as a typhoid bacilli, or situated at one or both ends of the cell (polar). Polar flagella may be single (monotrichous) as in cholere vibrio, in tufts (lophotrichous)as in spirilla or with flagella at both poles(amphitrichous) Ref: C. P. Baveja pg no. 17-18",
-        "cop": 4,
-        "opa": "Monotrichate",
-        "opb": "Peritrichate",
-        "opc": "Bipolar",
-        "opd": "Lophotrichate",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "9ce01f54-6092-468b-becc-443ea2e6752f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Irradiation can be used to sterilizea all Except-",
-        "exp": "Bronchoscope-glutaraldehyde REF: Ananthanarayan & Panicker's Textbook of Microbiology 9th edition pg no: 34",
-        "cop": 4,
-        "opa": "Bone graft",
-        "opb": "Suture",
-        "opc": "Aificial tissue graft",
-        "opd": "Bronchoscope",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "cfc65064-dd89-4438-bbee-adc1f5f28fee",
-        "choice_type": "multi"
-    },
-    {
         "question": "Example of anaerobic medium",
         "exp": "Non-selective media used in anaerobic bacteriology: Cooked meat broth (e. g. Robeson's Cooked Meat Medium): Non-selective for the cultivation of anaerobic organisms; with an addition of glucose, can be used for gas-liquid chromatography. Anaerobic blood agar: It is a non-selective medium for isolation of anaerobes and facultative anaerobes. Egg-yolk agar (EYA): Non-selective for determination of lecithinase and lipase production by Clostridia and Fusobacteria. Peptone-yeast extract glucose broth (PYG): Non-selective for the cultivation of anaerobic bacteria for gas-liquid chromatography. Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno: 46, 47",
         "cop": 3,
@@ -2078,45 +1597,6 @@
         "topic_name": "general microbiology",
         "id": "52fbc185-828b-4622-b9a2-2256d8e69d4f",
         "choice_type": "single"
-    },
-    {
-        "question": "All are sporicidal except -",
-        "exp": "ALDEHYDES Formaldehyde is active against the amino group in the protein molecule. In aqueous solutions, it is markedly bactericidal and sporicidal and also has a lethal effect on viruses. it is used to preserve anatomical specimens and for destroying anthrax spores in hair and wool 10% formalin containing 0. 5% sodium tetraborate is used to sterilize clean metal instruments. Formaldehyde gas is used for sterilizing instruments and heat sensitive catheters and for fumigating wards sick rooms and laboratories. Under properly controlled conditions, clothing, bedding, furniture, and books can be satisfactorily disinfected. The gas is irritant and toxic when inhaled. surfaces which have been disinfected by this agent may give off an irritant vapor for some time after disinfection. This can be nullified by exposure to ammonia vapor after disinfection has been completed Glutaraldehyde: This has an action similar to that of formaldehyde. It is especially effective against the tubercle bacilli. fungi and viruses. it is less toxic and irritant to the eyes and skin than formaldehyde. it has no deleterious effect on the cement or lenses of instrument s such as cystoscopes and bronchoscopes. It can be safely used to treat corrugated rubber anesthetic tubes and face masks, plastic endotracheal tubes metal instruments and polythene tubing Phenols These are obtained by distillation of coal tar between the temperature of 170 and 270 C. Lister, the father of antiseptic surgery, introduced them in surgery. Since then a wide range of phenolic compounds has been developed as disinfectants. The lethal compounds have been developed as disinfectants. The lethal effect of phenols is due to their capacity of the cell membrane, damaging cell contents and causing lysis. lysis. centrations of phenol proteins. membrane bound oxidases and dehydrogenases are inactivated by concentrate action of phenol that are rapids bactericidal for microbes Phenol: Is a powerful microbicidal substance. This and other phenolic disinfectants derived from coal tar are widely used disinfectants active against a wide range of organisms They are not readily inactivated by the presence of organic matter and are thus good general disinfectants. these are to a human. various proprietary preparations cholorophenols and choloroxyphenols, though less toxic and irritant are less active and more readily inactivated by organic matter. matter. se groups of substances are relatively inactive against Pseudomonas. Various combinations of these are used un the control of pyogenic cocci in surgical and neonatal units in hospitals hospitallsrophene is potentially toxicity care. charge. idine is a relatively nontoxic skin antiseptic most active against Gram-positive organisms and fairly effective against Gram-negative ones. aqones. solutions are used in the treatment of wounds ETHYLENE DIOXIDE: Its action is due to alkylating the amino, caramino, hydroxylation sulphydryl groups in protein molecules. In addition, it reacts with DNA and RNA. It and use as a disinfectant present aa potential toxicity to human beings, including mutagenicity and carcinogenicarcinogenicty. ctive against all types of microorganisms including viruses and spores Ref: Ananthanarayan & panickers textbook of microbiology 8th edition page no 36-37",
-        "cop": 1,
-        "opa": "lysol",
-        "opb": "Glutaraldehyde",
-        "opc": "Ethylene oxide",
-        "opd": "Formaldehyde",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "a611a167-7e40-4056-86a0-21107bf3d1a8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Moist heat kills of the following except -",
-        "exp": "Temperature below 100 for pasteurisation of milk: The milk is heated is heated at either 63degC for 30 minutes or 72degC for 15-20 seconds followed by cooling quickly to 13\"C or lower. By these processes all non sporingn pathogen such as mycobacteria, brucellae and salmonellae are destroyed Coxiella burnettii is relativly heat resistant and may survive the holder method Ref Ananthanarayan & panikers textbook of microbiology 9th edition page no 30",
-        "cop": 4,
-        "opa": "Brucella",
-        "opb": "Mycobateria",
-        "opc": "Salmonella",
-        "opd": "Coxiella burnetti",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "cb450a89-2caf-4fc3-a893-c55c22ad91e4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are used in Gram's staining except?",
-        "exp": "GRAM STAINING 1). Primary staining with a pararosaniline dye such as crystal violet, methyl violet, or gentian violet 2). Application of a dilute solution of iodine 3). Decolourisation with an inorganic solvent such as ethanol, acetone, or aniline 4). Counterstaining with a dye of contrasting color such as carbon fuchsin, safranine or neutral red Congo Red: It is an organic dye, an azo dye mainly used in the diagnosis of amyloidosis REF: Ananthanarayan & Panicker's Textbook of Microbiology 9th Edition pg no: 13",
-        "cop": 3,
-        "opa": "Iodine",
-        "opb": "Alcohol",
-        "opc": "Congo red",
-        "opd": "Crystal violet",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "5a736b35-cdaf-4041-ab75-4478b9f005c4",
-        "choice_type": "multi"
     },
     {
         "question": "Dark ground microscopy is used for?",
@@ -2171,19 +1651,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are sporicidal agents except?",
-        "exp": "Other disinfectants are used for destroying spores. Isoprpylalchohol is an antiseptic used mainly as skin disinfectant and act by denaturing bacterial proteins REF: Ananthanarayan & Panicker's Textbook of Microbiology 9th edition pg no: 34",
-        "cop": 4,
-        "opa": "Formaldehyde",
-        "opb": "Glutaraldehyde",
-        "opc": "Ethylene oxide",
-        "opd": "Isopropyl alcohol",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "c7360eb3-827e-4fa5-9795-b4a0b9d4b682",
-        "choice_type": "multi"
-    },
-    {
         "question": "The organ of adhesion in the bacteria is -",
         "exp": "Fimbriae is a very fine, hair-like surfaces appendages called fimbriae or pili. 8 morphological types are known classifiable as either common or sex pili on the basis of their function. Pili comprise self aggregating monomers of pilin. They originate in the cell membrane. Fimbriae can be seen only under the electron microscope. They are unrelated to motility. Fimbriae function as organs of adhesion helping the cells to adhere firmly to the paicle of various kinds. This propey may serve to anchor the bacteria in nutritionally orable microenvironments. Fimbriated bacteria form surface pellicles in liquid media. Many fimbriated cells agglutinate red blood cells of guinea pigs, fowl, horses, and pigs strongly human and sheep cells weakly and ox cells scarcely. A special type of fimbriae is sex pili. They are found on male bacteria and help in the attachment of those cells to female bacteria forming hollow conjugation tubes through which it is assumed genetic material is transferred from the donor to the recipient cell. Ref: Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 20",
         "cop": 4,
@@ -2223,19 +1690,6 @@
         "choice_type": "single"
     },
     {
-        "question": "False about alcohol in disinfection is -",
-        "exp": "Alcohols: ethyl alcohol and isopropyl alcohol are the most frequently used. they are used mainly as skin antiseptics and act by denaturing bacterial proteins. They have no action on spores to be effective they must be used at a concentration of 60-90 percent in water. Protein slows its action whereas 1%mineral acid or alkaline enhances it. Isopropyl alcohol preferred as it is a better fat solvent more bactericidal and less volatile. It is used for the disinfection of clinical thermometers. methyl alcohol is very effective against fungal spores and is used for treating cabinets and incubator affected by them. The insides of the chambers are wiped with a liberal amount of methanol. A pad moistened with methanol and a dish of water are kept inside and the incubator is left at working temperature for several hours. Methyl alcohol vapor is toxic and inflammable REF: Ananthanarayan & Panicker's Textbook of Microbiology 8th pg no: 36",
-        "cop": 3,
-        "opa": "Ethanol is used",
-        "opb": "Isopropyl alcohol is used",
-        "opc": "Has sporicidal activity",
-        "opd": "Has bactericidal activity",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "d13380ac-af68-48f7-8665-2e5d8bee7353",
-        "choice_type": "multi"
-    },
-    {
         "question": "The medium that is most ideal for antibiotic sensitivity testing of bacterial isolates is",
         "exp": "Nutrient agar is good for antibiotic sensitivity testing Muller Hinton medium for testing aerobes and facultative anaerobes Ref: Textbook of Microbiology Baveja 4th ed Pg 628",
         "cop": 3,
@@ -2260,32 +1714,6 @@
         "topic_name": "general microbiology",
         "id": "19427ba5-1b31-49a0-89b2-7619511e7af7",
         "choice_type": "single"
-    },
-    {
-        "question": "Exaltation is defined as -",
-        "exp": "The virulence of a strain is not constant and may undergo spontaneous or induced variations. Enhancement of virulence is known as exaltation Ref Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 74",
-        "cop": 2,
-        "opa": "Decreased virulence",
-        "opb": "Increased virulence",
-        "opc": "No change",
-        "opd": "None",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "01ee888e-7d0c-4364-8baf-46c4c466714c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Electron microscopy is used for the following except-",
-        "exp": "The scanning Electron microscopy is a recent development which provides a higher resolution and 3 dimensional image of the object. Although the substantial increses in resolution power of Electron microscopy has led to significant discoveries a major disadvantage is the inability to examine living cells A method involves rapid cooling of specimens by deep freezing in liquid gas and the subsequent formation of carbon platinum replicas of the material. Since such frozen cells may remains ble it enables the study of cellular ultra structures as it appears in the living state. Electron microscopy is especially used for rapid detection of viruses in clinical samples. it is paicularly useful for detecting non cultivable viruses. ultrastrucural study of various micro organisms may also be done by this method Ref: textbook of Microbiology Dr. C. P. Baveja 4th Edition pg no: 11",
-        "cop": 3,
-        "opa": "To differentiate T & B lymphocytes",
-        "opb": "IgG deposits in kidney",
-        "opc": "TPI",
-        "opd": "Flagella",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "9d6a4a29-5311-4197-8ef7-3bda515b9015",
-        "choice_type": "multi"
     },
     {
         "question": "Dark ground microscopy is used for detection of?",
@@ -2353,19 +1781,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The cell wall structure is found in all except-",
-        "exp": "Mycoplasma is a group of bacteria that are devoid of the cell wall and so are highly pleomorphic with no shape or size. They lack cell wall precursors like muramic acid or diaminopimelic acid. The cells are bounded by a soft trilaminar unit membrane containing sterols Ref: Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 386",
-        "cop": 3,
-        "opa": "Staph aureus",
-        "opb": "Pseudomonas aeruginosa",
-        "opc": "Mycoplasma pneumoniae",
-        "opd": "Corynebacterium diphtherae",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "90e03c11-f30b-4689-ae1c-f1b27f024320",
-        "choice_type": "multi"
-    },
-    {
         "question": "Transfer of a poion of the DNA from one bacterium to another by a bacteriophage is known as",
         "exp": "Conjugation requires donor cell-to-recipient cell contact to transfer only one strand of DNA. The recipient completes the structure of ds. DNA by synthesizing the strand that complements the strand acquired from the donor. In transduction, donor DNA is carried by a phage coat and is transferred into the recipient by the mechanism used for phage infection. Transformation, the direct uptake of \"naked\" donor DNA by the recipient cell, may be natural or forced. Jawetz 27 e pg: 111",
         "cop": 3,
@@ -2390,19 +1805,6 @@
         "topic_name": "general microbiology",
         "id": "a075238a-6169-472a-abaf-6a06e3b49253",
         "choice_type": "single"
-    },
-    {
-        "question": "Bacteria that contaminates Dettol and savlon is",
-        "exp": "All the above mentioned bacteria contaminate dis-infectants. staphylococcus is the most common organism Ref: Ananthanaryanan 9th ed Pg. 644-648",
-        "cop": 4,
-        "opa": "Pseudomonas",
-        "opb": "Staphylococcus",
-        "opc": "Enterococcus",
-        "opd": "All the above",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "a3497563-7131-40c7-b001-00b5a3fbba8e",
-        "choice_type": "multi"
     },
     {
         "question": "The unit of measurement used in bacteriology is",
@@ -2470,19 +1872,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Cell wall deficient organism is?",
-        "exp": "Mycoplasma are a group of bacteria that are devoid of cell wall and so are highly pleomorphic with no shape or size. They lack cell wall precursors like muramic acid or diaminopimelic acid. The cells are bounded by a soft trilaminar unit membrane containg sterols Ref: Ananthanarayan & paniker's Textbook of microbiology 9th edition pg no 386",
-        "cop": 2,
-        "opa": "Chlamdia",
-        "opb": "Mycoplasma",
-        "opc": "Streptococcus",
-        "opd": "Anaerobes",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "c840f746-27d5-4cc6-b7b2-3f660829b558",
-        "choice_type": "multi"
-    },
-    {
         "question": "Steriliation of culture media containing serum is by -",
         "exp": "Micropore or membrane filter is made of cellulose ester which is used to purify serum containing culture media, Solutions for parentral use. REF: Textbook of microbiology, Ananthanarayan and Paniker. Page no.: 33",
         "cop": 2,
@@ -2496,19 +1885,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about Bacteria is",
-        "exp": "Bacteria are prokaryotic organisms so they don't have mitochondria but instead they'll be having mesosomes. Ref: anantnarayan and panikers 10 th edition",
-        "cop": 1,
-        "opa": "Mitochondria are always absent",
-        "opb": "Sterols are always present in cell wall",
-        "opc": "Divide by binary fission",
-        "opd": "Can be seen only under electron microscope",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "6b07737b-a3f6-423b-95d2-20a5b7fe5f07",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following are AFB positive with 5% sulphuric acid -",
         "exp": "Procedure: 1. The smear is stained by a strong solution of carbon fuchsin with the application of heat 2. It is then decolorized with 20% SULPHURIC ACID and counterstained with a contrasting dye such as methylene blue 3. The acid-fast bacteria retain the fuchsin color while others take the counterstain Mycobacterium leprae resists decolorization with 5% SULPHURIC ACID Ref: Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 14",
         "cop": 2,
@@ -2520,19 +1896,6 @@
         "topic_name": "general microbiology",
         "id": "256bdd0a-fbf7-4dc6-856a-60cde217c46f",
         "choice_type": "single"
-    },
-    {
-        "question": "Tyndallisation is a method of -",
-        "exp": "A single exposure of 90 minutes usually ensures sterilization but for media containing sugars or gelatin, an exposure of 100-degree Celsius for 20 minutes on 3 successive days is used. This is known as tyndallisation or intermittent sterilization REF: Ananthanarayan and Panicker's Textbook of. Microbiology 8th. Edition pg no: 32",
-        "cop": 2,
-        "opa": "Growing bac teria in pure culture",
-        "opb": "Sterilization",
-        "opc": "Inoculation of media",
-        "opd": "Preserving cultures",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "c208e941-e7ff-40d9-934c-3c2aa3ae03aa",
-        "choice_type": "multi"
     },
     {
         "question": "A child is suffering from recurrent chronic infections with encapsulated bacteria; Which subclass of IgG does the child has deficiency",
@@ -2626,19 +1989,6 @@
         "choice_type": "single"
     },
     {
-        "question": "40% formalin is used to sterilize?",
-        "exp": "40% formalin is used for the preservation of cadavers to prevent the putrefaction and also prevent the growth of bacteria. it destroys all microbes and its spores Ref Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no: 34",
-        "cop": 2,
-        "opa": "Plastic syringes",
-        "opb": "All microbes + spores",
-        "opc": "Clothes",
-        "opd": "Stitches",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "d7fb5fd7-e28b-41de-a451-a51eb4781d95",
-        "choice_type": "multi"
-    },
-    {
         "question": "Blood agar is an example of",
         "exp": "Enriched media: In these media, substances such as blood, serum, or egg are added to a basal medium. They are used to grow bacteria which are more exacting in their nutritional needs. Examples: Blood agar; Chocolate agar and egg media. Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno: 40",
         "cop": 4,
@@ -2663,19 +2013,6 @@
         "topic_name": "general microbiology",
         "id": "e4cea0ba-b0c1-426a-9712-fc7a4d299063",
         "choice_type": "single"
-    },
-    {
-        "question": "Eukaryotes are different in causing infection because?",
-        "exp": "Because eukaryotes are structurally complex and have complex antigenic propeies. They are unlike prokaryotes does not have a well-established cellular organization Ref: Textbook of Microbiology; Ananthanarayan and Paniker; 9th edition.",
-        "cop": 2,
-        "opa": "They divide by binary fission",
-        "opb": "Highly structured cell with organized cell organelles",
-        "opc": "Don't have all organelles",
-        "opd": "Evolutionally ancient",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "6e8b53d3-55d1-40d2-85ff-904343634f83",
-        "choice_type": "multi"
     },
     {
         "question": "The specialized type of microscope, which enables quantitative measurements of the chemical constituents of cells is the -",
@@ -2743,19 +2080,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most common type of pathogenic bacteria grow in temperatures",
-        "exp": "Mesophiles grow in between 25 to 40 They are the most common type of bacteria Organisms that prefer extreme environments are known as extremophiles. Ref: CP Baveja 4th ed Pg: 6",
-        "cop": 1,
-        "opa": "25 to 40 degrees centigrade",
-        "opb": "-20 degrees",
-        "opc": "0 to 20 degrees",
-        "opd": "Above 50 degrees",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "f2ede009-7f3d-492c-8af2-fb01f102fd4d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Shelf life of CPD blood is",
         "exp": "CPD - shelf life of blood stored in CPD stored at 2 to 4C is 21 days CPD: Citric acid Phosphate dextrose",
         "cop": 1,
@@ -2795,45 +2119,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The scientist below contributed to all of the following except",
-        "exp": "Lois Pasteur (1822-95):*He introduced techniques of sterilization and developed the steam sterilization, hot air oven, and autoclave*He worked on Chicken cholera vaccine, rabies vaccine, and Anthrax vaccine. Diphtheria toxoid work was done by Roux and Yersin. Ref: Ananthanarayan 9th edition, p13",
-        "cop": 3,
-        "opa": "Chicken Cholera vaccine",
-        "opb": "Rabies vaccine",
-        "opc": "Diphtheria toxoid",
-        "opd": "Anthrax vaccine",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "1a4cc4b1-8e23-40c8-be95-c9e8eb14e7a2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which among the following statements regarding disinfectants is not true -",
-        "exp": "Phenol is a microbicidal substance which is inactivated by organic matter and thus good general disinfectant REF: Ananthanarayan & Panicker's Textbook of Microbiology 9th edition pg no: 35",
-        "cop": 4,
-        "opa": "Hypochlorites are bactericidal and inactivated by organic matter",
-        "opb": "Gluteraldehyde is sporicidal and not inactivated by organic matter",
-        "opc": "Formaldehyde is bactericidal, sporicidal and virucidal",
-        "opd": "Phenol is bactericidal and readily inactivated by organic matter",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "fe67ca29-789e-4819-b2d7-e0036a6b285f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Bacteria may acquire characteristic s by all of the following except -",
-        "exp": "Interstrain transfer of DNA among prokaryotes is ubiquitous and contributes significantly to the genetic diversity in bacteria. The three major forms of prokaryotic genetic exchange are distinguished by the form of the donor DNA. In Transformation, there is direct uptake of donor DN by the recipient cells, which may be natural or forced In Transduction, the donor DNA is carried in bacteriophage and is transferred to the recipient by the mechanism used for phage infection In Conjugation, the donor cell contribute energy and building blocks to the synthesis of new DNA strand, which is physically transferred into the recipient cell, usually by a tube called sex pilus Ref: Ananthanarayan & panickers textbook of microbiology 8th edition page no: 72",
-        "cop": 2,
-        "opa": "Taking up soluble DNA fragments across their cell wall from other species -",
-        "opb": "Incorporating pa of host DNA",
-        "opc": "Through bacteriophages",
-        "opd": "Through conjugation",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "d1539e24-6e09-425d-82f5-f67e3752c312",
-        "choice_type": "multi"
-    },
-    {
         "question": "Sporicidal agents are -",
         "exp": "Glutaraldehyde is especially effective against the tubercle bacilli, fungi, and viruses. It is less toxic and irritant to eyes and skin than formaldehyde. It has no deleterious effects on the cement or lenses of instruments such as cystoscope and bronchoscpe. It can be safely used to treat corrugated rubber, face masks, plastic endotracheal tubes, metal instruments an, polythene tubings REF: Ananthanarayan and Panicker's Textbook of. Microbiology 8th. Edition pg no: 36",
         "cop": 1,
@@ -2845,45 +2130,6 @@
         "topic_name": "general microbiology",
         "id": "b85a37ea-6693-46bc-a717-e8c56a868bd6",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following pathogenic bacteria fulfill Koch's postulates, except?",
-        "exp": "According to Koch's postulate: it must be possible to isolate a bacterium from the site of lesion and grow it in a cell-free culture medium. Pathogenic Treponemes do not grow in a cell-free aificial culture medium. Ref: Textbook of Microbiology; Ananthanarayan and Paniker; 9th edition; Pg no: 370",
-        "cop": 1,
-        "opa": "Treponema pallidum",
-        "opb": "Yersinia pestis",
-        "opc": "Bacillus anthracis",
-        "opd": "Helicobacter pylori",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "f5b456e8-80e3-464c-aaf0-e68f11cf501a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "An outbreak of sepsis caused by Staphylococcus aureus has occurred in the newborn nursery. You are called upon to investigate. According to your knowledge of the normal flora, what is the most likely source of the organism?",
-        "exp": "Nose is the common site of residence for Staphylococcus Ref: Textbook of Microbiology Baveja 4th ed pg: 178",
-        "cop": 1,
-        "opa": "Nose",
-        "opb": "Colon",
-        "opc": "Vagina",
-        "opd": "Throat",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "6691fd75-a70e-4554-afd7-c62a98467ba2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Sporicidal disinfectant is following except-",
-        "exp": "ALDEHYDES Formaldehyde is active against the amino group in the protein molecule. In aqueous solutions, it is markedly bactericidal and sporicidal and also has a lethal effect on viruses. it is used to preserve anatomical specimens and for destroying anthrax spores in hair and wool 10% formalin containing 0. 5% sodium tetraborate is used to sterilize clean metal instruments. Formaldehyde gas is used for sterilizing instruments and heat sensitive catheters and for fumigating wards sick rooms and laboratories. under properly controlled conditions, clothing, bedding, furniture, and books can be satisfactorily disinfected. the gas is irritant and toxic when inhaled. surfaces which have been disinfected by this agent may give off an irritant vapor for some time after disinfection. this can be nullified by exposure to ammonia vapor after disinfection has been completed Glutaraldehyde: This has an action similar to that of formaldehyde. it is especially effective against the tubercle bacilli. fungi and viruses. it is less toxic and irritant to the eyes and skin than formaldehyde. it has no deleterious effect on the cement or lenses of instrument s such as cystoscopes and bronchoscopes. it can be safely used to treat corrugated rubber anesthetic tubes and face masks, plastic endotracheal tubes metal instruments and polythene tubing ETHYLENE DIOXIDE: its action is due to alkylating the amino, carboxyl, hydroxyl and sulphydryl groups in protein molecules. In addition, it reacts with DNA and RNA. It is used as a disinfectant presents potential toxicity to human beings, including mutagenicity and carccarcinogenicity is effective against all types of microorganisms including viruses and spores SURFACE ACTIVE AGENTS Substances that alter the energy relationship at interference producing a reduction of surface or interfacial tension are referred to as surface active agents. they are widely used as wetting agents detergents and emulsifiers. They are classified as anionic, cationic, nonionic and amphoteric. the most impoant antibacterial agents are cationic surface active agents. They act on the phosphate group of the cell membrane and also enter the cell. The membrane loses its semi permeability and the cell proteins are denatured. the cationic compound in the forms of quaernary ammonium compound is markedly bactericidal have no action on spores, tubercle bacilli, and most viruses. The common compounds are acetyl trimethylammonium bromide and benzalkonium chloride. Ref: Ananthanarayan & panickers textbook of microbiology 8th edition page no 36-37",
-        "cop": 4,
-        "opa": "Glutaraldehyde",
-        "opb": "Formaldehyde",
-        "opc": "Ethylene oxide",
-        "opd": "Benzalkonium chloride",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "0785080f-8db7-46e5-9576-25ee8741d83c",
-        "choice_type": "multi"
     },
     {
         "question": "Transfer of a poion of DNA from one bacterium to another by the bacteriophage is known as -",
@@ -2925,32 +2171,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about the bacterial capsule is following except -",
-        "exp": "Slime has a little affinity for basic dyes and is not visible in gram stained smears. Special capsule staining techniques are available usually employing copper salts as mordants. Capsules may be readily demonstrated by negative staining in wet films with India ink when they are seen as clear halos around the bacteria against a black ink Ref: Ananthanarayan & paniker's Textbook of microbioagainsth edition pg no 18",
-        "cop": 2,
-        "opa": "Prevents phagocytosis",
-        "opb": "Stains by Gram stain",
-        "opc": "Protects bacteria from enzymes",
-        "opd": "Lost by repeated subcultures",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "00cf9757-5f3e-4eec-aea5-45e6075bf58c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about exotoxins -",
-        "exp": "EXOTOXINS: Proteins heat labile actively secreted by cells diffuse into surrounding medium readily separable from cultures by physical means such as filtration action often enzymatic specific pharmacological effects for each exotoxinspecific tissue affinities active in very minutes dose highly antigenic action specifically neutralized by antibody Ref Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 75",
-        "cop": 3,
-        "opa": "Lipopolysaccharide",
-        "opb": "Not antigenic",
-        "opc": "Can be toxoided",
-        "opd": "Heat stable",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "fdafe623-e1cf-4b53-aeac-3cfe3704e739",
-        "choice_type": "multi"
-    },
-    {
         "question": "The disposable plastic syringes are best sterilized by?",
         "exp": "ETHYLENE DIOXIDE its action is due to alkylating the amino, carboxy, hydroxyl and sulphydryl groups in protein molecules. In addition, it reacts with DNA and RNA. It is used as a disinfectant presents potential toxicity to human beings including mutagenicity and carcinogenicity. It diffuses through many types of porous materials and readily penetrates some plastics. It is especially used for sterilizing heart-lung machines, respirators sutures dental equipment books and clothing. It is unsuitable for fumigating rooms because of its explosive propey. It has been successfully used to sterilize a wide range of materials such as glass surfaces clothing, plastics, soil, some foods and, tobacco. REF: Ananthanarayan and Panicker's Textbook of. Microbiology 8th. Edition pg no: 37",
         "cop": 2,
@@ -2964,19 +2184,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Tyndallisation is a type of-",
-        "exp": "A single exposure of 90 minutes usually ensures sterilisation but for media containing sugars or gelatin an exposure of 100 degree celsius for 20 minutes on 3 successive days is used. This is known as tyndallisation or intermittent sterilisation REF: Ananthanarayan and Panicker's Textbook of Microbiology 8th Edition pg no: 32",
-        "cop": 1,
-        "opa": "Intermittent sterilization",
-        "opb": "Pateurisation",
-        "opc": "Boiling",
-        "opd": "Autoclaving",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "be6f77b5-3785-487b-a2d6-414bef6d7889",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following do not have ribosomes for protein synthesis",
         "exp": "Bacteria doesn&; t have complex organelles but ribosomes are present in 30, 50 and 80S. Fungi have all organelle as it is a eukaryotic cell.",
         "cop": 2,
@@ -2988,19 +2195,6 @@
         "topic_name": "general microbiology",
         "id": "9c81fabc-5edb-41c4-9f07-ad426143db30",
         "choice_type": "single"
-    },
-    {
-        "question": "Prokaryotes are characterized by?",
-        "exp": "Based on differences in cellular organization and biochemistry this kingdom has been divided into two groups: prokaryotes and eukaryotes. Bacteria and blue-green algae are prokaryotes while fungi other algae, slime molds, and protozoa are eukaryotes. Bacteria are prokaryotic microorganisms that do not contain chlorophyll. They are unicellular and do not show true branching except in the so-called higher bacteria. Ref: Textbook of Microbiology; Ananthanarayan and Paniker; 9th edition; Pg no: 9",
-        "cop": 1,
-        "opa": "Absence of nuclear membrane",
-        "opb": "Presence of microvilli on its surface",
-        "opc": "Presence of smooth Endoplasmic Reticulum",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "733a992a-17e7-47f9-b8ed-8ec6727a6914",
-        "choice_type": "multi"
     },
     {
         "question": "Fiber optic instruments like endoscopes should be disinfected by",
@@ -3042,32 +2236,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Microscope used in microbiology are",
-        "exp": "The morphological study of bacteria requires the use of microscopes. Microscopy has come a long way since Leeuwenhoek first observed bacteria over three hundred years ago using hand grounded lenses. Optical or Light microscope, Phase contrast microscopy, Fluorescent microscope, dark field / Dark ground microscope and Electron microscope Ref: Textbook of Microbiology; Ananthanarayan and Paniker; 9th edition; Pg no: 10",
-        "cop": 4,
-        "opa": "Light microscope",
-        "opb": "Phase contrast microscope",
-        "opc": "Fluorescent microscope",
-        "opd": "All",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "4efa65c7-291d-4ea6-9117-0f4e578c56cc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Growth on a cell-free aificial solid medium is possible for following except -",
-        "exp": "They are bacteria but may be considered as viruses on account of their filterability and failure to grow in cell-free culture media. REF: Textbook of microbiology Ananthanarayan, and Paniker. Page no.: 415",
-        "cop": 4,
-        "opa": "Ureaplasma urealyticum",
-        "opb": "Mycoplasma Pneumoniae",
-        "opc": "C & L form of proteus vulgaris",
-        "opd": "Chlamydia",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "214970a4-9082-44e7-98a5-a3eeecc520f3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a neutralisation test?",
         "exp": "a serum-precipitation reaction for the diagnosis of syphilis. Ref: Ananthanarayana & panikers 9th edition",
         "cop": 1,
@@ -3092,19 +2260,6 @@
         "topic_name": "general microbiology",
         "id": "8637bafb-a806-47f3-b0f9-429045c7a772",
         "choice_type": "single"
-    },
-    {
-        "question": "All are motile except?",
-        "exp": "It is a pump Gram-positive bacillus was straight parallel sides and rounded or truncated ends about 4-6 x1 um in size usually occurring singly or in chains or small bundles. It is pleomorphic and filamentous and involution forms are common it is capsulated and nonmotile Ref: Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 253",
-        "cop": 3,
-        "opa": "CI. histolyticum",
-        "opb": "CI. Tetanosporum",
-        "opc": "CI. perfringens",
-        "opd": "CI. septicum",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "3746f2b8-a772-454c-9fdb-910eedf1ee4e",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not a selective media",
@@ -3146,19 +2301,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which one of the following ollowing is true -",
-        "exp": "Ananthanarayan & Panicker's Textbook of Microbiology 9th edition pg no: 39-40 Agar has no nutritive value it is formed from seaweeds. it is universally used to prepare solid media Chocolate agar is an eg of enriched media they are used to grow bacteria which are more extracting in their nutritional needs Enrichment media: some substances which added to a medium may inhibit the growth of the unwanted bacteria and absolutely increasing the number of wanted bacteria in the liquid media",
-        "cop": 4,
-        "opa": "Agar has nutrient propeies",
-        "opb": "Chocolate medium is selective medium",
-        "opc": "Addition of selective substances in a solid medium is called enrichment media",
-        "opd": "Nutrient broth is basal medium",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "72dc357f-fcdf-4eb5-a57b-3b643d48213f",
-        "choice_type": "multi"
-    },
-    {
         "question": "The Haemophilus influenzae vaccine contains which of the following",
         "exp": "Polysaccharide vaccine Haemophilus influenzae type b is a bacterium with a polysaccharide capsule; the main component of this capsule is polyribosyl ribitol phosphate (PRP). Anti-PRP antibodies have a protective effect against Hib infections. Thus, purified PRP was considered a good candidate for a vaccine Ref ananthnarayana microbiology textbook 8/e",
         "cop": 4,
@@ -3172,32 +2314,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Sputum can be disinfected by",
-        "exp": "Sputum can be disinfected by all the above-mentioned methods Ref: Textbook of Microbiology Baveja 5th ed Pg 29",
-        "cop": 4,
-        "opa": "Autoclave",
-        "opb": "Boiling",
-        "opc": "Cresol",
-        "opd": "All the above",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "4f3075d7-87b3-44da-91a6-379f865fe97f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true regarding disinfectants except -",
-        "exp": "Ethylene oxide: it is highly inflammable and explosive. it is especially used used forsterilisation heart-lung machines, respirators, sutures, dental equipments, books and clothings it has been used for sterilising wide range of materials REF: Ananthanarayan & Panicker's Textbook of Microbiology 9th edition pg no: 35",
-        "cop": 3,
-        "opa": "Gluteraldehyde is sporicidal",
-        "opb": "Hypochlorites are virucidal",
-        "opc": "Ethylene oxide is intermediate disinfectant",
-        "opd": "Phenol usually requires organic matter to act",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "e16eee5d-c7ab-4ec8-8d71-dca16a70830e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Diluent for trimethoprim in antibiotic disc for sensitivity testing is",
         "exp": "Diluent for trimethoprim in antibiotic sensitivity testing is acetic acid Sod bicarbonate for amoxicillin and ceftazidime Ref: Textbook of Microbiology Baveja 4th ed Pg 629",
         "cop": 4,
@@ -3209,19 +2325,6 @@
         "topic_name": "general microbiology",
         "id": "544ba604-79fc-45f5-a0bf-8cdff24d021b",
         "choice_type": "single"
-    },
-    {
-        "question": "The best method of sterilization of dusting powder is?",
-        "exp": "Hot air oven: it is used to sterilize glassware, forceps, scissors, scalpels, all glass syringes, swabs, some pharmaceutical products such as liquid paraffin, dusting powder, fat and grease REF: Ananthanarayan and Panicker's Textbook of. Microbiology 8th. Edition pg no: 31",
-        "cop": 2,
-        "opa": "Autoclaving",
-        "opb": "Hot air oven",
-        "opc": "Inspissation",
-        "opd": "Tyndallisation",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "4e33d5f7-fe6c-4b97-a70d-25e445e3045a",
-        "choice_type": "multi"
     },
     {
         "question": "The culture media of choice for growing most of the fungi is",
@@ -3276,19 +2379,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The term ble but not cultivable is used for -",
-        "exp": "It has not been possible to culture Mycobacterium leprae in vitro so far. Can be grown in the footpad of the mouse. It is a long and strenuous process and therefore considered noncultivable REF: Textbook of Microbiology, Ananthanarayan, and Paniker. Page no.: 346, 364",
-        "cop": 1,
-        "opa": "M. leprae",
-        "opb": "M. tuberclosis",
-        "opc": "Treponema pallidum",
-        "opd": "Salmonella",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "2d1bffdc-fbad-45b7-9330-c25d79e743d4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Phenol test or Reidel walker test is done to determine?",
         "exp": "TESTING OF DISINFECTANTS There is no single reliable test available to detrmine the efficacy of a disinfectant. This is due to the number of parameters which influence disinfectant activityy. Traditionally in such tests phenol is taken as standard. In Rideal -Walker test, suspension containig equal number of typhoid bacilli are submitted to the action of varying concentration of phenol and of disinfectant to be tested. REF: Ananthanarayan & Panicker's Textbook of Microbiology 8th Edition pg no: 38",
         "cop": 4,
@@ -3326,19 +2416,6 @@
         "topic_name": "general microbiology",
         "id": "a11e6a44-e0ed-45c3-8e6b-7e6c58915ad3",
         "choice_type": "single"
-    },
-    {
-        "question": "Bacteria that grow optimally at 25-40oC are called as",
-        "exp": "Psychrophilic forms grow best at low temperatures (-5 to 15degC) and are usually found in such environments as the Arctic and Antarctic regionspsychrotrophs have a temperature optimum between 20degC and 30degC but grow well at lower temperatures. They are an impoant cause of food spoilage. Mesophilic forms grow best at 30-37degC, most thermophilic forms grow best at 50-60degC. Some organisms are hypehermophilic and can grow at well above the temperature of boiling water, which exists under high pressure in the depths of the ocean. Jawetz microbiology 27E pg: 72",
-        "cop": 4,
-        "opa": "Thermophiles",
-        "opb": "Cryophiles",
-        "opc": "Psychrophiles",
-        "opd": "Mesophiles",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "acae73d8-e1f1-4bc2-96e2-842597e3c7be",
-        "choice_type": "multi"
     },
     {
         "question": "pH of sabourauds dextrose agar is adjusted to?",
@@ -3393,19 +2470,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In stokes disc diffusion, if zone of size of inhibition(test bacterium) is small by 2mm, bacterial strain is",
-        "exp": "If zone of test bacterium= control--sensitive Zone of test bacterium small-resistant Ref: Textbook of Microbiology Baveja 5th ed Pg 623",
-        "cop": 2,
-        "opa": "Sensitive",
-        "opb": "Resistant",
-        "opc": "Intermediate sensitive",
-        "opd": "None",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "887c4d7f-7eb1-4a38-be0a-a6a040916b6a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following antibiotic acts by inhibition of cytoplasmic membrane function?",
         "exp": "Polymyxin bacitracin acts by inhibiting cell membrane or plasma membrane Not cell wall Penicillin -cell wall, streptomycin-protein synthesis inhibition Ref: CP Baveja 4th ed Pg: 625",
         "cop": 2,
@@ -3458,19 +2522,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is true about pasteurization -",
-        "exp": "Pasteurisation: the milk is heated at either 63o. Cfor 30 minutes(the holder method)or 72o. Cfor 15-30 seconds(the flash process )followed by cooling quickly to 13oC or lower. By these process all non sporing pathogens such as mycobacteria, brucella and salmonella are destroyed. Coxiella burnetti is relatively heat resistant and may survive the holder method",
-        "cop": 2,
-        "opa": "it kills all bacteria and spores",
-        "opb": "It kills all bacteria except thermoduric bacteria",
-        "opc": "It kills 95% of microorganisms",
-        "opd": "All bacteria are destroyed",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "ea1622a8-2590-4afc-83cf-223fef8f49c7",
-        "choice_type": "multi"
-    },
-    {
         "question": "The mechanism by which specific information encoded in a nucleic acid chain in a virus transferred to m. RNA in known as -",
         "exp": "TRANSCRIPTION of messenger RNA (m. RNA) from the viral viral nucleic acid REF: Ananthanarayan & Panicker's Textbook of Microbiology 8th edition pg no: 430",
         "cop": 1,
@@ -3508,19 +2559,6 @@
         "topic_name": "general microbiology",
         "id": "b1fbb8d0-161f-498a-8a24-6aac5c669aff",
         "choice_type": "single"
-    },
-    {
-        "question": "All are physical methods of sterilisation except",
-        "exp": "Physical Methods of Sterilization. Heat. Radiation. Filtration Chemical Methods of Sterilization: using toxic gasses Ex: ETO, Formalin gas Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno: 33",
-        "cop": 2,
-        "opa": "Sunlight",
-        "opb": "Gases",
-        "opc": "Filtration",
-        "opd": "Heat",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "f862bc80-5260-4c60-a387-724efbd279de",
-        "choice_type": "multi"
     },
     {
         "question": "The cytoplasmic membrane of bacteria is responsible for -",
@@ -3562,19 +2600,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Virus mediated transfer of host DNA from one cell to another is known as -",
-        "exp": "TRANSDUCTION: the trannsfer of a poion of the DNA from one bacterium to another by a abactriophage is known as transduction. Bacteriophages are viruses that parasitise the bacteria and consist of a nucleic acid core and a protein coat. A phage paicle may have its core beside its own nucleic acid a segment of host DNA. When this paicle infects another bacterium DNA transfer is effected and the recepient cells acquire new characteristic coded by the donor DNA REF: Ananthanarayan and Panicker's Textbook of. Microbiology 8th. Edition pg no: 63",
-        "cop": 3,
-        "opa": "Transformation",
-        "opb": "Conjugation",
-        "opc": "Transduction",
-        "opd": "None",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "3a3596ee-6083-41bd-89aa-5518d0e62f95",
-        "choice_type": "multi"
-    },
-    {
         "question": "Obligatory intracellular organism is -",
         "exp": "Obligatory intracellular organism: they are those organisms who cannot multiply or reproduce outside the host cell but require the resources of the host cell to synthesis enzymes and multiply or reproduce chlamydia is an obligate intracellular bacterial parasite of humans animals and birds with tropism for squamous epithelial cells and macrophages of the respiratory and gastrointestinal tract Ref: Ananthanarayan & paniker's Textbook of Microbiology edition pg no: 415",
         "cop": 2,
@@ -3588,19 +2613,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following are a Bacteria taxonomically?",
-        "exp": "Chlamydiae are obligate intracellular bacteria belonging to genus Chlamydia, in family Chlamydiaceae, under order Chlamydiales Ref: Textbook of Microbiology; Ananthanarayan and Paniker; 9th edition; Pg no: 415",
-        "cop": 1,
-        "opa": "Chlamydia",
-        "opb": "Rickettsia",
-        "opc": "Mycoplasma",
-        "opd": "Prion",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "655335b7-1345-4319-bef4-c9b03332d135",
-        "choice_type": "multi"
-    },
-    {
         "question": "In &; Hotair oven&; for holding period of one hour, temperature required is -",
         "exp": "Temperature and time: 160 o C for 2 hours (holding time ) is required for sterilization However alternative temperatures and holding time include 170degC for 1 hour and 180degC for 30 minutes Ref: a textbook of Microbiology Dr. C. P. Baveja 4th Edition pg no: 30",
         "cop": 4,
@@ -3612,19 +2624,6 @@
         "topic_name": "general microbiology",
         "id": "b0d0991c-1870-4d70-9f94-7cb50febe5b5",
         "choice_type": "single"
-    },
-    {
-        "question": "All are capsulated bacteria except -",
-        "exp": "The diphtheria bacillus are pleomorphic, nonsporing noncapsulated and nonmotile they are gram-positive. pleomorphic, nonspoing, encapsulated, nonmotile gram-positive bacteria REF: Ananthanarayan and Panikkar's textbook of microbiology 9th edition pg no 236",
-        "cop": 2,
-        "opa": "Neisseria",
-        "opb": "Corynebacterium diphtheriae",
-        "opc": "Haemophillus",
-        "opd": "Streptococcus saliverius",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "8f9b2ce6-c9a2-4f35-a99c-adf13286989b",
-        "choice_type": "multi"
     },
     {
         "question": "Endoscopic instrumental disinfection is done by using-",
@@ -3716,19 +2715,6 @@
         "topic_name": "general microbiology",
         "id": "edcfb9f1-3948-47b5-92a6-885629bd432a",
         "choice_type": "single"
-    },
-    {
-        "question": "Type of graft, best suited for renal transplantation",
-        "exp": "Isograft is the graft of tissue between two individuals who are genetically identical i: e, monozygotic twins. Transplant rejection between two such individuals viually never occurs. As monozygotic twins have the same histocompatibility complex, there is very rare chance of rejection of transplanted tissue by the adaptive immune system. Ref: Baveja textbook of microbiology; 4th edition",
-        "cop": 4,
-        "opa": "Allograft",
-        "opb": "Autograft",
-        "opc": "Xenograft",
-        "opd": "Isograft",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "6278435e-5ef0-4cf6-94a8-e8896f1f8fdb",
-        "choice_type": "multi"
     },
     {
         "question": "In blood culture the ratio of blood to reagent is -",
@@ -3833,19 +2819,6 @@
         "topic_name": "general microbiology",
         "id": "3d43c047-8c19-4af8-a28d-382242629783",
         "choice_type": "single"
-    },
-    {
-        "question": "Silver impregnation technique is used in the identification of?",
-        "exp": "Silver impregnation: cells and structure too thin to be seen under the ordinary microscope may be rendered visible if they are thickened by impregnation of silver on the surface. Such a method is used for the demonstration of spirochetes and bacterial flagella REF: Ananthanarayan & Panicker's Textbook of Microbiology 9th edition pg no: 13",
-        "cop": 4,
-        "opa": "Spirochaetes",
-        "opb": "Leptospira",
-        "opc": "Borrelia",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "general microbiology",
-        "id": "684436ce-1d6f-4f0e-be65-2b71957b74d0",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following takes place during the stationary phase of growth curve?",

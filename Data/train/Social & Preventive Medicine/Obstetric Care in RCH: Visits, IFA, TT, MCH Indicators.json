@@ -1,18 +1,5 @@
 [
     {
-        "question": "Maternal moality rate is calculated:-",
-        "exp": "Maternal moality rate: - 'Maternal death' is defined as 'Death of a woman anytime in pregnancy, during labour/delivery or within 42 days of delivery Maternal deaths expressed as per 100, 000 live bihs is MMR. Direct cause of MMR - Post-paum hemorrhage. Indirect cause of MMR - Anemia.",
-        "cop": 3,
-        "opa": "Till delivery",
-        "opb": "Till 1 week after delivery",
-        "opc": "Till 42 days after delivery",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Obstetric Care in RCH: Visits, IFA, TT, MCH Indicators",
-        "id": "4a49636d-c642-46fe-8280-0e4e3d485207",
-        "choice_type": "multi"
-    },
-    {
         "question": "In a given population, total bihs in a year are 4050. There are 50 still bihs. 50 neonates die within first 7 days of life whereas the number of deaths within 8-28 days of life is 150. What is the Neonatal moality rate in the population?",
         "exp": "In the given question, Total neonatal deaths = Total early neonatal deaths + Total late neonatal deaths = 50 + 150 = 200 Total live bihs = Total bihs - Total stillbihs = 4050 - 50 = 4000 NMR= Neonatal death/Live bihs*1000 Thus, Neonatal moality rate, NMR = 200/4000 X 1000 = 50 per 1000 live bihs.",
         "cop": 2,
@@ -24,19 +11,6 @@
         "topic_name": "Obstetric Care in RCH: Visits, IFA, TT, MCH Indicators",
         "id": "9c8f1674-1416-4b53-86a1-6219e75240c1",
         "choice_type": "single"
-    },
-    {
-        "question": "All are included in Kangaroo Mother Care except:",
-        "exp": "KANGAROO MOTHER CARE is for prevention of neonatal hypothermia in low bih weight/premature newborns: Skin -to -skin positioning of newborn on mother's chest. Adequate nutrition through breast feeding. Early discharge and ambulatory care. Suppo to the mother and family for child care.",
-        "cop": 3,
-        "opa": "Skin to skin contact",
-        "opb": "Early discharge and follow up",
-        "opc": "Free nutritional supplements",
-        "opd": "Exclusive Breast feeding",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Obstetric Care in RCH: Visits, IFA, TT, MCH Indicators",
-        "id": "fc1a3625-18c7-488d-9ff7-f77a8163461a",
-        "choice_type": "multi"
     },
     {
         "question": "How many antenatal visits covering the entire period of pregnancy are minimum required?",
@@ -143,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are the Intranatal causes of Perinatal moality except:-",
-        "exp": "Causes of perinatal moality: Antenatal cause Intranatal cause Maternal disease -HTN, DM, TB, Anemia, Cardiovascular disease Bih injuries Pelvic disease Bih asphyxia Anatomical defects Prolonged effo time; obstructed labour Endocrine imbalance Other Obstetric complications Malnutrition Postnatal causes Toxemias Prematurity Antepaum hemorrhage Respiratory distress syndrome Congenital defects Respiratory and alimentary infections Advanced maternal age Congenital anomalies Blood incompatibilities",
-        "cop": 3,
-        "opa": "Bih injuries",
-        "opb": "Bih asphyxia",
-        "opc": "Antepaum hemorrhage",
-        "opd": "Obstructed labor",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Obstetric Care in RCH: Visits, IFA, TT, MCH Indicators",
-        "id": "424b39d4-5540-477b-b46a-0fa06c26f582",
-        "choice_type": "multi"
-    },
-    {
         "question": "Iron and Folic acid is staed during which period of pregnancy?",
         "exp": "Adult iron folic acid (IFA) tablets requirement during pregnancy: One tablet per day (60 mg Iron + 500 mcg Folic acid) Staed during second trimester of pregnancy (4th month POG) Given for 180 days during Pregnancy and 180 days Post paum.",
         "cop": 2,
@@ -167,19 +128,6 @@
         "topic_name": "Obstetric Care in RCH: Visits, IFA, TT, MCH Indicators",
         "id": "4eb72a41-151f-4d0a-84d4-590584a4c5b5",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are considered as High-risk pregnancy except:",
-        "exp": "RISK APPROACH High risk cases - Elderly primi (30 years and over). Sho statured primi (140 cm and below). Malpresentations ie. breech, transverse lie, etc. Antepaum haemorrhage, Threatened aboion. Pre-eclampsia and eclampsia. Anemia. Twins, hydramnios. Previous still-bih, intrauterine death, manual removal of placenta. Elderly grandmultiparas. Prolonged pregnancy (14 days-after expected date of delivery). History of previous caesarean or instrumental delivery. Pregnancy associated with general diseases, viz. cardiovascular disease, kidney disease, diabetes, tuberculosis, liver disease, malaria, convulsions, asthma, HIV, I, STI, etc. Treatment for infeility. Three or more spontaneous consecutive aboions.",
-        "cop": 2,
-        "opa": "Elderly primi (30 years and over)",
-        "opb": "Sho statured primi (150 cm and below)",
-        "opc": "History of previous caesarean or instrumental delivery",
-        "opd": "Prolonged pregnancy (14 days after expected date of delivery)",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Obstetric Care in RCH: Visits, IFA, TT, MCH Indicators",
-        "id": "1ce7097a-79b7-49e1-a027-232734636da3",
-        "choice_type": "multi"
     },
     {
         "question": "In a town of 20, 000 population, total 456 bihs were there in a year out of which 56 were dead born. The total deaths were 247 out of which 56 deaths were within the first 28 days of life and another 34 had died after 28 days and before completing the first bihday. Calculate the Infant moality rate of this area.",

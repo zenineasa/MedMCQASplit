@@ -1,31 +1,5 @@
 [
     {
-        "question": "A young, tall, thin male with arachnodactyly has ectopia lentis in both eyes. The most likely diagnosis is:",
-        "exp": "Marfan syndrome Disorder of connective tissues, Changes in the skeleton, eyes, and cardiovascular system. Inherited defect in an extracellular glycoprotein called fibrillin-1. Skeleton features Unusually tall with long extremities and long, tapering fingers (refer to the image below) and toes. The joint ligaments in the hands and feet are lax. Ocular features Ectopia lentis (refer to the image below): Bilateral subluxation or dislocation (outward) of the lens Cardiovascular lesions Mitral valve prolapse Aoic dissection. (Fig: long fingers, ectopia lentis and chest in Marfan syndrome)",
-        "cop": 1,
-        "opa": "Marfan's syndrome",
-        "opb": "Marchesani's syndrome",
-        "opc": "Homocystinuria",
-        "opd": "Ehler Danlos syndrome",
-        "subject_name": "Pathology",
-        "topic_name": "Single Gene Disorders",
-        "id": "0c4eb4d3-9420-40bb-9356-2ce781fc013d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "CGG repeat sequence is found in",
-        "exp": "Expansions affecting non-coding regions Disease Protein Repeating Sequence Fragile X syndrome FMR-1 protein CGG Friedrich ataxia Frataxin GAA Myotonic Dystophy Myotonic dystrophy protein kinase (MDPK) CTG",
-        "cop": 1,
-        "opa": "Fragile X syndrome",
-        "opb": "Huntingtons chorea",
-        "opc": "Dentatorubropallidolusyian atrophy",
-        "opd": "Machado joseph disease",
-        "subject_name": "Pathology",
-        "topic_name": "Single Gene Disorders",
-        "id": "ca8556a7-bcd3-4b21-9730-a48c2a4dc258",
-        "choice_type": "multi"
-    },
-    {
         "question": "Condition that has an autosomal dominant inheritance pattern is:",
         "exp": "Schwachman diamond syndrome Autosomal recessive Biallelic mutation in SBDS gene. Bone marrow failure, Exocrine pancreatic insufficiency | risk of myelodysplasia and leukemia. Diamond blackfan anemia Autosomal dominant condition Congenital abnormalities, Severe macrocytic anemia, Reticulocytopenia Selective depletion of erythroid precursors in bone marrow. Dyskeratosis congenita Inherited bone marrow failure syndrome Triad- skin pigmentation, nail dystrophy and mucosal leukoplakia. X linked and autosomal condition. Bone marrow aplasia Pulmonary fibrosis Liver disease Neurologic and eye abnormalities Increased predisposition to cancer Congenital amegakaryocytic thrombocytopenia Autosomal recessive condition Mutation in thrombopoietin (TPO) receptor c-mpl. Aplastic anemia by 5 yrs of age.",
         "cop": 2,
@@ -91,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Reinke crystalloids can be seen in which of the following sex cord-stromal tumours?",
-        "exp": "Hilus cell tumours (pure Leydig cell tumours) are rare, unilateral tumors comprised of large lipid-laden Leydig cells with distinct borders and characteristic cytoplasmic structures called Reinke crystalloids.",
-        "cop": 1,
-        "opa": "Leydig cell tumour",
-        "opb": "Granulosa cell tumour",
-        "opc": "Gonadoblastoma",
-        "opd": "Thecoma",
-        "subject_name": "Pathology",
-        "topic_name": "Single Gene Disorders",
-        "id": "1c6c0dc8-ad53-4e2d-979b-e7f4d489af15",
-        "choice_type": "multi"
-    },
-    {
         "question": "In classical Mendelian inheritance, autosomal dominant disease characterized by:",
         "exp": "Autosomal dominant disease -Variable expressivity -Incomplete penetrance -Both parents are affected -No skipping of generations",
         "cop": 4,
@@ -115,44 +76,5 @@
         "topic_name": "Single Gene Disorders",
         "id": "a6f882b4-db77-4faa-9772-82baa3e5bef8",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is not a propey of autosomal dominant disorders?",
-        "exp": "Incomplete penetrance and not Complete penetrance is feature of autosomal dominant disorder. Autosomal dominant disorder: Heterozygosity expression 50% progeny are affected Veical inheritance (at least 1 affected member is seen in each generation) Affect both female and male equally Associated with involvement of structural protein Either they have loss of function mutation or gain of function mutation. Incomplete penetrance Variable expressivity (some affected individual have mild, some patient have moderate or severe disease).",
-        "cop": 3,
-        "opa": "Affects males and females equally",
-        "opb": "Veical inheritance",
-        "opc": "Complete penetrance",
-        "opd": "Variable expressivity",
-        "subject_name": "Pathology",
-        "topic_name": "Single Gene Disorders",
-        "id": "80439af2-eae7-405e-b796-48c5c6d43994",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are seen in RASopathies except:-",
-        "exp": "RAS opathies:- Group of medical genetic syndrome caused by germ line mutation in genes that encode components or regulator of RAS or MAP kinase pathway: Clinical features:- Distinct Facial features Developmental delays Cardiac defect Growth delays Neurological issues GI difficulties Examples Noonan Syndrome Neurofibromatosis Type I Costello syndrome Cardia- facio cutaneous syndrome. Legius syndrome =Skin desquamation is not seen in RAS Opathies.",
-        "cop": 4,
-        "opa": "Hair abnormalities",
-        "opb": "Craniofacial abnormalities",
-        "opc": "Keratosis pilaris",
-        "opd": "Desquamation of skin",
-        "subject_name": "Pathology",
-        "topic_name": "Single Gene Disorders",
-        "id": "fa94d128-9033-4c7d-bf63-7a9760fdaa15",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following statements are true about Wiskott Aldrich syndrome, except:",
-        "exp": "Wiskott-Aldrich syndrome X-linked recessive disease Characterized by thrombocytopenia, eczema, and a marked vulnerability to recurrent infection Mutation in gene encoding Wiskott-Aldrich syndrome protein (WASP), which is located at Xp11. 23. IgM levels in the serum are low, but levels of IgG are usually normal. Paradoxically the levels of IgA and IgE are often elevated. The only treatment is HSC transplantation.",
-        "cop": 1,
-        "opa": "Autosomal recessive disorder",
-        "opb": "Low serum IgM level",
-        "opc": "Thrombocytopenia",
-        "opd": "Eczema",
-        "subject_name": "Pathology",
-        "topic_name": "Single Gene Disorders",
-        "id": "545dacbb-f45c-4715-a12a-0a6bcbe2619d",
-        "choice_type": "multi"
     }
 ]

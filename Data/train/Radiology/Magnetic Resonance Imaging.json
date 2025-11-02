@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True regarding FLAIR MRI",
-        "exp": "T2-FLAIR stands for T2-weighted-Fluid-Attenuated Inversion Recovery. Fluid-attenuated inversion recovery (FLAIR) is a pulse sequence used in magnetic resonance imaging which was invented by Dr. Graeme Bydder. FLAIR can be used with both three-dimensional imaging (3D FLAIR) and two dimensional imaging (2D FLAIR). The pulse sequence is an inversion recovery technique that nulls fluids. Structures with more water such as CSF or edema have long T1 and T2 relaxation times, resulting in higher signal intensity on T2-weighted images. T2 images are also more sensitive for detecting demyelination, infarction, and chronic hemorrhage. Fluid-attenuated inversion recovery (FLAIR) is a type of T2- weighted image that suppresses the high-intensity signal of CSF. As a result, images created by the FLAIR technique are more sensitive to detecting water- containing things/lesions.",
-        "cop": 2,
-        "opa": "CSF appears bright on T2-FLAIR",
-        "opb": "It negates the fluid signals.",
-        "opc": "FLAIR stands for Fluid Attenuation Induction and Recovery.",
-        "opd": "All of the above",
-        "subject_name": "Radiology",
-        "topic_name": "Magnetic Resonance Imaging",
-        "id": "73114941-3a7c-46d2-a7e1-f1d866ef4c46",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 40 year old male patient on long term steroid therapy for systemic disease, presents with recent onset of severe pain in the right hip. Imaging modality of choice for this problem is-",
         "exp": "Long term steroid therapy for systemic disease + severe pain in the right hip = AVASCULAR NECROSIS IOC for Avascular Necrosis: MRI Snow cap sign on plain radiograph: AVN of humerus or femur head Figure: snow cap sign due to AVN of humerus head",
         "cop": 3,
@@ -63,19 +50,6 @@
         "topic_name": "Magnetic Resonance Imaging",
         "id": "a81d1170-8aef-4ff9-b19f-56145e40fb4a",
         "choice_type": "single"
-    },
-    {
-        "question": "False about Diffusion-weighted MRI:",
-        "exp": "Diffusion-weighted imaging (DWI) Based on Brownian motion of water molecules within a voxel of tissue. When there is Diffusion Restriction-MRI gives a bright signal on DWI images and has low apparent Diffusion Coefficient(ADC value). DW-MRI detects Cytotoxic edema before a Vasogenic edema develops. Lesions showing Diffusion Restriction Infarct(Acute Infarct)- IOC Abscess Medulloblastoma & Other High Cellularity Tumours. Epidermoid Cyst",
-        "cop": 1,
-        "opa": "High apparent Diffusion Coefficient",
-        "opb": "Based on brownian motion",
-        "opc": "Detects cytotoxic edema before a vasogenic edema develops",
-        "opd": "High cellularity tumours can be detected",
-        "subject_name": "Radiology",
-        "topic_name": "Magnetic Resonance Imaging",
-        "id": "324a1b7f-a8dc-4d44-9d1f-569b0e7487bf",
-        "choice_type": "multi"
     },
     {
         "question": "BOLD technique is used by which MRI sequence?",
@@ -258,19 +232,6 @@
         "topic_name": "Magnetic Resonance Imaging",
         "id": "1e0da694-05f6-4623-ad2d-90a8166d234b",
         "choice_type": "single"
-    },
-    {
-        "question": "Which MRI sequence is called as Tractography?",
-        "exp": "Tractography: Is a 3D modelling technique used to visually represent nerve tracts using data collected by Diffusion Tensor Imaging. It uses special techniques of magnetic resonance imaging (MRI) and computer-based diffusion tensor imaging.",
-        "cop": 3,
-        "opa": "DWI",
-        "opb": "SWI",
-        "opc": "DTI",
-        "opd": "FLAIR",
-        "subject_name": "Radiology",
-        "topic_name": "Magnetic Resonance Imaging",
-        "id": "b0e0fd19-bc31-44f5-ba35-67cf68aafaf7",
-        "choice_type": "multi"
     },
     {
         "question": "Investigation of choice for SPINAL METASTASIS?",

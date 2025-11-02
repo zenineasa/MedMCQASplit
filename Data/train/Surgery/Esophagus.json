@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient with carcinoma lower 1/3 of oesophagus, receives chemo Radiotherapy and dysphagia shows complete response. What is the next step in management?",
-        "exp": "- Clinical trials and meta-analyses have shown that a C + surgery regimen could significantly improve the survival of locally advanced esophageal carcinoma patients compared to surgery alone - Endoscopic biopsy, endoscopic ultrasonography, MRI (at various sequences) and PET-CT all had shocomings for evaluating c. CR and the therapeutic effect of c. CR (concurrent chemoradiation) and nC (Neoadjuvant chemoradiation therapy)",
-        "cop": 3,
-        "opa": "Reassure",
-        "opb": "Follow with CT scan every 6 months",
-        "opc": "Esophagectomy",
-        "opd": "EUS to look for residual disease",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "d3136d26-80ab-4897-b66c-e6f7aea9c927",
-        "choice_type": "multi"
-    },
-    {
         "question": "Feline esophagus is seen in:",
         "exp": "- Feline esophagus is seen in both Eosinophilic Esophagitis>GERD. It is characteristic of Eosinophilic esophagitis so it serves as a better answer. - Eosinophilic Esophagitis: A barium swallow should be the first test obtained in the patient with dysphagia EE has a characterised finding often called the \"Ringed esophagus\" or the \"feline esophagus\" as the esophagus rings are felt to look like the strips on a housecat. The endoscopic appearance of EE is also characteristic and the appears as a series of rings. Feline Esophagus-BARIUM SWALLOW Normal Esophagus",
         "cop": 1,
@@ -50,19 +37,6 @@
         "topic_name": "Esophagus",
         "id": "4c88274a-ce9c-408c-91f6-0a021d055d62",
         "choice_type": "single"
-    },
-    {
-        "question": "LES pressure is decreased by all except:",
-        "exp": "Lower Esophageal Sphincter (LES) Pressure Decreased by Increased by Prostaglandin E1 and E2, Progesterone Theophylline Barbiturates, Diazepam, Dopamine CCB, Atropine, Nitrates Chocolate, Coffee Alcohol, Pippermint Smoking, Fat Bombesin, Angiotensin II PP, Substance P, Motilin Gastrin Antacids Cholinergics Domeperidone Metoclopramide PMT BD CAN decrease LES pressure; Prostaglandin E1 and E2, Progesterone, Morphine and Meperidine, Theophylline, Barbiturates, Diazepam, Dopamine, CCB, Atropine Nitrates CAPS Fat decrease LES pressure: Chocolate, Coffee, Alcohol, Pippermint, Smoking, Fat. PSM BAG increase LES pressure: PP, Substance P, Motilin, Bombesin, Angiotensin II, Gastrin",
-        "cop": 2,
-        "opa": "Alcohol",
-        "opb": "Gastrin",
-        "opc": "Fat",
-        "opd": "Peppermint",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "43c59653-c0aa-498b-9bb4-8c0c3276735b",
-        "choice_type": "multi"
     },
     {
         "question": "Successful treatment of a Zenker diveiculum involves?",
@@ -78,32 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Mackler's triad consists all, except?",
-        "exp": "Mackler's triad Thoracic pain Vomiting Cervical subcutaneous emphysema Seen in Boerhaave syndrome",
-        "cop": 2,
-        "opa": "Thoracic pain",
-        "opb": "Dyspnea",
-        "opc": "Cervical subcutaneous emphysema",
-        "opd": "Vomiting",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "ce37d404-afa8-4c2b-9a99-f350bec32e4e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 40 years old female presented to OPD with complaints of retrosternal heaburn, dysphagia more for liquids and occasional aspiration. Barium swallow is given below. Which of the following statement is false about this condition?",
-        "exp": "Ba. Swallow Narrowing of LES Absence of LES Relaxation ACHALASIA CARDIA Bird beak/Pencil tip/Rat tail appearance Retrosternal heart burn Dysphagia - liquids Occasional aspiration weight loss B. Swallow - Rat tail appearance ACHALASIA CARDIA Rat tail Appearance - Achalasia cardia Filling defect - Ca. Esophagus Achalasia Cardia: M/C hypomotility disorder of esophagus IOC- Manometry TOC- Heller's Myotomy",
-        "cop": 3,
-        "opa": "It is due to lack of inhibitory neurons in Auerbach plexus",
-        "opb": "Characterized by classical triad of dysphagia, regurgitation and weight loss",
-        "opc": "Barium swallow is gold standard investigation",
-        "opd": "Heller's cardiomyotomy is the treatment of choice",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "2019f4ea-063a-4537-a914-28ca93b4f184",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the name of this fundoplication?",
         "exp": "Type of fundoplication Degree of Wrap Watson 90 deg anterior fundoplication Dor 180 deg fundoplication Toupet 180 deg posterior fundoplication subsequently modified to 270 deg Belsey Mark IV 270 deg fundoplication Nissen's 360 deg fundoplication",
         "cop": 1,
@@ -117,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is most common site for iatrogenic esophageal perforation?",
-        "exp": "Esophageal perforation Iatrogenic Spontaneous Most common type Caused by endoscopy MC site is cervical esophagus (cricopharyngeal area) Esophageal rupture after vomiting MC site: left posterolateral side of the distal esophagus",
-        "cop": 2,
-        "opa": "Abdominal poion",
-        "opb": "Cervical poion",
-        "opc": "Above arch of aoa",
-        "opd": "Below arch of aoa",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "ec27be8c-a758-4d31-aa79-88f92a8481b7",
-        "choice_type": "multi"
-    },
-    {
         "question": "MC site of Ca esophagus is:",
         "exp": "MC site of Ca esophagus is middle 1/3 rd. Squamous cell usually affects the middle one-thirds; adenocarcinoma usually affects the lower third",
         "cop": 1,
@@ -141,45 +76,6 @@
         "topic_name": "Esophagus",
         "id": "271054de-ee82-4bd8-8ac2-addf37373f2d",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is a true diveiculum of esophagus?",
-        "exp": "Traction diveicula (parabronchial or midesophageal diveicula) are true diveicula, which occur secondary to scarring, fibrosis, and inflammatory process in the mediastinum pulling on the esophageal wall. Traction or true diveicula result from external inflammatory mediastinal lymph nodes adhering to the esophagus as they heal and contract, creates traction by which the mucosa, submucosa and muscularis altogether are pulled creating a diveicula and hence it is referred to as True Diveicula. More common in the mid-esophageal region around the carinal lymph nodes. Other mentioned diveicula are false as they don't contain all layers of gut.",
-        "cop": 1,
-        "opa": "Parabronchial diveiculum",
-        "opb": "Epiphrenic diveiculum",
-        "opc": "Killian-jamieson diveiculum",
-        "opd": "Zenker's diveiculum",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "8d886df0-aef9-4323-a175-088843041fc4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Small punched out lesions on endoscopy in lower esophagus in the immunocompromised patients is seen in:-",
-        "exp": "Herpetic Esophagitis: Both herpes simplex virus type -1 or type 2 can cause Esophagitis In patients with chicken pox Adult - Zoster - Esophagitis Children - V. Zoster - Esophagitis Classic endoscopic findings: Vesicles & small punched out ulcerations Severe reflux esophagitis- Cytomegalovirus esophagitis - Herpes simplex virus esophagitis - Candida esophagitis - mucosal ulceration & friability serpiginous ulcers target-type shallow ulcerations white plaques adherent to esophageal mucosa",
-        "cop": 4,
-        "opa": "CMV esophagitis",
-        "opb": "Candida esophagitis",
-        "opc": "Corrosive esophagitis",
-        "opd": "Herpes simplex esophagitis",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "01f3278f-3d78-49a7-a71c-c3322fdade70",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 35 years old lady presented with retrosternal burning pain, epigastric pain and regurgitation for 6 years. The most preferred treatment option is:",
-        "exp": "Retrosternal Burning pain Epigastric pain Regurgitation TRIAD - GERD Dx- 24 hrs pH monitoring DEMEESTER'S Score (< 14. 7 Normal) GERD > 14. 7 Sx Mx - Life expectancy > 10 years |Laparoscopic Nissen's fundoplication (Gold standard treatment of GERD) other t/t options- Lifestyle modifications: Cessation of smoking Decrease caffeine intake Avoid large meals just before lying down Drugs for symptomatic improvement - Double dose of proton pump inhibitor",
-        "cop": 3,
-        "opa": "Lifestyle modification",
-        "opb": "Double dose of PPI",
-        "opc": "Laparoscopic Nissen's fundoplication",
-        "opd": "Dietary modification",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "a09d2155-aeb8-445f-a31c-9468c5b71aa9",
-        "choice_type": "multi"
     },
     {
         "question": "Corkscrew esophagus is seen in which of the following condition?",
@@ -206,19 +102,6 @@
         "topic_name": "Esophagus",
         "id": "e97b646f-6707-4baa-91c6-d4673f2a2674",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following statements are true about replacement conduits after esophagectomy except:",
-        "exp": "Preferred conduit after esophsgectomy- Gastric conduit / stomach Conduit Based on Gastric conduit / stomach Left colon Jejunum Right gastric aery & right gastric epiploic aery Left colic aery Jejunal aery Preferred route / shoest route for conduit - posterior mediastinum",
-        "cop": 4,
-        "opa": "Ideal replacement for the esophagus after esophagectomy is stomach",
-        "opb": "Gastric conduit is based on right gastric and right gastroepiploic aery",
-        "opc": "Colonic conduit is based on left colic aery",
-        "opd": "Anterior mediastinal route is a preferred for conduit",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "590ac814-81ca-4821-b1f6-bf89776c5ec6",
-        "choice_type": "multi"
     },
     {
         "question": "A 55 years old male had retrosternal discomfo unrelated to physical exeion. Pain gets worse after lying down there is paial relief with antacids. The most likely diagnosis is:",
@@ -312,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "When a 'spontaneous perforation' of the esophagus occurs as a result of severe barotraumas while a person vomits against a closed glottis, the condition is known as:",
-        "exp": "BOERHAAVE'S SYNDROME Spontaneous rupture usually occurs on the left posterolateral side of the distal esophagus into the left pleural cavity or just above the gastroesophageal junction. These patients are typically male (85%), 40 to 60 years of age, who have a history of recent emesis. Clinical features Mackler's triad is seen in spontaneous esophageal perforation Thoracic pain Vomiting and Cervical subcutaneous emphysema. Patients with an abdominal perforation have epigastric abdominal pain that is also often referred to the back and left shoulder.",
-        "cop": 4,
-        "opa": "Mallory-Weiss syndrome",
-        "opb": "Plummer-Vinson syndrome",
-        "opc": "Kaagener's syndrome",
-        "opd": "Boerhaave's syndrome",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "5b8423b0-5ca6-4878-8a3e-ac67f75919cb",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 50-year-old patient develops sudden left lower chest pain and epigastric pain after vomiting. The patient shows diaphoresis, breath sounds are decreased on the left, and there is abdominal guarding. The most appropriate diagnostic test is:",
         "exp": "The history of pain after vomiting effos suggests esophageal rupture. Pain is often described as excruciating and frequently masquerades as a dissecting aneurysm, perforated ulcer, or myocardial infarction. Decreased breath sounds suggest the possibility of hydropneumothorax. The diagnostic procedure is a chest film. More than 90% of patients with an esophageal perforation show abnormalities suggestive of perforation. The findings are influenced by the interval between perforation and the examination, by the site of the perforation, and by the integrity of the mediastinal pleura. Esophagoscopy is not indicated.",
         "cop": 4,
@@ -338,19 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The gold standard for diagnosis of gastroesophageal reflux disease (GERD) is:",
-        "exp": "Barium swallow- IOC for diagnosis of Hiatus hernia and Zenker's diveicula Endoscopy + Biopsy- IOC for diagnosis of Barret's esophagus 24 hours PH monitoring- Gold standard Investigation for GERD Esophageal manometry- IOC for diagnosis of motility disorders of esophagus like Achalasia cardia, Diffuse esophageal spasm and Nut cracker's esophagus.",
-        "cop": 3,
-        "opa": "Barium swallow",
-        "opb": "Endoscopy",
-        "opc": "24-hours pH monitoring",
-        "opd": "Esophageal manometry",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "c8bfaccb-c1de-4d99-be33-4594a3b66ab6",
-        "choice_type": "multi"
-    },
-    {
         "question": "POEM is used for:",
         "exp": "Per Oral Endoscopic Myotomy (POEM) POEM is the application of esophageal myotomy to the concept of NOTES*by submucosal tunneling method. Used for treatment of achalasia Involves creation of long esophageal myotomy using flexible endoscope *NOTES - Natural Orifice Transluminal Endoscopic Surgery",
         "cop": 1,
@@ -362,19 +219,6 @@
         "topic_name": "Esophagus",
         "id": "ca9faf19-3724-41d0-9df7-b338d263d103",
         "choice_type": "single"
-    },
-    {
-        "question": "An upward dislocation of both the cardia and gastric fundus is which type of hiatal hernia?",
-        "exp": "Types of hiatus hernia Type I Type II Type III Type IV Known as Sliding hernia Rolling / true PEH Mixed PEH PEH with Herniation of another intra-abdominal organ Incidence M/C - M/C PEH - Thorax GE Juncn Fundus GE Juncn + Fundus Intra-abdominal organ Symptoms Reflux Abd Pain(Due to Ischemia) Reflux + Abd pain Abd pain | Risk of strangulation",
-        "cop": 3,
-        "opa": "I",
-        "opb": "II",
-        "opc": "III",
-        "opd": "IV",
-        "subject_name": "Surgery",
-        "topic_name": "Esophagus",
-        "id": "5d55cc1b-3a8b-49cb-bf6e-2db3b3853322",
-        "choice_type": "multi"
     },
     {
         "question": "CREST syndrome is an autoimmune condition which is associated with atrophy and fibrosis of the oesophageal musculature resulting in dysphagia and reflux-type symptoms. Which of the following is not a feature of CREST syndrome?",

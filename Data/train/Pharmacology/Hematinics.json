@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are characteristic features of treatment of iron deficiency anemia with oral iron supplements, except",
-        "exp": "Ans. (D) The treatment should be discontinued immediately once hemoglobin normalizes to prevent side effects of iron. (Ref: Katzung 11/e p571-572)A normal individual without iron deficiency absorbs 5-10% of iron, or about 0. 5-1 mg daily. Iron absorption increases in response to low iron stores or increased iron requirements. In an iron deficient individual, about 50-100 mg of iron can be incorporated into hemoglobin daily, and about 25% of oral iron given as ferrous salt can be absorbed. Therefore, 200-400 mg of elemental iron should be given daily to correct iron deficiency most rapidly. The reticulocyte count should begin to increase in two weeks and peak in 4 weeks. This suggests good response to treatment. Treatment with oral iron should be continued for 3-6 months. This will correct the anemia and replenish iron stores.",
-        "cop": 4,
-        "opa": "If 200-300 mg elemental iron is consumed, about 50 mg is absorbed",
-        "opb": "The proportion of iron absorbed reduces as hemoglobin improves",
-        "opc": "The reticulocyte count should begin to increase in two weeks and peak in 4 weeks -- this suggests good response to treatment",
-        "opd": "The treatment should be discontinued immediately once hemoglobin normalizes to prevent side effects of iron.",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematinics",
-        "id": "5545feda-dcdb-4b3a-ab17-3162473f42d6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Iron is most commonly absorbed from:",
         "exp": "Ans. (A) Duodenum and upper jejunum(Ref: KK Sharma 2007/675, Katzung 11/e p571, KDT 8/e p646). Maximum iron absorption occurs in duodenum and proximal jejunum. Vitamin B12 is absorbed in distal ileum whereas folic acid is absorbed in proximal jejunum.",
         "cop": 1,
@@ -76,31 +63,5 @@
         "topic_name": "Hematinics",
         "id": "9c1fdb1b-6f51-4551-8626-d9e900f4daa6",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements about erythropoietin is FALSE?",
-        "exp": "Ans. (B) It results in decrease in reticulocyte count(Ref: Katzung 10/e p537-538; KDT 8/e p657). Erythropoietin is a hematopoietic growth factor that is normally produced by the kidneys. Normally, there is an inverse relationship between serum erythropoietin levels and hemoglobin levels. When Hb decreases and anemia becomes more severe, serum erythropoietin level increases exponentially. But, anemia due to chronic renal failure is an exception to this inverse relationship. In CRF, erythropoietin is not produced, that results in anemia. So, exogenous erythropoietin will markedly improve anemia in CRF patients whereas there is less likelihood of response in other anemias. Erythropoietin consistently improves the hematocrit and Hb levels and usually eliminates the need of blood transfusions in CRF patients. An increase in reticulocyte count is usually observed in 10 days and increase in hematocrit and Hb levels in about 2-6 weeks.",
-        "cop": 2,
-        "opa": "It is used for the treatment of anemia due to chronic renal failure",
-        "opb": "It results in decrease in reticulocyte count",
-        "opc": "It decreases the requirement of blood transfusions",
-        "opd": "It can cause hypertension",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematinics",
-        "id": "43223642-ccde-4761-993c-f43b36e2bd4a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A patient has subclinical folate deficiency. All of the following drugs can precipitate megaloblastic anemia in this patient except:",
-        "exp": "Ans. (C) Chloroquine(Ref: Harrison 17/e p649). Megaloblastic anemia can be caused by deficiency of folic acid or vitamin B12. The drugs that can result in deficiency of folic acid include alcohol, phenytoin and sulfonamides",
-        "cop": 3,
-        "opa": "Alcohol",
-        "opb": "Phenytoin",
-        "opc": "Chloroquine",
-        "opd": "Sulfasalzine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hematinics",
-        "id": "fc4d0d5e-1547-4818-ad0b-845f750e4f4f",
-        "choice_type": "multi"
     }
 ]

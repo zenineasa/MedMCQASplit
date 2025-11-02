@@ -1,18 +1,5 @@
 [
     {
-        "question": "All of the following drugs are used as immuno-suppressants except.",
-        "exp": "Ans. (C) Cephalosporin(Ref: Principles of Pharmacology, 1/e p912; KDT 8/e p937). Cephalosporins are b-lactam antibiotics whereas other drugs are immunosuppressants.",
-        "cop": 3,
-        "opa": "Glucocorticoids",
-        "opb": "Cyclosporine",
-        "opc": "Cephalosporin",
-        "opd": "Azathioprine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Immunomodulatory: DMARDS, Monoclonal Antibodies",
-        "id": "1eb00788-d8e6-4189-973f-1d87de29ccd2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Best time to give Rh anti-D prophylaxis is:",
         "exp": "Ans. (B) 28 weeks of pregnancy(Ref: Williams Obstetrics 24th/e p312). Anti-D immune globulin is given prophylactically to all Rh D-negative, unsensitized women at approximately 28 weeks, and a second dose is given after delivery if the infant is Rh D-positive Following delivery, anti-D immune globulin should be given within 72 hours. If immune globulin is inadvertently not administered following delivery, it should be given as soon as the omission is recognized, because there may be some protection up to 28 days postpartum. Anti-D immune globulin is also administered after pregnancy-related events that could result in fetomaternal hemorrhage.",
         "cop": 2,
@@ -39,32 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Not true about thalidomide:",
-        "exp": "Ans. (D) Has no antiangiogenesis action against tumour(Ref: KDT 6/e p84, 834). Thalidomide was banned in 1960 because of its teratogenic effect of phocomelia (seal like limbs). It has anxiolytic, adjuvant analgesic/antipyretic properties and has been found to counteract cancer associated cachexia. Its mechanism of action is by suppressing TNF and or by modulating IL-2. Recently it has been reintroduced as antineoplastic drug due to its anti-angiogenesis action.",
-        "cop": 4,
-        "opa": "Causes phocomelia",
-        "opb": "Not tested in pregnant animals before introduction",
-        "opc": "Still has restricted clinical use",
-        "opd": "Has no antiangiogenesis action against tumour",
-        "subject_name": "Pharmacology",
-        "topic_name": "Immunomodulatory: DMARDS, Monoclonal Antibodies",
-        "id": "39e3c65b-812c-4b90-bce1-3215746d465b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Tacrolimus level is increased by all except",
-        "exp": "Ans. (D) Rifampicinwww. medscape. com/druginfo(Ref: KDT 8/e p940, ). Erythromycin, itraconazol and danazol inhibit the metabolism of tacrolimus and thus increase the plasma concentration whereas rifampicin is an enzyme inducer and decrease its plasma level.",
-        "cop": 4,
-        "opa": "Erythromycin",
-        "opb": "Itraconazole",
-        "opc": "Danazole",
-        "opd": "Rifampicin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Immunomodulatory: DMARDS, Monoclonal Antibodies",
-        "id": "525b5e51-7207-4c3e-82a9-995c111668f3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Best treatment for kawasaki's disease is:",
         "exp": "Ans. (B) IV immunoglobulins(Ref: CMDT 2012/1378-1379). Every patient with a clinical diagnosis Kawasaki disease should be treated. IVIG is given within the first 10 days of illness. Concomitant aspirin should be started until the patient is afebrile. If fever persist beyond 36 hours after the initial IVIG infusion, a new dose of IVIG should be given if no other source of fever is found. Methylprednisolone should follow if the disease persists after the second IVIG administration. Further options for refractory cases include TNF blockers (e. g., infliximab), cyclophosphamide, methotrexate, and plasmapheresis.",
         "cop": 2,
@@ -78,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Anti-TNF alpha drugs are used for the treatment of all of following diseases except",
-        "exp": "Ans. (A) Systemic lupus erythematosus(Ref: Harrison 17/e p2039; KDT 8/e p943). There is already under-expression of TNF-a in SLE, therefore we cannot use anti-TNF drugs for this condition. It is further strengthened by the fact that anti-TNF alpha drugs like infliximab cause SLE as the adverse effect. Indications for TNF-a inhibitors. Rheumatoid arthritis. Juvenile arthritis. Psoriatic arthritis. Psoriasis. Ankylosing spondylitis. Crohn's disease",
-        "cop": 1,
-        "opa": "Systemic lupus erythematosis",
-        "opb": "Seronegative arthritis",
-        "opc": "Psoriatic arthritis",
-        "opd": "Crohn's disease",
-        "subject_name": "Pharmacology",
-        "topic_name": "Immunomodulatory: DMARDS, Monoclonal Antibodies",
-        "id": "d245789d-04c5-4a27-bd50-05a38738e472",
-        "choice_type": "multi"
-    },
-    {
         "question": "Abatacept is a new drug approved for:",
         "exp": "Ans. (B) Rheumatoid arthritis(Ref: Harrison 18th/2748). Abatacept is a co-stimulation inhibitor. Two signals are required for activation of T-cells: 1. Main signal: Interaction of T-cell receptor (TCR) with MHC of antigen presenting cells (APC)2. Co-stimulatory signal: Interaction of CD 28 of T-cells with CD-80/86 of APC. When both signals are present, T-cell gets activated. Abatacept acts by blocking the co-stimulatory signal and prevents activation of T-cells. It is approved for treatment of Rheumatoid arthritis.",
         "cop": 2,
@@ -102,19 +50,6 @@
         "topic_name": "Immunomodulatory: DMARDS, Monoclonal Antibodies",
         "id": "de002382-c0ca-4d50-b851-52096f02c24b",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements is NOT TRUE about Tacrolimus?",
-        "exp": "Ans. (D) It can be safely administered with any nephrotoxic drug(Ref: KDT 8/e p940, 947). Tacrolimus is a nephrotoxic agent. Like cyclosporine, it should be administered cautiously in patients receiving other nephrotoxic drugs. In its structure, tacrolimus contains a large macrocyclic ring. It is therefore macrolide in nature. It is an immunosuppressant agent and is used to prevent the rejection of transplanted organ. Nephrotoxicity, hyperglycemia and neurotoxicity are well recognized adverse effects of this drug.",
-        "cop": 4,
-        "opa": "It is a macrolide antibiotic",
-        "opb": "It is indicated for the prophylaxis of organ transplant rejection",
-        "opc": "Glucose intolerance is a well recognized side effect",
-        "opd": "It can be safely administered with any nephrotoxic drug",
-        "subject_name": "Pharmacology",
-        "topic_name": "Immunomodulatory: DMARDS, Monoclonal Antibodies",
-        "id": "112c76ad-6524-4f11-8925-3e286e0dc6c1",
-        "choice_type": "multi"
     },
     {
         "question": "Palivizumab, a monoclonal antibody is used for the prophylaxis of:",

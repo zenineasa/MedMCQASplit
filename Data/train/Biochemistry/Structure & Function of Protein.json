@@ -1,18 +1,5 @@
 [
     {
-        "question": "The optically inactive amino acid is:",
-        "exp": "Ans. A. Glycine. Optically inactive molecules are those whose mirror images are super imposable and don't have a chiral carbon atom. Out of the 20 standard amino acids glycine is the simplest, optically inactive amino acid.",
-        "cop": 1,
-        "opa": "Glycine",
-        "opb": "Serine",
-        "opc": "Threonine",
-        "opd": "Valine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure & Function of Protein",
-        "id": "d7b317a0-f7dc-44bb-970b-f143a77eef59",
-        "choice_type": "multi"
-    },
-    {
         "question": "Amino acid abundant in collagen:",
         "exp": "Ans. A Glycine* Collagen is rich in glycine and proline amino acid.* Glycine is the smallest amino acid, present in every third position of chain, therefore it fits into the spaces where the three chains of helix comes together.* This repeating structure, represented as (Gly-X-Y) n, is an absolute requirement for the formation of the triple helix. While X and Y can be any other amino acid, about 100 of the X positions are proline and about 100 of the Y positions are hydroxyproline. Proline and hydroxyproline confer rigidity on the collagen molecule.",
         "cop": 1,
@@ -76,19 +63,6 @@
         "topic_name": "Structure & Function of Protein",
         "id": "a23e756b-f66e-40b1-b65c-bbde31e4926a",
         "choice_type": "single"
-    },
-    {
-        "question": "The sorting out of molecules according to size and shape may be adapted to protein purification in this technique:",
-        "exp": "Ans. B. Gel filtration chromatographya. Size-exclusion chromatography, also called gel filtration, separates proteins according to size. The column matrix is a cross-linked polymer with pores of selected size. Larger proteins migrate faster than smaller ones, because they are too large to enter the pores in the beads and hence take a more direct route through the column. b. The smaller proteins enter the pores and are slowed by their more labyrinthine path through the column. Ion- exchange chromatography exploits differences in the sign and magnitude of the net electric charges of proteins at a given pH. c. The column matrix is a synthetic polymer containing bound charged groups; those with bound anionic groups are called cation exchangers, and those with bound cationic groups are called anion exchangers. d. Affinity chromatography separates proteins by their binding specificities. The proteins retained on the column are those that bind specifically to a ligand cross-linked to the beads. (In biochemistry, the term \"ligand\" is used to refer to a group or molecule that binds to a macromolecule such as a protein.)e. After proteins that do not bind to the ligand are washed through the column, the bound protein of particular interest is eluted (washed out of the column) by a solution containing free ligand.",
-        "cop": 2,
-        "opa": "Adsorption chromatography",
-        "opb": "Gel filtration chromatography",
-        "opc": "Paper chromatography",
-        "opd": "None of these",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure & Function of Protein",
-        "id": "4255d8ca-dbe8-4b4f-8293-cfb352781975",
-        "choice_type": "multi"
     },
     {
         "question": "The elongation of fatty acids occurs in which of the diagrammatic structures shown in the Illustration?",
@@ -156,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Proteins are absorbed from GIT as:",
-        "exp": "Ans. A. Amino acids. Amino acids are end product of protein digestion. Glycerol and fatty acids are end products of lipid digestion. Monosaccharides are end product of carbohydrate digestion.",
-        "cop": 1,
-        "opa": "Amino acids",
-        "opb": "Peptides",
-        "opc": "Peptones",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure & Function of Protein",
-        "id": "56060e4b-fe98-4b43-bb11-f94d8e4c7c33",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following factors gives the elastin molecule the ability to stretch and recoil?",
         "exp": "Ans. B. Cross-links between lysine residues. Elastin is an elastic protein found in lungs, dermis, large arteries, ligaments, vocal cords and the ligamentum flavum. Its ability to stretch is conferred by interchain crosslinks between lysine residues. Similar to collagen, elastin is synthesized in several steps. It begins as a large precursor molecule, tropoelastin. Tropoelastin is secreted into the extracellular matrix, where it interacts with Fibrillin-containing microfibril scaffolds to form elastic fibers. The lysine residues on separate elastin molecules interact in a process called desmosine cross-chain linking, providing elastin with its stretch.",
         "cop": 2,
@@ -195,32 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Tertiary structure of protein is best determined by:",
-        "exp": "Ans. B. X- Ray diffraction crystallography. Tertiary structure is best visualized by X-ray crystallography and NMR (Nuclear magnetic Resonance) spectroscopy. X-ray. Crystallography was the first method used to determine the structure of proteins. X-ray crystallography is one of the best methods because the wavelength of an x-ray is similar to that of covalent bonds found throughout proteins, creating a clearer visualization of a molecule's structure. The scattering of x-rays by electrons is analyzed to determine the structure of proteins. In order to use x-ray crystallography, the protein in question must be in crystal form. Some proteins crystallize readily, while others do not. For those proteins that do not crystallize readily, nuclear magnetic resonance (NMR) spectroscopy must be used to determine its structure.",
-        "cop": 2,
-        "opa": "Chromatography",
-        "opb": "X- Ray diffraction crystallography",
-        "opc": "Electrophoresis",
-        "opd": "Mass spectrometry",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure & Function of Protein",
-        "id": "c0d080a7-1d4f-49f5-93ae-b422005ab130",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which one of the following is the amino acid in Hb that accepts H+ and allows Hb to act as a buffer to acids?",
-        "exp": "The side chain of histidine has a p. Ka of 6. 0, which, of all amino acid side chains, is the one closest to physiologic pH. The local environment of the protein can raise this p. Ka value closer to 7 such that the histidine side chains within Hb will be the major groups that accept and donate protons when Hb acts as a buffer. The alanine side chain (a methyl group) cannot accept or donate protons. The p. Ka for the side chains of serine or threonine are above 10. 0, so at physiologic pH, these side chains are always protonated and cannot act as a binding site for excess protons generated during an acidotic event. The p. Ka for the side chain of aspartate is about 4. 0, so at physiologic pH, that group is always deprotonated and will not accept protons generated during an acidotic event.",
-        "cop": 2,
-        "opa": "Alanine",
-        "opb": "Histidine",
-        "opc": "Serine",
-        "opd": "Threonine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure & Function of Protein",
-        "id": "03f4d81f-b660-4e2a-a719-94b937cc6d54",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which process involves formation of non essential amino acid from keto acid?",
         "exp": "Ans. is 'b' i. e., Transamination o Transamination interconverts pairs of a-amino acids and a-keto-acids, i. e. one a-amino acid is converted to a keto- acid along with conversion of a keto-acid into an cx-amino-acid. Transaminationo Transamination involves the reversible transfer of a-amino group of a-amino acid to an a-keto acidQ to form a new amino acid and a new keto acid. The enzyme catalyze the reaction is called aminotransferase (transaminase). Most transaminases use a-ketoglutarate (a-keto acid) as a common acceptor of a-amino group of a-amino acids. All transaminases require pyridoxal phosphate (Vitamin B6) as a coenzymneQ. Some of the most important transaminases are: -i) Alanine transaminase (ALT) also called glutamate pyruvate transaminase (GPT): - It catalyzes the transfer of amino group of alanine to a-ketoglutarate resulting in formation of pyruvate and L-glutamate Q. ii) Aspartate transaminase (AST) also called glutamate oxaloacetate transaminase (GOT): It catalyzes the transfer of amino group of aspartate to a-ketoefutarate resulting in formation of oxaloacetate and L-glutamate. Qo Most amino acids undergo transamination reaction except lysine, threonine, proline and hydroxvproline. o All the amino groups from amino acids that undergo transamination are collected into one common amino acid, i. e., glutamate. This is important because L-glutamate is the only amino acid that undergoes oxidative deamination at an appreciable rate in mammalian tissue. Thus, formation of ammonia from amino acids occurs mainly via the a-amino nitrogen of glutamate. Transamination is not restricted to a-amino groups. The d-amino group of ornithine (but not the e-amino group of lysine) undergoes transmination,",
         "cop": 2,
@@ -232,19 +167,6 @@
         "topic_name": "Structure & Function of Protein",
         "id": "b1cb0c75-eab5-45fd-89e3-b1e8b86a1b22",
         "choice_type": "single"
-    },
-    {
-        "question": "The enzyme trypsin is specific for peptide bonds of:",
-        "exp": "Ans. A. Basic amino acids. Trypsin is an endopeptidase which cleave protein chains at internal peptidebonds, but each preferentially hydrolyses bonds adjacent to a particular type of amino acid residue. Trypsin cuts just next to basic residues (lysine or arginine); chymotrypsin cuts next to aromatic residues (phenylalanine, tyrosine or tryptophan).",
-        "cop": 1,
-        "opa": "Basic amino acids",
-        "opb": "Acidic amino acids",
-        "opc": "Aromatic amino acids",
-        "opd": "Next to small amino acid residues",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure & Function of Protein",
-        "id": "e7fd567e-68be-4504-b7e5-9ecbe7cb593b",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following techniques for purification of proteins can be made specific for a given protein?",
@@ -271,45 +193,6 @@
         "topic_name": "Structure & Function of Protein",
         "id": "22c8857e-a746-4e87-a5ca-ea6c40e2118d",
         "choice_type": "single"
-    },
-    {
-        "question": "Branched chain amino acid which is both ketogenic and glucogenic -",
-        "exp": "Ans. is 'b' i. e.. Isoleucine o Branched chain amino acids are leucine, Isoleucine and valine. Leucine is purely ketogenic. Isoleucine is both ketogenic and glucogenic. Valine is glucogenic.",
-        "cop": 2,
-        "opa": "Leucine",
-        "opb": "Isoleucine",
-        "opc": "Valine",
-        "opd": "Tryptophan",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure & Function of Protein",
-        "id": "de456867-2462-4b54-9f11-06c35176b6a0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Proteins can be separated by the following methods except:",
-        "exp": "Ans. C. Gas-liquid Chromatography. Separation of Plasma proteins by: a) Salting out method (using ammonium sulphate). Three proteins are separated- Albumins- Full Saturation- Globulins-Half Saturationb) Gas Liquid chromatography is used to separate volatile substances on heating. Therefore not used to separate proteins, because they get coagulated or denatured",
-        "cop": 3,
-        "opa": "Electrophoresis",
-        "opb": "Ultra-centrifugation",
-        "opc": "Gas-liquid Chromatography",
-        "opd": "Salt separation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure & Function of Protein",
-        "id": "4e452014-6a20-417b-ab83-81cdf95c9e47",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In type I collagen, telopeptide corresponds to-",
-        "exp": "Ans. D. Both COOH and NH2-terminals superhelical conformation. Structure of collagen molecule:-Pro-collagen is comprised of two alpha-1 chains and one alpha-2 chain intertwined into a triple helix. Pro-peptide domains at the carboxy-terminals and amino-terminals are cleaved, resulting in formation of mature collagen. When collagen is degraded, during physiological turnover or pathological adverse remodeling, telopeptide (from the amino- terminals or carboxy-terminals) are cleaved and released into the plasma. Urinary crosslinked N-terminal telopeptide and C terminal telopeptide of type 1 collagen are used as markers of bone resorption in osteoporosis.",
-        "cop": 4,
-        "opa": "COOH-terminal with super helical conformation NH2- terminal with super helical conformation",
-        "opb": "Both COOH and NH2-terminals are not super helical conformation",
-        "opc": "Both COOH and NH2-terminals super helical conformation",
-        "opd": "Both COOH and NH2-terminals super helical conformation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Structure & Function of Protein",
-        "id": "b33fc86c-bb34-4555-bb52-56dbe4b3814b",
-        "choice_type": "multi"
     },
     {
         "question": "Reichert-Meissl number:",

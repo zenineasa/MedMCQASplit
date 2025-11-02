@@ -24,18 +24,5 @@
         "topic_name": "Disaster Management",
         "id": "b9cbeaba-5247-4b4f-9440-0057e9b00e64",
         "choice_type": "single"
-    },
-    {
-        "question": "Patient requiring immediate referral is allotted what color code according to IMNCI color coding?",
-        "exp": "(A) needs urgent hospital referral or admission (classifies as and colour coded pink) (C) can be managed at home (classified as and colour coded green) (D) needs specific medical Rx or advice (classified as and colour coded yellow)",
-        "cop": 1,
-        "opa": "Pink",
-        "opb": "Red",
-        "opc": "Green",
-        "opd": "Yellow",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Disaster Management",
-        "id": "d3285e2e-7fa8-45e9-8370-ab2202019ebf",
-        "choice_type": "multi"
     }
 ]

@@ -1,18 +1,5 @@
 [
     {
-        "question": "Which of the following statement is/are true about Obstructive lung disease?",
-        "exp": "Acute asthma and Emphysema- TLC | due to air trapping Myasthenia gravis- TLC | RV| Obstructive Restrictive | in airflow | Lung volume - Expiratory -Inspiratory COPD Asthma Bronchiectasis ILD Scoliosis NM causes FEV1-| FVC- Normal or | TLC - Normal or | | PEFR Normal | | |PEFR Management of COPD Group A Low Risk, low symptom Bronchodilator Group B Low Risk, High symptom LABA/LAMA, if failed- LAMA+LABA Group C High Risk, Low symptom LAMA+LABA or LABA+ICS Group D High Risk, High symptom LAMA+LABA+ICS | symptoms persists Phosphodiesterase inhibitor (Roflumilast) or Macrolides m. MRC DYSPNOEA SCALE (for COPD patients) Grade Impact 1 Incline (Breathlessness on going upstairs) 2 Slow walk than peers (Breathlessness on walking in straight surface) 3 Stops (Keeps on stops walking in between) 4 Too breathless to go out of his house GOLD (Global Initiative for Obstructive Lung Disease) classification",
-        "cop": 2,
-        "opa": "m. MRC dyspnea scale, grade 2 includes shoness of breath when hurrying up inclines",
-        "opb": "Decreased FEV1/FVC, TLC is increased",
-        "opc": "Normal PEFR and decreased in Lung volume",
-        "opd": "Roflumilast is introduced in management of COPD in Group C",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "19950a16-a96f-42d6-baef-f52950186f2b",
-        "choice_type": "multi"
-    },
-    {
         "question": "What will be reversible damage?",
         "exp": "In this question primarily we talking about asthma= We give salbutamol FEV1 becomes Normal Change of FEV1 before & after giving salbutamol (SABA) should be at least 12% to call it Bronchial Asthma.",
         "cop": 2,
@@ -26,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following are indications for assisted ventilation in acute severe asthma EXCEPT?",
-        "exp": "PEFR of 50-60% indicates moderate asthma. Indication for intubation in asthma exacerbation is a poor response to oxygen with salbutamol nebulisation and oral steroids. The definition of poor response is: 1. FEV1< 40%. 2. Pa. CO2> 45mm. Hg. 3. Features of carbon dioxide narcosis. 4. Hypoxia defined as Pa. O2<60 mm Hg.",
-        "cop": 1,
-        "opa": "PEFR 50-60% of predicted value",
-        "opb": "Rising Pa. CO2> 6k. Pa (45 mm Hg)",
-        "opc": "Diminishing level of consciousness",
-        "opd": "Falling Pa. O2< 8k. Pa (60 mm Hg)",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "f567a9a3-e1a0-4765-86f2-f2e2f7b22a8d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Drug of choice for the treatment of type 2 Brittle Asthma is?",
         "exp": "Type 2 Brittle asthma, are symptom-free patients developing sudden onset acute attack of asthma requiring mechanical ventilation or even death. These patients should ideally keep an auto-injector of epinephrine. Type 1 Brittle asthma is characterized by >40% variation in P. E. F. R for >50% of the time. It is managed with L. A. B. A + high dose inhaled coicosteroids and oral steroids. Long-term continuous subcutaneous infusion of P2 agonists like terbutaline is also given.",
         "cop": 4,
@@ -50,32 +24,6 @@
         "topic_name": "COPD and Asthma",
         "id": "b6d0045b-4033-4eac-840a-cd4470cf9a52",
         "choice_type": "single"
-    },
-    {
-        "question": "A child who is a known case of bronchial asthma comes with respiratory rate 48/min, cannot speak 2 words, occasional wheeze and oxygen saturation of 95%. You give 3 doses of salbutamol nebulisation then he staed to speak a sentence but saturation falls to 85%. What is the cause?",
-        "exp": "Oxygen saturation (Sa. O2) levels may not reflect progressive alveolar hypoventilation and the Sa. O2 may initially fall during therapy because b2-agonists produce both bronchodilation and vasodilation and may initially increase intrapulmonary shunting. SABAs, which are first-line therapy for asthma symptoms and exacerbations, increase pulmonary blood flow through obstructed, unoxygenated areas of the lungs with increasing dosage and frequency. When airways obstruction is not resolved with SABA use, ventilation-perfusion mismatching can cause significant hypoxemia, which can perpetuate bronchoconstriction and fuher worsen the condition. The main catch point in this question is that salbutamol is given without oxygen. (Nebulisation without oxygen which is a common practice). It is always essential to give salbutamol nebulisation through high flow oxygen (Standard practice). In status asthmaticus most children will have some degree of mucus plugging, atelectasis, ventilation-perfusion mismatch and hypoxemia. In that lung, segments with atelectasis, compensatory hypoxic pulmonary vasoconstriction is often present. Treatment with inhaled beta 2 agonists may induce generalized pulmonary vasodilation and as a result, exacerbate ventilation-perfusion mismatch and worsen hypoxemia. Oxygen should be a pa of management for all children with status asthmaticus. Inference: Giving only salbutamol nebulisation without oxygen can aggravate hypoxemia because of increase in dead space ventilation and VP mismatch.",
-        "cop": 3,
-        "opa": "Bronchomalacia",
-        "opb": "Right to left shunt",
-        "opc": "VP mismatch with dead space ventilation",
-        "opd": "Faulty pulse oxy-meter",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "3e97d57a-4b73-428c-854c-2adab57b2fac",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following are the features of COPD, except:",
-        "exp": "-Residual volume increases in COPD Chronic obstructive pulmonary disease (COPD) It is a disease characterised by persistent airflow limitation that is usually progressive, and associated with an enhanced inflammatory response. Airflow limitation is almost irreversible Pathogenesis Cigarette smoking is the main trigger It causes recruitment of many inflammatory and immune cells in the lungs Proteases secreted from these cells will breakdown the extracellular matrix Oxidant causes fuher chronic inflammation and damage to the structure of cell Pulmonary emphysema occurs because of the ineffective repair of matrix and elastin.",
-        "cop": 1,
-        "opa": "Residual volume decreases",
-        "opb": "Irreversible airflow limitation",
-        "opc": "Ineffective repair of elastin",
-        "opd": "Includes small airway disease",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "e1ab49aa-666e-485c-bc67-470b9e74a897",
-        "choice_type": "multi"
     },
     {
         "question": "A patient on spirometry shows FEV1/FVC <0. 7 and FEV1 >=30% but <50% predicted. Patients diagnosis according to GOLD criteria is?",
@@ -115,71 +63,6 @@
         "topic_name": "COPD and Asthma",
         "id": "8e72dc94-2fdb-42a7-afd1-fd291c10bf82",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about emphysema except:",
-        "exp": "OPTION A) CLINICAL FEATURE OF EMPHYSEMA SYMPTOMS; The three most common symptoms in COPD are cough, sputum production, and exeional dyspnea. Activities involving significant arm work, paicularly at or above shoulder level, are paicularly difficult for many patients with COPD. the principal feature is worsening dyspnea on exeion with increasing intrusion on the ability to perform vocational or avocational activities. In the most advanced stages- patients are breathless doing simple activities of daily living. CLINICAL FEATURE OF COPD - EMPHYSEMA The classic presentation of emphysema with no \"bronchitic\" component. Patients barrel-chested and dyspneic, with prolonged expiration, sitting forward in a hunched-over position. In these patients, air space enlargement is severe and diffusing capacity is low. Dyspnea and hyperventilation are prominent, so that until very late in the disease, gas exchange is adequate and blood gas values are relatively normal. Because of prominent dyspnea and adequate oxygenation of hemoglobin, these patients sometimes are sometimes called \"pink puffers. \" CHRONIC BRONCHITIS -emphysema with pronounced chronic bronchitis and a history of recurrent infections. Dyspnea usually is less prominent, and in the absence of increased respiratory drive the patient retains carbon dioxide, becoming hypoxic and often cyanotic. such patients tend to be obese--hence the designation \"blue bloaters. \" OPTION 2) ON PHYSICAL EXAMINATION Early stages of COPD, patients usually have an entirely normal physical examination. More severe disease, the physical examination - prolonged expiratory phase and may include expiratory wheezing. Signs of hyperinflation 1) barrel chest and enlarged lung volumes with poor diaphragmatic excursion as assessed by percussion. 2). Patients with severe airflow obstruction -use of accessory muscles of respiration, sitting in the characteristic \"tripod\" position to facilitate the actions of the sternocleidomastoid, scalene, and intercostal muscles. 3 CYANOSIS if emphysema with chronic bronchitis Patients may develop cyanosis, visible in the lips and nail beds. 4) SIGN OF ADVANCED COPD cachexia, significant weight loss, bitemporal wasting, anddiffuse loss of subcutaneous adipose tissue. Clubbing of the digits is not a sign of COPD. The development of lung cancer is the most likely explanation for newly developed clubbing. OPTION C) RISK FACTORS CIGARETTE SMOKING AIRWAY RESPONSIVENESS AND COPD RESPIRATORY INFECTIONS OCCUPATIONAL EXPOSURE. D)COMPLICATION OF COPD- progressive disease is marked by the development of pulmonary hypertension, sometimes leading to cardiac failure, recurrent infections; and ultimately respiratory failure.",
-        "cop": 1,
-        "opa": "Cyanosis",
-        "opb": "Barrel-shaped chest",
-        "opc": "Associated with smoking",
-        "opd": "Type 1 respiratory failure",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "3191f30f-8f9d-462a-9014-b451c242f505",
-        "choice_type": "multi"
-    },
-    {
-        "question": "What is false about emphysema?",
-        "exp": "Increased diffusion capacity is seen in: Acute congestive heart failure Polycythemia Pulmonary hemorrhage / good pasture syndrome Asthma Decreased diffusion capacity is seen in: Pulmonary fibrosis Emphysema Pulmonary hypertension",
-        "cop": 4,
-        "opa": "Decreased FEV1",
-        "opb": "Decreased timed vital capacity",
-        "opc": "Increased residual volume",
-        "opd": "Increased diffusion capacity",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "59b42941-92d4-4f7a-aac9-5faf8fde693a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 18-year-old male with history cystic fibrosis. While attending a class, he suddenly begins to cough up large volumes of bright red blood. He was admitted to nearby hospital in emergency depament. With above clinical scenario which vessel is most likely to bleed?",
-        "exp": "Hemoptysis is a common feature in patients with bronchiectasis and cystic fibrosis due to chronic inflammation and anatomical abnormalities that bring the bronchial aeries closer to the mucosal surface. These blood vessels are present closer to air space, because of which even a smaller degree of inflammation in these areas can lead to rupture of vessels into the airway. Bronchial aeries are under systemic pressure; thus, they are prone to large amounts of bleeding.",
-        "cop": 1,
-        "opa": "Bronchial aeries",
-        "opb": "Alveolar capillaries",
-        "opc": "Gastric varices",
-        "opd": "Pulmonary aery",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "6468c511-7664-43ec-8a98-cced0645c222",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are useful for treating acute bronchial asthma in children except?",
-        "exp": "Cromolyn sodium inhibits the release of histamine, leukotrienes and other mediators from sensitised mast cells exposed to specific antigens. It has no intrinsic anti-inflammatory, antihistamine, or vasoconstrictive effects.",
-        "cop": 4,
-        "opa": "100% Oxygen",
-        "opb": "Hydrocoisone",
-        "opc": "Salbutamol",
-        "opd": "Sodium Cromoglycate inhalation",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "cc5ffd90-0c31-4249-b297-7c9dc0abc167",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 16-year-old asthmatic is currently on salbutamol inhaler which she uses twice a week on an average and frequently wakes up coughing. She has a compliant with her treatment regimen and has good inhaler technique. Which of the following would be the most appropriate next step in managing her asthma?",
-        "exp": "Noctural symptoms indicate paial control, so we have to add ICS along with SABA",
-        "cop": 1,
-        "opa": "Budesonide 200mg BD",
-        "opb": "Theophylline 300mg sustained release",
-        "opc": "Montelukast 10mg",
-        "opd": "Salmeterol 50mg BD",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "4cab0f4f-358f-4e28-9406-9bd5b75ef2d9",
-        "choice_type": "multi"
     },
     {
         "question": "Which one of the following is not recommended for the immediate treatment of acute severe asthma?",
@@ -260,32 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Increased Reid index is classically associated with?",
-        "exp": "The diagnostic feature of chronic bronchitis in the trachea and larger bronchi is enlargement of the mucus secretinggland. The magnitude of the increase insize is assessed by the ratio of the thickness of the submucosal gland layer to that of the bronchial wall (the Reid index--normally 0. 4). Chronic smoking causes submucosal gland hyperophy and hyperplasia, leading to a Reid Index of >0. 5 indicating chronic bronchitis.",
-        "cop": 1,
-        "opa": "Chronic Bronchitis",
-        "opb": "Emphysema",
-        "opc": "Bronchiectasis",
-        "opd": "Interstitial lung disease",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "cadfad6a-7abe-4d5c-a976-58e0aeb71855",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about Aspirin-sensitive asthma except?",
-        "exp": "Aspirin sensitive asthma is associated with severe rhinosinusitis and recurrent nasal polyposis. Pathogenesis- chronic eosinophilic inflammatory changes, with increased mast cell activation. It is associated with more severe asthma, requires increased use of inhaled and oral coicosteroids, more presentations to hospital and a risk of life-threatening reactions with aspirin. The cyclo-oxygenase pathways play a major role in the respiratory reactions that develop after aspirin ingestion.",
-        "cop": 4,
-        "opa": "Nasal polyposis",
-        "opb": "Treatment with inhaled coicosteroids",
-        "opc": "Rhinosinusitis",
-        "opd": "Increased prostaglandins",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "b07f1d63-bbed-45ae-be43-ca74d333f9d1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is given in the maintenance of severe persistent asthma?",
         "exp": "LABAs improve asthma control and reduce exacerbations when added to ICS, which allows asthma to be controlled at lower doses of coicosteroids. LABAs should not be given in the absence of ICS therapy as they do not control the underlying inflammation.",
         "cop": 4,
@@ -297,19 +154,6 @@
         "topic_name": "COPD and Asthma",
         "id": "87489602-c936-475e-897b-12d933505647",
         "choice_type": "single"
-    },
-    {
-        "question": "What is the best management option in a patient with COPD, with low Sp. O2 at rest?",
-        "exp": "In COPD, non-uniform ventilation and ventilation-perfusion mismatching leads to localized vasoconstriction Supplemental oxygen abolishes this constriction, leading to improved ventilation/perfusion ratio. High flow oxygen is not tolerated as it leads to crusting, dryness and epistaxis. While continuous therapy is required for patients who show hypoxemia at rest, intermittent treatment during specific periods may be used for patients who demonstrate intermittent hypoxemia.",
-        "cop": 3,
-        "opa": "Quit smoking",
-        "opb": "Bronchodilators",
-        "opc": "Low flow Oxygen",
-        "opd": "Mucolytics",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "6ab8c45c-e48f-4bef-8389-42d28ff8c90d",
-        "choice_type": "multi"
     },
     {
         "question": "Which drug are not used in severe persistent Asthma?",
@@ -338,19 +182,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are seen in chronic bronchitis except:",
-        "exp": "The most common symptoms of COPD- cough, sputum production, and exeional dyspnea. Some patients with advanced disease have paradoxical inward movement of the rib cage with inspiration (Hoover's sign), the result of alteration of the vector of diaphragmatic contraction on the rib cage as a result of chronic hyperinflation. Clubbing is not seen in Chronic bronchitis",
-        "cop": 4,
-        "opa": "Cough > 3 months",
-        "opb": "Bronchorrhea",
-        "opc": "Hoover sign",
-        "opd": "Clubbing",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "ffd4b261-4f11-4bf7-a867-f2906c6db970",
-        "choice_type": "multi"
-    },
-    {
         "question": "The complication least likely to occur in a case of chronic bronchitis is:",
         "exp": "Spontaneous pneumothorax is a complication of rupture of a bulla in an emphysematous patient. Chronic hypoxia in chronic bronchitis leads to pulmonary aery hypertension and cor pulmonale. CO2 retention leads to respiratory acidosis. Long term hypoxia leads to increased hemoglobin production leading to polycythemia.",
         "cop": 2,
@@ -362,32 +193,6 @@
         "topic_name": "COPD and Asthma",
         "id": "e3ad8ebc-a2b6-4253-a5b5-aa72b3dc4713",
         "choice_type": "single"
-    },
-    {
-        "question": "A 4-year-old girl asthmatic child is brought to casualty. She is not speaking and has fast shallow breathing with pulsus paradoxsus. ABG shows respiratory acidosis. What is the next best step in management of this patient?",
-        "exp": "1. | CO2 - Respiratory acidosis - pulsus paradoxus 2. Patients not speaking - Imminent respiratory arrest | Do urgent Endotracheal intubation Other option Hyper baric oxygen therapy - CO poisoning, HAPE(High altitude pulmonary edema) MDI with salbutamol - patient cannot inhale Aminophylline - may cause PSVT",
-        "cop": 1,
-        "opa": "Urgent endotracheal intubation",
-        "opb": "Hyperbaric oxygen therapy",
-        "opc": "MDI with salbutamol and coicosteroids",
-        "opd": "Terbutaline subcutaneous with aminophylline drip",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "29f89891-ccda-4d9d-b763-5b9b6acffe24",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 13-year-old known asthmatic presents with severe wheezing and a respiratory rate of 40. Her pulse rate is 120. What is the next best step in management of this patient?",
-        "exp": "For severe acute asthma | Oxygen & Nebulized salbutamol is recommended Other option- Oxygen and metered dose inhale of salmeterol - for prevention of asthma Oxygen and Intravenous aminophylline - cause toxicity Oxygen & IV Magnesium sulphate - not recommended now days",
-        "cop": 1,
-        "opa": "Oxygen and nebulised salbutamol",
-        "opb": "Oxygen and Metered dose inhaler of salmeterol",
-        "opc": "Oxygen and intravenous Aminophylline",
-        "opd": "Oxygen and Intravenous magnesium sulphate",
-        "subject_name": "Medicine",
-        "topic_name": "COPD and Asthma",
-        "id": "3b5dbb64-004a-4854-986e-b466ddbb757e",
-        "choice_type": "multi"
     },
     {
         "question": "Which emphysema is associated with Alpha- 1 antitrypsin deficiency:",

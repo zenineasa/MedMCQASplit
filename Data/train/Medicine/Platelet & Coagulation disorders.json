@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are seen in D. I. C except:",
-        "exp": "DIC: Findings include the prolongation of PT and/or a. PTT; platelet counts <100, 000/m. L3. The presence of schistocytes (fragmented red cells) in the blood smear with elevated levels of FDP is diagnostic of DIC. Fibrinogen can be decreased or normal but NEVER increased in cases of DIC.",
-        "cop": 1,
-        "opa": "Hyperfibrinogenemia",
-        "opb": "Increase fibrin degradation products",
-        "opc": "Prolonged PT",
-        "opd": "Increased APTT",
-        "subject_name": "Medicine",
-        "topic_name": "Platelet & Coagulation disorders",
-        "id": "aab3ca9c-f39d-4990-bab6-279f2f567614",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is the most common inherited bleeding disorder?",
         "exp": "Von Willebrand disease (v. WD) is the most common inherited bleeding disorder. It has an autosomal dominant inheritance. The hallmark of von Willebrand disease is defective platelet adhesion to sub-endothelial components caused by a deficiency of the plasma protein v. Wf.",
         "cop": 1,
@@ -50,19 +37,6 @@
         "topic_name": "Platelet & Coagulation disorders",
         "id": "0d13b6d1-68fc-4896-bc4b-989eeddda2d3",
         "choice_type": "single"
-    },
-    {
-        "question": "Bleeding time is increased in all except:",
-        "exp": "a. PTT is increased in acquired hemophilia Glanzmann's Thrombasthenia: AR, platelet lack receptor of Gp IIb/IIIa for fibrinogen, which form the bridges between platelets during aggregation. Glanzmann's thrombasthenia is a defect of platelet function(aggregation). It presents as superficial mucocutaneous bleeding with normal platelet count and single isolated platelets without clumping on peripheral smear. Platelet numbers and morphology are normal, but the bleeding time is markedly prolonged. Platelet dysfunction in renal failure is due retention of uremic toxins, anemia, and nitric oxide.",
-        "cop": 4,
-        "opa": "Thrombocytopenia",
-        "opb": "Thrombasthenia",
-        "opc": "Renal failure",
-        "opd": "Acquired hemophilia",
-        "subject_name": "Medicine",
-        "topic_name": "Platelet & Coagulation disorders",
-        "id": "2d143924-5d5b-4083-9df8-c22246ed6492",
-        "choice_type": "multi"
     },
     {
         "question": "A 45 year old lady presents with normal PT and increased a. PTT. About 2 years ago, she was operated for cholecystectomy & did not have any bleeding episode. What is next investigation for clinical diagnosis?",
@@ -117,32 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Disseminated intravascular coagulation can occur in all of the following except:",
-        "exp": "Etiologic factors & disorders causing disseminated intravascular coagulation: Obstetric syndrome -- abruptio placenta, amniotic fluid embolism, retained dead fetus, second trimester aboion. Neoplasms, paicularly mucinous adenocarcinomas, acute promyelocytic leukemia. Intravascular hemolysis; Fat embolism; Tissue damage --burns, frostbite, head. Endothelial damage: Aoic aneurysm; Hemolytic uremic syndrome Acute glomerulonephritis; Rocky Mountain spotted fever Vascular malformation, decreased blood flow: Kasabach. Merritt syndrome Infections: Bacterial: staphylococci, streptococci, pneumococci, meningococci, gram -ve bacilli",
-        "cop": 4,
-        "opa": "Snakebite",
-        "opb": "Placenta Pre",
-        "opc": "Falciparum malaria",
-        "opd": "Haemophilia",
-        "subject_name": "Medicine",
-        "topic_name": "Platelet & Coagulation disorders",
-        "id": "8aadf2dc-f2f6-4b91-ab5a-ba130c0f522a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 30yr female presented with mucosal bleeds on trauma and also has history of menorhhagia. BT and paial prothrombin time are elevated. Ristocetin assay is positive. What shall be the diagnosis?",
-        "exp": "This is most likely a case of von Willebrand disease The most common inherited bleeding disorder due to deficient / defective von Willebrand factor. Hemophilia A Hemophilia B Von Willebrand Disease Inheritance X linked X linked Autosomal dominant Factor deficiency VIII IX VWF Bleeding site (s) Muscle, joint Surgical Muscle, Joint Mucousal, Skin Activated PTT Prolonged Prolonged Prolonged Bleeding Time Normal Normal Prolonged or normal Factor VIII Low Normal Normal VWF Normal Normal Low Factor IX Normal Low Normal",
-        "cop": 4,
-        "opa": "Immune thrombotic purpura (ITP)",
-        "opb": "Haemophilia A",
-        "opc": "Haemophilia B",
-        "opd": "Von willebrand disease",
-        "subject_name": "Medicine",
-        "topic_name": "Platelet & Coagulation disorders",
-        "id": "112f9fd4-660b-4f7c-81e8-8cb1eec5771f",
-        "choice_type": "multi"
-    },
-    {
         "question": "A girl with mild von willebrand disease has a previous history of heavy bleeding during tooth extraction. What is the prophylaxis to be given before tooth extraction?",
         "exp": "In patients of von Willebrand disease, DDAVP can be given intra-nasally 2 hours before a procedure like dental extraction- mild to moderate risk of bleeding and can be repeated 12-24 hours. Aminocaproic acid or Tranexamic acid is an impoant therapy either alone or in an adjunctive capacity paicularly for the prevention or treatment of mucosal bleeding.",
         "cop": 1,
@@ -167,19 +115,6 @@
         "topic_name": "Platelet & Coagulation disorders",
         "id": "30a04dad-0e60-4d10-a2be-71a48b3a959b",
         "choice_type": "single"
-    },
-    {
-        "question": "Bleeding crisis in acute idiopathic thrombocytopenic Purpura is managed by all except:",
-        "exp": "Glucocoicoids and IVIg are the mainstays of medical therapy for acute ITP. IV Rh IG in acute ITP also increases platelet count. Thrombopoietin (TPO) receptor agonist eltrombopag interacts with transmembrane domain of human TPO receptor and induces megakaryocyte proliferation and differentiation from bone marrow progenitor cells. It is indicated for thrombocytopenia associated with chronic idiopathic thrombocytopenic purpura and not bleeding crisis.",
-        "cop": 4,
-        "opa": "Rh. IG",
-        "opb": "Prednisolone",
-        "opc": "Intravenous immunoglobulin",
-        "opd": "Eltrombopag",
-        "subject_name": "Medicine",
-        "topic_name": "Platelet & Coagulation disorders",
-        "id": "333ac54a-6db3-4a25-a612-604e52b15167",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drugs does not act by blocking Gp. IIb/IIIa receptors?",

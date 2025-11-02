@@ -1,18 +1,5 @@
 [
     {
-        "question": "False about '100 Day Cough'?",
-        "exp": "Whooping cough Aka '100 Day cough' Causative organism- Bordetella Peusis Incubation period is 7-14 days. There is no subclinical or chronic carriers state. Erythromycin is the drug of choice. Incidence and fatality are more common in females than males.",
-        "cop": 3,
-        "opa": "Incubation period is 7-14 days",
-        "opb": "There is no subclinical or chronic carriers state",
-        "opc": "Incidence and fatality is more common in males than females",
-        "opd": "Erythromycin is the drug of choice",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Respiratory Infections",
-        "id": "62342596-5329-4769-96b5-1f6e71c8467b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Period of infectivity for chickenpox is:",
         "exp": "Chicken Pox Caused by HHV-3 Incubation period: 14-16 days Source of infection: Case Mode of transmission: Respiratory/ air droplets Period of communicability of Chicken pox: 1-2 days before appearance & 5 days after appearance of rash. Rash: Superficial, unilocular, Centripetal, pleomorphic rash, due drop on rose petal appearance affecting flexor aspects and axilla. Secondary attack rate: 90% Vaccine: Live attenuated vaccine: OKA strain Late complication: Shingles by recrudescence.",
         "cop": 4,
@@ -26,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following criteria classifies a child (aged 11 months) as Severe Pneumonia, except:",
-        "exp": "- Danger Signs, that classify the child as having 'Very Severe Disease' are: Inability to feed Convulsions, abnormally sleepy or difficulty in waking up Stridor in a calm child Vomits; Severe Malnutrition - Antibiotics recommended for treatment of Severe Pneumonia (2 months - 5 years) are: Benzyl Penicillin, or Ampicillin, or Chloramphenicol, or Cloxacillin + Gentamycin",
-        "cop": 3,
-        "opa": "Inability to drink or breast feed",
-        "opb": "Nasal Flaring",
-        "opc": "Breathing rate>40 per minute",
-        "opd": "Grunting",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Respiratory Infections",
-        "id": "dbfe2b80-c8d6-411d-a697-6d805ba3b3d1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Subacute Sclerosing Pan Encephalitis (SSPE) is a complication of:",
         "exp": "Measles: Cause: RNA paramyxovirus. Incubation period: 10-14 days. Source of infection: Cases. Mode of transmission: Respiratory / air droplets. Period of communicability: 4 days before & 5 days after rash. Pathognomic clinical feature: Koplik spot. Clinical feature: Retro-auricular origin of rash. MC complication: Serous otitis media. Subacute sclerosing pan encephalitis is a rare, late complication of measles - Aka 'dawson's disease', Dawson's encephalitis. Vaccine: Live attenuated; Edmonsten zagreb strain.",
         "cop": 1,
@@ -50,19 +24,6 @@
         "topic_name": "Respiratory Infections",
         "id": "6158e0f6-96aa-49e9-8650-b374d9b0acb0",
         "choice_type": "single"
-    },
-    {
-        "question": "What is true regarding Diphtheria?",
-        "exp": "Diphtheria Causative agent - Corynebacterium diphtheria, a gram + bacilli, non-motile organism. Incubation period 2-6 days Immunization does not prevent carrier state. Carriers are more impoant source of infection (dangerous) than cases.",
-        "cop": 1,
-        "opa": "Nasal carriers are more dangerous than cases",
-        "opb": "Immunization prevent carrier state",
-        "opc": "Cases are most impoant as source of infection",
-        "opd": "Hemagglutination test has been replaced by Schick test",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Respiratory Infections",
-        "id": "654d1bea-9bcd-4b95-8305-240406ed2053",
-        "choice_type": "multi"
     },
     {
         "question": "Koplik spots are characteristic of:-",
@@ -167,18 +128,5 @@
         "topic_name": "Respiratory Infections",
         "id": "6f11af0b-26f4-4c43-8db2-c12edeccfa83",
         "choice_type": "single"
-    },
-    {
-        "question": "True about Measles rash appearance:",
-        "exp": "RASH IN MEASLES Stas 12-24 hours after appearance of Koplik spots. Retro -auricular origin spreads to other pas of body (fades in opposite direction). Takes 1 - 2 days to cover body * Fever is highest and patient is sickest on day of rash.",
-        "cop": 3,
-        "opa": "Along with Koplik spots",
-        "opb": "1-2 days before Koplik spots",
-        "opc": "1-2 days after Koplik spots",
-        "opd": "Post measles stage",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Respiratory Infections",
-        "id": "6091e027-b401-4a86-9fd3-164e480ca485",
-        "choice_type": "multi"
     }
 ]

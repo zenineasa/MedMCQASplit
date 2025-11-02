@@ -1,18 +1,5 @@
 [
     {
-        "question": "In which of the following immunodeficiencies, this chest X-ray finding is usually seen?",
-        "exp": "Chest X-ray: pneumonia with multiple pneumatoceles, suggestive of Staphylococcal pneumonia. Recurrent abscesses and staphylococcal infection is a feature of Hyper IgE syndrome. Wiskott-Aldrich syndrome- eczema, thrombocytopenia, recurrent infections Di George syndrome- cardiac anomaly, abnormal face, thymic hypoplasia, hypocalcemia Chediak Higashi syndrome- hypopigmented hairs, recurrent infections, ataxia",
-        "cop": 3,
-        "opa": "Wiskott-Aldrich syndrome",
-        "opb": "Di George syndrome",
-        "opc": "Hyper IgE syndrome",
-        "opd": "Chediak Higashi syndrome",
-        "subject_name": "Pediatrics",
-        "topic_name": "Primary Immunodeficiency",
-        "id": "66eff514-c68d-4a74-bfca-3f2780b8a0f0",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the probable genetic defect in this child with recurrent infections, tetany, oral candidiasis & a heart murmur?",
         "exp": "Digeorge syndrome: Caused by 22q deletion C- Cardiac anomaly A- Abnormal facies (hypeelorism, antimongoloid slant, sho philtrum, mandibular hypoplasia. T- Thymic hypoplasia C- Cleft palate H- Hypocalcemia",
         "cop": 3,
@@ -78,45 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Both B and T cell defect is present in all EXCEPT:",
-        "exp": "X-linked Agammaglobulinemia is a B cell defect",
-        "cop": 4,
-        "opa": "SCID",
-        "opb": "Common Variable immunodeficiency",
-        "opc": "Wiskott-Aldrich syndrome",
-        "opd": "X-linked Agammaglobulinemia",
-        "subject_name": "Pediatrics",
-        "topic_name": "Primary Immunodeficiency",
-        "id": "18d6e7c9-ff0b-43e2-bfc6-e35b15d9d7cd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Chediak Higashi syndrome is characterized by the following EXCEPT:",
-        "exp": "Chediak-Higashi syndrome: Neutropenia (most common) Defective degranulation Delayed microbial killing Giant granules",
-        "cop": 1,
-        "opa": "Neutrophilia",
-        "opb": "Defective degranulation",
-        "opc": "Delayed microbial killing",
-        "opd": "Giant granules",
-        "subject_name": "Pediatrics",
-        "topic_name": "Primary Immunodeficiency",
-        "id": "4a87d670-a4a7-43bb-a26b-61ac64e12c65",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about SCID in children is:",
-        "exp": "SCID: It is due to adenosine deaminase deficiency SCID- combined antibody and cellular defect Live vaccines are contraindicated in SCID Patients with SCID have very small thymus; tonsils & adenoids are also absent or underdeveloped",
-        "cop": 1,
-        "opa": "It is due to adenosine deaminase deficiency",
-        "opb": "Humoral immunity is predominantly affected",
-        "opc": "Child should receive double dose of all vaccines",
-        "opd": "Patients with SCID have normal thymus",
-        "subject_name": "Pediatrics",
-        "topic_name": "Primary Immunodeficiency",
-        "id": "88e37bc7-4217-4064-a283-14ca914cec1c",
-        "choice_type": "multi"
-    },
-    {
         "question": "\"Hereditary angioneurotic edema\" is due to deficiency of:",
         "exp": "Hereditary angioneurotic edema occurs due to deficient or defective C1 inhibitor Protein S deficiency- | risk of venous thrombosis",
         "cop": 1,
@@ -180,19 +128,6 @@
         "topic_name": "Primary Immunodeficiency",
         "id": "301de250-d6a5-4cd2-af33-4369dccf8ec5",
         "choice_type": "single"
-    },
-    {
-        "question": "Joint erosions are typically absent in:`",
-        "exp": "Ahritis seen in SLE is Non-erosive ahritis (without deformity).",
-        "cop": 2,
-        "opa": "Rheumatoid ahritis",
-        "opb": "Systemic lupus erythematosus",
-        "opc": "Psoriatic ahritis",
-        "opd": "Osteoahritis",
-        "subject_name": "Pediatrics",
-        "topic_name": "Primary Immunodeficiency",
-        "id": "36125a8d-e8da-40b2-8eaf-eef877e878fc",
-        "choice_type": "multi"
     },
     {
         "question": "Tonsils are absent in:",

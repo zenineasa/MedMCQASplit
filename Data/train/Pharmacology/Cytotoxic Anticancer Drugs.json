@@ -1,18 +1,5 @@
 [
     {
-        "question": "Mechanism of action of vincristine in the treatment of ALL is:",
-        "exp": "Vinca alkaloids like vincristine and vinblastine act by inhibiting the formation of mitotic by spindle inhibiting polymerization of tubulin. These drugs are selective for M phase of cell cycle.",
-        "cop": 4,
-        "opa": "Inhibition of topoisomerase II to cause breaks in DNA strands",
-        "opb": "Alkylation and cross linking DNA strands",
-        "opc": "Inhibition of DNA mediated RNA synthesis",
-        "opd": "Inhibition of polymerization of tubulin to form microtubules",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "c103a7a9-c2db-42cf-bac3-b88221fba465",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following anticancer drug can cause flagellated dermatitis?",
         "exp": "FLAGELLATED DERMATITIS: It is characterised by pruritic, erythematous, linear streaks that resemble whiplash marks, hence the name flagellated. Bleomycin is metabolized by an enzyme hydrolase. This enzyme is deficient in skin and lungs. Therefore, the major adverse effects of bleomycin is related to skin (flagellated dermatitis) and lungs (pulmonary fibrosis) OTHER CAUSES OF FLAGELLATED DERMATITIS: DRUGS: BLEOMYCIN, DOCETAXEL, BENDAMUSTINE RHEUMATOLOGICAL CAUSES: DERMATOMYOSITIS, ADULT ONSET STILL'S DISEASE TOXINS: SHIITAKE MUSHROOMS",
         "cop": 4,
@@ -24,19 +11,6 @@
         "topic_name": "Cytotoxic Anticancer Drugs",
         "id": "11aa7d32-e159-4432-823e-85d8ee9f8c2a",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following anticancer drugs are cell cycle non-specific except?",
-        "exp": "CELL CYCLE NON-SPECIFIC DRUGS 1. Alkylating agents Melphalan Cyclophosphamide Nitrosourea 2. Platinum compounds Cisplatin Carboplatin Oxaliplatin 3. Anthracyclines Doxorubicin Daunorubicin Epirubicin Mitoxantrone 4. Antitumor antibiotics Dactinomycin Mitomycin-C",
-        "cop": 2,
-        "opa": "Cisplatin",
-        "opb": "Vincristine",
-        "opc": "Mitomycin-C",
-        "opd": "Cyclophosphamide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "fe374efe-4600-4d12-9ed1-1d9f8aafca4a",
-        "choice_type": "multi"
     },
     {
         "question": "Hand and foot syndrome is an adverse effect of:",
@@ -78,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Drugs which affect DNA synthesis or replication are all except:-",
-        "exp": "Bevacizumab is a monoclonal antibody against VEGF. It acts by inhibiting angiogenesis. Doxorubicin is a topoisomerase inhibitor and inhibit the uncoiling of DNA and thus replication. 5-FU is a pyrimidine analog and inhibit DNA synthesis by competing with DNA polymerase. Methotrexate is a dihydro folic acid reductase inhibitor. It decreases the formation of DNA.",
-        "cop": 2,
-        "opa": "5-FU",
-        "opb": "Bevacizumab",
-        "opc": "Doxorubicin",
-        "opd": "Methotrexate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "bd7fdf75-afa9-41a7-8998-7c6cb3a28ebe",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a dihydrofolate reductase inhibitor?",
         "exp": "Methotrexate, pemetrexed and pralatrexate are the inhibitors of dihydrofolate reductase (DHFRase). These drugs also inhibit Thymidylate Synthase (TS) and the enzymes involved in early purine synthesis. Methotrexate is the drug of choice for the treatment of choriocarcinoma. Methotrexate is also indicated in the management of rheumatoid ahritis, psoriasis and ectopic pregnancy. Adverse effects of methotrexate are bone marrow suppression and mucositis.",
         "cop": 2,
@@ -115,19 +76,6 @@
         "topic_name": "Cytotoxic Anticancer Drugs",
         "id": "efcb2874-d82b-4f37-981d-c6103bb58273",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following statements about vincristine are true EXCEPT:",
-        "exp": "Vincristine is a vinca alkaloid. It acts in M-phase of cell cycle by inhibiting the formation of spindle. It is a marrow sparing drug and causes peripheral neuropathy as a prominent adverse effect. It is used for the treatment of hematological malignancies like Hodgkin's lymphoma and leukemias. It can be used for pediatric solid tumors like Wilms tumor, neuroblastoma and rhabdomyosarcoma etc. It is tolerated better by children than adults and is not indicated for solid tumors in adults.",
-        "cop": 4,
-        "opa": "It acts by inhibiting mitosis",
-        "opb": "Its prominent adverse effect is peripheral neuropathy",
-        "opc": "It does not suppress bone marrow",
-        "opd": "It is a drug of choice for solid tumors in adults",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "1114314b-2514-42ba-987c-fe47b4e49f3d",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is a new drug approved for the treatment of Breast Cancer?",
@@ -169,32 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of following statements about 6-mercaptopurine are true EXCEPT:",
-        "exp": "All anticancer drugs can result in hyperuricemia by causing the destruction of excess cells. Azathioprine is an immunosuppressant drug that acts by generating 6-MP. 6-MP inhibits the formation of ribosyl-5-phosphate and it also inhibits the conversion of IMP to adenine and guanine nucleotides. When given orally the drug is subjected to first pass metabolism by enzyme Xanthine Oxidase which conves it into an inactive metabolite. So if allopurinol is given along with 6-MP, the metabolism of 6-MP will be reduced and it will lead to toxicity. Thus the dose of oral 6-MP is to be reduced by 75%.",
-        "cop": 2,
-        "opa": "It is metabolized by xanthine oxidase",
-        "opb": "It does not cause hyperuricemia",
-        "opc": "Its dose should be reduced when allopurinol is given concurrently",
-        "opd": "It is an active metabolite of azathioprine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "b10b1413-94e0-4073-9a2f-e1e88317cfee",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following statements about methotrexate are true EXCEPT:",
-        "exp": "Folinic acid (leucovorin) is used to reverse the adverse effect of methotrexate. Folic acid is ineffective. All other statements are true",
-        "cop": 3,
-        "opa": "It is cell cycle specific and kills cells in the S phase",
-        "opb": "Its toxicity primarily affects bone marrow and epithelial structures",
-        "opc": "Folic acid reverses its toxic effects",
-        "opd": "It is the drug of choice for choriocarcinoma",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "dc48db29-88f5-4edd-ab7a-3fda6566de18",
-        "choice_type": "multi"
-    },
-    {
         "question": "Pentostatin acts by inhibiting:",
         "exp": "* Pentostatin and cilastatin are not statins i. e. these do not act by inhibiting HMG-CoA reductase. * Pentostatin acts by inhibiting adenosine deaminase. * It is used for the treatment of hairy cell leukemia. * Drug of choice for hairy cell leukemia is cladribine.",
         "cop": 3,
@@ -206,19 +128,6 @@
         "topic_name": "Cytotoxic Anticancer Drugs",
         "id": "f7338862-e337-4204-b30e-79490415e023",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true statements about anticancer drugs except?",
-        "exp": "Anthracyclines cause cardiotoxicity, prevented by dexrazoxane Bleomycin causes pulmonary fibrosis L-asparaginase cause allergy, acute pancreatitis Vincristine, vinblastine causes peripheral neuropathy & SIADH. But it is marrow sparing. Irinotecan is a topoisomerase I inhibitor used for colorectal carcinoma Topoisomerase II inhibitors are Etoposide, doxorubicin, Daunorubicin & anthracyclines.",
-        "cop": 2,
-        "opa": "Vincristine is a marrow sparing anticancer drug",
-        "opb": "Irinotecan is a topoisomerase II inhibitor",
-        "opc": "L-asparaginase can cause acute pancreatitis",
-        "opd": "Anthracyclines cause cardiotoxicity",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "5a0a5420-1c6e-49d5-80fe-b40e644e0abb",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drug can cause Delayed Bone Marrow Suppression leading to Sustained Neutropenia?",
@@ -312,45 +221,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are examples of alkylating agents except:-",
-        "exp": "ALKYLATING AGENTS If: Ifosfamide Bus: Busulfan Not: Nitrosoureas Present: Procarbazine Take: Temozolomide My: Melphalan Cycle: Cyclophosphamide",
-        "cop": 4,
-        "opa": "Procarbazine",
-        "opb": "Melphalan",
-        "opc": "Busulfan",
-        "opd": "Bleomycin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "011ee76f-f6e6-4a1e-b651-9817b9d8a63d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following drugs are used in the treatment of metastatic breast cancer except:",
-        "exp": "Ixabepilone is a semisynthetic epothilone B analog that functions as a microtubule inhibitor. it is approved for metastatic breast cancer in combination with the oral fluoropyrimidine capecitabine or as monotherapy. Abemaciclib & Ribociclib are cyclin dependent kinase inhibitors (CDKI) and are given orally in breast cancer. Sunitinibis a Tyrosine kinase inhibitor and is used mainly in GIST and RCC.",
-        "cop": 4,
-        "opa": "Ixabepilone",
-        "opb": "Abemaciclib",
-        "opc": "Ribociclib",
-        "opd": "Sunitinib",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "c73fe114-f9f1-4e29-b5fb-a99c10788125",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Arsenic compounds are used for the treatment of which of the following cancer?",
-        "exp": "ARSENIC TRIOXIDE It is used for the treatment of Acute Promyelocytic Leukemia (APML). It may cause hyperglycemia and prolonged QT interval. Like tretinoin, it also acts as a differentiating agent.",
-        "cop": 1,
-        "opa": "APML",
-        "opb": "CLL",
-        "opc": "ALL",
-        "opd": "CML",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "e806255a-976a-4209-90b1-4d2151339deb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which anti-cancer drug affects DNA as well as RNA?",
         "exp": "Actinomycin-D is one of the anti-tumor antibiotic. It has two mechanisms of action: - It blocks RNA transcription by interfering with template function of DNA. - It causes single strand breaks in the DNA. It is used in the treatment of Wilm's tumor and rhabdomyosarcoma.",
         "cop": 3,
@@ -416,19 +286,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 30 year old male was dignosed with Hodgkin's lymphoma and was staed on Bleomycin. Which of the following is false regarding Bleomycin?",
-        "exp": "Most Anticancer drugs cause bone marrow suppression. However, these drugs are marrow sparing: Vincristine Bleomycin Asparaginase Bleomycin is metabolized by bleomycin hydrolase. Later is deficient in skin and lungs. Therefore these organs are at high risk of toxicity (flagellated skin pigmentation and pulmonary fibrosis)",
-        "cop": 4,
-        "opa": "It can cause pulmonary fibrosis",
-        "opb": "It can cause flagellated pigmentation of skin",
-        "opc": "It is metabolized by hydrolase enzyme",
-        "opd": "It has high risk of causing bone marrow suppression",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "95bd1d6c-a5c6-40e7-9b5b-66a7dc4a04e2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Maintenance of high urinary pH is impoant during methotrexate treatment because:",
         "exp": "Methotrexate is a weak acid and is reabsorbed in acidic urinary pH. Higher plasma concentration may result in toxicity. Therefore, to decrease the reabsorption through renal tubules, high urinary pH must be maintained.",
         "cop": 4,
@@ -440,45 +297,6 @@
         "topic_name": "Cytotoxic Anticancer Drugs",
         "id": "039fdcc1-3fd3-40d2-93e0-4bb9339a7ea2",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements about pegfilgrastim is true?",
-        "exp": "PEGFILGRASTIM:- Long acting granulocyte colony stimulating factor (GCSF). It is used along with anticancer drug to decrease neutropenia. Commonly given by SC route. Drug ending with GRASTIM are granulocytes stimulator. Drug ending with GRAMOSTIM are granulocyte monocyte stimulator. Eg:- SARGRAMOSTIM.",
-        "cop": 1,
-        "opa": "It decrease the risk of neutropenia in patients on anti cancer therapy",
-        "opb": "It is a sho acting drug",
-        "opc": "It can be given orally",
-        "opd": "It is recombinant GM CSF",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "20108ee7-5cc7-4fb7-a97b-b87951714f8e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Sunder, a young male was diagnosed as suffering from acute myeloid leukemia. He was staed on induction chemotherapy with Anticancer drugs. Induction regimen was successful. Two months later, he presents to OPD with swelling of both the feet and breathlessness on climbing the stairs. He also complains the he had to wake up many times because of breathlessness. Which of the following is most likely responsible for this patient's symptoms?",
-        "exp": "Anthracyclines (daunorubicin, doxorubicin, epirubicin and idarubicin) can cause severe cardiotoxicity manifesting as dilated cardiomyopathy and arrhythmias. Anthracycline chemotherapeutic agents form free radicals in the myocardium. Their most severe side effect is a cumulative dose related dilated cardiomyopathy. It presents with symptoms of left and right ventricular CHF.",
-        "cop": 3,
-        "opa": "Cisplatin",
-        "opb": "Methotrexate",
-        "opc": "Doxorubicin",
-        "opd": "Vincristine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "ee85d7ee-994e-4c6e-9619-3a6e96e3dfe9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Roopa Devi, a 65-year-old female with ovarian cancer is being treated with cisplatin-based chemotherapy. All of the following are used to limit the toxicity of cisplatin except:",
-        "exp": "N-acetylcysteine is used for paracetamol poisoning. Slow intravenous infusion and chloride diuresis along with amifostine can limit cisplatin induced nephrotoxicity.",
-        "cop": 1,
-        "opa": "N-acetylcysteine",
-        "opb": "Slow rate of infusion",
-        "opc": "Chloride diuresis",
-        "opd": "Amifostine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Cytotoxic Anticancer Drugs",
-        "id": "50a70dc3-27df-438b-923a-313a19763930",
-        "choice_type": "multi"
     },
     {
         "question": "Vinca alkaloids act on which phase of cell cycle?",

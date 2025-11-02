@@ -104,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs are used in the management of MDR-TB under RNTCP except",
-        "exp": "PAS is an add-on agent(D GROUP) and is not a core pa of MDR-TB drug regimen. The remaining 3 drugs are being given in both intensive as well as continuation phase of the regimen.",
-        "cop": 2,
-        "opa": "Levofloxacin",
-        "opb": "PAS",
-        "opc": "Ethionamide",
-        "opd": "Cycloserine",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "RNTCP",
-        "id": "5dc88edd-6319-4132-ad3e-1c6a485c9b5b",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 45 years old male patient comes to OPD with cough and diarrhea since last 3 weeks. On diagnosis he is found to be HIV positive with Tuberculosis, Next line of management should be:-",
         "exp": "Guidelines for treatment of HIV+TB patients:- A is offered to all HIV-TB and HIV-MDR TB patients irrespective of CD4 count. Sta ATT first, allow it to be tolerated, then sta A. ATT treatment is same but treatment is more difficult and adverse reactions are more common. Immune reconstitution inflammatory syndrome (IRIS): Occasionally, patients with HIV-related TB may experience a temporary exacerbation of symptoms, signs ofradiographic manifestations of TB after beginning TB treatment. This paradoxical reaction occurs in HIV-infected patients with active TB and is thought to be a result of immune restitution due to the simultaneous administration of antiretroviral and tuberculosis medication. Symptoms and signs may include high fever, lymphadenopathy, expandingintra-thoracic lesions and worsening of chest radiographicfindings",
         "cop": 1,
@@ -180,18 +167,5 @@
         "topic_name": "RNTCP",
         "id": "82b6d4d1-614f-4dfd-9506-5da8e8b99c14",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are true regarding Bedaquiline use except",
-        "exp": "BEDAQUILINEPatient should be using non- hormonal based bih control measure throughout the treatment period The basic criteria for patient selection for bedaquiline is: Age of the patient should be >=18 years having MDR- TB Pregnancy is a contraindication for BDQ therapy and the patient should be using non-hormonal based bih control measure throughout the treatment period or have been postmenopausal for past 2 years; and Cardiac arrhythmia is a contraindication for BDQ treatment -XDR-TB patient is eligible for therapy",
-        "cop": 3,
-        "opa": "The patient >= 18 years with MDR TB is included",
-        "opb": "Patient with XDR-TB is eligible for its therapy",
-        "opc": "Patient should be using hormonal based bih control measure throughout the treatment period",
-        "opd": "Pregnant patients are excluded",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "RNTCP",
-        "id": "06be2bf1-164f-4286-a8b9-6937940293b4",
-        "choice_type": "multi"
     }
 ]

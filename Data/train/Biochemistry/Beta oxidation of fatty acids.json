@@ -1,18 +1,5 @@
 [
     {
-        "question": "Which of the following is not a step of b-oxidation?",
-        "exp": "4 repetitive steps of fatty acid oxidation: 1. FAD dependent oxidation 2. Hydration 3. NAD dependent oxidation 4. Thiolysis It is NAD dependent oxidation, not NADP dependent",
-        "cop": 1,
-        "opa": "NADP dependent oxidation",
-        "opb": "FAD dependent oxidation",
-        "opc": "Thiolysis",
-        "opd": "Hydration",
-        "subject_name": "Biochemistry",
-        "topic_name": "Beta oxidation of fatty acids",
-        "id": "fb55532a-5cfa-4979-835c-9f31d70ea4c7",
-        "choice_type": "multi"
-    },
-    {
         "question": "Major end product of beta oxidation of odd chain fatty acids:",
         "exp": "Odd chain fatty acid on beta-oxidation Give many Acetyl CoA (released at every step) and only 1 Propionyl CoA. In 17 C fatty acid ( odd chain ), when it's broken down, 7 molecules of acetyl CoA ( 14 C)and 1 molecule of propionyl CoA (3C) are obtained So, major end product is Acetyl CoA whereas Propionyl CoA is a minor end product.",
         "cop": 3,
@@ -89,32 +76,6 @@
         "topic_name": "Beta oxidation of fatty acids",
         "id": "c924c932-6fa5-441f-85ce-05c789f4afc8",
         "choice_type": "single"
-    },
-    {
-        "question": "Ketone body that cannot be detected by Rothera's test:",
-        "exp": "Rothera's test can only detect acetoacetate and acetone, and not beta-hydroxy butyrate. Rothera's test: Ketone bodies react with sodium nitroprusside (in the presence of NH3) to form a purple colored ring. Positive test indicate Acetoacetate and Acetone. No specific test available for beta-hydroxy butyrate. So, it is first oxidised to Acetoacetate, then Rothera's test is performed.",
-        "cop": 3,
-        "opa": "Acetoacetate",
-        "opb": "Acetone",
-        "opc": "Beta hydroxy butyrate",
-        "opd": "All the above can be detected",
-        "subject_name": "Biochemistry",
-        "topic_name": "Beta oxidation of fatty acids",
-        "id": "f2c8287c-46d8-478a-bfb5-63fc8b1003d1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is true about ketone bodies:",
-        "exp": "Ketone Body Synthesis Catabolic pathway Occurs in mitochondria Activated by glucagon Occur in liver 1st ketone body - acetoacetate Most common ketone body - Beta hydroxy butyrate Found in blood and urine Ketone Body Utilization Catabolic pathway Occurs in mitochondria Activated by glucagon Occur in brain, heart and muscles Thiophorase is absent in liver so ketone bodies cannot be utilized by liver.",
-        "cop": 3,
-        "opa": "Acetoacetate is most common ketone body present in blood",
-        "opb": "Beta hydroxybutyrate is the first ketone body to be synthesized",
-        "opc": "Thiophorase is absent in liver",
-        "opd": "Muscle can not utilize ketone bodies",
-        "subject_name": "Biochemistry",
-        "topic_name": "Beta oxidation of fatty acids",
-        "id": "c27906a8-722f-46b6-8ed3-dd3d78245448",
-        "choice_type": "multi"
     },
     {
         "question": "Ketogenesis takes place in:",

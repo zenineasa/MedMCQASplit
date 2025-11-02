@@ -26,58 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient presented with a hard swelling in this right testis. All are true statements except:",
-        "exp": "Ans. (a) Trans scrotal biopsy is needed* Chevassu maneuver biopsy is done inguinal.* Transcrotal biopsy will disseminate the tumor cells to Inguinal nodes",
-        "cop": 1,
-        "opa": "Trans scrotal biopsy is needed",
-        "opb": "Inguinal exploration is done",
-        "opc": "High inguinal exploration should be done",
-        "opd": "Scrotal USG is done",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "e3b79ab2-495a-428d-b1b9-c26d76272f96",
-        "choice_type": "multi"
-    },
-    {
-        "question": "An otherwise healthy, 30-year-old man is brought to the emergency department after being thrown off the back of a motorcycle. During the assessment, blood is noted at the urethral meatus. Which of the following statement is TRUE?",
-        "exp": "Initially, advanced trauma life support (ATLS) protocol requires that airway, breathing, and circulation (ABC) to be maintained. Blood at the urethral meatus is an indication of lower urinary tract (bladder, urethra, penis) injury. Foley catheter should not be inserted until the integrity of urethra is assessed (usually by performing a retrograde urethrogram). Trauma x-ray panel includes a pelvic study to evaluate the extent of injury to pelvic brim and pubic symphysis. Fracture of the pubic rami or diastasis of pubic symphysis are commonly associated with dislocation of the sacroiliac joint as well as direct or indirect injury to the bladder and bulbous urethra.",
-        "cop": 2,
-        "opa": "A foley catheter should be inserted immediately.",
-        "opb": "Dislocation of the sacroiliac joint is usually associated with a fracture of the pubic ramus or separation of the symphysis.",
-        "opc": "Open lavage is a useful indication for the need to perform laparotomy.",
-        "opd": "Fracture of the coccyx requires surgical excision in most patients.",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "15c7eecf-2c06-4c81-a0b0-1c6bb6313c3c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 25-year-old male presented with painless testicular swelling and with history of fever and weight loss. All the following investigations are indicated in this patient, except:",
-        "exp": "Ans. (d) Trans-scrotal biopsy. Ref: Bailey and love, 26th Edition, Pages 1385-1388* Painless testicular swelling in a 25 male with history of fever and weight loss amounts to a diagnosis of malignant testicular swelling, i. e. testicular cancer.* To confirm the histopathological evidence of testicular cancer, orchidectomy in form of high inguinal orchidectomy to be done after a manuever known as Chevasu Manuever* Trans scrotal biopsy is contraindicated, as Tunica albuginea will be breached during biopsy. Since Tunica albuginea is a natural barrier to testicular cancer, following biopsy, this will be breached and extend into the scrotum.",
-        "cop": 4,
-        "opa": "USG scrotum",
-        "opb": "CT abdomen and pelvis",
-        "opc": "Chest x-ray",
-        "opd": "Trans-scrotal biopsy",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "f950fd08-7047-4b36-8ec4-4070291c14ea",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 65-year-old male patient complains of loss of libido and is found to have a low free and total testosterone level. Treatment is commenced with testosterone supplemental therapy. What is the next step in management after testosterone administration?",
-        "exp": "PSA levels can increase because both benign and malignant prostatic tissue are sensitive to testosterone (hormonal) therapy. There is increased prostatic growth with elevation of PSA and possible polycythemia.",
-        "cop": 1,
-        "opa": "Check PSA levels",
-        "opb": "Testosterone levels are decreased",
-        "opc": "Decrease in size of benign prostatic tissue lesions occurs",
-        "opd": "Decrease in size of prostatic cancer occurs",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "920ad252-d347-4be2-baa1-cbd1ed428f01",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 46-year-old man has a swelling in the scrotum. It shows clear transillumination anterior to the testis when a light is applied to the scrotum in a dark room. This physical exam is most consistent with?",
         "exp": "In adults, this is diagnostic, but in children, transillumination is also seen in an indirect inguinal hernia. As epididymal cyst may transilluminate but is posterior to the testis.",
         "cop": 3,
@@ -89,19 +37,6 @@
         "topic_name": "Urethra & Penis",
         "id": "3c372938-0d3a-43c0-a2ae-4e6d55a8f27f",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about bulbar urethral rupture, except:",
-        "exp": "Ans. (b) Floating prostate on per rectal examination* Floating prostate is seen in membranous urethral injury* Perineal hematoma seen in Bulbar urethral injury.* Deep Perineal pouch hematoma is seen in Membranous urethral injury.",
-        "cop": 2,
-        "opa": "Perineal hematoma",
-        "opb": "Floating prostate on per rectal examination",
-        "opc": "Collection of urine in perineum",
-        "opd": "Bleeding per urethra",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "71436754-35e2-4c6e-bb25-ca3b6ba8b9c4",
-        "choice_type": "multi"
     },
     {
         "question": "Most common cause of Foley catheter induced UTI",
@@ -154,19 +89,6 @@
         "topic_name": "Urethra & Penis",
         "id": "952dc292-c15c-4fcc-ad03-8ebaf545c762",
         "choice_type": "single"
-    },
-    {
-        "question": "During evaluation of the cause of varicocele in a 36-year-old man, attention is directed to the method of drainage of the left testicular vein, which usually enters which of the following?",
-        "exp": "The left testicular vein empties into the left renal vein, and the right testicular vein empties into the IVC. Partial occlusion of the right renal vein is an uncommon cause of varicocele and may signify an associated retroperitoneal malignancy.",
-        "cop": 2,
-        "opa": "Left adrenal vein",
-        "opb": "Left renal vein",
-        "opc": "Left inferior mesenteric vein",
-        "opd": "Inferior vena cava (IVC)",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "bc67b41a-f226-4daa-8caf-4029f3cc9114",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following changes would be most consistent with the diagnosis of choriocarcinoma?",
@@ -247,58 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are features of exstrophy of the bladder, except:",
-        "exp": "Ans. (b) Cloacal membrane is present* Basic defect in ectopia vesical is abnormal overdevelopment of Cloacal membrane and its rupture",
-        "cop": 2,
-        "opa": "Epispadias",
-        "opb": "Cloacal membrane is resent",
-        "opc": "Posterior bladder wall protrudes through the defects",
-        "opd": "Umbilical and inguinal hernia",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "e59fdd13-d26a-47c3-9c30-eb9d1739e7d9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "After undergoing a partial cystectomy for carcinoma of the rectum, a 76-year-old woman develops a vesicovaginal fistula. The repair will have a higher chance of success if which of the following occurs?",
-        "exp": "Repair of vesicovaginal fistula is recommended after enough time has passed, to allow a reduction in the inflammatory reaction and even spontaneous closure to occur. To promote spontaneous closure, a Foley catheter is inserted for bladder drainage. It is advised to perform meticulous repair, excision of previous fistulous tract, and tension-free anastomosis. Frequently an omental interposition helps to separate overlapping suture lines.",
-        "cop": 3,
-        "opa": "Scare tissue is not excised",
-        "opb": "The bladder wall is closed under tension",
-        "opc": "Repair is performed more than 6 months after the causative operation",
-        "opd": "Repair is performed within 7-14 days of the onset of symptoms",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "34149a5a-4a08-4deb-9855-c0e53a688084",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A young male falls from 15 feet and he gets a perineal hematoma and suprapubic mass. There is Injury to:",
-        "exp": "Ans. (c) Urethra. Bailey 26th Edition, Page 1361* Ruptured bulbar urethra causes perineal hematoma typically with butterfly distribution. Retention of urine is typically present",
-        "cop": 3,
-        "opa": "Urinary bladder",
-        "opb": "Anus",
-        "opc": "Urethra",
-        "opd": "Rectus abdominiis",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "d9fbee95-70d9-461e-bed3-5a121a47be93",
-        "choice_type": "multi"
-    },
-    {
-        "question": "During her eighth month of pregnancy, a 29-year-old woman is noted to have polyhydramnios. Further testing shows anencephalus. Polyhydramnios in this patient is caused by which of the following?",
-        "exp": "Anencephalus is due to failure of the cephalic part of the neural tube to close off. This condition happens in 1/1000 pregnancies, is four times more common in whites than blacks, and is four times more common in females than males.",
-        "cop": 1,
-        "opa": "Impairment of the fetus's swallowing mechanism",
-        "opb": "Tumor of the fetus's brain",
-        "opc": "A secretory peptide from the placenta",
-        "opd": "Excess antidiuretic hormone (ADH) from the fetus",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "76e28066-deb1-4b96-815f-d6db0bf7233d",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 6-month-old boy was born with hypospadias. This condition is due to failure in the development of which of the following?",
         "exp": "Embryologically, the genital tubercule develops into the penis. The edge of the cloacal membrane forms the urogenital fold and by the process of invagination forms the urethral groove and finally the penile urethra. The severity of hypospadias depends on the location of the anomalous opening onto the penile urethra. The mildest degree is where the opening is on the glans and the most severe form at the penoscrotal junction.",
         "cop": 1,
@@ -325,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Peyronie's disease is:",
-        "exp": "Ans. B. Bowing of penis during erection due to fibrous plaque. (Ref LB 26th pg. 1372). Peyronie's disease# Peyronie's disease is a relatively common cause of deformity of the erect penis. On examination, hard plaques of fibrosis can usually be palpated in the tunica of one or both corpora cavernosa. The plaques may be calcified.# The presence of the unyielding plaque tissue within the normally elastic wall of the corpus cavemosum causes the erect penis to bend, often dramatically, towards the side of the plaque.# The aetiology is uncertain but it may be a result of past trauma - there is an association with Dupuytren's contracture.- Medical treatments during the active phase have little evidence of efficacy- The disease has a natural history of 18-24 months active disease before it stabilises- Surgery may be indicated to correct deformity that interferes with sexual activity- Surgical treatment will shorten the erect penile length.# Rx is difficult. Some cases continue to progress. Others seem to remit after 3-5 years. Various drug Rxs have been suggested but their beneficial effect is hard to prove in such a chronic condition. When the deformity of the penis is causing distress, it may be possible to straighten it by placing non- absorbable sutures in the corpus cavemosum opposite the plaque. This reduces the elasticity in this region to balance that caused by the plaque (Nesbitt's operation). The most common procedure is the Nesbitt procedure which corrects the deformity by plicating the convex side of the deformity, thereby straightening the penis, with some accompanying loss of length. Additional Educational points# Chordee (French = corded) is a fixed bowing of the penis caused by hypospadias or, more rarely, chronic urethritis. Erection is deformed and sexual intercourse may be impossible. Rx is usually surgical.",
-        "cop": 2,
-        "opa": "Curved deformity of penis",
-        "opb": "Bowing of penis during erection due to fibrous plaque",
-        "opc": "Ectopic opening of urethra",
-        "opd": "None of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "afa16cc3-3ff0-4826-baf6-d3ae3a1933f8",
-        "choice_type": "multi"
-    },
-    {
         "question": "A young boy 18 years of age presents with Pain in groin for 2 days. On examination the testis seems high and cremasteric reflex is absent. Elevation of testis worsens the pain. The probable diagnosis is:",
         "exp": "Ans. (a) Right testicular torsion. Ref: Bailey 26th Edition, Page 1380* Torsion of Testis is most common between 10 to 25 years. Cremasteric reflex is lost. Elevation of testis worsen the pain",
         "cop": 1,
@@ -349,19 +206,6 @@
         "topic_name": "Urethra & Penis",
         "id": "ad9f5fd9-e693-4ee9-a5d4-040833ac8bd7",
         "choice_type": "single"
-    },
-    {
-        "question": "A 60-year-old male presents with Cancer prostate. The tumor is limited to the capsule and it is palpable on PR examination. The patient is diagnosed as stage T1b. The best treatment would be:",
-        "exp": "Ans. (a) Radical prostatectomy. Bailey 26th Edition, Page 1355* Radical prostatectomy is only suitable for localized disease (T1 and T2) and should be carried out only in men with a life expectancy of > 10 years.",
-        "cop": 1,
-        "opa": "Radical prostatectomy",
-        "opb": "Chemotherapy",
-        "opc": "Palliative radiotherapy",
-        "opd": "Orchidectomy",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "89f2df30-5245-4d5a-9d94-45fc135a843f",
-        "choice_type": "multi"
     },
     {
         "question": "Most common congenital urethral abnormalities is:",
@@ -494,19 +338,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 16-years old boy presents with acute onset pain in the left testis. The following statements about his management are true except:",
-        "exp": "Ans. (a) The patient should be prescribed antibiotics and asked to come after a week* Our aim in this case is to differentiate orchitis from torsion.* So we can't just like that send him home without confirming there is no torsion.",
-        "cop": 1,
-        "opa": "The patient should be prescribed antibiotics and asked to come after a week",
-        "opb": "Colour flow Doppler will be very useful in diagnosis Doppler is not available",
-        "opc": "Scrotal exploration should be done without delay if Doppler is not available",
-        "opd": "If left testis is not exploration, patient should undergo left Orchidectomy and right orchidopexy",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "29ebed88-5e3c-4daa-a19e-f29704217e5f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common cause of urethral obstruction in male children -",
         "exp": "Ans. is 'a' i. e., Posterior urethral valve * The most common cause of obstructive uropathy in a male child is posterior urethral valve. Posterior urethral valve* These are symmetrical folds of urothelium extending distally from prostatic urethra to external urinary sphincter.* It most commonly lies just distal to the verumontanum or at the verumontanum.* It occurs only in males.* It behaves as flap valves so, although urine does not flow normally a urethral catheter can be passed without difficulty.* Sometimes, the valves are incomplete and the patient remains without symptoms until adolescence or adulthood.* Approximately 30% of patients experience end stage renal disease* Vesicoureteral reflux occurs in 50% of patients.",
         "cop": 1,
@@ -520,19 +351,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about hypospadias, except:",
-        "exp": "Ans. (b) Avoid surgery till puberty* Surgery ideal age- 6 months to 1 year* Chordee 2 stage operation is known as Dennis Browne operation is done. First chordee is released. In 2nd stage we correct the opening.",
-        "cop": 2,
-        "opa": "Circumcision in infancy is contraindicated",
-        "opb": "Avoid surgery till puberty",
-        "opc": "No treatment required in glandular variety",
-        "opd": "If associated chordee is present, 2 stage operation is done",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "4a4cdbe4-6ea9-443a-9bf8-e5a36bf4dfe3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is used in circumcision?",
         "exp": "Ans: a (1 % Lignocaine without adrenaline) Ref: Bailey & Love, 24th p. 491 % lignocaine without adrenaline is used in circumcision. Lignocaine 1 % is effective for most sensory block. Adrenaline should not be used in end arterial locations where there is no collateral circulation, such as fingers and toes, around retinal arteries and tip of penis. Advantage of adrenaline in LA: Addition of adrenaline (1: 2, 00. 000 to 1: 1, 25, 000 cone) to local anaesthetic solution hastens the onset and prolongs the duration of action, permits a higher dose of drug to be used as it is more slowly absorbed into the circulation. C. I. of adrenaline:* Hypertensive patients* Patients taking either MAO inhibitors or TCA drugs (Its cardiovascular effects are potentiated). Note: Never use mono polar diathermy when performing circumcision. Causes coagulation at the base of penis in small boys.",
         "cop": 1,
@@ -544,19 +362,6 @@
         "topic_name": "Urethra & Penis",
         "id": "a9fab0c8-05ea-48b8-9851-5d6643df6c27",
         "choice_type": "single"
-    },
-    {
-        "question": "A 24-year-old man had been treated for gonorrhea 2 months previously. He developed an ulcerative lesion in the glands of the penis that is noted to be condylomata lata. The etiology of condylomata lata is which of the following?",
-        "exp": "Condylomata lata are a manifestation of secondary syphilis. The treatment is intramuscular injection of penicillin. They are distinguished from condylomata acuminata; in that the latter are velvety and filiform in appearance and are result of infection with human papilloma virus (HPV).",
-        "cop": 4,
-        "opa": "Mixture of organisms",
-        "opb": "Hemophilus ducreyi",
-        "opc": "Herpesvirus hominis, type II",
-        "opd": "Treponema pallidum",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "a5c4da2a-e686-4563-981a-34281ad7991a",
-        "choice_type": "multi"
     },
     {
         "question": "Twelve years after menopause, a 60-year-old woman undergoes laparotomy for an ovarian carcinoma. The ovarian tumor that is most likely to respond to radiotherapy is which of the following?",
@@ -596,19 +401,6 @@
         "topic_name": "Urethra & Penis",
         "id": "6dcbfc72-0384-4279-b84b-b19c3391c271",
         "choice_type": "single"
-    },
-    {
-        "question": "A 25-years old married male presents with infertility. He had undergone retroperitoneal lymph node dissection at age of 15 years for embryonal carcinoma of right testis. Semen analysis shows-quantity-0. 5 ml, no. sperm, no fructose. Biopsy of testis shows normal spermatogenesis. Best treatment here would be:",
-        "exp": "Ans. (c) Microtesticular aspiration and intracytoplasmic injection. Ref: Smith 17th Edition, Pages 710-711* For patients having normal spermatogenesis and problem in sperm transport we do Sperm aspiration from Vas or Epididymis or Testis and injected into cytoplasm. (In vitro Fertilization Technique- IVF)",
-        "cop": 3,
-        "opa": "Artificial insemination of donor",
-        "opb": "Penile-prosthesis",
-        "opc": "Micro testicular aspiration and intracytoplasmic injection",
-        "opd": "None of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "80100b7c-8850-495b-b63e-7718946bc36d",
-        "choice_type": "multi"
     },
     {
         "question": "Gleason score is used to grade:",
@@ -663,19 +455,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is/are a complication of urethral stricture?",
-        "exp": "Ans: d (All of these) Ref: Bailey & Love, ed, p. 1394. Complication of urethral stricture. Causes of urethral stricture: Periurethral abscess. Urethral diverticulum. Retention of urine. Urethral fistula* Inflammatory* Congenital* Traumatic* Instrumental-Indwelling catheter Urethral endoscopy * Post operative -Open prostatectomy Amputation of penis",
-        "cop": 4,
-        "opa": "Periurethral abscess",
-        "opb": "Urethral diverticulum",
-        "opc": "Retention of urine",
-        "opd": "All of these",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "6b63e1f0-5917-473b-a918-1de9d742d79b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Marion's disease is due to:",
         "exp": "Ans. (a) Muscular hypertrophy of internal sphincter of urinary bladder* Congenital hypertrophy of the posterior urethra due to muscular hypertrophy and stenosis at bladder neck is known as Marion's disease.",
         "cop": 1,
@@ -700,45 +479,6 @@
         "topic_name": "Urethra & Penis",
         "id": "eaa7f07c-f060-45e7-8993-8d114127d128",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about Peyronie's disease EXCEPT:",
-        "exp": "(Medical treatment is effective) (1399-1400-Baily & 24th) (1373-B &L 25th)PEYRONIE'S DISEASE - Common cause of erect penis.* Hard plaques of fibrosis can usually be palpated in the tunica of one or both corpora covemosa. The plaque may be calcified.* May result of past trauma, there is association with dupuytren *s contracture. Treatment - continue to progress or remit after 3-5 years* When the deformity of the penis is causing distress, it may be possible to straighten it by placing non absorbable sutures in corpus cavernous opposite the plaque. This reduces the elasticity in the region to balance that caused by the plaque (NES BITT'S OPERATION). Peyronie's disease* Medical treatment are often ineffective* The disease is typically self-limiting* Surgery may be indicated to correct deformity with sexual function.",
-        "cop": 2,
-        "opa": "Self limiting",
-        "opb": "Medial treatment is effective",
-        "opc": "Association with Dupvytren's contracture",
-        "opd": "Calcified plaques",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "fdf7bbcd-9fd4-4da7-ac26-b66776f8b780",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Indications of circumcision are all except",
-        "exp": "Ans. c (Carcinoma penis). (Ref. B & L, Surgery, 25th/pg. 78). Indications of circumcision (Circumcision should be avoided until hypospadias is repaired)1. Religious in Muslims and Jews2. Phimosis including due to balanitis xerotica obliterans3. Recurrent balanoposthitis4. Recurrent UTI",
-        "cop": 3,
-        "opa": "Chronic balanoposthitis",
-        "opb": "Jewish religion",
-        "opc": "Carcinoma penis",
-        "opd": "Paraphimosis",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "df01a233-da43-470a-a904-e59fd60302af",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 32-year-old female had been unable to become pregnant for 6 years. Three weeks previously, she missed her period. She was admitted to hospital with left-side lower abdominal pain and nausea. Her B subunit human chorionic gonadotropin (HCG) and pelvic ultrasound confirms an ectopic pregnancy. Treatment includes which of the following?",
-        "exp": "If unruptured the fallopian tube should be spared; laparoscopic surgery is indicated, on the side of the ectopic pregnancy. An incision is made into superior (antimesenteric) border of the fallopian tube and the products of conception removed by gentle traction. Preserving the fallopian tube may improve the chances of future conception. The appendix should be removed to avoid possible confusion of the diagnosis at a subsequent date.",
-        "cop": 2,
-        "opa": "Immediate laparotomy and salpingectomy",
-        "opb": "If unruptured, the fallopian tube should be spared",
-        "opc": "Avoid incidental appendectomy",
-        "opd": "If stable, avoid surgery",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "f8fe5f4b-1745-4a98-9344-a677a7577eb1",
-        "choice_type": "multi"
     },
     {
         "question": "Prostate cancer occurs in which zone of the gland:",
@@ -780,19 +520,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Complication of the urethral stricture are:",
-        "exp": "(AH of the above): Ref: 1394-LB (1368-B &L 25th). Complications of urethral stricture include. Treatments of urethral stricture* Retension of urine* Urethral diverticulum* Periurethral abscess* Urethral fistula* Hernia, haemorrhoides and rectal prolapse due to abdominal straining to void urined* Dilatation- Gum elastic bougie- Filiform and follower- Metal sounds- Self-de-flatation with Nelaton catheter* Urethrotomy- Internal visual urethrotomy* Urethroplasty- Excision and end to end anastomosis- Patch urethroplasty",
-        "cop": 4,
-        "opa": "Retension of urine",
-        "opb": "Urethral diverticulum",
-        "opc": "Periurethral abscess",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "c3ce7448-507f-45ed-b4a4-0b3b683dfdd8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Bladder outlet obstruction (BOO) is defined by:",
         "exp": "Ans. (b) urine flow rate <10mL/second. Ref Bailey and Love 27th Edition, Page 1459. Bladder outlet obstruction (BOO):* It's a Urodynamic study based diagnosis.* Urine flow rate calculated along with voiding pressures.* Urodynamically proven BOO is seen in:# BPH# Bladder neck stenosis# Bladder neck hypertrophy# Prostate cancer# Urethral strictures# Neuropathic conditions* Urodynamic study findings:# For voided volume >200mL, a peak flow rate of >15mL/second is normal# Voiding pressures <60cm. H2 O is normal# So, Flow rate <10mL/s or Pressure more than 80cm. H2 O is definition of BOO* Complications of BOO: Acute and chronic retention of urine",
         "cop": 2,
@@ -819,32 +546,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about prostate specific antigen except:",
-        "exp": "Ans. (a) Normal level is 10-14ng/mL. Ref: Campbell Urology 11th Edition, Page 2418* Normal serum concentration in men aged 50 to 80 years without prostatic disease range from 1to4ng/ml1.",
-        "cop": 1,
-        "opa": "Normal level is 10-14 ng/mL",
-        "opb": "It my elevated in BPH and Ca Prostate",
-        "opc": "It is produced by prostate",
-        "opd": "It is a glycoprotein",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "c5e1ce99-70a9-4c7f-8266-f4aa68e0d923",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A patient who has undergone pancreatico-duodenectomy for ampullary carcinoma. On 3rd postoperative day, you were instructed to remove Foley's. You dry to deflate and remove the catheter but you can't deflate. Your resident tries and he couldn't remove it either. The next step to remove catheter will be:",
-        "exp": "Ans. (a) Ultrasound guided puncture of balloon. Ref: Bailey and Love 27th Edition, Page 1436 Bailey Points: Page 1436: Retained Foley Catheter removal:* Further inflate the Balloon with 20mL water and then burst the balloon percutaneously using a needle under USG guidance* Later cystoscopy must be made to look for fragments getting retained* Cutting off side arm and attempt to clear the channel is only occasionally successful",
-        "cop": 1,
-        "opa": "Ultrasound guided puncture of balloon",
-        "opb": "CT guided puncture of balloon",
-        "opc": "Push in ether till the balloon bursts and then remove the catheter",
-        "opd": "Push in water till the balloon bursts and then remove catheter",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "5fcc34e8-e019-41f5-b8f2-a11497870f40",
-        "choice_type": "multi"
-    },
-    {
         "question": "In cases of swelling in testes, investigation of choice:",
         "exp": "Ans. (c) USGRef: Campbell Urology 11th Edition, Page 790* Scrotal USG is IOC for testicular pathology. With high frequency transducers (5 to 10 MHz) intra testicular lesions can be identified and readily distinguished from extra testicular pathology.",
         "cop": 3,
@@ -869,19 +570,6 @@
         "topic_name": "Urethra & Penis",
         "id": "e4258c7a-b704-4044-a579-4318b441c889",
         "choice_type": "single"
-    },
-    {
-        "question": "Features of carcinoma penis are all except:",
-        "exp": "Ans: d (Transitional cell carcinoma). Ref: Bailey & Love, 24th ed, p. 1400 & 23rd ed, p. 1268, 1269",
-        "cop": 4,
-        "opa": "Circumcision soon after birth provides total immunity",
-        "opb": "Metastatic to inguinal nodes",
-        "opc": "Surgery treatment of choice",
-        "opd": "Transitional cell carcinoma",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "d8916183-0c3d-4963-8b22-1356dcccb1d4",
-        "choice_type": "multi"
     },
     {
         "question": "In testicular torsion, surgery within how much time can save viability of testis:",
@@ -962,19 +650,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In evaluating the menstrual cycle, which is TRUE?",
-        "exp": "The proliferative (follicular) phase (estrogen) is between the first days of menstrual bleeding to ovulation. If fertilization does not take place, progesterone release results in the endometrial proliferative phase. FSH stimulates the cycle of follicular proliferation.",
-        "cop": 2,
-        "opa": "Estrogen secretion predominates during week prior to menstruation.",
-        "opb": "Ovulation follows a surge in LH.",
-        "opc": "Progesterone predominates the first week after menstruation.",
-        "opd": "FSH is released at midcycle.",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "801107fa-1695-430d-92b9-c138102b5c62",
-        "choice_type": "multi"
-    },
-    {
         "question": "Acute onset of painful scrotal swelling in a 12 year old boy. What will you do immediately?",
         "exp": "Ans. (a) Doppler stethoscope. Ref. Bailey and Love 27th Edition, Page 1500* As abdominal wall muscles contracts, cremaster also contracts, makes a rotation of the testis in vertical axis* The stimuli may be a mechanical, sexual, thermal one due to straining on stool, sport, sex, lifting heavy weight, etc.* Two factors which decide the damage of testis are extent of twist and duration of the episode.* Twists of 720 degree causes more ischemia than twists of 360 degree.* If the untwist is done in \"6 Hours \"time - 100% chance for the test is to be viable, if done at 24 hours only 20% chance for the testis to survive.* IOC is Doppler USG, But False positive results are can be seen. If there is a doubt- Explore.* Exploration must be done by transverse scrotal incision. Three nonabsorbable suture must be made to fix it to the scrotal raphe.",
         "cop": 1,
@@ -1038,19 +713,6 @@
         "topic_name": "Urethra & Penis",
         "id": "4701de18-58b4-4daa-87e1-3c5b112c9e12",
         "choice_type": "single"
-    },
-    {
-        "question": "What is not true about Peyronie disease?",
-        "exp": "Ans: d (Medical treatment is effective) Ref: Bailey, 24th ed, p. Medical treatment is ineffective in Peyronie disease. Peyronie's disease- Relatively common cause of deformity of erect penis.- O/E hard plaque of fibrosis can be palpated in the tunica of one or both corpora cavernosa, (occasionally calcified)- Erect penis often bend towards the side of plaque.- Disease is typically self limiting.- Aetiology is uncertain, may be a result of past trauma.- Association with Dupuytren contracture. Treatment. Medical treatment is often ineffective. Some continue to progress, others seem to remit after 3-5 yrs. Nesbitt operation -^Surgery may be indicated to correct deformity that interferes with sexual function.",
-        "cop": 4,
-        "opa": "Associated with fibrosis in the penis",
-        "opb": "Associated with dupuytren's contracture.",
-        "opc": "It shows a self limited course",
-        "opd": "Medical treatment is effective",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "ee3e6a90-9828-4473-b659-ba805e444ec8",
-        "choice_type": "multi"
     },
     {
         "question": "Scrotal swelling non reducible but disappears on lying overnight and reappears slowly over day time is:",
@@ -1157,45 +819,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following can be seen after transurethral resection of prostate except:",
-        "exp": "Ans. (d) Hypernatremia. TUR Syndrome (Dilutional Hyponatremia/Water Intoxication)* Nausea, Vomiting, Confusion* CCF* Convulsions* Hypertension* Bradycardia* Visual disturbance. Treatment- Diuretics (frusemide), in severe cases- Hypertonic Saline is used",
-        "cop": 4,
-        "opa": "Congestive cardiac failure",
-        "opb": "Transient blindness",
-        "opc": "Convulsions",
-        "opd": "Hypernatremia",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "398dfbc0-b7e5-4887-a888-1ff0ff751102",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Scrotal cancer is seen in which occupation traditionally:",
-        "exp": "Ans. (c) Chimney cleaners. Ref Bailey and Love 27th Edition, Page 1511. Causes of Scrotal cancer:* Chimney sweepers* Oil and Coal workers* Aromatic cyclic hydrocarbons are cancer causing factor. Carcinoma scrotum is totally absent in India and Asians",
-        "cop": 3,
-        "opa": "Coal worker",
-        "opb": "Painters",
-        "opc": "Chimney cleaners",
-        "opd": "Spinners of cotton",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "5218ba72-e4f4-40d7-aa8d-487788dec632",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following are the signs of urinary tract obstruction in a CT Scan:",
-        "exp": "Ans. (d) All the above. Ref Internet Sources. Features of CT Scan abdomen in Obstruction of Urinary system:* Ureter dilatation* Hydroureter* Hydronephrosis* Perinephric stranding* Periureteral Edema* Unilateral Renal Angiogram",
-        "cop": 4,
-        "opa": "Dilated ureter",
-        "opb": "Perinephric fat stranding",
-        "opc": "Thickening of Lateroconal fascia",
-        "opd": "All the above",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "96be8589-d07f-4b3f-8a3d-66b001ccdd29",
-        "choice_type": "multi"
-    },
-    {
         "question": "A healthy appearing, 8-year-old boy is evaluated for an abdominal mass, felt by his mother during a bath. What is the most likely diagnosis?",
         "exp": "Typically Wilms' tumor is noted in well appearing children in the second half of their first decade of life. These masses are usually felt or visually noted by parents during routine daily activities. Children with neuroblastoma are usually younger and appear quite sick. Although unlikely, renal cell carcinoma has been reported in children and diagnosis is only based on final pathology results. Lymphoma should be ruled out based on CT scan findings and subsequent needle-guided biopsy, since treatment is usually nonsurgical.",
         "cop": 3,
@@ -1207,32 +830,6 @@
         "topic_name": "Urethra & Penis",
         "id": "bbd93241-9f60-4ca9-8bd0-d6ff0c7f077e",
         "choice_type": "single"
-    },
-    {
-        "question": "Symptoms of cystitis are the following except:",
-        "exp": "Ans. (a) Fever. Ref: Campbell Urology 11th 250* Cystitis is usually associated with dysuria, frequency and urgency.* Suprapubic pain and hematuria are less common* Fever is not present.",
-        "cop": 1,
-        "opa": "Fever",
-        "opb": "Hematuria",
-        "opc": "Dysuria",
-        "opd": "Nocturia",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "92063f6b-50f3-4a80-a027-98a479fc348f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about torsion of testis is all except:",
-        "exp": "Ans. (b) Commonly associated with pyuria. Ref: Smith 17th Edition, Page 704* Epididymo orchitis is associated with pyuria* Torsion has nothing to do with pyuria. Abnormalities predisposing to torsion of testis* Bell Clapper deformity: High investment of tunica vaginalis - testis hangs like a clapper in bell.* Inversion of testis: Most common predisposing factor* Separation of epididymis from body of testis",
-        "cop": 2,
-        "opa": "Presents with sudden pain in testis",
-        "opb": "Commonly associated with pyuria",
-        "opc": "Doppler U/S shows decreased blood flow to the testis",
-        "opd": "Simultaneous orchidopexy of the other side should also be done",
-        "subject_name": "Surgery",
-        "topic_name": "Urethra & Penis",
-        "id": "1a005d45-5f60-4f44-8c78-7b0a88993530",
-        "choice_type": "multi"
     },
     {
         "question": "A 60-year-old male presents with hematuria, weight loss. Cystoscopy biopsy of the superficial lesion in bladder shows hyperchromatic nucleus, increased nuclear - cytoplasmic ratio, the lesion involves full thickness of epithelium but doesn't invade basement membrane. The diagnosis is:",

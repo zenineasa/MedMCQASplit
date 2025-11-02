@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about Ringer's Lactate -",
-        "exp": "Ringer's lactate solution (RL), also known as sodium lactate solution and Hamann's solution, is a mixture of sodium chloride, sodium lactate, potassium chloride, and calcium chloride in water. It is an isotonic solution. it is used for replacing fluids and electrolytes in those who have low blood volume or low blood pressure. It may also be used to treat metabolic acidosis and to wash the eye following a chemical burn. It is given by injection into a vein or applied to the affected area Ref Davidson 23rd edition pg 370",
-        "cop": 1,
-        "opa": "Isotonic",
-        "opb": "Colloidal solution",
-        "opc": "Potassium level is same as that of serum potassium",
-        "opd": "Helps in acidosis by acid neutralization",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "49764201-1e0b-4c29-9729-d5ef2b1a886f",
-        "choice_type": "multi"
-    },
-    {
         "question": ". If blood gas analysis reveal pH = 7. 52, p. CO2=3O; p. O2= 105. This will be compensated by?",
         "exp": "As a compensatory mechanism, metabolic acidosis leads to alveolar hyperventilation with a fall in Pa. CO2. Normally, Pa. CO2 falls by 1-1. 3 mm Hg for every 1-m. Eq/L fall in serum HCO3- concentration, a compensatory response that can occur fairly quickly Ref Davidson 23rd edition pg 345",
         "cop": 3,
@@ -63,32 +50,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "3eaff76e-ac66-409b-9154-7a3bb8b4f539",
         "choice_type": "single"
-    },
-    {
-        "question": "All are causes of hypervolemic hyponatremia except",
-        "exp": "Causes of hypervolemic hyponatremia Urine sodium concentration >20 mmol/L Acute or chronic renal failure Urine sodium concentration <20 mmol/L Nephrotic syndrome Cirrhosis Cardiac failure Causes of Euvolemic hyponatremia Glucocoicoid deficiency Hypothyroidism Stress Drugs Syndrome of inappropriate antidiuretic hormone secretion Ref: Harrison 19e pg: 299",
-        "cop": 1,
-        "opa": "Hypothyroidism",
-        "opb": "Cirrhosis",
-        "opc": "Chronic renal failure",
-        "opd": "Nephrotic syndrome",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "60c6fbdf-5c20-4b26-84ff-20bd6a763c0d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Condition (s) associated with hypokalemia except -",
-        "exp": "Type IV A is the only type characterized by a hyperkalemic, hyperchloremic acidosis. CAUSES OF HYPOKALEMIA Inadequate potassium intake Eating disorders: Anorexia, bulimia, starvation, pica, and alcoholism Dental problems: Impaired ability to chew or swallow Povey: Inadequate quantity or quality of food (eg, \"tea-and-toast\" diet of elderly individuals) Hospitalization: Potassium-poor TPN Increased potassium excretion Mineralocoicoid excess (endogenous or exogenous) Hyperreninism from renal aery stenosis Osmotic diuresis: Mannitol and hyperglycemia can cause osmotic diuresis Increased gastrointestinal losses Drugs Genetic disorders Endogenous sources of excess mineralocoicoid include the following: <a href=\" syndrome</a> Primary hyperaldosteronism, most commonly from an adrenal adenoma or bilateral adrenal hyperplasia Secondary hyperaldosteronism from volume depletion, congestive heart failure, cirrhosis, or vomiting Tumor that is producing adrenocoicotropic hormone Genetic disorders Exogenous causes of mineralocoicoid excess include the following: Steroid therapy for immunosuppression Glycyrrhizic acid - Inhibits 11-beta hydroxysteroid dehydrogenase; contained in licorice and Chinese herbal preparations Renal tubular disorders - Type I and type II renal tubular acidosis Hypomagnesemia Drugs that can cause hypokalemia include the following: Diuretics (carbonic anhydrase inhibitors, loop diuretics, thiazide diuretics): Increased collecting duct permeability or increased gradient for potassium secretion can result in losses Methylxanthines (theophylline, aminophylline, caffeine) Verapamil (with overdose) Quetiapine (paicularly in overdose) Ampicillin, carbenicillin, high-dose penicillins Bicarbonate Antifungal agents (amphotericin B, azoles, echinocandins) Gentamicin Cisplatin Ephedrine (from Ephedra; banned in the United States, but available over the Internet) Beta-agonist intoxication Genetic disorders Congenital adrenal hyperplasia (11-beta hydroxylase or 17-alpha hydroxylase deficiency) Glucocoicoid-remediable hypertension Bater syndrome Gitelman syndrome Liddle syndrome Gullner syndrome Glucocoicoid receptor deficiency Hypokalemic period paralysis Thyrotoxic periodic paralysis (TTPP) Seizures, sensorineural deafness, ataxia, mental retardation, and electrolyte imbalance (Se. SAME syndrome) A shift of potassium to the intracellular space may result from any of the following: Alkalosis (metabolic or respiratory) Insulin administration or glucose administration (the latter stimulates insulin release) Intensive beta-adrenergic stimulation Hypokalemic periodic paralysis Thyrotoxic periodic paralysis Refeeding: This is observed in prolonged starvation, eating disorders, and alcoholism Hypothermia (ref: harrisons principles of internal medicine, 19E, page 305)",
-        "cop": 1,
-        "opa": "Typo I Renal Tubular Acidosis ( A)",
-        "opb": "Type II A",
-        "opc": "Type IV A",
-        "opd": "Pencillin therapy",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "6ff15e50-6c6e-419a-8945-4ff940027367",
-        "choice_type": "multi"
     },
     {
         "question": "ECG of a patient with snake bite is shown below. What is the abnormality seen?",
@@ -130,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Hyperkalaemia can occur in all, except-",
-        "exp": "Causes of hyperkalemia are: I Pseudohyperkalemia A. Cellular efflux; thrombocytosis, erythrocytosis, leukocytosis, in vitro hemolysis B. Hereditary defects in red cell membrane transpo II. Intra- to extracellular shift A. Acidosis B. Hyperosmolality; radiocontrast, hypeonic dextrose, mannitol C. b2-Adrenergic antagonists (noncardioselective agents) D. Digoxin and related glycosides (yellow oleander, foxglove, bufadienolide) E. Hyperkalemic periodic paralysis F. Lysine, arginine, and e-aminocaproic acid (structurally similar, positively charged) G. Succinylcholine; thermal trauma, neuromuscular injury, disuse atrophy, mucositis, or prolonged immobilization H. Rapid tumor lysis III. Inadequate excretion A. Inhibition of the renin-angiotensin-aldosterone axis; | risk of hyperkalemia when used in combination 1. Angiotensin-conveing enzyme (ACE) inhibitors 2. Renin inhibitors; aliskiren (in combination with ACE inhibitors or angiotensin receptor blockers ) 3. Angiotensin receptor blockers (ARBs) 4. Blockade of the mineralocoicoid receptor: spironolactone, eplerenone, drospirenone 5. Blockade of the epithelial sodium channel (ENaC): amiloride, triamterene, trimethoprim, pentamidine, nafamostat B. Decreased distal delivery 1. Congestive heart failure 2. Volume depletion C. Hyporeninemic hypoaldosteronism 1. Tubulointerstitial diseases: systemic lupus erythematosus (SLE), sickle cell anemia, obstructive uropathy 2. Diabetes, diabetic nephropathy 3. Drugs: nonsteroidal anti-inflammatory drugs (NSAIDs), cyclooxygenase 2 (COX2) inhibitors, b-blockers, cyclosporine, tacrolimus 4. Chronic kidney disease, advanced age 5. Pseudohypoaldosteronism type II: defects in WNK1 or WNK4 kinases, Kelch-like 3 (KLHL3), or Cullin 3 (CUL3) D. Renal resistance to mineralocoicoid 1. Tubulointerstitial diseases: SLE, amyloidosis, sickle cell anemia, obstructive uropathy, post-acute tubular necrosis 2. Hereditary: pseudohypoaldosteronism type I; defects in the mineralocoicoid receptor or the epithelial sodium channel (ENaC) E. Advanced renal insufficiency 1. Chronic kidney disease 2. End-stage renal disease 3. Acute oliguric kidney injury F. Primary adrenal insufficiency 1. Autoimmune: Addison's disease, polyglandular endocrinopathy 2. Infectious: HIV, cytomegalovirus, tuberculosis, disseminated fungal infection 3. Infiltrative: amyloidosis, malignancy, metastatic cancer 4. Drug-associated: heparin, low-molecular-weight heparin 5. Hereditary: adrenal hypoplasia congenita, congenital lipoid adrenal hyperplasia, aldosterone synthase deficiency 6. Adrenal hemorrhage or infarction, including in antiphospholipid syndrome",
-        "cop": 4,
-        "opa": "Insulin deficiency",
-        "opb": "Metabolic acidosis",
-        "opc": "Acute renal failure",
-        "opd": "Cushing's syndrome",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "513071f0-e06a-467d-b659-deef5ec807cd",
-        "choice_type": "multi"
-    },
-    {
         "question": "Lactic acidosis is not seen in -",
         "exp": "An increase in plasma l-lactate may be secondary to *poor tissue perfusion (type A)--circulatory insufficiency (shock, cardiac failure), severe anemia, mitochondrial enzyme defects, and inhibitors (carbon monoxide, cyanide) * aerobic disorders (type B)-- malignancies, nucleoside analogue reverse transcriptase inhibitors in HIV, diabetes mellitus, renal or hepatic failure, thiamine deficiency, severe infections (cholera, malaria), seizures, or drugs/toxins (biguanides, ethanol, methanol, propylene glycol, isoniazid, and fructose). *Unrecognized bowel ischemia or infarction *Pyroglutamic acidemia has been repoed in critically ill patients receiving acetaminophen, which is associated with depletion of glutathione. d-Lactic acid acidosis, which",
         "cop": 4,
@@ -154,32 +102,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "3b3bd69c-21df-487c-9216-1988c8c288ee",
         "choice_type": "single"
-    },
-    {
-        "question": "All are used to remove potassium in hyperkalemia except",
-        "exp": "The treatment of hyperkalemia is divided into three stages: Immediate antagonism of the cardiac effects of hyperkalemia 10 mL of 10% calcium gluconate (3-4 mL of calcium chloride), infused intravenously over 2-3 min with cardiac monitoring Rapid reduction in plasma K+ concentration by redistribution into cells. 10 units of intravenous regular insulin followed immediately by 50 mL of 50% dextrose (D50W, 25 g of glucose total) 10-20 mg of nebulized albuterol in 4 mL of normal saline, inhaled over 10 min Intravenous bicarbonate has no role in the acute treatment of hyperkalemia, but may slowly attenuate hyperkalemia with the sustained administration over several hours Removal of potassium. This is typically accomplished using cation exchange resins, diuretics, and/or dialysis. The cation exchange resin sodium polystyrene sulfonate (SPS) exchanges Na+ for K+ in the gastrointestinal tract and increases the faecal excretion of K+; Ref: Harrison 19e pg: 312",
-        "cop": 3,
-        "opa": "Cation exchange resins",
-        "opb": "Diuretics",
-        "opc": "Beta 2 agonists",
-        "opd": "Dialysis",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "1999b372-2737-43f7-8eee-9072733fcfdc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In metabolic acidosis what happens to PCO2 -",
-        "exp": "The fall in blood pH is accompanied by a characteristic increase in ventilation, especially the tidal volume (Kussmaul respiration). Metabolic acidosis due to an increase in endogenous acids (e. g., ketoacidosis) lowers extracellular fluid and decreases extracellular pH. This stimulates the medullary chemoreceptors to increase ventilation and to return the ratio of to Paco2, and thus pH, toward, but not to, normal. Compensatory responses for primary metabolic disorders move the Paco2 in the same direction as the change in, whereas, conversely, compensation for primary respiratory disorders moves the in the same direction as the primary change in Paco2. Therefore, changes in Paco2 and in opposite directions indicate a mixed disturbance. ( ref: harrisons, 19E, 316)",
-        "cop": 2,
-        "opa": "Increase",
-        "opb": "Decrease",
-        "opc": "Remain constant",
-        "opd": "None",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "16790967-c855-4003-9eb2-12b2660b4a26",
-        "choice_type": "multi"
     },
     {
         "question": "Normal anionic gap is seen in one of thefollowing-",
@@ -206,19 +128,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "163175d8-6522-4a20-80bc-e87d61348fbf",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following cause high anion gap metabolic acidosis except-",
-        "exp": "Uretrosigmoidostomy causes normal anion gap(AG) metabolic acidosis. *Causes of High-Anion Gap Metabolic Acidosis *Lactic acidosis *Ketoacidosis Diabetic. Alcoholic. Starvation * Renal failure (acute and chronic)",
-        "cop": 4,
-        "opa": "Lactic acidosis",
-        "opb": "Salicylats poisoning",
-        "opc": "Ethylene glycol poisoning",
-        "opd": "Ureterosigmoidostomy",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "3129d718-6681-4546-a0e9-e22ddccdbe19",
-        "choice_type": "multi"
     },
     {
         "question": "A normal-anion-gap metabolic acidosis occurs in patients with-",
@@ -271,19 +180,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "54696904-52ab-439f-8c4a-f0267538879c",
         "choice_type": "single"
-    },
-    {
-        "question": "All are causes of acute hyponatremia except",
-        "exp": "Causes of Acute Hyponatremia Iatrogenic Postoperative: premenopausal women Hypotonic fluids with cause of | vasopressin Glycine irrigation: TURP, uterine surgery Colonoscopy preparation Recent institution of thiazides Polydipsia MDMA (\"ecstasy, \" \"Molly\") ingestion Exercise-induced Multifactorial, e. g., thiazide and polydipsia Ref: Harrison 19e pg: 301",
-        "cop": 4,
-        "opa": "TURP surgery",
-        "opb": "Exercise",
-        "opc": "Recent institution of thiazides",
-        "opd": "SIADH",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "6d699dfc-2100-4765-a8da-70d57809b397",
-        "choice_type": "multi"
     },
     {
         "question": "Hypokalemia is defined as a plasma potassium concentration of",
@@ -403,32 +299,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following conditions are associated with metabolic alkalosis with hypertension except -",
-        "exp": "Liddle syndrome is a rare hereditary disorder involving increased activity of the epithelial sodium channel (ENaC), which causes the kidneys to excrete potassium but retain too much sodium and water, leading to hypertension. Symptoms are of hypertension, fluid retention, and metabolic alkalosis The enhanced mineralocoicoid effect in Cushing syndrome is caused by occupation of the MR by the high concentration of coisol. Hypokalemia and metabolic alkalosis are more common in Cushing syndrome caused by ectopic ACTH production (90%) than in other causes of Cushing syndrome (10%) and hypertension. CAH due to 11-beta-hydroxylase deficiency is caused by a shoage (deficiency) of the 11-beta-hydroxylase enzyme. When 11-beta-hydroxylase is lacking, precursors that are used to form coisol and coicosterone build up in the adrenal glands and are conveed to androgens. Ref Davidson 23rd edition pg 367",
-        "cop": 1,
-        "opa": "Fanconi syndrome",
-        "opb": "Liddle's syndrome",
-        "opc": "Cushing syndrome",
-        "opd": "11 b-hydroxylase deficiency",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "b1ab3c89-e6fe-434b-9732-9a5a4d6907de",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Low serum copper is seen in all Except",
-        "exp": "In primary biliary cirrhosis (PBC) liver copper retention occurs as a complication of cholestasis. Fifty-four had increased liver copper concentrations. Liver cell synthetic function was well preserved. All the patients had normal prothrombin times, and only two had subnormal serum albumin concentrations. Ref Davidson 23rd edition pg 344",
-        "cop": 4,
-        "opa": "Aceruloplasminemia",
-        "opb": "Menke disease",
-        "opc": "Wilson disease",
-        "opd": "Primary biliary cirrhosis",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "08d1dfd8-3769-451b-82a7-0b39166a44d8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Normal anion-gap metabolic acidosis is seen in -",
         "exp": "The normal value for the serum anion gap is 8-16 m. Eq/L. However, there are always unmeasurable anions, so an anion gap of less than 11 m. Eq/L using any of the equations listed in Description is considered normal. For the urine anion gap, the most prominently unmeasured anion is ammonia. Seen in Addison's disease Ref Davidson 23rd edition pg 364",
         "cop": 1,
@@ -507,32 +377,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Hyperkalemia without ECG changes may be treated with all except -",
-        "exp": "calcium gluconate immediately antagonises the cardiac effects of hyperkalemia, whereas the others are used to correct hyperkalemia. (reference: harrisons principles of internal medicine, 19E page- 312)",
-        "cop": 1,
-        "opa": "Calcium gluconate",
-        "opb": "Salbutamol",
-        "opc": "Na bicarbonate",
-        "opd": "Insulin with dextrose",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "c3e432f6-a254-45a0-8246-c3de5189acd7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The causes of hypokalemia include the following except-",
-        "exp": "I. Decreased intake A. Starvation B. Clay ingestion II. Redistribution into cells A. Acid-base 1. Metabolic alkalosis B. Hormonal 1. Insulin 2. Increased b2-adrenergic sympathetic activity: post-myocardial infarction, head injury 3. b2-Adrenergic agonists - bronchodilators, tocolytics 4. a-Adrenergic antagonists 5. Thyrotoxic periodic paralysis 6. Downstream stimulation of Na+/K+-ATPase: theophylline, caffeine C. Anabolic state 1. Vitamin B12 or folic acid administration (red blood cell production) 2. Granulocyte-macrophage colony-stimulating factor (white blood cell production) 3. Total parenteral nutrition D. Other 1. Pseudohypokalemia 2. Hypothermia 3. Familial hypokalemic periodic paralysis 4. Barium toxicity: systemic inhibition of \"leak\" K+ channels III. Increased loss A. Nonrenal 1. Gastrointestinal loss (diarrhea) 2. Integumentary loss (sweat) B. Renal 1. Increased distal flow and distal Na+ delivery: diuretics, osmotic diuresis, salt-wasting nephropathies 2. Increased secretion of potassium a. Mineralocoicoid excess: primary hyperaldosteronism (aldosterone- producing adenomas, primary or unilateral adrenalhyperplasia, idiopathic hyperaldosteronism due to bilateral adrenal hyperplasia, and adrenal carcinoma), genetic hyperaldosteronism (familial hyperaldosteronism types I/II/III, congenital adrenal hyperplasias), secondary hyperaldosteronism (malignant hypertension, renin-secreting tumors, renal aery stenosis, hypovolemia), Cushing's syndrome, Bater's syndrome, Gitelman's syndrome b. Apparent mineralocoicoid excess: genetic deficiency of 11b-dehydrogenase-2 (syndrome of apparent mineralocoicoid excess), inhibition of 11b-dehydrogenase-2 (glycyrrhetinic/ glycyrrhizinic acid and/or carbenoxolone; licorice, food products, drugs), Liddle's syndrome (genetic activation of epithelial Na+ channels) c. Distal delivery of nonreabsorbed anions: vomiting, nasogastric suction, proximal renal tubular acidosis, diabetic ketoacidosis, glue-sniffing (toluene abuse), penicillin derivatives (penicillin, nafcillin, dicloxacillin, ticarcillin, oxacillin, and carbenicillin) 3. Magnesium deficiency (ref: harrisons, 19 E, PG -305)",
-        "cop": 1,
-        "opa": "Tamoxifen therapy",
-        "opb": "ACTH producing tumors",
-        "opc": "Non-bilious vomiting",
-        "opd": "Diabetic ketoacidosis",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "2a2ed3f7-7548-4a1a-be7c-16df40b073ed",
-        "choice_type": "multi"
-    },
-    {
         "question": "Increased 'anion gap' is not seen in -",
         "exp": "Causes of High-Anion Gap Metabolic Acidosis *Lactic acidosis *Ketoacidosis Diabetic Alcoholic Starvation *Renal failure (acute and chronic) *toxins: ethylene glycol methanol salicylates propylene glycol pyroglutamic acid (Ref: Harrison's principles of internal medicine, 18E, pg 365)",
         "cop": 2,
@@ -544,19 +388,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "d0d183c0-e5e2-4a5f-a4d0-ce07f709e259",
         "choice_type": "single"
-    },
-    {
-        "question": "Osteoporosis is caused by all except",
-        "exp": "Steroid medications have major effects on the metabolism of calcium, vitamin D and bone. This can lead to bone loss, osteoporosis, and broken bones. When steroid medications are used in high doses, bone loss can happen rapidly.... Bone loss occurs most rapidly in the first 6 months after staing oral steroid medication. A woman's estrogen levels drop after menopause, and bone loss speeds up. That's why osteoporosis is most common among older women. But men get osteoporosis, too. Women younger than age 65 who are at high risk for fractures should also be screened For patients with sarcoidosis at risk of developing osteoporosis due to prolonged intake of coicosteroids, bisphosphonates can prevent or reverse bone loss.... In sarcoidosis, studies have demonstrated that bisphosphonates can successfully prevent osteoporosis in coicosteroid-treated patients Ref Davidson 23rd edition pg 366",
-        "cop": 3,
-        "opa": "Sarcoidosis",
-        "opb": "Old age",
-        "opc": "Hypoparathyroidism",
-        "opd": "Steroid therapy",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "0597d9ff-79af-4cbe-8edc-bb478f34bda5",
-        "choice_type": "multi"
     },
     {
         "question": "The most appropriate route for administration of nutrition to a patient who is comatose for a long period after and automobile accident is",
@@ -611,19 +442,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is not true of hypocalcaemia -",
-        "exp": "Hypocalcaemia is low calcium levels in the blood serum. The normal range is 2. 1-2. 6 mmol/L (8. 8-10. 7 mg/dl, 4. 3-5. 2 m. Eq/L) with levels less than 2. 1 mmol/l defined as hypocalcemia. Mildly low levels that develop slowly often have no symptoms. Otherwise symptoms may include numbness, muscle spasms, seizures, confusion, or cardiac arrest Common causes include hypoparathyroidism and vitamin D deficiency. Others causes include kidney failure, pancreatitis, calcium channel blocker overdose, rhabdomyolysis, tumor lysis syndrome, and medications such as bisphosphonates. Diagnosis should generally be confirmed with a corrected calcium or ionized calcium level. Specific changes may be seen on an electrocardiogram (ECG). Initial treatment for severe disease is with intravenous calcium chloride and possibly magnesium sulfate. Other treatments may include vitamin D, magnesium, and calcium supplements. If due to hypoparathyroidism, hydrochlorothiazide, phosphate binders, and a low salt diet may also be recommended. About 18% of people who are being treated in hospital have hypocalcemia The neuromuscular symptoms of hypocalcemia are caused by a positive bathmotropic effect (i. e. increased responsiveness) due to the decreased interaction of calcium with sodium channels. Since calcium blocks sodium channels and inhibits depolarization of nerve and muscle fibers, reduced calcium lowers the threshold for depolarization. The symptoms can be recalled by the mnemonic \"CATs go numb\" - convulsions, arrhythmias, tetany, and numbness in the hands and feet and around the mouth. Petechiae which appear as on-off spots, then later become confluent, and appear as purpura (larger bruised areas, usually in dependent regions of the body). Oral, perioral and acral paresthesias, tingling or 'pins and needles' sensation in and around the mouth and lips, and in the extremities of the hands and feet. This is often the earliest symptom of hypocalcaemia. Carpopedal and generalized tetany (unrelieved and strong contractions of the hands, and in the large muscles of the rest of the body) are seen. Latent tetany Trousseau sign of latent tetany (eliciting carpal spasm by inflating the blood pressure cuff and maintaining the cuff pressure above systolic) Chvostek's sign (tapping of the inferior poion of the cheekbone will produce facial spasms) Tendon reflexes are hyperactive Life-threatening complications Laryngospasm Cardiac arrhythmias Ref Davidson 23rd edition pg 370",
-        "cop": 4,
-        "opa": "Can occur in hypoparathyroidism",
-        "opb": "Latent tetany is seen",
-        "opc": "Prolonged QT interval",
-        "opd": "Inverse relation with Mg++ levels",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "d614663a-d38c-4f11-848a-82b87b7023f1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cause of metabolic alkalosis includes",
         "exp": "Causes of Metabolic Alkalosis I. Exogenous HCO3-loads A. Acute alkali administration B. Milk-alkali syndrome II. Effective ECFV contraction, normotension, K+ deficiency, and secondary hyperreninemic hyperaldosteronism A. Gastrointestinal origin 1. Vomiting 2. Gastric aspiration 3. Congenital chloridorrhea 4. Villous adenoma B. Renal origin 1. Diuretics 2. Posthypercapnic state 3. Hypercalcemia/hypoparathyroidism 4. Recovery from lactic acidosis or ketoacidosis 5. Nonreabsorbable anions including penicillin, carbenicillin 6. Mg2+ deficiency 7. K+ depletion 8. Bater's syndrome (loss of function mutations of transpoers and ion channels in TALH) 9. Gitelman's syndrome (loss of function mutation in Na+-Cl-cotranspoer in DCT) III. ECFV expansion, hypertension, K+ deficiency, and mineralocoicoid excess A. High renin 1. Renal aery stenosis 2. Accelerated hypertension 3. Renin-secreting tumor 4. Estrogen therapy B. Low renin 1. Primary aldosteronism a. Adenoma b. Hyperplasia c. Carcinoma 2. Adrenal enzyme defects a. 11b-Hydroxylase deficiency b. 17a-Hydroxylase deficiency 3. Cushing's syndrome or disease 4. Other a. Licorice b. Carbenoxolone c. Chewer's tobacco IV. Gain-of-function mutation of renal sodium channel with ECFV expansion, hypertension, K+ deficiency, and hyporeninemic-hypoaldosteronism A. Liddle's syndrome",
         "cop": 1,
@@ -648,19 +466,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "88c238f8-d26a-4270-8f72-496220b64a52",
         "choice_type": "single"
-    },
-    {
-        "question": "The acid base status of a patient reveals a pH=7. 46 and p. CO2=30 mm Hg. The patient has a paially compensated primary-",
-        "exp": "Respiratory alkalosis Respiratory alkalosis develops when there is a period of sustained hyperventilation, resulting in a reduction of PCO2 and increase in plasma pH. If the condition is sustained, renal compensation occurs, such that tubular acid secretion is reduced and the plasma bicarbonate falls. Respiratory alkalosis is usually of sho duration, occurring in anxiety states or as the result of over-vigorous assisted ventilation. It can be prolonged in the context of pregnancy, pulmonary embolism, chronic liver disease, and ingestion of ceain drugs such as salicylates that directly stimulate the respiratory centre in the brainstem. Clinical features are those of the underlying cause but agitation associated with perioral and digital tingling may also occur, as alkalosis promotes the binding of calcium to albumin, resulting in a reduction in ionised calcium concentrations. In severe cases, Trousseau's sign and Chvostek's sign may be positive, and tetany or seizures may develop (p. 663). Management involves correction of identifiable causes, reduction of anxiety, and a period of rebreathing into a closed bag to allow CO2 levels to rise. Ref Davidson 23rd edition pg 367",
-        "cop": 3,
-        "opa": "Metabolic acidosis",
-        "opb": "Metabolic alkalosis",
-        "opc": "Respiratory alkalosis",
-        "opd": "Respiratory acidosis",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "b05bbc31-4414-46bc-b526-fe79585be3a7",
-        "choice_type": "multi"
     },
     {
         "question": "Increased \"Anion gap' is a characteristic feature of-",
@@ -702,32 +507,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Following conditions can themselves cause metabolic acidosis except",
-        "exp": "Drugs that induce chloruresis, such as thiazides and loop diuretics (furosemide, bumetanide, torsemide, and ethacrynic acid), acutely diminish the ECFV without altering the total body bicarbonate content. The serum increases because the reduced ECFV \"contracts\" the in the plasma (contraction alkalosis). The chronic administration of diuretics tends to generate an alkalosis by increasing distal salt delivery, so that K+ and H+ secretion are stimulated",
-        "cop": 2,
-        "opa": "Diarrhea",
-        "opb": "Diuretic",
-        "opc": "Ethylene",
-        "opd": "A",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "daf5cf77-a6b8-45b1-b964-884202e60bb4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In hypokalaemia all ECG changes are seen except",
-        "exp": "Electrocardiographic changes in hypokalemia include broad flat T waves, ST depression, u wave and QT prolongation. These are most marked when serum K+ is <2. 7 mmol/L. (reference: harrisons principles of internal medicine, 19E page-307)",
-        "cop": 2,
-        "opa": "Decreased T-wave amplitude",
-        "opb": "Normal ST segment",
-        "opc": "prolonged QT interval",
-        "opd": "U-wave",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "0c178960-5d28-4cd8-b89f-63b0a2441734",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hyperkalemia is caused by-",
         "exp": "-Mutations of WNK1 and WNK4 (members of a family of serine-threonine kinases) have been shown to cause the rare familial autosomal dominant disease called Gordon's syndrome (also known as pseudohypoaldosteronism type II). Wild-type WNK1 and WNK4 inhibit the thiazide-sensitive Na-Cl co-transpoer in the distal tubule. - Hyperkalemia, another hallmark of this syndrome, might be a function of diminished sodium delivery to the coical collecting tubule (sodium reabsorption provides the driving force for potassium excretion, which is mediated by the renal outer medullary potassium channel ROMK). Alternatively, the same mutations in WNK4 that result in a gain of function of the Na-Cl co-transpoer, might inhibit ROMK activity, resulting in hyperkalemia, as suggested by recent genetic studies. Ref Davidson 23rd edition pg 369",
         "cop": 1,
@@ -765,19 +544,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "c61476a4-2e40-4cdd-9e07-a89b8fe1ea62",
         "choice_type": "single"
-    },
-    {
-        "question": "Hyperkalemia can occur in all the following except-",
-        "exp": "The enhanced mineralocoicoid effect in Cushing syndrome is caused by occupation of the MR by the high concentration of coisol. Hypokalemia and metabolic alkalosis are more common in Cushing syndrome caused by ectopic ACTH production (90%) than in other causes of Cushing syndrome (10%) Ref Davidson 23rd edition pg 364",
-        "cop": 1,
-        "opa": "Cushing syndrome",
-        "opb": "Crush injuries",
-        "opc": "Renal failure",
-        "opd": "Intravascular haemolysis",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "16ec1b08-1e60-4efe-a6aa-df73160f952b",
-        "choice_type": "multi"
     },
     {
         "question": "Prominent U waves on the ECG is a feature of -",
@@ -819,19 +585,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Hypernatremia causes all Except",
-        "exp": "Central pontine myelinolysis (CPM) is a neurological disorder that most frequently occurs after too rapid medical correction of sodium deficiency (hyponatremia). The rapid rise in sodium concentration is accompanied by the movement of small molecules and pulls water from brain cells. HYPERNATREMIA. Hypernatremia is defined as a serum sodium concentration in plasma >145 m. Eq/L. Whereas hyponatremia may cause seizures, hypernatremia is more likely to be a result of seizure activity (e. g., generalized tonic-clonic seizures). Intracellular glycogen is metabolized to lactate in muscle during seizures. Ref Davidson 23rd edition pg 367",
-        "cop": 2,
-        "opa": "Seizure",
-        "opb": "Thrombus",
-        "opc": "Brain haemorrhage",
-        "opd": "Central pontine myelinosis",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "0afe6043-0502-421e-aa2d-3e557b7d2fc9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Pseudohyponatremia occurs in which of the following conditions",
         "exp": "Ceain conditions that interfere with laboratory tests of serum sodium concentration (may lead to an erroneously low measurement of sodium. This is called pseudo hyponatremia. a. Hyperlipidemia b. Hyper paraproteinemia (Multiple myeloma) c. Severe hyperglycemia (DKA, NKHOC) ref - harrison's internal medicine 20e pg301",
         "cop": 3,
@@ -843,19 +596,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "b736de43-31ba-41e5-8c76-d9fb4b4fad5f",
         "choice_type": "single"
-    },
-    {
-        "question": "Metabolic alkalosis is seen in all except -",
-        "exp": "Causes of Metabolic Alkalosis I. Exogenous HCO3-loads A. Acute alkali administration B. Milk-alkali syndrome II. Effective ECFV contraction, normotension, K+ deficiency, and secondary hyperreninemic hyperaldosteronism A. Gastrointestinal origin 1. Vomiting 2. Gastric aspiration 3. Congenital chloridorrhea 4. Villous adenoma B. Renal origin 1. Diuretics 2. Posthypercapnic state 3. Hypercalcemia/hypoparathyroidism 4. Recovery from lactic acidosis or ketoacidosis 5. Nonreabsorbable anions including penicillin, carbenicillin 6. Mg2+ deficiency 7. K+ depletion 8. Bater's syndrome (loss of function mutations of transpoers and ion channels in TALH) 9. Gitelman's syndrome (loss of function mutation in Na+-Cl-cotranspoer in DCT) III. ECFV expansion, hypertension, K+ deficiency, and mineralocoicoid excess A. High renin 1. Renal aery stenosis 2. Accelerated hypertension 3. Renin-secreting tumor 4. Estrogen therapy B. Low renin 1. Primary aldosteronism a. Adenoma b. Hyperplasia c. Carcinoma 2. Adrenal enzyme defects a. 11b-Hydroxylase deficiency b. 17a-Hydroxylase deficiency 3. Cushing's syndrome or disease 4. Other a. Licorice b. Carbenoxolone c. Chewer's tobacco IV. Gain-of-function mutation of renal sodium channel with ECFV expansion, hypertension, K+ deficiency, and hyporeninemic-hypoaldosteronism A. Liddle's syndrome (Ref: Harrison's principles of internal medicine 19E, pg 321)",
-        "cop": 3,
-        "opa": "Thiazide diuretic therapy",
-        "opb": "Prolonged vomiting",
-        "opc": "Uretero-sigmoidostomy",
-        "opd": "Cushing's disease",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "c2c8b11d-b5d4-4e42-934a-843e9c6266c0",
-        "choice_type": "multi"
     },
     {
         "question": "The \"sick cell syndrome\" is characterized by-",
@@ -882,45 +622,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "f15122be-6b74-4b61-b3f9-b575adad9f2b",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about hypernatremia due to diarrhoea except",
-        "exp": "Notably, osmotic diarrhoea and viral gastroenteritis typically generate stools with Na+ and K+ <100 mM, thus leading to water loss and hypernatremia; in contrast, secretory diarrhoea typically results in isotonic stool and thus hypovolemia with or without hypovolemic hyponatremia. The appropriate response to hypernatremia and a serum osmolality >295 m. Osm/kg is an increase in circulating AVP and the excretion of low volumes (<500 mL/d) of maximally concentrated urine, i. e., urine with osmolality >800 m. Osm/kg; should this be the case, then an extrarenal source of water loss is primarily responsible for the generation of hypernatremia. (as in diarrhoea) Ref: Harrison 19e pg: 304",
-        "cop": 2,
-        "opa": "Serum osmolality >295 m. Osm/kg",
-        "opb": "Secretory diarrhea",
-        "opc": "Urine with osmolality >800 m. Osm/kg",
-        "opd": "Increased circulating AVP",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "45059c15-ea4c-4bc2-adc4-23c51dd74fef",
-        "choice_type": "multi"
-    },
-    {
-        "question": "ABG is taken from all Except",
-        "exp": "An aerial-blood gas test measures the amounts of aerial gases, such as oxygen and carbon dioxide. An ABG test requires that a small volume of blood be drawn from the radial aery with a syringe and a thin needle, but sometimes the femoral aery in the groin or another site is used Aerial blood for blood-gas analysis is usually drawn by a respiratory therapist and sometimes a phlebotomist, a nurse, a paramedic or a doctor. Blood is most commonly drawn from the radial aery because it is easily accessible, can be compressed to control bleeding, and has less risk for vascular occlusion. The selection of which radial aery to draw from is based on the outcome of an Allen's test. The brachial aery (or less often, the femoral aery) is also used, especially during emergency situations or with children. Blood can also be taken from an aerial catheter already placed in one of these aeries. Ref Davidson 23rd edition pg 377",
-        "cop": 3,
-        "opa": "Radial aery",
-        "opb": "Ulnar aery",
-        "opc": "Dorsalis pedis aery",
-        "opd": "Femoralaery",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "8df1630a-9a75-4d3a-94b7-696ccf1fac51",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Causes of metabolic alkalosis include all the following except-",
-        "exp": "Causes of Metabolic Alkalosis I. Exogenous HCO3-loads A. Acute alkali administration B. Milk-alkali syndrome II. Effective ECFV contraction, normotension, K+ deficiency, and secondary hyperreninemic hyperaldosteronism A. Gastrointestinal origin 1. Vomiting 2. Gastric aspiration 3. Congenital chloridorrhea 4. Villous adenoma B. Renal origin 1. Diuretics 2. Posthypercapnic state 3. Hypercalcemia/hypoparathyroidism 4. Recovery from lactic acidosis or ketoacidosis 5. Nonreabsorbable anions including penicillin, carbenicillin 6. Mg2+ deficiency 7. K+ depletion 8. Bater's syndrome (loss of function mutations of transpoers and ion channels in TALH) 9. Gitelman's syndrome (loss of function mutation in Na+-Cl-cotranspoer in DCT) III. ECFV expansion, hypertension, K+ deficiency, and mineralocoicoid excess A. High renin 1. Renal aery stenosis 2. Accelerated hypertension 3. Renin-secreting tumor 4. Estrogen therapy B. Low renin 1. Primary aldosteronism a. Adenoma b. Hyperplasia c. Carcinoma 2. Adrenal enzyme defects a. 11b-Hydroxylase deficiency b. 17a-Hydroxylase deficiency 3. Cushing's syndrome or disease 4. Other a. Licorice b. Carbenoxolone c. Chewer's tobacco IV. Gain-of-function mutation of renal sodium channel with ECFV expansion, hypertension, K+ deficiency, and hyporeninemic-hypoaldosteronism A. Liddle's syndrome (Ref: Harrison's principles of internal medicine 19E, pg 321)",
-        "cop": 1,
-        "opa": "Mineralocoicoid deficiency",
-        "opb": "Bater's syndrome",
-        "opc": "Thiazide diuretic therapy",
-        "opd": "Recurrent vomiting",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "cc6d8d15-4d9d-4b58-b887-77fc162bfeaf",
-        "choice_type": "multi"
     },
     {
         "question": "Sine wave pattern in E. C. G is seen in-",
@@ -1066,32 +767,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are selective indications for the use of Hypotonic solutions, except:",
-        "exp": "Using hypotonic solutions on patients with burns may be hazardous, beacause these patients are at risk for developing third spacing, an abnormal fluid shift into the serous linings of the body. Hypotonic Solutions: A hypotonic fluid has an osmolarity less than that of serum (It has less sodium ion concentration than serum) When this fluid is placed in the vascular compament, it begins diluting the serum and soon the serum osmolarity of the vascular compament becomes less than that of the interstitial fluid. Water is pulled from the vascular compament into the interstitial fluid comparment and eventually the same process is repeated, pulling water from the interstitial compament into the cells. Hypotonic solutions thus hydrate the cells while depleting the vascular compament Indications for the use of Hypotonic solutions: (These solutions may be needed for) A patient on dialysis when diuretic therapy dehydrates the cells. For hyperglycaemic conditions in which high serum glucose levels draw fluid out of the cells and into the vascular and interstitial compaments. Like diabetic ketoacidosis Like hyperosmolar hyperglycaemic non-ketotic syndrome. Hypotonic solutions can be dangerous to use because they can cause a sudden fluid shift from the intravascular space to the cells, causing cardiovascular collapse and increased intracranial pressure (ICP) from shifting fluid into the brain cells. This makes hypotonic solutions dangerous to use with patients experiencing a stroke or any head trauma. Using hypotonic solutions on patients with burns, trauma, malnutrition, or liver disease is also hazardous beacause these patients are at risk for developing third spacing, an abnormal fluid shift into the serous linings of the body. Ref: Harrisons 19th edition",
-        "cop": 4,
-        "opa": "Dehydration secondary to diuretic therapy",
-        "opb": "Diabetic ketoacidosis",
-        "opc": "Hyperosmolar, Hyperglycaemic Non-ketotic syndrome",
-        "opd": "Burns",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "6848ac31-38e3-445c-a2f7-771e9011e310",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Hypokalemia causes the following except -",
-        "exp": "Mild hypokalemia is often without symptoms, although it may cause elevation of blood pressure, and can provoke the development of an abnormal heart rhythm. Severe hypokalemia, with serum potassium concentrations of 2. 5-3 meq/l (Nl: 3. 5-5. 0 meq/l), may cause muscle weakness, myalgia, tremor, and muscle cramps (owing to disturbed function of skeletal muscle), and constipation (from disturbed function of smooth muscle). With more severe hypokalemia, flaccid paralysis and hyporeflexia may result. Repos exist of rhabdomyolysis occurring with profound hypokalemia with serum potassium levels less than 2 meq/l. Respiratory depression from severe impairment of skeletal muscle function is found in many patients (reference: harrisons, 19E pg-307)",
-        "cop": 2,
-        "opa": "Paralytic ileus",
-        "opb": "Tetany",
-        "opc": "hypertension",
-        "opd": "Rhabdomyolysis",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "d5f0045f-f846-465f-8310-145d47cd9b9d",
-        "choice_type": "multi"
-    },
-    {
         "question": "A girl presented with severe hyperkalemia and peaked Twaves on ECG. Most rapid way to decreased serum potassium level.-",
         "exp": "Management Treatment of hyperkalaemia depends on its severity and the rate of development, but opinions vary as to what level ofserum potassium constitutes severe hyperkalaemia and requires urgent treatment. Patients who have potassium concentrations <6. 5 mmol/L in the absence of neuromuscular symptoms or ECG changes can be treated with a reduction of potassium intake and correction of predisposing factors. However, in acute and/ or severe hyperkalaemia (plasma potassium >6. 5-7. 0 mmol/L), more urgent measures must be taken. The first step should be infusion of 10 mL 10% calcium gluconate to stabilise conductive tissue membranes (calcium has the opposite effect to potassium on conduction of an action potential). Measures to shift potassium from the ECF to the ICF should also be applied, as they generally have a rapid effect and may ave arrhythmias. Ultimately, a means of removing potassium from the body is generally necessary. When renal function is reasonably preserved, loop diuretics (accompanied by intravenous saline if hypovolaemia is present) may be effective. In renal failure, dialysis may be required. Oral ion exchange resins, such as sodium polystyrene sulfonate (SPS), have traditionally been used to bind and excrete gastrointestinal potassium. Thereare concerns, however, with regard to SPS's lack of proven efficacy and safety, with a number of repos of intestinal necrosis associated with its use. Alternative cation exchanges have been developed and are currently being trialled, with the aim of providing more effective and safer alternatives for the treatment of hyperkalaemia. Ref Davidson 23rd edition pg 363",
         "cop": 3,
@@ -1131,19 +806,6 @@
         "choice_type": "single"
     },
     {
-        "question": "ECG changes in Hypokalemia are?",
-        "exp": "Electrocardiographic changes in hypokalemia include broad flat T waves, ST depression, u wave and QT prolongation. These are most marked when serum K+ is <2. 7 mmol/L. (reference: harrisons principles of internal medicine, 19E page-307)",
-        "cop": 4,
-        "opa": "Tall T wave",
-        "opb": "Poor P wave",
-        "opc": "Sho QT interval",
-        "opd": "Presence of U wave",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "c1c75ed6-d796-4dee-9de7-3935bc949165",
-        "choice_type": "multi"
-    },
-    {
         "question": "Immediate antagonism of the cardiac effects of hyperkalemia is done by",
         "exp": "Intravenous calcium serves to protect the heart. Calcium raises the action potential threshold and reduces excitability, without changing the resting membrane potential. By restoring the difference between resting and threshold potentials, calcium reverses the depolarization blockade due to hyperkalemia. The recommended dose is 10 mL of 10% calcium gluconate (3-4 mL of calcium chloride), infused intravenously over 2-3 min with cardiac monitoring. Ref: Harrison 19e pg: 312",
         "cop": 1,
@@ -1157,32 +819,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All regulation of renal potassium excretion & total body potassium balance occurs in",
-        "exp": "Changes in whole-body K+ content are primarily mediated by the kidney, which reabsorbs filtered K+ in hypokalemic, K+-deficient states and secretes K+ in hyperkalemic, K+-replete states. Although K+ is transpoed along the entire nephron, it is the principal cells of the connecting segment (CNT) and coical CD that play a dominant role in renal K+ secretion, whereas alpha-intercalated cells of the outer medullary CD function in renal tubular reabsorption of filtered K+ in K+-deficient states. Ref: Harrison 19e pg: 304",
-        "cop": 4,
-        "opa": "Proximal convoluted tubule",
-        "opb": "Ascending loop of Henle",
-        "opc": "Descending loop of Henle",
-        "opd": "Collecting duct",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "809c2502-531b-4208-bf62-8617868f001a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are causes of increased anion gap except?",
-        "exp": "Causes of High-Anion Gap Metabolic Acidosis *Lactic acidosis *Ketoacidosis Diabetic Alcoholic Starvation *Renal failure (acute and chronic) *toxins: ethylene glycol methanol salicylates propylene glycol pyroglutamic acid (Ref: Harrison's principles of internal medicine, 18E, pg 365)",
-        "cop": 4,
-        "opa": "DKA",
-        "opb": "Starvation",
-        "opc": "Ethylene glycol poisoning",
-        "opd": "Glue sniffing",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "1f2b9ea4-20e0-4c90-80c4-d125b5ed9d8e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Positive urinary anion gap is found in-",
         "exp": "Urinary anion gap: used to differentiate GIT causes from Renal causes. UAG= Urine anions - urine cations =( HCO3-) - (NH4+) NORMAL = 0 In GIT cause: NEGATIVE In Renal cause: POSITIVE Ref: Harrison&; s 19thE",
         "cop": 3,
@@ -1194,19 +830,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "a9267141-dd12-4e42-bd4a-ecaa88453ea7",
         "choice_type": "single"
-    },
-    {
-        "question": "Tall 'T' waves are seen in-",
-        "exp": "Clinical features Mild to moderate hyperkalaemia (< 6. 5 mmol/L) is usually asymptomatic. More severe hyperkalaemia can present with progressive muscular weakness, but sometimes there are no symptoms until cardiac arrest occurs. The typical ECG changes are shown on page 347. Peaking of the T wave is an early ECG sign, but widening of the QRS complex presages a dangerous cardiac arrhythmia. However, these characteristic ECG findings are not always present, even in severe hyperkalaemia. Ref Davidson 23rd edition pg 363",
-        "cop": 1,
-        "opa": "Hyperkalemia",
-        "opb": "Hypercalcemia",
-        "opc": "Hypokalemia",
-        "opd": "Hypocalcemia",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "63e5446f-9966-4b12-ab18-f69679eff9e0",
-        "choice_type": "multi"
     },
     {
         "question": "An aerial blood gas repo of pH: 7. 00, Pa. O2: 60 mm, Hg: Pa. CO2: 80 mm, HCO3: 28",
@@ -1235,32 +858,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Causes of hyperkalemia includes all except-",
-        "exp": "CAUSES OF HYPERKALEMIA I Pseudohyperkalemia A. Cellular efflux; thrombocytosis, erythrocytosis, leukocytosis, in vitro hemolysis B. Hereditary defects in red cell membrane transpo II. Intra- to extracellular shift A. Acidosis B. Hyperosmolality; radiocontrast, hypeonic dextrose, mannitol C. b2-Adrenergic antagonists (noncardioselective agents) D. Digoxin and related glycosides (yellow oleander, foxglove, bufadienolide) E. Hyperkalemic periodic paralysis F. Lysine, arginine, and e-aminocaproic acid (structurally similar, positively charged) G. Succinylcholine; thermal trauma, neuromuscular injury, disuse atrophy, mucositis, or prolonged immobilization H. Rapid tumor lysis III. Inadequate excretion A. Inhibition of the renin-angiotensin-aldosterone axis; | risk of hyperkalemia when used in combination 1. Angiotensin-conveing enzyme (ACE) inhibitors 2. Renin inhibitors; aliskiren (in combination with ACE inhibitors or angiotensin receptor blockers ) 3. Angiotensin receptor blockers (ARBs) 4. Blockade of the mineralocoicoid receptor: spironolactone, eplerenone, drospirenone 5. Blockade of the epithelial sodium channel (ENaC): amiloride, triamterene, trimethoprim, pentamidine, nafamostat B. Decreased distal delivery 1. Congestive heart failure 2. Volume depletion C. Hyporeninemic hypoaldosteronism 1. Tubulointerstitial diseases: systemic lupus erythematosus (SLE), sickle cell anemia, obstructive uropathy 2. Diabetes, diabetic nephropathy 3. Drugs: nonsteroidal anti-inflammatory drugs (NSAIDs), cyclooxygenase 2 (COX2) inhibitors, b-blockers, cyclosporine, tacrolimus 4. Chronic kidney disease, advanced age 5. Pseudohypoaldosteronism type II: defects in WNK1 or WNK4 kinases, Kelch-like 3 (KLHL3), or Cullin 3 (CUL3) D. Renal resistance to mineralocoicoid 1. Tubulointerstitial diseases: SLE, amyloidosis, sickle cell anemia, obstructive uropathy, post-acute tubular necrosis 2. Hereditary: pseudohypoaldosteronism type I; defects in the mineralocoicoid receptor or the epithelial sodium channel (ENaC) E. Advanced renal insufficiency 1. Chronic kidney disease 2. End-stage renal disease 3. Acute oliguric kidney injury F. Primary adrenal insufficiency 1. Autoimmune: Addison's disease, polyglandular endocrinopathy 2. Infectious: HIV, cytomegalovirus, tuberculosis, disseminated fungal infection 3. Infiltrative: amyloidosis, malignancy, metastatic cancer 4. Drug-associated: heparin, low-molecular-weight heparin 5. Hereditary: adrenal hypoplasia congenita, congenital lipoid adrenal hyperplasia, aldosterone synthase deficiency 6. Adrenal hemorrhage or infarction, including in antiphospholipid syndrome (REF: HARRISON, 19E Pg 309)",
-        "cop": 4,
-        "opa": "Crush syndrome",
-        "opb": "Haemolysis",
-        "opc": "Renal failure",
-        "opd": "Intestinal obstruction",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "b62dc845-b7ed-4cd4-be38-9bd153ac3191",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true regarding Idiopathic edema of woman except-",
-        "exp": "Idiopathic edema is a common cause of fluid retention and swelling (edema) in women. \"Idiopathic\" means that the cause of this condition is unknown. Idiopathic edema occurs in the absence of heart, kidney, or liver disease. It is often associated with diabetes, obesity, and emotional problems Ref Davidson 23rd edition pg 369",
-        "cop": 1,
-        "opa": "It is due to estrogen mediated sodium retention",
-        "opb": "It is not related to menstrual cycle",
-        "opc": "There is increased water retention in upright position",
-        "opd": "ACE inhibitors can be useful in some cases",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "a10a8229-fbff-48f3-a3f3-b4bcc407f9c1",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most readily detected clinical sign of hypermagnesemia is-",
         "exp": "Hypermagnesaemia This is a much less common abnormality than hypomagnesaemia. Predisposing conditions include acute kidney injury, chronic kidney disease and adrenocoical insufficiency. The condition is generally precipitated in patients at risk from an increased intake of magnesium, or from the use of magnesium-containing medications, such as antacids, laxatives and enemas. Clinical features include bradycardia, hypotension, reduced consciousness and respiratory depression. Disappearance of deep tendon reflexes Management involves ceasing all magnesium-containing drugs and reducing dietary magnesium intake, improving renal function if possible, and promoting urinary magnesium excretion using a loop diuretic with intravenous hydration, if residual renal function allows. Calcium gluconate may be given intravenously to ameliorate cardiac effects. Dialysis may be necessary in patients with poor renal function. Ref Davidson 23rd edition pg 368",
         "cop": 4,
@@ -1274,19 +871,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are feature of hypernatremia, except -",
-        "exp": "Clinical features Patients with hypernatraemia generally have reduced cerebral function, either as a primary problem or as a consequence of the hypernatraemia itself, which results in dehydration of neurons and brain shrinkage. In the presence of an intact thirst mechanism and preserved capacity to obtain and ingest water, hypernatraemia may not progress very far. If adequate water is not obtained, dizziness, delirium, weakness and, ultimately, elevated intracranial tension, muscle twitching coma and death can result. Ref Davidson 23rd edition pg 360",
-        "cop": 3,
-        "opa": "Convulsion",
-        "opb": "Elevated intracranial tension",
-        "opc": "Periodic paralysis",
-        "opd": "Muscle twitching",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "e20112ea-8bc3-4fed-84e8-a58c11e484b9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hypernatremia is defined as a plasma sodium concentration more than",
         "exp": "Hypernatremia is defined as a plasma Na+ concentration >145 mmol/L. Hypernatremia can develop following the loss of water both renal and nonrenal routes. Insensible losses of water may increase in the setting of fever, exercise, heat exposure, severe burns, or mechanical ventilation. Diarrhea is, in turn, the most common gastrointestinal cause of hypernatremia. Notably, osmotic diarrhea and viral gastroenteritides typically generate stools with Na+ and K+ <100 mM, thus leading to water loss and hypernatremia; in contrast, secretory diarrhea typically results in isotonic stool and thus hypovolemia with or without hypovolemic hyponatremia. Common causes of renal water loss include osmotic diuresis secondary to hyperglycemia, excess urea, postobstructive diuresis, or mannitol; Hypernatremia due to a water diuresis occurs in central or nephrogenic diabetes insipidus (DI). Ref: Harrison 19e pg: 302",
         "cop": 3,
@@ -1298,19 +882,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "70bc0517-6560-4161-8fd0-051335dc87fe",
         "choice_type": "single"
-    },
-    {
-        "question": "All are used in hyperkalemia except-",
-        "exp": "Insulin lowers plasma K+ concentration by shifting K+ into cells. The recommended dose is 10 units of intravenous regular insulin followed immediately by 50 mL of 50% dextrose (D50W, 25 g of glucose total); the effect begins in 10-20 min, peaks at 30-60 min, and lasts for 4-6 h. Bolus D50W without insulin is never appropriate, given the risk of acutely worsening hyperkalemia due to the osmotic effect of hypeonic glucose. (reference: harrisons principles of internal medicine, 19E, page -312)",
-        "cop": 1,
-        "opa": "50 ml of 50% dextrose",
-        "opb": "Sodium bicarbonate",
-        "opc": "Salbutamol",
-        "opd": "Calcium gluconate",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "5284ec5b-b0ff-439f-9864-a90b5d3cc2f5",
-        "choice_type": "multi"
     },
     {
         "question": "These ECG changes are seen in",
@@ -1365,19 +936,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Hypercalcemia is seen in all except -",
-        "exp": "Milk-alkali syndrome (MAS) consists of hypercalcemia, various degrees of renal failure, and metabolic alkalosis due to ingestion of large amounts of calcium and absorbable alkali.... Physicians and the public need to be aware of the potential adverse effects of ingesting excessive amounts of calcium carbonate. and hypercalcemia is seen in hyperparathyroidism, vitamin D toxicity Ref Davidson 23rd edition pg 263",
-        "cop": 3,
-        "opa": "Milk alkali syndrome",
-        "opb": "Hyperparathyroidism",
-        "opc": "VitaminA deficiency",
-        "opd": "Vitamin D intoxication",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "5b737895-051c-4d1b-bf12-37190a859766",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hyponatremia with Isovolemia is seen in-",
         "exp": "The syndrome of inappropriate secretion of antidiuretic hormone (SIADH) is a disorder of impaired water excretion caused by the inability to suppress the secretion of antidiuretic hormone (ADH). If water intake exceeds the reduced urine output, the ensuing water retention leads to the development of hyponatremia Ref Davidson 23rd edition pg 366",
         "cop": 1,
@@ -1404,32 +962,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The concentration of sodium ion is least in the -",
-        "exp": "primary gastric juice contains Na+ in a concentration of 3-5 m. Eq/l makes it possible that the secreted volume originates from some sodium-containing compament Ref Davidson 23rd edition pg 365",
-        "cop": 3,
-        "opa": "Small intestinal juice",
-        "opb": "Bile",
-        "opc": "Gastric juice",
-        "opd": "Pancreatic juice",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "115c352f-bc9d-4799-b6f7-21051f0ac375",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Hyperkalemia is due to all of the following except-",
-        "exp": "I Pseudohyperkalemia A. Cellular efflux; thrombocytosis, erythrocytosis, leukocytosis, in vitro hemolysis B. Hereditary defects in red cell membrane transpo II. Intra- to extracellular shift A. Acidosis B. Hyperosmolality; radiocontrast, hypeonic dextrose, mannitol C. b2-Adrenergic antagonists (noncardioselective agents) D. Digoxin and related glycosides (yellow oleander, foxglove, bufadienolide) E. Hyperkalemic periodic paralysis F. Lysine, arginine, and e-aminocaproic acid (structurally similar, positively charged) G. Succinylcholine; thermal trauma, neuromuscular injury, disuse atrophy, mucositis, or prolonged immobilization H. Rapid tumor lysis III. Inadequate excretion A. Inhibition of the renin-angiotensin-aldosterone axis; | risk of hyperkalemia when used in combination 1. Angiotensin-conveing enzyme (ACE) inhibitors 2. Renin inhibitors; aliskiren (in combination with ACE inhibitors or angiotensin receptor blockers ) 3. Angiotensin receptor blockers (ARBs) 4. Blockade of the mineralocoicoid receptor: spironolactone, eplerenone, drospirenone 5. Blockade of the epithelial sodium channel (ENaC): amiloride, triamterene, trimethoprim, pentamidine, nafamostat B. Decreased distal delivery 1. Congestive heart failure 2. Volume depletion C. Hyporeninemic hypoaldosteronism 1. Tubulointerstitial diseases: systemic lupus erythematosus (SLE), sickle cell anemia, obstructive uropathy 2. Diabetes, diabetic nephropathy 3. Drugs: nonsteroidal anti-inflammatory drugs (NSAIDs), cyclooxygenase 2 (COX2) inhibitors, b-blockers, cyclosporine, tacrolimus 4. Chronic kidney disease, advanced age 5. Pseudohypoaldosteronism type II: defects in WNK1 or WNK4 kinases, Kelch-like 3 (KLHL3), or Cullin 3 (CUL3) D. Renal resistance to mineralocoicoid 1. Tubulointerstitial diseases: SLE, amyloidosis, sickle cell anemia, obstructive uropathy, post-acute tubular necrosis 2. Hereditary: pseudohypoaldosteronism type I; defects in the mineralocoicoid receptor or the epithelial sodium channel (ENaC) E. Advanced renal insufficiency 1. Chronic kidney disease 2. End-stage renal disease 3. Acute oliguric kidney injury F. Primary adrenal insufficiency 1. Autoimmune: Addison's disease, polyglandular endocrinopathy 2. Infectious: HIV, cytomegalovirus, tuberculosis, disseminated fungal infection 3. Infiltrative: amyloidosis, malignancy, metastatic cancer 4. Drug-associated: heparin, low-molecular-weight heparin 5. Hereditary: adrenal hypoplasia congenita, congenital lipoid adrenal hyperplasia, aldosterone synthase deficiency 6. Adrenal hemorrhage or infarction, including in antiphospholipid syndrome",
-        "cop": 1,
-        "opa": "Alkalosis",
-        "opb": "Acute renal failure",
-        "opc": "Addison's disease",
-        "opd": "Excess hemolysis",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "b5c59769-60f9-4a75-a1fe-740442874aef",
-        "choice_type": "multi"
-    },
-    {
         "question": "Rapid infusion of insulin causes-",
         "exp": "* Insulin, b2-adrenergic activity, thyroid hormone, and alkalosis promote Na+/K+-ATPase-mediated cellular uptake of K+, leading to hypokalemia. * stimulation of endogenous insulin can provoke hypokalemia, hypomagnesemia, and/or hypophosphatemia in malnourished patients given a carbohydrate load. (reference harrisons principles of internal medicine, 19E page-305)",
         "cop": 2,
@@ -1441,19 +973,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "5c4d2928-21a7-49ec-a97d-bacdbe800131",
         "choice_type": "single"
-    },
-    {
-        "question": "Dilutional hyponatremia is a side effect of the following except-",
-        "exp": "Mannitol, given as a hypeonic solution, is primarily used in the treatment of cerebral edema and glaucoma. Volume expansion and dilutional hyponatremia, without neurologic symptoms, can also be induced when isotonic mannitol is used as a flushing solution during transurethral resection of the prostate or bladder. Ref Davidson 23rd edition pg 367",
-        "cop": 3,
-        "opa": "Octreotide",
-        "opb": "Vincristine",
-        "opc": "Mannitol",
-        "opd": "Carbamazepine",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "06baa86f-2a26-4b9a-afe4-7bada47674a2",
-        "choice_type": "multi"
     },
     {
         "question": "Septic shock is most frequently triggered by -",
@@ -1534,32 +1053,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following may occur due to hypokalemia, except-",
-        "exp": "ECG changes when K+ < 2. 7 mmol/l Increased amplitude and width of the P wave Prolongation of the PR interval T wave flattening and inversion ST depression Prominent <a href=\" waves</a> (best seen in the precordial leads) Apparent long QT interval due to fusion of the T and U waves (= long QU interval) With worsening hypokalaemia... Frequent supraventricular and ventricular ectopics Supraventricular tachyarrhythmias: AF, atrial flutter, atrial tachycardia Potential to develop life-threatening ventricular arrhythmias, e. g. VT, VF and Torsades de Pointes Ref Davidson 23rd edition pg 361",
-        "cop": 2,
-        "opa": "Prolonged PR Interval",
-        "opb": "Prolonged QRS Interval",
-        "opc": "Prolonged QT Interval",
-        "opd": "Ventricular asystole",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "a62a449e-ceb5-4fbe-951b-064e2a0385ff",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Increased anion gap is found in the following disorders except -",
-        "exp": "Causes of High-Anion Gap Metabolic Acidosis Lactic acidosis Toxins Ketoacidosis Ethylene glycol Diabetic Methanol Alcoholic Salicylates Starvation Propylene glycol Pyroglutamic acid (5-oxoproline) Renal failure (acute and chronic) (ref: harrisons, 19E, pg -318)",
-        "cop": 3,
-        "opa": "Diabetic ketoacidosis",
-        "opb": "Starvation ketosis",
-        "opc": "Renal tabular acidosis",
-        "opd": "Lactic acidosis",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "b22ac4cd-56bb-46b2-b449-1d2c3a2b58d8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Increased anion gap acidosis is seen in -",
         "exp": "Causes of High-Anion Gap Metabolic Acidosis *Lactic acidosis *Ketoacidosis Diabetic Alcoholic Starvation *Renal failure (acute and chronic) *toxins: ethylene glycol methanol salicylates propylene glycol pyroglutamic acid (Ref: Harrison's principles of internal medicine, 18E, pg 365)",
         "cop": 1,
@@ -1612,19 +1105,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are used for treatment of hyperkalemia except-",
-        "exp": "Treatment of hyperkalemia is done in three steps: 1. Immediate antagonism of the cardiac effects of hyperkalemia. -Intravenous calcium serves to protect the Heart( calcium gluconate) 2. Rapid reduction in plasma K+ concentration by redistribution into cells: * Insulin lowers plasma K+ concentration by shifting K+ into cells. The recommended dose is 10 units of intravenous regular insulin followed immediately by 50 mL of 50% dextrose *b2-agonists - most commonly albuterol, are effective but underused agents for the acute management of hyperkalemia *Intravenous bicarbonate has no role in the acute treatment of hyperkalemia, but may slowly attenuate hyperkalemia with sustained administration over several hours. 3. Removal of potassium. This is typically accomplished using cation exchange resins, diuretics, and/or dialysis (Ref: Harrison textbook of internal medicine, 19E, pg- 312)",
-        "cop": 4,
-        "opa": "Calcium gluconate",
-        "opb": "Sodium bicarbonate",
-        "opc": "Intravenous infusion of glucose with insulin",
-        "opd": "Beta blockers",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "eaa9ac86-2794-49ce-9ca8-382b5ab0bfe1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a cause of metabolic acidosis with normal anion gap?",
         "exp": "Metabolic Acidosis Normal anion gap acidosis (low serum HCO3 but normal anion gap) is caused by excess bicarbonate loss from either the gut (diarrhea) or kidney (renal tubular acidosis). An elevated or so-called positive anion gap suggests the presence of another unmeasured anion Ref Davidson 23rd edition pg 364",
         "cop": 4,
@@ -1636,19 +1116,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "e5c25c1e-ddb0-4c1a-a06c-6a531b642513",
         "choice_type": "single"
-    },
-    {
-        "question": "Sweat chloride levels are Increased in all of the following conditions except -",
-        "exp": "cystic fibrosis, the CFTR chloride channel is defective, and does not allow chloride to be reabsorbed into sweat duct cells. Consequently, more sodium stays in the duct, and more chloride remains in the sweat. The concentration of chloride in sweat is therefore elevated in individuals with cystic fibrosis They are also increased in G6pd deficiency, hereditary nephrogenic diabetes insipidus Ref Davidson 23rd edition pg 351",
-        "cop": 4,
-        "opa": "Cystic fibrosis",
-        "opb": "G-6 PD -deficiency",
-        "opc": "Heriditary nephrogenic-diabetes incipidus",
-        "opd": "Obesity",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "d705697d-be24-44db-9735-b6171e278afe",
-        "choice_type": "multi"
     },
     {
         "question": "Persistant vomiting most likely causes-",
@@ -1703,19 +1170,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 30 year old man presents to the emergency with complaints of muscle weakness, nausea, vomiting and fatigue. ECG showed tall peaked T waves, prolonged PR interval, wide QRS and absent P. which of the following drugs is not used in management?",
-        "exp": "Early ECG changes of hyperkalemia, typically seen at a serum potassium level of 5. 5-6. 5 m. Eq/L, include the following: Tall, peaked T waves with a narrow base, best seen in precordial leads. Shoened QT interval. ST-segment depression The detions to both extremes (hypo- and hyperkalemia) are related to the risk of cardiac arrhythmias. Potassium levels below 3, 0 mmol/l cause significant Q-T interval prolongation with subsequent risk of torsade des pointes, ventricular fibrillation and sudden cardiac death. Beta-adrenergic activity is one of several mechanisms regulating the movement of potassium from the extracellular to the intracellular environment. This study provides convincing evidence that inhaled albuterol significantly lowers plasma potassium in patients with chronic renal failure and moderate hyperkalemia Ref Harrison 20th edition pg1769",
-        "cop": 1,
-        "opa": "Beta antagonist",
-        "opb": "Calcium gluconte",
-        "opc": "Insulin",
-        "opd": "Sodium bicarbonate",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "ec3749b3-32f8-4db0-8ab8-fa982c06391e",
-        "choice_type": "multi"
-    },
-    {
         "question": "In hyperkalamia-",
         "exp": "Hyperkalemia is defined as a plasma potassium level of 5. 5 mM, Early ECG changes of hyperkalemia, typically seen at a serum potassium level of 5. 5-6. 5 m. Eq/L, include the following: Tall, peaked T waves with a narrow base, best seen in precordial leads Shoened QT interval ST-segment depression At a serum potassium level of 6. 5-8. 0 m. Eq/L, the ECG typically shows the following: Peaked T waves Prolonged PR interval Decreased or disappearing P wave Widening of the QRS Amplified R wave At a serum potassium level higher than 8. 0 m. Eq/L, the ECG shows the following: (reference: harrisons principles of internal medicine, 19E, page 308, 310) Absence of P wave Progressive QRS widening Intraventricular/fascicular/bundle branch blocks Ref Davidson 23rd edition pg 364",
         "cop": 1,
@@ -1740,19 +1194,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "ff16f2de-f713-4018-845b-5c94e78089a2",
         "choice_type": "single"
-    },
-    {
-        "question": "Metabolic alkalosis seen in following except",
-        "exp": "Causes of Metabolic Alkalosis I. Exogenous HCO3-loads A. Acute alkali administration B. Milk-alkali syndrome II. Effective ECFV contraction, normotension, K+ deficiency, and secondary hyperreninemic hyperaldosteronism A. Gastrointestinal origin 1. Vomiting 2. Gastric aspiration 3. Congenital chloridorrhea 4. Villous adenoma B. Renal origin 1. Diuretics 2. Posthypercapnic state 3. Hypercalcemia/hypoparathyroidism 4. Recovery from lactic acidosis or ketoacidosis 5. Nonreabsorbable anions including penicillin, carbenicillin 6. Mg2+ deficiency 7. K+ depletion 8. Bater's syndrome (loss of function mutations of transpoers and ion channels in TALH) 9. Gitelman's syndrome (loss of function mutation in Na+-Cl-cotranspoer in DCT) III. ECFV expansion, hypertension, K+ deficiency, and mineralocoicoid excess A. High renin 1. Renal aery stenosis 2. Accelerated hypertension 3. Renin-secreting tumor 4. Estrogen therapy B. Low renin 1. Primary aldosteronism a. Adenoma b. Hyperplasia c. Carcinoma 2. Adrenal enzyme defects a. 11b-Hydroxylase deficiency b. 17a-Hydroxylase deficiency 3. Cushing's syndrome or disease 4. Other a. Licorice b. Carbenoxolone c. Chewer's tobacco IV. Gain-of-function mutation of renal sodium channel with ECFV expansion, hypertension, K+ deficiency, and hyporeninemic-hypoaldosteronism A. Liddle's syndrome (Ref: Harrison's principles of internal medicine 19E, pg 321)",
-        "cop": 1,
-        "opa": "Methanol poisoning",
-        "opb": "Cushing's disease",
-        "opc": "Vomiting",
-        "opd": "Diuretic therapy",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "75bb4463-1ed2-4571-8740-26bf47c03201",
-        "choice_type": "multi"
     },
     {
         "question": "High Anion gap is seen in -",
@@ -1818,19 +1259,6 @@
         "topic_name": "Fluid and electrolytes",
         "id": "c28cef40-7c75-4833-a31b-884e22264746",
         "choice_type": "single"
-    },
-    {
-        "question": "True about hyperkalemia -",
-        "exp": "Classically, the electrocardiographic manifestations in hyperkalemia progress from tall peaked T waves (5. 5-6. 5 mM), to a loss of P waves (6. 5-7. 5 mM) to a widened QRS complex (7. 0-8. 0 mM), and, ultimately, a to a sine wave pattern (>8. 0 mM). However, these changes are notoriously insensitive, paicularly in patients with chronic kidney disease or end-stage renal disease. ( ref: harrisons principles of internal medicine, 19E page 310)",
-        "cop": 3,
-        "opa": "Stop heart in systole",
-        "opb": "Insulin-Glucose is given",
-        "opc": "ECG is diagnostic",
-        "opd": "Serum potassium more than 5. 2 mmol\\/L",
-        "subject_name": "Medicine",
-        "topic_name": "Fluid and electrolytes",
-        "id": "b3e04f43-95e4-431c-ba83-caf71e6932e5",
-        "choice_type": "multi"
     },
     {
         "question": "Hypokalemia is seen with -",

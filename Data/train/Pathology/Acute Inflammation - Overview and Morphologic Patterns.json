@@ -1,18 +1,5 @@
 [
     {
-        "question": "Cardinal signs of Inflammation are all except?",
-        "exp": "Ans. is 'd' i. e., Cyanosis o Cardinal signs of acute inflammation (celsus' signs): Rubor (redness), tumor (swelling), color (warmth), Dolor (pain).",
-        "cop": 4,
-        "opa": "Rubor",
-        "opb": "Tumor",
-        "opc": "Color",
-        "opd": "Cyanosis",
-        "subject_name": "Pathology",
-        "topic_name": "Acute Inflammation - Overview and Morphologic Patterns",
-        "id": "0eef9be8-69a2-4c6d-a529-bbd8ccbd69cc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is responsible for respiratory burst and production of superoxide ions-",
         "exp": "Ans. is 'D' i. e., NADPH oxidase o The final step in the microbial killing is due to reactive oxygen species called as respiratory burst. o Phagocytes require an enzyme to produce reactive oxygen species to destroy bacteria after they ingest the bacteria in a process called phagocytosis. o ROS are produced by the rapid assembly and activation of a multicomponent oxidase, NADPH oxidase and, in the process, reduces oxygen to superoxide anion (O2). o In neutrophils, this oxidative reaction is triggered by activating signals and accompanies phagocytosis and is called the respiratory burst.",
         "cop": 4,
@@ -52,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of Which is family of selectin., except -",
-        "exp": "Ans. is 'c' i. e., A selectin Leukocyte and endothelial adhesion moleculeso Leukocyte adhesion and transmigration are regulated largely by binding of complementary adhesion molecules on the leukocyte & endothelial surface, and by chemical mediators. o Cytokines affect these processes by modulating expression of adhesion molecules so that leukocytes can firmly adhere to endothelium. o There are four molecular families of adhesion receptors. Selectino Selectins function in cell to cell interaction i. e., adhesion of leukocytes to endothelium, o E-selectin (CD-62 E) is present on endothelial cells and it binds to sialyl-lewis, (a sialylated form of oligosaccharide on leukocytes). o Endothelial cell expression of E-selection is a hallmark of acute cytokine mediated inflammation, o P-selectin (CD-62 P) is present on endothelium and platelets and it bind to sialyl-Lewis on leukocytes. o L-selectin (CD-62 L) is present on leukocytes and it binds to mucin like glycoprotein Gly. CAM-1 on endothelium. Immunoglobulin familyo Present on endotheliumo ICAM-1 (intracellular adhesion molecule-1) binds to b2.-integrins (VLA-4) of leukocytes, o Platelet endothelial cell adhesion molecule (PECAM or CD-31) is present on both endothelium and leukocytes. It is the major adhesive molecule for diapedisis. Integrinso Integrins promote cell-cell or cell-matrix interaction (in contrast to selectins that promote only cell-cell interaction) i. e., integrins helps in adhesion of leukocytes to endothelium and adhesion of leukocytes to extracellular matrix such as fibronectin. vitronectin, activated compliment, o Present on leukocyteso b1- integrins (VLA-4) bind to VCAM-1 ofendothelium. o b2 - integrins (LFA-1 and MAC-1) bind to ICAM-1 of endothelium. Mucin like glycoproteino These glycoproteins are present in the extracellular matrix and on cell surface, o Example is Heparan sulfate, that serves as ligand for the leukocyte adhesion molecule CD-44.",
-        "cop": 3,
-        "opa": "P selectin",
-        "opb": "L selectin",
-        "opc": "A selectin",
-        "opd": "E selectin",
-        "subject_name": "Pathology",
-        "topic_name": "Acute Inflammation - Overview and Morphologic Patterns",
-        "id": "9d9d0f7d-cc31-4798-a9c4-aca9e2453362",
-        "choice_type": "multi"
-    },
-    {
         "question": "Following injury to a blood vessel, immediate haemostasis is achieved by -",
         "exp": "Ans. is 'b' i. e., Vasoconstriction Hemostasiso Hemostasis is a physiological process where by bleeding is halted, thus protecting the integrity' of the vascular system after tissue injury. o It is responsible for minimizing blood loss, o It is commonly referred to as stoppage of bleeding, o The hemostatic mechanisms have several functions: -1. Maintain blood in fluid state while circulating within the vascular system. 2 Arrest bleeding at the site of injury by formation of hemostatic plug. 3. Ensure the removal of hemostatic plug when healing is complete. o The components of normal hemostasis include: -Blood vessels (endothelium). Platelets. Plasma coagulation factors and their inhibitors. Fibrinolytic system. o When a blood vessel is injured, several steps occur in hemostasis at the site of injury': -Vasoconstrictiono After initial injury, there is a brief period arteriolar vasoconstriction, minimizing vessel diameter and stowing bleeding. o This is due to reflex neurogenic mechanism and augmented by a potent endothelium derived vasoconstrictor endothelin. o However this effect is transient, bleeding would resume if there will no activation of platelet and coagulation system. Primary hemostasiso Endothelial injury exposes highly thrombogenic subendothelial extracellular matrix which allows the platelets to bind (adhere) with collegen of ECM. o Binding of platelets activates these cells and platelets release secretory' granules. o These secretory' products (from secretory granules) recruite additional platelets to form primary hemostatic (platelet plug). Secondary hemostasiso Coagulation system is activated and thrombin is generated, o Thrombin converts fibrinogen to fibrin. o Ultimately these events forms an ireversibly fused mass of platelets, thrombin RBCs and fibrinogen - Definitive secondary hemostatic plug. Repair of v essels and dissolution of cloto The clot attracts and stimulates the growth of fibroblast and smooth musc le cells within the vessel wall, and begins repair process. o At this stage fibrinolytic system is also activated, resulting in dissolution of the clot.",
         "cop": 2,
@@ -78,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Leukocyte migration through capillary wall is called?",
-        "exp": "Ans. is 'b' i. e., Diapedesis o Process of transmigration of leukocytes across the endothelium is called Diapedesis. The most important molecule responsible for diapedesis is called PECAM-1 (Platelet endothelial cell adhesion molecule) or CD-31. About other optionso When leukocytes principally neutrophills accumulate along the vascular endothelium. This is called margination. o The rows of leukocytes move (tumble) slowly along the endothelium a process called rollingo When the endothelium can be virtually lined by white cells called Pavementing.",
-        "cop": 2,
-        "opa": "Rolling",
-        "opb": "Diapedesis",
-        "opc": "Migration",
-        "opd": "Pavementing",
-        "subject_name": "Pathology",
-        "topic_name": "Acute Inflammation - Overview and Morphologic Patterns",
-        "id": "64062fea-1ed1-48be-a57a-beb2f8cf9393",
-        "choice_type": "multi"
-    },
-    {
         "question": "Increased vascular permeability in acute inflammation is due to -",
         "exp": "Ans. is 'a' i. e., Histamine EFFECTS OF VARIOUS MEDIATORSo Various effects of inflammatory mediators are. Increased vascular permeability Histamine, serotonin (5-hydroxytryptamine), anapkylotoxins (C3a, C4a, C5a), PAF, leukotrienes (LTC4, D4, E4), bradykinin.# PAF is the most potent one to increase permeability. Chemoattractant. C5a (most potent), IL-8, LTB4, PAF, bacterial products, Lymphokine, Kallikrein.# C5a is the most potent chemoattractant. Vasodilatation Histamine, prostaglandins (PG D2, PGE2), prostacyclins (PGI2), serotonin. Nitric oxide, bradykinin. Vasoconstriction Leukotrienes (LTC4, D4, E4), Th rom boxane A2. Bronchoconstriction Leukotrienes (LTC4, D4, E4), PFA, histamine, bradykinin.# Leokotrienes (LTC4, D4, E4) are most potent bronchoconstrictors. Pain Prostaglandins, bradykinin. Fever (pyrogens) IL-1, TNF-al IL-6, prostaglandins, interferon.",
         "cop": 1,
@@ -102,18 +63,5 @@
         "topic_name": "Acute Inflammation - Overview and Morphologic Patterns",
         "id": "2c6284c3-c87a-4124-bb12-242f50d9ca0c",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following vascular changes are observ ed in acute inflammation, except-",
-        "exp": "Ans. is 'd' i. e., Decreased hydrostatic pressure. Inflammation. Vascular changes. Cellular changeso Vasoconstrictiono Vasodilatationo Increased permeability'o Chemotaxis, phagocytosiso Increased hydrostatis pressureo Marginationo Rollingo Adhesion",
-        "cop": 4,
-        "opa": "Vasodilation",
-        "opb": "Stasis of blood",
-        "opc": "Increased vascular permeability",
-        "opd": "Decreased hydrostatic pressure",
-        "subject_name": "Pathology",
-        "topic_name": "Acute Inflammation - Overview and Morphologic Patterns",
-        "id": "57941f04-734c-4818-8adf-e4b78a1f4680",
-        "choice_type": "multi"
     }
 ]

@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The perivascular space (Virchow-Robin space) in the brain is formed between the wall of small penetrating vessels and which structure?",
-        "exp": "The perivascular space (Virchow- Robin space) is formed between the outer wall of small vessels penetrating into the brain and the pia mater, which lines the outer surface of the brain and is only loosely attached to the brain. It is an extension of the subarachnoid space which separates penetrating vessels from brain tissue.",
-        "cop": 3,
-        "opa": "Dura mater",
-        "opb": "Arachnoid membrane",
-        "opc": "Pia mater",
-        "opd": "Choroid plexus",
-        "subject_name": "Physiology",
-        "topic_name": "Introduction to Central Nervous System",
-        "id": "12506a46-8c21-44b6-be9d-37a8fadfeb26",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which electrical event is characteristic of inhibitory synaptic interactions?",
-        "exp": "IPSP: Inhibitory Postsynaptic Potential The opening of ligand-gated chloride channels and movement of chloride ions into the cell leads to hyperpolarization of the membrane. Neither increasing the extracellular sodium concentration nor the movement of potassium into the cell leads to hyperpolarization of the membrane. IPSP results in hyperpolarization of membrane. Glycine, GABA are the neurotransmitters involved.",
-        "cop": 1,
-        "opa": "A neurotransmitter agent that selectively opens ligand-gated chloride channels is the basis for an inhibitory postsynaptic potential",
-        "opb": "Because the Nernst potential for chloride is about -70 mV, chloride ions tend to move out of the cell along its electrochemical gradient",
-        "opc": "A neurotransmitter that selectively opens potassium channels will allow potassium to move into the cell",
-        "opd": "An increase in the extracellular sodium concentration usually leads directly to an inhibitory postsynaptic potential",
-        "subject_name": "Physiology",
-        "topic_name": "Introduction to Central Nervous System",
-        "id": "a54bf5c9-f3d3-4058-89d8-6b82c3994c7e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Among the areas mentioned, the highest number of noradrenergic neurons is present in:",
         "exp": "Locus coeruleus has max number of nor-adrenergic neurons Nucleus raphe magnus has max number of serotonergic neurons Periaqueductal grey has max number of enkephalinic neurons Medial longitudinal fasciculus has max number of Dopaminergic neurons It is implicated in reward & addictive behavior But now nucleus accumbens is said to be involved in reward & addictive behavior",
         "cop": 1,
@@ -104,32 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Low molecular weight neurotransmitters are all except:",
-        "exp": "Low molecular weight neurotransmitters: (Small molecule transmitter) Glutamate GABA Ach NA Dopamine High molecular weight neurotransmitters: (Large molecule transmitter) NP Y Orexins Opioid CA",
-        "cop": 4,
-        "opa": "Glutamate",
-        "opb": "GABA",
-        "opc": "Dopamine",
-        "opd": "Orexins",
-        "subject_name": "Physiology",
-        "topic_name": "Introduction to Central Nervous System",
-        "id": "facaeadd-546d-459b-aa60-badc0dc362f4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "D2 receptors are maximally seen in:-",
-        "exp": "The impoant pathways in the brain that release dopamine as transmitter: Nigrostriatal pathway in basal ganglia - The fibers convey from substantia nigra of the midbrain to the corpus striatum in basal ganglia. It is an impoant pathway in the control of voluntary movements. Mesolimbic system - From the midbrain to the limbic system. The pathway is impoant in the control of emotions and emotion-related movements.",
-        "cop": 4,
-        "opa": "Frontal lobe",
-        "opb": "Nucleus accumbens",
-        "opc": "Cerebellum",
-        "opd": "Corpus striatum",
-        "subject_name": "Physiology",
-        "topic_name": "Introduction to Central Nervous System",
-        "id": "a3d6d932-ce3d-405d-81ff-2987e4267189",
-        "choice_type": "multi"
-    },
-    {
         "question": "Oligodendrocytes form myelin sheath in CNS. The cell -to-cell ratio (oligodendrocyte: neuron) for this myelination is:-",
         "exp": "Oligodendrocytes and Schwann cells are involved in myelin formation around axons in the CNS and peripheral nervous system, respectively. Oligodendrocytes are small with relatively few processes. Those in the white matter provide myelin, and those in the gray matter suppo neurons. One Oligodendrocytes myelinates 20 axons in CNS. This is the reason why CNS neurons doesn't repair.",
         "cop": 3,
@@ -154,19 +102,6 @@
         "topic_name": "Introduction to Central Nervous System",
         "id": "470ad91b-71d7-454d-9ba3-7d3f20e820a2",
         "choice_type": "single"
-    },
-    {
-        "question": "Regarding Neuroligins, false statement is:",
-        "exp": "\"Neurexins\" is a presynaptic cell adhesion molecule which binds with postsynaptic molecule \"Neuroligins\" Interaction between them holds the synapse together and also provide synaptic specificity. They are responsible for synaptic function but not for formation of synapse. These have no role in neurotransmitter release. Mutations in the genes encoding these causes autisim spectrum disorder (ASD), Tourette syndrome, mental retardation, and schizophrenia.",
-        "cop": 2,
-        "opa": "Hold the presynaptic and postsynaptic membranes together",
-        "opb": "Help in neurotransmitter release",
-        "opc": "Responsible for synaptic specificity & functions",
-        "opd": "Mutation of these genes causes autisim spectrum disorder",
-        "subject_name": "Physiology",
-        "topic_name": "Introduction to Central Nervous System",
-        "id": "aa458a34-ca63-47fe-b6b3-3897f3215ef9",
-        "choice_type": "multi"
     },
     {
         "question": "Myelin sheath is absent in:-",
@@ -260,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about end plate potential (EPP) is:-",
-        "exp": "Non-specific cation channel (same channels allow Na+ to come in & same channel allows K+ to go out) are acetylcholine-gated channels which opens and causes the electrical potential inside the fiber at the local area of the end plate to increase in the positive direction as much as 50 to 75 millivolts, creating a local potential called the end plate potential. EPP is a graded response. It doesn't obey all or none propey. Its amplitude decreases over distance and it can be summated. EPP develops conves into one AP. This action potential then travels.",
-        "cop": 1,
-        "opa": "It occurs as a result of altered permeability for Na+ and K+",
-        "opb": "It is a self-regenerative change",
-        "opc": "It results from release of a single transmitter vesicle",
-        "opd": "It exhibits all-or-none propey",
-        "subject_name": "Physiology",
-        "topic_name": "Introduction to Central Nervous System",
-        "id": "193fad14-c819-4d4d-88b6-cb0318e0c745",
-        "choice_type": "multi"
-    },
-    {
         "question": "A pool of presynaptic neurons innervate the dendrites of a postsynaptic neuron. Electrical signals are transferred from the dendrites to the soma of the postsynaptic neuron by which process?",
         "exp": "Transmission of electrical signals in dendrites occurs by electrotonic conduction.",
         "cop": 4,
@@ -297,32 +219,6 @@
         "topic_name": "Introduction to Central Nervous System",
         "id": "7abb56d5-613a-401a-94ab-680f08aff2f5",
         "choice_type": "single"
-    },
-    {
-        "question": "\"Blood brain barrier\" is present at all of the following sites except:",
-        "exp": "Some areas of the brain lack blood-brain barrier. These are called the circumventricular organs because they surround the ventricular system in the brain. They are supplied by leaky capillaries. These areas are: Area postrema (CTZ is located in this area) Posterior pituitary Subfornical organ (SFO) (a specialized receptor area in diencephalon; angiotensin II acts on it to stimulate thirst) Median eminence (poion of the hypothalamus from which the poal vessels arise) Pineal gland Organum vasculosum laminae terminalis (OVLT) (function similar to SFO)",
-        "cop": 2,
-        "opa": "Hebenular nucleus",
-        "opb": "Subfornical organ",
-        "opc": "Cerebellum",
-        "opd": "Pontine nucleus",
-        "subject_name": "Physiology",
-        "topic_name": "Introduction to Central Nervous System",
-        "id": "b07f1c0f-3332-4607-9cb5-841027152dd5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following foramina allows cerebrospinal fluid to pass directly from the ventricular system into the subarachnoid space?",
-        "exp": "The foramen of Magendie and the two lateral foramina of Luschka form the communication channels between the ventricular system within the brain and the subarachnoid space that lies outside the brain and spinal cord.",
-        "cop": 1,
-        "opa": "Foramen of Magendie",
-        "opb": "Aqueduct of Sylvius",
-        "opc": "Third ventricle",
-        "opd": "Lateral ventricle",
-        "subject_name": "Physiology",
-        "topic_name": "Introduction to Central Nervous System",
-        "id": "34dbb5fc-0642-4008-8f05-a4870e00e236",
-        "choice_type": "multi"
     },
     {
         "question": "The peak of fast EPSP or, fast IPSP is seen at what time after stimulus application:",

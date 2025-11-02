@@ -156,19 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 10yr old boy with a known case of nephrotic syndrome since 4 years on treatment brought to the pediatric OPD with chief complaint of difficulty in breathing. There is no history of fever. On examination, respiratory system was normal except slightly reduced breath sounds on right infra-axillary region. Paediatrician thinks of pleural effusion. What is next best modality of investigation to detect pleural effusion?",
-        "exp": "USG Is the preferred investigation (imaging modality) to diagnose minimal amount of pleural effusions (yellow dotted arrow) A Ipsilateral Lateral decubitus xray film obtained with the patient lying on their side, effusion side down, can visualise small amounts of fluid layering against the dependent parietal pleura and is preferred x-ray view. Chest radiograph (erect): Both PA and AP erect films are insensitive to small amounts of fluid. Blunting of the costophrenic angle Blunting of the cardiophrenic angle Fluid within the horizontal or oblique fissures",
-        "cop": 4,
-        "opa": "Erect Chest X-RAY PA view",
-        "opb": "Lateral view Chest X-RAY",
-        "opc": "Lateral decubitus view",
-        "opd": "USG",
-        "subject_name": "Radiology",
-        "topic_name": "X-RAYS",
-        "id": "3a80b273-d000-4ddd-a53e-e7c8841486b5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Wavelength of x- rays?",
         "exp": "Wavelength of X-rays is 0. 1 - 100. Ao or 0. 01nm - 10 nm (in electromagnetic spectrum) Velocity of X-rays is equal to the Speed of Light. They are found to reside between ultraviolet radiation and gamma rays on the electromagnetic spectrum.",
         "cop": 3,
@@ -234,19 +221,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about Modern Xray tube except?",
-        "exp": "- Modern X ray tube has a rotatory anode. - Motor is attached to the Anode to make it rotatory. - The Cathode is made of Tungsten alloyed with Thorium. - The Target of Anode is made of Tungsten Alloyed with Rhenium. - The major source of X RAY Generation in Modern X ray tube is Bremstrahlung Radiation/Braking Radiation.",
-        "cop": 1,
-        "opa": "It has a rotatory Cathode.",
-        "opb": "Heat loss is mainly By Radiation.",
-        "opc": "Rhenium is added to tungsten target at Anode.",
-        "opd": "Chief source of Xray generation is by Bremstrahlung effect.",
-        "subject_name": "Radiology",
-        "topic_name": "X-RAYS",
-        "id": "2ea53e9b-f0dc-4c11-b700-dcc66d53102e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Filter used in X-ray tube is made up of:",
         "exp": "'Filters': They are metal sheets placed in the x-ray beam between the window and the patient that are used to attenuate the low-energy x-ray photons from the spectrum. Filtering is the removal of these low energy x-rays from the beam spectrum which would otherwise not contribute to image quality but would add to patient dose and scatter. Minimum total filtration of 2. 5 mm of aluminium is required for x-ray tubes operating above 70 k. Vp.",
         "cop": 1,
@@ -297,32 +271,6 @@
         "topic_name": "X-RAYS",
         "id": "6db4baa7-e111-4404-beb5-55d4b11481e8",
         "choice_type": "single"
-    },
-    {
-        "question": "In radiography regarding scattered radiation, which of the following is true?",
-        "exp": "Scattered radiation is one of the factor that reduces contrast in the image. Grid is used to prevent scatter radiation from forming the image. Scatter Radiation is due to Compton effect. The closer the patient is to the film, the greater the concentration of scatter per unit area. With an air gap, the scatter concentration decreases because more scattered photons miss the film.",
-        "cop": 3,
-        "opa": "Improves image contrast",
-        "opb": "Improves image resolution",
-        "opc": "Reduces image contrast",
-        "opd": "Reduces patient radiation dose",
-        "subject_name": "Radiology",
-        "topic_name": "X-RAYS",
-        "id": "75b98d71-abcd-4175-b08c-ce6d326e0397",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Dead bone on an X-ray looks:",
-        "exp": "In chronic osteomyelitis there is dead dense bone in center called sequestrum, which is more radio opaque.",
-        "cop": 1,
-        "opa": "More radio-opaque",
-        "opb": "Radiolucent",
-        "opc": "Less radio-opaque",
-        "opd": "Not seen at all",
-        "subject_name": "Radiology",
-        "topic_name": "X-RAYS",
-        "id": "08a6e608-de42-49a6-ae0f-56509812d00a",
-        "choice_type": "multi"
     },
     {
         "question": "To improve contrast of an X-ray film in a morbidly obese patient, what should be done?",
@@ -388,19 +336,6 @@
         "topic_name": "X-RAYS",
         "id": "162ee341-7eb9-4f06-be52-2cf9c6cedfea",
         "choice_type": "single"
-    },
-    {
-        "question": "To improve contrast, KVP must be",
-        "exp": "- To improve contrast, KVP must be decreased. - KVP is Directly propoional to Energy of X-rays /Quality/Penetration powerand Inversely propoional to Contrast.",
-        "cop": 2,
-        "opa": "Increased",
-        "opb": "Decreased",
-        "opc": "Remain same",
-        "opd": "Contrast and KV P are not related at all.",
-        "subject_name": "Radiology",
-        "topic_name": "X-RAYS",
-        "id": "a9a89972-c231-468b-ba25-1b9a1d70afc9",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not safe in pregnancy?",

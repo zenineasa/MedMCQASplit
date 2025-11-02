@@ -26,45 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "'Routine care' in Neonatal resuscitation consists of all of the following steps EXCEPT:",
-        "exp": "Suction airway of all babies- not recommended. 'Routine care' consists of: Provide warmth to all babies Proper positioning of baby Suction airways only if necessary Dry the baby Ongoing evaluation of vital parameters of all babies",
-        "cop": 2,
-        "opa": "Provide warmth to all babies",
-        "opb": "Suction airway of all babies",
-        "opc": "Dry the baby",
-        "opd": "Ongoing evaluation of vital parameters of all babies",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal Resuscitation",
-        "id": "649652f7-7250-4ef1-b5f9-b669f98efa95",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is true about the following step of neonatal resuscitation?",
-        "exp": "The given pictures show a neonate being resuscitated with chest compressions & positive pressure ventilation. Method A (2 thumb method) is preferred over method B (two finger method)as: Higher pressure generated Better perfusion Lesser rescuer fatiguability",
-        "cop": 1,
-        "opa": "Method A is preferred over method B",
-        "opb": "Method B is preferred over method A",
-        "opc": "Both method A & method B are equally efficacious",
-        "opd": "Method B is preferred when there is 1 resuscitator only",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal Resuscitation",
-        "id": "4537a8ef-76cd-4c27-9bc9-d108f660da74",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Advantages of delayed cord clamping are all of the following EXCEPT?",
-        "exp": "Advantages of delayed cord clamping: Lesser anemia Higher blood pressure Lesser chances of shock Lesser intraventricular hemorrhage",
-        "cop": 2,
-        "opa": "Lesser anemia",
-        "opb": "Lower blood pressure",
-        "opc": "Lesser chances of shock",
-        "opd": "Lesser intraventricular hemorrhage",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal Resuscitation",
-        "id": "a4a7f04c-83ed-4969-8286-5edc8e7ad280",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the size of the IV cannula shown below?",
         "exp": "Size of the IV cannula shown in image is 26G (violet colour).",
         "cop": 4,
@@ -76,19 +37,6 @@
         "topic_name": "Neonatal Resuscitation",
         "id": "59ec0065-47b9-4298-ac9d-66740b189f86",
         "choice_type": "single"
-    },
-    {
-        "question": "A baby is born with meconium stained liquor. All of the following are taken into account in terming a baby 'vigorous' EXCEPT:",
-        "exp": "'Vigorous' baby: Heart rate > 100/min Good muscle tone Strong respiratory effos.",
-        "cop": 2,
-        "opa": "Tone",
-        "opb": "Colour",
-        "opc": "Heart Rate",
-        "opd": "Respiration",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal Resuscitation",
-        "id": "e084fd10-f5a7-4dbb-8620-74bbc79b2ecf",
-        "choice_type": "multi"
     },
     {
         "question": "Definite contraindication for bag and mask ventilation is:-",
@@ -128,19 +76,6 @@
         "topic_name": "Neonatal Resuscitation",
         "id": "f6c7cff2-331c-4302-82e5-8f9690e87cfd",
         "choice_type": "single"
-    },
-    {
-        "question": "What is the single most effective step in resuscitation of babies who fail to breathe at bih?",
-        "exp": "Positive pressure ventilation is the single most effective step in the resuscitation of neonates who fail to breathe at bih. Device used for PPV- 'Ambu bag'",
-        "cop": 3,
-        "opa": "Suction of airways",
-        "opb": "Tactile stimulation",
-        "opc": "Positive pressure ventilation",
-        "opd": "Chest compressions",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal Resuscitation",
-        "id": "7aef1979-a879-4756-b403-cec56614351f",
-        "choice_type": "multi"
     },
     {
         "question": "In Neonatal Resuscitation, chest compression to ventilation ratio is:",
@@ -195,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is true about resuscitation of a baby born through Meconium stained liquor (MSL)?",
-        "exp": "Resuscitation of a baby born through MSL: At least one person skilled in endotracheal intubation should be available at the time of resuscitation. Intrapaum suction of mouth and nose- NOT recommended Postnatal tracheal suctioning of all non-vigorous neonates- NOT recommended Vigorous neonates - handed over to the mother immediately, after performing the initial steps of resuscitation.",
-        "cop": 3,
-        "opa": "Intrapaum suction of mouth and nose may be done",
-        "opb": "Postnatal tracheal suctioning of all non-vigorous neonates should be done",
-        "opc": "At least one person skilled in endotracheal intubation should be available at the time of resuscitation",
-        "opd": "All babies born through MSL should be kept in the neonatal ICU for at least 6 hours before handing over to the mother",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal Resuscitation",
-        "id": "b3061e17-6755-480c-bab7-d3a4a959acf0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dose of I. V. adrenaline in term infant during neonatal resuscitation:",
         "exp": "Epinephrine- 0. 1-0. 3 ml/kg of 1: 10, 000 concentration administered through IV route/ umbilical vein.",
         "cop": 3,
@@ -232,58 +154,6 @@
         "topic_name": "Neonatal Resuscitation",
         "id": "e2d18522-d4f4-42ff-87a7-38ade37fd6ec",
         "choice_type": "single"
-    },
-    {
-        "question": "Ways to prevent intraventricular hemorrhage in a preterm neonate are all of the following EXCEPT?",
-        "exp": "Ways to prevent intraventricular hemorrhage in a preterm neonate: Antenatal steroid use Minimal & gentle handling Avoiding rapid boluses or infusion of hyperosmolar solution Avoiding high pressures during mechanical ventilation",
-        "cop": 4,
-        "opa": "Antenatal steroid use",
-        "opb": "Minimal & gentle handling",
-        "opc": "Avoiding rapid boluses",
-        "opd": "Avoiding high Fi. O2 during mechanical ventilation",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal Resuscitation",
-        "id": "1fbbedb8-5912-4823-91a0-f4e542c7d82f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "At 42 weeks gestation, a long, thin neonate is born. He is apneic, pale with HR 94 bpm and covered with \"pea soup\" amniotic fluid. Which of the following is the first step in the resuscitation at delivery?",
-        "exp": "Case of post-term neonate showing signs of chronic placental insufficiency (LBW for gest. age and wasted appearance). Higher risk of asphyxia and meconium aspiration. As per the latest guidelines on resuscitation of a neonate born through Meconium stained liquor, routine endotracheal intubation and tracheal suction of all neonates born through MSL is no longer recommended.. instead, the resuscitation should proceed as per the NRP, just ensuring that at least one person skilled in Endotracheal intubation should be available at the time of resuscitation..",
-        "cop": 1,
-        "opa": "Aificial ventilation with bag and mask",
-        "opb": "Administration of 100% oxygen by mask",
-        "opc": "Chest compressions",
-        "opd": "Intubation and suction of the trachea; provision of oxygen",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal Resuscitation",
-        "id": "c3227bc3-092e-42a5-8101-2daa181e7377",
-        "choice_type": "multi"
-    },
-    {
-        "question": "It is used for all EXCEPT:",
-        "exp": "Clip depicts Pulse oximeter- can't differentiate cardiac from non-cardiac cause of cyanosis Uses- To check for apnea To confirm presence of cyanosis In delivery room for resuscitation of neonate",
-        "cop": 3,
-        "opa": "To check for apnea",
-        "opb": "To confirm presence of cyanosis",
-        "opc": "To differentiate cardiac from non-cardiac cause of cyanosis",
-        "opd": "In delivery room for resuscitation of neonate",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal Resuscitation",
-        "id": "c0201c97-532e-4ac5-bbd7-2e9f113ddeb8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about 'secondary apnea' in a neonate EXCEPT:",
-        "exp": "Primary apnea Secondary apnea Baby is not breathing Baby is not breathing HR may become < 100/min HR may become < 100/min Baby may respond to tactile stimulation Infant is unresponsive to stimulation & does not spontaneously resume respiratory effos unless PPV is initiated.",
-        "cop": 4,
-        "opa": "The baby is not breathing",
-        "opb": "HR may become < 100/min",
-        "opc": "It may be present even at bih",
-        "opd": "Baby may respond to tactile stimulation",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal Resuscitation",
-        "id": "99beb3e3-ae3e-4ec0-a837-740519aae03d",
-        "choice_type": "multi"
     },
     {
         "question": "In which order the airway of the neonates, who require suctioning, be suctioned during neonatal resuscitation?",

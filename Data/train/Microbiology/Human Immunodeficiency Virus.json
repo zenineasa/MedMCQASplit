@@ -65,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about prions is:",
-        "exp": "Ans. is 'b' i. e., Associated with misfolding of protein Prions are small protein-containing infectious particles with no detectable nucleic acid. They were suspected to be viruses but otherwise do not conform to the standard definition of viruses. They differ from the viruses in their many properties. The prions show following characteristics: 1. Prions like viruses are filterable. 2. They apparently lack any virion structure or genome. 3. Unlike viruses, they are unusually resistant to inactivation by heat, disinfectants and radiation. 4. They do not elicit any specific immune response in the infected host.",
-        "cop": 2,
-        "opa": "Encoded by viral genome",
-        "opb": "Associated with misfolding of protein",
-        "opc": "Non infectious",
-        "opd": "Immunogenic",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "368a71a4-021e-40b3-a572-662f08607853",
-        "choice_type": "multi"
-    },
-    {
         "question": "The tissue of origin of the Kaposi's sarcoma is:",
         "exp": "Ans. is 'b' i. e., Vascular(Ref: Harrison, 18th/e, p. 1565; 17th/e, p. 1186; Robbins, 7th p. 54, 550; Ananthanarayan, 9th/e, p. 576 and 8th/e, p. 575)* Kaposi sarcoma is an intermediate grade, multicentric vascular tumour.* It is caused by HHV-8. It is a cancer that develops from the cells that line lymph or blood vessels. This type of Kaposi sarcoma develops in people who are infected with HIV. Most visual signs of this sarcoma are lesions on the skin (flat, painless spots that are red or purple on white skin and bluish, brownish or black on dark skin). It affects 8 times more men than women.",
         "cop": 2,
@@ -128,32 +115,6 @@
         "topic_name": "Human Immunodeficiency Virus",
         "id": "6d268aef-31ca-4f68-994d-b6b6fd1d7cd3",
         "choice_type": "single"
-    },
-    {
-        "question": "True about HIV:",
-        "exp": "Ans. is. 'd' i. e., Male to female transmission > female to male transmission(Ref: Harrison, 18th/e, p. 1510, 1512, 1515; 17th/e, p. 1143)* Male to female transmission is approximately eight times more efficient than female to male transmission.* Seminal fluid (Semen) and vaginal fluid can transmit the infection.* Caesarean section (LSCS) results in decreased transmission from mother to infant.* After percutaneous injury Hepatitis B virus is more infectious than HIV. HBV - 6 to 30% chance of transmission. HCV - 1. 8%. HIV - 0. 3%.",
-        "cop": 4,
-        "opa": "Not transmitted through semen",
-        "opb": "More chances of transmission during LSCS than normal labour",
-        "opc": "More infectious than hepatitis B",
-        "opd": "Male to female transmitted > female to male",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "c0f6aa81-2122-4a9f-8774-ff4da0ed1161",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Reverse Transcriptase is -",
-        "exp": "Ans. is 'c' i. e. RNA dependent DNA polymerase The Characteristic biochemical feature of retroviruses is the presence of RNA dependent DNA polymerase (reverse transcriptase)o Wrhen the virus infects a cell, the viral RNA is transcribed by reverse transcriptase, first into single stranded DNA and then to double stranded DNA",
-        "cop": 3,
-        "opa": "DNA polymerase",
-        "opb": "DNA dependant RNA polymerase",
-        "opc": "RNA dependant DNA polymerase",
-        "opd": "None",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "aa834da6-7ea8-478c-bddc-033f62fbb6b0",
-        "choice_type": "multi"
     },
     {
         "question": "An HIV patient complains of visual disturbances. Fundal examination shows bilateral retinal exudates and perivascular hemorrhages. Which of the following viruses are most likely to be responsible for this retinitis?",
@@ -208,19 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The receptor through which M - tropic HIV strains bind?",
-        "exp": "Ans. is 'a' i. e., CCR5(Ref: Chemokines in Disease, 4th/e, p. 136)* Macrophage (M - tropic) strains of HIV - 1, or non - synctia inducing strains (NSI) use the beta chemokine receptor CCR5 for entry and are thus able to replicate in macrophages and CD4+ T - cells. These strains are now called R5 viruses.* The normal ligands for this receptor, RANTES, macrophage inflammatory protein (MIP) - l - beta and MIP-1- alpha, are able to suppress HIV - 1 infection in vitro. This CCR5 coreceptor is used by almost all primary HIV - 1 isolates of viral genetic subtype.* T - tropic isolates or synctia inducing (SI) strains replicate in primary CD4+ T cells as well as in macrophages and use the alpha - chemokine receptor, CXCR4, for entry.",
-        "cop": 1,
-        "opa": "CCR5",
-        "opb": "CXR4",
-        "opc": "CXCR5",
-        "opd": "Any of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "1b73b9eb-86c2-43a7-bbe1-aa0bf517a085",
-        "choice_type": "multi"
-    },
-    {
         "question": "In a patient having HIV infections, oral ulcer is most commonly due to:",
         "exp": "Ans. is 'a' i. e., Candida (Ref: Harrison, 18th/e, p. 1549, 1550; 17th/e, p. 1174)* Amongst the given options, only Candida causes oral lesion in AIDS patient.",
         "cop": 1,
@@ -260,19 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "HIV virus primarily replicates in?",
-        "exp": "ANSWER: (A) CD4 helper T cells. REF: Jawetz microbiology 24th ed chapter 12\"HIV infects vital cells in the human immune system such as helper T cells (specifically CD4+ T cells), macrophages, and dendritic cells\"TROPISM: The term viral tropism refers to which cell types HIV infects. HIV can infect a variety of immune cells such as CD4+ T cells, macrophages, and microglial cells. Macrophage (M-tropic) strains of HIV-1 use the b-chemokine receptor CCR5 for entry and are, thus, able to replicate in macrophages and CD4+ T cells. T-tropic isolates replicate in primary CD4+ T cells as well as in macrophages and use the a-chemokine receptor, CXCR4, for entry. Dual-tropic HIV-1 strains are thought to be transitional strains of HIV-1 and thus are able to use both CCR5 and CXCR4 as co-receptors for viral entry. HIV strain. Tropism. Target. Chemokine Coreceptor. R5 strainM-tropic. Macrophages. CCR-5. X4 strainT-tropic. CD4 T cells. CXCR-4. X4. R5 strain. Dual tropic. Both macrophages & CD4 T cells. Both CCR5 & CXCR-4 Steps in HIV replication cycle: Fusion of the HIV cell to host cell surface. HIV RNA, reverse transcriptase, integrase and other viral proteins enters into the host cell. Viral DNA is formed by reverse transcription. Viral DNA is transported across the nucleus and integrates into the host DNANew viral RNA is used as genomic RNA and to make viral proteins. New viral RNA and proteins move to cell surface and a new immature HIV virus forms. The virus matures by protease releasing individual HIV proteins",
-        "cop": 1,
-        "opa": "CD4 helper T cells",
-        "opb": "CD8 T cells",
-        "opc": "Natural killer cells",
-        "opd": "None",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "bf2e40b5-ebb1-44f6-87c9-53555a69aad9",
-        "choice_type": "multi"
-    },
-    {
         "question": "When was HIV virus discovered?",
         "exp": "Ans. is 'a' i. e., 1983(Ref: Harrison, 18th/e, p. 3146)* In 1983, human immunodeficiency virus (HIV) was isolated from a patient with lymphadenopathy, and by 1984 it was demonstrated clearly to the causative agent of AIDS.",
         "cop": 1,
@@ -284,19 +219,6 @@
         "topic_name": "Human Immunodeficiency Virus",
         "id": "507f2535-221f-419b-a271-e2cee9336892",
         "choice_type": "single"
-    },
-    {
-        "question": "A HIV mother delivers a baby All are true, EXCEPT:",
-        "exp": "Ans. is 'a' i. e Risk of HIV in baby is upto 90% Mother to infant transmission of HIV varies from 13 % -48 % in untreated patients. It never reaches 90 %. HIV can be transmitted from mother to infant in the following ways. In utero. During birth process. Through breastfeeding (usually occurs during the 1st 6 months). There is some confusion regarding choice B. The definitive diagnosis of HIV infection in children born to HIV infected mother is difficult because infected mothers transmit Ig. GAb to the newborn transplacentally. Children bom to infected mothers are usually Ab positive at birth but only 15-30% are actually infected. These antibodies remain at significant level until 18 months. Ig. GAb test are not reliable indicators of infection status in a child before 18 months. But now tests are available that can diagnose definite hiv infection even in new born. These are. Detection of P24 Antigen. ELISA for detection of IgA& IgM. PCR to detect viral nucleic acid in peripheral blood.",
-        "cop": 1,
-        "opa": "Risk of HIV in the baby is upto 90%",
-        "opb": "HIV infection cannot be diagnosed in the baby with available methods.",
-        "opc": "AIDS can be transmitted from mother to child during delivery.",
-        "opd": "Breast feeding can transmit AIDS",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "6f87af77-82e4-4eef-b802-87fd47b0428f",
-        "choice_type": "multi"
     },
     {
         "question": "Function of gp 120 of HIV envelop-",
@@ -325,58 +247,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Regarding HIV infection, not true is:",
-        "exp": "Ans. is 'c' i. e., Dendritic cells do not support replication(Ref: Ananthanarayan, 9th/e, p. 574, 577 and 8th/e, p. 573; Harrison, 18th/e, p. 1531; 17th/e, p. 1159; Harrison, 16th ed., p. 1095)* Follicular dendritic cells from tonsil can be infected by HIV without the involvement of CD4.* Dendritic cells play an important role in the initiation of HIV infection.* \"Complexes of infected CD4+T Cells and dendritic cells provide an optimal microenvironment for virus replication. \"",
-        "cop": 3,
-        "opa": "p24 is used for early diagnosis",
-        "opb": "Lysis of infected CD4 cells is seen",
-        "opc": "Dendritic cells do not support replication",
-        "opd": "Macrophage is a reservoir for the virus",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "06d1fb6e-74f6-42c4-a7db-5fe3d67fc2e4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Regarding prion which of the following statements is true?",
-        "exp": "Ans. is 'b' i. e., It catalyzes abnormal folding of other protein Prions are small protein-containing infectious particles with no detectable nucleic acid. They were suspected to be viruses but otherwise do not conform to the standard definition of viruses. They differ from the viruses in their many properties. The prions show following characteristics: 1. Prions like viruses are filterable. 2. They apparently lack any virion structure or genome. 3. Unlike viruses, they are unusually resistant to inactivation by heat, disinfectants and radiation. 4. They do not elicit any specific immune response in the infected host.",
-        "cop": 2,
-        "opa": "It is protein product coded in viral DNA",
-        "opb": "It catalyzes abnormal folding of other protein",
-        "opc": "It protects disulfide bond from oxidation",
-        "opd": "It cleaves normal proteins",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "02bf3ed5-8237-431e-865e-fc936bec01a5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about HIV all except:",
-        "exp": "Ans. is 'd' i. e., Most common cause of seizure is Candida (Ref: Harrison, 18th/e, p. 1559, 1560)* Most common cause of seizure in the HIV infected patient is toxoplasma.* Progressive multifocal leukoencephalopathy (PML) is a common CNS lesion in HIV infected patients. It is caused by a papovavirus called JC virus.* Primary CNS lymphoma is one of the most common brain tumor in HIV infected patients.* CMV is the most common cause of retinitis in HIV infected patients.",
-        "cop": 4,
-        "opa": "PML caused by JC virus",
-        "opb": "CNS lymphoma is the most common CNS tumor",
-        "opc": "CMV is the most common cause of retinitis",
-        "opd": "Most common cause of seizure is Candida",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "b8dcfb85-3681-4736-b500-d6dc78613c00",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following is the marker of HIV infection in blood:",
-        "exp": "Ans. is 'a', i. e., Reverse transcriptase(Ref: Harrison, 18th/e, p. 1539, 1540; 19th/e, p. 1219)* Plasma level HIV RNA can be measured by reverse - transcriptase polymerase chain reaction (RT - PCR) or branched DNA assay (b DNA).* Other markers of HIV infection:-p24 antigen.-Double stranded DNA.",
-        "cop": 1,
-        "opa": "Reverse transcriptase",
-        "opb": "DNA polymerase",
-        "opc": "RNA polymerase",
-        "opd": "None",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "b7ec42d4-2dd3-4dbc-a6fa-863b1063e070",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common genital lesion in HIV patient is:",
         "exp": "Ans. is 'b' i. e., Herpes * Herpes simplex (in the developed world) and chancroid (in Africa) are the most common cause of genital ulceration in HIV infected patients.* Herpesvirus infections are common in AIDS patients, and multiple herpesviruses are frequently detected being shed in saliva. Cytomegalovirus retinitis is the most common severe ocular complication of AIDS.",
         "cop": 2,
@@ -401,19 +271,6 @@
         "topic_name": "Human Immunodeficiency Virus",
         "id": "73ee1992-6c2d-416a-a82f-fb7121644077",
         "choice_type": "single"
-    },
-    {
-        "question": "Regarding HIV which of the following is not true?",
-        "exp": "Ans. is 'a' i. e., It is a DNA retrovirus(Ref: Ananthanarayan, 9th/e, p. 571, 574 and 8th/e, p. 570)* HIV is a RNA virus (not DNA).* It contains reverse transcriptase enzyme, which is a characteristics feature of retroviruses.* The receptor for the virus is the CD4 antigen on surface. The cells affected are:- CD4 T Cells (major target).- B lymphocytes.- Monocytes and macrophages.- Langerhans cells in dermis.- Glial cells and microglia in the CNS.- Follicular dendritic cells from tonsils can be infected by HIV without the involvement of CD4.* CD4 T cells are reduced and T4: T8 Cell ratio is reversed.",
-        "cop": 1,
-        "opa": "It is a DNA retrovirus",
-        "opb": "Contains Reverse Transcriptase",
-        "opc": "May infect host CD4 cells other than T lymphocytes",
-        "opd": "Causes a reduction in host CD4 cells at late stage of disease",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "a1e60bb1-1178-4415-b907-9eddcf4b1435",
-        "choice_type": "multi"
     },
     {
         "question": "Which is not an opportunisitic infection in AIDS?",
@@ -518,18 +375,5 @@
         "topic_name": "Human Immunodeficiency Virus",
         "id": "1849ad68-5bee-4287-8105-ad56af89fbe7",
         "choice_type": "single"
-    },
-    {
-        "question": "HIV primarily infects?",
-        "exp": "ANSWER: (A) CD4+ cells. REF: Jawetz, Melnick, & Adelberg's Medical Microbiology, 24. TH edition Chapter 44. Repeat Microbiology December 2010",
-        "cop": 1,
-        "opa": "CD4* cells",
-        "opb": "CD8+ cells",
-        "opc": "NK cells",
-        "opd": "All of these",
-        "subject_name": "Microbiology",
-        "topic_name": "Human Immunodeficiency Virus",
-        "id": "732041e5-4282-45b0-bcbb-08338f507f91",
-        "choice_type": "multi"
     }
 ]

@@ -65,32 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements regarding ACE inhibitors is true?",
-        "exp": "Ans. (B) Omission of prior diuretic dose decreases the risk of postural hypotension(Ref: KDT 8th/e p531). Angiotensin Converting Enzyme Inhibitors (ACEI)*This group of drugs inhibits the enzyme kininase II or ACE. So, these drugs decrease the activity of RAAS and also potentiate the vasodilatory action of bradykinin. Because these are preventing the conversion of angiotensin I to angiotensin II, so these can decrease the action of the former but not the latter.*ACEI are used for the treatment of hypertension, CHF, evolving MI, diabetic nephropathy, diabetic retinopathy, non-diabetic renal disease and also in scleroderma crisis. These drugs reduce proteinuria in diabetic as well as non-diabetic renal disease and also prevent the manifestations of scleroderma crisis which are mediated by angiotensin II.*This group of drugs is more effective in sodium depleted states (like diuretic use) because activity of RAAS is more in such cases (to compensate for salt loss). These drugs may cause postural hypotension in diuretic treated patients, which otherwise is a relatively rare adverse effect.*Lisinopril is longer acting than enalapril. Former can be given once daily whereas latter is required twice a day.",
-        "cop": 2,
-        "opa": "These inhibit the conversion of angiotensinogen to angiotensin-1",
-        "opb": "Omission of prior diuretic dose decreases the risk of postural hypotension",
-        "opc": "Lisinopril is shorter acting than enalapril",
-        "opd": "These are contra-indicated in diabetic patients.",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "f0a66bdc-a03c-431f-834e-882ef1c94e3c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are toxicities seen with Amiodarone therapy except -",
-        "exp": "Ans. is 'd' i. e., Productive cough Amiodarone is a class III antiarrhythmic drug and thus blocks potassium channel. It acts by increasing the action potential duration and effective refractory period. In spite of its present classification as class 3 drug, amiodarone also significantly blocks inactivated sodium channels. It also has weak adrenergic and calcium channel blocking actions. Consequence of these actions include slowing of the heart rate and AV node conduction. Amiodarone is the most powerful antiarrhythmic drug available for the treatment and prevention of both atrial and ventricular arrhythmias. Adverse effect:-Even short term use of Amiodarone causes serious toxicity. Amiodarone accumulates in many tissues which includes heart, lung, liver and skin. Pulmonary toxicity. It is the most important adverse effect. It is dose related. Fatal pulmonary fibrosis may be observed even in low doses. Patient usually presents with cough, chest pain and shortness of breath. Symptoms usually start with dry cough and dyspnoea. Remember, that patients on amiodarone often have dyspnoea attributable to other problems such as heart failure, so amiodarone lung toxicity is difficult to diagnose. Liver toxicity. Abnormal liver function and hepatitis develops during amiodarone therapy. (I have not got any documented evidence of liver cirrhosis). Skin deposits. Skin deposits results in photodermatitis and gray blue skin discoloration in sun exposed areas e. g. the malar region. Corneal micro deposits. Corneal micro deposits are seen in virtually all patients treated with Amiodarone after few weeks of treatment. Sometimes optic neuritis may develop and progress to blindness. Effect of Amiodarone on Thyroid. Amiodarone is a potential source of large amount of inorganic iodine and it also blocks the peripheral conversion of thyroxine (T4) to triiodothyronine (T3). Thus Amiodarone may result in hypothyroidism or hyperthyroidism. Thyroid function should be evaluated prior to initiation of treatment and monitored periodically. Cardiac toxicity. Amiodarone may produce symptomatic bradycardia and heart block in patients with preexisting sinus or A-V node disease.",
-        "cop": 4,
-        "opa": "Pulmonary fibrosis",
-        "opb": "Corneal micro-deposits",
-        "opc": "Cirrhosis of liver",
-        "opd": "Productive cough",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "5876fbd3-21a7-4bcb-ade1-29b0fad5c6c1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Side effect of minoxidil which is used as therapeutic use?",
         "exp": "Ans. B. Hair growth. Minoxidil is arteriolar dilator. Its peculiar side effect is hair growth which is used in patients suffering from alopecia.",
         "cop": 2,
@@ -115,19 +89,6 @@
         "topic_name": "C. V. S",
         "id": "cb95e94b-c11c-4e9a-b32d-33a645866f4d",
         "choice_type": "single"
-    },
-    {
-        "question": "Drug used in CHF for relief of congestive symptoms and restoration of cardiac performance but does not have an inotropic action is -",
-        "exp": "Ans. is 'd' i. e., Nebivolol * There are two distinct goals of drug therapy in CHF: a) Relief of congestive/low output symptoms and restoration of cardiac performance. This can be achieved by:* Inotropic drugs --Digoxin, dobutamine/ dopamine, amrinone/milrinone* Diuretics--Furosemide, thiazides* RAS inhibitors--ACE inhibitors/ARBs* Vasodilators--hydralazine, nitrate, nitroprusside* b blocker--Metoprolol, bisoprolol, carvedilol, Nebivololb) Arrest/reversal of disease progression and prolongation of survival, possible with:* ACE inhibitors/ ARBs, b blockers* Aldosterone antagonist--Spironolactone, eplerenone",
-        "cop": 4,
-        "opa": "Digoxin",
-        "opb": "Dobutamine",
-        "opc": "Amrinone",
-        "opd": "Nebivolol",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "b60b8042-60b2-4f76-8df6-acad77160153",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is a potassium channel opener?",
@@ -169,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Digoxin toxicity is precipitated by all except:",
-        "exp": "Ans. is 'c' Hepatic disease Digoxin toxicity is enhanced by renal failure as it is excreted through kidneys where as digitoxin toxicity is enhanced by liver failure because it is eliminated by hepatic metabolism. Other factors precipitating Digitalis toxicity. Advanced age. Acute myocardial infarction or ischemia. Hypoxemia. Hypomagnesemia. Renal insufficiency. Hypercalcemia. Electrical cardioversion. Hypothyroidism. Hypokalemia (most common precipitating cause of digitalis intoxication. This often occurs in patients with heart failure as a result of diuretic therapy and secondary hyperaldosteronism). ALSO REMEMBERThe administration of following drugs raises the serum concentration of Digoxin by reducing both the renal and non renal elimination of digoxin and by reducing its volume of distribution. Quinidine. Verapamil. Amiodarone. Propafenone",
-        "cop": 3,
-        "opa": "Electrolyte disturbance",
-        "opb": "Acute myocardial infarction",
-        "opc": "Hepatic disease",
-        "opd": "Renal disease",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "a223b191-1d72-4ea0-8b61-79caa056620d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mechanism of action of statins is by:",
         "exp": "Ref: Goodman & Gillman's 13th ed. P 609* Statins exert their major effect--reduction of LDL levels--through a mevalonic acid-like moiety that competitively inhibits HMG-CoA reductase, which is the rate limiting enzyme in the cholesterol biosynthesis.* Drugs are atorvastatin, rosuvastatin, fluvastatin, lovastatin, pravastatin, simvastatin, pitavastatin.* Food increases absorption of statins* Statins are most active at night, so given at night except rosuvastatin and atorvastatin which are longest acting statins.",
         "cop": 1,
@@ -193,19 +141,6 @@
         "topic_name": "C. V. S",
         "id": "12d8a352-9c42-489f-abba-12908a10629c",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following drugs are used in hypertensive crisis except:",
-        "exp": "Ans. B. Pindolol. Labetalol is used as hypertensive emergency in pregnancy, nitroprusside is given in patients with aortic dissection. Nifedipine though rarely used, can be given as sublingual therapy for rapid control of blood pressure.",
-        "cop": 2,
-        "opa": "Labetalol",
-        "opb": "Pindolol",
-        "opc": "Nitroprusside",
-        "opd": "Nifedipine",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "95da7d54-ff4c-4676-830b-38b2b4ed86e7",
-        "choice_type": "multi"
     },
     {
         "question": "A 59 years old female patient taking medications for hypertension and congestive cardiac failure. She suddenly develops skin rashes along with swelling of tongue, lips as well as eyes, causing her breathing difficulty. Which one of the following medications is the reason for the untoward effects?",
@@ -234,19 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following antiarrhythmic drugs can develop Long QT syndrome?",
-        "exp": "Ans. is 'd' i. e., All the above Proarrhythmic Manifestations of Most Frequently Used Antiarrhythmic Agents. Drug. Common Proarrhythmic Toxicity. Amiodarrone. Sinus bradycardia, AV block, increase in defibrillation threshold. Rare: long QT and torsades des pointes, 1: 1 ventricular conduction with atrial flutter. Adenosine. All arrhythmias potentiated by profound pauses, atrial fibrillation. Digoxin. High - grade AV block, fascicular tachycardia, accelerated junctional rhythm, atrial tachycardia. Disopyramide. Long QT and torsades des pointes, 1: 1 ventricular responses to atrial flutter; increased risk of some ventricular tachycardias in patients with structural heart disease. Dofetilide. Long QT and torsades des pointes. Dronedarone. Bradyrrhythmias and AV block, long QT and torsades des pointes. Flecainides1: 1 Ventricular response to atrial fluter; increased risk of some ventricular tachycardias in patients with structural heart disease; sinus bradycardia. Ibutilide. Long QT and torsades des pointes. Procainamide. Long QT and torsades des pintes 1: 1 ventricular response to atrial fluter; increased risk of some ventricular tachycardias in patients with structural heart disease. Propafenone1: 1 Ventricular response to atrial flutter; increased risk of some ventricular tachycardias in patients with structural heart disease; sinus bradycardia. Quinidine. Long QT and torsades des pointes, 1: 1 ventricular response to atrial flutter; increased risk of some ventricular tachycardias in patients with structural heart disease. Sotalol. Long QT amd tprsades des pointes, sinus bradycardia",
-        "cop": 4,
-        "opa": "Ibutilide",
-        "opb": "Dofetilide",
-        "opc": "Sotalol",
-        "opd": "All the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "93896500-6fff-4ced-a5eb-d7fa9d5e8a1e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Quinidine belongs to class antiarrhythmic drug is",
         "exp": "i. e. (class I): (510-17-KDT 6th) (367-68-MDT-l1)ANTIARRHYTHMIC DRUGSClass Ia Sodium channel blockers* Depress phase O depolarization* Slow conduction, prolong repolarization Drugs* Quinidine, Procainamide, Disopyramide, Moricizine. Class Ib * Shorten repolarization Drugs* Lidocaine, Mexiletine. Class IC * Depress phase O repolarization, slow conduction* Propafenone is a week calcium channel blocker and b-blockers and prolongs action potential and refractionariness Drugs* Flecainide, Propafenone. Class II b-blockers* Slow AV conduction Drugs* Esmolol, Propanolol, Metoprolol. Class III * Prolong action potential* Prolong repolarization and ERP Drug* Amiodarone, Bretylium (also class II) Dofetilide, Ibutilide, Dronedarone, Sotalol. Class IV Calcium Channel blockers Drugs* Verapamil, diltiazem",
         "cop": 1,
@@ -271,32 +193,6 @@
         "topic_name": "C. V. S",
         "id": "c1866e59-cff9-484d-acd3-ee2e8e513b21",
         "choice_type": "single"
-    },
-    {
-        "question": "Drugs increasing renin levels except:",
-        "exp": "Ans. A. Clonidine. Renin levels are increased when there is reflex sympathetic outflow. Vasodilators and ACE inhibitors results in reflex increase in renin activity. Clonidine on the other hand decrease the sympathetic outflow.",
-        "cop": 1,
-        "opa": "Clonidine",
-        "opb": "Hydralazine",
-        "opc": "Nifedipine",
-        "opd": "Captopril",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "822901d2-cda0-4a65-ab58-25adc638df17",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Lignocaine is useful:",
-        "exp": "Ans. C. Digitalis induced toxicity. DOC for atrial fibrillation- verapamil. PSVT- adenosine, Digitalis induced toxicity- lignocaine.",
-        "cop": 3,
-        "opa": "Atrial fibrillation",
-        "opb": "PSVT",
-        "opc": "Digitalis induced toxicity",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "3b0f58c9-dab3-4385-b934-c80bc7837294",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is NOT a frontline antihypertensive agent?",
@@ -375,32 +271,6 @@
         "topic_name": "C. V. S",
         "id": "8ebea96e-f872-41db-ac97-49070fbed2dd",
         "choice_type": "single"
-    },
-    {
-        "question": "Atenolol is predominantly excreted by -",
-        "exp": "Ans. is 'b' i. e., Renal excretion Remember* Nodalol is longest acting b-blocker* Esmolol is shortest acting b-blocker* Acebutolol possesses all activities i. e., cardioselectivity, partial agonist activity, membrane stablizing activity and lipid insolubility.* Beta blockers approved for treatment of CHF: Carvedilol (most widely used), metaprolol, bisoprolol.* Carvedilol is a b1 + b2 + a1 adrenoreceptor blocker with a: b blocking property of 1: 9. It produces peripheral vasodilatation due to a-1 blockade as well as calcium channel blockade (direct effect). It also has antioxidant and antimitotic properties.* Atenolol, sotalol and nodalol are primarily excreted by kidney - should not be given in renal failure.* Sotalol, penbutolol and pindolol have almost 100% bioavailibility.* Penbutolol has maximum oral absorption.* Carvedilol has maximum plasma protein binding.* Celiprolol has minimum plasma protein binding.* Butoxamine is a selective b2 blocker.",
-        "cop": 2,
-        "opa": "Hepatic metabolism",
-        "opb": "Renal excretion",
-        "opc": "Both hepatic and renal excretion",
-        "opd": "Non enzymatic elimination",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "2da03921-918a-4525-9808-24a6daa21cd7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following are the adverse effect/s of amiodarone",
-        "exp": "Ans. is 'd' i. e., All of the above Following are the adverse effects of amiodarone* Fall in BP, bradycardia and myocardial depression occurs on i. v. injection.* Photosensitization and skin pigmentation occurs in about 10% of patients.* Corneal microdeposits may cause headlight dazzle, but is reversible on discontinuation.* Pulmonary fibrosis and alveolitis is most serious side effect seen on prolonged use.* Peripheral neuropathy generally manifests as the pelvic and shoulder muscle weakness.* Amiodarone interferes with thyroid function and prevents peripheral conversion of T4 to T3 and hypothyroidism.",
-        "cop": 4,
-        "opa": "Pulmonary fibrosis",
-        "opb": "Corneal microdeposits",
-        "opc": "Photosensitivity",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "0c1e3433-4349-48cd-9268-30be88e3f748",
-        "choice_type": "multi"
     },
     {
         "question": "A Patient, who is on anti-hypertensive drug, develops dry cough. Which of the following drug might be responsible for the condition:",
@@ -533,45 +403,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 49-year-old male is diagnosed with hypertension. He is a known asthmatic. His creatinine and potassium are both slightly elevated. Which of the following drugs would be appropriate in his case?",
-        "exp": "Answer: a) Amlodipine* Amlodipine is a dihydropyridine-type calcium channel blockers. Dihydropyridine calcium channel blockers (amlodipine) do not have contraindications related to renal impairment or potassium levels and can be safely administered in patients with asthma.* Hydrochlorothiazide is metabolized by the kidney, so it would not be a good choice in this patient as there is renal impairment (as indicated by elevated creatinine), because the drug itself can aggravate renal failure.* Spironolactone is a potassium-sparing diuretic. In this patient, it would only worsen the already elevated potassium level.* Beta-blockers are contraindicated in the presence of asthma. TREATMENT OF HYPERTENSION WITH CO-EXISTING CONDITIONSConcomitant condition. Drugs preferred. Drugs to be avoided. Anginab blocker, CCBVasodilators. BHPa-blocker Diabetes and hyperlipidemia. ACEI, ARB, CCB, a-blockerb-blocker, diuretics. Elderly and isolated systolic hypertension. Diuretics, CCB Low renin hypertension. Diuretics, CCB High renin hypertension. ACEI, ARB, b-blocker Asthma. CCB, diuretics, ACEI, ARBb-blocker. CHFACEI, diuretics. CCBPost MIb-blocker, ACEI DM with CRF/proteinuria. ACEI Peripheral Vascular Disease. CCB, a-blockerb-blocker. Thyrotoxicosisb-blocker. Vasodilators* Dihyropyridine calcium channel blockers work to block vascular calcium channels resulting in vascular smooth muscle relaxation and have no specific contraindications.* They can cause peripheral edema (due to venous dilation) and dizziness.* Non-dihydropyridine calcium channel blockers (verapamil and diltiazem) work mostly on cardiac calcium channels and thus decrease the heart rate and inotropy of the heart.* They can also be used to treat hypertension and are contraindicated in systolic congestive heart failure.* Hydrochlorothiazide is not effective to treat hypertension when renal insufficiency is present. Propranolol is a non-cardioselective beta-blocker (blocks both beta-1 and beta-2 receptors) which can worsen asthmatic bronchoconstriction (cardioselective beta-blockers do this to a lesser degree). Spironolactone, an aldosterone antagonist, is also contraindicated in renal insufficiency and with elevated potassium levels. Recommendations of JNC-8 (Joint National Committee)* >60 years of, not diabetic/ not CKD:, target BP level; <150/90 mm. Hg* 18 to 59 years without major comorbidities + >60 years with DM/ CKD/Both; goal is <140/90 mm. Hg.* First-line medications: thiazide-type diuretics, calcium channel blockers (CCBs), ACEIs, and ARBs* Second- and third-line: higher doses or combinations of ACEIs, ARBs, thiazide-type diuretics, and CCBs.* Later-line alternatives: Beta-blockers, Alpha-blockers, Alphal/beta-blockers (eg, carvedilol), Vasodilating beta-blockers (eg, nebivolol), Central alpha2-adrenergic agonists (eg, clonidine), Direct vasodilators (eg, hydralazine), Loop diuretics (eg, furosemide), Aldosterone antagonists (eg, spironolactone), Peripherally acting adrenergic antagonists (eg, reserpine), * When initiating therapy, patients of African descent without chronic kidney disease should use CCBs and thiazides instead of ACEIs.* Use of ACEIs and ARBs is recommended in all patients with CKD.* ACEIs and ARBs should not be used in the same patient simultaneously.* CCBs and thiazide-type diuretics should be used instead of ACEIs and ARBs in patients over the age of 75 with impaired kidney function due to the risk of hyperkalemia, increased creatinine, and further renal impairment. Preferred Parenteral Drugs fc>r Selected Hypertensive Emergencies. Hypertensive encephalopathy. Nitroprusside, nicardipine, labetalol. Malignant hypertension (for IV therapy). Labetalol, nicardipine, nitroprusside, enalaprilat. Stroke. Nicardipine, labetalol, nitroprusside. Myocardial infarction/unstable angina. Nitroglycerin, nicardipine, labetalol, esmolol. Acute left ventricular failure. Nitroglycerin, enalaprilat, loop diuretics. Aortic dissection. Nitroprusside, esmolol, labetalol. Adrenergic crisis. Phentolamine, nitroprusside. Postoperative hypertension. Nitroglycerin, nitroprusside, labetalol, nicardipine. Preeclampsia/eclampsia of pregnancy. Hydralazine, labetalol, nicardipine",
-        "cop": 1,
-        "opa": "Amlodipine",
-        "opb": "Spironolactone",
-        "opc": "Propranolol",
-        "opd": "Hydrochlorthiazide",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "fb47d590-26ea-4780-aad0-88d47fe31e5e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about diazoxide except:",
-        "exp": ". Ans. c. Causes severe hypoglycemia Diazoxide produces hyperglycemia by decreasing insulin secretion. It is used to treat various forms of hypoglycemia. Diazoxide* Diazoxide is directly acting arteriolar dilator* Causes arteriolar dilatation with little effects on veins. Mechanism of Action:* Diazoxide is potassium channel activator, which causes local relaxation in smooth muscle by increasing membrane permeability to potassium ions. This switches off voltage gated calcium ton channel, which inhibits the generation of action potential. Characteristic Features:* When used as an intravenous anti hypertensive, diazoxide causes excessive hypotension.* Hypotension due to diazoxide has resulted in stroke and myocardial infarction.* Diazoxide produces hyperglycemia by decreasing insulin secretion. It is used to treat various forms of hypoglycemia.* Due to its hyperglycemia action it is a useful drug for patients with chronic hypoglycemia from excess endogenous insulin secretion, either from an islet cell tumor (insulinoma) or islet cell hyperplasia.",
-        "cop": 3,
-        "opa": "K+ channel opener",
-        "opb": "Can be used as antiphypertensive agent serve",
-        "opc": "Causes severe hypoglycemia",
-        "opd": "Used in insulinoma",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "984eec50-05d5-4ae7-b5b7-d4150e329f0e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Absolute contraindications for fibrinolytic therapy are?",
-        "exp": "Ans. D. All of abovea. The major toxicity of all thrombolytic agents is hemorrhage, which results from two factors: 1) the lysis of fibrin in hemostatic plugs at sites of vascular injury, and 2) the systemic lytic state that results from systemic plasmin generation, which produces fibrinogenolysis and degradation of other coagulation factors (especially factors V and VIII). b. The contraindications to fibrinolytic therapy are listed in Table. Patients with these conditions should not receive such treatment. 1. Absolute and Relative Contraindications to Fibrinolytic Therapy. Absolute Contraindications. Prior intracranial hemorrhage. Known structural cerebral vascular lesion. Known malignant intracranial neoplasm. Ischemic stroke within 3 months. Suspected aortic dissection. Active bleeding or bleeding diathesis (excluding menses). Significant closed-head trauma or facial trauma within 3 months. Relative Contraindications. Uncontrolled hypertension (systolic blood pressure >180mm Hg or diastolic blood pressure >110mm. Hg). Traumatic or prolonged CPR or major surgery within 3 weeks. Recent (within 2-4 weeks) internal bleeding. Non compressible vascular punctures. For streptokinase: prior exposure (more than 5 days ago) or prior allergic reaction to streptokinase. Pregnancy. Active peptic ulcer. Current use of warfarin and INR >1. 7",
-        "cop": 4,
-        "opa": "Prior intracranial hemorrhage",
-        "opb": "Ischemic stroke within 3 months",
-        "opc": "Suspected aortic dissection",
-        "opd": "All of above",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "e7b95d2c-9393-46c6-b430-f0e276808fcb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Nitroglycerine is used in Angina pectoris. The mechanism of action is primarily a",
         "exp": "(Post capillary venodilator): (540 KDT 7th edition)NITRATES (GTN, Nitroglycerine)* Most prominent action is exerted on vascular smooth muscle. Nitrates dilate veins more than arteries|Peripheral pooling of blood|Decreased venous return (ie preload on heart is reduced)|End diastolic size and pressure are reduced|Decreased cardiac work* Nitroglycerine are used sublingually because terminates first pass metabolism* *** Nitroglycerine is effective when retained sublingually because it is non-ionic and has very high lipid solubility (22-Goodman)",
         "cop": 2,
@@ -596,45 +427,6 @@
         "topic_name": "C. V. S",
         "id": "00391293-475d-4a29-ab75-9fbb429fd161",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following anti-arrhythmic drugs are from class Ic EXCEPT:",
-        "exp": "Ref: KDT, 6th ed. pg. 511. Anti-arrhythmic drugs. Class. Actions. DrugsI- (Na+)(Na+ channel blockers) Ia: Na++K+ channel blocking property. Quinidine, Procainamide, Disopyramide. Ib: Na+&K+ channel opening property. Tocainide, Lidocaine, Phenytoin, Mexiletine. Ic: no effect on K+ channel. Flecainide, Encainide, Propafenone. II-(b). Antiadrenergic agents (b blockers). Propranolol, Esmolol, (Sotalol is Class III mainly)III- (K). Agents widening AP (Prolong repolarization and ERP). Ibutilide, Sotalol, Bretylium, Amiodarone, Dronadarone, Dofetilide. IV- (Ca+). Calcium channel blockers. Verapamil, Diltiazem. VDrugs with other mechanism of actions. Magnesium (DOC in torsades de pointes) Atropine: DOC for Bradycardia a and AV Block Digoxin. Adenosine: DOC for PSVTNote: Class IA agents also have Class III property; propranolol has Class I action as well; sotalol and bretylium have both class II and class III actions.",
-        "cop": 3,
-        "opa": "Encainide",
-        "opb": "Hecainide",
-        "opc": "Tocainide",
-        "opd": "Propafenone",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "2ecbda74-4f98-48b3-b092-c21372e48214",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Nitrogylcerine are used sublingually because:",
-        "exp": "(Terminates First pass metabolism): Ref: 489-KDT, 463-BB (524-KDT 6th)* Organic nitrates are lipid soluble well absorbed from buccal mucosa, intestines and skin, all except isosorbide mononitrate undergo extensive but variable first pass metabolism in liver* Nitrates absorbed from the gut, however, are subject to extensive first pass metabolilsm in the liver, as is shown by the substantially larger doses required by that route over sublingual application (this also explains why swallowing a sublingual tablets of glyceryl trinitrate terminates its effects) They are first dinitrated and then conjugated with glucuronic acid. The t. Vi periods vary, but for glycerol trinitrate it is 1 - 4 minutes.",
-        "cop": 3,
-        "opa": "Rapid absorption",
-        "opb": "Water soluble",
-        "opc": "Terminates first pass metabolism",
-        "opd": "Long acting",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "32e38dc9-9172-4221-9492-d2351b46abc8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The side effects of digitalis are all except -",
-        "exp": "Ans. is 'b' i. e., Vasodilatation o Digitalis causes mild vasoconstriction (not vasodilatation). Manifastations of digitalis intoxicationo Anorexia, nausea, vomiting and abdominal pain are usually reported first. o Later occuring - fatigue, malaise, no desire to walk or lift an arm, headach, mental confusion, restlesness, disorientation, visual disturbances - yellow vision, weight loss, cachexia, gynaecomastia delerium, skin rash, diarrhoea. o Cardiac - Most frequent disturbances of cardiac rhythm are ventricular premature beat, bigeminy, ventricular tachycardia and rarely ventricular fibrillation. o A-V block and non paroxysmal atrial tachcardia with variable A-V block are characteristic of digitalis intoxication. o Severe bradycardia, atrial extrasystoles, AF and AFI may occur.",
-        "cop": 2,
-        "opa": "Ventricular tachycardia",
-        "opb": "Vasodilatation",
-        "opc": "Nausea and vomiting",
-        "opd": "Ventricular Bigemini",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "d3f97cf2-7f58-4ce6-80fa-97f632f32af5",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following anti-arrhythmic drug decreases the action potential duration in Purkinje fibers?",
@@ -741,19 +533,6 @@
         "choice_type": "single"
     },
     {
-        "question": "GTN is given sub-lingually, why?",
-        "exp": "Ans: a (To avoid first pass metabolism) Ref: Goodman & Gilman, 11th ed, p. 3. SUBLINGUAL ADMINISTRATIONVenous drainage from the mouth is to the superior vena cava, which protects highly soluble drugs like nitroglycerin from rapid hepatic first-pass metabolism. If a tablet of nitroglycerin were swallowed, the accompanying hepatic metabolism would be sufficient to prevent the appearance of any active nitroglycerin in the systemic circulation.",
-        "cop": 1,
-        "opa": "To avoid first pass metabolism",
-        "opb": "Rapid effect",
-        "opc": "Gastric irritation",
-        "opd": "To avoid side effects",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "46141e8f-a4fa-4a1b-81a6-387eacca6da5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which one of the following drugs is most likely to block K+ channels in the heart responsible for the delayed rectifier current?",
         "exp": "Amiodarone is a highly effective antiarrhythmic drug, in part because of its multiple actions, which include Na channel block, beta adrenoceptor block, K channel block, and Ca channel block. Drugs that block K channels (which include class IA and class III antiarrhythmics) prolong APD and ERP and predispose toward torsades de pointes ventricular arrhythmias. Encainide is a class IC drug, lidocaine and phenytoin are class IB, and verapamil is class IV, none of which inhibits the delayed rectifier K current responsible for membrane repolarization during the cardiac action potential.",
         "cop": 1,
@@ -778,19 +557,6 @@
         "topic_name": "C. V. S",
         "id": "4410b436-46c2-42f4-9931-db19586f92ef",
         "choice_type": "single"
-    },
-    {
-        "question": "Mephenteramine can be used in hypovolemic shock, although intravenous fluid supplementation is primary treatment. It acts by",
-        "exp": "Ans. d (All of the above) (Ref. KDT 5th/pg. 114)SYMPATHOMIMETICSCatecholamines. Noncatecholamines. Adrenaline. Ephedrine. Noradrenaline. Phenylephrine. Isoprenaline. Metaraminol. Dopamine. Methoxamine. Dobutamine Dopexamine Selective b2-receptor agonists (salbutamol, terbutaline, ritodrine, metaproterenol, fenoterol and orciprenaline). Other Sympathomimetic Amines (amphetamine, methamphetamine, mephentermine and some newer agents like Prenalterol, Pirbuterol, Xamaterol, fenoldopam, etc). Prenalterol. It is a relatively selective pi agonist that has been used in the management of CHF. It is also useful orally, with a bioavailability of about 33%. Pirbuterol. It a b2 agonist which has been used both as a bronchodilator and as an inotrope. Xamaterol. It is an orally active partial b1 agonist used for chronic CHFDopamine analogs. Aside from dopexamine other dopamine analogs have been used in Rx of CHF and HTN. MEPHENTERMINEMechanism of action# Indirectly stimulates beta adrenergic receptors and possibly to a lesser extent alpha adrenergic receptors.# The main effect of therapeutic doses of mephentermine is cardiac stimulation.# Force of contraction and CO are usually increased, accompanied by an increased stroke volume.# Mephentermine shortens atrioventricular (AV) conduction velocity and the refractory period of the AV node and increases ventricular conduction velocity.# Heart rate may be increased, decreased or unchanged.# Mephentermine increases the coronary blood flow, but the work of the heart and myocardial consumption are correspondingly increased.# Mephentermine directly dilates the arteries and arterioles in the skeletal and mesenteric vascular beds.# Venous return to the heart is increased in patients receiving mephentermine.# The drug usually increases systolic and diastolic blood pressure by increasing cardiac output; increases in cardiac output are greatest when initial cardiac output is low. When initial cardiac output is high, increased total peripheral resistance may be responsible for increase in blood pressure.# Mephentermine also dilates the coronary, cerebral, splanchnic and renal blood vessels.# It stimulates the central nervous system and may cause anxiety, seizures or tachycardia. Indications# Shock accompanying myocardial infarction. Injection mephentermine is favoured in combating hypotensive states in cardiogenic shock.# Hypotension occurring during surgical procedures or following spinal anesthesia.# Prevention of hypotension attendant to spinal anesthesia to surgical procedures or occurring in recovery. Contraindications# Injection mephentine is not advocated for the treatment of hypotension caused by phenothiazines.# When shock is primarily due to loss of blood or fluid the primary consideration in treatment should be the replacement of circulating blood volume. The use of mephentine alone is not advocated in such conditions.",
-        "cop": 4,
-        "opa": "Increasing cardiac output",
-        "opb": "Increasing systolic blood pressure",
-        "opc": "Increasing diastolic blood pressure",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "51e46025-dd09-4c98-9c69-89745ed4b312",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following acts by decreasing the action potential duration in Purkinje fibers?",
@@ -830,19 +596,6 @@
         "topic_name": "C. V. S",
         "id": "16e06b24-97f0-4b18-9583-f947d2156cd2",
         "choice_type": "single"
-    },
-    {
-        "question": "The beneficial effects of nitrates in the treatment of angina include the following except:(2000)",
-        "exp": "c. Ref: KDT, 5th ed, p. 488-489 & 4th ed, p. 522-523",
-        "cop": 3,
-        "opa": "Decreased arterial pressure",
-        "opb": "Decreased ventricular volume",
-        "opc": "Decreased diastole perfusion time",
-        "opd": "Decreased ejection time",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "2f208f14-87cf-4be8-8088-f0ff3d1c0521",
-        "choice_type": "multi"
     },
     {
         "question": "Losartan is:(2001)",
@@ -897,19 +650,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which among the following is the best inotrope drug for use in right heart failure?",
-        "exp": "Ans. (D) Milrinone(Ref: Goodman and Gilman, 11th/e p575, Harmon 17th/e p1455). Inotropic drugs are not used for treatment of right sided heart failure where the major treatment is diuretics and vasodilators. Milrinone being a phosphodiesterase inhibitor act as an inodilator. Thus, this is the only inotropic drug that should be used in right sided failure due to its ability to produce vasodilation. It is indicated in right heart failure with pulmonary hypertension.",
-        "cop": 4,
-        "opa": "Dobutamine",
-        "opb": "Digoxin",
-        "opc": "Dopamine",
-        "opd": "Milrinone",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "183c3b5e-4d9e-4b55-bff0-818c684d5af0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Ivabradine is used for management of -",
         "exp": "Ans. is 'a' i. e., Stable angina Ivabradine* It is an investigational inhibitor of sino-atrial node.* It is a relatively selective If (funny current) Sodium channel blocker of early part of slow diastolic depolarization (phase 4) that reduces heart rate by inhibiting the hyperpolarization-activated sodium channel in SA node.* Heart rate is a major determinant of angina in coronary disease.* Therefore, lowering the heart rate is an important therapeutic approach in the treatment of stable angina.* It lowers heart rate with an efficacy similar to calcium channel blockers and beta blockers but does not have any effect on gastrointestinal and bronchial smooth muscles.* It is well absorbed orally, 40% bioavailability due to first pass metabolism.* It is excreted in urine with t Vi of 2 hours.",
         "cop": 1,
@@ -960,19 +700,6 @@
         "topic_name": "C. V. S",
         "id": "ce6766e7-1d2e-46bd-a012-f85e833b497a",
         "choice_type": "single"
-    },
-    {
-        "question": "True about minoxidil is:(1995)",
-        "exp": "c. Ref: KDT, 5th ed, p. 512 & 4th ed, p. 549",
-        "cop": 3,
-        "opa": "Increases hair growth",
-        "opb": "Antihypertensive",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "388212e3-d15e-4dcc-8847-c4ff09e7f82d",
-        "choice_type": "multi"
     },
     {
         "question": "The mechanism of action of nitroglycerine in the management of angina pectoris is:",
@@ -1064,19 +791,6 @@
         "topic_name": "C. V. S",
         "id": "3dc6fe71-8a63-4f93-8936-1db882f29da2",
         "choice_type": "single"
-    },
-    {
-        "question": "Angiotensin II causes all except",
-        "exp": "Ans. (C) Vasodilation(Ref: Ganong Review of Medical Physiology 22nd; KDT 8th/e p525)*Angiotensin II binds to AT1 receptors and causes vasoconstriction and release of aldosterone.*Angiotensin II is one of the most potent vasoconstrictors in body.*Angiotensin II increases thirst sensation through the subfornical organ (SFO) of the brain.*It increases secretion of ATCH in the anterior pituitary.*It also potentiates the release of norepinephrine by direct action on postganglionic sympathetic fibers.",
-        "cop": 3,
-        "opa": "Stimulates release of ADH",
-        "opb": "Increases thirst",
-        "opc": "Vasodilation",
-        "opd": "Stimulates aldosterone release",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "a7bdfa45-dd7b-4beb-afbe-f4ef34f0413b",
-        "choice_type": "multi"
     },
     {
         "question": "Aliskiren is",
@@ -1196,32 +910,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs are used as oral treatment for arrhythmia except:",
-        "exp": "Ans. B. Esmolol. Esmolol is shortest acting beta blocker, it has to giveni/v for acute therapy. Rest of the drugs can be given via oral route.",
-        "cop": 2,
-        "opa": "Amiodarone",
-        "opb": "Esmolol",
-        "opc": "Quinidine",
-        "opd": "Verapamil",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "b7b098ef-72bd-4921-8b6a-22ad2658a8f5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is a true statement about Endothelin-1, a potent vasoconstrictor?",
-        "exp": "(B) Produced in increased amounts in Pulmonary Arterial Hypertensiono. Endothelin 1 (ET-1), (preproendothelin-1) (PPET1), is a potent vasoconstrictor that in humans is encoded by the EDN1 gene and produced by vascular endothelial cells. o. The protein encoded by this gene is proteolytically processed to release a secreted peptide termed endothelin 1. o. Endothelin 1 is one of three isoforms of human endothelin. o. Preproendothelin is precursor of the peptide ET-1. o. Endothelial cells convert preproendothelin to proendothelin and subsequently to mature endothelin, which the cells release[?]ENDOTHELIN is a potent peptide vasoconstrictor released by endothelial cells. o. Its concentration is elevated in heart failure and contributes to renal vasoconstriction. o. Bosentan is an endothelin antagonist used to treat pulmonary arterial hypertension. [?]. Endothelin-1 (ET-1) is a potent pulmonary vasoconstrictor that is produced in increased amounts in Pulmonary Arterial Hypertension (PAH). o. ET-1 contracts vascular smooth muscle cells and causes proliferation mainly via ETA receptors. o. ETB receptors mediate the release of prostacyclin and NO from endothelial cells. o. Several endothelin antagonists are available for the treatment of PPAH. o. Bosentan (TRACLEER) was the first ET antagonist developed and is a antagonist of both ETA and ETB receptors. o. Several longterm clinical trials have now established the efficacy of oral bosentan in reducing symptoms and improving mortality in PPAH. o. Starting dose is 62. 5 mg twice daily for 4 weeks, then increasing to the maintenance dose of 125 mg twice daily. o. The drug is generally well tolerated. o. Adverse effects include-Abnormal liver function tests-Anemia-Headaches-Peripheral edema-Nasal congestion. o. Given the risk of serious liver injury, liver aminotransferases should be monitored monthly. oA class effect is a risk of testicular atrophy and infertility; bosentan is potentially teratogenic. o. Endothelin Antagonists. o. Endothelin has been implicated in some of the structural changes that occur in asthma and COPD. o. Endothelin antagonists are approved for the treatment of pulmonary hypertension and might be useful in treating the structural changes that occur in asthma and COPD,",
-        "cop": 2,
-        "opa": "Used in Hypertension treatment",
-        "opb": "Produced in increased amounts in Pulmonary Arterial Hypertension",
-        "opc": "Dilates vascular smooth muscle cells",
-        "opd": "Safely indicated in liver injury",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "1eabdd5d-1ade-4670-90d1-daa769c3d932",
-        "choice_type": "multi"
-    },
-    {
         "question": "Tolerance develops by which of the following drug:",
         "exp": "Ans. C. Nitrates. Tolerance develops to nitrates when they constantly present in blood. Therefore, it is preferred via sublingual route as it act for short period of time.",
         "cop": 3,
@@ -1313,58 +1001,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are the actions of beta blockers in heart failure except:",
-        "exp": "Ans. B. Antagonism of vasoconstriction. Beta blockers actually cause vasoconstriction via antagonizing the vasodilation caused by beta 2 receptor. Rest all are the pharmacological actions of beta blockers.",
-        "cop": 2,
-        "opa": "Decrease mortality",
-        "opb": "Antagonism of vasoconstriction",
-        "opc": "Prevent pathological remodeling",
-        "opd": "Prevent cardiac arrhythmias",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "960f0cba-891d-4890-8d97-d4b4262772c7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are arteriolar dilators except -",
-        "exp": "Ans. is 'c' i. e., Nitrates",
-        "cop": 3,
-        "opa": "Hydralazine",
-        "opb": "Minoxidil",
-        "opc": "Nitrates",
-        "opd": "Nifedipine",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "e80f953d-767e-4d0f-9842-6e89d18d7874",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Calcium channel blocker which is usually used in subarachnoid hemorrhage is:",
-        "exp": "Ans: A (Nimodipine) Ref: Goodman &Gillman's The Pharmacological Basis of Therapeutics, 20. I1 12th Edition, Mc. Grow Hill, Burton LL P 735-736 & Basic & Clinical Pharmacology, 2012, / 2th Ed. Tata Mc. Graw hill, Katzung BG Masters SB. Trevor AJ. P 204. Explanation: Nimodipine is a cerebroselective Calcium Channel Blocker. This drug has found to reduce the morbidity after subarachnoid hemorrhage. It is also approved for patients with neurological deficits due to cerebral vasospasm after the rupture of congenital intracranial aneurysm. Other CCBs used in stroke are verapamil and nicardipine. Nicardipine - intracerebral arterial infusion has found to prevent cerebral vasospasm associated with stroke",
-        "cop": 1,
-        "opa": "Nimodipine",
-        "opb": "Diltiazem",
-        "opc": "Verapamil",
-        "opd": "Flunarizine",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "7c62017d-4099-4039-ada0-949d4c151e8e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about phenylephrine is:",
-        "exp": "Ans: c (Increases peripheral resistance) KDT, 5 ed, p. 127. Phenylephrine is a selective alpha 1 agonist. It causes vasoconstriction and therefore increases BP. No cardiac action. HR decreases due to reflex bradycardia. Mydriatic with no cycloplegia. Therefore preferred in elderly. Reduces IOT by constricting ciliary body blood vessels. Use: Orally administered nasal decongestant.",
-        "cop": 3,
-        "opa": "Hypotension",
-        "opb": "Cardiac depression",
-        "opc": "Increase peripheral resistance",
-        "opd": "Increase IOT by constricting ciliary body B-V",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "4da12068-1ac8-4230-8cdb-923f2f5e8e51",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 50 years old male with type 2 diabetes mellitus is found to have 24 hour urinary albumin of 250 mg. Which of the following drugs may be used to retard progression of renal disease?",
         "exp": "Ans. (B) Enalapril(Ref: Katzung 10/e p281; KDT 8th/e p532, 535)ACE inhibitors can retard the progression of diabetic complications like nephropathy, neuropathy and retinopathy.",
         "cop": 2,
@@ -1389,32 +1025,6 @@
         "topic_name": "C. V. S",
         "id": "a8210a1a-cc90-44c5-b886-391320aebd44",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements is true about nitrates?",
-        "exp": "Ans. (D) All of the above(Ref: KDT 8th/e p586, 587, 590). Nitrates act by releasing NO which increases c. GMP that cause dephosphorylation of myosin light chain kinase. These are preferential dilator of venules because glutathione reductase (enzyme that releases NO from nitrates) is principally present at these sites. These agents are smooth muscle relaxants and can be used in colics and in achlasia cardia.",
-        "cop": 4,
-        "opa": "Acts by raising c. GMP which causes dephosphorylation of MLCK",
-        "opb": "Metabolized by glutathione reductase",
-        "opc": "Used in achalasia cardia",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "d5a4ffd1-bc20-4937-bd1b-aeae88f0a7ee",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Intra-Venous drug (s) that can be used in management of hypertensive emergency?",
-        "exp": "Ans. D. All of the above. (Ref Harrison 18th/pg. Table 247-10). Commonly used drugs Hypertensive emergency include nitroprusside, nicardipine, clevidipine, labetalol, and fenoldopam. Note that Nitroprussid is Short acting;>>c. GMP via direct release of NO. Can cause cyanide toxicity (releases cyanide). Fenoldopam is a Dopamine D1 receptor agonist--coronary, peripheral, renal, and splanchnic vasodilation. Reduces BP and increases natriuresis. Clevidipine is latest generation dihydropyridine Ca channel antagonist available for IV administration (available as lipid emulsion). It is effective in Rx acute both pre-op and post-op hypertension. Usual Intravenous Doses of Antihypertensive Agents Used in Hypertensive Emergencies. Antihypertensive agent. Intravenous dose. Nitroprusside. Initial 0. 3 (g/kg)/min; usual 2-4 (g/kg)/min; maximum 10 (g/kg)/min for 10 min. Nicardipine. Initial 5 mg/h; titrate by 2. 5 mg/h at 5-15 min intervals; max 15 mg/h. Labetalol2 mg/min up to 300 mg or 20 mg over 2 min, then 40-80 mg at 10-min intervals up to 300 mg total Labetalol2 mg/min up to 300 mg or 20 mg over 2 min, then 40-80 mg at 10-min intervals up to 300 mg total. Esmolol. Initial 80-500 g/kg over 1 min, then 50-300 (g/kg)/min. Phentolamine5-15 mg bolus. Nitroglycerin. Initial 5 g/min, then titrate by 5 g/min at 3-5-min intervals; if no response is seen at 20 g/min, incremental increases of 10-20 g/min may be used. Hydralazine10-50 mg at 30-min intervals# Malignant hypertension is a syndrome associated with an abrupt increase of blood pressure in a patient with underlying hypertension or related to the sudden onset of hypertension in a previously normotensive individual. The absolute level of blood pressure is not as important as its rate of rise. Pathologically, the syndrome is associated with diffuse necrotizing vasculitis, arteriolar thrombi, and fibrin deposition in arteriolar walls. Fibrinoid necrosis has been observed in arterioles of kidney, brain, retina, and other organs.# Initial goal of therapy is to reduce mean arterial blood pressure by no more than 25% within minutes to 2 h or to a blood pressure in the range of 160/100-110 mm. Hg. This may be accomplished with IV nitroprusside, a short-acting vasodilator with a rapid onset of action that allows for minute-to-minute control of blood pressure. Parenteral labetalol and nicardipine are also effective agents for the treatment of hypertensive encephalopathy.# In patients with malignant hypertension without encephalopathy or another catastrophic event, it is preferable to reduce blood pressure over hours or longer rather than minutes. This goal may effectively be achieved initially with frequent dosing of short-acting oral agents such as captopril, clonidine, and labetalol.# Currently, in the absence of other indications for acute therapy, for patients with cerebral infarction who are not candidates for thrombolytic therapy, one recommended guideline is to institute antihypertensive therapy only for patients with a systolic blood pressure >220 mm. Hg or a diastolic blood pressure >130 mm. Hg. If thrombolytic therapy is to be used, the recommended goal blood pressure is <185 mm. Hg systolic pressure and <110 mm. Hg diastolic pressure. In patients with hemorrhagic stroke, suggested guidelines for initiating antihypertensive therapy are systolic >180 mm. Hg or diastolic pressure >130 mm. Hg. The management of hypertension after subarachnoid hemorrhage is controversial. Cautious reduction of blood pressure is indicated if mean arterial pressure is >130 mm. Hg.# In addition to pheochromocytoma, an adrenergic crisis due to catecholamine excess may be related to cocaine or amphetamine overdose, clonidine withdrawal, acute spinal cord injuries, and an interaction of tyramine-containing compounds with monamine oxidase inhibitors. These patients may be treated with phentolamine or nitroprusside. Preferred Parenteral Drugs for Selected Hypertensive Emergencies. Hypertensive encephalopathy. Malignanthypertension (when IV therapy is indicated). Nitroprusside, nicardipine, labetalol Labetalol, nicardipine, nitroprusside, enalaprilat. Stroke. Nicardipine, labetalol, nitroprusside. Myocardial infarction/unstable angina. Nitroglycerin, nicardipine, labetalol, esmolol. Acute left ventricular failure. Nitroglycerin, enalaprilat, loop diuretics. Aortic dissection. Nitroprusside, esmolol, labetalol. Adrenergic crisis. Phentolamine, nitroprusside. Postoperative hypertension. Nitroglycerin, nitroprusside, labetalol, nicardipine. Preeclampsia/eclampsia of pregnancy. Hydralazine, labetalol, nicardipine",
-        "cop": 4,
-        "opa": "Hydralaxine",
-        "opb": "Sodium nitroprusside",
-        "opc": "Esmolol",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "19d8813f-9a8f-45e6-aba6-e53d2e9f304c",
-        "choice_type": "multi"
     },
     {
         "question": "Drug not useful in emergency condition in pregnancy:",
@@ -1456,19 +1066,6 @@
         "choice_type": "single"
     },
     {
-        "question": "At high altitude of around 3000 meters, a person complains of breathlessness. All of the following can be used for management EXCEPT:",
-        "exp": "High altitude pulmonary edema. High altitude cerebral edema/acute mountain sickness* Immediate descent to at least 2000 feet (If possible)* Rest, reclined with head elevation* O2 supplementation (Sp. O2 >90%)* Nifedipine or sildenafil* Immediate descent to at least 2000 feet (If possible)* Rest, reclined with head elevation* Mild - Acetazolamide* Moderate/Severe- Dexamethasone",
-        "cop": 1,
-        "opa": "Intravenous digoxin",
-        "opb": "Oxygen consumption",
-        "opc": "Immediate descent",
-        "opd": "Acetazolamide",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "c4dcbf46-64c0-4b6f-95ee-570fac042ddc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hydroxyethyl starch is a -",
         "exp": "Ans. is 'c' i. e., Plasma expander Plasma expanderso These are high molecular weight substances which exerts colloidal osmotic (oncotic) pressure, and when infused i. v. retain fluid in the vascular compartment. o Human plasma or reconstituted huma albumin are the best, However, the former carries the risk of transmitting serum hepatitis, AIDS, and latter is expensive. Therefore synthetic colloids are more often used, o Desirable properties of plasma expander are: Should exert oncotic pressure comparable to plasma. Should remain in circulation and not leak out in tissues, or be too rapidly disposed. Should be pharmacodynamically inert. Should not be pyrogenic or antigenic. Should not interfere with grouping and cross-matching of blood. Should be stable, easily sterilizable and cheap. o Substances used are - Human albumin, Dextran, Degraded gelatin polymer, Hydroxy ethyl starch, polyvinyl pyrrolidone. o Albumin has all desirable properties except it is expensive. o Uses of plasma expanders - to correct hypovolemia, e. g. in bums, hypovolemic and endotoxic shock, severe trauma. o Contraindications ->> Severe anemia, cardiac failure, pulmonary edema, renal insufficiency.",
         "cop": 3,
@@ -1482,19 +1079,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Drug used for both attack as well as prophylaxis of angina:",
-        "exp": "Ans. A. Isosorbide dinitrate. Isorbide dinitrate is given for both acute attack as well as prophylaxis of angina, diltiazem is only used for prophylaxis. Dipyridamole worsens angina by coronary steal phenomenon.",
-        "cop": 1,
-        "opa": "Isosorbide dinitrate",
-        "opb": "Diltiazem",
-        "opc": "Verapamil",
-        "opd": "Dipyridamole",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "c764179f-0289-4ef1-9412-f52ec20ad0b7",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the important action of nitrates in angina?",
         "exp": "Ans. B. Decreases preload. Nitrates cause release of nitric oxide which causes activation of guanylyl cyclase and through series of steps (via activation of protein kinase and phosphatases) activate myosin light chain through dephosphorylation which causes smooth muscle relaxation and hence vasodilatation. This decreases systemic vascular resistance and there will be increased pooling of blood. All of these events can lead to decrease in preload.",
         "cop": 2,
@@ -1506,19 +1090,6 @@
         "topic_name": "C. V. S",
         "id": "0a79d9d5-22ba-4b30-8e35-1f1f57d8d863",
         "choice_type": "single"
-    },
-    {
-        "question": "Calcium channel blockers are used in all, except-",
-        "exp": "Ans. is 'c' i. e., Sick sinus syndrome The electrophysiological properties of Verapamil enables it be used as an antiarrhythmic. Electrophysiological effects of verapamilo The basic action of verapamil is to depress Ca2+ mediated depolarization. This result in following actions -Decrease S. A. node automaticity. Decrease ventricular automaticity. Increase A. V nodal ERP (This is the most consistent action of Verapamil and due to this A-V conduction is markedly slowed however intraventricular conduction is not slowed). Use of Verapamil as an antiarrhythmic -1. PSVT-It is effective in 80% cases. It should not be used if PSVT is accompanied with hypotension or CHF. 2. To control ventricular rate in Atrial flutter or Atrial fibrillation (May be used as an alternative to or in addition to Digitalis). Verapamil is contraindicated in following arrhythmias-1 Ventricular arrhythmias - Injection of verapamil has precipitated ventricular fibrillation, therefore contraindicated. 2 Digitalis toxicity - Verapamil is contraindicated in Digitalis toxicity because additive A-V block may occur. 3. Heart block and sick sinus. Other uses of verapamil: Angina pectoris- All CCB's are effective in reducing frequency and severity of classical as well as variant angina. It is beneficial in angina in the following way. Classical angina - Reduces cardiac work, mainly as a result of reduced afterload. Variant angina - Prevent arterial spasm. Hypertension. Hypertrophic cardiomyopathy. Suppress nocturnal leg cramps. Migraine",
-        "cop": 3,
-        "opa": "Angina",
-        "opb": "Supraventricular tachycardia",
-        "opc": "Sick sinus syndrome",
-        "opd": "Hypertension",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "5d03b177-6b17-43fe-a809-2231d35f5c9b",
-        "choice_type": "multi"
     },
     {
         "question": "Potassium channel openers with anti anginal drug is:",
@@ -1573,32 +1144,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about digoxin except:",
-        "exp": "Ans. (C) It is 95% plasma protein bound(Ref: KDT 8th/e p559). Plasma protein binding of digitoxin is high (95%) whereas it is low (70-80%) for digoxin.",
-        "cop": 3,
-        "opa": "Causes bradycardia due to increased vagal tone",
-        "opb": "Acts by inhibiting Na+K+ ATPase in myocardial fibres",
-        "opc": "It is 95% plasma protein bound",
-        "opd": "Primarily excreted unchanged by glomerular filtration",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "999846a3-1bff-43ff-9bbe-6fd9409c1a6b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is not true about the mechanism of action of digitalis?",
-        "exp": "Ans. is 'a' i. e., It binds to the intracellular face of Na+ K+ ATPase enzyme Digitalis mechanism of action* Digitalis increases the force of contraction by a direct action independent of the innervation.* It binds to the extracellular face of the Na+ K+ ATPase and inhibits the enzyme causing rise in the intracellular levels of Na+.* The raised Na+ in turn inhibits the Na+ Ca2+ exchanger and causes rise in intracellular Ca2+.* This raised intracellular Ca2+ is responsible for the positive ionotropic effect.* Thus, digitalis increases the cardiac contractability and force of contraction.",
-        "cop": 1,
-        "opa": "It binds to the intracellular face of Na+ K+ ATPase enzyme",
-        "opb": "There is rise in intracellular Na+",
-        "opc": "It has positive ionotropic action",
-        "opd": "Digitalis action is independent of cardiac innervation",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "91abff0a-5adb-4644-8066-bf675e996508",
-        "choice_type": "multi"
-    },
-    {
         "question": "New drug Renolazine is used in -",
         "exp": "Ans. is 'a' i. e., Angina o Ranolazine is an effective newer anti-anginal drug but unlike CCBs and beta-blockers it does not significantly alter the heart rate or blood pressure. o Ranolazine alters the trans-cellular late sodium current and affects the sodium dependent calcium channels during myocardial ischaemia thus prevents calcium overload, resulting in reduced oxygen demand, and prevent anginao Ranolazine is useful as add-on therapy in chronic stable angina which is refractory to more standard anti-anginal medication. It has also been approved as first-line agent for chronic angina. However, it is not found to be useful in acute coronary syndrome. o Ranolazine should be used in combination with amlodipine, b-blockers or nitrates. It should not be used as an alternative to b-blocker therapy in patients otherwise eligible for this form of therapyo Ranolazine appears to have other promising non-anginal effects, including glycemic control, improvement in endothelial function and decreases the incidence of atrial fibrillation and other arrhythmiaso Ranolazine may increase the QT interval and hence it should not be used in patients with long- QT syndrome and should be used with caution when combined with other medications that increase the QT intervalo Ranolazine has been generally well tolerated in clinical trials its most common adverse effects are nausea, constipation and dizziness.",
         "cop": 1,
@@ -1623,19 +1168,6 @@
         "topic_name": "C. V. S",
         "id": "0058d3dd-0b56-4991-b314-deb10ef98d92",
         "choice_type": "single"
-    },
-    {
-        "question": "Metoprolol is preferred over propranolol in some patients because it",
-        "exp": "Propranolol is a nonselective blocker of beta adrenoceptors, whereas metoprolol is b1 -selective. Metoprolol is less likely to block receptors in the bronchiolar smooth muscle and is less likely to cause bronchoconstriction, especially in asthmatic patients. Propranolol and metoprolol are considered to be equally effective as antiarrhythmics and in post-MI prophylaxis, and both are cardiodepressant. Drugs that appear to have both alpha- and beta-blocking actions include carvedilol and labetalol.",
-        "cop": 2,
-        "opa": "causes less cardio depression",
-        "opb": "is less likely to cause bronchoconstriction",
-        "opc": "has both alpha- and beta-adrenoceptor blocking effects",
-        "opd": "is more effective as an antiarrhythmic",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "e6eb1004-c9b6-4da1-9a71-d53dd9bafc2f",
-        "choice_type": "multi"
     },
     {
         "question": "A patient of coronary artery disease with diabetes mellitus has a history of myocardial infarction 2 months back. Lipid profile of the patient is serum triglyceride of 234 mg/dL, LDL 124 mg/dL and HDL 32 mg/dL. Which of the following drugs will you like to administer?",
@@ -1677,32 +1209,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Losartan is similar to enalapril in all features except:",
-        "exp": "Ans. D. Potential to induce cough. Losartan is ARB which block the angiotensin receptor and enalapril is ACE inhibitor which inhibits the action of ACE enzyme. Both of them have same indication and side effects except ARB causes less incidence of cough and angioedema.",
-        "cop": 4,
-        "opa": "Antihypertensive efficacy",
-        "opb": "Reverse left ventricular hypertrophy",
-        "opc": "Lack of carbohydrate intolerance",
-        "opd": "Potential to induce cough",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "8ad34916-2d18-418d-bf10-8b7835e0a8e7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which one of the following drugs is associated with the development of a lupus-like syndrome, especially in patients identified as \"slow acetylators\"?",
-        "exp": "Procainamide is metabolized by N-acetyltransferase (a phase II drug metabolism reaction) to form N-acetyl-procainamide (NAPA), which itself has antiarrhythmic activity. Patients who are classified as slow acetylators may develop SLE-like symptoms when treated with procainamide. Other drugs metabolized via N-acetyltransferase, including isoniazid and hydralazine, have also been associated with lupus-like symptoms in slow acetylators.",
-        "cop": 4,
-        "opa": "Arniodarone",
-        "opb": "Clonidine",
-        "opc": "Nitroglycerin",
-        "opd": "Procainamide",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "169f48d1-707b-444d-a20b-8a97e3f44cf5",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 60-year-old man with rheumatic mitral stenosis and atrial fibrillation is on therapy for a fast ventricular rate. While on treatment he develops a regular pulse of 64 beats/min. Which of the following is the probable drug that the patient is receiving?",
         "exp": "Ans. (B) Digoxin(Ref: KDT 8th/e p561). Digitalis is used to control ventricular rate in atrial fibrillation. It increases the refractoriness of AV node and decreases the conduction through AV node.",
         "cop": 2,
@@ -1714,32 +1220,6 @@
         "topic_name": "C. V. S",
         "id": "7d0c24e0-1ab7-4c03-afa6-8b1613417ac4",
         "choice_type": "single"
-    },
-    {
-        "question": "Myocardial oxygen demand decreases by all EXCEPT",
-        "exp": "(Amrinone) (507-KDT 6th). Antianginal agents (organic nitrates, b. Blockers, CCBs) lowers the oxygen demand of the heart by affecting BP. Venous return. Heart rate and contractility (209-Lippncott's 4th). Drugs that reduce cardiac size, rate or force reduces cardiac oxygen demand. Thus vasodilators, b blockers and calcium blockers have predictable benefits in angina (192-Katzung 11th). Drug used in Angina Pectoris (i) Nitrates - nitroglycerin, Isosorbide dinitrate, Isosorbide mononitrate(ii) Beta blockers - Propranolol, Atenolol, metoprolol (iii) Calcium channel blockers - Verapamil, Diltiazem, Nifedipine(iv) Miscellaneous - Ranolazine, Ivabradine. DILTIAZEM - (CCBs) (530-KDT 6th)* Direct depression of SA node and AV conduction* Decrease HR. B. P* Vasodilator - can relieve coronary artery spasm* Modest negative inotropic action. METOPROLOL - (Cardio selective, class II anti arrhythmic drugs p-adrenergic antagonist)* Act by decreasing cardiac work and O2 consumption (decreased HR, inotropic state and mean BP)* Depressing automaticity, contractility and prolonging AV conduction. NITRATES (523- KDT6th) (210- Lippincott's 4th)* These compounds cause a rapid reduction in myocardial oxygen demand-followed by rapid relief of symptoms* Nitates decreases coronary vasoconstriction or spasm and increases perfusion of the myocardium by relaxing coronary arteries. In addition they relax veins, decreasing preload and myocardial oxygen consumption. AMRINONE (Inamrinone) - Phosphodiesterase III inhibits*** Positive inotropy and direct vasodilators * It increases cardiac index, left ventricular ejection fraction and decreases peripheral vascular resistance. CVP. Left ventricular and diastolic volume and pressure. Cardiac O2 demand or O2 consumption. Correlates with ventricular work per beat. So O2 demand a ventricular work per beat a stroke volume x mean arterial pressure**Cardiac O2 demand is determined primarily br - Intramyocardial tension, wall thickness, ventricular radius (volume)- Contractile site of the myocardium - Heart rate. O2 consumption is ~ 9ml/100g/min by beating heart of rest & increases with exercise & various other states",
-        "cop": 4,
-        "opa": "Diltiazem",
-        "opb": "Metoprolol",
-        "opc": "Nitroglycerine",
-        "opd": "Amrinone",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "8449088b-bc39-4d1d-b811-1f922b34ba0c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Inodilation is",
-        "exp": "(A) (Milrinone) (525-KDT 7th)1. NODILATOR - Positive inotropy and direct vasodilation. Both preload and after load on the heart is reduced compared to dobutamine proportionately greater decrease in systemic vascular resistance in noted eg. Inamrinone (Amrinone/ Milrinone). Fasudil is an RhO - Kinase inhibitor involved in the vascular smooth muscle contractile response (ie angina with normal coronary arteries). Octreotide - somatostatin analogue uses - Vipoma, Insulinoma, Glucagonoma, Acromegaly, Acute bleeding of Gastrooesophageal varices, carcinoid tumours. Rotigotine - dopamine analogue that was approved for treatment of early Parkinson's disease in 2007 by FDA. Afixaban is factor Xa inhibitors (Anti coagulant action)",
-        "cop": 1,
-        "opa": "Milrinone",
-        "opb": "Dopamine",
-        "opc": "Dobutamine",
-        "opd": "Thiazides",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "ed3702cf-7b91-4536-9525-c10b372f06db",
-        "choice_type": "multi"
     },
     {
         "question": "Postural hypotension and failure of ejaculation is most commonly seen in treatment with:(1991)",
@@ -1766,19 +1246,6 @@
         "topic_name": "C. V. S",
         "id": "c6879a52-30de-40a5-b711-2428b20b28a7",
         "choice_type": "single"
-    },
-    {
-        "question": "Side-effect (s) of sodium nitroprusside:",
-        "exp": "Ans. d (All of the above) (Ref. KDT Pharmacology, 6th/pg. 554)NITROPRUSSIDE Toxicity:# Thiocyanate toxicity is manifested as weakness, disorientation, psychosis, muscle spasms, and convulsions, and the diagnosis is confirmed by finding serum cone >10 mg/dL. Both sodium thiosulfate and hydroxocobalamin have been advocated for prophylaxis or treatment of cyanide poisoning during nitroprusside infusion.# - Metabolic (lactic) acidosis, - Arrhythmias, - Excessive hypotension, - Methemoglobinemia.# Rarely, delayed hypothyroidism. SODIUM NITROPRUSSIDE# Sodium nitroprusside is a powerful parenterally administered vasodilator that is used in treating hypertensive emergencies as well as severe heart failure.# It dilates both arterial and venous vessels, reducing peripheral vascular resistance & venous return.# The action occurs as a result of activation of guanylyl cyclase, either via release of NO or by direct stimulation of the enzyme, resulting in raised intracellular c. GMP, which relaxes vascular smooth muscle. Pharmacokinetics & Dosage# Nitroprusside is a complex of iron, cyanide groups, and a nitroso moiety.# It is rapidly metabolized by uptake into red blood cells with liberation of cyanide.# Cyanide in turn is metabolized by the mitochondrial enzyme rhodanase, in the presence of a sulfur donor, to the less toxic thiocyanate.# Thiocyanate is distributed in extracellular fluid and slowly eliminated by the kidney.# Nitroprusside rapidly lowers blood pressure, and its effects disappear within 1-10 minutes after discontinuation.# Sodium nitroprusside in aqueous solution is sensitive to light and must therefore be made up fresh before each administration and covered with opaque foil. Infusion solutions should be changed after hours.# Dosage typically begins at 0. 5 microgram/kg/min and may be increased up to 10 g/kg/min.# The drug is given by intravenous infusion and arterial blood pressure monitored via intra-arterial recording. Drug Class. Mechanism of action. Effects. Indications. Toxicities. Notes. Angiotensin II-receptor blockers: Losartan, Candesartan. Block angiotensin II receptors. Same as ACE inhibitors. Same as ACE inhibitors. Fetal renal toxicity no cough. Not as well studied as ACEIs, but seem to have same efficacy. Vasodilators: Nitroglycerin Nitroprusside Isosorbide dinitrate Hydralazine| nitric oxide -c. GMP - vasodilation. Nitroclycerin, isosorbide dinitrate predominantly venodilators. Nitroprusside; dilation of arteries = veins. CHF, HTN, angina, pulmonary edema. Tachycardia, headache, hypotension. Nitroprusside, nitroglycerin: used in acute HF Hydralazine, isosorbide dinitrate: used in chronic HF",
-        "cop": 4,
-        "opa": "Lactic acidosis",
-        "opb": "Psychosis",
-        "opc": "Headache",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "444268ed-92f1-41d7-9175-084ec7d7e371",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following agent is a rho kinase inhibitor?",
@@ -1846,32 +1313,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 45-year-old Nobel Prize-winner in chemistry has recently been the recipient of a heart transplant. Patient education has included both verbal and written descriptions of the potential cardiovascular effects of pharmacologic agents. Which one of the following drugs is least likely to cause tachycardia in this patient?",
-        "exp": "This question is to remind you that indirect-acting sympathomimetics require innervation of the effector organ to exert effects. In this case, amphetamine would not be effective because the transplanted heart lacks sympathetic innervation; thus, there is no \"mobile pool\" of NE capable of being released by a drug. However, transplanted hearts retain receptors, including those (b1 ) responsive to direct-acting sympathomimetics. Heart transplants are not responsive to AChE inhibitors because they, too, are indirect acting and require vagal innervation to exert effects on the heart.",
-        "cop": 1,
-        "opa": "Amphetamine",
-        "opb": "Dobutamine",
-        "opc": "Epinephrine",
-        "opd": "Isoproterenol",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "e9117bb4-1567-4861-9c40-d8aeab82eb45",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Nitroglycerine causes all except:",
-        "exp": "Ans. (A) Hypotension and bradycardia(Ref: Katzung 11/e p265; KDT 8th/e p587). Nitrates are most commonly used antianginal drugs. These act by delivering nitric oxide in the blood vessels leading to vasodilation. Resulting hypotension lead to reflex tachycardia. It can cause methemoglobinemia as an adverse effect.",
-        "cop": 1,
-        "opa": "Hypotension and bradycardia",
-        "opb": "Methemoglobinemia",
-        "opc": "Hypotension and tachycardia",
-        "opd": "Vasodilation",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "b0b0ea9d-4be5-4841-8d21-51194872a97a",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient having prinzmetal angina is started with ISMN. Patient got symptomatic relief from angina. What is the MOA?",
         "exp": "ANS. A# Important points on nitrates1. All nitrates have high FPM metabolism except ISMN (Isosorbide mononitrate)2. Skin rashes are maximum with Pentaerythritol tetranitrate3. Nitrates used in acute attack: NTG and ISDN (Isosorbide dinitrite)",
         "cop": 1,
@@ -1883,19 +1324,6 @@
         "topic_name": "C. V. S",
         "id": "b4312bde-0db7-414b-acf2-4ba46499a353",
         "choice_type": "single"
-    },
-    {
-        "question": "Drug which increases Nitrix Oxide are all except",
-        "exp": "Ans. is 'd' i. e. Fenoldopam Fenoldopam. Fenoldopam is a selective dopamine -1 receptor agonist. Administered parenterally it acts predominantly as a vasodilator in peripheral arteries and diuretic in kidney. It has been approved by FDA for short term a management of hypertensive emergency. Nitric Oxide (NO) is recognized as a mediator in a bewildering array of biologic systems. Nitric oxide is identical to endothelium derived relaxing factor (EDRF) which causes vasodilation by relaxing vascular smooth muscle.* NO also acts as neurotransmitter, prevents platelet aggregation and plays an essential role in macrophage function. Synthesis of NONo is synthesized by the action of NO synthase on Arginine. Arginine O2 and NADPH are substrates. FMN, FAD, heme and tetrahydrobiopterin are coenzymes for the enzymes. NO and citrulline are products of the reaction. Actions of NO on vascular endothelium. Nitric oxide is an important mediator in the control of vascular smooth muscle tone. Nitric oxide is synthesized in endothelial cells and diffuses to vascular smooth muscle, where it activates the cytosolic form of guanylate cyclase. The resultant rise in c. GMP causes muscle relaxation possibly through activation of protein kinase G(Note: Vasodilator nitrates such as nitroglycerin and nitroprusside are metabolized to nitric oxide, which causes relaxation of vascular smooth muscle, presumably by the above mechanism. Thus NO can be envisioned as an endogenous nitrovasodilator). Role of NO in mediating macrophage bactericidal activity. In macrophages, NO synthetase activity is normally low, but synthesis of the enzyme is markedly stimulated by bacterial lipopolysaccharide and g interferon release in response to infection. Activated macrophages form oxygen free radicals that combine with NO to form compounds that are more bactericidal than NO itself. Drugs generating Nitric oxide i) Nitric oxide level is increased by increased release of donors. Acetylcholine. Glyceryl trinitrate. Sodium nitroprusside. Calcium ions. Hydralazine. Aspirin (No releasing aspirin)ACE inhibitor. Glyceryl trinitrate (recently been recognized as Nitric oxide donor)ii) Drugs which inhibits phosphodiesterase enzyme. Slidenaphil. Aminophylline. Theophylline. Amrinone. Milrinone. Cilostazol",
-        "cop": 4,
-        "opa": "Glycerine trinitrate",
-        "opb": "Hydralazine",
-        "opc": "Sodium Nitroprusside",
-        "opd": "Fenoldopam",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "cd42f3a1-ca7e-4b57-98f7-225a54fdd570",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drug reduces blood pressure primarily by directly decreasing heart rate alone?",
@@ -1935,32 +1363,6 @@
         "topic_name": "C. V. S",
         "id": "81707dd0-feff-4d69-bacd-9a0141f466b4",
         "choice_type": "single"
-    },
-    {
-        "question": "Verapamil is associated with all except?",
-        "exp": "Ans. D. Hyperglycemia. Verapamil is calcium channel blocker. CCB are safe in diabetic patients whereas thiazides and beta blockers should be avoided.",
-        "cop": 4,
-        "opa": "Constipation",
-        "opb": "Headache",
-        "opc": "Bradycardia",
-        "opd": "Hyperglycemia",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "e8503997-b5aa-431a-bc2f-142fa355f9d1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Calcium channel blocker acts on",
-        "exp": "Ans: b) (Smooth muscle) Ref: Katzung 11th edition and Cardiovascular Pharmacology Concepts. CCBs bind to L-type calcium channels located on the vascular smooth muscle, cardiac myocytes, and cardiac nodal tissue (SA and AV nodes). These channels are responsible for regulating the influx of calcium into muscle cells, which in turn stimulates smooth muscle contraction and cardiac myocyte contraction. In cardiac nodal tissue, L-type calcium channels play an important role in pacemaker currents and in phase 0 of the action potentials. Therefore, by blocking calcium entry into the cell, CCBs cause: vascular smooth muscle relaxation (vasodilation), decreased myocardial force generation (negative inotropy), decreased heart rate (negative chronotropy), and decreased conduction velocity within the heart ( negative dromotropy), particularly at the atrioventricular node. In addition to their antianginal and antiarrhythmic effects, thus calcium channel blockers also reduce peripheral resistance and blood pressure. NB: CCB's do not work on venous smooth muscle. Three types of Ca2+ channels have been described: a) Voltage sensitive channelb) Receptor operated channelc) Leak channel. The voltage sensitive channel are further divided into 3 types: L-type (long lasting current), T-type (transient current) andN type (neuronal). There was question in 2005 kerala regarding CCBs which act both on L and T subtypes of. Ca2+ channels. Even after a lot of reference it was found that only the voltage sensitive L-type channels are blocked by CCBs.",
-        "cop": 2,
-        "opa": "Skeletal muscle",
-        "opb": "Smooth muscle",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "33979442-20f4-4efb-bebd-78449e3facb3",
-        "choice_type": "multi"
     },
     {
         "question": "Which among the following is a venodilator?",
@@ -2067,19 +1469,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Drugs implicated in development of heart block include which of the following?",
-        "exp": "Ans. is 'd' i. e., All the above * From the following table it is clear that all the given drugs are implicated in the development of Atrioventricular heart block. Drugs causing AV block. Beta blockers Adnosine. Clacium channel blockers Antiarrhythmics (class I and III). Digitalis Lithium",
-        "cop": 4,
-        "opa": "Beta blockers",
-        "opb": "Lithium",
-        "opc": "Adenosine",
-        "opd": "All the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "200a3ac9-8254-46e3-bf3e-4570b990390b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following does not result in the release of NO?",
         "exp": "Ans. (A) Fenoldopam(Ref: KK Sharma 2007/176, 261, 292; Katzung 11th/e p180-181)*Nitric oxide donors include:-Sodium nitroprusside-Organic nitrates-Nitrites-Hydralazine-Propofol-Nebivolol*Fenoldopam is a selective D1 agonist useful in hypertensive emergencies.",
         "cop": 1,
@@ -2106,19 +1495,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Potassium Channel Openers are following except",
-        "exp": "Ans, d (Amiodarone) (Ref. KDT 6th/534). Drugs acting on potassium channel. Potassium channel openers. Potassium channel blockers. Amiodarone (blocks myocardial delayed rectifier K+channels). Old. Novel Minoxidil. NicorandilQ Diazoxide. Pinacidil0. Cromakalim Antiarrhythmics-- K+ channel blockers (class III) - Amiodarone. Ibutilide, Dofetilide, Sotalol.# MECHANISM: | AP duration, | ERP. Used when other antiarrhythmics fail.| QT interval.# C1. INICA1 u. SE: Atrial fibrillation, atrial flutter; ventricular tachycardia (amiodarone, sotalol).# TOXICITY: Sotalol--torsades de pointes, excessive a blockade. Ibutilide--torsades de pointes. Amiodarone--pulmonary fibrosis, hepatotoxicity, hypothyroidism/ hyperthyroidism (amiodarone is 40% iodine by weight), corneal deposits, skin deposits (blue/gray) resulting in photodermatitis, neurologic effects, constipation, cardiovascular effects (bradycardia, heart block, CHF). Certain drugs modulate opening and closing of the channels, e. g.# Quinidineblocks myocardial Na+ channels.# Dofetilide & amiodaroneblock myocardial delayed rectifier K+ channel.# Nifedipineblocks L-type of voltage sensitive Ca2+channel.# Nicorandilopens ATP-sensitive K+ channels.# Sulfonylureasinhibit pancreatic ATP-sensitive K+ channels.# Amilorideinhibits renal epithelial Na+ channels.# Phenytoinmodulates (prolongs the inacti vated state of) voltage sensitive neuronal Na+ channel.# Ethosuximideinhibits T-type of Ca2* channels in thalamic neurones",
-        "cop": 4,
-        "opa": "Pinacidil",
-        "opb": "Diazoxide",
-        "opc": "Nicorandil",
-        "opd": "Amiodarone",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "4117af7f-1491-48e1-8446-9d33b2fc252d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Digoxin is not indicated in:",
         "exp": "Ans. (C) High output failure(Ref: KDT 8th/e p560, 561). Digitalis is an inotropic agent that is indicated when heart is not able to pump the blood adequately. High output failure is seen in conditions like anemia and thyrotoxicosis in which heart is already contracting vigorously. Cardiac glycosides, thus are not indicated in high output failure.",
         "cop": 3,
@@ -2143,19 +1519,6 @@
         "topic_name": "C. V. S",
         "id": "0c8a65df-19aa-4801-9c28-25c44794577c",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are useful in the intravenous therapy for hypertensive emergencies except",
-        "exp": "Ans. (D) Nifedipine(Ref: Katzung 10/e p145, 179: KDT 8th/e p618, 619). Nifedipine can be used rarely for the rapid control of blood pressure but the route of administration is sublingual. Fenoldopam is a D1 agonist used i. v. for hypertensive emergencies whereas urapidil is an a blocker. Enalaprilat (not enalparil) can also be used for the same indication.",
-        "cop": 4,
-        "opa": "Fenoldopam",
-        "opb": "Urapidil",
-        "opc": "Enalaprilat",
-        "opd": "Nifedipine",
-        "subject_name": "Pharmacology",
-        "topic_name": "C. V. S",
-        "id": "5344eb44-e408-49ec-b6b0-c6036feb00eb",
-        "choice_type": "multi"
     },
     {
         "question": "Drug showing additional nitric oxide activity:",

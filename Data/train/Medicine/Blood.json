@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Hemochromatosis affect the following organs",
-        "exp": "Ans: d. Ref: Harrison, 16, hed, p. 2301",
-        "cop": 4,
-        "opa": "Heart",
-        "opb": "Pancreas",
-        "opc": "Skin",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "0f6e2f1d-6a4f-45d2-85a3-5ecb97c5d8fc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hemagglutinin, (Anti-A and Anti-B) are which type of antibodies?",
         "exp": "Ans. B. IgM. (Ref. H-17th/pg. 708-709; Wintrobe's clinical hematology 13th/ pg. 979). Isohemagglutinins, substances that agglutinate the red blood cells of others of the same species, are also found in humans. Thus, there are four main blood groups, which differ with respect to two antigens, A and B, in the red blood cells and two isohemagglutinins, anti-A and anti-B, in the serum. Thus, in humans, type O has neither antigen but both agglutinins, type A has A antigen and anti-B.# Anti-A and anti-B antibodies are usually IgM and do not pass through the placenta.",
         "cop": 2,
@@ -63,32 +50,6 @@
         "topic_name": "Blood",
         "id": "bb80f176-b1c1-4af1-86ef-63f70ba96f77",
         "choice_type": "single"
-    },
-    {
-        "question": "Neutropenia is seen in all except:",
-        "exp": "Ans: A (Scurvy) Ref: Harrison's Principles of Internal Medicine, 18 ed. Explanation: Severity of neutropenia based on the absolute neutrophil count (ANC) measured in cells per microliter of blood: Mild neutropenia (1000 < ANC < 1500) minimal risk of infection. Moderate neutropenia (500 < ANC < 1000) -- moderate risk of infection. Severe neutropenia (ANC < 500) -- severe risk of infection. Causes of Neutropenia. Causes can be divided into the following groups: Decreased production in the bone marrow due to: Aplastic anemia. Arsenic poisoning. Cancer, particularly blood cancers. Hereditary disorders (e. g. Congenital neutropenia. cyclic neutropenia). Radiation. Vitamin B 12, Folate or copper deficiency. Increased destruction: Autoimmune neutropenia. Chemotherapy treatments, such as for cancer and autoimmune diseases. Marginalisation and sequestration: Hemodialysis. Medications: Chloramphenicol. Phenytoin. Indomethacin. Propylthiouracil. Carbimazole. Chlorpromazine. Trimethoprim/sulfamethoxazole. Clozapine. Ticlodipine. Infections. Tuberculosis. Typhoid fever. Brucellosis. Tularemia. Measles. Infectious mononucleosis. Malaria. Viral hepatitis. AIDS",
-        "cop": 1,
-        "opa": "Scurvy",
-        "opb": "Aplastic anemia",
-        "opc": "Typhoid fever",
-        "opd": "Chloramphenicol",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "e74852ed-2a4b-4128-9294-151a214c8365",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 23-year-old man presents with prolonged nose bleeds. He has always noted easy bruising, and ongoing bleeding after minor cuts. There is no prior history of surgery or dental procedures. His hemoglobin is 14. 5 g/dL, platelets 200, 000/mL, and PT/PPT is normal. Further testing reveals that the bleeding time is elevated; the factor VIII level is reduced, as is the ristocetin cofactor assay. For the above patient with a bleeding disorder, select the most likely diagnosis.",
-        "exp": "von Willebrand's disease is the most common inherited bleeding disorder. The abnormal plasma glycoprotein, von Willebrand factor (v. WF), has two major functions: facilitating platelet adhesion and serving as a carrier for factor VIII. The disease is heterogeneous in its manifestations but can be very severe (type III disease). Evaluation reveals a prolonged bleeding time and decreased factor VIII activity.",
-        "cop": 1,
-        "opa": "von Willebrand's disease",
-        "opb": "hemophilia A",
-        "opc": "hemophilia B",
-        "opd": "thrombotic thrombocytopenic purpura (TTP)",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "6986f11f-7d58-4778-8b9f-693017a3d4e5",
-        "choice_type": "multi"
     },
     {
         "question": "Which among the following factors level is not altered in vit K deficiency?",
@@ -130,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Hairy cell leukemia is",
-        "exp": "Ans. (a) B cell tumor. Ref: Harrison 19th ed. / 706* Hairy cell leukemia is a B cell tumor disease that presents in older males.* Usual presentation involves pancytopenia with splenomegaly.* The malignant cells appear to have \"hairy'projections on light and electron microscopy and show a characteristic staining pattern with tartrate-resistant acid phosphatase.* Bone marrow is typically not able to be aspirated, and biopsy shows a pattern of fibrosis.* Patients with this disorder are prone to unusual infections, including infection by Mycobacterium avium intracellulare, and to vasculitic syndromes.* Hairy cell leukemia is responsive to chemotherapy with interferon, pentostatin, or cladribine, with the latter being the usually preferred treatment.",
-        "cop": 1,
-        "opa": "B cell tumor",
-        "opb": "T cell tumor",
-        "opc": "NK cell tumor",
-        "opd": "All of above",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "47734d7a-f15f-4aab-b242-46b442bbbd86",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most suitable test to assess iron stores is -",
         "exp": "Ans. is 'b' i. e., Serum ferritin o Best test for the assessment of Iron stores is serum ferritin. o Serum ferritin is the earliest indices to decrease in Iron deficiency anemia. o It is the most sensitive test for the diagnosis of iron deficiency anemia. o Earliest marker for the diagnosis of Iron deficiency anemia. o Serum ferritin is the earliest marker for the detection of Iron deficiency anemia. Serum ferritin - Serum iron - Transferrin - Total iron binding capacity - % saturation",
         "cop": 2,
@@ -154,32 +102,6 @@
         "topic_name": "Blood",
         "id": "7e470e93-f1c0-489c-b960-7d9cc360975e",
         "choice_type": "single"
-    },
-    {
-        "question": "A 19-year-old college student develops a severe sore throat, cervical lymphadenopathy, and atypical lymphocytes on blood film. A heterophil antibody test is positive. For the above patient with a hematologic abnormality, select the most likely diagnosis.",
-        "exp": "Heterophil antibodies react against sheep red cells and are not absorbed by the guinea pig kidney. They are positive in patients with infectious mononucleosis. In 90% of cases, liver enzymes are elevated. Examination of the blood film reveals a lymphocytosis with atypical lymphocytes.",
-        "cop": 3,
-        "opa": "hyperthyroidism",
-        "opb": "rectal cancer",
-        "opc": "infectious mononucleosis",
-        "opd": "renal cell carcinoma",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "f5a2d9d4-061a-4986-be08-a79f5274c22f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 62-year-old man reports early satiety, fatigue, and generally feeling unwell. On examination he has a large spleen, appears pale, and the rest of the examination is normal. His blood count is abnormal; the WBC is 50, 000/mL with increased mature granulocytes, hemoglobin 9. 5 g/dL, and platelets 450, 000/mL. Which of the following cytogenetic changes is most characteristic of his condition?",
-        "exp": "This is a case of chronic myelogenous leukemia. The reciprocal translocation involves the long arms of 22 and 9, and results in translocation of the ABL proto-oncogene from chromosome 9 adjacent to a portion of the BCR gene on chromosome 22. The resultant abnormal chromosome 22 is known as the Philadelphia (Phi) chromosome.",
-        "cop": 2,
-        "opa": "deletion of chromosome 14",
-        "opb": "reciprocal translocation of 9 and 22 (Philadelphia chromosome)",
-        "opc": "translocation of the renal artery stenosis (RAS) oncogene",
-        "opd": "trisomy 21",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "820e866c-b4d1-473a-9db4-b2db989ba55f",
-        "choice_type": "multi"
     },
     {
         "question": "A 45-year-old woman develops symptoms of shortness of breath on exertion, easy fatigue, and jaundice. On examination she is pale, and there is a palpable spleen, but no lymphadenopathy. Her hemoglobin is 9. 0 g/dL, the reticulocyte count 9%, and the direct antibody test (Coombs) is positive. Which of the following bone marrow findings is most likely to be seen in this patient?",
@@ -221,45 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Indications for FFP include",
-        "exp": "Ans. d (All of the above) (Ref. Harrison 18th/ ch. 113; Table 113-2). Characteristics of Selected Blood Components. Component. Volume, m. LContent. Clinical Response. PRBC180-200. RBCs with variable leukocyte content and small amount of plasma. Increase hemoglobin 10 g/L and hematocrit 3%Platelets50-70200-4005. 5 x 1010/RD unit3 x 10U/SDAP product. Increase platelet count 5000-10, 000/L CCI 10 x 109/L within 1 h and 7. 5 x 109/L within 24 h posttransfusion. FFP200-250. Plasma proteins-coagulation factors, proteins C and S, antithrombin. Increases coagulation factors about 2%Cryoprecipitate10-15. Cold-insoluble plasma proteins, fibrinogen, factor VIII, v. WFTopical fibrin glue, also 80 IU factor VIIIBLOOD COMPONENTSWHOLE BLOOD# It is the ideal component for patients who have sustained acute hemorrhage of =25% total blood volume loss.# Whole blood is stored at 4degC to maintain erythrocyte viability, but platelet dysfunction and degradation of some coagulation factors occurs.# In addition, 2, 3-bisphosphoglycerate levels fall over time, leading to an increase in the oxygen affinity of the hemoglobin and a decreased capacity to deliver oxygen to the tissues, a problem with all red cell storage. PACKED RED BLOOD CELLS# It increases oxygen-carrying capacity in the anemic patient.# Adequate oxygenation can be maintained with a hemoglobin content of 70 g/L in the normovolemic patient without cardiac disease; however, comorbid factors often necessitate transfusion at a higher threshold.# In most patients requiring transfusion, levels of hemoglobin of 100 g/L are sufficient to keep oxygen supply from being critically low.# PRBCs may be modified to prevent certain adverse reactions. Leukocyte reduction of cellular blood products is increasingly common, and universal prestorage leukocyte reduction has been recommended.# These PRBC units contain <5 x 106 donor white blood cells (WBCs), and their use lowers the incidence of posttransfusion fever, CMV infections, and alloimmunization.# Other theoretical benefits include less immunosuppression in the recipient and lower risk of infections.# Plasma, which may cause allergic reactions, can be removed from cellular blood components by washing. FRESH-FROZEN PLASMA (FFP)FFP contains stable coagulation factors and plasma proteins:# Fibrinogen, # Antithrombin, # Albumin, as well as# Proteins C and S. Indications for FFP include:# Correction of coagulopathies, including the rapid reversal of warfarin;# Supplying deficient plasma proteins; and# TTP# FFP is an acellular component and does not transmit intracellular infections, e. g., CMV.# Patients who are IgA-deficient and require plasma support should receive FFP from IgA-deficient donors to prevent anaphylaxis. CRYOPRECIPITATE# Cryoprecipitate is a source of fibrinogen, factor VIII, and von Willebrand factor (v. WF).# It is ideal for supplying fibrinogen to the volume-sensitive patient.# When factor VIII concentrates are not available cyroprecipitate may be used since each unit contains approximately 80 units of factor VIII.# Cryoprecipitate may also supply v. WF to patients with dysfunctional (type II) or absent (type III) von Willebrand disease.# *****FACTOR EX IS ABSENT IN CRYOPRECIPITATE.",
-        "cop": 4,
-        "opa": "Rapid reversal of (effects of) warfarin",
-        "opb": "Supplying deficient plasma proteins",
-        "opc": "Treatment of TTP",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "d25e0231-d345-4bd2-b168-3d16350fa16d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "An 18-year-old man is seen in the clinic for routine assessment. He reports no active symptoms, there is no past medical history and he is not taking any medications. He mentions that his brother has a \"low blood count\" that is hereditary but does not recall the name of the disorder. His physical examination is entirely normal. A complete blood count reveals a hemoglobin of 10. 5 g/dL and microcytic red cells on the blood film. A hemoglobin electrophoresis confirms the diagnosis of beta-thalassemia minor. Which of the following findings is characteristic of this condition?",
-        "exp": "An increased amount of HbF or Hb. A2 is present in patients with beta-thalassemia. As the hemoglobin beta-chains are decreased in beta-thalassemia, the excess alpha-chains combine with gamma-and delta-chains to make HbF and Hb. A2, respectively. Increased osmotic fragility of red cells is a feature hereditary spherocytosis and not thalassemia. Most patients with thalassemia have normal quantities of bone marrow iron, and HbS is not a feature of thalassemia but of sickle cell disease.",
-        "cop": 1,
-        "opa": "an increased amount of fetal hemoglobin (HbF) or hemoglobin A2 (Hb. A2)",
-        "opb": "increased osmotic fragility of the red cells",
-        "opc": "absent bone marrow iron",
-        "opd": "increased macroglobulin's in the serum",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "61f9175b-48b2-48ef-9b01-501d6cdb31c7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Henoch Schoenlein Purpura is characterized by following except:",
-        "exp": "Ans D. Thrombocytopenia. (Ref. H - 17th / pg. 2128)# Purpura in 'Henoch Scholein purpura' is due to vasculitis and not thrombocytopenia. HENOCH-SCHONLEIN PURPURA (anaphylactoid purpura). Definition:# It is a small vessel vasculitis, is a distinct systemic vasculitis syndrome characterized by:- palpable purpura, arthralgias, GI involvement and glomerulonephritis. Incidence and Prevalence# It is usually seen in children; most patients range in age from 4-7 years; however, the disease may also be seen in infants and adults.# It is not a rare disease.# The male-to-female ratio is 1. 5: 1.# A seasonal variation with a peak incidence in spring has been noted. Pathology and Pathogenesis# A immune-complex deposition disease.# A number of inciting antigens have been suggested including upper respiratory tract infections, various drugs, foods, insect bites, and im- munizations. IgA is the antibody class most often seen in the immune complexes and has been demonstrated in the renal biopsies of these patients. Clinical and Laboratory Manifestations# Palpable purpura (most commonly distributed over the buttocks and lower extremities and in pediatric patients, palpable purpura is seen in virtually all patients), # Arthralgias (most patients develop poly- arthralgias in the absence of frank arthritis), # GI signs and symptoms and# Glomerulonephritis (occurs in 10-50% of patients).# Myocardial involvement can occur in adults but is rare in children.# Lab studies show a mild leukocytosis, a normal platelet count, and occasionally eosinophilia. Serum complement components are normal, and IgA levels are elevated. Diagnosis# The diagnosis of Henoch-Schonlein purpura is based on clinical signs and symptoms.# Skin biopsy useful in confirming leukocytoclastic vasculitis with IgA and C3 deposition.# Renal biopsy is rarely needed for diagnosis but may provide prognostic information in some. Prognosis# The prognosis of Henoch-Schonlein purpura is excellent.# Mortality is exceedingly rare, and 1-5% of children progress to end-stage renal disease.# Most patients recover completely, and some do not require therapy. Rx:# Rx is similar for adults and children. When glucocorticoid therapy is required, prednisone, in doses of 1 mg/kg per day and tapered according to clinical response; however, it has not proven beneficial in the Rx of skin or renal disease and does not appear to shorten the duration of active disease or lessen the chance of recurrence.# Patients with rapidly progressive glomerulonephritis have been anecdotally reported to benefit from intensive plasma exchange combined with cytotoxic drugs.",
-        "cop": 4,
-        "opa": "Palpable purpura",
-        "opb": "Renal failure",
-        "opc": "GIT hemorrhage",
-        "opd": "Thrombocytopenia",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "d76508a0-6b0f-4dc7-8633-786f413ae053",
-        "choice_type": "multi"
-    },
-    {
         "question": "In Burkitts lymphoma, translocation seen is chromosome",
         "exp": "Ans. is 'b' 8-14 translocation Chromosomal translocations Associated Neoplasms8 - 14 -Burkitt's lymphoma*. Acute lymphocytic leukemia (FAB type L3) Immunoblastic B cell lymphoma*15-17 -Promyelocytic leukemia*4-11 -Acute lymphocytic leukemiaH-14 -Chronic lymphocytic leukemia14- 18 -Some B cell lymphomas6 - 14 -Cystadenocarcinoma of ovary3. 8 -Renal adenocarcinoma*, mixed parotid tumour.",
         "cop": 2,
@@ -273,19 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 19-year-old college student develops a severe sore throat, cervical lymphadenopathy, and atypical lymphocytes on blood film. A heterophil antibody test is positive. For the above patient with a hematologic abnormality, select the most likely diagnosis",
-        "exp": "Heterophil antibodies react against sheep red cells and are not absorbed out by the guinea pig kidney. They are positive in patients with infectious mononucleosis. In 90% of cases, liver enzymes are elevated. Examination of the blood film reveals a lymphocytosis with atypical lymphocytes.",
-        "cop": 3,
-        "opa": "hyperthyroidism",
-        "opb": "rectal cancer",
-        "opc": "infectious mononucleosis",
-        "opd": "acute myelogenous leukemia",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "d0f1c2f9-8740-4c2a-b901-a6b5ff971385",
-        "choice_type": "multi"
-    },
-    {
         "question": "Bleeding in haemophilia A is due to:",
         "exp": "Ans: c (Deficiency of factor 8 which fails to activate factor 10) Ref: Harrison, 16th ed, p. 680; 17th ed, p. 726. Haemophilia A occurs due to deficiency or reduced activity of factor 8 which is responsible for activation of factor 10. The intrinsic pathway of coagulation is affected. Haemophilia B or Christmas disease occurs due to deficiency of factor 9. Coagulation profile in haemophilia. BT-normal. Clotting time - increased. PTT - increased. PT-normal. If intrinsic pathway (8, 9, 11, 12) is affected - PTT is prolonged. If extrinsic pathway (5, 7) is affected - PT is prolonged. If factors 1, 2 and thrombin are affected then both PT and PTT are prolonged",
         "cop": 3,
@@ -297,32 +167,6 @@
         "topic_name": "Blood",
         "id": "29ec5d03-2d3d-491c-9641-88ef24b156ea",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is a Direct thrombin inhibitors?",
-        "exp": "Ans. D. All of the above. Direct thrombin inhibitors. Mechanism of action: Thrombin inhibition. Example: a. Lepirudinb. Argatrobanc. Bivalirudind. Ximelagatrane. Dabigatran (oral drug).",
-        "cop": 4,
-        "opa": "Lepirudin",
-        "opb": "Argatroban",
-        "opc": "Bivalirudin",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "94c2d76b-931d-451b-974f-02199aba416c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Plummer Vinson syndrome is characterized by all EXCEPT(764 H18",
-        "exp": "(Megaloblastic anemia): (764- H18th edition). Plummer - Vinson or Pateron - Kelly syndrome - Presence of an esophageal web in association with glossitis and iron deficiency anemia congenital hyperkeratosis and pitting of the palms and soles (ie tylosis Palmaris et plantaris) have each been linked with squamous cell oesophageal cancer",
-        "cop": 3,
-        "opa": "Glossitis",
-        "opb": "Oesophageal webs",
-        "opc": "Megaloblastic anemia",
-        "opd": "Oesophageal dysphagia",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "dd3a2b04-9172-4ee8-b34b-e39c1e674599",
-        "choice_type": "multi"
     },
     {
         "question": "A 49-year-old man presents with jaundice, nausea, and vomiting. He has a history of chronic alcoholism, and is currently drinking over one bottle of red wine a day. On physical examination, he is jaundiced and pale with a large tender liver. Laboratory data include hemoglobin of 9 g/dL, WBC of 4200/mL, and platelet count of 80, 000/mL. His liver enzymes and bilirubin are also elevated. Ultrasound of the abdomen reveals liver enlargement with no bile duct obstruction, a normal size spleen, and no ascites. Which of the following is the most likely toxic effect of alcohol on the bone marrow?",
@@ -351,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following typically causes a macrocytic anemia?",
-        "exp": "Blind loop syndrome leads to megaloblastic anemia and macrocytosis because of B12 deficiency. The deficiency is caused by colonization with bacteria that takes up ingested cobalamin before it can be absorbed. The other conditions generally cause microcytic or normocytic anemias.",
-        "cop": 1,
-        "opa": "blind loop syndrome",
-        "opb": "iron deficiency",
-        "opc": "thalassemia",
-        "opd": "chronic inflammation",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "e8942165-dd31-48a9-86d9-120c552db977",
-        "choice_type": "multi"
-    },
-    {
         "question": "An elderly patient is receiving a blood transfusion for anemia due to myelodysplastic syndrome (MDS). He was diagnosed with MDS 2 years ago and over the past 6 months has required blood transfusions every 6 weeks for symptomatic anemia. His past medical history also includes hypertension, Type 2 diabetes, and coronary artery disease. Halfway through the transfusion of the second unit of packed red blood cells he develops tachypnea, lumbar pain, tachycardia, and nausea. Which of the following is the most likely explanation?",
         "exp": "Intravascular hemolysis from blood transfusion is usually due to ABO incompatibility, often from human error. Symptoms of intravascular hemolysis include flushing, pain at the infusion site, chest or back pain, restlessness, anxiety, nausea, and diarrhea. Signs include fever and chills, shock, and renal failure. In comatose patients, hemoglobinuria or bleeding from disseminated intravascular coagulation can be the first sign. Management is supportive. Acute hemolysis can also result from antibodies directed against other RBC antigens such as Rh, Kell, or Duffy.",
         "cop": 3,
@@ -388,32 +219,6 @@
         "topic_name": "Blood",
         "id": "a5150e34-6c97-4259-a939-8305430a7e4e",
         "choice_type": "single"
-    },
-    {
-        "question": "Bleeding due to platelet defect is characterized by all except:",
-        "exp": "Ans b (Commonly presents with Hemarthrosis& hematoma ). Ref: Harrison, 18th ed. pg. 460* Haemarthroses and spontaneous muscle haematomas are characteristic factor VIII or IX deficiency (moderate to severe).* They are also seen in deficiencies of fibrinogen, prothrombin and factors V, VII, X. It rarely occurs in bleeding disorders (exception is VWD)* Mucosal bleeding as well as superficial bleeding occurs in underlying platelet disorder or VWD. (disorders of primary haemostasis). More points:* Posttraumatic bleeding + joint hyperextensibility o. Ehler-Danlos syndrome* Epistaxis is the most common symptom in HHT (hereditary hemorrhagic telengectasia) and boys with VWD.* Bleeding with eruption of primary teeth is a common symptom in children with moderate to severe haemophilia.* VWD type 2 &3 are associated with angiodysplasia of bowel & GI bleeding.* In joint bleeds pain, swelling & loss of function are usual but discoloration from bruising around the joint is rarely a symptom.",
-        "cop": 2,
-        "opa": "Bleeding occurs immediately after trauma",
-        "opb": "Commonly presents with haemarthrosis& haematoma",
-        "opc": "Local measures are effective in controlling disease",
-        "opd": "Bleeding is usually superficial",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "63ac7b47-50b9-42ab-9b98-e52a895f4108",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True in a patient with PNH?",
-        "exp": "Ans. B. Aplastic anemia is a recognized complicationa. Iron may indeed precipitate Haemolysis and this is a not uncommon presenting feature. The mechanism may be due to increased output of complement sensitive reticulocytes following iron treatment in patients with marginal iron balance. b. Aplastic anemia may supervene but there is no association with chronic granulocytic leukaemia. c. The Ham's acidified serum test is positive in PNH but the Hess test is not commonly abnormal unless thrombocytopenia occurs due to progressive aplasia. Splenomegaly is unusual.",
-        "cop": 2,
-        "opa": "Splenomegaly is commonly present",
-        "opb": "Aplastic anemia is a recognized complication",
-        "opc": "Chronic granulocytic leukemia may supervene",
-        "opd": "The Hess test is commonly abnormal",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "ee76e51e-964d-41d2-85b7-b99116d7f5ae",
-        "choice_type": "multi"
     },
     {
         "question": "A 35 yr old lady with normal PT and increased a. PTT. 2 year back, she was operated for cholecystectomy & did not have any bleeding episoe. What is next investigation for clinical diagnosis -",
@@ -442,19 +247,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 62-year-old man reports early satiety, fatigue, and generally feeling unwell. The symptoms started gradually and are getting worse. He notes no chest discomfort, respiratory symptoms, or abdominal pain. On physical examination, he appears pale, the vital signs are normal, and the pertinent findings are a large spleen, absence of lymph nodes, and normal heart and lung. His blood count is abnormal; the WBC is 50, 000/mL with increased mature granulocytes, hemoglobin is 9. 5 g/dL, and platelets are 450, 000/mL. Which of the following cytogenetic changes is most characteristic of his condition?",
-        "exp": "This is a case of chronic myelogenous leukemia (CML). The reciprocal translocation involves the long arms of 22 and 9, and results in translocation of the ABL proto-oncogene from chromosome 9 adjacent to a portion of the BCR gene on chromosome 22. The resultant abnormal chromosome 22 is known as the Philadelphia (Phi) chromosome.",
-        "cop": 2,
-        "opa": "deletion of chromosome 14",
-        "opb": "reciprocal translocation of 9 and 22 (Philadelphia chromosome)",
-        "opc": "translocation of the renal artery stenosis (RAS) oncogene",
-        "opd": "trisomy 21",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "fa4e810c-5ff2-4c3c-8d87-143dcb6e1857",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is the mechanism of action of Penta saccharide?",
         "exp": "Ans. B. Factor XA inhibition. Penta saccharide. Mechanism of action: Factor Xa inhibition. Example: Fondaparinux, Idraparinux. Newer factor Xa inhibitor: a. Rivaroxabanb. Apixaban Both are given orally.",
         "cop": 2,
@@ -466,19 +258,6 @@
         "topic_name": "Blood",
         "id": "43d78931-5b7e-4d30-bf59-ef517202db5e",
         "choice_type": "single"
-    },
-    {
-        "question": "In a patient of Hemophilia to be taken for dental extraction true is all, EXCEPT",
-        "exp": "Ans. is 'b' i. e., Extraction should be done under General Anaesthesia \" In dentistry Surgery, General Anaesthesia is contraindicated in patients with Hemophilia\" -Page 422 Lee's Synopsis of Anaesthesia. In Hemophilic patients before any surgical procedures, transfusion of factor VIII or cryoprecipitate is done as the patient is deficient in it. Patients with Hemophilia are at risk of HIV and Hepatitis. So they should be screened for these diseases. I have not yet found anything about the dose of lignocaine.",
-        "cop": 2,
-        "opa": "All patients should be screened for HIV",
-        "opb": "Extraction should be done under general anaesthesia and skilled anaesthetic care",
-        "opc": "Factor VIII or cryoprecipitate can be needed",
-        "opd": "Dose of Lignocaine required for anaesthesia is same as that for normal individuals",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "aa082956-bb32-4af4-ba4d-33ffa3b9de42",
-        "choice_type": "multi"
     },
     {
         "question": "A 19-year-old man has had recurrent bleeding occur in his knee when playing contact sports. He has no history of spontaneous bleeding, but his brother had similar problems. Consultation with a specialist reveals that he has \"mild\" hemophilia A. Which of the following factor abnormalities is consistent with this diagnosis?",
@@ -507,19 +286,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is complication of heparin?",
-        "exp": "Ans. D. All of the above. Anticoagulants. Heparin: Activating antithrombin (previously known as antithrombin III). Side Effectsa. Bleedingb. Thrombocytopenia: c. Osteoporosisd. Elevated Levels of Transaminases: without a concomitant increase in the level of bilirubin.",
-        "cop": 4,
-        "opa": "Bleeding",
-        "opb": "Thrombocytopenia",
-        "opc": "Osteoporosis",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "af602e8c-67c8-4cfd-8ee9-c0731b09a6ca",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hypoxic pulmonary vasoconstriction due to -",
         "exp": "Ans. is 'b' i. e., Reversible pulmonary vasoconstriction due to hypoxia. Pulmonary hypoxic vasoconstrictiono Hypoxic pulmonary vasoconstriction (HPV) is an adaptive vasomotor response to alveolar hypoxia which redistributes blood to optimally ventilated lung segments by an active process of vasoconstriction, particularly involving the small muscular resistance pulmonary arteries (PA). o HPV is intrinsic to the lung and the mechanism involves redox based O2 sensor. o Alveolar hypoxia triggers the pulmonary vessels to constrict.# Alveolar hypoxia triggers the pulmonary vessels to constrict, directing blood away from poorly/nonventilated areas to better ventilated segments thereby improving ventilation/perfusion matching. o Clinically HPV is proportional to the degree of local hypoxia and is triggered primarily in response to an alveolar oxygen partial pressure (PAO2 less than 100 mm. Hg. o HPV onsets within seconds of moderate hypoxia and reverses quickly on restoration of normoxic ventilation. o HPV shunts bloodfrom poorly oxygenated areas to better ventilated lung segments, thereby optimizing ventilation perfusion matching, reducing shunt fraction and optimizing O2 delivery in conditions such as atelactasis and pneumonia. The onset of HPV occurs in two phase:-# Initial rapid onset phase (minutes)# Delayed phase (hours)",
         "cop": 2,
@@ -546,19 +312,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Petterson kelly syndrome is characterized by all EXCEPT:",
-        "exp": "(Vitamin B, 2 deficiency anemia) (589-H 16th) (427-CMDT-2009) (570-HI7th)* Presence of an esophageal web in association with glossitis and iron deficiency (Plummer- Vinson or Peterson- kelly syndrome) and congenital hyperkeratosis and pitting of the palms and soles (i. e. tylosis palmaris) have each linked with squamous cell carcinoma of esophagus. Iron deficiency anemia -* Cheilosis (Fissures at the comer's of the mouth)* Koilonychia (Spooning of the finger nails)* Dysphagia {Plummer, Vinson syndrome)* Microcytic hypochromic {Anemia of chronic disease, thalassemia, sideroblastic anemia)* A ferritin valve less than 30 meg/L is a highly reliable indicator of iron deficiency anemia.",
-        "cop": 4,
-        "opa": "Koilonychia",
-        "opb": "Microcytic hypochromic",
-        "opc": "Iron deficiency anemia",
-        "opd": "Vitamin B12 deficiency anemia",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "a8b06f8e-c4c4-43d8-97c7-d27027d5266d",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 34-year-old man presents with symptoms of fatigue, weakness, nose bleeds, and palpitations with exertion. On examination he is pale, blood pressure 110/70 mm Hg, pulse 100/min, heart sounds are normal, lungs are clear, and he has multiple petechiae and bruises on his legs. His blood count is abnormal: hemoglobin 8. 5 g/dL white blood cells (WBCs) 4000/mL, platelets 50, 000/mL, and there are blast cells in the peripheral blood. He is diagnosed with acute promyelocytic leukemia (AML-M3). Which of the following is a characteristic of this acute myelogenous leukemia? (See Fig. below.)",
         "exp": "Auer bodies are slender, pink, staining rods containing lysozyme, and are exclusively seen in AML. Although similar to normal azurophilic granules in content and staining properties, they are distinguished by their gigantic size. Special stains can enhance the detection of Auer bodies. They are only seen in a minority of cases. The Philadelphia chromosome is a feature of choric myelogenous leukemia (CML), and a high leukocyte alkaline phosphatase level is seen in patients with a high WBC due to a leukemoid reaction.",
         "cop": 4,
@@ -570,19 +323,6 @@
         "topic_name": "Blood",
         "id": "33d3aeb5-e0b5-4556-9ee6-b8206c7277ed",
         "choice_type": "single"
-    },
-    {
-        "question": "A 25-year female presented with mild pallor and moderate hepatosplenomegaly. Her hemoglobin was 92g/L and fetal hemoglobin level was 65%. She has not received any blood transfusion till date. She is most likely to be suffering from:",
-        "exp": "Ans. is 'b' Thalassemia intermedia The symptoms and the investigations of the patient point towards the diagnosis of thalassemia intermedia. Thalassemia intermedia (Geno type bdeg/b or b+/b+):-Clinical Features. Anemia (moderate to severe), seen after 2 years of age. The Hb level is usually (6-10%). Moderate hepatosplenomegaly can be seen. Anisocytosis and poikilocytosis. The characteristic feature is that patient can survive without blood transfusions. Due to abnorm al synthesis of adult Hb (HbA), the level of HbA and Hb F is increased. Level of various Hemoglobin in thalassemia intermedia-HbA - reduced (20-40%). HbF - increased (60-80%). Hb. A2 - increased. So it is clear that the diagnosis is Thalassemia intermedia. Now let's see the other options. Thalassemia: Thalassemia major can also have the same presentations but 2 important points rule it out. In thalassemia major the patient cannot survive without transfusions. Blood transfusion is a must for the survival of the patient. The fetal Hemoglobin level is greater than 90%. Hereditary persistence of fetal hemoglobin: This condition is characterized by continued synthesis of high level of HbF in adult life. No other abnormalities (ie. anemia or hepatosplenomegaly) are present in the patient even if the total Hb is replaced by Hb FHemoglobin D homozygous state. Hemoglobin D is an abnormal hemoglobin and occurs in two forms: Homozygous state and. Heterozygous state * Hemoglobin D heterozygous state- no abnormality is seen * Hemoglobin D homozygous state: In this condition 95% of the body's hemoglobin is Hb. DLevels of Hb. A2 and HbF remain normal. Clinically pt. presents with mild splenomegaly and mild anemia.",
-        "cop": 2,
-        "opa": "Thalassemia major",
-        "opb": "Thalassemia intermedia.",
-        "opc": "Hereditary persistent fetal hemoglobin, homozygous state.",
-        "opd": "Hemoglobin D, homozygous state.",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "b920c92c-2fab-41cb-aa70-46f9fcd9d4a9",
-        "choice_type": "multi"
     },
     {
         "question": "In a patient with Anti-Phospholipid Antibody syndrome, which of the following treatment is used to prevent further abortions?",
@@ -637,32 +377,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Sudden abdominal pain in polycythemia vera is due to",
-        "exp": "(A) (Hepatic vein thrombosis) (898-H 18th)* Intra abdominal venous thrombosis is particularly common in young women and may be catastrophic if a sudden and complete obstruction of the hepatic vein occurs (898- H 18th)* Thrombosis sometimes also occurs in the hepatic veins (producing Budd- chiary syndrome) and the porlal and mesenteric veins (leading to bowel infarction) (619- Robbins south- asian edition)* Intense pruritis and peptic ulceration may occurs both possibly resulting from the release of histamine from basophils (619- Robbins). Hepatic vein thrombosis is associated with (indecreasing order of frequency)* Polycythemia vera* Pregnancy* Post partum state* Use of oral contraceptions* Paroxysmal nocturnal hemoglobinuria (PNH)* Hepatocellular carcinoma. Budd chiary's syndrome - characerised by* Hepatomegaly* Weight gain* Ascites* Abdominal vein",
-        "cop": 1,
-        "opa": "Hepatic vein thrombosis",
-        "opb": "Hyperviscosity",
-        "opc": "Pancreatitis",
-        "opd": "Small bowel-obstruction",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "da55936a-3192-4bb9-8305-52023e16925d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which statement is most appropriate for DIC:",
-        "exp": "Ans: B (Increased D dimer) Ref: Harrison's Principles of Internal Medicine, 18th ed Explanation: Disseminated Intravascular Coagulation DIC is a clinicopathologic syndrome characterized by widespread intravascular fibrin formation in response to excessive blood protease activity that overcomes the natural anticoagulant mechanisms. The most common findings are bleeding ranging from oozing from venipuncture sites, petechiae, and ecchymoses to severe hemorrhage from the gastrointestinal tract, lung, or into the CNS. In chronic DIC. the bleeding symptoms are discrete and restricted to the skin or mucosal surfaces. The hypercoagulability of DIC manifests as the occlusion of vessels in the microcirculation and resulting organ failure. Thrombosis of large vessels and cerebral embolism can also occur. Hemodynamic complications and shock are common among patients with acute DIC. The mortality ranges from 30 to >80% depending on the underlying disease, the severity of the DIC. and the age of the patient. Lab Findings Prolongation of PT and/or a. PTT. Platelet counts 1, 00, 000/L3 or a rapid decline in platelet numbers. Presence of schistocytes (fragmented red cells) in the blood smear: and Elevated levels of FDP. The most sensitive test for DIC is the FDP level. DIC is an unlikely diagnosis in the presence of normal levels of FDP. The D-dimer test is more specific for detection of fibrin--but not fibrinogen--degradation products and indicates that the crosslinked fibrin has been digested by plasmin. Because fibrinogen has a prolonged half-life, plasma levels diminish acutely only in severe cases of DIC. High-grade DIC is also associated with levels of antithrombin III or plasminogen activity <60% of normal. Common Clinical Causes of Disseminated Intravascular Coagulation Sepsis Immunologic disorders * Bacterial Staphylococci, streptococci, pneumococci, meningococci, gram-negative bacilli * Viral * Mycotic * Parasitic * Rickettsial * Acute hemolytic transfusion reaction * Organ or tissue transplant rejection * Graft-versus-host disease Trauma and tissue injury Drugs * Brain injury (gunshot) * Extensive burns * Fat embolism * Rhabdomyolysis * Fi&rinolyftc agents * Aprctimn * Warfarin (especially in neonates with protein C deficiency) * Prothrombin complex concentrates * Recreational drugs (amphetamines) Vascular disorders Envenomation * Giant hemangiomas (Kasabach- Merritt syndrome) * Large vessel aneurysms (e. a., aorta} * Snafee * Insects Obstetrical complications Liver disease * Abruptio placentae * Amnio tic-flu id embolism * Dead fetus syndrome * Septic abortion * Fulminant hepatic failure * Cirrhosis * Fatty liver of pregnancy Cancer Miscellaneous * Adenocarcinoma (prostate, pancreas, etc.} * Hematologic malignancies (acute promyelocytic leukemia) * Shock * Respiratory distress syndrome * Massive transfusion",
-        "cop": 2,
-        "opa": "Increased fibrinogen",
-        "opb": "Increased D dimer",
-        "opc": "Resolves if causative factor removed",
-        "opd": "Absence of bleeding abnormalities rules out DIC",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "6f42682b-056d-4517-aa5f-43f2d2759b92",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drug should be avoided in G 6 PD deficiency",
         "exp": "Ans a) (Chloroquine) Ref Harrisonn 17th edition table 101-5. DRUGS TO AVOID IN G6. PD DEFICIENCYDEFINITE RISK OF HAEMOLYSISPOSSIBLE RISK OF HAEMOLYSISPharmacological. Class. Drugs*Pharmacological Class. Drugs*Anthelmintics* ss-Naphthol* Niridazole* Stibophen. Analgesics* Acetylsalicylic acid (Aspirin)* Acetanilide* Paracetamol (Acetaminophen)* Aminophenazone (Aminopyrine)* Dipyrone (Metamizole)* Phenacetin* Phenazone (Antipyrine)* Phenylbutazone* Tiaprofenic acid. Antibiotics* Nitrofurans- Nitrofurantoin- Nitrofurazone* Quinolones- Ciprofloxacin- Moxifloxacin- Nalidixic acid- Norfloxacin- Ofloxacin* Chloramphenicol* Sulfonamides- Co-trimoxazole (Sulfamethoxazole + Trimethoprim)- Sulfacetamide- Sulfadiazine- Sulfadimidine- Sulfamethoxazole- Sulfanilamide- Sulfapyridine- Sulfasalazine (Salazosulfapyridine)- Sulfisoxazole (Sulfafurazole) Antibiotics* Furazolidone* Streptomycin* Sulfonamides- Sulfacytine- Sulfaguanidine- Sulfamerazine- Sulfamethoxypyridazole. Anticonvulsants* Phenytoin. Antidiabetics* Glibenclamide. Antidotes* Dimercaprol (BAL). Antihistamines* Antazoline (Antistine). Antimalarials* Mepacrine* Pamaquine* Pentaquine* Primaquine Diphenhydramine. Tripelennamine. Antihypertensives. Hydralazine. Methyldopa. Antimethemo- globinaemic Agents* Methylene blue. Antimalarials* Chloroquine & derivatives* Proguanil. Antimycobacterials* Dapsone* Para-aminosalicylic acid- Aldesulfone sodium (Sulfoxone)- Glucosulfone- Thiazosulfone * Pyrimethamine* Quinidine* Quinine. Antimycobacterials* Isoniazid. Antiparkinsonism Agents* Trihexyphenidyl (Benzhexol). Antineoplastic Adjuncts* Doxorubicin* Rasburicase. Cardiovascular Drugs* Dopamine (L-dopa)* Procainamide* Quinidine. Genitourinary Analgesics* Phenazopyridine (Pyridium). Diagnostic Agent for Cancer Detection* Toluidine blue. Others* Acetylphenylhydrazine* Phenylhydrazine. Gout Preparations* Colchicine* Probenecid Hormonal Contraceptives* Mestranol Nitrates* Isobutyl nitrite Vitamin K Substance* Menadiol Na sulfate* Menadione* Menadione Na bisulfite* Phytomenadione Vitamins* Ascorbic acid (Vit C) (rare) Others* Arsine* Berberine (in Coptis chinensis)* Fava beans* Naphthalene (in mothballs)* Para-aminobenzoic acid",
         "cop": 1,
@@ -674,19 +388,6 @@
         "topic_name": "Blood",
         "id": "e9d87772-be64-4551-8c1d-be279f9f6622",
         "choice_type": "single"
-    },
-    {
-        "question": "In DIC which is true:",
-        "exp": "Ans: d. Ref: Harrison, 16thed, p. 683-684",
-        "cop": 4,
-        "opa": "Increased clotting time",
-        "opb": "Increase in level of fibrin degradation products",
-        "opc": "Bleeding from all mucous membranes",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "a6a423e9-a721-4fdd-9c17-308d87d8caf3",
-        "choice_type": "multi"
     },
     {
         "question": "Bence jones proteins are:",
@@ -715,19 +416,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In polycythemia vera all are true except",
-        "exp": "(A) (High ESR) (1049-Davidson 22nd) (898-900-H 18(tm) (339- Harshmohan 7th) (619- Robbins)POLYCYTHEMIA VERA* PCV is strongly associated with activating point mutations in the tyrosine kinase JAK2* PCV is characterized by increased marrow production of red cells, granulocytes and platelets (panmyelosis)* But it is the increase in red cells (polycythemia) that is responsible for mcst of the clinical symptoms. Presence of JAK-2 mutation is a Maror criterion for diagnosis of polycythemia vera according to the WHO criteria for the diagnosis of polycythemia vera. Low Eryhropoetin levels, Thrombocytosis and increased LAP scores are al1 minor criteria for diagnosis of polycythemia vera. JAK-2 Mutation and polycythemia Vera* JAK-2 is a member of an evolutionarily well conserv ed, non receptor tyrosine kinase family and serves as the cognate tyrosine kinase for the erythropoietin receptors* A mutation in the tyrosine kinase 'AK-2 appears to have a central role in the pathogenesis of PV by causing constitutive activation of the kinase* The presence of JAK-2 mulation thus allows for the exclusion of a reactive erythrocytosis. The 2001 WHO criteria for diagnosis of PV were however developed prior to the discovery of this important mutation and hence revised WHO criteria have been developed that include presence of JAK-2 mutation as a major criterion for diagnosis. Note. Although presence of JAK-2 mutation is a major criterion for diagnosis of PV, the presence of JAK-2 mutation alone is not diagnostic of PV, JAK-2 mutations may also be seen in other myeloproliferative disorders such as Essential Thrombocytosis (ET) and chronic Idiopathic Myelofibrosis (CIMF). Various major and minor criteria used for the diagnosis of polycythemia vera in various classification system (WHO criteria (revised and old. Vpolvcythemia Vera study group criteria). Major. Minor* JAK2 V617 F mutation* Hemoglobin > 18. 5 g/dl in men 16. 5 g/dl in women* Increased red blood mass* Splenomegaly* Clonal genetic abnormality other than Philadelphia chromosome or BCR/ABL in marrow* Endogenous erythroid colony formation in vitro* Normal arterial O2 saturation (>92%)* Thrombocytosis (>400 x 109/L)* Leucocytosis ) WBC >12 x 109/L* Increased leukocyte alkaline phosphatase (LAP> 100U)* Increased serum B12/binders (B12 > 900 pg/ml; unbound B12 binding capacity > 2200 pg/ml)* Low serum erythroprotein levels.* Panmyelosis with prominent erythoid and megakaryocytic hyperplasia an bone marrow biopsy. Revised WHO criteria (proposed) for thes diagnosis of polycythemia vera. Revised WHO criteria (proposed) for the diagnosis fo polycythemia vera. Maior criteria* Hemoglobin >18. 5 g/dl in men >16. 5 g/dl in women or evidenced on increased red cell volume* Presence of JAK2 mutation. Minor criteria* Hypercellular bone marrow biopsy with panmyelosis with prominent erythroid, granulocytic, and megakaryocytic hyperplasia ** Low serum erythropoietin level* Endogenous erythroid colony formation in vitro. WHO Criteria for the diagnosis of plvcvthemia Vera (prior to the proposed new criterion)WHO criteria (previous) for the diagnosis of plycythemia vera. Maior criteria* Red blood cell mas >25% above mean normal predicted value, or Hb >18. 5 g/dl in men, 16. 5g/dl in women* Splenomegaly on palpation* Clonal genetic abnormality other than Philadelphia chromosome of BCR/ABL in marrow* Endogenous erythroid colony formation in vitro. Minor criteria* Thrombocytosis > 400x 199/L* WBC > 12x 109 /L* Panmyelosis with prominent erythroid and megakaryocytic hyperplasia on bone marrow biopsy* Low serum erythropoietin levels. ESR is only indirect measurement of serum acute phase protein concentrations particularly fibrogen.| ESR| ESR* Infections* Inflammatory disease Temporal arteritis, poly myalgia rheumatic, Rheumatic fever)* Malignant neoplasm* Paraproteinemias* Pregnancy* CRF* Gi disease (ulcerative & regional colitis)* Polycythemia* Sickle cell anemia spherocytosis anisocytosis.* Hypofibrogenemia* Hypogammaglobulinemias* CHF* Micro cytosis* Highdoses corticosteroids* ESR is elevated in multiple myeloma (serum alkaline phosphatase is normal in multiple myeloma, even with extensive involvement. This is because with there is no osteoblastic activity usually).",
-        "cop": 1,
-        "opa": "High ESR",
-        "opb": "Decreased levels of erythropoitin",
-        "opc": "Thrombocystosis",
-        "opd": "Increased leukocyte alkaline phosphates",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "7a1c19c0-1f85-4657-9ebc-9e716cf6fb7c",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 36-year-old woman with sickle cell disease presents with increasing pain in her right hip. She has no fever, chills, back or other bone pain, and there is no history of any trauma. On examination, her temperature is 37. 3degC, range of motion in the right hip is reduced, she walks with a limp, and the right leg is shorter than the left. Movements of the hip and walking on it are painful. X-rays of the hip are shown in Figure below. Which of the following is the most likely diagnosis?",
         "exp": "The diagnosis is AVN of the femoral head. Bone complications occur frequently in patients with sickle cell anemia. Infarcted areas of bone and bone marrow can become sites of infection (osteomyelitis) with Staphylococcus aureus or salmonella, but the lack of fever and clinical signs in this patient suggest AVN. Infarction of the femoral head nutrient artery leads to AVN and chronic joint pain. The humeral head is also at risk of AVN. Septic arthritis is a less common complication.",
         "cop": 1,
@@ -752,32 +440,6 @@
         "topic_name": "Blood",
         "id": "acc360f3-f9ca-4159-9aab-8b0f09bfe870",
         "choice_type": "single"
-    },
-    {
-        "question": "A 32-year-old man has a mild anemia diagnosed on routine testing. He has no symptoms and feels fine. His clinical examination is normal, and a blood film reveals some target cells with some red cells having intraerythrocytic crystals. For the above patient with a hemoglobin abnormality, select the most likely diagnosis.",
-        "exp": "The patients with homozygous HbC disease have mild hemolysis, splenomegaly, target cells, and HbC crystals. Unlike sickle cell disease, the prognosis is favorable.",
-        "cop": 4,
-        "opa": "beta-thalassemia major",
-        "opb": "HbH disease",
-        "opc": "sickle cell disease",
-        "opd": "HbC disease",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "282336ac-10c2-428a-8249-ef0b37aa4763",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 27-year-old woman presents with nose bleeds, rash on her feet, and fevers. She looks unwell, pale, jaundiced, and there are multiple petechiae on her feet. The lungs are clear, heart sounds normal, and abdomen is soft with no palpable spleen or liver. Her bilirubin is 2 mg/dL (mostly indirect), aspartate amino transferase (AST), alanine amino transferase (ALT), alkaline phosphatase (ALP) are normal. The hemoglobin is 8. 7 g/dL, platelets 24, 000/mL, PT/PTT normal, and bleeding time is elevated. The blood film reveals anemia, thrombocytopenia, and red cell fragments. For the above patient with a bleeding disorder, select the most likely diagnosis.",
-        "exp": "TTP is a fulminant disorder that can be fatal. It has been associated with malignancy, pregnancy, metastatic cancer, and high-dose chemotherapy. Most often, the classical tests of haemostasis and platelet function are normal. The classical symptoms include fever, thrombocytopenia, microangiopathic haemolytic anemia, renal failure, and fluctuating neurologic defects.",
-        "cop": 4,
-        "opa": "von Willebrand disease",
-        "opb": "hemophilia A",
-        "opc": "hemophilia B",
-        "opd": "thrombotic thrombocytopenic purpura (TTP)",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "7eefe308-8a93-4b47-a226-d4f14798bfc3",
-        "choice_type": "multi"
     },
     {
         "question": "Splenectomy is indicated in:",
@@ -806,58 +468,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 39-year-old man with chronic alcoholism is brought to the hospital after a fall, while intoxicated. He has completely recovered except for a bruise on his shoulder. His only abnormality is low hemoglobin of 9. 6 g/dL, the platelets and WBC are normal. Additional tests including ferritin, vitamins B12, and folate are normal. Which of the following findings is most likely to be seen on his peripheral blood film?",
-        "exp": "Macrocytosis is frequently seen in patients with chronic alcoholism for multiple reasons including vitamin B12 or folate deficiency, chronic liver disease, and also from the direct toxic effects of alcohol on red cells. Because both iron deficiency and folate deficiency are very common in alcoholics, a dimorphic blood film can also be seen (macrocytes, hyper segmented neutrophils, and hypochromic microcytes can be found) on the same slide.",
-        "cop": 1,
-        "opa": "macrocytosis",
-        "opb": "basophilia",
-        "opc": "red cell fragments",
-        "opd": "increased platelet adhesiveness",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "012e1e18-3bd6-43c0-bced-d52e81af33d7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Severe combined immunodeficiency is seen with?",
-        "exp": "Ans. (c) Both. Ref: Harrison 19th ed. / 2107X-lined severe combined immunodeficiency. Most cases of SCID are due to mutations in the gene encoding the common gamma chain (Yc) a protein that is shared by the receptors for interleukins IL-2, IL-4, IL-7, IL-9, IL-15. These interleukins and their receptors are involved in the development and differentiation of T and B cells. Since the common gamma chain is shared by many interleukin receptors, mutations that result in a non-functional common gamma chain cause widespread defects in interleukin signalling. The result is a near complete failure of the immune system to develop and function, with low or absent T cells and NK cells and non- functional B cells. Adenosine deaminase deficiency. The second most common form of SCID after X-SCID is caused by a defective enzyme, adenosine deaminase (ADA), necessary for the breakdown of purines. Lack of ADA causes accumulation of d. ATP. This metabolite will inhibit the activity of ribonucleotide reductase, the enzyme that reduces ribonucleotides to generate deoxyribonucleotides. The effectiveness of the immune system depends upon lymphocyte proliferation and hence d. NTP synthesis. Without functional ribonucleotide reductase, lymphocyte proliferation is inhibited and the immune system is compromised.",
-        "cop": 3,
-        "opa": "Pre B- Cell",
-        "opb": "Pre T Cell",
-        "opc": "Both",
-        "opd": "NK Cell",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "18b3c683-9ab6-4abf-ae76-8ac65b10e4ca",
-        "choice_type": "multi"
-    },
-    {
-        "question": "An 18-year-old man develops excessive bleeding 2 hours after wisdom tooth extraction. He has a history of easy bruising after playing sports, and of minor cuts that rebleed. His examination is normal, except for the tooth extraction site, which is still oozing blood. His hemoglobin is 14. 8 g/dL, platelets 230, 000 mL, PT is normal, and partial thromboplastin time (PTT) is elevated. A bleeding time is normal, factor VIII level is reduced, factor IX is normal, and ristocetin cofactor assay is normal. For the above patient with a bleeding disorder, select the most likely diagnosis.",
-        "exp": "Haemophilia A results from a deficiency or dysfunction of the factor VIII molecule. It is a sex-linked disease affecting 1 in 10, 000 males. The PTT is prolonged, but the bleeding time is characteristically normal.",
-        "cop": 2,
-        "opa": "von Willebrand disease",
-        "opb": "hemophilia A",
-        "opc": "hemophilia B",
-        "opd": "thrombotic thrombocytopenic purpura (TTP)",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "325ee46e-f74d-4a41-8db1-b8295e3fcd56",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Treatment of type I tyrosinemia is -",
-        "exp": "Ans. is 'a' i. e., Nitisinoneo Tyrosine is an aromatic amino acid important in the synthesis of thyroid hormone, catecholamines, and melanin. Impaired caiabolism of tyrosine is a feature of several acquired and genetic disorders that may result in elevated plasma tyrosine concentrations. Tyrosine metabolismo Tyrosine degradation is catalyzed by a series of five enzymatic reactions thatyiel acetaacetate, which is ketogenic, and the Krebs cycle intermediate fumarate, which is glucogenic. o The hepatocvte and renal proximal tubules are the only two cell types that express the complete pathway and contain sufficient quantities of all enzymes required for tyrosine catabolism. o Four autosomal recessive disorders result from deficiencies in specific enzymes in the tyrosine catabolic pathway. Hereditary tyrosinemia (HT) types 1, 2, and 3, Alkaptonuria (AKU). o Except for AKU, these disorders result in elevated blood tyrosine levels. Hvpertvrosinemiao Normal plasma tyrosine concentration are 30 to 120 micromol/L. o Values > 200 micromol/L are considered elevated. o However, clinical manifestations typically do not become apparent until plasma levels exceed 500 micromol/L. Hereditary Tyrosinemia type 1o Hereditary tyrosinemia type 1, also known as hepatorenal tyrosinemia, is the most severe disorder of tyrosine metabolism. o HT1 is caused by deficiency-1 of fumarydacetoacetate hydrolase (FAH), the last enzyme in the pathway of tyrosine catabolism. o Fumarylacetoacetate (FAA), the substrate for FAH in the tyrosine pathway, accumulates in FAH-deficient hepatocytes and proximal renal tubular cells, resulting in liver and kidney damage. HT1 managemento Dietary treatment, consisting of foods with low or absent phenylalanine, tyrosine, methionine, and restriction of natural protein, results in decreased tyrosine levels. o However, this approach does not stop the production of SA, prevent the pregression of liver or renal disease, or reduce the risk of developing hepatocellular carcinoma or neurologic abnormalities. o The medical treatment of choice is nits inone, formerly known as NTBC, which inhibits 4-OH phenylpyruvate dioxygenase (HPD), an early step in the tyrosine degradation pathway. This treatment reduces metabolic flow through the pathway and limits formation of the toxic compounds FAA and SA. Clinical manifestations of enzyme deficiencies in tyrosine catabolism. Defective enzyme. Tyrosine aminotransferase4-hydroxy-phenylpyruvate. Homogentisate dioxygenase. Maley1acetoacetate isomerase. Fumarylacetoace-tate hydrolase. Disease name(s). Tyrosinemia type 11 Oculocutaneous tyrosinemia Richner-Hanhardt syndrome. Tyrosinemia type IIIAlkaptonuria. No human patients described. Tyrosinemia type I Hepatorenal tyrosinemia. Elevated blood tyrosine+++++o?++Corneal ulcers++++/-o? o. Hyperkeratosis+++/-o? o. Mental retardation+/-+/-o? o. Arthritisoo+++? o. Liver failureooo?+++Renal fanconi syndromeooo?++",
-        "cop": 1,
-        "opa": "Niiisinone",
-        "opb": "No treatment",
-        "opc": "Symptomatic",
-        "opd": "Vitamin B complex",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "927a1b6a-4e33-45f4-951b-58a0267f072f",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 4-month-old infant is anemic with a hemoglobin level of 9. 5 g/dL and MCV 77 fL. The baby looks well, the height and weight growth parameters are normal, and she is breast-feeding well. Which of the following is the most likely cause for her anemia?",
         "exp": "Iron deficiency is the most common cause of anemia in infancy. Sixty percent of body iron concentration at birth is contained in circulating Hb. Milk is a poor source of iron, so the most common cause of iron deficiency in infancy is prolonged breast or bottle feeding. Cereals are high in iron content. Hemolysis and folate deficiency as the cause of this baby's anemia would result in a normocytic or macrocytic anemia, and it is unlikely malabsorption is the cause since the baby is gaining weight and doing well clinically.",
         "cop": 1,
@@ -884,19 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 27-year-old woman complains of constant back pain. She recently had an episode of severe chest and back pain that required narcotic medications, blood transfusions, and lots of fluids to treat. On examination, she is afebrile, with midthoracic tenderness on palpation. X-rays of the spine reveal periosteal reaction of the eighth thoracic vertebra. She has a chronic blood disorder where bone infarction can occur that may be difficult to distinguish from osteomyelitis. For the above patient with a hemoglobin abnormality, select the most likely diagnosis.",
-        "exp": "In sickle disease, if the bone infarction occurs in proximity to a joint, an effusion can develop. The underlying pathology is a vasoocclusive phenomenon. Bone infarction can appear like osteomyelitis (radiographically and clinically), which is problematic since patients with sickle cell disease are also at increased risk of osteomyelitis.",
-        "cop": 3,
-        "opa": "beta-thalassemia major",
-        "opb": "HbH disease",
-        "opc": "sickle cell disease",
-        "opd": "HbC disease",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "66597542-9f43-42db-917f-f978a0d5d0a9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Neutropenia is not a feature of",
         "exp": "Ans: c) Congenital asplenia1) X linked Immmunodeficiency with Hyper IgM syndrome* Defective isotype switching leads to increased Ig M and decreased Ig G and A* Due to abnormal CD- 40 ligand leading to defective B-T cell interactions: so T cell response is also abnormal (pneumocytosis, aspergillosis, CMV infections also)* Neutropenia is frequent in affected males (Harrison 17th edition)* Defective NFK^ essential modulator (NEMO) causes Hyper IgM with ectodermal dysplasia* Achranon induced cytidine deaminase (AID), URAGIDNA glycosylase (UNG). So Hyper IgM may be due to abnormal CD 40 C/ NEMO/AID/UNG. 2) Wiskott Aldrich syndrome:* Eczema (increased IgE); thrombocytopenia (small and short lived) and infections (decreased IgM; T cell deficiency)* WASP gene mutation* IgM is low; IgG and A normal; IgE increased* Lymphoreticular malignancy* Failure to make Antibody to polysaccharide antigen (protein antigen also if advanced)* Neutropenia; defective chemotaxis of neutrophils also may be seen. 3) Kostmann syndrome: Is a hereditary neutropenic syndrome due to mutation in anti-apoptosin gene HAX -1. Other Congenital Neutropenias: Mutation Neutrophil elastase: Severe chronic neutropenia. Hereditary cyclic neutropenia. Cartilage hair hypoplasia syndrome. Schwachmann - Diamond syndrome. WHIM syndrome; G-CSF receptor mutation associated with Wiskott Aldrich CD-40 L defect (Harrison 17th edition). Congenital asplenia: is a cause of Neutrophilia. Job's syndrome: Hyper IgE recurrent infection syndrome (eczema, skin abscess, Staphylococcus aureus pneumonia)",
         "cop": 3,
@@ -921,45 +518,6 @@
         "topic_name": "Blood",
         "id": "4fef011f-a23e-4210-aece-02b1622a8a39",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is used for treatment of bleeding secondary due to thrombolytic therapy?",
-        "exp": "Ans. C. EACA. (Ref Q. 179 of MH'2006 Paper; Harrison 18th/ch. l16). Thrombolytics. Alteplase (t. PA), reteplase (r. PA), tenecteplase (TNK-t. PA). Mechanism. Directly or indirectly aid conversion of plasminogen to plasmin, which cleaves thrombin and fibrin clots. PT, PTT, no change in platelet count. Uses. Early Ml, early ischemic stroke, direct thrombolysis of severe Pulm Embolism. Toxicity. Bleeding. Contraindicated in patients with active bleeding, history of intracranial bleeding, recent surgery, known bleeding diatheses, or severe hypertension. Treat toxicity with aminocaproic acid (EACA), an inhibitor of fibrinolysis. Fresh frozen plasma and cryoprecipitate can also be used to correct factor deficiencies. In VON WILLEBRAND DISEASE, HEMOPHILIA Antifibrinolytic therapy using either EACA or tranexamic acid is an important therapy, either alone or in an adjunctive capacity, particularly for the prevention or treatment of mucosal bleeding. These agents are particularly useful in prophylaxis for dental procedures, with DDAVP for dental extractions and tonsillectomy, menorrhagia, and prostate procedures. It is contraindicated in the setting of upper urinary tract bleeding, due to the risk of ureteral obstruction. In Inherited Disorders of Platelet Dysfunction, Particularly for mucosal bleeding symptoms, antifibrinolytic therapy (epsilon- aminocaproic acid or tranexamic acid) is used alone or in conjunction with DDAVP or platelet therapy.",
-        "cop": 3,
-        "opa": "Protamine Sulfate",
-        "opb": "Fibrinogen",
-        "opc": "EACA",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "73d03777-91dd-4280-84ad-3606870a4af7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Hemoglobin electrophoresis in SC A (sickle cell anemi",
-        "exp": "Ans. a (Hb A) (Ref. William haemat 7th/pg. 670, 678; Wintrobe's haemat 11th /pg. 1288). William's 680.... \" Because there are no p-polypeptide chain genes, patients with SCA have no NORMAL Hb A\". Electrophoresis in Sickle cell anemia# Hb S -50%# Hb F -Variable# Hb A2 -Normal# Hb A - Absent. Summary: Sickle cell anemia# HbS point mutation causes a single amino acid replace in a chain (substitution of glutamic acid with valine) at position 6.# Pathogenesis: low O2, dehydration, or acidosis precipitates sickling (deoxygenated HbS polymerizes), which results in anemia and vaso-occlusive disease.# Newborns are initially asymptomatic because of *HbF and>>HbS.# In SC A, mean MCHC Increase, Hb is between 5-10 g%# Heterozygotes (sickle cell trait) have resistance to malaria.# \"Crew cut\" on skull x-ray due to marrow expansion from*erythropoiesis (also in thalassemias).# Sickling is seen only when sickle cells are present by > 50%# Complications in sickle cell disease (SS): Aplastic crisis (due to parvovirus B19); Autosplenectomy (Howell-Jolly bodies) **risk of infection with encapsulated organisms; Splenic sequestration crisis; Salmonella osteomyelitis; Painful crisis (vaso-occlusive): dactylitis; acute chest syndrome (most common cause of death in adults), avascular necrosis, stroke; Renal papillary necrosis (due to low O2 in papilla; also seen in heterozygotes) and microhematuria (medullary infarcts).# Diagnosis: hemoglobin electrophoresis.# Treatment: (a). To increase HbF with drugs like: 5- azitidine and Hydroxyurea (*HbF). (b). To increase water content of RBC's or to prevent dehydration of cells: Gordos channel inhibitors, Cotrimoxazole and Mg++.",
-        "cop": 1,
-        "opa": "HbA",
-        "opb": "HbF",
-        "opc": "Hb. A2",
-        "opd": "None",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "be470e40-07ea-4028-bd8e-4325e1bd4f58",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 32-year-old man has a mild anemia diagnosed on routine testing. He has no symptoms and feels fine. His clinical examination is normal, and a blood film reveals some Target. Exam cells with some red cells having intraerythrocytic crystals. For the above patient with a hemoglobin abnormality, select the most likely diagnosis",
-        "exp": "The patients with homozygous HbC disease have mild hemolysis, splenomegaly, Target. Exam cells, and HbC crystals. Unlike sickle cell disease, the prognosis is favorable.",
-        "cop": 4,
-        "opa": "beta-thalassemia major",
-        "opb": "HbH disease",
-        "opc": "sickle cell disease",
-        "opd": "HbC disease",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "d5f74b69-357b-4942-a820-fef8dd7ed93c",
-        "choice_type": "multi"
     },
     {
         "question": "In Beta thalassemia, there is",
@@ -1027,32 +585,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 19-year-old man is brought to the hospital after injuring his knee playing football. The knee is swollen and painful to move. He has no prior history of bleeding disorders. Arthrocentesis of the knee reveals 20 cc of blood. Further investigations show that his platelets are 170, 000/mL, PT is normal, PTT is elevated, bleeding time is normal, factor VIII is normal, factor IX is reduced, and the ristocetin cofactor assay is normal. For the above patient with a bleeding disorder, select the most likely diagnosis.",
-        "exp": "Haemophilia B is clinically indistinguishable from haemophilia A and is also inherited via the X chromosome. The bleeding time is usually normal, but the PTT is usually elevated. Differentiation from haemophilia A requires factor assay.",
-        "cop": 3,
-        "opa": "von Willebrand disease",
-        "opb": "hemophilia A",
-        "opc": "hemophilia B",
-        "opd": "thrombotic thrombocytopenic purpura (TTP)",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "326a2514-4f99-4152-8ef5-f328c8518145",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 42-year-old man is feeling chronically fatigued. His hemoglobin is 11. 5 g/dL, and the blood film is hypochromic and microcytic. The serum iron is increased, total iron-binding capacity (TIBC) is normal, ferritin is increased, and Hb. A2 is decreased. For the above patient with a hypochromic microcytic anemia, select the most likely diagnosis.",
-        "exp": "Sideroblastic anemia is associated with an increased serum iron and ferritin. TIBC is generally normal. Hb. A2 is usually decreased.",
-        "cop": 4,
-        "opa": "iron deficiency anemia",
-        "opb": "beta-thalassemia trait",
-        "opc": "anemia of chronic disease",
-        "opd": "sideroblastic anemia",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "6fa88f8a-0520-4c09-ac6a-a79ce9dc54b2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most diagnostic feature of DIC?",
         "exp": "Ans. d (d - Dimer assay). (Ref. Harrison, Medicine, 18th ed. Ch. 262)DIC (DISSEMINATED INTRAVASCULAR COAGULATION)# Damage to endothelial cells by endotoxins by gram-negative bacteria, thromboplastin production from damaged tissues, placenta; fat embolus activates extrinsic pathway, wide spread coagulation occurs due to circulating thrombin with consumption of platelet factors V, VIII, fibrinogen.# Bleeding or thrombosis can occur, although bleeding is common.# Microangiopathic hemolytic anemia occurs.# Hypofibrinogenemia, Raised PTT, Thrombocytopenia. The quantitative plasma d-dimer ELISA rises in the presence of DVT or PE because of the breakdown of fibrin by plasmin. Elevation of d-dimer indicates endogenous although often clinically ineffective thrombolysis. The sensitivity of the d-dimer is >80% for DVT (including isolated calf DVT) and >95% for PE. The d-dimer is less sensitive for DVT than for PE because the DVT thrombus size is smaller. The d-dimer is a useful \"rule out\" test. More than 95% of patients with a normal (<500 ng/mL) d-dimer do not have PE. The d-dimer assay is not specific. Levels increase in patients with myocardial infarction, pneumonia, sepsis, cancer, postoperative state and pregnancy (2nd/3rd trimester).# Increased fibrinogen degradation products (D-dimer assay) is sensitive, but not specific.",
         "cop": 4,
@@ -1116,19 +648,6 @@
         "topic_name": "Blood",
         "id": "98fcc1d1-d1ab-4ae0-b5cd-0d3c68bd0697",
         "choice_type": "single"
-    },
-    {
-        "question": "True about Myeloma is all, EXCEPT",
-        "exp": "Ans. is 'd' i. e., protein casts in urine are made up of complete Ig chains Protein casts in urine are made up of light chains only Complete Ig chain comprises of both heavy chain & light chain but in Multiple myeloma there is excess production of light chains over heavy chains. These light chains are eliminated in urine as Bence Jones Protein *.",
-        "cop": 4,
-        "opa": "Plasma cell clonal proliferation",
-        "opb": "Common after 50 yrs of age",
-        "opc": "Amyloidosis can occur",
-        "opd": "Protein casts in urine are made up of complete Ig chains",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "509b0e36-7ef2-40ed-94a2-c989f952c044",
-        "choice_type": "multi"
     },
     {
         "question": "In Beta thalassemia, the most common gene mutation is:",
@@ -1209,19 +728,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Sickle cell trait can cause following except",
-        "exp": "Ans. B. (Leg ulcers) (Ref. H-17th/637; Table 99-2; 18th Table 104-2). Condition. Clinical Abnormalities. Hemoglobin Level g/L (g/dL)MCV, f. LHemoglobin Electrophoresis. Sickle cell trait. None; rare painless hematuria. Normal. Normal. Hb S/A: 40/60. Sickle cell anemia. Vasoocclusive crises with infarction of spleen, brain, marrow, kidney, lung; aseptic necrosis of bone; gallstones; priapism; ankle ulcers70-100 (7-10)80-100. Hb S/A: 100/3. Hb F: 2-25%S/Bdeg thalassemia. Vasoocclusive crises; aseptic necrosis of bone70-100 (7-10)60-80. Hb S/A: 100A). Hb F: l-10%S/B+ thalassemia. Rare crises and aseptic necrosis100-140 (10-14)70-80. Hb S/A: 60/40. Hemoglobin SCRare crises and aseptic necrosis; painless hematuria100-140(10-14)80-100. Hb S/A: 50/3. Hb C: 50%",
-        "cop": 2,
-        "opa": "Anemia",
-        "opb": "Leg ulcers",
-        "opc": "Normal osmotic fragility",
-        "opd": "None",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "827c458f-f8ea-41eb-b523-1e0bdf8ea366",
-        "choice_type": "multi"
-    },
-    {
         "question": "Low serum iron and low serum ferritin is seen in:",
         "exp": "Ans. (a) Iron deficiency anemia. Ref-. Chapter 104: Harrison 18th edition. Disease. Serum iron. Serum ferritin. TIBCIron deficiency anemia. Decreased. Decreased. Increased. Chronic kidney disease (anemia is due to deficiency of erythropoietin). Normal. Normal/ decreased if lost in urine due to kidney pathology. Normal. Sideroblastic anemia. Increased. Increased. Decreased. Fanconi anemia( anemia is due to congenital aplastic anemia). Normal. Normalnormal",
         "cop": 1,
@@ -1233,19 +739,6 @@
         "topic_name": "Blood",
         "id": "9576be91-468c-4b10-b7dc-e4723334109f",
         "choice_type": "single"
-    },
-    {
-        "question": "A 42-year-old man is feeling chronically fatigued. His hemoglobin is 11. 5 g/dL, and the blood film is hypochromic and microcytic. The serum iron is increased, total iron-binding capacity (TIBC) is normal, ferritin is increased, and Hb. A2 is decreased. For the above patient with a hypochromic microcytic anemia, select the most likely diagnosis",
-        "exp": "Sideroblastic anemia is associated with an increased serum iron and ferritin. TIBC is generally normal. Hb. A2 is usually decreased.",
-        "cop": 4,
-        "opa": "iron deficiency anemia",
-        "opb": "beta-thalassemia trait",
-        "opc": "anemia of chronic disease",
-        "opd": "sideroblastic anemia",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "4fcfbb4d-aaee-491c-9727-4f01980e26ea",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following acquired conditions is low risk for thrombosis?",
@@ -1287,19 +780,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true regarding Leukemoid reaction, EXCEPT:",
-        "exp": "Ans. b (Neutrophil count > or = 11, 600/mL) > D (HB > 9 gm%) (Ref. Harrison medicine 16th ed., 353). Features. Leukemoid Reaction. CML1 WBC10-100 K30-500 K2 Eos/Bas. Rare. Increased3 LAP score>100>104 Organomegaly. Absent. Present. LEUKEMOID REACTION# The term leukemoid reaction is used to describe persistent neutrophilia with cell counts of more than or equal to 30, 000-50, 000/micro. Liter that is not leukemic in etiology. The circulating neutrophils are usually mature and not clonally derived.# Leukemoid reactions are the response of normal bone marrow to cytokine release by lymphocytes, macrophages, and other cells in response to infection or trauma. In a leukemoid reaction, the circulating neutrophils are usually mature and are not clonally derived.# It is usually seen in response to infection, inflammation, or therapeutic agents such as growth factors and is less commonly caused by malignancy. Milder elevations in leukocyte count are common both in carcinoma and Hodgkin lymphoma. White cell counts in excess of 10000/mL have been found in 14. 5% of 227 patients with lung carcinoma and in 27% of 100 patients with Hodgkin disease.# The major differential diagnosis is with regard to CML.# Leukemoid reactions should also be distinguished from leukoerythroblastic reactions: the presence of immature white cells and nucleated red cells in the peripheral blood irrespective of the total leukocyte count. Although less common than leukemoid reactions in adults, leukoerythroblastosis reflects serious marrow stimulation or dysfunction and should prompt bone marrow aspiration and biopsy, unless it occurs in association with severe hemolytic anemia, sepsis in a patient with hyposplenism, or massive trauma. In such patients, trauma, hemorrhage, and infection all will contribute to potent cytokine release and marrow stimulation.# The absence of splenomegaly, leukocyte precursors (myelocytes, metamyelocytes), basophilia, or eosinophilia all point away from CML, and the elevated LAP score confirms the diagnosis of a leukemoid. reaction. Definition of leukemoid is persistent neutrophilia with counts > 50. 000. And normal thrombocyte count, normal HB and blast count < 5%.",
-        "cop": 2,
-        "opa": "Blast cells <5%",
-        "opb": "Neutrophil count > or = 11600/mL",
-        "opc": "Platelet count 1, 00, 000/mL",
-        "opd": "Hemoglobin > 9gm%",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "a6e228f5-840a-4312-8e3f-294b27b3f4fe",
-        "choice_type": "multi"
-    },
-    {
         "question": "Good prognosis seen in which type of Hodgkin?",
         "exp": "ANSWER: (A) Lymphocytic predominance. REF: Harrisons 17th ed chapter 105\"Lymphocyte predominance has survival rate > 80% and has best prognosis amongst all type of lymphomas\"The treatment of patients with nodular lymphocyte-predominant Hodgkin's disease is controversial. Some clinicians favor no treatment and merely close follow-up. In the United States, most physicians will treat localized disease with radiotherapy and disseminated disease with regimens utilized for patients with classical Hodgkin's disease. Regardless of the therapy utilized, most series report a long-term survival of >80%.",
         "cop": 1,
@@ -1311,45 +791,6 @@
         "topic_name": "Blood",
         "id": "d8854a26-9850-44e1-8a8c-f4bf8e3039a7",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following cause microcytic hypochromic anemia, EXCEPT:",
-        "exp": "Ans. is 'd' Fanconi anemia Causes of microcytic hypochromic anemia. Iron deficiency anemia. Thalassemia. Sideroblastic anemia. Lead poisoning",
-        "cop": 4,
-        "opa": "Lead poisoning",
-        "opb": "Thalessemia",
-        "opc": "Iron deficiency",
-        "opd": "Fanconi anemia",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "42fc45dc-6032-4482-838d-86b92c390399",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Autosplenectomy is feature of",
-        "exp": "Ans. b (Sickle cell disease) (Ref. H - 18th/Ch. 104). Surgical removal of the spleen is an obvious cause of hyposplenism. Patients with sickle cell disease often suffer from autosplenectomy as a result of splenic destruction by the numerous infarcts associated with sickle cell crises during childhood. Indeed, the presence of a palpable spleen in a patient with sickle cell disease after age 5 suggests a coexisting hemoglobinopathy, e. g., thalassemia or hemoglobin C. In addition, patients who receive splenic irradiation for a neoplastic or autoimmune disease are also functionally hyposplenic. The term hyposplenism is preferred to asplenism in referring to the physiologic consequences of splenectomy because asplenia is a rare, specific, and fatal congenital abnormality in which there is a failure of the left side of the coelomic cavity (which includes the splenic anlagen) to develop normally. Infants with asplenia have no spleens, but that is the least of their problems. The right side of the developing embryo is duplicated on the left so there is liver where the spleen should be, there are two right lungs, and the heart comprises two right atria and two right ventricles.",
-        "cop": 2,
-        "opa": "Beta thalassemia",
-        "opb": "Sickle cell disease",
-        "opc": "G6. PD deficiency",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "ecffd4fa-bab8-40b8-acf3-50b572e782d7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Adult with progressive pallor, hyper-segmented neutrophils and MCV>100 shows?",
-        "exp": "Ans. (b) Megaloblastic anemia. Ref: Harrison 19th ed. / 81 e-3f. The presence of macrocytes with hyper segmented neutrophils confirms the answer as megaloblastic anemia.",
-        "cop": 2,
-        "opa": "Hereditary spherocytosis",
-        "opb": "Megaloblastic anemia",
-        "opc": "Dimorphic Anemia",
-        "opd": "Thalassemia",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "85e1d6b1-f472-4c26-835e-d8387d6acf9d",
-        "choice_type": "multi"
     },
     {
         "question": "A 34-year-old man presents to the emergency department with symptoms of fatigue, weakness, nose bleeds, and palpitations with exertion. The symptoms started 1 week ago and are getting worse every day. He has no prior health issues and is not taking any medications. On examination, he is pale, blood pressure 110/70 mm Hg, pulse 100/min, heart sounds are normal, lungs are clear, and he has multiple petechiae and bruises on his legs. His blood count is abnormal; hemoglobin 8. 5 g/dL, white blood cells (WBCs) 4000/mL, platelets 50, 000/mL, and there are blast cells in the peripheral blood. He is diagnosed with acute promyelocytic leukemia (AML-M3). (See Figure below) Which of the following is a characteristic of this acute myelogenous leukemia?",
@@ -1376,19 +817,6 @@
         "topic_name": "Blood",
         "id": "c3d85a2a-2cd8-442e-9f93-3f870fcf5945",
         "choice_type": "single"
-    },
-    {
-        "question": "Causes of thrombocytopenia are all EXCEPT(341-H) (468-CMDT-09",
-        "exp": "(Rheumatoid arthritis) (341-H) (468-CMDT) (719-H17th). Causes of Thrombocytopenia* Decreased marrow production of megakaryocytes- Marrow infiltration with tumour, fibrosis.- Marrow failures - aplastic, hypoplastic anemias, drug effects* Splenic sequestration of circulating platelets- Splenic enlargement due to tumour infiltration- Splenic congestion due to portal hypertension (Hypersplenism)* Increasing destruction of circulating platelets(II) Non immune destruction - Vascular prosthesis, cardiac valves, DIC, sepsis, TTP, Hemolytic-uremic syndrome, Hemangiomas, AIDS, liver failure, vasculitis(III) Immune destruction- Auto antibodies to platelet antigens- ITP.- Drug induced antibodies (Sulfonamides, quinine, thiazides, Cimetidine, gold and heparin (MC)- Secondary (SLE*, CLL), post transfusion purpura viral antigens and bacterial sepsis. Bone marrow disorders - Aplastic anemia, Hematologic malignancies, Myelodysplasia, Megaloblastic anemia, chronic alcoholism (501-CMDT-05)* Rheumatoid arthritis and ulcerative colitis causes significant elevation of the platelet count as may chronic infection. The thrombocytosis of iron deficiency is observed only when anemia is significant. The platelet count is temporarily elevated after splenectomy (484-CMDT-05).",
-        "cop": 4,
-        "opa": "DIC",
-        "opb": "B12 folate deficiency",
-        "opc": "SLE",
-        "opd": "Rheumatoid arthritis",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "f1ca5626-efae-4930-bdd4-ce6de0b9be3f",
-        "choice_type": "multi"
     },
     {
         "question": "Cryoprecipitate contains",
@@ -1456,32 +884,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most common congenital bleeding disorder?",
-        "exp": "Ans. A. von Willebrand disease. (Ref. H - 17th / pg. 723). Harrison's 17th / pg. 723............ v. WD is the most common inherited bleeding disorder. VON WILLEBRAND DISEASE# v. WF serves two roles: (1) as the major adhesion mole- cule that tethers the platelet to the exposed subendothelium; and (2) as the binding protein for FVIII, resulting in significant prolongation of the FVIII half-life in circulation.# The platelet-adhesive function of v. WF is critically dependent on the presence of large v. WF multimers, while FVIII binding is not. Most of the symptoms of v. WD are \"platelet-like\" except in more severe v. WD when the FVIII is low enough to produce symptoms similar to those found in Factor VIII deficiency (hemophilia A).# v. WD has been classified into three major types: Typea. PTTv. WF Antigenv. WF Activity. FVIII Activity. Multimer1. NI or ||||Normal distribution, decreased in quantity2. ANI or |||||Loss of high and intermediate MW multimers2B (with Decreased platelets)NI or |||||Loss of high MW multimers2. MNI or |||||Normal distribution, decreased in quantity2N ||NI or |NI or |||Normal distribution3||||||||Absent# Acquired v. WD is a rare disorder, most commonly seen in patients with underlying lymphoproliferative disorders, including monoclonal gammopathies of undetermined significance (MGUS), multiple myeloma, and Waldenstrom's macroglobulinemia. It is seen most commonly in the setting of MGUS and should be suspected in patients, particularly elderly patients, with a new onset of severe mucosal bleeding symptoms. Heyde's syndrome (aortic stenosis with GI bleeding) is attributed to the presence of angiodysplasia of the GI tract in patients with aortic stenosis. Acquired type 2 v. WD noted in it, but return when the stenotic valve is replaced. von Willebrand disease. Pc. Bt. Pt. Pttmec. Hanism and comments-|--s|Intrinsic pathway coagulation defect: |v. WF -normal or | PTT (depends on severity; v. WF acts to carry/protect factor VIII). Defect in platelet plug formation: |v. WF -defect in platelet-to-v. WF adhesion. Mild but most common inherited bleeding disorder. Autosomal dominant. Diagnosed in most cases by ristocetin cofactor assay (|agglutination is diagnostic). Treatment: DDAVP, which releases v. WF stored in endothelium.# Rx:- The mainstay of Rx for type 1 v. WD is DDAVP, or desmopressin, which results in release of v. WF and FVIII from endothelial stores. 6 DDAVP can be given intravenously or by an intra-nasal spray (1. 5 mg/mL). The peak activity when given IVly is 30 min, while it is 2 h when given intranasally.- Antifibrinolytic therapy, using either epsilon-aminocaproic acid or tranexamic acid, is an important therapy, either alone or in an adjunctive capacity, particularly for the prevention or Rx of mucosal bleeding. These agents are particularly useful in prophylaxis for dental procedures, with DDAVP for dental extractions and tonsillectomy, menorrhagia, and prostate procedures. It is contraindicated in the setting of upper urinary tract bleeding, due to the risk of ureteral obstruction.",
-        "cop": 1,
-        "opa": "Von Willebrand disease",
-        "opb": "Glanzmann's thrombasthenia",
-        "opc": "Bernard Soulier disease",
-        "opd": "Any of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "0b05f55a-f83b-40c7-9438-0b9b1bacc27b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 57-year-old man, with a history of chronic alcohol ingestion, is admitted to the hospital with acute alcoholic intoxication and lobar pneumonia. Physical examination reveals pallor; a large, tender liver; and consolidation of the right lower lobe. Laboratory data include hemoglobin of 7 g/dL, WBC of 4000/mL, and platelet count of 85, 000/mL. Which of the following is the most likely factor for the anemia?",
-        "exp": "Anemia is usually multifactorial in alcoholics and includes marrow suppression, GI bleeding, hemorrhagic diathesis, and nutritional deficiency.",
-        "cop": 4,
-        "opa": "hemolysis",
-        "opb": "hemobilia",
-        "opc": "vitamin B12 deficiency",
-        "opd": "toxic marrow suppression",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "dd86cd71-f032-46bf-81f9-85d0b6ad308f",
-        "choice_type": "multi"
-    },
-    {
         "question": "These types of RBCs are seen in which condition?",
         "exp": "Ans. B. CRFBurr cells are seen in CRF. In this RBCs have shell-like appearance. In CRF hyper-segmentation of the neutrophil nucleus are also seen.",
         "cop": 2,
@@ -1547,71 +949,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about ITP is all except",
-        "exp": "Ans. c (Splenomegaly is not essential criteria for diagnosis of ITP). (Ref. Harrison 18th/Ch. 115.)IDIOPATHIC THROMBOCYTOPENIC PURPURA# The explosive onset of severe thrombocytopenia following recovery from a viral exanthema or upper respiratory illness {acute ITP) is common in children and accounts for 90% of the pediatric cases of immunologic thrombocytopenia.# Of these patients, 60% recover in 4 to 6 weeks and =90% recover within 3 to 6 months.# Transient immunologic thrombocytopenia also complicates some cases of- Infectious mononucleosis- Acute toxoplasmosis- Cytomegalovirus infection- Prodromal phase of viral hepatitis- Initial infection with HIV# Acute ITP is rare in adults and accounts for = 10% of post-pubertal patients with immune thrombocytopenia.# Most adults present with a more indolent form of thrombocytopenia that may persist for many years and is referred to as chronic ITP.# Women age 20 to 40 are afflicted most commonly and outnumber men by a ratio of 3: 1.# These patients have an autoimmune disorder with antibodies directed against target antigens on the glycoprotein (Gp) IIb/IIIa or, less frequently, the Gp Ib/IX complex.# Treatment:- Specific therapy may not be necessary unless the platelet count is <20, 000/mL or there is extensive bleeding.- Hemorrhage in patients with either acute or chronic ITP can usually be controlled with glucocorticoids but, in rare cases, may require temporary phagocytic blockade with intravenous immunoglobulin (IVIg) or anti-RhD (Win. Rho).- Emergency splenectomy is usually reserved for patients with acute or chronic ITP who are desperately ill and have not responded to any medical measures.- Glucocorticoid-responsive but glucocorticoid-dependent patients are very likely to respond to splenectomy, and 70% will have a normal platelet count within 1 week after surgery.- Persistent splenic tissue can be confirmed by a radionuclide scan.- Patients still thrombocytopenic after splenectomy or who relapse months to years after initial therapy have received a variety of immunosuppressive drugs including azathioprine, cyclophosphamide, vincristine, vinblastine, and cyclosporine.- Danazol has also been used with some success.- IVIg and anti-RhD are only transiently effective and expensive.- Rituximab, an anti-CD20 monoclonal antibody used to treat lymphoma, has also proven an effective approach to ITP and is probably preferable to long-term glucocorticoid therapy. Rituximab eliminates normal B cells, including those producing the anti-platelet antibody. This B cell depletion is transient (lasting 12 to 18 months, normally) and has surprisingly few S/E.",
-        "cop": 3,
-        "opa": "Splenectomy is Rx of choice in paediatric patients",
-        "opb": "Splenectomy is not done in all cases",
-        "opc": "Splenomegaly is not essential for diagnosis of ITP",
-        "opd": "IV gammaglobulins are not useful in adults",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "e48564dd-3eea-4bff-9a58-229d44f05f77",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of following cause intravascular hemolysis, except-",
-        "exp": "Ans. is 'd' i. e., Hereditary spherocytosis Hemoglobinopathies including thalassemia cause extravascularhemolysis and not intravascular hemolysis.||Causes of intravascular hemolysiso Blood transfusiony ABO mismatched transfusiony Infected bloodo Thermal bumso Snake biteso Sepsisy Bacterial/parasitic infections y Clostridial sepsisy Malariay Bartonellosisy Mycoplasma pneumoniao Mechanical heart valveso Paroxysmal hemoglobinuriay PNHy PCHCauses of extravascular hemolysiso Blood and viral infectionsy Malariay Mycoplasma pneumoniaey Infectious mononucleosiso Drua-inducedhemolvsisy G6. PD/GSH deficiencyy Autoimmune drug reactionsy Strong oxidant drugs/chemicaio Autoimmune hemolvsisy Warm-reacting (IgG) AIHAy Cold-reacting (IgM) AIHAo Hemoslobinopathiesy Thalassemiao Membrane structural defecty Hereditary sperocytosisy Hereditary spherocytosisy Acanthocytosiso Environmental disordersy Malignancy/DICy TTP/HUSy Eclampsia or Preechlampsia",
-        "cop": 4,
-        "opa": "Mismatched blood transfusion",
-        "opb": "Paroxysmal cold hemoglobinuria",
-        "opc": "Thermal bums",
-        "opd": "Hereditary spherocytosis",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "8a1e1c1c-4898-4ed8-9c7d-00c6af581ae7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Schistocytes are seen in:",
-        "exp": "Ans. (d) All of the above. Ref: Harrison's l. Th ed. Ch. 109* Schistocytes are fragmented part of a red blood cells which are typically irregularly shaped, jagged, and have two pointed ends. A true schistocyte does not have central pallor. They are sometimes referred to as \"helmet cells\"* The presence of schistocytes on the peripheral blood smear suggests red blood cell injury from damaged endothelium and is a characteristic feature of microangiopathic hemolytic anemia.* Microangiopathic hemolytic anemia is an infrequent cause of Coombs-negative intravascular hemolytic anemia, and its causes include:# Thrombotic thrombocytopenic purpura# Hemolytic uremic syndrome# Disseminated intravascular coagulation# Defective valvular prosthesis.",
-        "cop": 4,
-        "opa": "HUS",
-        "opb": "TTP",
-        "opc": "DIC",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "b635d25b-3429-4bbc-910d-fe97ecd88817",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 72-year-old woman is admitted to the hospital with an acute illness. Her platelet count is incidentally noted to be 800, 000/mL. For the above patient with a blood-count anomaly, select the corresponding clinical situation and/or laboratory finding.",
-        "exp": "Both acute blood loss and chronic iron deficiency can increase platelets. Hemolytic anemia is associated with both increased reticulocytes and thrombocytosis. Thromboembolic or hemorrhagic phenomena are more common in essential thrombocytosis rather than secondary causes.",
-        "cop": 4,
-        "opa": "post-splenectomy",
-        "opb": "increased numbers of reticulocytes",
-        "opc": "thiamine deficiency",
-        "opd": "acute hemorrhage",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "b5ac6de1-cbbc-4eb9-8c08-b76383516743",
-        "choice_type": "multi"
-    },
-    {
-        "question": "False regarding Multiple myeloma is:",
-        "exp": "Ref: Harrison's Principles of Internal Medicine, 18th edition. Explanation: Multiple myeloma. Multiple myeloma is a malignant proliferation of plasma cells derived from a single clone. Characteristics. Lytic hone lesions. Anemia with high ESRRoulex formation of red cells. Renal failure Infections. Hypercalcemia. Triad of Multiple myeloma. Ma now plasmacytos is >10%Lytic bone lesions. Serum and /or urine M component. Monoclonal plasma cells (k, A light chain restricted) in B\\I or as a tumor (solitary plasmacytoma). End organ damage-Lytic bony lesions. Anemia. Hypercalcemia. Renal failure with paraprotenemia (mostly Ig G or Iga). S. electrophoresis for M band (b, g); Urine Bence Jones protein for light chains. Non secretory myeloma- no paraproteins, poor prognosisX-rays axial skeleton-skull, spine. long bones, ribs for lytic lesions. PET or MRI useful for early lesions. Radionuclide scan not useful. Must be differentiated from smoldering myeloma & MG USTreatment: Thalidomide/Ienolidamide + high dose dexamethasone. Bortezomib. Autologous hematopoietic SCTLocalized RT for vertebral collapse. Bisphosphonates for malignant hypercalcemia (beware of their osteonecrosis jaw!). Prognosis. Stageb2 microglobulin. Albumin. Survival. Stage 1<3. 5mg/L> 3. 5g/dL>5yrs. Stage 23. 5-5. 5mg/L Stage 3>5. 5mg/L <2yrs",
-        "cop": 1,
-        "opa": "It is a calcified protein",
-        "opb": "Bence Jones protein in urine",
-        "opc": "Lytic bone lesions",
-        "opd": "Roulex formation of RBCs",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "74a70b93-9ce9-46b2-abd4-9d23ca9a826c",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 60-year-old lady with a history of rheumatoid arthritis has the following lab findings: Hb 4. 5 g/dL, Platelet count 200 mg/dL, TLC 6000/mm3, serum ferritin-200 mg/L. TIBC-280 ng/L. What is the most likely diagnosis?",
         "exp": "Ans. b. Anemia of chronic disease (Ref: Wintrobe's 12/e pe p 1221-1222). Anemia of chronic disease is associated with decreased serum iron, decreased TIBC, decreased % saturation and normal or increased serum ferritin levels. Test(normal values). Irondeficiency. Thalassemia. Sideroblastic anemia. Anemia of chronic disease. Smear. Microcytichypochromic. Microcytichypochromic. Microcytichypochromic. Normocytic normochromic> Micro/ hypochromic. Serum iron (50-150 mg/dl). Low (<30). Normal. Normal| (<50)TIBC(300-360 mg/dl). High (>360). Normal. Normal| (<300)% Saturation (30-50%)<10 (|ed)N or |ed (30-80)N or | (30-80)| (10-20). Ferritin (mg/l) (50-200 mg/L)< 15 (|ed)| (50-300)| (50-300). Normal or | (30-200). Hemoglobin pattern. Normal. Abnormal. Normal. Normal. Free Erythrocyte Protporphrin|ed. Normal|ed|ed. RDW|ed. Normal. Normal. Normal. Anemia of Chronic Disease. Characterized by block in delivery of ironQ from the reticuloendothelial system to the erythroid progenitors. Consequently patients have normal to increased iron stores in the marrow and normal to increase ferritin IevelQ. Because of block in delivery, serum iron levels fall and so does TIBC and transferrin saturationQ. Low serum iron with increased TIBCIron deficiency anemia. QLow serum iron with decreased TIBCAnemia of chronic diseaseQ",
         "cop": 2,
@@ -1623,19 +960,6 @@
         "topic_name": "Blood",
         "id": "667885a5-19e1-4e50-b841-10d86b3ff963",
         "choice_type": "single"
-    },
-    {
-        "question": "Coagulation defect involving both the arterial and venous system is seen in",
-        "exp": "Ans. d (Hyperhomocystenimia) (Ref. H-17th/367; Table 59-3). Homocystinuria reflects homocystlnemia which is associated with ectopia lentis, mental retardation and throm- boembolic disorders as well as arteriosclerosis. There are three enzyme deficiencies known to cause the disorder as well as deficiencies of the cofactors pyridoxine, cobalamin and folate. Lipid deposition in plaques is characteristically absent. Homocysteine exists in plasma as the mixed disulfide homocysteine cysteine, as free and as protein bound homocysteine. Venous. Venous and Arterial. Inherited. Inherited. Factor V Leiden. Homocystinuria. Prothrombin G20210. ADysfibrinogenemia. Antithrombin deficiency. Mixed (Inherited and acquired). Protein C deficiency Protein S deficiency. Hyperhomocysteinemia. Elevated FVIIIAcquired. Acquired. Malignancy. Age. Antiphospholipid antibody syndrome. Previous thrombosis. Hormonal therapy. Immobilization. Polycythemia vera. Major surgery. Essential thrombocythemia. Pregnancy & puerperium. Paroxysmal nocturnal hemoglobinuria. Hospitalization. Thrombotic thrombocytopenic purpura. Obesity. Heparin-induced thrombocytopenia. Infection. Disseminated intravascular coagulation. APC resistance, nongenetic Unknown0 Elevated factor II, IX, XI Elevated TAFI levels Low levels of TFPI",
-        "cop": 4,
-        "opa": "Factor V Leiden",
-        "opb": "Protein C deficiency",
-        "opc": "Antithrombin III deficiency",
-        "opd": "Hyperhomocystinemia",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "fa4a447b-5dd6-4539-8372-81540ddeb191",
-        "choice_type": "multi"
     },
     {
         "question": "Most sensitive marker for iron deficiency is -",
@@ -1690,19 +1014,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true about para hemophilia except?",
-        "exp": "Ans. B. X-link recessivea. Deficiency of factor V is an autosomal recessive, mild to moderate bleeding disorder that has also been termed parahemophilia. Hemarthroses occur rarely; mucocutaneous bleeding and hematomas are the most common symptoms. b. Severe menorrhagia is a frequent symptom in women. Laboratory evaluation shows prolonged PTT and PT. specific assays for factor V show a reduction in factor V levels. c. FFP is the only currently available therapeutic product that contains factor V. Factor V is lost rapidly from stored FFP. d. Patients with severe factor V deficiency are treated with infusions of FFP at 10mL/kg every 12hr. Rarely, a patient with a negative family history of bleeding has an acquired antibody to factor V. Often, these patients do not bleed because the factor V in platelets prevents excessive bleeding.",
-        "cop": 2,
-        "opa": "Due to fracture V deficiency",
-        "opb": "X-link recessive",
-        "opc": "Prolonged PTT and PT",
-        "opd": "All are true",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "c5f1975b-62fe-4abe-b10b-c4a7cb61fc73",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not a feature of DIC?",
         "exp": "Ans: d (Platelet function defect) Ref: Harrison's, 16th ed, p. 684, 17th ed, p. 729. Platelet function defect is not usually a feature of DIC. DICIt is caused by activation of coagulation (thrombotic phase) by both intrinsic and extrinsic mechanisms. When most coagulation factors and platelets are consumed (consumption phase), both the bleeding time and coagulation time are prolonged. PT - increased. PTT- increased. Thrombin time: increased. Increased secondary fibrinolysis results in raised plasmin levels leading to raised levels of fibrin degradation products(FDP). Features of microangiopathic hemolytic anemia is due to increased destruction of RBC - resulting in presence of schistocytes, spherocytes. burr cells, helmet cells in peripheral blood smear. Rx1) Most important is the treatment of cause2) Control the major symptom - either bleeding or thrombosis3) Prevent the recurrence of DICNOTE:- The most common causes of DIC are bacterial sepsis, malignant disorders such as solid tumours or acute promyelocytic leukaemia (APL), and obstetric causes.- The most sensitive test for DIC is the FDP level- Finding in DIC, that correlates best and more closely with bleeding is fibrinogen level- Most common site for thrombi formation in DIC: Brain > Heart > Lung- 2 endocrine manifestations of DICa) Waterhouse- Friderichsen syndrome - adrenalsb) Sheehan's syndrome - pituitary. In thrombotic thrombocytopenic purpura -- all tests of coagulation are normal. Normal PTNormal a. PTTNormal fibrinogen concentrat ion. Normal fibrin degradation products",
         "cop": 4,
@@ -1714,45 +1025,6 @@
         "topic_name": "Blood",
         "id": "03209be0-b1a1-4061-b0d1-a3247542b0d6",
         "choice_type": "single"
-    },
-    {
-        "question": "A 52-year-old man is complaining of fatigue. His physical examination is normal, but his hemoglobin is low at 8. 9 mg/dL. The reticulocyte count is 0. 5 %, serum iron and TIBC are normal, and ferritin is elevated. A bone marrow aspirate reveals erythroid precursors that have accumulated abnormal amounts of mitochondrial iron. For the above patient with a hypochromic microcytic anemia, select the most likely diagnosis.",
-        "exp": "Erythroid precursors that have accumulated abnormal amounts of iron are called ringed sideroblasts. Sideroblastic anemia can be either inherited or acquired. Common acquired causes are ingestion of certain drugs, alcohol, or toxins such as lead or zinc. The beta-thalassemia trait is diagnosed by demonstrating an elevated Hb. A2, iron deficiency by iron studies and ferritin levels, and anemia of chronic disease by demonstrating a chronic disease. Sideroblastic anemia generally requires a bone marrow aspiration revealing ringed sideroblasts for diagnosis.",
-        "cop": 4,
-        "opa": "iron deficiency anemia",
-        "opb": "beta-thalassemia trait",
-        "opc": "anemia of chronic disease",
-        "opd": "sideroblastic anemia",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "62bbb6b5-d824-48b4-a839-7ec4309ee4b1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Neoplasm associated with Waldenstorm's macro- globulinemia also called as:",
-        "exp": "Ref: Harrison's Principles of Internal Medicine, 18th edition, pg 942, 943, 940, 3387. Explanation: Waldenstorms macroglohulinemia is a malignancy of lymphoplamsmacytoid cells that secrete Ig. MAssociated with lymphadenopathy, hepatosplenomegaly, hy perv i scos sty. No bony lesions/renal disease like IgM myeloma. Elderly age. Peripheral neuropathy. anti-MAG( Myelin associated glycoprotein) antibody positive. Cryoglobulins positive in some. CD 138+Treatment- Plasmapheresis for hyperviscosity, fludarabine, cladrihine. rituximab. lenalidomide. bortezomib. bendamustine. Smoldering myeloma: Serum M protein> 30g/L & bone marrow plasma cells >10%No myeloma related organ damage. No treatment needed. May progress to multiple myelom. MGUS: M protein <30g/LBone marrow plasma cells < 10%No bony lesions or target tissue damage (CRAB- Hypercalcemia, renal failure, anemia, bony lesions)25% may transform into multiple myeloma (1% per yr). Primary CNS lymphoma: Type of non -Hodgkin's lymphoma (large B- cell). Seen commonly in HIV patients; CD4 < 50. Associated w ith EBVDiffuse enhancing lesion on contrast CTT real men t-met ho trxate. Chemotherapy. radiotherapy, rituximab, HAART",
-        "cop": 3,
-        "opa": "Smoldering myeloma",
-        "opb": "Primary CNS lymphoma",
-        "opc": "Lympho plasmacytic lymphoma",
-        "opd": "MGUS (Mono gammopathy of undetermined significance)",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "7e27aa52-1b06-41b7-83d6-4a51af0358e2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Multiple punched out lesion in skull is characteristically seen in",
-        "exp": "(Multiple myeloma): (1041 -Davidson 21st edition)MULTIPLE MYELOMA - presents as multifocal destructive bone tumours composed of plasma cells throughout the skeletal system* The bone lesions appears radiographically as punched out defects usually 1-4 cm in diameter and grossly consists of gelatinous soft red tumour masses* Hyperparathyroidism - \"pepper pot skull\", The mandible a common site for 'brown ' tumours* Moth - eaten appearance - syphilis* Rugor Jersy spine - Osteopetrosis* Beheaded scortish terrior sign - Spondylolisthesis",
-        "cop": 2,
-        "opa": "Thalassemia",
-        "opb": "Multiple Myeloma",
-        "opc": "Rickets",
-        "opd": "Osteoporosis",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "456f262b-01be-4a8a-a224-7afa56940e3b",
-        "choice_type": "multi"
     },
     {
         "question": "On medical check up of a Punjabi student following findings were seen Hb of 9. 9gm/dl,, RBC count of 5-lmillion, MCV of 62. 5 fl and RDW of 13. 51%. What is the most probable diagnosis?",
@@ -1807,19 +1079,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 4-year-old boy has a chronic microcytic anemia, but no other symptoms. His physical examination is normal except for splenomegaly. His condition is due to decreased alpha-chain production, which leads to four beta-chain tetramer formation (HbH). For the above patient with a hemoglobin abnormality, select the most likely diagnosis.",
-        "exp": "HbH (four beta-chains) most commonly results from the compound heterozygous state for alpha thalassemia (-/-a). The phenotypic expression of the disease is quite variable.",
-        "cop": 2,
-        "opa": "beta-thalassemia major",
-        "opb": "HbH disease",
-        "opc": "sickle cell disease",
-        "opd": "HbC disease",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "2205eaa7-a25e-408f-bbb3-173e83fd4381",
-        "choice_type": "multi"
-    },
-    {
         "question": "Drug of choice for CML is?",
         "exp": "ANSWER: (A) Imatinib. REF: Harrison s 17th ed, CMDT 2008 p. 444. The drug treatment of choice for CML when Allogenic SCT (stem cell therapy) is not feasible is IMATINIBIFN-tz used to be the drug treatment of choice for CML when IMATINIB was not available",
         "cop": 1,
@@ -1846,32 +1105,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True statement regarding migraine in pregnancy is:",
-        "exp": "Ans: (b) NSAIDs are first line drugs. Ref: Harrison's Principles of Internal Medicine, 19th edition, Page 2592. Treatment of Acute Migraine. NSAIDs. Naproxen, lbuprofen, Tolfenamic acid Diclofenac, Acetominophen5-HT1 Receptor Agonists. Oral: Ergotamine, Naratriptan, Rizatriptan, Sumatriptan, Frovatriptan, Almotriptan, Eletriptan, Zolmitriptan. Nasal: Sumatriptan, Zolmitriptan Parenteral: Dihydroergotamine, Sumatriptan. Dopamine Receptor Antagonists. Oral: Metoclopramide, Prochlorperazine. Parenteral: Chlorpromazine, Metoclopramide, Prochlorperazine. Others. Nasal: Butorphanol Parenteral: Opioids. Migraine During Pregnancy. Improvement in 'migraine without aura'Worsening of 'migraine with aura'Ergot derivatives are contraindicated due to possibility of uterine hypertonicity and vascular disruption leading on to miscarriage. Safety of Triptans during pregnancy is not fully confirmed. Can be used only if other drugs are not effective. Treatment. First line: NSAIDs and paracetamol. Triptans are avoided. Prophylaxis: Magnesium, Metoprolol",
-        "cop": 2,
-        "opa": "Ketorolac is preferred",
-        "opb": "NSAIDs are first line drugs",
-        "opc": "Improved symptoms with pregnancy",
-        "opd": "Sumatriptan preferred over chlorpromazine",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "608ba1f2-a6ab-4df4-83bf-cb80edd0f7d7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Apheresis platelet donation--true is all except:",
-        "exp": "Ans. A. A person with below normal platelet count can donate. Explanation. Specific Eligibility Criteria for Apheresis Platelet Donors. Age: 18-60 years and Weight- 50 kg (This is not just for platelet donation but also for all blood and blood product donations in India). Donor platelet count must be > 1, 50, 000/dL (Option a). If taking anti-platelet medication: Aspirin- defer for at least 2 full medication-free days. Clopidogrel or ticlopidine - defer for at least 14 full medication-free days. Frequency of donations: Can donate up to 2 times in a week (Option c)24 times in a year (Option d). Minimum interval between donations. Minimum of a 48 hour-interval needed after donating single unit (Option b)7 days after donating double or triple units. Other important points about platelet transfusion. Threshold for prophylactic platelet transfusion is 10, 000/mL. In patients without fever or infections, a threshold of 5000/mL may be sufficient to prevent spontaneous hemorrhage. For invasive procedures, the usual target level is 50, 000/mL platelets. Platelets are produced in two ways: Random donor (RD) platelets: Whole blood donations are centrifuged and the buffy coats (between the red cell and plasma layers) from four donations are pooled in the plasma of one of the donors. Single donor apheresis platelets (SDAP): Platelets are obtained from a single donor by apheresis. SDAP contain the equivalent of at least 6 units of RD platelets and have fewer contaminating leukocytes than pooled RD platelets. Time required in collecting SDAP is 2 to 3 hours (in RD its 30 mins). Storage--20-24degC with agitation. Shelf life--5 days (7 days if bacterial screening)",
-        "cop": 1,
-        "opa": "A person with below normal platelet count can donate",
-        "opb": "Person can donate again after 2 days",
-        "opc": "Person can donate 2 times maximum in a week",
-        "opd": "Not more than 24 donations can be done in 1 year",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "a0f2ae1d-1f87-4661-a223-f29df7e0986d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Artery responsible for bleeding in hemoptysis is?",
         "exp": "ANSWER: (A) Bronchial artery. REF: Harrison's 17th ed table 34-1. The bronchial arteries, which originate either from the aorta or from intercostal arteries and are therefore part of the high-pressure systemic circulation, are the source of bleeding in bronchitis or bronchiectasis or with endobronchial tumors.",
         "cop": 1,
@@ -1896,19 +1129,6 @@
         "topic_name": "Blood",
         "id": "a4f08bb2-7c2f-407e-b8af-ec1957d9db09",
         "choice_type": "single"
-    },
-    {
-        "question": "A 32-year-old woman is confirmed as being 6 weeks pregnant. She feels well, and has no past medical history. This is her second pregnancy; the first pregnancy was uncomplicated and she delivered at term, but the baby was anemic due to beta-thalassemia. She is now worried that the current pregnancy may also be affected. Which of the following methods is most likely to establish an accurate prenatal diagnosis?",
-        "exp": "Chorionic villus sampling in the first trimester with deoxyribonucleic acid (DNA)-based diagnosis has a high degree of accuracy. Cord blood electrophoresis is suitable for screening high-risk infants at birth.",
-        "cop": 3,
-        "opa": "fetal ultrasound at 12 weeks",
-        "opb": "cord blood electrophoresis",
-        "opc": "chorionic villus sampling",
-        "opd": "buccal mucosal cytology of both parents",
-        "subject_name": "Medicine",
-        "topic_name": "Blood",
-        "id": "461fbebe-e634-49d7-9def-3efef404d40c",
-        "choice_type": "multi"
     },
     {
         "question": "A 60-year-old industrial worker presents with shortness of breath for the past week. Blood withdrawn shows thick brownish red Color. Diagnosis?",

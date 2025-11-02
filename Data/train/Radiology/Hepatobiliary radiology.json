@@ -1,18 +1,5 @@
 [
     {
-        "question": "Chest Radiograph and Abdominal CT scan of a middle aged male complaining of nagging abdominal pain for the past 2 weeks is given, what is the probable diagnosis?",
-        "exp": "Calcified Ring like shadow in the region of Liver on Chest Radiograph and the CT scan showing mural calcification is suggestive of Hydatid Cyst and is due to calcification of the Pericyst.",
-        "cop": 2,
-        "opa": "Porcelain Gall Bladder",
-        "opb": "Hydatid Cyst",
-        "opc": "Pyogenic Liver Abscess",
-        "opd": "Amoebic liver Abscess",
-        "subject_name": "Radiology",
-        "topic_name": "Hepatobiliary radiology",
-        "id": "42e2c1c6-3942-45e8-be5a-b2c384bb8e98",
-        "choice_type": "multi"
-    },
-    {
         "question": "The Von Meyenburg complexes is suggestive of:",
         "exp": "*Tiny T2W hyperintense cystic lesions noted in the both lobes of liver with no obvious communication with the biliary tract suggestive of biliary hamaomas or Von Meyenburg Complex. *Multiple biliary hamaomas are multiple benign hepatic lesions, also known as Von Meyenburg complexes *It is asymptomatic and usually found incidentally, where it is impoant to differentiate from other causes of multiple liver lesions, paicularly metastases, Caroli's disease and hepatic cysts *Associations-Autosomal dominant polycystic kidney disease (ADPKD), Polycystic liver disease *Caroli's Disease - multiple cystic dilations communicating with biliary tree showing central dot sign.",
         "cop": 2,
@@ -26,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Comet Tail aefacts On USG Liver is characteristic of-",
-        "exp": "* Adenomyomatosis of the gallbladder is a hyperplastic cholecystosis of the gallbladder wall. It is a relatively common and benign cause of diffuse or focal gallbladder wall thickening, most easily seen on ultrasound and MRI. Comet Tail aifacts On USG Liver is characteristic of Gall Bladder Adenomyomatosis. Figure 1: Comet tail aefact in GB Adenomyomatosis Figure 2: Actual Comet tail in the sky during night time (for understanding purpose)",
-        "cop": 3,
-        "opa": "Gall Bladder Polyp",
-        "opb": "Gall Bladder Carcinoma",
-        "opc": "Gall Bladder Adenomyomatosis",
-        "opd": "Cholelithiasis",
-        "subject_name": "Radiology",
-        "topic_name": "Hepatobiliary radiology",
-        "id": "25a3dada-8ad7-420c-8396-3bf85ccef91a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Parallel shotgun appearance on Ultrasound is seen in",
-        "exp": "Distal CBD obstruction: Common bile duct gets distended due to obstruction & gives a \"Double Barrel appearance\" or \"Parallel Shotgun sign\" on USG",
-        "cop": 3,
-        "opa": "Poal hypertension",
-        "opb": "Biliary ascariasis",
-        "opc": "Obstructive jaundice",
-        "opd": "Sclerosing cholangitis",
-        "subject_name": "Radiology",
-        "topic_name": "Hepatobiliary radiology",
-        "id": "bf496ebb-84c1-4977-8d71-c105298addd0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Linear filling defect on ERCP is characteristic of which of the following:",
         "exp": "Linear filling defect in main CBD is a characteristic feature of BILIARY ASCARIASIS. ERCP is the gold standard but an invasive method. It is used also in the extraction of CBD worms. The worms appear as a hypointense structure within the hyperintense CBD giving linear filling defect on MRCP/ERCP",
         "cop": 3,
@@ -63,19 +24,6 @@
         "topic_name": "Hepatobiliary radiology",
         "id": "41da2b5e-5d85-433d-80d5-1120362b8b24",
         "choice_type": "single"
-    },
-    {
-        "question": "50 years old man came with complaint of fever and pain in abdomen for past one week. Ultrasound of abdomen was performed which revealed a hypoechoic lesion in liver. CECT was done to characterize the lesion. Which of the following statement is false regarding the lesion?",
-        "exp": "CT image shows a multilocular cystic mass in the posterior segment of the right hepatic lobe abutting the right hemidiaphragm. Note the layered wall (\"double target sign\") seen in pyogenic abscess. Pyogenic abscess can be divided into six categories based on the route of hepatic infection. These include: 1) biliary source (60%) (Most common) (Multiple abscesses are common) 2) poal vein seeding (7%)(2nd most common) 3) direct extension (3%); 4) hepatic aery seeding (10%) (usually monomicrobial) 5) cryptogenic (17%); 6) penetrating trauma (5%). Organisms: Solitary abscesses are more likely to be polymicrobial than multiple abscesses. E. coli - Most common in western countries Klebsiella pneumoniae - Most common in Asian countries Staphylococcus - Most common in children paicularly suffering from Chronic Granulomatous Disease (CGD). 50% of solitary liver abscesses occur in the right lobe of the liver (a more significant pa with more blood supply), less commonly in the left liver lobe or caudate lobe.",
-        "cop": 3,
-        "opa": "Most commonly caused by E. coli bacterial infection",
-        "opb": "Right lobe of liver is the most common site.",
-        "opc": "Hematogeneous route is the most common source of infection.",
-        "opd": "All are true",
-        "subject_name": "Radiology",
-        "topic_name": "Hepatobiliary radiology",
-        "id": "7ff50dd6-2e2c-4bec-9baa-c69550c97b8d",
-        "choice_type": "multi"
     },
     {
         "question": "Delayed Centripetal Contrast Enhancement pattern is seen with?",
@@ -102,19 +50,6 @@
         "topic_name": "Hepatobiliary radiology",
         "id": "7a2b3309-e21c-45cf-b5c0-079d5f394c88",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are signs of Hydatid Cyst except?",
-        "exp": "Mercedes Benz Sign is seen with Air Trapped within Gallstones. Radiological Signs Of Hydatid Cyst Signs of nonruptured cysts in various organs Honeycomb (wheel spoke, spoke wheel, rosette, racemose) pattern Double line sign: unilocular cyst with double layered wall representing pericyst and laminated cyst membrane Signs of paially ruptured cyst in pulmonary hydatid disease Crescent sign Inveed crescent sign Signs of complete rupture / cyst degeneration in pulmonary hydatid disease Cumbo (onion peel, double arch) sign Water lily (camalote) sign folded membranes floating at the air-fluid interface Empty (dry) cyst sign air filled cyst after expectoration of membranes and fluid Signs of ruptured endocyst in hydatid cysts in various organs (e. g. Serpent (snake) sign wavy membranes within the cyst Spin (Whirl) sign Ball of Wool Sign",
-        "cop": 4,
-        "opa": "Camalote sign",
-        "opb": "Floating membrane sign",
-        "opc": "Ca wheel appearance",
-        "opd": "Mercedes Benz sign",
-        "subject_name": "Radiology",
-        "topic_name": "Hepatobiliary radiology",
-        "id": "cf292a7c-4bc2-4ee7-b932-78102541cfde",
-        "choice_type": "multi"
     },
     {
         "question": "Investigation of choice for Acute cholecystitis is:",

@@ -1,16 +1,94 @@
 [
     {
-        "question": "Metastatic calcification predominantly affects each of the following Except",
-        "exp": "The deposition of calcium salts in otherwise normal tissues is known as metastatic calcification, and it almost always results from hypercalcemia secondary to some disturbance in calcium metabolism. Metastatic calcification may occur widely throughout the body but principally affects the interstitial tissues of the gastric mucosa, kidneys, lungs, systemic aeries, and pulmonary veins. Although quite different in location, all of these tissues excrete acid and therefore have an internal alkaline compament that predisposes them to metastatic calcification. Ref: Robbins; 9th edition; Page no: 65",
-        "cop": 3,
-        "opa": "Lungs",
-        "opb": "Kidney",
-        "opc": "Pancreas",
-        "opd": "Media of aeries",
+        "question": "A 24-year-old female presents with severe pain during menses (dysmenorrhea). To treat her symptoms, you advise her to take indomethacin in the hopes that it will reduce her pain by interfering with the production of",
+        "exp": "Ceain drugs are impoant in the control of acute inflammation because they inhibit poions of the metabolic pathways involving arachidonic acid. For example, coicosteroids induce the synthesis of lipocoins, a family of proteins that are inhibitors of phospholipase A2. They decrease the formation of arachidonic acid and its metabolites, prostaglandins and leukotrienes. Aspirin, indomethacin, and other nonsteroidal anti-inflammatory drugs (NSAIDs), in contrast, inhibit cyclooxygenase and therefore inhibit the synthesis of prostaglandins and thromboxanes. The prostaglandins have several impoant functions. For example, prostaglandin E2 (PGE2), produced within the anterior hypothalamus in response to interleukin 1 secretion from leukocytes, results in fever. Therefore aspirin can be used to treat fever by inhibiting PGE2 production. PGE2 is also a vasodilator that can keep a ductus aeriosus open. At bih, breathing decreases pulmonary resistance and reverses the flow of blood through the ductus aeriosus. The oxygenated blood flowing from the aoa into the ductus inhibits prostaglandin production and closes the ductus aeriosus. Therefore prostaglandin E2 can be given clinically to keep the ductus aeriosus open, while indomethacin can be used to close a patent ductus. Prostaglandin F2 (PGF2) causes uterine contractions, which can result in dysmenorrhea. Indomethacin can be used to treat dysmenorrhea by inhibiting the production of PGF2. Bradykinin is a nonapeptide that increases vascular permeability, contracts smooth muscle, dilates blood vessels, and causes pain. It is pa of the kinin system and is formed from high-molecular-weight kininogen (HMWK). Histamine, a vasoactive amine that is stored in mast cells, basophils, and platelets, acts on H1 receptors to cause dilation of aerioles and increased vascular permeability of venules. Reference: Robbins & Cotran Pathologic Basis of Disease, 9e",
+        "cop": 4,
+        "opa": "Bradykinin",
+        "opb": "Histamine",
+        "opc": "Phospholipase A2",
+        "opd": "Prostaglandin F2",
         "subject_name": "Pathology",
         "topic_name": "General pathology",
-        "id": "c61b525f-9593-44dd-bff2-daf408b58a97",
-        "choice_type": "multi"
+        "id": "5ad2d574-ca1e-42f4-b3d6-61d45515ae12",
+        "choice_type": "single"
+    },
+    {
+        "question": "Resolution of inflammation caused by -",
+        "exp": "Processes involved in inflammation and its resolution. ILs, interleukins; TNF-a, tumor necrosis factor alpha; TGF-b, transforming growth factor beta; TIMPs, tissue inhibitor of metalloproteinases; MMPs, matrix metalloproteinases; ECM, extracellular matrix; LTs, leukotrienes; PGs, prostaglandins; LXs, lipoxins; RVs, resolvins; Pvs, protectins. Ref Robbins 9/e p40",
+        "cop": 3,
+        "opa": "TNF Alfa, IL-1 and CRP",
+        "opb": "TNF beta, IL-6 and CRP",
+        "opc": "TNF Alfa, IL 10 and IL 1 receptor antagonist",
+        "opd": "TNF gamma",
+        "subject_name": "Pathology",
+        "topic_name": "General pathology",
+        "id": "4532d9b5-497e-47dc-b66a-00f7ffd5bc17",
+        "choice_type": "single"
+    },
+    {
+        "question": "Which of the following is a peroxisomal free radical scavenger?",
+        "exp": "Ref Robbins 9/e p15 Catalase, present in peroxisomes, catalyzes the decom- position of hydrogen peroxide (2. H2. O2 - O2 + 2. H2O). It is one of the most active enzymes known, capable of degrading millions of molecules of H2. O2 per second. * Endogenous or exogenous antioxidants (e. g., vitamins E, A, and C and b-carotene) may either block the forma- tion of free radicals or scavenge them once they have formed.",
+        "cop": 3,
+        "opa": "Superoxide dismutase",
+        "opb": "Glutathione peroxidase",
+        "opc": "Catalase",
+        "opd": "Selenium",
+        "subject_name": "Pathology",
+        "topic_name": "General pathology",
+        "id": "2de5c304-f26c-4c34-87d3-bf510e891598",
+        "choice_type": "single"
+    },
+    {
+        "question": "Verrucuous carcinoma is",
+        "exp": "Verrucous carcinoma (also known as Ackerman tumor) is an uncommon exophytic low-grade well-differentiated variant of squamous cell carcinoma. This neoplasm typically involves the oral cavity, larynx, genitalia, skin, and esophagus Refer robbins 9/e",
+        "cop": 1,
+        "opa": "Extremely well differentiated squamous cell carcinoma",
+        "opb": "Poorly differentiated squamous cell carcinoma",
+        "opc": "Adenosquamous carcinoma",
+        "opd": "Adenocarcinoma",
+        "subject_name": "Pathology",
+        "topic_name": "General pathology",
+        "id": "db365486-fc3f-46db-852a-d18122b8f724",
+        "choice_type": "single"
+    },
+    {
+        "question": "Most common gene responsible for hereditary hemochromatosis is?",
+        "exp": "harshmohan textbook of pathology 7th edition. *idiopathic haemochromatosis associated with over expression of HFE gene located on chromosome no 6 close to HLA gene locus and normally regulate intestinal absorption of iron.",
+        "cop": 4,
+        "opa": "HJV gene",
+        "opb": "HAMP gene",
+        "opc": "Tf. R2 gene",
+        "opd": "HFE gene",
+        "subject_name": "Pathology",
+        "topic_name": "General pathology",
+        "id": "1cbcb9c2-ccc6-4d65-bc7d-d2d622fa3a39",
+        "choice_type": "single"
+    },
+    {
+        "question": "Telomerase activity is expressed in",
+        "exp": "Telomeres are sho repeated sequences of DNA present at the ends of linear chromosomes that are impoant for ensuring the complete replication of chromosome ends and for protecting the ends from fusion and degradation. When somatic cells replicate, a small section of the telomere is not duplicated and telomeres become progressively shoened. As the telomeres become shoer, the ends of chromosomes cannot be protected and areseen as broken DNA, which signals cell cycle arrest. Telomere length is maintained by nucleotide addition mediated by an enzyme called telomerase. Telomerase is a specialized RNA-protein complex that uses its own RNA as a template for adding nucleotides to the ends of chromosomes. Telomerase activity is expressed in germ cells and is present at low levels in stem cells, but it is absent in most somatic tissues. Ref: Robbins and Cotran Pathologic Basis of Disease; 9th edition; Chapter 2; Cellular aging; Page no: 67",
+        "cop": 4,
+        "opa": "Myocytes",
+        "opb": "Keratinocytes",
+        "opc": "Osteocytes",
+        "opd": "Germ cells",
+        "subject_name": "Pathology",
+        "topic_name": "General pathology",
+        "id": "e7d3cedc-e851-4f3f-bf45-ce96909e2018",
+        "choice_type": "single"
+    },
+    {
+        "question": "Angelman syndrome is due to -",
+        "exp": "Robbins basic pathology 9th edition page no 244 Angelman syndrome, as might be expected, can result from uniparental disomy of parental chromosome 15.",
+        "cop": 3,
+        "opa": "Digenic inheritence",
+        "opb": "Inversion",
+        "opc": "Uniparental disomy",
+        "opd": "Mitochondrial disorder",
+        "subject_name": "Pathology",
+        "topic_name": "General pathology",
+        "id": "84aa55f9-deea-4493-90e0-a606c9521169",
+        "choice_type": "single"
     },
     {
         "question": "Vasoconstricting mediator is -",
@@ -156,19 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What is the ratio of Kappa and lambda free light chains normally",
-        "exp": "In a healthy individual, the total kappa tolambda ratio is roughly 2: 1 in serum (measuring intact whole antibodies) or 1: 1. 5 if measuring free light chains, with a highly divergent ratio indicative of neoplasm. Ref Robbins 9/e p102",
-        "cop": 3,
-        "opa": "7: 03",
-        "opb": "6: 04",
-        "opc": "4: 06",
-        "opd": "3: 07",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "c8ebe29b-c103-4867-911a-f6ab2361803d",
-        "choice_type": "multi"
-    },
-    {
         "question": "CD8 cell -",
         "exp": "CD 8 cells are another name for cytotoxic T cells. Basic Pathology, Robbins. Page no.: 101",
         "cop": 1,
@@ -208,19 +273,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The normal cellular counterpas of oncogenes are impoant for the following functions, except -",
-        "exp": "An oncogene is a gene that has the potential to cause cancer. In tumor cells, they are often mutated or expressed at high levels. Most normal cells will undergo a programmed form of rapid cell death (apoptosis) when critical functions are altered. Activated oncogenes can cause those cells designated for apoptosis to survive and proliferate instead. Most oncogenes require an additional step, such as mutations in another gene, or environmental factors, such as viral infection, to cause cancer. Since the 1970s, dozens of oncogenes have been identified in human cancer. Many cancer drugs target the proteins encoded by oncogenes. Promotion of dna repair is not a. Function.",
-        "cop": 3,
-        "opa": "Promotion of cell cycle progression",
-        "opb": "Inhibition of apoptosis",
-        "opc": "Promotion of DNA repair",
-        "opd": "Promotion of nuclear transcription",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "b68394e0-d228-4cdb-847b-5f3e5d0edaca",
-        "choice_type": "multi"
-    },
-    {
         "question": "Karyopyknotic index is a method for?",
         "exp": "It is the percentage of tooth royal cells having karyopyknotic nucleus exfoliate a from the vagina... Which gives an idea about the hormonal status of the patient. Karyopyknosisis the irreversible condensation of the chromatin in the nucleus of a cell undergoing apoptosis or necrosis.",
         "cop": 2,
@@ -232,19 +284,6 @@
         "topic_name": "General pathology",
         "id": "282bf357-b20b-476f-8a89-5161dc9d0a17",
         "choice_type": "single"
-    },
-    {
-        "question": "Basement membrane degeneration is mediated by -",
-        "exp": "Extracellular Matrix (ECM) comprises of interstitial matrix and basement membrane. The degradation of collagen and other ECM proteins is achieved by a family of matrix metalloproteinases (MMPs) which are dependent on zinc ions for their activity. MMPs include interstitial collagenases, which cleave fibrillar collagen (MMP-1, -2 and -3) gelatinases (MMP-2 and 9), which degrade amorphous collagen and fibronectin stromelysins (MMP-3, -10, and -11), which degrade a variety of ECM constituents, including proteoglycans, laminin, fibronectin, and amorphous collagen. ref robbins pathology 9th ed page 105",
-        "cop": 1,
-        "opa": "Metalloproteinases",
-        "opb": "Oxidases",
-        "opc": "Elastases",
-        "opd": "Hydroxylases",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "9f4f116e-e96f-41b7-a060-ab0c6ac194dd",
-        "choice_type": "multi"
     },
     {
         "question": "Amplification of N myc is associated with which tumour?-",
@@ -351,32 +390,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are mediators of acute inflammation except is -",
-        "exp": "Basic Pathology, Robbins. Page no.: 45 Angiotensin is a peptide hormone that causes vasoconstriction and an increase in blood pressure. It is pa of the renin-angiotensin system, which regulates blood pressure. Angiotensin also stimulates the release of aldosterone from the adrenal coex to promote sodium retention by the kidneys.",
-        "cop": 1,
-        "opa": "Angiotensin",
-        "opb": "Prostaglandin E2",
-        "opc": "Kallikrein",
-        "opd": "C 3a",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "fea4e284-58e5-4b26-b538-9d80a3573c63",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about MHC-",
-        "exp": "Robbins basic pathology 9th edition page no 102 Mainly major histocompatibility complex molecule(MHC) are mainly divided into two MHC1 and MHC2. But several other protiens are encoded in the MHC locus, and some of whicha are called as MHC3 molecules. These include the complement components(C2, C3andbf) and the ctokine tumour necrosing factor and lymphotoxin.",
-        "cop": 3,
-        "opa": "Present on chromosome",
-        "opb": "Class II comprises A, B, C loci",
-        "opc": "Class III has complement",
-        "opd": "Class I is involved in mixed leucocyte reaction",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "68c203d4-dcd5-4598-b3c1-6c536077031d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cycin-D & IGH fusion gene is associated with?",
         "exp": "Burkitt lymphoma is a cancer of the lymphatic system, paicularly B lymphocytes found in the germinal center. It is named after Denis Parsons Burkitt, a surgeon who first described the disease in 1958 while working in equatorial Africa. All types of Burkitt lymphoma are characterized by dysregulation of the c-myc gene by one of three chromosomal translocations.] This gene is found at 8q24. The most common variant is t(8; 14)(q24; q32), which accounts for about 85%[b of cases. This involves c-myc and IGH. A variant of this, a three-way translocation, t(8; 14; 18), has also been identified. A rare variant is at t(2; 8)(p12; q24). This involves IGK and c-myc. Another rare variant is t(8; 22)(q24; q11). This involves IGL and c-myc. Combined, the two less-common translocations, t(2; 8)(p12; q24) and t(8; 22)(q24; q11), account for the remaining 15% of cases not due to the t(8; 14)(q24; q32) translocation",
         "cop": 4,
@@ -442,19 +455,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A child is born with a single functional copy of a tumor suppressor gene. At the age of 5 years, the remaining normal allele is lost through mutation. As a result, the ability to control the transition from G1 to the S phase of the cell cycle is lost. Which of the following neoplasms is most likely to arise by means of this mechanism-",
-        "exp": "Robbins basic pathology 9th edition page no 182, Heading =RB gene Approximately 90 % of Retinoblastoma gene is sporadic, the remaining ones are familial, the predisposition to develop the tumor being transmitted as an autosomal dominant trait. Here all other conditions except Retinoblastoma are not associated with tumor suppresor gene defect.",
-        "cop": 1,
-        "opa": "Retinoblastoma",
-        "opb": "Breast carcinoma",
-        "opc": "Adenocarcinoma of colon",
-        "opd": "Cerebral astrocytoma",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "28103aca-e699-4bb2-b0da-ef885a214078",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a tumor marker -",
         "exp": "Alkaline phosphatase is a marker for bone tumors. Basic Pathology, Robbins. Page no.: 770",
         "cop": 2,
@@ -494,19 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about HLA complex except",
-        "exp": ".",
-        "cop": 3,
-        "opa": "Class-I antigen are expressed in all nucleated cells and platelets",
-        "opb": "Class-II inducts helper T-cells",
-        "opc": "Class-I is homodimer whereas Class-II is heterodimer",
-        "opd": "Class- I inducts cytotoxic T-cells",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "9939f463-4f6c-42dd-93d2-fc197b12ee29",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is the most common complement protein deficiency?",
         "exp": "Deficiency of C2 is the most common complement protein deficiency. A deficiency of C2 or C4, early components of the classical pathway, is associated with reduced resistance to infection and reduced clearance of immune complexes. This results in increased bacterial or viral infections. However, many patients have no clinical manifestations, presumably because the alternative complement pathway is adequate for the control of most infections. Ref: Robbins and Cotran Pathologic Basis of Disease; 9th edition; Page no: 238",
         "cop": 2,
@@ -544,32 +531,6 @@
         "topic_name": "General pathology",
         "id": "da1622f4-a681-4d38-bfb6-51102cbed917",
         "choice_type": "single"
-    },
-    {
-        "question": "False about wound healing -",
-        "exp": "factors influencing wound healing infection delays wound healing foreign body delays wound healing DM - delayed healing due to microangiopathy inadequate blood supply to the area of wound delays healing hormones like glucocoicoids inhibit collagen synthesis impairs wound healing And is not inhibited by haematoma Robbins 9 th edition page no. 71",
-        "cop": 3,
-        "opa": "Inhibited by infection",
-        "opb": "Inhibited by DM",
-        "opc": "Inhibited by hematoma",
-        "opd": "Inhibited by foreign body",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "b44a6726-5c0f-4e08-af7f-7aa4381c69f1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are growth promoting oncogenes except -",
-        "exp": "Robbins basic pathology 9th edition page no 187 TGF b can function to prevent or promote tumor growth, depending on the state of other genes in the cell.",
-        "cop": 3,
-        "opa": "FGF",
-        "opb": "TGF-a",
-        "opc": "TGF-b",
-        "opd": "PDGF",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "3931ad2f-910f-4caf-8c09-9ece8431c36d",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following type of necrosis is seen in blood vessel",
@@ -663,19 +624,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True statements about P53. gene are all except -",
-        "exp": "Robbins and Cotran pathologic basis of disease South Asia edition. P53 gene located on sho arm of chromosome 17 is also termed TP53 because of molecular weight of 53kd for the protein. P53 inhibits the cyclins and CDKs and prevent the cell to enter G1 phase transiently..",
-        "cop": 4,
-        "opa": "Arrest cell cycle at G1 Phase",
-        "opb": "Product is 53 KD protein",
-        "opc": "Located on chromose 17",
-        "opd": "Wild\\/non-mutated form is associated with in-creased risk of child-hood tumors",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "f3ad225e-0354-49e7-aaeb-08a4bfa43e38",
-        "choice_type": "multi"
-    },
-    {
         "question": "Isoprostanes are formed from archidonic acid by -",
         "exp": "isoprostanes are prostaglandin stereoisomers Cycloxygenase pathway Thrombaxne and prostaglandin are formed Lipoxyenase pathway leukotienes are formed these are formed by Non-enzymatic free radical peroxidation of AA these have potent vasoconstrictor activity and modulate WBC and platelet adhesion ref robbins 9th ed page 84",
         "cop": 4,
@@ -739,19 +687,6 @@
         "topic_name": "General pathology",
         "id": "63a54066-92ed-4d36-bb0c-c06f638ee65b",
         "choice_type": "single"
-    },
-    {
-        "question": "Histamine causes all except -",
-        "exp": "Histamine causes aeriolar dilation rapidly increases vascular permeability by inducing venular endothelial contraction formation of inter-endothelial gaps endothelial activation ref robbins pathology 9thed page 45",
-        "cop": 4,
-        "opa": "Aeriolar dilatation",
-        "opb": "Increased permeability of venules",
-        "opc": "Constriction of large aeries",
-        "opd": "Platelet aggregation",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "0b38d904-a51b-408c-ba3d-5dbc09cef37b",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following prevents memory B cells from apoptosis",
@@ -871,19 +806,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following belong to the family of selectin, except",
-        "exp": "If the endothelial cells are activated by cytokines and other mediators produced locally, they express adhesion molecules to which the lleukocytes attach loosely. These cells bind and detach and thus begin to tumble on the endothelial surface, a process called rolling. The weak and transient interactions involved in rolling are mediated by the selectin family of adhesion molecules. Selectins are receptors expressed on leukocytes and endothelium that contain an extracellular domain that binds sugars (hence the lectin pa of the name). The three members of this family are E-selectin (also called CD62E), expressed on endothelial cells; P-selectin (CD62P), present on platelets and endothelium and L- selectin (CD62L), on the surface of most leukocytes. Selectins bind sialylated oligosaccharides (e. g., sialyl-Lewis X on leukocytes) that are attached to mucin-like glycoproteins on various cells. ( Robbins Basic Pathology, 9th edition, page 35 )",
-        "cop": 3,
-        "opa": "P selectin",
-        "opb": "L selectin",
-        "opc": "A selectin",
-        "opd": "E selectin",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "eee5eb73-b307-45a8-b76d-478b3263dd97",
-        "choice_type": "multi"
-    },
-    {
         "question": "In hemodialysis associated amyloidosis, which of the following is seen-",
         "exp": "Robbins basic pathology 9th edition page no 155, green box. Beta 2-Microglobulin, a component of MH class1 molecules and a normal serum protien has been identified as the amyloid fibril subunit in amyloidosis that complicates the course of patients on long term hemodialysis.",
         "cop": 2,
@@ -908,19 +830,6 @@
         "topic_name": "General pathology",
         "id": "70e18a7b-ad48-4a16-83f7-7550e5cf95c0",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following mediators of acute inflammation are derived from cells except -",
-        "exp": "Complement system, kinins, coagulation and fibrinolytic system are plasma protein derived. Basic Pathology, Robbins. Page no.: 45",
-        "cop": 1,
-        "opa": "Kinins",
-        "opb": "Cytokine",
-        "opc": "Histamine",
-        "opd": "Leukotriene",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "040067c8-a077-49f3-a773-224097f9c242",
-        "choice_type": "multi"
     },
     {
         "question": "Immune complex mediated reaction-",
@@ -1001,32 +910,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are malignant tumors except -",
-        "exp": "Fibromatosis are a group of fibroblastic proliferations having tendency to infiltrate. They are locally aggressive but do not metastasize. Basic Pathology, Robbins. Page no.: 793",
-        "cop": 2,
-        "opa": "Chloroma",
-        "opb": "Fibromatosis",
-        "opc": "Askins tumor",
-        "opd": "Liposarcoma",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "da7fd95d-bda4-4298-b9e0-a9f33204a860",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Askin&; s tumour is-",
-        "exp": "Develop from soft tissues of chest. A member of ewings family of tumours. A rare case of thoracopulmonary tumour. Computed tomography. Histopathology. Histo studies.. Used for diagnosis.",
-        "cop": 1,
-        "opa": "Primitive neuroectodermal tumour of chest wall",
-        "opb": "Merkell cell carcinoma of skin",
-        "opc": "Paraneoplastic tumour of chest wall",
-        "opd": "Common bile duct tumour",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "96e31db7-2daa-46d1-b307-d8d8214931e1",
-        "choice_type": "multi"
-    },
-    {
         "question": "NARP is a",
         "exp": "Neuropathy, ataxia, and retinitis pigmentosa (NARP) is a condition that causes a variety of signs and symptoms chiefly affecting the nervous system. Beginning in childhood or early adulthood, most people with NARP experience numbness, tingling, or pain in the arms and legs (sensory neuropathy); muscle weakness; and problems with balance and coordination (ataxia). Many affected individuals also have vision loss caused by changes in the light-sensitive tissue that lines the back of the eye (the retina). In some cases, the vision loss results from a condition called retinitis pigmentosa. This eye disease causes the light-sensing cells of the retina gradually to deteriorate. Learning disabilities and developmental delays are often seen in children with NARP, and older individuals with this condition may experience a loss of intellectual function (dementia). Other features of NARP include seizures, hearing loss, and abnormalities of the electrical signals that control the heabeat (cardiac conduction defects). These signs and symptoms vary among affected individuals.",
         "cop": 3,
@@ -1051,32 +934,6 @@
         "topic_name": "General pathology",
         "id": "bd60756d-5a0c-4da0-8d4a-220684dd085e",
         "choice_type": "single"
-    },
-    {
-        "question": "Calcification of soft tissues without any disturbances of calcium metabolism is called:",
-        "exp": "Pathologic calcification is abnormal deposition of calcium, with small amount of iron, magnesium and other mineral salts in tissues. Dystrophic calcification is encountered in areas of necrosis, whether they are of coagulative, caseous, or liquefactive type, and in foci of enzymatic necrosis of fat. It is seen in dead/dying cells with normal serum calcium levels and metabolism Metastatic calcification may occur in normal tissues in cases of hypercalcemia. There are four principal causes of hypercalcemia: Increased secretion of parathyroid hormone (PTH) resorption of bone tissues, secondary to primary tumors of bone marrow (e. g., multiple myeloma, leukemia) Vitamin D-related disorders Renal failure",
-        "cop": 3,
-        "opa": "Inotrophic calcification",
-        "opb": "Monotrophic calcification",
-        "opc": "Dystrophic calcification",
-        "opd": "Calcium induced calcification",
-        "subject_name": "Pathology",
-        "topic_name": "General Pathology",
-        "id": "574f7a7e-9684-454d-b98e-a380afad23d4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following vascular changes are observed in acute inflammation, except",
-        "exp": "The main vascular reactions of acute inflammation are increased blood flow secondary to vasodilation and increased vascular permeability, both designed to bring blood cells and proteins to sites of infection or injury. Changes in Vascular Caliber and Flow. After transient vasoconstriction (lasting only for seconds), aeriolar vasodilation occurs. The microvasculature becomes more permeable, and protein-rich fluid moves into the extravascular tissues. As stasis develops, leukocytes (principally neutrophils) begin to accumulate along the vascular endothelial surface--a process called margination. Increased Vascular Permeability. Several mechanisms may contribute to increased vascular permeability in acute inflammatory reactions ( Robbins Basic Pathology, 9 th edition, page 33 )",
-        "cop": 4,
-        "opa": "Vasodilation",
-        "opb": "Stasis of blood",
-        "opc": "Increased vascular permeability",
-        "opd": "Decreased hydrostatic pressure",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "eef57657-7fed-49fe-b8c5-fa17e11a9145",
-        "choice_type": "multi"
     },
     {
         "question": "Bone marrow in AL amyloidosis shows IM-",
@@ -1183,19 +1040,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements about carcinogenesis is false?",
-        "exp": "human papillomavirus (HPV). Most HPV infections cause no symptoms and resolve spontaneously. In some, they persist and result in was or precancerous lesions. The precancerous lesions increase the risk of cancer of the cervix, vulva, vagina, penis, anus, mouth, or throat. Nearly all cervical cancer is due to HPV with two types, HPV16 and HPV18, accounting for 70% of cases. Between 60 and 90% of the other cancers are also linked to HPV. HPV6 and HPV11 are common causes of genital was and respiratory papillomatosis. HPV infection is caused by a human papillomavirus, a DNA virus from the papillomavirus family, of which over 150 types are known. More than 40 types are transmitted through sexual contact and infect the anus and genitals. Risk factors for persistent HPV infections include early age of first sexual intercourse, multiple paners, smoking, and poor immune function. HPV is typically spread by sustained direct skin-to-skin contact with vaginal and anal sex being the most common methods. Occasionally, it can spread from a mother to her baby during pregnancy. It does not spread common items like toilet seats. People can become infected with more than one type of HPV. HPV only affects humans.",
-        "cop": 2,
-        "opa": "Asbestos exposure increases the incidence of lung cancer",
-        "opb": "Papilloma viruses produce tumours in animals but not in humans",
-        "opc": "Exposure to aniline dyes predisposes to cancer of the urinary bladder d",
-        "opd": "Hepatitis B virus has been implicated in hepatocellular carcinoma",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "283e1c05-5238-4238-bb7f-289e39f85e87",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following condition has increased risk ofmalignancy-",
         "exp": "Metaplasia is the reversible replacement of one differentiated cell type with another mature differentiated cell type. The change from one type of cell to another may be pa of a normal maturation process, or caused by some so of abnormal stimulus. In simplistic terms, it is as if the original cells are not robust enough to withstand their environment, so they transform into another cell type better suited to their environment. If the stimulus causing metaplasia is removed or ceases, tissues return to their normal pattern of differentiation. Metaplasia is not synonymous with dysplasia, and is not considered to be an actual cancer. It is also contrasted with heteroplasia, which is the spontaneous abnormal growth of cytologic and histologic elements. Today, metaplastic changes are usually considered to be an early phase of carcinogenesis, specifically for those with a history of cancers or who are known to be susceptible to carcinogenic changes. Metaplastic change is often viewed as a premalignant condition that requires immediate intervention, either surgical or medical, because metaplasia is associated with cancer.",
         "cop": 1,
@@ -1209,19 +1053,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are features of apoptosis, except",
-        "exp": "In apoptosis chromosomal condensation, clumping, fragmentation, cell shrinkage, followed by cytoplasmic budding and phagocytosis of extruded apoptotic bodies occur. Since any products are not released directly rather than in apoptotic bodies an inflammatory reaction is not initiated in apoptosis. so option 1 is the answer. Robbins basic pathology 6th edition page. no: 18",
-        "cop": 1,
-        "opa": "Inflammation is present",
-        "opb": "Chromosomal breakage",
-        "opc": "Clumping of chromatin",
-        "opd": "Cell shrinkage",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "1852067d-152e-4bf0-a003-27524a5d2a4c",
-        "choice_type": "multi"
-    },
-    {
         "question": "The largest gene expressed in cardiac and smooth muscle is",
         "exp": "DMD, the largest known human gene, provides instructions for making a protein called dystrophin. This protein is located primarily in muscles used for movement (skeletal muscles) and in heart (cardiac) muscle. Small amounts of dystrophin are present in nerve cells in the brain. In skeletal and cardiac muscles, dystrophin is pa of a group of proteins (a protein complex) that work together to strengthen muscle fibers and protect them from injury as muscles contract and relax. The dystrophin complex acts as an anchor, connecting each muscle cell's structural framework (cytoskeleton) with the lattice of proteins and other molecules outside the cell (extracellular matrix). The dystrophin complex may also play a role in cell signaling by interacting with proteins that send and receive chemical signals. Little is known about the function of dystrophin in nerve cells. Research suggests that the protein is impoant for the normal structure and function of synapses, which are specialized connections between nerve cells where cell-to-cell communication occurs.",
         "cop": 1,
@@ -1233,45 +1064,6 @@
         "topic_name": "General pathology",
         "id": "3bce4935-9b04-4474-8b6d-aa8efdbe5ba2",
         "choice_type": "single"
-    },
-    {
-        "question": "Following statements are true with respect to hyperplasia except",
-        "exp": "Hyperplasia is characterized by an increase in cell number because of the proliferation of differentiated cells and replacement by tissue stem cells. The hyperplastic process remains controlled; if the signals that initiate it abate, the hyperplasia disappears. In many cases, pathologic hyperplasia constitutes a feile soil in which cancers may eventually arise. For example, patients with hyperplasia of the endometrium are at increased risk of developing endometrial cancer. ( Robbins Basic Pathology, 9th edition, page 4 )",
-        "cop": 1,
-        "opa": "Increase in cell size is hyperplasia",
-        "opb": "Increase in cell number is hyperplasia",
-        "opc": "Hyperplasia is not cancer",
-        "opd": "Hyperplasia may predispose to cancer",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "ca4be9ce-d05a-4be0-b4d8-79bd1fd9dd13",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are free radical scavengers except",
-        "exp": "Cells have developed many mechanisms to remove free radicals and thereby minimize injury Antioxidant enzymes include glutathione peroxidase, SOD and catalase. Hydrogen peroxide is one of the free radical involved in causing injury Reference: Robbins and Cotran Pathologic Basis of Disease, page 48, 9th edition; Chapter 2",
-        "cop": 4,
-        "opa": "Superoxide dismutase",
-        "opb": "Glutathione peroxidase",
-        "opc": "Catalase",
-        "opd": "Hydrogen peroxide",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "a2a942aa-9830-4612-bf52-0cd61379a165",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A patient presents with a large wound to his right forearm that is the result of a chain saw accident. You treat his wound appropriately and follow him in your surgery clinic at routine intervals. Initially his wound is filled with granulation tissue, which is composed of proliferating fibroblasts and proliferating new blood vessels (angiogenesis). A growth factor that is capable of inducing all the steps necessary for angiogenesis is",
-        "exp": "fibroblast growth factor (FGF) can induce the growth and proliferation of fibroblasts. Additionally, one type of FGF, basic FGF, is capable of inducing all of the stages of angiogenesis (basement membrane and extracellular matrix degradation, endothelial migration, endothelial proliferation, and endothelial differentiation). The epidermal growth factor family includes epidermal growth factor (EGF) and transforming growth factor a (TGF-a). These substances can cause proliferation of many types of epithelial cells and fibroblasts. TGF-b, produced by platelets, endothelial cells, T cells, and macrophages, is associated with fibrosis. In low concentrations it causes the synthesis and secretion of PDGF, but in high concentrations it inhibits growth due to inhibition of the expression of PDGF receptors. Reference: Robbins & Cotran Pathologic Basis of Disease, 9edition.",
-        "cop": 2,
-        "opa": "Epidermal growth factor (EGF)",
-        "opb": "Basic fibroblast growth factor (FGF)",
-        "opc": "Transforming growth factor a (TGF-a)",
-        "opd": "Transforming growth factor b (TGF-b)",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "7024100d-1e42-409d-ad50-bc53e213e8a1",
-        "choice_type": "multi"
     },
     {
         "question": "Congo-red with amyloid produces-",
@@ -1298,19 +1090,6 @@
         "topic_name": "General pathology",
         "id": "50ec4c5e-05b5-4ae4-b23d-ad8312ce6e40",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following exhibits allelic heterogeneity?",
-        "exp": "Allelic heterogeneity is the phenomenon in which different mutations at the same locus cause different phenotypes. These allelic variations can arise as a result of natural selection processes, as a result of exogenous mutagens, genetic drift, or genetic migration. Many of these mutations take the form of single nucleotide polymorphisms in which a single nucleotide base is altered compared to a consensus sequence. They can also exist as copy number variants (CNV) in which the copies of a gene or DNA sequence is different from the population. For example, b-thalassemia may be caused by several different mutations in the b-globin gene. Allelic heterogeneity should not be confused with locus heterogeneity in which a mutation in a different gene causes a similar phenotype. Nor should it be confused with phenotypic heterogeneity in which a mutation in the same gene causes a different phenotype. Other major diseases displaying allelic heterogeneity are allelic mutations in the dystrophin gene which cause Duchenne dystrophy and mutations in the CFTR gene that are known to causes cystic fibrosis. Ref Robbins 9/e pg 413",
-        "cop": 1,
-        "opa": "Beta-thalassemia",
-        "opb": "Sickel cell disease",
-        "opc": "HOCM",
-        "opd": "Duchenne muscular dystrophy",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "18a43467-89f1-4570-8e56-a2ef2ceeebda",
-        "choice_type": "multi"
     },
     {
         "question": "Following is transmitted as autosomal dominant disorder",
@@ -1404,19 +1183,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are Opsonins, Except",
-        "exp": "Leukotriene B4 (LTB4) is not an Opsonin. The major opsonins are IgG antibodies, the C3b breakdown product of complement, and ceain plasma lectin, notably mannose-binding lectin, all of which are recognized by specific receptors on leukocytes. Three major Opsonins IgG Opsonin (The Fc Fragment of immunoglobulin G) C3b Opsonin is the fragment generated by activation of complement pathway Lectins are carbohydrate-binding proteins in the plasma which bind to bacterial cell wall. Opsonisation with Opsonins: Opsonins are specific proteins in the serum that enhance the process of phagocytosis by coating the surface of target bacteria or microorganisms. This process is called opsonisation (meaning preparing for eating). Opsonins establish a bond between bacteria and the cell membrane of phagocytic cell. If the surface of the target is prepared (opsonized) by plasma proteins, phagocytosis is made easier, though some targets can be taken up without this coating. The efficiency of phagocytosis is greatly enhanced when microbes are opsonized by these proteins Phagocytes such as Neutrophils express high affinity receptors for opsonin protein. Neutrophils have membrane receptors for IgG and C3b. These are three major types of Opsonins: IgG antibody C3b fragment of Complement Non-specific opsonins This is the most impoant opsonin IgG antibody works like a ligand. The Fab pa of the globulin binds to the surface of the microorganism while the Fc poion sticks out and fits into the membrane receptors of the phagocyte Benign Fragment of C3, C3b is set free when complement is activated Like IgG, C3b has a tail end that fits into a receptor on the surfaces of phagocytic cells Several proteins have opsonic propeies Lectins (Mannose-Binding Lectins) are carbohydrates binding proteins in the plasma which bind to bacterial cell wall C-reactive protein Hageman Factor Serum amyloid A Ref: Robbins 9th edition Pgno: 78",
-        "cop": 3,
-        "opa": "IgG",
-        "opb": "C3b",
-        "opc": "LTB4",
-        "opd": "Mannose binding Lectin",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "d89eeae7-1c57-4c45-a6c1-48f24f5a6862",
-        "choice_type": "multi"
-    },
-    {
         "question": "Multiple epidermoid cysts are seen in -",
         "exp": "Gardner syndrome, also known as Gardner's syndrome or familial colorectal polyposis, is an autosomal dominant form of polyposis characterized by the presence of multiple polyps in the colon together with tumors outside the colon. Multiple epidermoid cysts are formed. Basic Pathology, Robbins.",
         "cop": 2,
@@ -1469,19 +1235,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following genetic conditions are with increased risk for cancers except-",
-        "exp": "Robbins basic pathology 9th edition Answer is option4, none Downs syndrome, turners syndrome, neurofibromatosis type1, all increase the risk of cancers since all these are caused due to chromosomal mutations. Hence there is more chance of increased cell proliferations in these conditions.",
-        "cop": 4,
-        "opa": "Down 's syndrome",
-        "opb": "Turner's syndrome",
-        "opc": "Neurofibromatosis type I",
-        "opd": "None",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "72a187b0-a440-41ff-a7ab-19d1f4e67212",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not a coagulative necrosis?",
         "exp": "For obscure reasons, the hypoxic death of cells within the central nervous system often evokes liquefactive necrosis. ( Robbins Basic Pathology, 9th edition, page 10 )",
         "cop": 3,
@@ -1519,19 +1272,6 @@
         "topic_name": "General pathology",
         "id": "b603033b-9b30-4a2e-9ea7-11f597da7edc",
         "choice_type": "single"
-    },
-    {
-        "question": "Deficiency of Vitamin D increases the risk of",
-        "exp": "Cancers associated with vitamin D deficiency: Colorectal cancer, Breast cancer, Prostate cancer, Pancreatic cancer and Colorectal adenoma(\" Ref: Meta-analysis of observational studies of serum 25-hydroxyvitamin D levels and colorectal cancer, breast and prostate cancer and colorectal adenoma. International Journal of Cancer\")",
-        "cop": 4,
-        "opa": "Colon cancer",
-        "opb": "Prostate cancer",
-        "opc": "Breast cancer",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "8d0714c5-d3df-4883-9fa7-defa7723bb1c",
-        "choice_type": "multi"
     },
     {
         "question": "Amyloidosis most commonly affects",
@@ -1573,45 +1313,6 @@
         "choice_type": "single"
     },
     {
-        "question": "X-linked recessive disease in male with clotting defect is",
-        "exp": "harshmohan textbook of pathology 7th edition Hemophilia A is a hereditary coagulation disorder due to deficiency of reduced activity of factor viii and is a sex linked recessive trait and so manifests in males. ITP is characterised by immunologic destruction of platelets and normal or increased megakaryocytes in bone marrow Von willebrands disease is not an x linked condition as gene for v. WF is located on chromosome 12",
-        "cop": 1,
-        "opa": "Hemophilia A",
-        "opb": "ITP",
-        "opc": "Von-Willebrand disease",
-        "opd": "None",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "42482878-5c56-45b5-b0b9-866530808411",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true regarding transforming growth factor- b except-",
-        "exp": "Robbins basic pathology 9th edition page no 67 V Vascular endothelial growth factor stimulates both migration and proliferation of endothelial cells. Fibroblast growth factor stimulates proliferation and chemotaxis of fibroblasts. But growth factors will not activate macrophages.",
-        "cop": 4,
-        "opa": "Proliferation for fibroblast",
-        "opb": "Proliferation of endothelial cells",
-        "opc": "Chemotaxis of fibroblasts",
-        "opd": "Activation of macrophages",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "1b66411c-b84b-4e77-a4b1-9a071660ffe3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Apoptosis is associated with all the following features Except",
-        "exp": "The following morphologic features, some best seen with the electron microscope, characterize cells undergoing apoptosis. Cell shrinkage. Chromatin condensation. Formation of cytoplasmic blebs and apoptotic bodies. Phagocytosis of apoptotic cells or cell bodies, usually by macrophages. The plasma membrane of the apoptotic cell remains intact, but the membrane is altered in such a way that the cell and its fragments become avid targets for phagocytes. The dead cell and its fragments are rapidly cleared before cellular contents have leaked out, so apoptotic cell death does not elicit an inflammatory reaction in the host. Apoptosis differs in this respect from necrosis, which is characterized by loss of membrane integrity, enzymatic digestion of cells, leakage of cellular contents, and frequently a host reaction( Robbins Basic Pathology, 9th edition, page 18 )",
-        "cop": 3,
-        "opa": "Cell shrinkage",
-        "opb": "Intact cellular contents",
-        "opc": "Inflammation",
-        "opd": "Nucleosome size fragmentation of nucleus",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "8b98625b-a75a-45fe-b005-b39645ca8706",
-        "choice_type": "multi"
-    },
-    {
         "question": "The given site encodes",
         "exp": "MHC class III genes encode*Complement components C2 and C4*Properdin factor B of alternate pathway*TNF - alpha and beta. Heat shock proteins. Reference: Harrison&; s Principles of Internal Medicine; 19th edition",
         "cop": 1,
@@ -1623,19 +1324,6 @@
         "topic_name": "General pathology",
         "id": "40f5da6e-9f39-4828-a03b-965ece510d8f",
         "choice_type": "single"
-    },
-    {
-        "question": "Raised AFP's is typically seen in -",
-        "exp": "Harshmohan textbook of pathology 7th edition alpha feto protein is a glycoprotein synthesized normally by fetal liver cells. Their serum levels are elevated in hepatocellular carcinoma and non seminomatous germcell tumours of the testis..",
-        "cop": 3,
-        "opa": "Hepatitis",
-        "opb": "Seminoma",
-        "opc": "HCC",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "05cc9363-b992-402f-97f9-6220801f6f2e",
-        "choice_type": "multi"
     },
     {
         "question": "Resolution of inflammation caused by - rpt Q32",
@@ -1651,19 +1339,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following protein defects can cause hereditary spherocytosis EXCEPT",
-        "exp": "Hereditary spherocytosis (HS) is an inherited disorder caused by intrinsic defects in the red cell membrane skeleton that render red cells spheroid, less deformable, and vulnerable to splenic sequestration and destruction. Various mutations involving a-spectrin, b-spectrin, ankyrin, band 4. 2, or band 3 that weaken the interactions between these proteins causered cells to lose membrane fragments. To accommodate the resultant change in the ratio of surface area to volume these cells adopt a spherical shape. Spherocytic cells are less deformable than normal ones and therefore become trapped in the splenic cords, where they are phagocytosed by macrophages. Reference: Robbins and Cotran Pathologic Basis of Disease; 9th edition; Chapter 14; Red Blood Cell and Bleeding Disorders",
-        "cop": 3,
-        "opa": "Ankyrin",
-        "opb": "alfa-Spectrin",
-        "opc": "Glycophorin C",
-        "opd": "beta spectrin",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "62a690df-1d76-4d7b-825d-d29b165ca741",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following shows monogenic inheritance?",
         "exp": "A genetic disorder is a genetic problem caused by one or more abnormalities in the genome, especially a condition that is present from bih (congenital). Most genetic disorders are quite rare and affect one person in every several thousands or millions. Genetic disorders may be hereditary, passed down from the parents' genes. In other genetic disorders, defects may be caused by new mutations or changes to the DNA. In such cases, the defect will only be passed down if it occurs in the germ line. The same disease, such as some forms of cancer, may be caused by an inherited genetic condition in some people, by new mutations in other people, and mainly by environmental causes in other people. Whether, when and to what extent a person with the genetic defect or abnormality will actually suffer from the disease is almost always affected by the environmental factors and events in the person's development. Some types of recessive gene disorders confer an advantage in ceain environments when only one copy of the gene is present",
         "cop": 3,
@@ -1675,19 +1350,6 @@
         "topic_name": "General pathology",
         "id": "9d64c5a2-86f8-4c04-aea0-fdec82bced57",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about Virchow's triad except -",
-        "exp": "Harshmohan textbook of pathology 7th edition. Virchow's triad- endothelial injury, altered blood flow and hyper coagulability of blood. To this are added the activation processes that follow these primary events: activation of platelets and clotting system..",
-        "cop": 3,
-        "opa": "Concerns the risk of intravascular thrombus",
-        "opb": "Depends on endothelial injury",
-        "opc": "Depends on platelet activation",
-        "opd": "Depends on stasis",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "a77c471d-c6ea-4987-80dc-5258d6b65e1d",
-        "choice_type": "multi"
     },
     {
         "question": "Oxygen dependent killing is done through-",
@@ -1703,32 +1365,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true about blood coagulation, except -",
-        "exp": "harshmohan textbook of pathology 7 th edition extrinsic pathway is activated only by tissue damage which causes release of thromboplastin where as intrinsic pathway is activated by surface contact. factor x is a pa of common pathway. Ca2+ is required for conversion of 1x -1xa, prothrombin to thrombin",
-        "cop": 2,
-        "opa": "Factor X is pa of both intristic and extrinsic path ways",
-        "opb": "Extrinsic pathway is activatied by contact with negatively charged surfaces",
-        "opc": "Intrinsic pathway can be activated in vitro",
-        "opd": "Calcium is required in several steps of coagulation",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "02fd4ad2-51a8-4c0b-82f5-772b3c3af669",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statements about Transplant Rejection Reactions is false:",
-        "exp": "Liver transplants are relatively resistant to Hyperacute rejection. They rarely undergo Hyperacute rejection &; Kidney transplants are paicularly vulnerable to Hyperacute graft rejection while liver transplants are relatively resistant. Even in the presence of a strongly positive cross-match test, liver transplants rarely undergo Hyperacute rejection, although their long-term survival is inferior. It is not clear why the liver is resistant to Hyperacute rejection. One factor may be that is less susceptible to ischaemia than the kidney by viue of its dual blood supply derived from the poal vein and from the hepatic aery&; - Bailey Love Hyperacute rejection (Type II) Acute rejection (Type IV and II) Chronic rejection (Type IV) It is irreversible and results in immediate graft loss. Since the reactions is irreversible, the organ must be removed. it is generally reversible with additional immunosuprresion and hence the graft can often be salvaged. It is typically irreversible. Chronic rejection is the single. Most common cause of graft failure (leads to loss of graft) Uncommon: These reactions are uncommon because of pre-transplantation screening Common: Most common type of transplant rejection overall. Most common type of reversible transplant rejection reactions. Not the most common cause of rejection reaction that leads to graft/organ failure (Since this type is often reversible) Common: Chronic rejection is the single most common cause of irreversible transplant rejection reaction. The most common cause of rejection that leads to graft/organ failure (Since this type is irrversible) Ref: Bailey and Love 27th edition Pgno: 1535",
-        "cop": 2,
-        "opa": "Hyperacute rejection is uncommon",
-        "opb": "Liver is extremely sensitive to Hyperacute rejection",
-        "opc": "Chronic rejection invariably leads to loss of the graft",
-        "opd": "Acute rejection is readily reversible with appropriate treatment",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "7b1d1e94-eb0c-41fd-acb2-506f85ffad64",
-        "choice_type": "multi"
-    },
-    {
         "question": "The Fenton reaction leads to free radical generation when",
         "exp": "Reactive oxygen species(ROS) produced in small amounts in all cells during redox reactions that occur during mitochondrial respiration and energy generation. In this reaction, molecular oxygen is reduced by addition of four electrons to generate water. As this reaction is incomplete, toxic intermediates are produced. These intermediates include superoxide, which is conveed to H2. O2 spontaneously by the action of enzyme superoxide dismutase. In the presence of metals such as Fe2+, H2. O2 is conveed to highly reactive hydroxyl radical by Fenton reaction. Here the ferrous ions are reduced to ferric ions. MPO: myeloperoxidase Conves H2. O2 to highly reactive compound hypochlorite. Present in leucocytes.{Reference; Robbins basic pathology 9E, page no. 28}",
         "cop": 3,
@@ -1740,19 +1376,6 @@
         "topic_name": "General pathology",
         "id": "1c79b01a-0dcd-428a-870b-49fb1a776b3b",
         "choice_type": "single"
-    },
-    {
-        "question": "A couple has two children affected with tuberous selerosis. On detailed clinical and laboratory evaluation (Including molecular studies) both parents are normal. Which one of the following explains the two affected children in this family?",
-        "exp": "Germline mosaicism, also called gonadal mosaicism, is a type of genetic mosaicismwhere more than one set of genetic information is found specifically within the gamete cells. Germline mosaicism can be present at the same time as somatic mosaicism or individually depending on when the conditions occur. Pure germline mosaicism refers to mosaicism found exclusively in the gametes and not in any somatic cells. Germline mosaicism can be caused either by a mutation that occurs after conception, or by epigenetic regulation, alterations to DNA such as methylation that do not involve changes in the DNA coding sequence. A mutation in an allele acquired by a somatic cell early in its development can be passed on to its daughter cells, including those that later specialize to gametes. With such mutation within the gamete cells, a pair of medically typical individuals may have repeated succession of children who suffer from ceain genetic disorders such as Duchenne muscular dystrophyand osteogenesis imperfectabecause of germline mosaicism. It is possible for parents unaffected by germline mutations to produce an offspring with an autosomal dominant (AD) disorder due to a random new mutation within one's gamete cells known as sporadic mutation; however, if these parents produce more than one child with an AD disorder, germline mosaicism is more likely the cause than a sporadic mutation. In the first documented case of its kind, two offspring of a French woman who had no phenotypic expression of the AD disorder, hyperophic cardiomyopathy, inherited the disease. Ref Robbins 9/e pg 264",
-        "cop": 4,
-        "opa": "Non penetrance",
-        "opb": "Uniparental cliasomy",
-        "opc": "Genomic imprinting",
-        "opd": "Germline mosaicism",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "42a827c5-6abf-4a6a-b841-544e4dba95ee",
-        "choice_type": "multi"
     },
     {
         "question": "CD 95 is a marker of",
@@ -1872,19 +1495,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about tumour marker is -",
-        "exp": "PSA is present in small quantities in the serum of men with healthy prostates, but is often elevated in the presence of prostate cancer or other prostate disorders. A tumor marker is a biomarker found in blood, urine, or body tissues that can be elevated by the presence of one or more types of cancer. There are many different tumor markers, each indicative of a paicular disease process, and they are used in oncology to help detect the presence of cancer. An elevated level of a tumor marker can indicate cancer; however, there can also be other causes of the elevation (false positive values). Tumor markers can be produced directly by the tumor or by non-tumor cells as a response to the presence of a tumor.",
-        "cop": 1,
-        "opa": "P. S. A. is used for CA prostrate",
-        "opb": "Tumour marker is used to diagnose residual recurrence of disease",
-        "opc": "Can be used for diagnosis of cancer",
-        "opd": "CA-19-9 is used for colon cancer",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "040e54c6-860c-4b0b-9912-20d5696def74",
-        "choice_type": "multi"
-    },
-    {
         "question": "Wiskott-Aldrich syndrome is a",
         "exp": "Robbins basic pathology 6th edition. Capter diseases of immunity. page no. 236. Wiskott -Aldrich syndrome is an x- linked recessive disease characterised by thrombocytupenia, eczema and vulnerability to recurrrent infections, ending in early death.",
         "cop": 1,
@@ -1950,19 +1560,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The most frequent cause of clinically significant subarachnoid hemorrhage is rupture of",
-        "exp": "The most frequent cause of clinically significant subarachnoid hemorrhage is rupture of a saccular (\"berry\") aneurysm in a cerebral aery. Subarachnoid hemorrhage may also result from the extension of a traumatic hematoma, rupture of a hypeensive intracerebral hemorrhage into the ventricular system, vascular malformation, hematologic disturbances, and tumors. Saccular aneurysm is the most common type of an intracranial aneurysm. Other aneurysm types include atherosclerotic (fusiform; mostly of the basilar aery), mycotic, traumatic, and dissecting. These latter three, like saccular aneurysms, are most often found in the anterior circulation but differ in that they more often cause cerebral infarction rather than subarachnoid hemorrhage. Ref: Robbins and Cotran Pathologic Basis of Disease; 9th edition; Chapter 28; The Central Nervous System; Page no: 1270",
-        "cop": 2,
-        "opa": "Fusiform aneurysm",
-        "opb": "Saccular aneurysm",
-        "opc": "Mycotic aneurysm",
-        "opd": "Dissecting aneurysm",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "f977d670-8f07-43c1-ba61-e6e808df979a",
-        "choice_type": "multi"
-    },
-    {
         "question": "The commonest Primary immunodeficiency is -",
         "exp": "Selective immunoglobulin A (IgA) deficiency (SIg. AD) is a genetic immunodeficiency, a type of hypogammaglobulinemia. People with this deficiency lack immunoglobulin A (IgA), a type of antibody that protects against infections of the mucous membranes lining the mouth, airways, and digestive tract. It is defined as an undetectable serum IgA level in the presence of normal serum levels of IgG and IgM, in persons older than 4 years. It is the most common of the primary antibody deficiencies. Most such persons remain healthy throughout their lives and are never diagnosed.",
         "cop": 2,
@@ -2000,19 +1597,6 @@
         "topic_name": "General pathology",
         "id": "92ec427e-f08f-4b5f-9758-54a074f46d0e",
         "choice_type": "single"
-    },
-    {
-        "question": "True about small silencing RNAs",
-        "exp": "in all prokaryotic and eukaryotic organisms, four main classes of RNA molecules exist m. RNA, t. RNA, r. RNA, and small RNAs. Each differs from the others by abundance, size, function, and general stability. Small RNA: Most of these molecules are complexed with proteins to form ribonucleoproteins and are distributed in the nucleus, the cytoplasm, or both. They range in size from 20 to 1000 nucleotides and are present in 100, 000 to 1, 000, 000 copies per cell, collectively representing <=5% of cellular RNA. Two types: 1) Small Nuclear RNA and Large & Small Noncoding Regulatory RNAs: Micro-RNAs (mi. RNAs), Silencing RNAs (si. RNAs), and Long Noncoding RNAs (lnc. RNAs)si. RNAs are frequently used to decrease or \"knock-down\" specific protein levels ( si. RNA homology-directed m. RNA degradation) in experimental contexts in the laboratory, an extremely useful and powerful alternative to gene-knockout technology. Indeed, several si. RNA-based therapeutic clinical trials are in progress to test the efficacy of these novel molecules as drugs for treating human disease. Reference: Harpers Biochemistry; 30th edition; Chapter 34; Nucleic Acid Structure and Function",
-        "cop": 2,
-        "opa": "They are mature oligomers in human genome",
-        "opb": "They are associated with knock down technology",
-        "opc": "XIST is an example of si RNA",
-        "opd": "Related to atherosclerosis",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "1ca7856b-8b98-44d9-9cb5-6ba729e59eee",
-        "choice_type": "multi"
     },
     {
         "question": "In apoptosis, permeabilization of the membrane occurs in",
@@ -2054,45 +1638,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Small round cell tumors -",
-        "exp": "Characterized by small round.. Undifferentiated cells. Patternless sheets of cells with high cellullarity. And high N: C ratio. Include ewings sarcoma, peripheral neuroectodermal tumour, thabdomyosarcoma, synol sarcoma, non-hodgkins lymphoma, retinoblastoma etc",
-        "cop": 4,
-        "opa": "Wilm's tumor",
-        "opb": "Retinoblastoma",
-        "opc": "Rhabdomyosarcoma",
-        "opd": "All",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "ba0b3a5b-8bca-4d01-a088-86d32fc5848d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "When a functional gene is inherited from one parent only, the condition is known as",
-        "exp": "Genomic imprinting is the epigenetic phenomenon by which ceain genes are expressed in a parent-of-origin-specific manner. If the allele inherited from the father is imprinted, it is thereby silenced, and only the allele from the mother is expressed. If the allele from the mother is imprinted, then only the allele from the father is expressed. Forms of genomic imprinting have been demonstrated in fungi, plants and animals. As of 2014, there are about 150 imprinted genes known in the mouse and about half that in humans. Genomic imprinting is an inheritance process independent of the classical Mendelian inheritance. It is an epigenetic process that involves DNA methylation and histone methylation without altering the genetic sequence. These epigenetic marks are established (\"imprinted\") in the germline (sperm or egg cells) of the parents and are maintained through mitotic cell divisions in the somatic cells of an organism. Appropriate imprinting of ceain genes is impoant for normal development. Human diseases involving genomic imprinting include Angelman syndrome and Prader-Willi syndrome.",
-        "cop": 1,
-        "opa": "Genomic imprinting",
-        "opb": "Mosaicism",
-        "opc": "Alleles",
-        "opd": "Chimerism",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "48b97c18-d048-4d57-8de0-f0cfdbd1d008",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Acute phase reactant include all except -",
-        "exp": "Hemoglobin is the O2 carrying pigment in RBCs. Acute phase proteins are those proteins that are raised in response to acute inflammation. Basic Pathology, Robbins. Page no.: 57",
-        "cop": 4,
-        "opa": "C reactive protein",
-        "opb": "Ferritin",
-        "opc": "Ceruloplasmin",
-        "opd": "Hemoglobin",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "5bdf3591-8069-4121-b2d6-d0069b4749f2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hereditary factor are impoant Briena-",
         "exp": "Retinoblastoma (Rb) is a rare form of cancer that rapidly develops from the immature cells of a retina, the light-detecting tissue of the eye. It is the most common malignant cancer of the eye in children, and it is almost exclusively found in young children. Though most children survive this cancer, they may lose their vision in the affected eye(s) or need to have the eye removed. Almost half of children with retinoblastoma have a hereditary genetic defect associated with retinoblastoma. In other cases, it is caused by a congenital mutation in the chromosome 13 gene,",
         "cop": 1,
@@ -2132,19 +1677,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following enzymes may contribute to generating free oxygen radicals within neutrophil for killing bacteria except",
-        "exp": "Glutathione peroxidase is a free radical scavenger",
-        "cop": 4,
-        "opa": "Superoxide dismutase",
-        "opb": "Fenton reaction",
-        "opc": "NADPH oxidase",
-        "opd": "Glutathione peroxidase",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "8bc0fcb2-fd6c-4cf1-b519-82cd5a070896",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cell mediated immune response is which type of hypersensitivity-",
         "exp": "Type 4 or delayed hypersensitivity reaction is tissue injury by T cell mediated immune response without formation of antibodies (contrary to type 1, 2 and 3) but is instead a slow and prolonged response. Harshmohan textbook of pathology 7th edition Delayed-type hypersensitivity (DTH), described next, is an illustrative model of T cell-mediated inflammation and tissue injury. The same reactions are the underlying basis for several diseases. Contact dermatitis is an example of tissue injury resulting from T cell-mediated inflammation. It is evoked by contact with pentadecylcatechol (also known as urushiol, the active component of poison ivy and poison oak, which probably becomes antigenic by binding to a host protein). On reexposure of a previously exposed person to the plants, sensitized TH1 CD4+ cells accumulate in the dermis and migrate toward the antigen within the epidermis. Here they release cytokines that damage kera- tinocytes, causing separation of these cells and formation of an intraepidermal vesicle, and inflammation manifested as a vesicular dermatitis. It has long been thought that several systemic diseases, such as type 1 diabetes and mul- tiple sclerosis, are caused by TH1 and TH17 reactions against self antigens, and Crohn disease may be caused by uncon- trolled reactions involving the same T cells but directed against intestinal bacteria. T cell-mediated inflammation also plays a role in the rejection of transplants, described later in the chapter. Ref Robbins 9/e pg 118",
         "cop": 4,
@@ -2156,19 +1688,6 @@
         "topic_name": "General pathology",
         "id": "d35ca4ff-f2d8-435e-bc27-1a7055d1a8e9",
         "choice_type": "single"
-    },
-    {
-        "question": "HLA-I is present on",
-        "exp": "Harshmohan textbook of pathology 7th edition. *HLA system composed of antigenic proteins present on all nucleated cells of the body and platelets.",
-        "cop": 1,
-        "opa": "All nucleated cells",
-        "opb": "Only on cells of immune system",
-        "opc": "Only on B-cells",
-        "opd": "Only on T-cells",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "ad98079d-ab25-4042-908f-ca8c08e84f99",
-        "choice_type": "multi"
     },
     {
         "question": "Tensile strength of tendon depends on",
@@ -2210,19 +1729,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following are X-linked disorders except",
-        "exp": "X-linked Recessive Inheritance Hemophilia A Duchenne/Becker muscular dystrophy Fragile X syndrome Autosomal Recessive Inheritance Cystic fibrosis Phenylketonuria Tay-Sachs disease (Robbins Basic Pathology, 9th edition, pg no. 219)",
-        "cop": 1,
-        "opa": "Cystic fibrosis",
-        "opb": "Hemophilia A",
-        "opc": "Duchenne muscular dystrophy",
-        "opd": "Fragile X syndrome",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "d12f0bd4-2e06-4ba4-9491-4152a878de13",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which among the following is not an adhesion molecule?",
         "exp": "The cell adhesion molecules (CAMs) are classified into four main families: Immunoglobulin family CAMs Cadherins Integrins selectins Integrins are the most impoant molecules promoting cell-cell or cell-matrix interactions by interacting with vascular cell adhesion molecule (VCAM) or intercellular adhesion molecule (ICAM). The most impoant molecule responsible for diapedesis is called PECAM-1 (platelet endothelial cell adhesion molecule) transferrins are iron binding plasma protein ref robbins pathology 9th ed page 24",
         "cop": 4,
@@ -2249,19 +1755,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about Apoptosis a. Il Except",
-        "exp": "In apoptosis, the dead cell and its fragments are rapidly cleared before cellular contents have leaked out, so apoptotic cell death does not elicit an inflammatory reactionin the host. Apoptosis differs in this respect from necrosis, which is characterized by loss of membrane integrity, enzymatic digestion of cells, leakage of cellular contents, and frequently a host reaction. ( Robbins Basic Pathology, 9th edition, page 18 )",
-        "cop": 2,
-        "opa": "Annexin 5 is marker",
-        "opb": "Inflammation is present",
-        "opc": "Cell shrinkage",
-        "opd": "Clumping of chromatin",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "a6115ece-eb79-43ad-9f6d-b787e658ad3a",
-        "choice_type": "multi"
-    },
-    {
         "question": "The chromosomal karyotype in patau syndrome is",
         "exp": "TRISOMY 13: PATAU SYNDROME Incidence: 1 in 15, 000 bihs Karyotypes: Trisomy 13 type: 47, XX, +13 Translocation type: 46, XX, +13, der(13; 14)(q10; q10) Mosaic type: 46, XX/47, XX, +13 (Robbins Basic Pathology, 9 th edition. page: 238)",
         "cop": 4,
@@ -2273,19 +1766,6 @@
         "topic_name": "General pathology",
         "id": "a766a7dd-3199-4ec6-846b-43b97ab92946",
         "choice_type": "single"
-    },
-    {
-        "question": "All are sources of free radicals except -",
-        "exp": "Harshmohan textbook of pathology 7th edition. Reduced glutathione protects RBCs against oxidant stress produced by the oxygen free radicals. MPO, Fenton reaction produce oxygen free radicals. NO is a free radical..",
-        "cop": 2,
-        "opa": "Fentons reaction",
-        "opb": "Glutathione",
-        "opc": "Myeloperoxidase",
-        "opd": "Nitric oxide",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "7ec82c1c-e348-4265-b54b-7e2ebd245a4b",
-        "choice_type": "multi"
     },
     {
         "question": "Inheritance of Huntington's chorea -",
@@ -2327,19 +1807,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The pattern of inheritance of retinitis pigmentosa are all Except",
-        "exp": "In most cases, the disorder is linked to a recessive gene, a gene that must beinherited from both parents in order to cause the disease. But dominant genes andgenes on the X chromosome also have been linked to retinitis pigmentosa. In these cases, only one parent has passed the diseasegene. Refer robbins 1339",
-        "cop": 4,
-        "opa": "Autosomal recessive",
-        "opb": "Autosomal dominant",
-        "opc": "X linked recessive",
-        "opd": "X linked dominant",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "9fccdf9c-1164-4cb2-be67-b8ccb448f366",
-        "choice_type": "multi"
-    },
-    {
         "question": "IL-1 is activated by",
         "exp": "* Pyroptosis is associated with release of cytokine IL 1 * Microbial products that enter the cytoplasm of the cell are recognised by cytoplasmic immune receptors and activates a multiprotein complex called INFLAMMASOME * Inflammasome will activate CASPASE 1 (also called Interleukin 1 beta conveing enzyme) and releases the active form of IL 1 * Several NORs (NOD like receptor) signal INFLAMMASOME * Gain of function in NLR can cause periodic fever syndromes called AUTO INFLAMMATORY SYNDROMES * They respond to IL-1 antagonists * IL 1 activates fibroblasts to synthesize collagen and stimulates the proliferation of mesenchymal cells * IL 1 also stimulates Th17 responses * Initiator caspase in Intrinsic pathway of apoptosis - IL 9 * Initiator caspase in Entrinsic pathway of apoptosis - IL 8, 10 * Executioner caspase of apoptosis IL 3 & IL 7 Ref:- Robbins Basic Pathology 9th Edition; Pg num:- 59, 86, 188",
         "cop": 1,
@@ -2366,19 +1833,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Acute phase reactants are all except-",
-        "exp": "Endothelin is a vasoconstrictive mediator released in response to endothelial dysfunction. Basic Pathology, Robbins. Page no.: 484",
-        "cop": 3,
-        "opa": "C-reactive protein",
-        "opb": "Haptaglobulin",
-        "opc": "Endothelin",
-        "opd": "Fibrinogen",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "8e42803c-7b0f-429d-ba49-e63cca81576b",
-        "choice_type": "multi"
-    },
-    {
         "question": "'Knudson's two-hit' hypothesis is associated with-",
         "exp": "Harshmohan textbook of pathology 7th edition. Familial retinoblastoma comprises 40% of cases and may be bilateral. In this cases all somatic cells inherit one mutant RBgene from a carrier parent. Later during life the other mutational event of 2nd allele affecting the somatic cells occurs. This forms the basis of two hot hypothesis given by Knudson in 1971..",
         "cop": 1,
@@ -2403,19 +1857,6 @@
         "topic_name": "General pathology",
         "id": "b3ed4135-8920-499e-944a-c34863024460",
         "choice_type": "single"
-    },
-    {
-        "question": "The complex process of leukocyte movements through the blood vessels are all EXCEPT-",
-        "exp": "Robbins basic pathology 9th edition page no 36, 37 The complex process of leukocytes across the blood vessel includes rolling adhesion and migration. Phagocytosis occurs outside the vessel wall, at the site of cell injury",
-        "cop": 4,
-        "opa": "Rolling",
-        "opb": "Adhesion",
-        "opc": "Migration",
-        "opd": "Phagocytosis",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "42b2ca4a-e4b8-4e02-b9b0-6832f91e0b14",
-        "choice_type": "multi"
     },
     {
         "question": "C3 convease acts on",
@@ -2457,58 +1898,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Raised AFP is typically seen in-",
-        "exp": "Screened for raised afp in chronic hepatitis for early diagnosis of hepatocellular carcinoma. Were normal adult value must be less than 40.",
-        "cop": 1,
-        "opa": "Hepatitis",
-        "opb": "Seminoma",
-        "opc": "HCC",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "0858b851-2078-4744-bfb5-31c1c956f30f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Amyloid deposits stain positively with all of the following except-",
-        "exp": "The histologic diagnosis of amyloid is based almost entirely on its staining characteristics. The most commonly used staining technique uses the dye Congo red, which under ordinary light impas a pink or red color to amyloid deposits. Under polarized light the Congo red-stained amyloid shows so- called apple-green birefringence. This reaction is shared by all forms of amyloid and is caused by the crossed b-pleated configuration of amyloid fibrils. Confirmation can be obtained by electron microscopy, which reveals amorphous nonoriented thin fibrils. AA, AL, and ATTR types of amyloid also can be distinguished from one another by specific immunohistochemical staining. Robbins 9 th edition page no. 156",
-        "cop": 3,
-        "opa": "Congo-red",
-        "opb": "Crystal violet",
-        "opc": "Methenamine silver",
-        "opd": "Thioflavin T",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "b00728cd-d319-4957-82e8-477746664233",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about Turner syndrome except",
-        "exp": "Turner syndrome, characterized by primary hypogonadism in phenotypic females, results from paial or complete monosomy of the sho arm of the X chromosome. Turner syndrome include Significant growth retardation, leading to abnormally sho stature (below the third percentile); swelling of the nape of the neck due to distended lymphatic channels (in infancy) that is seen as webbing of the neck in older children; low posterior hairline; cubitus valgus (an increase in the carrying angle of the arms); shieldlike chest with widely spaced nipples; high-arched palate; lymphedema of the hands and feet; a variety of congenital malformations such as horseshoe kidney, bicuspid aoic valve, and coarctation of the aoa. Cardiovascular abnormalities are the most common cause of death in childhood. In adolescence, affected girls fail to develop normal secondary sex characteristics; the genitalia remain infantile, breast development is minimal, little pubic hair appears. Most patients have primary amenorrhea, transformation of the ovaries into white streaks of fibrous stroma devoid of follicles. The mental status is normal (Robbins Basic Pathology, 9th edition, pg no. 240)",
-        "cop": 4,
-        "opa": "Sho stature",
-        "opb": "Webbed neck",
-        "opc": "Dysgenetic gonads",
-        "opd": "True hermaphrodism",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "15bdd8cf-5c7e-4beb-af7a-04c07e50854a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "False statement about amyloidosis is",
-        "exp": "harshmohan textbook of pathology 7th edition. *extracellular deposition of fibrillar insoluble proteinatious substance called amyloid having common morphological appearance, staining propey and physical structures but with variable protein composition.",
-        "cop": 1,
-        "opa": "Made of calcified proteins",
-        "opb": "A complication of chronic infections",
-        "opc": "Associated with extracellular eosinophilic hyaline material",
-        "opd": "Apple green birefringence in polarized light",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "1a799fff-e773-4475-bade-43be85883426",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dystrophic calcification is seen in",
         "exp": "Dystrophic calcification is encountered in areas of necrosis of any type. It is viually inevitable in the atheromas of advanced atherosclerosis, associated with intimal injury in the aoa and large aeries and characterized by the accumulation of lipids. ( Robbins Basic Pathology, 9th edition, page 25 )",
         "cop": 3,
@@ -2533,19 +1922,6 @@
         "topic_name": "General pathology",
         "id": "f3ac3492-769f-47b5-af41-7fc38f95a1ec",
         "choice_type": "single"
-    },
-    {
-        "question": "HER-2/NEU receptor gene mutation is seen in which cancer?",
-        "exp": "Harshmohan textbook of pathology 7th edition. HER 2/ neu is a EGF receptor proto oncogene also called ERB B2 its amplification is associated with cancer of breast, ovary, stomach and lungs..",
-        "cop": 2,
-        "opa": "Squamous cell carcinoma",
-        "opb": "Breast cancer",
-        "opc": "Glioblastoma",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "68c23298-2f31-4313-a676-74b7b17e6c07",
-        "choice_type": "multi"
     },
     {
         "question": "Sweat chloride in cystic fibrosis",
@@ -2574,19 +1950,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Migratory thrombophelibitis is seen in -",
-        "exp": "Robbins and Cotran pathologic basis of disease South Asia edition. migratory thrombophlebitis ( Rousseau syndrom) encountered in association with deep seated cancers most often carcinoma of the pancrpancreas or lung..",
-        "cop": 1,
-        "opa": "Dissaminated cancer",
-        "opb": "Rheumatic heart disease",
-        "opc": "Libman - sacks endocarditis",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "6cdc59ab-8c6e-4383-9be5-58c20432f805",
-        "choice_type": "multi"
-    },
-    {
         "question": "MIC-2 is a marker of -",
         "exp": "Ewing's sarcoma or Ewing sarcoma (/'ju: ING/) is a malignant small, round, blue cell tumor. It is a rare disease in which cancer cells are found in the bone or in soft tissue. The most common areas in which it occurs are the pelvis, the femur, the humerus, the ribs and clavicle (collar bone). Since a common genetic locus is responsible for a large percentage of Ewing's sarcoma and primitive neuroectodermal tumors, these are sometimes grouped together in a category known as the Ewing family of tumors. The diseases are, however, considered to be different: peripheral primitive neuroectodermal tumours are generally not associated with bones, while Ewing sarcomas are most commonly related to bone. Ewing's sarcoma occurs most frequently in teenagers and young adults, with a male/female ratio of 1. 6 Although usually classified as a bone tumour, Ewing's sarcoma can have characteristics of both mesodermal and ectodermal origin, making it difficult to classify. James Ewing (1866-1943) first described the tumour, establishing that the disease was separate from lymphoma and other types of cancer known at that time. CD99 antigen (Cluster of differentiation 99), also known as MIC2 or single-chain type-1 glycoprotein, is a heavily O-glycosylated transmembrane protein that is encoded by the CD99 gene in humans. The protein has a mass of 32 kD. Unusually for a gene present on the X chromosome, the CD99 gene does not undergo X inactivation, and it was the first such pseudoautosomal gene to be discovered in humans.",
         "cop": 1,
@@ -2611,19 +1974,6 @@
         "topic_name": "General pathology",
         "id": "930244c8-02ff-43b7-9259-552fc4ca1379",
         "choice_type": "single"
-    },
-    {
-        "question": "Integrins are associated with all except",
-        "exp": "Rolling is associated with selectins Integrins are associated with adhesion, arrest, transmigration. Robbins 9th /e p 76",
-        "cop": 1,
-        "opa": "Rolling",
-        "opb": "Adhesion",
-        "opc": "Arrest",
-        "opd": "Transmigration of cells",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "8d72fc52-5832-46e7-90e3-17772cce676f",
-        "choice_type": "multi"
     },
     {
         "question": "Which finding on electron microscopy indicates irreversible cell injury?",
@@ -2704,19 +2054,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Acute graft versus host disease reaction occurs in all except -",
-        "exp": "Robbins and Cotran pathologic basis of disease South Asia edition. Graft versus host disease occur in any organ. The major clinical manifestation result from involvement of immune system and epithelia of skin, liver and intestine. Involment of skin manifested as generalised rash. Destruction of the small bile duct gives rise to jaundice and mucosal ulceration of guy result in bloody diarrhoea..",
-        "cop": 2,
-        "opa": "Liver",
-        "opb": "Adrenal",
-        "opc": "Gut",
-        "opd": "Skin",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "83456853-3a65-44de-a3e6-08565d6bdf6e",
-        "choice_type": "multi"
-    },
-    {
         "question": "The following is not a feature of malignant transformation by cultured cells-",
         "exp": "Malignant transformation is the process by which cells acquire the propeies of cancer. This may occur as a primary process in normal tissue, or secondarily as malignant degeneration of a previously existing benign tumor. Causes of malignant transformation There are many causes of primary malignant transformation, or tumorigenesis. Most human cancers in the United States are caused by external factors, and these factors are largely avoidable.",
         "cop": 2,
@@ -2741,32 +2078,6 @@
         "topic_name": "General pathology",
         "id": "c1a01735-62ff-4635-9542-7183126e8bd8",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following is true except -",
-        "exp": "NADPH oxidase (nicotinamide adenine dinucleotide phosphate oxidase) is a membrane-bound enzyme complex that faces the extracellular space Chediak-Higashi syndrome (CHS) is a rare, inherited, complex, immunedisorder that usually occurs in childhood characterized by reduced pigment in the skin and eyes (oculocutaneous albinism), immune deficiency with an increased susceptibility to infections, and a tendency to bruise and bleed easily. Myeloperoxidase (MPO) is a peroxidase enzyme that in humans is encoded by the MPO gene on chromosome 17. MPO is most abundantly expressed in neutrophil granulocytes (a subtype of white blood cells), and produces hypohalous acids to carry out their antimicrobial activity.",
-        "cop": 3,
-        "opa": "NADPH oxidase acts superoxide ions",
-        "opb": "Chediak-Higashi syndrome is due to defective phagolysosome formation",
-        "opc": "In Brutons agammaglobulinemia opsonisation is not elected",
-        "opd": "Myeloperodixase action is mainly due to OCI",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "612a783d-f0d5-40ea-9f05-c58d9aaaa5fd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Interleukin produced characteristically by TH1 -",
-        "exp": "Interleukin-2 (IL-2) is an interleukin, a type of cytokine signaling molecule in the immune system. It is a protein that regulates the activities of white blood cells (leukocytes, often lymphocytes) that are responsible for immunity. IL-2 is pa of the body's natural response to microbial infection, and in discriminating between foreign (\"non-self\") and \"self\". IL-2 mediates its effects by binding to IL-2 receptors, which are expressed by lymphocytes. IL-2 has essential roles in key functions of the immune system, tolerance and immunity, primarily its direct effects on T cells. In the thymus, where T cells mature, it prevents autoimmune diseases by promoting the differentiation of ceain immature T cells into regulatory T cells, which suppress other T cells that are otherwise primed to attack normal healthy cells in the body. IL-2 also promotes the differentiation of T cells into effector T cells and into memory T cells when the initial T cell is also stimulated by an antigen, thus helping the body fight off infections. Its expression and secretion is tightly regulated and functions as pa of both transient positive and negative feedback loops in mounting and dampening immune responses. Through its role in the development of T cell immunologic memory, which depends upon the expansion of the number and function of antigen-selected T cell clones, it plays a key role in enduring cell-mediated immunity",
-        "cop": 1,
-        "opa": "Interleukin 2",
-        "opb": "IL 5",
-        "opc": "ILy",
-        "opd": "INFy",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "68422631-89c5-452b-8154-82686a9ec14e",
-        "choice_type": "multi"
     },
     {
         "question": "Thromboxane A2-",
@@ -2847,19 +2158,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about stem cells-",
-        "exp": "a stem cell is a cell with a unique capacity to produce unaltered daughter cells (self-renewal) and to generate specialized cell types (potency). Stem cells are characterized by two impoant propeies: self-renewal capacity and asymmetric replication As mature cells die, the tissue is replenished by the differentiation of cells generated from stem cells. In human embryo in about 3rd week of development stem cells appear in the yolk sac. ref robbins basic pathology 9th ed page 60",
-        "cop": 1,
-        "opa": "Found in yolk sac",
-        "opb": "Used in gene therapy",
-        "opc": "Terminally matured cells",
-        "opd": "Found in peripheral circulation",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "a1abea9a-e6a4-457d-9fd6-47d4c85c3a07",
-        "choice_type": "multi"
-    },
-    {
         "question": "The tumor suppressor gene p 53 induces cell cycle arrest at -",
         "exp": "Harshmohan textbook of pathology 7th edition. In blocking mitotic activity p53 inhibits the cyclins and CDKs and prevent the cell to enter G1 phase transientally..",
         "cop": 3,
@@ -2912,19 +2210,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Mitochondrial DNA (mt- DNA) is known for all except",
-        "exp": "Mitochondrial DNA is the small circular chromosome found inside mitochondria. These organelles found in cells have often been called the powerhouse of the cell. The mitochondria, and thus mitochondrial DNA, are passed only from mother to offspring through egg cell. In most multicellular organisms, mt. DNA is inherited from the mother (maternally inherited). Mechanisms for this include simple dilution (an egg contains on average 200, 000 mt. DNA molecules, whereas a healthy human sperm was repoed to contain on average 5 molecules ), degradation of sperm mt. DNA in the male genital tract, in the feilized egg, and, at least in a few organisms, failure of sperm mt. DNA to enter the egg. Whatever the mechanism, this single parent (uniparental inheritance) pattern of mt. DNA inheritance is found in most animals, most plants and in fungi as well.",
-        "cop": 4,
-        "opa": "Maternal inheritance",
-        "opb": "Heteroplasmy",
-        "opc": "Leber hereditary optic neuropathy is the prototype",
-        "opd": "Nemaline myopathy results due to mutations in mt- DNA",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "497cbb8e-e8b4-499b-a0a0-9605a10860bd",
-        "choice_type": "multi"
-    },
-    {
         "question": "Nitroblue tetrazolium test is used for-",
         "exp": "This test is done to screen for chronic granulomatous disease. This disorder is passed down in families. In people who have this disease, ceain immune cells do not help protect the body from infections. People who have frequent infections in the bones, skin, joints, lungs, and other pas of the body may have this test don. The chemical NBT is added to the white blood cells in the lab. The cells are then examined under a microscope to see if the chemical has made them turn blue.",
         "cop": 1,
@@ -2936,45 +2221,6 @@
         "topic_name": "General pathology",
         "id": "18e51db6-d3a5-4605-a94a-6aefb7ef2d7e",
         "choice_type": "single"
-    },
-    {
-        "question": "Benzopyrene change to carcinogen in animal occurs due to all except-",
-        "exp": "The detoxification enzymes cytochrome P450 1. A1 (CYP1. A1) and cytochrome P450 1. B1 (CYP1. B1) are both protective and necessary for benzopyrene toxicity. Experiments with strains of mice engineered to remove (knockout) CYP1. A1 and CYP1. B1 reveal that CYP1. A1 primarily acts to protect mammals from low doses of BaP, and that removing this protection accumulates large concentrations of BaP. Unless CYP1. B1 is also knocked out, toxicity results from the bioactivation of BaP to benzopyrene -7, 8-dihydrodiol-9, 10-epoxide, the ultimate toxic compound,. [Cytochrome c is a component of the electron transpo chain in mitochondria. The heme group of cytochrome c accepts electrons from the bc1 complex and transfers electrons to the complex IV. Cytochrome c is also involved in initiation of apoptosis. Upon release of cytochrome c to the cytoplasm, the protein binds apoptotic protease activating factor-1 Cytochrome c can also catalyze several redox reactions such as hydroxylation and aromatic oxidation, and shows peroxidase activity by oxidation of various electron donors such as 2, 2-azino-bis(3-ethylbenzthiazoline-6-sulphonic acid) (ABTS), 2-keto-4-thiomethyl butyric acid and 4-aminoantipyrine. A bacterial cytochrome c functions as a nitrite reductase. [",
-        "cop": 3,
-        "opa": "Epoxide formation",
-        "opb": "p53 activation",
-        "opc": "Cytochrome C activation",
-        "opd": "By inducing metabolism of cyt p450",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "ad3d4816-7750-46cb-8ed7-2307fcb6839c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Basal cell carcinoma commonly spreads by-",
-        "exp": "Harshmohan textbook of pathology 7th edition. even though basal cell carcinoma is a malignant one, it spread to the surrounding tissues, (locally aggressive cutaneous tumour) and that rarely metastasis..",
-        "cop": 3,
-        "opa": "Lymphatics",
-        "opb": "Haematogenous",
-        "opc": "Direct spread",
-        "opd": "All the above",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "7baf6c50-98d7-4ba3-9fa3-82f20192b460",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Enzyme level increases in tissue injury is due to",
-        "exp": "In cell injury, there is increased membrane permeability leading to membrane damage. 1. Mitochondrial membrane damage-decreased ATP production 2. Plasma membrane damage- loss of osmotic balance and influx of ions and fluids. 3. Lysosomal membrane damage results in leakage of enzymes into the cytoplasm and activation of acid hydrolases in the acidic intracellular pH of the injured cell. Lysosomes contain RNases, DNases, proteases, glucosidases and other enzymes. Activation of these enzymes leads to enzymatic digestion of cell components. Refer robbins 9/e p39",
-        "cop": 1,
-        "opa": "Lysis of cell",
-        "opb": "Enzyme secretion",
-        "opc": "No inhibitor in serum",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "298d3631-219f-4656-a6fd-77f4877e7a98",
-        "choice_type": "multi"
     },
     {
         "question": "C in CRP stands for-",
@@ -3107,32 +2353,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following are neoplasms found in patients with HIV infection Except",
-        "exp": "Patients with AIDS have a high incidence of ceain tumors, especially Kaposi sarcoma (KS), B-cell lymphoma, cervical cancer in women, and anal cancer in men. It is estimated that 25% to 40% of untreated HIV-infected individuals will eventually develop a malignancy. A common feature of these tumors is that they are caused by oncogenic DNA viruses, specifically Kaposi sarcoma herpesvirus (Kaposi sarcoma), EBV (B-cell lymphoma), and human papillomavirus (cervical and anal carcinoma). Ref: Robbins and Cotran Pathologic Basis of Disease; 9th edition; Chapter 6; Diseases of the Immune System; Page no: 253",
-        "cop": 4,
-        "opa": "Kaposi sarcoma",
-        "opb": "Primary lymphoma of brain",
-        "opc": "Invasive cancer of uterine cervix",
-        "opd": "Hepatocellular carcinoma",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "3dc4c3d6-492f-4174-8c7f-fe3e4ad7a6b6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Autosomal dominant inheritance",
-        "exp": "Mutations involving single genes follow one of three patterns of inheritance: autosomal dominant, autosomal recessive, or X-linked. Autosomal Dominant Inheritance Familial hypercholesterolemia Polycystic kidney disease Hereditary spherocytosis Marfan syndrome Huntington disease (Robbins Basic Pathology, 9th edition, pg no. 218)",
-        "cop": 1,
-        "opa": "Marfan syndrome",
-        "opb": "Sickle cell anemia",
-        "opc": "Thallesemia",
-        "opd": "Hereditary spherocytosis",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "720fd8b4-e793-49ec-8513-6fe7d9c9d847",
-        "choice_type": "multi"
-    },
-    {
         "question": "Brown atrophy is due to accumulation of",
         "exp": "Lipofuscin, or \"wear-and-tear pigment, \" is an insoluble brownish-yellow granular intracellular material that accumulates in a variety of tissues (paicularly the heart, liver, and brain) as a function of age or atrophy. Lipofuscin is complexes of lipid and protein that derive from the free radical-catalyzed peroxidation of polyunsaturated lipids of subcellular membranes. It is not injurious to the cell but is a marker of past free radical injury. The brown pigment, when present in large amounts, impas an appearance to the tissue that is called brown atrophy. ( Robbins Basic Pathology, 9th edition, page 24 )",
         "cop": 4,
@@ -3144,19 +2364,6 @@
         "topic_name": "General pathology",
         "id": "ac5f85b5-4264-4758-92b9-ccad789ea666",
         "choice_type": "single"
-    },
-    {
-        "question": "Amyloidosis of kidney may be seen in the following except -",
-        "exp": "TEXT BOOK OF PATHOLOGY HARSH MOHAN 6. THEDITION PG NO 86 Secondary/Reactive (AA) Systemic Amyloidosis The second form of systemic or generalised amyloidosis is reactive or inflammatory or secondary in which the fibril proteins contain AA amyloid. Secondary or reactive amyloidosis occurs typically as a complication of chronic infectious (e. g. tuberculosis, bronchiectasis, chronic osteomyelitis, chronic pyelonephritis, leprosy, chronic skin infections), non-infectious chronic inflammatory conditions associated with tissue destruction (e. g. autoimmune disorders such as rheumatoid ahritis, inflammatory bowel disease), some tumours (e. g. renal cell carcinoma, Hodgkin's disease) and in familial Mediterranean fever, an inherited disorder (discussed below). Secondary amyloidosis is typically distributed in solid abdominal viscera like the kidney, liver, spleen and adrenals. Secondary reactive amyloidosis is seen less frequently in developed countries due to containment of infections before they become chronic but this is the more common type of amyloidosis in underdeveloped and developing countries of the world. Secondary systemic amyloidosis can occur at any age including children. AA amyloid occurs spontaneously in some birds and animals; it can also be experimentally induced in animals. <\\p>",
-        "cop": 1,
-        "opa": "Enteric fever",
-        "opb": "Ulcerative colitis",
-        "opc": "Suppurative lung disease",
-        "opd": "Hansen's disease",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "b5312ec0-f672-4417-b41f-7eefbc2aaf26",
-        "choice_type": "multi"
     },
     {
         "question": "In which of following ahritis erosions are not seen -",
@@ -3211,58 +2418,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Toll like receptors are expressed in all Except",
-        "exp": "Toll-like receptors (TLRs) are a class of proteins that play a key role in the innate immune system. They are single, membrane-spanning, non-catalytic receptors usually expressed on sentinel cells such as macrophages and dendritic cells, that recognize structurally conserved molecules derived from microbes. Once these microbes have breached physical barriers such as the skin or intestinal tract mucosa, they are recognized by TLRs, which activate immune cell responses. The TLRs include TLR1, TLR2, TLR3, TLR4, TLR5, TLR6, TLR7, TLR8, TLR9, TLR10, TLR11, TLR12, and TLR13, though the last three are not found in human",
-        "cop": 3,
-        "opa": "Macrophages",
-        "opb": "Dendritic cells",
-        "opc": "B cells",
-        "opd": "T cells",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "5d693d20-c721-4b64-87b0-197d8c564b3d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "HMB 45 is a marker for-",
-        "exp": "Harshmohan textbook of pathology 7th edition. HBM45 is the most specific immunohistochemical stain for melanoma. Sarcomas- immunohistochemical stains like vimentin, desmin. carcinoma- pankeratine..",
-        "cop": 2,
-        "opa": "Sarcoma",
-        "opb": "Melanoma",
-        "opc": "Carcinoma",
-        "opd": "None of the above",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "d2a3683b-5d4f-43b7-b1a5-a8fee90c385f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "If both parents are sickle cell anemia patients then the likelyhood of off springs having the disease is",
-        "exp": "Sickle-cell disease (SCD) is a group of blood disorders typically inherited from a person's parents. The most common type is known as sickle-cell anemia (SCA). It results in an abnormality in the oxygen-carrying protein hemoglobin (hemoglobin S) found in red blood cells. This leads to a rigid, sickle-like shape under ceain circumstances. Problems in sickle cell disease typically begin around 5 to 6 months of age. A number of health problems may develop, such as attacks of pain (\"sickle-cell crisis\"), anemia, swelling in the hands and feet, bacterial infections, and stroke. Long term pain may develop as people get older. The average life expectancy in the developed world is 40 to 60 years. Sickle-cell disease occurs when a person inherits two abnormal copies of the hemoglobin gene, one from each parent. This gene occurs in chromosome 11. Several subtypes exist, depending on the exact mutation in each hemoglobin gene.] An attack can be set off by temperature changes, stress, dehydration, and high altitude. A person with a single abnormal copy does not usually have symptoms and is said to have sickle-cell trait. Such people are also referred to as carriers. Diagnosis is by a blood test and some countries test all babies at bih for the disease. Diagnosis is also possible during pregnancy. Refer robbins 9/e p413",
-        "cop": 4,
-        "opa": "10%",
-        "opb": "25%",
-        "opc": "50%",
-        "opd": "100%",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "827c6ab7-6f05-4477-8a4c-796c00265e28",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Migratory superficial thrombophlebitis is seen in-",
-        "exp": "Thrombophlebitis is phlebitis or vein inflammation related to a thrombus, which is a blood clot. When it occurs repeatedly in different locations, it is known as thrombophlebitis migrans, (migrating thrombophlebitis) indicated by the Trousseau sign of malignancy. Pancreatic cancer arises when cells in the pancreas, a glandular organ behind the stomach, begin to multiply out of control and form a mass. These cancerous cells have the ability to invade other pas of the body. There are a number of types of pancreatic cancer. The most common, pancreatic adenocarcinoma, accounts for about 85% of cases, and the term \"pancreatic cancer\" is sometimes used to refer only to that type. These adenocarcinomas sta within the pa of the pancreas which makes digestive enzymes. Several other types of cancer, which collectively represent the majority of the non-adenocarcinomas, can also arise from these cells. One to two percent of cases of pancreatic cancer are neuroendocrine tumors, which arise from the hormone-producing cells of the pancreas. These are generally less aggressive than pancreatic adenocarcinoma",
-        "cop": 1,
-        "opa": "Carcinoma pancreas",
-        "opb": "Astrocytoma",
-        "opc": "Renal carcinoma",
-        "opd": "All",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "c67d3c79-49bd-41c5-8b45-0efafd09eb4c",
-        "choice_type": "multi"
-    },
-    {
         "question": "DNA repair defect is associated",
         "exp": "Robbins basic pathology 9th edition page no 197, The basis of this disorder is DNA repair such dna damage is prevented by nucleotide excision repair system, and an inherited loss of any one of these can give rise to xeroderma pigmentosum",
         "cop": 1,
@@ -3315,32 +2470,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Both antibody dependent and independent complement pathway converge on which complement component-",
-        "exp": "The complement proteins can be activated by 3 pathways; classical, lectin and alternate pathways the terminal pathway that is common to all pathways of the complement system leads to the formation of membrane attack complex consists of factors C5, C6, C7, C8 and C9 (C5b6789). ref robbins 9th/e p 50-51",
-        "cop": 2,
-        "opa": "C3",
-        "opb": "C5",
-        "opc": "C4",
-        "opd": "C8",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "0525a968-325b-4ab6-9488-331eb0f60f31",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement about p53 are all except",
-        "exp": "TP53 Transcription factor; Has propeies of both an oncogene and a tumour suppressor gene Small arm of Chr 17 (17p13. 1) Protein product: p53 \"Guardian of the genome\"; \"molecular policeman\"; critical gatekeeper Li Fraumeni syndrome - Hereditary loss an allele Ca lung, colon, breast LOF mutation of TP53 - MC mutation in >50% cancers",
-        "cop": 3,
-        "opa": "It regulates ceain genes involved in cell cycle",
-        "opb": "Its increased levels can induce apoptosis",
-        "opc": "Its activity in cells decrease following UV radiation & stimulates cell cycle",
-        "opd": "Mutations in p53 are the MC genetic alterations seen in human cancer",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "89901d66-4503-4b58-89fa-825fd6c05cb2",
-        "choice_type": "multi"
-    },
-    {
         "question": "An oval lesion is found in the right lobe of the liver in an otherwise asymptomatic 24-year-old female. Surgical resection finds a single welldemarcated lesion that has a prominent, central, stellate white scar. This gross appearance is most consistent with a diagnosis of",
         "exp": "Neoplasms of the liver, either benign or malignant, have characteristic microscopic or gross appearances. Benign tumors of the liver include hemangiomas (the most common), focal nodular hyperplasias, nodular regenerative hyperplasias, and adenomas. Hemangiomas are characterized by numerous small endotheliallined spaces filled with blood. The lack of erythrocytes or blood would raise the possibility of the lesion being a lymphangioma, while pleomorphic or atypical endothelial cells would suggest the possibility of an angiosarcoma. Focal nodular hyperplasia, which has a characteristic gross appearance of a central stellate scar within the tumor, microscopically reveals hepatic nodules surrounded by fibrous bands having numerous proliferating bile ducts. This type of tumor is related to bih-control pills, but has no association with malignancy. In contrast, nodular regenerative hyperplasia involves the entire liver and forms multiple spherical nodules. Histologic sections reveal plump hepatocytes surrounded by rims of atrophic cells. Nodular regenerative hyperplasia is clinically impoant because it is associated with the subsequent development of poal hypertension. Two types of hepatic adenomas are the liver cell adenoma and the bile duct adenoma. Liver cell adenomas are seen in female patients taking bih-control pills. These adenomas may bleed, but are not associated with malignancy. Histologically, cords of hepatocytes are present, but there is no lobular architecture. Reference: Robbins & Cotran Pathologic Basis of Disease, 9edition",
         "cop": 2,
@@ -3365,19 +2494,6 @@
         "topic_name": "General pathology",
         "id": "699b103c-d12f-4e87-be4c-c776afe855f2",
         "choice_type": "single"
-    },
-    {
-        "question": "All are cardinal signs of inflammation expect",
-        "exp": "Cardinal signs of acute infalmation arewarmth: due to vascular dilation. Erythema: due to vasular dilation &congestion. Edema: due to increased vascular leak. Pain: due to mediator release sign. Robbins 9th edition p71",
-        "cop": 3,
-        "opa": "Pain",
-        "opb": "Swelling",
-        "opc": "Cynosis",
-        "opd": "Redness",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "ff4dcf77-2980-4a78-9272-9f2d6d51e9cb",
-        "choice_type": "multi"
     },
     {
         "question": "Chromosome on ABO blood group is",
@@ -3432,19 +2548,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Actions of bradykinin include all of the following, except",
-        "exp": "ref robbins 9th ed pg90 Functions of bradykinin contraction of smooth muscle pain dilatation of the venules Reaction of Inflammation Principal mediators vasodilation histamine, prostaglandins Increased vascular permeability histamine and serotonin; C3a, C5a; leukotrienes C4, D4, E4; bradykinin pain prostaglandins and bradykinin",
-        "cop": 2,
-        "opa": "Vasodilatation",
-        "opb": "Bronchodilatation",
-        "opc": "Increased vascular permeability",
-        "opd": "Pain",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "24b24a18-6008-4d00-94ed-5f641ca0a53f",
-        "choice_type": "multi"
-    },
-    {
         "question": "White infact is seen in -",
         "exp": "White infarcts occur with aerial occlusions in solid organs with end-aerial circulations (e. g., heart, spleen, and kidney), and where tissue density limits the seepage of blood from adjoining patent vascular beds. Infarcts tend to be wedge-shaped, with the occluded vessel at the apex and the organ periphery forming the base; when the base is a serosal surface, there is often an overlying fibrinous exudate. The margins of acute infarcts typically are indistinct and slightly hemorrhagic; with time, the edges become better defined by a narrow rim of hyperemia attributable to inflammation. ( Robbins Basic Pathology, 9 th edition, page 92)",
         "cop": 3,
@@ -3456,19 +2559,6 @@
         "topic_name": "General pathology",
         "id": "7f3f82ab-ba93-4758-a536-dd5769d00ef2",
         "choice_type": "single"
-    },
-    {
-        "question": "S 100 is a marker of?-",
-        "exp": "Harshmohan textbook of pathology 7th edition. immunohistochemical stain for melanoma, schwannoma, histiocytoma is S 100..",
-        "cop": 4,
-        "opa": "Melanoma",
-        "opb": "Schwannoma",
-        "opc": "Histiocytoma",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "87252f31-d4f0-4cad-88c8-3fb6adf681a5",
-        "choice_type": "multi"
     },
     {
         "question": "The commonest primary immunodeficiency is",
@@ -3523,32 +2613,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What is most common cause of death in amyloidosis?",
-        "exp": "Heart. Amyloidosis of the heart may occur either as isolated organ involvement or as pa of a systemic distribution. When accompanied by systemic involvement, it is usually of the AL form. The isolated form (senile amyloidosis) usually is confined to older persons. The deposits may not be evident on gross examination, or they may cause minimal to moderate cardiac enlargement. The most characteristic gross findings are gray-pink, dewdrop-like subendocardial elevations, paicularly evident in the atrial chambers. On histologic examination, deposits typically are found throughout the myocardium, beginning between myocardial fibers and eventually causing their pressure atrophy Robbins 9 th edition page no. 157",
-        "cop": 1,
-        "opa": "Cardiac failure",
-        "opb": "Renal failure",
-        "opc": "Sepsis",
-        "opd": "None",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "f3aa055f-9fd0-4a3a-9b47-9b2410431077",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Oedema is caused by fall in plasma proteins below -",
-        "exp": "Edema may be caused by: increased hydrostatic pressure (e. g., heart failure) increased vascular permeability (e. g., inflammation) decreased colloid osmotic pressure, due to reduced plasma albumin decreased synthesis (e. g., liver disease, protein malnutrition) increased loss (e. g., nephrotic syndrome) lymphatic obstruction (e. g., inflammation or neoplasia). sodium retention (e. g., renal failure) ( Robbins Basic Pathology, 9 th edition, )",
-        "cop": 2,
-        "opa": "0. 50%",
-        "opb": "5%",
-        "opc": "15%",
-        "opd": "50%",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "3ae2e738-a334-4e94-b75b-0841337a9bc2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Immunological reaction against transplanted organ is mediated by-",
         "exp": "Reference: Robbins basic pathology 9th edition pg no: 137: Cytotoxic T cell in the grafted tissue cause parenchymal and endothelial cell death. cytokine secreting CD 4+ tell trigger inflammatory reaction",
         "cop": 3,
@@ -3575,19 +2639,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is not true regarding super-antigens-",
-        "exp": "Reference: Robbins basic pathology 9th edition pg 110: An additional group of secreted bacterial proteins called superantigens also cause a syndrome similar to septic shock (e. g., toxic shock syndrome). Superantigens are polyclonal T-lymphocyte activators that induce T cells to release high levels of cytokines, which in turn results in a variety of clinical manifestations, ranging from a diffuse rash to vaso- dilation, hypotension, and death.",
-        "cop": 3,
-        "opa": "Bind T cells irrespective of antigen specificity of TCR",
-        "opb": "Bind directly to both MHC II and T cell receptor causing T cell activation",
-        "opc": "Bind to cleft (or antigen binding groove) in the MHC H molecule",
-        "opd": "Binds directly to lateral aspect of T cell receptor",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "0b769b8a-8276-43a0-b026-d923651fac55",
-        "choice_type": "multi"
-    },
-    {
         "question": "Squamous cell carcinoma marker is-",
         "exp": "Harshmohan textbook of pathology 7th edition. *epithelial tumor: immunostains used are pankeratin, epithelial membrane antigen, carcinoembrionic antigen, neuron specific enolase. *mesenchymal tumors: immunostains used are vimentin, desmin, muscle specific actin.",
         "cop": 2,
@@ -3599,19 +2650,6 @@
         "topic_name": "General pathology",
         "id": "772236e2-ddb7-4514-b172-5ad2b6bab108",
         "choice_type": "single"
-    },
-    {
-        "question": "Chediak Higashi syndrome is characterised by the following except -",
-        "exp": "ananthanarayanan textbook of microbiology 9th edition. *chediak Higashi syndrome is an immunodeficiency disease in which leukocytes posses diminished phagocytic activity. it is a genetic disease characterised by decreased pigmentation of skin, eyes and hair and giant peroxidise positive inclusion in the cytoplasm of leukocytes",
-        "cop": 1,
-        "opa": "Neutrophilia",
-        "opb": "Defective degranulation",
-        "opc": "Delayed microbial killing",
-        "opd": "Giant granules",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "d86dfbfa-f557-4f64-916e-da0e55735aa2",
-        "choice_type": "multi"
     },
     {
         "question": "Which is not seen in inflammatory stage of wound healing?",
@@ -3638,19 +2676,6 @@
         "topic_name": "General pathology",
         "id": "44722189-ef5c-4ed8-b93f-1fb3eca0987c",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are tumour markers, except -",
-        "exp": "Tumor marker Associated tumor types Alpha fetoprotein (AFP) germ cell tumor, hepatocellular carcinoma but may also be elevated in for example endometrial cancer, fallopian tube cancer, lung cancer, breast cancer and gastrointestinal cancer. CD34 hemangiopericytoma/solitary fibrous tumor, pleomorphic lipoma, gastrointestinal stromal tumor, dermatofibrosarcoma protuberans CD99. MIC 2 Ewing sarcoma, primitive neuroectodermal tumor, hemangiopericytoma/solitary fibrous tumor, synol sarcoma, lymphoma, leukemia, sex cord-gonadal stromal tumour Chromogranin neuroendocrine tumor Epithelial membrane antigen (EMA) many types of carcinoma, meningioma, some types of sarcoma Gross cystic disease fluid protein (GCDFP-15) breast cancer, ovarian cancer, salivary gland cancer HMB-45 melanoma, PEComa (for example angiomyolipoma), clear cell carcinoma, adrenocoical carcinoma Human chorionic gonadotropin (h. CG) gestational trophoblastic disease, germ cell tumor, choriocarcinoma keratin (various types) carcinoma, some types of sarcoma Myo D1 rhabdomyosarcoma, small, round, blue cell tumour muscle-specific actin (MSA) myosarcoma (leiomyosarcoma, rhabdomyosarcoma) neurofilament neuroendocrine tumor, small-cell carcinoma of the lung placental alkaline phosphatase (PLAP) seminoma, dysgerminoma, embryonal carcinoma thyroid transcription factor-1 (TTF-1) all types of thyroid cancer, lung cancer Tumor M2-PK colorectal cancer, Breast cancer, Lung cancer, Pancreatic cancer, Esophageal Cancer, [ Stomach Cancer, Cervical Cancer, Ovarian Cancer, vimentin sarcoma, renal cell carcinoma, endometrial cancer, lung carcinoma, lymphoma, leukemia, melanoma[",
-        "cop": 1,
-        "opa": "None",
-        "opb": "HCG",
-        "opc": "a-feto protein",
-        "opd": "CEA",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "e90fb9cc-a852-4b1d-94ad-2c74b75d2cfc",
-        "choice_type": "multi"
     },
     {
         "question": "A 65 years old male diagnosed by biopsy a case of lung carcinoma, with paraneoplastic syndrome and increased PTH. Probable cause is-",
@@ -3692,19 +2717,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are cellular adaptations except",
-        "exp": "Adaptations are reversible changes in the number, size, phenotype, metabolic activity, or functions of cells in response to changes in their environment. Hyperophy is an increase in the size of cells resulting in the increase in the size of the organ. Hyperplasia is characterized by an increase in cell number because of the proliferation of differentiated cells and replacement by tissue stem cells. Shrinkage in the size of the cell by the loss of cell substance is known as atrophy. Metaplasia is a reversible change in which one adult cell type (epithelial or mesenchymal) is replaced by another adult cell type( Robbins Basic Pathology, 9th edition, page 3 )",
-        "cop": 3,
-        "opa": "Hyperophy",
-        "opb": "Hyperplasia",
-        "opc": "Necrosis",
-        "opd": "Metaplasia",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "ed54c242-140b-4ec2-9a7b-732891fdfc77",
-        "choice_type": "multi"
-    },
-    {
         "question": "BRAF mutation is seen in",
         "exp": "BRAF mutation Ser/Thre protein kinase Belongs to MAPK family HCL, melanoma, benign nevi, ca colon",
         "cop": 3,
@@ -3716,19 +2728,6 @@
         "topic_name": "General pathology",
         "id": "77e0e39a-44bb-4fc5-855a-82a9efb7a9cc",
         "choice_type": "single"
-    },
-    {
-        "question": "Following is called \"Governor of proliferation\"",
-        "exp": "The retinoblastoma (Rb) gene First discovered TSG On chr locus 13q14 Gene product: RB protein Inactivation - first discovered in Retinoblastoma Familial/Hereditary (40%) Sporadic Key negative regulator of G1/S transition \"Governor of proliferation\"",
-        "cop": 1,
-        "opa": "RB",
-        "opb": "TP53",
-        "opc": "APC",
-        "opd": "Patched",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "5990af3b-3688-4586-a554-d1ca77fc29cd",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not compatible with a diagnosis of juvenile myelomonocytic leukemia",
@@ -3822,19 +2821,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is activated for nuclear fragmentation in apoptosis?",
-        "exp": "Mitochondria contain several proteins that are capable of inducing apoptosis; these proteins include cytochrome c and other proteins that neutralize endogenous inhibitors ofapoptosis. Cytochrome c, together with some cofactors, activates caspase-9. Other proteins that leak out of mitochondria block the activities of caspase antagonists that function as physiologic inhibitors of apoptosis. The net result is the activation of the caspase cascade, ultimately leading to nuclear fragmentation. ( Robbins Basic Pathology, 9th edition, page 19 )",
-        "cop": 1,
-        "opa": "Caspases",
-        "opb": "Apaf-1",
-        "opc": "Oxygen free radicals",
-        "opd": "None",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "1d3c3cb7-eab4-482d-8ab5-1df4ca142b83",
-        "choice_type": "multi"
-    },
-    {
         "question": "Growth factor oncogen is -",
         "exp": "Harshmohan textbook of pathology 7th edition. growth factor oncogene 1. SIS - PDGF beta 2. RAS - TGF alpha 3. HST 1, INT 2- FGF 4. HGF- c MET. MYC proto oncogene produces nuclear transcription factor..",
         "cop": 3,
@@ -3926,32 +2912,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Epigenetics deals with genetic modification that do not alter the sequence of DNA. All of the following can detect epigenetic modifications except",
-        "exp": "Methods to detect epigenetic modifications Sequencing Chip on chip (Microarray) Using Methylation specific primers in PCR Bisulphite method: Bisulphite conves unmethylated cytosine to uracil. This can be detected by sequence analysis.",
-        "cop": 3,
-        "opa": "Chip on chip",
-        "opb": "Bisulphite method",
-        "opc": "HPLC",
-        "opd": "Methylation specific PCR",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "af755932-c9dc-4e8c-99cc-52deaa612ef8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Cause for caseous necrosis in TB is",
-        "exp": "Caseous necrosis is seen in tuberculosis and systemic fungal infections (like histoplasmosis) because of the presence of high lipid content in the cell wall in these organisms. So, there is cheese like appearance of the necrotic material ref robbins basic pathology 9th ed page 10",
-        "cop": 3,
-        "opa": "Hydrolytic enzymes",
-        "opb": "Mycolic acid",
-        "opc": "High lipid content",
-        "opd": "Hydrophobic changes by bacterial wall",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "300e06c7-d250-47bd-87be-edeb04222652",
-        "choice_type": "multi"
-    },
-    {
         "question": "Myocardial infarction shows fibrosis. What is the duration?",
         "exp": "Fibrosis after MI sets in by 5 days. Basic Pathology, Robbins. Page no.: 380",
         "cop": 2,
@@ -3976,19 +2936,6 @@
         "topic_name": "General pathology",
         "id": "0c605814-1436-4705-9dfc-860bf9f8ed22",
         "choice_type": "single"
-    },
-    {
-        "question": "Regarding severe combined immunodeficiency, which is true?",
-        "exp": "Severe combined immunodeficiency Constellation of genetically distinct syndromes Defects in both humoral & cell-mediated immune response MC form - XLR - so more in males; mutation in g chain subunit of cytokine receptors Remaining - AR; deficiency of enzyme ADA",
-        "cop": 1,
-        "opa": "Adenosine deaminase deficiency",
-        "opb": "Decreased circulating lymphocytes",
-        "opc": "NADPH oxidase deficiency",
-        "opd": "C1 esterase deficiency",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "3ad0ab7d-c677-451f-b8b0-7633c52ed994",
-        "choice_type": "multi"
     },
     {
         "question": "A 35 year old lady complains of dysphagia, Raynaud's phenomenon and her hands show the following appearance. Investigations show positive ANA. The likely diagnosis is",
@@ -4030,32 +2977,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about MHC-class -",
-        "exp": "The major histocompatibility complex (MHC) is a set of cell surface proteins essential for the acquired immune system to recognize foreign molecules in veebrates, which in turn determines histocompatibility. The main function of MHC molecules is to bind to antigens derived from pathogens and display them on the cell surface for recognition by the appropriate T-cells. MHC molecules mediate interactions of leukocytes, also called white blood cells (WBCs), which are immune cells, with other leukocytes or with body cells. The MHC determines compatibility of donors for organ transplant, as well as one's susceptibility to an autoimmune disease crossreacting immunization. The human MHC is also called the HLA (human leukocyte antigen) complex (often just the HLA). The mouse MHC is called the H-2 complex or H-2. In a cell, protein molecules of the host's own phenotype or of other biologic entities are continually synthesized and degraded. Each MHC molecule on the cell surface displays a molecular fraction of a protein, called an epitope. The presented antigen can be either self or non-self, thus preventing an organism's immune system targeting its own cells. In its entirety, the MHC population is like a meter indicating the balance of proteins within the cell. The MHC gene family is divided into three subgroups: class I, class II, and class III. Class I MHC molecules have b2 subunits so can only be recognised by CD8 co-receptors. Class II MHC molecules have b1 and b2 subunits and can be recognised by CD4 co-receptors. In this way MHC molecules chaperone which type of lymphocytes may bind to the given antigen with high affinity, since different lymphocytes express different TCR co-receptors. Diversity of antigen presentation, mediated by MHC classes I and II, is attained in at least three ways: (1) an organism's MHC repeoire is polygenic ( multiple, interacting genes); (2) MHC expression is codominant (from both sets of inherited alleles); MHC gene variants are highly polymorphic (diversely varying from organism to organism within a species). Major histocompatibility complex and sexual selection has been observed in male mice making mate choices of females with different MHCs and thus demonstrating sexual selection. Also, at least for MHC I presentation, there has been evidence of antigenic peptide splicing which can combine peptides from different proteins, vastly increasing antigen diversity. [",
-        "cop": 1,
-        "opa": "Not involved in innate immunity",
-        "opb": "Cytotoxic T-cell involved",
-        "opc": "Present in nucleated cells",
-        "opd": "Present in B-Cells",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "2b5c4020-e147-456d-8255-1f7a6eaf34d0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Oncocytes are found in all except",
-        "exp": "An oncocyte is an epithelial cell characterized by an excessive number of mitochondria, resulting in an abundant acidophilic, granular cytoplasm. Oncocytes can be benign or malignant. Ref Robbins 9/e endocrine chapter",
-        "cop": 4,
-        "opa": "Thyroid",
-        "opb": "Pancreas",
-        "opc": "Pituitary",
-        "opd": "Pineal gland",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "e1f78f37-2c6f-47dc-917c-a2d7fda10e9a",
-        "choice_type": "multi"
-    },
-    {
         "question": "In which of the following malignacies histological Grade is a good prognostic indicator?",
         "exp": "Heterogenous group of rare malignant tumours. Combining histological parameters-no of mitosis per eyefield, presence of necrosisi. Cellular and nuclear morphology. Tumour differentiation and neurotic index. Assess the risk of metastasis.",
         "cop": 1,
@@ -4080,19 +3001,6 @@
         "topic_name": "General pathology",
         "id": "3e43e0e8-842d-4a1d-9e6b-9fef8ea6b891",
         "choice_type": "single"
-    },
-    {
-        "question": "True about senile systemic amyloidosis -",
-        "exp": "Amyloid of Aging Several well-documented forms of amyloid deposition occur with aging. Senile systemic amyloidosis refers to the systemic deposition of amyloid in elderly persons (usually in their 70s and 80s). Because of the dominant involvement and related dysfunction of the heart (typically manifesting as a restrictive cardiomyopathy and arrhythmias), this form also is called senile cardiac amyloidosis. The amyloid in this form is composed of normal transthyretin. In addition, another form typically affecting only the heart results from the deposition of a mutant form of TTR. Approximately 4%of the black population in the United States are carriers of the mutant allele, and cardiomyopathy has been identified in both homozygous and heterozygous patients.",
-        "cop": 4,
-        "opa": "Systemic involvement present",
-        "opb": "amyloid",
-        "opc": "AA amyloid",
-        "opd": "transthyretin",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "7049062a-70c3-4cb2-b199-99bea31ebd8b",
-        "choice_type": "multi"
     },
     {
         "question": "CD marker of Cytotoxic T Cell Marker is?",
@@ -4134,32 +3042,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are precancerous except -",
-        "exp": "Robbins basic pathology 9th edition page no 857, Heading=Verrucea Verrucea are caused by human papilloma virus. Some members of the HPV family are associated with preneoplastic and invasive cancers of anigenital region. In contrast with HPV associated carcinomas, most was are caused by low risk HPV subtypes that lack transforming potantial.",
-        "cop": 2,
-        "opa": "Lichen planus",
-        "opb": "Verrucous carcinoma",
-        "opc": "Submucous fibrosis",
-        "opd": "Leukoplakia",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "975ebb3a-4d20-4fc6-b388-ee68d9e73032",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All the following are characteristic of Turner Syndrome EXCEPT",
-        "exp": "Turner syndrome include Significant growth retardation, leading to abnormally sho stature (below the third percentile); swelling of the nape of the neck due to distended lymphatic channels (in infancy) that is seen as webbing of the neck in older children; low posterior hairline; cubitus valgus (an increase in the carrying angle of the arms); shieldlike chest with widely spaced nipples; high-arched palate; lymphedema of the hands and feet; a variety of congenital malformations such as horseshoe kidney, bicuspid aoic valve, and coarctation of the aoa. Cardiovascular abnormalities are the most common cause of death in childhood. In adolescence, affected girls fail to develop normal secondary sex characteristics; the genitalia remain infantile, breast development is minimal, little pubic hair appears. Most patients have primary amenorrhea, transformation of the ovaries into white streaks of fibrous stroma devoid of follicles. The mental status is normal Umbilical hernia is not a complication of Turner's syndrome (Robbins Basic Pathology, 9th edition, pg no. 240)",
-        "cop": 3,
-        "opa": "Webbing of Neck",
-        "opb": "Cubitus valgus",
-        "opc": "Umbilical Hernia",
-        "opd": "Coarctation of Aoa",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "af9d71c2-f300-4915-b775-38c14ff37d68",
-        "choice_type": "multi"
-    },
-    {
         "question": "Ectopic rest of normal tissue is known as-",
         "exp": "Choristomas, forms of heterotopia, are closely related benign tumors, found in abnormal locations. The two can be differentiated as follows: a hamaoma is an excess of normal tissue in a normal situation (e. g. a bihmark on the skin), while a choristoma is an excess of tissue in an abnormal situation (e. g. pancreatic tissue in the duodenum).",
         "cop": 1,
@@ -4171,19 +3053,6 @@
         "topic_name": "General pathology",
         "id": "49901c0a-8d44-4255-a860-384605867bbe",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are autoimmune disease except?",
-        "exp": "Robbins basic pathology 6th edition. Chapter Red cells and bleeding disorders. page no. 611.. sickle cell disease is a hereditary hemoglobinopathy, occuring due to mutation in beta globin chain. while all others are autoimmne diseases. so, answer is option 4.",
-        "cop": 4,
-        "opa": "SLE",
-        "opb": "Grave's disease",
-        "opc": "Myasthenia gravis",
-        "opd": "Sickle cell disease",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "a0a39b3a-0831-4e21-91d6-f502622ebca1",
-        "choice_type": "multi"
     },
     {
         "question": "A 55 years male presented with dry mouth, & rheumatoid ahritis with high titre of anti SS-A and SS-B antibodies, diagnosed a case of minor salivary gland tumour. The earliest histologic finding in -",
@@ -4238,19 +3107,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are inhibitors of cell cycle except-",
-        "exp": "The protein encoded by this gene is a member of the cyclin-dependent kinase family of Ser/Thr protein kinases. This protein kinase is highly similar to the gene products of S. cerevisiae cdc28, and S. pombe cdc2, also known as Cdk1 in humans. It is a catalytic subunit of the cyclin-dependent kinase complex, whose activity is restricted to the G1-S phase of the cell cycle, and is essential for the G1/S transition. This protein associates with and is regulated by the regulatory subunits of the complex including cyclin E or A. Cyclin E binds G1 phase Cdk2, which is required for the transition from G1 to S phase while binding with Cyclin A is required to progress through the S phase. Its activity is also regulated by phosphorylation. Two alternatively spliced variants and multiple transcription initiation sites of this gene have been repoed. The role of this protein in G1-S transition has been recently questioned as cells lacking Cdk2 are repoed to have no problem during this transition.",
-        "cop": 4,
-        "opa": "P21",
-        "opb": "P 27",
-        "opc": "pl61 NKa4",
-        "opd": "CDK2",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "4c6d8d6e-75a6-4674-bab9-fc2d51acc8ce",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 35-year-old lady complains of dysphagia, Raynaud's phenomenon and her hands show the following appearance. Investigations show positive ANA. The likely diagnosis is",
         "exp": "Systemic sclerosis. The chronic disease is characterized by: 1. c/c inflammation, d/t autoimmunity2. Widespread damage to small blood vessels. Progressive interstitial & perivascular fibrosis in skin & multiple organs. Reference: Harrison&; s principles of Internal Medicine; 19th edition",
         "cop": 2,
@@ -4303,32 +3159,6 @@
         "choice_type": "single"
     },
     {
-        "question": "When leukocytes are arranged along the endothelium of blood vessels it is called-",
-        "exp": "The process of leukocyte accumulation at periphery of vessels is called margination. Leukocyte-Endothelial Interactions This is called margination of leukocytes. Next the leukocytes begin rolling along the surface of the endothelium within the blood vessel and finally they line-up along the vascular endothelium mediated by selectins Pathology, Robbins. Page no.: 35",
-        "cop": 3,
-        "opa": "Diapedesis",
-        "opb": "Adhesion",
-        "opc": "Margination",
-        "opd": "Chemotaxis",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "b870588f-3f00-44fa-b0c4-c4b2725ed8d0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "ANA (antinuclear antibody) is seen in all except-",
-        "exp": "harshmohan textbook of pathology 7th edition. *in SLE ANA present in 90%of cases and are used as screening test. *in systemic sclerosis ANA detected in majority of cases. *sjogren' s syndrome presence of ANA in 90%cases. *in rheumatoid ahritis anti CCP antibodies for evaluation of association of RA factor with HLA",
-        "cop": 2,
-        "opa": "SLE",
-        "opb": "RA",
-        "opc": "Sjogren's syndrome",
-        "opd": "Systemic sclerosis",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "91dc5d07-9df3-4889-a862-2470b2bf2a2b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not a genetic cause of Hypercoagulability?",
         "exp": "Hypercoagulable States. Primary (Genetic). Secondary (Acquired). Common. Factor V mutation. Prothrombin mutation. Increased levels of factors VIII, IX, XI, or fibrinogen. High Risk for Thrombosis. Prolonged bed rest or immobilization. Myocardial infarction. Atrial fibrillation. Tissue injury (surgery, fracture, burn). Cancer. Prosthetic cardiac valves. Disseminated intravascular coagulation. Heparin-induced thrombocytopenia. Antiphospholipid antibody syndrome. Rare. Antithrombin III deficiency. Protein C deficiency. Protein S deficiency. Lower Risk for Thrombosis. Cardiomyopathy. Nephrotic syndrome. Hyperestrogenic states (pregnancy and postpaum). Oral contraceptive use. Sickle cell anemia. Smoking. Very Rare. Fibrinolysis defects. Homozygous homocystinuria. Ref: Robbins and Cotran Pathologic Basis of Pathologic Disease; 9th edition; Chapter 4; Hemodynamic Disorders, Thromboembolic Disease, and Shock; Page no: 123; Table 4-2",
         "cop": 3,
@@ -4355,45 +3185,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All endothelial cells produce thrombomodulin except those found in-",
-        "exp": "Thrombomodulin (TM), CD141 or BDCA-3 is an integral membrane protein expressed on the surface of endothelial cells and serves as a cofactor for thrombin. It reduces blood coagulation by conveing thrombin to an anticoagulant enzyme from a procoagulant enzyme. Thrombomodulin is also expressed on human mesothelial cell, monocyte and a dendritic cell subset. Thrombomodulin functions as a cofactor in the thrombin-induced activation of protein C in the anticoagulant pathway by forming a 1: 1 stoichiometric complex with thrombin. This raises the speed of protein C activation thousandfold. Thrombomodulin-bound thrombin has procoagulant effect at the same time by inhibiting fibrinolysis by cleaving thrombin-activatable fibrinolysis inhibitor (TAFI, aka carboxypeptidase B2) into its active form. Thrombomodulin is a glycoprotein on the surface of endothelial cells that, in addition to binding thrombin, regulates C3b inactivation by factor I. Mutations in the thrombomodulin gene (THBD) have also been repoed to be associated with atypical hemolytic-uremic syndrome (a. HUS). The antigen described as BDCA-3 has turned out to be identical to thrombomodulin. Thus, it was revealed that this molecule on a very rare (0. 02%) subset of human dendritic cells called MDC2. Its function on these cells is unknown.",
-        "cop": 3,
-        "opa": "Hepatic circulation",
-        "opb": "Cutaneous circulation",
-        "opc": "Cerebral microcirculation",
-        "opd": "Renal circulation",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "c11d62e3-d564-4eb3-bb87-865f1eaf644c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following are spontaneous resolution tumours except -",
-        "exp": "A cancer that stas in the bone. In the ends of bone where new bone forms as the person grows. Thigh, upper arm, shin are the common sites.",
-        "cop": 2,
-        "opa": "Malignant melanoma",
-        "opb": "Osteogenic sarcoma",
-        "opc": "Cholangio carcinoma",
-        "opd": "Retinoblastoma",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "310f75c0-6bde-47cb-9073-274c3efea8b1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All the following receptors play a role in phagocytosis EXCEPT-",
-        "exp": "Robbins and Cotran pathologic basis of disease South Asia edition. *phagocytic receptors -mannose receptors, scavenger receptors and receptors for various opsonins bone and ingest microbes",
-        "cop": 3,
-        "opa": "Mannose",
-        "opb": "Scavenger",
-        "opc": "G protein coupled receptor",
-        "opd": "Receptors for opsonins",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "f8ccc6fb-9431-45bc-84f2-ce84214f431b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Two siblings with ostegenesis imperfect, but their parents are normal. Mechanism of inheritance Is",
         "exp": "Germline mosaicism, also called gonadal mosaicism, is a type of genetic mosaicism where more than one set of genetic information is found specifically within the gamete cells. Somatic mosaicism, a type of genetic mosaicism found in somatic cells, and germline mosaicism can be present at the same time or individually depending on when the conditions occur. When the mosaicism is only found in the gametes and not in any somatic cells, it is referred to as pure germline mosaicism. Germline mosaicism can be caused either by a mutation that occurs after conception, or by epigenetic regulation, alterations to DNA such as methylation that do not involve changes in the DNA coding sequence. A mutation in an allele acquired by a somatic cell early in its development can be passed on to its daughter cells, including those that later specialize to gametes. It can also be caused by a sporadic mutation in a gamete cell. If the germline mosaicism causing mutation occurs in the somatic cell, it never results in pure germline mosaicism because it will be present in somatic cells as well.",
         "cop": 3,
@@ -4407,19 +3198,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are B cell marker except-",
-        "exp": "Reference: Robbins basic pathology 9th edition pg no 117: Some are the signaling molecules attached to the BCR; another example is CD21 (also known as the type 2 complement receptor, or CR2), which recognizes a complement break- down product that frequently is deposited on microbes and promotes B cell responses to microbial antigens. Inter- estingly, the ubiquitous Epstein-Barr virus has cleverly evolved to use CD21 as a receptor for binding to B cells and infecting them.",
-        "cop": 1,
-        "opa": "CD-15",
-        "opb": "CD-19",
-        "opc": "CD-21",
-        "opd": "CD-23",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "0c8c6007-dc40-43b4-8a9c-3e7ea47320dd",
-        "choice_type": "multi"
-    },
-    {
         "question": "HLA is located on-",
         "exp": "Harshmohan textbook of pathology 7th edition HLA gene located on sho arm of chromosome no 6. These genes occupy 4 regions ABCD and exhibit marked variation in allelic gene at each locus. therefore the product of HLA antigen is highly polymorphic..",
         "cop": 1,
@@ -4431,19 +3209,6 @@
         "topic_name": "General pathology",
         "id": "5af5b6e1-ace3-44c5-b7f3-cfc5615cee6f",
         "choice_type": "single"
-    },
-    {
-        "question": "Inherited coagulation disorder is all except -",
-        "exp": "Primary (inherited) hypercoagulability most often is caused by mutations in the factor V and prothrombin genes: Approximately 2% to 15% of whites carry a specific factor V mutation (called the Leiden mutation, after the Dutch city where it was first described). The mutation alters an amino acid residue in factor V and renders it resistant to protein C. A single-nucleotide substitution (G to A) in the 3'-untranslated region of the prothrombin gene is a fairly common allele (found in 1% to 2% of the general population). This variant results in increased prothrombin transcription and is associated with a nearly threefold increased risk for venous thromboses. Less common primary hypercoagulable states include inherited deficiencies of anticoagulants such as antithrombin III, protein C, or protein S; affected patients typically present with venous thrombosis and recurrent thromboembolism in adolescence or early adult life. Congenitally elevated levels of homocysteine contribute to aerial and venous thromboses (and indeed to the development of atherosclerosis) ( Robbins Basic Pathology, 9 th edition, page 87 )",
-        "cop": 4,
-        "opa": "Protein C deficiency",
-        "opb": "Protein S deficiency",
-        "opc": "Leiden mutation",
-        "opd": "Lupus anticoagulant",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "dd66fe5a-b984-44b7-9220-c65ad9b4dea4",
-        "choice_type": "multi"
     },
     {
         "question": "The genetic inheritance of hemophilia is",
@@ -4563,32 +3328,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Malignant cells characteristically",
-        "exp": "Malignant cells characteristically take at least 30 doubling times before they become clinically detectable. They commonly have a longer cell cycle than the normal cells in their parent tissue. Neoplasia is a problem due to an accumulation of cells over a period of time. Malignant cells have a greater DNA content than the normal cells in their parent tissue. This can be quantitated by flow cytometry for prognosis purposes, Diploid cells (multiples of 23 chromosomes) have a better prognosis than aneuploid cells (uneven multiples). Malignant cells are not contact inhibited in tissue culture, and often pile up on top of each other. Malignant cells also have simple biochemical systems, with a predominantly anaerobic metabolism.",
-        "cop": 4,
-        "opa": "Have a shoer cell cycle than the normal cells in their parent tissue",
-        "opb": "Have the same DNA content as the normal cells in their parent tissue",
-        "opc": "Are contact inhibited in tissue culture",
-        "opd": "Take at least 30 doubling times before they become clinically detectable",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "7a57c4c0-4932-46e3-b113-b7263a28b64f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Chances of an offspring being affected when one parent is autosomal dominant heterozygote",
-        "exp": "Robbins basic pathology 9th edition page no 219 Disorders of autosomal dominant inheritance are manifested in the heterozygous state, so atleast one parent in an index case usually is affected. When an affected person marries an unaffected person, every child has onr chance in two of having the disease.",
-        "cop": 2,
-        "opa": "25%",
-        "opb": "50%",
-        "opc": "100%",
-        "opd": "None",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "756c91fb-c2e0-4c30-b684-309b89c65e18",
-        "choice_type": "multi"
-    },
-    {
         "question": "In malignant hypertension, necrosis is of which type?",
         "exp": "Types of necrosis Coagulative necrosis The most common type of necrosis Loss of nucleus with the cellular outline being preserved Associated with ischemia Seen in organs (heart, liver, kidney etc.) except in the BRAIN. Liquefactive necrosis Enzymatic destruction of cells dead cells are completely digested, transforming the tissue into a liquid viscous mass Abscess formation Seen in brain Caseous necrosis Caseous means \"cheese-like, \" Combination of coagulative and liquefactive necrosis Characteristic of TB Fat necrosis focal areas of fat destruction typically the action of lipases on fatty tissue released fatty acids combine with calcium to produce grossly visible chalky white areas Fat necrosis is seen in acute pancreatitis. Fibrinoid necrosis Complexes of antigens and antibodies are deposited in vessel wall with leakage of fibrinogen out of vessels Seen in rheumatic heart disease and malignant hypertension ref robbins basic pathology 9th ed page 10",
         "cop": 2,
@@ -4665,32 +3404,6 @@
         "topic_name": "General pathology",
         "id": "65fff515-7cfb-490b-93b3-5cbb3b51b837",
         "choice_type": "single"
-    },
-    {
-        "question": "Hypersensitivity pneumonitis is classically a/an",
-        "exp": "Hypersensitivity pneumonitis Allergic alveolitis TYPE III +TYPE IV HS Complement & Ig in the vessel walls - Type III Non-caseating granulomas in 2/3rd patients - Type IV",
-        "cop": 3,
-        "opa": "Allergic reaction",
-        "opb": "Type II hypersensitivity",
-        "opc": "Immune complex mediated hypersensitivity",
-        "opd": "Cell mediated hypersensitivity",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "4f829ff8-af0d-475e-a245-c6db1569b1a0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are examples of tumor markers, except -",
-        "exp": "Reference: Robbins basic pathology 9th edition pg no 225: Tumor Markers Biochemical assays for tumorassociated enzymes, hor mones, and other tumor markers in the blood cannot be utilized for de nitive diagnosis of cancer; however, they can be useful screening tests and in some instances have utility in quantitating the response to therapy or detecting disease recurrence. The application of these assays is con sidered with many of the speci c forms of neoplasia dis cussed in other chapters, so only a few examples suf ce here. PSA, used to screen for prostatic adenocarcinoma, may be one of the most frequently and successfully used tumor markers in clinical practice. Prostatic carcinoma can be suspected when elevated levels of PSA are found in the blood. However, PSA screening also highlights problems encountered with use of viually every tumor marker. Although PSA levels often are elevated in cancer, PSA levels also may be elevated in benign prostatic hyperplasia (Chapter 17). Fuhermore, there is no PSA level that ensures that a patient does not have prostate cancer. Thus, the PSA test suffers from both low sensitivity and low speci city. PSA assay is extremely valuable, however, for detecting residual disease or recurrence following treatment for prostate cancer. Other tumor markers occasionally used in clinical practice include carcinoembryonic antigen (CEA), which is elaborated by carcinomas of the colon, pancreas, stomach, and breast, and alpha fetoprotein, which is pro duced by hepatocellular carcinomas, yolk sac remnants in the gonads, and occasionally teratocarcinomas and embry onal cell carcinomas. Unfounately, like PSA, both of these markers can be produced in a variety of nonneoplastic conditions as well. Thus, CEA and alpha fetoprotein assays lack both speci city and sensitivity required for the early detection of cancers. As with PSA screening, they are still paicularly useful in the detection of recurrences after excision. With successful resection of the tumor, these markers disappear from the serum; their reappearance almost always signi es the beginning of the end",
-        "cop": 1,
-        "opa": "Alpha-HCG(a. HCG)",
-        "opb": "Alpha-Feto protein",
-        "opc": "Throglobulin",
-        "opd": "ss2-microglobulin",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "4877e3a3-b8f3-4462-b56f-dbc4863e245d",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not an acute phase-",
@@ -4771,32 +3484,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is true of fat embolism -",
-        "exp": "symptomatic fat embolism syndrome characterized by pulmonary insufficiency, neurologic symptoms, anemia, thrombocytopenia, and a diffuse petechial rash, which is fatal in 10% of cases. Clinical signs and symptoms appear 1 to 3 days after injury as the sudden onset of tachypnea, dyspnea, tachycardia, irritability, and restlessness, which can progress rapidly to delirium or coma ( Robbins Basic Pathology, 9 th edition, page 91 )",
-        "cop": 1,
-        "opa": "Thrombocytopenia",
-        "opb": "Macroglobulinemia",
-        "opc": "Prothrombin time increased",
-        "opd": "Fat globules in urine",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "80170fa3-15e5-4fe4-856d-d960199e4e13",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about apoptosis except:",
-        "exp": "Features of Necrosis and Apoptosis Feature Necrosis Apoptosis Nucleus Pyknosis - Karyorrhexis - Karyolysis Fragmentation into nucleosome size fragments Cell size Enlarged (swelling) Reduced (Shrinkage) Cellular contents Enzymatic digestion; may leak out of cell Intact; may be released in apoptotic bodies Plasma membrane Disruoted Intact; altered structure, especially orientation of lipids Adjacent inflammation Frequent No Physiologic or pathologic role Invariably pathologic (culmination of irreversible cell injury) Often physiologic, means of eliminating unwan ted cells; may be pathologic after some forms of cell injury, especially DNA damage",
-        "cop": 1,
-        "opa": "Inflammation is seen",
-        "opb": "Nuclear condensation",
-        "opc": "Chromatin cleavage",
-        "opd": "Cell shrinkage",
-        "subject_name": "Pathology",
-        "topic_name": "General Pathology",
-        "id": "a8fc846d-678c-4048-a7a0-4de24c45a660",
-        "choice_type": "multi"
-    },
-    {
         "question": "The procedure done in cases of clinical suspicion of amyloidosis is",
         "exp": "The diagnosis of amyloidosis is confirmed by the presence of amyloid deposition in tissue biopsy specimen. A skin punch biopsy from the lesion is the preferred confirmatory procedure. The next best choice is needle biopsy from the abdominal subcutaneous fat from the clinically normal-appearing skin may be performed. The skin and abdominal fat biopsy provide positivity in 86% to 95% of amyloidosis cases, depending upon the type of amyloidosis. In case of clinical suspicion, congo red staining of abdominal fat or other tissue is advised. Ref: Harrison&; s Principles of Internal Medicine; 19th edition; Chapter 137 Amyloidosis; Page no: 720",
         "cop": 1,
@@ -4834,19 +3521,6 @@
         "topic_name": "General pathology",
         "id": "69fbb768-73f7-4329-85cf-035ec0a73d32",
         "choice_type": "single"
-    },
-    {
-        "question": "Elevated AFP levels are seen in all of the following except-",
-        "exp": "TEXT BOOK OF PATHOLOGY HARSHMOHAN 6. THEDITION PG NO 637, 711, 709 Two tumour markers widely used in the diagnosis, staging and monitoring the follow-up of patients with testicular tumours are: human chorionic gonadotropin (h. CG) and alpha-foetoprotein (AFP). In addition, carcinoembryonic antigen (CEA), human placental lactogen (HPL), placental alkaline phosphatase, testosterone, oestrogen and luteinising hormone may also be elevated About half the teratomas have elevated h. CG or AFP levels or both. Hepatoblastoma is a rare malignant tumour arising from primitive hepatic parenchymal cells. It presents before the age of 2 years as progressive abdominal distension with anorexia, failure to thrive, fever and jaundice. It is more common in boys. The concentration of serum AFP is high. <\\p>",
-        "cop": 4,
-        "opa": "Hepatoblastoma",
-        "opb": "Seminoma",
-        "opc": "Teratoma",
-        "opd": "None of the above",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "3b67b5e8-e893-4155-92be-fe1474282b61",
-        "choice_type": "multi"
     },
     {
         "question": "Not a chromosoal breakage syndrome",
@@ -4927,19 +3601,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A subtype of Hodgkins which is histogenetically distinct from all others",
-        "exp": "Nodular Lymphocyte-Predominant Hodgkin's Lymphoma It is now recognized as an entity distinct from classical Hodgkin's lymphoma. Asubset of these patients has tumors with nodular growth pattern and a clinical course that varied from that of patients with classical Hodgkin's lymphoma. This is an unusual clinical entity and represents <5% of cases of Hodgkin's lymphoma. It has a number of characteristics that suggest its relationship to non-Hodgkin's lymphoma. These include a clonal proliferation of B cells and a distinctive immunophenotype; tumor cells express J chain and display CD45 and epithelial membrane antigen (EMA) and do not express two markers normally found on Reed-Sternberg cells, CD30 and CD15. This lymphoma tends to have a chronic, relapsing course and sometimes transforms to diffuse large B-cell lymphoma. Reference: Harrison&; s Principles of Internal Medicine; 19th edition; Chapter 134 Malignancies of Lymphoid Cells",
-        "cop": 1,
-        "opa": "Lymphocyte predominant",
-        "opb": "Nodular sclerosis",
-        "opc": "Mixed cellularity",
-        "opd": "Lymphocyte depleted",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "3a170ad4-df24-40f6-a7df-c00e93c4d4a9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Major contribution to cachexia with advanced cancer-",
         "exp": "Cachexia is not caused bu nutritional demands of the tumor. It is suspected that TNF produced by macrophages in response to tumor cells or by the tumor cells them self mediate cachexia. TNF mobilize fat from tissue stores and suppress appetite. ROBBINS",
         "cop": 4,
@@ -4951,19 +3612,6 @@
         "topic_name": "General pathology",
         "id": "a55393f2-bc2a-4885-a21c-caf82ad429b3",
         "choice_type": "single"
-    },
-    {
-        "question": "Males are more commonly affected than females in-",
-        "exp": "Most X-linked disorders are X-linked recessive and are characterized by the following features: They are transmitted by heterozygous female carriers only to sons, who of course are hemizygous for the X chromosome. Heterozygous females rarely express the full phenotypic change, because they have the paired normal allele; although one of the X chromosomes in females is inactivated, this process of inactivation is random, which typically allows sufficient numbers of cells with the normal expressed allele to emerge. An affected male does not transmit the disorder to sons, but all daughters are carriers. Sons of heterozygous women have one chance in two of receiving the mutant gene. (Robbins Basic Pathology, 9th edition, pg no. 220)",
-        "cop": 3,
-        "opa": "Autosomal dominant",
-        "opb": "Autosomal recessive",
-        "opc": "X- linked dominant",
-        "opd": "None of these",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "15ad5cd9-8e06-4fa0-a149-ef1073adecd9",
-        "choice_type": "multi"
     },
     {
         "question": "Caseous necrosis is not found in- rpt Q33",
@@ -4992,19 +3640,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Chemotherapeutic drugs can cause",
-        "exp": "Many therapeutic drugs can cause cell or tissue injury in a susceptible patient or if used excessively or inappropriately. Radiation, cytotoxic anticancer drugs, extremes of temperature, and even hypoxia can damage DNA, either directly or through the production of free radicals. If repair mechanisms cannot cope with the injury, the cell triggers intrinsic mechanisms that induce apoptosis. Anoikis is a form of programmed cell death that occurs in anchorage-dependent cells when they detach from the surrounding extracellular matrix (ECM). Usually, cells stay close to the tissue to which they belong since the communication between proximal cells as well as between cells and ECM provide essential signals for growth or survival. When cells are detached from the ECM, there is a loss of normal cell-matrix interactions, and they may undergo anoikis. However, metastatic tumor cells may escape from anoikis and invade other organs. ( Robbins Basic Pathology, 9 th edition, )",
-        "cop": 3,
-        "opa": "Only necrosis",
-        "opb": "Only apoptosis",
-        "opc": "Both necrosis and apoptosis",
-        "opd": "Anoikis",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "6c4a7859-dbc0-48fb-9dba-83e05ffa4d0c",
-        "choice_type": "multi"
-    },
-    {
         "question": "A diabetic patient is undergoing dialysis. Aspiration done around the knee joint would show",
         "exp": "Clinico. Pathologic Category Associated diseases Major Fibril protein Related precursor protein SYSTEMIC AMYLOIDOSIS Immunocyte dyscrasias with amyloidosis (primary) Multiple myeloma AL Ig light chain, l Reactive systemic amyloidosis (secondary) c/c inflammation AA SAA Hemodialysis-associated CRF Ab2m B2-microglobulin Hereditary amyloidosis AA or ATTR SAA or Transthyretin Systemic senile amyloidosis ATTR Transthyretin LOCALIZED AMYLOIDOSIS Senile cerebral Alzheimer Ab APP Endocrine Medullary ca thyroid Islets of Langerhans Type 2 DM A Cal AIAPP Calcitonin Islet amyloid peptide Isolated atrial amyloidosis AANF Atrial natriuretic factor",
         "cop": 1,
@@ -5029,19 +3664,6 @@
         "topic_name": "General pathology",
         "id": "24d6f847-3d9e-4ac8-9e4d-b68682e7aee9",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are associated with increased aging, except",
-        "exp": "Cellular aging is the result of a progressive decline in the lifespan and functional capacity of cells. Several mechanisms are thought to be responsible for cellular aging are. DNA damage. A variety of metabolic insults that accumulate over time may result in damage to nuclear and mitochondrial DNA. Decreased cellular replication. Defective protein homeostasis( Robbins Basic Pathology, 9th edition, page 26 )",
-        "cop": 2,
-        "opa": "Decreased cellular replication",
-        "opb": "Increased superoxide dismutase",
-        "opc": "Increased accumulation of free radicals",
-        "opd": "Accumulated mutation in somatic cells",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "d5015ef9-ef01-4b29-9f74-20eb8a8ed03c",
-        "choice_type": "multi"
     },
     {
         "question": "NK cells have which CD marker?-",
@@ -5070,32 +3692,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most commonly paraneoplastic syndromes are associated with -",
-        "exp": "Harshmohan textbook of pathology 7th edition para neoplastic syndrome are a group of conditions developing in patients with advanced cancer which are neither explained by direct and distant spread of the tumor nor by the usual hormone elaboration by the tissues of origin of tumors. Cushing syndrome in about 10% patients of small cell carcinoma of the lung elaborate ACTH or. ACTH like substance..",
-        "cop": 2,
-        "opa": "Bronchial carcinoid",
-        "opb": "Small cell carcinoma",
-        "opc": "Broncho-alveolar carcinoma",
-        "opd": "Bronchial adenoracinoma",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "3f681d53-b15c-4283-9615-834a81499844",
-        "choice_type": "multi"
-    },
-    {
-        "question": "False about p53 is-",
-        "exp": "p53 is the protein produced by TP53, guardian of human genome. It stimulates cells for DNA repair and in anti onco genic. Basic Pathology, Robbins. Page no.: 185",
-        "cop": 4,
-        "opa": "It is present on chromosomes 17",
-        "opb": "It causes cell cylce arrest in G1",
-        "opc": "53 KDa",
-        "opd": "Non mutated wild p53 is associated with neoplasm in childhood",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "475fd648-1e4b-448d-8fa3-d8abd430bdd6",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the most impoant role of bradykinin in acute inflammation-",
         "exp": "Functions of Bradykinin: Increases vascular permeability Contraction of smooth muscles Dilation of the blood vessels Pain when injected into the skin Out of these actions of bradykinin, the increase in vessel permeability is a better answer as it is the hallmark of acute inflammation ref robbins9th ed page 52",
         "cop": 1,
@@ -5109,32 +3705,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which type of immune responses responsible for caseation necrosis in TB?-",
-        "exp": "Type 4 or delayed hypersensitivity or T cell mediated reaction is an immune response without formation of antibodies but is instead a slow and prolonged response. examples: reaction against mycobacterium infection, virally infected cell, malignant cells and organ transplantation. Harshmohan textbook of pathology 7th edition",
-        "cop": 1,
-        "opa": "Cell-mediated immunity",
-        "opb": "Antibody mediated reaction",
-        "opc": "Allergic reaction",
-        "opd": "Immune complexes",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "07a44e52-74da-440e-b879-a8ecd551d9a9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 16-yrs-old girl presents with bowel obstruction. Laparotomy reveals markedly enlarged para-aoic lymph nodes. Biopsy of lymph nodes exhibit a diffuse neoplastic infiltrate of small, round lymphocytes with a \"starry sky\" appearance on low power. The cytoplasm of some of the lymphocytes is vacuolated and fat stains are positive. You would expect the neoplastic cells to demonstrate a",
-        "exp": "The patient has Burkitt lymphoma (Lukes-Collins; small non-cleaved), which is the most common malignant lymphoma in children. Approximately one-third of all childhood lymphomas in the United States are of the Burkitt type. There is an American and a Noh American variant. The relationship of Burkitt to the Epstein-Barr virus is more secure with the Mrican than the Noh American variant. The American variant has a predilection for the jaw, while the Noh American variant is more often an abdominal mass, located in the ileocecal region, ovary, or retroperitoneum. The lymph nodes are diffusely involved with monotonous, round, non-cleaved cells with numerous mitoses (very aggressive cancer) punctuated by clear spaces with macrophages containing debris (\"tingible\" macrophages) giving the impression of a \"starry sky appearance, \" the stars representing the macrophages and the black of night the lymphocytes. The neoplastic B cells have a characteristic t(8; 14) translocation where the c-myc oncogene is translocated from chromosome 8 to chromosome 14. Burkitt cells contain vacuoles that contain lipid, which stains positively with oil red O. It is a high-grade lymphoma with a predilection for metastasis to the bone marrow and other organs.",
-        "cop": 4,
-        "opa": "Positive non-specific esterase stain of the cells",
-        "opb": "Positive specific esterase stain of the cells",
-        "opc": "Low leukocyte alkaline phosphatase score",
-        "opd": "t(8; 14) translocation",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "522577d8-c2f2-4c60-b21d-41d67623c966",
-        "choice_type": "multi"
-    },
-    {
         "question": "Apoptosis does not occur by normal caspase pathway in?",
         "exp": "Cerebral hypoxic-ischaemic injury is a significant cause of death and neurological impairment. Magnetic resonance spectroscopy studies have shown that transient hypoxia-ischaemia leads to a biphasic disruption of cerebral energy metabolism. Related to this biphasic energy failure, two waves of cell death seem to follow hypoxic-ischaemic injury in the developing brain. Immediate neuronal death is probably largely due to necrosis, resulting mainly from the accumulation of calcium ions, leading to membrane pump failure. 41 Delayed cell death resulting from hypoxic-ischaemic injury seems to involve different or additional mechanisms and a growing body of data suggests that in the delayed phase of injury cell death occurs by apoptosis. In the developing nervous system apoptosis is observed as early as neural tube formation and persists throughout terminal differentiation of the neural network. apoptosis in neural cells. Neurotrophin withdrawal leads to death by a default mechanism through as yet uncharacterised pathways. Gene mutations, inappropriate production of neurotransmitters, such as glutamate, free radical generation, and mitochondrial damage also trigger apoptosis as do engagement of death receptors. In the latter case oligomerisation of Fas/Apo-1 or TNF receptors or the p75 NGF receptor results in the recruitment of death domain proteins, which in turn activate members of the caspase family of cysteine proteases in an organised proteolytic cascade. Bcl-2 family members and inhibitor of apoptosis proteins (IAPs) control the decision to commit cell suicide, depending on whether pro- or anti-apoptotic paners predominate. In the later stages, specific endonucleases cleave DNA as pa of the packaging process. Finally, cells are phagocytosed by healthy neighbours",
         "cop": 3,
@@ -5146,19 +3716,6 @@
         "topic_name": "General pathology",
         "id": "5304eb94-6208-4358-b2ae-7d115b814edb",
         "choice_type": "single"
-    },
-    {
-        "question": "Endogenous chemoattractants are all except -",
-        "exp": "Endogenous Chemoattractants include LTB4, complement system C5, chemokines, but not integrins. Integrins are cell matrix adhesion molecules. Integrins are proteins that function mechanically, by attaching the cell cytoskeleton to the extracellular matrix (ECM), and biochemically, by sensing whether adhesion has occurred. The integrin family of proteins consists of alpha and beta subtypes, which form transmembrane heterodimers. Basic Pathology, Robbins. Page no.: 36",
-        "cop": 2,
-        "opa": "C5a",
-        "opb": "Integrins",
-        "opc": "LTB4",
-        "opd": "IL 8",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "12245d56-8392-4ec1-8df5-4d5bc1c43859",
-        "choice_type": "multi"
     },
     {
         "question": "The transition from G2 to M phase is controlled by",
@@ -5185,32 +3742,6 @@
         "topic_name": "General pathology",
         "id": "35d651f2-47c6-4fe0-af6b-87183cd332f8",
         "choice_type": "single"
-    },
-    {
-        "question": "Deficiency of vitamin D increases the risk of all Except",
-        "exp": "and muscle weakness. However, mildvitamin D deficiency is not necessarily associated with any symptoms. Vitamin D has been referred to as the \"sunlight vitamin\" because it is made in our skin when we are exposed to sunlight.",
-        "cop": 4,
-        "opa": "Colon cancer",
-        "opb": "Prostate cancer",
-        "opc": "Breast cancer",
-        "opd": "Lymphoma",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "9d2a3fb3-0baf-44b2-bcc4-9f685b258d0c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A child is born with a single functional copy of a TSG. At the age of 5, the remaining normal allele is lost through mutation. As a result, the ability to control transition from G1 to S phase of cell cycle is lost. Which neoplasm is mot likely to arise in this child?",
-        "exp": ".",
-        "cop": 1,
-        "opa": "Retinoblastoma",
-        "opb": "Breast carcinoma",
-        "opc": "Adenocarcinoma colon",
-        "opd": "Cerebral astrocytoma",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "08240a30-122f-435d-b33d-4e0542d52246",
-        "choice_type": "multi"
     },
     {
         "question": "In cirrhosis in space of disse which type of collagen accumulates -",
@@ -5252,19 +3783,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Necrotizing epitheloid cell granulomas are seen in all, except -",
-        "exp": "Mycobacterium leprae infection leads to formation of non caseating granulomas, which is not necrotising. the lesions are erythematous type Basic Pathology, Robbins. Page no.: 56",
-        "cop": 4,
-        "opa": "Tuberculosis",
-        "opb": "Wegener's granulomatosis",
-        "opc": "Cat's Scratch disease",
-        "opd": "Leprosy",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "f07ae124-fa9b-427b-a11e-ffc7733f4b0d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Approximate time, at the end of which the quantity of ATP within ischemic cardiac myocytes is reduced to 10% of the original is",
         "exp": "Metabolic changes slow as the duration of ischemia increases. Irreversibly injured myocytes exhibit (a) very low levels of ATP (less than 10% of control); (b) cessation of anaerobic glycolysis; (c) high levels of H+, AMP, INO, lactate, and alpha GP; (d) a greatly increased osmolar load; (e) mitochondrial swelling and formation of amorphous matrix densities; and (f) disruption of the sarcolemma. Approximately 40 minutes of time may there as the metabolic changes slow down with the decrease in ATP levels Ref internet and Robbins 9/e p, 27; 28",
         "cop": 4,
@@ -5276,19 +3794,6 @@
         "topic_name": "General pathology",
         "id": "cd310389-1769-4e19-ae9d-7147dbba43a8",
         "choice_type": "single"
-    },
-    {
-        "question": "von Willebrand disease is a defect of",
-        "exp": "Primary hemostasis: the formation of the platelet plug. Disruption of the endothelium exposes subendothelial von Willebrand factor (v. WF) and collagen, which promote platelet adherence and activation. Activation of platelets results in a dramatic shape change as well as the release of secretory granules. Within minutes the secreted products recruit additional platelets, which undergo aggregation to form a primary hemostatic plug. Defects of primary hemostasis (platelet defects or von Willebrand disease) often present with small bleeds in the skin or mucosal membranes. These bleeds typically take the form of petechiae, minute 1 to 2 mm hemorrhages, or purpura, which are slightly larger (>=3 mm) than petechiae. Mucosal bleeding associated with defects in primary hemostasis may take the form of epistaxis (nosebleeds), gastrointestinal bleeding, or excessive menstruation (menorrhagia). Ref: Robbins and Cotran Pathologic; 9th edition; Chapter 4; Hemodynamic Disorders, Thromboembolic Disease, and Shock; Page no: 122",
-        "cop": 1,
-        "opa": "Primary hemostasis",
-        "opb": "Secondary hemostasis",
-        "opc": "Clot stabilization and resorption",
-        "opd": "Generalized defects involving small vessels",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "82de2218-03e8-48e5-87d2-9a75c90d908d",
-        "choice_type": "multi"
     },
     {
         "question": "Type I hypersensitivity is mediated by which of the following immunoglobulins?",
@@ -5317,19 +3822,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Polycythemia is associated with all the following cancers except",
-        "exp": "*Paraneoplastic syndromes -Syndromes which occur due to hormonal proteins produced by a \"Non-endocrine tumor\". So if you find an endocrine tumor, you may safely exclude it from the option.*Malignancies associated with polycythemia are the Gastric carcinoma, Renal carcinoma, Cerebellar hemangioma and Hepatocellular carcinoma. Ref: Robbins 8/e p 321",
-        "cop": 3,
-        "opa": "Stomach cancer",
-        "opb": "Liver cancer",
-        "opc": "Prostrate cancer",
-        "opd": "Renal cell cancer",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "1ec777f1-3009-422f-b8ca-4b84c102eee2",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most efficient bactericidal system of neutrophils is",
         "exp": "H2. O2-MPO-halide system is the most efficient bactericidal system of neutrophils H2. O2 is not able to efficiently kill microbes by itself. the azurophilic granules of neutrophils contain the enzyme myeloperoxidase (MPO), in the presence of a halide such as Cl-, conves H2. O2 to hypochlorite(OCl2-) which is a potent antimicrobial agent that destroys microbes by halogenation (in which the halide is bound covalently to cellular constituents) or by oxidation of proteins and lipids (lipid peroxidation). Robbins 9th ed page 79",
         "cop": 1,
@@ -5356,19 +3848,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following statements are true about transposons Except",
-        "exp": "Mobile genetic elements (e. g., transposons): Remarkably, more than one-third of the human genome is composed of these elements, popularly denoted as \"jumping genes. \" These segments can move around the genome, exhibiting wide variation in number and positioning even amongst closely related species (i. e., humans and other primates). They are implicated in gene regulation and chromatin organization, but their function is still not well established. The mi. RNAs do not encode proteins; instead, they function primarily to modulate the translation of target m. RNAs into their corresponding proteins. Ref: Robbins and Cotran Pathologic Basis of Disease; 9th edition; Chapter 1; The genome; Page no: 2",
-        "cop": 4,
-        "opa": "Popularly known as jumping genes",
-        "opb": "Mobile genetic elements",
-        "opc": "Implicated in gene regulation and Chromatin organization",
-        "opd": "Modulate the translation of target m. RNAs into their corresponding proteins",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "9d9f0d66-3039-4827-9b87-3156e45c4b36",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cell injury occurs due to",
         "exp": "Cell injury occurs due to decreased generation of cellular ATP ATP is necessary for Na+--K+ ATPase pump and Ca pump action and many other cellular functions for the existence of the cell THE MORPHOLOGY OF CELL AND TISSUE INJURY It is useful to describe the structural alterations that occur in damaged cells before we discuss the biochemical mecha- nisms that bring about these changes. All stresses and noxious influences exe their effects first at the molecular or biochemical level. Cellular function may be lost long before cell death occurs, and the morphologic changes of cell injury (or death) lag far behind both (Fig. 1-7). For example, myocardial cells become noncontractile after 1 to 2 minutes of isch- emia, although they do not die until 20 to 30 minutes of ischemia have elapsed. These myocytes may not appear dead by electron microscopy for 2 to 3 hours, or by light microscopy for 6 to 12 hours. The cellular derangements of reversible injury can be corrected, and if the injurious stimulus abates, the cell can return to normalcy. Persistent or excessive injury, however, causes cells to pass the nebulous \"point of no return\" into irreversible injury and cell death. The events that determine when reversible injury becomes irreversible and progresses to cell death remain poorly understood. The clinical rele- vance of this question is obvious; if the biochemical and molecular changes that predict cell death can be identified with precision, it may be possible to devise strategies for preventing the transition from reversible to irreversible cell injury. Although there are no definitive morphologic or biochemical correlates of irreversibility, two phenomena con- sistently characterize irreversibility: the inability to correct mito- chondrial dysfunction (lack of oxidative phosphorylation and ATP generation) even after resolution of the original injury, and profound disturbances in membrane function. As mentioned earlier, injury to lysosomal membranes results in the enzymatic dissolution of the injured cell, which is the culmination of injury progressing to necrosis. As mentioned earlier, different injurious stimuli may induce death by necrosis or apoptosis (Fig. 1-6 and Table Refer robbins 9/e p6",
         "cop": 1,
@@ -5380,19 +3859,6 @@
         "topic_name": "General pathology",
         "id": "64658e9a-9034-42b1-99fe-aaad9cc2a587",
         "choice_type": "single"
-    },
-    {
-        "question": "If both the parents are carriers of the beta-thalassemia gene, the chance of having a child with thalassemia major in each pregnancy is",
-        "exp": "Normally, the majority of adult hemoglobin (HbA) is composed of four protein chains, two a and two b globin chains arranged into a heterotetramer. In thalassemia, patients have defects in either the a or b globin chain, causing production of abnormal red blood cells (In sickle-cell disease, the mutation is specific to b globin). The thalassemias are classified according to which chain of the hemoglobin molecule is affected. In a-thalassemias, production of the a globin chain is affected, while in b-thalassemia, production of the b globin chain is affected. The b globin chains are encoded by a single gene on chromosome 11; a globin chains are encoded by two closely linked genes on chromosome 16 Thus, in a normal person with two copies of each chromosome, two loci encode the b chain, and four loci encode the a chain. Thalassemias are genetic disorders inherited from a person's parents. There are two main types, alpha thalassemia and beta thalassemia.] The severity of alpha and beta thalassemia depends on how many of the four genes for alpha globin or two genes for beta globin are missing.",
-        "cop": 1,
-        "opa": "25%",
-        "opb": "50%",
-        "opc": "75%",
-        "opd": "100%",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "890f8311-b778-4ec6-886a-bcb5e4fe0193",
-        "choice_type": "multi"
     },
     {
         "question": "Gene for Wilson's disease is located on chromonsome",
@@ -5447,19 +3913,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following are angiogenic factors EXCEPT -",
-        "exp": "Robbins basic pathology 9th edition page no 67, heading=Growth factors involved in Angiogenesis. Correct option is 3, IFN Vascular endothelial growth factor (VEGF) stimukates both migration and proliferation of endothelial cells, thus initiating the process of capillary sprouting in angiogenesis. Placental growth factor(PIGF) involved in vessel devolopment in embryo. Transforming factor3(TGF3) is also an angiogenic factor.",
-        "cop": 3,
-        "opa": "VEGF",
-        "opb": "PDGF",
-        "opc": "IFN",
-        "opd": "TGF\\/3",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "9a5cd6bb-94ed-41a8-bcb9-f2580674f322",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which one of the following is not used as a tumor marker in testicular tumours?",
         "exp": "Carcinoembryonic antigen (CEA) describes a set of highly related glycoproteins involved in cell adhesion. CEA is normally produced in gastrointestinal tissue during fetal development, but the production stops before bih. Therefore, CEA is usually present only at very low levels in the blood of healthy adults. However, the serum levels are raised in some types of cancer, which means that it can be used as a tumor marker in clinical tests. Serum levels can also be elevated in heavy smokers. CEA are glycosyl phosphatidyl inositol (GPI) cell-surface-anchored glycoproteins whose specialized sialofucosylated glycoforms serve as functional colon carcinoma L-selectin and E-selectin ligands, which may be critical to the metastatic dissemination of colon carcinoma cells. Immunologically they are characterized as members of the CD66 cluster of differentiation. The proteins include CD66a, CD66b, CD66c, CD66d, CD66e",
         "cop": 4,
@@ -5471,19 +3924,6 @@
         "topic_name": "General pathology",
         "id": "ff5e03b2-c177-4f70-a7bc-7e6f4dcfb458",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of these is characteristic of amyloidosis-",
-        "exp": "Robbins and Cotran pathologic basis of disease South Asia edition. *by electron microscopy all types amyloid consist of continuous non branching fibrills. X Ray crystallography and infrared spectroscopy demonstrate a characteristic cross-beta-pleated shear conformation. this conformation is responsible for distinctive Congo red staining and birefringence of amyloid.",
-        "cop": 3,
-        "opa": "Beta pleated, metachromosis, PAS + ve",
-        "opb": "Congophilic, beta pleated, PAS +ve",
-        "opc": "Beta pleated, fibrillary, congophilic",
-        "opd": "Alpha pleated, small fibrils",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "2e97b7e2-acc1-495c-b581-b3b7c935577f",
-        "choice_type": "multi"
     },
     {
         "question": "Which one of the following are most improtant antigen presenting cells in human-",
@@ -5525,32 +3965,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In amyloidosis Beta pleated sheet will be seen in-",
-        "exp": "Beta pleated sheets in amyloidosis is seen by X- ray crystallography. Basic Pathology, Robbins. Page no.: 156",
-        "cop": 1,
-        "opa": "X-ray crystallography",
-        "opb": "Electron microscope",
-        "opc": "Spiral electron microscope",
-        "opd": "Congo red stain",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "23709d9d-e0c7-4934-b8b8-d6f70c068720",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Watson and Crick are associated with -",
-        "exp": "They proposed the double hellical model of DNA",
-        "cop": 1,
-        "opa": "Discovery of helical structure of DNA",
-        "opb": "Association of Helicobacter pylon with chronic gastritis",
-        "opc": "Discovery of HIV virus",
-        "opd": "None of the above",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "d3dcbf18-0daf-4185-8d1b-0984095e9536",
-        "choice_type": "multi"
-    },
-    {
         "question": "Epithelial granuloma is caused by -",
         "exp": "Granuloma formation is a type IV hypersensitivity reaction mediated by helper T cells. This reaction is similar to caseating granuloma formation in TB Basic Pathology, Robbins. Page no.: 56",
         "cop": 3,
@@ -5590,32 +4004,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Deposition of calcium in dying tissue is called",
-        "exp": "Dystrophic calcification is encountered in areas of necrosis of any type. It is viually inevitable in the atheromas of advanced atherosclerosis, associated with intimal injury in the aoa and large aeries and characterized by the accumulation of lipids Metastatic calcification can occur in normal tissues whenever there is hypercalcemia( Robbins Basic Pathology, 9th edition, page 26 )",
-        "cop": 2,
-        "opa": "Metastatic calcification",
-        "opb": "Dystrophic calcification",
-        "opc": "Heterotropic calcification",
-        "opd": "Normal calcification",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "8a332a16-8f02-47c4-92f2-d651be084748",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A middle aged woman presented to the OPD with dull abdominal pain for 6 months. CT scan of pelvis showed a 7cm mass involving left ovary with irregular calcifications. The right fallopian tube & ovary are excised. What is the likely diagnosis?",
-        "exp": ".",
-        "cop": 4,
-        "opa": "Mucinous cystadenoma",
-        "opb": "Choriocarcinoma",
-        "opc": "Dysgerminoma",
-        "opd": "Mature cystic teratoma",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "fcc9b6fe-5204-45db-9028-77df21026641",
-        "choice_type": "multi"
-    },
-    {
         "question": "Multifactorial inheritance is most likely to play a role in",
         "exp": "Cleft lip and cleft palate, also known as orofacial cleft, is a group of conditions that includes cleft lip (CL), cleft palate (CP), and both together (CLP).] A cleft lip contains an opening in the upper lip that may extend into the nose. The opening may be on one side, both sides, or in the middle. A cleft palate is when the roof of the mouth contains an opening into the nose. These disorders can result in feeding problems, speech problems, hearing problems, and frequent ear infections. Less than half the time the condition is associated with other disorders. Multifacorial inheritance is the type of inheritance followed by traits that are determined by multiple factors both environmental and genetic. Environmental factors interact with many genes to generate a normally distributed susceptibiity. Some diseases for example myocardial infarction, congenital bih defects, cancer, diabetes, mental illnesses and Alzheimer diseases cause along with morbidity, premature moality in two out of three individuals during their lifetime. Many show clustering among families. However their inheritance pattern does not follow that of single gene disorders (Mendelian pattern of inheritance). These kind of diseases are thought to result from complex interactions between genetic and environmental factors, i. e. multifactorial inheritance pattern.",
         "cop": 1,
@@ -5652,32 +4040,6 @@
         "subject_name": "Pathology",
         "topic_name": "General pathology",
         "id": "74f62b3e-b936-4d9b-abe9-15a0510ee2e4",
-        "choice_type": "single"
-    },
-    {
-        "question": "In amyloidosis, the following appearance will be seen in",
-        "exp": "X-ray crystallography and infrared spectroscopy demonstrate a characteristic cross-b-pleated sheet conformation. This confirmation is seen regardless of the clinical setting or chemical composition and is responsible for the distinctive Congo red staining and birefringence of amyloid. By electron microscopy, all types of amyloid consist of continuous, nonbranching fibrils with a diameter of approximately 7. 5 to 10 nm. Ref: Robbins Pathology; 9th edition; Page no: 257",
-        "cop": 1,
-        "opa": "X-ray crystallography",
-        "opb": "Electron microscope",
-        "opc": "Spiral electron microscope",
-        "opd": "Congo red stain",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "3a253388-26c0-4857-9858-264916653c04",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The given karyotype is seen in which of the following syndrome?",
-        "exp": "Cri du chat syndrome is caused by a deletion of the end of the sho (p) arm of chromosome 5. (5P- syndrome). Symptoms include characteristic cat-like cry of affected children, epicanthus, severe intellectual disability, low set ears.",
-        "cop": 4,
-        "opa": "Angelman syndrome",
-        "opb": "Fragile x syndrome",
-        "opc": "Turner syndrome",
-        "opd": "Cri du chat syndrome",
-        "subject_name": "Pathology",
-        "topic_name": "General pathology",
-        "id": "dd186c10-e165-4a1d-99bc-dcd0dd82ce74",
         "choice_type": "single"
     }
 ]

@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Renal transplantation, in which mother acts as a donor of one kidney to her son is an example of",
-        "exp": "Ans. is 'c' i. e., Allograft Transplantation terminology. Autograft: Tissue transplanted from one part of the body to another in the same individual. Also called an autotransplant. Isograft: Is a graft of tissue between two individuals who are genetically identical (i. e. monozygotic twins). Transplant rejection between two such individuals virtually never occurs. Allograft: An organ or tissue transplanted from one individual to another.",
-        "cop": 3,
-        "opa": "Autograft",
-        "opb": "Heterograft",
-        "opc": "Allograft",
-        "opd": "Xenograft",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "84b07a64-cca5-4cb2-b879-691b6241f202",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common disease caused by CMV in a postrenal transplant patients:",
         "exp": "Ans. (c) Pneumonia. Ref: Bailey 26th edition, Page 1416* Most common viral infection following kidney transplant is CMV- which presents with Interstitial pneumonia",
         "cop": 3,
@@ -50,19 +37,6 @@
         "topic_name": "Transplantation",
         "id": "8873e45a-506f-4468-9f30-fa41940504b9",
         "choice_type": "single"
-    },
-    {
-        "question": "Skin grafting done on wound following major skin taken from twin brother:",
-        "exp": "Ans. (a) Isograft. Ref: Bailey 26th Edition Page 1408* Isograft: A graft between identical donor such as identical twin* Autograft: A graft from one site to another on the same patient* Allograft: Graft from individual of same species.* Xenograft: Graft from another species",
-        "cop": 1,
-        "opa": "Isograft",
-        "opb": "Allograft",
-        "opc": "Autograft",
-        "opd": "Xenograft",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "98b996a4-70f3-4d71-a394-3bebf7b7650f",
-        "choice_type": "multi"
     },
     {
         "question": "A 65-year-old woman undergoes a kidney transplant for CKD. 6 weeks after the transplant, she develops CMV infection characterized by fever, malaise, and myalgias. Which of the following is a potential sequela of CMV infection?",
@@ -117,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Indication for lung transplantation is:",
-        "exp": "Ans. (d) All of the above. Ref: Sabiston 20th Page 1598. Indications of lung transplantation* COPD* Pulmonary fibrosis* Primary pulmonary hypertension* Cystic fibrosis* Bronchiectasis",
-        "cop": 4,
-        "opa": "COPD",
-        "opb": "Alpha 1 antitrypsin deficiency",
-        "opc": "Cystic fibrosis",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "3e56f3b3-f48e-4b37-af83-5355b5a5d5d6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Transplantation of which one of the following organs is most often associated with hyper acute rejection?",
         "exp": "Ans. (b) Kidney. Ref: Bailey 26th edition, Page 1409* Hyperacute rejection is most common in Kidney* Hyperacute rejection is very rare in liver",
         "cop": 2,
@@ -141,19 +102,6 @@
         "topic_name": "Transplantation",
         "id": "f53b3d5e-9d2a-4697-be1e-bfedf89275b3",
         "choice_type": "single"
-    },
-    {
-        "question": "All are scoring system used in liver transplant except:-",
-        "exp": "Child-Turcotte-Pugh (CTP) score, Model for End Stage Liver Disease (MELD) score & Pediatric End Stage Liver Disease (PELD) MEGX(Monoethylglycinexylidine ) score are used in liver transplantation. The MELD score is based on bilirubin and creatinine levels and the international normalized ratio (INR). Pediatric donor livers are distributed to pediatric patients preferentially. The scoring used in pediatric patients is referred to as the pediatric end-stage liver disease (PELD) score. The MEGX is rapid and simple test which can assess the function of liver and widely used for liver transplantation in critical care medicines",
-        "cop": 4,
-        "opa": "CTP",
-        "opb": "MEGX",
-        "opc": "MELD",
-        "opd": "MPI",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "27608f83-291d-4900-ad22-9f09bfc6c748",
-        "choice_type": "multi"
     },
     {
         "question": "The advantage of this type of pancreatic drainage in pancreas transplant is:",
@@ -180,19 +128,6 @@
         "topic_name": "Transplantation",
         "id": "55bad8d7-c10b-4355-913a-c8e1df1aeb81",
         "choice_type": "single"
-    },
-    {
-        "question": "Indications of lung transplantation:",
-        "exp": "Ans. (d) All of the above. Ref: Sabiston 19th edition, Page 1589 Indications of Lung transplant:* COPD* Alpha 1 Anti trypsin deficiency* Pulmonary fibrosis* Primary pulmonary hypertension* Cystic fibrosis* Bronchiectasis",
-        "cop": 4,
-        "opa": "COPD",
-        "opb": "Alpha-1 antitrypsin deficiency",
-        "opc": "Cystic fibrosis and bronchiectasis",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "aeabede1-3c87-46b6-9d70-1ed8613641ce",
-        "choice_type": "multi"
     },
     {
         "question": "Most common malignancy in post-transplant individuals:-",
@@ -247,71 +182,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Indications of transplant of liver in paracetamol poison are all, except:",
-        "exp": "Ans. (b) Increased SGPTRef: Blumgart 6th edition, Page 1775* King's college criteria is used to indicate the prognosis of the patients with acute fulminant liver failure.* It can be due to non-acetaminophen induced or acetaminophen induced. Acetaminophen induced ALF:* Arterial pH < 7. 3* INR > 6. 5* Serum creatinine > 300micromol/L * Encephalopathy Grade 3 or 4. Non-acetaminophen Induced ALF:* INR >6. 5* Age <11 or> 40 years* Serum bilirubin Increased >300. Micromol/L* Time of onset of jaundice to coma > 7 days* Drug toxicity",
-        "cop": 2,
-        "opa": "PT/INR increased",
-        "opb": "Increased SGPT",
-        "opc": "Creatinine Increased",
-        "opd": "Encephalopathy",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "f7115d5a-2658-4974-a353-7b7a23277b80",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Infection in renal transplant patient is usually caused by:-",
-        "exp": "Infection in renal transplant patient is usually caused by CMV. CMV INFECTION: CMV is most impoant pathogen in clinical transplantationQ. CMV infections usually occur after 30-50 daysQ after transplantation. CLINICAL FEATURES: CMV infections presents as fever, malaise, myalgia, ahralgia, and leukopenia. Organ involvement leads to pneumonitis; ulceration and hemorrhage in the stomach, duodenum, or colon; hepatitis; esophagitis; retinitis; encephalitis; or pancreatitis. DIAGNOSIS: Invasive CMV infection with histologic evidence or a positive CMV culture from deep tissue specimens is confirmatoryQ Chest X-ray: Bilateral diffuse interstitial pneumoniaQ TREATMENT IV ganciclovirQ is the mainstay of treatment and is safe and effective for prophylaxis & treatment. Bacterial infections in a renal transplant patient has the following manifestations: Pyelonephritis Cholecystitis Intra-abdominal abscesses Parotitis",
-        "cop": 1,
-        "opa": "CMV",
-        "opb": "HIV",
-        "opc": "Herpes",
-        "opd": "Salmonella",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "ed34c788-329d-44b8-83f3-71ae63bf6b0e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Hypothermia (0deg to 4deg C) is a critical component of successful organ cold storage because:",
-        "exp": "Hypothermia in simple organ cold storage serves one primary function but secondary ones as well. The primary function is to slow metabolism. Metabolic rates decrease about twofold for every 10 degree C drop in temperature. Cooling an organ from 37deg to 0deg to 4deg C drops metabolism about 12- to 13-fold. This is related to the activation energy of enzymatic processes as expressed by Arrhenius and van't Hoff. Thus, catabolism of structural and functional cellular element is retarded for a long period--up to 3 days for some organs. The cold also suppresses microbial growth, but this can be accomplished by other means as well. The cold also allows time for the transplantation operation, and during this time it is impoant to be quick or to keep cooling the organ.",
-        "cop": 4,
-        "opa": "Oxygen is more soluble in cold solutions and provides a continual supply for energy metabolism",
-        "opb": "There is no way to suppress microbial growth except by cooling and slowing the growth rate",
-        "opc": "Hypothermia diminishes energy requirements and allows the limited energy reserve to keep the organ alive",
-        "opd": "It slows metabolism and the enzymic processes that would destroy the cell",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "32437d92-f8e8-4265-8b7c-3d5750c157e5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Tissue transplanted between two people of identical genetic make up is called -",
-        "exp": "Ans. is 'c' i. e., Isograft Transplantation terminology. Autograft: tissue transplanted from one part of the body to another in the same individual. Also called an autotransplant. Isograft: is a graft of tissue between two individuals who are genetically identical (i. e. monozygotic twins). Transplant rejection between two such individuals virtually never occurs. Allograft: an organ or tissue transplanted from one individual to another. Xenograft: a transplant performed between different species. Orthotopic graft: a graft placed in its normal anatomical site. Hetertopic graft: a graft placed in a site different from that where the organ is normally located.",
-        "cop": 3,
-        "opa": "Autograft",
-        "opb": "Allograft",
-        "opc": "Isograft",
-        "opd": "Xenograft",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "b35d87b4-a2d3-40bd-a57a-d5593eb1bf92",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 65-year-old man is admitted to the hospital with complaints of intermittent constipation and microcytic anemia. Barium enema reveals a non-obstructing \"apple-core\" lesion of the proximal sigmoid colon. Colonoscopy confirms the location of the mass and reveals no other synchronous lesions. Select the appropriate next step. (SELECT 1 STEP)",
-        "exp": "The patient has a left colon cancer. In order to resect the tumor with a margin of 3-5 cm on its proximal and distal ends as well as to remove the draining lymph node basin, a left hemicolectomy should be performed. A Dukes C tumor is one that extends through the bowel wall and involves adjacent lymph nodes. In a study of 1166 patients with stage B and C colon cancer, the National Surgical Adjuvant Breast and Bowel Project (NSABP) reported an improved survival in patients randomized to receive adjuvant chemotherapy compared with no further treatment after resection. Adjuvant radiation therapy has only been useful in preventing local recurrence in rectal cancers with positive surgical margins. The liver is the most common site of bloodborne metastases from primary colorectal cancers. In a subgroup of patients, the liver may be the only site of disease. Overall, surgical resection is associated with a 25-30% 5-year survival rate.",
-        "cop": 1,
-        "opa": "Left hemicolectomy",
-        "opb": "Right hemicolectomy",
-        "opc": "Subtotal colectomy",
-        "opd": "Total colectomy",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "041c7933-83fd-41ac-8cb8-8dd0b7e070fe",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common indication for liver transplantation in children-",
         "exp": "Ans. is 'a' i. e.. Biliary atresia",
         "cop": 1,
@@ -349,45 +219,6 @@
         "topic_name": "Transplantation",
         "id": "1400b857-871c-4915-aea1-aeeccc7a41e5",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are true about liver transplantation except:",
-        "exp": "Split Liver transplantation: Brain dead cadaver - transplant Right lobe for Adult and Left Lobe for child. i. e Two recipients are benefited. Sequence of anastomosis in liver transplant; Donor's Bile duct anastomosed with recipients bile duct: Choledococholedostomy (preferred) If recipient's bile duct is diseased or cannot be used donor bile duct is attached to the jejunum: choledochojejunostomy",
-        "cop": 1,
-        "opa": "MC indication of LT is alcoholic liver disease",
-        "opb": "Two recipients are benefitted in split liver transplantation",
-        "opc": "Choledocho-choledochostomy is preferred over choledochojejunostomy",
-        "opd": "Sequence of anastomosis: 1. Supra hepatic IVC 2. Infra hepatic IVC 3. Poal vein 4. Hepatic aery 5. Bile duct",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "79db2ec8-be60-4dfb-9600-471bdf532c01",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is true regarding successful whole- organ pancreas transplantation in type I diabetes?",
-        "exp": "Whole-organ pancreas transplantation is the only therapy for type I insulin-dependent diabetes that maintains normal serum glucose levels and normal glucose tolerance tests. When the pancreas is transplanted along with a kidney, the tight glucose control generally prevents the recurrence of diabetic nephropathy. No series has shown the reversal of diabetic retinopathy or reduction in the rate of diabetic ulcers or of amputations, although some parameters of diabetic retinopathy may improve after pancreas transplantation.",
-        "cop": 4,
-        "opa": "It results in maintenance of normal serum glucose levels",
-        "opb": "Recurrence of diabetic nephropathy in simultaneously transplanted kidneys is not prevented",
-        "opc": "Oral glucose tolerance tests remain abnormal",
-        "opd": "The pathologic changes of diabetic retinopathy are reversed",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "44545c4a-711f-4c7f-9e44-8f9d10b932b2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about history of transplantation except:",
-        "exp": "History of organ Transplantation First renal transplantation Murray in identical twins First liver transplantation Starzl(1963) First pancreas transplantation Kelly & Lillhei (1966) First heart transplantation Christian Barnard (1967) First lung transplantation Fritz Derom (1968) First Islet cell transplantation Sutherland(1974) First Heart & lung transplantation Reitz & Shumway(1981) First successful intestinal transplantation Deltz (1988)",
-        "cop": 1,
-        "opa": "First successful Intestinal transplantation by Hardy",
-        "opb": "First Heart & Lung transplantation by Reitz & Shumway",
-        "opc": "First Pancreas transplantation by Kelly & Lillhei",
-        "opd": "First Lung transplantation by Fritz Derom",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "d61f6959-adab-45bb-920e-5130ba9af26c",
-        "choice_type": "multi"
     },
     {
         "question": "Xeno transplantation of heart in human being, which of the animal heart has been used?",
@@ -442,19 +273,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements regarding rejection of solid organ transplants is true?",
-        "exp": "Transplant Rejection Type Onset Mechanism & Vessel Histology Type of Hypersensitivity Hyperacute Immediate Preformed antibodies directed against the donor tissue. Caused by accidental ABO blood type incompatibility which is very rare. Presents while still in surgery with thrombosis and occulsion of graft vessels II Acute Weeks to months T-cell mediated immune response directed against the foreign MHC. Inflammation and leukocyte infiltration of graft vessels results. Most common type IV Chronic Months to years T-cell mediated process resulting from the foreign MHC \"looking like\" a self MHC carrying an antigen. Results in intimal thickening and fibrosis of graft vessels as well as graft atrophy III & IV Graft vs. Host Varies Donor T-cells in the graft proliferate and attack the recipient's tissue. Most commonly seen in bone marrow transplants. Presents with diarrhea, rash and jaundice IV The most impoant thing to remember is the timerframe for the onset of symptoms as you can often determine hat type of rejection it is based on time alone",
-        "cop": 1,
-        "opa": "Hyperacute rejection begins in the operating room with reperfusion of the transplanted organ",
-        "opb": "Liver transplants are especially susceptible to hyperacute rejection",
-        "opc": "Most immunosuppressive medications are used to prevent chronic rejection",
-        "opd": "The major cause of graft failure is acute rejection",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "58cfad67-091d-4df1-be61-1a1a134049d3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following are efficient antigen-presenting cells found in the epidermis?",
         "exp": "Processing and presentation of antigen in association with class II molecules is critical for activation of T cells. Langerhans cells are potent antigen-presenting cells (APCs) found in skin. Macrophages are the major APCs in the body. Dendritic cells are APCs found in lymphoid tissue.",
         "cop": 3,
@@ -479,19 +297,6 @@
         "topic_name": "Transplantation",
         "id": "4c4d6bb0-d092-4a33-9e18-71efd7889b07",
         "choice_type": "single"
-    },
-    {
-        "question": "If a mother is donating her kidney to her son- This is an example of",
-        "exp": "Ans. (b) Allograft. Ref: Surgery Sixer 3rd Edition Page 142. Types of Graft:* Allograft: An organ or tissue transplanted from one individual to another* Isograft: Organs transplanted between identical twins and are immunologically indistinguishable* Autograft: Organ or tissue transplanted within same individual, e. g. skin graft, bone graft and free flap* Xenograft: A graft performed between different species",
-        "cop": 2,
-        "opa": "Isograft",
-        "opb": "Allograft",
-        "opc": "Autograft",
-        "opd": "Xenograft",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "32c1df9f-4f27-41bd-983c-897279e5a6c4",
-        "choice_type": "multi"
     },
     {
         "question": "The most common malignancy in renal transplant recipient is:",
@@ -520,19 +325,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Tissue transplanted from one individual to another is called as -",
-        "exp": "Ans. is 'b' i. e., Allograft Transplantation terminology. Autograft: tissue transplanted from one part of the body to another in the same individual. Also called an autotransplant. Isograft: is a graft of tissue between two individuals who are genetically identical (i. e. monozygotic twins). Transplant rejection between two such individuals virtually never occurs. Allograft: an organ or tissue transplanted from one individual to another. Xenograft: a transplant performed between different species. Orthotopic graft: a graft placed in its normal anatomical site. Hetertopic graft: a graft placed in a site different from that where the organ is normally located.",
-        "cop": 2,
-        "opa": "Autograft",
-        "opb": "Allograft",
-        "opc": "Isograft",
-        "opd": "Xenograft",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "03a1c31d-10d3-4ae3-b2b4-625446ae75c6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Principal cause of death in renal transplant patients:-",
         "exp": "Most common cause of death in renal transplant patients Heart disease > infection > stroke",
         "cop": 4,
@@ -544,32 +336,6 @@
         "topic_name": "Transplantation",
         "id": "aab6b03e-bcf0-4b92-8d76-2bae9a633472",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is expanded criteria donor (ECD) for kidney transplantation?",
-        "exp": "Extended criteria Donors Kidney Transplant Liver Transplant -Donor >60 years of age -Donor age 50-59 years with at least two of the following: 1) Cerebrovascular accident as cause of death 2). Pre-existing hypertension 3). Terminal serum creatinine >1. 5 mg/dL -Mild to moderate steatosis -Hepatitis C positive -Hepatitis B- core antibody positive",
-        "cop": 4,
-        "opa": "Donors with extremes of age",
-        "opb": "Donors with excess alcohol intake",
-        "opc": "Donors having cerebrovascular accident",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "45e7b620-badd-4ac0-810c-b902ee48f0ed",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Kidney transplantation is an:",
-        "exp": "Ans. (a) Allograft. Ref: Bailey 26th edition, Page 1408* Allograft: an organ or tissue transplanted from one individual to another* Alloantigen: Transplant antigen* Alloantibody: Transplant antibodies",
-        "cop": 1,
-        "opa": "Allograft",
-        "opb": "Isograft",
-        "opc": "Xenograft",
-        "opd": "Synergic graft",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "2bbefd50-c5d3-4d5d-9453-59d6cd08e8e2",
-        "choice_type": "multi"
     },
     {
         "question": "The most commonly used drug in the immunosuppression of renal transplant patients is cyclosporine. A major side effect of this drug is:",
@@ -596,19 +362,6 @@
         "topic_name": "Transplantation",
         "id": "85e3db22-eb23-4ae2-856a-043d66e9b82b",
         "choice_type": "single"
-    },
-    {
-        "question": "Renal transplantation from mother to her son is an example of:",
-        "exp": "Ans. (c) Allograft. Ref: Bailey and Love 27th edition, Page 1533* Allograft: Transplant from one individual to another of same species.* Isograft: Transplant between Twins.* Xenograft: Transplant performed between different species",
-        "cop": 3,
-        "opa": "Autograft",
-        "opb": "Heterograft",
-        "opc": "Allograft",
-        "opd": "Xenograft",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "b907c096-bdaf-43e5-a45d-cc5338bc5786",
-        "choice_type": "multi"
     },
     {
         "question": "The advantage of bladder drainage over enteric drainage after pancreatic transplantation is better monitoring of:",
@@ -689,58 +442,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In renal transplantation, graft is placed in:",
-        "exp": "RENAL TRANSPLANTATION PROCEDURE Renal graft is placed in iliac fossa in retroperitoneal position, leaving the native kidney in-situQ Donor renal vein is anastomosed to external iliac veinQ Donor renal aery on Carrel's patch (Small poion of surrounding aoa) of donor aoa is anastomosed to external iliac aeryQ If donor renal aery lacks aoic patch (in cases of living donor renal transplantation), graft renal aery is anastomosed to internal iliac aeryQ Ureter is kept reasonably sho to avoid distal ischemia & anastomosed to bladder by: Lich-Gregoir Technique (PreferredQ): Direct implantation of ureter into dome of bladder with mucosa to mucosal anastomoses followed by closure over ureter to create a sho tunnel Lead-Better Politano techniqueQ",
-        "cop": 2,
-        "opa": "Upper retroperitoneal space",
-        "opb": "Iliac fossa",
-        "opc": "Normal anatomical site",
-        "opd": "None",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "9fab946c-422e-431a-b332-1702be95e873",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are absolute contraindications for renal transplantation except:-",
-        "exp": "Reduced life expectancy is a relative contraindication, not an absolute contraindications for renal transplantation. Contraindication of Renal Transplantation Absolute Relative Active malignant diseaseQ Active infectionQ Unreconstructable peripheral vascular diseaseQ Severe cardiac or pulmonary diseaseQ Active IV drug abuseQ Significant psychosocial barriers Limited life expectancyQ History of non-adherence to medication regimen History of non-compliance with dialysis Financial barrier Renal disease with high recurrence rate Morbid obesity",
-        "cop": 4,
-        "opa": "Active infection",
-        "opb": "Active malignancy",
-        "opc": "Active drug abuse",
-        "opd": "Reduced life expectancy",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "b82ad4a6-4b5a-4e65-b0eb-accc8e6e448f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is an indication of auxiliary paial ohotopic liver transplantation?",
-        "exp": "Auxiliary paial ohotopic liver transplantation- Left lobe of recipient is excised & donor liver occupies vacated space Indications of auxiliary paial ohotopic liver transplantation: Acute fulminant reversible hepatic failure Non cirrhotic metabolic liver disease Small for size graft ABO incompatibility Types of liver transplantation: Ohotopic liver transplantation Graft placed at normal anatomical position after recipient hepatectomy Heterotopic liver transplantation Graft is placed at alternative site rather than at normal anatomical position Auxillary liver transplantation Native liver in situ & whole/paial transplant is added Piggyback liver transplantation Ohotopic liver transplantation that preserves IVC Split liver transplantation Cadaveric liver is divided & given to 2 recipients. Left lobe- to child, right lobe- to adult Reduced liver transplantation Graft is reduced to functional unit of appropriate size for recipient",
-        "cop": 4,
-        "opa": "Drug induced hepatic failure",
-        "opb": "As a standby procedure till a suitable donor is found",
-        "opc": "All irreversible causes of fulminant liver failure",
-        "opd": "Metabolic liver disease",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "60f48871-20a4-4250-942f-9657887edef4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The machine shown here is used during liver transplant. What is the use of it?",
-        "exp": "Ans. (b) Coagulation profile* This is thromboelastography machine which helps to find the coagulation status* During liver surgery this is measured frequently* ROTEM- Rotational thromboelastometry is used to measure the coagulation profile by dynamic method and the result is obtained as graph.",
-        "cop": 2,
-        "opa": "Measure hemoglobin percentage",
-        "opb": "Measure coagulation profile",
-        "opc": "Measure cell count",
-        "opd": "All the above",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "af647ed4-5ac9-4cb8-bf5d-75486679faf4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hyperacute rejection is due to:-",
         "exp": "Hyperacute rejection is due to preformed antibodies. \"Hyperacute rejection occurs when preformed antibodies react with donor antigens on the vascular endothelium of the graft. Subsequent complement activation triggers rapid intravascular thrombosis and graft necrosis. \"-Sabiston 20/e p618 TYPES OF GRAFT REJECTION Hyperacute Rejection Acute (cellular) Rejection Chronic Rejection Immediate (within minutes to hours) graft destruction due to ABO or pre-formed anti-HLA antibodiesQ. Characterised by intravascular thrombosisQ Kidney transplants are paicularly vulnerable. Qto hyperacute graft rejection Heart and liver transplants are relatively resistantQ. Occurs during the first 6 monthsQ Most commonly presents between 5-30Q days after transplantation T-cell dependent, characterized by mononuclear cell infiltrationQ Usually reversibleQ Occurs after the first 6 monthsQ MC cause of graft failureQ Non-immune factors may contribute to pathogenesis Characterized by myointimal proliferation in graft aeries leading to ischemia and fibrosisQ",
         "cop": 1,
@@ -752,19 +453,6 @@
         "topic_name": "Transplantation",
         "id": "126a94fc-21d4-424c-ae63-42a0fd553e40",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is true regarding bone marrow transplantation?",
-        "exp": "Bone marrow cells are highly immunogenic. Successful engraftment requires the use of powerful immunosuppressants that permit the transplanted cells not only to survive the host's immune response, but also to mount a graft-versus-host response against recipient tissues. The graft-versus-host response is the major impediment to more widespread clinical use of this technique. Despite these barriers, human bone marrow transplantation has had important clinical application in the treatment of aplastic anemias and congenital immunodeficiency diseases and several hematologic malignancies. Stem cell transplantation involves harvesting of a patient's own pluripotent bone marrow cells and subsequent reestablishment of the marrow following high-dose, toxic chemotherapy for advanced cancer. This modality has been used in the treatment of recurrent breast cancer, but recent metanalyses of the results have failed to show any significant survival benefit. In experimental models, work with bone marrow transplantation for the induction of tolerance to organ allografts has proved highly promising. This may provide a key for the development of treatment protocols in organ transplant recipients that would avoid or reduce the need for toxic systemic immunosuppressants.",
-        "cop": 1,
-        "opa": "Marrow is highly immunogenic and easily rejected by the non-immunosuppressed host",
-        "opb": "Marrow transplantation has not been successful in the treatment of aplastic anemias",
-        "opc": "Marrow transplantation has not been successful in the treatment of congenital immunodeficiency diseases",
-        "opd": "Marrow transplantation can be used as a successful therapy for stage IV breast cancer following high-dose chemotherapy",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "cb87afc6-c841-4b33-a5d4-3432b3efd8ae",
-        "choice_type": "multi"
     },
     {
         "question": "Most impoant HLA for organ transplantation and tissue typing:-",
@@ -819,19 +507,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is true regarding intravenous administration of chemotherapy?",
-        "exp": "Since chemotherapy is generally most effective in killing rapidly dividing cells, the rapidly dividing cells of a fresh surgical wound should be in jeopardy when chemotherapy is given in the early postoperative period. Each of the phases of normal wound healing is theoretically at risk from one or another class of chemotherapeutic agents. Immediately following wounding, inflammation and vascular permeability lead to fibrin deposition and polymorphonuclear neutrophil (PMN), monocyte, and platelet influx. Macrophages are attracted by the activated complement system. By the fourth day the proliferative phase begins, and for the next 20 days fibroblasts produce mucopolysaccharides and collagen. Cross-linking of the collagen fibers then continues for several months in the maturation phase. It seems logical to delay antineoplastic agents for 10-14 days unless there are compelling clinical indications (e. g., superior vena cava syndrome) for more urgent treatment. Administration of folinic acid simultaneously with methotrexate normalizes wound healing. Extravasation of chemotherapeutic agents during intravenous administration may result in severe ulceration and sloughing. The nature of the injury is largely related to the nucleic-acid binding characteristics of the agent. Those agents that do not bind to tissue nucleic acid (vincristine, vinblastine, nitrogen mustard, BCNU, 5-FU) generally cause only local damage from the immediate injury. These substances are quickly metabolized or inactivated, and usual patterns of wound healing can be expected. On the other hand, agents that bind the nucleic acid (doxorubicin, dactinomycin, mitomycin C, mithramycin, and daunorubicin) cause not only immediate toxic reaction in the tissues but, unless excised, continuing and progressive tissue damage. Though some authors have reported success with elevation and ice packs, most recommend surgical excision if there is severe pain, any sign of early necrosis, or significant blistering.",
-        "cop": 4,
-        "opa": "Subcutaneous extravasation of carmustine (BCNU) or 5-fluorouracil (5-FU) usually causes ulceration",
-        "opb": "Extravasation of doxorubicin rarely causes serious ulceration because the agent binds quickly to tissue nucleic acid",
-        "opc": "Serious and progressive ulceration can be expected following extravasation of vincristine or vinblastine",
-        "opd": "Problems of wound healing should be anticipated if systemic 5-FU therapy is begun less than 2 week postoperatively",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "e5022430-072e-4642-bb39-c756998637bc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Immediately after kidney donation what happens to the creatinine level in the donors -",
         "exp": "Ans. is 'b' i. e., Increases o After kidney donation both the serum creatinine and creatinine clearance increase.",
         "cop": 2,
@@ -843,19 +518,6 @@
         "topic_name": "Transplantation",
         "id": "1b7d84da-a65d-40ec-9748-1f4bb05256f5",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is extended criteria donor for kidney transplantation?",
-        "exp": "Ans. is 'd' i. e., All the above Extended Criteria Donor (ECD) for Kidney transplantation:* With the limited number of organs available for transplantation, donors who would previously been declined are now being accepted.* Criteria include extremes of age, death for intracranial hemorrhage, organ specific diseases such as excess alcohol intake or hepatitis, general co morbidities such as diabetes, cerebrovascular accident or cardiovascular instability.* The long-term outcomes of the transplants performed from ECD are poorer than standard criteria donors, and the potential risks to the recepients must be weighed against the benefits. There is an increased risk of delayed graft function.",
-        "cop": 4,
-        "opa": "Donors with extremes of age",
-        "opb": "Donors with excess alcohol intake",
-        "opc": "Donors having cerebrovascular accident",
-        "opd": "All the above",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "49606abb-cb80-410d-aa30-54492e0b93f9",
-        "choice_type": "multi"
     },
     {
         "question": "Dr. Christian Bernard is associated with?",
@@ -871,45 +533,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements regarding cancer therapy with interleukin 2 (IL-2) is true?",
-        "exp": "With the availability of recombinant interleukin-2, multiple trials of cancer therapy with this lymphokine have been undertaken. The most successful trials have documented complete or partial responses in patients with metastatic renal cell carcinoma and melanoma. However, IL-2 therapy has been ineffective in the treatment of breast cancer, colon cancer, and lymphoma. The therapy is not innocuous. All patients exhibit a marked lymphocytosis, eosinophilia, fluid retention, fever, and decrease in peripheral vascular resistance, effects similar to those of septic shock.",
-        "cop": 4,
-        "opa": "It is a B-cell growth factor",
-        "opb": "It induces a major response in patients with metastatic breast cancer",
-        "opc": "It induces a major response in patients with metastatic colon cancer",
-        "opd": "It induces a major response in patients with metastatic melanoma",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "f590c564-70b1-4983-8849-a5db6a430f2c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Transplant of kidney from mother to son is an example of:-",
-        "exp": "Graft Autograft Isograft Homograft (Allograft) Heterograft (Xenograft) Tissue transplanted from one site to another on the same patient Transplant form a genetically identical donor, such as an identical twin Transplant from individual of same species Transplant from another species Xenograft Concordant Xenograft Discordant Xenograft Transplant between closely related species Example: For humans, old world monkeys & apes Advantage: Hyperacute rejections is not a threat Disadvantages: Zoonotic transfer of disease (Paicularly retroviral transmission) Transplant between distant related or divergent species Example: For humans, new- world monkeys & other mammals For physiological concern (organ size & availability) pigs are preferred animal donor Disadvantages: High risk of hyperacute rejection",
-        "cop": 2,
-        "opa": "Autograft",
-        "opb": "Allograft",
-        "opc": "Isograft",
-        "opd": "Xenograft",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "5d6142db-bedf-4c5f-8543-c4a2590d4c63",
-        "choice_type": "multi"
-    },
-    {
-        "question": "As compared with the early immunosuppressive drugs (azathioprine, steroids, anti-lymphocyte serum) some newer agents have the following specific advantages:",
-        "exp": "Cyclosporine interferes with the production of cytokines and lacks the bone marrow toxicity of azathioprine. Unfounately, its chief toxicity is renal. Although OKT3 is more available, more uniform, and more specific than antilymphocyte serum, some of its side effects are even greater, such as fever, chills, nausea, vomiting, diarrhea, and pulmonary edema. Tacrolimus has been used most extensively for liver grafts. It has been found especially valuable in reversing rejection of failing grafts.",
-        "cop": 3,
-        "opa": "Cyclosporine, which interferes with lymphokine production, exhibits neither bone marrow nor renal toxicity",
-        "opb": "Monoclonal antibody (OKT3) is more available and has greater specificity and fewer side effects than anti-lymphocyte serum",
-        "opc": "Tacrolimus (FK506) has propeies similar to those of cyclosporine but is especially valuable for rescue of grafts that are failing on cyclosporine therapy",
-        "opd": "None of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "88064983-6ff4-4d48-b742-215d5e25c97b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Renal transplantation is most commonly done in:",
         "exp": "Ans. (a) Chronic glomerulonephritis. Ref: Bailey and Love 26th edition, Page 1423. Most common causes of renal failure and indications for transplant* Diabetes* Hypertension* Glomerulonephritis* PCKD* Renal Vascular disease* Pyleonephritis",
         "cop": 1,
@@ -923,32 +546,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most common organism involving allograft transplant:",
-        "exp": "Ans. (c) Viruses. Ref: Bailey 26th edition, Page 1415* Most common infection in allograft transplant--Viral infection* Risk of infection is the greatest during first 6 months* Chemoprophylaxis is important for high-risk patients* Cytomegalovirus is a major problem* Most common malignancy after transplant: Post-transplant lymphoproliferative disorder > skin cancers (squamous cell cancer)",
-        "cop": 3,
-        "opa": "Bacteria",
-        "opb": "Fungi",
-        "opc": "Virus",
-        "opd": "Parasite",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "9a688eae-f889-421b-9cda-15557746caa0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is the extended criteria donor for transplant of kidney?",
-        "exp": "Ans. (d) All the above. Ref: Bailey and Love 27th edition, Page 1544. In kidney transplant extended donor criteria is defined in USA as* Donor age > 60 years (or)* Donor age 50-60 years with any two of the following problems# Hypertension# Death from stroke# Terminal creatinine >132mmol/l. These marginal donors have less satisfactory outcomes than standard donors.",
-        "cop": 4,
-        "opa": "Extreme age of donor",
-        "opb": "Donors with hypertension",
-        "opc": "Donors with CVA",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "898c183f-7dcb-496b-908c-31f98c79d8bb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Post-transplant cytomegalovirus infection may cause",
         "exp": "Overall, 30% of all infections contracted in the posttransplant period are viral. The most common viral infections are DNA viruses of the herpesvirus family and include cytomegalovirus (CMV), Epstein-Barr virus, herpes simplex virus, and varicella zoster virus. CMV infections may occur as either primary or reactive infections and have a peak incidence at about 6-week post-transplant. The classic signs include fever, malaise, myalgia, arthralgia, and leukopenia. CMV infection can affect several organ systems and result in pneumonitis; ulceration and hemorrhage in the stomach, duodenum, or colon; hepatitis; esophagitis; retinitis; encephalitis; or pancreatitis. The risk of developing posttransplant CMV depends on donor-recipient serology, with the greatest risk in seronegative patients who receive organs from seropositive donors. Pyelonephritis, cholecystitis, intraabdominal abscesses, and parotitis are caused by bacterial infections or GI perforation and not primarily by CMV infection.",
         "cop": 2,
@@ -960,19 +557,6 @@
         "topic_name": "Transplantation",
         "id": "76e78c3c-2d2b-47af-bddb-e4e72efb2c56",
         "choice_type": "single"
-    },
-    {
-        "question": "Lowest chance of recipient failure in transplant is seen in:",
-        "exp": "Ans. (b) Isograft. Ref: Bailey 26th ed, page 1426* Isograft: A graft between identical donor such as identical twin* Hence the rejection rate is the lowest",
-        "cop": 2,
-        "opa": "Allograft",
-        "opb": "Isograft",
-        "opc": "Xenograft",
-        "opd": "Heterotropic graft",
-        "subject_name": "Surgery",
-        "topic_name": "Transplantation",
-        "id": "428c9f64-f847-4b06-a1b8-5f3aac1b6ed8",
-        "choice_type": "multi"
     },
     {
         "question": "After the first postoperative year of cardiac transplantation, the most common cause of death is",

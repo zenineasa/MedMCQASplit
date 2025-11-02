@@ -156,19 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The tests which usually help in determine the Gunshot residue in the clothing's except:",
-        "exp": "Clothing may be tested for presence of GSR Modified Greiss test(specific for nitrites):- - It uses chemicals (alpha-naphthol) to produce visual display of GSR pattern and density of paicles. Sodium rhodizonate reaction - detects lead from primer or bullet wipe. Energy dispersive X-ray (EDX) - detects barium, antimony, lead and copper around the entry wound in clothing - It can be used to determine the range of fire. Vaccum metal deposition method- used for fingerprint development.",
-        "cop": 4,
-        "opa": "Modified Greiss test",
-        "opb": "Sodium rhodizonate reaction",
-        "opc": "Energy dispersive X-ray (EDX)",
-        "opd": "Vaccum metal deposition method",
-        "subject_name": "Forensic Medicine",
-        "topic_name": "Ballistics",
-        "id": "fdc816f6-fa33-4486-87fb-cef73663c585",
-        "choice_type": "multi"
-    },
-    {
         "question": "The poisoning causes by bullet retained inside the body is",
         "exp": "Souvenir Bullets are present for a long time in the body so lead poisoning usually associated with Souvenir bullets. A dense fibrous tissue capsule usually surrounds it. Lead poisoning may occur due to absorption of lead from lead bullets remaining in a body. Synol fluid is capable of dissolving lead.",
         "cop": 4,
@@ -180,19 +167,6 @@
         "topic_name": "Ballistics",
         "id": "11362c0d-c0bd-4315-bcd3-4291f522c2e1",
         "choice_type": "single"
-    },
-    {
-        "question": "True about tail wagging of bullet:",
-        "exp": "Yawning bullet:- Detion between the long axis of the bullet and axis of the path of the bullet Tumbling bullet:- Bullet rotates end-to-end during its path Tail wobble or Tail wagging:- It occurs for few microseconds after the bullet leaves the muzzle May cause great damage",
-        "cop": 3,
-        "opa": "Bullet rotates end-to-end during its path",
-        "opb": "Minor damage to tissues",
-        "opc": "Seen when the bullet leaves the muzzle at the beginning of its flight",
-        "opd": "Seen when the bullet loses its velocity near the termination of its flight",
-        "subject_name": "Forensic Medicine",
-        "topic_name": "Ballistics",
-        "id": "7600ff4c-63fd-4313-b7d7-0b4f1c50b95e",
-        "choice_type": "multi"
     },
     {
         "question": "Gun powder in hand during gun-shot residue is collected using:-",
@@ -260,19 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following are features of gunshot Exit wound, except",
-        "exp": "Singeing & Smudging are the features of entry wound; not exit wound. Character Entry wound Exit wound Size Smaller than the diameter of the bullet Larger Edges Inveed Eveed` Abrasion collar and grease collar PresentQ AbsentQ Scorching, smudging & tattooing May be present Absent Bleeding Less MoreQ Fat extrusion Absent May be present Cherry red colour May be present Absent",
-        "cop": 4,
-        "opa": "Bigger than the entry wound",
-        "opb": "Eveed edges",
-        "opc": "Protrusion of soft tissues",
-        "opd": "Singeing & smudging",
-        "subject_name": "Forensic Medicine",
-        "topic_name": "Ballistics",
-        "id": "4074f4f8-fd65-4c6a-8d41-9c80a27e2ed9",
-        "choice_type": "multi"
-    },
-    {
         "question": "The purpose of choking of a firearm is to",
         "exp": "The primary purpose of choking of a shot gun is to reduce dispersion of the pellets. Other functions:- Increases the explosive forces of the pellets. Increases the velocity of the pellets.",
         "cop": 1,
@@ -310,19 +271,6 @@
         "topic_name": "Ballistics",
         "id": "701bafb9-e7c0-4874-82b0-b11c1059a972",
         "choice_type": "single"
-    },
-    {
-        "question": "Presence of spiral grooves in the barrel of weapon is referred to as",
-        "exp": "RIFLED GUN RIFLING: Interior of bore has spiral grooves which run parallel to each other, but twisted spirally from breech to muzzle end. These grooves are called 'rifling' Impas Spinning motion to the bullet Greater power of penetration Straight trajectory Increases accuracy & range Paradox gun: A smooth bore gun with small terminal pa rifled.",
-        "cop": 1,
-        "opa": "Rifling",
-        "opb": "Incendiary",
-        "opc": "Cocking",
-        "opd": "None of the above",
-        "subject_name": "Forensic Medicine",
-        "topic_name": "Ballistics",
-        "id": "b9f7ce71-c67c-4696-9411-2326ec3b974f",
-        "choice_type": "multi"
     },
     {
         "question": "Not a pa of firearm:",
@@ -377,19 +325,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Homicidal gunshot wound is suggested by the presence of:-",
-        "exp": "Presence of gun powder is a feature of suicidal gunshot wound. Feature Suicidal Homicidal Site Head Anywhere Range Contact or very close range Any range Number of wounds One Any number Powder residue on hand PresentQ Absent Cadaveric spasm PresentQ Absent Weapon at the scene PresentQ Absent Others Due to insanity, illness. Suicidal note may be present Associated Crimes",
-        "cop": 1,
-        "opa": "Multiple gunshot wounds of entry",
-        "opb": "Presence of gunpowder on hand",
-        "opc": "No sign of struggle",
-        "opd": "None",
-        "subject_name": "Forensic Medicine",
-        "topic_name": "Ballistics",
-        "id": "ab7e2dd6-7c73-4d7e-8844-852644416572",
-        "choice_type": "multi"
-    },
-    {
         "question": "FG, FFG, FFFG is used to indicate:",
         "exp": "Black Gun Powder: Described as FG, FFG, FFFG, FFFFG depending on the fineness of the grain. The finer grains have more number of 'F'",
         "cop": 2,
@@ -416,19 +351,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Death by suicidal gunshot wound usually can be confirmed by",
-        "exp": "Presence of Gun shot residue suggests the possibility of use of a firearm. - Various tests for detecting GSR * Dermal Nitrate test or Paraffin test Harrison and Gilroy test Neutron activation analysis Atomic absorption spectroscopy (AAS) Flameless atomic absorption spectrophotometry (FAAS) * Scanning Electron Microscope- Energy Dispersive X-ray spectrometry (SEM-EDX) (Most specific)",
-        "cop": 4,
-        "opa": "Finger print on the gun",
-        "opb": "Blood on the gun",
-        "opc": "Gun in hand",
-        "opd": "Gunshot residues in the hand",
-        "subject_name": "Forensic Medicine",
-        "topic_name": "Ballistics",
-        "id": "606c3f9a-400e-41b1-ad15-1473e575683b",
-        "choice_type": "multi"
-    },
-    {
         "question": "The bore of a gun can be examined by:-",
         "exp": "Helixometer: An instrument for inspecting the interior of a gun barrel and for measuring the rate of twist of the rifled bore of a firearm. Comparison microscope is used to match the marks in test bullet & crime bullet Broach cutter is used to produce riflings in a gun.",
         "cop": 2,
@@ -440,31 +362,5 @@
         "topic_name": "Ballistics",
         "id": "b0e5e43f-b70a-4c5e-907e-a190cab3e559",
         "choice_type": "single"
-    },
-    {
-        "question": "In bursting of skull due to firearm injury, a large poion of the brain may be thrown out of the bursting skull and found relatively intact. This is called as",
-        "exp": "During bursting of skull due to firearm injury, a large poion of the brain may be thrown out of the bursting skull and found relatively intact. This is called as kronlein shot. - is a very rare injury of the skull caused by a high-velocity bullet in close range. There is bursting of the skull and laceration of the dura mater with complete evisceration of the brain. The brain will get shattered. Back spatter: Once the bullet is fired, spattering of blood back into the barrel. 'Billiard Ball' Ricochet Effect: It occurs after the shotgun pallets strike an intermediate object like doors, etc. When a mass of shotgun pellets enters tissue, the first pellets which penetrate are slowed and struck from behind by the following pellets which can cause them to scatter through the tissue much like a cluster of billiard balls struck by the cue ball. On X ray, the dispersal of pellets may suggest a distant shot, but actually the weapon was fired from close range.",
-        "cop": 1,
-        "opa": "Kronlein shot",
-        "opb": "Back spatter",
-        "opc": "Billiard ball effect",
-        "opd": "Balling of shot",
-        "subject_name": "Forensic Medicine",
-        "topic_name": "Ballistics",
-        "id": "9d21eef0-3b19-4fc3-af31-d19b8cd614fa",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are components of gun-powder EXCEPT:",
-        "exp": "Gun Powder is of two types: a) Black gun powder: Contains Potassium nitrate 75% + Charcoal 15% + sulphur 10% b) Smokeless Powder is of following types: -Single Base: Contains nitrocellulose -Double Base: contains nitrocellulose + nitroglycerine -Triple Base: Contains Nitrocellulose + Nitroglycerine + nitroguanidine",
-        "cop": 2,
-        "opa": "Charcoal",
-        "opb": "Lead peroxide",
-        "opc": "Potassium nitrate",
-        "opd": "Sulphur",
-        "subject_name": "Forensic Medicine",
-        "topic_name": "Ballistics",
-        "id": "7b5cf9be-8170-480c-bdc8-97bcc3131f4d",
-        "choice_type": "multi"
     }
 ]

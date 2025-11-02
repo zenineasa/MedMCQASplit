@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 2-year-old child presented with hepatomegaly. Cause may be all of the following EXCEPT:",
-        "exp": "In cirrhosis, the liver is usually shrunken, leading to non-palpable liver.",
-        "cop": 3,
-        "opa": "Biliary atresia",
-        "opb": "Hepatoblastoma",
-        "opc": "Cirrhosis",
-        "opd": "Glycogen storage disease",
-        "subject_name": "Pediatrics",
-        "topic_name": "Liver disorders",
-        "id": "1c982ea5-69f2-444f-b645-3e6727f23fb7",
-        "choice_type": "multi"
-    },
-    {
         "question": "In a child with acute liver failure, the most impoant abnormal serum biochemical test that indicates poor prognosis:",
         "exp": "Definition of Acute liver failure in children includes: Biochemical evidence of acute liver injury (usually <8 wk duration); No evidence of chronic liver disease; Hepatic-based coagulopathy defined as i) a prothrombin time (PT) >15 sec or international normalized ratio (INR) >1. 5 not corrected by vitamin K in the presence of clinical hepatic encephalopathy, or ii) a PT >20 sec or INR >2 regardless of the presence of clinical hepatic encephalopathy. Hepatic synthetic function is reflected in serum albumin and protein levels and in the PT or INR Unresponsiveness of PT to vitamin K suggests severe hepatic disease Serum aminotransferase activities do not correlate well with the severity of the illness.",
         "cop": 3,
@@ -63,19 +50,6 @@
         "topic_name": "Liver disorders",
         "id": "b19a19fe-eeb5-4663-870f-57f53f018d8c",
         "choice_type": "single"
-    },
-    {
-        "question": "In a child presenting with obstructive Jaundice all are elevated EXCEPT:",
-        "exp": "Elevations in serum Alkaline phosphatase, 5' nucleotidase, and g-glutamyl transpeptidase levels are sensitive indicators of obstruction or inflammation of the biliary tract.",
-        "cop": 3,
-        "opa": "Gamma glutamyl transpeptidase",
-        "opb": "Alkaline phosphatase",
-        "opc": "Glutamate dehydrogenase",
-        "opd": "5' Nucleotidase",
-        "subject_name": "Pediatrics",
-        "topic_name": "Liver disorders",
-        "id": "f1496332-aaf6-4aba-a3ba-56c6de7e819a",
-        "choice_type": "multi"
     },
     {
         "question": "In neonatal cholestasis, direct bilirubin is:",
@@ -130,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true about Wilson disease EXCEPT:",
-        "exp": "Wilson disease AR disorder caused by a mutation of ATP7B gene on chromosome 13. Raised serum free copper levels. Decreased ceruloplasmin levels (<20 mg/dL). |ed hepatic copper levels (>250 mg/g dry weight of liver) |ed urinary copper excretion. Clinical features: Hepatic- Hepatomegaly, Hepatitis, Liver failure, poal hypertension, ascites Hematologic- Hemolytic anemia CNS- Tremors, dysahria, dystonia, chore. Eye- KF ring ( Kayser Fleischer ring) and Sunflower cataract Renal- Fanconi syndrome, Renal failure",
-        "cop": 4,
-        "opa": "AR inheritance",
-        "opb": "KF ring",
-        "opc": "Raised serum copper level",
-        "opd": "Raised ceruloplasmin level",
-        "subject_name": "Pediatrics",
-        "topic_name": "Liver disorders",
-        "id": "74459b14-b86b-4dd6-acca-bc6dd7bad188",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following if seen on Day 10 of life, is worrisome?",
         "exp": "Discussing about the options one by one, a. Presence of conjugated hyperbilirubinemia is abnormal at any time of life including neonatal period b. A neonate may fixate on face or light in line of vision and \"Doll's-eye\" movement of eyes is seen c. Physiological weight loss is seen in neonates and bih weight is regained by day 10 of life in term neonates, after which weight gain begins d. Jaundice is seen in 60% of term infants and 80% of preterm infants; Physiological jaundice is always unconjugated.",
         "cop": 1,
@@ -154,32 +115,6 @@
         "topic_name": "Liver disorders",
         "id": "dbd27f03-1d3a-4f05-86bc-c5343ee6dcb4",
         "choice_type": "single"
-    },
-    {
-        "question": "In Wilson disease, hepatic copper content usually exceeds_____________ dry weight",
-        "exp": "In Wilson's disease, hepatic copper content usually exceeds 250 mg/g dry weight (>4 mmol/g dry weight is the best biochemical evidence for Wilson disease).",
-        "cop": 2,
-        "opa": "200 mg/g",
-        "opb": "250 mg/g",
-        "opc": "300 mg/g",
-        "opd": "350 mg/g",
-        "subject_name": "Pediatrics",
-        "topic_name": "Liver disorders",
-        "id": "7fb02341-81c1-498b-aad1-65cfca6cb00c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about Gilbe syndrome is:",
-        "exp": "Gilbe syndrome: Unconjugated hyperbilirubinemia Paial deficiency of UDPglucuronyl transferase enzyme Jaundice precipitated by fasting Phenobarbitone, being an enzyme inducer, improves the condition by increasing the activity of UDP glucuronyl transferase enzyme",
-        "cop": 3,
-        "opa": "Conjugated hyperbilirubinemia",
-        "opb": "Starvation improves the condition",
-        "opc": "Phenobarbitone improves the condition",
-        "opd": "Life-threatening",
-        "subject_name": "Pediatrics",
-        "topic_name": "Liver disorders",
-        "id": "930d7d7d-187f-43bc-b01d-97ea65599e6e",
-        "choice_type": "multi"
     },
     {
         "question": "A 12-year-old boy presents with hematemesis, malaena and mild splenomegaly. There is no obvious jaundice or ascites. The most likely diagnosis is:",

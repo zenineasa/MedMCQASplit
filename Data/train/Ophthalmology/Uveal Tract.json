@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Lallo, 25 yr old man, presented with h/o of pain, redness & watering of left eye for last 1 day. There is also intolerance to light. Most probable diagnosis is-",
-        "exp": "Ans- B.",
-        "cop": 2,
-        "opa": "Keratitis",
-        "opb": "Acute anterior uveitis",
-        "opc": "Acute posterior uveitis",
-        "opd": "Simple glaucoma",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal Tract",
-        "id": "c9e96e06-eb4c-4afa-9f0f-2926cabc0d43",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is phacoanaphylactic Uveitis?",
         "exp": "Ans. is 'a' i. e., Uveitis as a result of lens tissue induced inflam mation following cataract surgery o Due to cataract extraction or lens trauma, lens matter induces inflammation in the uveal tissue, called phacoanaphylactic/phacotoxic uveitis:# Phacoanaphylaxis/lens-induced uveitis occurs in the setting of a ruptured or degenerative lens capsule and is characterized by a granulomatous antigenic reaction to lens protein.# Lens proteins are most likely immunologically privileged, and they may initiate an immunologic sensitization only after entering the aqueous humor. This privilege is probably because of numerous factors, as follows: lens proteins are isolated from the fetal circulation early in embryonic life, the lens is devoid of innervation, and the adult lens is completely avascular.",
         "cop": 1,
@@ -76,32 +63,6 @@
         "topic_name": "Uveal Tract",
         "id": "c86c11e1-8855-410b-8a66-e27d513e5ef3",
         "choice_type": "single"
-    },
-    {
-        "question": "Nodules seen near the collarette are called -",
-        "exp": "The pathological reaction in granulomatous uveitis is characterised by infiltration with lymphocytes, plasma cells, with mobilization and proliferation of large mononuclear cells which eventually become epithelioid and giant cells and aggregate into nodules. Iris nodules are usually formed near pupillary border (Koeppe's nodules). and sometimes near collarette (Busacca nodules).",
-        "cop": 1,
-        "opa": "Busacca nodules",
-        "opb": "Koeppe's nodules",
-        "opc": "Lisch nodules",
-        "opd": "Dalen Fuch's nodules",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "ba6495c8-a8a6-4338-8bfe-71e09e3c9d8c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In acute anterior uveitis, the pupil is",
-        "exp": "Pupillary signs in acute iritis: 1. Narrow pupil: It occurs in an acute attack of iridocyclitis due to irritation of sphincter pupillae by toxins. Iris edema and engorged radial vessels of iris also contribute to making the pupils narrow. 2. Irregular pupil shape: It results from segmental posterior synechiae formation. Dilatation of pupils with atropine at this stage results in a festooned pupil. 3. Ectropion pupillae (eveion of pupillary margin). It may develop due to contraction of fibrinous exudateon the anterior surface of the iris. 4. Pupillary reaction becomes sluggish or may evenbe absent due to edema and hyperemia of iris which hamper its movements. 5. Occlusio pupillae results when the pupil iscompletely occluded due to an organization of the exudates across the entire pupillary area. Ref: Khurana; 4th edition; Pg. No. 145",
-        "cop": 3,
-        "opa": "Oval",
-        "opb": "Circular",
-        "opc": "Small, Irregular",
-        "opd": "Large, Irregular",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "e5ff0e0c-7ee6-442b-a42d-d26ac1994184",
-        "choice_type": "multi"
     },
     {
         "question": "The commonest cause of visual loss in AIDS is which one of the following",
@@ -128,19 +89,6 @@
         "topic_name": "Uveal Tract",
         "id": "cdc72949-ccff-4be1-80d0-58e0c3cb7740",
         "choice_type": "single"
-    },
-    {
-        "question": "All are causes of chronic granulomatous uveitis except-",
-        "exp": "The common organisms which excite this type of inflammation are those responsible for tuberculosis, leprosy, syphilis, brucellosis, leptospirosis, as well as most viral, mycotic, protozoal and helminthic infections. A typical granulomatous inflammation is also seen in sarcoidosis, sympathetic ophthalmitis and Vogt-Koyanagi-Harada's disease.",
-        "cop": 4,
-        "opa": "Sarcoidosis",
-        "opb": "Tuberculosis",
-        "opc": "Brucellosis",
-        "opd": "Fuchs heterochromic iridocyclitis",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "836fb6ae-d7da-48d7-94e5-9e8d2caabc5c",
-        "choice_type": "multi"
     },
     {
         "question": "Chorioretinitis is caused by -",
@@ -180,19 +128,6 @@
         "topic_name": "Uveal tract",
         "id": "fc4f7069-ccbb-4b83-9ae6-4ae512ed6eaf",
         "choice_type": "single"
-    },
-    {
-        "question": "Endophthalmitis involves inflammation of all of the following, Except -",
-        "exp": "Endophthalmitis is defined as an inflammation of the inner structures of the eyeball, ie., uveal tissue and retina assosiated with pouring of exudates in the vitreous cavity, anterior chamber and posterior chamber. Ref: A K Khurana 6th edition pg: 170",
-        "cop": 1,
-        "opa": "Sclera",
-        "opb": "Uvea",
-        "opc": "Retina",
-        "opd": "Vitreous",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "5f767810-5ea9-4d31-95cb-36508c9a9d95",
-        "choice_type": "multi"
     },
     {
         "question": "Iris bombe is seen in which disease?",
@@ -273,19 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Heerfordt&; s disease is characterised by all of the following except",
-        "exp": "Uveoparotid fever (Heerfordt's syndrome) It is characterised by bilateral granulomatous pan-uveitis, painful enlargement of parotid glands, cranial nerve palsies, skin rashes, fever and malaise. Ref:- A K KHURANA; pg num:-156",
-        "cop": 4,
-        "opa": "Painful enlargement of parotid glands",
-        "opb": "Cranial nerve palsies",
-        "opc": "Skin rashes, fever and malaise",
-        "opd": "Unilateral non-granulomatous panuveitis",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "5cf37720-62d5-46e1-b5b3-468a1a393efb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mutton fat keratic precipitate and Busacca nodules is seen in -",
         "exp": "The pathological reaction in granulomatous uveitis is characterised by infiltration with lymphocytes, plasma cells, with mobilization and proliferation of large mononuclear cells which eventually become epithelioid and giant cells and aggregate into nodules. Iris nodules are usually formed near pupillary border (Koeppe's nodules). and sometimes near collarette (Busacca nodule). Similar nodular collection of the cells is deposited at the back of cornea in the form of mutton fat keratic precipitates.",
         "cop": 1,
@@ -297,19 +219,6 @@
         "topic_name": "Uveal tract",
         "id": "8f40fec3-b384-43de-b842-55def0756643",
         "choice_type": "single"
-    },
-    {
-        "question": "Snow banking is typically seen in-",
-        "exp": "Snow banking, ie., grey white fibrovascular plaque over the pars plana with or without assosiated peripheral retinal periphlebitis form the hallmark of intermediate uveitis(pars planitis). these are best seen with indirect ophthalmoscopy and Goldman three mirror examination.",
-        "cop": 1,
-        "opa": "Pars planitis",
-        "opb": "Endophthalmitis",
-        "opc": "Coat's disease",
-        "opd": "Eale's disease",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "dd56dbba-2a18-46a1-bfdc-8580af3c859b",
-        "choice_type": "multi"
     },
     {
         "question": "Keratic precipitates are on which layer of cornea -",
@@ -325,32 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about Birdshot Chorioretinopathy?",
-        "exp": "Ans. (b) Bilateral. Ref: Kanski, 7/e, p. 467; Khurana 6/e, p. 170. Birdshot chorioretinopathy is an uncommon idiopathic chronic/recurrent bilateral disease which predominantly affects females. Over 95% patients are positive for HLA A29. The disease involves both the retina and choroid independently.",
-        "cop": 2,
-        "opa": "Unilateral",
-        "opb": "Bilateral",
-        "opc": "Acute onset",
-        "opd": "Most commonly seen in males",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal Tract",
-        "id": "74689c21-7d49-40a5-825b-6b4d778d0bc2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Snow banking is ty pically seen in -",
-        "exp": "Ans. is 'a' i. e.. Pars planitis o Pars planitis (Intermediate uveitis) denotes the inflammation of pars plana part of ciliary body and most peripheral part of the retina. o Most common symptom is floaters; defective vision may also occur. o Fundus examination in pars planitis reveals whitish exudates present near the ora serrata in the inferior quadrant, o These typical exudates are referred as snow hall opacities. o These may coalesce to form a grey white pique called snow banking.",
-        "cop": 1,
-        "opa": "Parsplanitis",
-        "opb": "Endophthalmitis",
-        "opc": "Coat's disease",
-        "opd": "Eale's disease",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal Tract",
-        "id": "454dc6c9-2ffa-4802-8bae-870519513db2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mutton fat KPs are seen in -",
         "exp": "Ans. is 'a' i. e., Granulomatous Uveitis o Keratic precipitates (KPs) are proteinaceous cellular deposits occurring at the back of cornea (corneal endothelial deposits). Keratic precipitates are formed by the aggregation of polymorphonuclear cells, lymphocytes, and epitheloid cells. In the setting of uveitis, the bimicrosopic appearance of KP may yeild important diagnostic clues for the identification of the underlying inflammatory disorder1) Mutton fat KP Large, yellowish KPs, are characteristic of granulomatous uveitis. These are composed of epitheloid cells and macrophages. They are large, thick fluffy, lardaceous KPs, having a greasy or waxy appearance. 2) Small or medium KPs (granular KPs):- These are composed of lymphocytes and are characteristic of nongranulomatous uveitis. These are small, round and whitish precipitates3) Red KPs:- Composed of RBCs and inflammatory cells. These are seen in hemorrhagic uveitis. 4) Old KPs:- In healed uveitis. The above described KPs shrink, fade, become pigmented and irregular in shape with crenated margins.",
         "cop": 1,
@@ -364,19 +247,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Snowball opacities are seen in -",
-        "exp": "Snowball or cotton ball opacities (Ant&; s eggs) refers to typical exudates present near the ora serrata on the inferior quadrant. It is the posterior segment sign in pars plannitis (intermediate uveitis).",
-        "cop": 3,
-        "opa": "Acute anterior uveitis",
-        "opb": "Posterior uveitis",
-        "opc": "Pars planitis",
-        "opd": "None",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "71a0aa98-0214-45ef-a6b3-34c461b3f0db",
-        "choice_type": "multi"
-    },
-    {
         "question": "Lisch nodules in the iris are seen in-",
         "exp": "Ans. is 'b' i. e., Neurofibromatosis 1 * Lisch nodules are the most common type of ocular involvement in NF-1. These nodules are melanocytic hamartomas, usually clear yellow to brown, that appear as well-defined, dome-shaped elevations projecting from the surface of the iris.",
         "cop": 2,
@@ -388,19 +258,6 @@
         "topic_name": "Uveal Tract",
         "id": "a33328a3-d778-411a-bee4-7e9e6b2a152b",
         "choice_type": "single"
-    },
-    {
-        "question": "In acute anterior uveitis, pupil is -",
-        "exp": "Pupillary signs 1. Narrow pupil: It occurs in acute attack of iridocyclitis due to irritation of sphincter pupillae by toxins. Iris oedema and engorged radial vessels of iris also contribute in making the pupil narrow. 2. Irregular pupil shape: It results from segmental posterior synechiae formation. Dilatation of pupil with atropine at this stage results in festooned pupil.",
-        "cop": 3,
-        "opa": "Oval",
-        "opb": "Circular",
-        "opc": "Small, irregular",
-        "opd": "Any of the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "00b8b78d-49a1-4547-827c-75c10aa2f2b5",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is the most common cause of chronic iridocyclitis in children?",
@@ -455,32 +312,6 @@
         "choice_type": "single"
     },
     {
-        "question": "&; Snow ball&; opacities near the ora serrata are pathognomonic of",
-        "exp": "INTERMEDIATE UVEITIS (PARS PLANITIS) It is inflammation of pars plana pa of ciliary body and most peripheral pa of the retina. Etiology: It is an idiopathic disease usually affecting both eyes (80 percent) of children and young adults. Clinical features Symptoms: Most of the patients present with history of floaters. Some patients may come with defective vision due to associated cystoid macular oedema. Signs: Slit-lamp examination may show: mild aqueous flare, and fine KPs at the back of cornea. Anterior vitreous may show cells. Fundus examination with indirect ophthalmoscope reveals the whitish exudates present near the ora serrata in the inferior quadrant. These typical exudates are referred as snow ball opacities. These may coalesce to form a grey white plaque called snow banking. Ref:- A K KHURANA; pg num:-161",
-        "cop": 2,
-        "opa": "Diabetic retinopathy",
-        "opb": "Pars planitis",
-        "opc": "Anterior choroiditis",
-        "opd": "Fungal endophthalmitis",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "78e81c4d-4bc3-4dcc-b24b-3e865cf749bf",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are causes of chronic granulomatous uveitis except -",
-        "exp": "Fuch's heterochromic iridocylitis is a chronic non-granulomatous uveitis. Sarcoidosis, TB and brucellosis cause granulomatous uveitis. Ref: Parson's 22nd/e p. 251 & 21st/e p. 251 &21st/e p. 229.",
-        "cop": 4,
-        "opa": "Sarcoidosis",
-        "opb": "Tuberculosis",
-        "opc": "Brucellosis",
-        "opd": "Fuchs heterochromic iridocyclitis",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "8da9c73b-9c50-43b1-b8bf-56cebbbc935b",
-        "choice_type": "multi"
-    },
-    {
         "question": "In which of the following, intraocular pressure is very high and inflammation is minimum?",
         "exp": "In glaucomatocyclitic crisis there is mild uveitis with severe rise of IOP. It is also known as Posner Schlossman syndrome. Treatment: medical treatment to lower IOP along with a sho course of topical steroids. Ref. khurana page no. 167",
         "cop": 2,
@@ -518,19 +349,6 @@
         "topic_name": "Uveal tract",
         "id": "e2a55c74-5802-413d-9327-08f3e02a2e90",
         "choice_type": "single"
-    },
-    {
-        "question": "True about heterochromic uveitis-",
-        "exp": "Ans. is 'b' i. e., Involves anterior part of iris o In Fush's heterochromic iridocyclitis, anterior surface is involved more commonly. \"Inflammatory membranes are common over the anterior surface of the iris and anterior face of the ciliary body \",..... Yanoff. Fuch's heterochromic iridocyclitis (Fush's uveitis syndrome)o It is a form of anterior and intermediate uveitis. o The condition is usually unilateral and chronic in nature and is characterized by a chronic non-granulomatous uveitis and eventually results in iris heterochromia (a change in the colour of iris), o The disease has following characteristic features: Heterochromia of iris. Diffuse stromal iris atrophy. Fine KPs at back of cornea. Faint aqueous flare. Absence of posterior svnechiaeA fairly common rubeosis iridis, sometimes associated with neovascularisation of the angle of anterior chamber. Comparatively early development of complicated cataract and secondary glaucoma (usually open angle type). Glaucoma has been reported in 10-59% of cases. Treatmento Fuch's heterchromic uveitis responds variable to steroids and cycloplegics. The complications of long term use of these drugs may at times outweigh their potential benefits. Therefore, treatment with topical steroids is given to iritis which is sufficiently active to require the treatment, otherwise the patient is routinely followed without giving any treatment. o Cataract responds well to most forms of intraocular surgeries, including the standard IOL implantation. Hyphemia may occur because of rubeosis iridis (neovascularization of iris), o Glaucoma control may be somewhat more problematic, with surgical options indicated for later forms of disease.",
-        "cop": 2,
-        "opa": "Involves posterior surface of iris",
-        "opb": "Involves anterior part of iris",
-        "opc": "Involves posterior chamber",
-        "opd": "Posterior synechiae",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal Tract",
-        "id": "40b75d62-3e58-41d2-a814-f7adb52e865b",
-        "choice_type": "multi"
     },
     {
         "question": "Drug contraindicated in uveitis is:",
@@ -572,32 +390,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Nodules seen near the collarette are called",
-        "exp": "(Refer: AK Khurana Comprehensive Ophthalmology, 6th edition, pg no. 153, 156, 504, 524). Koeppe's nodules are situated at the pupillary border and may initiate posterior synechia. Busacca's nodules situated near the collarette are large but less common than the Koeppe's nodules",
-        "cop": 1,
-        "opa": "Busacca's nodules",
-        "opb": "Koeppe's nodules",
-        "opc": "Lisch nodules",
-        "opd": "Dalen fuch's nodules",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "b2b2000d-4e17-4b44-9a97-e7345f15642b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Uveal effusion syndrome may be associated with all of the following, Except -",
-        "exp": "Uveal effusion syndrome is a transudation of fluid from the vascular uvea with extravasation from the choriocapillaries into the suprachoroidal space and within the uveal tissues. May be assosiated with ciliochoroidal detachment, structural defect in sclera, nanophthalmos etc. Ref: Parsons&; disease of the eye 22nd edition pg: 254",
-        "cop": 1,
-        "opa": "Myopia",
-        "opb": "Ciliochoroidal detachment",
-        "opc": "Structural defect in Sclera",
-        "opd": "Nanophthalmos",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "6f7b1a18-d859-47a2-b32d-be3706bfa626",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mutton fat keratic precipitates are seen in",
         "exp": "Ans. (a) Granuloma uveitis",
         "cop": 1,
@@ -609,19 +401,6 @@
         "topic_name": "Uveal Tract",
         "id": "544a9b8e-7ebb-44fd-8f4b-223a8cc32a58",
         "choice_type": "single"
-    },
-    {
-        "question": "&; Puff-balls&; opacities in the vitreous are pathognomonic of",
-        "exp": "CANDIDIASIS It is an oppounistic infection caused by Candida albicans. It occurs in immuno-compromised patients which include: patients suffering from AIDS, malignancies, those receiving long-term antibiotics, steroids or cytotoxic drugs. Patients with long-term indwelling intravenous catheter used for haemodialysis, and drug addicts are also prone to such infection. Candida endophthalmitis: is characterised by areas of severe retinal necrosis associated with vitreoretinal abscesses. Vitreous exudates present as 'puff ball' or 'cotton ball' colonies, which when joined by exudative strands form 'string of pearls'. Ref:- A K KHURANA; pg num:-159",
-        "cop": 2,
-        "opa": "Pars planitis",
-        "opb": "Fungal endophthalmitis",
-        "opc": "Exudative retinopathy of Coats",
-        "opd": "Sympathetic ophthalmitis",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "2da673cf-cfab-4412-bd72-457f649bc845",
-        "choice_type": "multi"
     },
     {
         "question": "What is the most common ocular manifestation in rheumatoid arthritis?",
@@ -637,19 +416,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following can lead to the below condition except",
-        "exp": "Ans. (d) Neurofibromatosis IICauses of ectropion uveae have been asked.* Associated with NF 1 and not NF 2* Seen in 1% cases of Prader-Willi syndrome* Most commonly associated with melanoma and Iris Nevus* In acquired cases, associated with cases of rubeosis iridis* Posterior polymorphous corneal dystrophy (PPMD)* Progressive iris atrophy",
-        "cop": 4,
-        "opa": "Iris tumors",
-        "opb": "Iris neovascularization",
-        "opc": "Prader-Willi syndrome",
-        "opd": "Neurofibromatosis II",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal Tract",
-        "id": "ea7fb7a4-ad01-4f15-97ee-618263d24759",
-        "choice_type": "multi"
-    },
-    {
         "question": "Drug of choice for anterior uveitis is?",
         "exp": "ANSWER: (B) Topical steroids. REF: Khurana 4th ed p. 166-167. TREATMENT OF ACUTE UVEITISDrug of first choice: Steroids (topical, intravitreally, subconjuctivally or systemic if the there is no improvement on maximal topical steroids have been used or if the uveitis is severe). Use of atropine and other mydriatics: Most effective in acute stage because they: Give rest to eye by relieving the sphincter. Prevents formation of synechiae and breaking old one's. Reduces hyperemia and exudation. Pilocarpine and other cholinergics and miotics are contrainidicated because they enhance the synechae formation. Beta blockers are used in hypertensive uveitis.",
         "cop": 2,
@@ -661,19 +427,6 @@
         "topic_name": "Uveal Tract",
         "id": "c49510ee-c452-49e5-856b-c53e362f884a",
         "choice_type": "single"
-    },
-    {
-        "question": "Anterior uveitis is characterized by A/E:",
-        "exp": "Ans. is 'b' ie shallow anterior chamber Shallow anterior chamber is not seen in acute anterior uveitis, rather a ring or annular synechiae (post synechiae) lead to funnel shaped AC (deep in centre and shallow at periphery)",
-        "cop": 2,
-        "opa": "Aqueons flare",
-        "opb": "Shallow anterior chamber",
-        "opc": "Circumcorneal cangestion",
-        "opd": "Miosis",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal Tract",
-        "id": "4fa05d8c-7724-4f8f-818c-53ba4554e83f",
-        "choice_type": "multi"
     },
     {
         "question": "In patients with anterior uveitis, decrease in vision due to posterior segment involvement can occur because of -",
@@ -702,19 +455,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Snow ball opacities are seen in",
-        "exp": "(Refer: AK Khurana Comprehensive Ophthalmology, 6th edition, pg no. 150 - 151). Pars planitis (Intermediate uveitis) denotes the inflammation of pars plan pa of the ciliary body and most peripheral pa of the retina. The most common symptom is floaters; defective vision may also occur. Fundus examination in pars planitis reveals whitish exudates present near the ora serrata in the inferior quadrant. These typical exudates are referred as snowball opacities. These may coalesce to form a grey-white plaque called snow banking.",
-        "cop": 3,
-        "opa": "Acute anterior uveitis",
-        "opb": "Posterior uveitis",
-        "opc": "Pars planitis",
-        "opd": "None of the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "38ce6016-2d50-424b-8d31-5cda01fedff0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Gonioscope is used for visualization of",
         "exp": "Gonioscopy: Owing to lack of transparency of corneoscleral junction and total internal reflection of light (emitted from angle structures) at the anterior surface of cornea it is not possible to visualize the angle of anterior chamber directly. Therefore, a device (goniolens) is used to dive the beam of light and this technique of biomicroscopic examination of the angle of the anterior chamber is called gonioscopy. Types of goniolens: (i) Indirect goniolens provides a mirror image of the opposite angle, e. g., Goldmann and the Zeiss goniolens (ii) Direct goniolens provides a direct view of the angle. Koeppe goniolens is the most popular type. The angle structures seen from behind forwards are: 1. The root of the iris 2. The anteromedial surface of the ciliary body (ciliary band), 3. Scleral spur 4. Trabecular meshwork and Schlemm's canal and 5. Schwalbe's line Applications of gonioscopy: 1. Classification of glaucoma into open angle and closed angle based on the configuration of the angle. 2. Localization of foreign bodies, abnormal blood vessels or tumors in the angle. 3. Demonstration of the extent of peripheral anterior synechiae and hence planning of glaucoma surgery. Ref: Khurana comprehensive ophthalmology; 4th edition Pg: 546",
         "cop": 1,
@@ -728,32 +468,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Dalen Fuchs&; nodules are seen in",
-        "exp": "SYMPATHETIC OPHTHALMITIS It is a serious bilateral granulomatous panuveitis, which follows a penetrating ocular trauma. The injured eye is called exciting eye and the fellow normal eye which also develops uveitis is called sympathizing eye. Predisposing factors 1. It, almost always, follows a perforating wound. 2. Wounds in the ciliary region ( the so-called dangerous zone) are more prone to it. 3. Wounds with incarceration of the iris, ciliary body or lens capsule are more vulnerable. 4. It is more common in children than in adults. 5. It does not occur when actual suppuration develops in the injured eye. Pathology: Dalen-Fuchs nodules are formed due to proliferation of the pigment epithelium (of the iris, ciliary body and choroid) associated with invasion by the lymphocytes and epitheloid cells. Retina shows perivascular cellular infiltration (sympathetic perivasculitis ). Clinical features: Sympathizing (sound) eye: It is usually involved after 4-8 weeks of injury in the other eye. Sympathetic ophthalmitis almost always manifests as acute plastic iritis. Rarely, it may manifest as neuroretinitis or choroiditis. * Sensitivity to light (photophobia) and transient indistinctness of near objects (due to weakening of accommodation) are the earliest symptoms. Ref:- A K Khurana; pg num:-413",
-        "cop": 3,
-        "opa": "Retinal detachment",
-        "opb": "Spring catarrh",
-        "opc": "Sympathetic ophthalmitis",
-        "opd": "None of the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "35f446f7-36ae-45a7-a9bb-6ee72f7a3583",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Snow banking is typically seen in",
-        "exp": "INTERMEDIATE UVEITIS (PARS PLANITIS): *It denotes inflammation of pars plana pa of the ciliary body and most peripheral pa of the retina.*Etiology: It is an idiopathic disease usually affecting both eyes (80 percent) of children and young adults. Pars planitis is a rather common entity, constituting 8 percent of uveitis patients.*Clinical features: Symptoms: Most of the patients present with a history of floaters. Some patients may come with defective vision due to associated cystoid macular edema. Signs: The eye is usually quiet. A slit-lamp examination may show mild aqueous flare and fine Keratic Precipitates at the back of the cornea. Anterior vitreous may show cells. Fundus examination with indirect ophthalmoscope reveals the whitish exudates present near the ora serrata in the inferior quadrant. These typical exudates are referred as snowball opacities. These may coalesce to form a grey-white plaque called snow banking. *Complications of long-standing pars planitis include cystoid macular edema, complicated cataract, and tractional retinal detachment.*Treatment: 1. Coicosteroids administered systemically and as repeated periocular injections may be effective in some cases. 2. Immunosuppressive drugs may be helpful in steroid-resistant cases. 3. Peripheral cryotherapy is also repoed to be effective. Ref: Khurana; 4th edition; Pg. No. 161",
-        "cop": 1,
-        "opa": "Pars palnitis",
-        "opb": "Endophthalmitis",
-        "opc": "Coat's disease",
-        "opd": "Eale's disease",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "e02977fc-946d-4619-9ea3-f7c9bd802376",
-        "choice_type": "multi"
-    },
-    {
         "question": "Drug used in LUMINATE programme for non infectious uveitis is -",
         "exp": "Uveitis is an inflammatory, putative Th1-mediated autoimmune disease that affects various pas of the eye and is a leading cause of visual loss. Currently available therapies are burdened with toxicities and/or lack definitive evidence of efficacy. Voclosporin, a rationally designed novel calcineurin inhibitor, exhibits a orable safety profile, a strong correlation between pharmacokinetic and pharmacodynamic response, and a wide therapeutic window. The LUMINATE (Lux Uveitis Multicenter Investigation of a New Approach to Tr. Eatment) clinical development program was initiated in 2007 to assess the safety and efficacy of voclosporin for the treatment, maintenance, and control of all forms of noninfectious uveitis. If LUMINATE is successful, voclosporin will become the first Food and Drug Administration-approved coicosteroid-sparing agent for this condition Ref khurana 6/e",
         "cop": 2,
@@ -765,19 +479,6 @@
         "topic_name": "Uveal tract",
         "id": "8e2d138f-03fe-4470-8f5d-37ae59d019ac",
         "choice_type": "single"
-    },
-    {
-        "question": "Phthsis bulbi means -",
-        "exp": "Phthisis bulbi is a shrunken, non-functional eye. It may result from severe eye disease, inflammation or injury, or it may represent a complication of eye surgery. Treatment options include inseion of a prosthesis, which may be preceded by enucleation of the eye. Ref: Khurana 7th/e p. 163 & 4th/e p. 146.",
-        "cop": 3,
-        "opa": "Developmental hypoplasia of optic cup",
-        "opb": "Final end stage of chronic scleritis",
-        "opc": "Final end stage of chronic uveitis",
-        "opd": "All of the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "22065449-8404-4aa4-bcd7-6d4f5a6fb408",
-        "choice_type": "multi"
     },
     {
         "question": "'Keratic precipitates and cells' in anterior chamber are suggestive of?",
@@ -806,32 +507,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Snow banking is seen in:",
-        "exp": "Ans. (c) Intermediate uveitis. Ref: Khurana 4/e, p 216, 161",
-        "cop": 3,
-        "opa": "Anterior uveitis",
-        "opb": "Posterior uveitis",
-        "opc": "Intermediate uveitis",
-        "opd": "None of these",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal Tract",
-        "id": "3dd6cf3f-399d-407b-981b-1e721adbc64b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are seen in VKH syndrome except -",
-        "exp": "Clinical features of VKH syndrome Cutaneous lesion: alopecia, poliosis and vitiligo Neurological lesions: meningism and encephalopathy Auditory features: tinnitus, veigo and deafness Ocular features: granulomatous uveitis Ref: A K Khurana 6th edition pg: 169",
-        "cop": 4,
-        "opa": "Vitiligo",
-        "opb": "Veigo",
-        "opc": "Granulomatous uveitis",
-        "opd": "Iris heterochromia",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "ea9cb464-73f9-46b6-9a85-b27187702b69",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not a feature of anterior uveitis",
         "exp": "Anterior uveitis. It is inflammation of the uveal tissue from iris up to pars plicata of the ciliary body. It may be subdivided into: Iritis, in which inflammation predominantly affects the iris. Iridocyctitis in which iris and pars plicata pa of the ciliary body are equally involved, and. Cyclitis, in which pars plicata pa of the ciliary body is predominantly affected. In an active stage of anterior uveitis, cellular deposits are observed in the angle of anterior chamber by gonioscopic examination. Keratic precipitates (KPs) are proteinaceous cellular deposits occurring at the back of the cornea. Pupils are small and irregular.",
         "cop": 2,
@@ -843,19 +518,6 @@
         "topic_name": "Uveal tract",
         "id": "f60409ea-fa2c-4247-b1a1-c15f8124e62c",
         "choice_type": "single"
-    },
-    {
-        "question": "Choroidal effusion syndrome is associated with all except",
-        "exp": "Choroidal effusion syndrome (ciliochoroidal effusion) It is characterized by: - Thick sclera (main feature), ciliochoroidal detachment ( abnormal accumulation of serous fluid in outer layer of ciliary body and choroid). - Absence of inflammation and neoplastic disease. - Eyes may be nanophthalmic or hypermetropic. - Leopards spots, i. e mottling of pigment epithelium. Ref:- Parsons diseases of eye; pg num:-254",
-        "cop": 1,
-        "opa": "Myopia",
-        "opb": "Nanophthalmos",
-        "opc": "Structural defects in the sclera",
-        "opd": "Ciliochoroidal detachment",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "f50f3ceb-278c-403c-91c3-a129f243e0d9",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following protozoan affects the eye?",
@@ -910,58 +572,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Following is true about behcet's disease except -",
-        "exp": "Ans. is 'c' i. e., It has good visual prognosis BEHCET'S DISEASEo It is an idiopathic multisystem disease characterised by recurrent, non-granulomatous uveitis, aphthous ulceration, genital ulcerations and erythema multiforme. Etiology# It is still unknown; the basic lesion is an obliterative vasculitis probably caused by circulating immune complexes. The disease typically affects the young men Who are positive for HLA-B51. Clinical features. Uveitis seen in Behcet *s disease is typically bilateral, acute recurrent iridocyclitis associated with hypopyon. It may also be associated with posterior uveitis, vitritis, periphlebitis retinae and retinitis in the form of white necrotic infiltrates. Treatment. No satisfactory treatment is available, and thus the disease has got comparatively poor visual prognosis. Corticosteroids may by helpful initially but ultimate response is poor. In some cases the disease may be controlled by chlorambucil.",
-        "cop": 3,
-        "opa": "It shows presence of aphthous ulceration, genital ulceration and uveitis",
-        "opb": "Uveitis is bilateral, acute recurrent iridocyclitis with hypopyon",
-        "opc": "It has good visual prognosis",
-        "opd": "Chlorambucil can be used to control the disease",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal Tract",
-        "id": "c81df8a5-2cc5-4a5f-9765-4a0ced8d61ba",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Typical coloboma of iris occurs",
-        "exp": "CONGENITAL COLOBOMA OF THE UVEAL TRACT Congenital coloboma (absence of tissue) of iris, ciliarybody and choroid may be seen in association or independently. Coloboma may be typical or atypical. Typical coloboma: is seen in the inferonasal quadrant and occurs due to defective closure of the embryonic fissure. Atypical coloboma: is occasionally found in other positions. Ref:- A K KHURANA; pg num:-137",
-        "cop": 4,
-        "opa": "lnferotemporally",
-        "opb": "Superotemporally",
-        "opc": "Superonasally",
-        "opd": "lnferonasally",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "ad602689-3c74-4c2d-abec-8afa3abc3c24",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Choroidal neurovascularization is seen in all except -",
-        "exp": "Brushfield spots are small, white or grayish/brown spots on the periphery of the iris in the human eye due to aggregation of connective tissue, a normal constituent of theiris stroma. Hypermetropia is a long sightedness Ref khurana 6/e",
-        "cop": 4,
-        "opa": "Trauma",
-        "opb": "Angiod streak",
-        "opc": "Myopia",
-        "opd": "Hypermetropia",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "f8bebdb3-fa5f-4791-a4a5-536dc4e955d2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Mutton fat keratic precipitates are not seen in -",
-        "exp": "Mutton fat keratic precipitates are seen in granulomatous iridocyclitis (eg: Tuberculosis, Sarcoidosis) Fuch's heterochromia cyclitis is not seen in non-granulomatous iridocyclitis.",
-        "cop": 2,
-        "opa": "Tuberculosis",
-        "opb": "Fuch's heterochromia cyclitis",
-        "opc": "Sarcoidosis",
-        "opd": "None",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "0baaedeb-12a7-42ff-8ba0-f879cb43fc48",
-        "choice_type": "multi"
-    },
-    {
         "question": "Type of laser used in Laser iridotomy is: (E. REPEAT 2009)",
         "exp": "Ref: Multiple Sources: Basak, Kan ski. Explanation: Lasers. Uses in Ophthalmology. Nd Yag Laser* Iridotomy (Glaucoma)* Capsulotcmy (Posterior capsular opacification). Argon Laser* Laser abiaiion - Trichiasis* Trabeculoplasty (Glaucoma). Holmium Yag Laser* Endorser Dacryocystorhinostomy. Excimer Laser (Excited Dimer)* Refractive surgery:(a). Pf. Tctorefractive keratectomy (PRK) (b) Laser assisted in situ keratomileusis (LASPK)* Photo-therapeulic keratoptasty-Supedicial corneal scars. Holmium Yttrium Aluminum Garnet (HO: YAG)* Lase? thermal keratoplasty. Diode laser* Trabeculoplasty (Glaucoma)* Cycloablation (Glaucoma). Helium Neon (He-Ne) Laser* Laser Inlererometry--to test the potential visual acuity in the presence d coacrty n the media. Laser Effect on Tissues. Laser effect. Mechanism. Type of laser. Photocoagulation. Controlled burn* Argon laser* Diode laser* Krypton laser. Photo-vaporisation * Argon laser* Diode laser. Photo-disruption. Optical breakdown to disrupt tissues by the formation of plasma* N'd-Yag laser. Photo-ahtation. Ablation of corneal tissue without thermal damage* Excimer laser",
         "cop": 2,
@@ -1012,19 +622,6 @@
         "topic_name": "Uveal tract",
         "id": "12d4a666-9204-4bb1-a09a-aa782f92e5b8",
         "choice_type": "single"
-    },
-    {
-        "question": "Posner-schlossman syndrome is -",
-        "exp": "It is also known as glaucomatocyclitic crisis. It shows mild uveitis with severe rise of IOP. Disease typically effects young adults, 40% of whom are positivs for HLA-BW54 REF: khurana page no. 167",
-        "cop": 2,
-        "opa": "Ipsilateral optic atrophy with contralateral papilloedema",
-        "opb": "Unilateral glaucomatous changes with mild anterior uveitis",
-        "opc": "Granulomatous uveitis with iris heterochromia",
-        "opd": "None of the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "726b1558-c0bf-4ab5-b360-4d639c521609",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following indicates activity of anst uveitis -",
@@ -1105,19 +702,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following has HLAB27 associated with uveitis except -",
-        "exp": "Ankylosing spondylitis and Reiters syndrome: both involves young males who are positive for HLA-B27. Behcets syndrome: The disease typically affects the young men who are positive for HLA-B51.",
-        "cop": 3,
-        "opa": "Ankylosing spondylitis",
-        "opb": "Reiters syndrome",
-        "opc": "Behcets syndrome",
-        "opd": "None of the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "807acc53-f119-4eff-a87b-a8cff279a763",
-        "choice_type": "multi"
-    },
-    {
         "question": "Pars planitis is -",
         "exp": "Pars planitis is inflammation of the pars plana and peripheral pa of the retina and underlying choroid. Which is nothing but the intermediate uveitis. Ref: A K Khurana 6th edition pg: 150",
         "cop": 2,
@@ -1129,19 +713,6 @@
         "topic_name": "Uveal tract",
         "id": "d0698b83-b53e-4db6-9968-421518b55976",
         "choice_type": "single"
-    },
-    {
-        "question": "\"Dalen Fuch\" nodules are seen in",
-        "exp": "Ans. c (Sympathetic ophthalmia) (Ref. Schlote, Pocket Atlas of Ophthalmology, p. 132). Dalen-Fuchs Nodules (chorioretinal lesions) are small, discrete, yellow, elevated infiltrates are commonly seen in the midperipheral fundus of patients with sympathetic uveitis. They consist of lymphocytes and epithelioid cell collections between Bruch's membrane and retinal pigment epithelium, although not pathognomonic for Sympathetic ophthalmia, are quite suggestive of this condition; They may be found in VKH syndrome. SYMPATHETIC OPHTHALMIA# Sympathetic ophthalmia is a bilateral, granulomatous panuveitis that classically occurs following a penetrating injury of the eye with uveal involvement.# It can also result from ocular surgery.# Etiology/pathogenesis- T cell-mediated autoimmune reaction, caused by release of uveal antigens (probably from melanocytes).- Genetic predisposition (association with HLADRB1* 04 and DQA1*03).# Epidemiology- Very rare; Manifestation may be days to many years after the causative trauma (90% within one year).# Features:- The visual acuity is variable.- Greasy-appearing deposits on the back of the cornea- Variable anterior chamber inflammation- Inflammatory cells in the vitreous.- Choroidal thickening, Papillitis, Retinal vascular sheathing- Fuchs-Dalen nodules (small white infiltrates in the middle periphery of the fundus)- Macular edema, Exudative retinal detachment, and Optic atrophy.# Diagnosis- Diagnosis is made clinically when panuveitis from other causes is excluded.# Differential diagnosis- Endophthalmitis, Other forms of panuveitis, and Masquerade syndromes (intraocular lymphoma).# Treatment# There is high risk of blindness without adequate treatment if bilateral.# Administration of local and systemic corticosteroids constitutes the basic therapy.# Use of immunosuppressants (e. g., cyclosporine A) is often also required.# Prognosis# Recurrences are frequent following reduction or cessation of therapy.# Long-term or even lifetime treatment is therefore necessary.# The most common complications interfering with vision are macular edema, secondary cataract, and secondary glaucoma. Also remember: Berlin, Koeppe, Busacca nodules are found on iris in granulomatous uveitis. Koeppe's are seen on papillary border, while Busacca are found mid-iris. Berlin are present in angle. 6",
-        "cop": 3,
-        "opa": "Hypertensive retinopathy",
-        "opb": "Diabetic retinopathy",
-        "opc": "Sympathetic ophthalmia",
-        "opd": "All of the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal Tract",
-        "id": "966d0fec-7774-4057-8fbd-d7855447e1a6",
-        "choice_type": "multi"
     },
     {
         "question": "Uveitis with auditory and cutaneous problems occurs in",
@@ -1157,19 +728,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Snow bankng is typically seen in -",
-        "exp": "Exudates of intermediate uveitis (pars planitis) coalesce to from a grey white plaque called snow banking. Ref: Khurana 7th/e p. 167 & 4th/e p. 161.",
-        "cop": 1,
-        "opa": "Pars planitis",
-        "opb": "Endophthalmitis",
-        "opc": "Coat's disease",
-        "opd": "Eale's disease",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "b94c1c6f-92b9-4d28-9e29-24d67cc235ec",
-        "choice_type": "multi"
-    },
-    {
         "question": "HLA - B5 is associated with",
         "exp": "Behcet&; s syndrome The condition has an immunological basis in which severe iridocyclitis characterised by a hypopyon, is associated with evidence of obliterative retinal vasculitis. It is accompanied by ulcerative lesions in the conjunctiva, oral and genital mucosa, together with neurological and aicular manifestations. The syndrome belongs to connective tissue disorders but is of two types: first associated with herpetiform ulcers in the mouth and second with aphthous ulcers. There is a significant association with HLA- B5 antigen. No specific treatment is known. Ref:- Parsons diseases of eye; pg num:-250",
         "cop": 4,
@@ -1181,19 +739,6 @@
         "topic_name": "Uveal tract",
         "id": "ff668440-e9d9-438b-afe6-b787eb3a62a5",
         "choice_type": "single"
-    },
-    {
-        "question": "Pathognomic sign of Acute Iriodocyclitis is -",
-        "exp": "Keratic precipitates (KPs) on posterior surface of cornea are pathognomonic of the involvement of ciliary body in the inflammation. * Earliest sign of anterior uveitis- aqueous flare. * Pathognomonic sign -Keratic precipitate. Ref: Clinical ophthalmology 1st/e p. 568.",
-        "cop": 2,
-        "opa": "Aquous flare",
-        "opb": "Keratic precipitates",
-        "opc": "Small pupil",
-        "opd": "All of the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "9c83042e-cf37-4d4f-a64f-74383ed74f5c",
-        "choice_type": "multi"
     },
     {
         "question": "Drug of choice for intermediate uveitis -",
@@ -1220,32 +765,6 @@
         "topic_name": "Uveal tract",
         "id": "dc903b5c-0847-4e18-a513-ed340b9ba1d4",
         "choice_type": "single"
-    },
-    {
-        "question": "Snaw ball opacities are seen in -",
-        "exp": "Fundus examination in pars planitis reveals whitish exudates present near the ora serrata in the infefior quadrant. These typical exudates are referred as snow ball opacities. These may coalesce to from a grey white plque called snow banking. Ref: Khurana 7th/e p. 167 & 4th/e p. 161.",
-        "cop": 3,
-        "opa": "Acute anterior uveitis",
-        "opb": "Posterior uveitis",
-        "opc": "Pars planitis",
-        "opd": "None",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "3499faac-4d15-4d41-83a6-3d57d8ecf6f0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Phthisis bulbi means -",
-        "exp": "Phthisis bulbi: It is the final stage end result ofany form of chronic uveitis. In this condition, ciliary body is disorganised and so aqueous production is hampered. As a result of it the eye becomes soft, shrinks and eventually becomes a small atrophic globe (phthisis bulbi).",
-        "cop": 3,
-        "opa": "Developmental hypoplasia of optic cup",
-        "opb": "Final end stage of chronic scleritis",
-        "opc": "Final end stage of chronic uveitis",
-        "opd": "All of the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "779a3809-3092-439a-863e-14234c16efd0",
-        "choice_type": "multi"
     },
     {
         "question": "Drug of choice for acute iridocyclitis is-",
@@ -1287,32 +806,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about heterochromic uveitis -",
-        "exp": "It is a chronic non-granulomatous type of low grade anterior uveitis typically associated with early cataract formation. Shows moth- eaten appearance of iris, absence of posterior synechiae. Typically occurs unilaterally in middle aged persons. Treatment: topical steroids. Ref: khurana page no. 168",
-        "cop": 2,
-        "opa": "Involves posterior surface of iris",
-        "opb": "Involves anterior pa of iris",
-        "opc": "Involves posterior chamber",
-        "opd": "Posterior synechiae",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "276922db-5678-439f-ad1c-46ed7e2f056d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are causes of chronic granulomatous uveitis EXCEPT:",
-        "exp": "(Fuch's heterochromic iridocyclitis) (220-Parson 20th)* Causes of chronic granulomatous uveitis - Sarcoidosis, Herpes simplex, herpes zoster, varicella, syphilis, Tuberculosis, leprosy, brucellosis phacoanaphylactic* Causes chronic - non granulomatous uveitis - Juvenile, chronic arthritis, chronic iridocyclitis of children, Fuch's heterochromic iridocyclitis.",
-        "cop": 4,
-        "opa": "Sarcoidosis",
-        "opb": "Tuberculosis",
-        "opc": "Brucellosis",
-        "opd": "Fuchs heterochromic iridocyclitis",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal Tract",
-        "id": "11e5dc0c-53c8-428a-8d2a-ab91743fb0b4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Treatment of choice for Pars planitis (Intermediateuveitis) -",
         "exp": "Ans. is 'b' i. e., Corticosteroids Drugs used in acute anterior uveitis (iridocyclitis)o Topical steroids (Drugs of choice)o Mydriatic - cycloplegics: Atropine (Drug of 2nd choice), Homatropine, cyclopentolate, tropicamide, mydricain (mixture of atropine, adrenaline & procaine)o Systemic steroidso NS AIDso Systemic immunosuppressives cyclosporine, methotrexate, cyclophosphamide Intermediate uveitiso Systemic steroids are the drug of choice. Posterior uveitis (choroiditis)o Systemic steroids are the drug of choice",
         "cop": 2,
@@ -1350,19 +843,6 @@
         "topic_name": "Uveal tract",
         "id": "0e358945-96ef-47f2-a6b9-adf1377f6346",
         "choice_type": "single"
-    },
-    {
-        "question": "Vogt - Koyanagi - Harada syndrome is-",
-        "exp": "Vogt-Koyanagi-Harada (VKH) syndrome is a chronic granulomatous uveitis. It is an idiopathic multisystem disorder which includes cutaneous, neurological and ocular lesions. Ref: A K Khurana 6th edition pg: 169",
-        "cop": 1,
-        "opa": "Chronic granulomatous uveitis",
-        "opb": "Chronic non-granulomatous uveitis",
-        "opc": "Acute purulent uveitis",
-        "opd": "None",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "8bebcff1-2eed-43be-af73-30010892b515",
-        "choice_type": "multi"
     },
     {
         "question": "Chronic use of systemic steroids most commonly leads to which ocular complication?",
@@ -1417,19 +897,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Pathognomic sign of Acute Iridocyclitis is -",
-        "exp": "Keratic precipitates is pathognomic sign of acute iridocyclitis.",
-        "cop": 2,
-        "opa": "Aquous flare",
-        "opb": "Keratic precipitates",
-        "opc": "Small pupil",
-        "opd": "All of the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "b47ebf4a-a9f0-41d8-98f7-e6e4e7cddec6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mutton fat keratic precipitate is seen in -",
         "exp": "Ans. is 'b' i. e., Granulomatous uveitis o Mutton fat keratic precipitate and Busacca's nodule are seen in granulomatous uveitis, o KPs are proteinaceous cellular deposits occuring at the back of cornea (corneal endothelial deposits). Keratic precipitates (KPs)o KPs are proteinaceous cellular deposits occurring at the back of cornea (corneal endothelial deposits). Keratic precipitates are formed by the aggregation of polymorphonuclear cells, lymphocytes, and epitheloid cells. In the setting of uveitis, the bimicrosopic appearance of KP may yeild important diagnostic clues for the identification of the underlying inflammatory disorder:-Mutton fat KP Large, yellowish KPs, are characteristic of granulomatous uveitis. These are composed of epitheloid cells and macrophages. They are large, thick fluffy; lardaceous KPs, having a greasy or waxy appearance. Small or medium KPs (granular KPs):- These are composed of lymphocytes and are characteristic of non- granulomatous uveitis. These are small, round and whitish precipitates. Red KPs Composed of RBCs and inflammatory cells. These are seen in hemorrhagic uveitis. Old KPs:- In healed uveitis. The above described KPs shrink, fade, become pigmented and irregular in shape with crenated margins.",
         "cop": 2,
@@ -1441,32 +908,6 @@
         "topic_name": "Uveal Tract",
         "id": "0e56aa27-d39d-47f6-ba88-2461c8f736ad",
         "choice_type": "single"
-    },
-    {
-        "question": "Following is feature of Fuchs&; heterochromic iridocyclitis -",
-        "exp": "Fuchs&; heterochromic iridocyclitis is a chronic non-granulomatous type of low grade anterior uveitis typically assosiated with early cataract formation. Clinical features: Heterochromia of iris, Diffuse stromal iris atrophy, (moth-eaten appearence), may cause transillumination defect, Fine stellate KPs at the back of cornea, Faint aqueous flare, Absence of posterior synechiae, A fairly common rubeosis iridis, sometimes assosiated with neovascularisation of the angle of anterior chamber, and Comparitively early development of complicated cataract and secondary glaucoma (usually popen angle type ) Ref: A K Khurana 6th edition pg: 169",
-        "cop": 4,
-        "opa": "Heterochromia of iris",
-        "opb": "Keratic precipitates",
-        "opc": "cataract",
-        "opd": "All the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal tract",
-        "id": "29ac9977-70ff-4f4e-80b9-b7d5873ba953",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are features of iridocyclitis except",
-        "exp": "Ans) b (Mucopuntlent discharge) Ref: Kansk, 6th ed p447-448. Mucopurulent discharge is seen in conjunctivitis Symptoms of iridocyclitis-Sudden onset pain. Photophobia. Redness. Lacrimation. Signs. Visual acuity decreased, Circumcomeal congestion. Miosis. Keratic precipitates. Aqueous cells and flare, hypopyon occ. Anterior vitreous cells. Posterior synechia. Low IOP",
-        "cop": 2,
-        "opa": "Pain",
-        "opb": "Mucopurulent discharge",
-        "opc": "Constricted pupil",
-        "opd": "Circum corneal congestion",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Uveal Tract",
-        "id": "e5d2d45d-5d09-4109-a001-1482c349897d",
-        "choice_type": "multi"
     },
     {
         "question": "Intractable secondary glaucoma is seen in:",

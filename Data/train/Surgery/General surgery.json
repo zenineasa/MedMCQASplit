@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are risk factors of squamous cell carcinoma except",
-        "exp": "Ultraviolet radiation, chronic inflammation, and chemical carcinogens (arsenicals, tar) and infection with HPV 5 and 16. There is also evidence that current and previous tobacco use doubles the relative risk of SCC. Ref: Bailey and Love, 27e, page: 606",
-        "cop": 4,
-        "opa": "Ultraviolet radiation",
-        "opb": "Tar",
-        "opc": "Tobacco",
-        "opd": "HPV 18",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "745dd5aa-461f-4928-9b6a-6bcd597d685e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is the least likely complication after massive blood transfusion, except",
-        "exp": "Massive transfusion can lead to coagulopathy and metabolic complications. MC cause of death after massive transfusion: dilutional coagulopathy or DIC. Transfusion of 15-20 units of blood components causes dilutional thrombocytopenia. After massive blood transfusion initially transient hyperglycemia due to glucose in preservatives leading to insulin release and causing hypoglycemia (MC) Galvimetric method of estimation of blood loss: Blood loss during operation is measured by weighing the swabs after use & substracting the dry weight plus volume of blood collected in suction or drainage. Metabolic complications of Massive Transfusion: General Electrolyte Fluid overload Hypothermia Impaired oxygen delivery capacity of Hb (decreased 2, 3-DPG) Hyperkalemia Hypocalcemia Hypomagnesemia Metabolic acidosis(rare) Metabolic alkalosis Transfusion Protocols BT should commence within 30 minutes or removing blood bag from refrigerators because of increased risk of bacterial contamination. Whole blood or packed RBC transfusion must be completed within 4 hours. Platelet and FFP transfusion should be completed within 20 minutes. Transfusion set should have standard filter of 170microm size. Usual transfusion needle size should be of 18-19 gauge. Ref: Harrisons 19th edition Pgno: 138",
-        "cop": 4,
-        "opa": "Hyperkalemia",
-        "opb": "Citrate toxicity",
-        "opc": "Hypothermia",
-        "opd": "Metabolic acidosis",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "4a533915-56aa-43fc-9b77-67f3a6bdd8f9",
-        "choice_type": "multi"
-    },
-    {
         "question": "In an elective lap cholecystectomy with no gross spillage, antibiotics required are",
         "exp": "Elective lap cholecystectomy is a clean-contaminated surgery, single preoperative IV antibiotic during decisive period is sufficient. There is no evidence that fuher doses of antibiotics after surgery are of any value in prophylaxis against infection. When wounds are heavily contaminated or when an incision is made into an abscess, a 5-day course of therapeutic antibiotics may be justified. Ref: Bailey and Love 27e pg: 53",
         "cop": 3,
@@ -50,58 +24,6 @@
         "topic_name": "General surgery",
         "id": "e57551b1-32bf-4f6c-b97a-d61c6d6e34f7",
         "choice_type": "single"
-    },
-    {
-        "question": "Hyponatremia in multiple myeloma is",
-        "exp": "Pseudohyponatremia Patients with multiple myeloma also have a decreased anion gap because of the M component is cationic, resulting in retention of chloride This is often accompanied by hyponatremia that is felt to be aificial (pseudohyponatremia) because each volume of serum has less water as a result of the increased protein Ref: Harrison's 19th edition Pgno: 714",
-        "cop": 4,
-        "opa": "TRUE",
-        "opb": "Relative",
-        "opc": "Absolute",
-        "opd": "Pseudo",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "45e6c5a2-1420-48d3-b5fb-87667ce15e08",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A young man weighing 65 Kg was admitted to the hospital with severe burns in a severe catabolic state. An individual in this slate requires 40 KCal per Kg body weight per day 1 gm of protein/Kg body weight/da. This young man was given a solution containing 20% glucose and 4. 25% protei. If 3000 ml of solution in infused per day.",
-        "exp": "Calories are calculated by catabolism of glucose (not proteins) Glucose: Amount of glucose in 20% glucose in 3000 ml of solution: 3000*20/100 = 600 gms. 1 gm glucose on catabolism produces: 4. 2 KCal. 600 gms of glucose would produce: 600*4. 2 = 2520 KCal. Protein: Percentage of protein in fluid: 4. 25% Percentage of protein in 3000ml of fluid: 3000*4. 25/100= 127. 5 gms. Calories required for the patient: 40*65 = 2600 KCal Proteins required for the patient: 2*65 = 130 gms. Required amount Supplied by solution Calories 2600 KCal 2520. KCal Proteins 130 gms 127. 5 gm Ref: Sabiston 20th edition Pgno: 119",
-        "cop": 3,
-        "opa": "The patient would not be getting sufficient protein",
-        "opb": "The calories supplied would be inadequate",
-        "opc": "Both Protein and calories would be inadequate",
-        "opd": "Too much protein is being infused",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "aaa8b4c6-ef66-4768-9d10-087de1ac8e86",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Regarding antibiotics true are",
-        "exp": "In clean contaminated surgeries (ex: gastric), Prophylactic antibiotics are used In contaminated surgeries, lke colorectal surgeries prophylactic antibiotics are used",
-        "cop": 3,
-        "opa": "No prophylaxis for clean contaminated surgery",
-        "opb": "No prophylaxis for gastric ulcer surgery",
-        "opc": "Prophylaxis for colorectal surgery",
-        "opd": "Local irrigation with antibiotic contraindicated when systemic antibiotics given",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "81a25688-ed7f-4762-8360-a6ec0d2c5b64",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are false regarding Vacuum assisted closure Except -",
-        "exp": "VACUUM ASSISTED CLOSURE/NEGATIVE PRESSURE WOUND THERAPY(NPWT) NPWT promotes wound healing by applying a vacuum through a special sealed dressing. Continued vacuum draws out the fluid (interstitial fluid) from wound and increase blood flow to the area. As a result, bacterial counts decrease and cell proliferation increases, thereby creating a suitable bed for graft or flap cover. Intermittent negative pressure of -125 mm Hg appears to hasten debridement and formation of granulation tissue in chronic wounds and ulcers. Contraindications for NPWT Use Malignancy in the wound Untreated osteomyelitis Non-enteric & unexplored fistula Necrotic tissue with eschar",
-        "cop": 1,
-        "opa": "Due to negative pressure, bacterial counts decrease and cell proliferation increases in the wound.",
-        "opb": "Continuous pressure of +125 mm hg is applied.",
-        "opc": "It causes interstitial edema, thereby increasing blood flow and better healing.",
-        "opd": "Suitable to be used over malignancy if present in wound.",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "9c4029de-9c28-4ae8-959e-c8b0eb3fce8b",
-        "choice_type": "multi"
     },
     {
         "question": "Best treatment for gas gangrene",
@@ -156,32 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Typhoid carriers harbor bacteria in",
-        "exp": "Salmonella typhi or Salmonella typhimurium can infect the gallbladder. Acute cholecystitis can occur. More frequently, chronic cholecystitis occurs, the patient becoming a typhoid carrier excreting the bacteria in the bile. Ref: Bailey and love 27e pg: 1202",
-        "cop": 1,
-        "opa": "Gallbladder",
-        "opb": "Urinary bladder",
-        "opc": "Pancreas",
-        "opd": "Spleen",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "c734412a-5672-4c27-a6e9-2f8c85e20ac0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In a patient with the burn wound extending into the superficial epidermis without involving the dermis would present with all of the following except",
-        "exp": ". a. Paial thickness burns: It is either first or second degree burn which is red and painful, often with blisters b. Full thickness burns: It is third degree burns which is charred, insensitive, deep involving all layers of the skin. Effects of Burn Injury 1. Shock due to hypovolaemia. 2. Renal failure. 3. Pulmonary oedema, respiratory infection, adult respiratory distress syndrome (ARDS), respiratory failure. 4. Infection by Staphylococcus aureus, beta haemolytic Streptococcus, Pseudomonas, Klebsiella leads to bacteraemia, septicaemia. Fungal and viral infections of dangerous types can also occur. 5. GIT: Hypovolaemia, ischaemia of mucosa, erosive gastritis--Curling's ulcer (seen in burns > 35%). 6.. Fluid and electrolyte imbalance. ref: SRB; s manual of surgery, ed 3, pg no 109",
-        "cop": 2,
-        "opa": "Healing of the wound spontaneously without scar formation",
-        "opb": "Anaesthesia at the site of burns",
-        "opc": "Blister formation",
-        "opd": "Painful",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "ae372cb8-5efb-4819-91a2-ad0685cac036",
-        "choice_type": "multi"
-    },
-    {
         "question": "Concentration of sodium in RL is",
         "exp": "Sodium concentrations in various crystalloids and colloid Hamann's (RL) 130mmol/L Normal saline (0. 9% Na. Cl) 154mmol/L Dextrose saline (4% dextrose in 0. 18 saline) 30mmol/L Gelofusine 150mmol/L Hemacel 145 mmol/L Hetastarch - Lactated potassium saline injection (Darrow's solution) 121mmol/L Ref: Bailey and love 27th edition Pgno: 281",
         "cop": 3,
@@ -221,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true regarding R5 strain of HIV except",
-        "exp": "R5 Trophic Virus A strain of HIV that enters and infects a host CD4 cell by attaching to the CCR5 coreceptor on the CD4 cell. To enter a CD4 cell, HIV must first attach to a CD4 receptor, then attach to either the CCR5 or CXCR4 coreceptor, and finally fuse its membrane with the CD4 cell membrane. HIV is usually R5-tropic (uses CCR5) during the early stages of infection, but the virus may later switch to using either only CXCR4 (X4-tropic) or both CCR5 and CXCR4 (dual-tropic). An HIV drug called a CCR5 inhibitor blocks HIV from attaching to the CCR5 coreceptor, which prevents HIV entry into the CD4 cell. Ref:",
-        "cop": 2,
-        "opa": "Utilizes CCR5 Co-receptor",
-        "opb": "Predominates in late stages of HIV",
-        "opc": "Transmits HIV efficiently",
-        "opd": "Infects microglial cells",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "1a0ff8a2-c692-4d07-a716-7f3d5280c09b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cock&; s peculiar tumor is",
         "exp": ". cocks peculiar tumour is actually a complication of sebaceous cyst when sebaceous cyst ulcerates excessive granulation tissue forms resembling fungating epithelioma and this iscalled cock&; s peculiar tumour",
         "cop": 3,
@@ -245,19 +128,6 @@
         "topic_name": "General surgery",
         "id": "a640781c-2556-438f-a905-a9bf8d376c38",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about Histological variety of breast carcinoma EXCEPT:",
-        "exp": "Breast Cancer MC type is adenocarcinoma and most carcinoma arises from terminal duct lobular unit MC type of Ca breast: Invasive ductal (schirrous) carcinoma Least common type of Ca breast: Papillary Most malignant type of Ca breast: Inflammatory breast cancer Best prognosis is seen in: Tubular Worst prognosis is seen in: Inflammatory breast cancer",
-        "cop": 4,
-        "opa": "Most common histological type is adenocarcinoma",
-        "opb": "Most common histological subtype is Invasive ductal Ca",
-        "opc": "Least common subtype is Papillary",
-        "opd": "Worst prognosis is seen in Tubular",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "c834a01d-c748-42fb-b193-5d2f7ab513f5",
-        "choice_type": "multi"
     },
     {
         "question": "Which one of the following blood fractions is stored at - 40oC",
@@ -390,19 +260,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 50 year female has 2o deep burn involving 45% total body surface area (TBSA). Regarding her management which of the following statement (s) is/are true",
-        "exp": "According to parkland regimen, 4ml/%burn/bodyweight/24hours. i. e 4*45*50=9000ml. Fluid requirements, first 24hours=9L first 8hours=4. 5L 4. 5L are infused in next 16hours. Hamanns solution or ringer lactate is recommended. Regular assessment of adequacy of resuscitation should be performed. Blood products and colloid may also be given in addition to their requirements. REF, SRB 5th ed. pg133.",
-        "cop": 2,
-        "opa": "Give rapid normal saline infusion",
-        "opb": "Half of the calculated fluid should be given in initial 8 hr",
-        "opc": "9 litre of Ringer's lactate should be given in first 24 hr",
-        "opd": "Urine output should be maintained at 25-30 ml/hr",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "732a29ef-2c4a-418c-b9ca-a9c32e2f60bd",
-        "choice_type": "multi"
-    },
-    {
         "question": "The 'decisive period' in preventing wound infections is",
         "exp": "There is up to a 4-hour interval before bacterial growth becomes established enough to cause an infection after a breach in the tissues, whether caused by trauma or surgery. This interval is called the 'decisive period' and strategies aimed at preventing infection from taking a hold become ineffective after this time period. It is therefore logical that prophylactic antibiotics should be given to cover this period. Ref: Bailey and Love 27e pg: 46",
         "cop": 1,
@@ -414,19 +271,6 @@
         "topic_name": "General surgery",
         "id": "31ab0f4e-85ba-4311-860d-3199ff123f8f",
         "choice_type": "single"
-    },
-    {
-        "question": "Hyperophic scar is characterized by the following, except",
-        "exp": "A hyperophic scar is defined as excessive scar tissue that does not extend beyond the boundary of the original incision or wound. It results from a prolonged inflammatory phase of wound healing and from unourable scar siting (i. e. across the lines of skin tension).. A keloid scar is defined as excessive scar tissue that extends beyond the boundaries of the original incision or wound Keloids have familial and racial tendencies. Bailey and love 26th edition Pg 30",
-        "cop": 2,
-        "opa": "It is non familial",
-        "opb": "It outgrows the wound area",
-        "opc": "It involves the flexor surface",
-        "opd": "It is not related to the race",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "60bf5eb1-0672-4460-8f44-7e0d44b88865",
-        "choice_type": "multi"
     },
     {
         "question": "Plasma expanders are used in",
@@ -507,58 +351,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are advantages of split thickness skin grafting except",
-        "exp": ". Advantages of SSG includes, 1. Technically easier. 2. Wide area of recipient can be covered. To cover large area like burns wound, graft size is increased by passing the graft through a Mesher which gives multiple openings to the graft, which can be stretched on the wider area like a net. It can cause expansion upto 6 times. 3. Graft take up is better. 4. Donor area heals on its own. ref: SRB; s manual of surgery, ed 3, pg no 281",
-        "cop": 3,
-        "opa": "Good uptake",
-        "opb": "Reusable donor site",
-        "opc": "Less contraction",
-        "opd": "Large grafts can be harvested",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "10321722-7432-4f66-905b-d8fccbbe967c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is not a common cause of abdominal wall hernias",
-        "exp": "Hernia development is more common in pregnancy due to hormonally induced laxity of pelvic ligaments. It is also more common in the elderly due to the degenerative weakness of muscles and fibrous tissue. An inguinal hernia is less common in obese patients with hernia risk being negatively related to body mass index (BMI) contrary to widespread belief. Hernia is more common in smokers.",
-        "cop": 1,
-        "opa": "Obesity",
-        "opb": "Pregnancy",
-        "opc": "Smoking",
-        "opd": "Elderly age",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "623d398d-76f5-4a0f-be0f-6d909973441d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about wound healing:",
-        "exp": "Classification of wound closure and healing Primary Intention Wound edges opposed Normal healing Minimal scar Secondary Intention Wound left open Heals by granulation, contraction, and epithelialization Increased inflammation and proliferation Poor scar Teiary intention (also called delayed primary intention) Wound initially left open Edges later opposed when healing conditions orable",
-        "cop": 3,
-        "opa": "Infected wound heal by primary intention",
-        "opb": "Scar is least in secondary intention",
-        "opc": "Wound contraction is found in healing by secondary intention",
-        "opd": "More intense famantory response in primary intention",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "97d5c021-87dc-440c-8058-06196cb94612",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are risks or disadvantages of cell-based therapy except",
-        "exp": "Stem cell therapy has the potential to provide treatment for a wide range of diseases, including spinal cord injury and neurodegenerative conditions, cardiovascular disease, degenerative retinal conditions, type I diabetes and diseases of the musculoskeletal system. Risks of cell-based therapy. Tumour formation. Genetic and epigenetic abnormalities. Transmission of infection. Poor bility and loss of function. Differentiation to undesired cell-types. Rejection (allogeneic cells). Side effects of immunosuppression (allogeneic cells). Ref: Bailey and Love 27e pg: 40",
-        "cop": 4,
-        "opa": "Tumour formation",
-        "opb": "Genetic and epigenetic abnormalities",
-        "opc": "Transmission of infection",
-        "opd": "Limited application",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "ee0d8a49-833b-4050-ae2e-daaf50288650",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common type of shock in emergency room is",
         "exp": "Hypovolaemic shock is the most common form of shock",
         "cop": 2,
@@ -609,19 +401,6 @@
         "topic_name": "General surgery",
         "id": "8703ba80-1339-4f57-898e-a8a620fdd14c",
         "choice_type": "single"
-    },
-    {
-        "question": "An adult whose both lower limbs are charred along with genitalia has.......... burns",
-        "exp": ". both legs+genitalia = 2 x 18 + 1 = 37 each upper extremity 9% of TBSA each lower extremity 18% of TBSA anterior or posterior trunk 18% of TBSA head and neck for 9% perineum for 1% Ref. SRB 5th ed. pg 129",
-        "cop": 4,
-        "opa": "18%",
-        "opb": "19%",
-        "opc": "36%",
-        "opd": "37%",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "654dd151-c2f2-4b44-837c-7ac9061c2205",
-        "choice_type": "multi"
     },
     {
         "question": "Klippel-Trenaunay syndrome is associated with",
@@ -741,19 +520,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following are premalignant lesions except",
-        "exp": "Extramammary Paget's disease (intraepidermal adenocarcinoma). This occurs in cutaneous sites rich in apocrine glands such as the axillae, genital and perianal regions. Approximately 25% are associated with an underlying in situ or invasive adenocarcinoma. Giant congenital pigmented naevus (GCPN) or giant hairy naevus. It is a hamaoma of naevo - melanocytes that has a tendency to dermatomal distribution. It has a similar histology to compound naevi, but the naevus cells are distributed variably from the epidermis throughout all layers and into the subdermal fat and muscle. GCPNs are precursors of melanoma, a 3-5% lifetime risk of melanoma is quoted. Atypical (dysplastic) naevus. To be 'atypical naevi', lesions must have three of the following characteristics: variegated pigmentation; ill-defined borders; undulating irregular surfaces; or measure >5 mm. They can be sporadic or familial (familial atypical multiple mole melanoma (FAMMM) syndrome). Possession of more than five confers a relative risk of melanoma six times greater than usual; within FAMM syndrome, they confer a life-long 10% risk of MM. Ref: Bailey and Love, 27e, page: 603",
-        "cop": 4,
-        "opa": "Extramammary Paget's disease",
-        "opb": "Giant congenital pigmented naevus",
-        "opc": "Dysplastic naevus",
-        "opd": "Salmon patch",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "04299d70-3160-4fbc-88c8-524e862b78a3",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 17 year old female underwent FNAC for a lump in the breast which was non-tender, firm and mobile. Histopathology reveals tightly arranged ductal epithelial cells with dyscohesive bare nuclei. What is the diagnosis?",
         "exp": "Phyllodes- leaf like appearance on cut section. Dual origin of mammary epithelium and connective tissue (stroma) LCIS - Indian File Pattern DCIS - may show cribriform, comedo or papillary growth patterns. Tightly arranged epithelial cells with discohesive bare nuclei are suggestive of benign breast disease likely Fibroadenoma *",
         "cop": 2,
@@ -793,32 +559,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Bariatric surgery includes all except:",
-        "exp": "Bariatric Surgery: Indication for Bariatric Surgery Patients that have a BMI of 35 Kg/m3 or more with comorbidity. Those with a BMI of 40 Kg/m2 or greater regardless of comorbidity Bariatric Operation Mechanism of action Veical banded gastroplasty Laparoscopic adjustable gastric banding (Safest & reversible) Restrictive Roux-en-Y gastric bypass (RYGB): MC performed procedure now-a-days Largely Restrictive/Mildly Malabsorptive Bilopancreatic diversion Duodenal switch Largely Malabsorptive/Mildly Restrictive Ref: Sabiston 20th edition Pgno: 1168",
-        "cop": 4,
-        "opa": "Gastric banding",
-        "opb": "Gastric bypass",
-        "opc": "Biliopancreatic diversion",
-        "opd": "Ileal transposition",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "eea58e2b-24d2-47b7-bf28-33f7d681771f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Hydatid disease is caused by",
-        "exp": "Hydatid liver disease. The causative tapeworm, Echinococcus granulosus, is present in the dog intestine, and ova are ingested by humans and pass in the poal blood to the liver. Diagnosis is suggested by the finding of a multiloculated cyst on ultrasound and is fuher suppoed by the finding of a floating membrane within the cysts on CT scan. Active cysts contain a large number of smaller daughter cysts. Treatment includes PAIRPercutaneous Aspiration-Injection-Reaspiration (PAIR) constitutes of an intial course of albendazole followed by puncture of the cyst under image guidance, aspiration of the cyst's contents, instillation of hypeonic saline in the cyst cavity and reaspiration. PAIR should only be attempted if there is no communication with the biliary tree. Ref: Bailey and love 27e pg: 1169",
-        "cop": 1,
-        "opa": "Echinococcus",
-        "opb": "Hymenolepis",
-        "opc": "Diphyllobothrium",
-        "opd": "Taenia",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "7389dbd8-68d9-4c32-8a6a-ed197db6f34e",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the treatment of Choice for Idiopathic Thrombocytopenic Purpura",
         "exp": "Medical Treatment of ITP:- * The treatment of choice is medical- oral prednisolone 1mg/kg produces dramatic response in 50-70% cases. * Intravenous immunoglobin is indicated for internal bleeding. Refractory ITP:- * Failure of initial therapy mentioned above. * Rituximab given IV * Thromboplastin Receptor antagonists- Eltrombopag and Romiplostim Splenectomy Indications:- * Most common indication for elective splenectomy * For patients with low platelet count should have platelets available at surgery but should be infused only after ligating the pedicle. * Should not be given preoperatively Ref:- Surgery Sixer 3rd Edition; pg num:- 724",
         "cop": 1,
@@ -845,19 +585,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Complications of TPN are all Except",
-        "exp": "Related to nutrient deficiency Hypoglycaemia/hypocalcaemia/hypophosphataemia/hypomagnesaemia (refeeding syndrome) Electolyte abnormalities Chronic deficiency syndromes (essential fatty acids, zinc, mineral and trace elements) Related to overfeeding Excess glucose: hyperglycaemia, hyperosmolar dehydration, hepatic steatosis, hypercapnia, increased sympathetic activity, fluid retention, electrolyte abnormalities Excess fat: hypercholesterolaemia and formation of lipoprotein X, hyperiglyceridaemia, hypersensitivity reactions Excess amino acids: hyperchloraemic metabolic acidosis, hypercalcaemia, aminoacidaemia, uraemia Related to sepsis Catheter-related sepsis Possible increased predisposition to systemic sepsis Related to line On inseion: pneumothorax, damage to adjacent aery, air embolism, thoracic duct damage, cardiac perforation or tamponade, pleural effusion, hydromediastinum Long-term use: occlusion, venous thrombosis Aspiration is seen in eteral feeding Bailey and love 26th edition Pg: 270",
-        "cop": 1,
-        "opa": "Aspiration pneumonia",
-        "opb": "Hypokalemia",
-        "opc": "Hypoglycemia",
-        "opd": "Hyperglycemia",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "32fb33e8-d642-46e3-90f1-142e5c67bd23",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following nutrients are not included in Total Parental Nutrition",
         "exp": "Components of Total Parenteral Nutrition Energy sources Carbohydrates Lipids Amino acids Non-Energy Essential sources Electrolytes Trace elements Vitamins Water Ref: Bailey and love 27th edition Pgno: 286",
         "cop": 4,
@@ -869,19 +596,6 @@
         "topic_name": "General surgery",
         "id": "5fe37f65-2887-48ed-846a-447b3a9feed2",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is TRUE? 1. Square (Reef) Knot 2. Surgeons Knot 3. Granny (Pseudo-square) Knot 4. Reverse cutting needle 5. Veical Mattress 6. Purse String Suture A B C D E F",
-        "exp": "Square (Reef) Knot Surgeons knot Granny (Pseudo-square) knot - Consist of two throws - Crossing is done in each throw - Secured knot - Consist of two throws - Two wraps in first throw - Crossing occurs in each throw - Consists of two throws - Crossing does not occur in any throw - Not a secured knot Horizontal Mattress Veical Mattress - Initial suture is inseed as for a interrupted suture but then needle moves horizontally & traverses both edges of the wound once again. - Initial suture is inseed as for an interrupted suture but then needle moves veically & transverses both edges of wound once again. Horizontal Mattress: Suture parallel to line of incision. Veical Mattress: Suture perpendicular to line of incision. Purse string suture - Continuous stitch parallel to a circular wound is applied. - Used for hernia sac & appendectomy",
-        "cop": 2,
-        "opa": "1-D; 2-F; 3-A; 4-E; 5-B; 6-C",
-        "opb": "1-F; 2-D; 3-A; 4-E; 5-B; 6-C",
-        "opc": "1-A; 2-D; 3-F; 4-E; 5-B; 6-C",
-        "opd": "1-F; 2-A; 3-D; 4-E; 5-B; 6-C",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "c8c6c1be-c4c2-42fb-835c-e0564ed874f6",
-        "choice_type": "multi"
     },
     {
         "question": "Abbey estender flap is based on",
@@ -897,32 +611,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are premalignant lesions of oral cavity cancer except",
-        "exp": "Conditions associated with malignant transformation. High-risk lesions Erythroplakia (homogenous or speckled) Proliferative verrucous leucoplakia Chronic hyperplastic candidiasis. Medium-risk lesions Oral submucous fibrosis Syphilitic glossitis. Low-risk/equivocal-risk lesions Oral lichen planus Discoid lupus erythematosus Discoid keratosis congenita. Ref: Bailey and love pg: 761",
-        "cop": 4,
-        "opa": "Erythroplakia",
-        "opb": "Proliferative verrucous leukoplakia",
-        "opc": "Chronic hyperplastic candidiasis",
-        "opd": "Desquamative gingivitis",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "a6fb7e36-44b7-404c-a438-59fc7e1b63b2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following statements are true about q. SOFA except:",
-        "exp": "q. SOFA used for Acute Pancreatitis. Pneumonic: QRS Mental Status Quick Sequential Organ Failure Assessment (SOFA) Score q. SOFA (Quick SOFA) Criteria Points Respiratory rate >=22/min 1 Change in mental status 1 Systolic BP <=100 mm Hg 1 Interpretation Score Moality 0 <1% 1 2-3% >=2 >=10%",
-        "cop": 2,
-        "opa": "q. SOFA score is used for acute pancreatitis",
-        "opb": "RR >22/minute, Altered mental status, SBP<110 mm. Hg",
-        "opc": "Score of 3 has >10% of moality",
-        "opd": "Score of 1 has 2-3 % of moality",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "67f63692-b9fc-421d-8678-3bee181d6ec1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Maintenance level of Mixed Venous Oxygen Saturation in shock must be",
         "exp": "Mixed Venous Oxygen Saturation: - * This is a measure of oxygen returning to heart from body after delivery and extraction by tissues. * Normal Value- 50-70% * In cardiogenic shock and Hypovolemic shock, the tissues takes up more oxygen and hence value is low < 50% * In Septic and Distributive shock, the tissues takes up less oxygen and hence more oxygenated blood returns to heart and hence value is high > 70% Ref:- Surgery Sixer 3rd Edition; Pg num:- 8",
         "cop": 3,
@@ -934,19 +622,6 @@
         "topic_name": "General surgery",
         "id": "e1e808dc-5f4f-457c-9b1e-e4354a4ab1bd",
         "choice_type": "single"
-    },
-    {
-        "question": "True about compament syndrome is",
-        "exp": "Compament syndromes typically occur in closed lower limb injuries. They are characterised by severe pain, pain on passivemovement of the affected compament muscles, distal sensory disturbance and, finally, by the absence of pulses distally(a late sign). They can occur with an open injury if the wound does not extend into the affected compament. Bailey and Love 27e pg: 28",
-        "cop": 4,
-        "opa": "Common in open lower limb fractures",
-        "opb": "Absence of pulses is an early sign",
-        "opc": "Never seen in open injuries",
-        "opd": "Pain on passive movement",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "0db7f6e3-d0d7-46c2-a034-572e8af96895",
-        "choice_type": "multi"
     },
     {
         "question": "Verres needle is used for",
@@ -975,19 +650,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are features of necrotising fasciitis except",
-        "exp": "Signs and symptoms of necrotising infections Unusual pain Oedema beyond the area of erythema Crepitus Skin blistering Fever (often absent) Greyish drainage ('dishwater pus') Pink/orange skin staining Focal skin gangrene (late sign) Shock, coagulopathy and multiorgan failure Bailey and Love 27e pg: 30",
-        "cop": 2,
-        "opa": "Dispropoional pain",
-        "opb": "Erythema beyond oedema",
-        "opc": "Dishwater pus",
-        "opd": "Crepitus",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "b46b008f-d768-43d4-a6c3-71d3e9705782",
-        "choice_type": "multi"
-    },
-    {
         "question": "Prevention of surgical wound infection done by?",
         "exp": "Giving antibiotics prior to surgery (prophylactic antibiotics) one hour before surgery has been identified as an intervention for prevention of surgical site infections. Shaving is now avoided and clipping of hair is preferred. Preop bath, Blood glucose control, and maintaining normothermia (esp in colorectal surgery) are other useful measures.",
         "cop": 2,
@@ -1014,32 +676,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Universal ( Standard) precaution to be observed by surgeons for the preventation of hospital acquired HIV infection include the following except",
-        "exp": "Standard precautions are meant to reduce the risk of transmission of bloodborne and other pathogens from both recognized and unrecognized sources. Some of the key elements include: Hand hygiene Gloves Facial protection Gown Prevention of neddle stick and injuries from sharps Respiratory hygine and cough etiquette Environmental cleaning Linens Waste disposal Patient care equipment",
-        "cop": 4,
-        "opa": "Wearing gloves and other barrier precaution",
-        "opb": "Washing hands on contamination",
-        "opc": "Handling sharp instruments with care",
-        "opd": "Pre - operative screening of all patients of HIV",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "c22dc5fb-3306-4fc9-abdb-ba9b15fb6824",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In a trauma patient, who is in shock was given 500ml of normal saline over 5-10 minutes. Blood pressure improved for 15 minutes and again it began to fall. Your inference is",
-        "exp": "Dynamic fluid response: The shock status can be determined dynamically by the cardiovascular response to the rapid administration of a fluid bolus. In total, 250-500 mL of fluid is rapidly given (over 5-10 minutes) and the cardiovascular responses in terms of heart rate, blood pressure and central venous pressure are observed. Patients can be divided into 'responders', 'transient responders' and 'non-responders'. Responders have an improvement in their cardiovascular status that is sustained. These patients are not actively losing fluid but require filling to a normal volume status. Transient responders have an improvement, but this then reves to the previous state over the next 10-20 minutes. These patients have moderate ongoing fluid losses (either ove haemorrhage or fuher fluid shifts reducing intravascular volume). Non-responders are severely volume depleted and are likely to have major ongoing loss of intravascular volume, usually through persistent uncontrolled haemorrhage. Bailey and love 27e pg: 16",
-        "cop": 1,
-        "opa": "Patient is having moderate ongoing fluid loss",
-        "opb": "Patient is having major ongoing fluid loss",
-        "opc": "Patient is not actively loosing fluid but require filling to a normal status",
-        "opd": "Patient is having fluid overload, which precipitated fuher shock",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "997b6769-ec81-4a31-9541-affc47a9a0a8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Posterior triangle lymph nodes are",
         "exp": "ISub mandibulae. IIUpper deep cervical. IIIMid-cervical. IVLower cervical. VPosterior triangle. VIPre laryngeal/pre tracheal. VIIMediastinal. Ref: Bailey and love pg: 764",
         "cop": 2,
@@ -1053,19 +689,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Fluid given in first 8 hours to a 28 years old woman with 50 kg weight having burns both lower limbs?",
-        "exp": "using parklands formula 4 * wt(kg) * %of burns within first 24 hrs, first half should be given within 8hours and the second half within next 16 hours. this formulae is applicable for second degree burns in this case 4*50*(18+18)=7200 so 3600 in first 8 hours",
-        "cop": 3,
-        "opa": "950 ml",
-        "opb": "1900 ml",
-        "opc": "3600 ml",
-        "opd": "7400 ml",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "34793bdc-0d59-462b-97c8-03ce46b2a552",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cystic compressible, translucent swelling in the posterior triangle of neck:-",
         "exp": "Cystic compressible, translucent swelling in the posterior triangle of neck is cystic hygroma. CYSTIC HYGROMA Multiloculated cystic spaces. Qlined by endothelial cells Due to sequestration of a poion of jugular lymph sac from the lymphatic systemQ. Cysts are filled with clear lymph and are lined by endotheliumQ. Turner's syndromeis associated with cystic hygromaQ. Most cystic hygromas involve the lymphatic jugular sacs MC site: Posterior neck regionQ(Posterior triangleQ) Other common sites: Axilla, mediastinum, inguinal & retroperitoneal regionsQ CLINICAL FEATURES Usually present as soft cystic masses that disto the surrounding anatomy, can result in acute airway obstruction. Usually manifests in the neonates or in early infancyQ(50% present at bih). Characteristic feature: Brilliantly translucentQ",
         "cop": 1,
@@ -1077,32 +700,6 @@
         "topic_name": "General Surgery",
         "id": "c8c480b1-6f61-4833-9248-6a15490f28ab",
         "choice_type": "single"
-    },
-    {
-        "question": "All are limitations of minimal access surgery except",
-        "exp": "There is decreased heat loss in minimal access surgery. Advantages of minimal access surgery. Decrease in wound size. Reduction in wound infection, dehiscence, bleeding, herniation and nerve entrapment. Decrease in wound pain. Improved mobility. Decreased wound trauma. Decreased heat loss. Improved visualisation. Limitations of minimal access surgery. Reliance on remote vision and operating. Loss of tactile feedback. Dependence on hand-eye coordination. Difficulty with haemostasis. Reliance on new techniques. Extraction of large specimens. Ref: Bailey and Love 27e pg: 108",
-        "cop": 4,
-        "opa": "Loss of tactile feedback",
-        "opb": "Difficulty with haemostasis",
-        "opc": "Extraction of large specimens",
-        "opd": "Increased heat loss",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "2ffa6859-062e-4ccb-92c4-6881883877e5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Six year old-child was brought to the hospital with obstructed hernia. On exploration, bowel was found gangrenous. Which of the following is true about anastomosis?",
-        "exp": "Intestinal anastomoses: Interrupted and continous single-layer suture techniques are adequate and safe. --Bailey 27th edition pgno: 98 However, Halsted oured a one-layer extramucosal closure, and this was subsequently advocated by Matheson as it was felt to cause the least tissue necrosis or luminal narrowing. This technique has now become widely accepted, although it is essential that this is not confused with a seromuscular suture technique. The extramucosal suture must include the submucosa as this has a high collagen content and is the most stable suture layer in all sections of the gastrointestinal tract. - Bailey 27th edition pgno: 98",
-        "cop": 4,
-        "opa": "Should be done by continuous layers as it takes less time",
-        "opb": "Done with catgut",
-        "opc": "Should be done by using single layer seromuscular lambe sutures",
-        "opd": "Single layer taking submucosa",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "5fb62757-1060-450e-9443-ee0d3a1e0540",
-        "choice_type": "multi"
     },
     {
         "question": "Tumor with perineural invasion",
@@ -1222,19 +819,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are features of Grave's disease except:",
-        "exp": "Characteristic feaures Thyrotoxicosis Ophthalmopathy Dermopathy Aka Pretibial myxedema Acropachy Gynecomastia Most commonly seen in Female",
-        "cop": 1,
-        "opa": "More common in males",
-        "opb": "Tremor",
-        "opc": "pretibial myxoedema",
-        "opd": "Intolerance to heat",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "a4cc087f-1eed-463b-b1ec-03b6009a21ba",
-        "choice_type": "multi"
-    },
-    {
         "question": "Flask shaped undermined ulcers in rectosigmoid area are seen in",
         "exp": "Most amoebic ulcers occur in the rectosigmoid. On sigmoidoscopy shallow skip lesions and 'flaskshaped' or 'collar-stud' undermined ulcers may be seen and can be biopsied or scrapings can be taken along with mucus for immediate microscopic examination. The presence of trophozoites distinguishes the condition from ulcerative colitis. Ref: Bailey and Love 27e pg: 58",
         "cop": 1,
@@ -1287,19 +871,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In the immediate post operative period, the common cause of respiratory insufficiency could be because of the following except",
-        "exp": "Causes of Acute Post-operative shoness of breath MI and heart failure Chest infections Pulmonary embolism Exacerbation of asthma or COPD In mild hypovolemia, the systemic blood circulation is maintained by shifting the blood from splanchnic circulation to the systemic circulation Healthy volunteers could have 10-15% of their blood volume removed with no significant change in heart rate, BP, cardiac output or blood flow to the splanchnic bed Ref: Bailey and love 27th edition Pgno: 292",
-        "cop": 3,
-        "opa": "Residual effect of muscle relaxant",
-        "opb": "Overdose of narcotic analgesic",
-        "opc": "Mild hypovolemia",
-        "opd": "Myocardial infarction",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "66a454a9-4f4a-4f47-b71e-b76d9a5bc874",
-        "choice_type": "multi"
-    },
-    {
         "question": "Clostridium difficile infection risk increases on use of",
         "exp": "Ciprofloxacin increases risk of C. difficile enterocolitis. Metronidazole, vancomycin, teicoplanin are effective agaist C. difficile in cases of pseudomembranous colitis. Ref: Bailey and Love 27e pg: 56",
         "cop": 1,
@@ -1313,19 +884,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Criteria for admission to burn ward are all except",
-        "exp": "The criteria for acute admission to a burns unit. Suspected airway or inhalational injury. Any burn likely to require fluid resuscitation. Any burn likely to require surgery. Patients with burns of any significance to the hands, face, feet or perineum. Patients whose psychiatric or social background makes it inadvisable to send them home. Any suspicion of non-accidental injury. Any burn in a patient at the extremes of age. Any burn with associated potentially serious sequelae, including high-tension electrical burns and concentrated hydrofluoric acid burns. Ref: Bailey and love 27e pg: 620",
-        "cop": 4,
-        "opa": "Any suspicion of non-accidental injury",
-        "opb": "Any burn likely to require surgery",
-        "opc": "Burns on hand",
-        "opd": "Diabetes",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "50e93fce-a7a3-43bb-9818-10b015c9b6b1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Absolute contraindication for endovenous abalation in varicose veins",
         "exp": "An acute occlusive DVT is an absolute contraindication to endovenous thermal ablation, whereas a chronically recanalized deep venous system in the extremity to be treated is a relative contraindication. Care must be taken to ensure that superficial venous ablation will not compromise the venous outflow of the post-thrombotic limb. Ref: Sabiston 20e pg: 1866",
         "cop": 1,
@@ -1337,32 +895,6 @@
         "topic_name": "General surgery",
         "id": "d1210c1d-8be3-41d7-992e-26b4e5cdfec6",
         "choice_type": "single"
-    },
-    {
-        "question": "In a surgical patient, the causes of non-surgical infection are all except",
-        "exp": "Hospital acquired Infection (HAI) Infection that follows surgery or admission to hospital Common HAI are 1. Respiratory infections(including ventilator associated pneumonia) 10-15% 2. UTI(mostly related to urinary catheters) 30-40%(MC) 3. Bacteraemia (mostly related to indwelling vascular catheters) 10-15% Surgical site infections 15-20%(2nd most common) Antibiotic associated diarrhea, caused by clostridium difficle 5-10% Ref: Sabiston 20th edition Pgno: 322-323",
-        "cop": 2,
-        "opa": "Lower respiratory tract infection",
-        "opb": "Wound infection",
-        "opc": "Clostridium difficile diarrhea",
-        "opd": "UTI",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "fff72a50-179c-4645-8ba9-79ec73e6fa00",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement regarding keloid includes all of the following except -",
-        "exp": "A keloid scar is defined as excessive scar tissue that extends beyond the boundaries of the original incision or wound. Its aetiology is unknown but associated with elevated levels of growth factors, deeply pigmented skin, an inherited tendency and ceain areas of the body. The histology shows excess collagen (type III collagen) with hypervascularity. Keloid scars improve by application of pressure. They can also be managed by silicone gel sheeting, intralesional injections of steroids like triamcinolone, excision alone or followed by steroid injection or postoperative radiation. But if excision alone is done, it is associated with high chances of recurrences. Reference: Bailey & Love&; s Sho Practice of Surgery 27th Edition, Page No. 31",
-        "cop": 4,
-        "opa": "Recurrence is common",
-        "opb": "Affects surrounding areas as well",
-        "opc": "Intralesional steroid decreases chances of recurrence",
-        "opd": "Malignant changes present",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "3da60d8f-20c6-4ad2-ae7f-6efb89e13153",
-        "choice_type": "multi"
     },
     {
         "question": "The vitamin which has inhibitory effect on wound healing is",
@@ -1389,32 +921,6 @@
         "topic_name": "General surgery",
         "id": "9143e30a-93a6-460c-9189-5bf9c2f3b043",
         "choice_type": "single"
-    },
-    {
-        "question": "The recommended fluid for initial fluid challenge in a trauma victim in shock is",
-        "exp": "Because hamanns solution (RL) is more isotonic to blood 5%dextrose is isotonic, but as dextrose can move intracellularly, 5%D doesnt increase intravascular volume.",
-        "cop": 4,
-        "opa": "5% dextrose",
-        "opb": "10% dextrose",
-        "opc": "Dextrose normal saline",
-        "opd": "Hamann's solution",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "e6ede6d3-e254-4467-a3ae-f9983f55e821",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statement is not true about postburn neck contracture",
-        "exp": "Post burn neck contracture Cervical contractures are major problems in burns involving the chest, neck & face Severe neck flexion contracture in the acute phase often require early reconstruction to aid in airway management Neck contractures should usually be dealt with prior to facial burn reconstruction as the extrinsic contractile forces from the neck can cause facial deformities and can cause facial deformities and can adversely affect the maturation of scars on the face When the split-thickness skin grafting is unsuccessful because of recurrent contracture or does not provide a satisfactory aesthetic result, local flap reconstruction of anterior neck is an excellent technique Perioral Deformities: Microstomia, Microstomia, irreversible damage to dentition & loss of jawline definition Ref: Sabiston 20th edition Pgno: 714-715",
-        "cop": 1,
-        "opa": "Occur because of conservative management of deep burn",
-        "opb": "Treated by flaps",
-        "opc": "Oblliteration of cervicomental angle",
-        "opd": "Never develop in deep dermal burn",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "629ccc43-47cc-41d0-bbb4-d658ad9d2531",
-        "choice_type": "multi"
     },
     {
         "question": "Period of onset in tetanus refers to the time between",
@@ -1456,45 +962,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A lady presented in the emergency depament with a stab injury to the left side of the abdomen. She was hemodyamically stable and a contrast enhanced CT scan revealed a laceration in spleen and a contrast enhanced CT scan revealed a laceration in spleen. Laparoscopy was planned, however the patients PO2 suddenly dropped as soon as the pneumonperitoneum was created. What is the most likely cause?",
-        "exp": "Sudden drop in p. O2 immediately during induction of pneumoperitoneum at the time of insuflations of gas from unintended insufflations of gas directly into an open vein. Gas embolism may have resulted from inadveent inseion of the trocar or veress needle into a vessel or abdominal organ. Gas Embolism Most commonly seen during induction of pneumonperitoneum at the time of insufflations of gas directly into an open vein. The more soluble a gas in the blood, the lower chances are for gas embolism CO2 is preferred for pnemoperitoneum as it is highly soluble in blood and is rapidly eliminated. CO2 Embolism: An initial rise in ET-CO2 due to pulmonary excretion of absorbed CO2 is followed by a sudden decrease due to fall in cardiac output. Ref: Laparoscopic Surgery By Garcia & Jacobs/25",
-        "cop": 1,
-        "opa": "Gaseous embolism through splenic vessels",
-        "opb": "Injury to the left lobe the diaphragm",
-        "opc": "Inferior vena cava compression",
-        "opd": "Injury to colon",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "0469b45b-9a61-4fa0-99cc-7ee912600fcf",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Mangled Extremity Severity Score (MESS) includes all of the following except?",
-        "exp": "The Mangled Extremity Severity score(MESS) is useful in deciding about limb salvage. It includes Skeletal and soft tissue injuries categorised as: high energy, moderate energy and low energy. Shock Ischemia Age Mnemonic SASI Reference: Bailey and love, 27th edition page 416",
-        "cop": 3,
-        "opa": "Shock",
-        "opb": "Ischemia",
-        "opc": "Neurogenic injury",
-        "opd": "Energy of injury",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "fa70d75a-66f2-45c7-a187-ecde0aa23ed3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which one of the following surgical procedures is considered to have a clean- contaminated wound?",
-        "exp": ". Elective open cholecystectomy for cholelithiasis is clean contaminated Hernioplasty and mastectomy or clean Appendicetomy with controlled infection is contaminated,",
-        "cop": 1,
-        "opa": "Elective open cholecystectomy for cholelithiasis",
-        "opb": "Herniorrhaphy with mesh repair",
-        "opc": "Lumpectomy with axillary node dissection",
-        "opd": "Appendectomy with walled off abscess",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "262764f2-ade5-4e46-8f07-bd1641e91ace",
-        "choice_type": "multi"
-    },
-    {
         "question": "Tip of nose reconstruction is done by",
         "exp": "Local flaps A local flap is raised next to a tissue defect in order to reconstruct it Basic patterns of local flaps Transposition flap Most basic design, leaving a graftable donor site Z-plasty For lengthening scars or tissues Rhomboid flap For cheek, temple, back and flat surface defects Rotation flap For convex surfaces Advancement flap For flexor surfaces, may need triangles excised at the base to make it work (commonly called Burrow's triangles) V-to-Y advancement Commonly used for fingeips and extremities Bilobed flap For convex surfaces, especially the nose Bipedicle flap For eyelids, rarely elsewhere Ref: Sabiston 20th edition Pgno: 836",
         "cop": 2,
@@ -1534,19 +1001,6 @@
         "choice_type": "single"
     },
     {
-        "question": "False about cellulities",
-        "exp": ". It is spreading inflammation of subcutaneous and fascial planes. Infection may follow a small scratch or wound or incision. Causative Agents: Commonly due to Streptococcus pyogenes and other Gram +ve organisms. Sequelae Infection can get localized to form pyogenic abscess. Infection can spread to cause bacteraemia, septicaemia, pyaemia. Often infection can lead to local gangrene. ref: SRB; s manual of surgery, ed 3, pg no 30",
-        "cop": 4,
-        "opa": "Caused by strep. pyogenes",
-        "opb": "Causes SIRS",
-        "opc": "Infection of subcutaneous tissue",
-        "opd": "Abscess if any should be managed conservatively",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "1c335b85-6026-4428-8dea-ec0d8a372af3",
-        "choice_type": "multi"
-    },
-    {
         "question": "An 85-year-old gentleman complaint of pain in leg while lying down, it lessens when he hangs the foot out of bed. What is the cause?",
         "exp": "In peripheral aerial occlusive disease, as the disease progress, perfusion to the leg may be so severely compromised that anaerobic respiration occurs even at rest, typically affecting the foot and/or calf. The pain is exacerbated by lying down or elevation of the foot due to loss of the gravitational effects on perfusion pressure in the foot. The patient characteristically describes the pain that is worse at night and may be lessened by hanging the foot out of bed or by sleeping in a chair (effects of gravity restored). Ref: Bailey and love pg: 943",
         "cop": 2,
@@ -1558,19 +1012,6 @@
         "topic_name": "General surgery",
         "id": "966d1e82-a793-4223-a784-846d0a5ee240",
         "choice_type": "single"
-    },
-    {
-        "question": "True about hyperplastic type of tuberculosis",
-        "exp": "Ulcerative type: When a patient with pulmonary tuberculosis swallows infected sputum, the organism colonises the lymphatics of the terminal ileum, causing transverse ulcers with typical undermined edges. The serosa is usually studded with tubercles. Denotes a severe form of the disease in which the virulence of the organism overwhelms host resistance. Hyperplastic type: This occurs when host resistance has the upper hand over the virulence of the organism. It is caused by drinking infected unpasteurised milk. There is a marked inflammatory reaction causing hyperplasia and thickening of the terminal ileum because of its abundance of lymphoid follicles, thus resulting in narrowing of the lumen and obstruction. The small intestine shows areas of stricture and fibrosis, most pronounced at the terminal ileum. As a result, there is shoening of the bowel with the caecum being pulled up into a subhepatic position. Ref: Bailey and Love 27e pg: 79",
-        "cop": 4,
-        "opa": "Swallowed infected sputum is the cause",
-        "opb": "Highly virulent compared to ulcerative type",
-        "opc": "Serosa studded with tubercles",
-        "opd": "Pulled up Caecum",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "222c52af-3706-45d8-acdc-75926291c9a2",
-        "choice_type": "multi"
     },
     {
         "question": "Most common syndrome associated with cleft palate",
@@ -1638,45 +1079,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about histo-immunological type of breast cancer EXCEPT:",
-        "exp": "Molecular classification of breast Ca is based on gene expression profiling. Molecular classification: Luminal A: ER & PR + ve, double positive HER - 2 - neu (-) ve Ki67 low. Most common type, best prognosis. Luminal B: two subtypes- 1. Luminal B HER(+) ER, PR - positive & Her - 2 - neu positive (triple positive) and Ki67 low/high 2. Luminal B HER(-) ER, PR - positive & Her - 2 - neu negative and Ki67 high Intermediate prognosis Basal cell type: triple negative ER, PR Her-2-neu (-)ve Ki67 high In BRCA 1 mutation most aggressive and Poorer prognosis because there are fewer targeted medicines available Her-2 type: Her-2-neu +ve. ER, PR -ve aggressive and poor prognosis Normal like breast cancer- same like luminal A but prognosis poorer than luminal A Most common: luminal A Best prognosis: Luminal A Worst prognosis: Triple negative breast cancer",
-        "cop": 3,
-        "opa": "Molecular classification is based on gene expression profiling",
-        "opb": "Most common type is Luminal A",
-        "opc": "Best Prognosis is Luminal B",
-        "opd": "Worst prognosis is triple negative breast cancer",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "e6b5173b-fcdf-4971-8282-e3fbd8fc23ad",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true in degloving injury except",
-        "exp": "A closed degloving may be a rollover injury, typically caused by a motor vehicle over a limb. Such an injury will extend far fuher than expected, and much of the limb skin may be non-ble. Examination under anaesthetic is required with a radical excision of all non-bleeding skin Bailey and Love 27e pg: 28",
-        "cop": 4,
-        "opa": "Can happen in rollover injury caused by a motor vehicle",
-        "opb": "All the non bleeding skin should be excised",
-        "opc": "Examination under anesthesia is required",
-        "opd": "Injury is less extensive than it actually appear",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "354d467b-b1fd-4d23-bc55-f03ea17f6d94",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All these are techniques to decrease scarring except",
-        "exp": "Principles of wound management. Cleansing. Debridement. Repair of structures. Replacement of lost tissues where indicated. Skin cover if required. Skin closure without tension. Careful tissue handling and meticulous technique. Suture marks may be minimised by using monofilament sutures that are removed early (3-5 days). Fine sutures (6/0or smaller) placed close to the wound margins tend to leave less scarring. Bailey and Love 27e pg: 32",
-        "cop": 1,
-        "opa": "Late removal of sutures",
-        "opb": "Tension free suturing",
-        "opc": "Finer suture materials",
-        "opd": "Debridment",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "e359d884-5a8a-4fb4-9e54-051b0fb7d442",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following characteristics of this patient might increase the risk of wound infection",
         "exp": "Chemotherapy leads to a state of immunodefieciency among recipients, hence delays the rate of wound healing and increases the chance of wound infection. Reference: Bailey & Love's Sho Practice of Surgery 27th Edition, Page No. 24",
         "cop": 4,
@@ -1716,19 +1118,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is false about Anaphylactic Blood transfusion?",
-        "exp": ". Most cases of anaphylaxis due to blood transfusion are repoed in recipients with IgA deficiency who developed anti-IgA and whose transfused product contains donor plasma with a normal content of IgA.",
-        "cop": 4,
-        "opa": "Different from allergic reactions",
-        "opb": "The reaction is seen after few ml of transfusion itselt",
-        "opc": "Washed blood products prevent it",
-        "opd": "Occurs in IgG deficeient persons",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "2886cbfa-8de4-4922-826f-336e2a435df8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Abbe estlandec flap is used for",
         "exp": ". abbe flap is used for lip reconstruction surgeries",
         "cop": 1,
@@ -1766,32 +1155,6 @@
         "topic_name": "General surgery",
         "id": "becddd8a-446f-4e1e-87fe-c1e749bdb81c",
         "choice_type": "single"
-    },
-    {
-        "question": "True statement (s) regarding hyperophic scar",
-        "exp": ". hyperophic scars does not grows beyond wound margin elevated from surface develop within 1 month of injury regress over time",
-        "cop": 3,
-        "opa": "Grow beyond wound margin",
-        "opb": "More common in female",
-        "opc": "Not familial",
-        "opd": "Rarely subsides",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "525f5bb3-e692-4618-bd13-c7284626dfd0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about malignant melanoma",
-        "exp": "No answer All the 4 options are true",
-        "cop": 1,
-        "opa": "Lymphatic spread",
-        "opb": "Lymph node biopsy is done always",
-        "opc": "Block dissection to be done when sentinel node is involved",
-        "opd": "Microsatellitism",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "41e4d558-13c1-4c75-9ca4-fd09b72b7341",
-        "choice_type": "multi"
     },
     {
         "question": "Which one of the following will complicate as hyperchloremic acidosis",
@@ -1963,32 +1326,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the given below statements regarding medullary carcinoma of thyroid are true except:",
-        "exp": "MEDULLARY CARCINOMA IS NOT DEPENDENT ON TSH",
-        "cop": 3,
-        "opa": "It arises from 'C' cells",
-        "opb": "Both hematogenous & lymphatic spread is seen.",
-        "opc": "It is dependent on TSH",
-        "opd": "Most case are sporadic",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "e19f8a86-ab1a-486c-ad36-89a48e140a55",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is complication of mastectomy?",
-        "exp": "Complications of mastectomy Seroma - seen in 30% of patients (MC complication) Wound infection / flap necrosis Injury of long thoracic nerve Injury of thoracodorsal nerve Persistent axillary fat pad Lymphedema Patients with lymphedema, approximately after 10. 5 years it may progress to Angiosarcoma. These patients of breast cancer with MRM and done and diagnosed to have angiosarcoma is known as Stewa Treves Syndrome",
-        "cop": 4,
-        "opa": "Seroma",
-        "opb": "Long thoracic nerve palsy",
-        "opc": "Angiosarcoma",
-        "opd": "All of above",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "890f61de-bfcf-4371-8d9b-77671116bceb",
-        "choice_type": "multi"
-    },
-    {
         "question": "A chronic wound may be defined as one that fails to heal by",
         "exp": "A chronic wound may be defined as one that fails to heal in the expected time for a wound of that type, which is usually less than 3 weeks. Delays in healing can occur at any phase but most often occur in the inflammatory phase. Bailey and love 27e pg: 29",
         "cop": 3,
@@ -2078,32 +1415,6 @@
         "topic_name": "General surgery",
         "id": "87e69307-236f-40ee-a6c0-cf9d85aa42f5",
         "choice_type": "single"
-    },
-    {
-        "question": "<img alt=\"\" src=\" />Full thickness graft can be obtained from all of the following except",
-        "exp": ". donor sites for full thickness graft is eyelids postauricular skin supraclavicular skin antecubital skin inguinalarea genital area submammary area skin subgluteal skin",
-        "cop": 1,
-        "opa": "Axilla",
-        "opb": "Groin",
-        "opc": "Supraclavicular area",
-        "opd": "Elbow",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "05058f9d-2395-4566-bfe3-8e8f3a90c568",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about common bile duct T-tube except",
-        "exp": "After exploration of the common bile duct, a T-tube may be inseed into the duct which allows bile to drain] Common bile duct T-tubes should remain in for 10 days. The 10-day period is required to minimise the risk of biliary peritonitis after removal. However, once the T-tube cholangiogram has shown that there is free flow of bile into the duodenum and that there are no retained stones, some surgeons like to clamp the T-tube prior to removal. T-tubes are traditionally and intentionally made of latex to stimulate fibrosis, which results in the formation of a tract to allow the drainage of bile if required. Ref: Bailey and Love 27e pg: 100",
-        "cop": 1,
-        "opa": "Should be removed in 5-7 days",
-        "opb": "Free flow of bile into duodenum need to be confirmed before removal",
-        "opc": "Need to confirm there are no retained stones",
-        "opd": "Made from latex",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "fe4fb2ba-dfe6-4f0a-8a7d-2a60ad30b0b3",
-        "choice_type": "multi"
     },
     {
         "question": "A traumatic wound was cleaned and dressed. A few days later suturing was done to approximate the edges. This type of wound healing is",
@@ -2262,19 +1573,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following have increased risk of breast cancer except",
-        "exp": "In HNPCC Colorectal cancer, endometrium, stomach, hepatobiliary malignancies are seen. Ref: Bailey and Love 27e pg: 148",
-        "cop": 4,
-        "opa": "Peutz-Jeghers syndrome",
-        "opb": "Cowden syndrome",
-        "opc": "BRCA 1",
-        "opd": "HNPCC",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "b89a8067-5279-4421-b9f5-bb67cd8c8866",
-        "choice_type": "multi"
-    },
-    {
         "question": "Differentiating features between sepsis and trauma are",
         "exp": "Patients compensate for volume loss in the early stages of hypovolaemia, so an apparently resuscitated patient may still have a significant volume deficit. The aim for immediate resuscitation should he normal measures of pulse, blood pressure and CVP, urine output > 0. 5 mI/kg/hour with normal urinary osmolality and sodium concentration. Any metabolic acidosis should be seen to be correcting. There-after, one must try to maintain normovolaemia. This is a continuous process. Critically ill patients may have capillary leak and will therefore have a continuing colloid requirement. Gelatins, being small molecules, are poorly retained and can be replaced by hydroxyethyl starch, plasma or blood at this stage. In sepsis this requirement may be very large. The impoance of blood in immediate resuscitation, the threshold at which one should transfuse urgently (i. e. con-sider using group compatible, uncross-matched blood or even Group 0 blood) and even the target hemoglobin level are controversial. Resuscitation should not be delayed whilst waiting for blood to be grouped; if acute anemia is secondary to the bleeding resuscitation should be with Group 0 blood or group-compatible blood as it becomes available. Ref: Surgery of baily and love, 26th edition.",
         "cop": 1,
@@ -2301,19 +1599,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The natural response to injury include all except",
-        "exp": "The natural response to injury includes: Immobility/rest. Anorexia. Catabolism. The changes are designed to aid the survival of moderate injury in the absence of medical intervention. Ref: Bailey and love 27e pg: 5",
-        "cop": 4,
-        "opa": "Immobility/rest",
-        "opb": "Anorexia",
-        "opc": "Catabolism",
-        "opd": "Anabolism",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "0fa5a25c-8ec1-42c3-bea2-c9b9b4031ad4",
-        "choice_type": "multi"
-    },
-    {
         "question": "&; Homans' sign is seen in",
         "exp": "Signs are seen in DVTHoman's sign: calf pain on dorsiflexion of the foot. Bancroft&; s sign or Moses&; sign: pain is elicited when the calf muscle is compressed These signs are neither sensitive nor specific for the presence of thrombosis, and not done in fear of dislodgment of clot. Ref: Bailey and Love 27e pg: 281",
         "cop": 1,
@@ -2325,19 +1610,6 @@
         "topic_name": "General surgery",
         "id": "8429b83f-55a6-419d-9680-e8ba0a783ada",
         "choice_type": "single"
-    },
-    {
-        "question": "During a preoperative assessment of airway, only hard palate is seen. What would be the grade as per the modified Mallampati test?",
-        "exp": "Modified Mallampati test for airway assessment Grade 1 Fauces, pillars, soft palate and uvula seen Grade 2 Fauces, soft palate with some pa of uvula seen Grade 3 Soft palate seen Grade 4 Hard palate only seen Bailey and Love pg: 262",
-        "cop": 4,
-        "opa": "Grade I",
-        "opb": "Grade II",
-        "opc": "Grade III",
-        "opd": "Grade IV",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "9b9a494c-0119-4350-8242-095bd8ab44ec",
-        "choice_type": "multi"
     },
     {
         "question": "Fever in burnt patient is cause by",
@@ -2392,45 +1664,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about Boerhaave's syndrome except",
-        "exp": "In Boerhaave's syndrome, vomiting occurs against a closed glottis and pressure builds up in the oesophagus. The pressure in the oesophagus increases rapidly, and the oesophagus bursts at its weakest point in the lower third, sending a stream of material into the mediastinum and often the pleural cavity as well. In Mallory-eiss syndrome, forceful vomiting may produce a mucosal tear at the cardia rather than a full perforation. A veical split in the gastric mucosa, immediately below the squamocolumnar junction at the cardia is seen in 90% of cases. In only 10% is the tear in the oesophagus. Ref: Bailey and love 27e pg: 1072",
-        "cop": 4,
-        "opa": "Oesophagus bursts at its weakest point in the lower third",
-        "opb": "Barotrauma",
-        "opc": "Vomiting occurs against a closed glottis",
-        "opd": "Veical split in the gastric mucosa",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "c4643346-dac7-42a2-ba0b-0300afa178e9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Basal cell carcinoma spread by",
-        "exp": "Basal cell carcinoma - Spread BCC usually spread by local invasion, rarely metastasizes Rodnet ulcer: It gradually destroys the tissues, it comes in contact with Lymphatic spread is not seen (Regional lymph nodes are not enlarged) Blood spread is extremely rare Ref: Sabiston 20th edition Pgno: 748",
-        "cop": 3,
-        "opa": "Lymphatics",
-        "opb": "Haematogenous",
-        "opc": "Direct spread",
-        "opd": "None of the above",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "1f04bc3f-eba0-4726-a42e-13bc356b9149",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about neck dissection except:",
-        "exp": "Neck dissection Comprehensive neck dissection Selective neck dissection Radical neck dissection(RND): Removal of lymph nodes I-V + spinal accessory nerve(SAN) + Internal jugular vein(IJV) + sternocleidomastoid muscle(SCM) Extended radical neck dissection(ERND): Radical neck dissection + removal of one or more groups of lymph nodes, non-lymphatic structures or both Bilateral radical neck dissection Modified radical neck dissection(MRND): Removal of level I-V lymph nodes with (Mnemonic: SIS) - Type I: Preserves only SAN - Type II: preserves both SAN and IJV - Type III: preserves SAN, IJV, SCM (Functional neck dissection) Supramohyoid neck Dissection: Removal of level I-III LNs. Extended supraomohyoid neck dissection: Removal of level I-IV LNs Posterolateral Neck dissection: Removal of level II-V LNs + Suboccipital LNs + retro auricular LNs. - Lateral neck dissection: Removal of level II-V LNs + Internal jugular vein. - Central compament neck dissection: Removal of level VI LNs",
-        "cop": 3,
-        "opa": "Central compament neck dissection involves removal of level VI LNs",
-        "opb": "Supraomohyoid neck dissection involves removal of level I-III LNs",
-        "opc": "Type II MRND preserves both spinal accessory nerve and sternocleidomastoid muscle",
-        "opd": "Lateral neck dissection: removal of level II-V lymph nodes + internal jugular vein",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "1fbe21af-98f5-40e6-b023-d2b6741da4f3",
-        "choice_type": "multi"
-    },
-    {
         "question": "A woman noticed mass in her left breast with bloody discharge. Histopathology revealed duct ectasia. Treatment is:-",
         "exp": "DUCT ECTASIA (PERIDUCTAL MASTITIS) =Dilatation of multiple ducts, =Associated with periductal inflammation. Most common age- above 50 years Most common presenting feature: nipple discharge(Greenish) Most common discharge in duct ectasia: serous discharge Treatment of duct ectasia is Hadfield's operation. HADFIELD's OPERATION -A periareolar incision is made and a cone of tissue is removed with its apex just deep to the surface of the nipple and its base on the pectoral fascia.",
         "cop": 4,
@@ -2442,19 +1675,6 @@
         "topic_name": "General Surgery",
         "id": "322768ac-a3a8-4569-b314-7b383bac1230",
         "choice_type": "single"
-    },
-    {
-        "question": "True about incisional hernia",
-        "exp": "Incisional hernia. Incisional hernias have been repoed in 10-50% of laparotomy incisions and 1-5% of laparoscopic po-site incisions. Causation due to patient, wound and surgeon factors. Often multiple defects within the same scar. Obstruction is common but strangulation is rare. Simple suture techniques without the use of prosthetic mesh for reinforcement, are not recommended because of the high risk of recurrence. Open and laparoscopic repairs possible. Ref: Bailey and love 27e pg: 1040",
-        "cop": 3,
-        "opa": "Not seen post laparoscopic procedures",
-        "opb": "Strangulation is common",
-        "opc": "Multiple defects may be seen withn the same scar",
-        "opd": "Mesh is not recommended in repair",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "ede36092-68a1-4e3c-a959-91db8b34f92f",
-        "choice_type": "multi"
     },
     {
         "question": "Daily requirement of sodium in an adult is",
@@ -2483,19 +1703,6 @@
         "choice_type": "single"
     },
     {
-        "question": "False about ca breast is:-",
-        "exp": "Site of Breast Cancer- Breast cancer is more common in left breast compared to right breast.- MC Site - Upper outer quadrant (due to maximum amount of breast tissue at this quadrant)- LC Site - Lower inner quadrant MC route of spread in CA Breast - Hematogenous- MC site of metastasis - Bones (Lumber veebra > Femur > thoracic veebra)- Both Osteolytic & osteoblastic secondaries- MC secondaries - Osteolytic > Osteoblastic- MC primary for both osteolytic & osteogenic secondaries in females - CA breast- MC cause of death - Malignant pleural effusion",
-        "cop": 2,
-        "opa": "Most common route of spread is hematogenous",
-        "opb": "Most common area involved is Upper inner quadrant",
-        "opc": "Most common site of metastasis is Bone",
-        "opd": "Most common cause of death is malignant pleural effusion",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "ec822ba3-4421-430f-85d0-c00aa4516fa4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Perforated peptic ulcer is treated by",
         "exp": "Vagotomy is a procedure that transects the vagal trunks (truncal vagotomy) or distal nerve fibers (highly selective vagotomy). Truncal vagotomy aims to reduce the gastric acid secretion, thus reducing the risks of recurrent PUD. Ref Srb surgery 978p",
         "cop": 3,
@@ -2509,19 +1716,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Moh&; s Micrographic excision for basal cell carcinoma is used for all of the following except",
-        "exp": ".* MOHS (Microscopically Oriented Histographic Surgery) is useful to get a clearance margin and in conditions like BCC close to eyes, nose or ear, to preserve more tissues. MOHS is becoming popular in BCC/dermatofibrosarcoma protuberans/ melanoma. Indications for surgery: * Rodent ulcer eroding into cailage or bone * BCC close to the eye * Recurrent BCC ref: SRB; s manual of surgery, ed 3, pg no 254",
-        "cop": 2,
-        "opa": "Recurrent Tumour",
-        "opb": "Tumor less than 2 cm in diameter",
-        "opc": "Tumors with aggressive histology",
-        "opd": "Tumors with perineural invasion",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "1f4b5f14-71ee-4a67-8a60-3f3fac77b088",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the Size of this blade used in incision and Drainage",
         "exp": "There are 3 blades commonly used by Surgeons: - * 11' size- For Incision and Drainage of Abscess, Aeriotomy * 15' Size- For precise cosmetic incisions * 22' Size- For Long Incisions and Laparotomy Incisions Ref:- Surgery Sixer 3rd Edition; Pg num:- 39",
         "cop": 1,
@@ -2533,19 +1727,6 @@
         "topic_name": "General surgery",
         "id": "3ad1c0bf-22ff-48cd-9fb0-fa9f415bee8a",
         "choice_type": "single"
-    },
-    {
-        "question": "True about Keloid",
-        "exp": "\"A keloid scar is defined as excessive scar tissue that extends beyond the boundaries of the original incision or wound\" Bailey and love 26th edition Pg: 30",
-        "cop": 2,
-        "opa": "Regresses spontaneously",
-        "opb": "Grows beyond border of wound",
-        "opc": "Precancerous lesion",
-        "opd": "More common men",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "cd3358d6-d9a9-4712-adfd-95155fa3b1cd",
-        "choice_type": "multi"
     },
     {
         "question": "In a shock patient, good clinical indicator of perfusion status among the following is",
@@ -2652,45 +1833,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Skin grafting done on wound following major skin taken from twin brother",
-        "exp": ". Autograft: It is tissue transferred from one location to another on the same patient. Isograft: It is tissue transfer between two genetically identical individuals, i. e. between two identical twins. Allograft: It is tissue transfer between two genetically different members, e. g. kidney transplantation (Human to human) (Homograft). Xenograft: It is tissue transfer from a donor of one species to a recipient of another species (Heterograft). ref: SRB; s manual of surgery, ed 3, pg no 279",
-        "cop": 1,
-        "opa": "Isograft",
-        "opb": "Allograft",
-        "opc": "Autograft",
-        "opd": "Xenograft",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "10c01b0c-25a8-43c6-aacb-cdf6101dbda5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Complications of total parenteral nutrition include all except",
-        "exp": "Hypochloremic alkalosis is mostly due to excessive chloride wasting as in watery diarrhoea, NG tube suctioning, vomitings all others are complications of TPN",
-        "cop": 3,
-        "opa": "Hyperglycemia",
-        "opb": "Hypoglycemia",
-        "opc": "Hypochloremic alkalosis",
-        "opd": "Electrolyte abnormalities",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "9e5c7b50-f12a-48de-9aab-1d565b6452c5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The medical indications for circumcision are all except",
-        "exp": "Phimosis is often wrongly applied to describe a normal, non-retractile foreskin. True phimosis is seen as a whitish scarring of the foreskin and is rare before 5 years of age. It is caused by the localised skin disease balanitis xerotica obliterans (BXO), which also affects the glans penis and can cause urethral meatal stenosis. Circumcision is not indicated for an otherwise healthy nonretractile foreskin. Medical indications are phimosis, BXO, recurrent balanoposthitis, paraphimosis, scarring from trauma. Circumcision is occasionally justified in boys with an abnormal upper urinary tract anomaly and recurrent urinary infection. Ref: Bailey and Love 27e pg: 127",
-        "cop": 1,
-        "opa": "Non-retractile foreskin",
-        "opb": "Paraphimosis",
-        "opc": "Recurrent balanoposthitis",
-        "opd": "Recurrent urinary tract infections",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "838c6632-6200-463f-ba6b-d593c087227a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Composition of which of the following intravenous fluids has the closest resemblance to plasma?",
         "exp": "Ringer lactate and hamanns solution are identical to blood One litre of Ringer&; s lactate solution contains: 130 m. Eq of sodium ion = 130 mmol/L 109 m. Eq of chloride ion = 109 mmol/L 28 m. Eq of lactate = 28 mmol/L 4 m. Eq of potassium ion = 4 mmol/L 3 m. Eq of calcium ion = 1. 5 mmol/L Ringer&; s lactate has an osmolarity of 273 m. Osm/L the reference range of serum osmolality is 275-295 mosm/kg (mmol/kg).",
         "cop": 4,
@@ -2702,32 +1844,6 @@
         "topic_name": "General surgery",
         "id": "df0430eb-7099-425c-a916-6af855a11818",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about lymphedema except",
-        "exp": "Lymphoedema may be defined as abnormal limb swelling caused by the accumulation of increased amounts of high protein ISF secondary to defective lymphatic drainage in the presence of (near) normal net capillary filtration. At bih, 1 in 6000 people will develop lymphoedema with an overall prevalence of 0. 13-2%. The severity of unilateral limb lymphoedema can be classified as: mild: <20% excess limb volume; moderate: 20-40% excess limb volume; severe: >40% excess limb volume. Types of Primary lymphedema. Congenital (onset <2 years old): sporadic; familial (Nonne-Milroy's disease). Praecox (onset 2-35 years old): sporadic; familial (Letessier-Meige's disease). Tarda (onset after 35 years old). Ref: Bailey and love 27e pg: 998",
-        "cop": 4,
-        "opa": "Prevalence of 0. 1-2%",
-        "opb": "Interstitial fluid accumulation",
-        "opc": "Severe Lymphedema if limb volume > 40%",
-        "opd": "Primary lymphedema sets in by age of 2",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "19b1e51a-7684-413d-909d-602138382f9d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are included in Child-Turcotte-Pugh classification except",
-        "exp": "Child-Turcotte-Pugh (CTP) classification of hepatocellular function in cirrhosis. 1 point2 points3 points. Bilirubin (umol/L)<3434-50>50. Albumin (g/L)>3525-35<25. Ascites. None. Easily controlled. Porly controlled. Encephalopathy. None. Gr I-IIGr III-IVINR<1. 71. 7-2. 2>2. 2. CTP A= 5-6 points, CTP B= 7-9 points, CTP C= 10-15 points. CTP classification is used to predict moality after surgery. Ref: Bailey and love 27e pg: 1156",
-        "cop": 4,
-        "opa": "Bilirubin",
-        "opb": "Ascities",
-        "opc": "INR",
-        "opd": "ALP",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "6fb1d7f7-87fc-4c2e-8089-fcc46a17057d",
-        "choice_type": "multi"
     },
     {
         "question": "Burn of head region in a child accounts for what percent of burns?",
@@ -2769,32 +1885,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In the Clatke&; s level of tumor invasion for malignant melanoma level 3 refers to",
-        "exp": ". Staging of Malignant Melanoma (It is older staging system) IA: Thickness less than 0. 75 mm. IB: Thickness between 0. 76 to 1. 5 mm. IIA: Thickness between 1. 51 to 4. 0 mm. IIB: Thickness more than 4. 0 mm. IIIA: Any of the above + nodes less than 3 cm. IIIB: Any of the above + nodes more than 3 cm. IV: Any of the above + any node + M1 (distant spread) ref: SRB; s manual of surgery, ed 3, pg no 262",
-        "cop": 4,
-        "opa": "All tumar cells above basement membrane",
-        "opb": "Invasion into reticular dermis",
-        "opc": "Invasion into loose connective tissue of papillary dermis",
-        "opd": "Tumor cells at junction of papillary and reticular dermis",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "dd490f6e-0110-4100-adc6-f12383260793",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about TPN",
-        "exp": "Calories from amino acid 20-25% lipids 20% dextrose 55-60% Abdominal injuries, we need not sta TPN unless we anticipate atleast 2 weeks of bowel rest.",
-        "cop": 4,
-        "opa": "Carbohydrate forms about 40% of energy source",
-        "opb": "In abdominal injury early parenteral nutrition should be staed",
-        "opc": "Proteins forms 60% of energy source",
-        "opd": "Lipids form 20% of energy source",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "9e04c15f-1f9b-4fa5-aa00-5c3438d25a18",
-        "choice_type": "multi"
-    },
-    {
         "question": "Murphy's sign is seen in",
         "exp": "In the acute cholecystitis, the patient may have right upper quadrant tenderness that is exacerbated during inspiration by the examiner's right subcostal palpation (Murphy's sign). A positive Murphy's sign suggests acute inflammation and may be associated with a leukocytosis and moderately elevated liver function tests. Ref: Bailey and love 27e pg: 1199",
         "cop": 1,
@@ -2819,32 +1909,6 @@
         "topic_name": "General Surgery",
         "id": "5934ab25-cc4c-4629-b9c7-bb1af5ad4734",
         "choice_type": "single"
-    },
-    {
-        "question": "On mammogram all of the following are the features of a malignant tumor except:",
-        "exp": "Benign Malignant Opacity Smooth margin Low density Homogeneous Thin halo Ill definedQ margin Irregular stellate, spiculatedQ margin, comet tailQ High densityQ Heterogeneous Wide haloQ Calcification MacrocalcificationQ (>0. 5 mm in diameter) MicrocalcificationQ (<0. 5 mm in diameter)",
-        "cop": 3,
-        "opa": "Spiculation",
-        "opb": "Microcalcification",
-        "opc": "Macrocalcification",
-        "opd": "Irregular mass",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "e7699b59-564f-4067-8a08-7a8dbc81782c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which is the most stable suture layer in all sections of the gastrointestinal tract?",
-        "exp": "Submucosa layer, because of its high collagen content and is the most stable suture layer in all sections of the gastrointestinal tract. Ref: Bailey and Love 27e pg: 98",
-        "cop": 2,
-        "opa": "Mucosa",
-        "opb": "Submucosa",
-        "opc": "Muscularis",
-        "opd": "Serosa",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "9d6e987f-99c7-491d-98bc-2e482c3aee44",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not a pro-inflammatory cytokine?",
@@ -2899,19 +1963,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following statements about necrotizing fasciitis are true, except",
-        "exp": "NSTIs (necrotizing soft tissue infections) can occur in any area of the body but are most commonly seen in the extremities, perineum, and genitalia, with fewer arising on the chest or the abdomen (extremities are more common) Fournier gangrene is a type of necrotizing fasciitis or gangrene affecting the perineum",
-        "cop": 3,
-        "opa": "Infection of fascia and subcutaneous tissue",
-        "opb": "Most commonly caused by Group A beta hemolytic streptococci",
-        "opc": "Most common site is perineum followed by trunk and extremities",
-        "opd": "Surgical debridement is mandatory",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "7bd25ab4-9701-462c-b672-1752efc23d5b",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the most impoant aspect of management of burn injury in the first 24 hours?",
         "exp": "Fluids used are normal saline, ringer lactate, Hamann fluid, plasma. Ringer lactate is the fluid of choice. Blood is transfused in later period (after 48 hours). First 24 hours only crystalloids should be given. (Crystalloids are one which can pass through capillary wall like saline either hypo, iso or hypeonic, dextrose saline, ringer lactate.). ref: SRB; s manual of surgery, ed 5, pg no 133",
         "cop": 1,
@@ -2923,19 +1974,6 @@
         "topic_name": "General surgery",
         "id": "2a246de9-f74a-473f-8bf3-c89bbdb4b57e",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about Primary sclerosing cholangitis except",
-        "exp": "Primary sclerosing cholangitis. This condition often presents in young adults with mild non-specific symptoms, and biliary disease is suggested by the finding of abnormal liver function tests. Rarely, the first presentation is with jaundice due to biliary obstruction. Although the aetiology is unknown, a genetic predisposition is likely, owing to its association with ulcerative colitis (UC). In patients with primary sclerosing cholangitis (PSC) and UC, the condition usually progresses even if the diseased colon is removed. There is a strong predisposition to cholangiocarcinoma (CCA) and gallbladder cancer. Ref: Bailey and love 27e pg: 1167",
-        "cop": 4,
-        "opa": "Associated with ulcerative colitis",
-        "opb": "Predisposition to cholangiocarcinoma",
-        "opc": "Predisposition gallbladder cancer",
-        "opd": "Most common presentation is jaundice",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "605e565f-8978-4f99-a68a-4a41e8b4f839",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is an Interstitial type of a hernia",
@@ -3016,32 +2054,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Silver sulphadiazine cream is used in burn wounds because",
-        "exp": "Silver sulphadiazine cream (1 percent) gives broadspectrum prophylaxis against bacterial colonisation and is paicularly effective against Pseudomonas aeruginosa and also methicillin-resistant Staphylococcus aureus. Options for burns dressing include1% silver sulphadiazine cream0. 5% silver nitrate solution. Mafenide acetate cream. Serum nitrate, silver sulphadiazine and cerium nitrate. Bailey and Love 26e pg: 393",
-        "cop": 4,
-        "opa": "It has soothing effect",
-        "opb": "Covers pseudomonas",
-        "opc": "Covers MRSA",
-        "opd": "Covers both Pseudomonas and MRSA",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "3e913628-4ced-49d2-8746-0188fe5fa416",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about chronic wound",
-        "exp": "Chronic wounds are defined as those that do not follow the normal healing process and show no signs of healing in 4 weeks. It fails to progress through the normal phases of healing but with prolonged inflammatory phase. Diabetes, venous/aerial diseases, nutritional deficiencies are the causes. Hypoxia initially is a potent stimulus for fibroblast activity and angiogenesis; persisting hypoxia impedes fibroblast and collagen activity and also allows bacterial invasion to make wounds chronic. Chronic wounds are chronically infected with biofilms which interfere mainly with the inflammatory phase of healing, contributing to the non-healing. A biofilm is a complex structure of microorganisms contained in an extracellular matrix of proteins and polysaccharides that adhere to a surface, creating a protected environment for the organisms. Chronic ulcers are unrespon- sive to dressing treatment; it requires biopsy, culture study, definitive treatment like wound debridement, VAC (Vacuum Assisted Closure) therapy, skin grafting or flap. Specific conditions like tuberculosis if present should be treated. Malignancy if confirmed is treated by wide local excision and skin graft. Ref: SRB 6th edition.",
-        "cop": 1,
-        "opa": "Found in DM",
-        "opb": "Always require surgical treatment",
-        "opc": "May be associated with vascular compromise",
-        "opd": "Monofilament sutures prevent infection",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "aee3d28f-3cea-4c34-ac8e-121505f7ddba",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not a component of APACHE score?",
         "exp": ". APACHE II (Acute Physiology and Chronic Health Evaluation II) point score is calculated from a patient&; s age and 12 routine physiological measurements: Pa. O2 Temperature Mean aerial pressure pH aerial Heart rate Respiratory rate Serum Sodium Serum Potassium Creatinine Hematocrit White blood cell count Glasgow Coma Scale S. Ca is pa of Ransons criteria",
         "cop": 3,
@@ -3107,19 +2119,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Transplantation that requires all cellular components to be irradiated prior to transfusion",
-        "exp": ". Indications for bone marrow transplantation includes, * Leukaemias. * Aplastic anemias. * Immune deficiencies etc. Recipients are initially treated with total body irradiation. As bone marrow is an active immune system, proper tissue typing is essential. Infant bone marrow is better marrow as a donor. Marrow aspirated from donor's bone is transplanted by intravenous injection to the recipient. Immunosuppression with cyclosporin-A is always needed. It will take few weeks to show the response. ref: SRB; s manual of surgery, ed 5, pg no 338",
-        "cop": 3,
-        "opa": "Heart",
-        "opb": "Liver",
-        "opc": "Bone marrow",
-        "opd": "Lung",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "61ce68f1-cb3b-4d91-bfe9-2e9fe0e2eddd",
-        "choice_type": "multi"
-    },
-    {
         "question": "In hydatid cyst which layer has germinal membrane and contains ble parasites",
         "exp": "The hydatid cyst is characterised by three layers, an outer pericyst derived from compressed host organ tissues, an intermediate hyaline ectocyst, which is non-infective, and an inner endocyst that is the germinal membrane and contains ble parasites which can separate forming daughter cysts. Ref: Bailey and Love 27e pg: 64",
         "cop": 4,
@@ -3157,19 +2156,6 @@
         "topic_name": "General surgery",
         "id": "ad0b602e-673b-43d9-8aba-ee99985df512",
         "choice_type": "single"
-    },
-    {
-        "question": "Following are basic rules for wound closure EXCEPT:",
-        "exp": "WOUND CLOSURE The suturing of any incision or wound needs to take into consideration the site and tissues involved, and the technique for closure should be chosen accordingly. There is no ideal wound closure technique that would be appropriate for all situations, and the ideal suture has yet to be produced. Therefore, the correct choice of suture technique and suture material is vital, but will never compensate for inadequate operative technique, and, for any wound to heal well, there must be a good blood supply and no tension on the closure. Clean uninfected wounds with a good blood supply heal by primary intention and therefore closure simply requires accurate apposition of the wound edges. The edges should be inveed However, if a wound is left open, it heals by secondary intention through the formation of granulation tissue, which is tissue composed of capillaries, fibroblasts and inflammatory cells. Wound contraction and epithelialisation assist in ultimate healing, but the process may take several weeks or months. Delayed primary closure, or teiary intention, is utilised when there is a high probability of the wound being infected. The wound is left open for a few days and, provided any infective process has resolved, the wound is closed to heal by primary intention. Skin grafting is another form of teiary intention healing. Ref: Bailey and love 27th edition Pgno: 89",
-        "cop": 2,
-        "opa": "Wound edges should be left slightly gaping to allow swelling",
-        "opb": "Edges should be inveed",
-        "opc": "The knot should be placed to one side of the wound",
-        "opd": "Knots must be secure, with the ends long enough to grasp when removing the suture",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "41286aae-5d31-4c50-bf7a-3654a0507922",
-        "choice_type": "multi"
     },
     {
         "question": "In a 60. Kg man with 40% burns what is the amount of ringer lactate given in first 8 hours",
@@ -3250,32 +2236,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Monckeberg&; s calcific sclerosis affects the medium-sized muscular aeries by involving",
-        "exp": "Monckeberg medial sclerosis is characterized by calcification of the walls of muscular aeries, typically involving the internal elastic membrane. Persons older than age 50 are most commonly affected. The calcifications do not encroach on the vessel lumen and are usually not clinically significant. Ref: Robbins; 9th edition; Chapter 11; Blood Vessels; Page no: 490",
-        "cop": 2,
-        "opa": "Intima",
-        "opb": "Media",
-        "opc": "Adventitia",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "4a08c753-19b3-4317-8e6c-29f672c40e68",
-        "choice_type": "multi"
-    },
-    {
-        "question": "If a mother is donating here kidney to her son. This is an example of",
-        "exp": "Types of Graft: - * Allograft:- An organ or tissue transplanted from one individual to another * Isograft:- Organs transplanted between identical twins and are immunologically indistinguishable * Autograft:- Organ or tissue transplanted with in same individual, e. g. skin graft, bone graft and free flap * Xenograft:- A graft performed between different species Ref:- Surgery Sixer 3rd Edition; Pg num:- 142",
-        "cop": 2,
-        "opa": "Autograft",
-        "opb": "Allograft",
-        "opc": "Isograft",
-        "opd": "Xenograft",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "631d776f-dc51-4042-8235-00027c537fc0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is an example of clean contaminated wound?",
         "exp": "Wounds Class Definition I: Clean Uninfected operative wound without inflammation Respiratory, alimentary, genital or infected urinary tract is not entered Examples of Clean Wound Inguinal hernia Mastectomy Abdominal aoic aneurysm (AAA) repair II: Clean contaminated Operative wound in which respiratory tract GIT or genitourinary tract is entered under controlled condition without unusual contamination Exampled of Clean Contaminated Wound Cholecystectomy CBD exploration Elective GI surgeries (elective colonic resection, gastrectomy) III: Contaminated Open, fresh accidental wounds Operations with major break in sterile techniques Gross spillage from GIT Exampled of Contaminated Wound Spill during elective GI surgery Perforated gastric ulcer Appendicular perforation Penetrating abdominal trauma Enterotomy during bowel obstruction IV: Diy Old traumatic wound with retained devitalized tissue Wound with clinical infection or perforated viscera with high degree of contamination. Organism causing post-op infection is already present in the wound before operation. Associated with severe inflammation Examples of diy wound Perforated diveiculitis. Fecal peritonitis Nectotizing soft tissue infection.",
         "cop": 1,
@@ -3300,19 +2260,6 @@
         "topic_name": "General surgery",
         "id": "0f556558-7094-423d-b38d-3171b0d6955c",
         "choice_type": "single"
-    },
-    {
-        "question": "True about thermal burn injury",
-        "exp": "Outermost area is zone of hyperaemia and Middle layer is zone of stasis and Innermost layer is the zone of coagulation according to JACKSON'S burn zones. ref: SRB; s manual of surgery, ed 5, pg no 130",
-        "cop": 3,
-        "opa": "Outermost layer is zone of stasis",
-        "opb": "Middle layer is zone of hypermia",
-        "opc": "Inner layer is zone of coagulation",
-        "opd": "Hypermia is due to vasodilation",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "65befeec-a1bc-4bdf-b7c1-92833a683e10",
-        "choice_type": "multi"
     },
     {
         "question": "Marjolin's ulcer is a",
@@ -3352,32 +2299,6 @@
         "topic_name": "General surgery",
         "id": "04fe69e2-91d3-44bd-b92d-bcd4ddcdaf82",
         "choice_type": "single"
-    },
-    {
-        "question": "Shock sets in an adult above what percentage of burns, if untreated",
-        "exp": "the overall effect of changes in burns is to produce a net flow of water, solutes and proteins from the intravascular to the extravascular space. As the burn size approaches 10-15 per cent of total body surface area (TBSA), the loss of intravascular fluid can cause a level of circulatory shock. Above 15 percent of the surface area, the loss of fluid produces shock. Fuhermore, once the area increases to 25 per cent of TBSA, the inflammatory reaction causes a fluid loss in vessels remote from the burn injury. Bailey and love 26e pg: 387",
-        "cop": 2,
-        "opa": "10%",
-        "opb": "15%",
-        "opc": "25%",
-        "opd": "30%",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "9c4753e1-6ce0-4d12-8f64-e162cad70325",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are genetic conditions with increased risk of malignancy except",
-        "exp": "Neurofibromatosis is associated the development of smooth surfaced cafe-au-lait spots, subcutaneous neurofibromata, armpit or groin freckling and Lisch nodules. Naevoid basal cell carcinoma (Gorlin's) syndrome. This is an autosomal dominant inherited condition caused by an abnormal tumour suppressor gene on Ch. 9q 22-31 coding the 'patched' protein. 90% of patients develop multiple basal cell carcinomas (BCCs). Xeroderma pigmentosum. This syndrome is caused by an abnormality on the 'patched' gene of Ch. 9q resulting in aberrant nucleotide repair during cellular DNA maintenance.>2000-fold increase in skin cancer risk Autosomal recessive inheritance. Ferguson-Smith syndrome. This is a rare, autosomal-dominantly inherited abnormality on Ch. 9q Affected individuals develop multiple self-healing squamous cell carcinomas (SCC). Ref: Bailey and Love, 27e, page: 595",
-        "cop": 4,
-        "opa": "Gorlin's syndrome",
-        "opb": "Xeroderma pigmentosum",
-        "opc": "Ferguson-Smith syndrome",
-        "opd": "Neurofibromatosis",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "ad0f6f68-2474-4706-b95f-33cc6aa40fce",
-        "choice_type": "multi"
     },
     {
         "question": "Most common cause of death in burns is",
@@ -3458,19 +2379,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are criteria for SIRS except",
-        "exp": "SIRS is two of: hypehermia (>38degC) or hypothermia (<36degC)tachycardia (>90/min, no b-blockers) or tachypnoea (>20/min)white cell count >12 x 10^9/litre or <4 x 10^9/litre. Ref: Bailey and Love 27e pg: 51",
-        "cop": 4,
-        "opa": "Hypothermia (<36degC)",
-        "opb": "Tachycardia (>90/min)",
-        "opc": "Tachypnoea (>20/min)",
-        "opd": "White cell count >10 x 10^9/litre",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "a3645092-a941-4447-a727-bfd34a825de9",
-        "choice_type": "multi"
-    },
-    {
         "question": "&; Take in&; of split skin graft occurs when",
         "exp": ". take in occurs if there is close contact of graft with recepient bed and decreased when there is infection or pus draining or wound bed not vascularized",
         "cop": 1,
@@ -3482,32 +2390,6 @@
         "topic_name": "General surgery",
         "id": "5c664adc-8141-4232-ad6f-6a5d25c51ff7",
         "choice_type": "single"
-    },
-    {
-        "question": "Infestation with Clonorchis sinensis increases risk of",
-        "exp": "Asiatic cholangiohepatitis The causative parasite is Clonorchis sinensis. Produces bile duct hyperplasia, intrahepatic duct dilatation and stones. Increases the risk of cholangiocarcinoma. Stool examination for eggs or worms is diagnostic. Ultrasound scan of the hepatobiliary system and ERCP are also diagnostic. Praziquantel and albendazole are the drugs of choice. Cholecystectomy with exploration of the common bile duct is performed when CBD stones are present. Ref: Bailey and Love 27e pg: 63",
-        "cop": 2,
-        "opa": "Gall bladder cancer",
-        "opb": "Cholangiocarcinoma",
-        "opc": "Hepatocellular carcinoma",
-        "opd": "Carcinoma head of pancreas",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "cf66e41f-a479-470d-b4b6-56a1a1c811a9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about Richter's hernia",
-        "exp": "In Richter's hernia, only pa of the bowel wall enters the hernia. Bowel obstruction may not be present but the bowel wall may still become necrotic and perforate. In sliding hernia, viscus forms the wall of the hernia. In Littre's hernia, Meckel's diveiculum is the content. In Amyand's hernia, appendix is the content. Ref: Bailey and love 27e pg: 1024",
-        "cop": 2,
-        "opa": "Meckles diveiculum is content",
-        "opb": "Only pa of bowel wall enters hernia",
-        "opc": "Appendix is the content",
-        "opd": "Viscus forms the wall of the hernia",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "466912fb-01c6-421f-b5f5-6bd3e54c36fd",
-        "choice_type": "multi"
     },
     {
         "question": "Reactionary hemorrhage occurs within",
@@ -3536,45 +2418,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are indicators of adequacy of pre-operative resuscitation except",
-        "exp": "Pre-Operative Assessment * Full blood count. A full blood count (FBC) is needed for major operations, in the elderly and in those with anemia or pathology with ongoing blood loss and chronic disease. In case of suspicion or history of sickle crisis, a sickle cell Test is needed in patients of Afro-Caribbean and Indian subcontinent origin. * Urea and electrolytes. Urea and electrolytes (U&Es) are needed before all major operations, in most patients over 65 years of age especially with cardiovascular, renal and endocrine disease, or if significant blood loss is anticipated. It is also needed in those on medications that affect electrolyte levels, e. g. steroids, diuretics, digoxin, non-steroidal anti-inflammatory drugs, intravenous fluid or nutrition therapy and endocrine problems. * Electrocardiography. Electrocardiography (ECG) is required for those patients over 65 years of age and symptomatic patients with a history of rheumatic fever, diabetes, cardiovascular, renal and cerebrovascular disease, with and without severe respiratory problems. It will also depend on if the surgery is minor/intermediate or major. * Chest radiograph. Cost-effectiveness and risks of radiationexposure mean that chest radiographs should be restricted to specific patients, such as those with cardiac failure, severe chronic obstructive pulmonary disease (COPD), acute respiratory symptoms, pulmonary cancer, metastasis or effusions or those who are deemed to be at risk of active pulmonary tuberculosis. * Clotting screen. If a patient has a history suggestive of a bleeding diathesis, liver disease, eclampsia, cholestasis or has a family history of bleeding disorder, or is on antithrombotic or anticoagulant agents then coagulation screening will be needed. However, the effects of anti- platelet agents, low molecular weight heparins and newer agents affecting factor Xa cannot be measured by routine Laboratory tests. * Urinalysis. Dipstick testing of urine should be performed on all patients to detect urinary infection, biliuria, glycos- uria and inappropriate osmolality. * b-Human chorionic gonadotrophin. Women of child-bearing age should be asked sensitively about their pregnancy status. If in doubt a laboratory test or a reliable pregnancy kit (low cost) can be used, after obtaining consent from the patient, to avoid danger of exposure to surgery and anaesthesia on the foetus. * Blood glucose and Hb. A1c. Poor control of diabetes can lead to perioperative infection and slow recovery in patients with diabetes mellitus and endocrine problems. Hb. A1C indicates how well diabetes has been controlled over a longer duration. Early mobilisation, oral intake and return to routine medication should be the goals in management of diabetes. * Aerial blood gases. A low-cost tool that can give quick and vital information in acute or chronic severe respiratory conditions, acid-base disturbances and conditions where there is changing milieu, e. g. immediately before kidney transplant. * Liver function tests. These are indicated in patients with jaundice, known or suspected hepatitis, cirrhosis, malignancy or in patients with poor nutritional status. * Other investigations. Specialist radiological views and recent imaging are sometimes required. If imaging is going to be needed during surgery, then this needs to be planned in advance. Ref: Bailey and love 27th edition Pgno: 256",
-        "cop": 1,
-        "opa": "C-reactive protein level",
-        "opb": "Consciousness level",
-        "opc": "Urin output",
-        "opd": "Hematocrit level",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "9517884c-80a8-4b35-a0d7-74ae6eb74f7b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "An 8-month-old boy has Impalpable undescended testes, whats the next step in management?",
-        "exp": "At bih, 4% of full-term boys have unilateral or bilateral undescended testes, but after 3 months of age the incidence is <1% and it changes little thereafter. So no role for reassurance. Impalpable undescended testes are either absent or located in the abdomen or inguinal canal. There is no benefit from imaging and these are best managed with a laparoscopy and usually a staged approach. Ref: Bailey and Love 27e pg: 125",
-        "cop": 4,
-        "opa": "Reassurance",
-        "opb": "USG andomen and scrotum",
-        "opc": "MRI abdomen",
-        "opd": "Laparoscopy",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "bcb6127f-2770-4d76-a1c0-5b62f8a5acc4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about tumors associated with BRCA-1 except:",
-        "exp": "Tumors associated with BRCA-1 are hormone receptor negative. BRCA-1 BRCA-2 * Chromosome: 17 * Chromosome: 13 * BRCA-1 associated breast cancers: * BRCA-2 associated cancers: - Invasive ductal carcinomas - Invasive ductal carcinomas - Poorly differentiated - Well differentiated - Hormone-receptor negative - Hormone-receptor positive - Early age of onset - Early age of onset - Bilateral - Bilateral * Associated ovarian, colon and prostate cancers. * Associated ovarian, colon, prostate, pancreas, gall- bladder, stomach cancers and melanoma.",
-        "cop": 1,
-        "opa": "Hormone receptor positive",
-        "opb": "Poorly differentiated",
-        "opc": "Chromosome -17",
-        "opd": "Early age onset",
-        "subject_name": "Surgery",
-        "topic_name": "General Surgery",
-        "id": "47bf586b-15c9-4512-b3be-cc6188564dbe",
-        "choice_type": "multi"
-    },
-    {
         "question": "Gompezian curve is used to describe",
         "exp": "Gompezian curve: In its early stages, growth is exponential but, as the tumour grows, the growth rate slows. This decrease in growth rate probably arises because of difficulties with nutrition and oxygenation. The tumour cells are in competition: not only with the tissues of the host but also with each other. Ref: Bailey and Love 27e pg: 143",
         "cop": 1,
@@ -3586,58 +2429,6 @@
         "topic_name": "General surgery",
         "id": "7439dfa5-9605-4fe9-9120-766fd2a57d02",
         "choice_type": "single"
-    },
-    {
-        "question": "All are early features of generalized peritonitis except",
-        "exp": "Features of diffuse/generalised peritonitis. Early. Abdominal pain. Tenderness. Guarding. Infrequent bowel sounds. Tachycardia. Fever. Later. Abdominal rigidity. Abdominal distension. Absent bowel sounds. Cold, clammy extremities. Thready irregular pulse. Drawn and anxious face (Hippocratic facies) Ref: Bailey and love 27e pg: 1050",
-        "cop": 4,
-        "opa": "Abdominal tenderness",
-        "opb": "Infrequent bowel sounds",
-        "opc": "Tachy cardia",
-        "opd": "Hippocratic facies",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "fb3cb680-0463-4ed0-8373-35009bbdc73d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "False statement regarding the vacuum-assisted closure is",
-        "exp": "In vacuum assisted dressing, an intermittent negative pressure of approximately-125 mm. Hg is applied to hasten debridement and theformation of granulation tissue in chronic wounds and ulcers. adhesive film. Negative pressure may act by decreasing oedema, by removing interstitial fluid and by increasing bloodflow. As a result, bacterial counts decrease and cell proliferationincreases, thereby creating a suitable bed for graft or flap cover. Bailey and Love 27e pg: 30",
-        "cop": 1,
-        "opa": "Continuous negative pressure is applied",
-        "opb": "Hastens formation of granulation tissue",
-        "opc": "Decreases edema",
-        "opd": "Increases blood flow",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "b9393274-9f61-4477-95a5-9d48d28ff372",
-        "choice_type": "multi"
-    },
-    {
-        "question": "What are true regarding 2degree deep burn",
-        "exp": "A). First degree burn- erythema/edema B). Second degree burn- blister, soft waxy white, elastic, pain sensation to needle prick present C). Third degree burn-tough, dry, eschar, thrombosed subcutaneous vein, pain sensation to needle prick absent. Ref: Manipal manual of surgery, 4th edition, pg",
-        "cop": 3,
-        "opa": "Blanch on pressure",
-        "opb": "Erythema",
-        "opc": "Dry white colour",
-        "opd": "Painless",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "a004d56b-5bbb-46a1-bc8b-05f6a6ae42ef",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are differential diagnosis for acute scrotum except",
-        "exp": "In testicular malignancy, Usually, the patient presents with a painless testicular lump. A sensation of heaviness can occur if the testis is two or three times its normal size, but only a minority of patients experience pain. The hydatid of Morgagni (appendix testis) is a small embryological remnant at the upper pole of the testis. Can occasionally, undergo torsion, causing acute one-sided testicular pain. One-third of patients present with a palpable \"blue dot\" discoloration on the scrotum. (blue-dot sign). Ref: Bailey and Love 27e pg: 1507",
-        "cop": 4,
-        "opa": "Epididymitis",
-        "opb": "Hydatid torsion",
-        "opc": "Testicular torsion",
-        "opd": "Testicular cancer",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "f2b5ab48-4dc4-49bd-a9d6-9527cf9e3332",
-        "choice_type": "multi"
     },
     {
         "question": "The tensile strength of wound after laparoscopic cholecystectomy in a 30 years old Woman depends upon",
@@ -3679,19 +2470,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most common cause of death due to burns in early period is?",
-        "exp": "Srb's manual of surgery, 4th edition Pathophysiology of burns: 1. Burns, 2. Loss of fluid, 3. Severe hypovolemia, 4. Reduced cardiac output, a. Decreased myocardial function. b. altered pulmonary resistance causing pulmonary edema, 5. Infection, 6. Systemic inflammatory response syndrome-SIRS, 7. Multiorgan dysfunction syndrome-MODS 8. Ultimately leading to death.",
-        "cop": 2,
-        "opa": "Sepsis",
-        "opb": "Hypovolemic shock",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "19d0c261-8e98-420d-9ce2-1032e67d9692",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dacron vascular graft is",
         "exp": ". Aneurysm is excised and the aerial graft either PTFE (Polytetrafluoroethylene), knitted dacron graft, or woven dacron graft is placed. The graft is sutured to the vessel above and below using monofilament, nonabsorbable suture material, polypropylene 5-zero. ref: SRB; s manual of surgery, ed 3, pg no 170",
         "cop": 2,
@@ -3705,19 +2483,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Recognized complications associated with enteral feeding include all except",
-        "exp": "Complications of enteral nutrition Tube-related: Malposition, Displacement, Blockage, Breakage/leakage Local complications (e. g. erosion of skin/mucosa) Gastrointestinal: Diarrhoea, Bloating, nausea, vomiting, Abdominal cramps, Aspiration, Constipation Metabolic/biochemical: Electrolyte disorders, Vitamin, mineral, trace element deficiencies, Drug interactions Infective: Exogenous (handling contamination), Endogenus Hepatic steatosis is seen in TPN Pg No. 286 BAILEY 27. TH EDITION",
-        "cop": 4,
-        "opa": "Constipation",
-        "opb": "bloating & nausea",
-        "opc": "Aspiration pneumonia",
-        "opd": "Hepatic steatosis",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "b98b39d3-5dab-4433-87e7-bb67ef62ac25",
-        "choice_type": "multi"
-    },
-    {
         "question": "Wolfe grafts is",
         "exp": ". wolfe graft is a ful thickness graft consisiting of epidermis and full layer of dermis thiersch graft is a paial thickness graft consisiting of epidermis and variable layers of dermis",
         "cop": 1,
@@ -3729,19 +2494,6 @@
         "topic_name": "General surgery",
         "id": "fdf194db-8fce-4f10-ae19-488a8f1e81af",
         "choice_type": "single"
-    },
-    {
-        "question": "Mesh is sutured to the edge of the defect, this is called",
-        "exp": "A well-placed mesh should have good overlap around all margins of the defect, at least 2 cm but up to 5 cm if possible. Suturing a mesh edge to edge into the defect is inlay mesh, this is not recommended. The mesh can be placed: Just outside the muscle in the subcutaneous space (onlay); Within the defect (inlay) - only applies to mesh plugs in small defects; Between fascial layers in the abdominal wall (intraparietal or sublay); Immediately extraperitoneally, against muscle or fascia (also sublay); Intraperitoneally. Ref: Bailey and love 27e pg: 1027",
-        "cop": 2,
-        "opa": "Onlay mesh",
-        "opb": "Inlay mesh",
-        "opc": "Underlay mesh",
-        "opd": "Sublay mesh",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "57eda9fd-1f08-4b35-abdf-0201a1b6287a",
-        "choice_type": "multi"
     },
     {
         "question": "Below knee, amputation is done at the level of",
@@ -3768,19 +2520,6 @@
         "topic_name": "General surgery",
         "id": "395ccc72-83e6-440f-b334-2bfb5a525e80",
         "choice_type": "single"
-    },
-    {
-        "question": "Patients undergoing splenectomy require following vaccinations except",
-        "exp": "Postsplenectomy septicaemia may result from Streptococcus pneumoniae, Neisseria meningitides, Haemophilus influenzae and Escherichia coli. (Oppounist post-splenectomy infection (OPSI)). If elective splenectomy is planned, consideration should be given to vaccinating against pneumococcus, meningococcus C (both repeated every 5 years) and H. influenzae type B (Hib) (repeated every 10 years). Ref: Bailey and love 27e pg: 1187",
-        "cop": 4,
-        "opa": "Pneumococcus",
-        "opb": "Gonococcus",
-        "opc": "Haemophilus",
-        "opd": "Influenza",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "411ebe63-29ec-458b-8936-a002f6aaf0f3",
-        "choice_type": "multi"
     },
     {
         "question": "Which is the most common type of shock in surgical practice",
@@ -3820,19 +2559,6 @@
         "topic_name": "General surgery",
         "id": "d0722025-51c9-4ae5-9091-4de3096ccd7e",
         "choice_type": "single"
-    },
-    {
-        "question": "True about surgical wounds are all except",
-        "exp": "Preoperative antibiotic prophylaxis does not significantly reduce the frequency of postoperative wound infection in clean elective general surgical operations. So the routine prophylactic use of antibiotics in clean general surgical operations is not recommended. Incision of abscess comes under diy wounds. Infection rate of clean contaminated is less than 10% Bailey and love 26th edition Pg 63",
-        "cop": 2,
-        "opa": "No antibiotics required in clean surgery",
-        "opb": "Incision of abscess is contaminated wound",
-        "opc": "Spillage of stomach content conves a clean contaminated case to a contaminated case",
-        "opd": "In clean contaminated wounds infections rate is < 10%",
-        "subject_name": "Surgery",
-        "topic_name": "General surgery",
-        "id": "c1000c99-0563-4a2c-bd2b-0346d218fb06",
-        "choice_type": "multi"
     },
     {
         "question": "Posterior right subhepatic intraperitoneal space is",

@@ -1,18 +1,5 @@
 [
     {
-        "question": "All are absolute contraindications for regional anesthesia Except",
-        "exp": "INR > 2 is a relative contraindication for ophthalmic anaesthesia",
-        "cop": 4,
-        "opa": "Patient refusal",
-        "opb": "Lack of nerve stimulator",
-        "opc": "Lack of resuscitation facilities",
-        "opd": "INR > 2 in ophthalmic procedures",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional anaesthesia",
-        "id": "4eaab502-4fd9-4af0-886f-13e317f10aa2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most commonly used approach to brachial Plexus block?",
         "exp": "Supraclavicular is the most commonly used approach to brachial Plexus block. The supraclavicular approach to the brachial plexus characteristically is associated with a rapid onset of anaesthesia and a high success rate. The supraclavicular approach has more even distribution of local anaesthesia.",
         "cop": 2,
@@ -39,32 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about EMLA",
-        "exp": "EMLA is a eutectic mixture of local anesthetics (2. 5% lidocaine and 2. 5% prilocaine) Used for anesthesia of intact skin EMLA should not be used in the very small child",
-        "cop": 2,
-        "opa": "can be used for intubation",
-        "opb": "Mixture of local anesthesia",
-        "opc": "Faster acting",
-        "opd": "Used in children",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional anaesthesia",
-        "id": "401529cd-98d1-4836-affd-5c42f2d2138f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which is not true about spinal anesthesia?",
-        "exp": "In spinal autonomic level is 2 segments higher than sensory which is 2 segments higher than motor So sensory blockade will not only be below the autonomic level but will also extend 2 segments above the motor level.",
-        "cop": 2,
-        "opa": "Useful for lower limb surgery",
-        "opb": "Produces complete sensory and motor paralysis below the level",
-        "opc": "Autonomic fibers are effected above the sensory level",
-        "opd": "It produces more hemodynamic alteration than epidural anesthesia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional anaesthesia",
-        "id": "0726ea52-77d0-4a9e-b1d8-d0f6b80dfcf7",
-        "choice_type": "multi"
-    },
-    {
         "question": "The topical use of following local anesthetic is not recommended?",
         "exp": "Bupivacine cannot be used as surface anesthetic agent Bupivacine is also contraindicated in regional IV anesthesia or Bier&; s block due to fear of cardiac arrhythmia It can be used in peripheral nerve block, epidural and intrathecal routes",
         "cop": 2,
@@ -78,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about post-spinal headache are all except",
-        "exp": "Post-spinal headache is due to seepage of CSF through the dural puncture site. It is irrespective of age and usually influenced by factors like gauge of the needle, hydration status of the patient, shape of the cutting edge",
-        "cop": 4,
-        "opa": "Relieved by lying down",
-        "opb": "Frontal or occipital",
-        "opc": "Can prevented by using small bore needle",
-        "opd": "Old age is a risk factor",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional anaesthesia",
-        "id": "ca8bd99a-9ac6-4713-8137-5a2cd8794e73",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common complication of celiac plexus block",
         "exp": "Postural hypotension: due to lumbar sympathetic chain blockade leading to upper abdominal vessel dilation and venous pooling. So intravenous fluids are required preblock",
         "cop": 2,
@@ -102,32 +50,6 @@
         "topic_name": "Regional anaesthesia",
         "id": "69310e44-16fe-4022-9aee-2f27a81ccb0b",
         "choice_type": "single"
-    },
-    {
-        "question": "About lidocaine, all are true except -",
-        "exp": "lidocaine is amide linked local anaesthetic It can be used as surface anesthetic agent through skin and mucucous membrane lidocaine is an antiarrhythmic used intravenously to treat VT and prevent VF. It act by blocking both open and closed cardiac sodium channel",
-        "cop": 3,
-        "opa": "LA effect",
-        "opb": "Cardiac arrhythmia",
-        "opc": "Ester",
-        "opd": "Acts on mucous membranes",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional anaesthesia",
-        "id": "378b29ab-e408-42ee-9735-dd87502d5a05",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are efective topically exxcept-",
-        "exp": "Procaine is not effective topically because of poor penetration",
-        "cop": 1,
-        "opa": "Procaine",
-        "opb": "Cocaine",
-        "opc": "Lidocaine",
-        "opd": "Amethocaine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional anaesthesia",
-        "id": "b2f5a77f-ad63-4530-af34-800fe01fd0fb",
-        "choice_type": "multi"
     },
     {
         "question": "The maximum safe dose of bupivacaine is",
@@ -234,19 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "For Bier's block drug of choice is -",
-        "exp": "Lignocaine is used for Bier&; s block Bupivacaine is contraindicated in IV regional anaesthesia due to fear of arrhythmia",
-        "cop": 3,
-        "opa": "Priloacaine",
-        "opb": "Bupivacaine",
-        "opc": "Lignocaine",
-        "opd": "None",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional anaesthesia",
-        "id": "0bbbb3d1-038b-4603-9141-8e3a9001c742",
-        "choice_type": "multi"
-    },
-    {
         "question": "In spinal anesthesia, the drug is deposited between-",
         "exp": "Between pia and arachnoid in the sub arachnoid space",
         "cop": 2,
@@ -258,19 +167,6 @@
         "topic_name": "Regional anaesthesia",
         "id": "94b99da3-b3a2-457d-9663-cbd413634a0a",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following statements about Epinephrine used as an adjuvant are true Except",
-        "exp": "Local anesthetics and epinephrine significantly reduce peripheral nerve blood flow. Low-dosage epidural usage results in uptake and decreases systemic vascular resistance and increases cardiac output.",
-        "cop": 3,
-        "opa": "Extends block duration, limits systemic uptake, supplements analgesic effect, and acts as an indicator of intravascular injection",
-        "opb": "Can cause toxicity to peripheral nerves in patients with diabetes or chemotherapy",
-        "opc": "Local anaesthetics and epinephrine have no effect on peripheral nerve blood flow",
-        "opd": "Can aggravate local anaesthetic-induced neuraxial or peripheral nerve injury",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional anaesthesia",
-        "id": "279b0697-85cd-4358-86b1-10377544e2be",
-        "choice_type": "multi"
     },
     {
         "question": "For reduction of shoulder one of the following technique is appropriate",
@@ -336,32 +232,6 @@
         "topic_name": "Regional anaesthesia",
         "id": "a43490d0-d80f-45d7-aa56-988e6d3daa04",
         "choice_type": "single"
-    },
-    {
-        "question": "Celiac plexus block all the following is true except-",
-        "exp": "Ohostatic hypotension occur more often with the retrocrural approach Can be used to provide anesthesia for intra abdominal surgery relive pain from gastric malignancy",
-        "cop": 4,
-        "opa": "Relieved pain from gastric malignancy",
-        "opb": "cause hypotention",
-        "opc": "Can be used to provide anesthesia for intra abdominal surgery",
-        "opd": "Can be given only by retrocrural {classic}. approach",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional anaesthesia",
-        "id": "58268dd7-30dd-4526-aee4-49542396e839",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Onset of post spinal headache is usually at___ hours after spinal anesthesia",
-        "exp": "Post spinal headache or post dural puncture headache has onset usually on second or third day post procedure. It is an occipital type of headache, aggravated on sitting and relieved in recumbent position",
-        "cop": 3,
-        "opa": "0-6",
-        "opb": "12-Jun",
-        "opc": "Dec-72",
-        "opd": "72-96",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional anaesthesia",
-        "id": "2627c8d8-8ac6-4ff3-b662-c2b4cde86285",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following nerves are affected after spinal anesthetic block",

@@ -1,57 +1,5 @@
 [
     {
-        "question": "A 10-year old child with Valvular heart disease on heart failure treatment, has the following ECG tracing. What is the diagnosis?",
-        "exp": "Heart rate of the patient is 50bpm. ECG tracing shows normal sinus rhythm alternating with premature ventricular contraction. This is diagnostic of ventricular bigeminy which is the most common arrhythmia seen with digoxin toxicity.",
-        "cop": 2,
-        "opa": "Tall tented T wave",
-        "opb": "Ventricular bigeminy",
-        "opc": "Non paroxysmal atrial tachycardia with irregular AV block",
-        "opd": "Non paroxysmal atria tachycardia with regular AV block",
-        "subject_name": "Medicine",
-        "topic_name": "Heart Sounds",
-        "id": "50694e90-1df2-46b1-a176-b11a01660688",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are associated with Corrigan's pulse except?",
-        "exp": "Corrigan pulse is seen in Aoic Regurgitation. Aoic regurgitation -Early diastolic murmur Severe Aoic regurgitation -Mid diastolic murmur. Due to rapid run off from the aoa back into left ventricle the LV pressure keeps on rising-Increased LV end diastolic Pressure. Pulsus bisferiens: HOCM Aoic regurgitation Aoic stenosis with aoic regurgitation",
-        "cop": 3,
-        "opa": "Duroziez sign",
-        "opb": "Early diastolic murmur",
-        "opc": "Decreased LV end-diastolic pressure",
-        "opd": "Pulsus bisferiens",
-        "subject_name": "Medicine",
-        "topic_name": "Heart Sounds",
-        "id": "47ae65b5-75e2-4a6b-b442-810e188ae374",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A lady presents with grade-III dyspnea. She has severe mitral stenosis with atrial fibrillation. Along with increased ventricular rate, clots in the left atrium are seen. Which of the following should not be done?",
-        "exp": "Atrial fibrillation with retained clots is due to the stasis of blood in the poorly contracting Left atrium. If cardioversion is done in this setting, the normal sinus rhythm ensues and the proper contraction of atria may result in dislodgement of clots from the atria. The PMV procedure dilates the mitral annulus, relieves the annulus and the chances of clots embolizing a bigger orifice increase. If cardioversion is indicated more urgently, then intravenous heparin should be provided and TEE performed to exclude the presence of left atrial thrombus before the procedure.",
-        "cop": 4,
-        "opa": "Diltiazem to reduce the heart rate",
-        "opb": "Warfarin therapy",
-        "opc": "Open mitral commissurotomy and removal of clot",
-        "opd": "Cardioversion with percutaneous balloon valvotomy",
-        "subject_name": "Medicine",
-        "topic_name": "Heart Sounds",
-        "id": "672a7efa-6fa0-457b-9a92-379aa48f90a4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All right sided events tend to increase with inspiration except:",
-        "exp": "All right sided events increase with inspiration except pulmonic ejection click of pulmonic stenosis Left sided events reduce with inspiration. Normal person -On deep inspiration -More negative pressure is created -More blood is sucked into right side of heart-Louder murmurs. Pulmonary stenosis- Hyperophy of RV-On inspiration-Thickened RV does not distend normally, Pressure rises and pulmonary valve is paially opened-When RV contracts-Ejection click is softer",
-        "cop": 1,
-        "opa": "Pulmonary ejection click",
-        "opb": "Tricuspid stenosis",
-        "opc": "Tricuspid regurgitation",
-        "opd": "Pulmonic regurgitation",
-        "subject_name": "Medicine",
-        "topic_name": "Heart Sounds",
-        "id": "63e8ce7b-cc47-4285-a944-3e980a575646",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is not a feature of chronic mitral regurgitation?",
         "exp": "Mitral Regurgitation, the extra blood that flows into left atrium has to come back to left ventricle during diastolic phase. This leads to mid diastolic murmur. Choice A is Correct. Due to early A2, wide Split S2 is heard. Choice B is correct The most characteristic auscultatory finding is grade 3/6 pansystolic murmur. Choice C is correct. Narrow split S1 is a feature of mitral Stenosis.",
         "cop": 4,
@@ -143,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In Mitral Stenosis, double atrial shadow is due to enlargement of?",
-        "exp": "Double-density sign/Double atrial shadow Seen on frontal chest radiograph in the presence of left atrial enlargement Occurs when the right side of the left atrium pushes behind the right cardiac shadow, indenting the adjacent lung and forming its own distinct silhouette.",
-        "cop": 2,
-        "opa": "Right atrium",
-        "opb": "Left atrium",
-        "opc": "Both atria",
-        "opd": "Left auricle",
-        "subject_name": "Medicine",
-        "topic_name": "Heart Sounds",
-        "id": "a4131d00-70f3-4d39-9413-25ba9cc02a50",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a cause of wide pulse pressure?",
         "exp": "Pulse pressure= SBP - DBP. Aoic stenosis or Mitral stenosis- SBP is low leading to reduction of pulse pressure. Tricuspid stenosis -Blood flow into right side of heart is reduced, so left side inflow is reduced-Reduction in SBP. Changes in Pulse Pressure Include: Increased Pulse pressure: Aoic Regurgitation, A-V shunt Decreased Pulse pressure: Aoic Stenosis, Mitral Stenosis Decreased Diastolic pressure: Aoic Regurgitation, Patent Ductus Aeriosus",
         "cop": 2,
@@ -180,19 +115,6 @@
         "topic_name": "Heart Sounds",
         "id": "6dca3bde-d6eb-4066-8d0e-29b63d6331fc",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following form boundaries of triangle of auscultation except?",
-        "exp": "Triangle of auscultation has the following boundaries: Superiorly and medially- Trapezius Inferiorly-Latissimus Dorsi Laterally-Scapula Floor -Serratus anterior, Erector spinae. Deep-Osseous poions of the 6th and 7th ribs, internal, external intercostal muscles. Typically, the Triangle of Auscultation is covered by the Scapula. To better expose the triangle and listen to respiratory sounds with a stethoscope, patients are asked to fold their arms across their chest, medially rotating the scapulae, while bending forward at the trunk, somewhat resembling a fetal position.",
-        "cop": 4,
-        "opa": "Trapezius",
-        "opb": "Latissmus dorsi",
-        "opc": "Scapula",
-        "opd": "Rhomboid major",
-        "subject_name": "Medicine",
-        "topic_name": "Heart Sounds",
-        "id": "11bb1022-1d2c-48e3-b948-d39247a5ccf0",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not seen in mitral stenosis?",

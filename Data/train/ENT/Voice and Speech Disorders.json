@@ -39,32 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 26-year-old female complaining of scratchy croaky voice. Which of the following is true?",
-        "exp": "(c) Adductor dysphonia is the cause(Ref. Scott Brown, 8th ed., Vol 3; 957; 997). Scratchy croaky is a high pitched sound arising due to rubbing of vocal cords in adductor dysphonias. The best treatment here will be percutaneous botulinum injection in the thyroarytenoid muscle. Percutaneous botulinum injection in the cricoarytenoid muscle (the only abductor of VC), is done in abductor dysphonias. In abductor dysphonia the voice produced is low pitched breathy and whispery. Isshiki TypeI thyroplasty is medialisation of vocal cords done in unilateral complete paralysis of vocal cords.",
-        "cop": 3,
-        "opa": "The best treatment is botulinum in cricoarytenoid",
-        "opb": "Type I thyroplasty can be used as treatment",
-        "opc": "Adductor dysphonia is the cause",
-        "opd": "Abductor dysphonia is the cause",
-        "subject_name": "ENT",
-        "topic_name": "Voice and Speech Disorders",
-        "id": "4ac78cfb-a292-4e43-bf88-f845e65f3ab2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Male patient with female like voice. This condition is called:",
-        "exp": "Ans. (a) Puberphonia. Ref: Dhingra's ENT 6th ed./ 314-15* Androphonia: Female patient with male like voice. Cause can be psychological or organic* Puberphonia: Male patient with female like voice. Cause can be psychological or organic* Rhinolalia aperta: Hypernasalityin voice. Cause can be: cleft palate, Post adenoidectomy, oroantral fistula etc.* Rhinolalia clausa: Hyponasality in voice. Caused due to any pathology causing nasal obstruction.",
-        "cop": 1,
-        "opa": "Puberphonia",
-        "opb": "Androphonia",
-        "opc": "Rhinolalia aperta",
-        "opd": "Rhinolalia clausa",
-        "subject_name": "ENT",
-        "topic_name": "Voice and Speech Disorders",
-        "id": "71048ea1-c5dc-47d6-bb6d-aee4634dc35a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Female patient with male like voice. Type of thyroplasty done:",
         "exp": "Ans. (d) IVThere are 4 types of thyroplasty done, depending on the pathology* Type I: Medialization (Done for Abducted Vocal Cord)* Type II: Lateralization(Done for Adducted Vocal Cord)* Type III: Relaxation, shortening (in order to lower down the pitch)* Type IV: tensioning, Lengthening (in order to increase the pitch)",
         "cop": 4,
@@ -102,19 +76,6 @@
         "topic_name": "Voice and Speech Disorders",
         "id": "33e9dc6c-da56-4dd1-ab7c-e977f42d641c",
         "choice_type": "single"
-    },
-    {
-        "question": "Young man whose voice has not been broken is called: (PGI June 2008)",
-        "exp": "Ans.: A. (Puberphonia) Puberphonia or Mutational Falsetto Voice Dhingra 5th/334. Normally there is change of high pitch voice to low pitch from childhood to the adults. It occurs as the larynx matures at puberty, vocal cords lengthen & the voice changes. Failure of this change leads to persistence of childhood high pitched voice & is called puberphonia Q. It is seen in boys who are emotionally immature, feel insecure & show- excessive fixation to thier mother. This is a feature exclusive to males. Treatment is training the body to produce low-pitched voice. Pressing the thyroid prominence in a backward and downward direction relaxes the overstreched cords and low tone voice can be produce (Gutzmann's pressure test). In Dysphonia Plica Ventricularis (Ventricular dysphonia) Q Dhingra 5th/334. Here voice is produced by ventricular folds (false cords) which have taken over the function of true cords. Voice is rough, low pitched & unpleasant. Functional Aphonia or Hysterical Aphonia Q Dhingra 5th/334. It is a functinal disorder mostly seen in emotionally labile females in the age group of 15-30 years. Patient communicates with whisper.",
-        "cop": 1,
-        "opa": "Puberphonia",
-        "opb": "Androphonia",
-        "opc": "Plica ventricularis",
-        "opd": "Functional aphonia",
-        "subject_name": "ENT",
-        "topic_name": "Voice and Speech Disorders",
-        "id": "1407a2c2-655c-427f-85a7-6a0b416c8e29",
-        "choice_type": "multi"
     },
     {
         "question": "Dysphonia plica ventricularis is produced from:",

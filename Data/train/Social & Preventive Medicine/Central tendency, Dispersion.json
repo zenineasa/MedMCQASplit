@@ -65,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All statements regarding Mode is true except:",
-        "exp": "Discussing options one by one: Option Example Remark a) Some data has no mode 1, 2, 3, 4, 5, 6, 7 No mode b) More than one mode possible in some data 1, 2, 2, 3, 4, 4, 5 Two modes (2, 4) c) Cannot be calculated for any type of data Wrong statement Can be used for qualitative and quantitative data d) Can be used for nominal data Ram, Ram, Sham, Ghanshyam, Prabhuram (Nominal) Mode = Ram",
-        "cop": 3,
-        "opa": "Some data has no mode",
-        "opb": "More than one mode possible in some data",
-        "opc": "Cannot be calculated for any type of data",
-        "opd": "Can be used for nominal data",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Central tendency, Dispersion",
-        "id": "be0555c4-33e1-4464-b4f2-1899fdb0da67",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not included as a Measure of dispersion?",
         "exp": "Dispersion:- Spread of / scattering of values around a central value in a data distribution is called dispersion. Measures of dispersion:- Major methods: Range, mean/ average detion, standard detion. Other methods: Coefficient of variation, precision, Variance, Relative dete, Inter - quaile range. - Median is not included in measure of dispersion.",
         "cop": 4,
@@ -91,19 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which can have more than one value?",
-        "exp": "MODE: Most frequently occurring value in data distribution. May be multiple. (Bimodal, trimodal, etc) Advantages: Easy to understand, Unaffected by extreme values. Disadvantages: Exact location is unceain, often not clearly defined. Not used in biological or medical studies.",
-        "cop": 3,
-        "opa": "Mean",
-        "opb": "Median",
-        "opc": "Mode",
-        "opd": "Any of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Central tendency, Dispersion",
-        "id": "e8022f90-3754-404a-be54-09a5b96daf19",
-        "choice_type": "multi"
-    },
-    {
         "question": "The incidence of malaria in an area is 20, 20, 50, 56, 60, 5000, 678, 898, 345, 456. Which of these methods is the best to calculate the average incidence?",
         "exp": "In the given question, * Since extreme values (outliers) are present for incidence (20 and 5000), median will be the most suitable measure of central tendency. Incidence of malaria in an area is 20, 20, 50, 56, 60, 5000, 678, 898, 345, 456 And, incidence in ascending order is 20, 20, 50, 56, 60, 345, 456, 678, 898, 5000 Mean = a'/n = 7583/10 =758. 3 Median = Mean (average)of 5th and 6th value = (60 + 345)/2 = 202. 5 Mode = 20 Mean will not be an appropriate measure of central tendency since extreme values (outliers) are present.",
         "cop": 3,
@@ -115,18 +89,5 @@
         "topic_name": "Central tendency, Dispersion",
         "id": "3ed7c7f0-8be9-4823-9cdf-cd4fed1dcaf0",
         "choice_type": "single"
-    },
-    {
-        "question": "Mean value of weight of a group of 10 boys was found to be 18. 2 kg. Later it was found that weight of one of the boys was wrongly recorded as 2. 0 kg that should have been 20 kg. The true mean weight of the group is:",
-        "exp": "Mean (Average(e): Is obtained as sum of all values divided by the no. of values Mean = [?]x/n In the given question, = 18. 2 kg and n=10 Thus [?]x = 182 Also, weight of one of the boys was wrongly recorded as 2. 0 kg that should have been 20 kg True [?]x= 182 + (20- 2. 0) = 200 So true Mean =[?]x(true)/n = 200/10 = 20. 0 kg.",
-        "cop": 4,
-        "opa": "18. 2 kg",
-        "opb": "20. 2 kg",
-        "opc": "16. 4 kg",
-        "opd": "20 kg",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Central tendency, Dispersion",
-        "id": "2b00a09e-c667-4392-82ba-eddcda71b0a1",
-        "choice_type": "multi"
     }
 ]

@@ -1,31 +1,5 @@
 [
     {
-        "question": "Atenolol is indicated in all except",
-        "exp": "Ans. (B) Partial heart block(Ref: KDT 8th/e p160-161)b -blockers are contraindicated in partial or complete heart block as they cause bradycardia.",
-        "cop": 2,
-        "opa": "Hypertension",
-        "opb": "Partial heart block",
-        "opc": "Hypertrophic obstructive cardiomyopathy",
-        "opd": "Classical angina",
-        "subject_name": "Pharmacology",
-        "topic_name": "Adrenergic System",
-        "id": "70989ab7-1c73-4674-a3f7-3d9707095868",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Propranolol can be used in all of the following conditions except",
-        "exp": "Ans. (B) Variant angina(Ref: KDT 8th/e p161). Propranolol worsens variant angina, due to unopposed a receptor mediated coronary constriction. For indications of b -blockers, refer to text.",
-        "cop": 2,
-        "opa": "Thyrotoxicosis",
-        "opb": "Variant angina",
-        "opc": "Migraine",
-        "opd": "Hypertension",
-        "subject_name": "Pharmacology",
-        "topic_name": "Adrenergic System",
-        "id": "ecdcbfca-e7e0-4789-a95b-cb24c0b013a0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dopamine is preferred in treatment of shock because of:",
         "exp": "Ans. (A) Renal vasodilatory effect(Ref: Katzung 11/e p137). Dopamine acts on D1, b1 and a1 receptors. Stimulation of D1 receptors cause renal vasodilation, which is useful clinically to improve renal perfusion in shock with oligouria.",
         "cop": 1,
@@ -65,32 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The rate limiting step for norepinephrine synthesis is:",
-        "exp": "Ans. (B) Conversion of tyrosine to DOPA(Ref: Katzung 10/e p78; KDT 8th/e p136). Rate limiting enzyme in norepinephrine synthesis is tyrosine hydroxylase that catalyses the conversion of tyrosine to dopa. In ACh synthesis, rate limiting step is uptake of choline by the neurons.",
-        "cop": 2,
-        "opa": "Conversion of phenylalanine to tyrosine",
-        "opb": "Conversion of tyrosine to DOPA",
-        "opc": "Conversion of DOPA to dopamine",
-        "opd": "Conversion of dopamine to norepinephrine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Adrenergic System",
-        "id": "068c32fa-43d5-41cc-91d6-a90e446c0712",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A child on b2 agonists for treatment of bronchial asthma may exhibit all of the following features except:",
-        "exp": "Ans. (B) Hypoglycemia(Ref: KDT 8th/e p149)b2 agonists are the inhaled bronchodilators used for the management of bronchial asthma. Tremor is the dose related adverse effect of these drugs. Brief hyperkalemia followed by hypokalemia is an important adverse effect of these agents. b2 agonists do not cause hypoglycemia.",
-        "cop": 2,
-        "opa": "Tremors",
-        "opb": "Hypoglycemia",
-        "opc": "Hypokalemia",
-        "opd": "Bronchodilation",
-        "subject_name": "Pharmacology",
-        "topic_name": "Adrenergic System",
-        "id": "423e37d8-3918-4584-92e3-ee33804408e2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dopamine given in acute CHF DOES NOT act on which of the following receptors?",
         "exp": "Ans. (D) Alpha 1 receptors(Ref: Katzung 13th/142, 144). Dopamine is used in CHF for its stimulatory effects on beta 1 receptors. It has dose dependent effects as follows. Receptor stimulated. Action. Dose required. D1. Renal vasodilation1-2 mg/kg/minb1 Cardiac stimulation2-10 mg/kg/mina1 Vasoconstriction> 10 mg/kg/min. Therefore, in CHF, it is used at a dose of 2-10 meg/kg/min. Thus, dopamine stimulates D1 and beta 1 receptors but not alpha 1 receptors.",
         "cop": 4,
@@ -102,32 +50,6 @@
         "topic_name": "Adrenergic System",
         "id": "b43dd6e8-7350-4a88-96f0-83d5728ca38d",
         "choice_type": "single"
-    },
-    {
-        "question": "a2 agonists cause all of the following except:",
-        "exp": "Ans. b. Hyperalgesia (Ref: Goodman and Gilman 12/e pe p296; Katzung 12/e p176)a2 agonists causes analgesia, not the hyperalgesia. Potential actions of alpha2 agonists (DASHA). Drying of secretions. QAnalgesia. QSedation. QHypotension. QAnxiolysisQ",
-        "cop": 2,
-        "opa": "Analgesia",
-        "opb": "Hyperalgesia",
-        "opc": "Sedation",
-        "opd": "Anxiolysis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Adrenergic System",
-        "id": "ffdde184-d11b-4551-b17e-2c95a111dec5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "TRUE statement regarding use of adrenaline in anaphylactic shock is:",
-        "exp": "Ans. (A) The usual dose is 0. 5-1 mg by IM route(Ref: KDT 8th/e p150). Adrenaline 0. 5 ml of 1: 1000 solution (i. e., 0. 5 mg) by i. m. route is drug of choice for anaphylactic shock. It can also be used by s. c. route. If not responding, it can be repeated after 5 minutes (not 2-4 hours). In desperate circumstances i. v. route can be used but it must be diluted 10 times (i. e., 1: 10000 concentration is used), therefore same solution cannot be utilized, However, in rare circumstances, i. v. adrenaline can result in cerebral hemorrhage due to uncontrolled rise in blood pressure.",
-        "cop": 1,
-        "opa": "The usual dose is 0. 5-1 mg by IM route",
-        "opb": "Cerebral hemorrhage never occurs as an adverse effect to epinephrine when used in treatment of anaphylactic shock",
-        "opc": "It is repeated after every 2-4 hours",
-        "opd": "Same solution can be given for SC as well as IV route",
-        "subject_name": "Pharmacology",
-        "topic_name": "Adrenergic System",
-        "id": "bae923e9-cddd-4328-8605-92c5044d06bd",
-        "choice_type": "multi"
     },
     {
         "question": "Alpha 2 agonist used in glaucoma is -",
@@ -182,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Beta blockers that can be used in renal failure are all except:",
-        "exp": "Ans. (C) Sotalol(Ref: KDT 8th/e p162). Lipid insoluble b-blockers like sotalol, atenolol, nadolol etc are excreted by the kidney and should be avoided in renal failure. Beta blockers contraindicated in renal failure are: A-AtenololN-NadololS-Sotalol",
-        "cop": 3,
-        "opa": "Propranolol",
-        "opb": "Pindolol",
-        "opc": "Sotalol",
-        "opd": "Oxprenolol",
-        "subject_name": "Pharmacology",
-        "topic_name": "Adrenergic System",
-        "id": "d287ad5b-74b5-43fa-b87f-46c5d6613d86",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is NOT an alpha adrenoceptor agonist?",
         "exp": "Ans. (B) Methyldopa(Ref: KDT 8th/e p612). Methyl dopa itself is not an a2 agonist but it is converted to an active metabolite a-methyl norepinephrine which possesses a2 agonistic action. All other drugs listed in the question are a2 agonists for the treatment of hypertension.",
         "cop": 2,
@@ -206,19 +115,6 @@
         "topic_name": "Adrenergic System",
         "id": "c5224bd0-a56e-4471-b721-f560b7b2c623",
         "choice_type": "single"
-    },
-    {
-        "question": "Alpha 2 agonist causes all except:",
-        "exp": "Ans. D. Hyperalgesiaa. The alpha-2 adrenergic receptor is a G protein-coupled receptor (GPCR). Catecholamines like nor-epinephrine (noradrenaline) and epinephrine (adrenaline) signal through the alpha2-adrenergic receptor in the central and peripheral nervous systems. b. Alpha-2 agonists provide sedation, analgesia, muscle relaxation and anxiolysis.",
-        "cop": 4,
-        "opa": "Anxiolysis",
-        "opb": "Sedation",
-        "opc": "Analgesia",
-        "opd": "Hyperalgesia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Adrenergic System",
-        "id": "02d3c387-eb94-41c2-b1cb-db8bcf45f0b2",
-        "choice_type": "multi"
     },
     {
         "question": "Pupil fails to dilate by giving cocaine in:",
@@ -234,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Alpha 2 agonists cause all of the following except:",
-        "exp": "Ans. (B) Hyperalgesia(Ref: Goodman and Gilman 12th/296; Katzung 12th/176; KDT 8th/e p140)* Alpha 2 agonists cause analgesia, not the hyperalgesia.* Clonidine is used for treatment of hypertension. It decreases blood pressure by acting on central alpha 2 adrenergic receptors.* Dexmedetomidine is another alpha 2 receptor agonist that is used to produce sedation and anxiolytic state by action on alpha 2 receptors in the brain. It can also produce analgesia by acting on alpha 2 receptors in spinal cord.",
-        "cop": 2,
-        "opa": "Analgesia",
-        "opb": "Hyperalgesia",
-        "opc": "Sedation",
-        "opd": "Anxiolysis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Adrenergic System",
-        "id": "0c22142e-076a-4188-b6ab-f26e34c6d073",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drug produce analogous action on dilator pupillae as is produced by pilocarpine on sphincter pupillae?",
         "exp": "Ans. (A) Epinephrine(Ref: KDT 8th/e p114, 144). Pilocarpine is a parasympathomimetic drug. It causes contraction of sphincter pupillae and result in miosis. Epinephrine results in contraction of dilator pupillae and result in mydriasis.",
         "cop": 1,
@@ -258,19 +141,6 @@
         "topic_name": "Adrenergic System",
         "id": "9d5114ca-0e9e-488b-be7b-c5c0ade537a2",
         "choice_type": "single"
-    },
-    {
-        "question": "Propranolol is useful in all except",
-        "exp": "Ans. (B) Parkinsonian tremor(Ref: KDT 8th/e p164). Propranolol is useful in the management of tremor due to overdose of sympathomimetic agents (b2 mediated). Metoprolol as well as propranolol are effective in essential or familial tremor (b1 mediated). b -blockers are ineffective in intention tremor and rest (parkinsonian) tremors.",
-        "cop": 2,
-        "opa": "Atrial flutter",
-        "opb": "Parkinsonian tremor",
-        "opc": "Thyrotoxicosis",
-        "opd": "Hypertrophic cardiomyopathy",
-        "subject_name": "Pharmacology",
-        "topic_name": "Adrenergic System",
-        "id": "bc862c48-d765-44a2-ad58-adc5e2b958f5",
-        "choice_type": "multi"
     },
     {
         "question": "Which is not an endogenous catecholamine?",
@@ -323,19 +193,6 @@
         "topic_name": "Adrenergic System",
         "id": "69652a1b-f806-4fe3-9205-7a8979644f7b",
         "choice_type": "single"
-    },
-    {
-        "question": "Dexmeditomedine is a:",
-        "exp": "Ans. a. Centrally acting alpha-2 agonist (Ref: KDT 7/e p384; Katzung 12/e p445). Dexmedetomidine is an alpha-2 agonist with strong sedative properties. 'Dexmedetomidine is an alpha-2 agonist with strong sedative properties. It has a half-life of 2-3 hours and is metabolized in the liver and excreted, mainly as metabolites, in the urine. - Katzung 12/e p445'Dexmedetomidine is a centrally active selective alpha-2a agonist that has been introduced for sedating critically ill/ventilated patients in intensive care units. It is also being used as an adjunct to anaesthesia Analgesia and sedation are produced with little respiratory depression. Sympathetic response to stress and noxious stimulus is blunted. It is administered by i. v. infusion. Side effects are similar to those with clonidine (hypotension, bradycardia and dry mouth). It has been recently approved for use in India as well. KDT 7/e p384",
-        "cop": 1,
-        "opa": "Centrally acting alpha-2 agonist",
-        "opb": "Centrally acting alpha-2 antagonist",
-        "opc": "Peripherally acting alpha-2 agonist",
-        "opd": "Peripherally acting alpha-2 antagonist",
-        "subject_name": "Pharmacology",
-        "topic_name": "Adrenergic System",
-        "id": "08d4029d-b8ba-46df-8a45-fbcbc2a4819b",
-        "choice_type": "multi"
     },
     {
         "question": "In contrast to epinephrine, norepinephrine does the following:",

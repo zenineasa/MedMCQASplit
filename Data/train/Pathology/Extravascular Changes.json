@@ -13,45 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "After binding of complement and antibody on the surface of encapsulated bacteria, the process of phagocytosis by polymorphonuclear leukocytes/macrophages is enhanced by all of the following opsonins, except?",
-        "exp": "The efficiency of phagocytosis is greatly enhanced when microbes are coated with opsonins for which the phagocytes express high-affinity receptors. The major opsonins are immunoglobulin G (IgG) antibodies, the C3b breakdown product of complement, and ceain plasma lectins, notably mannose-binding lectin and collectins, all of which are recognized by specific receptors on leukocytes. CD11b/CD18 (MAC-1) is macrophage integrin which help in binding of microbes to macrophages, and are not opsonins.",
-        "cop": 4,
-        "opa": "C3b complement protein",
-        "opb": "IgG antibody",
-        "opc": "Mannose binding lectin (MBL)",
-        "opd": "CD11b/CD18",
-        "subject_name": "Pathology",
-        "topic_name": "Extravascular Changes",
-        "id": "69859c73-64ca-44c7-98ee-d227ecc9395c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is not true regarding the process of \"NETosis\"?",
-        "exp": "NETosis i. e. the process of formation of Neutrophil Extracellular Traps (NETs): Extracellular fibrillar networks that concentrate antimicrobial substances at sites of infection and trap microbes, helping to prevent their spread. Produced by neutrophils in response to infectious pathogens (mainly bacteria and fungi) and inflammatory mediators (e. g., chemokines, cytokines, complement proteins, and ROS). The extracellular traps consist of a viscous meshwork of nuclear chromatin that binds and concentrates granule proteins such as antimicrobial peptides and enzymes. NET formation stas with ROS-dependent activation of an arginine deaminase that conves arginines to citrulline, leading to chromatin decondensation. In this process, the nuclei of the neutrophils are lost, leading to death of the neutrophils. NETs have also been detected in the blood during sepsis. NETs, which includes histones and associated DNA, has been postulated to be a source of nuclear antigens in systemic autoimmune diseases, paicularly lupus.",
-        "cop": 2,
-        "opa": "Causes death of neutrophils",
-        "opb": "Chromatin condensation",
-        "opc": "Detected in blood in patients with sepsis",
-        "opd": "Plays a role in pathogenesis of SLE",
-        "subject_name": "Pathology",
-        "topic_name": "Extravascular Changes",
-        "id": "4b0d158c-fc83-480a-8fdc-8ad4076a363a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Arrange the steps in cellular changes in inflammation in the sequence: 1. Chemotaxis 2. Diapedesis3. Margination4. Respiratory burst 5. Phagocytosis",
-        "exp": "Steps in cellular changes in inflammation: In the lumen: margination, rolling, and adhesion to endothelium Migration across the endothelium and vessel wall - Transmigration or diapedesis Chemotaxis - After exiting the circulation, leukocytes move in the tissues toward the site of injury by a process called chemotaxis Recognition of the offending agents by TLRs and other receptors Leucocyte activation Phagocytosis - involves sequential steps: Recognition and attachment of the paicle to be ingested by the leukocyte; Engulfment, with subsequent formation of a phagocytic vacuole; and Killing of the microbe and degradation of the ingested material (O2 Respiratory burst)",
-        "cop": 4,
-        "opa": "2-1-3-5-4",
-        "opb": "1-3-2-5-4",
-        "opc": "5-3-1-2-4",
-        "opd": "3-2-1-5-4",
-        "subject_name": "Pathology",
-        "topic_name": "Extravascular Changes",
-        "id": "fa8f48d7-c866-46e0-a7f1-024d7855a9ad",
-        "choice_type": "multi"
-    },
-    {
         "question": "Defective phagolysosome is feature of?",
         "exp": "Inherited defects in phagolysosome function. One such disorder is Chediak-Higashi syndrome, Autosomal recessive condition Defective fusion of phagosomes and lysosomes, resulting in defective phagocytes function and susceptibility to infections. The main leukocyte abnormalities are:- Neutropenia Defective degranulation Delayed microbial killing The gene associated with this disorder encodes a large cytosolic protein called LYST, which is believed to regulate lysosomal trafficking.",
         "cop": 2,

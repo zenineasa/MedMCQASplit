@@ -1,18 +1,5 @@
 [
     {
-        "question": "Which of the following statements about fluconazole is most accurate?",
-        "exp": "* Fluconazole (Azoles) act by inhibiting the enzyme lanosterol-14-a-demethylase resulting in reduced ergosterol synthesis. * It has very good CNS penetration and oral bioavailability. * It is not very effective against aspergillosis (voriconazole is the drug of choice).",
-        "cop": 4,
-        "opa": "It is highly effective in the treatment of aspergillosis",
-        "opb": "It does not penetrate the blood-brain barrier",
-        "opc": "Its oral bioavailability is less than that of ketoconazole",
-        "opd": "It inhibits demethylation of lanosterol",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Fungal Drugs",
-        "id": "be8e62fc-732a-4494-8436-d3daa2aed92e",
-        "choice_type": "multi"
-    },
-    {
         "question": "If amphotericin B is administered, the patient should not be premedicated with:",
         "exp": "Amphotericin B infusion is associated with Acute Reaction which consists of chills, fever, aches and pain all over, nausea, vomiting and dyspnoea lasting for 2- 5 hour, probably due to release of cytokines (IL, TNFa). Therefore to prevent this reaction, patient should be premedicated with: H1 antihistaminics like diphenhydramine NSAIDs like ibuprofen Steroids like prednisone",
         "cop": 4,
@@ -24,32 +11,6 @@
         "topic_name": "Anti-Fungal Drugs",
         "id": "52fc30d1-7dc0-458c-aa73-96f359afcc98",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following antifungal drugs inhibit ergosterol biosynthesis EXCEPT:",
-        "exp": "Amphotericin B does not inhibit ergosterol synthesis, instead it binds with ergosterol to form pores in the fungal cell membrane. Fluconazole and Ketoconazole are azoles which act by inhibiting ergosterol biosynthesis. These inhibit the conversion of lanosterol to ergosterol by inhibiting L-14-demethylase.",
-        "cop": 3,
-        "opa": "Ketoconazole",
-        "opb": "Fluconazole",
-        "opc": "Amphotericin B",
-        "opd": "None of these",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Fungal Drugs",
-        "id": "456c881a-1e4c-47e8-b036-8a8069b8a2e1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A fungicidal drug that can be used orally for the treatment of onychomycosis is:",
-        "exp": "Fungicidal drugs are amphotericin B and terbinafine. Out of these, amphotericin B cannot be given orally. Thus, the answer is terbinafine.",
-        "cop": 4,
-        "opa": "Griseofulvin",
-        "opb": "Amphotericin B",
-        "opc": "Clotrimazole",
-        "opd": "Terbinafine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Fungal Drugs",
-        "id": "7cd71d0e-e5ea-48a4-bd2c-0ae2e7390c0e",
-        "choice_type": "multi"
     },
     {
         "question": "Fluconazole differs from ketoconazole in that:",
@@ -65,45 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true regarding Isavuconazonium sulfate except:-",
-        "exp": "ISAVUCONAZONIUM SULPHATE- inhibits L-14 alpha demethylase and inhibits cell wall formation and does not act through blocking cytoplasmic proteins. It is effective against yeasts, moulds and dimorphic fungi. It is approved for aspergillosis and mucormycosis. It is devoid of nephrotoxicity.",
-        "cop": 2,
-        "opa": "Effective against yeasts, molds, and dimorphic fungi",
-        "opb": "Acts through blocking cytoplasmic proteins",
-        "opc": "Approved for aspergillous and mucormycosis",
-        "opd": "Devoid of nephrotoxicity",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Fungal Drugs",
-        "id": "3163ab48-ed05-470e-9c80-5dcc6db2e1d3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Regarding newer formulations of amphotericin B, which of the following statements is accurate?",
-        "exp": "NEWER FORMULATIONS OF AM-B: (Has Decreased systemic toxicity) AMPHOTERICIN B COLLOID DISPERSION (ABCD) - MAX INFUSION RELATED REACTION AMPHOTERICIN B LIPID COMPLEX (ABLC) LIPOSOMAL AMPHOTERICIN B (USED FOR T/T OF KALA AZAR) -MINIMUMINFUSION RELATED REACTION * Lesser uptake in the tissues like kidney * More expensive * Similar in efficacy and antifungal spectrum as conventional preparations AMPHOTERICIN B (CONVENTIONAL) Usually given in slow iv infusion Very well distributed all over the body and poorly distributed in CN",
-        "cop": 3,
-        "opa": "Amphotericin B colloidal dispersion cause less infusion related reactions than conventional amphotericin B.",
-        "opb": "They are more effective in fungal infections than conventional preparations because they increase tissue uptake of amphotericin B",
-        "opc": "They have decreased systemic toxicity",
-        "opd": "They have wider spectrum of antifungal activity than conventional formulations of amphotericin B",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Fungal Drugs",
-        "id": "fd87c2b3-0130-41fe-9721-c1848f215c29",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Mechanism of action of Triazoles:-",
-        "exp": "The azoles act by inhibiting fungal cytochrome P450 enzyme 'lanosterol 14-demethylase' and thus impair ergosterol synthesis. These are presently the most extensively used antifungal drugs. Mechanism of action of other antifungal drugs: Polyene (Amphotericin B/Nystatin): Binds to ergosterol and creates pores. 5 Flucytosine: DNA polymerase inhibitor. Allylamine (Terbinafine, Butenafine, Naftifine): Inhibit enzyme squalene epoxidase. Griseofulvin: Act mitotic spindle Echinocandin (Caspofungin): Inhibit Beta 1-3",
-        "cop": 1,
-        "opa": "Inhibits ergosterol biosynthesis",
-        "opb": "Inhibits tubulin",
-        "opc": "Inhibits glucan synthesis",
-        "opd": "Inhibits cell wall synthesis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Fungal Drugs",
-        "id": "ca3d1a10-523b-4e62-a6ba-06851b69eed4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dose limiting toxicity of amphotericin B is:",
         "exp": "Renal tubular acidosis is the dose limiting toxicity of amphotericin B. Amphotericin B can also cause: Infusion related reactions (not dose related) Hypokalemia Hypomagnesemia",
         "cop": 2,
@@ -115,19 +37,6 @@
         "topic_name": "Anti-Fungal Drugs",
         "id": "03ab8785-4b80-4045-b608-cd80361fe7ba",
         "choice_type": "single"
-    },
-    {
-        "question": "Which Anti-Fungal is safe in both Renal Failure and Hepatic Failure patients?",
-        "exp": "ECHINOCANDINS: MOA: Inhibits 1, 3-b-d-glucan synthesis. Three Echinocandins are approved for clinical use: Caspofungin, Anidulafungin, and Micafungin. Used against Candida and Aspergillus sp. Fungicidal activity against Candida species while Fungistatic against Aspergillus species. CAspofungin: Candida and Aspergillus sp. Micafungin Anidulafungin: It is not metabolized by liver instead it is cleared by slow chemical degradation from the body, hence safe in both renal and hepatic failure patients.",
-        "cop": 4,
-        "opa": "Amphotericin B",
-        "opb": "Caspofungin",
-        "opc": "Micafungin",
-        "opd": "Anidulafungin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Fungal Drugs",
-        "id": "65302436-4b9a-4c7d-94d1-ef5da90b193d",
-        "choice_type": "multi"
     },
     {
         "question": "Amphotericin B treatment mandates the monitoring of which of the following electrolytes:-",

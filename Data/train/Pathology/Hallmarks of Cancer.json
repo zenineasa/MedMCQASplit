@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "S 100 is a marker of?",
-        "exp": "ANSWER: (D) All of the above. REF: Robbins 7th ed p. 1235. SI00 is normally present in cells derived from the neural crest (Schwann cells, melanocytes, and glial cells), chondrocytes, adipocytes, myoepithelial cells, macrophages, Langerhans cells, dendritic cells, and keratinocytes. It maybe present in some breast epithelial cells. Several members of the S -100 protein family are useful as markers for certain tumors and epidermal differentiation. It can be found in melanomas, 50% of malignant peripheral nerve sheath tumors, schwannomas, paraganglioma stromal cells, histiocytoma and clear cell sarcomas",
-        "cop": 4,
-        "opa": "Melanoma",
-        "opb": "Schwannoma",
-        "opc": "Histiocytoma",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "Hallmarks of Cancer",
-        "id": "b4e2a75f-45b3-4009-8abc-46ffb6f49280",
-        "choice_type": "multi"
-    },
-    {
         "question": "Stain used for glycogen -",
         "exp": "Ans. is 'a' i. e., PASo PAS reaction is a technique for demonstration of glycogen in tissue sections, o PAS strands for Periodic acid schiff. o The purpose of the periodic acid is to oxidize some of the tissue carbohydrates. This produces aldehyde group which can then condense with schiffs reagent forming a megenta colouration, o The t/t with periodic acid oxidize only those carbohydrates which have 1-2 glycols in their structure. o Since all carbohydrates do not include this structure, the PAS is not a method for carbohydrates in general but only for those which contain 1-2 glycols or closely related structure. The following criteria must be presnt in tissue substance to give a PAS postive reaction -i) It must contain the 1-2 glycol grouping, an equivalent amino or alkylamino grouping, or the oxidation product CHOH-CO. ii) It must not diffuse away during fixationiii) It must given an oxidation product which does not diffuse away. iv) It must be present in sufficient concentration to produce a detectable final colour. Carbohydrates which usually stain with this method include -o Polysaccharideso Mucopolysaccharideso Glycoproteinso GlycolipidsP. A. S. staining is useful in all of the following -o Glycogeno Neutral mucosubstanceso Some epithelial sulfomucins and sialomucinso Basement membraneo Cerebrosideso Gangliosideso Cartilageo Kerasin (Gaucher's disease)",
         "cop": 1,
@@ -154,31 +141,5 @@
         "topic_name": "Hallmarks of Cancer",
         "id": "3e8a59f9-9616-4ba3-afe7-0f52f5fda897",
         "choice_type": "single"
-    },
-    {
-        "question": "AFP is increased in all conditions except?",
-        "exp": "Ans. is 'b' i. e., Seminoma o Repeat from previous sessions.",
-        "cop": 2,
-        "opa": "Pregnancy",
-        "opb": "Seminoma",
-        "opc": "HCC",
-        "opd": "Lung carcinoma",
-        "subject_name": "Pathology",
-        "topic_name": "Hallmarks of Cancer",
-        "id": "10c171e6-2a5d-403b-a1a1-d3b1c0887cf7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about primary gastric lymphoma is",
-        "exp": "Ans. is 'd' i. e., H pylori infection increases the risk o The stomach is the most common site for extranodal lymphoma. Nearly al! gastric lymphomas are B-cell lymphomas of mucosa-associated lymphoid tissue (MAL T lymphoma), o Majority of cases (80%) are associated with chronic gastritis and H. Pylori infection. The most striking evidence linking H. Pylori gastritis to MALToma is that eradication of infection by antibiotics induces durable remission with low rate of recurrence. o Gastric lymphoma represents 5% of all gastric malignancies. It is most prevalent is sixth decade of life. o Like other tumors of mature B cells, MALTomas express B-ceil markers CD 19 and CD 20. They do not express CD 5, CD 10 and CD 23. o Diagnosis is made by endoscopic biopsy. o Gastric lymphomas are chemosensitive and chemotherapy alone or along with surgeiy is used for the treatment of gastric lymphoma. o MALT lymphoma (Moltoma) produce lympho-epiihelial lesion in stomach.",
-        "cop": 4,
-        "opa": "Affects young adults",
-        "opb": "Surgery is never indicated",
-        "opc": "T cell lymphoma",
-        "opd": "H pylori infection increases the risk",
-        "subject_name": "Pathology",
-        "topic_name": "Hallmarks of Cancer",
-        "id": "0311329a-a88c-4f5b-b3f2-ce9151819a3e",
-        "choice_type": "multi"
     }
 ]

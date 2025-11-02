@@ -65,32 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Mainly cholecystokinin is secreted by:",
-        "exp": "Release of cholecystokinin (CCK) from the duodenum and proximal jejunum is triggered by long-chain fatty acids, ceain essential amino acids (tryptophan, phenylalanine, valine, methionine), and gastric acid itself. CCK evokes an enzyme-rich secretion from acinar cells in the pancreas.",
-        "cop": 1,
-        "opa": "Duodenum",
-        "opb": "Pancreas",
-        "opc": "Gallbladder",
-        "opd": "Ileum",
-        "subject_name": "Medicine",
-        "topic_name": "Misc.",
-        "id": "843eeb3c-9242-41ce-a46e-fc8bd8fe9369",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Most common site of Gallstone ileus:",
-        "exp": "Gallstone ileus is an unusual complication of chronic cholecystitis due to impaction of gallstone in ileum after passing through a biliary-enteric fistula. Impacted gallstone usually in the terminal ileum at ileocecal valve Rigler's Triad: Pneumobilia Small bowel obstruction Gallstone at terminal ileum",
-        "cop": 3,
-        "opa": "Caecum",
-        "opb": "2nd pa of duodenum",
-        "opc": "Terminal ileum",
-        "opd": "Stomach",
-        "subject_name": "Medicine",
-        "topic_name": "Misc.",
-        "id": "d436e435-b861-4f12-b6ab-d04c2bcc83a2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Micro-vesicular fatty liver in Reye's syndrome is?",
         "exp": "The most common secondary mitochondrial hepatopathy is Reye syndrome Recurrent Reye-like syndrome is encountered in children with genetic defects of fatty acid oxidation, such as 1. Deficiencies of the plasmalemmal carnitine transpoer 2. Carnitine palmitoyltransferase I and II 3. Carnitine acylcarnitine translocase 4. Medium and long-chain acyl-CoA dehydrogenase, multiple acyl-CoA dehydrogenase, and long-chain L-3 hydroxyacyl-CoA dehydrogenase",
         "cop": 1,
@@ -128,19 +102,6 @@
         "topic_name": "Misc.",
         "id": "91786ce0-fad7-44fc-99fa-f67b1722fb34",
         "choice_type": "single"
-    },
-    {
-        "question": "Medical treatment of gallstone indicated in A/E:",
-        "exp": "For good results, medical therapy should be limited to radiolucent stones smaller than 5 mm in diameter. Stones larger than 15 mm in size rarely dissolve. Pigment stones are not responsive to UDCA therapy to produce a lamellar liquid crystalline phase in bile that allows a dispersion of cholesterol from stones. Ursodeoxycholic acid decreases cholesterol saturation of bile. UDCA may also retard cholesterol crystal nucleation.",
-        "cop": 3,
-        "opa": "GB should be functioning",
-        "opb": "Gallstone should be radiolucent",
-        "opc": "Gallstone should be radio opaque",
-        "opd": "Patient is unfit for surgery",
-        "subject_name": "Medicine",
-        "topic_name": "Misc.",
-        "id": "b1b71637-c2ca-4fb0-9106-053589d9108d",
-        "choice_type": "multi"
     },
     {
         "question": "Forrest classification is used for evaluating:",

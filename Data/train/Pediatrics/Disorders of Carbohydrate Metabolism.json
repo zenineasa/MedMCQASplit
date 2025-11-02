@@ -1,18 +1,5 @@
 [
     {
-        "question": "In children with classical galactosemia all are true except:",
-        "exp": "E. coli sepsis is common and the onset often precedes the diagnosis of galactosemia Elimination of galactose reverse growth failure, cataract, renal and hepatic dysfunction Galactokinase deficiency -> accumulation of galactose and galactitol Duae variant- a single amino acid substitution, has 50% of normal enzyme activity- asymptomatic",
-        "cop": 2,
-        "opa": "E. coli neonatal sepsis is common",
-        "opb": "Elimination of galactose in diet will not reverse cataract",
-        "opc": "Galactose conves to galactitol which is toxic to brain",
-        "opd": "Children with Duae variant of galactosemia are asymptomatic",
-        "subject_name": "Pediatrics",
-        "topic_name": "Disorders of Carbohydrate Metabolism",
-        "id": "63f37b72-1533-4ca9-985c-1fc78ad9caaa",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hers disease is due to deficiency of:",
         "exp": "Hers disease: due to deficiency of liver phosphorylase benign course and present with hepatomegaly and growth retardation in early childhood; Hypoglycemia, hyperlipidemia, and hyperketosis of variable severity are seen.",
         "cop": 1,
@@ -24,19 +11,6 @@
         "topic_name": "Disorders of Carbohydrate Metabolism",
         "id": "87498170-f5f3-49b1-a7ad-b560fcbd60ec",
         "choice_type": "single"
-    },
-    {
-        "question": "All are seen in lactose intolerance EXCEPT:-",
-        "exp": "Lactose intolerance: Due to Brush-border lactase enzyme deficiency Reducing substances positive in stools Explosive stools Acidic stools Perianal excoriation",
-        "cop": 2,
-        "opa": "Reducing substances present in stools",
-        "opb": "Alkaline urine",
-        "opc": "Acidic stool",
-        "opd": "Lactase enzyme deficiency",
-        "subject_name": "Pediatrics",
-        "topic_name": "Disorders of Carbohydrate Metabolism",
-        "id": "250d4218-2041-41ae-87b1-0b28376a6161",
-        "choice_type": "multi"
     },
     {
         "question": "A child complains of episodes of abdominal distension, bloating and diarrhea on intake of milk & milk products. Which of the following can be given in that child?",
@@ -65,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following diseases/syndromes are Glycogen storage disorders EXCEPT?",
-        "exp": "Hurler/ Scheie (MPS type I) is a Mucopolysaccharidosis and not a Glycogen storage disease.",
-        "cop": 3,
-        "opa": "Anderson's disease",
-        "opb": "Her's disease",
-        "opc": "Scheie's disease",
-        "opd": "Tarui's disease",
-        "subject_name": "Pediatrics",
-        "topic_name": "Disorders of Carbohydrate Metabolism",
-        "id": "b19377b5-7713-4769-b434-fefd5354e49e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which glycogen storage disease (GSD) does not affect muscles?",
         "exp": "Type I GSD (Von Gierke disease) is a liver glycogenoses i. e. involves liver Type 2 (Pompe disease), type V (Mc. Ardles disease) and type VII ( Tarui disease) involves muscles (Muscle Glycogenoses) Type 3 GSD (Cori's disease) is predominantly a liver glycogenoses but skeletal muscle involvement may also be seen.",
         "cop": 1,
@@ -89,19 +50,6 @@
         "topic_name": "Disorders of Carbohydrate Metabolism",
         "id": "a0c74c0e-1db7-484d-bcdc-ecf7a10e5d7f",
         "choice_type": "single"
-    },
-    {
-        "question": "Which disorder of carbohydrate metabolism typically has cardiac involvement?",
-        "exp": "Pompe disease: coarse facies hepatomegaly, hypotonia progressive cardiomegaly and cardiac dysfunction ECG- sho PR, large QRS complexes.",
-        "cop": 2,
-        "opa": "Glycogen Storage Disease Type I (Von Gierke disease)",
-        "opb": "Glycogen Storage Disease Type II (Pompe disease)",
-        "opc": "Hereditary fructose intolerance",
-        "opd": "Galactosemia",
-        "subject_name": "Pediatrics",
-        "topic_name": "Disorders of Carbohydrate Metabolism",
-        "id": "d7af0b5d-8ee4-4508-81db-87be410bef2c",
-        "choice_type": "multi"
     },
     {
         "question": "A 3-day-male baby vomits everything he feeds, has a distended abdomen and diarrhea. On examination, he has bilateral cataract. The urine is positive for Benedict's test for reducing substance. Which of the following is the probable underlying diagnosis?",
@@ -169,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Cardiac manifestations can be seen in all of the following metabolic diseases EXCEPT?",
-        "exp": "Cardiac manifestations can be seen in: Fatty acid oxidation defects Mitochondrial disorders Fabry disease Pompe disease (GSD type 2) Kearns Sayre syndrome Mucoplysaccharidoses Methylmalonic acidemia Familial hypercholesterolemia GM1 gangliosidosis. Cardiac manifestations are not seen in Galactosemia.",
-        "cop": 4,
-        "opa": "Fatty acid oxidation defects",
-        "opb": "Mitochondrial disorders",
-        "opc": "Fabry disease",
-        "opd": "Galactosemia",
-        "subject_name": "Pediatrics",
-        "topic_name": "Disorders of Carbohydrate Metabolism",
-        "id": "5f367a8b-460c-43b8-a694-d3410ad529e9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Patient with growth retardation, delayed milestones with kinky hair. What is the diagnosis?",
         "exp": "The given scenario suggests diagnosis of Menke's disease X- linked recessive disorder caused by mutations in genes coding for the copper transpo protein ATP7A. C/F- Growth retardation Delayed milestones Kinky hair Hypotonia, hypothermia Seizures Lesch nyhan syndrome- self injury Wilson disease- KF ring, neurological & hepatic manisfestation.",
         "cop": 1,
@@ -208,58 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Proximal tubular dysfunction is seen in all of the following disorders EXCEPT?",
-        "exp": "Proximal tubular dysfunction is seen in: Pompe disease Lowe syndrome Cystinosis Galactosemia. Fabry disease: Distal tubular dysfunction",
-        "cop": 4,
-        "opa": "Pompe disease",
-        "opb": "Lowe syndrome",
-        "opc": "Cystinosis",
-        "opd": "Fabry disease",
-        "subject_name": "Pediatrics",
-        "topic_name": "Disorders of Carbohydrate Metabolism",
-        "id": "a02f823a-04a4-4ed6-a818-62896c041cd5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about Galactosemia EXCEPT?",
-        "exp": "Patients with Galactosemia are usually normal at bih & become symptomatic after 3-4 days of breast milk or formula feeding. Cause by deficiency of: GALT (Galactose 1 PO4 uridyl transferase) Galactokinase Epimerase Results in accumulation of Galactose-1-phosphate and galactitol which have toxic effects on various organs (Liver, eye) Breast feeding is contraindicated in confirmed cases of galactosemia Sepsis with E. coli is common in children with galactosemia In Galactosemia, Urine for reducing substances is positive (Done by Benedict's test)",
-        "cop": 2,
-        "opa": "Galactose 1 phosphate and galactitol have toxic effects on various organs",
-        "opb": "Patients are symptomatic immediately after bih",
-        "opc": "Jaundice and liver dysfunction commonly seen",
-        "opd": "E. coli sepsis is an impoant cause of moality",
-        "subject_name": "Pediatrics",
-        "topic_name": "Disorders of Carbohydrate Metabolism",
-        "id": "bca76b73-5a59-4858-92eb-88b00464ae03",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following tests can help in the diagnosis of Galactosemia EXCEPT?",
-        "exp": "Guthrie's bacterial inhibition test:- Screening test for phenylketonuria (PKU) Used to detect the abnormal presence of phenylalanine metabolites in blood i. e. Phenyl pyruvate Phenyl alanine Phenyl lactate. Procedure: A small amount of blood sample is taken from heel of the infant and placed in a medium with a strain of Bacillus subtilis, a bacteria that cannot grow without phenylalanine. If phenylalanine metabolites are present, then these bacteria reproduce, and the test result is positive, indicating that patient has PKU. Benedict's test Benedict's reagent(blue in color) is taken in a test tube and the urine sample is added to it | Then the test tube is heated. | If color changes to green, orange or brick red then it shows a positive test for reducing sugar. GALT assay- used for galactosemia. Mutation analysis- can be used for mutation detection, or as a confirmation of next generation sequencing and microarray results.",
-        "cop": 4,
-        "opa": "GALT assay",
-        "opb": "Mutation analysis",
-        "opc": "Benedicts test",
-        "opd": "Guthrie's test",
-        "subject_name": "Pediatrics",
-        "topic_name": "Disorders of Carbohydrate Metabolism",
-        "id": "45b00589-5706-4dd9-b24b-f5368f40fba7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Cirrhosis can be seen in all of the following metabolic diseases EXCEPT?",
-        "exp": "Cirrhosis can be seen in: Tyrosinemia Galactosemia Hereditary fructose intolerance Wilson disease",
-        "cop": 3,
-        "opa": "Tyrosinemia",
-        "opb": "Galactosemia",
-        "opc": "Mc Ardle disease",
-        "opd": "Hereditary fructose intolerance",
-        "subject_name": "Pediatrics",
-        "topic_name": "Disorders of Carbohydrate Metabolism",
-        "id": "4ca48c78-ac33-4a70-b8e2-e04e4a06fa0c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common Glycogen storage disorder to be present in adolescents is?",
         "exp": "Mc Ardle disease (Type V GSD) due to muscle phosphorylase deficiency is the most common GSD to present in adolescents & adults.",
         "cop": 1,
@@ -271,18 +154,5 @@
         "topic_name": "Disorders of Carbohydrate Metabolism",
         "id": "729cce5d-95f7-4d07-b797-7219ad089f2f",
         "choice_type": "single"
-    },
-    {
-        "question": "Peripheral smear may show vacuolated lymphocytes in all of the following EXCEPT?",
-        "exp": "Peripheral smear may show vacuolated lymphocytes in: Neuronal ceroid lipofuscinosis Fucosidosis Sialidosis Abetalipoproteinemia- acanthocytosis",
-        "cop": 1,
-        "opa": "Abetalipoproteinemia",
-        "opb": "Neuronal ceroid lipofuscinosis",
-        "opc": "Fucosidosis",
-        "opd": "Sialidosis",
-        "subject_name": "Pediatrics",
-        "topic_name": "Disorders of Carbohydrate Metabolism",
-        "id": "5a19103e-852c-491f-bb50-5dd71fecc368",
-        "choice_type": "multi"
     }
 ]

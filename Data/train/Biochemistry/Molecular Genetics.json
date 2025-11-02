@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is true regarding Okazaki fragment?",
-        "exp": "Ans. C. Several Okazaki fragments must be sequentially synthesized for each replication forka. Okazaki fragments are segments of DNA attached to an RNA initiator component. b. They are related to the lagging strand. c. Helicase acts on the lagging strand to unwind ds. DNA.",
-        "cop": 3,
-        "opa": "Are segments of RNA attached to an RNA initiator component",
-        "opb": "Are related to the leading strand",
-        "opc": "Several Okazaki fragments must be sequentially synthesized for each replication fork",
-        "opd": "Helicase acts on the leading strand to unwind ds. DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "00396eba-267a-42cf-af1d-9b45e3dbddcb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Defect in Snurps causes-",
         "exp": "Ans. is 'b' i. e., Thalassemiao Defective splicing (defect in snurps) is the most common mutation causing thalassemia, o Molecular defect in pathogens is of thalassemia:-b-Thalassemiao Most common type of genetic abnormality in b-thalassemia is point mutation i. e., nonsense. o Some may also occur due to deletion or insertion i. e., frame shift mutations, o Defect may occur at different steps of b-chain synthesis: i) Splicing mutationso Mutations leading to aberrant splicing are the most common cause of b-thalassemia. ii) Chain terminator mutationso This cause premature termination of m. RNA translation. iii) Promoter region mutationso This results in transcription defect. a-Thalassemiao The most common cause of reduced a-chain synthesis is deletion of a-globin genes, o Rarely nonsense mutation may also cause a-thalassemia.",
         "cop": 2,
@@ -65,45 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "There are 20 amino acids with three codons in spite of the no of amino acids could be formed is 64 leading to that an amino acid is represented by more than one codon is called:",
-        "exp": "Ans. B. Degeneracy(Ref: Harper 31/e p395). Genetic Code--Salient features of Genetic Code. Triplet Codon: Each amino acid is represented by triplet sequence. Degenerate (Redundant)--More than 1 codon represent a single amino acid. Degeneracy of the codon lies in the 3rd Base. Nonoverlapping-- Reading of genetic code do not involve overlapping sequence. Unambiguous--A codon can represent only one amino acid. Universal--A specific codon represent a specific amino acid in all the species. Exception to this rule-Codons of Mitochondrial DNAInitiator codon#In eukaryotes--AUG codes for Met#In Prokaryotes--AUG codes for N-Formyl Methionine. Terminator Codons#UAG--Amber#UGA--Opal#UAA--Ochre. Wobbling Phenomenon. The base pairing at the 3rd nucleotide between the anticodon in the t. RNA and Codon in the m. RNA is not stringently regulated.",
-        "cop": 2,
-        "opa": "Transcription",
-        "opb": "Degeneracy",
-        "opc": "Mutation",
-        "opd": "Frameshift",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "abadf166-af44-4b3e-8fca-f71664ed171b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "External manifestation of genome is -",
-        "exp": "Ans. is 'b' i. e., Phenotype* To explain these terms, let us have a simple example, which we have learnt in our school.* A sweet pea plant can either grow tall or short. The plant grows tall if the plant has TT or Tt and the plant remains dwarf if the plant has tt. In this example, plant being tall and plant being short are the two phenotypes. Hence phenotypes are the external manifestations of a genome. Genotypes are genetic expressions of a trait. Just by looking at something, if we can comment whether the plant can grow tall or if the plant has to remain dwarf is called as genotypes. So there are three genotypes - TT, Tt, tt. What are alleles? T is one allele and t is another allele. So alleles are alternating forms of the same gene.* Genotype is the genetic expression of a trait* Phenotype is the physical expression of a trait* Alleles are alternating forms of the same gene - in the sense they differ by a few nucleotide sequences so that aminoacid sequences of the polypeptide chain gets affected minimally - so that the function of the protein gets affected either qualitatively or quantitatively.* Polymorphism is presence of multiple alleles at a single locus giving rise to multiple phenotypes, provided the prevalence of the alleles in a general population is more than 1%# For example, hair colour - we do not say only black hair is normal, various shades of brown and even white hair in a blonde person is normal. This is because of the presence of multiple alleles - an allele produces black pigment, many alleles to produces various shades of brown and then an allele which does not produce pigment - causing blonde hair.# In this example the last allele which has failed to produce the respective protein should be considered as a defective allele. But we consider it as a normal allele based on prevalence. As prevalence of the allele which can not produce the pigment is more than 1% in the general population, we call it as a normal allele.",
-        "cop": 2,
-        "opa": "Genotype",
-        "opb": "Phenotype",
-        "opc": "Allele",
-        "opd": "Polymorphism",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "8c17d6ae-5dc1-4ea5-9430-a325f4b5fd23",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Choose the true statement about mit DNA:",
-        "exp": "Ans. D. It codes for less than 20% of the proteins involved in respiratory chain. In ETC there are around 67 subunits, out it 13 proteins are coded by Mit DNA, which comes around 19%. Mitochondrial DNA has high mutation rate almost 5 to 10 times that of nuclear DNA. It has 16, 569 bp. Mitochondrial DNA has maternal inheritance",
-        "cop": 4,
-        "opa": "Few mutation compared to nuclear DNA",
-        "opb": "It has 3x109 base pairs",
-        "opc": "It receives 23 chromosomes from each parent",
-        "opd": "It codes for less than 20% of the proteins involved in respiratory chain",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "629939d5-2989-485c-8051-7ec91f016bf0",
-        "choice_type": "multi"
-    },
-    {
         "question": "During post transcriptional modification of RNA the following process does not take place:",
         "exp": "Ans. D. Glycosylation. RNA produced after transcription is hn RNA. To form m RNA it undergoes modifications to remove intervening sequence called introns by splicing. For this 5'capping and 3'tailing is done to stabilize RNA.",
         "cop": 4,
@@ -128,19 +76,6 @@
         "topic_name": "Molecular Genetics",
         "id": "6eb729c6-f6b8-4a0b-81b3-e3eec61e689a",
         "choice_type": "single"
-    },
-    {
-        "question": "The following are \"stop codons\" EXCEPT",
-        "exp": "Ans. b (UAU) (Ref. Harper, 27th/Chapter 37.; Chatterjee, 4th ed., 221)PROTEIN SYNTHESIS:-# Activation of Amino acids:-- Formation of aminoacyl t. RNA by key enzyme-Aminoccyl t. RNA synthatase-specific for a particular amino acid and also for t. RNA- There are 20 different aminoacids (one codon for one amino acid)- Very high specificity is the most significant feature of this enzyme because once amino acid is attached to t. RNA recognition of a specific codon on m. RNA is due entirely to the t. RNA not to the amino acid. (Fidelity = Faithfulness)# Initiation by Aug codon (methionine)# Elongation# Termination by terminator codons or stop codons or nonsense codon-UAA, UGA, UAGFidelity enzyme in protein synthesis-Aminoacyl t. RNA sybnthetase. Null = indicates no functional gene product",
-        "cop": 2,
-        "opa": "UGA",
-        "opb": "UAU",
-        "opc": "UAA",
-        "opd": "UAG",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "a9b1a787-5e79-4d16-92c4-f42f7fca1f26",
-        "choice_type": "multi"
     },
     {
         "question": "In which of the following phase, DNA doubling occurs?",
@@ -182,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Genes with purely or predominantly matrilineal inheritance without recombination are present in:",
-        "exp": "Ans. c (Mitochondrial chromosome). (Ref. Harper's Biochemistry 26th ed. 323; Ganong 22nd ed. 11, 27). Inherited mitochondrial disorders are transmitted in a matrilineal fashion; all children from an affected mother will inherit the disease, but it will not be transmitted from an affected father to his children. Heterogeneity in the proportion of mitochondria with and without a mutation is referred to as heteroplasmia and underlies the phenotypic variability that is characteristic of mitochondrial diseases. MITOCHONDRIAL DNA (mt. DNA)# It is small circular, double-stranded, and composed of heavy and light chains.# One percent of cellular DNA is in mitochondria.# High mutation rate (5-10 times more than nuclear DNA).# Genetic codes differ slightly from the standard code:- UGA (standard stop codon) is read as Trp.- AG A and AGG (standard codon for Arg) are read as stop codons. Diseases transmitted by mitochondrial inheritance:# Leber's hereditary optic atrophy, # Leigh disease, # Familial progressive external ophthalmoplegia, # MERRF syndrome, # MEALS syndrome, # Succinic dehydrogenase complex-II deficiency and Cytochrome C oxidase complex-IV dt.",
-        "cop": 3,
-        "opa": "X chromosome",
-        "opb": "Y chromosome",
-        "opc": "Mitochondrial chromosome",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "41d2102e-063a-4d16-b493-aa0e0042127e",
-        "choice_type": "multi"
-    },
-    {
         "question": "By which method foreign DNA is introduced into a cell by a virus or viral vector?",
         "exp": "(A) Transduction[?]TRANSDUCTIONo. Transfer of genetic information from one cell to another by means of a viral vector. o. Refers to the process whereby foreign DNA is introduced into another cell via a viral vectoro. Transduction does not require physical contact between the cell donating the DNA and the cell receiving the DNA (which occurs in conjugation), and it is DNase resistant. o. Transduction is a common tool used by molecular biologists to stably introduce a foreign gene into a host cell's genome. Other Options[?]. Lysogenic Conversiono. When a cell becomes lysogenized, occasionally extra genes carried by the phage get expressed in the cell. These genes can change the properties of the bacterial cell. This process is called lysogenic conversion. [?]. Bacteriophages: Lysogenic Conversion-Some lysogenic phage carry genes that can enhance the virulence of the bacterial host.-For example, some phage carry genes that encode toxins.-These genes, once integrated into the bacterial chromosome, can cause the once harmless bacteria to release potent toxins that can cause disease. [?]. Transcription-Transcription is the process of making a complementary molecule of m. RNA (messenger RNA) from a DNA template. This takes place in the nucleus.-RNA polymerase unwinds, reads and places the correct nucleotide on the m. RNA strand according to base pairing rules (A to U, C to G, T to A). [?]. Transformation: o. Introduction of an exogenous DNA into cell, causing the cell to acquire a new phenotype. o. Infection of Bacterium by phage begins with injection of its DNA. o. It can take either of 2 causes 1 lysogenic - viral DNA becomes as part of Bacterial DNA causing cell division. o. Lytic-viral DNA excises from host chromosome and replicates itself, Direct synthesis of viral proteins - then lysis of host occurs with release of viri. o. Transduction is the process by which foreign DNA is introduced into a cell by a virus or viral vector. An example is the viral transfer of DNA from one bacterium to another. o. Transformation is one of three processes for horizontal gene transfer, in which exogenous genetic material passes from one bacterium to another, the other two being conjugation (transfer of genetic material between two bacterial cells in direct contact) and transduction (injection of foreign DNA by a bacteriophage virus into the host bacterium). In transformation, the genetic material passes through the intervening medium, and uptake is completely dependent on the recipient bacterium.",
         "cop": 1,
@@ -221,19 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Enzyme replacement therapy is available for -",
-        "exp": "Ans. is 'a' i. e., Gauchers disease o Enzyme replacement therapy refers to the replacement of missing enzyme, artificiallyo Gaucher's disease was the first one in which successful enzyme replacement therapy was tried, o Enzyme replacement therapy is currently available for some lysosomal storage diseases:-i) Gaucher's diseaseiv) Mucopolysaccharidosis I (Hurler)ii) Fabry diseasev) Mucopolysaccharidosis II (Hunter)iii) Glycogen storage disease type IIvi) Mucopolysaccharidosis VI",
-        "cop": 1,
-        "opa": "Gauchers disease",
-        "opb": "Galactosemia",
-        "opc": "Fructosuria",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "1509950b-4cb8-4b7d-b70c-fff0afbe2cfa",
-        "choice_type": "multi"
-    },
-    {
         "question": "A nucleoside consists of:",
         "exp": "Ans. B. Purine or pyrimidine base + sugarposition of nucleotides = Sugar + Base + Phosphate Composition of nucleosides = Sugar + Base. No phosphate is present.",
         "cop": 2,
@@ -245,19 +154,6 @@
         "topic_name": "Molecular Genetics",
         "id": "cb866ad3-2413-416b-b307-37a0febd23d2",
         "choice_type": "single"
-    },
-    {
-        "question": "43S preinitiation complex include all except:",
-        "exp": "Ans. D. IF-4F(Ref: Harper 31/e page 399)43 S Preinitiation complex consist of. GTP-e. IF2-t. RNAi+ 40S subunit. This 43S Preinitiation complex is stabilised by e. IF3 and e. IF-1A.",
-        "cop": 4,
-        "opa": "IF3",
-        "opb": "IF1A",
-        "opc": "IF2",
-        "opd": "IF-4F",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "141871c1-580b-47db-8049-b2c87b50463d",
-        "choice_type": "multi"
     },
     {
         "question": "The enzyme used in polymerase chain reaction (PCR) is:",
@@ -325,32 +221,6 @@
         "choice_type": "single"
     },
     {
-        "question": "An 8-year-old boy has failure to thrive, alopecia totalis, localized scleroderma, a small face and jaw, a \"beak\" nose, wrinkled skin, and stiff joints. He is determined to have a single-point mutation in a nuclear protein, which is a silent mutation in terms of the primary structure of the protein. How could such a mutation lead to a disease?",
-        "exp": "The child is expressing the symptoms of Hutchinson-Gilford progeria, a premature aging disease, which is due to a mutation in the LMNA gene, which encodes lamin A, a nuclear protein. The most common mutation is C1824T, in which the normal cytosine at position 1, 824 of the gene is replaced by a thymine. This is a silent mutation as far as the protein is concerned-G608G. However, the introduction of the T creates a cryptic splice site in the gene, such that as the hn. RNA is processed, a lamin A m. RNA is created that is missing 150 nucleotides, corresponding to a loss of 50 amino acids near the carboxy terminal of the protein. Under normal conditions, lamin A is farnesylated, which allows the protein to be attached to the endoplasmic reticulum membrane. During processing, the enzyme AMPSTE24 cleaves part of the carboxy terminal, releasing the farnesylated portion of the protein such that lamin A can be transferred to the nucleus, where it is involved in providing a scaffold for the nuclear membrane. In the mutant protein (progerin), the site of cleavage is lost owing to the loss of the C-terminal amino acids, although the site of farnesylation still remains. Thus, the progerin that reaches the nucleus is still bound to the nuclear membrane, distorting the nuclear membrane and contributing to nuclear instability. Chromatin binding to the nuclear membrane is also altered, as are the phosphorylation sites in progerin, which makes it more difficult for the nuclear membrane to dissolve during mitosis. Because this is a silent mutation in the mature protein, the tertiary structure of the protein is not altered, and a premature stop codon has not been introduced into the protein (that would be a nonsense mutation, not a silent mutation). Since the protein amino acid sequence is initially the same, an alternative start site for transcription has not been created, nor does a simple base change lead to an inhibition of DNA replication.",
-        "cop": 4,
-        "opa": "Through altering the tertiary structure of the protein",
-        "opb": "Inhibiting DNA replication",
-        "opc": "By introducing a premature stop codon into the protein",
-        "opd": "By creating an alternative splice site in the gene",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "98c83d60-45ac-4e65-a241-1b07f91779dd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 20-year-old female presents for an infertility workup. She has never had a menstrual period. She is short with a broad chest, webbed neck, and low-set ears. It is demonstrated that she has an abnormal karyotype. The cause of the woman's abnormal karyotype is which one of the following?",
-        "exp": "Monosomy X (Turner syndrome) can be as a result of either maternal nondisjunction (an egg is created lacking an X chromosome, whereas another egg has two X chromosomes) or paternal nondisjunction (a sperm lacks the X chromosome, whereas another sperm contains both the X and Y chromosomes). Turner syndrome is not caused by translocation events, either reciprocal or Robertsonian (recall that Robertsonian translocations only occur among acrocentric chromosomes, and the X chromosome if not acrocentric).",
-        "cop": 4,
-        "opa": "Maternal nondisjunction",
-        "opb": "Paternal nondisjunction",
-        "opc": "Both maternal and paternal nondisjunction",
-        "opd": "Either maternal or paternal nondisjunction",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "2bd7221b-987f-4094-8cb5-f1d7e841da17",
-        "choice_type": "multi"
-    },
-    {
         "question": "Okazaki fragments are joined to form continuous strands of DNA by which of the following enzyme?",
         "exp": "Ans. C. DNA Ligase. (Ref Harper 28th/324; Satyanarayan Biochemistry 3rd / page no 526). Okazaki pieces are later joined to form continuous strands of DNA. DNA Polymerase-I & DNA ligase are responsible for it. DNA replication: Eukaryotic DNA replication is more complex than the prokaryotic process but uses many enzymes analogous to those listed below. In both prokaryotes and eukaryotes, DNA replication is semiconservative and involves both continuous and discontinuous (Okazaki fragment) synthesis. 1. Helicase. Unwinds DNA template at replication fork. 2. Single-stranded binding proteins. Prevent premature reannealing of ds. DNA3. DNA topoisomerases. Relieve torsional strain that results from helicase-induced unwinding. Creates a single- or double-stranded break in the helix to add or remove supercoils. Fluoroquinolones--inhibit DNA gyrase (prokaryotic topoisomerase II). 4. Primase. Initiates synthesis of RNA primers. Thus, Makes an RNA primer on which DNA polymerase III can initiate replication. 5. DNA polymerases. Deoxynucleotide polymerization6. DNA polymerase IIIProkaryotic only. Elongates leading strand by adding deoxynucleotides to the 3? end. Elongates lagging strand until it reaches primer of preceding fragment. 3?*5? exonuclease activity \"proofreads\" each added nucleotide. DNA polymerase ill has 5?*3? synthesis and proofreads with 3?*5? exonuclease. 7. DNA polymerase IProkaryotic only. Degrades RNA primer; replaces it with DNA. Has same functions as DNA polymerase III but also excises RNA primer with 5?*3? exonuclease. 10. DNA ligase. Catalyzes the formation of a phosphodiester bond within a strand of double- stranded DNA (i. e., joins Okazaki fragments). Thus, Seals the single strand nick between the nascent chain and Okazaki fragments on lagging strand. 11. Telomerase. An RNA-dependent DNA polymerase that adds DNA to 3? ends of chromosomes to avoid loss of genetic material with every duplication.",
         "cop": 3,
@@ -403,19 +273,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 38-year-old homeless man who has not received any medical care in the last 20 years presents with 2 days of shortness of breath, chills, fever, drooling, painful swallowing, and a \"croupy\" cough. A physical examination reveals a bluish discoloration of his skin and a tough, gray membrane adhered to his pharynx. The underlying mechanism through which this disease affects normal cells is which one of the following?",
-        "exp": "The man has contracted diphtheria and needs the diphtheria antitoxin and then antibiotics to remove the offending organism, C. diphtheriae. Not having received medical care over the past 20 years, the patient has also missed his diphtheria vaccine, which should be received every 10 years. Diphtheria toxin blocks eukaryotic protein synthesis by phosphorylating an initiation factor, which inhibits protein synthesis in the cells. The toxin does not directly affect DNA or RNA synthesis, nor does it, as a primary target, reduce ATP production by the mitochondria or allow the plasma membrane to become leaky.",
-        "cop": 3,
-        "opa": "DNA synthesis is inhibited in the target cells.",
-        "opb": "RNA synthesis is inhibited in the target cells.",
-        "opc": "The process of protein synthesis is inhibited in the target cells.",
-        "opd": "The plasma membrane becomes leaky in the target cells.",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "63aeeee3-5ac0-430e-a7fc-e764714fa554",
-        "choice_type": "multi"
-    },
-    {
         "question": "Reverse transcriptase is:",
         "exp": "Ans. B. RNA dependent DNA polymerase(Ref: Harper 31/e page 380). Reverse Transcription. RNA converted to DNA is Reverse Transcription. The enzyme is called Reverse Transcriptase. This is otherwise RNA dependent DNA Polymerase. Remember. DNA Polymerase is DNA dependent DNA Polymerase Reverse Transcriptase is RNA dependent DNA Polymerase Primase is DNA Dependent RNA Polymerase.",
         "cop": 2,
@@ -455,19 +312,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The type mutation that leads to replacement of valine for glutamate in sickle cell disease is?",
-        "exp": "Ans. A. Point mutation. (Ref. Robbin's Pathology8th/pg. 873). Missense mutations and nonsense mutations are examples of point mutations, which can cause genetic diseases such as sickle-cell disease and thalassemia respectively. Point mutations result from the substitution of a single nucleotide base by a different base, resulting in the replacement of one amino acid by another in the protein product. The mutation giving rise to sickle cell anemia is an good example. Frameshift mutations may result in severe genetic diseases such as Tay-Sachs disease.# Point mutations. Point mutations result from the substitution of a single nucleotide base by a different base, resulting in the replacement of one amino acid by another in the protein product. a) missense mutations: The mutation giving rise to sickle cell anemia is an excellent example of a point mutation that alters the meaning of the genetic code. b) nonsense\" mutations: In contrast, certain point mutations may change an amino acid codon to a chain termination codon, or stop codon. Such \"nonsense\" mutations interrupt translation, and the resultant truncated proteins are rapidly degraded.# Frameshift mutations: Frameshift mutations occur when the insertion or deletion of one or two base pairs alters the reading frame of the DNA strand.# Trinucleotide repeat mutations- characterized by amplification of a sequence of 3 nucleotides.- all affected sequences share the nucleotides guanine (G) and cytosine (C).- Another distinguishing feature of trinucleotide repeat mutations is that they are dynamic (i. e., the degree of amplification increases during gametogenesis).- For example, fragile X syndrome, prototypical of this category of disorders. Additional Educational points: In sickle cell hemoglobin (HbS), Val replaces the a6 Glu of HbA, creating a \"sticky patch\" that has a complement on deoxy. Hb (but not on oxy. Hb). De- oxy. HbS polymerizes at low O2 concentrations, forming fibers that distort erythrocytes into sickle shapes.",
-        "cop": 1,
-        "opa": "Point mutation",
-        "opb": "Silent mutation",
-        "opc": "Nonsense mutation",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "2c53da03-ea79-4821-b9ba-95745d4f6905",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following blotting technique does not exist:",
         "exp": "Ans: c (Eastern) Ref: Lippincott, p. 464. Few points about gene analysis: Technique. Sample analysed. Purpose. ASO (Allele specific oligonucleotide)DNADetects DNA mutations. Micro assay. RNA or C-DNAMeasures many m. RNA levels at once. Proteonomics. Protein. Measures abundance, distribution, post translational modification, functions and interactions of cellular proteins. DNA chips. DNAOligonucleotides embedded on the chip can detect various DNA mutations and diseases. Numerical chromosomal abnormalities: Euploid cells: Multiples of 23 chromosomes. E. g.: Haploid (23). dipoid (46), triploidetc. Aneuploidy: Deviation from euploid number. E. g.: Trisomy - Three copies of a specific chromosome. Monosomy - One copy of a specific chromosome. Nullysomy - No copy of a specific chromosome.",
         "cop": 3,
@@ -492,32 +336,6 @@
         "topic_name": "Molecular Genetics",
         "id": "08b1c600-3c94-43a5-b70c-00aa9cfd2fc9",
         "choice_type": "single"
-    },
-    {
-        "question": "PCR is used in:",
-        "exp": "Ans: d (All the above) Ref: Vasudevan, 4th ed, p. 443; 5th ed, p. 458. Clinical applications of PCR-->> Diagnosis of bacterial and viral diaseases, medico-legal cases, diagnosis of genetic diseases, cancer detection, paleontological studies. Polymorphic markers and linkage analysis:* A pre requisite for successful linkage analysis is the availability of a large number of highly polymorphic markers dispersed through out the genome.* Polymorphism is a clinically harmless DNA variation that does not affect the phenotype. Mutation is a potentially harmful genomic variation.* There are highly repitative sequences in DNA usually found in non-coding spacer DNA. Major types of markers are: RFLP - Restriction fragment length polymorphism tire polymorphisms in which, presence or absence of mutations at restriction site produces fragment of varying length that can be visualized on southern blot. VNTR - Variable number of tandem repeats or mini satellite* Repeated units ranges from 20 - 70 bp.* The repeat is Hanked on both side by a restriction site and variation in the number of repeats produces restriction fragments of varying size. STRP - Short tandem repeat polymorphism or micro satellite repeats.* They are amplified through PCR.* Variation in the number of repeats produces PCR products of varying size - visualised on agarose gel. Single nucleotide polymorphism - These are single base polymorphisms that can be assayed by DNA sequencing or through DNA chips. VNTR: Mini satellite - 20 - 70 bp. STRP: Micro satellite - 2-6 bp. Single nucleotide polymorphism - single bp",
-        "cop": 4,
-        "opa": "Medicolegal cases",
-        "opb": "Amplification of gene",
-        "opc": "Identification of organism",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "3b41c407-ff3f-4d7c-b4b4-3683ae29d6c1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is true about DNA Polymerase III?",
-        "exp": "Ans. A. It forms Okazaki fragments and it needs RNA primer(Ref: Harper 31/e page 363). Translation do not require DNA Polymerase. DNAP I and II are having DNA Repair activity.",
-        "cop": 1,
-        "opa": "It forms Okazaki fragments and it needs RNA primer",
-        "opb": "It is needed for translation",
-        "opc": "Bacteria can function without it",
-        "opd": "Has DNA repair function",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "1055374a-3c6f-4fc1-b1df-18b9f07dd20b",
-        "choice_type": "multi"
     },
     {
         "question": "A codon consists of:",
@@ -611,32 +429,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Intracellular receptors are present for -",
-        "exp": "Ans. is 'd' i. e., AH of the above TYPES OF RECEPTORSMembrane receptorso Present on the cell membrane. o Their drug/hormone binding domain is extracellular and effector domain is intracellular. These are: 1. G protein coupled receptors - It may act through. Adenylvl cyclase| c. AMP - TSH, FSH, LH, ACTH, glucagon, PTH, adrenaline, calcitonin, vasopressin (V2).| c. AMP - PRIH (Dopamine)IP.-DAG (Ca2- and protein kinase 'c') - Vasopressin (V1), oxytocin. Channel regulation (Ca+2, K+ Na+)2. Receptor with Intrinsic ion channels - (Na+, K+, Ca+2 or Cl-)3. Enzyme linked receptors. Intrinsic enzyme receptors (tyrosine kinase receptors) - Insulin. JAK-STAT kinase binding receptors Growth hormone. Prolactin. Intracellular receptors (transcription factors)o Present inside the cell and induce synthesis of specific protein by increasing the expression of specific gene. 1. Cytoplasmic - Glucocorticoids, Mineralocorticoids, Androgens, Progestins. 2. Nuclear - Thyroxine, Triiodothyronine, Estrogen, retinoic acid, Vit D.",
-        "cop": 4,
-        "opa": "Estrogen",
-        "opb": "Vitamin D",
-        "opc": "Thyroxine",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "27fade6a-3a28-4349-8a68-a03cbd91dd86",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following are required for PCR except:",
-        "exp": "Ans. C. Dideoxy ribonucleotides. Polymerase Chain Reactiona. The polymerase chain reaction (PCR) is a test tube method for amplifying a selected DNA sequence that does not rely on the biologic cloning method. PCR permits the synthesis of millions of copies of a specific nucleotide sequence in a few hours. b. It can amplify the sequence, even when the targeted sequence makes up less than one part in a million of the total initial sample. The method can be used to amplify DNA sequences from any source--bacterial, viral, plant, or animal. A. Steps of a PCRPCR uses DNA polymerase to repetitively amplify targeted portions of DNA. Each cycle of amplification doubles the amount of DNA in the sample, leading to an exponential increase in DNA with repeated cycles of amplification. The amplified DNA sequence can then be analyzed by gel electrophoresis, Southern hybridization, or direct sequence determination. a. Primer construction: It is not necessary to know the nucleotide sequence of the target DNA in the PCR method. However, it is necessary to know the nucleotide sequence of short segments on each side of the target DNA. These stretches, called flanking sequences, bracket the DNA sequence of interest. The nucleotide sequences of the flanking regions are used to construct two, single-stranded oligonucleotides, usually 20-35 nucleotides long, which are complementary to the respective flanking sequences. The 3'-hydroxyl end of each primer points toward the target sequence. These synthetic oligonucleotides function as primers in PCR reactions. b. Denature the DNA: The DNA to be amplified is heated to separate the double-stranded target DNA into single strands. c. Annealing of primers to ss. DNA: The separated strands are cooled and allowed to anneal to the two primers (one for each strand). d. Chain extension: DNA polymerase and deoxyribonucleoside triphosphates (in excess) are added to the mixture to initiate the synthesis of two new chains complementary to the original DNA chains. DNA polymerase adds nucleotides to the 3'-hydroxyl end of the primer, and strand growth extends across the target DNA, making complementary copies of the target. At the completion of one cycle of replication, the reaction mixture is heated again to denature the DNA strands (of which there are now four). Each DNA strand binds a complementary primer, and the cycle of chain extension is repeated. By using a heat-stable DNA polymerase (for example, Taq polymerase) from a bacterium (for example, Thermus aquaticus) that normally lives at high temperatures (a thermophilic bacterium), the polymerase is not denatured and, therefore, does not have to be added at each successive cycle. Typically 20-30 cycles are run during this process, amplifying the DNA by a million-fold to a billion-fold. e. Dideoxy ribonucleotides look exactly like deoxyribonucleotides except that they no OH group on the third carbon of the sugar. f. This has very serious implications. These nucleotides can add to the growing DNA chain (because they have a phosphate on their fifth carbon that can link to the hydroxyl on the third carbon of the nucleotide at the end of the growing chain) but once on, no additional nucleotides can be added. g. In other words, dideoxy ribonucleotides act as chain terminators. When they are incorporated, the polymerization ends. It is the ability to end chains with these molecules that is the basis for DNA sequencing by the Sanger procedure.",
-        "cop": 3,
-        "opa": "Deoxyribonucleotides",
-        "opb": "Taq polymerase",
-        "opc": "Dideoxy ribonucleotides",
-        "opd": "Template DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "4086a474-b0e2-4630-b8d0-526e23205e13",
-        "choice_type": "multi"
-    },
-    {
         "question": "Sickle cell anemia is the clinical manifestation of homozygous gene to an abnormal hemoglobin molecule. The event responsible for the mutation in the b chain is:",
         "exp": "D Harper, 26th ed, p. 409, Table (40-6) & 25th ed, p. 500, Table (42. 6)",
         "cop": 4,
@@ -674,19 +466,6 @@
         "topic_name": "Molecular Genetics",
         "id": "a9b5f0bf-6db5-4414-a38f-5215d7465316",
         "choice_type": "single"
-    },
-    {
-        "question": "A college professor, celebrating his 60th birthday, had too much foie gras and wine at his celebratory dinner. The next morning, he awakened with both a hangover and a severe pain in his right great toe, a condition he had experienced a number of times previously. Being somewhat absentminded, the professor then remembered that he had forgotten to take his maintenance medication for this condition for over 2 weeks. His maintenance medication most likely blocks which one of the following reactions?",
-        "exp": "The nucleotides that are produced in the liver are converted to nucleosides and bases, which travel in red blood cells to other tissues where they are reconverted to nucleotides and further metabolized. a. Purine synthesis (Figure I below)(1). The purine base is synthesized on the ribose moiety. (a). 5'-Phosphoribosyl-1'-pyrophosphate (PRPP), which provides the ribose moiety, reacts with glutamine to form phosphoribosyl amine. (b). This first step in purine biosynthesis produces N9 of the purine ring and is inhibited by AMP and guanosine monophosphate (GMP). (c). The entire glycine molecule is added to the growing purine precursor. Then, C8 is added by formyl-FH4, N3 by glutamine, C6 by CO2, N1 by aspartate, and C2 by formyl-FH4 (see Figure I-A). (d). IMP, which contains the base hypoxanthine, is generated. 1. IMP is cleaved in the liver. Its free base, or nucleoside, travels to various tissues where it is reconverted to the nucleotide(2). IMP is the precursor of both AMP and GMP. (a). Each product, by feedback inhibition, regulates its own synthesis from the IMP branch point as well as inhibits the initial step in the pathway. (b). AMP and GMP can be phosphorylated to the triphosphate level. (c). The nucleotide triphosphates (ATP and guanosine triphosphate ) can be used for energy requiring processes or for RNA synthesis. (3). The reduction of the ribose moiety to deoxyribose occurs at the diphosphate level and is catalyzed by ribonucleotide reductase, which requires the protein thioredoxin. (a). After the diphosphates are phosphorylated, deoxyadenosine triphosphate (d. ATP) and deoxyguanosine triphosphate (d. GTP) can be used for DNA synthesis. (4). Purine bases can be salvaged and converted between free bases, nucleotides, and nucleosides by a series of reactions, as indicated in Figure II. b. Purine degradation (Figure III)(1). In the degradation of the purine nucleotides, phosphate and ribose are removed first and then the nitrogenous base is oxidized. (a). The degradation of guanine produces xanthine. (b). The degradation of adenine produces hypoxanthine, which is oxidized to xanthine by xanthine oxidase; this enzyme requires molybdenum. (c). Xanthine is oxidized to uric acid by xanthine oxidase. (d). Uric acid, which is not very water soluble, is excreted by the kidneys. c. Pyrimidine synthesis (see Figure I)(1). The pyrimidine base is synthesized prior to the addition of the ribose moiety. (a). In the first reaction, glutamine reacts with CO2 and 2 ATP to form carbamoyl phosphate. This reaction is analogous to the first reaction of the urea cycle. However, for pyrimidine synthesis, glutamine provides the nitrogen, and the reaction occurs in the cytosol, where it is catalyzed by carbamoyl phosphate synthetase II, which is inhibited by UTP. (b). The entire aspartate molecule adds to carbamoyl phosphate. The molecule closes to yield a ring, which is oxidized, forming orotate. (c). Orotate reacts with PRPP, producing orotidine-5'-phosphate, which is decarboxylated to form UMP. (2). UMP is phosphorylated to UTP, which obtains an amino group from glutamine to form cytidine triphosphate (CTP). UTP and CTP are used in the synthesis of RNA. (3). The ribose moiety of cytidine diphosphate (CDP) is reduced to deoxyribose, forming deoxycytidine diphosphate (d. CDP). Ribonucleotide reductase is the enzyme. (a). Deoxycytidine diphosphate (d. CDP) is deaminated and dephosphorylated to form d. UMP. (b). d. UMP is converted to d. TMP by methylene-FH4. (c). Phosphorylations produce deoxycytidine triphosphate (d. CTP) and deoxythymidine triphosphate, which are the precursors of DNA. d. Pyrimidine degradation(1). In pyrimidine degradation, the carbons produce CO2, and the nitrogen produce urea. The professor is suffering from gout, caused by an accumulation of uric acid in the blood and precipitation of the uric acid in his big toe. Xanthine oxidase is involved in the conversion of the purine bases to uric acid. It catalyzes the oxidation of hypoxanthine to xanthine and of xanthine to uric acid. Allopurinol is used as a maintenance medication in the treatment of gout and acts as a suicide substrate that blocks xanthine oxidase activity. This results in lower concentrations of uric acid (so the uric acid in the blood will not precipitate) and higher concentrations of the more water-soluble compounds hypoxanthine (derived from adenine) and xanthine (derived from guanine). I. De novo synthesis of purines and pyrimidines. Ribonucleotide reductase (RR) catalyzes the reduction of the ribose moiety in ADP, GDP, and CDP to deoxyribose. The source of each of the atoms is indicated in part (A) of the figure. The biosynthetic pathways for purine and pyrimidine synthesis are outlined in part (B) of the figure. In hereditary orotic aciduria, the enzymes converting orotate to UMP are defective. ADP, adenosine diphosphate; AMP, adenosine monophosphate; ATP, adenine triphosphate; CDP, cytidine diphosphate; CPS, carbamoyl phosphate synthetase; CTP, cytidine triphosphate; d. ADP, deoxyadenosine diphosphate; d. ATP, deoxyadenosine triphosphate; d. CDP, deoxycytidine diphosphate; d. CMP, deoxycytidine monophosphate; d. CTP, deoxycytidine triphosphate; d. GDP, deoxyguanosine diphosphate; d. GTP, deoxyguanosine triphosphate; d. TDP, deoxythymidine diphosphate; d. TMP, deoxythymidine monophosphate; d. TTP, deoxythymidine triphosphate; FH2, dihydrofolate; FH4, tetrahydrofolate; GDP, guanosine diphosphate; GMP, guanosine monophosphate; GTP, guanosine triphosphate; IMP, inosine monophosphate; Pi, inorganic phosphate; PRPP, 5'- phosphoribosyl-1'-pyrophosphate; RP, ribose 5-phosphate; R5P, ribose 5- phosphate; RR, ribonucleotide reductase; UDP, uridine diphosphate; UMP, uridine monophosphate; UTP, uridine triphosphate. II. The salvage of the purine bases. The key enzymes are the phosphoribosyltransferases, 5'-nucleotidase, adenosine deaminase, and purine nucleoside phosphorylase. ADP, adenosine diphosphate; AMP, adenosine monophosphate; APRT, adenine phosphoribosyltransferase; ATP, adenosine triphosphate; GMP, guanosine monophosphate; HGPRT, hypoxanthine guanine phosphoribosyltransferase; Pi, inorganic phosphate; PPi, pyrophosphate; PRPP, 5'-phosphoribosyl-1'-pyrophosphate. III. Purine degradation. Allopurinol, which inhibits xanthine oxidase, is used to treat gout. Gout occurs when uric acid crystals precipitate in joints because of an increased concentration in the blood. AMP, adenosine monophosphate; GMP, guanosine monophosphate; IMP, inosine monophosphate; Pi, inorganic phosphate.",
-        "cop": 3,
-        "opa": "IMP to GMP",
-        "opb": "Adenosine to inosine",
-        "opc": "Hypoxanthine to xanthine",
-        "opd": "d. UMP to d. TMP",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "50bace0c-2a7e-472f-8a74-6042ba48a44b",
-        "choice_type": "multi"
     },
     {
         "question": "Codons are present on:",
@@ -728,19 +507,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Purine and pyramidine both get N from:",
-        "exp": "24. Ans: a (Aspartate) Ref: Vasudevan, 4th ed, p. 388, 392; 5th ed, p. 407, 411. Carbamoyl phosphate is formed by ammonia and glutamine with the help of CPS-II. From the above explanation it is clear that aspartate is directly involved in providing nitrogen atom to both purine and pyramidine. In purine synthesis glutamine provides nitrogen atom directly but in pyramidine synthesis glutamine is first converted to carbamoyl phosphate which in turn provides nitrogen atom. Though both provides nitrogen atom, aspartate is definitely a the better option.",
-        "cop": 1,
-        "opa": "Aspartate",
-        "opb": "Glutamate",
-        "opc": "c). Carbamoyl phosphate",
-        "opd": "CO2",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "53d4d59f-9ab1-4baa-b208-51f2e7341ea8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Retinoblastoma can result from a mutation in:",
         "exp": "Ans. D. RB 1 gene. Retinoblastoma is a cancer common in children below 15 years of age. Itis caused by abnormalities of a gene called RB1, which is located on a region of the long (q) arm of chromosome 13 designated 13q14. Although most retinoblastomas are caused by mutations within the RB1 gene, a small percentage of retinoblastomas result from a deletion of the 13q14 region.",
         "cop": 4,
@@ -752,32 +518,6 @@
         "topic_name": "Molecular Genetics",
         "id": "8cc45c14-df8c-4e18-a676-711750b45450",
         "choice_type": "single"
-    },
-    {
-        "question": "True about RIBOZYME: (AIIMS November 2013, November 20/3)",
-        "exp": "Ans. a. Peptidyl transferase activity (Ref: Harper 28/e p364; 27/e p364; Lippincott 4/e p435-439; Lehninger 5/e p1078). Ribozymes are RNA molecule with catalytic activityQ. Ribozymes play a central role in peptide bond formation (peptidyl transferase activity). Ribozyme. Ribozymes are RNA molecule with catalytic activityQ. These generally involve transesterification reactions, and most are concerned with RNA metabolism (splicing and endoribonuclease). Recently, a ribosomal RNA component was noted to hydrolyze an aminoacyl ester and thus play a central role in peptide bond formation (peptidyl transferase) Q.",
-        "cop": 1,
-        "opa": "Peptidyl transferase activity",
-        "opb": "Cut DNA at specific site",
-        "opc": "Participate in DNA synthesis",
-        "opd": "GTPase activity",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "d28fcf58-e2af-4250-9851-916ebf12512e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "FISH is used for which of the following?",
-        "exp": "Ans. D. All the above. Fluorescent in situ Hybridization (FISH):-Any cloned locus can be mapped to its position on a metaphase chromosome by fluorescent in situ hybridization (FISH). A sample of cells arrested in the process of division is placed on a microscope slide, and the chromosomes are fixed and the DNA is carefully denatured while still retaining its fundamental chromosome organization. A labeled probe prepared from a cloned DNA fragment is then placed on the slide and incubated to allow hybridization to occur on the chromosome in situ. After removing un-hybridized probe, the chromosome can be viewed under UV light with a microscope so that fluorescent regions and chromosome banding landmarks can be correlated. The resolution of this technique, however, is only as good as the resolution of karyotype bands. Standard DNA cloned fragments of about 100 kb each for use as FISH probes are available from many genetic resource centers worldwide as bacterial artificial chromosomes (BACs). Examples of FISH applications. Diagnostic. Research. The identification of specific chromosome abnormalities. The identification of new non-random abnormalities (by M-FISH or SKY). The characterization of marker chromosomes. Gene mapping. Interphase FISH for specific abnormalities in cases of failed cytogenetics. Identification of regions of amplification or deletion by CGHMonitoring disease progression. The identification of translocation breakpoints. Monitoring the success of bone marrow transplantation. The study of 3D chromosome organization in interphase nuclei",
-        "cop": 4,
-        "opa": "Gene mapping",
-        "opb": "Study of 3D chromosome organization in interphase nuclei",
-        "opc": "Monitoring the success of bone marrow transplantation",
-        "opd": "All the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "da64cc15-785d-4eae-a60d-ea7c8cc1d439",
-        "choice_type": "multi"
     },
     {
         "question": "A 35-year-old nonsmoking male has been diagnosed with emphysema. His father died of emphysema at age 30, but he smoked. His father also had cirrhosis and recurrent pancreatitis but did not drink alcohol. Which one of the following inheritance patterns typifies this disease process?",
@@ -804,19 +544,6 @@
         "topic_name": "Molecular Genetics",
         "id": "7e17d41e-4d3a-4a59-862e-80faa74dac53",
         "choice_type": "single"
-    },
-    {
-        "question": "About peptidyl transferase true is:",
-        "exp": "Ans. A. Used in elongation and cause attachment of peptide chain to A-site of t. RNA(Ref: Harper 31/e page 403). The a amino group of the new aminoacyl-t. RNA in the A site carries out a nucleophilic attack on the esterified carboxyl group of the peptidyl-t. RNA occupying the P site (peptidyl or polypeptide site). At initiation, this site is occupied by the initiator met-t. RNAi. This reaction is catalyzed by a peptidyl transferase, a component of the 28S RNA of the 60S ribosomal subunit. This is another example of ribozyme activity.",
-        "cop": 1,
-        "opa": "Used in elongation and cause attachment of peptide chain to A-site of t. RNA",
-        "opb": "Used in elongation and cause attachment peptide chain to P site",
-        "opc": "Used in initiation and cause 43S complex formation",
-        "opd": "Used in initiation and cause 48S complex formation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "28360d81-3d87-49af-947e-7c7bb65d4598",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following enzymes is used in Recombinant DNA research for Homopolymer tailing?",
@@ -884,32 +611,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Restriction endonuclease has the following characteristics except;",
-        "exp": "Ans. D. Cut DNA randomly. Restriction enzymes also known as molecular scissors are the tools used in genetic engineering. As the name suggests they cut at the restricted sites of DNA. It cut DNA chains at specific locations. Named after the discoverer. Ex. PBR 322. Plasmid discovered by Boliver and Rodrigues having 322 base pairs.",
-        "cop": 4,
-        "opa": "Cut DNA in a sequence specific manner",
-        "opb": "Named according to the bacteria from which they are isolated.",
-        "opc": "Most of the DNA sequences recognized are palindromic",
-        "opd": "Cut DNA randomly",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "58d67210-b2fd-486e-a79b-b76cf893d646",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is involved in cleavage of recombinant DNA",
-        "exp": "(Restriction enzyme) (398-Harper 26, h) (187-NMS 4, h) (579- U. S. 3rd). Restriction enzymes - are named after the bacterium from which they are isolated* **Each enzymes recognizes and cleaves a specific double stranded DNA sequence that is 4-7 bp long. These DNA cuts result in blunt ends or overlapping (sticky) ends* **Sticky ends are particularly useful in preparation of chimeric or hybrid DNA molecules* Restriction enzymes requires no additional energy from adenosine triphosphate or other energy source for cleavage (186-NMS 4, h)DNA iigases - It is essential tool in the formation of recombinant DNA clones. Helicases - Processive unwinding of DNA (328-HP). Some of the enzymes used in recombinant DNA research (400 HP)* Alk. phosphatase* Exonuclease III* Reverse transcriptase* BAL-31 nuclease* X exonuclease* SI nuclease* DNA polymerase I* DNase I* Polynucleotide kinase* Terminal transferase",
-        "cop": 2,
-        "opa": "Helicases",
-        "opb": "Restriction enzyme",
-        "opc": "Ligases",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "b3b9665a-60a0-45bc-86f6-5e97971e68ee",
-        "choice_type": "multi"
-    },
-    {
         "question": "TATA box is seen in -",
         "exp": "Ans. is 'a' i. e. t Promoter regiono These are the consensus sequences of DNA present on same chromosome, which is to be transcribed. These are - Promoter-proximal sequences (or simply promoters):- These are consensus sequences, which lies close to the initiation site of transcription. These can be divided into: -i) Promoters which define where transcription is to commence These are -TATA Box (Hogness box) It is nearly identical to that of pribnow box of prokaryotic promoter region. It is found - 25 base pairs i. e. 25 bp upstream (towards 5l end) from transcription initiation site. Initiator sequence (Inr). Is is found -3 bp (upstream) to +5 bp (downstream) from initiaton site. Down stream promotor element (DPE). It is found -25 bp (downstream) from initiation site. It is the only exception ofpromoter sequences, which is a part of structural gene itself.# The human (eukaryotic) RNA polymerase cannot bind to these promoior directly. Transcription factor IID{TFIID) directs the binding of RNA polymerase to promoter sequence. TF II D is made up of two components: TATA binding protein (TBP) and TBP associated factors (TAFs). The TATA box is bound by TBP subunits of TF II D and directs the binding of RNA polymerase. Inr and DPE are bound by TAF subunits of TF II D to direct the binding of RNA polymerase, ii) Promoters which define how frequently transcription will occur These are - GCbox;- It is found anywhere between -75 to -25 bp from initiation site. It binds to SP-1 protein. b) CAA T box. It is found at -7 5 bp from initiation site. It binds to C A AT binding transcription factor (C T F). Enhancers:- These are DNA sequences that increase the rate of initiation of transcription by RNA polymerase II. These are located far away from the initiation site. There sequence is called 'response element' that bind to specific transcription factors (TFs), i. e. enhancer-binding transcription factors and function as transcription activators. Silencers (or Repressors):- These sequences decrease transcription. Trans-acting factorso These are various proteins/factors encoded by DNA sequences genes present on different chromosome, i. e. on chromosome other than to be transcribed, These are -General transcription factors These facilitate binding of RNA polymerase II to promoter-proximal sequence and help to form pre-initiation complex (PIC). Example are TFIIA, TF IIB, TFIID, TFIIE, TFIIF, TF IIH; Coactivators These regulate the rate of transcription by binding to TF, e. g. TAF subunit of. TFII D, HAT, HD AC. Activators. These bind to GC Box or CAAT box, e. g. SP-1 and CTF which bind to GC box and CAAT box respectively. Factors that bind to enhancer or silencers e. g. HRE binding protein.",
         "cop": 1,
@@ -962,19 +663,6 @@
         "choice_type": "single"
     },
     {
-        "question": "On which of the following t. RNA acts specifically?",
-        "exp": "Ans. C. Specific amino acid(Ref: Harper 31/e page 346). At least one species of transfer RNA (t. RNA) exists for each of the 20 amino acidst. RNA molecules have extra ordinarily similar functions and three-dimensional structures. The adapter function of the t. RNA molecules requires the charging of each specific t. RNA with its specific amino acid.",
-        "cop": 3,
-        "opa": "ATP",
-        "opb": "Golgi body",
-        "opc": "Specific amino acid",
-        "opd": "Ribosome",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "7872467b-2215-4b06-8643-8c2e98623b21",
-        "choice_type": "multi"
-    },
-    {
         "question": "Human genome contains -- base pairs",
         "exp": "(3 x 109) (445 - Lippencott's 3rd) (321-HP27th). The human genome contains DNA with approximately three billion (109) base pairs that encode 30. 000 to 40, 000 genes located on 23 pairs of chromosomes",
         "cop": 1,
@@ -986,32 +674,6 @@
         "topic_name": "Molecular Genetics",
         "id": "b353a89b-8a8c-4d1b-938e-c48e39819752",
         "choice_type": "single"
-    },
-    {
-        "question": "Proteins seen in chromosomes are called:",
-        "exp": "Ans: b (Histones) Ref: Vasudevan, 4th ed, p. 398; 5th ed, p. 416* Histones are proteins rich in basic amino acids. DNA wraps around histone octamer to form one nucleosome.* Histones are rich in lysine and arginine.* Histone octamer contains two copies each of histones (H2A, H2B, H3 H4)* H, histone is associated with the linker DNA found between nucleosomes.* Eu chromatin - loosely packed and transcriptionaly active.* Hetero chromatin - tightly packed and inactive. Topo isomearses are enzymes that can change the amount or super coiling.",
-        "cop": 2,
-        "opa": "Nucleotides",
-        "opb": "Histones",
-        "opc": "Apoproteins",
-        "opd": "Glycoproteins",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "b8fda461-71f6-42b5-997e-54ef740aef57",
-        "choice_type": "multi"
-    },
-    {
-        "question": "About DNA which of the following is true:",
-        "exp": "Ans. A. The nucleotide of one strand form bonds with nucleotide of opposite strand. One strand of DNA join with other strand of DNA by means of Hydrogen bond between the bases. Cytosine and uracil differ by amino group. The information in the DNA is copied in the form of m. RNA. Each nucleotide pair includes one purine and one pyrimidine.",
-        "cop": 1,
-        "opa": "The nucleotide of one strand form bonds with nucleotide of opposite strand.",
-        "opb": "Cytosine and Uracil differ by one ribose sugar",
-        "opc": "The information from DNA is copied in the form of t. RNA",
-        "opd": "Each nucleotide pair includes two purines.",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "a73a2eba-1ae2-46b2-a650-1cfce36e037c",
-        "choice_type": "multi"
     },
     {
         "question": "Lesch-Nyhan syndrome, the sex linked recessive disorder is due to the lack of the enzyme:",
@@ -1027,19 +689,6 @@
         "choice_type": "single"
     },
     {
-        "question": "An 18-year-old college freshman shares a dorm room with three roommates. One of his roommates has been diagnosed with meningococcal meningitis, caused by the bacteria Neisseria meningitidis. The other three roommates are isolated and treated twice a day with an antibiotic as prophylaxis against this organism, because none of them had received the meningococcal vaccine prior to enrollment. They are told that this antibiotic can give a reddish discoloration of their urine or tears. The reason this drug is effective in killing the bacteria is which one of the following?",
-        "exp": "The drug given to prevent Neisseria infection (used prophylaxically), which is common in crowded conditions such as freshman dormitory rooms or military barracks, is rifampin. Rifampin inhibits RNA polymerase, and also exhibits a red color. Loss of rifampin in the urine or tears would give a reddish tint to those fluids. Rifampin does not interfere with DNA synthesis, the bacterial membrane, the process of protein synthesis, or ATP generation by the bacteria.",
-        "cop": 2,
-        "opa": "DNA synthesis is inhibited.",
-        "opb": "RNA synthesis is inhibited.",
-        "opc": "The process of protein synthesis is inhibited.",
-        "opd": "The bacterial membrane becomes leaky.",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "8efa93c8-5164-4a31-9c87-288462b12769",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not a cause of point mutation?",
         "exp": "Ans. a. Paracentric inversion (Ref: Robbins 9/e p138, 160, 8/e p138, 160; Lippincot 5/e p433-434)\"Inversion refers to a rearrangement that involves two breaks within a single chromosome with reincorporation of the inverted, intervening segment. An inversion involving only one arm of the chromosome is known as paracentric. If the breaks are on opposite sides of the centromere, it is known as pericentric. Inversions are often fully compatible with normal development. \"- Robbins 9/e p160, 8/e p160 Point Mutations. Replacement or changes in single base. QTransition. Transversion. Purine - PurineQ Pyrimidine - Pyrimidine. QPurine PyrimidineQ Pyrimidine - PurineQ Effects of point mutation. Silent Mutations: No apparent effect due to change in 3rd nucleotide of genetic code (Wobble hypothesis)QThe codon containing the changed base codes for the same amino acid. QExample: 67th position of B chain of Hb. AQNormal. Valine. Milwaukee. QGlutamate. Bristol. QAspartate. Sydney. QAlanine. Missense mutations: The codon containing the changed base codes for different amino acid. QAcceptable: Change in amino acid does not alter function of protein, Ex: Hb Hikari b-61: Asparaginase for lysine. QPartially acceptable: Change in amino acid interferes with normal function. Ex: HbS/Sickle cell anemia b-6: Valine for glutamic acid. QUnacceptable: Result in totally non-functional protein, Ex: HbM (Boston) a-58: Tyrosine for histidine. QNonsense mutations: The codon containing changed base may become the termination codon. Frame-shift muations: Addition or deletion of a base can cause aleration in the frame of m-RNA.",
         "cop": 1,
@@ -1051,19 +700,6 @@
         "topic_name": "Molecular Genetics",
         "id": "483e70de-55c2-4816-853c-0f208cbae109",
         "choice_type": "single"
-    },
-    {
-        "question": "Common substrate for purine and pyrimidine synthesis are all except -",
-        "exp": "Ans. is 'b' i. e., Glycine* In de novo synthesis, purine ring is formed from variety of precursors is assembled on ribose-5-phosphate. Precursors for de novo synthesis are -i) Glycine provides C4, C5 and N7ii) Aspartate provides N1iii) Glutamine provides N3 and N9iv) Tetrahydrofolate derivatives furnish C2 and C8v) Carbon dioxide provides C6. Precursors for pyrimidine denovo synthesisi) Glutamine provides N3ii) Aspartic acid furnishes C4, C5, C6 and N1iii) CO2 provides C2",
-        "cop": 2,
-        "opa": "Glutamine",
-        "opb": "Glycine",
-        "opc": "Aspartate",
-        "opd": "Carbon dioxide",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "1f004a24-43ab-4a09-8d9c-3c8588635f20",
-        "choice_type": "multi"
     },
     {
         "question": "What is the contribution of this scientist to molecular genetics?",
@@ -1079,19 +715,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Mitochondrial DNA is:",
-        "exp": "Ans A. Circular double stranded. Mitochondria and chloroplast are the only two semi -autonomous organelles present in the cell. And DNA present is circular double stranded.",
-        "cop": 1,
-        "opa": "Circular double stranded",
-        "opb": "Circular single stranded",
-        "opc": "Linear double helix",
-        "opd": "None of these",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "d36ee366-4070-449a-b4a9-bba97cb049c8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Southern blot is used to detect -",
         "exp": "Ans. is 'a' i. e., DNA Technique. Sample analyzed. Gel used. Probe. Southern blot. DNAQYes. Radioactive DNAAllele specific oligonucleotide (ASO)DNANo. Allele specific oligonucleotide. Microarraym-RNA or c-DNANo. DNA probe. Northern blot. RNAQYes. DNA probe. Western (immuno) blot. Protein. QYes. Labeled antibody. South Western blot. Protein DNANo. DNA probe. ELISAProtein or antibodies. No. AntibodyQ (Specific for protein to be measured). Proteomics. Protein. QYes--",
         "cop": 1,
@@ -1103,19 +726,6 @@
         "topic_name": "Molecular Genetics",
         "id": "8395f81f-dfd3-4ab6-820a-99d7131656f7",
         "choice_type": "single"
-    },
-    {
-        "question": "Radio labelled DNA was allowed to replicate twice in a non-radioactive environment. Which of the following is true?",
-        "exp": "Ans. B. Half of the DNA will have no radioactivity(Ref: Harper 31/e page 363). Semiconservative Nature of DNA Replication proved by Meselson and Stahl states that half of the parent strand is conserved during replication in the daughter strand. After one replication all the DNA will have radioactivity. After two replication half of the DNA will have radioactivity.",
-        "cop": 2,
-        "opa": "All the strands will have radioactivity",
-        "opb": "Half of the DNA will have no radioactivity",
-        "opc": "No strands will have radioactivity",
-        "opd": "Three-fourth of the DNA replicated will have radioactivity",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "f8874bce-a28a-4df0-a878-729ce4e22127",
-        "choice_type": "multi"
     },
     {
         "question": "Stage of meiosis during which homologous pairs of chromosomes are arranged in equatorial plane?",
@@ -1183,19 +793,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Random inactivation of X chromosome is:",
-        "exp": "Ans. A. Lyonisation. Two factors that are peculiar to the sex chromosomes:(1) lyonization or inactivation of all but one X chromosome and (2) the modest amount of genetic material carried by the Y chromosome. In 1961, Lyon outlined the idea of X-inactivation, now commonly known as the Lyon hypothesis. It states that (1) only one of the X chromosomes is genetically active, (2) the other X of either maternal or paternal origin undergoes heteropyknosis and is rendered inactive, (3) inactivation of either the maternal or paternal X occurs at random among all the cells of the blastocyst on or about day 16 of embryonic life, and (4) inactivation of the same X chromosome persists in all the cells derived from each precursor cell. The inactive X can be seen in the interphase nucleus as a darkly staining small mass in contact with the nuclear membrane known as the Barr body, or X chromatin. The molecular basis of X inactivation involves a unique gene called XIST, whose product is a noncoding RNA that is retained in the nucleus, where it \"coats\" the X chromosome that it is transcribed from and initiates a gene-silencing process by chromatin modification and DNA methylation. The XIST allele is switched off in the active X.",
-        "cop": 1,
-        "opa": "Lyonisation",
-        "opb": "Allelic exclusion",
-        "opc": "Randomisation",
-        "opd": "Genomic imprinting",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "52b2e66e-a35c-4495-b5ab-6656a179153e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Restriction endonucleases are the enzymes",
         "exp": "Ans. b (They cleave the DNA at specific sequence) (Ref. Harper's Illustrated Biochemistry, 26lh/57, 397; Table 40-2)RESTRICTION ENDONUCLEASES# Restriction enzyme: An endodeoxynuclease that causes cleavage of both strands of DNA at highly specific sites dictated by the base sequence.# The detection of restriction fragment length polymorphisms (RFLPs) facilitates prenatal detection of hereditary disorders such as:- Sickle cell trait, - Beta thalassemia, - phenylketonuria, and- Huntington's disease.# Detection of RFLPs involves cleavage of double-stranded DNA by restriction endonucleases, which can detect subtle alterations in DNA that affect their recognized sites. Enzymes capable of degrading nucleic acids (nucleases) can be classified in several ways:# Those which exhibit specificity for deoxyribonucleic acid are referred to as deoxyribonucleases.# Those which specifically hydrolyze ribonucleic acids are ribonucleases.# Within both of these classes are enzymes capable of cleaving internal phosphodiester bonds to produce either 3'- hydroxyl and 5'-phosphoryl terminals or 5'-hydroxyl and 3'-phosphoryl terminals. These are referred to as endonucleases.# There exist classes of endonucleases that recognize specific sequences in DNA; the majority of these are the restriction endonucleases, which have in recent years become important tools in molecular genetics and medical sciences.# Some nucleases are capable of hydrolyzing a nucleotide only when it is present at a terminal of a molecule; these are referred to as exonucleases.- Exonucleases act in one direction (3-5 or 5-3) only. In bacteria, a 3-5 exonuclease is an integral part of the DNA replication machinery and there serves to edit--or proofread--the most recently added deoxynucleotide for base- pairing errors. Educational points:# Restriction enzymes cut DNA of any source into short pieces in a sequence-specific manner--in contrast to most other enzymatic, chemical, or physical methods, which break DNA randomly.# Restriction enzymes & DNA ligase are also used to prepare chimeric DNA molecules.",
         "cop": 2,
@@ -1220,19 +817,6 @@
         "topic_name": "Molecular Genetics",
         "id": "5f91348d-7102-4f1a-bdc2-cac95f686ead",
         "choice_type": "single"
-    },
-    {
-        "question": "Which is not true regarding t. RNA?",
-        "exp": "Ans. is 'b' i. e., D arm is for ribosomal attachment* t. RNA or transfer RNA is so called because it transfers aminoacid from aminoacid pool to ribosome, which is the translation machinery* For coding 21 aminoacids we have 50 to 100 t. RNAs, each coded by a unique gene* These t. RNAs are clover leaf shaped* Every t. RNA has four stable arms and 1 variable arm* The four stable arms are: i) Anticodon armii) Acceptor armiii) D armiv) TpsC arm. Anticodon arm* The triplet nucleotide that is complementary to the codon of m. RNA. In anticodon, the first nucleotide of anticodon of t. RNA is not specific or the nucleotide towards 5' end of anticodon is not specific. This is Wobble phenomenon. This explains how can 1 codon code for more than one aminoacid (Degeneracy of codon).* Acceptor arm is so called, because it is this arm which accepts the aminoacid. This arm has a triplet nucleotide \"CCA\" attached to the 3' end of t. RNA. It is to the A of this CCA, to which aminoacid gets attached. This CCA triplet nucleotide is common to all the t. RNAs, when all the other sequences are unique to a particular t. RNA. TpsC arm* The arm through which the t. RNA gets attached to ribosome, D arm* The arm through which aminoacyl t. RNA synthetases get attached.# For every aminoacid, we have a specific aminoacyl t. RNA synthetase# Once the enzymes - aminoacyl t. RNA synthetases get activated, they go to the aminoacid pool. They pick up the specific aminoacid and activate the specific aminoacid using 2 high energy phosphates.# The activated aminoacids are carried by the respective enzymes and they go to the t. RNA pool.# In the t. RNA pool, they get attached to the t. RNAs through D arm# Then they scan the anticodon arm, if the specific anticodon is found, the aminoacid is attached to acceptor arm.* Hence choice b, D arm is for ribosomal attachment is false. D arm is for aminoacyl t. RNA synthetases attachment.",
-        "cop": 2,
-        "opa": "TpsC arm is for ribosomal attachment",
-        "opb": "D arm is for ribosomal attachment",
-        "opc": "CCA trinucleotide is attached to acceptor arm",
-        "opd": "The first nucleotide of anticodon of t. RNA is not specific",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "0d07b708-5b83-46c7-bbd7-79fc29e445b9",
-        "choice_type": "multi"
     },
     {
         "question": "A 20-year-old female presents for an infertility workup. She has never had a menstrual period. She is short with a broad chest, webbed neck, and low-set ears. It is demonstrated that she has an abnormal karyotype. Which one of the following best describes the cause of this genetic abnormality?",
@@ -1274,19 +858,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which step in translation is inhibited by Tetracycline in prokaryotes?",
-        "exp": "Binding of aminoacyl-t. RNA to the A sitea. The m. RNA codon at the A site determines which aminoacyl-t. RNA will bind. (1). The codon and the anticodon bind by base-pairing that is antiparallel (see Figure below). (2). Internal methionine residues in the polypeptide chain are added in response to AUG codons. They are carried by t. RNAm. Met, a second t. RNA specific for methionine, which is not used for initiating protein synthesis. b. An elongation factor (EF-Tu in prokaryotes and e. EF-1 in eukaryotes) and hydrolysis of GTP are required for binding. Tetracycline prevents aminoacyl-t. RNA from binding to the \"A\" site on the ribosome. Streptomycin prevents the formation of the initiation complex, and erythromycin blocks translocation. Chloramphenicol will block peptide-bond formation in prokaryotic cells. Antiparallel binding of aminoacyl-t. RNA to m. RNA.",
-        "cop": 2,
-        "opa": "Initiation",
-        "opb": "Binding of aminoacyl-t. RNA to the \"A\" site on the ribosome",
-        "opc": "Peptide-bond formation",
-        "opd": "Translocation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "3e49496a-8ef2-4155-bb5c-c47ca66458d5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Enzyme deficient in Lesch-Nyhan syndrome?",
         "exp": "Ans. D. Hypoxanthine Guanine Phosphoribosyl Transferase. (Ref. Harper 26th/294, Vasudevan pg. 464). Lesch-Nyhan syndrome is defective purine salvage due to absent HGPRT, which converts hypoxanthine to IMP and guanine to GMP. Results in excess uric acid production and de novo purine synthesis. X-linked recessive. Findings: intellectual disability, self-mutilation, aggression, hyperuricemia, gout, dystonia. Treatment: allopurinol or febuxostat (2nd line). HPRTase DEFICIENCY# HGPRTase is predominantly present in liver and involved in purine metabolism# HPRT DEFICIENCY is X-linked recessive.# Affected males are hemizygous for the mutant gene; carrier females are asymptomatic.# A complete deficiency of HPRT, the Lesch-Nyhan syndrome, is characterized by:# Hyperuricemia, 0# Self-mutilative behavior, 0# Choreoathetosis, # Spasticity, and# Mental retardation.# A partial deficiency of HPRT, the Kelley-Seegmiller syndrome, is associated with:# Hyperuricemia# But no CNS manifestations.# In both disorders, the hyperuricemia results from urate overproduction and can cause uric acid crystalluria, nephrolithiasis, obstructive uropathy, and gouty arthritis.# Early diagnosis and appropriate therapy with allopurinol can prevent or eliminate all the problems attributable to hyperuricemia but have no effect on the behavioral or neurologic abnormalities.",
         "cop": 4,
@@ -1324,19 +895,6 @@
         "topic_name": "Molecular Genetics",
         "id": "696fb565-382f-4880-9a9a-f8c5c3d95c09",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true for genetic code except:",
-        "exp": "Ans. C. Punctuation. The genetic code is considered as Universal, Specific, Non-overlapping and Degenerate. The codon degeneracy is explained by \"WOBBLE HYPOTHESIS\", which was put forth by CRICK. \"Wobble hypothesis is a phenomenon in which a single t. RNA can recognize more than one codon. Wobbling is attributed to the difference in the spatial arrangement of the 5'-end of anticodon. Wobbling hypothesis explains the degeneracy of genetic code i. e. existence of multiple codons for a single amino acid. Although there are 61 codons for amino acids, the number of t. RNAs are around 4D which is due to wobbling.",
-        "cop": 3,
-        "opa": "Degenerate",
-        "opb": "Universal",
-        "opc": "Punctuation",
-        "opd": "Non overlapping",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "cf3fff3c-31af-4595-84ed-1c3a438d5908",
-        "choice_type": "multi"
     },
     {
         "question": "Two strands of the DNA are joined by:",
@@ -1391,32 +949,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A phenotypically normal woman underwent a karyotype analysis for difficulties in conceiving. She was found to contain three Barr bodies, but no translocations or large deletions. Her karyotype would be best represented by which one of the following?",
-        "exp": "If the woman is expressing three Barr bodies, then she has four X chromosomes per cell, three of which have been inactivated. This would give her a total of 48 chromosomes, and four of those would be X chromosomes, for a karyotype of 48 XXXX. Any karyotype with a Y chromosome would be a male.",
-        "cop": 3,
-        "opa": "48 XXXXY",
-        "opb": "46 XX",
-        "opc": "48 XXXX",
-        "opd": "48 XXXY",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "cbe63226-8804-4e59-b2e3-778e1481c508",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A family, while on a picnic, picked some wild mushrooms to add to their picnic salad. Shortly thereafter, all the members of the family became ill, with the youngest child showing the most severe symptoms. The family is suffering these effects owing to a primary inability to accomplish which one of the following in their cells and tissues?",
-        "exp": "The poison in poisonous mushrooms is a-amanitin, an inhibitor of eukaryotic RNA polymerases, primarily RNA polymerase II. As the family ate the mushrooms containing the poison, RNA polymerase II stopped functioning, and m. RNA was no longer produced. This led to a lack of protein synthesis. There is no direct effect on the synthesis of lipids, carbohydrate, or DNA, other than replacing the required enzymes due to protein turnover. However, the net effect of a-amanitin poisoning would be to stop protein synthesis, which may then lead to a cessation of lipid or DNA synthesis. a-Amanitin has no direct effect on DNA repair.",
-        "cop": 1,
-        "opa": "Synthesize proteins",
-        "opb": "Synthesize lipids",
-        "opc": "Synthesize DNA",
-        "opd": "Synthesize carbohydrates",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "b9a33485-cc56-42fd-9dc9-78258a5bc12b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following process is involved in conversion of DNA to RNA:",
         "exp": "Ans. D. Transcription. Transformation. Transfer of genetic information through agency of free DNA. E. g: Pneumococci, Bacillus. Transduction. Transfer of a portion of a DNA from one bacterium to another by a bacteriophage. Transversion. Substitution of a purine for a pyramidine and vice versa in base pairing. Translation. Transfer of an information from m. RNA to proteins resulting in polypeptide formation. Transcription. Replication of messenger RNA from the DNA. Mediated by \"RNA polymerase2\"Reverse Transcriptiona) Formation of DNA from RNA and is mediated by \"Reverse Transcriptase\". b) seen in oncogenic virus.",
         "cop": 4,
@@ -1441,19 +973,6 @@
         "topic_name": "Molecular Genetics",
         "id": "724f59dc-6dbf-4f85-8528-a25a3e8573a8",
         "choice_type": "single"
-    },
-    {
-        "question": "A 19-year-old male, at a routine physical examination for sports activities (long-distance running) at his college, is noticed to have elevated fasting blood glucose levels (about 7. 5 mM). Measurements of C-peptide and insulin levels were close to normal under fasting conditions. After eating, blood glucose levels are only slightly elevated above the normal fasting levels before stabilizing at the fasting levels. The student indicates that he is not drinking or urinating excessively, but that he remembers that his mother had gestational diabetes when pregnant with him. This alteration in glucose homeostasis is best typified by which one of the following types of inheritance?",
-        "exp": "The patient is displaying the signs of maturity onset diabetes of the young (MODY), which can be caused by a mutation in the pancreatic glucokinase gene, such that its Km is increased. The increase in the Km for glucokinase would lead to glucose only being metabolized at higher-than-normal levels. Once glucose is metabolized in the b cells of the pancreas, and adenosine triphosphate levels increase, then insulin can be released. The glucokinase mutation causes insulin release to occur at higher-than-normal glucose levels. The mother also expresses the mutant glucokinase gene. During pregnancy, the effect of placental hormones tends to inhibit insulin's action, and in a mother with MODY, in which insulin is not being released appropriately owing to the glucokinase mutation, blood glucose levels rise significantly during the pregnancy, leading to gestational diabetes. MODY, in terms of the glucokinase mutation, is transmitted in an autosomal dominant manner.",
-        "cop": 1,
-        "opa": "Autosomal dominant",
-        "opb": "Autosomal recessive",
-        "opc": "Sex linked",
-        "opd": "Mitochondrial",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "802868ee-3fe6-419d-a6bf-a4d75460c08d",
-        "choice_type": "multi"
     },
     {
         "question": "Gene therapy is successful for the treatment of -",
@@ -1534,19 +1053,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In which of the following phase (s) of Cell cycle, both, the RNA synthesis and Protein synthesis occurs:",
-        "exp": "Ans. a (G 1). (Ref Robin's pathology 7th ed., 178; Harrison's internal medicine 18th ed. Ch. 103, 357)THE CELL CYCLE (G, A G2 and M)# During development from stem to fully differentiated, cells in the body alternately divide (mitosis) and \"appear\" to be resting (interphase). This sequence of activities exhibited by cells is called the cell cycle.# Interphase:- Interphase generally lasts at least 12 to 24 hours in mammalian tissue.- During this period, cell is constantly synthesizing RNA, producing protein, and growing in size.- The inactive X can be seen in the interphase nucleus as a darkly staining small mass in contact with the nuclear membrane known as the Barr body or X chromatin.- By studying molecular events in cells, scientists have determined that interphase i. e. the cell cycle can be divided into 4 phases:# Phase of cell cycle: GO (Resting phase). There are times when a cell will leave the cycle and quit dividing. This may be a temporary resting period or more permanent. An example of the latter is a cell that has reached an end stage of development and will no longer divide (e. g. neuron). G1 (Gap 1). Cells increase in size in Gap 1, crocface RNA os well as synthesiz. An important cell cycle control mechanism activated during this period (G1 Checkpoint) ensures that everything is ready for DNA synthesis i. e. the cell determines its readiness to commit to DNA synthesis. S(DNA synthesis). To produce two similar daughter cells, the complete DNA instructions in the cell must be duplicated. DNA replication occurs during this S (synthesis) phase. Thus the genetic material is replicated and no re-replication is permitted. In-situ DNA nick end labeling can quantitative fraction of cells in synthetic (S) phase of cell cycle. G2 (Gap 2). During the gap between DNA synthesis and mitosis, the cell will continue to grow and produce new proteins. At the end of this gap is another control checkpoint (G2 Checkpoint) to determine if the cell can now proceed to enter M (mitosis) and divide. Thus then fidelity of DNA replication is assessed and errors are corrected. Mitosis or M phase. Cell growth and protein production stop at this stage in the cell cycle. All of the cell's energy is focused on the complex and orderly division into two similar daughter cells. Thus, the replicated chromosomes are separated and packaged into new nuclei by mitosis and the cytoplasm is divided between the two daughter cells by cytokinesis. Mitosis is much shorter than interphase, lasting perhaps only one to two hours. As in both G1 and G2, there is a Checkpoint in the middle of mitosis (Metaphase Checkpoint) that ensures the cell is ready to complete cell division.# The continuously dividing human cell takes approximately 22 hours to divide.# Normally time required for different phases are as follows:- G2 takes five hours, - M phase takes one hour, - S phase takes eight hours, and- G1 phase takes eight hours.# However the time required for G, and G2 phase are characteristically variable.# Most normal cells are in G() phase and rapidly dividing cells have shorter G, phase.# It is notable that tumor cells can no longer enter G0 phase.# The cells in G2M, especially in M-phase, are most radiosensitive.# The cells in S phase are radioresistant. Also remember: a) Cell cycle nonspecific: Kill resting as well as dividing cells, e. g. nitrogen mustard, cyclophos phamide, chlorambucil, carmustine, dacarbazine, busulfan, L-asparaginase, cisplatin, procarba zine, actinomycin D. b) Cell cycle specific: Kill only actively dividing cells. Their toxicity is generally expressed in S phase. However, these drugs may show consi durable phase selectivity, e. g.-TimeG 1: VinblastineS: Mtx, cytarabine, 6-TG, 6-MP, 5-FU, hydroxyurea, mitomycin C, doxorubicin, daunorubicin. G2: Daunorubicin, bleomycin, etoposide, topotecan. M: Vincristine, docetaxel.",
-        "cop": 1,
-        "opa": "G1",
-        "opb": "G2",
-        "opc": "S",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "1718ee00-ec1a-462f-87e0-0c990ca3592a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which enzyme prevents aging?",
         "exp": "Ans. is 'c' i. e., Telomerase* A person can be young only until the person can replenish the losses periodically, for which the cells should be pushed into cell cycle regularly.* Telomeres are ends of chromosomes which help in maintaining the stability of our chromosomes. When we are born we are born with a particular telomeric length. As cells get into cell cycle, during replication, the telomeric end is progressively shortened. This happens because for DNA polymerase to replicate a DNA, we need to add RNA primers first. So ends of chromosome are replaced by RNA during replication. This RNA being labile gets lost.* After 50 to 70 cell divisions, the telomeric ends reach a critical or minimum length called as Hayflick limit. Beyond hayflick limit length of telomere, if the cells are allowed to get into cell cycle, the telomere length is not good enough to maintain the stability of chromosomes. The chromosomes accumulate mutation. To avoid accumulation of mutation, once a cell has reached the critical length of telomere, the cells are not allowed to get into cell cycle any more. When the cells are not able to get into cell cycle, the losses are not being replenished and that is when ageing begins.* To avoid this we are provided with a telomerase enzyme. Telomerase is a reverse transcriptase. IT has RNA dependent DNA polymerase activity. Based on the RNA fragments left back in the terminals as a result of replication, Telomerase synthesises and replaces DNA fragments. Hence the length of telomeric ends can be maintained and ageing is prevented.* Hence telomerase is an antiageing enzyme.",
         "cop": 3,
@@ -1573,45 +1079,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The position of DNA in which RNA polymerase binds and start transcription is called:",
-        "exp": "Ans. D. Promoter region. The binding of enzyme RNA polymerase to DNA is prerequisite for the beginning of transcription. The specific region on DNA where the enzyme binds is known as promoter region.",
-        "cop": 4,
-        "opa": "Terminator",
-        "opb": "Anti-terminator",
-        "opc": "Operator",
-        "opd": "Promoter region",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "3cb9a219-e9e8-44ff-83dc-1dc1c4aaf834",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the follow ing protein is synthesized in free ribosome -",
-        "exp": "Ans. is 'a* i. e., Cytosolic proteins. Ribosomeso Ribosomes are the actual sites of protein synthesisQ. The ribosomes are small granules of RNAs. Ribosomes are usually occur in clusters called polyribosomes attached to one m. RNA molecule, an arrangement that increases the rate of polypeptide synthesis. There are two types of polyribosomes: -Free (cytosolic): - Present free in cytosol. Bound polyribosome: - Present on rough ER. o Both tvpes can synthesize protein: -Proteins synthesized by polyribosomes. Cytosolic (free) Polyribosomes. Bound (rough ER) Polyribosomeso Cytosolic proteins, e. g.. Hemoglobino Cytoskeletal proteinso Mitochondrial proteinso Nuclear proteinso Peroxisomal proteinso Synthesize all membrane proteins. Mitochondrial membrane. ER membrane. Golgi apparatus membrane. Plasma membraneo Secretory proteinso Lysosomal enzymes",
-        "cop": 1,
-        "opa": "Cytosolic proteins",
-        "opb": "Secretery proteins",
-        "opc": "Membrane proteins",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "778b2963-567c-491e-8847-1fe1c472c683",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Nonsense codon are all EXCEPT",
-        "exp": "D. i. e. (UCA) (366- Herper 27th) (250 - Rana Shinde? \"')* Termination (\"Stop or Nonsense\") codons - Three of the codon UAG, UGA, and UAA, do not code for aminoacids but rather are termination codons. It signals that synthesis of the peptide chain codon by that m. RNA is completed. Also - Remembers* Features of the Genetic code - Degenerate, Unambiguous, Nonoverlapping, Not punchuated, universal(I Codon consists of - 3 base pairs**(ii) Amber codon referto stop condons** - Amber ochre and opal codons(iii) Shine - Dalgarno- sequence in bacterial RNA is near to AUG codon**(iv) Anticodon is present t. RNA**(v) Translation process, \"proof reading\" of m. RNA is done by - Amino-acyl t-RNA synthetase**(vi) Fidelity of protein translation depends on - Amino acyl + RNA synthetase**(vii) The human genome contains DNA with approximately three billion (109)** base pairs, that encode 30, 000 to 40, 000 genes located** on 23 pairs of chromosome",
-        "cop": 4,
-        "opa": "UAA",
-        "opb": "UAG",
-        "opc": "UGA",
-        "opd": "UCA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "83d2493c-c8e2-4f3f-b868-244b4be073da",
-        "choice_type": "multi"
-    },
-    {
         "question": "RNA polymerase differs from DNA polymerase:",
         "exp": "Ans: b (Synthesizes RNA primer) Ref: Vasudevan, 4th ed, p. 406; 5th ed, p. 424; Lippincott, p. 402. DNA polymerases require a primer (RNA primer) where as RNA polymerase does not. This short primer is synthesized by primase (RNA polymerase). Comparison of dna and rna polymerase DNA POLYMERASERNAPOLYMERASE Nucleic acid synthesized(5'-3')DNARNA Required template {option d)}(Copied 3' - 5')DNA*DNA* Required substratesd-ATP, d-GTP, d-CTP, d-TTPATP, GTP, CTP, UTP Required primer. RNA (DNA). None Proof reading activity( 3'- 5' exonuclease ). Yes. No certain DNA and RNA polymerases require RNA templates e. g., viruses. Similarities include: Newly synthesized strand is made in the 5'-3' direction {option c) - so both synthesize in 5'-3' direction}. Template strand is scanned in the 3'-5' direction. The new strand is complementary and anti parallel to the template. Each new nucleotide added to 3' end of growing strand.",
         "cop": 2,
@@ -1623,19 +1090,6 @@
         "topic_name": "Molecular Genetics",
         "id": "8c7d9cc7-9cf8-4c69-9cb1-fe6a3b902e54",
         "choice_type": "single"
-    },
-    {
-        "question": "Apo B48 & Apo B100 is synthesized from the same m. RNA; the difference between them is due to:",
-        "exp": "Ans is 'c' i. e. Deamination of cytidine to Uridine. Apo B-48 and apo B-100 are synthesized from the same m. RNA. Apo B-100 is synthesized in Liver and forms part of LDL, VLDL and IDL. Apo B-48 is synthesized in Intestines and forms part of chylomicrons and chylomicron remnants. Apo B-100 is the full length translation of corresponding m. RNA. Apo B-48 is a shorter form of Apo B-100 (48% of B-100) formed by only partial translation of the same m. RNA. It comprises the N-terminal 48% of apo B-100. Apo B-48 is produced due to posttranscriptional m. RNA editing in which codon at 2153 position is edited- codon CAA is deaminated to UAA. CAA is a sense codon (coding for glutamine) and deamination changes it to UAA, which is a nonsense codon or stop codon. This stops the translation of m. RNA almost midway resulting in a shorter protein B-48 (representing 48 percent of the message).",
-        "cop": 3,
-        "opa": "RNA splicing '",
-        "opb": "Allelic exclusion",
-        "opc": "Deamination of cytidine to uridine",
-        "opd": "Upstream repression",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "db23404d-d109-4de5-ad17-bef5186ef379",
-        "choice_type": "multi"
     },
     {
         "question": "Xeroderma pigmentosa is due to:",
@@ -1703,19 +1157,6 @@
         "choice_type": "single"
     },
     {
-        "question": "ApoB 48 & ApoB 100 is synthesized from them RNA; the difference between them is due to:",
-        "exp": "Ans. C. Deamination of cytidine to uridine(Ref: Harper 31/e page 390). An example is the apolipoprotein B (apoB) gene and m. RNA. In the liver, the single apo B gene is transcribed into an m. RNA that directs the synthesis of apo B100. In the intestine, the same gene directs the synthesis of the primary transcriptA cytidine deaminase converts a CAA codon in them RNA to UAA at a single specific site. Rather than encoding glutamine, this codon becomes a termination signal apo B48 is the result.",
-        "cop": 3,
-        "opa": "RNA splicing",
-        "opb": "Allelic exclusion",
-        "opc": "Deamination of cytidine to uridine",
-        "opd": "Upstream repression",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "9f371736-6b13-49ee-865c-03e731526873",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which enzymatic mutation is responsible for immortality of cancer cells:",
         "exp": "Ans. C. Telomerase(Ref: Robbins 9/e page 288). Telomerase is one of several factors that contribute to the endless replicative capacity (the immortalization) of cancer cells.",
         "cop": 3,
@@ -1740,19 +1181,6 @@
         "topic_name": "Molecular Genetics",
         "id": "ab8f8aa0-b843-4821-9007-2a897dd9513d",
         "choice_type": "single"
-    },
-    {
-        "question": "Microsatellite sequence is:",
-        "exp": "Ans. C. Short sequence (2-5) repeat DNA(Ref: Robbins 9/e page 179). Repeat length Polymorphism or Short Tandem Repeats or Variable Number Tandem Repeats. Depending on the repeat size it is divided into Microsatellite-- Repeat size of 2-6bp. Minisatellite - Repeat size of 15-70bp.",
-        "cop": 3,
-        "opa": "Small satellite",
-        "opb": "Extra chromosomal DNA",
-        "opc": "Short sequence (2-5) repeat DNA",
-        "opd": "Looped-DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "565ec938-6a37-47c1-9f10-3ba68aea0bad",
-        "choice_type": "multi"
     },
     {
         "question": "Proteins destined for secretion from eukaryotic cells have which of the following in common?",
@@ -1781,19 +1209,6 @@
         "choice_type": "single"
     },
     {
-        "question": "False statement is:",
-        "exp": "Ans. D. Regulator gene inducible(Ref: Harper 31/e page 412). Structural genes are inducible, not the regulator genes. Lac I gene produces Repressor subunits. IPTG is an inducer of lac-operon, but itself is not a substrate. This is called gratuitous inducer.",
-        "cop": 4,
-        "opa": "Repressor binds operator gene",
-        "opb": "Regulator genes produce repressor subunits",
-        "opc": "IPTG is inducer but not substrate",
-        "opd": "Regulator gene is inducible",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "2cb230f6-59a6-4972-bcf3-93c71e80955c",
-        "choice_type": "multi"
-    },
-    {
         "question": "The gaps between segments of DNA on the lagging strand produced by restricting enzymes are rejoined/sealed by:",
         "exp": "Ans. A. DNA Ligases. The fragments of newly synthesized DNA on the lagging strand are joined/sealed by DNA ligases. Enzyme. Primary Function. Helicase. Unwinds the DNA to provide single stranded DNATopoisomerase. Relieves torsional strain that results from helicase induced unwinding. DNA primase. Initiates synthesis of RNA primers. DNA polymerase. Polymerizes dex nucleotides (Polymerizes DNA) Polymerase I: Gap filling & synthesis of lagging strand. Polymerase II: DNA proof reading and repair. Polymerase III: Processive leading strand synthesis (5 - 3 direction)DNA ligase. Seals the nicks between okazaki fragments on lagging strand.",
         "cop": 1,
@@ -1805,32 +1220,6 @@
         "topic_name": "Molecular Genetics",
         "id": "cb17b13e-684a-426a-9340-7e3d3182e90d",
         "choice_type": "single"
-    },
-    {
-        "question": "Which is true about Watson and Crick base base pairing rule?",
-        "exp": "Ans. is 'a' i. e., A-T, C-G* Watson and Crick analysed and proposed about the structure of DNA. These are the following features of DNA proposed by them# The two strands are complementary and antiparallel* Complementarity# A always hybridizes with T# G always hybridizes with C# Hence if there A on one strand, there is T on the other strand (IF its RNA, there is U on the other strand)# If there is G on one strand, there is C on the other strand# Hence Chargaff stated that in a double stranded structure, * = * = * Being antiparallel# If one strand is 5'3' the other strand is 3'5'* The two strands are oriented in a ladder like fashion. The backbone of the ladder is made up of 3'5' phosphodiester linkages with ribose or deoxy ribose sugar. The steps are made up of hydrogen bonds. There are 2 hydrogen bonds between A and T, 3 hydrogen bonds between G and C",
-        "cop": 1,
-        "opa": "A-T, C-G",
-        "opb": "A-G, T-C",
-        "opc": "A-C, T-G",
-        "opd": "A-G, T-U",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "bed7e46c-60a9-4b47-a2e8-44af6757fe8d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following types of mutations generally leads to a truncated protein?",
-        "exp": "Ans. B. Frameshift mutationa. Although each type of mutation can cause protein truncation, a frameshift mutation usually introduces a stop codon very shortly after the frameshift. In coding sequences, there are three possible reading frames that can be translated, only one of which leads to synthesis of the correct protein. b. The other two reading frames generally have numerous stop codons throughout, whereas the correct reading frame only has a stop codon at the very end. Small deletions and insertions will generally not affect protein size if the insertion or deletion is a multiple of three bases (one codon). c. These types of insertions or deletions maintain the same reading frame during translation. Missense mutations are alterations in a single codon such that the three base triplet encodes for a different amino acid. Silent mutations are alterations in a single codon such that the new codon still encodes for the same amino acid. This is possible because of the degeneracy of the genetic code.",
-        "cop": 2,
-        "opa": "Deletion",
-        "opb": "Frameshift mutation",
-        "opc": "Insertion",
-        "opd": "Missense mutation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "9b5a262d-ea94-4733-a857-ef3c05a944f9",
-        "choice_type": "multi"
     },
     {
         "question": "Xeroderma pigmentosum is caused due to abnormalities in:",
@@ -1859,32 +1248,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about Polymerase Chain Reaction are all except-",
-        "exp": "Ans. is 'd' i. e., Thermolab lie enzymes* Polymerase Chain Reaction is invitro amplification of a desired fragment of DNA* Specific amplification of a desired fragment of DNA is possible only because this process uses specific primers which are complementary to flanking sequences of the desired fragment.* It involves three steps in every cycle# Denaturation at 94 or 95degC# Annealing at (Tm - 5)degC# Elongation at 72degC* This way if Polymerase Chain Reaction is allowed to go through n number of cycles, by the end we get 2n products. Hence it is a sensitive technique.* Hence it involves DNA denaturation followed by annealing.* As the DNA polymerase that is used in this process should be capable of withstanding repeated cycles of 94 or 95degC, the enzyme should be thermostable. Hence the DNA polymerase used in Polymerase Chain Reaction is extracted from an organism which lives in hot springs. That organism being Thermus aquaticus and hence the DNA polymerase is Taq DNA polymerase* Optimum temperature required for this enzyme for elongation is 75degC. Hence elongation is carried out at 72degC",
-        "cop": 4,
-        "opa": "Thermostable enzyme",
-        "opb": "DNA denaturation, followed by annealing",
-        "opc": "Specific primers are required",
-        "opd": "Thermolabile enzymes",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "11b550e4-82b1-48e4-8b46-0a9aeb2196cb",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Srand of DNA from which m. RNA is formed by transcription is called:",
-        "exp": "Ans: a (Template) Ref: Vasudevan, 4th ed, p. 405; 5th ed, p. 424* Template strand is the one which is translocated to give m. RNA.* As the codons are present in m. RNA, DNA strand having the same sequence of m. RNA is called coding strand / anti template strand.",
-        "cop": 1,
-        "opa": "Template",
-        "opb": "Anti template",
-        "opc": "Coding",
-        "opd": "Transcript",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "a7ef5c1e-225b-40cc-abf8-07db67d48492",
-        "choice_type": "multi"
-    },
-    {
         "question": "Micro RNA is -",
         "exp": "Ans. is 'c' i. e., Gene Silencing RNA o There is a class of genes that encode for gene-silencing RNAs, i. e. RNAs that do not encode proteins but instead inhibit gene expression (unlike m. RNAs) which encode for proteinso Two important gene-silencing RNAs are:- (i) Micro RNAs, and (ii) small interfering RNAs (si. RNAs). i) Micro RNAs (m. RNAs)# mi. RNA is transcribed by RNA polymerase //. The transcription of mi. RNA gene produces primary mi. RNA transcripts, which is processed in nucleus by a RNAase called Dorsha. Dorsha acts with a nuclear double stranded RNA binding protein called DGCR 8 and converts primary mi. RNA transcript into pre-mi. RNA. Pre- mi. RNA is transported to cytosol by a transport protein (exportin 5). Dicer (cytoplasmic enzyme) does the additional cutting of pre-mi. RNA to produce mi-RNA duplex, i. e. double stranded mi. RNA. This double strand unwinds and one strand of this duplex is incorporated into multiprotein complex called RNA induced silencing complex (RCIS), which help in gene regulation.# Base-pairing between the mi. RNA strand and its target m. RNA (messenger RNA) directs RISC to either cause m. RNA cleavage or repress its translation. In this way, the gene from which the target was derived is silenced (at a post-transcription level). ii) Small interfering RNAs (si. RNAs)# si. RNAs work in similar manner as mi. RNA. Unlike mi. RNA, si. RNA precursors are introduced by investigators into cells.# si. RNA are becoming powerful tools for studying gene function and may in the future be used therapeutically to silence specific genes, such as oncogenes, whose products are involved in neoplastic transformation",
         "cop": 3,
@@ -1911,32 +1274,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Stop codons are all except -",
-        "exp": "Ans. is 'd' i. e., UGG* Out of 64 codons, 3 are stop codons. The three stop codons are UGA, UAG, UAA.# Exception is mitochondrial DNA - in mitochondria, UGA is not a stop codon. It codes for Tryptophan. Instead AGA and AGG act as stop codons in mitochondrial DNA.* 61 codons code for 21 aminoacids. Hence more than one codon code for a single aminoacid. This is called as degeneracy of Codon.# Exceptions are Methionine and Tryptophan. Both Methionine and Tryptophan are coded by only one codon each# Methionine is coded by AUG and Tryptophan is coded by UGG* Hence UGG is not a stop codon. It codes for Tryptophan",
-        "cop": 4,
-        "opa": "UAG",
-        "opb": "UAA",
-        "opc": "UGA",
-        "opd": "UGG",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "8885f990-a0e9-4b9d-a82e-28ec0868a1ed",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about Ribozyme:",
-        "exp": "Ans. A. Peptidyl Transferase activity(Ref: Harper 31/e p396). Ribozyme is RNA with catalytic activity. E. g.: Sn. RNA in Spliceosome-Takes part in splicing of exons and removal of introns. Ribonuclease P--Cuts the RNAPeptidyl Transferase: Peptide Bond formation other options. Cuts the DNA at specific site--Restriction Endonuclease. DNA Synthesis--DNA Polymerase",
-        "cop": 1,
-        "opa": "Peptidyl Transferase activity",
-        "opb": "Cuts DNA at specific site",
-        "opc": "Participate in DNA Synthesis",
-        "opd": "GTPase activity",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "9ce5c8ea-e89d-4909-b689-428e30e5ad91",
-        "choice_type": "multi"
-    },
-    {
         "question": "Met-t. RNA would recognize:",
         "exp": "Ans. AUG(Ref: Harper 31/e page 395). The first AUG sequence after the marker sequence is defined as the start codon. AUG codon binds with met t. RNAI",
         "cop": 1,
@@ -1961,19 +1298,6 @@
         "topic_name": "Molecular Genetics",
         "id": "af5dd0eb-cdcc-4f38-8a63-a581e327d8d7",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following functionally componetent of largest unit of the ribosomes",
-        "exp": "(Catalyzes formation of the peptides) (436 - Lippincott's 4th). Polyribosome {Polysome) is used when several ribosomes simultaneously translate on a singe m. RNA* The large ribosomal subunit catalyzes formation of the peptide bonds that link amino acids residues in a protein.* The small subunit binds m. RNA and is responsible for the accuracy of translation by ensuring correct base- pairing between the codon in the m RNA and the anticodon of the t. RNA",
-        "cop": 3,
-        "opa": "t. RNA",
-        "opb": "m. RNA",
-        "opc": "Catalyze formation of the peptides",
-        "opd": "Formation of the polyribosomes",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Genetics",
-        "id": "26c3e903-15dc-4d01-b815-21f968d37342",
-        "choice_type": "multi"
     },
     {
         "question": "Molecular mimicry is an explanation for -",

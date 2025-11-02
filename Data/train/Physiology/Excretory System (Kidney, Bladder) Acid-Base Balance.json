@@ -1,31 +1,5 @@
 [
     {
-        "question": "How does the distal nephron differ functionally from the proximal tubule?",
-        "exp": "Proximal and distal convoluted tubule The site of action of acetazolamide is the proximal convoluted tubule and the site of action of the thiazides is the distal convoluted tubule. The distal nephron has a negative luminal potential because it is poorly permeable to negatively charged ions. Therefore, when Na+ is reabsorbed, negatively charged ions, primarily Cl-, lag behind, producing a negative intraluminal potential. Although a similar situation occurs in the proximal tubule, the proximal tubule has a higher permeability to Cl- and, therefore, does not develop as large a negative intraluminal potential. The distal nephron is less permeable to hydrogen than the proximal tubule. Aldosterone increases Na+ reabsorption from the distal nephron but has no effect on the proximal tubule. K+ is reabsorbed from the proximal tubule and secreted by the distal nephron. Although the amount of H+ excreted each day is determined by the amount of H+ secreted into the distal nephron, Proximal tubule secretes much more H+ than the distal nephron. However, almost all of the H+ secreted in the proximal tubule is reabsorbed in association with the reabsorption of HCO3-",
-        "cop": 1,
-        "opa": "The distal nephron has a more negative intraluminal potential than the proximal tubule.",
-        "opb": "The distal nephron is less responsive to aldosterone than the proximal tubule.",
-        "opc": "The distal nephron is more permeable to hydrogen ion than the proximal tubule.",
-        "opd": "The distal nephron secretes more hydrogen ion than the proximal tubule does.",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "9e70a91a-f0b2-4df5-bc7a-baad4eb234f1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Ideal substance for measuring GFR should have all characteristics except",
-        "exp": "The Ideal substance to measure GFR is Inulin or following reasons; It is non-toxic; It is freely filterable by the glomeruli; it is not bound to proteins It is neither secreted nor reabsorbed by the tubules; It is not synthesized, stored, or destroyed by the kidney. Thus, Filtered inulin = excreted inulin. Hence, it will give an exact estimate of the GFR. Endogenous creatinine clearance is used most commonly used to estimate the GFR.",
-        "cop": 1,
-        "opa": "Should be secreted in tubules",
-        "opb": "Should be non-toxic",
-        "opc": "Should not remain in the body",
-        "opd": "Should not be protein bound",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "3afe2b18-fcdd-45f6-a8fd-b3c0dfd1fb02",
-        "choice_type": "multi"
-    },
-    {
         "question": "In which of the mentioned segments of a nephron, Na+ reabsorption primarily occurs by the Na+-H+ exchange?",
         "exp": "In the PCT, the apical membrane has Na+/H+-antipoer, which couples H+ secretion with the Na+ movement across the apical membrane. In the TAL of loop of Henle:- The sympoer NKCC moves 1 Na+, 1 K+, 2 Cl- through the apical membrane into the cell. In DCT:- The sympoer is NCC. In the late distal tubule and collecting duct:- Na+diffuses across the apical membrane through the epithelial Na+ channel (ENaC).",
         "cop": 1,
@@ -50,32 +24,6 @@
         "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
         "id": "7db4dc27-09d3-4357-8765-9833cb1c2a79",
         "choice_type": "single"
-    },
-    {
-        "question": "Which set of aerial blood values describes a patient with paially compensated respiratory alkalosis after 1 month on a mechanical ventilator? pH, HCO3- (m. Eq/L), Pco2 (mm Hg) (A) 7. 65, 48, 45 (B) 7. 50, 15, 20 (C) 7. 40, 24, 40 (D) 7. 32, 30, 60 (E) 7. 31, 16, 33",
-        "exp": "The blood values in respiratory alkalosis show decreased Pco2 (the cause) and decreased and by mass action. The is fuher decreased by renal compensation for chronic respiratory alkalosis (decreased HCO3- reabsorption).",
-        "cop": 2,
-        "opa": "A",
-        "opb": "B",
-        "opc": "C",
-        "opd": "D",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "1ff50abc-f7d6-42c2-b7b2-85f7c3324470",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Albumin appearing in urine will be due to-",
-        "exp": "The molecular diameter of the plasma protein albumin is only about 6 nanometers, whereas the pores of the glomerular membrane are thought to be about 8 nanometers (80 angstroms). Albumin is restricted from filtration, however, because of its negative charge and the electrostatic repulsion exeed by negative charges of the glomerular capillary wall proteoglycans.",
-        "cop": 3,
-        "opa": "It is of small size",
-        "opb": "Increase in GFR",
-        "opc": "Loss of charge in glomerulus",
-        "opd": "None of the above",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "44b75100-ffd3-4402-b09c-95cb535840df",
-        "choice_type": "multi"
     },
     {
         "question": "Juxtaglomerular apparatus lies in relation to;",
@@ -117,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The factor/mechanism involved in glomerulotubular balance is:",
-        "exp": "G-T balance refers to the mechanism by which increase in GFR and filtration of Na+ propoionately increases the Na+ (and water) reabsorption. Thus, a constant fraction (67%) of the filtered Na+ and water is reabsorbed from PCT, despite fluctuations in GFR. Mechanism: ~ Increased GFR (and increased filtered load of Na+& water) a increased protein concentration in the glomerular capillary plasma (as the fluid has been filtered out of this plasma) Protein-rich plasma leaves the glomerular capillaries efferent aerioles and enters the peritubular capillaries Colloid Oncotic pressure will increase in peritubular capillaries a increased the solute and water reabsorption by the PCT. Options A & C are involved in tubuloglomerular feedback. Sluggish blood flow in medullary interstitium is the basis for countercurrent exchange by vasa recta.",
-        "cop": 2,
-        "opa": "signalling by macula densa cells",
-        "opb": "Oncotic pressure in peritubular capillaries",
-        "opc": "Contraction of the mesangial cells",
-        "opd": "Sluggish blood flow in medullary interstitium",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "f2a72dc9-5689-41e9-9bc2-2d1967440c49",
-        "choice_type": "multi"
-    },
-    {
         "question": "A major fraction of filtered potassium is absorbed in:",
         "exp": "Potassium is filtered at the glomerulus, reabsorbed & secreted by tubules, and is excreted in urine. Of the total K+ ingested in the diet, 90-95% is excreted. PCT: reabsorbs about 67% of the filtered K+ under most conditions; 20% of the filtered K+ is reabsorbed by the LOH. The two most impoant physiologic regulators of K+ secretion Plasma Aldosterone. Other factors include a Flow rate of the tubular fluid, acid-base balance, glucocoicoids.",
         "cop": 3,
@@ -141,19 +76,6 @@
         "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
         "id": "996d7393-2ace-42af-9b4f-9c23c6f91dc9",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is true regarding urea?",
-        "exp": "Urea Urea transpoed UT1, UT2 {UT- urea transpoer} Urea transpo is under the influence of ADH Contributes to 40 % of interstitial osmolarity Recycled & excreted in a concentrated manner. Urea reabsorption: - Urea is freely filtered 50 % of urea is reabsorbed in the proximal tubule with the reabsorption of water (solvent drag) Its secreted in thin ascending limb of LOH, In the CD, urea is reabsorbed together with water.",
-        "cop": 2,
-        "opa": "Transpoed through aquaporins",
-        "opb": "Re-absorbed in proximal tubule",
-        "opc": "No role in concentration of urine",
-        "opd": "Resorption is independent of ADH",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "176df4d2-4c34-48fe-85c0-98ef4171a220",
-        "choice_type": "multi"
     },
     {
         "question": "Renin is secreted by:",
@@ -234,19 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about the H+ secretion by the PCT is:",
-        "exp": "(C) It is meant for reabsorption of filtered bicarbonate (A) Acidification of urine is done by collecting ducts. H+ secretion in PCT occurs along the concentration gradient. In collecting ducts H+ secretion is against concentration gradient Diffusion trapping occurs in collecting ducts not in PCT. H+ secretion in PCT is meant for reabsorption of bicarbonate. Amount of filtered is calculated by (per unit time) Px x GFRPx = plasma concentration of substance. How much bicarbonate is filtered per unit time is 24meq/lit X 180L/day =4320meq/day Most of this is reabsorbed in PCT HCO3- is ionic. Ionic substances are less diffusible. So, first it is conveed to non-ionic form. For this H+ is secreted by PCT. H+ is secreted in equal amounts of HCO3- (i. e 4320 meq/day) In addition, PCT secretes 80meq/day of H+(: 4320 + 80 =4400meq/day). This is net acid output.",
-        "cop": 3,
-        "opa": "It is for acidification of urine",
-        "opb": "It occurs against the concentration gradient for H+",
-        "opc": "It is meant for reabsorption of the filtered bicarbonate",
-        "opd": "It is an example of diffusion trapping",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "96ccb70c-2ed3-471d-84b2-111da155ac9a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Filtration fraction can be best determined by:",
         "exp": "To calculate the filtration fraction, which is the fraction of plasma that filters through the glomerular membrane, one must first know the RPF (PAH clearance) and the GFR (inulin clearance). FILTRATION FRACTION = GFR(inulin clearance)/RPF(PAH clearance) Inulin and mannitol measure ECF volume Inulin and creatinine both measures GFR, but creatinine is secreted in the tubules hence GFR estimated by creatinine is falsely higher.",
         "cop": 2,
@@ -325,45 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A substance is present in a concentration of 2 mg% in the afferent aeriole and zero mg% in the efferent. True about the substance is:",
-        "exp": "This is only a hypothetical situation. Filtration fraction is about 20%. It means, of the total plasma passing through the glomerulus per unit time, about 20% is filtered out. If a substance has zero concentration in the efferent aeriole, it means all of that substance was freely and completely filtered out in the plasma that has formed the Glomerular Filtrate.",
-        "cop": 1,
-        "opa": "It is freely filtered at the glomerulus",
-        "opb": "Secreted in coical nephron",
-        "opc": "Absorbed in PCT",
-        "opd": "Impermeable in the loop of Henle",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "8563e92e-8b47-484a-b20b-3dedf34e20d9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Use the following laboratory values find the best option to describe acid-base disorder: Plasma pH = 7. 12 Plasma Pco2 = 60 mm Hg Plasma = 19 m. Eq/L",
-        "exp": "pH < 7. 4, thus acidosis Pco2 > 40 mm Hg, thus respiratory acidosis HCO3- < 24 m. Eq/L, thus metabolic acidosis",
-        "cop": 3,
-        "opa": "Respiratory acidosis with renal compensation",
-        "opb": "Metabolic alkalosis with respiratory compensation",
-        "opc": "Combined metabolic and respiratory acidosis",
-        "opd": "Combined metabolic and respiratory alkalosis",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "46310e77-c8b2-43ba-a14a-f12d539702d8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Dorsal root nerve fibre injury at sacral region of spinal cord can cause:",
-        "exp": "Atonic bladder: Caused by destruction of sensory nerve fibers, thereby preventing transmission of stretch signals from the bladder. Instead of emptying periodically, the bladder fills to capacity and overflows a few drops at a time through the urethra. This occurrence is called overflow incontinence. A common cause of atonic bladder is crush injury to the sacral region of the spinal cord. Automatic bladder: Caused by spinal cord damage above the sacral region, with intact sacral cord segment Micturition reflexes are no longer controlled by the brain Periodic (but unannounced) bladder emptying occurs Neurogenic bladder: paial damage in the spinal cord or the brain stem interrupts most of the inhibitory signals. Facilitative impulses passing continually down the cord keep the sacral centres so excitable that even a small quantity of urine elicits an uncontrollable micturition reflex, thereby promoting frequent urination.",
-        "cop": 1,
-        "opa": "Atonic bladder",
-        "opb": "Neurogenic bladder",
-        "opc": "Automatic Bladder",
-        "opd": "Any of the above",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "c7d2c3d9-6979-48a5-bd6f-36408fb495be",
-        "choice_type": "multi"
-    },
-    {
         "question": "1, 25-dihydroxycholecalciferol is secreted by:",
         "exp": "It is the most active form of vitamin D(1, 25-dihydroxycholecalciferol) / (calcitriol) When UV rays fall on the skin, 7-dehydrocholesterol in the skin is conveed into cholecalciferol. It goes to the liver, a hydroxyl group is attached to it, 25-(OH) cholecalciferol is formed. It then travels to kidneys. In the cells of the PCT, one more hydroxyl group is attached, to form the active metabolite 1, 25-dihydroxycholecalciferol. Vit. D is considered a steroid hormone. It acts on the intestines, kidneys, and bone. Its chief function is to increase Ca2+ and PO42- in the ECF.",
         "cop": 3,
@@ -388,19 +258,6 @@
         "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
         "id": "c35009bf-f86d-44ee-9d80-b480870684a4",
         "choice_type": "single"
-    },
-    {
-        "question": "Renal filtration fraction is calculated as",
-        "exp": "Renal filtration fraction= GFR/(RPF) The filtration fraction, is normally 0. 16-0. 20. The GFR varies less than the RPF. When there is a fall in systemic blood pressure, the GFR falls less than the RPF because of efferent aeriolar constriction, and consequently the filtration fraction rises.",
-        "cop": 2,
-        "opa": "Renal plasma flow (RPF)/GFR",
-        "opb": "GFR/RPF",
-        "opc": "(RPF x GFR)/ Total Blood flow",
-        "opd": "None of the above",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "9fb8a0c3-205a-4d2d-a713-5bd5bb557805",
-        "choice_type": "multi"
     },
     {
         "question": "Which change tends to increase GFR?",
@@ -507,19 +364,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Concentrating ability of kidney is impaired if:",
-        "exp": "Concentrating ability of kidney is based on two factors: Creating hyperosmolarity of medullary interstitium, Role of ADH (reabsorbs H2O & concentrate urine) To achieve hyperosmolarity in medullary interstitium, by 15% juxta-medullary nephrons, two things come into effect Counter current multiplier mechanism occur at thick ascending loop of Henle. It is permeable to solutes & impermeable to H2O. So, it removes solutes, & interstitium becomes hyperosmolar / hypeonic Counter current exchange mechanism: Hypeonicity is created by counter-current multiplier mechanism. It is maintained by vasa recta by viue of their sluggish blood flow.",
-        "cop": 4,
-        "opa": "There is damage to the glomerulus",
-        "opb": "There is excess secretion of ADH",
-        "opc": "There is vigorous activity of Na+-K+-pump",
-        "opd": "Blood flow through the vasa recta is increased substantially",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "07a7eca9-d861-415c-bf24-0ccb2e81e9f6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Angiotensin-2 mainly act by -",
         "exp": "Angiotensin-II has several effects that make the kidneys retain salt and water, It constricts the efferent aerioles, which has two effects on peritubular capillary dynamics that increase sodium and water reabsorption. Efferent aeriolar constriction reduces peritubular capillary hydrostatic pressure, which increases net tubular reabsorption, especially from the proximal tubules. Efferent aeriolar constriction, by reducing renal blood flow, raises filtration fraction in the glomerulus and increases the concentration of proteins and the colloid osmotic pressure in peritubular capillaries, This mechanism increases the resorptive force at the peritubular capillaries and raises tubular reabsorption of sodium and water.",
         "cop": 3,
@@ -531,19 +375,6 @@
         "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
         "id": "76e6d3a7-9b8c-4d40-8919-31f5fba7be6d",
         "choice_type": "single"
-    },
-    {
-        "question": "Ureteric peristalsis is due to",
-        "exp": "Ureteric peristaltic contractions occur 1 to 5 times per minute. There are specialized smooth muscle pacemaker cells in region of renal pelvis; the contractions arise here. Ureters are innervated by sympathetic and parasympathetic nerves. Peristaltic waves may be modified by the action of splanchnic nerves (upper poion of ureter) and by hypogastric plexus (lower poion). Ureteral smooth muscle acts as a functional syncytium, it is an example of unitary smooth muscle. Mechanical stimuli (stretch) or chemical stimuli may trigger APs which are of \"plateau\" type.",
-        "cop": 4,
-        "opa": "Sympathetic innervation",
-        "opb": "Parasympathetic innervation",
-        "opc": "Both (A) and (B)",
-        "opd": "Pace maker activity of the smooth muscle cells in the renal pelvis",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "f0b1ed89-469a-44e9-bcca-cd1084b7dcdc",
-        "choice_type": "multi"
     },
     {
         "question": "According to myogenic hypothesis of renal autoregulation, the afferent aerioles contract due to -",
@@ -624,32 +455,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about free-water clearance is",
-        "exp": "Free-water clearance denotes the volume of solute-free water that must be removed from, or added to, the flow of urine (in ml/min.) to make it isosmotic with plasma. CH20 = V (1 - Uosm/Posm) V is urine volume per unit time (ml/min.); Uosm and Posm are osmolalities of urine and plasma respectively. During Diuresis (when ADH is absent), Uosm < Posm, and their ratio is less than 1. CH2O will be positive. The maximum CH2O is 15-20 L/day or 10-15 ml/min. During Anti-diuresis (when ADH is present), Uosm > Posm, and their ratio is more than 1. CH2O will be negative; water is being conserved. Thus, option A is correct. * Aldosterone regulates total body Na+ content. It causes Na+ and water retention. * Furosemide or loop diuretics inhibit NKCC transpoer (Na+/K+/2 Cl- cotranspoer) in thick ascending limb. This increases Na+ delivered to collecting ducts. Na+ reabsorption at this site will cause K+ secretion; K+ is lost in the urine. Thus, it is not a free-water clearance. * In heart failure or renal failure, very little free water can be generated even if the urine is dilute because the GFR is decreased. Hence option D is not correct.",
-        "cop": 1,
-        "opa": "Regulated by ADH",
-        "opb": "Decreased by aldosterone",
-        "opc": "Increased by furosemide",
-        "opd": "Increased in heart failure",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "384255e5-9242-4355-a32e-586378a9b107",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In a cystometrogram, La. Place's law has application at:",
-        "exp": "Since bladder is hollow viscous, Laplace law is applicable at any volume in the bladder But to be precise, the real applicability of Laplace's law is in phase-Ib Cystometrogram, is pressure volume relationship in urinary bladder. Phase Ia = bladder is filled up to 100ml Phase Ib = bladder is filled up to 100-400ml = Laplace's law is applicable. From 100-400ml | in vol, tension of the bladder wall increases so does the radius, So the pressure remain the same. Beyond that point is Phase II, radius cannot increase fuher but bladder wall tension goes on increasing beyond 400ml thus, pressure increases.",
-        "cop": 2,
-        "opa": "Phase Ia (less than 100 mL in bladder)",
-        "opb": "Phase Ib (100-400 mL in bladder)",
-        "opc": "Phase II (more than 450 mL in bladder)",
-        "opd": "All the phases (any volume of urine in bladder)",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "e1cdd5c0-1cb1-4d31-bdd7-d919dcf73370",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following condition is associated with hypokalemic metabolic alkalosis with hypertension:",
         "exp": null,
         "cop": 1,
@@ -689,19 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "PCT absorbs all except:",
-        "exp": "PCT reabsorbs all of the filtered glucose and amino acids. PCT reabsorbs largest fraction (about 67%) of the filtered Na+, K+, Ca2+, Cl-, HCO3-, and water H+ is secreted by the PCT; it is for the re-absorption of the filtered HCO3-. Fluid at the end of the PCT is always Iso-osmotic to plasma. Glomerulotubular balance in the proximal tubule:- This phenomenon tends to minimize the effects of a fluctuating GFR on Na+ and water excretion, which promotes a constant plasma volume. It maintains Constant fractional reabsorption (about 67%) of the Filtered Na+ and water, even if the GFR varies.",
-        "cop": 3,
-        "opa": "Sodium",
-        "opb": "Glucose",
-        "opc": "Hydrogen ions",
-        "opd": "Amino acids",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "1fc5ab9e-2758-41ad-b0d2-cbd74af28ee9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Tubuloglomerular feedback is initiated by delivery of:",
         "exp": "- The rate of Na. Cl delivery to the distal nephron significantly influences the RBF and GFR; the mechanism is called Tubuloglomerular (TG) feedback. The mechanism is based on 3 components: (i) A sensor: Cells in the macula densa. (ii) A signal: Na. Cl delivery to the distal tubule. (iii) An effector: Vascular smooth muscle cells within the wall of the afferent aeriole. When filtration increases, the increased Na. Cl delivery to the macula densa triggers vasoconstriction of the afferent aeriole. This results in a decrease in RBF and hence a decrease in GFR, reducing the Na. Cl delivery to the macula densa/distal tubules. The vasoconstriction is thought to be mediated by adenosine. If GFR and Na. Cl delivery to distal tubule are decreased, a decrease in ATP and adenosine formation occurs. There is the release of NO that produces vasodilatation, causing increased RBF and GFR. As more Na. Cl enters through the NKCC-2 transpoer located in the apical membrane (TAL), it stimulates the release of ATP through ATP-conducting ion channels located in the basolateral membrane of macula densa cells. This results in the opening of Ca2+ channels and an increase in intracellular, resulting in vasoconstriction and fall in GFR. Loop diuretics are known to blunt the TG feedback due to their action on the NKCC transpoer.",
         "cop": 3,
@@ -713,32 +505,6 @@
         "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
         "id": "cdc9eb94-3316-4421-98c0-c1be3c715127",
         "choice_type": "single"
-    },
-    {
-        "question": "True about Anion Gap:",
-        "exp": "The cation normally measured is Na+, and the anions are usually Cl- and HCO3-. The \"anion gap\" is the difference between unmeasured anions and unmeasured cations and is estimated as Normal range: 8-16 m. Eq/L Increase in chloride ion will decrease anion gap Increased Anion Gap (Normochloremia) Normal Anion Gap (Hyperchloremia) Diabetes mellitus ketoacidosis) Diarrhea Lactic acidosis Renal tubular acidosis Chronic renal failure Carbonic anhydrase inhibitors Aspirin (acetylsalicyclic acid) poisoning Addison's disease Methanol poisoning Ethylene glycol poisoning Starvation",
-        "cop": 1,
-        "opa": "It is difference between unmeasured anions and unmeasured cations",
-        "opb": "Normal value is 20 m. Eq/L",
-        "opc": "In Diarrhoea anion gap is increased",
-        "opd": "Anion gap will increase if increases",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "46347c82-002b-463c-a432-b5d3c011189e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In a person with normal kidneys and normal lungs who has chronic metabolic acidosis, you would expect to find all of the following, compared with normal, except:",
-        "exp": "Chronic metabolic acidosis: is, by definition, associated with Decreased HCO3- Increased excretion of NH4. Cl occurs with renal compensation for the acidosis Respiratory compensation for the acidosis increases the ventilation rate, resulting in Decreased plasma Pco2.",
-        "cop": 4,
-        "opa": "Increased renal excretion of NH4. Cl",
-        "opb": "Decreased urine pH",
-        "opc": "Decreased urine HCO3- excretion",
-        "opd": "Increased plasma HCO3- concentration",
-        "subject_name": "Physiology",
-        "topic_name": "Excretory System (Kidney, Bladder) Acid-Base Balance",
-        "id": "3876ed8e-09ff-4974-a7c4-b9130d43ec0a",
-        "choice_type": "multi"
     },
     {
         "question": "If a substance \"X\" has more renal clearance than the GFR, it means:",

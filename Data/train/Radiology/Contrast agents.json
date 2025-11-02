@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are features of a normal venous doppler except?",
-        "exp": "Normal Venous doppler is Monophasic with Respiratory and Cardiac Phasicity. High Resistance Peripheral Aeries show a Triphasic pattern.",
-        "cop": 1,
-        "opa": "Triphasic pattern",
-        "opb": "Flow Ceases with Valsalva",
-        "opc": "Flow Augmentation with Distal Compression",
-        "opd": "Compressibility",
-        "subject_name": "Radiology",
-        "topic_name": "Contrast Agents",
-        "id": "d698c0ac-e92d-4364-a184-0e6fd6c1a18a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is oral contrast agent?",
         "exp": "Sono Rx is a oral ultrasound contrast agent Other ultrasound contrast agents Given in the other options are used intravenously",
         "cop": 3,
@@ -167,18 +154,5 @@
         "topic_name": "Contrast Agents",
         "id": "6d452dcf-a44a-41f5-b116-d53f0a3e5488",
         "choice_type": "single"
-    },
-    {
-        "question": "Radiocontrast is contraindicated in all except-",
-        "exp": "Ans. is 'd' i. e., Obesity o Renal failure and dehydration are risk factors for contrast induced nephropathy. Metformin causes increase risk of developing contrast induced nephropathy and subsequent lactic acidosis \"___Genitourinary' radiology. Adverse reactions to radiocontrast agentso Two important reactions to radiocontrast agents are: -Acute non-renal adverse reaction These may be of two types: -Allergic/Anaphylactic: Non IgE mediated anaphylactic reaction e. g., Tachycardia with hypotension, urticaria, and bronchospasm. Vasomotor/vasovagal reaction: e. g.. Bradycardia. Renal reaction: Contrast induced nephropathy: - Contrast media are excreted by Kidney and contrast media can precipitate renal failure. The risk factors for contrast induced nephropathy are# Renal insufficiency# Nephrotic syndrome# Transplanted kidney# Diabetes# Concomitant hypotension# Hyperuricemia# Old age# Medications (NSAIDs, aminoglycoside)# Proteinuria# Dehydration# Hypertension# Anemia# Patient on metformin",
-        "cop": 4,
-        "opa": "Renal failure",
-        "opb": "Patient on metformin",
-        "opc": "Dehydration",
-        "opd": "Obesity",
-        "subject_name": "Radiology",
-        "topic_name": "Contrast agents",
-        "id": "7a734608-5398-4531-b9ff-ae3e9d3cf273",
-        "choice_type": "multi"
     }
 ]

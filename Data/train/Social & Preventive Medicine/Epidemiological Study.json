@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about cross section study-",
-        "exp": "Ans. is 'd' i. e., All of the above Cross - sectional studieso Cross sectional study is the simplest form of an observational study. o It is also known as prevalence study. o It is based on a single examination of a cross - section of population at one point of timeo Results of this examination can be projected on the whole populationo Cross-sectional study tells about the distribution of a disease rather than its etiology. o Cross-sectional studies can be thought of as providing a snapshot of the frequency and characteristic of a disease in a population at a particular point in timeo Cross-sectional study is more useful for chronic diseaseo As population is studied at once, no follow-up is required.",
-        "cop": 4,
-        "opa": "Prevalence study",
-        "opb": "Useful for chronic disease",
-        "opc": "Simple study",
-        "opd": "All of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "da0e97ae-f0b3-42eb-aeee-f8c9b8d3892c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Selection bias can be eliminated by?",
         "exp": "ANSWER: (A) Randomization. REF: Park 20th edition page 68, 69, 70. Three key procedures are used to minimize bias in experimental studies: Randomization (against selection bias, blinding (against assessment bias) and a priori definition of the statistical analysis i. e before the results are known (against the analysis bias)(REF: Clinical Research Informatics by Rachel L. Richesson, James E. Andrews Page 68). Two strategies are used to reduce selection bias: allocation concealment and randomization, (REF: Textbook of Interventional Neurology by. Adnan I. Qureshi, Alexandros L. Georgiadis 2011 edition Page 456)",
         "cop": 1,
@@ -37,45 +24,6 @@
         "topic_name": "Epidemiological Study",
         "id": "3334509e-acc1-4ae9-b186-780f42edcc16",
         "choice_type": "single"
-    },
-    {
-        "question": "Berkesonian bias is due to?",
-        "exp": "ANSWER: (C) Different rates of admission to hospital due to different diseases. REF: Park 20th edition page 68, 69, style=\"color: rgba(0, 0, 0, 1); font-family: Times New Roman, Times, serif\">, 18. pdf, http://carcin. oxford jour nals. org/content/19/12/2063. full, pdf. Bias is any systematic error in the determination of the association between the exposure and disease. A statistic is biased if it is calculated in such a way that it is systematically different from the population parameter of interest. The following lists some types of, or aspects of, bias which should not be considered mutually exclusive: Confounding bias: In statistics, a confounding variable (also confounding factor, lurking variable, a confound, or confounder) is an extraneous variable in a statistical model that correlates (positively or negatively) with both the dependent variable and the independent variable. This bias is removed by matching in case control studies. CONFOUNDINGNON CONFOUNDINGCigarette Smoking------ Pre Cancerous Lung Cells ------ Lung Cancer. II. Selection bias: The error introduced when the study population does not represent the targetpopulation. Examples of selection bias are. Sampling bias is systematic error due to a non-random sample of a population. It is mostly classified as a subtype of selection bias, sometimes specifically termed sample selection bias, but some classify it as a separate type of bias. Healthcare access bias: when the patients admitted to an institution do not represent the cases originated in the community. Berkesonian bias: first described by Berkson in 1946 for case-control studies. It is produced when the probability of hospitalisation of cases and controls differ. Neyman bias (synonyms: incidence-prevalence biast selective survival bias): This type of bias can occur in cross-selectional and case-control studies when asymptomatic, mild, clinically resolved, or fatal cases are inadvertently excluded from the case group because the selected cases are examined some time after the disease process has already begun (i. e, looking at prevalent versus incident cases). Healthy worker effect: Volunteer bias is another type of selection bias. It is due to the fact that those individuals who take part in epidemiologic studies tend to be systematically different from those who do not. 7. Loss to follow-up bias is a form of selection bias that may occur when there are significant losses to follow-up in ongoing cohort and experimental studies. If the final sample is systematically different from the original or target population with regard to exposure frequency or outcome susceptibility, then spurious associations can result. III. Information/Observation bias/ Measurement Bias: occurs when informationis collecteddifferently between two groups, leading to an error in the conclusion of the association. Wheninformation is incorrect, there is misclassification. Examples of Information Bias are. Memory/Recall bias: When cases and control are asked questions about their past history, it may be more likely for the cases to recall the existence of certain event or factors than the control who are healthy persons. Recall bias is a type of measurement bias that is very common in case-control studies. It can be reduced using blinding. Interviewer bias: Interviewer knows the status of the subjects before the interview process. Interviewer may probe differently about exposures in the past if he or she knows the subjects as cases. Interviewer bias is a type of measurement bias that can arise in all types of epidemiologic studies. It can be reduced using blinding. Lead time bias is the bias that occurs when two tests for a disease are compared, and one test (the new, experimental one) diagnoses the disease earlier, but there is no effect on the outcome of the disease--it may appear that the test prolonged survival, when in fact it only resulted in earlier diagnosis when compared to traditional methods. Hawthorne effect: described in the 1920s in the Hawthorne plant of the Western Electric Company (Chicago, IL). It is an increase in productivity--or other outcome under study-- in participants who are aware of being observed. Surveillance bias/Detection bias: The group with the known exposure or outcome may be followed more closely or longer than the comparison group. Misclassification bias: When subjects are erroneously classified with respect to either exposure or disease status. Differential misclassification occurs when the level of misclassification differs between the two groups. Random or Non-differential misclassification occurs when the level of misclassification does not differ between the two groups.",
-        "cop": 3,
-        "opa": "Presence of confounding factors in both cases & controls",
-        "opb": "Questioning the cases more thoroughly as compared to controls",
-        "opc": "Different rates of admission to hospital due to different diseases",
-        "opd": "Better recall by the cases as compared to controls",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "ba4ced04-df09-468d-992f-5ef4517d9620",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Migration studies explains -",
-        "exp": "Ans. is 'b' i. e., Genetic factors affecting disease o Migration study (migrant study) is a method to evaluate role of possible genetic and environmental factors in the occurrence of disease in a population whose incidence varies in different Geographic areas.",
-        "cop": 2,
-        "opa": "Distribution of disease",
-        "opb": "Genetic factors affecting disease",
-        "opc": "Social status of immigrants",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "20bf77ce-222e-40e8-95e1-3c6ffed1ace1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Point source epidemic is:",
-        "exp": "Ans. (b) Sharp rise and sharp fall in number of cases. Ref: K. Park 23rd ed. / 64, 93. Types of Epidemics* Point source or single exposure epidemics# Sharp rise and sharp fall in number of cases# Clustering of cases in narrow spectrum of time# All cases develop within one incubation period of disease.# Ex: Food poisoning, measles, chicken pox, Bhopal gas tragedy* Common source, continuous or repeated exposure epidemics:# Sharp rise in number of cases# Fall in number of cases is interrupted by secondary waves/peaks# Ex: Contaminated well in a village, Sex worker in a gonorrhea outbreak* Propagated epidemics:# Gradual rise and gradual fall over a long time (tail off)# Results from person to person transmission# Transmission continues till number of susceptible is depleted or they are no longer exposed to infected individuals# Ex: HIV, Tuberculosis. Also Know* Endemic: constant presence of a disease in a defined geographical area* Pandemic: epidemic affecting a large population, occurring over a large geographical area.* Sporadic: scattered cases. They are widely separated in space and time and shows little or no connection.",
-        "cop": 2,
-        "opa": "Gradual rise and gradual fall in number of cases",
-        "opb": "Sharp rise and sharp fall in number of cases",
-        "opc": "Sharp rise and fall is interrupted by secondary waves",
-        "opd": "Gradual rise and fall is interrupted by secondary waves",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "86cb310a-0796-4a6f-9398-57972fc7ec11",
-        "choice_type": "multi"
     },
     {
         "question": "Point prevalence of a chronic disease is studied best by:",
@@ -91,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Cause to effect progression is seen in all EXCEPT:",
-        "exp": "ANSWER: (A) Case control study. REF: Park 20th edition page 67 Repeat in December 2011. Cause to effect (disease) = prospective study (cohort study). Effect (disease) to cause = retrospective study (case control study)RCT and ecological studies are also prospective studies",
-        "cop": 1,
-        "opa": "Case control study",
-        "opb": "Ecological study",
-        "opc": "Cohort study",
-        "opd": "Randomized control trial",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "21badb27-1194-4355-b9a1-df2a4c4322ae",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hypothesis is not tested by?",
         "exp": "ANSWER: (A) Descriptive studies. REF: Park 20th ed p. 66. The objective of analytical studies is to test the hypothesis and not formulate it. The objective of descriptive studies is to formulate hypothesis and not test it.",
         "cop": 1,
@@ -115,32 +50,6 @@
         "topic_name": "Epidemiological Study",
         "id": "1aa2f5fe-c6e3-4b8f-beeb-2776f740e106",
         "choice_type": "single"
-    },
-    {
-        "question": "Study suitable for rare diseases -",
-        "exp": "Ans. is 'b' i. e., Case-control study Main differences between case control and cohort studies. Case control study. Cohort study1. Proceeds from '\"effect to cause\". Proceeds from \"cause to effect\". 2. Starts with the disease. Starts with people exposed to risk factor or suspected cause. 3. Tests whether the suspected cause occurs more frequently in those with the disease than among those without the disease. Tests whether disease occurs more frequently in those exposed, than in those not similar exposed. 4. Usually the first approach to the testing of a hypothesis, but also useful for exploratory studies. Reserved for testing of precisely formulated hypothesis. 5. Involves fewer number of subjects. Involves larger number of subjects. 6. Yields relatively quick results. Long follow-up period often needed, involving delayed results. 7. Suitable for the study of rare diseases. Inappropriate when the disease or exposure under investigation is rare. 8. Generally yields only estimate of RR (odds ratio). Yields incidence rates, RR as well as AR. 9. Cannot yield information about diseases other than that selected for study. Can yield information about more than one disease outcome. 10. Relatively inexpensive. Expensive.",
-        "cop": 2,
-        "opa": "Cohort study",
-        "opb": "Case-control study",
-        "opc": "Both of the above",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "8622bc4c-3e6e-4e5e-935b-879b5bf31553",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about Case control study EXCEPT:",
-        "exp": "Ans. (a) Attribute risk. Ref.: K. Park 23rd ed. / 71-72. Case control study is often called retrospective study. The 4 Basic Steps of Case Control Study* Matching* Measurement of exposure* Selection of cases and controls* Analysis and interpretation (relative risk). Relative Risk =Incidence among exposed--------------------------Incidence among non-exposed",
-        "cop": 1,
-        "opa": "Attribute risk",
-        "opb": "Measurement of exposure",
-        "opc": "Matching",
-        "opd": "Odds ratio",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "39771fa1-e6e1-4217-a5d9-f9053dcbb904",
-        "choice_type": "multi"
     },
     {
         "question": "Following design is of which epidemiological study?",
@@ -156,32 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Disease seen all over the world:",
-        "exp": "Ans. (c) Pandemic. Ref: K. Park 23rd ed. / 93, 21sted. Z88-89* ENDEMIC: constant presence of a disease or an infectious agent within a given geographical area or a population group.* EPIDEMIC: sudden occurrence and rise of a particular health related behaviour/event which is in excess of \"expected occurrence\"* SPORADIC: Scattered cases, which occur irregularly, haphazardly from time to time. These cases are few and separated widely in space and time that they show little or no connection with each other, nor a recognizable common source of infection.* PANDEMIC: An epidemic usually affecting a large proportion of population, occurring over a wide geographic area such as a section of nation, the entire nation, a continent or the world.",
-        "cop": 3,
-        "opa": "Endemic",
-        "opb": "Epidemic",
-        "opc": "Pandemic",
-        "opd": "Sporadic",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "681dd307-9d6f-4719-b1bb-ebc8cc76df6d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "False statement regarding point source epidemic is:",
-        "exp": "Ref: Park's Textbook of Preventive and Social Medicine, 22nd edition. Page 62. Explanation: Types of Epidemics. Common source epidemic. Propagated epidemic. Slow (Modern) epidemic. Point source2 Multiple exposure1 Person to person2 Arthropod vector3 Animat reservoir POINT SOURCE EPIDEMICCommon exposure. Single source epidemic. Cases clustered around the source. Incubation period is same (since time and source are same). All cases develop within single incubation period. No secondary waves (since single source and at the same time). Point source epidemic is: o Explosive (Clustering of cases within narrow- interval of time)o Rises rapidlyo Falls off rapidlyo Only single peako No secondary waves. Median incubation period: Time required for 50% of cases to occur following exposure. Examples: o Bhopal gas tragedyo Minamata disease in Japano Chernobyl tragedy. Epidemic Curve of Point Source Epidemic. PROPAGATED EPIDEMICMost often infectious in origin. Person to person transmission possible (e. g. hepatitis A. Polio). Does not occur in single incubation period. Gradual rise and fall. No single peak - Secondary waves are always present. Depends on: o Herd immunityo Contact statuso Secondary attack rate. ExamplesA. Continuous or Repeated Exposure. Women with genital herpes having multiple sexual partners. A well with contaminated water. B. Propagated Epidemic. Epidemic of cholera. Epidemic of hepatitis A. Propagated Epidemic Curve",
-        "cop": 1,
-        "opa": "Many secondary waves",
-        "opb": "Cases occur in clusters",
-        "opc": "All cases occur within one incubation period",
-        "opd": "Rapid rise and fall",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "408178fa-cc21-4f19-b4fc-c1cf714d7c7c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Study useful for rare disease -",
         "exp": "Ans. is 'b' i. e., Case control study Advantages & Disadvantages of Case-contral study. ADVANTAGES1. Relatively easy to carry out. 2. Rapid and inexpensive (compared with cohort studies)3. Require comparatively few subjects. 4. Particularly suitable to investigate rare diseases or diseases about which little is known. 5. No risk to subjects6. Allows the study of several different aetiological factors (e. g., smoking, physical activity and personality characteristic in myocardial infarction). 7. Risk factors can be identified. Rational prevention and control programmes can be established. 8. No attrition problems, because case control studies do not require follow-up of individuals into the future. 9. Ethical problems minimal. DISADVANTAGES1. Problems of bias relies on memory or past records, the accuracy of which may be uncertain; validation of information obtained is difficult or sometimes impossible. 2. Selection of an appropriate control group may be difficult. 3. We cannot measure incidence, and can only estimate the relative risk (odds ratio) but not the actual relative risk.. 4. Do not distinguish between causes and associated factors. 5. Not suited to the evaluation of therapy or prophylaxis of disease. 6. Another major concern is the representativeness of cases and controls.",
         "cop": 2,
@@ -193,19 +76,6 @@
         "topic_name": "Epidemiological Study",
         "id": "620706d2-9b38-4007-8e7d-c276ba0396e6",
         "choice_type": "single"
-    },
-    {
-        "question": "When an association between two variables is explained by a third variable due to indirect association, it is called as?",
-        "exp": "ANSWER: (B) Confounding bias. REF: Park 20th edition page 68, 69, style=\"color: rgba(0, 0, 0, 1); font-family: Times New Roman, Times, serif\">, s/Lectur e 18. pdf, http://carcin. oxfordjournals. org/content/19/12/2063. full. pdf. Bias is any systematic error in the determination of the association between the exposure and disease. A statistic is biased if it is calculated in such a way that it is systematically different from the population parameter of interest. The following lists some types of, or aspects of, bias which should not be considered mutually exclusive: Confounding bias: In statistics, a confounding variable (also confounding factor, lurking variable, a confound, or confounder) is an extraneous variable in a statistical model that correlates (positively or negatively) with both the dependent variable and the independent variable. This bias is removed by matching in case control studies. Selection bias: The error introduced when the study population does not represent the target population. Examples of selection bias are. Sampling bias is systematic error due to a non-random sample of a population. It is mostly classified as a subtype of selection bias, sometimes specifically termed sample selection bias, but some classify it as a separate type of bias. Healthcare access bias: when the patients admitted to an institution do not represent the cases originated in the community. CONFOUNDINGNON CONFOUNDINGCigarette Smoking - Pre Cancerous Lung Cells - Lung Cancer. Berkesonian bias: first described by Berkson in 1946 for case-control studies. It is produced when the probability of hospitalisation of cases and controls differ. Neyman bias (synonyms: incidence-prevalence bias, selective survival bias): This type of bias can occur in cross-selectional and case-control studies when asymptomatic, mild, clinically resolved, or fatal cases are inadvertently excluded from the case group because the selected cases are examined some time after the disease process has already begun (i. e. looking at prevalent versus incident cases), Healthy worker effect: Volunteer bias is another type of selection bias. It is due to the fact that those individuals who take part in epidemiologic studies tend to be systematically different from those who do not. Loss to follow-up bias is a form of selection bias that may occur when there are significant losses to follow-up in ongoing cohort and experimental studies. If the final sample is systematically different from the original or target population with regard to exposure frequency or outcome susceptibility, then spurious associations can result. III Jnformation/Observation bias/ Measurement Bias: occurs when information is collecteddifferently between two groups, leading to an error in the conclusion of the association. Wheninformation is incorrect, there is mis classification. Examples of Information Bias are. Memory/Recall bias: When cases and control are asked questions about their past history, it may be more likely for the cases to recall the existence of certain event or factors than the control who are healthy persons. Recall bias is a type of measurement bias that is very common in case-control studies. It can be reduced using blinding. Interviewer bias: Interviewer knows the status of the subjects before the interview process. Interviewer may probe differently about exposures in the past if he or she knows the subjects as cases. Interviewer bias is a type of measurement bias that can arise in all types of epidemiologic studies. It can be reduced using blinding. Lead time bias is the bias that occurs when two tests for a disease are compared, and one test (the new, experimental one) diagnoses the disease earlier, but there is no effect on the outcome of the disease--it may appear that the test prolonged survival, when in fact it only resulted in earlier diagnosis when compared to traditional methods. Hawthorne effect: described in the 1920s in the Hawthorne plant of the Western Electric Company (Chicago, IL). It is an increase in productivity--or other outcome under study-- in participants who are aware of being observed. Surveillance bias/Detection bias: The group with the known exposure or outcome may be followed more closely or longer than the comparison group. Misclassification bias: When subjects are erroneously classified with respect to either exposure or disease status. Differential misclassification occurs when the level of misclassification differs between the two groups, Random or Non-differential misclassification occurs when the level of misclassification does not differ between the two groups.",
-        "cop": 2,
-        "opa": "Cognitive bias",
-        "opb": "Confounding bias",
-        "opc": "Berkesonian bias",
-        "opd": "Indirect bias",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "0650e106-7e54-4fca-943c-3626d6fece86",
-        "choice_type": "multi"
     },
     {
         "question": "Retrospective study is -",
@@ -336,32 +206,6 @@
         "topic_name": "Epidemiological Study",
         "id": "65458033-204d-4f4e-a9dd-16f1e22d38b8",
         "choice_type": "single"
-    },
-    {
-        "question": "Observational study is all except -",
-        "exp": "Ans. is 'c' i. e., RCT [Ref: Park 22nd/ep. 60 & 2. FVe p. 59; Modern epidemiology 3'd/e p. 56\\Epidemiological studieso The primary concern of the epidemiologist is to study disease occurence in people, o The epidemiologist employs carefully designed research strategies to explore disease etiology, o Epidemiological studies may be of following types -Study. Unit of study1. Observational studiesA) Descriptive studies (formation of hypothesis)i) Case reportsii) Case seriesB) Analytic studies (testing of hypothesis)i) Case - control or case - referenceii) Cohort or follow-upiii) Ecological or correlational studyiv) Cross-sectional or prevalence study Individuals. Individuals. Population. Individuals2. Experimental / intervention studies (testing of hypothesis)i) Randamized controlled / clinical trialsii) Field trials or community intervention studiesiii) Community trialsiv) Animal studies. Patients. Healthy people. Communitieso In observational studies, the investigator measures but does not intervene and allow nature to take its own course - Epidemiologist studies the determinant of disease and its natural history. So that etiology of disease can be established and preventive & control measure can be taken. Descriptive studies are used to formulate a hypothesis. Analytic studies are used for testing the hypothesiso In experimental studies, epidemiologist actively intervene to change a disease determinant or progression of disease. o Experimental studies are used for testing hypothesis.",
-        "cop": 3,
-        "opa": "Case control",
-        "opb": "Cohort",
-        "opc": "RCT",
-        "opd": "Cross-sectional",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "002aec21-b5be-42d2-9297-6b54e4090471",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Pandemic is defined as -",
-        "exp": "Ans. is 'd' i. e., Epidemic is large population Sporadic - Disease occurring irregularly from time to time. Endemic - Disease occurring regularly in expected frequency. Epidemic - Disease occurring in excess of expected frequency. Pandemic - Epidemic affecting a large proportion of the population over a wide geographic area.",
-        "cop": 4,
-        "opa": "Endemic in small population",
-        "opb": "Endemic in large population",
-        "opc": "Epidemic in small population",
-        "opd": "Epidemic is large population",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Epidemiological Study",
-        "id": "86f4feb4-520e-4616-a622-0c9e4cea32d0",
-        "choice_type": "multi"
     },
     {
         "question": "First case that comes to notice of physician is?",

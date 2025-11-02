@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Commonest site for extranodal lymphoma is",
-        "exp": "Ans. (b) Stomach(Ref: Wintrobe's 12th/pg 2177). Commonest site for extranodal lymphoma is Stomach. Gastrointestinal tract is the most common site for extranodal NHL (10 to 15% of all NHL). Stomach accounts for 50% of gastrointestinal lymphomas",
-        "cop": 2,
-        "opa": "Liver",
-        "opb": "Stomach",
-        "opc": "Small intestine",
-        "opd": "Large intestine",
-        "subject_name": "Pathology",
-        "topic_name": "Misc. (W. B. C)",
-        "id": "086c1a13-1b92-4ccb-88bf-765883fcaae4",
-        "choice_type": "multi"
-    },
-    {
         "question": "A person is having painless lymphadenopathy. On biopsy, binucleated owl shaped nuclei with clear vacuolated area is seen. On IHC CD 15 and CD 30 were positive. What is the most probable diagnosis?",
         "exp": "Ans. (a) Nodular sclerosis(Ref: Robbins 9th/pg 606-611). Binucleated owl shaped nuclei with clear vacuolated area refers to Lacunar cells. Lacunar cells are seen in the nodular sclerosis subtype of Hodgkin's disease. Lacunar cells have delicate, folded, or multilobate nuclei and abundant pale cytoplasm that is often disrupted during the cutting of sections, leaving the nucleus sitting in an empty space (lacuna)",
         "cop": 1,
@@ -78,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Multiple myeloma-all are true except?",
-        "exp": "Ans. (d) Dystrophic calcification(Ref: R 9th/pg 598-602). Calcification in multiple myeloma is due to hypercalcemia (metastatic calcification) and not dystrophic calcification.",
-        "cop": 4,
-        "opa": "Proteinuria",
-        "opb": "Visual disturbance",
-        "opc": "Bleeding",
-        "opd": "Dystrophic calcification",
-        "subject_name": "Pathology",
-        "topic_name": "Misc. (W. B. C)",
-        "id": "ba2921ea-cd73-4d8f-a163-bdb0c6f88fc4",
-        "choice_type": "multi"
-    },
-    {
         "question": "D1C is common in which AML-",
         "exp": "Ans. (b) Promyelocytic (M3)(Ref: Robbins 9th/pg 612; 8th/pg 622). Acute Promyelocytic Leukemic (APML, M3) cells can induce Disseminated intravascular coagulation (DIC)",
         "cop": 2,
@@ -102,19 +76,6 @@
         "topic_name": "Misc. (W. B. C)",
         "id": "6daf8a6e-9fc6-4d51-a878-b83f4e9d2637",
         "choice_type": "single"
-    },
-    {
-        "question": "40/F presented to AIIMS OPD with the following findings-Hb-9. 8gm%, TLC= 15, 700/cumm, Platelet counts 3 lac/cumm. Peripheral smear showed increased neutrophils with 14 % blasts, 15% myelocytes and metamyelocytes with some dysplasia. Cytogenetic study revealed t(8; 21). What is your diagnosis?",
-        "exp": "Ans. (a) AML(Ref: Robbins 9th/pg 612; 8th/pg 622). This 40 yr old female is presenting with leukocytosis and increased blast counts in the peripheral smear. The cytogenetic study done here shows t(8; 21). This finding is suggestive of Acute myeloid leukemia even if there are <20% blast counts. It cytogenetic abnormalities like t(15; 17), t(8; 21), inv(16) are encountered in a patient with symptomatic myeloid disease, AML should be diagnosed despite the lower blast percent.",
-        "cop": 1,
-        "opa": "AML",
-        "opb": "CML",
-        "opc": "MDS",
-        "opd": "ALL",
-        "subject_name": "Pathology",
-        "topic_name": "Misc. (W. B. C)",
-        "id": "8e3738f8-e29d-4068-af13-d3054125c097",
-        "choice_type": "multi"
     },
     {
         "question": "BCR-ABL fusion gene is detected by?",
@@ -180,19 +141,6 @@
         "topic_name": "Misc. (W. B. C)",
         "id": "e5868455-11d7-46d9-91dd-6e118a9d369a",
         "choice_type": "single"
-    },
-    {
-        "question": "Which one of the following is the likely diagnosis based on the smear given above:",
-        "exp": "Ans. (a) Acute myelogenous leukemia(Ref: Robbins 9th/pg 590-592). The peripheral smear shows myeloblasts having delicate nuclear chromatin, 2-4 nucleoli, and moderate cytoplasm. One of them shows Auer rods. So it is a case of AML.",
-        "cop": 1,
-        "opa": "Acute myelogenous leukemia",
-        "opb": "Acute lymphoblastic leukemia",
-        "opc": "Hairy cell leukemia",
-        "opd": "Chronic lymphocytic leukemia",
-        "subject_name": "Pathology",
-        "topic_name": "Misc. (W. B. C)",
-        "id": "c0e6f6d1-af93-4477-8a14-28291e0d2989",
-        "choice_type": "multi"
     },
     {
         "question": "\"Smudge cells\" in the peripheral smear are characteristic of",
@@ -271,19 +219,6 @@
         "topic_name": "Misc. (W. B. C)",
         "id": "6ce5ddd8-f15b-43f2-bf2e-9dbf44bb3292",
         "choice_type": "single"
-    },
-    {
-        "question": "Pelger Huet anamoly shows presence of -",
-        "exp": "Ans. is 'a' i. e., Hyposegmented neutrophil Pelger Huet anomalyo It is a genetic disorder with an autosomal dominant inheritance pattern, o It is a blood laminopathy associated with the lamin B receptor. o It is characterized by a white blood cell type known as a neutrophil whose nucleus is hyposegmented. o Heterozygotes are clinically normal, although their neutrophils may be mistaken for immature cells, which may cause mistreatment in a clinical setting. o Homozygotes tend to have neutrophils with rounded nuclei that do have some functional problems.",
-        "cop": 1,
-        "opa": "Hyposegmented neutrophil",
-        "opb": "Hypersegmented neutrophil",
-        "opc": "Unsegmented neutrophil",
-        "opd": "None of the above",
-        "subject_name": "Pathology",
-        "topic_name": "Misc. (W. B. C)",
-        "id": "fba7c9a6-3909-41d2-86c2-53cccda2239d",
-        "choice_type": "multi"
     },
     {
         "question": "In patients with Chronic Myeloid Leukemia",
@@ -390,19 +325,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A7 year old presents with fever, weight loss. On examination he was pale and had significant lymphadenopathy. Bone marrow histology is as given below. What is the most probable diagnosis?",
-        "exp": "Ans. (a) ALL(Ref: R 9/611). The picture is that of a lymphoblast. Lymphoblasts will be 3-4x larger than a mature RBC, High nuclear to cytoplasmic ratio, Round Nucleus with immature chromatin (not clumped), Prominent nucleoli, Cytoplasm is scant, light blue and lacks granules",
-        "cop": 1,
-        "opa": "ALL",
-        "opb": "AML",
-        "opc": "Aplastic anemia",
-        "opd": "juvenile myelomonocyticleukemia",
-        "subject_name": "Pathology",
-        "topic_name": "Misc. (W. B. C)",
-        "id": "82e08b1e-c12d-4284-aac8-01929d3c631f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Beta-2 -microglobulin is a tumor marker for",
         "exp": "Ans. (a) Multiple myeloma(Ref: Robbins 9th/pg598-602). Serum b2 microglobulin level <3. 5mg/L indicates good prognosis, in multiple myeloma.",
         "cop": 1,
@@ -427,19 +349,6 @@
         "topic_name": "Misc. (W. B. C)",
         "id": "ab2ffdfd-62ca-4c0c-add4-caac1d99a1cf",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is false -",
-        "exp": "Ans. (d) Diffuse large B cell lymphoma(Ref: Robbins 9th/pg 597; 8th/pg 607; WHO Hemato- lymphoid Tumors 4. TH ed 2008, pg231, 264). Discussing the options one by one, *. BCL-6: Burkitts lymphoma. True, CD19, CD20, CD22, CD10, Bcl6 are positive in Burkitt's*. BCL-2: Follicular lymphoma. True, CD19, CD20, CD22, CD10, Bcl2 are positive in Follicular Lymphoma*. CD-10: Mantle cell lymphoma. True, CD19, CD20, CD22, CD5, FMC-7, CD43 positive while Cd10 & Bcl6 negative in Mantle cell Lymphoma; Blastoid / pleomorphic variants are CD5 -ve, CD10+, Bcl6 +ve*. CD 34: Diffuse large B cell lymphoma. False CD19, CD20, CD22, CD79a, CD10 & Bcl6 are positive is DLBCLCD34 is a marker of blasts, so positive in Acute Leukemia",
-        "cop": 4,
-        "opa": "BCL-6: Burkitts lymphoma",
-        "opb": "BCL-2: Follicular & mantle cell lymphoma",
-        "opc": "CD-10: Mantle cell lymphoma",
-        "opd": "CD 34: Diffuse large B cell lymphoma",
-        "subject_name": "Pathology",
-        "topic_name": "Misc. (W. B. C)",
-        "id": "91691243-8c70-454e-8b6a-b00b57f2c32d",
-        "choice_type": "multi"
     },
     {
         "question": "An elderly male presented with history of intractable diarrhea. His bone marrow and renal biopsy as shown below. Which of the following is the most appropriate diagnosis?",
@@ -492,19 +401,6 @@
         "topic_name": "Misc. (W. B. C)",
         "id": "2a582033-1887-4287-b510-5dd09cc2d5d1",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following stem cell populations are found within the bone marrow, except -",
-        "exp": "Ans. (b) Myoblast Progenitor cells(Ref: Robbins 9th/pg 580-581). Endothelial Progenitor cells, Mesenchymal stem cells and Hematopoetic stem cells are found in the bone marrow. Mesenchymal stem cells are multipotent stromal cells constituting 0. 001-0. 01% of bone marrow cells.",
-        "cop": 2,
-        "opa": "Endothelial Progenitor cells",
-        "opb": "Myoblast Progenitor cells",
-        "opc": "Mesenchymal stem cells",
-        "opd": "Hematopoietic stem cells",
-        "subject_name": "Pathology",
-        "topic_name": "Misc. (W. B. C)",
-        "id": "215f6688-0f62-498f-9c52-e5d0730d8509",
-        "choice_type": "multi"
     },
     {
         "question": "Best candidate for Autologus bone marrow transplant?",

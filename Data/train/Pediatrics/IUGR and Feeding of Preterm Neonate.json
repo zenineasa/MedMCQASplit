@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following conditions are more common in preterm neonates EXCEPT?",
-        "exp": "Diseases more common in preterm neonates: Neonatal sepsis Resp.- Hyaline membrane disease/ Bronchopulmonary dysplasia Patent ductus aeriosus Intraventricular hemorrhage Retinopathy of prematurity Hyperbilirubinemia Meconium aspiration syndrome: A term SGA/IUGR baby, born through meconium stained liquor, presents with respiratory distress soon after bih. CXR: Hyperinflated lungs- | radiolucency of lungs Flattening of domes of diphragm Pulmonary infiltrates Segmental collapse Rx: Suppoive- O2 + mechanical ventilation",
-        "cop": 4,
-        "opa": "Intraventricular hemorrhage",
-        "opb": "Bronchopulmonary dysplasia",
-        "opc": "Respiratory distress syndrome",
-        "opd": "Meconium aspiration syndrome",
-        "subject_name": "Pediatrics",
-        "topic_name": "IUGR and Feeding of Preterm Neonate",
-        "id": "661e5eca-d8fc-4f7a-b16d-d7832d78da5f",
-        "choice_type": "multi"
-    },
-    {
         "question": "The sole of a newborn baby as shown below is suggestive of?",
         "exp": "The smooth sole of the neonate with absent deep creases suggests prematurity.",
         "cop": 4,
@@ -78,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A woman delivered a baby of 2. 2 kg weight. Her LMP is not known. To know the maturity of baby, all of the following are used EXCEPT?",
-        "exp": "Expanded New Ballard Score (EBNS)- assess gestational age of a neonate. It includes physical characteristics: skin of the baby sole crease ear cailage breast nodule",
-        "cop": 4,
-        "opa": "Sole crease",
-        "opb": "Ear cailage",
-        "opc": "Breast nodule",
-        "opd": "Weight of the baby",
-        "subject_name": "Pediatrics",
-        "topic_name": "IUGR and Feeding of Preterm Neonate",
-        "id": "e3eaf501-68b2-43e7-a1cf-bffee4588380",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 32-week, 1400g neonate is born to a primigravida. The baby did not require resuscitation and showed stable vitals. The baby was transferred to the NICU. How will you manage the feeding of the patient?",
         "exp": "Feeding of preterm neonate Gestational age Preferred initial mode of feeding <28 weeks IV Fluids +/- TPN (TPN: Total parental nutrition) 28-31 weeks Orogastric tube feeding 32-34 weeks Katori spoon feeding or Paladai feeding >34 weeks Direct breast feeding As the neonate in the question is born at 32 weeks and is vitally stable, sta with total enteral feeding. IV fluids and IV nutrition and minimal enteral nutrition in this neoante is indicated if the neonate has hemodynamic compromise or is unstable.",
         "cop": 1,
@@ -102,19 +76,6 @@
         "topic_name": "IUGR and Feeding of Preterm Neonate",
         "id": "66d924f9-8ae5-4c57-8029-1a19ffb267a2",
         "choice_type": "single"
-    },
-    {
-        "question": "What is the use of Ballard's scoring system in newborn babies?",
-        "exp": "Ballard's scoring system in newborn babies is used for assessment of gestational age It is based on neuromuscular criteria and physical criteria for maturity It is accurate to +-2 weeks",
-        "cop": 1,
-        "opa": "Assessment of gestational age",
-        "opb": "Assessment of bih weight",
-        "opc": "Prediction of neonatal death",
-        "opd": "Screening for sepsis",
-        "subject_name": "Pediatrics",
-        "topic_name": "IUGR and Feeding of Preterm Neonate",
-        "id": "80756eca-146d-42f7-b0ea-f995ee5582d5",
-        "choice_type": "multi"
     },
     {
         "question": "What is the ponderal index of a neonate with bih weight 2kg and length 50 cm:",
@@ -141,18 +102,5 @@
         "topic_name": "IUGR and Feeding of Preterm Neonate",
         "id": "90647401-70ed-4065-804d-1520face1dec",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is true about 'Small for gestational age' baby?",
-        "exp": "A neonate whose weight falls between the 10th and 90th percentile is considered as appropriate for gestational age (AGA); if the weight falls below 10th percentile, the neonate is classified as small for gestational age (SGA); the neonate is classified as large for gestational age (LGA), if the weight falls at 90th percentile or above for gestational age. The SGA babies have grown suboptimally during intrauterine period (intrauterine growth restriction, IUGR). These babies have thin slender look, loose folds of wrinkled skin, and monkey like fades.",
-        "cop": 1,
-        "opa": "Bih weight is < 10th percentile of expected according to gestational age",
-        "opb": "Bih weight is < 2000 g",
-        "opc": "Length of the baby is < 50th percentile of expected",
-        "opd": "Length, weight and head circumference of the baby are < 50th percentile of expected",
-        "subject_name": "Pediatrics",
-        "topic_name": "IUGR and Feeding of Preterm Neonate",
-        "id": "92fe1050-27be-4f45-a9d3-3bee558686d8",
-        "choice_type": "multi"
     }
 ]

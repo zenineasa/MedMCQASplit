@@ -78,19 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "An i. v. bolus dose of thiopentone leads to loss of consciousness within10-15 sec. The patient regains consciousness in just a few minutes. This is because it is:",
-        "exp": "Thiopentone - is highly lipid soluble agent - it first reach the highly perfused organs like brain - Therefore, onset of action of these agents is very quick. However, action also terminates quickly because of redistribution to less well perfused tissues like fat and muscle.",
-        "cop": 4,
-        "opa": "Renally excreted",
-        "opb": "Exhaled rapidly",
-        "opc": "Rapidly metabolised by hepatic enzymes",
-        "opd": "Redistributed from brain to other body tissues",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "11d0a9f2-e9e1-41cd-8ff9-9da986fb7e0a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drug can inhibit steroidogenesis?",
         "exp": "Etomidate suppresses the production of coisol and other steroids by inhibiting adrenal enzymes. Long-term infusion of Etomidate can inhibit adrenal enzyme but induction doses of Etomidate can cause slight reduction in coisol level. So Etomidate is not recommended for long-term infusion due to inhibition of steroidogenesis.",
         "cop": 1,
@@ -102,32 +89,6 @@
         "topic_name": "Anaesthesia",
         "id": "55ba2782-9878-4cf0-a1a6-7068bbda103e",
         "choice_type": "single"
-    },
-    {
-        "question": "The administration of succinylcholine to a paraplegic patient led to appearance of dysarrythmias, conduction abnormalities and finally cardiac arrest. The most likely cause is:",
-        "exp": "Ans. (B) Hyperkalemia(Ref: Katzung 11th/e p460). Succinylcholine can cause hyperkalemia especially in patients with nerve and muscle disorders. Therefore it is contra-indicated in patients with nerve diseases (like paraplegia, hemiplegia and Guillain barre syndrome) and muscle diseases (muscular dystrophy, myasthenia gravis, crush injury, burns and rhabdomyolysis).",
-        "cop": 2,
-        "opa": "Hypercalcemia",
-        "opb": "Hyperkalemia",
-        "opc": "Anaphylaxis",
-        "opd": "Hypermagnesemia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "cea2e647-8859-4d16-a94f-b3fdd9ada239",
-        "choice_type": "multi"
-    },
-    {
-        "question": "One of the following statements about succinylcholine is true:",
-        "exp": "SCh is the shoest and fastest acting muscle relaxant. SCh is contra-indicated in patients with nerve or muscle disorders due to the risk of hyperkalemia. Sch also increases all the pressures in body like intraocular, intracranial, blood pressure, so has to be avoided in patients with such precipitating conditions. Therefore, cannot be used in patients with the following diseases:- Nerve disorders:- Hemiplegia, paraplegia, Guillain Barre syndrome etc. Muscle diorders:- Myopathy, myasthenia gravis, rhabdomyolysis, crush injury etc. When used with halothane, it might cause Malignant Hypehermia.",
-        "cop": 1,
-        "opa": "It may induce life threatening hyperkalemia",
-        "opb": "It has a long duration of action",
-        "opc": "It is the drug of choice in non traumatic rhabdomyolysis",
-        "opd": "It is useful in patients with spinal cord injuries with paraplegia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "4594441d-c686-483c-b0f7-d7ab84992d12",
-        "choice_type": "multi"
     },
     {
         "question": "A young man having pheochromocytoma has BP of 188/92 mm Hg and a hematocrit of around 50%. Pulmonary function tests and renal functions are normal. His catecholamines are elevated. Which of the following drugs should not be included in the anesthesia protocol?",
@@ -154,71 +115,6 @@
         "topic_name": "Anaesthesia",
         "id": "e1b10c50-94b1-47bd-afba-fde2744e66be",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are the true for post lumbar puncture headache except",
-        "exp": "Ans. (B) Pain is relieved in standing position(Ref: Evidence-Based obstetric Anesthesia p75). Post-dural-puncture headache (PDPH) or post-lum- bar-punture headache occurs 12-24 hours after dural puncture. It presents with headache (occipito frontal) and nausea that typically worsens when the patient assumes upright position. Incidence is higher in younger patients.",
-        "cop": 2,
-        "opa": "Presents 12 hours after procedure",
-        "opb": "Pain is relieved in standing position",
-        "opc": "Pain is worsened by headshaking",
-        "opd": "Pain is occipito-frontal in location",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "3d715957-316e-462c-994f-a724c7d97b29",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Patient undergoing surgery was given a muscle relaxant. It produced marked fall in B. P. and increase in airway resistance which were reversed with diphenhydramine. The muscle relaxant was most probably:",
-        "exp": "Hypotension and bronchoconstriction (increase in airway resistance) are impoant adverse effects caused by histamine. This is confirmed to be due to histamine because of reversal with diphenhydramine. * Maximum histamine release is caused by d-tubocurarine. * Vecuronium does not cause histamine release, therefore is preferred agent in asthmatic patients.",
-        "cop": 3,
-        "opa": "Pancuronium",
-        "opb": "Diazepam",
-        "opc": "Tubocurarine",
-        "opd": "Vecuronium",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "8efc9f55-9906-44b3-9dae-212d4e6def4c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about Bupivacain EXCEPT",
-        "exp": "(Less cardiotoxic than lignocaine) (391 Less' 13th) (357-KDT 6th)* 0. 25% bupivacain or 0. 5% lidocaine both with adranaline are suitable. The dose of bupivacain should not exceed 2mg / kg (456 - Lees)* Bupivacaine causes more sensory than motor block* It is not recommanded for intravenous regional analgesia because leakage post the tourniquet in to blood stream may cause toxic or even fatal complication* The duration of effect is between 5 and 16 hours - it is one of the longest - acting local analgesics known* Lignocaine - It is less toxic than bupivacain but cardiotoxic and CNS symptoms of poisoning may occur* The new local anaesthetics levobupicaine and ropivacaine undoubtedly safer than bupivacaine, But case reports of convulsions and cardiac arrest are emerging (385 - Lees 13th)",
-        "cop": 1,
-        "opa": "Less cardiotoxic than lignocaine",
-        "opb": "Dose increases with adrenaline",
-        "opc": "Long acting",
-        "opd": "Cannot given in veins",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "b7683d07-ee31-4a39-9602-1563b19da2a3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Inhalational halogenated anesthetics may cause malignant hyperthermia in(372- KDT 6th) (Lippincott's 3rd pharmacology)",
-        "exp": "D. i. e. (Genetic defect in calcium channel at sarcoplasmic reticulum of the skeletal muscle) (372-KDT 6th). Malignant Hyperthermia - occurs in small population who have a genetic defect in the muscle (ryanodine receptor) calcium channel at the sarcoplasmic reticulum of the skeletal muscle. Which is triggered by halothane** to release massive Ca++ intracellularly causing persistent muscle contraction and increase heat production**. Succinylcholine** - accentuates the conditions. Treatment* Rapid external cooling* Bicarbonate infusion* 100% O2 inhalation* IV Dantrolene** 1. Thiopental** is a potent anesthetic but weak analgesic2. Nitrous oxide* - is potent analgesic but weak general anesthetic* Propofol is agent of choice for induction in susceptible individuals for malignant hyperthermia",
-        "cop": 4,
-        "opa": "Patients with poor renal function",
-        "opb": "Patients allergic to the anesthetics",
-        "opc": "Alcoholics",
-        "opd": "Genetic defect in calcium channel at sarcoplasmic reticulum of the skeletal muscle",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "ba81d606-7fc9-4aaf-b4e2-f4b8e7d09d5e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is an advantage of adding adrenaline to lignocaine for local anesthetic injection?",
-        "exp": "Adrenaline can be added to the LA to Prolong its duration of action To decrease the risk of systemic side effects More dose of LA can be given Lignocaine with adrenaline SHOULD NOT be used for: Areas with end aeries e. g. for ring block of fingers, toes, penis, pinna (absolute contraindication) When an inhalational agent especially halothane which sensitizes myocardium to adrenaline is used. Myocardial ischemic patients Hypehyroid patient Severe hypeensives Intravenous regional anaesthesia (Bier's block)",
-        "cop": 4,
-        "opa": "Decreases the systemic toxicity",
-        "opb": "Higher doses can be given",
-        "opc": "Duration of action can be prolonged",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "3493c344-62e4-4e76-954a-81573bb27c48",
-        "choice_type": "multi"
     },
     {
         "question": "Bradycardia is common after injection of:",
@@ -390,19 +286,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The segmental level of spinal anaesthesia depends on:",
-        "exp": "* Factors affecting the height of block:- -- Volume of drug -- Baricity (Ratio of specific gravity of an agent to that of CSF). -- Position of the patient -- Intra-abdominal pressure -- Curvature of spine * Factors affecting duration of block:- -- Dose -- Concentration - - Drug (LA used) -- Added vasoconstrictors",
-        "cop": 4,
-        "opa": "Volume of the local anaesthetic injected",
-        "opb": "Specific gravity of the local anaesthetic solution",
-        "opc": "Posture of the patient",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "13582872-83f1-4363-92dc-a6e5d0958fbd",
-        "choice_type": "multi"
-    },
-    {
         "question": "Nitrous oxide is contraindicated in patients with pneumothorax, pneumopericardium or intestinal obstruction, because it:",
         "exp": "Ans. (D) Causes the expansion of air filled body cavities(Ref: Goodman and Gilman 12/e p547)N2 O use is contraindicated in pneumothorax and volvulus because it may lead to development of high pressure in the closed cavities in the body (like obstructed loop of bowel, intraocular air bubble, a pulmonary bulla, pneumothorax, obstructed middle ear, air embolus, intracranial air and pneumoperitoneum).",
         "cop": 4,
@@ -468,19 +351,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The fall in blood pressure caused by d-tubocurarine is due to:",
-        "exp": "d-tubocurarine:- - is a competitive NM blocker. It produces fall in BP due to:- - causes Blockade of sympathetic ganglia. - causes Histamine release. - Reduced venous return as a result of paralysis of limb and respiratory muscles.",
-        "cop": 4,
-        "opa": "Reduced venous return",
-        "opb": "Ganglionic blockade",
-        "opc": "Histamine release",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "1a099eb5-9410-4ab2-88fe-3bd7e7d26647",
-        "choice_type": "multi"
-    },
-    {
         "question": "The minimal alveolar concentration of an inhalational anaesthetic is a measure of its:",
         "exp": "Minimal alveolar concentration (MAC):- is the lowest concentration of the anaesthetic in pulmonary alveoli needed to produce immobility in response to a painful stimulus (surgical incision) in 50% individuals. It is accepted as a valid measure of potency of inhalational GAs, because it remains fairly constant for most young adults. The MAC of all inhalational anaesthetics declines progressively as age advances beyond 50 years. The MAC of a number of GAs shows excellent correlation with their oil/gas paition coefficient. However, this only reflects capacity of the anaesthetic to enter into CNS and attain sufficient concentration in the neuronal membrane, but not the mechanism by which anaesthesia is produced.",
         "cop": 1,
@@ -533,19 +403,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is a skeletal muscle relaxant that acts as a central a2 adrenergic agonist:",
-        "exp": "* Tizanidine and brimonidine are alpha2 adrenergic agonists. Tizanidine is used as a centrally acting muscle relaxant whereas brimonidine is used topically for the treatment of glaucoma. * Chlormezanone is a centrally acting muscle relaxant that acts by inhibiting the spinal internuncial neurons. * Quinine is a directly acting peripheral muscle relaxant.",
-        "cop": 1,
-        "opa": "Tizanidine",
-        "opb": "Brimonidine",
-        "opc": "Chlormezanone",
-        "opd": "Quinine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "b0ded275-71d3-4e15-8c26-76589b759743",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a metabolite of carisoprodol?",
         "exp": "Ans. (B) Meprobamate(Ref: Goodman and Gilman 11th/e p422). Meprobamate was used as a CNS depressant drug but is rarely indicated now due to its addictive properties. It is a metabolite of carisoprodol, which is used as a centrally acting skeletal muscle relaxant.",
         "cop": 2,
@@ -596,19 +453,6 @@
         "topic_name": "Anaesthesia",
         "id": "85b6cef0-77c4-4ad2-989e-e098f47b017f",
         "choice_type": "single"
-    },
-    {
-        "question": "All are vasodilators except.",
-        "exp": "Ans. (C) Cocaine(Ref: Katzung 11th/e p448). All local anaesthetics cause vasodilation except cocaine. It blocks reuptake of nor-adrenaline and result in sympathetic overactivity. Therefore, cocaine can cause hypertension and cardiac arrhythmias.",
-        "cop": 3,
-        "opa": "Procaine",
-        "opb": "Lidocaine",
-        "opc": "Cocaine",
-        "opd": "Chlorprocaine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "c5d86fb2-012d-4a11-bb85-950e19dd6bbc",
-        "choice_type": "multi"
     },
     {
         "question": "d-Tubocurarine acts by:",
@@ -702,19 +546,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Amphetamine causes which of the following -",
-        "exp": "Ans. is 'd' i. e., All the above o Following are the fetal or neonatal effects of amphetamines:# IUGR# Prematurity'# Cardiac anamolies# Cleft palate# Abrupt]o placentae# Hypoglycemia# Sweating# Poor visual tracing# Glassy eyed look# Lethargy# Feeding problems",
-        "cop": 4,
-        "opa": "IUGR",
-        "opb": "Cardiac anamoly",
-        "opc": "Cleft lip",
-        "opd": "AH the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "1645d0f9-b7d2-4267-a344-b084408ad699",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is NOT an amide:",
         "exp": "Ans. is 'a' i. e. Procaine 61]. Explained earlier",
         "cop": 1,
@@ -780,19 +611,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are propeies of local anesthetics EXCEPT:",
-        "exp": "- Local anesthetic receptor is located within the channel in its intracellular half. - LA traverses the membrane in unionized form. - LAs act from within the neuron and are more active when the neuron is rapidly firing (i. e., Na+ channels are open). so it doesnot act in resting form.",
-        "cop": 2,
-        "opa": "Blockade of voltage dependent Na+ channels",
-        "opb": "Preferential binding to resting channels",
-        "opc": "Slowing of axonal impulse conduction",
-        "opd": "Increase in the membrane refractory period",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "0ef07b5a-a0e5-42e4-af9b-d0f79f0528fe",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which one of the following skeletal muscle relaxants causes pain on injection?",
         "exp": "Rocuronium causes pain on injection. It can be minimized by alkalinizing the solution. Remember, post-operative muscular pain is caused by succinylcholine",
         "cop": 3,
@@ -806,19 +624,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Ketamine is the preferred anaesthetic for the following EXCEPT:",
-        "exp": "* Ketamine is contra-indicated in hypeensives because it increases the blood pressure. * It is the induction agent of choice for: -- Asthmatics -- Shock -- Children -- Full stomach * It possesses very powerful analgesic action. * It can be used as a sole agent for minor procedures.",
-        "cop": 1,
-        "opa": "Hypeensives",
-        "opb": "Trauma cases that have bled significantly",
-        "opc": "Burn dressing",
-        "opd": "Sho operations on asthmatics",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "f21b46ea-d295-4307-8da7-a8b5ddac547d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drug undergoes Hoffman's elimination?",
         "exp": "Ans. (A) Atracurium(Ref: KDT 8th/e p380). Atracurium and cis-atracurium undergo Hoffmann's elimination (spontaneous non-enzymatic molecular rearrangement) and are the agents of choice for patients with hepatic or renal insufficiency. Atracurium is metabolized to laudanosine that is responsible for seizures. Cis-atracurium is relatively safe in this regard.",
         "cop": 1,
@@ -830,19 +635,6 @@
         "topic_name": "Anaesthesia",
         "id": "139ec259-2a5b-4cf4-be02-80e9c49fa1f1",
         "choice_type": "single"
-    },
-    {
-        "question": "True statement regarding Bupivacaine is",
-        "exp": "(More cardiotoxic than Lignocaine)(326-KDT) (357-KDT6th)BUPIVACA1. NE - long acting amide linked LA used for infiltration, nerve block, epidural and spinal anaesthesia of long duration* A 0. 25-0. 5% solution injected epidurally produces adequate analgesia without significant motor blockade. As a result it has become very popular in obstetrics (mother can actively cooperate in vaginal delivery).* ** Bupivacaine is more prone to prolong QTc interval and induce ventricular tachycardia or cardiac depression-should not be used for intravenous regional analgesia. (UP-2010)* It should not be used for Beir block (because of its cardiotoxicity)* Drug of choice for ventricular tachycardia produced by bupivacaine is bretylium",
-        "cop": 2,
-        "opa": "Used as intravenous along with lignocaine",
-        "opb": "More cardiotoxic than lignocaine",
-        "opc": "Contraindication in pregnancy",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "94647f07-06df-490c-999f-3a1ba0dbcddc",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drug is commonly used for post-anesthetic shivering?",
@@ -895,45 +687,6 @@
         "topic_name": "Anaesthesia",
         "id": "b2cbf0eb-9155-44b6-b2d5-52bd47116b0e",
         "choice_type": "single"
-    },
-    {
-        "question": "Neostigmine antagonizes non-depolarizing blockade by all of the following mechanisms except.",
-        "exp": "Ans. (B) Preventing the K+ efflux from the cell(Ref: Katzung 10th/e p436; KDT 8th/e p375). Neostigmine is an anti-cholinesterase. It inhibits the breakdown of ACh at the motor end plate. This results in the increased activity of ACh that causes depolarization of motor end plate by opening Na+ channels (increasing the influx of Na+). It possesses some direct agonistic activity on NM receptors resulting in depolarization. In addition, a minor effect to increase the release of ACh at motor end plate is also present.",
-        "cop": 2,
-        "opa": "Decreasing the breakdown of acetylcholine at the motor end plate",
-        "opb": "Preventing the K+ efflux from the cell",
-        "opc": "Increasing the release of acetylcholine at the motor end plate",
-        "opd": "Depolarization at the motor end plate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "f9cf21ae-f3a0-4909-8837-1d4b9685d008",
-        "choice_type": "multi"
-    },
-    {
-        "question": "TRUE statements regarding halothane is",
-        "exp": "(All of the above) (339-40-KDT) (372-KDT 6th)HALQTHANE - volatile liquid with sweet odour, non irritant and non inflammable, pleasant and rapid action.* * It is not a good analgesic or muscle relaxant, it potentials competitive neuromuscular blockers.* * Halothane causes direct depression of myocardial contractility by reducing intracellular Ca** concentration.* * Halothane causes relatively greater depression of respiratory, breathing is shallow and rapid* ** Pharyngeal and laryngeal reflexes are abolished early and coughing is suppressed, while bronchi dilates - \"preferred for asthmatics\"* * Hepatitis occurs in susceptible individuals specially after repeated use* * Malignant hyperthermia occurs rarely",
-        "cop": 4,
-        "opa": "Hepatitis occurs in susceptible individuals after repeated dose",
-        "opb": "It potentiates competitive neuromuscular blockers",
-        "opc": "Causes respiratory depression",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "38610a25-ea5e-4e17-9491-963bd4233fd3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement regarding Halothane is",
-        "exp": "(All of the above) (339 - 40 KDT) (372-KDT 6th)HALQTHANE - Volatile liquids with sweat odour, non irritant and non inflammable pleasant, and rapid action* It is not a good analgesic or muscle relaxants. It potentials competitive neuro muscular blockers* Halothane cause direct depression of myocardial contractility by reducing intracellular Ca++ concentration* Halothane causes relatively greater depression of respiratory breathing is shallow and rapid* Pharyngeal and laryngeal reflexes are abolished early and coughing is suppressed, while bronchi dilates\"preferred for asthmatics\"* Hepatitis occurs in susceptible individuals after repeated use* Malignant hyper thermia occurs rarely",
-        "cop": 4,
-        "opa": "Hepatitis occurs in susceptible individuals after repeated dose",
-        "opb": "It potentiates competitive neuromuscular blockers",
-        "opc": "Causes respiratory depression",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "587c9671-b91a-4983-9666-b36eab3747ee",
-        "choice_type": "multi"
     },
     {
         "question": "Baclofen is used in:-",
@@ -1001,19 +754,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Ketamine produces-",
-        "exp": "Ans. is 'a' i. e., Analgesia Ketamineo The primary' site of action is in the cortex and subcortical areas; not in the reticular activating system (site of action of barbiturates), o It acts on NMD A receptors. o Short duration of action (10-15 minutes) is due to redistribution from brain and blood to other tissues of the body, o Ketamine is different from most other anaesthetic induction agents in that it has significant analgesic action. o Ketamine increases 10T and cerebral metabolism - contraindicated in head injury. o It causes sympathetic stimulation with elevation of HR, CO & BP -contraindicated in hypertension and ischemic heart disease. o It also raises IOT - contraindicated in glaucoma. o It relieves bronchospasm - intravenous anaesthetic of choice in asthmatics (inhalation anaesthetic of choice in asthmatic is halothane). o Injection is not painful (All other inducing agents cause pain on injection), o It is i. v. anaesthetic of choice in children (Sevoflurane is inhalation agent of choice). o Because it causes sympathetic stimulation it is intravenous anaesthetic of choice in patients with shock and hypovolumia. o It has no muscle relaxant property rather muscle tone is increased. o Airway reflexes (pharyngeal and laryngeal) are not depressed - intravenous anaesthetic of choice for emergency- anaesthesia (no starvation is required). o Ketamine produces emergence reaction during awakening from anaesthesia - vivid dreaming, illusions, extracorporeal experiences, excitment, confusion, fear and euphoria - contraindicated in psychiatric illness like schizophrenia.",
-        "cop": 1,
-        "opa": "Analgesia",
-        "opb": "Allodynia",
-        "opc": "Hyperpathia",
-        "opd": "Dystonia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "cac7472d-7b8a-40b6-b5f9-29e4b7586103",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient with ruptured spleen is taken for laparotomy. His blood pressure is 80/50 and heart rate is 125/min. Induction agent of choice for this patient is:",
         "exp": "Ans. (C) Ketamine(Ref: Goodman and Gilman 12th/e p538-539). Ketamine increases all pressures (blood pressure, intracranial tension, intraocular pressure) in the body. It is therefore intravenous anesthetic of choice for shock (increases blood pressure).",
         "cop": 3,
@@ -1040,19 +780,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following drugs is hydrolyzed by a plasma esterase that is abnormally low in activity in about 1 in every 2500 humans?",
-        "exp": "* SCh is the shoest acting muscle relaxant due to its metabolism by pseudocholinesterase. * Some patients contain an atypical pseudocholinesterase (which has abnormally low activity) and are susceptible to develop apnea with the use of this drug.",
-        "cop": 4,
-        "opa": "Ethanol",
-        "opb": "Rifampicin",
-        "opc": "Cimetidine",
-        "opd": "Succinylcholine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "2c518c8d-b58b-4384-b42e-a3a5244a0add",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most cardiotoxic local anaesthetic is:",
         "exp": "- Bupivacaine is most cardiotoxic local anaesthetic - so, it is contra-indicated in intravenous regional anaesthesia (Bier's block) =Prilocaine caused methmoglobinemia",
         "cop": 2,
@@ -1064,32 +791,6 @@
         "topic_name": "Anaesthesia",
         "id": "48d3127f-fbe1-40d2-a737-c5cb9d2871f3",
         "choice_type": "single"
-    },
-    {
-        "question": "Patients is not breathing after anaesthesia is due to",
-        "exp": "(All of the above) (513 - Lees 13th)* Hypoxaemia is best detected by a pulse oximeter or measurement of blood gases. Hypoxaemia is a late sign of hypoventilation. Apnoea during spinal and extra dural anaesthesia. Causes of apnoea during spinal and extradural analgesia include* Inadeguate medullary blood flow due to inadequate cardiac output - a serious situation demanding immediate cardio respiratory support* Total spinal analgesia with denervation of all the respiratory muscles true phrenic paralysis is uncommon because the motor roots are large* Accidental subdural injection: a small volume of solution may travel to an unexpectedly high level in this potential space* Toxic effects of the local analgesic drug* Injection of a opioid analgesic drug",
-        "cop": 4,
-        "opa": "Prolonged anaesthesia",
-        "opb": "Neuro muscular blockage",
-        "opc": "Recurrent intubation leading cord's failure",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "8a2e1401-8b7e-4048-b392-005153505feb",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Naturally occurring local anesthetic:(1997)",
-        "exp": "a. Ref: KDT, 5th ed, p. 324 & 4th ed, p. 165",
-        "cop": 1,
-        "opa": "Cocaine",
-        "opb": "Procaine",
-        "opc": "Lignocaine",
-        "opd": "Bupivacaine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "357eafd3-1a98-4c67-a51e-7056512596b1",
-        "choice_type": "multi"
     },
     {
         "question": "Laudanosine is a metabolite of:",
@@ -1129,19 +830,6 @@
         "topic_name": "Anaesthesia",
         "id": "eb1f82f3-9d1f-461a-bb6c-2434f4ac1308",
         "choice_type": "single"
-    },
-    {
-        "question": "Advantage of cisatracurium over atracurium is?",
-        "exp": "Ans. (D) Releases less histamine(Ref: Goodman and Gilman 13th/e p182). Both atracurium and cis-atracurium are non-depolarizing neuromuscular blockers. Both of these are intermediate acting agents (both have same duration of action). Both of these agents are cardiostable. Atracurium has faster onset of action as compared to cis-atracurium. Both are eliminated by Hoffman's elimination. Atracurium is also metabolized by liver to some extent and result in production of a metabolite laudanosine that can cause CNS toxicity including seizures. On the other hand cis-atracurium is almost completely eliminated by Hoffman's elimination and produce negligible laudanosine. Major advantage of cis-atracurium over atracurium is that the former do not release histamine.",
-        "cop": 4,
-        "opa": "Short duration of action",
-        "opb": "Rapid onset",
-        "opc": "Less allergic",
-        "opd": "Releases less histamine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "db35fe68-a1ca-4186-8913-9b4efb4da43c",
-        "choice_type": "multi"
     },
     {
         "question": "Dissociative anesthesia is seen with which drug:",
@@ -1207,19 +895,6 @@
         "topic_name": "Anaesthesia",
         "id": "e259c9aa-96ad-44f2-aed1-c57d6e29a1bd",
         "choice_type": "single"
-    },
-    {
-        "question": "Ketamine causes:",
-        "exp": "Ans. (a) Hallucination. Ref. Katzung 9th edJ 1604; KDT 6th ed./376* Ketamine is the only intravenous anesthetic that possesses analgesic properties and produces cardiovascular stimulation.* It is pharmacologically related to the hallucinogen Phencyclidine; induces a so called \"dissociative anesthesia characterized by profound analgesia, immobility, amnesia and feeling of dissociation from one's own body and the surrounding.* It causes:# Hallucination# Delusion and illusion.# Profound analgesia* Ketamine increases all pressures like:# BP (hypertension)# Intracranial tension (ICT)# Intraocular pressure (IOP)* It is contraindicated in intracerebral mass/hemorrhage. MUST KNOW ABOUT KETAMINE: (Remembered as)KKids: can be given to kids. EEmergence reaction: s/e occurring during recovery. TThalamo-cortical junction affected: Dissociative Anesthesia. AAnalgesia strongest. MMeal: can be given with full stomach. IIncrease: BP/IOP/ICTNNMDA receptor blocker. EExcellent bronchodilator: inducing agent of choice in asthma patient. Also Know* PROPOFOL causes myocardial depression and fall in BP.",
-        "cop": 1,
-        "opa": "Hallucination",
-        "opb": "Hypotension",
-        "opc": "Myocardial depression",
-        "opd": "Decrease in intracranial pressure",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anaesthesia",
-        "id": "d79c8dbb-dee0-40c3-8ee5-1711346d8d58",
-        "choice_type": "multi"
     },
     {
         "question": "The local anaesthetic with the longest duration of action is:",

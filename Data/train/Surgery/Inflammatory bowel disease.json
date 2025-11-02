@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "False about malignancy in ulcerative colitis:",
-        "exp": "Colitis associated colon cancer Arise from flat dysplasia or dysplasia associated lesion or mass Multiple synchronous colon cancer in 12% Mean age: 30 years Distributed uniformly throughout the colon Mucinous or anaplastic cancers are more common Poor prognosis in sporadic cancer is seen.",
-        "cop": 3,
-        "opa": "Mean age is 30 years",
-        "opb": "Anaplastic cancers are common",
-        "opc": "Poor prognosis as compared to sporadic",
-        "opd": "Evenly distributed",
-        "subject_name": "Surgery",
-        "topic_name": "Inflammatory bowel disease",
-        "id": "18d563aa-625b-4a07-af62-c6f963da99a2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Treatment of choice in case of chronic ulcerative colitis is:",
         "exp": "Indications of Surgery in Ulcerative Colitis 1) Intractability2) Dysplasia or Carcinoma3) Massive Colonic bleeding4) Toxic Megacolon Surgical options in Ulcerative colitis1) TPC + IPAA - Definitive Rx2) TPC + Ileostomy3) TPC + Continent ileal reservoir (Kock pouch)4) TAC + End ileostomy TPC + IPAA- It is the Definitive treatment- Preferred in younger patient with no Rectal dysplasia- Procedure* Some pa of Ileum, whole Colon & Rectum are removed* Ileal pouch created & Anastomosed with Anus Surgical option for UC in patients with special situation - Older patients, Pt. with Fecal incontinence- TPC + End ileostomy- Pt. with confirmed Rectal dysplasia - Mucosectomy with hand sewn IPAA- Pt. with Significant Debility (Poor operative candidate) - TAC with very low Haman closure with End ileostomy",
         "cop": 3,
@@ -102,45 +89,6 @@
         "topic_name": "Inflammatory bowel disease",
         "id": "4d0ab494-436b-43ae-9694-97d0facb26c2",
         "choice_type": "single"
-    },
-    {
-        "question": "Most common complication of UC with IPAA:",
-        "exp": "Complications Pouchitis( 7-33%) Small bowel obstruction( upto to 27%) Pelvic sepsis Anastomotic & pouch suture line leaks Pouch- vaginal fistula",
-        "cop": 2,
-        "opa": "Small bowel obstruction",
-        "opb": "Pouchitis",
-        "opc": "Pelvic sepsis",
-        "opd": "Leak",
-        "subject_name": "Surgery",
-        "topic_name": "Inflammatory bowel disease",
-        "id": "ab629d83-f823-42be-bde5-5b10681f1fa8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "String sign of Kantor seen in:",
-        "exp": "Named features of Crohn's Disease:- Hose Pipe appearance Cobble-stone appearance Halo sign on CT String sign of Kantor Raspberry/ rosethorn appearance",
-        "cop": 1,
-        "opa": "Crohn's disease",
-        "opb": "Ulcerative colitis",
-        "opc": "Both of the above",
-        "opd": "None of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Inflammatory bowel disease",
-        "id": "ad92f587-6226-4ab0-94a8-660530c2557a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement regarding anorectal Crohn's disease:",
-        "exp": "CROHN'S DISEASE OF THE ANORECTUM Typically presents in three ways: Ulceration (MC), fistula and stricture. Fistulas tend to be chronic, indurated, and cyanotic and are often painless. Abscesses need to be drained and fistula tracts require chronic drainage with non-cutting setons. Once the perianal sepsis is controlled, infliximab treatment is initiated. After two or three infliximab infusions, the setons are removed to permit closure of the fistulas.",
-        "cop": 4,
-        "opa": "Ulceration, fistula is common",
-        "opb": "Fistulas are painless and indurated",
-        "opc": "Non-cutting setons are used in management",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Inflammatory bowel disease",
-        "id": "e2a8eff0-99d7-461d-a649-d6a22e1d1044",
-        "choice_type": "multi"
     },
     {
         "question": "Type of renal stone formed in a patient with regional enteritis:",
@@ -247,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In a patient excision rather than bypass is preferred for surgical treatment of small intestinal Crohn's because:",
-        "exp": "- Bypass of segments of small bowel affected with Crohn's disease is a safe operation with few complications, and one that usually relieves symptoms promptly. - It leaves diseased bowel behind, however, which can flare in the future and can develop carcinoma. - Excision, though it does not cure the Crohn's disease, removes the areas of severe involvement and so eliminates the risk of developing cancers in these segments - Indications of Surgery in Crohn's disease: Indications in Small intestine Stricture & Obstruction unresponsive to Medical therapy Massive haemorrhage Refractory fistula Abscess Indications in Colon & Rectum Intractable disease Fulminant disease Perianal disease unresponsive to medical management Refractory fistula Colonic obstruction Cancer prophylaxis Colonic Dysplasia or Cancer",
-        "cop": 4,
-        "opa": "Excision is safer.",
-        "opb": "Bypass does not relieve symptoms.",
-        "opc": "Excision cures the patient of Crohn's disease but bypass does not.",
-        "opd": "The risk of small intestine cancer is reduced.",
-        "subject_name": "Surgery",
-        "topic_name": "Inflammatory bowel disease",
-        "id": "a345e93c-9ac5-4db0-8acd-c078be6293a4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common cause of death in Crohn's disease is due to:",
         "exp": "Both crohn's disease & Ulcerative colitis | | risk of colorectal cancer & S. I malignancy M/C Cause of death in CD - Malignancy",
         "cop": 4,
@@ -271,19 +206,6 @@
         "topic_name": "Inflammatory bowel disease",
         "id": "a1d921d1-010c-4b44-9bd0-420abe418577",
         "choice_type": "single"
-    },
-    {
-        "question": "Nongastrointestinal complications of Crohn's disease include:",
-        "exp": "Although Crohn's disease is primarily a disease involving the alimentary tract, involvement of extraintestinal tissues (joints, skin, and eyes) is common and indicates that Crohn's disease is a systemic disorder rather than a localized intestinal disease. In addition to specific processes, secondary consequences of impaired intestinal absorption and resulting malnutrition include anemia due to specific deficits in vitamins, trace elements, and bile acids and electrolytes. Growth retardation and delayed bone maturation are present in 10-40% of children and adolescents with this disease. Patients with terminal ileal disease are also prone to develop renal urate or oxalate stones. Fuhermore, as the result of altered bile salt metabolism and the development of lithogenic bile, patients with ileal disease and ileal resections are also at risk for cholelithiasis.",
-        "cop": 4,
-        "opa": "Renal calculi",
-        "opb": "Cholelithiasis",
-        "opc": "Ahritis",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Inflammatory bowel disease",
-        "id": "9cede5a7-782a-4f49-a723-cf46ea2fcb12",
-        "choice_type": "multi"
     },
     {
         "question": "Best treatment for remission of acute ulcerative colitis is?",

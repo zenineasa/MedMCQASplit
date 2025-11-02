@@ -39,32 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Surgically used suture material polydioxanone:-",
-        "exp": "Surgically used suture material polydioxanone undergoes hydrolysis and complete absorption.",
-        "cop": 2,
-        "opa": "A non-absorbable and remain encapsulated",
-        "opb": "Undergoes hydrolysis and complete absorption",
-        "opc": "Undergoes phagocytosis and enzymatic degradation",
-        "opd": "Is specifically used for heart valves of synthetic grafts",
-        "subject_name": "Surgery",
-        "topic_name": "Sutures and Anastomoses",
-        "id": "de29467b-158f-40c8-889b-bca012b023b8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about suturing principles except:",
-        "exp": "JENKIN'S RULE: Suture length: wound length ratio= 4: 1 i. e If would length is X, suture length is 4X Elliptical Incision: Length: Width is 3X If width of incision is X, length is 3X. Ratio of distance between sutures: skin thickness If thickness of skin is X, distance between suture should be 2X",
-        "cop": 4,
-        "opa": "Each suture should be separated by a gap that is twice the thickness of the skin",
-        "opb": "Suture length to wound length ratio of 4: 1",
-        "opc": "Length to width ratio for elliptical incisions of 3: 1",
-        "opd": "None of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Sutures and Anastomoses",
-        "id": "515442b7-d04b-4be5-b08a-699289e7713e",
-        "choice_type": "multi"
-    },
-    {
         "question": "PDS is absorbed within?",
         "exp": "Polydioxanone (PDS): A synthetic smooth suture that is delayed absorbable, monofilament and lasts longer than dexon. It is absorbed in 6 months; other propeies are the same as dexon.",
         "cop": 4,
@@ -143,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What is true about the resection and anastomosis of necrotic bowel?",
-        "exp": "Single-layer, extramucosal suture technique is preferred as it causes the least tissue necrosis or luminal narrowing The extramucosal suture must include the submucosa because this has a high collagen content and is the most stable suture layer Catgut and silk have been replaced by synthetic, usually absorbable, polymers. The suture materials should be made of absorbable polymer- braided (e. g. polyglactin)/monofilament (e. g. polydioxanone)",
-        "cop": 3,
-        "opa": "Chromic catgut is used for anastomosis",
-        "opb": "Submucosa should not be in the sutures",
-        "opc": "Single-layer, extramucosal suture technique is preferred",
-        "opd": "Single-layer seromuscular suture technique is preferred",
-        "subject_name": "Surgery",
-        "topic_name": "Sutures and Anastomoses",
-        "id": "fcebe597-e78f-47de-a2b3-c664ee117387",
-        "choice_type": "multi"
-    },
-    {
         "question": "In elliptical incision, length to width ratio:-",
         "exp": "In elliptical incision, length to width ratio should be 3: 1. PRINCIPLES OF SUTURING & ANASTOMOSES Each suture should be separated by a gap that is twice the thickness of the skinQ. When knots are cut sho, the free ends or 'ears' should be left at least 1-2 mm longQ. This is paicularly impoant with monofilament non-absorbablesQ. It has been suggested by Jenkins that a suture length to wound length ratio of 4: 1 indicates the optimum size of tissue bites and of suture spacingQ. Anastomosis of vessels was pioneered by CarrelQ. Elliptical incisions must be at least 3 times of the width for the wound to heal without tension (Length to width ratio: 3: 1Q)",
         "cop": 2,
@@ -167,31 +128,5 @@
         "topic_name": "Sutures and Anastomoses",
         "id": "64a31111-b539-43e0-b3a5-e5fd62cdfef3",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following decreases the risk of surgical site infection except:",
-        "exp": "AVOIDING SURGICAL SITE INFECTIONS: - Staff should be always wash their hands between patients. - Preoperative shaving should be avoided if possible ( Preoperative clipping of hair is preferred ) - Antiseptic skin preparation should be standardized - Attention to theatre technique and discipline - Avoid hypothermia perioperatively and ensure supplemental oxygenatin in recovery.",
-        "cop": 3,
-        "opa": "IV antibiotics at induction of anesthesia",
-        "opb": "Staff should always wash their hands between patients",
-        "opc": "Preoperative shaving",
-        "opd": "Avoid hypothermia perioperatively",
-        "subject_name": "Surgery",
-        "topic_name": "Sutures and Anastomoses",
-        "id": "6369e09b-02d4-46ae-b8a4-6be6132486ba",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Vicryl, the commonly used suture material is a:",
-        "exp": "- Vicryl - copolymer of glycolide and lactide - Work horse suture of general surgeon - Delayed absorbable suture (60-90 days)",
-        "cop": 2,
-        "opa": "Homopolymer of polydioxanone",
-        "opb": "Co-polymer of glycolide and lactide",
-        "opc": "Homopolymer of glycolide",
-        "opd": "Homopolymer of lactide",
-        "subject_name": "Surgery",
-        "topic_name": "Sutures and Anastomoses",
-        "id": "ad023a72-c9a3-4138-b095-6345163b98b9",
-        "choice_type": "multi"
     }
 ]

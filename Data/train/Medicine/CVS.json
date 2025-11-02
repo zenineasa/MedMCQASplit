@@ -24,31 +24,5 @@
         "topic_name": "CVS",
         "id": "5b4e1857-d350-46ac-92f1-a52cb7bd53d1",
         "choice_type": "single"
-    },
-    {
-        "question": "A 36-year-old male comes with a 2-day history of chest pain. The pain has been continuous and does not change with activity. Vital signs show normal BP, mild tachycardia and tachypnea, and an oxygen saturation of 90% on room air. Cardiopulmonary exam is normal. An ECG shows a rate of 106 beats/min, left axis detion, left ventricular hyperophy, PR depression, and T wave inversions in V2 to V5. Troponin and CPK-MB are minimally elevated. What is the most likely diagnosis.",
-        "exp": "Option A: Pulmonary embolism= Ruled out because PE ECG findings are S1. Q3. T3/Sinus tachycardia Option C: PR segment depression = Atrial myocardium damage T wave inversion - Ventricular myocardium damage This is talking about diffuse damage in the heart. Option D: ECG of unstable angina= ST normal Sometimes ST | T wave inversion & hemodynamic parameters are normal so it unlikely to be unstable angina.",
-        "cop": 3,
-        "opa": "Pulmonary embolism",
-        "opb": "Costochondritis",
-        "opc": "Pericarditis",
-        "opd": "Unstable angina",
-        "subject_name": "Medicine",
-        "topic_name": "CVS",
-        "id": "e54e75b0-a178-4e19-9bb0-d4d4c4697c42",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which is a contraindication to chemical cardioversion?",
-        "exp": "E. g. of chemical cardioversions Adenosine=PSVT Amiodarone= V. T Ibutilide= A. Fibrillation/A. Flutter Option A: No, it's not a C/I rather we'll use to suppress heart rate. Option B: No, it's not a C/I rather we'll use it to treat palpitations. Option C: No, its not a C/I rather chemical cardioversion is used in Atrial Flutter. Option D: If patient is Hemodynamically instable, one doesn't go for cardioversion.",
-        "cop": 4,
-        "opa": "Heart rate faster than 150 beats per minute",
-        "opb": "Symptomatic palpitations",
-        "opc": "Hemodynamically stable Atrial flutter patient.",
-        "opd": "Hemodynamic instability",
-        "subject_name": "Medicine",
-        "topic_name": "CVS",
-        "id": "5bf26fa8-6905-4dc7-871a-ccf17e2ded48",
-        "choice_type": "multi"
     }
 ]

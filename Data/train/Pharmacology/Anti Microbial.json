@@ -91,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Second generation cephalosporin that can be used orally is",
-        "exp": "Ans. c (Cefaclor). (Ref. Pharmacology by KD Tripathi - 6th/pg. 704). Generation. Oral. Parenteral1st. Cephalexin. Cefadroxil. Cephradine. Cephalothin. Cefazolin2nd. Cefaclor. Cefuroxime. Cefuroxime. Cefoxitin3rd QCefixime. Cefpodoxime. Cefdinir. Ceftibute. Cefoperazone. Cefotanime. Ceftizoxime. Ceftriaxone. Ceftazidime4th--Cefepime. Cefpirome",
-        "cop": 3,
-        "opa": "Cefipime",
-        "opb": "Cephalothin",
-        "opc": "Cefaclor",
-        "opd": "Cefadroxil",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "de54500c-c3b6-4d20-b7b8-9b480e76d70e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Drug given for antibiotic associated pseudomembranous enterocolitis and is part of anti H. Pylori treatment:",
         "exp": "Ans. C. Metronidazole. Triple drug regimen given for H. Pylori include- clarithromycin, amoxicillin, tetracycline, metronidazole. Out of all these drugs metronidazole is drug of choice for pseudomembranous colitis.",
         "cop": 3,
@@ -115,19 +102,6 @@
         "topic_name": "Anti Microbial",
         "id": "e1aadbbf-4d82-4ad2-9a4a-828089f845c5",
         "choice_type": "single"
-    },
-    {
-        "question": "Treatment of C. difficile infection",
-        "exp": "Ans. d (All of the above) (Ref H-17th/820; KDT 6th! 731; Table 123-2). Pseudomembranous enetrocolitis is associated with use of: Rx of Pseudomemb colitis:# Clindamycin# Metronidazole and vancomycin-drug of choice.# Aminoglycosides# Oral Rx for Cl. difficile-Asso Disease include:# Tetracyclines- Placebo or discontine offending antibiotics# Cotrimoxazole- Metronidazole# Ampicillin- Vancomycin# More common after colorectal surgery.- Teicoplanin- Nitazoxanide- Fusidic acid- Bacitracin. Drug reactions--GIDrug reaction. Causal agents. Acute cholestatic hepatitis, jaundice. Erythromycin. Diarrhea. Metformin, Erythromycin, Colchicine, Orlistat, Acarbose. Focal to massive hepatic necrosis. Halothane, Amanita phalloides (death cap mushroom), Valproic acid, Acetaminophen. Hepatitis. INHPancreatitis. Didanosine, Corticosteroids, Alcohol, Valproicacid, Azathioprine, Diuretics(furosemide, HCTZ). Pseudomembranous colitis. Clindamycin, ampicillin, cephalosporin's(predispose to superinfection by resistant C. difficile)",
-        "cop": 4,
-        "opa": "Metronidazole",
-        "opb": "Bacitracin",
-        "opc": "Nitazoxanilide",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "6fa5894d-c18c-44bf-950b-58759c7b2e82",
-        "choice_type": "multi"
     },
     {
         "question": "Resistance to ciprofloxacin is due to:",
@@ -234,45 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "An 82-year-old hospitalized patient with creatinine clearance of 25 mL/min has a microbial infection requiring treatment with antibiotics. Which one of the following drugs is least likely to require a dosage adjustment, either a smaller dose than usual or an increased interval between doses?",
-        "exp": "Erythromycin is eliminated largely via biliary excretion and decreases in renal function do not usually require a dosage reduction unless creatinine clearance <10mL/min. All of the other antimicrobial drugs listed are eliminated by the kidney, at rates proportional to creatinine clearance, so major dose reductions would be needed in patients with renal dysfunction to avoid toxicity.",
-        "cop": 2,
-        "opa": "Arnphotericin B",
-        "opb": "Erythromycin",
-        "opc": "Gentamicin",
-        "opd": "Imipenem-cilastatin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "b740ca92-3399-4365-b3c2-9194a1a7bbff",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are false about tigecycline, except:",
-        "exp": "Ans. d. Not preferred in UTIRef: Goodman Gilman 12th e/P 1523. Tigecycline, doxycycline and minocycline are safe in renal failure. Tigecycline is active against gram negatives with the exception of pseudomonas, providencia, morganella and proteus. Tigecycline has poor bioavailability and hence is given only by parenteral route. Tigecycline is poorly concentrated in urine and hence should be avoided in treatment of urinary tract infection.",
-        "cop": 4,
-        "opa": "Dose reduction in renal failure",
-        "opb": "90% pseudomonas strains are sensitive",
-        "opc": "Oral and parenteral bioavailability is same",
-        "opd": "Not preferred in UTI",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "04420118-7a40-4e9a-84ec-0dfecbafeca0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Despite its \"age, \" penicillin G remains the drug of choice in the treatment of infections caused by",
-        "exp": "Indications for the use of penicillin G are currently limited for a number of reasons. The drug has a narrow spectrum, is susceptible to beta-lactamases, and may cause hypersensitivity, and alternative antibiotics are available. However, penicillin G remains the drug of choice in syphilis, usually given IM as benzathine penicillin G, but as the Na or K salt IV in neurosyphilis. What would you do for patients who are highly allergic to penicillins? (Consider tetracyclines, or possibly desensitization.)",
-        "cop": 2,
-        "opa": "B. fragilis",
-        "opb": "T. pallidum",
-        "opc": "H. influenzae",
-        "opd": "E. coli",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "1b1eac13-64ae-46b3-a2bd-c43e641f8355",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a bacteriostatic Anti tubercular drug?",
         "exp": "ANSWER: (B) Ethambutol. REF: KDT 6th edition page 703. Bacteriostatic anti tubercular drugs are: Thiacetazone. Ethionamide. Ethambutol. PASCycloserine",
         "cop": 2,
@@ -325,19 +260,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following inhibit cell wall synthesis EXCEPT",
-        "exp": "i. e. (Aminoglycosides): (669, 709-KDT 6th) (852-53-H17th). Aminoglycosides (Streptomycin, Gentamicin etc) causes mis reading of m. RNA code and affect permeability. MECHANISM OF ACTION1. Inhibit cell wall synthesis - Penicillins, Cephalosporins, Cycloserine, Vancomycin, Bacitracin2. Cause leakage from cell membranes:- Polypeptides - Polymyxins, Colistin, Bacitracin, Polyenes - Amphotericin B, Nystatin, Hamycin, Gramicidin, Daptomycin3. Inhibit protein synthesis; - Tetracyclines, chloramphenicol, Erythromycin, Clindamycin, Linezolid, aminoglycosides, Mupirocin, Quinopristin / dalpopristin4. Inhibit DNA gyrase: fluoroquinolones - Ciprofloxacin and others novobiocin5. Interfere with DNA function: Rifampin, Metronidazole6. Interfere with DNA synthesis: - Acyclovir, Zidovudine7. Interfere with inter mediary metabolism: Sulfonamides sulfones, PAS, Trimethoprim, Pyrimothamine, Ethambutol* Virtually all the antibiotics that inhibit cell wall synthesis are bactericidal. That is they eventually result in the cells death due to osmoticlysis (852-53-H17th). Examples - Bacitracin, Glycopeptides (Vancomycin and teicoplanin) p- lactam antibiotics (paricillins, cephalosporins, Carbapenems**) (imipenem, meropenem feropenem) and monobactams** (Aztreonam)",
-        "cop": 1,
-        "opa": "Aminoglycosides",
-        "opb": "Cephalosporins",
-        "opc": "Bacitracin",
-        "opd": "Meropenem",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "e01f49de-7266-4944-a857-01b02b6cec09",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following anti-retroviral drugs does not cause peripheral neuropathy?",
         "exp": "Ans. A. Lamivudinea. Peripheral neuropathy (PN) is a well-known adverse effect of NRTIs, mainly Zalcitabine, didanosine and stavudine. Several studies have shown that PN is more frequent when didanosine and stavudine are used in combinationb. Emtricitabine and lamivudine are safest NRTIs. These are not associated with peripheral neuropathy or pancreatitis.",
         "cop": 1,
@@ -349,19 +271,6 @@
         "topic_name": "Anti Microbial",
         "id": "a038a44a-d215-4fd3-ac09-d4f021ee5b3f",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is a topical sulfonamide -",
-        "exp": "Ans. is 'b' i. e., Mafenide Classfication of sulfonamides. Short acting - Sulfadiazine, Sulfisoxaxole, Sulfamethizole, Sulfacystine. Intermediate acting - Sulfamethoxazole. Long acting - Sulfadoxine, Sulfamethopyrazine. Topical Sulfonamides - Sulfacetamide sodium, Mafenide, silver sulfadiazine. Sulfonamide for RA and ulcerative colitis - Sulfasalazine.",
-        "cop": 2,
-        "opa": "Sulfadoxine",
-        "opb": "Mafenide",
-        "opc": "Sulfamethopyrazine",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "db03418d-d526-4a4f-b6c6-7fa66a1c8295",
-        "choice_type": "multi"
     },
     {
         "question": "Which vitamin deficiency occurs in patients taking first line antitubercublar drugs -",
@@ -388,19 +297,6 @@
         "topic_name": "Anti Microbial",
         "id": "9c8a9f8d-a2ae-4f01-8dca-27608fa3e98d",
         "choice_type": "single"
-    },
-    {
-        "question": "Mechanism of action of chloramphenicol is -",
-        "exp": "Ans. is 'b' i. e., SOS ribosome inhibitor * The mechanism of action of antimicrobials can be divided into: 1. Inhibition of cell wall synthesis# Drugs inhibiting cell wall synthesis are: b-lactam antibiotics (penicillin, cephalosporins, monobactoms, carbapenems), cyclosporine, bacitracin, vancomycin, fosfomycin.# All antibiotic inhibiting cell wall synthesis are bactericidal. 2. Inhibition of cell membrane function# Drugs acting on cell membrane are polypeptides (polymyxin, colistin, tyrothricin), polyenes (amphotericin B, nystatin, hamycin), azoles (ketoconazole, fluconazole, itraconazole).# All antimicrobials that act on cell membrane are bactericidal. 3. Inhibition of protein synthesis (translation)# Drugs acting by inhibiting protein synthesis are tetracyclines, chloramphenicol, aminoglycosides, erythromycin, clindamycin, linazolide.# All protein synthesis inhibitors are bacteriostatic except aminoglycosides and streptogramins which are bactericidal.# These drugs can be divided into: a) Based on the steps of translation (protein synthesis) on which drug act: i) Freeze initiation: Aminoglycosides. ii) Inhibit elongation: Tetracyclines, puromycin, chloramphenicol. iii) Inhibit translocation: Clindamycin, erythromycin. iv) Causing premature termination: Puromycin. b) Based on ribosome on which they act: i) 30 S ribosome: Tetracycline, streptomycin. ii) 50 S ribosome: Chloramphenicol, erythromycin, clindamycin, Linezolid, pleuromutilins (retapamulin). iii) Both 30S and 50S ribosomes: Aminoglycosides (except streptomycin). 4. Interference with nucleic acid synthesis# These drugs may be: 1. Drugs directly affecting nucleic acids (RNA or DNA)* DNA gyrase inhibitors - Quinolones (nalidixic acid and fluoroquinolones) and novobiocin.* Drugs destroying DNA - Metronidazole, nitrofurantoin.* Nucleotide/nucleoside analogues - get incorporated into DNA or RNA and lead to formation of faulty nucleic acid that may be unstable or nonfunctional. Drugs are - Acyclovir, Zidovudin, Idoxuridine.* DNA dependent RNA polymerase inhibitors - Rifampicin2. Drugs acting indrectly by affecting intermediary metabolism* They either inhibits folate synthase (sulfonamide, PAS, dapsone) or dihydrofolate reductase (Trimethoprim, pyrimethamine) so that tetrahydrofolate can not be synthesized, which is essential for the synthesis of DNA.",
-        "cop": 2,
-        "opa": "Cell wall synthesis inhibitor",
-        "opb": "50 S ribosome inhibitor",
-        "opc": "30S ribosome inhibitor",
-        "opd": "glycopeptidase inhibitor",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "8ab55d3b-b3b0-421c-99bc-c8dd64b44543",
-        "choice_type": "multi"
     },
     {
         "question": "Which drug acts by inhibiting protein synthesis?",
@@ -520,19 +416,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following antibiotics acts by inhibiting cell wall synthesis?",
-        "exp": "Ans. is 'a' i. e. Cefepime",
-        "cop": 1,
-        "opa": "Cefepime",
-        "opb": "Aminoglycosides",
-        "opc": "Erythromycin",
-        "opd": "Doxycycline",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "d89030ee-1ba0-44ba-8e27-7b1656a378d4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cephalosporin with anti pseudomonal activity -",
         "exp": "Ans. is 'b' i. e., Cefoperazone Drugs acting against Pseudomonas. o Penicillins - Piperacillin, Carbenicillin, Ticarcillin, Mezlocillin, o Cephalosporins - Ceftazidime, Cefoperazone, Cefepime. o Carbapenems - Imipenem, meropenemo Monobactams - Aztreonam. o Aminoglycosides - Tobramycin, Gentamycin, Amikacin, o Fluroquinolones - Ciprofloxacin, Levofloxacin, Norfloxacin., o Other - Polymixin B, Colistin.",
         "cop": 2,
@@ -570,32 +453,6 @@
         "topic_name": "Anti Microbial",
         "id": "c01360f7-2603-4a1d-a71a-dd2c459ee9ee",
         "choice_type": "single"
-    },
-    {
-        "question": "Which antibiotic acts by inhibiting cell wall synthesis",
-        "exp": "Ans. is 'a' i. e. Cefipime",
-        "cop": 1,
-        "opa": "Cefipime",
-        "opb": "Lomefloxacin",
-        "opc": "Erythromycin",
-        "opd": "Tetracycline",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "2dcdf912-7555-45ae-b587-c5b7bff104c2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "NOT true about use of silver sulfadiazine:",
-        "exp": "Ans. (c) Safer for pregnant lady and infants. Ref. wound healing and Ulcers of the skin-Diagnosis and Therapy /154* Silver sulfadiazine is prepared as a water soluble cream in a concentration of 1%.* It is composed of silver nitrate and sodium sulfadiazine, both having antibacterial qualities.* SSD is commonly used in the management of burns and cutaneous ulcers.* It is effective against wide range of pathogenic bacteria, including staph aureus. E. Coli, proteus, enterococci and pseudomonas strain.* Contraindications:# In G6. PD patients.# They can cause kernicterus, hence it is contraindicated in pregnancy or during the first 2 months of life.",
-        "cop": 3,
-        "opa": "1% concentration",
-        "opb": "Burns",
-        "opc": "Safer for pregnant lady and infants",
-        "opd": "Acts against staph aureus",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "0b0b7780-72d8-47ca-9b51-5c44e0022aa6",
-        "choice_type": "multi"
     },
     {
         "question": "Mechanism of action tacrolimus is -",
@@ -663,19 +520,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Advantages of amoxicillin over ampicillin are all except-",
-        "exp": "Ans. is 'b' i. e., Spectrum includes H. influenzae & Shigellao Amoxicillin is a close congener of ampicillin; similar to it in all respects except: Oral absorption is better; food does not interfere with absorption; higher and more sustained blood levels are produced. Incidence of diarrhea is lower. It is less active against Shigella and H. influenzae. o It is now preferred over ampicillin for bronchitis, urinary infections, SABE and gonorrhoea.",
-        "cop": 2,
-        "opa": "Better bioavailability & faster action",
-        "opb": "Spectrum includes H. influenzae & Shigella",
-        "opc": "Incidence of diarrhea is lower",
-        "opd": "Food does not interfere with its absorption",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "fc43a07a-6ab8-4561-938e-7a7f29991448",
-        "choice_type": "multi"
-    },
-    {
         "question": "ATT Drug that kills slowly or intermittently dividing bacteria:",
         "exp": "Ref: KDT 6th ed. pg. 740-44, Katzung Pharma 14th ed. pg. 845. RIFAMPICIN* It is a tuberculocidal agent of M. tuberculosis in addition to staph, aureus, pseudomonas, proteus, legionella etc.* It has bactericidal action of which covers all subpopulations of TB bacilli, bat acts best on slowely or intermittently dividing ones as well as on many atypical mycobacteria.* Both intracellular and extracellular bacilli are affected.* MOA: It inhibits DNA dependent RNA synthesis* Resistance of rifampicin is due to rpoB gene.* Adverse effects:# Hepatoxicity: MC/Major side effect# Rifampicin imparts a harmless orange color to urine, sweat, tears, and contact lenses (soft lenses may be permanently stained).# Occasional adverse effects include rashes, thrombocytopenia, and nephritis.# It may cause cholestatic jaundice and occasionally hepatitis and flu-like symptoms. ISONIAZID* It is primarily tuberculocidal. Fast multiplying organisms are rapidly killed but quiescent ones are only inhibited.* Acts on intracellular as well as extracellular TB bacilli and is equally active in acidic and alkaline medium.* MOA: Inhibit synthesis of mycolic acid, which is a unique fatty acid component of mycobacterial cell wall.* If given alone, resistance occurs in about 2-3 months* Most common mechanism of INH resistance: Mutation of catalase-peroxidase gene > Mutation of inh-A gene.* Adverse effects:# Isoniazid-induced hepatitis is the most common major toxic effect# Peripheral neuropathy is observed in 10-20% of patients# Neuropathy is due to a relative pyridoxine (Vit B6) deficiency. Isoniazid promotes excretion of pyridoxine, and this toxicity is readily reversed by administration of pyridoxine.# Central nervous system toxicity, which is less common, includes memory loss, psychosis, and seizures. PYRAZINAMIDE* It is weakly tuberculocidal. PYZ is more lethal to intracellularly located bacilli and to those at sites showing an inflammatory response.* MOA: Resembles that of INH. It inhibits mycolic acid synthesis but by interacting with a different fatty acid synthase encoding gene.* Resistance of PYZ due to mutation in pncA gene.* Adverse effects: Hepatotoxicity, nausea, vomiting, drug fever, and hyperuricemia. ETHAMBUTOL* Selectively tubecolostatic agent and clinically as active as streptomycin. Fast multiplying bacilli are more susceptible as are many atypical mycobacteria.* MOA: Poorly understood, but it has been found to inhibit arabinosyl transferases involved in arabinogalactan synthesis and to interfere with mycolic acid incorporation in mycobacterial cell wall.* Resistance of ethambutol due to alteration in the drug target gene- emb gene.* Adverse effects: Retrobulbar neuritis, resulting in loss of visual acuity and red-green color blindness. STREPTOMYCIN* Tuberculocidal agent, acts only on extracellular bacilli. It penetrates the tubercular cavities but doesn't crosses the CSF. Has poor action on acidic medium.* Adverse effects: Ototoxic and nephrotoxic.* Resistance is due to a point mutation in either the rpsL gene or rrs gene.",
         "cop": 2,
@@ -713,32 +557,6 @@
         "topic_name": "Anti Microbial",
         "id": "63505772-0ff0-4e84-abf4-287cc606fb7a",
         "choice_type": "single"
-    },
-    {
-        "question": "Mebendazole used in all EXCEPT",
-        "exp": "i. e. (Borrellia Recurrentis): (509-KDT 6th). Indication of Mebendazole use are* Round worm-Ascaris - lumbricoides* Hook worm-Ancylostoma duodenale, Necator americanus* Whip worm-Trichuris trichura* Thread worm-Enterobius vermicularis* Trichinella spiralis-Less effective than albondazole* Hydatid disease-Less effective than albendazole Mebendazole. Parasitic infections - Ascariasis, Capillariasis, eosinophilic enterocolitis, enterobiasis, hook worm, trichinellosis, trichostrongliasis, trichoriasis, visceral larva migrans (1272-H17th). Metronidazole: Indications. Metronidazole is the drug of choice for sympathetic intestinal and extraintestinal amebiasis as well as infections with Trichomonas vaginalis and Giardia lambia. It is quickly and reliably effective against Gardnerella vaginosis. Anaeobic infections (e. g. cerebral abscesses, intra-abdominal abscesses, gynecological infections of the pelvic organs, soft tissue infections, osteomyelitis) are well documented indications. Metronidazole also has an advantageous effect on parodontopathy. Anaerobic infections of the lower respiratory tract respond better to penicillin or clindamycin. Metronidazole is sometimes more efficient than sulfasalazine for Crohn's disease, however, the tolerance of long-term administration is not established. Applied topically, metronidazole has proven effective against rosacea, acne, and foul-smelling skin lesions (tumours, decubitus ulcer). Borrelia recurrentis - causes louse-borne (epidemic) relapsing fever (1052-H17th). Treatment - Doxycycline (or another tetracycline) erythromycin or chloramphenicol highly effective. For children <8 years of age and for pregnant women erythromycin or Penicillin G may be preffered given the potential adverse effects of tetracyclines. Treatment of Giardiasis (*Gierdia lamblia) 1313-H17th* Drug of choice - Metronidazole, other Tinidazole, Nitazoxanide (alternative)* Drug of choice for pregnant women - Paromycin",
-        "cop": 1,
-        "opa": "Borrellia recurrentis",
-        "opb": "Giardia lamblia",
-        "opc": "Treponema vincetti",
-        "opd": "Gardenella infections",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "0ece4430-1a2b-49e9-89ba-7d8de11a2092",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are uses of metronidazole except -",
-        "exp": "Ans. is 'd' i. e.. Malaria Metronidazoleo It has broad spectrum antiprotozoal activity against trichomonas. E. histolytica and G. lamblia. o It is also active against many anaerobic bacteria, o It does not affect aerobic bacteria. o It acts by inhibiting pyruvate: Ferredoxin oxidoreductase (PFOR) enzyme pathway of pyruvate oxidation in anaerobes. o In protozoa the mechanism of action is different i. e. damage to DNA. o Metronidazole is a nitroimdazole; nitro group is activated by reduction to form reactive cytotoxic product that damages the DMA. o It inhibit cell mediated immunity to induce mutagenesis and causes radiosensitization, o Uses1. Amoebiasis2. Giardiasis3. Trichomonas vaginitis4. Anaerobic bacterial infection5. Pseudomembranous enterocolitis. 6. Ulcerative gingivitis, trench mouth. 7. H. pylori gastritis, peptic ulcer.",
-        "cop": 4,
-        "opa": "Amoebiasis",
-        "opb": "Giardiasis",
-        "opc": "Trichomonas vaginitis",
-        "opd": "Malaria",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "fb1cf289-c89a-48ce-95bb-1415f01a4693",
-        "choice_type": "multi"
     },
     {
         "question": "Drug of choice for typhoid fever:",
@@ -793,19 +611,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drug inhibit the cell wall synthesis except:",
-        "exp": "Ans. D. Tetracycline. Drugs inhibiting the cell wall synthesis- beta lactam, bacitracin, vancomycin, cycloserine, Fosfomycin. Tetracycline acts via protein synthesis inhibition.",
-        "cop": 4,
-        "opa": "Penicillin",
-        "opb": "Fosfomycin",
-        "opc": "Vancomycin",
-        "opd": "Tetracycline",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "a14fb06d-8b86-4c25-b6e5-52db426a04d6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Super infection is common in:",
         "exp": "(Immuno-compromised host): Ref: 632-33-KDT(672-73-KDT6th)SUPERINFECTION (SUPRA INFECTION): This refers to the appearance of new infection as a result of antimicrobial therapy* Commonly associated with use of broad/extended spectrum antibiotics such as Tetracyclines, chloramphenicol, ampicilline, newer cephalosporins especially when combinations of these are employed. Super infections are more common when defence is compromised, as in. To minimize superinfection* Corticosteroid therapy* Leukemias and other malignancies, especially when treated with anticancer drugs (these are also immunosuppressants and decreases WBC count)* AIDS* Agranulocytosis* Diabetes, disseminated lupus erythematosus(I) Use specific (narrow spectrum) antimicrobial antibiotics(II) Do not use antimicrobials to treat trivial self limiting or unbeatable (viral) infections(III) Do not unnecessarily prolonged antimicrobial therapy",
         "cop": 2,
@@ -843,19 +648,6 @@
         "topic_name": "Anti Microbial",
         "id": "78e9e758-8ea1-402c-b8d7-619155a5dfe8",
         "choice_type": "single"
-    },
-    {
-        "question": "Econazole is useful for the treatment of all except",
-        "exp": "Ans. is 'b' i. e., Histoplasma capsulatum o Econazole is used only topically for dermatophytosis and Candida infection, o It is not used systemicaliy for deep infections, AZOLESo Azoles (imidazoles and triazoles) have broad spectrum antifungal activity, covering dermatophytes, Candida, other fungi involved in deep mycosis (except mucor). nocardia. some gram positive and anaerobic bacteria, e. g. staph aureus, strep fecalis. bac fragilis and leishmania. o Azoles are presently the most extensively used antifungal drugs. o Amongst imidazoles, ketoconazole is used systemicaliy as well as topically, while other four (clotrimazole, econazole, miconazole, oxiconazole) are used only topically, o Triazoles (fluconazole, itraconazole, variconazole) are used only systemicaliy. o Azoles act by inhibiting ergosterol synthesis. o Ketoconazole decreases androgen production from testis and it displaces testosterone from protein binding sites - gynaecomastia, loss of libido and hair, oligozoospermia. o Ketoconazole, itraconazole, voriconazole inhibit CYP3. AY - dangerous arrhythmias with terfenadine. Astemizole and cisapride. Fluconazole causes ventricular tachycardia with cisapride (relatively safe), o Amongst azoles, fluconazole has best penetration into CSF - Preferred azole for cryptococcal meningitis. o Voriconazole has the widest spectrum, it is the DOC for invasive aspergillosis. o The specific side effects of voriconazole are visual disturbances like blurred vision, photophobia & altered color perception. o Posaconazole is the only azole active against mucormycosis.",
-        "cop": 2,
-        "opa": "Tinea corporis",
-        "opb": "Histoplasma capsulatum",
-        "opc": "Cutaneous candidiasis",
-        "opd": "Tinea pedis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "1c47c1b7-dc1c-486c-9ab0-bbb9f0670036",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drug toxicity can be seen in Crigler Najjar syndrome?",
@@ -975,32 +767,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs can cause hearing loss except:",
-        "exp": "Ans. c. Metronidazole (Ref: Goodman Gillman I2/e p1512, 1542. 1407, Katzung 12/e p824). Metronidazole does not cause hearing loss. \"All aminoglycosides are ototoxic and nephrotoxic. Ototoxicity and nephrotoxicity are more likely to be encountered when therapy is continued for more than 5 days, at higher doses, in the elderly, and in the setting of renal insufficiency. Concurrent use with loop diuretics (eg, furosemide, ethacrynic acid) or other nephrotoxic antimicrobial agents (eg. vancomycin or amphotericin) can potentiate nephrotoxicity and should be avoided if possible. Neomycin, kanamycin, and amikacin are the most ototoxic agents. Streptomycin and gentamicin are the most vestibulotoxic, bleomycin, tobramycin, and gentamicin are the most nephrotoxic. --Katzung 12/e p824\"Vestibular and auditory dysfunction can follow the administration of any of the aminoglycosides, and ototoxicity may become a dose-limiting adverse effect. Aminoglycoside induced ototoxicity results in irreversible, bilateral high-frequency hearing loss and temporary vestibular hypofunction. \"--Goodman Gillman 12/e p1512\"Auditory impairment, sometimes permanent, may follow the use of vancomycin or teicoplanin. Ototoxicity is associated with excessively high concentrations of these drugs in plasma (60-100 ug/mL of vancomycin). \"-Goodman Gillman 12/e p1542\"The fatal oral dose of quinine for adults is ~2-8 g. Quinine is associated with a triad of dose-related toxicides when given at full therapeutic or excessive doses. These are cinchonism, hypoglycemia, and hypotension. Hearing and vision are particularly affected Functional impairment of the eighth nerve results in tinnitus, decreased auditory acuity, and vertigo. Visual signs consist of blurred vision, disturbed color perception, photophobia, diplopia, night blindness, constricted visual fields, scotomata, mydriasis, and even blindness. \"--Goodman Gillman 12/e p1407. Drugs causing Ototoxicity. Antibiotics* AminoglycosidesQ* Vancomycin. QChemotherapeutic drugs* Cisplatin. QDiuretics* Ethacrynic acidQ* Furosemide. QOthers* QuinineQ* SalicylatesQ Aminoglycosides Side-Effects Maximum. Minimum. Ototoxicity* AmikacinQ (Auditory)* StreptomycinQ (Vestibular)* Netilmycin. QNephrotoxicity* Neomycin >GentamicinQ* Streptomycin. QNeuromuscular Blockade* Neomycin >StreptomycinQ* TobramycinQ",
-        "cop": 3,
-        "opa": "Vancomycin",
-        "opb": "Kanamycin",
-        "opc": "Metronidazole",
-        "opd": "Quinine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "165b2d74-8113-4208-9c99-c29a62df258a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All antiretroviral drugs produce peripheral neuropathy except -",
-        "exp": "Ans. is 'd' i. e., Indinavir Characteristic side effects of important antiretroviral drugs. Lamivudin - Nausea, headache, fatigue. Stavudine - Peripheral neuropathy, lipodystrophy, hyperlipidemia, pancreatitis, rapidly progressive ascending neuromuscular weakness. Didanosine - Peripheral neuropathy, pancreatitis, diarrhea, nausea, hyperuricemia. Zalcitabine - Peripheral neuropathy, oral ulceration, pancreatitis. Zidovudin - Macrocytic anemia, neutropenia, nausea, headache, insomnia, asthenia. Tenofovir - Asthenia, headache, diarrhea, nausea, vomiting, flatulance, renal insufficiency. Efavirenz - CNS effects, rash, T liver enzymes. Nevirapine - Rash, hepatitis, nausea, headache. Indinavir - Nephrolithiasis, nausea, indirect hyperbilirubinemia, headache, blurred vision, asthenia.",
-        "cop": 4,
-        "opa": "Stavudine",
-        "opb": "Zalcitabine",
-        "opc": "Didanosine",
-        "opd": "Indinavir",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "a1a5a0c6-2945-4a28-b4fa-7b2b1cbdc5f5",
-        "choice_type": "multi"
-    },
-    {
         "question": "1st line Anti tuberculous drug contraindicated in pregnancy?",
         "exp": "Ans. is 'd' i. e., Streptomycin Treatment of tuberculosis in Pregnanacy* Work up and treatment of tuberculosis should not be delayed in Pregnant women. All pregnant women with active tuberculosis should be treated immediately because the risk to the mother and fetus is 1. 6 much higher from maternal tuberculosis than it is from potential harm from the anti-tubercular drugs.* First line drugs can be safely used in pregnancy except streptomycin which is contraindicated because of its associated with fetal ototoxicity.* Second line drugs are not recommended in pregnancy (They are used only if benefit outweighs the risk, as in case of MDR tuberculosis).* Pyrazinamide is not recommended by CDC (USA) in absence of sufficient safety data, however many tubercular authorities all over world support its use.* CDC recommends an alternative 9 month regimen containing isoniazid and rifampin throughout (supplemented by ethambutol, until drug susceptibility results are available).* Breastfeeding is not contraindicated in women using antituberculosis drugs.",
         "cop": 4,
@@ -1012,19 +778,6 @@
         "topic_name": "Anti Microbial",
         "id": "391583dd-2e47-409c-9a83-6c70926c5610",
         "choice_type": "single"
-    },
-    {
-        "question": "For systemic mycosis fluconazole is preferred over ketoconazole because of -",
-        "exp": "Ans. is 'd' i. e., All the above Imidazoles and Triazoles* These are presently the most extensively used antifungal drugs.* Four imidazoles are entirely topical, while ketoconazole is used both orally and topically.* Two triazoles fluconazole and itraconazole have largely replaced ketoconazole for systemic mycosis because of greater efficacy, Longer 11/2, fewer side effects and drug interactions.* The imidazoles and triazoles have broad spectrum antifungal activity covering dermatophytes, Candida, other fungi involved in deep mycosis (except mucor), Nocardia, some gram positive and anaerobic bacteria, e. g.* Staph, aureus, Strep, faecalis, Bac. fragilis and Leishmania.* The mechanism of action of imidazoles and triazoles is the same. They inhibit the fungal cytochrome P450 enzyme Tanosterol 14-demethylase' and thus impair ergosterol synthesis leading to a cascade of membrane abnormalities in the fungus.* The lower host toxicity of triazoles compared to imidazoles has correlated with their lower affinity for mammalian CYP450 enzymes and lesser propensity to inhibit mammalian sterol synthesis.* However, because they are active against certain bacteria as well (which do not have ergosterol), other mechanisms of action also appear to be involved.",
-        "cop": 4,
-        "opa": "Greater efficacy",
-        "opb": "Longer t1/2",
-        "opc": "Lesser side effects",
-        "opd": "All the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "dc1e62fd-e696-4318-8673-64e023acee8b",
-        "choice_type": "multi"
     },
     {
         "question": "Drug of choice for medical treatment of hydatid cyst of liver is",
@@ -1053,19 +806,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Metronidazole is a:",
-        "exp": "Ans: b (Tissue amoebicide) Ref: Tripathi, 6th ed, p, 7981. Tissue amoebicidesa) For both intestinal and extraintestinal amoebiasis. Nitroimidazoles: Metronidazole, tinidazole. secnidazole, Omidazole, satranidazole. Alkaloids-. Emetine, dehydroemetineb) For extraintestinal amoebiasis only: Chloroquine2. Luminal amoebicidesa) Amide-. Diloxanide furoate, nitzoxanideb) 8-Hydroquinolines-. Quindochlor, diiodohydroxyquin (Iodoquinol)c) Antibiotics: Tetracyclines. Metronidazole. THERAPEUTIC USESMetronidazole cures genital infections with T. vaginalis in > 90% of cases. The preferred regimen is 2 g metronidazole as a single oral dose for both males and females. Metronidazole is the agent of choice for all symptomatic forms of amebiasis, including colitis and liver abscess. The recommended dose is 500-750 mg metronidazole taken orally three tiniesdaily for 7-10 days. The daily dose for children is 35-50 mg/kg, given in three divided doses, for 7-10 days.. E. histolytica persist in most patients who recover from acute amebiasis after metronidazole therapy, so it is recommended that all such individuals also be treated with a luminal amebicide. Metronidazole is used for treatment of giardiasis. Metronidazole is used for the treatment of serious infections owing to susceptible anaerobic bacteria, including bacteroides, Clostridium, fusobacterium, peptococcus. peptostreptococcus. eubacterium. And helicobacter. Metronidazole achieves clinically effective levels in bones, joints, and the CNS and can be given intravenously when oral administration is not possible.. Metronidazole is used as a component of prophylaxis of postoperative mixed bacterial infections and is used as a single agent to treat bacterial vaginosis. Metronidazole is used increasingly as primary therapy for pseudomembranous colitis due to Clostridium difficile infection. At doses of250-500 mg orally three times daily for 7-14 days, metronidazole is effective and less expensive than oral vancomycin. Metronidazole also is used in patients with Crohn disease who have perianal fistulas or significant colonic disease. MILTEFOSINEMiltefosine is the first orally available therapy for leishmaniasis. It is safe and effective treatment for visceral leishmaniasis and has also shown >95% efficacy against cutaneous leishmaniasis. NIFURTIMOXNifurtimox and benznidazole are trypanocidal against both the trypomastigote and amastigote forms of T. cruzi. Nifurtimox also has activity against T. brucei and can cure early- and late-stage disease. NITAZOXANIDENitazoxanide and its active metabolite tizoxanide inhibit the growth of sporozoites and oocytes of C. parvum and inhibit the growth of the trophozoites of G intestinalis. E. histolytica, and T. vaginalis in vitro.",
-        "cop": 2,
-        "opa": "Luminal amoebicide",
-        "opb": "Tissue amoebicide",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "a0300a74-dd1a-4844-bf41-5da592e90763",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drug can cause grey baby syndrome",
         "exp": "Ref: KDT, 6th ed. pg. 717. Antimicrobial drugs. Side effects. Chloramphenicol. Grey baby syndrome Bone marrow suppression. Tetracycline. Teeth discoloration and bone growth suppression. Phototoxicity. Fanconi syndrome (in case of expired tetracycline). Vestibular dysfunction. Vancomycin. Red man/Red neck syndrome Nephrotoxic and ototoxic. Clindamycin. Pseudomembranous colitis. VANCOMYCIN: drug of choice for MRSA Vancomycin NEVER effective against Pseudomonasb LACTAMS never effective against MRSA. AMINOGLYCOSIDE never effective against Anaerobes. Most common cause of pseudo membranous colitis: 3rd Gen. cephalosporin. DOC for pseudo membranous colitis: VANCOMYCIN (Oral). Preferred agent in mild case of pseudomembranous colitis- Metronidazole",
         "cop": 2,
@@ -1077,32 +817,6 @@
         "topic_name": "Anti Microbial",
         "id": "c820a3dc-a2b4-4ade-a68d-63a87e1c3693",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following drugs action pseudomonas infection EXCEPT",
-        "exp": "(Azithromycin) (730-KDT 6th). Drugs which acts on Pseudomonas* Carbenicilline* Cefoperazone* Tobramycin* Acetic acid* Ticarcilline* Aztreonam* Sisomicin* Silver sulphadiazine* Azlacilline* Imipenem* Amikacin* Tetracyclines* Mezlocilline* Cefotaxime* Nitilmicin* Cefepime* Peperacilline* Ciprofloxacine* Gentamicin * Moxalactam* Norfloxacin* Polymyxin -B * Ceptazidime* Ofloxacin* Mafenide * Pefloxacin Azithromycin - It is more active than other macrolide against H. influenzae* Usefully active against a number of important gram negative organisms It is not active against erythromycin resistant bacteria",
-        "cop": 4,
-        "opa": "Carbenicilline",
-        "opb": "Azlocilline",
-        "opc": "Peperacilline",
-        "opd": "Azithromycin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "a5f4f90a-59fb-455b-bb36-baa30a7c9acb",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drug which can used in management of streptococcal endocarditis susceptible to penicillin, but patient developing immediate allergy following penicillin administration",
-        "exp": "Ans. is 'b' i. e., Vancomycin * Following table depicts the medical treatment of choice in patients with streptococcal endocarditis: Antibiotic Treatment for infective Endocarditis Caused by Common Organisms\"Organism. Drug (Dose, Duration). Comments. Streptococci. Pe nicill i n - susceptible streptococci, S. gallolyticus* Penicillin G (2-3 mU IV q4h for 4 weeks)--* Ceftriaxone (2 g/d IV as a single dose for 4 weeks)* Vancomycin (15 mg/kg IV q I2h for 4 weeks)* Penicillin G (2-3 mU IV q4h) or ceftriaxone (2 g IV qd) for 2 weeks plus Gentamicin or divided into equal doses q8h for 2 weeks). Can use ceftriaxone in patients with nonimmediate penicillin allergy Use vancomvcin in patients with severe or immediate b-lactam allergy. Avoid 2-weeks regimen when risk of aminoglycoside toxicity is increased and in prosthetic valve or complicated endocarditis. Relatively penicillin - resistant streptococci* Penicillin G (4 mU IV q4h) or ceftriaxone (2 g IV qd) for 4 weeks plus Gentamicindd ( 3mg/kg qd IV or IM, as a single dosee or divided into equal doses q8h for 2 weeks)* Vancomycin0 as noted above for 4 weeks. Penicillin alone at this dose for 6 weeks or with gentamicin during initial 2 weeks preferred for prosthetic valve endocarditis caused by streptococci with penicillin MICs of < 0. 1 mg/ m. LModerately penicillin -resistant streptococci, nutritionally variant organisms, or Gemella morbillorum* Penicillin G (4-5 mU IV q4h) or ceftriaxone (2g IV qd) for 6 weeks plus Gentamicin (3 mg/kg qd IV or IM as a single dosee or divided into equal doses q8h for 6 weeks). Preferred for prosthetic valve endocarditis caused by streptococci with penicillin MICs fo >0. 1 mg/mL * Vancomycinc as noted above for 4 weeks--",
-        "cop": 2,
-        "opa": "Ceftriaxone",
-        "opb": "Vancomycin",
-        "opc": "Meropenem",
-        "opd": "Carbenicillin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "5e263f7e-f498-4c6e-a8d0-76d2c29fa363",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following can cause hypoglycaemia in a patient of severe cerebral malaria on treatment?",
@@ -1142,32 +856,6 @@
         "topic_name": "Anti Microbial",
         "id": "094f489a-632f-488e-9103-5a3b47d089f6",
         "choice_type": "single"
-    },
-    {
-        "question": "Dose reduction is required in renal failure with all except:",
-        "exp": "Ans. C. Doxycycline. Dose reduction is needed in case of following conditions:* Drug causing nephrotoxicity as adverse drug reaction* Drug excreted through renal route. Amphotericin B is most nephrotoxic among antifungals. Even liposomal preparations of amphotericin B (c-AMB, LAMB, ABCD, ABLC) are nephrotoxic, though less as compared to conventional Amphotericin B. More than 90% of vancomycin is excreted through glomerular filtration. In case of renal failure, there may be less excretion which leads to toxicity of Vancomycin due to its striking accumulation in body (ototoxicity, nephrotoxicity, red man syndrome). Half-life of vancomycin can increase to 6-10 days in case of anephric patients. Gentamicin is an aminoglycoside. Aminoglycosides are most potent to cause both ototoxicity and nephrotoxicity. Aminoglycosides are excreted almost entirely by glomerular filtration. High concentration of aminoglycosides is found in otic fluid and by virtue of the process of elimination: high concentration is found in urinary tract. Dose modification required in renal failure.* Cockcroft-Gault equation. CCr =72x. SCr (140-Age)x. Weight(kg) CCr = creatinine clearance (expressed in mL/min); SCr = serum creatinine (expressed in mg/dL). Among tetracyclines, minocycline and doxycycline are safe in renal impairment cases. Doxycycline does not cause nephrotoxicity and is excreted through bile. Other tetracyclines can cause Fanconi syndrome characterized by toxic metabolite accumulation (tetracyclines and epihydrotetracyclines). So, answer is Doxycycline.",
-        "cop": 3,
-        "opa": "Amphotericin B",
-        "opb": "Vancomycin",
-        "opc": "Doxycycline",
-        "opd": "Gentamicin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "dc99faad-9b03-42e4-a661-f2c1148b2da4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Tetracyclines inhibit protein synthesis by acting on-",
-        "exp": "Ans. is 'a' i. e., 30-S ribosome Drugs binding to ribosome||||30-S ribosome50 -S ribosome. Both 30-S & 50-So Tetracyclineo Streptomycino Chloramphenicolo Erythromycino Clindamycino Aminoglycosides (except streptomycin). Pleuromutilins (Retapamulin) new class of drug for topical treatment of impetigo due to MRSA and streptococcus. It acts by inhibiting protein synthesis after binding to 50 'S' ribosome.",
-        "cop": 1,
-        "opa": "30-S ribosome",
-        "opb": "50-S ribosome",
-        "opc": "Both 30-S & 50-S ribosome",
-        "opd": "60-S ribosome",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "c41ff0d4-01f2-4238-9980-bbb249b5dc20",
-        "choice_type": "multi"
     },
     {
         "question": "Drug of choice for brucellosis:",
@@ -1248,19 +936,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Terbinafine hydrochloride is:",
-        "exp": "Ans. B. Antifungal. (Ref Goodman Gillman 11th edition CHAPTER 48). The treatment of superficial fungal infections caused by dermatophvtic fungi may be accomplished:(1) with topical antifungal agents, eg, clotrimazole, miconazole, econazole, ketoconazole, oxiconazole, sulconazole, ciclopirox olamine, naftifine, terbinafine, butenafine, and tolnaftate; or(2) with orally administered agents, ie, griseofulvin, terbinafine, ketoconazole, fluconazole, and itraconazole. Superficial infections caused by Candida species may be treated with topical applications of clotrimazole, miconazole, econazole, ketoconazole, oxiconazole, ciclopirox olamine, nystatin, or amphotericin B. Chronic generalized mucocutaneous candidiasis is responsive to long-term therapy with oral ketoconazole. Terbinafine# Its mechanism of action: inhibition of fungal squalene epoxidase, blocking ergosterol biosynthesis.# Terbinafine 1% cream or spray is applied twice daily and is effective in tinea corporis, tinea cruris, and tinea pedis. Terbinafine is less active against Candida species and Malassezia furfur, but the cream also can be used in cutaneous candidiasis and tinea versicolor.# Terbinafine, given as one 250-mg tablet daily, is at least as effective for nail onychomycosis as 200 mg daily of itraconazole, and slightly more effective than pulse itraconazole therapy. Duration of treatment varies with the site being treated but typically is 3 months. Although not approved for this use, terbinafine (250 mg daily) also is effective in ringworm elsewhere on the body.# Terbinafine is not recommended in patients with marked azotemia or hepatic failure, because in the latter condition, terbinafine plasma levels are increased by unpredictable amounts. Rifampin decreases and cimetidine increases plasma terbinafine concentrations.# The drug is well tolerated, with a low incidence of gastrointestinal distress, headache, or rash. Rarely, hepatotoxicity, severe neutropenia, Stevens-Johnson syndrome, or toxic epidermal necrolysis may occur. The drug is contraindicated in pregnancy (category B). I",
-        "cop": 2,
-        "opa": "Antibacterial",
-        "opb": "Antifungal",
-        "opc": "Antiviral",
-        "opd": "None",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "fb406e5e-a746-45ff-bab2-013b9ef7d7f0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mechanism of action of quinolones is?",
         "exp": "ANSWER: (A) DNA gyrase inhibitors. REF: Goodman G ill man s 11th ed p. 722. The quinolone antibiotics target bacterial DNA gyrase and topoisomerase IV. For many gram positive bacteria, topoisomerase IV is the primary target. For many gram-negative bacteria, DNA gyrase is the primary quinolone target.",
         "cop": 1,
@@ -1272,19 +947,6 @@
         "topic_name": "Anti Microbial",
         "id": "e069f4b5-1689-4b7e-a941-c988f33fa3de",
         "choice_type": "single"
-    },
-    {
-        "question": "Imipenem is combined with cilastatin to:",
-        "exp": "Ans. (A) Cilastatin prevents degradation of imipenem in kidney(Ref: Goodman and Gilman 13th/e p1035). Imipenem is rapidly inactivated by renal dehydropeptidase I, so it is combined with cilastatin, an inhibitor of this enzyme. Cilastatin increases the half life of imipenem and also inhibits the formation of nephrotoxic metabolite. Meropenem, doripenem and ertapenem are not metabolized by renal dehydropeptidase",
-        "cop": 1,
-        "opa": "Cilastatin prevents degradation of imipenem in kidney",
-        "opb": "Cilastatin inreases intestinal absorption of imipenem",
-        "opc": "Cilastatin inhibits beta lactamase activity",
-        "opd": "Both have synergistic activity against Pseudomonas",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "41dae4a5-639a-4bb2-93c6-1b8f5fed4ad2",
-        "choice_type": "multi"
     },
     {
         "question": "Use of tadalafil is contraindicated in:",
@@ -1337,19 +999,6 @@
         "topic_name": "Anti Microbial",
         "id": "be722566-f885-4d64-8e4b-58f439b1c9bf",
         "choice_type": "single"
-    },
-    {
-        "question": "Not true about quinine?",
-        "exp": "Ans. is 'c' i. e., Causes hyperglycemia Quinine* It is levo rotatory alkaloid obtained from cinchona bark. Its d-isomer quinidine is used as an antiarrhythmic. Quinine is an erythrocytic schizontocide for all species of plasmodium. Quinine has no effect on pre and exoerythrocytic stage. Mechanism of action is similar to chloroquine.* Other actions# Local irritant - causes nausea, vomiting, epigastric discomfort and on i. v. injection pain & local necrosis of muscles and venous thrombosis.# Anaesthetic, weak analgesic, antipyretic, cardiodepressant, antiarrhythmic, hypotensive action (rapid i. v. injection can cause marked fall in BP and collapse).# Quinine increases gastric secretion, directly decreases myocardial contractility and stimulates myometrium.# It affects hearing and vision at higher doses.# It decreases blood sugar due to release of insulin.* Adverse effects - Cinchonism, hypotension, cardiac arrhythmias, hypoglycemia, hypersensitivity reaction. It occasionally causes hemolysis - hemoglobinuria and kidney damage.* To prevent hypoglycemia, iv infusion of quinine should be given in 5% dextrose.* Uses - Malaria, Nocturnal muscle cramp, diagnosis of mysthenia gravis, varicose vein.* Quinine does not cause toxicity even at higher concentration in patients with malaria because of binding to alpha-1 acid glycoprotein, which is raised during infection.",
-        "cop": 3,
-        "opa": "Causes hypotension",
-        "opb": "Acts as local irritant",
-        "opc": "Causes hyperglycemia",
-        "opd": "Decreases skeletal muscle contraction",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "2076239b-2996-450e-8272-867be024289e",
-        "choice_type": "multi"
     },
     {
         "question": "Drugs used in neutropenic patients should be:(1994)",
@@ -1443,32 +1092,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Mechanism of action of Fluoroquinolones is",
-        "exp": "(Inhibit DNA gyrase) (628, 647-KDT) (688-KDT 6th). Fluoroquinolones (FQs)* First generation FQs - Norfloxacin, Ciprofloxacin, Ofloxacin, Pefloxacin* Second generation FQs - Lomefloxacin, Sparfloxacin, Levofloxacin, Gatifloxacin, Moxifloxacin.* FQs inhibits the enzyme bacterial DNA gyrase, which nicks double stranded DNA, introduces negative super coils and then reseals the nicked ends.* FQ action is similar enzyme topo isomerase IV, which nicks and separates daughter DNA strands after DNAreplication.",
-        "cop": 3,
-        "opa": "Inhibit cell wall synthesis",
-        "opb": "Inhibit protein synthesis",
-        "opc": "Inhibit DNA gyrase",
-        "opd": "Interfere with DNA synthesis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "7ab414d1-b98c-493d-9e19-9f7f601d25cc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Orally effective drug in candidiasis:",
-        "exp": "Ans: d (Itraconazole) Ref: Tripathi, 6th ed, p. 759; Goodman and Gilman's, 11th ed, p. 810. Candidiasis1st choice2nd choice. Oral/vaginal/cutaneous. Flucanozole/nystatin/ Clotrimazole. Itraconazole. Disseminated. Amphotericin B/ Voriconazole. Fluconazole. Itraconazole is used orally for candidiasis. lt has broader spectrum than fluconazole and ketoconazole. It is fungistatic, but effective in immunocompromised patients. Oral itraconazole is the drug of choice for patients with indolent, nonmeningeal infections due to B. demiatitidis, H. capsulatum, P. brasiliensis, and C. immitis and also is useful for indolent invasive aspergillosis outside the CNS, particularly following initial therapy with amphotericin B. The intravenous formulation is approved for the initial 2 weeks of therapy for blastomycosis, histoplasmosis, and indolent aspergillosis, and for empirical therapy of febrile neutropenic patients not responding to antibiotics and at high risk of fungal infections. The intravenous route is most appropriate for patients unable to tolerate oral drug or unable to absorb itraconazole because of decreased gastric acidity. Micanozole and clotrimazole are topical azoles. Mechanism of action of antifungals5 -Flucytosine inhibits thymidylate synthase and thus inhibits DNA synthesis. Amphotericin binds with ergosterol of the cell membrane and forms pores that increase membrane permeability and allow leakage of small molecules. Gnseofulvin inhibits fungal mitosis, presumably disrupting the mitotic spindle by interacting with polymerized microtubules. Griseofulvin also may bind to a microtubule-associated protein. Terbinafine is a synthetic allylamine that is structurally similar to naftifine. It probably acts by inhibiting fungal squalene epoxidase and blocking ergosterol biosynthesis",
-        "cop": 4,
-        "opa": "Micanozole",
-        "opb": "Ketoconazole",
-        "opc": "Clotrimazole",
-        "opd": "Itraconazole",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "8943f044-7ce7-4680-bf18-9c186c3c4876",
-        "choice_type": "multi"
-    },
-    {
         "question": "Jarisch - Herxheimer reaction are seen in syphilis With",
         "exp": "(Penicillin) (657-KDT) (698-KDT 6th). Jerisch-Herxheimer reaction:- Penicillin injected in a syphilitic patient (particularly secondary syphilis) may produce shivering, fever myalgia, exacerbation of lesions, even vascular collapse. This is due to sudden release of spirochetal lytic products and lasts 12-72 hours. It does not recur and does not need interruption of therapy. Aspirin and sedation afford relief of symptoms.",
         "cop": 2,
@@ -1480,19 +1103,6 @@
         "topic_name": "Anti Microbial",
         "id": "8218df09-6e36-46ef-ab1b-654a298e89f6",
         "choice_type": "single"
-    },
-    {
-        "question": "Imipeneme is active against which of the following organism/s?",
-        "exp": "Ans. is 'd' i. e., All the above Imipenem* A derivative of thienamycin, imipenem is an extremely potent and broad spectrum b-lactam antibiotic whose range of activity includes gram-positive cocci, Enterobacteriaceae, Ps. aeruginosa, Listeria as well as anaerobes like Bact. fragilis and Cl. difficile.* It is resistant to most b-lactamases; inhibits penicillinase producing staphylococci.* Though some MRSA are inhibited, it is not reliable for treating such infections.* A limiting feature of imipenem is its rapid hydrolysis by the enzyme dehydropeptidase Ilocated on the brush border of renal tubular cells.* An innovative solution to this problem is its combination with cilastatin, a reversible inhibitor of dehydropeptidase I, which has matched pharma cokinetics with imipenem (tl/2 of both isl hr) and protects it.* Imipenem-cilastatin 0. 5 g i. v. 6 hourly (max4 g/day) has proved effective in a wide range of serious hospital- acquired respiratory, urinary, abdominal, pelvic, skin and soft tissue infections including those in neutropenic, cancer and AIDS patients. For Ps. aeruginosa infections, it should be combined with gentamicin.",
-        "cop": 4,
-        "opa": "Gram positive cocci",
-        "opb": "B. fragilis",
-        "opc": "CL difficle",
-        "opd": "All the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "324c5429-e173-4edb-9452-9b7574e5d86b",
-        "choice_type": "multi"
     },
     {
         "question": "The drug that acts by inhibiting bacterial RNA polymerase is",
@@ -1519,32 +1129,6 @@
         "topic_name": "Anti Microbial",
         "id": "2033e2f6-d5e1-40b5-a911-eb1200c62e55",
         "choice_type": "single"
-    },
-    {
-        "question": "True regarding clavulanic acid is -",
-        "exp": "Ans. is 'a' i. e., Deactivates Beta lactamase Clavulanic acido Clavulanic acid is a beta-lactamase inhibitor. Addition of clavulanic acid re-estabilishes the activity of amoxicillin against b-lactamase producing organisms, o Clavulanic acid has a b-lactam ring but no antibacterial activity of its own. o Clavulanic acid is a suicide inhibitor, it gets inactivated offer binding to the enzyme because of irreversible binding. o Clavulanic acid is a progressive inhibitor, binding is reversible initially, but become irreversible later due to covalent bonding, i. e. inhibition increases with time. Other beta-lactamase inhibitorso Sulbactam is combined with ampicillin. o Tazobactom is combined with piperacillin.",
-        "cop": 1,
-        "opa": "Deactivates beta lactamase",
-        "opb": "Decreases renal excretion of amoxycillin",
-        "opc": "Potentiates action of penicillin",
-        "opd": "Decreases the side effects of amoxicillin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "449c6641-409b-4cfa-83d6-8f462e106a14",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is not true about Mebendazole",
-        "exp": "Ans. is 'a' i. e., Safe in pregnancy Mebendazole - It has broad spectrum antihelminthic activity. It is effective against both egg and adults in the following helminths. Round worm (Ascaris). Hookworm (Ancylostoma). Thread worm (Enterobius). Whip worm (Trichuris). Action on other parasites - Strongyloides - less effective against it. Tapeworm -75% cure rate has been achieved H. Nana - relatively insensitive. Trichinella spiralis - expels the worm out of intestine but not effective against larva. Absorption of mebendazole from intestine is minimal (75-90% of the dose is passed in faeces). Safety of mebendazole during pregnancy is not known, but is contraindicated on the basis of animal data. Also know. Site of action of Mebendazole is microtubular protein (b tubulin).",
-        "cop": 1,
-        "opa": "Safe in pregnancy",
-        "opb": "Broad spectrum antihelminthic",
-        "opc": "Relatively low systemic bioavailability",
-        "opd": "Active against both larva and adult worm",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "1c222015-abc7-42ba-93a3-39c1b71d885e",
-        "choice_type": "multi"
     },
     {
         "question": "Drug not used in CMV retinitis:",
@@ -1703,58 +1287,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Anti Helicobacter pylori drugs include all of the following except:",
-        "exp": "Ans: D (Sucralfate) Ref: The Pharmacological basis of therapeutics by Good man & Gilman - 12th edition, page no. 1320. Explanation: Common eradication regimens Helicobacter pylori include triple therapy and quadruple therapy both of which are given for 14 days. Triple therapy - proton pump inhibitor + clarithromycin 500 mg + metronidazole 500 mg or amoxicillin 1 g BD or tetracycline 500mg QIDQuadruple therapy - Proton pump inhibitor twice a day + metronidazole 500 mg three times daily plus bismuth subsalicylate 525 mg + tetracycline 500 mg four times daily. Quadruple therapy is especially used in areas with high degree of resistane to H. pylori. Alternative regimen - H2 receptor antagonist BD plus bismuth subsalicylate 525 mg + metronidazole 250 mg + tetracycline 500 mg QIDAddition of proton pump inhibitor or H2 antagonist enhances the activity of effectiveness of the antibiotics used against H. pylori. Mucosa associated lymphoid tissue lymphoma of the stomach also requires anti - H. pylori eradication regimen. Sucralfate. It is not used in any of the H. pylori eradication regimens. It has a special role in the prevention of stress induced ulcers. When given in the rectal route they may be effective in radiation proctitis and solitary rectal ulcers. Since the drug contains aluminium, it should be avoided in patients with renal failure.",
-        "cop": 4,
-        "opa": "Amoxicillin",
-        "opb": "Clarithromycin",
-        "opc": "Metronidazole",
-        "opd": "Sucralfate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "d26ed846-6add-4972-a4c5-c669aea3b2f1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about clavulanic acid is?",
-        "exp": "ANSWER: (A) b lactamase inhibitors. REF: Katzung 9th ed p. 1064. Beta-Lactamase Inhibitors (Clavulanic Acid, Sulbactam, & Tazobactam)[?] These substances resemble -lactam molecules but themselves have very weak antibacterial action. They are potent inhibitors of many but not all bacterial lactamases and can protect hydrolyzable penicillins from inactivation by these enzymes. [?] The indications for penicillin- -lactamase inhibitor combinations are empirical therapy for infections caused by a wide range of potential pathogens in both immunocompromised and immunocompetent patients and treatment of mixed aerobic and anaerobic infections, such as intraabdominal infections. [?] Clavulanic acid or clavulanate, usually combined Kith amoxicillin (Augmentin) or ticarcillin[?] Sulbactam, usually combined with ampicdlin[?] Tazobactam, usually combined with piperacillin",
-        "cop": 1,
-        "opa": "b lactamase inhibitors",
-        "opb": "Extended spectrum penicillin",
-        "opc": "Gram negative bacteria",
-        "opd": "Plasmid inhibitors",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "08da691b-02d4-4bc0-973a-b29b128d9a88",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Burkholderia cepacia is intrinsically resistant to",
-        "exp": "(B) Polymyxin[?]BURKHOLDERIA CEPACIA COMPLEX is a group of Gram negative, catalase positive and lactose non fermenting species (nine species). o. This microrganism causes pneumonia in immunocompromized patients and lung disease in patients affected by cystic fibrosis or chronic granulomatosis disease. o. Pathogenesis: organisms may be found in water or in soil and can survive in wet areas, also person to person spread has been documented. o. Infection can cause a rapid decline in the lung function resulting in death. oB. cepacia complex is naturally resistant to many common antibiotics including Aminoglicosides or Polimixyn B (used for identification of organism: polymixin bacitracin lactose agar)oB. cepacia complex strains are intrinsically resistant to a wide range of antimicrobial agents, including aminoglycosides, polymyxin, first and second generation cephalosporins, and carboxypenicillinso. Antimicrobial agents that are effective against B. cepacia complex include meropenem, ceftazidime, piperacillin, temocillin, and trimethoprim-sulfamethoxazole. Burkholderia cepacian-'Burkholderia cepacia' How resistant?-Biodegradation of synthetic herbicides and petroleum oxidants.-Panresistance to antibiotics.-Can utilize penicillin as nutrient!-Resistance to natural antimicrobial peptides (defensins) of amoebae, insects, animals and humans - explains CGD. Other Options[?]. Ciprofloxacino. Highly susceptible-E. coli, K. pneumoniae, Enterobacter, Salmonella typhi, other Salmonella, Shigella, Proteus, Neisseria gonorrhoeae, N. meningitidis, H. influenzae, H. ducreyi, Campylobacter jejuni, Yersinia enterocolitica, Vibrio choleraeo. Moderately susceptible-Pseudomonas aeruginosa, Staph, aureus, (including few MRSA), Staph, epidermidis, Branhamella catarrhalis, Legionella, Brucella, Listeria, Bacillus anthracis, Mycobact. tuberculosis[?]. Cotrimoxazoleo. The fixed dose combination of trimethoprim and sulfamethoxazole is called cotrimoxazole. o. Spectrum of action Antibacterial spectra of trimethoprim and sulfonamides overlap considerably. o. Additional organisms covered by the combination are-Salmonella typhi, Serratia, Klebsiella, Enterobacter, Yersinia enterocolitica, Pneumocystis jiroveci and many sulfonamideresistant strains of Staph, aureus, Strep, pyogenes, Shigella, enteropathogenic E. coli, H. influenzae, gonococci and meningococci. [?]. Ceftazidimeo. The most prominent feature of this third generation cephalosporin is its high activity against Pseudomonas. o. It has been specifically used in febrile neutropenic patients with haematological malignancies, burn, etc. o. Its activity against Enterobacteriaceae is similar to that of cefotaxime, but it is less active on Staph, aureus, other gram positive cocci and anaerobes like Bact. fragilis.",
-        "cop": 2,
-        "opa": "Ciprofloxacin",
-        "opb": "Polymyxin",
-        "opc": "Cotrimoxazole",
-        "opd": "Ceftazidime",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "2965344e-9707-46aa-8bd0-48e8f754b8aa",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Gancyclovir is more effective than acyclovir against?",
-        "exp": "Ans. A. CMV. (Ref. H - 17th/pg. 2633; 847; 1092). Harrison's internal medicine 17th/pg. 1092....... GANCICLOVIR is an analogue of acyclovir, ganciclovir is active against HSV and VZV and is markedly more active than acyclovir against CMV. Harrison's internal medicine 17th/pg. 847....... \"With the development of highly effective oral antiviral agents, CMV immune globulin is no longer used. Ganciclovir (valganciclovir) is beneficial when prophylaxis is indicated and for the Rx of serious CMV disease. Acyclovir (Valacyclovir) is less efficacious but also less toxic than ganciclovir (Valganciclovir). The availability of Valganciclovir and Valacyclovir has allowed most centers to move to oral prophylaxis for transplant recipients. Additional oral prophylactic agents, such as maribavir, are in clinical study\".# Ganciclovir, valganciclovir, foscamet, and cidofovir are approved for Rx of CMV retinitis in patients with AIDS. They are also used for colitis, pneumonia, or \"wasting\" syndrome associated with CMV and for prevention of CMV disease in transplant recipients. GANCICLOVIR AND VALGANCICLOVIR# An analogue of acyclovir. ganciclovir is active against HSV and VZV and is markedly more active than acyclovir against CMV.# Ganciclovir is a synthetic nucleoside analogue of 2?-deoxyguanosine. The drug is preferentially phosphorylated by virus-induced cellular kinases.# Ganciclovir triphosphate acts as a competitive inhibitor of the CMV DNA polymerase, and its incorporation into nascent viral DNA results in premature chain termination.# In HSV- and VZV-infected cells, ganciclovir is phosphorylated by virus-encoded thymidine kinases; in CMV-infected cells, it is phosphorylated by a viral kinase encoded by the UL97 gene.# Ganciclovir is approved for the Rx of CMV retinitis in immunosuppressed patients and for the prevention of CMV disease in transplant recipients. It is widely used for the Rx of other CMV-associated syndromes, including pneumonia, esophago. GI infections, hepatitis, and \"wasting\" illness.# Oral ganciclovir has largely been supplanted by valganciclovir, which is the L-valyl ester of ganciclovir & is frequently used in place of IV ganciclovir.- Intraocular ganciclovir, given by either intravitreal injection or intraocular implantation, has also been used to treat CMV retinitis.# Valganciclovir is well absorbed orally, with a bioavailability of 60%, and is rapidly hydrolyzed to ganciclovir in the intestine and liver. The area under the curve for a 900-mg dose of valganciclovir is equivalent to that for 5 mg/kg of ganciclovir given IV, although peak serum concentrations are -40% lower for valganciclovir. The serum half-life is 3. 5 h after IV administration of ganciclovir and 4. 0 h after PO administration of valganciclovir.# Valganciclovir is an orally bioavailability prodrug that can generate high serum levels of ganciclovir, although studies of its efficacy in treating CMV CNS infections are limited. Foscarnet# is a pyrophosphate analogue that inhibits viral DNA polymerases by binding to the pyrophosphate-binding site.# Foscarnet is poorly soluble and must be administered IV via an in- fusion pump in a dilute solution over 1-2 h.# Foscarnet is approved for the Rx of CMV retinitis in patients with AIDS and of acvclovir-resistant mucocutaneous HSV infections. Intraocular foscamet has been used to treat CMV retinitis.# Foscarnet has also been employed to treat acyclovir-resistant HSV and VZV infections as well as ganciclovir- resistant CMV infections, although resistance to foscarnet has been reported in CMV isolates obtained during therapy. Foscarnet has also been used to treat HHV-6 infections in immunosuppressed patients.# The major form of toxicity associated with foscamet is renal impairment. Thus renal function should be monitored closely, particularly during the initial phase of therapy.# Since foscarnet binds divalent metal ions, hypocalcemia, hypomagnesemia, hypokalemia, and hypo- or hyperphosphatemia can develop. Saline hydration and slow infusion appear to protect the patient against nephrotoxicity and electrolyte disturbances.# Foscarnet is not myelosuppressive and is active against acyclovir- and ganciclovir-resistant herpesviruses. Cidofovir# Cidofovir is a phosphonate nucleotide analogue of cytosine.# Its major use is in CMV infections. particularly retinitis. but it is active against a broad range of herpes viruses. including HSV. human herpesvirus (HHV) type 6. HHV-8. and certain other DNA viruses such as polyomaviruses. papillomaviruses. adenoviruses. and poxviruses. including variola (smallpox) and vaccinia.# Cidofovir is usually active against foscarnet-resistant CMV. although cross-resistance to foscarnet as well as to ganciclovir has been described.# Cidofovir has poor oral availability and is administered IV. It is excreted primarily by the kidney and has a plasma half- life of 2. 6 h.# The major toxic effect of cidofovir is proximal renal tubular injury, as manifested by elevated se- rum creatinine levels and proteinuria. The risk of nephrotoxicity can be reduced by vigorous saline hydration and by concomitant oral probenecid. Neutropenia, rashes, and GI intolerance may also occur.# IV cidofovir has been approved for the Rx of CMV retinitis in AIDS patients who are intolerant of ganciclovir or foscarnet or in whom those drugs have failed. AMCICLOVIR AND PENCICLOVIR# Famciclovir is the diacetyl 6-deoxyester of the guanosine analogue penciclovir.# Famciclovir is well absorbed orally, has a bioavailability of 77%, and is rapidly converted to penciclovir by deacetylation and oxidation in the intestine and liver.# Penciclovir's spectrum of activity and mechanism of action are similar to those of acyclovir. Thus, penciclovir is usually not active against acyclovir-resistant viruses.# Famciclovir is effective as therapy for mucocutaneous HSV infections in HIV-infected patients. Ribavirin (Intravenous)# (15-25 mg/kg per day in divided doses given every 8 h) has been reported to be of benefit in isolated cases of severe encephalitis due to California encephalitis (La. Crosse) virus.# Ribavirin might be of benefit for the rare patients, typically infants or young children, with severe adenovirus or rotavirus encephalitis and in patients with encephalitis due to LCMV or other arenaviruses.# However, clinical trials are lacking. Hemolysis, with resulting anemia, has been the major side effect limiting therapy. TRIFLURIDINE# Trifluridine is a pyrimidine nucleoside active against HSV-1, HSV-2, and CMV. VIDARABINE# Vidarabine is a purine nucleoside analogue with activity against HSV- 1, HSV-2, VZV, and EBV.# Vidarabine inhibits viral DNA synthesis through its 5?-triphosphorylated metabolite.# IV-administered vidarabine has been shown to be effective in the Rx of herpes simplex encephalitis, mucocutaneous HSV infections, herpes zoster in immunocompromised patients, and neonatal HSV infections. Its use has been supplanted by that of IV acyclovir, which is more effective and easier to administer.",
-        "cop": 1,
-        "opa": "CMV",
-        "opb": "Influenza",
-        "opc": "Herpes",
-        "opd": "None of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "13c1c711-2f11-4a25-933d-28fa500fefe5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drug acts at 50s ribosome:",
         "exp": "Ref: Sharma & Sharma 3rd ed. P 702. Protein synthesis inhibitor drugs acting at 30s and 50s ribosomal unit. Drugs acting by inhibiting 30s ribosome. Aminoglycoside (Streptomycin, Gentamicin, Tobramycin, Kanamycin, Amikacin). Tetracycline (Minocycline, Demeclocyclin, Doxycycline). Drugs acting by inhibiting 50s ribosome. Streptogramins (Quinpristin & Dalfopristin). Erythromycin (macrolides). Lincosamides (Clindamycin). Linezolid. Ketolides (Telithromycin, Cethromycin) Chloramphenicol. Mn: Buy AT 30, SELL Karo China in 50",
         "cop": 3,
@@ -1768,19 +1300,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Not true about clofazamine -",
-        "exp": "Ans. is 'a' i. e., Used in DLE Clofazimineo Clofazimine is a leprostatic drug. o It acts by interfering the template function of DNA. o Adverse effects of clofazimine Skin - Reddish-black discolouration of skin, dryness of skin and itching, Discolouration of hair and body secretions, acneform eruptions and phototoxicity, conjuctival pigmentation. GIT- Enteritis with loose stools, nausea, abdominal pain, anorexia and weight loss. Remember - Clofazimine has antiinflammatory property can be used in lepra reaction.",
-        "cop": 1,
-        "opa": "Used in DLE",
-        "opb": "Causes ichthyosis and hyperpigmentation",
-        "opc": "Interferes DNA synthesis",
-        "opd": "Used in lepra reaction",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "49c6dc86-cf61-4977-9b6e-7f9b9715ca08",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which antimalarial drug is known to cause neuropsychiatric adverse reaction?",
         "exp": "Ans. d (Mefloquine) (Ref. KDT 6th/pg. 787; Katzung 9th/pg. 871). Approximately 1 in every 10, 000 recipients of mefloquine develops an acute reversible neuropsychiatric reaction manifested by confusion, psychosis, convulsions, or encephalopathy. MEFLOQUINE# Mefloquine (250 mg of salt weekly, adult dose) has been the antimalarial prophylactic agent of choice for much of the tropics because it is usually effective against multidrug-resistant falciparum malaria and is reasonably well tolerated.# S/E include:- Mild nausea, - dizziness, - fuzzy thinking, - disturbed sleep patterns, - vivid dreams, and- malaise# The role of mefloquine prophylaxis during pregnancy remains uncertain; in studies in Africa, mefloquine prophylaxis was found to be effective and safe during pregnancy. DRUGINDICATIONADVERSE EFFECTSINTERACTIONSMefloquine. Malaria. Frequent: light-headedness, nausea, headache. Occasional: confusion, nighmares, insomnia, visual disturbances, transient and clinically silent ECG abnormalities (including sinus bradycardia, sinus arrhythmia, first-degree AV block, prolongation of QTc interval, and abnormal T waves). Rare: psychosis, convulsions, hypotension. Administration of halofrantine <3 weeks after mefloquine use may produce fatal QTc prolongation. Mefloquine may lower plasma levels of anticonvulsants. Mefloquine levels decreased and clearance accelerated by artesunate. Artemisinin derivates. Malaria. Occasional: neurotoxicity (ataxia, convulsions), nausea, vomiting, anorexia, contact dermatitis. Mefloquine levels decreased and clearance accelerated by artesunate. Quinine and quinidine. Malaria, babe- siosis. Frequent: cinchonism (tinnitus, high-tone deafness, headache, dysphoria, nausea, vomiting, abdominal pain, visual disturbances, postural hypotension), hyperinsulinemia resulting in life-threatening hypoglycemia. Occasional: deafness, hemolytic anemia, arrhythmias, hypotension due to rapid intravenous infusion. Carbonic-anhydrase inhibitors, thiazide diuretics: reduce renal elimination of quinidine: Amiodarone, cimetide: increase quinidine levels. Nifedipine: decreases quinidine levels; quinidine shows metabolism of nifedipine. Phenobarbital, phenytoin, rifampicin: accelerate hepatic elimination of quinidine Verapamil: reduces hepatic clearance of quinidine. Diltiazem: decreases clearance of quinidine",
         "cop": 4,
@@ -1792,19 +1311,6 @@
         "topic_name": "Anti Microbial",
         "id": "26b0395a-42e6-40fc-901f-b43802348c03",
         "choice_type": "single"
-    },
-    {
-        "question": "Erythromycin acts by binding to SOS and interferes with______ step of protein synthesis by bacteria?",
-        "exp": "Ans. D. Translocation. (Ref. KDT 6th/pg. 727). KDT6th/pg. 727....... \"Erythromycin acts by inhibiting bacterial protein synthesis. It combines with SOS ribosome subunits and interferes with 'translocation'\"Erythromycin:# It is bacteriostatic at low but cidal at high concentration.# It is several fold more active in alkaline medium, because the non-ionized form of the drug is favored at higher pH.# MOA:- Erythromycin acts by inhibiting bacterial protein synthesis. It combines with 50S ribosome subunits and interferes with 'translocation'. After peptide bond formation between newly attacjed amino acid and the nacent peptide chain at the acceptor (A) site the elongated peptide is translocated back to peptidyl (P) site, making the A site available for next aminoacyl t. RNA attachment. This is prevented by erythromycxin and the ribosomes fail to move along the m. RNA to expose the next codon.# Spectrum:- Narrow- Includes mostly gram + and few gram negative bacteria, and overlaps considerably with that of penicillin G.- Highly active against Str. Pyogenes and Str. Pneumoniae, N. gonorrhoea, Clostredia, C. diphtheriae, Listeria.- Most penicillin-resistant staphylococci and streptococci have now become resistant to erythromycin.- Campylobacter, Legionella, Branhamella cataralis, Gadnerella vaginalis and mycoplasma are highly sensitive to erythromycin.# Pharmacokinetics:- 70-80% plasma protein bound, partly metabolized, and excreted primarily in bile in active form.- Renal excretion is minor.- Dose need not be altered in renal failure.# Interaction:- Inhibits hepatic oxidation of many drugs.- Causes rise in plasma levels of theophylline, carbamazepine, valproate, ergotamine, and warfarin.- Cases of QT prolongation, serious V'tachs and death reported due to CYP3. A4 inhibition by erythromycin/ clarithromycin resulting in high bloofd levels of concurrently administered terfenadine, astemizole or cisapride.",
-        "cop": 4,
-        "opa": "Transcription",
-        "opb": "Translation",
-        "opc": "Transduction",
-        "opd": "Translocation",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "c57f2798-0736-4687-94bc-f15d6ff6f43a",
-        "choice_type": "multi"
     },
     {
         "question": "Non-hepatotoxic anti-tubercular drug is",
@@ -1846,19 +1352,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Mechanism of action of vancomycin is",
-        "exp": "(Inhibit - Cell wall synthesis) (732-KDT6th)VANCOMYCIN - bactericidal and acts by interfering with cell wall synthesis, inhibits the release of peptido glycah units from their site of assembly on cell membrane phospholipids. Thus these residues are not available for cross linking to form the cell wall* Clindemycin, Spectinomycin - inhibits protein synthesis* Nalidixic acid - acts by inhibiting bacterial DNA replication* Rifampicin - inhibits DNA dependent RNA synthesis",
-        "cop": 2,
-        "opa": "Inhibit protein synthesis",
-        "opb": "Inhibit cell wall synthesis",
-        "opc": "Inhibiting bacterial DNA replication",
-        "opd": "Inhibit DNA dependent RNA synthesis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "ba6d5aee-2405-48a6-aaa3-a0993702ef72",
-        "choice_type": "multi"
-    },
-    {
         "question": "Ethambutol is avoided in children as it causes -",
         "exp": "Ans. is 'b' i. e., Visual disturbanceo The main adverse effect of Ethambutol is retrobulbar optic neuritis (unilateral or B/L). o This causes loss of visual activity, red-green colour blindness, central scotoma, peripheral vision loss. o The changes reverse, if the t/t is stopped promptly if not, the patient may go blind. o Children below 6 years of age are not given ethambutol because children are unable to report early visual deterioration. o Ethambutol also produces hyperuricemia.",
         "cop": 2,
@@ -1896,19 +1389,6 @@
         "topic_name": "Anti Microbial",
         "id": "2ef241d4-5311-41c6-b5df-e374c8b7cdbc",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true regarding Mechanism of action except:",
-        "exp": "Ref: Basic & Clinical Pharmacology Katzung 12th ed. p. 8. J8. Explanation: Tetracycline inhibits bacterial protein synthesis by- binding to 30S ribosomal subunit. The remaining drugs are matched correctly with their mechanism of action.",
-        "cop": 2,
-        "opa": "Chloramphenicol - Protein synthesis",
-        "opb": "Tetracycline - Cell wail synthesis",
-        "opc": "Metronidazole -- DNA",
-        "opd": "Penicillin - cell wall synthesis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "9bb3723c-f99a-433c-839e-144e562b005c",
-        "choice_type": "multi"
     },
     {
         "question": "A mother is breast-feeding her 2-month-old infant. Which one of the following drug situations involving the mother is unlikely to cause effects in the nursing infant?",
@@ -2015,19 +1495,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Tetracyclines are the first drug of choice for the following EXCEPT",
-        "exp": "Ans. d (Community acquired pneumonia) (Ref. KDT, Pharmacology, 6th ed., 715). Tetracyclines are 1st choice of drugs for:# Lymphogranuloma venereum # Lyme's disease # Brucellosis # Relapsing fever. Mneumonic = Lvbra CPG# Rickettsial infection # Atypical pneumonia due to chalmydia # Cholera # Plague prophylaxis # Granuloma inguinale TETRACYCLINESMechanism of action. Bacteriostatic; bind to 30S and prevent attachment of aminoacyl-t. RNA; limited CNS penetration. Doxycycline is fecally eliminated and can be used in patients with renal failure. Do not take with milk (Ca2+), antacids (Ca2+ or Mg2+), or iron-containing preparations because divalent cations inhibit its absorption in the gut. Indications. Borrelia burgdorferi, M. pneumoniae. Drug's ability to accumulate intracellularly makes it very effective against Rickettsia and Chlamydia, Also used to treat acne. Advrese effects. Gl distress, discoloration of teeth and inhibition of bone growth in children, photosensitivity. Contraindicated in pregnancy. Mech of resistanceuptake or efflux out of bacterial ceils by plasmid-encoded transport pumps. Educational Points# All tetracyclines excreted in urine except--Doxycycline# Contraindicated in pregnancy# Causes fetal tooth enamel dysplasia and bone growth disturbances# Out-dated tetracycline -can cause Fanconi's syndrome & pseudotumor cerebri# Demeclocycline and Doxycycline -Phototoxicity +.# Minocycline -Vestibulotoxicity# Demeclocycline -ADH-like action# Block protein synthesis at 30S ribosomal subunit-Aminoglycosides, tetracyclines.",
-        "cop": 4,
-        "opa": "Granuloma inguinale",
-        "opb": "Cholera",
-        "opc": "Atypical pneumonia",
-        "opd": "Community acquired pneumonia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "096864aa-361d-47cb-871d-1dc9d2e99c69",
-        "choice_type": "multi"
-    },
-    {
         "question": "Radical curve for plasmodium vivax used",
         "exp": "B. i. e. (Primaquine) (784 - KDT 6th)* Drug of choice for radical cure of vivax an ovale malaria is - Primaquine**Commonly used therapeutic options for the Treatment and Prevention of malaria (421-Lippincott, s 3rd)1. All plasmodium species except chloroquine resistant P. falciparum- Chloroquine2. Chloroquine resistant P. falciparum- Quinine + Pyrimethamine - sulfadoxine. ORDoxycycline. ORClindamycin. Alternate Mefloquine3. Prevention of relapse P. Vivax and P. ovale only- Primaquine4. Prevention of malaria(i) Chloroquine sensitive geographic areas - Chloroquine(ii) Chloroquine resistant geographic areas - Mefloquine(iii) Pregnancy - Chloroquine** or Mefloquine",
         "cop": 2,
@@ -2067,32 +1534,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Allopurinol acts by -",
-        "exp": "Ans. is 'a' i. e., Inhibiting synthesis of uric acid Allopurinolo It is hypoxanthine analogueo It is a uric acid synthesis inhibitor. o It is a substrate as well as inhibitor of xanthine oxidase. o Allopurinol itself is a short acting (t 1/2 - 2 hours) competitive inhibitor of xanthine oxidase, but its major metabolite alloxanthine (oxypurine) is a long acting (t 1/2 - 24 hours) noncompetitive inhibitor - primarily responsible for uric acid synthesis inhibition. o During allopurinol therapy concentration of hypoxanthine and xanthine increases, while uric acid decreases - All three are excreted in urine. o Since xanthine and hypoxanthines are more soluble and have a higher renal clearance than uric acid, precipitation and crystallization in urine and tissues does not occur. o Allopurinol is the first choice drug in chronic gout. It can be used in both over producers and under excretors of uric acid. o It is also used in secondary hyperuricemia, to potentiate 6-mercaptopurine or azathioprine. o Hypersensitivity reaction (rashes, fever, malaise) is the most common adverse effect.",
-        "cop": 1,
-        "opa": "Inhibiting synthesis of uric acid",
-        "opb": "Inhibiting purine synthesis",
-        "opc": "Inhibiting pyrimidine synthesis",
-        "opd": "Inhibiting conversion of xanthine to hypoxanthine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "caf6d924-6a29-4166-b3c5-dcbf10c386f0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following are effective against tinea versicolor EXCEPT:",
-        "exp": "Ans. d (Griseofulvin). (Ref. KD Tripathi 5th ed. - 719, 722)GRISEOFULVIN# It causes abnormal metaphase configuration & interferes with mitosis.# It does not cause typical metaphase arrest.# It is effective against dermatophytosis and athlete's foot.# It is NOT effective against Tinea versicolor.# Food increasese absorption of griseofulvin Clinical Features. Etiologic Agent. Treatment. Dermatophytosis. Inflammatory or noninflammatory annular scaly plaques; may have hair loss; groin involvement spares scrotum; hyphae on KOH preparation. Trichophyton, Epidermophyton, or Microsporum sp. Topical azoles, systemic griseofulvin, terbinafine, or azoles. Candidiasis. Inflammatory papules and plaques with satellite pustules, frequently in intertriginous areas; may involve scrotum; pseudohyphae on KOH preparation. Candida albicans and other Candida species. Topical nystatin or azoles; systemic azoles for resistant disease. Tinea versicolor. Hyperpigmented or hypopigmented scaly patches on the trunk; characteristic mixture of hyphae and spores on KOH preparation (\"spaghetti and meatballs\"). Malassezia furfur. Topical selenium sulfide lotion or azoles",
-        "cop": 4,
-        "opa": "Fluconazole",
-        "opb": "Clotrimazole",
-        "opc": "Ketoconazole",
-        "opd": "Griseofulvin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "35c40113-35e8-417b-b7ac-14f4849cc0b2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drug is safe during pregnancy is:",
         "exp": "(Ampicilline): Ref 37-H (700-KDT 6th) Intrauterine amniotic infection is most often caused by E. coli and group B streptococcus. In high risk patients at term or in proterm patients routine intrapartum prophylaxis of group B streptococcus (GBS) disease is recommended Penicillin G and Ampicillin are the drug of choice. Given at 1 hour before surgery Initially it was given with induction of anesthesia. But as per new protocol it is given 1 hour before surgery. For prolonged surgery it's repeated after 4 hours",
         "cop": 2,
@@ -2119,19 +1560,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Primaquine acts on which stage of life cycle of all human malarial parasites for causal prophylaxis?",
-        "exp": "Ans. is 'a' i. e., Pre erythrocyte Antimalarial drugs. Purpose Acting on. Examples. Causal prophylaxis. Preerythrocytic schizogony1. For falciparum: Proguanil, tetracycline2. For all species: Primaquine. Clinical cure 1. Fast acting - Chloroquine, amadioquine, quinine, mefloquine, halofantrine, lumefanterine, atovaquone, artimisinin. 2. Slow acting - Pyrimethamine, proguanil, sulfonamides, tetracyclines. Gametocidal. Gametocytes1. For all species: Primaquine, artimisinins2. For P. vivax: Chloroquine, quinine. Radical care. Exoerythrocytic schizogonyI. Primaquine",
-        "cop": 1,
-        "opa": "Pre erythrocyte",
-        "opb": "Erythrocyte",
-        "opc": "Exo erythrocyte",
-        "opd": "Hyponozoite",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "f38294ba-5af3-4090-b25d-0e5641bc9c01",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which first line antitubercular drug is bacteriostatic?",
         "exp": "Ans. is 'c' i. e., Ethambutol o All first line drugs are tuberculocidal except ethambutol which is tuberculostatic. Thberculocidal -Rifampin, INH, streptomycin, pyrazinamide. Tuberculostatic - Ethambutol, PAS, cycloserine, thioacetazone.",
         "cop": 3,
@@ -2143,19 +1571,6 @@
         "topic_name": "Anti Microbial",
         "id": "7eb616c5-dcf0-4997-9599-9fed0e352c2e",
         "choice_type": "single"
-    },
-    {
-        "question": "Multi drug resistant TB is resistance to:",
-        "exp": "Ans. C. Isoniazid/rifampicin. Multidrug resistance in TB is resistance to both isoniazid and rifampicin. It is fatal form of disease. Apart from first line, second line drugs can be given which are levofloxacin, moxifloxacin, kanamycin, amikacin, cycloserine, ethionamide, PAS can be given.",
-        "cop": 3,
-        "opa": "Isoniazid",
-        "opb": "Rifampicin",
-        "opc": "Isoniazid/ rifampicin",
-        "opd": "All first line drugs",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "e774e89f-7529-4d23-bc37-03658e68b1a5",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is a latest drug approved for MDR TB?",
@@ -2182,19 +1597,6 @@
         "topic_name": "Anti Microbial",
         "id": "ec942f72-caca-42bc-80fb-c95901347793",
         "choice_type": "single"
-    },
-    {
-        "question": "Beta-lactamase production is a mechanism of resistance common to strains of H. influenzae, M. catarrhalis, and Neisseria gonorrhoeae. Which one of the following drugs is most likely to be effective against ALL strains of the above organisms?",
-        "exp": "Ceftriaxone (IM) is a drug of choice in gonorrhea and is also highly effective in otitis media, infections in which beta-lactamase-producing strains of H. influenzae and M. catarrhalis are commonly implicated. The fourth-generation drug, cefepime, also has activity against these organisms. Amoxicillin and ticarcillin are susceptible to beta-lactamases. TMP-SMX does not cover all strains of the organisms listed, and the activity of clindamycin is restricted to gram-positive cocci and anaerobes.",
-        "cop": 2,
-        "opa": "Amoxicillin",
-        "opb": "Ceftriaxone",
-        "opc": "Clindamycin",
-        "opd": "TMP-SMX",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "84d6f324-cdfa-47b8-b4ee-755cb330c5c7",
-        "choice_type": "multi"
     },
     {
         "question": "Anti TB drug not toxic to liver is-",
@@ -2327,19 +1729,6 @@
         "choice_type": "single"
     },
     {
-        "question": "MOA of vancomycin is:",
-        "exp": "ANS. A# Mechanism of action of cell wall synthesis inhibitors* Beta lactam antibiotics: Transpeptidase blocker* Vancomycin: Transglycosylation blocker* Dephosphorylation blocker: Bacitracin* Enol pyruvate transferase blocker: Fosfomycin* Alanine ligase blocker: Cycloserine# Mechanism of action of protein synthesis inhibitors* Aminoglycoside: Blocks initiation by binding to 30s* Linezolid: Blocks initiation by binding to 50s* Tetracycline: Blocks attachment of new amino acid to acceptor site* Chloramphenicol: Peptidyltransferase blocker* Macrolide, lincosamide, streptogramin: Blocks translocation",
-        "cop": 1,
-        "opa": "Cell wall synthesis inhibition",
-        "opb": "Cell membrane inhibition",
-        "opc": "Peptide synthesis inhibition",
-        "opd": "30s ribosome inhibition",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "37d9ca13-6b2e-46e9-84ff-6a9d7187bd60",
-        "choice_type": "multi"
-    },
-    {
         "question": "Common dose dependant side effects of Ethambutol is",
         "exp": "(Loss of visual acuity) (701-KDT) (742-43-KDT 6th)ETHAMBUTOL - It is distributed widely but penetrates meninges incompletely and is temporarily stored in RBC's* * Loss of visual acuity/ colour vision, field defects due to optic neuritis is the most important dose and duration of therapy dependent toxicity.* It should not be used below 6 years of age.* * Hyperuricemia is due to interference with urate excretion.",
         "cop": 2,
@@ -2405,32 +1794,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Gynaecomastia is a side effect of all, EXCEPT:",
-        "exp": "Ans. is 'c' Rifampicin Drugs causing Gynecomastia. Ketoconazole*Calcium channel blockers*Digitalis*Estrogens*Ethionamide*Griseofuloin*INHMethyldopa*Phenytoin*Reserpine*Spironolactone*Testosterone*",
-        "cop": 3,
-        "opa": "Digitalis",
-        "opb": "Ketoconazole",
-        "opc": "Rifampicin",
-        "opd": "Spironolactone",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "93dabdea-6783-4d91-b538-27c9487e477d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Mechanism of action of amphotericin B:",
-        "exp": "Ref: Sharma & Sharma 3rd ed. P 781* Amphotericin binds to fungal cell membrane namely ergosterol and alters the permeability of fungal cell wall by forming pores through which macromolecules like Na+, K+, Mg, H+ leaks out causing fungal cell death.* Resistance is due to replacement of ergosterol by other steol in fungal plasma membrane.* Peak antifungal activity of the drug occurs at pH 6. 0 to 7. 5 and the drug is widely distributed to most tissues EXCEPT CNS.* Plasma half life: 15 days* Use:# Most commonly used to treat serious fingal infections from yeast or mould group.# Superficially can be given to treat candidiasis.# DOC in following conditions:* Invasive aspergillosis (all patients including immunocompromised)* Mucormycosis* Disseminated histoplasmosis* Rapidly progressive coccidiomycosis* Rapidly progressive blastomycosis* Non AIIDS cryptococcal meningitis* Oropharyhgeal and cutaneous candidiasis* Kala Azar (liposomal Amp B)",
-        "cop": 2,
-        "opa": "Cell wall synthesis inhibitior",
-        "opb": "Alters permeability of fungal cell wall",
-        "opc": "Protein synthesis inhibitor",
-        "opd": "Act as antibody for fungus",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "a43b7f23-4ceb-4036-bdca-5ec0b438f160",
-        "choice_type": "multi"
-    },
-    {
         "question": "Bacteria implicated in dental caries",
         "exp": "Ans. is 'a' i. e., streptococcus mutans Viridans streptococci is implicated in causing Dental caries. Various species of viridans streptococci are -S. Salivarius S. Mitis S. Sanguis S. Mutans. These bacterias are a part of normal flora of the mouth. They can cause bacteremias through minor trauma such as eating, brushing md flossing, these bacteremias can then cause endocarditis.",
         "cop": 1,
@@ -2442,32 +1805,6 @@
         "topic_name": "Anti Microbial",
         "id": "3ff935f0-9ad0-4966-9e30-0afb3d33c13b",
         "choice_type": "single"
-    },
-    {
-        "question": "Vancomycin is used orally for treatment of",
-        "exp": "Ref: Sharma & Sharma 3rd ed. P 742-43; Katzung, 14th ed. pg. 809* Vancomycin (oral) is now considered as the drug of choice for pseudomembraneous colitis.* Metronidazole also used for pseudomembraneous colitis in mild cases.* Ampicillin has been associated with pseudomembranous colitis* Ceftriaxone is DOC for typhoid/enteric fever. Should be given IV.* METRONIDAZOLE is also the drug of choice in the treatment of amebiasis, trichomoniasis, Giardiasis and extraluminal amebiasis.* For serious pseudomembranous colitis not responding to metronidazole, DOC is Vancomycin",
-        "cop": 2,
-        "opa": "Hepatic encephalopathy",
-        "opb": "Pseudomembranous colitis",
-        "opc": "Staphylococcal food poisoning",
-        "opd": "None of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "3cafb595-0546-44ed-b2ce-cbaa58d7d951",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Antitubercular drug causing ophthalmic toxicity is:",
-        "exp": "Ans, C Ethambutol. Optic neuritis due to ethambutol:* Reversible* Loss of red green color discrimination* Central scotomas. Extra Edge points: Rifabutin and Rifampin can also orange tan discoloration of tears and contact lenses.",
-        "cop": 3,
-        "opa": "Isoniazid",
-        "opb": "Rifampicin",
-        "opc": "Ethambutol",
-        "opd": "None of above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "b2e7f429-30a5-48c8-8183-18dec994489b",
-        "choice_type": "multi"
     },
     {
         "question": "Combination of trimethoprim and sulfamethoxazole is effective against which opportunistic infection in AIDS:",
@@ -2561,19 +1898,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drug is CYP3A inhibitor except:",
-        "exp": "Ans. D. Saquinavir. Out of all protease inhibitors, Saquinavir has least effect on hepatic microsomal enzymes. Rest of the protease inhibitors inhibit microsomal enzymes. Important enzymes inhibitors: a. Acute alcohol intakeb. Sodium valproatec. Cimetidine, Ketoconazole, Erythromycind. Grape fruit juicee. Protease inhibitors (Pls)f. Fluoroquinolonesg. Omeprazole",
-        "cop": 4,
-        "opa": "Erythromycin",
-        "opb": "Itraconazole",
-        "opc": "Ritonavir",
-        "opd": "Saquinavir",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "e58c4709-69e9-4dc4-afea-72b4921df0ae",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following antifungal drug is developing drug resistance and has not been prescribed for tinea cruris and tinea corporis for the last 2 years?",
         "exp": "(a) Griseofulvin, Ref: Katzung, 13th ed., pg. 832 and class=\"katex\">PMC4804599/* Among various options, topical terbinafine for 4 weeks appears to be the treatment of choice for limited disease (tinea corporis/cruris/pedis). For more extensive disease, the choice is less clear. It is also effective orally. Both terbinafine (250-500 mg/day for 2-6 weeks) and itraconazole (100--200 mg/day for 2-4 weeks) appear to be effective. Voriconazole is also an effective drug for these conditions.* Griseofulvin is an oral drug used for tinea infections. It is not effective topically. Because of emergence of resistance over the past few years, griseofulvin has been largely replaced by other antifungal agents like terbinafine and itraconazole.* Luliconazole is an imidazole topical cream recently approved by the FDA and the CDSCO for treatment of interdigital tinea pedis, tinea cruris, and tinea corporis.",
         "cop": 1,
@@ -2598,19 +1922,6 @@
         "topic_name": "Anti Microbial",
         "id": "64c86057-76ce-473e-99dd-b6a071736866",
         "choice_type": "single"
-    },
-    {
-        "question": "Which one of the following drugs inhibits bacterial protein synthesis, preventing the translocation step via its interaction with the 50S ribosomal subunit?",
-        "exp": "Clindamycin has a mechanism of action similar to, if not identical with, erythromycin and related macrolides. They bind to r. RNA bases on the 50S subunit to prevent translocation of peptidyl-m. RNA from the acceptor to the donor site. Chloramphenicol also binds to the 50S subunit but interferes with the activity of peptidyltransferase. Gentamicin and tetracyclines bind to the 30S ribosomal subunit. Imipenem is a cell-wall synthesis inhibitor, acting similarly to beta-lactams.",
-        "cop": 1,
-        "opa": "Clindamycin",
-        "opb": "Gentamicin",
-        "opc": "Chloramphenicol",
-        "opd": "Imipenem",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "e4759190-12aa-4f52-a24c-f9d2232c5314",
-        "choice_type": "multi"
     },
     {
         "question": "Most common drug used in Leprosy is:",
@@ -2665,19 +1976,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Eye drops of sulphonamide are of",
-        "exp": "Ans. a (Sulphacetamide). (Ref. Harrison's Medicine 18th/ Chapter 144., KDT 6th/682)......... Sulphacetamide eye drops used for ophthalmic neonatorum. The SULFONAMIDES may be classified into 3 groups on the basis of the rapidity with which they are absorbed and excreted: (1) agents that are absorbed and excreted rapidly, such as sulfisoxazole and sulfadiazine: (2) agents that are absorbed very poorly when administered orally and are active in the bowel lumen, such as sulfasalazine: (3) agents that are used topically, such as sulfacetamide, mafenide. and silver sulfadiazine: and (4) long-acting sulfonamides, such as sulfadoxine. that are absorbed rapidly but excreted slowly. SULFONAMIDESRapidly Absorbed And Eliminated Sulfonamides. Sulfisoxazole. Sulfamethoxazole. Sulfadiazine. Sulfisoxazole is a rapidly absorbed and excreted sulfonamide with excellent antibacterial activity. Since its high solubility eliminates much of the renal toxicity inherent in the use of older sulfonamides, it has essentially replaced the less-soluble agents. Sulfisoxazole is bound extensively to plasma proteins. Sulfisoxazole currently is preferred over other sulfona- mides by when a rapidly absorbed and rapidly excreted sulfonamide is indicated. Sulfamethoxazole is a close congener of sulfisoxazole, but its rates of enteric absorption and urinary excretion are slower. It is administered orally and employed for both systemic and urinary tract infections. Precautions must be observed to avoid sulfamethoxazole crystalluria. The uses of sulfamethoxazole are the same as sulfisoxazole. Sulfadiazine given orally is absorbed rapidly from the GI tract, and peak blood concentrations are reached within 3 to 6 hours after a single dose. About 15% to 40% of the excreted sulfadiazine is in acetylated form. In adults and children who are being treated with sulfadiazine, every precaution must be taken to ensure fluid intake adequate to produce a urine output of at least 1200 ml in adults. Poorly Absorbed Sulfonamides. Sulfasalazine is very poorly absorbed from the Gl tract. It is used in the therapy of ulcerative colitis and regional enteritis, but relapses tend to occur in about one-third of patients who experience a satisfactory initial response. Corticosteroids are more effective in treating acute attacks, but sulfasalazine is preferred to corticosteroids for the treatment of patients who are mildly or moderately ill with ulcerative colitis. The drug also is being employed as the first approach to treatment of relatively mild cases of regional enteritis and granulomatous colitis. Sulfasalazine is broken down by intestinal bacteria to sulfapyridine, an active sulfonamide that is absorbed and eventually excreted in the urine, and 5-aminosalicylate, which reaches high levels in the feces. 5-Aminosalicylate is the effective agent in inflammatory bowel disease, whereas sulfapyridine is responsible for most of the toxicity. Toxic reactions include. Heinz-body anemia, acute hemolysis in patients with glucose-6-phosphate dehydrogenase deficiency, and agranulocytosis. Nausea, fever, arthralgias, and rashes occur in up to 20% of patients treated with the drug; desensitizationhas been an effective treatment. Sulfasalazine can cause a reversible infertility in males owing to changes in sperm number and morphology. Long-Acting Sulfonamides. Sulfadoxine. It has a particularly long half-life (7 to 9 days). It is used in combination with pyrimethamine for the prophylaxis and treatment of malaria caused by mefloquine - resistant strains of Plasmodium falciparum. Because of severe and sometimes fatal reactions, including the Stevens-Johnson syndrome, the drug should be used for prophylaxis only where the risk of resistant malaria is high. Sulfonamides for Topical Use. Sulfacetamide. Solutions of the sodium salt of the drug are employed extensively in the management of ophthalmic infections. Although topical sulfonamide for most purposes is discouraged, its advantage is it penetrates into ocular fluids and tissues in high concentration. Sensitivity reactions to sulfacetamide are rare, but the drug should not be used in patients with known hypersensitivity to sulfonamides. Silver sulfadiazine inhibits the growth in vitro of nearly all pathogenic bacteria and fungi, including some species resistant to sulfonamides. The compound is used topically to reduce microbial colonization and the incidence of infections of wounds from burns. It should not be used to treat an established deep infection. Adverse reactions burning, rash, and itching are infrequent. Mafenide. When applied topically, it is effective for the prevention of colonization of burns by a large variety of gram-negative and grampositive bacteria. It should not be used in deep infection. Superinfection with Candida may be problem. Mafenide is rapidly absorbed systemically and converted to poro-carboxybenzenesulfonamide. Adverse effects include intense pain at sites of application, allergic reactions, and loss of fluid by evaporation from the burn surface because occlusive dressings are not used. Metabolic acidosis with compensatory tachypnea and hyperventilation may ensue; these effects limit its usefulness.",
-        "cop": 1,
-        "opa": "Sulphacetamide",
-        "opb": "Sulphamethoxazole",
-        "opc": "Sulphinpyrazone",
-        "opd": "All",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "825ad4be-fcd2-4bb2-a1e3-87ae8f71a250",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient in ATT develops tingling on lower limb. Which of the following drugs should be used?",
         "exp": "ANS. A# Specific side effect of ATTINH1. Hepatotoxicity2. Pyridoxine deficiency(For prophylaxis--give 10 mg/day and for treatment--give 100 mg/day)3. Central nervous system (CNS) effects: Memory loss, psychosis, seizures4. Systemic lupus erythematosus (SLE)5. Shoulder hand syndrome6. Cheese reaction. Rifampicin1. Purpura2. Hepatotoxicity3. Orange colored urine4. Respiratory complications. Pyrazinamide1. Hepatotoxicity2. Hyperuricemia. Ethambutol1. Optic neuritis2. Hyperuricemia# Newer drugs for MDR TB1. Bedaquiline (ATP synthase inhibitor)2. Delamanid (ATP synthase inhibitor)3. Pretomanid (ATP synthase inhibitor)4. Sutezolid (Linezolid derivative for MDR TB)",
         "cop": 1,
@@ -2715,19 +2013,6 @@
         "topic_name": "Anti Microbial",
         "id": "f3a4c546-ee67-4743-88fa-93c57a6622e6",
         "choice_type": "single"
-    },
-    {
-        "question": "True statement regarding Rifampicin is",
-        "exp": "Ans) d (Increased metabolism......) Ref KDT 6th ed p74l. Katzung. Rifampin inhibits DNA-dependent RNA polymerase of mycobacteria and other microorganisms by forming a stable drug-enzyme complex, leading to suppression of initiation of chain formation (but not chain elongation) in RNA synthesis. More specifically, the b subunit of this complex enzyme is the site of action of the drug, although rifampin binds only to the holoenzyme. Nuclear RNA polymerases from a variety of eukaryotic cells do not bind rifampin, and RNA synthesis is correspondingly unaffected in eukaryotic cells. High concentrations of rifamycin antibiotics can inhibit RNA synthesis in mammalian mitochondria, viral DNA-dependent RNA polymerases, and reverse transcriptases. Rifampin is bactericidal for both intracellular and extracellular microorganisms. A primary action of isoniazid is to inhibit the biosynthesis acids, branched lipids that are attached to a unique polysaccharide, arabino galactan, to form part of the mycobacterial cell wall.* Adjustment of dosageof rifampicin is not necessary in patients with impaired renal function.* It readily penetrates most tissues and into phagocytic cells. So they get concentrated mainly in lymphocytes and macrophages and not in neutrophils It can kill organisms that are poorly accessible to many other drugs, such as intracellular organisms and those that are sequestrated in abscesses and lung cavities.* Rifampicin, anticonvulsants including phenobarbitone, glucocorticoids induce CYP3 A soenzymes. Cyclosporine is metabolised in liver by CYP3. A4 and excreted in bile. As rifampicin is an inducer of CYP3 A4, it lowers the blood levels of cyclosporine when given concomitantly",
-        "cop": 4,
-        "opa": "Acts by inhibiting mycolic acid synthesis",
-        "opb": "Dose adjustment is needed in renal failure",
-        "opc": "Gets concentrated intracellularly mainly in neutrophils",
-        "opd": "Increased metabolism of cyclosporine when given concomitantly",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "a85618e8-ea99-4df4-95e7-810a02ba26b0",
-        "choice_type": "multi"
     },
     {
         "question": "AZT, DD1, HAART are combination of three drugs are used in AIDS acts by",
@@ -2769,32 +2054,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Mechanism of action of Penicilline and Cephalosporins gets together inhibit",
-        "exp": "(Cell wall synthesis) (628-KDT) (668-KDT 6th)MECHANISM OF ACTION1 Inhibit cell wall synthesis: Penicillins, Cephalosporins, Cycloserine, Vancomycin, Bacitracin2 Causes leakage from cell membranes: Polypeptides, Polymyxins, Colistin, Bacitracin, Polyenes, Amphotericin-B, Nystatin, Hamycin. 3 Inhibit protein synthesis: Tetracyclines, Chloramphanicol, Erythromycin, Clindamycin, Linezolid4 Causes misreading of m RNA code and affect permeability: Aminoglycosides, Streptomycin, Gentamicin etc5 Inhibit DNA gyrase: Fluoroquinolones, Ciprofloxacin6 Interfere with DNA function: Rifampin, Metronidazole7 Interfere with DNA synthesis: Idoxuridine, Acyclovir, Zidovudine8 Interfere with intermediary metabolism: Sulfonamides, Sulfones, PAS, Trimethoprim, Pyrimethamine, Ethambutol",
-        "cop": 1,
-        "opa": "Cell wall synthesis",
-        "opb": "Leakage from cell membrane",
-        "opc": "Protein synthesis",
-        "opd": "DNA gyrase",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "51c1382f-c511-47a4-b00a-e0714685dd30",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Mechanism of action of aminoglycosides is -",
-        "exp": "Ans. is 'a' i. e., Inhibition of protein synthesis Bactericidal. Bacteriostatic. Protein synthesis inhibitors. Aminoglycosides, Streptogramins. Tetracycline, chloramphenicol Macrolides, Lincosamides Linazolide Continued... Cell wall synthesis inhibitors. Penicillin, cephalosporins, Vancomycin, Bacitracin, Cycloserine, Fosfomycin Drugs acting on cell membrane. Polypeptide - Polymixin B, colistin, tyrothricin Antitubercular. INH, Rifampicin, Pyrazinamide streptomycin. Ethambutol. Drugs affecting intermediary metabolism. Combination of two drugs may be bactericidal, e. g. cotrimoxazole. Sulfonamide, Trimethoprim, ethambutol. Drugs affecting DNAQuinolones, metronidazole. Nitrofurantoin, Novobiocin",
-        "cop": 1,
-        "opa": "Inhibition of protein synthesis",
-        "opb": "Image to cell membrane",
-        "opc": "Coagulation of proteins",
-        "opd": "Inhibition of cell wall synthesis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "a86a7e83-8918-47b3-ba13-642a7b899a0f",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient of MDR Tb is on anti-tubercular drugs. After few months, he develops red-green color blindness. Most likely drug causing this symptom is:",
         "exp": "Ans. B. Ethambutol. Ethambutol is first line antitubercular drug which is contraindicated in children as it causes optic neuritis and red-green color blindness.",
         "cop": 2,
@@ -2806,19 +2065,6 @@
         "topic_name": "Anti Microbial",
         "id": "55742d28-c7cd-42f1-9ce1-887babca8eb0",
         "choice_type": "single"
-    },
-    {
-        "question": "Linezolid belongs to which class of Drugs?",
-        "exp": "Ref: Goodman A Gi liman, The pharmacological basis of therapeutics, 12th edition, Pg No. I537-1538. Explanation: Oxazolidinones (Linezolid). It is a synthetic antimicrobial agent. Active against gram positive organisms like staphylococci, streptococci, enterococci and anaerobic cocci. It is also active against gram positive bacilli like corneybacteria. Nocardia and listeria monocytogenes. Primarily bacteriostatic but cidal against streptococci. Acts by inhibiting the protein synthesis after binding to a site on 23S ribosomal RNA of SOS subunit. Unique pharmacokinetic property in that it has 100% oral bioavailability (like isosorbide mononitrate) hence both oral and parenteral doses are same- 600 nig bd in adults. Approved for Vancomycin resistant E. faecium. nosocomial infections, community aquired pneumonia. MDR tuberculosis is an off lable use. Erythromycin, Clarithromycin, Roxithromycin & Azithromycin are the macrolide antibiotics. Tacrolimus is an macrolide. Quinupristin - Dalfopristin is a combination of two Streptogramins",
-        "cop": 3,
-        "opa": "Macrolide",
-        "opb": "Aminoglycoside",
-        "opc": "Oxazolidinones",
-        "opd": "Streptogamins",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "32c6df7a-db51-4797-b01d-136db2bc7d26",
-        "choice_type": "multi"
     },
     {
         "question": "Fomivirsen is used in:",
@@ -2845,32 +2091,6 @@
         "topic_name": "Anti Microbial",
         "id": "a41ecd3f-e028-42d1-8f28-5bc409288a5f",
         "choice_type": "single"
-    },
-    {
-        "question": "Metronidazole is used for all except -",
-        "exp": "Ans. is 'd' i. e., Malaria Metronidazoleo It has broad spectrum antiprotozoal activity against trichomonas, E. histolytica and G lamblia. o It is also active against many anaerobic bacteria, o It does not affect aerobic bacteria. o It acts by inhibiting pyruvate: Ferredoxin oxidoreductase (PFOR) enzyme pathway of pyruvate oxidation in anaerobes. o In protozoa the mechanism of action is different, i. e. damage to DNA. o Metronidazole is a nitroimdazole, nitro group is activated by reduction to form reactive cytotoxic product that damages the DNA. o It inhibit cell mediated immunity to induce mutagenesis and causes radiosensitization, o Adverse effects - see above question, o Uses1. Amoebiasis5. Pseudomembranous enterocolitis. 2. Giardiasis6. Ulcerative gingivitis, trench mouth. 3. Trichomonas vaginitis7. H. pylori gastritis, peptic ulcer. 4. Anaerobic bacterial infection",
-        "cop": 4,
-        "opa": "Amoebiasis",
-        "opb": "Giardiasis",
-        "opc": "Trichomonas vaginitis",
-        "opd": "Malaria",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "2b765e6f-55e0-48a7-bacd-fe5afc979d4e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Single-dose mebendazole is effective in treatment of",
-        "exp": "Ans. a (Enterobius vermicularis) (Ref. Nelson paediatrics 18th/ p. 1450; KDT Pharmacology 6th/809). Enterobius: 100 mg single dose mebendazole, repeated after 2-3 weeks. Round worm: Hookworm: Mebendazole 100 mg twice a day for 3 consecutive days. Whipworm: NO fasting/purging/other preparation needed. Enterobius vermicularis (pinworm) infection; Drug of choice (adult as well pediatric dosage)# Pyrantel pamoate 11 mg/kg base once (max 1 g); repeat in 2 wk OR# Mebendazole 100 mg once, repeat in 2 wk OR# Albendazole 400 mg once; repeat in 2 wk. Ascariasis (Ascaris lumbricoides. roundworm); Drug of choice# Albendazole 400 mg once OR# Mebendazole 100 mg bid x 3 days or 500 mg once OR# Ivermectin 150-200 microg/kg once",
-        "cop": 1,
-        "opa": "Enterobius vermicularis",
-        "opb": "Ankylostoma duodenale",
-        "opc": "Ascaris lumbricoides",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "7d2ba288-e06e-4f3e-9d63-c61245110fdd",
-        "choice_type": "multi"
     },
     {
         "question": "Indication for stopping rifampicin -",
@@ -2910,32 +2130,6 @@
         "topic_name": "Anti Microbial",
         "id": "6b74a3f1-8fbb-4f49-ac8a-4f2a565073c8",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following anti-tubercular drugs are hepatotoxic except",
-        "exp": "Ans. c (Ethambutol). (Ref. Harrison's Medicine - 18th/Table 168-3; KD Tripathi 5th/- 703)# Hepatotoxic AKT drugs- INH- Rifampicin- Pyrazinamide (most toxic)# Nephrotoxic AKT drug- Streptomycin# Neurotoxic drugs- Cyclosporin- INH# Drug Contraindicated in AIDS- Thiacetazone. Optic neuritis, the most serious adverse effect of ethambutol.",
-        "cop": 3,
-        "opa": "Rifampicin",
-        "opb": "INH",
-        "opc": "Ethambutol",
-        "opd": "Pyrazinamide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "b52b30b1-3e6f-4e46-9fab-f0f7d6398003",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which drug is contraindicated in patients allergic to sulphonamides -",
-        "exp": "Ans. is 'c' i. e., Zonisamideo Zonisamide is a sulfonamide medication used for the treatment of seizures. It has been associated with severe skin reactions, those typically seen with sulfa reactions. This medication should not be used in sulfa-allergic patients.",
-        "cop": 3,
-        "opa": "Brizolamide",
-        "opb": "Brimonidine",
-        "opc": "Zonisamide",
-        "opd": "Bimatoprost",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Microbial",
-        "id": "d265d7a1-607b-4905-a015-1339dcd259de",
-        "choice_type": "multi"
     },
     {
         "question": "Maximum liver toxicity is seen with which anti - TB drug?",

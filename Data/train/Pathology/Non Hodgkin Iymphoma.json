@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following statements about hairy cell leukemia are true except:",
-        "exp": "Hairy cell leukemia is a type of B-cell leukemia. Clinical feature: Massive splenomegaly Increase chances of infections DIAGNOSIS 1. BLOOD Pancytopenia Phase contrast microscopy- Hairy projections Staining- TRAP 2. Immunophenotyping CD11 + CD25+ CD103 + Annexin A1 + ( Best marker) 3. BM examination BM aspiration - Dry tap BM biopsy- Honey comb appearance - Fried egg appearance",
-        "cop": 2,
-        "opa": "Splenomegaly is conspicuous",
-        "opb": "Results from an expansion of neoplastic T-lymphocytes",
-        "opc": "Cells are positive for Taarate Resistant Acid phosphatase",
-        "opd": "The cells express CD25 consistently",
-        "subject_name": "Pathology",
-        "topic_name": "Non Hodgkin Iymphoma",
-        "id": "adc88ae1-8019-435a-a035-012c5bd315db",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 55-year-old man presents with recurrent epigastric pain. Upper GI endoscopy and gastric biopsy reveal a neoplastic, lymphocytic infiltrate invading glandular tissue. Giemsa staining is positive for Helicobacter pylori. Which of the following is the most likely diagnosis?",
         "exp": "Diagnosis: Marginal zone lymphoma, MALT lymphoma Marginal Zone Lymphoma is an indolent tumor develop due to chronic B cell stimulation either by H. pylori or Auto immune disorders Translocation (11: 18) involved",
         "cop": 2,
@@ -65,32 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is not a ourable prognostic marker in pediatric acute lymphoblastic leukemia (ALL)?",
-        "exp": "Favourable prognostic markers in pediatric ALL include age between 2 and 10 years a low white cell count hyperdiploidy trisomy of chromosomes 4, 7, and 10 the presence of a t(12; 21) Several factors are associated with a worse prognosis: age younger than 2 years, largely because of the strong association of infantile ALL with translocations involving the MLL gene presentation in adolescence or adulthood peripheral blood blast counts greater than 100, 000, which probably reflects a high tumor burden.",
-        "cop": 1,
-        "opa": "Hypodiploidy",
-        "opb": "2-10 years of age",
-        "opc": "Low WBC count",
-        "opd": "t(12; 21)",
-        "subject_name": "Pathology",
-        "topic_name": "Non Hodgkin Iymphoma",
-        "id": "e84a17e0-3b65-426e-8fa4-fe7415b713c9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Mantle cell lymphomas are positive for all of the following, except:",
-        "exp": "Mantle cells lymphomas are usually CD23 negative. They are positive for CD5, CD20 and CD43.",
-        "cop": 1,
-        "opa": "CD 23",
-        "opb": "CD 20",
-        "opc": "CD 5",
-        "opd": "CD 43",
-        "subject_name": "Pathology",
-        "topic_name": "Non Hodgkin Iymphoma",
-        "id": "fc08b80b-8f2b-49cb-81a5-564d30e4fb4a",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 70 year old male presented with generalized lymphadenopathy. WBC count was 50, 000/mm3 and blood film showed >70% mature looking lymphocytes. Which is the next ideal investigation for clinching the diagnosis?",
         "exp": "In the given question, an elderly patient with generalized lymphadenopathy was found to have WBC count 50, 000/mm3 and blood film showed >70% mature looking lymphocytes. Most likely this is a case of Non-Hodgkin Lymphoma with spill over in the peripheral blood. Hence, next ideal investigation that should be done is immunophenotyping of Peripheral blood Lymphocytes. This is done to see the expression of various markers on the lymphocytes (immunophenotype), performed by flow cytometry method.",
         "cop": 2,
@@ -102,32 +63,6 @@
         "topic_name": "Non Hodgkin Iymphoma",
         "id": "0cc8aed9-a601-4368-90a4-af2750ddd04a",
         "choice_type": "single"
-    },
-    {
-        "question": "An 1 year old girl is brought to OPD by her parents with complaint of dry flakes and yellow, greasy scales with reddened skin on scalp and redness over the face. On physical examination there is lymphadenopathy and hepatosplenomegaly. On X-Ray of long bones multiple lytic lesions are seen. what is the most likely cause of all this?",
-        "exp": "From the above case history, this seems to be likely case of Letterer-Siwe disease as- - child is < 2 years old - skin lesions such as seborrhic dermatitis is seen on skull. - Multiple lytic lesions are seen on X-ray of bones. All above signs indicate towards Letterer-Siwe disease which is a multifocal and multisystem disease.",
-        "cop": 3,
-        "opa": "Hand- Schuller- Christian disease",
-        "opb": "Eosionophilic granuloma",
-        "opc": "Letterer-Siwe disease",
-        "opd": "Unifocal Langerhans cell histiocytosis",
-        "subject_name": "Pathology",
-        "topic_name": "Non Hodgkin Iymphoma",
-        "id": "050b282c-5ebc-4d35-8fa2-32f171e9f5e2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A lymph node from a 10-year-old boy reveals large pleomorphic lymphocytes with CD30 positivity, frequent mitoses, and scattered cells bearing kidney-shaped nuclei. Which of the following statements is true?",
-        "exp": "This patient has anaplastic large cell lymphoma (ALCL). The constituent cells are positive for CD30. Scattered cells showing kidney or donut-shaped nuclei with an eosinophilic region adjacent to the nucleus are known as \"Hallmark cells. \" The majority of cases in children shows a t(2; 5) translocation which correlates with ALK positivity and improved survival. Bimodal incidence.",
-        "cop": 4,
-        "opa": "t(2; 5) translocation impas a worsened prognosis.",
-        "opb": "ALK protein immunostaining is seen in a minority of cases.",
-        "opc": "This tumor occurs exclusively in children",
-        "opd": "Hallmark cells are a feature.",
-        "subject_name": "Pathology",
-        "topic_name": "Non Hodgkin Iymphoma",
-        "id": "a28da86f-10ab-436c-8b23-345f33f163ce",
-        "choice_type": "multi"
     },
     {
         "question": "Mycosis fungoides is:",
@@ -143,19 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "70 year old male presented with 3-months history of generalised weakness. On examination, bilateral axillary lymphadenopathy was noted. Histopathological examination of enlarged lymph node showed effacement of lymph node architecture by diffuse proliferation of small-sized, mature-appearing lymphoid cells. Peripheral blood showed lymphocytosis with presence of CD5-positive and CD23-positive B-cells. Which of the following is the most likely diagnosis of this patient?",
-        "exp": "Chronic lymphocytic leukemia (CLL) CLL is the most common leukemia of adults in the Western world. Median age at diagnosis is 60 years. In CLL, absolute lymphocyte count is more than 5000/cumm. Lymph nodes are diffusely effaced by predominantly small lymphocytes. When present, proliferation centers are pathognomonic for CLL/SLL. The tumor cells express the pan B-cell markers CD19 and CD20, as well as CD23 and CD5. Burkitt lymphoma/leukemia - Adolescents or young adults with extranodal masses; uncommonly presents as \"leukemia\"; aggressive DLBCL - relatively large cell size (usually four to five times the diameter of a small lymphocyte) and a diffuse pattern of growth. CD5 and CD23 negative. Hodgkin lymphoma - arises in a single node or chain of nodes and spreads first to anatomically contiguous lymphoid tissues. Morphologically, the distinctive feature of Hodgkin lymphoma is the presence of neoplastic giant cells called Reed-Sternberg cells.",
-        "cop": 3,
-        "opa": "Burkitt leukemia",
-        "opb": "Hodgkin lymphoma",
-        "opc": "Chronic lymphocytic leukemia (CLL)",
-        "opd": "Diffuse large B-cell lymphoma (DLBCL)",
-        "subject_name": "Pathology",
-        "topic_name": "Non Hodgkin Iymphoma",
-        "id": "0447afe9-e09b-42ab-984d-23cb6083a30d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is the following is an example of low grade Non-Hodgkin's lymphoma?",
         "exp": "Follicular Lymphoma is a low grade non-Hodgkin's lymphoma Most common form of indolent lymphoma in adults. Hallmark is a (14; 18) translocation that juxtaposes the IGH locus on chromosome 14 and the BCL2 locus on chromosome 18. The t(14; 18) is seen in up to 90% of follicular lymphomas and leads to overexpression of BCL2. Tumor cells comprise of small lymphoid cells with condensed chromatin and irregular or cleaved nuclear outlines (centrocytes) are mixed with a population of larger cells with nucleoli (centroblasts). Following image shows Follicular lymphoma (variably-sized follicles effacing lymph node architecture) Following image of Follicular lymphoma showing centroblast and centrocyte DLBCL, Burkitt lymphoma and lymphoblastic lymphoma are all high-grade NHLs.",
         "cop": 1,
@@ -167,18 +89,5 @@
         "topic_name": "Non Hodgkin Iymphoma",
         "id": "66f7b2eb-2211-4485-bb14-c4075c3d4cc8",
         "choice_type": "single"
-    },
-    {
-        "question": "Mantle cell lymphoma are positive for all of the following except:",
-        "exp": "Parameter CLL MCL SMZL/SL VL HCL FL PLL CD5 + + - - - - CD10 - -/+ - - + -/+ CD11c -/+ -/+ + + - + CD19 + + + + + + CD20 +(dim) +(bright) +(bright) +(bright) +(bright) +(bright) CD23 + -/+ -/+ - -/+ - CD79b - + - -/+ + + FMC7 - + + + + + Smlg +(dim) +(bright) +(bright) +(bright) +(bright) +(bright) CLL: Chronic lymphocytic leukemia; MCL: Mantle cell lymphoma; SMZL/SL VL: Splenic marginal zone lymphoma/splenic lymphoma with villous lymphocytes; HCL: Hairy cell leukaemia; FL: Folliculsr lymphoma;",
-        "cop": 1,
-        "opa": "CD 23",
-        "opb": "CD 20",
-        "opc": "CD 5",
-        "opd": "CD 19",
-        "subject_name": "Pathology",
-        "topic_name": "Non Hodgkin Iymphoma",
-        "id": "3a60bf16-f9b8-4b10-a4c2-69b01f9c2450",
-        "choice_type": "multi"
     }
 ]

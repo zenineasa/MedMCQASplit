@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "If we say that here is no significant association between two variable and if truly an association exists. Then it is called:",
-        "exp": "Null hypothesis (H0) there is No significant association In the given question, In reality an association exists, So Null hypothesis is false We say no significant association exists, so we are accepting Null hypothesis Hence its Type II error",
-        "cop": 2,
-        "opa": "Type I error",
-        "opb": "Type II error",
-        "opc": "Systematic error",
-        "opd": "Random error",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostats",
-        "id": "ae204fe5-e395-4e02-b009-4bf556d7cb11",
-        "choice_type": "multi"
-    },
-    {
         "question": "A randomized trial comparing the efficacy of two drugs showed a difference between the two (p<0. 05). Assume that in reality, however, the two drugs to not differ. This is therefore an example of:-",
         "exp": "STATISTICAL ERRORS & P - VALUE H0 rejected H0 not rejected Null hypothesis (H0) true Null hypothesis (H0) false Type I error No error No error Type II error Type I error: Null hypothesis is true but rejected. Probability of type I error is given by 'P value'. (probability of declaring a significant difference when actually it is not present) Significance (alpha) level: is the maximum tolerable probability of type I error. Alpha is fixed in advance: p - value calculated can be less than, equal to or greater than alpha. Keep type I error to be minimum (P<alpha); Then results are declared statistically significant. Type II error: Null hypothesis is false but not rejected. (or accepted) Probability of Type II error is given by beta. (probability of declaring no significant difference when actually it is present) Type I error is more serious than type II error.",
         "cop": 1,
@@ -52,58 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true regarding Gaussian distribution except",
-        "exp": "Normal distribution is also known as Gaussian distribution Mean=Median=Mode (Coincide)= 0 Standard detion is 1. Area under the curve is 1. Bilaterally symmetrical, Bell shaped curve.",
-        "cop": 1,
-        "opa": "It is measure of asymmetry of probability distribution of a random variable",
-        "opb": "It is bilaterally symmetrical and bell shaped",
-        "opc": "Mean, median and mode coincide",
-        "opd": "Parametric tests are used to find statistical significance",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostats",
-        "id": "154b73d6-9141-4765-8436-cb294f5889fc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is true regarding the following two curves (Blue and red) overall?",
-        "exp": "The Red curve signifies the Normal distribution curve because it is bilaterally symmetrical, bell shaped. Hence, the Median=Mean=Mode. The blue curve can only be the curve of Mode as Mean and Median cannot have two peaks. Therefore, it is a BIMODAL distribution. Thus, Mean=Median, not equal to Mode Diseases showing bimodal distribution are Breast cancer & Hodgekin lymphoma.",
-        "cop": 2,
-        "opa": "Mean = Median = Mode",
-        "opb": "Mean = Median, not equal to Mode",
-        "opc": "Mean = Mode, not equal to Median",
-        "opd": "Mean, Median and Mode are not equal",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostats",
-        "id": "6f694fc3-798f-498e-b76d-400a0a6ccef7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about data diagrams except:-",
-        "exp": "- Bimodal frequency distribution: * Bimodal frequency distribution has two tails and two peaks. - Frequency distributions are usually illustrated by histograms. - Frequencies are commonly illustrated by bar cha. - Frequency polygon is useful when comparing two or more frequency distributions by drawing them on the same diagram.",
-        "cop": 3,
-        "opa": "Frequency distributions are usually illustrated by histograms",
-        "opb": "Frequencies are commonly illustrated by bar cha",
-        "opc": "Bimodal frequency distribution has two tails and one peak",
-        "opd": "Frequency polygon is useful when comparing two or more frequency distributions by drawing them on the same diagram",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostats",
-        "id": "55f39d52-ffdc-4c86-941c-1604bafe8c6a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Select true statement regarding Correlation",
-        "exp": "Types of correlation Scatter diagram Correlation coefficient Interpretation perfectly positive correlation Both lines haves a positive slope (at 45 degree each); superimposed r=+1 Rise in one variable leads to propoionate rise in other perfectly negative correlation Both lines have a negative slope (at 45 degree each); superimposed r=-1 Rise in one variable leads to propoionate fall in other Moderately positive correlation Both lines have a positive slope 0<r<+1 Rise in one variable leads to rise in other Moderately negative correlation Both lines have negative slope -1<r<0 Rise in one variable leads to fall in other No (absent) correlation Both lines are perpendicular r=0 Rise / fall in one variable leads to no change in other Spurious (false) correlation No paicular pattern observed - No paicular pattern observed",
-        "cop": 1,
-        "opa": "In moderately positive correlation, rise in one variable leads to rise in other",
-        "opb": "In perfectly negative correlation, rise in one variable leads to propoionate rise in other",
-        "opc": "In moderately negative correlation, fall in one variable leads to propoionate fall in other",
-        "opd": "In perfectly positive correlation, rise in one variable leads to propoionate fall in other",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostats",
-        "id": "550a8f55-04a2-4a3b-a985-02d096939354",
-        "choice_type": "multi"
-    },
-    {
         "question": "Study is done on a group of children to check Seasonal variation of Sudden infant death syndrome (SIDS) in summer season from June to July, and from August to September in another group with similar characteristics from same area. Which test is used to compare the data?",
         "exp": "Seasonal variation is a qualitative variable. We are studying 2 different groups so the appropriate statistical test here would be Chi Square test.",
         "cop": 1,
@@ -128,19 +63,6 @@
         "topic_name": "Biostats",
         "id": "74a20ca6-7875-4a22-ad43-fd202b70578e",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true except",
-        "exp": "Bimodal frequency distribution: Bimodal frequency distribution has two tails and two peaks Bar cha: Used with categorical and numerical variables Each bar represent one category Bars should separate Y axis should begin with 0 Each bar represent one category and its high is the frequency or relative frequency Frequency cha: No spaces between bars Quantitative variable X axis should be continuous Y axis should begin with 0 The area bar, not its high, represent its frequency",
-        "cop": 4,
-        "opa": "Frequency distributions are usually illustrated by histograms",
-        "opb": "Frequencies are commonly illustrated by bar cha in qualitative data",
-        "opc": "Line cha is useful when comparing two or more frequency distributions by drawing them on the same diagram",
-        "opd": "Bimodal frequency distribution has two tails and one peak",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostats",
-        "id": "e4dc9695-41f9-4ef7-9cf4-a9f43e526a9f",
-        "choice_type": "multi"
     },
     {
         "question": "Value of one parameter can be estimated from another related parameter by:-",
@@ -206,32 +128,6 @@
         "topic_name": "Biostats",
         "id": "cbface3d-9243-4c63-bec6-51930e3a3147",
         "choice_type": "single"
-    },
-    {
-        "question": "You have clinically diagnosed a patient as having SLE and ordered 6 tests, out of which 4 have come positive and 2 have negative. To know the probability of SLE at this point, you need to know:",
-        "exp": "To know the probability of SLE at this point, We need to know Prior probability (Prevalence) of each test, sensitivity and specificity of each test Probability of having a Disease means PPV i. e. Positive Predictive Value and it depends upon (BAYES'THEORM) sensitivity specificity and disease Prevalence",
-        "cop": 4,
-        "opa": "Incidence of SLE and predictive value of each test",
-        "opb": "Incidence and prevalence of SLE",
-        "opc": "Relative risk of SLE in this patient",
-        "opd": "Prior probability of each test, sensitivity and specificity of each test",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostats",
-        "id": "ab63238b-349d-4a8d-9bb9-a2eaabcafd82",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following parametric test can be used for comparing means in more than two different group of individuals:-",
-        "exp": "Parametric tests Paired student's t-test Comparing Means, SD in in paired data (1 group) Unpaired students' t-test Comparing Means, SD in in unpaired data (2 groups) ANOVA Comparing Means, SD in in unpaired data (>2 groups) Non parametric tests Chi-square test Comparing percentage, propoions & fractions in in two or more different group of individuals Wilcoxon Signed rank test Comparing percentage, propoions & fractions in matched paired data Wilcoxon Rank sum test Comparing percentage, propoions & fractions in two unpaired samples",
-        "cop": 1,
-        "opa": "ANOVA test",
-        "opb": "Unpaired student's t-test",
-        "opc": "Paired student's t-test",
-        "opd": "All of above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Biostats",
-        "id": "d33ac57d-c45b-4063-8123-533fd44e699a",
-        "choice_type": "multi"
     },
     {
         "question": "Intraocular pressure (IOP) was measured in 400 people. Mean was found to be 25 mm Hg and Standard detion was recorded 10 mm Hg. 95% Confidence Interval would be?",

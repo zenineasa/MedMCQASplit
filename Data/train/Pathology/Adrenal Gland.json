@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 60-year-old woman with small cell carcinoma of the lung notes rounding of her face, upper truncal obesity, and muscle weakness. Physical examination reveals thin, wrinkled skin, abdominal striae, and multiple purpuric skin lesions. The patient's blood pressure is 175/95 mm Hg. Laboratory studies will likely show elevated serum levels of which of the following hormones?",
-        "exp": "- Given features point towards cushing syndrome - This patient most likely has paraneoplastic condition associated with coicotropin (ACTH)-producing small cell carcinoma of lung - Clinical manifestations of hypercoisolism in patients with Cushing syndrome are Emotional disturbances Moon facies Osteoporosis Hypertension Upper truncal obesity (Buffalo hump) Amenorrhea Muscle weakness, thin wrinkled skin, purpura Glucose intolerance, poor wound healing and skin ulcers. -ACTH producing cells having basophilic cytoplasm changes from granular to homogenous due to accumulation of intermediate filaments in cytoplasm: Crooke hyaline change - None of the other options given are associated with Cushing syndrome.",
-        "cop": 2,
-        "opa": "Aldosterone",
-        "opb": "Coicotropin",
-        "opc": "Epinephrine",
-        "opd": "Prolactin",
-        "subject_name": "Pathology",
-        "topic_name": "Adrenal Gland",
-        "id": "e56e5e01-662d-43d8-a465-e1d55052b0f7",
-        "choice_type": "multi"
-    },
-    {
         "question": "A tentatively female newborn has ambiguous genitalia. What appears to be a vagina is associated with a significantly enlarged clitoris resembling a penis. Other findings include hyponatremia, hyperkalemia, and hypotension. Deficiency of which of the following is suggested by these findings?",
         "exp": "Deficiency of enzyme 21-hydroxylase (mc) 11 hydroxylase 17 hydroxylase | Coisol | Mineralocoicoids (Salt losing hypotension) | Sex hormones(Virilization) Similar to 21 hydroxylase except | Deoxycoicosterone (Hypertension) | Coisol | Mineralocoicoid | Sex hormone",
         "cop": 3,
@@ -63,19 +50,6 @@
         "topic_name": "Adrenal Gland",
         "id": "daacf27a-cfa0-46c7-a723-8b11c0dfb1b5",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is most reliable feature of malignant transformation of pheochromocytoma?",
-        "exp": "- There is no histologic feature that reliably predicts malignant pheochromocytoma. - In fact, cellular & nuclear pleomorphism including presence of giant cells & mitotic figures are often seen in benign pheochromocytomas, while cellular monotony is paradoxically associated with aggressive tumors. - Even capsular and vascular invasion may be encountered in benign lesions. - Therefore, the definitive diagnosis of malignancy in pheochromocytomas is based exclusively on presence of metastases.",
-        "cop": 2,
-        "opa": "Presence of mitotic figures",
-        "opb": "Presence of metastasis to other organs",
-        "opc": "Vascular/ capsular invasion",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "Adrenal Gland",
-        "id": "16867ef0-6dea-44f9-8e59-de54211cad82",
-        "choice_type": "multi"
     },
     {
         "question": "Which one of the following is not seen in pheochromocytoma?",
@@ -130,45 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following familial syndromes are associated with development of pheochromocytomas except:",
-        "exp": "Familial syndromes associated with pheochromocytoma are: - Von-Hippel-Landau (VHL) syndrome - MEN type-2A & 2B - mutation of RET gene - Neurofibromatosis type 1(NF1) - Sturge weber syndrome - Succinyl dehydrogenase mutations",
-        "cop": 4,
-        "opa": "MEN II A",
-        "opb": "Von hippel landau syndrome",
-        "opc": "MEN Type II B",
-        "opd": "Prader-Willi syndrome",
-        "subject_name": "Pathology",
-        "topic_name": "Adrenal Gland",
-        "id": "2d62a37b-7165-4afc-b8b6-752a125ce135",
-        "choice_type": "multi"
-    },
-    {
-        "question": "MEN1 tumour suppressor gene is associated with all of the following, except:",
-        "exp": "MEN-1 syndrome Caused by germline mutations in the MEN1 tumor suppressor gene, which encodes a protein called menin. The dichotomy in menin function is best exemplified in the interactions of menin with two oncogenic transcription factors: JunD Mixed lineage leukemia (MLL)/KMT2A protein. RET proto-oncogene in MEN-2 syndrome encodes a receptor tyrosine kinase that binds glial-derived neurotrophic factor (GDNF).",
-        "cop": 4,
-        "opa": "Menin",
-        "opb": "JunD",
-        "opc": "KMT2A (MLL)",
-        "opd": "GDNF (glial-derived neurotrophic factor)",
-        "subject_name": "Pathology",
-        "topic_name": "Adrenal Gland",
-        "id": "4ac5f240-20aa-4f80-9707-4182c4620e75",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true statements about pheochromocytoma except?",
-        "exp": "Discussing options one by one: Option 1 - False - 90% of pheochromocytomas are benign only 10% are malignant Option 2 - True - Almost 95% of tumors are abdominal in location, since 90% arise from adrenal medulla Option 3 - True - These tumors secrete catecholamines like epinephrine, norepinephrine, dopamine Option 4 - True - Extra-adrenal pheochromocytomas occur in sympathetic ganglia in neck, mediastinum, bladder, organ of Zukercandl 'Rule of 10's' in pheochromocytoma 10% are bilateral 10% are extra-adrenal 10% are malignant 10% occur in children 10% are not associated with hypertension",
-        "cop": 1,
-        "opa": "90% are malignant",
-        "opb": "95% occur in the abdomen",
-        "opc": "They secrete catecholamines",
-        "opd": "They arise from sympathetic ganglia",
-        "subject_name": "Pathology",
-        "topic_name": "Adrenal Gland",
-        "id": "80fcf656-aa9d-40ce-97c9-10c9f425134e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common cause of Cushing's syndrome is",
         "exp": "Causes of Cushing Syndrome: - Exogenous: External supplementation of glucocoicoids - Most common cause - Endogenous: Pituitary adenoma Ectopic ACTH secretion - Small cell lung cancer; Medullary thyroid cancer etc Adrenal causes - Adrenal hyperplasia / adenoma/ cancer",
         "cop": 1,
@@ -193,19 +128,6 @@
         "topic_name": "Adrenal Gland",
         "id": "3bd97f44-8e8a-436f-b46e-280fcc6fd62b",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following statements are true regarding craniopharyngioma, except:",
-        "exp": "Craniopharyngioma Arise from vestigial remnants of Rathke's pouch. Slow-growing benign tumors Accounts 1% to 5% of intracranial tumors. Minority of these lesions occurs within sella, but most are suprasellar with/ without intrasellar extension. Adamantinomatous craniopharyngioma - Abnormalities of WNT signaling pathway, activating mutations of gene encoding b-catenin. Papillary subtype is characterized by activating mutations of the BRAF oncogene at codon 600 (V600E).",
-        "cop": 2,
-        "opa": "Origin from Rathke's pouch",
-        "opb": "Aggressive malignant tumor",
-        "opc": "Papillary variant of the tumour is associated with BRAF V600E mutation",
-        "opd": "Adamantinomatous variant is associated with abnormality in WNT/CTNNB1 (b-catenin) pathway",
-        "subject_name": "Pathology",
-        "topic_name": "Adrenal Gland",
-        "id": "a2051a6a-3df5-493e-96fb-778c78a8a021",
-        "choice_type": "multi"
     },
     {
         "question": "A 35-year-old woman is seen 6 months after giving bih to a normal infant. She suffered severe cervical lacerations during delivery, resulting in hemorrhagic shock. Following blood transfusion and surgical repair, postpaum recovery has so far been uneventful. She now complains of continued amenorrhea and loss of weight and muscle strength. Fuher investigation might be expected to demonstrate which of the following findings?",
@@ -258,19 +180,6 @@
         "topic_name": "Adrenal Gland",
         "id": "f6f3c49f-b533-4e93-abdf-cb5ed6029d0f",
         "choice_type": "single"
-    },
-    {
-        "question": "A 40-year-old man complains of nausea, vomiting, diarrhea, and cramping abdominal pain. His temperature is 38degC, blood pressure 90/60 mm Hg, and pulse rate 90/minute. On physical examination, the patient appears dehydrated, with sunken eyeballs, dry tongue, and poor skin turgor. Hyperpigmentation is noted in the palmar creases and the gingival margins. Laboratory results include fasting serum glucose of 62 mg/dL, BUN of 27 mg/dL, Na of 122 m. Eq/L, and K of 6. 5 m. Eq/L. Which of the following is the most likely cause of this patient's symptoms?",
-        "exp": "- Given clinical features suggests the diagnosis of Primary chronic adrenal insufficiency (Addison disease). - MCC of addison disease in developed countries - Autoimmunity - MCC of addison disease in developing countries like India - Tuberculosis - It is fatal wasting disorder caused by failure of adrenal glands to produce glucocoicoids, mineralocoicoids & androgens. - If untreated, Addison disease is characterized by weakness, weight loss, gastrointestinal symptoms, hypotension, electrolyte disturbances & hyperpigmentation.",
-        "cop": 2,
-        "opa": "Amyloidosis",
-        "opb": "Autoimmunity",
-        "opc": "Metastatic cancer",
-        "opd": "Sarcoidosis",
-        "subject_name": "Pathology",
-        "topic_name": "Adrenal Gland",
-        "id": "071f1b94-3e92-4da4-bd9c-a12bf8a4138f",
-        "choice_type": "multi"
     },
     {
         "question": "An acutely ill 18-year-old female is brought to the emergency depament. The patient is febrile and markedly hypotensive, and her mental status is obtunded. Numerous petechial and purpuric hemorrhages are scattered over the trunk, and aspiration of a lesion reveals neutrophils engulfing gram-negative diplococci. Serum sodium is markedly decreased, and serum potassium is increased. Coagulation testing reveals increased prothrombin time, activated paial thromboplastin time, and fibrin-fibrinogen split products. Which of the following is most likely?",

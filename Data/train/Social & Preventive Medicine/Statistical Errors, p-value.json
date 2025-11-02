@@ -65,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In a group of 100 children, the mean weight of children is 15 kg. The standard detion is 1. 5 kg. Which one of the following is true?",
-        "exp": "In the given question, n = 100 children, Mean weight (u) = 15 kg, SD = 1. 5 kg, 95% of value are contained in Mean + 2. SD (u+ 2s), Thus 95% of all children will have weight between 15 + 2 (1. 5) i. e. between 12 and 18 kg.",
-        "cop": 1,
-        "opa": "95% of all children weight between 12 and 18 kg",
-        "opb": "95% of all children weight between 13. 5 and 16. 5 kg",
-        "opc": "99% of all children weight between 12 and 18 kg",
-        "opd": "99% of all children weight between 13. 5 and 16. 5 kg",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Statistical Errors, p-value",
-        "id": "6e5bbecd-0727-4256-bf2e-c11a1e7ec8e8",
-        "choice_type": "multi"
-    },
-    {
         "question": "For Significant results p-value should be:-",
         "exp": "P value should be <5% (0. 05) for test results to be significant. - P - value - Probability of type I error - Alpha - Maximum threshold of type I error. Globally accepted value of alpha - 5% - Beta --Probability of type II error - If P< alpha- Significant results.",
         "cop": 4,
@@ -104,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are Subject bias except",
-        "exp": "Selection bias is a type of Investigator bias Hawthorne effect (Coho study) and Recall bias (Case control study) are types of Subject bias",
-        "cop": 2,
-        "opa": "Recall bias",
-        "opb": "Selection bias",
-        "opc": "Hawthorne bias",
-        "opd": "None of above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Statistical Errors, p-value",
-        "id": "50e2abbb-176c-4700-bcce-70baf6b2b501",
-        "choice_type": "multi"
-    },
-    {
         "question": "A women has 0. 5 probability of having a baby with bih weight >= 3000 grams & 0. 2 probability of having a baby with bih weight 2500-2999 grams. What is the probability that this women will have a baby with bih weight > 2. 5 kilograms?",
         "exp": "Probability is a chance that an event will occur and it lies b/w 0 to 1 (0-100%). For mutually exclusive events, probability is calculated by rule of addition P=P+P. For independent events, joint probability is calculated by rule of multiplication P=PxP. Given, probability of having a baby with bih weight >= 3000 grams; P= 0. 5 probability of having a baby with bih weight 2500-2999 grams; P = 0. 2 As these two events are mutually exclusive, probability of having a baby with Bw >2. 5 kg; P is calculated by Rule of addition = 0. 5+0. 2 = 0. 7",
         "cop": 2,
@@ -128,18 +102,5 @@
         "topic_name": "Statistical Errors, p-value",
         "id": "1f6a82b1-d6f3-4876-8549-f831a79f6fa8",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about P-value except:",
-        "exp": "Type I error is usually fixed in advance by the choice of level of significant employed in the test Type I error is more serious than Type II error Power of a test: 1-b -Is probability of rejecting a Null hypothesis when a predetermined clinically significant difference is indeed present -Power can be increased by increasing the no. of subjects in a trial There is no mathematical relationship between a and b.",
-        "cop": 2,
-        "opa": "Is the probability of committing Type -I error",
-        "opb": "Is equal to 1-beta",
-        "opc": "Is the chance that the presence of difference is concluded when actually there is none",
-        "opd": "When P- value is less than a, the result is statistically significant",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Statistical Errors, p-value",
-        "id": "2ee1ed0f-f168-4db7-9ea6-4449b27754b3",
-        "choice_type": "multi"
     }
 ]

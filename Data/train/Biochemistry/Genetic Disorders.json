@@ -1,18 +1,5 @@
 [
     {
-        "question": "False about Turner's syndrome are all except:",
-        "exp": "The question is asking about true statement about Turner's syndrome out of all options. Only Normal intelligence is true and while all other options provide a false explanation of Turner's syndrome as explained below: Turner syndrome Genotype is X0 Female is affected Only monosomy compatible with life Have zero Barr bodies (A normal female has one Barr body) Intelligence is normal",
-        "cop": 3,
-        "opa": "Long stature",
-        "opb": "Normal gonads",
-        "opc": "Normal intelligence",
-        "opd": "Normal breast",
-        "subject_name": "Biochemistry",
-        "topic_name": "Genetic Disorders",
-        "id": "c4e1ca2e-acab-443c-a8ca-90975da101e8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following trinucleotide repeat disorder and the repeat is wrongly paired?",
         "exp": "Disease Repeat Fragile X syndrome CGG Friedreich's Ataxia GAA Myotonic dystrophy CTG Spinobulbar muscular atrophy (Kennedy disease), Spinocerebellar ataxia, Huntington's disease CAG",
         "cop": 2,
@@ -26,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Barr body is not present in female having- (PGMEE 2012-13)",
-        "exp": "In Turner syndrome (45, XO), one of the X-chromosome is missing in a female. This is the most lethal karyotype. It is only monosomy of sex chromosome in humans. There are 45 chromosomes instead of 46 in a normal individual. Phenotype Genotype Barr bodies Normal Male XY 0 (Normal) Normal Female XX 1 (Normal) Turner Syndrome X0 0 (Female with no Barr Body) Klinfelter Syndrome XXY 1 (Male with Barr Body) Super Female XXX 2 (Female with two Barr Bodies) No. of Barr bodies = no. of x chromosome - 1 Since in XO genotype there is 1 x chromosome. Therefore, no. of barr bodies is 1-1=0",
-        "cop": 2,
-        "opa": "46 XX genome",
-        "opb": "45 XO genome",
-        "opc": "47 XXX",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Genetic Disorders",
-        "id": "bfcc441d-f74e-4836-8068-0dc37f0bca01",
-        "choice_type": "multi"
-    },
-    {
         "question": "Inheritance of Beckers muscular dystrophy is?",
         "exp": "Beckers muscular dystrophy is X-linked recessive disorder. Diseases which are XR (X-linked recessive): Color blindness Duchenne's Muscular Dystrophy Becker's Muscular Dystrophy Glucose-6-Phosphate Dehydrogenase deficiency(G6. PD) Testicular Feminization Fragile X-Syndrome Hunter's Syndrome Fabry's disease Ornithine Transcarboxylase deficiency Lesch Nyhan syndrome Hemophilia A and B Agammaglobulinemia",
         "cop": 1,
@@ -50,19 +24,6 @@
         "topic_name": "Genetic Disorders",
         "id": "938ef220-3f85-423f-8004-d36b250ca866",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following diseases are due to excessive number of glutamine residues in proteins, EXCEPT",
-        "exp": "CAG codes for glutamine Poly Q disorders Those diseases which are due to CAG repeat Eg: Spinobulbar muscular atrophy (Kennedy disease), Spinocerebellar ataxia Huntington's disease Myotonic dystrophy is due to | CTG repeat, not CAG.",
-        "cop": 3,
-        "opa": "Huntington's chorea",
-        "opb": "Spinocerebellar ataxia",
-        "opc": "Myotonic dystrophy",
-        "opd": "Spinobulbar muscular atrophy",
-        "subject_name": "Biochemistry",
-        "topic_name": "Genetic Disorders",
-        "id": "f490bbb2-a905-4aa3-986e-c7b950dff50a",
-        "choice_type": "multi"
     },
     {
         "question": "Cat eye syndrome is:",
@@ -102,18 +63,5 @@
         "topic_name": "Genetic Disorders",
         "id": "7c7612c8-34d8-4700-a53f-1b549346d15d",
         "choice_type": "single"
-    },
-    {
-        "question": "X- linked recessive disease in male with clotting defect is-",
-        "exp": "X- linked recessive disease in male with clotting defect is Hemophilia A XR (X-linked recessive) Color blindness Duchenne's Muscular Dystrophy Becker's Muscular Dystrophy Glucose-6-Phosphate Dehydrogenase deficiency(G6. PD) Testicular Feminization Hunter's Syndrome Fabry's disease Ornithine Transcarboxylase deficiency Lesch Nyhan syndrome Hemophilia A and B Agammaglobulinemia",
-        "cop": 1,
-        "opa": "Hemophilia A",
-        "opb": "Von - Willebrand disease",
-        "opc": "ITP",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Genetic Disorders",
-        "id": "7b99f77a-9045-40a2-a82c-3483bc22796d",
-        "choice_type": "multi"
     }
 ]

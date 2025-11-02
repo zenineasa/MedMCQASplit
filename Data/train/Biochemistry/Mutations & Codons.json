@@ -1,18 +1,5 @@
 [
     {
-        "question": "All of the following are synonymous codon pair EXCEPT",
-        "exp": "Synonymous codons Codons that specify the same amino acids. E. g- GGA, GGG, GGU, and GGC codes for glycine Methionine is coded by AUG only. So, there is no synonymous codon for methionine.",
-        "cop": 3,
-        "opa": "CAU & CAC",
-        "opb": "AUU & AUC",
-        "opc": "AUG & AUA",
-        "opd": "AAU & AAC",
-        "subject_name": "Biochemistry",
-        "topic_name": "Mutations & Codons",
-        "id": "2fe46123-3284-4ee9-8a65-d65a95552163",
-        "choice_type": "multi"
-    },
-    {
         "question": "Sta codon is:",
         "exp": "AUG: Sta Codon - Methionine First Amino acids in protein: Methionine (Eukaryotes) Formyl Methionine (Prokaryotes) Other three are stop codons: UAA, UAG, UGA",
         "cop": 4,
@@ -39,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statement is wrong?",
-        "exp": "Single-base changes (point mutations) may be transitions transversions. Transition Transversions Given pyrimidine is changed to the other pyrimidine or Given purine is changed to the other purine Purine to either of the two pyrimidines or Pyrimidine into either of the two purines Introns Intervening sequences, present in between exons. Transcribed but not translated. Mutation in introns will not reach the protein. But mutation in exon will alter the protein. Silent mutation Non-sense mutation Mis-sense mutation Amino acid is not changed Amino acid codon is replaced by a stop codon. Amino acid is replaced by another amino acid.",
-        "cop": 3,
-        "opa": "Mutations within the exon can be detrimental and mutation in introns will not change the protein",
-        "opb": "Mutation of the TATA box markedly reduces the transcription",
-        "opc": "Change of purine by a pyrimidine is known as transition",
-        "opd": "Silent mutation does not lead to change in amino acid",
-        "subject_name": "Biochemistry",
-        "topic_name": "Mutations & Codons",
-        "id": "8c64308b-caa0-4514-b9bf-d5b5c9426ab9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Assume 4 nucleotides code for an amino acid. What is the number of amino acids coded possible?",
         "exp": "This question is based on an assumption: 1 nucleotide code- 4 amino acids 2 nucleotide code - 4 x 4 = 16 amino acids 3 nucleotide code - 4 x 4 x 4= 64 amino acids 4 nucleotide code - 4 x 4 x 4 x 4 = 256 amino acids",
         "cop": 4,
@@ -63,19 +37,6 @@
         "topic_name": "Mutations & Codons",
         "id": "36b4b717-ac1c-4662-9d2f-6337c79b509b",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following are salient features of genetic code, EXCEPT",
-        "exp": "Salient features of genetic code: Triplet base sequence Non- overlap Non- punctuated Degenerate Unambiguous Universal NOTE: The demonstration that DNA contained the genetic information was first made in 1944 in a series of experiments by Avery, Mac. Leod, and Mc. Cay.",
-        "cop": 3,
-        "opa": "Degeneracy",
-        "opb": "Unambiguous",
-        "opc": "Punctuated",
-        "opd": "Non overlapping",
-        "subject_name": "Biochemistry",
-        "topic_name": "Mutations & Codons",
-        "id": "b47f112d-0491-4a5b-928c-93260c199723",
-        "choice_type": "multi"
     },
     {
         "question": "Defect in which of the following protein leads to Rett syndrome?",
@@ -102,19 +63,6 @@
         "topic_name": "Mutations & Codons",
         "id": "8d8b4784-bbb1-4805-9e6f-31fe1cdf6232",
         "choice_type": "single"
-    },
-    {
-        "question": "Mitochondrial codons are an exception for the propey of 'universality' of codons. For eg: Initiation codon in mammals is AUG, which codes for methionine. But in mitochondria, methionine is coded by some other codon. Which among the following is that initiation codon:",
-        "exp": "Mitochondrial codons are an EXCEPTION for the propey of 'universality' of codons. For eg: In mitochondria AUA codes for methionine which usually codes for isoleucine in the cytoplasmic protein synthesis. UGA which is usually a stop codon in cytoplasm codes for tryptophan in mitochondria. AGA & AGG are stop codons in mitochondria (but usually they both code for arginine). Codon Universal Code Mitochondrial Code UGA Stop Tryptophan AGA & AGG Arginine Stop AUA Isoleucine Methionine",
-        "cop": 3,
-        "opa": "AGA",
-        "opb": "AAG",
-        "opc": "AUA",
-        "opd": "AUG",
-        "subject_name": "Biochemistry",
-        "topic_name": "Mutations & Codons",
-        "id": "484ad673-0b58-47c8-bb9a-d1569005f1ee",
-        "choice_type": "multi"
     },
     {
         "question": "Silent mutations occurs because codon is:",

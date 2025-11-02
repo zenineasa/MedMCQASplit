@@ -1,31 +1,5 @@
 [
     {
-        "question": "In the Post-disaster phase, all of the following vaccines are mandatory for doctors except:-",
-        "exp": "Vaccines C/I for population:- Cholera Typhoid Tetanus Other vaccines are relatively CI Vaccines mandatory for Doctors/health providers:- Cholera Typhoid Tetanus",
-        "cop": 3,
-        "opa": "Cholera",
-        "opb": "Typhoid",
-        "opc": "Measles",
-        "opd": "Tetanus",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Vaccines",
-        "id": "a4f8e175-5dce-49d7-a934-deb5e1e65d66",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of following live vaccines can be given in symptomatic HIV infection except",
-        "exp": "Pregnancy: all live vaccines are C/I as it is immuno-compromised state except yellow fever vaccine Asymptomatic HIV infection: none C/I Symptomatic HIV+ infection: All live vaccines C/I (Except in adult we can give MMR&Varicella& Zoster)",
-        "cop": 4,
-        "opa": "MMR",
-        "opb": "Varicella",
-        "opc": "Zoster",
-        "opd": "Rota virus",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Vaccines",
-        "id": "94e97a19-5919-4911-9905-4b079f68e9ca",
-        "choice_type": "multi"
-    },
-    {
         "question": "Vaccine carrier can maintain temperature of vaccines for:-",
         "exp": "Vaccine Carrier:- Used to transpo from PHC to site of immunization and sub- centres. It is non-electronic instrument with 4 ice packs inside it. Max 16-20 vaccine ls can be kept inside it. It can maintain temp for 24-48 hours.",
         "cop": 4,
@@ -63,31 +37,5 @@
         "topic_name": "Vaccines",
         "id": "152de20f-872a-45f2-832c-c5a575f91fc9",
         "choice_type": "single"
-    },
-    {
-        "question": "Select false statement",
-        "exp": "Diluents Nacl BCG Sterile water Measles Phosphate buffer solution JE",
-        "cop": 2,
-        "opa": "Yellow fever vaccine is reconstituted by cold physiological saline",
-        "opb": "JE vaccine is reconstituted by Sterile water",
-        "opc": "Measles vaccine is reconstituted by distilled water",
-        "opd": "BCG vaccine is reconstituted by normal saline",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Vaccines",
-        "id": "6334fb02-97ed-44b1-a00c-41c57d0f77b1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True regarding TT dose(s) in Pregnancy for a Primigravida woman is:-",
-        "exp": "TT in pregnancy:- Primary level of prevention (specific protection) Primigravida - 2 doses (1 month apa) of TT- ASAP in pregnancy 2 dose - total duration protection - 5 years If next pregnancy occur in 3 years of previous pregnancy - only 1 booster dose required Both doses must be completed within 8 months POG.",
-        "cop": 4,
-        "opa": "1 dose in 2nd Trimester",
-        "opb": "2 doses (1 month apa) 2nd Trimester",
-        "opc": "1 dose anytime as soon as possible in pregnancy",
-        "opd": "2 doses (1 month apa) as soon as possible in pregnancy",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Vaccines",
-        "id": "cf8e5a38-98cd-40ca-a3e9-2bd9e2935d23",
-        "choice_type": "multi"
     }
 ]

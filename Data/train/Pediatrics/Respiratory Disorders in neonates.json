@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "With reference to RDS, all of the following statements are true EXCEPT:",
-        "exp": "Discussing about the options, Option a. Yes, RDS is seen mainly in preterm neonates Option b. Yes, RDS is also common in babies born to diabetic mother due to delayed maturity of surfactant Option c. Yes, RDS can cause hypoxia & cyanosis Option d. CPAP +- Surfactant is the treatment of choice; Oxygen may be supplemented to treat hypoxia & titrated according to O2 saturation; 100% O2 is avoided to prevent Retinopathy of prematurity",
-        "cop": 4,
-        "opa": "Usually occurs in infants born before 34 weeks of gestation",
-        "opb": "Is more common in babies born to diabetic mothers",
-        "opc": "Leads to cyanosis",
-        "opd": "Is treated by administering 100% oxygen",
-        "subject_name": "Pediatrics",
-        "topic_name": "Respiratory Disorders in neonates",
-        "id": "622a6240-cb75-4631-9dc9-c691012f5f73",
-        "choice_type": "multi"
-    },
-    {
         "question": "A baby is born prematurely at 29 weeks gestation by caesarean delivery done for fetal distress. Neonate develops tachypnea, nasal flaring, subcostal and intercostal retractions immediately after bih. Chest radiography shows bilateral, diffuse, ground glass appearance, air bronchograms and poor lung expansion. What is the best treatment plan in the present case?",
         "exp": "Best treatment plan- Surfactant administration and respiratory suppo ( moderate to severe RDS according to Silverman score) Treatment of RDS Mild RDS:- CPAP (Continuous positive airway pressure) Moderate to severe RDS- Intratracheal surfactant + Respiratory suppo + O2",
         "cop": 2,
@@ -63,71 +50,6 @@
         "topic_name": "Respiratory Disorders in neonates",
         "id": "bfefa51c-a61a-4514-bb67-a0dd005bc899",
         "choice_type": "single"
-    },
-    {
-        "question": "A neonate presented with severe respiratory distress and scaphoid abdomen. Breath sounds were decreased on the left side, and his chest X ray revealed the following: He was intubated. Just after ET tube was put, the maximal cardiac impulse fuher shifted to the right side. What should be the next step in management?",
-        "exp": "Next step in management: Remove tube and reattempt intubation Suspicion of esophageal intubation as max. cardiac impulse shifted to right",
-        "cop": 2,
-        "opa": "Confirm the position of endotracheal tube by repeat X-ray chest",
-        "opb": "Remove tube and reattempt intubation",
-        "opc": "Naso gastric tube inseion",
-        "opd": "Chest X-ray",
-        "subject_name": "Pediatrics",
-        "topic_name": "Respiratory Disorders in neonates",
-        "id": "dc679da2-3890-4662-828c-d5eced870b64",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are the components of the score used to assess respiratory distress in a term neonate EXCEPT?",
-        "exp": "Downe score is used to assess respiratory distress in a term neonate. 5 criterion, based on which Downe score is done: Respiratory Rate, Retractions, Cyanosis, Air entry, Grunting. Wheeze is not a component of the Downe's score used to assess respiratory distress in a term neonate",
-        "cop": 4,
-        "opa": "Respiratory rate",
-        "opb": "Grunt",
-        "opc": "Central cyanosis",
-        "opd": "Wheeze",
-        "subject_name": "Pediatrics",
-        "topic_name": "Respiratory Disorders in neonates",
-        "id": "74a114e3-2d7a-485d-b2f7-50a2661a766b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A new born weighing 1000 g is born at gestational age of 30 weeks with respiratory distress within 1hr of bih. All of the following are the diagnostic possibilities EXCEPT?",
-        "exp": "Bronchopulmonary dysplasia (BPD) -occurs in neonate of HMD who have been treated with O2 & mechanical ventilation It usually takes weeks to develop. So, BPD does not present within few hrs after bih.",
-        "cop": 3,
-        "opa": "Diaphragmatic hernia",
-        "opb": "HMD",
-        "opc": "Bronchopulmonary dysplasia",
-        "opd": "Pulmonary hemorrhage",
-        "subject_name": "Pediatrics",
-        "topic_name": "Respiratory Disorders in neonates",
-        "id": "4797bb62-d4d5-46e6-860c-aa3bd6da4edb",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 2-day-old neonate, born at 33weeks of gestation and weighing 1. 5kg, has 3 episodes of apnoea, each lasting for around 25 seconds and occurring after a feeding. During these episodes, there was bradycardia and extremities were cyanosed. Blood sugar is 50 mg/dL and serum calcium is normal. Which of the following is true regarding the apnoeic periods?",
-        "exp": "Apnoeic episodes are characterized by an absence of respirations for more than 20 seconds or for any duration, in the presence of bradycardia or cyanosis Periods of apnoea are generally due to be incompletely developed respiratory center, paicularly when they are seen in premature infant. Although seizures, hypoglycemia, and pulmonary disease accompanied by hypoxia can lead to apnea, these causes are less likely in the infant described, given that no unusual movements occur during the apneic spells, the blood sugar level is more than 40 mg/dL, and the child appears well between episodes.",
-        "cop": 3,
-        "opa": "Due to seizures",
-        "opb": "Secondary to hypoglycemia",
-        "opc": "Due to an immature respiratory center",
-        "opd": "Evidence of underlying pulmonary disease.",
-        "subject_name": "Pediatrics",
-        "topic_name": "Respiratory Disorders in neonates",
-        "id": "c406c1de-66a4-42c5-8c37-e4db10dd9d10",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The score used to assess respiratory distress in a preterm neonate is?",
-        "exp": "* Silverman score is used to assess respiratory distress in a preterm neonate Components 0 1 2 Upper chest retractions Chest and abdomen rise together Chest wall lags behind abdomen Chest wall and abdomen move in opposite directions(see saw) Lower chest retractions Absent Minimal Marked Xiphisternal retractions Absent Minimal Marked Nasal flare Absent Minimal Marked Grunt None Audible only with stethoscope Audible without stethoscope * Maximum score - 10 and Minimum score- 0 * 0-3 score - Normal; >7 score - Severe Respiratory Distress OTHER OPTIONS: Apgar score- to evaluate newborn's condition Ballard score- to assess gestational age of newborn Downe score- used to assess respiratory distress in a term neonate",
-        "cop": 4,
-        "opa": "Ballard",
-        "opb": "Apgar",
-        "opc": "Downe",
-        "opd": "Silverman",
-        "subject_name": "Pediatrics",
-        "topic_name": "Respiratory Disorders in neonates",
-        "id": "1b86320e-3012-4f89-bd19-360d24a746fb",
-        "choice_type": "multi"
     },
     {
         "question": "Given below is an X ray of neonate, what is your diagnosis?",

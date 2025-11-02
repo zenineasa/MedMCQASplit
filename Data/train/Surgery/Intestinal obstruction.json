@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "First to recover from post-operative ileus:",
-        "exp": "POST-OPERATIVE ILEUS - Following most abdominal operations or injuries, the motility of GI tract is transiently impaired. - Proposed mechanisms responsible for this dysmotility are surgical stress-induced sympathetic reflexes, inflammatory response mediator release, and anesthetic / analgesic effects; each of which can inhibit intestinal motility. Return of normal motility: small intestineQ (within 24 hours) > Gastric (48 hours)Q>Colonic(3-5 days) Post-operative ileus is most pronounced in colon. - Because small bowel motility is returned before colonic and gastric motility, listening for bowel sounds is not a reliable indicator that ileus has fully resolved.",
-        "cop": 1,
-        "opa": "Small intestine",
-        "opb": "Stomach",
-        "opc": "Colon",
-        "opd": "None",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal obstruction",
-        "id": "731a8ecd-16ed-402f-8578-141b340b999b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Commonest cause of acute intestinal obstruction is:",
         "exp": "SMALL BOWEL OBSTRUCTION - Adhesions secondary to previous surgery are the MC cause of SBO. - Causes: Adhesions (60%) > Malignant tumors (20%) >Hernia (10%) > Crohn's disease (5%)Q. - Primary colonic cancers (paicularly those arising from the cecum and ascending colon) may present as a SBO.",
         "cop": 1,
@@ -78,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A child was operated for small intestine mass with intussusception and after the operation the tumor was diagnosed in histological section. Which is the most likely tumor associated?",
-        "exp": "SMALL-BOWEL NEOPLASM - MC tumor of small bowel: Leiomyoma > Adenoma - MC tumor of small bowel in children: Lymphoma - MC malignant tumor of small bowel: Adenocarcinoma >Carcinoid - MC site of small bowel malignancy, carcinoids, lymphoma: Ileum",
-        "cop": 3,
-        "opa": "Carcinoid",
-        "opb": "Villous adnoma",
-        "opc": "Lymphoma",
-        "opd": "Smooth muscle tumor",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal obstruction",
-        "id": "9372a25a-2965-4613-986b-a968cace35ac",
-        "choice_type": "multi"
-    },
-    {
         "question": "23 yrd old male with abdominal surgery, develops intestinal obstruction 2 yrs later, what is the likely cause -",
         "exp": "Ans. is 'a' i. e., Adhesions * In Western countries where abdominal operations are common, adhesions and bands are the most common cause of intestinal obstruction in such post abdominal surgery cases.",
         "cop": 1,
@@ -102,19 +76,6 @@
         "topic_name": "Intestinal Obstruction",
         "id": "2b038b6b-017a-4469-9bcd-57b1de99cae9",
         "choice_type": "single"
-    },
-    {
-        "question": "All are common causes of ileal obstruction except?",
-        "exp": "Ans. (d) Hirschsprung's Disease. Ref.: Manipal Manual of surgery, 4th ed./731. Common causes of ileal obstruction. Common causes of colonic obstruction* Adhesions* Obstructed hernia* Stricture* Intussusception* lleocaecal. TB* Bands* Fecal impaction* Carcinoma colon* Hirschsprung's disease* Anorectal malformations",
-        "cop": 4,
-        "opa": "Adhesions",
-        "opb": "Obstructed hernia",
-        "opc": "Stricture",
-        "opd": "Hirschsprung's disease",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal Obstruction",
-        "id": "ee0cba41-89cb-4305-90ab-b29adf4acdf3",
-        "choice_type": "multi"
     },
     {
         "question": "A patient has presented with carcinoma rectum with obstruction in emergency. What is the treatment of choice?",
@@ -182,19 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are predisposing factors for sigmoid volvulus except:",
-        "exp": "Hirschsprung's disease and Chagas disease can lead to megacolon, a risk factor for sigmoid volvulus.",
-        "cop": 4,
-        "opa": "Hirschsprung's diseases",
-        "opb": "Chagas diseases",
-        "opc": "Chronic constipation",
-        "opd": "Tuberculosis",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal obstruction",
-        "id": "e1430198-c8d2-4de2-9d02-19c8bed0cc2d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Ischemia of which of the vessel would cause least damage?",
         "exp": "Occlusion of IMA does not always result in irreversible ischemia of the descending and sigmoid colon, because the marginal aery of colon usually receives an adequate supply from the left branch of the middle colic aery.",
         "cop": 3,
@@ -206,19 +154,6 @@
         "topic_name": "Intestinal obstruction",
         "id": "927ae75a-35c8-4633-bbb8-31120e391c12",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following causes Adynamic intestinal obstruction?",
-        "exp": "Ans: D (Paralytic ileus) Ref: The Washington Manual of Surgery, 6th edition, Bailey and Love's Short Practice of Surgery 25th Edition & Schwartz's Principles of Surgery, 9th Edition. Explanation: Intestinal obstruction. Defn: Lack of transit of intestinal contents. Classification according to pathology Dynamic: Where peristalsis is working against a mechanical obstruction. Adynamic: Where there is absence of peristalsis without obstruction. Absent peristalsis (eg: Paralytic ileus). Non-propulsive form (ef: Mesenteric vascular occlusion. Pseudo-obstruction). Causes of Dynamic Intestinal Obstruction. Intraluminal causes. Impacted stools. Foreign bodies. Bezoars. Gall stones. Ascariasis. Meconium ileus. Intramural causes. Atresia. Inflammatory stricture - TB, Crohn's disease. Malignant stricture - Ca Colon, GISTExtramural causes. Intraperitoneal bands and adhesions. Hernia. Volvulus. Intussusception",
-        "cop": 4,
-        "opa": "Gall stones",
-        "opb": "Bands",
-        "opc": "Intussusception",
-        "opd": "Paralytic ileus",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal Obstruction",
-        "id": "806fd3ee-b052-44ec-96f0-d442db7d7a23",
-        "choice_type": "multi"
     },
     {
         "question": "Most common electrolyte imbalance that causes paralytic ileus is:",
@@ -310,32 +245,6 @@
         "topic_name": "Intestinal Obstruction",
         "id": "75b87f41-8be7-4f38-a70c-3597c5b5a548",
         "choice_type": "single"
-    },
-    {
-        "question": "Coffee bean sign is usually seen in:",
-        "exp": "Coffee bean sign is usually seen in Sigmoid Volvulus.",
-        "cop": 1,
-        "opa": "Volvulus",
-        "opb": "Pyloric obstruction",
-        "opc": "Intussusception",
-        "opd": "Intestinal obstruction",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal obstruction",
-        "id": "6341ebf9-1579-49fa-a8f4-2e1a2bb3ae0e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Most common cause of small intestine obstruction is?",
-        "exp": "ANSWER: (D) Postoperative adhesions. REF: Bailey & Love 25th edition page 1188, overview\"The most common cause of small-bowel obstruction (SBO) is postsurgical adhesions\"",
-        "cop": 4,
-        "opa": "Intussception",
-        "opb": "Idiopathic adhesions",
-        "opc": "Tumors",
-        "opd": "Postoperative adhesions",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal Obstruction",
-        "id": "a4e0577b-2c82-4d8e-8864-9a2d110fcad5",
-        "choice_type": "multi"
     },
     {
         "question": "Most common site of volvulus is:",
@@ -455,19 +364,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 70 years old male was brought to the emergency with colicky pain in lower abdomen & non-passage of feces and flatus. The abdominal X-ray findings are given below. Which of the following is the preferred treatment option for this patient?",
-        "exp": "Given Abd X-ray - Coffee bean sign / Omega sign / Bent inner tube | Sigmoid volvulus TREATMENT:- Colonoscopic detorsion After 3 days sigmoid colectomy Ischemia / strangulation / perforation - Emergency condition | Immediate colonic resection",
-        "cop": 4,
-        "opa": "Colonoscopic detorsion",
-        "opb": "Elective sigmoid colectomy",
-        "opc": "Paul-Mikulicz operation",
-        "opd": "Colonoscopic detorsion followed by elective sigmoid colectomy",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal obstruction",
-        "id": "7a162615-1972-4e97-8792-136e544393d2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not a feature of paralytic ileus?",
         "exp": "Paralytic ileus Failure of transmission of peristaltic waves due to neuromuscular failure. Etiology: Abd Sx Intra-abdominal infection Dyselectrolytemia Drugs Clinical presentation Abdominal distention Vomiting Dilated bowel loops No mechanical obstruction Paralytic ileus Mechanical obstruction Pain is not a feature of paralytic ileus and if present a steady, diffuse discomfo Bowel sounds are hypoactive or absent Presence of gas in colon & rectum in paralytic ileus on abdominal X-ray Pain is colicky in mechanical obstruction Hyperactive bowel sounds in mechanical obstruction Absence of gas in colon & rectum in mechanical (complete) small bowel obstruction",
         "cop": 3,
@@ -479,19 +375,6 @@
         "topic_name": "Intestinal obstruction",
         "id": "d073f164-24c0-43b4-b937-9a94828cdb6e",
         "choice_type": "single"
-    },
-    {
-        "question": "A plain X ray abdomen is performed in case of small bowel obstruction. Small bowel would be called dilated if its diameter is more than:",
-        "exp": "Normal bowel caliber: Small bowel- <3 cm Large bowel- <6 cm Caecum- <9 cm Thus, small bowel is called dilated if its caliber is >3 cm.",
-        "cop": 2,
-        "opa": "2 cm",
-        "opb": "3 cm",
-        "opc": "4 cm",
-        "opd": "5 cm",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal obstruction",
-        "id": "dbb08ef2-0361-4d25-9ee4-8fde400444b4",
-        "choice_type": "multi"
     },
     {
         "question": "Most common cause of colonic obstruction is:",
@@ -531,32 +414,6 @@
         "topic_name": "Intestinal Obstruction",
         "id": "15ec3372-d31b-49b7-a0a5-37d9e4df7d29",
         "choice_type": "single"
-    },
-    {
-        "question": "All statements about adult instussusception are true except:",
-        "exp": "Ans: A (Idiopathic & more enteric rather than colonic) {Ref: L&B 26th/l 184-85, 187 & 25th/79-81; Sabiston 18th/ 2063-64]\"Most intussusceptions can be reducednon-operatively using an air or barium enema- L & B 25th/ 81'Adult cases of intussusceptions are invariably associated with a lead point, which is usually a polypfe. g, Peutz-Jeghers syndrome), a submucosal lipoma or other tumor\"- L & B 25th/ l191\"In adults, colocolic intussusceptions is common but in children ileocolic is commonest variety (77%v\"- L & B 25th/1191. Intussususception# The incidence of a pathological lead point is upto 12% in most pediatric series & increases directly with age# Causes: Change in diet during weaning, Upper respiratory tract infection, viral infection, Intestinal polyp, Submucous lipoma, Leiomyoma of intestine, Meckel's diverticulum, Carcinoma, Purpuric submuscosal haemorrhages. Administration of rotavirus vaccinei can cause intussusceptions- Sabiston 18th/2063# Currant jelly stool \" is found. Target sign & pseudokidney sign5 are found- Sabiston 18th/ 2064# Treatment:* Non-operative: reduction by hydrostatic pressure using either saline or barium sulphate solution or air:* Surgery indications:- More than 48 hrs duration- Features of perforation, strangulation, peritonitis- Recurrent intussusceptions- In adults, commonly resection is required.",
-        "cop": 1,
-        "opa": "Idiopathic & more enteric rather than colonic",
-        "opb": "Lead point present in majority of cases",
-        "opc": "Resection of bowel is adequate for large bowel intussusception",
-        "opd": "Hydrostatic reduction with barium or air are done if bowel is not completely obstructed",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal Obstruction",
-        "id": "991cee78-11a3-4796-b90e-e01232303de8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about strangulation of intestine is:",
-        "exp": "Venous return is compromised before aerial supply in strangulated intestinal obstruction.",
-        "cop": 2,
-        "opa": "Aerial blood flow affected first",
-        "opb": "Usually venous blood flow affected first",
-        "opc": "Blood flow normal",
-        "opd": "No gangrene",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal obstruction",
-        "id": "6b227361-1e71-4bba-9e74-c04b60af6ac0",
-        "choice_type": "multi"
     },
     {
         "question": "A women of 35-year old comes to emergency department with symptoms of pain in abdomen and bilious vomitting but no distension of bowel. Abdominal x-ray showed no air fluid level. Diagnosis is:",
@@ -635,18 +492,5 @@
         "topic_name": "Intestinal Obstruction",
         "id": "a8242d07-b24b-42f4-b54b-a842b84b776f",
         "choice_type": "single"
-    },
-    {
-        "question": "False regarding cecal voluvus:",
-        "exp": "CECAL VOLVULUS -Misnomer -Involvement of ileum, cecum, transverse colon; Not only cecum. -Correct name should have been Cecocolic volvulus. -Volvulus is Mainly clockwise. -Caecum is relatively fixed. | If free or mobile | Increased chances of torsion *Predisposing factors:- -Multipara patients (due to release of relaxin) -H/O previous surgery (ligaments are divided) -Malrotation (abnormal location of cecum which is free) -Distal obstructing lesion (proximal pa of colon distention leading to torsion) *Clinical features:- Because Twisting/ is at the level of ileum -patient will present with signs and symptoms of SBO * -Colicky pain * -Bilious vomiting * -Absolute constipation *Investigations:- -IOC - Plain x-ray * KIDNEY BEAN sign -Comma shaped cecum *Treatment:- Ileocecectomy + Ileotransverse anastomosis - Most cases require operation to correct the volvulus and prevent ischemia. - If ischemia has already occurred, immediate operation is obviously required. Right colectomy with primary anastomosis is the procedure of choice In frankly gangrenous bowel, resection of the gangrenous bowel with ileostomy is a safer approach - Recurrence rates are high with cecopexy, and right colectomy remains the procedure of choice for cecal volvulus.",
-        "cop": 4,
-        "opa": "Present with small bowel obstruction.",
-        "opb": "Present with air fluid levels in right upper quadrant and convexity towards left.",
-        "opc": "Endoscopic derotation is not effective like sigmoid volvulus.",
-        "opd": "Cecopexy is procedure of choice.",
-        "subject_name": "Surgery",
-        "topic_name": "Intestinal obstruction",
-        "id": "0fbb638e-f273-4cee-9c39-737ece375e80",
-        "choice_type": "multi"
     }
 ]

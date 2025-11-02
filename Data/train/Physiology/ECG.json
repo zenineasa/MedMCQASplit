@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True regarding 2nd degree heart block:",
-        "exp": "In 2nd degree heart block - some of the SA nodal impulses do reach the ventricles whereas some are not able to reach the ventricles. Consequently, ventricular rate is slower than the atrial rate. 3rd degree heart block is called the complete heart block, when no impulse from SA node reaches the ventricles. Since ventricles remain quiescent for a while, it results in dizziness followed by syncope - Stokes Adam's syndrome.",
-        "cop": 4,
-        "opa": "It is complete heart block",
-        "opb": "It gives rise to idioventricular rhythm",
-        "opc": "It is responsible for Stokes-Adam's syndrome",
-        "opd": "The ventricular rate is slower than the atrial rate.",
-        "subject_name": "Physiology",
-        "topic_name": "ECG",
-        "id": "cfa87183-f287-49e0-8ada-d51e2f72f1dd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Falsely prolonged QT interval may be a feature of which one of the following conditions?",
-        "exp": "Hypokalemia (plasma K+ ~ 3. 5 m. Eq/L) causes a widened concentration gradient for K+ (inside & outside). This results in altered repolarization of ventricles and there would be prominent U wave now, which will immediately follow the T wave. The actual QT interval remains normal (~ 0. 4 sec); however, the U wave is erroneously considered a pa of the T wave, and a falsely prolonged QT interval of 0. 6 sec is measured.",
-        "cop": 1,
-        "opa": "Hypokalemia",
-        "opb": "Hyperkalemia",
-        "opc": "Hypocalcemia",
-        "opd": "Hypercalcemia",
-        "subject_name": "Physiology",
-        "topic_name": "ECG",
-        "id": "88e16fba-2a12-430d-ab74-978ef259032e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Vulnerable period' during the cardiac excitation coincides with:",
         "exp": "Peak or midpoion of T wave is the 'vulnerable period' in the heart. T-wave represents ventricular repolarization. Mid-poion of the T wave indicates that the ventricular repolrization is paly complete. Each cell will have different status of excitability, at this point of time. If a premature impulse arrives in the ventricles at this time, it may result in ventricular fibrillation. During this time, the excitability of the ventricular fibers varies spatially. Some fibers are completely repolarized (and hence have recovered their excitability, and are ready to conduct another impulse), whereas others are paially recovered, and still others are in their refractory periods. J-point or reference point. End of S-wave (of QRS) is sometimes called the reference point or J-point. It is an isoelectric point. It indicates the completion of ventricular depolarization. It means, all the ventricular cells are in a dequipotential (depolarized). U wave represent the repolarization of papillary muscle.",
         "cop": 3,
@@ -50,19 +24,6 @@
         "topic_name": "ECG",
         "id": "4300f217-ec4a-44a7-af59-2f36d6d35440",
         "choice_type": "single"
-    },
-    {
-        "question": "In terms of the leads \"looking at\" the heart walls, which of the following is an odd one out?",
-        "exp": "Leads II, III, and a. VF are called \"inferior leads\". These leads have their positive (or exploring) electrode on the foot. These 3 leads look to the heart from below; i. e., they are directly looking at the inferior wall of the heart. Any ECG changes in these 3 leads will be reflective of pathology of the inferior wall (e. g., inferior wall MI). avL looks at the heart from left side, hence it is the odd one out.",
-        "cop": 3,
-        "opa": "Lead II",
-        "opb": "Lead III",
-        "opc": "Lead a. VL",
-        "opd": "Lead a. VF",
-        "subject_name": "Physiology",
-        "topic_name": "ECG",
-        "id": "8a953003-298f-4b31-8965-f3d7f20826ce",
-        "choice_type": "multi"
     },
     {
         "question": "When recording lead I on an ECG, the right arm is the negative electrode and the positive electrode is the",
@@ -89,19 +50,6 @@
         "topic_name": "ECG",
         "id": "42e2b1d7-4b9e-47d4-af93-84ecd2f960da",
         "choice_type": "single"
-    },
-    {
-        "question": "PR interval is constant in:",
-        "exp": "- Mobitz type II of the second degree block has a constant PR interval, with every 'nth' beat is dropped; that is, inconsistently one impulse from atria does not reach ventricles. - Mobitz type I of the second degree block shows lengthening PR interval in successive beats, with finally in one beat P wave is not followed by QRS complex. - In a third variety of the second degree block, atria-to-ventricle excitation is a fixed small number ratio (e. g., 3: 2). For instance, every third impulse from SA node will fail to reach ventricles.",
-        "cop": 2,
-        "opa": "Mobitz type I block",
-        "opb": "Mobitz type II block",
-        "opc": "All types of second degree blocks",
-        "opd": "None of the varieties of heart block.",
-        "subject_name": "Physiology",
-        "topic_name": "ECG",
-        "id": "5d39d59a-b11d-412b-b72e-adab86886530",
-        "choice_type": "multi"
     },
     {
         "question": "A 55-year-old man underwent an ECG at an annual physical, and his net deflection (R wave minus Q or S wave) in standard limb lead I was -1. 2 millivolts. Standard limb lead II has a net deflection of +1. 2 millivolts. What is the mean electrical axis of his QRS?",

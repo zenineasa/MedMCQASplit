@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements about phase IV clinical trials is true?",
-        "exp": "Phase Name Purpose I Human Pharmacology and safety To know the Maximum tolerable dose > Dose > Pharmacokinetics > Safety II Therapeutic Exploratory To establish therapeutic efficacy, dose ranging and ceiling effect III Therapeutic Confirmatory To Confirm therapeutic efficacy and To establish the value of drug in relation to existing therapy IV Post-Marketing Surveillance To know rare and long term adverse effects. Special populations like pregnancy and children can be tested 0 (ZERO) Micro-dosing studies To know pharmacokinetics Could avoid costly phase I studies for drugs with unsuitable pharmacokinetics",
-        "cop": 3,
-        "opa": "It is done for pediatric drugs",
-        "opb": "It is done for rare drugs",
-        "opc": "It is post-marketing surveillance of drugs",
-        "opd": "It is also called human pharmacology and safety studies",
-        "subject_name": "Pharmacology",
-        "topic_name": "CLINICAL TRIALS, DRUG LABEL",
-        "id": "fbe2751d-cb52-4bbf-8b86-d7ac759426da",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following pharmacological feature is similar for both \"me-too drug\" & \"prototype drug\"?",
-        "exp": "Me-too drug or Follow-on drug: A drug that is structurally very similar to already known drugs with only minor differences. It may differ with prototype drug in pharmacokinetic parameters but have similar mechanism of action and used for same conditions as the prototype drug used. Eg: Simvastatin, a me-too drug is a more effective than lovastatin, a prototype drug.",
-        "cop": 1,
-        "opa": "Mechanism of action",
-        "opb": "Absorption",
-        "opc": "Metabolism",
-        "opd": "Elimination",
-        "subject_name": "Pharmacology",
-        "topic_name": "CLINICAL TRIALS, DRUG LABEL",
-        "id": "58909e6d-1bc8-4f0c-92f5-bf35984632b9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Approximate number of patients recruited in phase II clinical trials of a drug are?",
         "exp": "Phase Name Conducted on I Human Pharmacology and safety Healthy Volunteers II Therapeutic Exploratory (20-200) patients III Therapeutic Confirmatory Upto 5000 patients from several centres IV Post-Marketing Surveillance Large number of patients 0 (ZERO) Microdosing studies Healthy volunteers (Small numbers)",
         "cop": 1,

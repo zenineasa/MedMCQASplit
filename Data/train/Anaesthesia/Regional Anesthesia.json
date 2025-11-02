@@ -1,31 +1,5 @@
 [
     {
-        "question": "All local anesthetic produces vasodilation on local application except",
-        "exp": "Cocaine is a vasoconstrictor as it is sympathomimetic. * Cocaine was the first local Anesthetic to be used clinically. IT is only natural local anesthetic. Koller introduced this in the field of ophthalmology. It is the only local anesthetic with vasoconstrictor action. It is sympathomimetic and inhibits metabolism of catecholamine. * Procaine - 1st synthetic local anesthetic. It is used primarily to reduce the pain of intramuscular injection of penicillin. * Chloroprocaine - It is shoest acting local anesthetic used for sho procedures * Benzocaine - Is a common ingredient in topical sprays, can also cause methemeglobinamia. (See complications) * Tetracaine - Also called amethocaine mostly used topically.",
-        "cop": 1,
-        "opa": "Cocaine",
-        "opb": "Lignocaine",
-        "opc": "Bupivacaine",
-        "opd": "Ropivacaine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "4df3470a-67b3-4deb-8794-7e42b88b79e6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following approach of brachial block is most suitable for catheter placement:-",
-        "exp": "The infraclavicular brachial plexus blocks are an alternative to axillary block for anaesthetizing the elbow, forearm, and hand when positioning is compromised by limited abduction at the shoulder, for example, rheumatoid ahritis or an immobilized/traumatized arm. It is also an alternative to supraclavicular block for anaesthetizing the upper arm. The veical infraclavicular is better than the lateral approaches in this respect and has similar rates of pneumothorax but less frequent phrenic nerve paresis. The lateral approach performed with ultrasound control has a minimal risk of phrenic nerve paresis or pneumothorax and so may be a better choice in those with respiratory compromise, but provides less reliable upper arm anaesthesia. Complications are rare and less frequent than supraclavicular approaches and vary depending on the specific infraclavicular technique used. Although the axillary block provides safe and straightforward regional anaesthesia of the arm, the infraclavicular approach does offer an alternative in some specific situations and can be considered a ble routine alternative in experienced hands. It has some advantages in providing upper arm anaesthesia, securing infusion catheters to the chest wall, and ease of patient positioning",
-        "cop": 2,
-        "opa": "Supraclavicular",
-        "opb": "Infraclavicular",
-        "opc": "Axillary",
-        "opd": "All",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "843dadcd-43cd-43c0-a74c-9efd7bafffd4",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the mode of action of local anesthetics?",
         "exp": "Sodium channels are membrane bound proteins that are composed of one large and subunit through which Na ions pass, and one or two smaller b subunits. Voltage - gated Na channels exist in three stages - resting, open and inactivated local anesthetics bind a specific region of the & subunit and inhibit voltage - gated Na channels preventing channel activation and Na influx associated with membrane depolarization. Main mechanism of action of local anesthetics is through inhibition of. Activated, voltage-gated Na channel. Local anesthetics have a greater affinity for the channel in the open or inactivated state than in the resting state. Local anesthetic binding to open or inactivated channels, or both, is facilitated by depolarization. The fraction of Na channels that have bound a local anesthetic increases with frequent depolarization (eg, during trains of impulses). This phenomenon is termed use-dependent block Local anesthetic inhibition is both voltage and frequency dependent, and is greater when nerve fibers are firing rapidly than with infrequent depolarizations Sodium passess through voltage gated sodium channel and cause change in membrane potential and cause depolarization. Local anesthetic attaches to sodium channel and prevents propogation & depolarization",
         "cop": 1,
@@ -50,19 +24,6 @@
         "topic_name": "Regional Anesthesia",
         "id": "bcc66b08-4777-47d5-802b-048eaea6bba9",
         "choice_type": "single"
-    },
-    {
-        "question": "Increased risk of cardio toxicity associated with local anesthetics requires a dose reduction in all of the following except",
-        "exp": "Life threatening cardiovascular toxicity, including left ventricular depression, atrioventricular heart block, ventricular arrhythmia is seen more in patients with deceased liver function, acidosis and in shock. The risk factors for developing LAST (Local Anesthetic systemic toxicity)can be categorized into those that are related to the injected drug, the patient, or the technique. Drug The cardiovascular collapse/CNS (CC/CNS) ratio is \"the ratio of drug dose required to cause catastrophic cardiovascular collapse to the drug dose required to produce seizures. \" A low CC/CNS ratio is associated with more cardiotoxic agents, while LAs with a higher CC/CNS ratio have a greater safety margin. This is because the earlier presentation of CNS features may expedite earlier diagnosis (and thus, treatment) of LAST before cardiovascular collapse ensues. Ropivacaine and levobupivacaine, for example, have higher CC/CNS ratios than racemic bupivacaine; therefore, it seems logical to preferentially use these drugs when long-acting LAs are desired. Vigilance is always required, however, as all LA drugs may cause LAST. Patient Age Patients at the extremes of age have consistently been shown to be at the greatest risk of LAST. Pregnancy Renal disease Patients with severe renal disease not only have a hyperdynamic circulation and reduced clearance of LAs, but also have an increased a1-acid glycoprotein concentration. As a result, free plasma concentrations are largely unchanged and dose reduction is often unnecessary, unless the patient is uremic with metabolic acidosis. Cardiac disease Dose reduction is unnecessary in mild-moderate heart failure where tissue perfusion is preserved, but is recommended in severe heart failure. Hepatic dysfunction",
-        "cop": 4,
-        "opa": "Pregnancy",
-        "opb": "Acidosis",
-        "opc": "Pediatric",
-        "opd": "Increased cardiac output",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "e7d7c9ac-6b70-4d46-9466-840bcfebaee6",
-        "choice_type": "multi"
     },
     {
         "question": "The order of sensory blockade of local anesthesia is:",
@@ -91,32 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which approach of brachial plexus block targets cords of the brachial plexus:-",
-        "exp": "The brachial plexus is formed by theventral ramiof. C5-C6-C7-C8-T1, occasionally with small contributions by. C4and. T2. There are multiple approaches to blockade of the brachial plexus, beginning proximally with the interscalene block and continuing distally with the supraclavicular, infraclavicular, and axillary blocks. The concept behind all of these approaches to the brachial plexus is the existence of a sheath encompassing the neurovascular bundleextending from thedeep cervical fasciato slightly beyond the borders of the axilla. interscalene approach targets roots supraclavicular targets trunks /division infraclavicular targets cords",
-        "cop": 1,
-        "opa": "Infraclavicular",
-        "opb": "Supraclavicular",
-        "opc": "Axillary",
-        "opd": "All",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "ac06b86a-8b0c-4ad5-bd2d-740a64456e75",
-        "choice_type": "multi"
-    },
-    {
-        "question": "EMLA cream is effective in all except",
-        "exp": "EMLA (Eutectic Mixture of Local Anesthetic) cream consists of a 1: 1 mixture of 2. 5% lidocaine and 2. 5% prilocaine Local anesthetics can easily penetrate mucous membranes but intact skin requires a high concentration of lipid soluble anesthetics as in EMLA. The mixture provides analgesia upto a depth of 5 mm which lasts for 1-2 hours. EMLA can provide adequate dermal analgesia for procedures like: Split thickness skin-graft harvesting Venipuncture Laser removal of po wine stains Lithotripsy Circumcision Skin blanching, erythema, and edema may be seen as side effects. Prilocaine in large doses can cause methemoglobinemia. And so EMLA cream should not be used on mucous membranes, broken skin, infants younger than 1 month of age, or patients with a predisposition to methemoglobinemia.",
-        "cop": 4,
-        "opa": "Venous cannulation",
-        "opb": "Circumcision",
-        "opc": "Lumbar puncture",
-        "opd": "Intubation",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "463ee48f-5e3f-48fd-aecd-5e84621608fb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Pneumothorax is seen most commonly with which approach of brachial block:-",
         "exp": "In supraclavicular approach of brachial block as pleura is in close vicinity. The anterior rami of C5 to T1 form the brachial plexus, which exits the cervical spine to form the superior, middle, and inferior trunks that travel between the anterior and middle scalene muscles. Each trunk divides into an anterior and posterior branch, which subsequently rejoins to form the lateral, posterior, and medial cords as it travels distally to the clavicle. The supraclavicular approach blocks the brachial plexus from the distal trunks to the proximal cords but often is targeted at the divisions level. General complications to peripheral nerve blockade apply to supraclavicular blocks including risk for infection, bleeding, and neuropathy. With the advent of ultrasonography, constant visualization of the needle tip, first rib, and pleura can decrease the risk for pneumothorax. Common, self-limited, side effects associated with other proximal brachial plexus blockade include hoarseness due to an ipsilateral laryngeal nerve block, Horner syndrome from stellate ganglion block, and hemidiaphragmatic paresis from a phrenic nerve blockade.",
         "cop": 2,
@@ -128,19 +63,6 @@
         "topic_name": "Regional Anesthesia",
         "id": "ff2b002c-3b61-421f-bc26-79fa252a5695",
         "choice_type": "single"
-    },
-    {
-        "question": "The following statements about bupivacaine are true, except:",
-        "exp": "Bupivacaine and its congeners - Bupivacaine a long acting local anesthetic is very common in clinical use due to its good capability of differential block. The major demerit is that it is most cardio toxic. It is racemic mixture. Prilocaine is the only local anesthetic that is metabolized to o -toluidine, which conves hemoglobin to methemoglobin producing methemoglobinemia. This is usually significant with doses of prilocaine as large as 600mg. Benzocaine used in topical local anesthetic sprays can also cause dangerous Methemoglobinemia. Treatment of medically impoant methemoglobinemia includes intravenous methylene blue (1-2 mg/kg of a 1% solution over 5 min). Methylene blue acts by reducing methemoglobin (Fe 3+ ) to hemoglobin (Fe 2+ ).",
-        "cop": 4,
-        "opa": "Must never be injected into vein",
-        "opb": "More cardiotoxic than lignocaine",
-        "opc": "0. 25 % is effective for sensory block",
-        "opd": "Produces methemoglobinemia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "9e32975d-2c27-45f8-8a3d-8afc43fb24b0",
-        "choice_type": "multi"
     },
     {
         "question": "80-year-old patient is admitted for open reduction and internal fixation of a fracture of the femur. Which one of the following technique is ideal anesthetic technique for this patient?",
@@ -195,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "An 18 yrs old woman in the active stage of labour requests an epidural anaesthesia for delivery. Immediately following the epidural injection of 12ml of 2% lidocaine, the pt complains of lip numbness and becomes apprehensive. What is presumptive diagnosis.",
-        "exp": "systemic toxicity of Local anesthetics Central nervous system toxicity is classically described as a two-stage process. An initial excitatory state is followed by a depressive phase. Early neurological features include perioral tingling, tinnitus, and slurred speech. Light headedness and tremor may also occur, as may a change in mental status with confusion or agitation. However, LAST can occur without these characteristic premonitory signs. The excitatory neurological phase culminates in generalized convulsions. This may lead to the depressive phase of coma and respiratory depression. Cardiovascular system toxicity is classically in three phases. The initial phase includes hypertension and tachycardia. The intermediate phase is associated with myocardial depression and hypotension. The terminal phase includes peripheral vasodilatation, severe hypotension, and a variety of arrhythmias such as sinus bradycardia, conduction blocks, ventricular tachyarrhythmias, and asystole.",
-        "cop": 2,
-        "opa": "Allergy to drug administered",
-        "opb": "Systemic toxicity to drug administered",
-        "opc": "Vasovagal shock",
-        "opd": "Drug entered SA space",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "15410678-97a0-4133-bee7-9f22aada59f5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Anaesthesia used during Coronary angiography technique is:-",
         "exp": "General Anaesthesia is not given for angiography. Local Anaesthesia and sedation is mostly used for angiography.",
         "cop": 1,
@@ -232,45 +141,6 @@
         "topic_name": "Regional Anesthesia",
         "id": "326552c4-c710-4cee-97a4-27a23313664f",
         "choice_type": "single"
-    },
-    {
-        "question": "The local anaesthetic toxicity is maximally seen with?",
-        "exp": "According, the rate of systemic absorption is greatest with intercostal nerve blocks followed by caudal, lumbar epidural, brachial plexus block femoral and sciatic nerve blocks. Sequence of systemic absorption IV > Tracheal > Intercostal block > Para cervical block > Caudal > Lumbar epidural > Brachial Plexus > Sciatic > Subcutaneous.",
-        "cop": 2,
-        "opa": "Epidural",
-        "opb": "Intercostal space",
-        "opc": "Caudal space",
-        "opd": "Sciatico-femoral nerve block",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "6f5cadd6-bb0b-4eec-ada3-48b6a50eb50b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "EMLA cream is effective in relieving pain of:-",
-        "exp": "Any procedure causing pain involving 2-4 mm skin depth can be effectively relieved by EMLA cream. EMLA can provide adequate dermal analgesia for procedures like: Split thickness skin-graft harvesting Venipuncture Laser removal of po wine stains Lithotripsy Circumcision",
-        "cop": 4,
-        "opa": "Venipuncture",
-        "opb": "Aerial cannulation",
-        "opc": "Lumbar puncture",
-        "opd": "All of the above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "68f63ea3-9f6b-431f-967d-1ff88ad1681f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are signs of successful stellate ganglion block, except:",
-        "exp": "The stellate ganglion is pa of the sympathetic network formed by the inferior cervical and first thoracic ganglia. It receives input from the paraveebral sympathetic chain and provides sympathetic efferents to the upper extremities, head, neck, and heart. The infiltration of local anesthetic has been used to treat a variety of disorders, but it is primarily performed in the setting of reflex sympathetic dystrophy. Stellate ganglion blocks have traditionally been performed blindly by palpating the anterior tubercle of the transverse process of C6 (Chassaignac tubercle) and infiltrating a large volume (as much as 20 mL) of local anesthetic followed by the patient sitting up immediately afterwards so that the gravitational effect allows enough volume to reach the stellate ganglion to result in an effective block. This method has a relatively high failure rate, with numerous significant and even potentially fatal adverse effects signs of successful stellate ganglion block 1. Horner syndrome 2. conjunctival congestion 3. ipsilateral nasal stuffiness 4. tympanic membrane congestion 5. flushing",
-        "cop": 3,
-        "opa": "Flushing of face",
-        "opb": "Conjunctival congestion",
-        "opc": "Mydriasis",
-        "opd": "Nasal stuffiness",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "dbc2d668-85f3-42b1-9e22-27d75d8c385e",
-        "choice_type": "multi"
     },
     {
         "question": "First Local anesthetic to be used for spinal block:",
@@ -323,32 +193,6 @@
         "topic_name": "Regional Anesthesia",
         "id": "9779292f-9c71-468f-b86d-b6de6a3a2875",
         "choice_type": "single"
-    },
-    {
-        "question": "An 18 yrs old woman in the active stage of labour requests an epidural anaesthesia for delivery. Immediately following the epidural injection of 12ml of 2% lidocaine, the pt developes hypotension, bradycardia and respiratory depression. What is presumptive diagnosis.",
-        "exp": "accidental subarachnoid injection: Spinal anesthesia ascending into the cervical levels causes severe hypotension, bradycardia, and respiratory insufficiency. Unconsciousness, apnea, and hypotension resulting from high levels of spinal anesthesia are referred to as a \"high spinal, \" or when the block extends to cranial nerves, as a \"total spinal. \" These conditions can occur following an attempted Epidural/Caudal anesthesia if there is an accidental intrathecal injection. systemic toxicity early manifestation is mostly neurological. vasovagal shock will be manifested as parasympathetic overdrive during the procedure.",
-        "cop": 4,
-        "opa": "Allergy to drug administered",
-        "opb": "Systemic toxicity to drug administered",
-        "opc": "Vasovagal shock",
-        "opd": "Drug entered SA space",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "56bea3fe-6681-4609-9592-daeeda67ceb9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Alkalization of local anesthetics solutions by the addition of sodium bicarbonate has following benefit except-",
-        "exp": "Addition of sodium bicarbonate prevents causation of drug and spreads the onset -, improves the quality, increases duration and decreased pain at site of injection. Explanation The addition of sodium bicarbonate to local anesthetics improves the speed of onset, reduces the minimum concentration of the local anesthetic required and improves the quality of block. Adding sodium bicarbonate increases the pH of the local anesthetic solution, and thus more amount of free uncharged drug is available which can increase the rate of diffusion across the nerve sheath and improve the onset of anesthesia. Subcutaneous injections of local anesthetics are painful. Alkalinization of the solution by adding sodium bicarbonate before injecting can decrease the pain. Addition of adrenaline or any vasoconstriction causes decrease in systemic toxicity.",
-        "cop": 3,
-        "opa": "Speeds the onset",
-        "opb": "Improves quality",
-        "opc": "Decreases systemic toxicity",
-        "opd": "Decreases pain at site",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "7766bd53-ab36-4d86-84c1-b2a6a25d5bc3",
-        "choice_type": "multi"
     },
     {
         "question": "Which block to described as spinal anesthesia of arm:-",
@@ -429,32 +273,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All is true about ropivacaine except:",
-        "exp": "Ropivacaine is a long-acting amide local anaesthetic agent and first produced as a pure enantiomer. It produces effects similar to other local anaesthetics reversible inhibition of sodium ion influx in nerve fibres. Ropivacaine is less lipophilic than bupivacaine and is less likely to penetrate large myelinated motor fibres, resulting in a relatively reduced motor blockade. Thus, ropivacaine has a greater degree of motor sensory differentiation, which could be useful when motor blockade is undesirable. The reduced lipophilicity is also associated with decreased potential for central nervous system toxicity and cardiotoxicity. The drug displays linear and dose propoional pharmacokinetics (up to 80 mg administered intravenously). It is metabolised extensively in the liver and excreted in urine.",
-        "cop": 4,
-        "opa": "It is enantiomer of Bupivacaine",
-        "opb": "Can be safely used in labour analgesia in lower concentrations",
-        "opc": "It is less potent and less lipid soluble than Bupivacaine",
-        "opd": "Cardiotoxicity is similar to as that of Bupivacaine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "c26726f6-680e-4d50-b26c-864c87d33c4a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All true regarding Retrobulbar block except?",
-        "exp": "In this technique, local anesthetic is injected behind the eye into the cone formed by the extraocular muscles and a facial nerveblock is utilized to prevent blinking A successful retrobulbar block is accompanied by anesthesia, akinesia, and abolishment of the oculocephalic reflex. Complications Retrobulbar hemorrhage(m/c) Perforation of the globe, Optic nerve atrophy, Intravascular injection with resultant convulsions, Oculocardiac reflex, Trigeminal nerve block, Respiratory arrest, Acute neurogenic pulmonary edema. Retrobulbar injection not performed in patients with bleeding disorders because of the Risk of retrobulbar hemorrhage Extreme myopia because the elongated globe increases the risk of perforation Retrobulbar block",
-        "cop": 1,
-        "opa": "Can be given in patients with bleeding disorders",
-        "opb": "Risk of Perforation of the globe",
-        "opc": "Injected behind the eye into the cone formed by the extraocular muscles",
-        "opd": "M/C complication is Retrobulbar hemorrhage",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "bf82a213-4557-4e87-8664-a2b34287a2f5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dextrose is added to the spinal anesthetic drugs to",
         "exp": "By adding dextrose we ma. Ke local anaesthetic hyperbaric and prevent uncontrolled ascending of local anaesthetics The local anesthetic solutions can be made hyperbaric by the addition of glucose or hypobaric by the addition of sterile water or fentanyl. A hyperbaric solution of local anesthetic is denser (heavier) than CSF, whereas a hypobaric solution is less dense (lighter) than CSF. Significance: Hyperbaric solutions tend to move to the most dependent area of the spine. With the patient in a head-down position, a hyperbaric solution spreads cephalad, and a hypobaric anesthetic solution moves caudal. A head-up position causes a hyperbaric solution to settle caudally and a hypobaric solution to ascend cephalad. An isobaric solution tends to remain at the level of injection.",
         "cop": 3,
@@ -494,71 +312,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The dose of all of the following local anesthetic should be decreased in patients with deranged liver function except-",
-        "exp": "procaine is the only amino ester local anesthetic. All Aminoester compounds are hydrolyzed by plasma cholinesterase (pseudocholinesterase or butyrylcholinesterase) except cocaine which is paially metabolized by hepatic carboxylesterase and paially excreted unexchanged in the urine. Amino Amide local anesthetics like lidocaine, bupivacaine, ropivacaine, prilocaine are metabolized (N-dealkylation and hydroxylation) by microsomal P-450 enzymes in the liver.",
-        "cop": 4,
-        "opa": "Lignocaine",
-        "opb": "Bupivacaine",
-        "opc": "Cocaine",
-        "opd": "Procaine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "070a0271-928c-4b1f-b092-9aec80c4210a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Adding sodium bicarbonate to local anaesthetic has all of the following effects, except:",
-        "exp": "The addition of sodium bicarbonate to local anesthetics improves the speed of onset, reduces the minimum concentration of the local anesthetic required and improves the quality of block. Adding sodium bicarbonate increases the pH of the local anesthetic solution, and thus more amount of free uncharged drug is available which can increase the rate of diffusion across the nerve sheath and improve the onset of anesthesia. Subcutaneous injections of local anesthetics are painful. Alkalinization of the solution by adding sodium bicarbonate before injecting can decrease the pain.",
-        "cop": 4,
-        "opa": "Enhances onset",
-        "opb": "Enhances intensity",
-        "opc": "Increases the duration",
-        "opd": "Increase the pain of injection",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "0270cbf1-aa18-47e4-94a7-231a4df49a74",
-        "choice_type": "multi"
-    },
-    {
-        "question": "What is amethocaine:",
-        "exp": "Amethocaine is an ester local anaesthetic tetracaine. It is a very effective surface anesthetic. Tetracaine, also known as amethocaine, is a local anesthetic used to numb the eyes, nose, or throat. It may also be used before staing an intravenous to decrease pain from the procedure. Typically it is applied as a liquid to the area.",
-        "cop": 4,
-        "opa": "It is ester local anesthetic",
-        "opb": "It is other name of tetracaine",
-        "opc": "It is also typically very effective on local application",
-        "opd": "All are true",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "e30714b9-a952-480a-8493-602a773252e9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The following statements about Bupivacaine are true except:",
-        "exp": "Methemoglobinaemia is caused by prilocaine and benzocaine Prilocaine is the only local anesthetic that is metabolized to o -toluidine, which conves hemoglobin to methemoglobin producing methemoglobinemia. This is usually significant with doses of prilocaine as large as 600mg. Benzocaine used in topical local anesthetic sprays can also cause dangerous Methemoglobinemia. Treatment of medically impoant methemoglobinemia includes intravenous methylene blue (1-2 mg/kg of a 1% solution over 5 min). Methylene blue acts by reducing methemoglobin (Fe 3+ ) to hemoglobin (Fe 2+ ).",
-        "cop": 4,
-        "opa": "More cardio toxic than Lignocaine",
-        "opb": "0. 25 percent is effective for sensory block",
-        "opc": "Long acting drug",
-        "opd": "It produces methemoglobinaemia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "a0be3ce1-a860-4dde-81c9-bbccdd81a69d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following procedure can be done under EMLA cream except-",
-        "exp": "It is a cream preparation of local anesthetic providing dermal analgesia. Intubation cannot be done under EMLA it requires general anesthetics. EMLA cream - Eubetic mixture of local anesthetics It is a cream which consists of 1: 1 Mixture of 2. 5 % Lidocaine and 2. 5% prilocaine Contact time required = 60 minutes Depth of Penetration = 3-5 mm. Duration of Analgesia = 1-2 hour The amount of drug absorbed depends on application time, dermal blood flow, keratin thickness and total dose administered. c/I of application of EMLA - 1. Mucous membrane 2. Broken skin 3. < 1 month Uses - laser removal of po wine stains Lithotripsy Circumcision Venous emulation Skin graft harvesting",
-        "cop": 4,
-        "opa": "Split thickness skin - graft harvesting",
-        "opb": "Laser removal of po wine stain",
-        "opc": "Lithotripsy",
-        "opd": "Intubation",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "cf073db7-1883-4b70-ae4f-e84d3989012a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is most sensitive to the inhibition by local anesthetics -",
         "exp": "Sensitivity of nerve fibres to inhibition by local anesthetics is determined by axonal diameter, myelination and other anatomical & physiological features. In comparing nerve fibers of the serve type smaller diameter increases sensitivity to local anesthetics. Thus larger Aa fibres less sensitive to local anesthetics then smaller, slower conducting As fibres. For sensitivity B>C=Adelta>Agama>Ab>Aa Most sensitive - Least sensitive for L. A. B>C>A Autonomic > Sensory > Motor Temperature (Cold) >Pain> Touch> proprioception Recovery from block is in opposite direction",
         "cop": 1,
@@ -585,19 +338,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Lignocaine can be used in all except-",
-        "exp": "Lignocaine Injection belongs to two groups of medicines known as local anaesthetics and antiarrhythmic drugs. Local anaesthetics stop pain and feeling in the area around where it is injected; antiarrhythmic drugs work by restoring irregular and/or rapid heart beats to normal.",
-        "cop": 4,
-        "opa": "Ventricular fibrillation",
-        "opb": "Spinal Anaesthesia",
-        "opc": "Epidural Anaesthesia",
-        "opd": "Convulsion",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "a5253657-3d05-4cd7-ad26-5a3885e2e779",
-        "choice_type": "multi"
-    },
-    {
         "question": "Tuohy's needle is used for:",
         "exp": "This is tuohy needle used for epidural anaesthesia",
         "cop": 2,
@@ -622,32 +362,6 @@
         "topic_name": "Regional Anesthesia",
         "id": "5920aa93-772c-4582-bded-9eed0f6a33eb",
         "choice_type": "single"
-    },
-    {
-        "question": "All true about - cocaine except-",
-        "exp": "It is ester local anesthetics Cocaine was the first local Anesthetic to be used clinically. It is only natural local anesthetic. Koller introduced this in the field of ophthalmology. It is the only local anesthetic with vasoconstrictor action. It is sympathomimetic and inhibits metabolism of catecholamine.",
-        "cop": 1,
-        "opa": "It is amide local anesthetics",
-        "opb": "It can produce sympathetic stimulation",
-        "opc": "It is metabolized by liver",
-        "opd": "It blocks the presynaptic uptake of norepinephrine and dopamine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "11ad0fe5-dc3b-40e3-9fa0-020bdfaa6f46",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following can cause methemoglobinemia except-",
-        "exp": "Methemoglobinemia is a rare but potentially life - threatening complication that may follow theadministration of ceain drugs that causes oxidation of hemoglobin to Methemoglobin. Drugs whichcause this - prilocaine benzocaine, rarely Lignocaine, nitroglycerine, Phenytoin sulphonamide.",
-        "cop": 4,
-        "opa": "Prilocaine",
-        "opb": "Benzocaine",
-        "opc": "Nitroglycerine",
-        "opd": "Bupivacaine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Regional Anesthesia",
-        "id": "814eb5ab-fd48-460c-a791-53501fcd2259",
-        "choice_type": "multi"
     },
     {
         "question": "Local vasoconstriction is seen with:",

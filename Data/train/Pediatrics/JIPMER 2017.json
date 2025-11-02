@@ -1,18 +1,5 @@
 [
     {
-        "question": "Which of the following is false regarding neonatal resuscitation?",
-        "exp": "1. T - tube delivers free flow oxygen - TRUE 2. Self - inflating bag should not be used without reservoir - FALSE - can be used but Fi. O2 will be less. 3. Self - inflating bag can deliver free flow oxygen - TRUE 4. Flow inflating bag delivers free flow oxygen - TRUE",
-        "cop": 2,
-        "opa": "T - tube delivers free flow oxygen",
-        "opb": "Self - inflating bag should not be used without reservoir",
-        "opc": "Self - inflating bag can deliver free flow oxygen",
-        "opd": "Flow inflating bag delivers free flow oxygen",
-        "subject_name": "Pediatrics",
-        "topic_name": "JIPMER 2017",
-        "id": "47ac8f04-a1ca-46e4-9960-2ded9c8f8cc0",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 6 - year - old boy with lymphoreticular malignancy has come for a cycle of chemotherapy. Which of the following investigatins need to be done for next 4 hours to diagnose tumour lysis syndrome?",
         "exp": "Tumour lysis syndrome (TLS) - -Uric acid, phosphate and potassium are released in large quantities from death of tumour cells. -Hyperuricemia can lead to impairment of renal function, which fuher exacerbates the metabolic abnormalities. -Hypocalcaemia is a consequence of acute hyperphosphatemia with subsequent precipitation of calcium phosphate in soft tissues. 'TLS can occur before therapy in patients with a large tumour burden (e. g., Burkitt lymphoma, Hyperleukocytosis) It is usually seen within 12-48 hr of initiating chemotherapy.",
         "cop": 2,
@@ -24,19 +11,6 @@
         "topic_name": "JIPMER 2017",
         "id": "a2ff4e81-b9d0-46ae-b1ed-b4f0ca013165",
         "choice_type": "single"
-    },
-    {
-        "question": "Hypoglycemia, jaundice, microphallus with absent septum pellucidum are characteristics of which syndrome?",
-        "exp": "Septo-optic dysplasia (De Morsier syndrome)- Underdevelopment of the optic nerve, pituitary gland dysfunction, and absence septum pellucidum Kalman syndrome: Hypogonadism and anosmia. Russell Silver syndrome: Sho stature, microcephaly, triangular facies, fifth finger clinodactyly Kearns - sayre syndrome- external ophthalmoplegia, deafness, ataxia, heart block",
-        "cop": 1,
-        "opa": "De morsier syndrome",
-        "opb": "Silver - Russell syndrome",
-        "opc": "Kallmann syndrome",
-        "opd": "Kearns - sayre syndrome",
-        "subject_name": "Pediatrics",
-        "topic_name": "JIPMER 2017",
-        "id": "61b34f66-3863-44b4-8e0d-00ee1bd0f8c2",
-        "choice_type": "multi"
     },
     {
         "question": "Basic Pathophysiology in Potter syndrome:",
@@ -76,31 +50,5 @@
         "topic_name": "JIPMER 2017",
         "id": "f1c799a2-ee63-4ed7-954e-908de7f765c5",
         "choice_type": "single"
-    },
-    {
-        "question": "Regarding Fe. Na, which of the following is true?",
-        "exp": "Fractional excretion of sodium (Fe. Na) Fe. Na is the urine: plasma ratio of sodium divided by U: P of creatinine * 100 Neonates have higher Fe. Na because of tubular immaturity. Fe. Na is higher in preterm neonates due to immaturity of sodium reabsorptive capacity. Fe. Na may be affected by diuretics use. Classical lab findings in AKI- Type U Na Fe. Na Prerenal <10 <1% Intrinsic >20 >2% Postrenal >40 >4%",
-        "cop": 2,
-        "opa": "Fe. Na is lower in neonates when compared to children",
-        "opb": "Fe. Na is higher in intrinsic renal failure than pre renal failure",
-        "opc": "Measurement of Fe. Na is NOT affected by use of diuretic",
-        "opd": "Fe. Na is similar in both pre term and term neonate",
-        "subject_name": "Pediatrics",
-        "topic_name": "JIPMER 2017",
-        "id": "3154694c-b549-47cd-a710-c7ddde132d43",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A newborn has fused eyes and single nasal chamber & undeveloped callosum. What is the most probable diagnosis?",
-        "exp": "Holoprosencephaly: brain doesn't properly divide into right and left hemispheres. Associated with trisomy 13 (MC), trisomy 18, CHARGE syndrome Schizencephaly- characterized by abnormal slits or clefts in the cerebral hemispheres of the brain. Plagiocephaly- characterized by an asymmetrical distoion (flattening of one side) of the skull. Brachycephaly- result of premature synostosis of both coronal sutures.",
-        "cop": 1,
-        "opa": "Holoprosencephaly",
-        "opb": "Schizencephaly",
-        "opc": "Plagiocephaly",
-        "opd": "Brachycephaly",
-        "subject_name": "Pediatrics",
-        "topic_name": "JIPMER 2017",
-        "id": "ee3d6d55-2414-488e-ab3d-a8aa2635f6da",
-        "choice_type": "multi"
     }
 ]

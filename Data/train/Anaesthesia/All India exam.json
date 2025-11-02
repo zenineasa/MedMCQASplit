@@ -1,44 +1,5 @@
 [
     {
-        "question": "All of the following statements about neuromuscular blockage produced by succinylcholine are true, except:",
-        "exp": "Succinylcholine is a depolarizing neuromuscular blocker. With succinylcholine no fading is observed after train of four or tetanic stimulation. All four stimulatory responses after TOF stimulation are suppressed to the same extent. REF: Smith and atkenhead 10th ed",
-        "cop": 2,
-        "opa": "No fade on Train of four stimulation",
-        "opb": "Fade on tetanic stimulation",
-        "opc": "No post tetanic facilitation",
-        "opd": "Train of four ratio > 0. 4",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "6f281615-4859-4a7a-84a8-07e79c55d4d1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drugs used for anaesthesia in hypotensive is",
-        "exp": "Ketamine raises the BP, therefore is the induction agent of choice in hypotensive states and shock. (Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no. 294)",
-        "cop": 2,
-        "opa": "Propofol",
-        "opb": "Ketamine",
-        "opc": "Thiopentone",
-        "opd": "None",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "6008a213-f7c8-4571-b039-6173cc6f14a9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are advantages of LMA Except",
-        "exp": "LMA is intermediate between the face mask and endotracheal intubation in terms of reliability, invasiveness, and facilitation of gas exchange (face mask has minimum and endotracheal intubation has maximum)LMA does not prevent aspiration - should not be used in full stomach patients. LMA can be used as an alternative to endotracheal intubation for minor surgeries, where anaesthetist wants to avoid intubation. LMA is introduced blindly (without laryngoscopy)",
-        "cop": 2,
-        "opa": "More reliable than face mask",
-        "opb": "Prevent aspiration",
-        "opc": "Alternative to endotracheal intubation",
-        "opd": "Does not require laryngoscope & visualization",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "f241c6fc-4d96-4bab-973f-5f5a18fc1772",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most potent bronchodilator among inhalational anesthetic agents is",
         "exp": "Effect of inhalational agents on respiratory system. All inhalational agents are bronchodilators -Halothane cause maximum bronchodilatation. The inhalational agent of choice in asthmatics (intravenous anaesthtic of choice is ketamine). All inhalational agents cause respiratory depression to some extent - Maximum depression of respiration is seen with enflurane, on the other hand, maximum inhibition of ventilator response to increased CO2 and hypoxia is caused by halothane. All inhalational agents vasodilate pulmonary vascular bed by blunting the hypoxic pulmonary vasoconstriction (HPV) response. Halothane has maximum effect: Isoflurane, Enflurane, desflurane, sevoflurane have similar effect. (Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 167 - 169)",
         "cop": 3,
@@ -76,19 +37,6 @@
         "topic_name": "All India exam",
         "id": "a223166e-c26f-480b-9450-980a9395053f",
         "choice_type": "single"
-    },
-    {
-        "question": "Anesthetic agent/s which have tocolytic effect are",
-        "exp": "Halothane, enflurane, and isoflurane produce a dose-dependent decrease in uterine tone (tocolysis). Studies of isoflurane demonstrate that halogenated compounds reduce both the frequency of uterine contractions and the interval between them. (Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no. 122-127)",
-        "cop": 4,
-        "opa": "Halothane",
-        "opb": "Enflurane",
-        "opc": "Isoflurane",
-        "opd": "All the Above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "f53f03e1-ed1f-46ed-ad42-e63086535d57",
-        "choice_type": "multi"
     },
     {
         "question": "Pudendal nerve block",
@@ -169,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which during can be eliminated by nonenzymatic degradation",
-        "exp": "The unique feature of atracurium is inactivation in plasma by spontaneous nonenzymatic degradation (Hofmann elimination) in addition to that by alkaline ester hydrolysis. Consequently its duration of action is not altered in patients with hepatic/renal insufficiency or hemodynamic compromise - it is the preferred muscle relaxant for such patients as well as for neonates and elderly. (Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no. 328)",
-        "cop": 1,
-        "opa": "Atracurim",
-        "opb": "Pancuronium",
-        "opc": "Mivacurium",
-        "opd": "Dexacruium",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "28dedf66-0986-4f50-be7c-219247472b34",
-        "choice_type": "multi"
-    },
-    {
         "question": "Maximum dose of lignocaine with adrenaline (in mg/kg)",
         "exp": "Maximum safe dose of plain lidocaine - 300 mg (4. 5 mg/kg). Maximum safe dose of lidocaine with epinephrine- 500 mg (7mg/kg)(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 754, 856)",
         "cop": 3,
@@ -260,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The dibucaine number refers to",
-        "exp": "Dibucaine number: Dibucaine (a local anaesthetic) inhibits 80% of normal pseudocholinesterase and 205 of atypical (non-functional) pseudocholinesterase. Therefore normal dibucaine number is 70-80%. The dibucaine number is used to measure the activity of atypical pseudocholinesterase. (Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no. 290, 304)",
-        "cop": 1,
-        "opa": "Ach cholinesterase activity derangement",
-        "opb": "Potency of muscle relaxants",
-        "opc": "Potency of general anaesthetics",
-        "opd": "None",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "db2ce0cd-6c51-4430-975e-349167aa2a91",
-        "choice_type": "multi"
-    },
-    {
         "question": "Local Anaesthetic in wound/ulcer management",
         "exp": "For management of wound/ulcer, local anaesthetic with topical anaesthetic action is used. Among the given options, only benzocaine has topical action. (Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 271)",
         "cop": 3,
@@ -297,32 +219,6 @@
         "topic_name": "All India exam",
         "id": "8f1d7c98-909c-434a-8bdb-9518c9160f93",
         "choice_type": "single"
-    },
-    {
-        "question": "Complications of stellate ganglion block are all except?",
-        "exp": "Mueller's syndrome is a sign of successful stellate ganglion block in which there is warmth of the face and injection of the tympanic membrane. Other signs of successful stellate ganglion block include: Horner's syndrome lacrimation flushing of conjunctiva and sclera increase in skin temperature engorged veins of the arm flushing of cheek, face, neck and arm anhidrosis of the face and neck stuffiness of the nostril Complications of stellate ganglion block include: perforation of oesophagus pneumothorax cardiac arrest mediastinitis intercostal neuralgia ref: willey 9th ed",
-        "cop": 4,
-        "opa": "Mediastinitis",
-        "opb": "Cardiac arrest",
-        "opc": "Pneumothorax",
-        "opd": "Mueller's syndrome",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "6addce68-f046-4baa-b703-801769fa8073",
-        "choice_type": "multi"
-    },
-    {
-        "question": "VAT in mechanical ventilation stands for",
-        "exp": "VAT (Ventilator-associated tracheobronchitis) & VAP (Ventilator-associated pneumonia) are nosocomial lower respiratory tract infections common in patients who are on the ventilator for long periods of time (Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition)",
-        "cop": 3,
-        "opa": "Ventilator associated trauma",
-        "opb": "Ventilator associated treatment",
-        "opc": "Ventilator associated tracheobronchitis",
-        "opd": "None of the above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "d04b91ac-d9dd-4032-9262-700a8ce50b64",
-        "choice_type": "multi"
     },
     {
         "question": "Intra ocular pressure rises in",
@@ -416,19 +312,6 @@
         "choice_type": "single"
     },
     {
-        "question": "FDA indications of inhaled NO is",
-        "exp": "\"Inhaled nitric oxide has been approved by FDA for use in newborns with persistent pulmonary hypertension and has become the first line therapy for this disease. In this disease state, NO inhalation has been shown to reduce, significantly, the necessity for extracorporeal oxygenation\". (Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 257)",
-        "cop": 2,
-        "opa": "Malignant hypertension",
-        "opb": "Pulmonary hypertension in newborn",
-        "opc": "Cyanotic CHD",
-        "opd": "None of the above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "db2a5d92-83a0-4433-841b-5fcb9aa895af",
-        "choice_type": "multi"
-    },
-    {
         "question": "IV dose of 1: 10000 concentration of epinephrine in the preterm baby is",
         "exp": "Epinephrine. The IV dose of 1: 10000 concentration is 0. 1 ml/kg. thus it is about 0. 5 ml for term baby and 0. 2 ml for the preterm baby. Endotracheal tube dosing is 1ml/kg thus it is about 3ml for term baby and 1 ml for preterm(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 246)",
         "cop": 2,
@@ -505,19 +388,6 @@
         "topic_name": "All India exam",
         "id": "59cc9467-e05b-48d0-8b9b-e131c736963d",
         "choice_type": "single"
-    },
-    {
-        "question": "Elderly patient with fracture right hip anesthetic of choice",
-        "exp": "Regional anaesthesia (spinal/epidural) is preferred in elderly high-risk patients. (Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 945)",
-        "cop": 1,
-        "opa": "Spinal/epidural",
-        "opb": "General",
-        "opc": "Local infiltration",
-        "opd": "None of the above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "88106f24-f6a1-4f03-af52-12f352b5c537",
-        "choice_type": "multi"
     },
     {
         "question": "The most appropriate circuit for ventilating a spontaneously breathing infant during anaesthersia is",
@@ -598,19 +468,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which drug can be eliminated by nonenzymatic degradation",
-        "exp": "The unique feature of atracurium is inactivation in plasma by spontaneous non-enzymatic degradation (Hofmann elimination) in addition to that by alkaline ester hydrolysis Consequently, its duration of action is not altered in patients with hepatic/renal i9nsufficiency or hyperdynamic circulation - preferred muscle relaxant for such patients as well as for neonates and the elderly. Atracurium is metabolized to laudanosine that is responsible for seizures. (Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 216, 269)",
-        "cop": 1,
-        "opa": "Atracurim",
-        "opb": "Pancuronium",
-        "opc": "Mivacurium",
-        "opd": "Dexacurium",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "85753f38-4b50-413f-8f16-291711317d68",
-        "choice_type": "multi"
-    },
-    {
         "question": "Least MAC is of which inhalational agent",
         "exp": "Agent MAC(%). Ether. Halothane. Enflurane. Isoflurane. Desflurane. Sevoflurane. Nitrous oxide 1. 90. 751. 681. 26. 02. 0105(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 167-169)",
         "cop": 2,
@@ -689,19 +546,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are methods of regional anaesthesia Except",
-        "exp": "Regional anaesthesia (Local anaesthesia). Regional anaesthesia means loss of sensation in body pa without the loss of consciousness or the impairment of central control of vital function. Methods are: Topical anaesthesia (surface anesthesia). Infiltration anaesthesia. Intravenous regional anaesthesia (Bier's block). Conduction block (either field block or nerve block). Spinal anaesthesia. Epidural anaesthesia(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 1076)",
-        "cop": 4,
-        "opa": "Topical anaesthesia",
-        "opb": "Bier's block",
-        "opc": "Nerve block",
-        "opd": "Total intravenous anaesthesia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "42bd2e4a-0275-4f4b-83f2-50fa078159d1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Anaphylaxis is caused by",
         "exp": "Althesin. Althesis is a neurosteroid. It was used as a parenteral anaesthetic. It was withdrawn from the market because of several severe anaphylactic reactions(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition)",
         "cop": 2,
@@ -713,19 +557,6 @@
         "topic_name": "All India exam",
         "id": "60d61a52-1467-4a16-a371-cacb91ea4276",
         "choice_type": "single"
-    },
-    {
-        "question": "Celiac plexus block all the following is true Except",
-        "exp": "Celiac plexus block can be done by following three approaches:-retrocrural (classic) approach, anterocrural approach, and splanchnic nerve block. (Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 1073, 1074)",
-        "cop": 4,
-        "opa": "Relieved pain from gastric malignancy",
-        "opb": "Cause hypotention",
-        "opc": "Can be used to provide anesthesia for intra abdominal surgery",
-        "opd": "Can be given only by retrocrural (classic) approach",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "aae032cb-372e-426e-9d42-8a9399f9d6fa",
-        "choice_type": "multi"
     },
     {
         "question": "Malignant hypehermia is caused due to which of the following mechanism?",
@@ -752,19 +583,6 @@
         "topic_name": "All India exam",
         "id": "64967f5d-1d02-44f5-84cd-db884b4c49f0",
         "choice_type": "single"
-    },
-    {
-        "question": "a known case of COPD with acute exacerbation of copd is managed in icu following is not true?",
-        "exp": "Role of NIV in Treating Acute COPD * Preferred therapy for exacerbations of COPD in the acute setting Respiratory acidosis: * Pa. CO2?_ 45 mm. Hg (6. 0 k. Pa) * Aerial pH 7. 35 * Improves oxygenation, increases pH, and decreases Pa. CO2 * Decreases respiratory rate, work of breathing (can help overcome auto-PEEP), and severity of breathlessness - Success rates up to 85% ref: willey 10th ed",
-        "cop": 1,
-        "opa": "NIV is not indicated",
-        "opb": "o2 inhalation",
-        "opc": "salbutamol inhalation",
-        "opd": "iv dexamethasone",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "f4d4fe3a-c535-45df-90ac-9edac0a58373",
-        "choice_type": "multi"
     },
     {
         "question": "Shoest acting skeletal muscle relaxant is",
@@ -832,19 +650,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Drugs used for day care surgery are all Except",
-        "exp": "Drugs useful for day care surgery. Propofol. Sevoflurane, desflurane & isoflurane. Alfentanil. Midazolam Mivacurium(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 214, 219)",
-        "cop": 3,
-        "opa": "Propofol",
-        "opb": "Sevoflurane",
-        "opc": "Doxacurium",
-        "opd": "Desflurane",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "f358025e-5cac-467b-93a8-313c0b39554c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Laundosine is a toxic metabolite of",
         "exp": "Atracurium The unique feature of atracurium is inactivation in plasma by spontaneous nonenzymatic degradation (Hofman elimination) in addition to that by alkaline ester hydrolysis. Consequently, its duration of action is not altered in patients with hepatic/renal insufficiency or hyperdynamic circulation - Preferred muscle relaxant for such patients as well as for neonates and the elderly. Atracurium is metabolized to laudanosine that is responsible for seizures. It can cause histamine release - Hypotension & bronchoconstriction(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 216)",
         "cop": 1,
@@ -908,32 +713,6 @@
         "topic_name": "All India exam",
         "id": "61b94c18-dcea-45ee-a29c-7c3b71885f89",
         "choice_type": "single"
-    },
-    {
-        "question": "Disadvantage of ketamine is",
-        "exp": "When administered to adult patients as a sole anaesthetic agent, ketamine frequently causes emergency reaction characterized by anxiety, hallucination, delirium. Moreover, ketamine shows cardiovascular stimulant propey (increases heart rate and BP), increases salivary and bronchial secretions, and may increase intracranial, intraocular and pulmonary pressure. All of these features have been advocated as limitations for its usefulness. (Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no. 294)",
-        "cop": 4,
-        "opa": "Increased heart rate",
-        "opb": "Increased ICT",
-        "opc": "Delirium",
-        "opd": "All of the above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "d016a66f-da19-4d8b-8cf6-af25d8eb90cd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drug used for post-operative shivering",
-        "exp": "Post-anaesthesia shivering (PAS). Post anaesthesia (postoperative) shivering occurs in 40% of patients recovering from general anaesthesia. Sometimes it is preceded by central hypothermia and peripheral vasoconstriction, indicating that it is a thermoregulatory mechanism. Pethidine is most effective drug for treatment of PASOther drugs used are-clonidine, doxapram, ketanserin, alfentanil, butorphanol, chlorpromazine. (Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 1264, 1265)",
-        "cop": 2,
-        "opa": "Atropine",
-        "opb": "Pethidine",
-        "opc": "Thiopenone",
-        "opd": "Suxamethonium",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "bb480331-53ff-4553-9290-5e0c41a2d82d",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following local anesthetics is useful for topical administration only?",
@@ -1014,19 +793,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are Nondepolarising muscular blockers Except",
-        "exp": "(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 205-211)",
-        "cop": 4,
-        "opa": "Pancuranium",
-        "opb": "Dexacurium",
-        "opc": "D-Tubocurarine",
-        "opd": "Succinylcholine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "910753f2-5a84-4dd2-a292-f883bd6c5dff",
-        "choice_type": "multi"
-    },
-    {
         "question": "Percentage of adrenaline with lignocaine for local infilteration is",
         "exp": "The most common concentrations of epinephrine combined with local anaesthetics are 1: 50000 (0. 02 mg/ml), 1: 100, 000 (0. 01mg/ml) and 1: 20000 (0. 005 mg/dml). The 1: 50000 concentration is manufactured in combination with 2% lidocaine. The 1: 100, 000 concentration is manufactured in combination with 2% lidocaine and 4% aicaine. The 1: 200, 000 concentration is manufacture in combination with 4% prilocaine, 4% aicaine and 0. 5% bupivacaine. (Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no. 523, 126, 127)",
         "cop": 4,
@@ -1051,45 +817,6 @@
         "topic_name": "All India exam",
         "id": "f69d48f3-2d0f-4b15-8a42-4ea98e194356",
         "choice_type": "single"
-    },
-    {
-        "question": "Tracheostomy reduces dead space by",
-        "exp": "Impoant effects of tracheostomy on respiratory physiology. Tracheostomy decreases dead space as upper airways and nasal cavity are bypassed. Tracheostomy decreases ventilation/perfusion (V/Q) ratio. Increased dead space increases ventilation/perfusion ratio as the dead space (containing air) is ventilated but not perfused for gaseous exchange. Tracheostomy decreased the dead space, therefore it will decrease the V/Q ratio. Tracheostomy reduces the airflow resistance(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 1237)",
-        "cop": 1,
-        "opa": "By-passing upper airway",
-        "opb": "Increased V/Q ratio",
-        "opc": "Reducing airflow resistance",
-        "opd": "By all of the above mechanisms",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "f2b2612d-23d7-4ef2-93ec-aaf9bce1123b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following systems can be used to produce PEEP?",
-        "exp": "PEEP ValveA PEEP Valve is a device which maintains the airway at end exhalation. Spring valve system is the simplest PEEP valve system. Other valve systems for PEEP are electronic, magnetic, pneumatic and ball valve. PEEP devices may be integrated into ventilator or may be separate devices that are attached directly into anesthesia circuit CPAP device or manual resuscitation bag. (Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no. 564, 585)",
-        "cop": 4,
-        "opa": "Spring system",
-        "opb": "Ball valve system",
-        "opc": "Pneumatic system",
-        "opd": "All the above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "e95b83f1-d5d9-478b-8592-8948383c6f9b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about conscious sedation are all Except",
-        "exp": "In conscious sedation, protective reflexes are intact (has been explained in previous sessions). (Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 182)",
-        "cop": 3,
-        "opa": "CNS depression",
-        "opb": "Patient is conscious",
-        "opc": "Protective reflexes are abolished",
-        "opd": "Patient can obey commands",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "e8cae9bc-e84c-4053-b773-e827f044f97d",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following local anaesthetic is safer in surface and infiltrating anaesthesia?",
@@ -1131,19 +858,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Probable indicators of reversal of neuromuscular blockade are all Except",
-        "exp": "Clinical pointers for the reversal of neuromuscular blockade are:-Lift head for 5 seconds Lift leg for 5 seconds. Sustained hand grip for 5 seconds(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 203)",
-        "cop": 3,
-        "opa": "Lift head for 5 seconds",
-        "opb": "Sustain hand grip for 5 seconds",
-        "opc": "Leg lift for 10 seconds",
-        "opd": "Ability to perform sustained tongue depressor test",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "05cd2c51-39df-4cfa-baff-247268642e7a",
-        "choice_type": "multi"
-    },
-    {
         "question": "WHAT IS THE TYPE OF LARYNGOSCOPE SHOWN BELOW?",
         "exp": "Laryngoscope handles comes with an assoment of Miller blades and Macintosh blades. (Adult, Paediatric, Infant and Neonatal), The basic style of blades available is straight and curved., The Macintosh blade is positioned in the vallecula, anterior to the epiglottis, lifting it out of the visual pathway, while the Miller blade is positioned posterior to the epiglottis, trapping it while exposing the glottis and vocal folds. Incorrect usage can cause trauma to the front incisors; the correct technique is to displace the chin upwards and forward at the same time, not to use the blade as a lever with the teeth serving as the fulcrum. APPLICATIONS: Helps in intubation during the administration of general anaesthesia or for mechanical ventilation. Detects causes of voice problems, such as breathing voice, hoarse voice, weak voice, or no voice. Detects causes of throat and ear pain. Evaluates difficulty in swallowing: a persistent sensation of lump in the throat, or mucous with blood. Detects strictures or injury to the throat, or obstructive masses in the airway. REF: MILLERS ANESTHESIOLOGY 9. TH ED",
         "cop": 3,
@@ -1157,19 +871,6 @@
         "choice_type": "single"
     },
     {
-        "question": "This can be used for securing the airway of a patient in all of the following conditions except <img src=\" />",
-        "exp": ".",
-        "cop": 4,
-        "opa": "In a difficult intubation",
-        "opb": "In cardiopulmonary resuscitation",
-        "opc": "In a child undergoing an elective/routine eye surgery",
-        "opd": "In a patient with a large tumor in the oral cavity",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "ec2f8bf8-181e-44d8-89e6-8efb73a1be79",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is the induction agent of choice in day care anaesthesia?",
         "exp": "Propofol is an oily liquid employed as emulsion for Intravenous induction and sho duration anaesthesia. Patient become unconsciousness 15-45 seconds following administration of the drug and recovers in 10 minutes. It is suitable for outpatient surgery because there is less residual impairment and low incidence of post operative nausea and vomiting. Ref: Miller&; s Anesthesia, 6th Edition, Page 2602; Fundamentals of Anaesthesia By Tim Smith, Colin Pinnock, Ted Lin, 3rd Edition, Page 92",
         "cop": 1,
@@ -1181,19 +882,6 @@
         "topic_name": "All India exam",
         "id": "0ff682e0-fa9c-4a03-b5ff-6e3290c6b4dd",
         "choice_type": "single"
-    },
-    {
-        "question": "Drug used for emergency intubation is",
-        "exp": "Emergency intubation in anaesthesia refers to rapid sequence anaesthesia (or rapid sequence intubation). Any inducing agent can be used, but thiopental and propofol are the preferred agent. (Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 185)",
-        "cop": 1,
-        "opa": "Propofol",
-        "opb": "Ketamine",
-        "opc": "Eomidate",
-        "opd": "None",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "cc555966-1648-4715-a54d-4c77d6fd1e2c",
-        "choice_type": "multi"
     },
     {
         "question": "Gas used in rapid airbag inflation",
@@ -1222,19 +910,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Laryngeal mask is contraindicated in all Except",
-        "exp": "(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 317)",
-        "cop": 2,
-        "opa": "Oral tumor",
-        "opb": "Ocular surgeries",
-        "opc": "Massive maxillofacial injury",
-        "opd": "High risk of aspiration",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "546c14cf-db32-4da4-ac96-8220bd6800e2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following skeletal muscle relaxants undergo hoffman's elimination?",
         "exp": "Atracurium is inactivated by -1) Hoffman&; s elimination, 2) alkaline ester hydrolysis. Cisatracurium is inactivated by Hoffman&; s elimination(Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no. 328)",
         "cop": 1,
@@ -1246,19 +921,6 @@
         "topic_name": "All India exam",
         "id": "69598103-d2ff-4e74-be44-bbf52e3661a1",
         "choice_type": "single"
-    },
-    {
-        "question": "Ketamine contraindicated in all Except",
-        "exp": "(Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no. 294)",
-        "cop": 3,
-        "opa": "Head injury",
-        "opb": "Hypertension",
-        "opc": "Asthma",
-        "opd": "Glaucoma",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "58946869-c235-445d-91d9-b061fa55a5ab",
-        "choice_type": "multi"
     },
     {
         "question": "Which anaesthetic belongs to ester group",
@@ -1298,19 +960,6 @@
         "topic_name": "All India exam",
         "id": "082767e6-e33b-471e-b8df-1446467a032f",
         "choice_type": "single"
-    },
-    {
-        "question": "Propofol infusion syndrome all Except",
-        "exp": "Propofol infusion syndromeA lethal syndrome, associated with infusion of propofol for 48 hours or longer. Occurs in children and critically ill. Occurs as a result of failure of free fatty acid metabolism and failure of the mitochondrial respiratory chain. Features are-cardiomyopathy with acute cardiac failure, metabolic acidosis, skeletal myopathy, hyperkalemia, hepatomegaly and lipemia. (Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no. 160-168)",
-        "cop": 3,
-        "opa": "Occurs with infusion of propofol for 48 hours or longer",
-        "opb": "Occurs in critically ill patients",
-        "opc": "Features are nausea and vomiting",
-        "opd": "Features are cardiomyopathy, hepatomegaly",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "df79db93-0610-4499-bcb3-c9a140ebe69e",
-        "choice_type": "multi"
     },
     {
         "question": "Ketamine is useful as an anesthetic agent in",
@@ -1363,31 +1012,5 @@
         "topic_name": "All India exam",
         "id": "24e64e1a-15b0-4a9b-8ed0-1411b5cd02b2",
         "choice_type": "single"
-    },
-    {
-        "question": "False about ropivacaine",
-        "exp": "Ropivacaine contains only S enantiomer so cardiotoxicity is less than bupivacaine (but still higher than lignocaine). Anaesthetic propeies (onset, intensity; duration of I action) of ropivacaine are almost similar to bupivacaine.",
-        "cop": 4,
-        "opa": "Less cardiotoxic than bupivacaine",
-        "opb": "More cardiotoxic than lignocaine",
-        "opc": "Contains only R enantiomer",
-        "opd": "Onset of action is faster than bupivacaine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "865f66bc-5c5f-4568-9d69-2c8d205d83c0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Pain during injection occurs with all Except",
-        "exp": "Ketamine is the only intravenous inducing agent that does not cause pain on injection. Agent. Pain on iv injection. Thiopentone. Methohexitone. Propofol. Etomidate. Ketamine+/0++++++0",
-        "cop": 3,
-        "opa": "Propofol",
-        "opb": "Thiopentone",
-        "opc": "Ketamine",
-        "opd": "Etomidate",
-        "subject_name": "Anaesthesia",
-        "topic_name": "All India exam",
-        "id": "3bec9792-8ad2-4368-a65e-e86fff905631",
-        "choice_type": "multi"
     }
 ]

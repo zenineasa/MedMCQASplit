@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Wilms tumor is associated with all of the following except",
-        "exp": "Wilms tumor (nephroblastoma) is the most common primary renal tumor of childhood in USA. It is associated with the following Refer 8/479-480 9/e p479",
-        "cop": 4,
-        "opa": "A. Hemihyperophy",
-        "opb": "B. Aniridia",
-        "opc": "C. Hypertension",
-        "opd": "D. Bilateral polycystic kidney",
-        "subject_name": "Anatomy",
-        "topic_name": "Urinary tract",
-        "id": "cc04eb1e-bec2-4477-af15-5121a0268ec7",
-        "choice_type": "multi"
-    },
-    {
         "question": "In Wilms tumor the following leads to emergence of resistance to chromotherapy",
         "exp": "5 percnt of tumors have Anpalsia, defined as the presence of cells with large hyperchromatic pleomprphic nuclei and abnormal mitosis and the presrnc of anapladsia coreltes with p53 mutation",
         "cop": 3,
@@ -130,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Metabolic complication in CRF include all of the following except",
-        "exp": "Metabolic complication in CRF include Hyperphosphatemia Hyerkalemia Hyponatremia refer Harrison 18/e",
-        "cop": 2,
-        "opa": "Hyperkalemia",
-        "opb": "Hypophosphataemia",
-        "opc": "Hypocalcemia",
-        "opd": "Hypokalemia",
-        "subject_name": "Anatomy",
-        "topic_name": "Urinary tract",
-        "id": "2c597b07-8641-48a2-8626-77efea0a96c7",
-        "choice_type": "multi"
-    },
-    {
         "question": "Oncocytic carcinoma arises from",
         "exp": "Refer Robbins 8/e p964, 9/ep953 Oncocytoma This is an epithelial neoplasm composed of large eosinophilic cells having small, round, benign-appearing nuclei that have large nucleoli. It is thought to arise from the intercalated cells of collecting ducts, and accounts for approximately 5% to 15% of renal neoplasms. Ultra-structurally the eosinophilic cells have numerous mitochondria. In gross appearance, the tumors are tan or mahogany brown, relatively homogeneous, and usually well encapsulated with a central scar in one-third of cases. However, they may achieve a large size (up to 12 cm in diameter). There are some familial cases in which these tumors are multicentric rather than solitary.",
         "cop": 4,
@@ -167,44 +141,5 @@
         "topic_name": "Urinary tract",
         "id": "01d44a9f-11f3-4f3d-ba65-e6cda2552eab",
         "choice_type": "single"
-    },
-    {
-        "question": "Transitional cell carcinoma bladder is associated with which of the following",
-        "exp": "Schistosoma haemotabium infections in endemic areas like Egypt and Sudan are an established risk. The ova are deposited in the bladder wall and invite a brisk chronic inflammatory response that induces progressive mucosal squamous metaplasia and dysplasia and in some instances neoplasia refer Robbins 9/e p965",
-        "cop": 1,
-        "opa": "Schistosomiasis",
-        "opb": "Ascarasis",
-        "opc": "Malaria",
-        "opd": "Any of d above",
-        "subject_name": "Anatomy",
-        "topic_name": "Urinary tract",
-        "id": "fa5d8ca7-cb76-486e-88a0-35f553c9ac34",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Bence Jones proteins are",
-        "exp": "refer Robbins 9/e p965 Bence Jones proteins are made of light chain",
-        "cop": 1,
-        "opa": "Light chain",
-        "opb": "Heavy chain",
-        "opc": "Medium chain",
-        "opd": "All of the above",
-        "subject_name": "Anatomy",
-        "topic_name": "Urinary tract",
-        "id": "e738fc00-5d2d-4374-ba5e-7cfb27115967",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement of wilms tumor",
-        "exp": "Refer Robbins 9/e 479 * The first group of patients has the WAGR syndrome, characterized by Wilms tumor, aniridia, genital anoma- lies, and mental retardation. Their lifetime risk of devel- oping Wilms tumor is approximately 33%. Individuals with WAGR syndrome carry constitutional (germline) deletions of 11p13. Studies on these patients led to the identification of the first Wilms tumor-associated gene, WT1, and a contiguously deleted autosomal dominant gene for aniridia, PAX6, both located on chromosome 11p13. Patients with deletions restricted to PAX6, with normal WT1 function, develop sporadic aniridia, but they are not at increased risk for Wilms tumors.",
-        "cop": 2,
-        "opa": "Common in adult",
-        "opb": "Associated with deletion of chromosome 11p13",
-        "opc": "Associated with MIC 2 gene",
-        "opd": "Commonest presentation in hematuria",
-        "subject_name": "Anatomy",
-        "topic_name": "Urinary tract",
-        "id": "6150935c-ed8e-4155-88f8-c6d189ccce76",
-        "choice_type": "multi"
     }
 ]

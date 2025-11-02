@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 62-year-old man presents with pallor, fatigue, and dyspnea on exeion. A complete blood count reveals microcytic hypochromic anemia. The likely cause of this hematological finding is?",
-        "exp": "- Iron deficiency anemia is the most common cause of hypochromic microcytic anemia - In men and postmenopausal women, the usual cause of IDA is occult gastrointestinal blood loss (due to helminthic infestations, GI malignancies, etc). warrants a complete workup, including GI endoscopy to detect the source of the bleeding. - In young women, the cause is most often related to menstrual blood loss (increased iron requirement), compounded by deficient dietary intake.",
-        "cop": 2,
-        "opa": "Increased iron requirement",
-        "opb": "Gastrointestinal bleeding",
-        "opc": "Hypersplenism",
-        "opd": "Hemolytic anemia",
-        "subject_name": "Pathology",
-        "topic_name": "Iron deficiency anemia",
-        "id": "1377090b-96d9-42b9-b319-9634168f8215",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is the best parameter for assessment of body iron stores?",
         "exp": "Iron in the body is stored in the form of ferritin at highest levels in macrophages of liver, spleen, bone marrow. It is best measured by serum ferritin levels Paially degraded protein shells of ferritin aggregate into hemosiderin granules. With normal iron stores, only trace amounts of hemosiderin is found in the body, most being stored as ferritin. In iron-overloaded cells, most iron is stored in form of hemosiderin.",
         "cop": 3,
@@ -65,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Peripheral smear with small pale red cells, anisocytosis and poikilocytosis is suggestive of:",
-        "exp": "Anisocytosis, poikilocytosis along with small pale RBC in peripheral smear suggests the diagnosis of iron deficiency anemia. OTHER OPTIONS: - Aplastic anemia presents with Normochromic normocytic anemia - Megaloblastic anemia presents with macrocytic anemia - Hereditary spherocytosis is presents with Normocytic anemia.",
-        "cop": 2,
-        "opa": "Aplastic anemia",
-        "opb": "Iron deficiency anemia",
-        "opc": "Hereditary spherocytosis",
-        "opd": "Megaloblastic anemia",
-        "subject_name": "Pathology",
-        "topic_name": "Iron deficiency anemia",
-        "id": "40d876c9-b323-4dd0-9c39-bc24046c4757",
-        "choice_type": "multi"
-    },
-    {
         "question": "MCHC criteria to diagnose iron deficiency anemia:",
         "exp": "MCHC - average concentration of hemoglobin in a given volume of packed red cells Normal MCHC is 34-37g/dl Value <34g/dl indicate that red cells are hypochromic, which can occur in iron deficiency anemia.",
         "cop": 2,
@@ -89,19 +63,6 @@
         "topic_name": "Iron deficiency anemia",
         "id": "2d3ab0df-8e85-4feb-88a8-4ba1d4ca58ee",
         "choice_type": "single"
-    },
-    {
-        "question": "All are reduced in iron deficiency anemia EXCEPT:",
-        "exp": "- In iron deficiency anemia as % saturation of transferrin decreases, total iron binding capacity increases. Other parameters seen in IDA are: serum ferritin | Transferrin levels | Serum iron levels | Free erythrocyte protoporphyrin ||| Mentzer index ||. CBC: |Hb, MCH |, MCV |, MCHC |",
-        "cop": 1,
-        "opa": "Total iron binding capacity",
-        "opb": "Percentage saturation of Transferrin",
-        "opc": "Hemoglobin level",
-        "opd": "Serum ferritin",
-        "subject_name": "Pathology",
-        "topic_name": "Iron deficiency anemia",
-        "id": "35717201-09cc-4117-8d18-045a151e7b09",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is downregulated by Hepcidin?",
@@ -219,32 +180,6 @@
         "topic_name": "Iron deficiency anemia",
         "id": "41a1e0ab-4c8d-4548-9d3e-d44992217763",
         "choice_type": "single"
-    },
-    {
-        "question": "Ringed sideroblasts are seen in:",
-        "exp": "- MDS: These are commonly associated with Ringed sideroblasts. Other conditions associated with Ringed sideroblasts are: Congenital sideroblastic anemia Lead poisoning Anti-tubercular drugs like isoniazid Pyridoxine deficiency Anemia due to alcoholism. - Their presence can be confirmed with Perl's stain",
-        "cop": 2,
-        "opa": "AML",
-        "opb": "MDS",
-        "opc": "Anemia of chronic disease",
-        "opd": "ALL",
-        "subject_name": "Pathology",
-        "topic_name": "Iron deficiency anemia",
-        "id": "8d0825a5-5ba9-4914-adde-a2c6d814c620",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 36-year-old man from China presents with increasing fatigue. He has a 3-year history of tuberculosis, and CBC shows a mild microcytic anemia. Blood work-up demonstrates low serum iron, low iron-binding capacity, and increased serum ferritin. The pathogenesis of anemia in this patient is most likely caused by which of the following mechanisms?",
-        "exp": "- History given in the question suggests the diagnosis of Anemia of chronic disease. - Chronic diseases leads to ineffective use of iron from macrophage stores in the bone marrow, resulting in functional iron deficiency, although storage iron is normal or even increased. - However, in contrast to iron deficiency anemia, total iron binding capacity tends to be decreased in this d/t decreased production of Transferrin. - All other choices are not related to anemia of chronic diseases. -->Causes of microcytic hypochromic anemia are: Sideroblastic anemia, Iron deficiency anemia, Thalassemia and Anemia of chronic diseases Blood work up done: a. Percentage of saturation and serum iron is decreased in iron deficiency anemia and anemia of chronic disease. b. Total iron binding capacity is increased in iron deficiency anemia. it is decreased in case of anemia of chronic disease 2. Biopsy can be done: a. Iron store are decreased /absent in iron deficiency anemia b. In Anemia of chronic disease, iron is present, but is restricted/ increased within macrophages",
-        "cop": 3,
-        "opa": "Clonal stem cell defect",
-        "opb": "Hypoxemia",
-        "opc": "Impaired utilization of iron from storage sites",
-        "opd": "Synthesis of structurally abnormal globin chains",
-        "subject_name": "Pathology",
-        "topic_name": "Iron deficiency anemia",
-        "id": "b3e40666-ed83-4b61-856f-4b34bd8a18bb",
-        "choice_type": "multi"
     },
     {
         "question": "Earliest response to iron supplementation in iron deficiency anemia is denoted by?",

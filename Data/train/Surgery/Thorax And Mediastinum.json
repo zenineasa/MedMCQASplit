@@ -1,31 +1,5 @@
 [
     {
-        "question": "A 65-year-old man suffers a sudden fall in mean aerial pressure, 4 hours after his CABG surgery. Other findings include elevated JVP. What is the best next step in the management of this case?",
-        "exp": "This clinical presentation points towards a likely diagnosis of Cardiac tamponade. It is a common complication post CABG. It can be confirmed on an Echocardiography. It is a life-threatening condition hence it should be managed by immediate return to the OT for exploration and drainage of mediastinal hematoma.",
-        "cop": 3,
-        "opa": "PRBC Transfusion",
-        "opb": "Vasopressors along with the inotropes",
-        "opc": "Immediate re-exploration of the mediastinum",
-        "opd": "Intra-aoic balloon pump",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "a95598c5-7baa-4c35-a3bd-2027974759f9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The first step when doing a pneumonectomy for cancer of the bronchus is to:",
-        "exp": "Pneumonectomy Pneumonectomy is anatomically more straightforward than lobectomy (in carcinoma bronchus): The pulmonary aery is first dissected, divided and sutured. The pulmonary veins are then isolated divided and sutured. The main bronchus is divided so that no blind stump remains. The technique of stump closure is impoant if a bronchopleural fistula is to be avoided. The tissues are carefully handled and the stump is usually stapled.",
-        "cop": 2,
-        "opa": "Ligate the pulmonary vein",
-        "opb": "Ligate pulmonary aery",
-        "opc": "Divide the bronchus",
-        "opd": "Perform lymph node clearance",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "0ba8f749-55e4-4ff3-bd9a-dcaea7af1835",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 60-year-old woman, Sridevi presents with a murmur suggestive of mitral stenosis and an echocardiography confirmed a mass attached to the fossa ovalis of the left atrial septum. What is the most likely diagnosis?",
         "exp": "Atrial myxoma is the most common benign cardiac tumor. It usually presents with symptoms of valvular obstruction (mural or tricuspid valve). It is attached by a pedicle to the fossa ovalis of the left atrial septum. It is treated by resection.",
         "cop": 1,
@@ -52,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Pneumothorax of what size generally needs operative treatment?",
-        "exp": "Small pneumothoraxes (<20%) that are stable may be monitored if the patient has few symptoms Moderate (20%-40%) and large (>40%) pneumothoraxes nearly always are associated with persistent symptoms that cause physical limitations and require intervention.",
-        "cop": 2,
-        "opa": ">10%",
-        "opb": ">20%",
-        "opc": ">30%",
-        "opd": ">40%",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "de5f8dd7-fa2d-4426-80c0-e64a861cf218",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following vessel is injured in Hemothorax patient?",
         "exp": "\"The most common cause of massive Hemothorax in blunt injury is continuing bleeding from torn intercostal vessels or occasionally from the internal mammary aery secondary to the fracture of ribs\"",
         "cop": 4,
@@ -89,19 +50,6 @@
         "topic_name": "Thorax And Mediastinum",
         "id": "e58e5138-6a4e-46d8-a20b-92c14a991dc7",
         "choice_type": "single"
-    },
-    {
-        "question": "Emergency thoracotomy is indicated following chest trauma in the following conditions except:-",
-        "exp": "Indications of Thoracotomy Initial tube thoracostomy drainage of > 1000 ml (penetrating injury) or >1500 ml (blunt injury) Ongoing tube thoracostomy drainage of >200 ml/hr for 3 consecutive hours in non-caogulopathic patients Caked hemothorax despite of placement of two chest tubes Tracheo-bronchial injury Selected descending torn aoa or great vessel injury Pericardial tamponade Cardiac herniation Massive air leak from chest tube with inadequate ventilation Open pneumothorax Esophageal perforation",
-        "cop": 1,
-        "opa": "Scapular and sternal fractures",
-        "opb": "Esophageal perforation",
-        "opc": "Penetrating injury with cardiac tamponade",
-        "opd": "Massive Hemothorax",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "ee15fbbf-a53d-42d7-810c-f65c314043af",
-        "choice_type": "multi"
     },
     {
         "question": "Tension pneumothorax due to fracture rib is treated by:",
@@ -143,45 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Empyema can be caused by the following parasites except:",
-        "exp": "Parasitic causes of empyema Paragonimus watermaniQ Entamoeba ColiQ E. GranulosusQ",
-        "cop": 4,
-        "opa": "E. granulosus",
-        "opb": "Entamoeba coli",
-        "opc": "Paragonimus wastermani",
-        "opd": "Strongyloides stercoralis",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "d6f10e42-8812-4049-a3e5-809dff910452",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about chylothorax:",
-        "exp": "Chylothorax A chylothorax occurs when the thoracic duct is disrupted and chyle accumulates in the pleural space MC cause of chylothorax: Trauma (most frequently thoracic surgery) More common on right side Treatment Treatment of choice: Chest tube inseion + Administration of octerotide and Medium chain triglycerides An alternative treatment is ligation of the thoracic duct Patients with chylothoraxes should not undergo prolonged tube thoracostomy with chest tube drainage because this will lead to malnutrition and immunologic incompetence.",
-        "cop": 4,
-        "opa": "Left side more common",
-        "opb": "Clear fluid",
-        "opc": "Immediate thoracotomy should be done",
-        "opd": "TOC is excision and ligation of thoracic duct",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "5884e033-3bbc-41b2-b13b-cccab694e2cd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Middle mediastinal masses include all the following except:",
-        "exp": "Middle Mediastinum Cysts (MC in middle mediastinum): - Pericardial (MC) - Bronchogenic - Entergenous - Neuroenteric Vascular masses (aneurysm) LN enlargement and lymphoma Mesenchymal tumors Pheochromocytoma",
-        "cop": 4,
-        "opa": "Bronchogenic cyst",
-        "opb": "Ascending aoic aneurysm",
-        "opc": "Pericardial cyst",
-        "opd": "Ganglioneuroma",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "2b7e95bd-bd9f-4331-a064-ede574c26be0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Common location of thoracic pheochromocytoma:-",
         "exp": "\"The posterior mediastinum is the usual site of intrathoracic pheochromocytoma. They have also rarely been repoed to occur in the middle mediastinum, with involvement of the left atrial wall or interatrial septum and aoic arch\"",
         "cop": 2,
@@ -221,32 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Following hormonal levels are increased in small cell carcinoma of lung except:",
-        "exp": "Propey Small cell carcinoma Location Central location Paraneoplastic syndrome ACTH Calcitonin Gastrin Releasing peptide AVP ANF Response to chemotherapy Superior response",
-        "cop": 2,
-        "opa": "ACTH",
-        "opb": "Growth hormone",
-        "opc": "ANF",
-        "opd": "AVP",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "b151ef0c-78f5-4a3a-8771-3b4974aef4f5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following are boundaries of Poirier's Triangle?",
-        "exp": "Poirier's Triangle. Boundaries: - Inferior-Arch of Aoa - Anterior- Left subclan aery - Posterior- veebral column Impoance- Identification of thoracic duct.",
-        "cop": 4,
-        "opa": "Arch of aoa",
-        "opb": "Left subclan aery",
-        "opc": "Veebral column",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "b48ddc88-d358-44a6-b617-45270634b01f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Not a posterior mediastinal tumor:",
         "exp": "Posterior Mediastinum Neurogenic tumors (MC overall) Meningoceles Mesenchymal tumours Pheochromocytoma Lymphoma Bochdalek hernia Bronchogenic cyst Enterogenous cyst EXTRA EDGE: MC anterior MM: ThymomaQ MC middle MM: Cyst(Pericardial cyst is MC) MC posterior MM: Neurogenic tumors MC MM (overall): Neurogenic tumors MM seen in all three compaments of mediastinum: Lymphoma, bronchogenic cyst & mesenchymal tumors IOC for diagnosis of MM (except neurogenic tumors): CT",
         "cop": 3,
@@ -258,32 +141,6 @@
         "topic_name": "Thorax And Mediastinum",
         "id": "f5f81e4c-1fc0-4521-841c-37608aaa30e1",
         "choice_type": "single"
-    },
-    {
-        "question": "Which is not true about thoracic outlet syndrome?",
-        "exp": "Thoracic outlet syndrome: Name is a misnomer - should be Thoracic Inlet Syndrome Any tumor/trauma that compresses the subclan vessels and brachial plexus MC root involved in brachial Plexus compression: C8, T1; Ulnar nerve - Neurological feature - Conservative Management Surgical Intervention is done if vascular symptoms of compression present. Cervical Rib / 1st Rib is resected to relieve Thoracic Outlet Syndrome. No predisposing factors but common in middle aged women with atrophy of shoulder girdle muscles - diagnostic provocative tests: Adson's Test Costoclavicular test Hyper-Abduction Test Roos Test",
-        "cop": 1,
-        "opa": "Radial nerve is commonly affected",
-        "opb": "Neurological features are most common",
-        "opc": "Resection of 1st rib relieves symptom",
-        "opd": "Positive Adson's test",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "51a0dab0-09b8-4d02-b0fc-ad9c5b6deb1a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "VATS refers to:",
-        "exp": "Video Assisted Thoracoscopic Surgery In contrast to most laparoscopic techniques, the working space for VATS is created not by adding an insufflating gas but rather by removing air from the ipsilateral lung parenchyma causing collapse of the ipsilateral lung Used for pulmonary decoication, pleurodesis, and lung or pleural biopsies",
-        "cop": 2,
-        "opa": "Vaccum assited thoracic surgery",
-        "opb": "Video assisted thoracoscopic surgery",
-        "opc": "Video assisted transplant surgery",
-        "opd": "None of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "7d3121b1-ff82-4fe0-903a-6073a5c79723",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not a complication of surgery for thoracic outlet syndrome?",
@@ -323,19 +180,6 @@
         "topic_name": "Thorax And Mediastinum",
         "id": "bdb92efa-3361-473b-9a97-406e741b100f",
         "choice_type": "single"
-    },
-    {
-        "question": "A 60 years old diabetic male presented to the emergency with cough and sputum production, fever with chills and rigor. The chest X-ray was done and the finding is given below. Which of the following is an indication for surgery?",
-        "exp": "Lung Abscess: - Cough - Sputum - Fever with chills & rigors - MC organism responsible - Anaerobes - T/t - Clindamycin - Indications for Sx: 1. Failure to respond to medication 2. Suspected neoplasm 3. Hemorrhage",
-        "cop": 4,
-        "opa": "Failure to respond to medical management",
-        "opb": "Suspected neoplasm",
-        "opc": "Hemorrhage",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Thorax And Mediastinum",
-        "id": "939d9d67-0e09-4a07-ac0f-3617076e2d72",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is most preferred graft in CABG?",

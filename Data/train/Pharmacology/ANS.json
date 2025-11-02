@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient Raj Kishore was given pilocarpine. All of the following can be the features seen in him except:",
-        "exp": "Pilocarpine is a cholinergic drug, so it can cause sweating, salivation and miosis by its action on muscranic receptors. Cycloplegia is caused by anti-cholinergic drugs. Organ Parasympathetic stimulation Sympathetic stimulation Heart Depresses Stimulates Bronchus Bronchoconstriction Bronchodilation GIT Dilates Constricts Bladder Increase urine Decrease urine Glands Increase secretion Decrease secretion Pupil Miosis Mydriasis",
-        "cop": 4,
-        "opa": "Sweating",
-        "opb": "Salivation",
-        "opc": "Miosis",
-        "opd": "Cycloplegia",
-        "subject_name": "Pharmacology",
-        "topic_name": "ANS",
-        "id": "80ace823-d9e3-4c4d-b234-0e4490666110",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient presented in medicine emergency on stretcher. on examination his BP was found to be 80/50, his relatives also told that he was going for urination very infrequently. The doctor prescribed a medicine to the patient. What was the medicine and what is its dose in this case?",
         "exp": "Dopamine acts on D1R at a concentration of <2mcg/kg/min and it produces maximum in renal blood vessels and produces vasodilation which helps in oliguria.. Dopamine acts on beta 1R at a concentration of 2-10mcg/kg/min and it acts on heart and more than that concentraion it produces vasoconstriction which helps in shock SO IT IS DOC OF SHOCK WITH OLIGURIA.",
         "cop": 2,
@@ -63,19 +50,6 @@
         "topic_name": "ANS",
         "id": "1e78c7ee-17e3-446f-bb5c-f4c11e5d38d4",
         "choice_type": "single"
-    },
-    {
-        "question": "An 8 year old child is brought to emergency after accidently swallowing multiple tablets of a drug. The child developed severe diarrhea, urination, sweating and respiratory difficulty. On examination, pupil was constricted and there were crepitations heard on lung auscultation in lower lobes of both lungs. There were no vascular or CNS effects. Which drug can cause these type of effects?",
-        "exp": "The drug poisoning has cholinergic effects suggested by diarrhea, urination, sweating, miosis and bronchoconstriction and respiratory secretions. However no vascular effect is seen These findings suggest that the drug is an indirect-acting cholinergic agent. So, acetylcholine and bethanechol can be easily ruled out as these are directly acting agents. As the drug lacks CNS effects, means it is not able to enter the brain. So, physostigmine is also ruled out. Neostigmine is a quaternary substance with poor lipid solubility and has little or no CNS effects.",
-        "cop": 2,
-        "opa": "Acetylcholine",
-        "opb": "Neostigmine",
-        "opc": "Physostigmine",
-        "opd": "Bethanechol",
-        "subject_name": "Pharmacology",
-        "topic_name": "ANS",
-        "id": "99f0e548-0135-452b-8b9e-c24a47a1f649",
-        "choice_type": "multi"
     },
     {
         "question": "Intramuscular injection of atropine causes initial bradycardia. The reason for this effect being seen is:",
@@ -130,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A child, Ramu has swallowed the contents of 2 bottles of a nasal decongestant whose primary ingredient is a adrenoceptor agonist drug. The signs of a activation that may occur in this patient include:",
-        "exp": "a-receptors are present on the radial muscles of the iris. Stimulation of a-receptors cause contraction of the radial muscles and will cause mydriasis Whereas tachycardia and vasodilation are due to activation of b-adrenergic receptors.",
-        "cop": 2,
-        "opa": "Tachycardia",
-        "opb": "Dilatation of pupil",
-        "opc": "Vasodilation",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "ANS",
-        "id": "ae56a873-7507-429f-9ead-063eeb479ddc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Diacetylmonoxime are contraindicated in which poisoining?",
         "exp": "Oximes are used to restore neuromuscular transmission only in case of organophosphate poisoning. These act by reactivating AchE enzyme. 2 oximes: PAM (Pralidoxime) - It only acts in periphery and does not enter brain. DAM (Diacetylmonoxime) - Acts in periphery as well as in brain. Oximes are not useful in case of carbamate posionings (eg. physostigmine, neostigmine, carbaryl, propoxur) because here the anionic site of the enzyme is not free to provide attachment to it. It is rather contraindicated in carbamate poisoning, because it has weak anti-ChE activity of its own too.",
         "cop": 3,
@@ -180,19 +141,6 @@
         "topic_name": "ANS",
         "id": "7d9cae75-8068-4952-9a9d-3febf97ebe2d",
         "choice_type": "single"
-    },
-    {
-        "question": "Beta-blockers are used in all of the following conditions except:-",
-        "exp": "Beta blockers are contra-indicated in AV block Beta-blockers are not given in AV blocks because they may precipitate and cause complete heart block USES OF BETA-BLOCKERS Cardiac (due to Beta 1 blockade) Extra cardiac (due to Beta 2 blockade) Hypertension PLAY: Performance anxiety, Pheochromocytoma (after a blockade) Classical angina The: Thyroid (Hypehyroidism) Myocardial infarction G: Glaucoma A: Akathisia, Alcohol and Opioid withdrawal M: Migraine prophylaxis Supraventricular arrhythmias E: Essential tremors Chronic CHF Hyperophic obstructive cardiomyopathy (DOC)",
-        "cop": 2,
-        "opa": "Essential tremors",
-        "opb": "AV block",
-        "opc": "Angina pectoris",
-        "opd": "Migraine prophylaxis",
-        "subject_name": "Pharmacology",
-        "topic_name": "ANS",
-        "id": "db71926d-1082-4ae5-8256-a8e639be5511",
-        "choice_type": "multi"
     },
     {
         "question": "A patient was treated with haloperidol, later he develops symptoms of Parkinsonism. What is the best treatment:",

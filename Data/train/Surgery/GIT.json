@@ -1,31 +1,5 @@
 [
     {
-        "question": "Which of the following is true about ulcerative colitis?",
-        "exp": "ULCERATIVE COLITIS Major pathologic process involves the mucosa and submucosa of the colon, with sparing of the muscularis. Rectal involvement (proctitis) is the hallmark of the disease, and the diagnosis should be seriously questioned if the rectal mucosa is not affected. Most characteristic lesion of UC: Crypt abscess. Cobble stone mucosa is characterisitc of CD. Pseudo polyps are MC in UC (UC > CD) It is a pre malignant condition.",
-        "cop": 1,
-        "opa": "Premalignant condition",
-        "opb": "Cobblestone mucosa is characteristic",
-        "opc": "Pseudo polyps are only seen in ulcerative colitis",
-        "opd": "Rarely affects rectum",
-        "subject_name": "Surgery",
-        "topic_name": "GIT",
-        "id": "949b4908-d7be-492e-a3d2-999abcf3681a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is the manifestation of carcinoma stomach?",
-        "exp": "Other manifestation of Ca. Stomach L Axilla LN - Irish node L S/C LN - Virchow's node (Troiser's sign) Cutaneous metastatic deposits nears umbilicus - Sister Mary joseph node Palpable intra-peritoneal mets on DRE - Blummer's shelf Involvement of ovary - Krukenberg tumor Migratory superficial thrombophlebitis - Trousseau syndrome",
-        "cop": 4,
-        "opa": "Troisier's sign",
-        "opb": "Trousseau's syndrome",
-        "opc": "Irish node",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "GIT",
-        "id": "edb300fc-716a-4fed-8229-1caa33b6e970",
-        "choice_type": "multi"
-    },
-    {
         "question": "Curling's ulcer is seen in:",
         "exp": "Cushing ulcer: stress gastritis due to intracranial injury/increased ICP Curling ulcer: after burn injury (>35%); in the body and fundus; not in antrum and duodenum Cameron ulcers or riding ulcers; linear gastric erosions in hiatal hernias",
         "cop": 1,
@@ -37,32 +11,6 @@
         "topic_name": "GIT",
         "id": "bfbbc130-a09e-4d2d-9240-6539799edf0a",
         "choice_type": "single"
-    },
-    {
-        "question": "True about mesenteric cyst are all Except:",
-        "exp": "Chylolymphatic is the most common type of mesenteric cyst. Enterogenous mesentric cyst- 2nd most common",
-        "cop": 3,
-        "opa": "Chylolymphatic is the most common type",
-        "opb": "Enterogenous is second most common type",
-        "opc": "Seen most commonly in males",
-        "opd": "Treatment of choice for enterogenous is resection + anastomosis",
-        "subject_name": "Surgery",
-        "topic_name": "GIT",
-        "id": "c5f81fd8-d825-4404-8c1d-c071498a70b0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about diffuse gastric cancer according to Lauren's classification except:",
-        "exp": "Lauren Classification System for carcinoma Intestinal Diffuse - Environmental - Gastric atrophy, intestinal metaplasia - Men > Women - Increasing incidence with age - Gland formation - Hematogenous spread - Microsatellite instability - APC gene mutations - p53, p16 inactivation - Epidemic - Distal pa of the stomach - Familial - Blood group 'A' - Women > Men - Younger age group - Poorly differentiated signet ring cells - Transmural/ Lymphatic spread - Decreased E-cadherin - p53, p16 inactivation - Endemic - Proximal pa of the stomach",
-        "cop": 2,
-        "opa": "Familial",
-        "opb": "more common in males",
-        "opc": "undifferentiated",
-        "opd": "more common in the proximal pa",
-        "subject_name": "Surgery",
-        "topic_name": "GIT",
-        "id": "bcfb359d-1322-442c-b328-5d50cf949750",
-        "choice_type": "multi"
     },
     {
         "question": "Characteristic feature of malignant gastric ulcer seen on Barium meal",
@@ -117,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 45 years old male with history of chronic duodenal ulcer was brought to the emergency in the state of shock. After resuscitation, patient was sent for investigations. Chest X-ray is given below. What is the preferred treatment option?",
-        "exp": "X-ray: * Gas under Right dome of diaphragm -Pneumoperitoneum Perforation peritonitis * Pneumoperitoneum Anteriorly located ulcers- Perforate. Posteriorly located ulcers- Bleed - Due to GDA - Massive bleeding Sx. OC- Omental patch repair / modified graham's repair Asymptomatic causes of gas under the diaphragm: Thoracic Abdominal Gynecological PEEP ventilation Pneumothorax/ pneumomediastinum CPR with mouth to mouth ventilation Pulmonary TB Postop- after laparoscopy Endoscopic procedures Pneumatosis cystoides intestinalis Pelvic insufflation PID Pneumatosis cystoides intestinalis- transient, thin cysts containing nitrogen in submucosa & subserosa of small bowel due to | intraluminal pressure These gas filled cysts may rupture into peritoneal cavity to cause sterile pneumoperitoneum C/F- abdominal distension, pain, vomiting, bowel disturbances Complications- intestinal obstruction, hemorrhage, perforation Rx- Oxygen therapy, metronidazole",
-        "cop": 1,
-        "opa": "Modified Graham's repair",
-        "opb": "Truncal vagotomy with antrectomy",
-        "opc": "Truncal vagotomy with gastrojejunostomy",
-        "opd": "Billroth I gastrectomy",
-        "subject_name": "Surgery",
-        "topic_name": "GIT",
-        "id": "7ff9a44d-7e0c-4042-9a02-fc4611a90a56",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 40 years old male was brought to the emergency with severe abdominal pain. On examination, pulse rate was 112/minute and systolic BP was 80 mm Hg. Chest X-ray is given below. What is the most appropriate management?",
         "exp": "X-ray - Gas under right dome of diaphragm - secondary bacterial peritonitis Secondary bacterial peritonitis (SBP) Due to perforation Spillage of intestinal contents Polymicrobial E. coli + Bacteroides Mx: Exploratory laparotomy. + Drain",
         "cop": 1,
@@ -141,19 +76,6 @@
         "topic_name": "GIT",
         "id": "867ec928-0f96-4df9-aadc-6ea26d7b3914",
         "choice_type": "single"
-    },
-    {
-        "question": "A 40 years old male was brought to the emergency with watery diarrhea. The diagnosis was made on stool cytotoxin assay. On colonoscopy, ulcers, plaques and pseudomembranes were visualized. Patient condition improved drastically after use of metronidazole. CECT finding is given below. What is the name of the sign seen on CECT??",
-        "exp": "Emergency Water diarrhoea Dx: stool cytotoxin assay Colonoscopy: Pseudo membrane Improvement on Oral vancomycin CECT: Accordion sign Pseudo membranous colitis Pseudo membranous Colitis: - Due to intake of clindamycin - | risk Diagnosis - Diagnosis is made after detection of one or both toxins by: -Stool cytotoxin assay - Colonoscopy: characteristic ulcers, plaques, and pseudo membranes Treatment - Immediate cessation of offending antimicrobial agent - Mild disease:-Oral vancomycin: Drug of choice - Severe disease: Bowel rest, IV hydration, and IV metronidazole or oral vancomycin.",
-        "cop": 1,
-        "opa": "Accordion sign",
-        "opb": "Central stellate scar",
-        "opc": "Whorl sign",
-        "opd": "Honeycombing",
-        "subject_name": "Surgery",
-        "topic_name": "GIT",
-        "id": "2b19e53d-cbd8-4797-9b0f-610d64de1adb",
-        "choice_type": "multi"
     },
     {
         "question": "Safest contrast in esophageal perforation:",
@@ -169,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "False about Mallory-Weiss syndrome:",
-        "exp": "Massive hemorrage is rare in Mallory Weiss Syndrome.",
-        "cop": 1,
-        "opa": "Massive hemorrhage is MC manifestation",
-        "opb": "Alcohol is an associated etiology",
-        "opc": "Conservative treatment is effective in most of the cases",
-        "opd": "Anti-reflux procedure doesn't have added advantage",
-        "subject_name": "Surgery",
-        "topic_name": "GIT",
-        "id": "7fb6c775-6174-4334-8a64-f57bcd6ab4b1",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 40 years old male underwent Billroth-II gastrectomy for gastric ulcer. After 3 weeks of surgery, when patient was having dinner, patient collapsed within 20 minutes of meals. What is the most probable reason?",
         "exp": "Dumping syndrome:- Complication of loop gastrojunostomy / Billroth - II gastrectomy.- Due to dumping of hyperosmotic & hyperosmolar content into proximal pa of jejunum Early dumping Late dumping - 15-30 minutes after meals -Hyperosmotic content | Fluid secretion | Third space loss | Vasomotor symptoms hypovolemia - 2-3 hours after meals - Hyperglycemic content | | release of insulin | Reactive hypoglycaemia Dumping is easy to prevent but difficult to manage Prevention of dumping syndrome: 1. Dietary modification- Small frequent meals- | carbohydrate, | protein, | fat - Avoid liquids during meals- Avoid high calorie drinks2. Octreotide intake3. Sx 1. (B-II - B-I)2. Interposition of anti-peristaltic segment of jejunum.",
         "cop": 1,
@@ -195,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is true about hemorrhoids?",
-        "exp": "Hemorrhoids- Are Normal anatomical cushions- Made of* Venules* Aerioles* Smooth muscle fibers* Elastic tissues. Location of hemorrhoids- 3' o clock- 7'O clock- 11'0 clock. Pathophysiology- On constipation due to Excessive straining |Abnormal descent of anatomical cushions |Injury by hard fecal matter |Bleeding PR* Mc cause of bleeding PR - Hemorrhoids* Mc cause of significant lower GI bleed - Colonic diveicula* Mc cause of occult lower GI bleed - Angiodysplasia/ Vascular ectasia Clinical Presentation- Painless bleeding- Amount of bleeding - 3 to 5 ml to a max of 10 ml. Diagnosis- They Cannot be palpated, therefore hemorrhoids cannot be diagnosed by DRE- Diagnosis of hemorrhoids - by proctoscopy Internal Hemorrhoids External Hemorrhoids - Location - above dentate line (Pain insensitive region)- Painless bleeding- Treatment - depends on the degree - Location - below dentate line(pain sensitive region)- Painful bleeding- Aka 5- days painful self-curing lesion- Recurrent thrombosis in externalhemorrhoids leads to semi- RIPE blackcurrant- Treatment - Excision",
-        "cop": 3,
-        "opa": "Hemorrhoids diagnosed by DRE",
-        "opb": "External hemorrhoids are proximal to dentate line",
-        "opc": "Internal hemorrhoids bleed profusely and painless",
-        "opd": "Internal hemorrhoids are covered by anoderm",
-        "subject_name": "Surgery",
-        "topic_name": "GIT",
-        "id": "307789a5-d267-4293-afdb-a80f0d82f67c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Recurrent prolapse of the rectum in old patients is treated by:",
         "exp": "Rectal prolapse- Rectal Prolapse is of two types* Mucosal (mainly in children)* Full thickness (mainly in adults) Causes of rectal prolapse common causes- Protein Energy Malnutrition- Worm infestation- Diarrhea Rare causes:- Sacral agenesis- Meningomyelocele Management- Depends on cause- Conservative Management for common causes- If patient is not responding - LOKHA - MUMMARY RECTOPEXY- For rare causes - THIERSCH ANAL WIRING - For Adults - Rectopexy Abdominal approach & Rectopexy Perineal approach. Rectopexy Abdominal Approach- Decreased recurrence rate- Associated with high morbidity- Preferred in young patients- Types of rectopexy* W - Well's* A - Abdominal* R - Ripstein- RESECTION RECTOPEXY* Goldman - Fryberg Rectopexy Perineal Approach- Increased recurrence rate- Associated with low morbidity- For old & frail patients- Types of rectopexy* P - Perineal* A - Altmaier* D - Delorme- THIERSCH ANAL WIRING",
         "cop": 1,
@@ -219,19 +115,6 @@
         "topic_name": "GIT",
         "id": "3a79b099-5237-4e19-b037-43f9dbfc18c1",
         "choice_type": "single"
-    },
-    {
-        "question": "Which is false about Crohn's disease?",
-        "exp": "Crohn's disease (CD) can invade any pa of GIT from the oral cavity to the anus. Studies show that 70% of patients with CD will require a bowel resection in the first decade after diagnosis and 40% will require a fuher resection * Since surgery does not cure CD, the fundamental principle is to preserve healthy gut and to maintain adequate function. As the disease might recur after the surgery. Surgery is palliative in Crohn's disease whereas curative in Ulcerative colitis (UC). In UC disease stas from rectum and the fuher proceeds to the colon. Hence a single proctocolectomy is performed which is curative.",
-        "cop": 1,
-        "opa": "No recurrence after surgery",
-        "opb": "Aphthous ulcer",
-        "opc": "Skip lesions",
-        "opd": "Fistula formation",
-        "subject_name": "Surgery",
-        "topic_name": "GIT",
-        "id": "1895a606-ee63-430a-9a73-f3be8e85092c",
-        "choice_type": "multi"
     },
     {
         "question": "Ideal investigation for fistula-in-ano is",
@@ -284,18 +167,5 @@
         "topic_name": "GIT",
         "id": "c5f14096-b705-43e2-b029-f80f6d9a262e",
         "choice_type": "single"
-    },
-    {
-        "question": "A 60 years old male presented to OPD with bleeding PR. On DRE, growth was felt at by the tip of index finger. On sigmoidoscopy, there was an ulcero-proliferative growth located 6 cm from anal verge. On CECT, liver and lungs were not involved. After chemoradiation, what is the next best step?",
-        "exp": "Ca. rectum - Length of surgical anal canal - 3 cm - Growth on DRE - (10 cm) - In rectum - Growth Located >5 cm above anal verge - LAR - Growth located at Anorectal junction or <5 cms from anal verge - APR Stage I - Surgical excision Stage II Stage III Stage IV Neo adjuvant chemoradiation + Surgical excision",
-        "cop": 2,
-        "opa": "Observation an follow up",
-        "opb": "Low anterior resection",
-        "opc": "Abdominoperineal resection",
-        "opd": "Haman's procedure",
-        "subject_name": "Surgery",
-        "topic_name": "GIT",
-        "id": "34858cbf-f9a2-4930-9af1-89f53157bc8a",
-        "choice_type": "multi"
     }
 ]

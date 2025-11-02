@@ -1,18 +1,5 @@
 [
     {
-        "question": "A patient was diagnosed with schizophrenia and was staed on haloperidol 5mg. On 3rd day he presented with uprolling of eyes. A complete neurological examination revealed no spasticity or any other abnormalities except uprolling of eyeballs. Visual acuity was found to be normal. What is your likely diagnosis?",
-        "exp": "* <48 hours of staing antipsychotics * M. C in======Younger black males * If a patient develops dystonia he is more prone for eps Patient considers this as an Allergic reaction, thereby may stop drugs Layryngeal dystonia is a Psychiatric emergency, should be treated with IV lorazepam TREATMENT * Diphenhydramine * Benztropine mesylate * Prophylactic anticholinergics helps Ref. Kaplon and sadock, synopsis of psychiatry, 11 th edition, pg no. 923",
-        "cop": 2,
-        "opa": "Seizure",
-        "opb": "Acute dystonia",
-        "opc": "Malingering",
-        "opd": "Akathesia",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy in psychiatry",
-        "id": "aaa09f14-d097-401e-a543-a9a9e4fa9a7d",
-        "choice_type": "multi"
-    },
-    {
         "question": "which of the following antidepressent causes hypeensive crisis",
         "exp": "MAOI * IMPOANCE First class of antidepressant drugs that were introduced * MECHANISM There are three monoamines namely dopamine, adrenaline and serotonin. These mon amines are degraded by monoamine oxidase. MAOI inhibit this enzyme and acts increasing monoamines * DRUGS Phenelezine Tranylcipromine * USE ATYPICAL DEPRESSION, depression with reverse vegetative symptoms * SIDE EFFECTS Hypeensive crisis Cheese reaction When a patient on MAOI takes tyramine rich food like tyramine there will be increased release of monoamines. These excess monoamines cannot be degraded by MAO as it is blocked by MAOI. Thus, this may result in hypeensive crisis. Paresthesia's due to pyridoxine deficiency LIKE IPRONIAZID WEIGHT gain SEXUAL dysfunction Ref. Kaplon and sadock, synopsis of psychiatry, 11 th edition, pg no, 955",
         "cop": 4,
@@ -65,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Tardive dyskinesia is least common with",
-        "exp": "Ans. c (Olanzapine) (Ref: Harrison's internal medicine, 16th ed., p 2418)ATYPICAL ANTIPSYCHOTICS (Noval antipsychotics like)# Atypical antipsychotics (clozapine, risperidone, olanzapine, quetiapine, ziprasidone, and aripiprazole) significantly lower the risk of tardive dyskinesia (TD) compared to typical antipsychotics.- Clozapine, - Quetiapine, - Ziprasidone, - Olanzapine, - Risperidone, - Aripiprazole. (Mnemonic: C Q ZORA)# Risperidone, a benzisoxazole derivative, is more potent at 5. HT2 than D2 receptor sites, like clozapine, but it also exerts significant alpha-2 antagonism, a property that may contribute to its perceived ability to improve mood and increase motor activity. Risperidone is not as effective as clozapine in treatment-resistant cases but does not carry a risk of blood dyscrasias.# Olanzapine is similar neurochemically to clozapine but has a significant risk of inducing weight gain.# Quetiapine is distinct in having a weak D2 effect but potent alpha-1 and histamine blockade.# Ziprasidone causes minimal weight gain and is unlikely to increase prolactin, but may increase QT prolongation.# Aripiprazole also has little risk of weight gain or prolactin increase but may increase anxiety, nausea, and insomnia as a result of its partial agonist properties. Extrapyramidal side effects. Early onset and reversible. Dystonia. Involuntary contraction primarily of the face, neck, tongue and extraocular muscles. Responds to anticholinergics. Parkinson. Akinesia, muscle rigidity, tremor, shuffling gait (typically appearing in that order). Akathisia. Motor restlessness and the urge to move. Late onset and Irreversible. Tardive dyskinesis (TD)# Diagnosis requires exposure to neuroleptics for at least 3 months, but often take longer # Involuntary repetitive movements of lips, face, tongue, limbs# Try to prevent by using lowest possible dose of antipsychotic medication# Anticholinergics worsen TD# Try to reduce dose or discontinue medication if TD occurs (although increasing dose will temporarily mask symptoms)# Switch to an atypical antipsychotic. Atypical Antipsychotics. Drugs. Characteristics. Side effects. Clozapine. Risperidone. Olanzapine. Quetipine. Ziprasidine. Aripiprazole# Generally good 5. HT2 antagonists and weaker D2 antagonists# Treats positive and negative symptoms of schizophrenia (typicals treat mostly positive)# Less EPS# Tend to be more expensive than typicals# Clozapine: agranulocytosis# Ziprasidone: prolongs QT interval, may lead to torsadede pointes# Risperidone: some EPSEducational points: Tardive dyskinesia# Occurs primarily due to chronic exposure to central dopamine blockers.# Rx:- Approximately one-third of patients with TD remit within 3 months of stopping neuroleptic therapy, and in most patients the movements will gradually remit within 5 years.- Abrupt drug cessation may result in \"withdrawal dyskinesias, \" i. e. frank TD.- In refractory cases, choreatic TD catecholamine depletors reserpine and tetrabenazine are useful.- Another strategy employ is GABAergic medications such as baclofen (40 to 80 mg/d), clonazepam (1 to 8 mg/d), or valproic acid (750 to 3, 000 mg/d), which are particularly helpful in patients with tardive dystonia, which may also benefit from anticholinergic therapy and botulinum toxin injections.",
-        "cop": 3,
-        "opa": "Flupenthixol",
-        "opb": "Penfluridol",
-        "opc": "Olanzapine",
-        "opd": "None",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "ecaf80c4-1206-40c0-afa9-d535b946f310",
-        "choice_type": "multi"
-    },
-    {
         "question": "Lithium use in pregnancy leads to which of the following effect on baby?",
         "exp": "Ans. A. CVS defect. Lithium is in FDA pregnancy category D, which includes drugs for which there is evidence of human fetal risk, but whose potential benefits may outweigh the risk in some pregnant women. Lithium appears to increase the risk of cardiovascular anomalies in humans (the incidence of Ebstein anomaly of the tricuspid valve is between 1 and 2 per 1, 000 which is 10 to 20 times greater than in the general population). Although the teratogenic risk of lithium is still greater than that found in the general population, it is lower than that posed by carbamazepine and valproate. Fetal echocardiography is advised to screen for cardiovascular malformations in women exposed to lithium during the first trimester of pregnancy.",
         "cop": 1,
@@ -102,19 +76,6 @@
         "topic_name": "Pharmacotherapy In Psychiatry",
         "id": "0bb11df8-3c98-491f-bd6e-fe25687884f8",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements comparing serotonin-dopamine antagonists (SDAs) with dopamine receptor antagonists (DRAs) is true?",
-        "exp": "Ans. D. SDAs affect both serotonin and glutamate receptors. The serotonin-dopamine antagonists (SDAs) affect both serotonin and glutamate receptors. However, the SDAs produce minimal or no extrapyramidal symptoms and interact with different subtypes of dopamine receptors than do the standard antipsychotics. They also produce fewer neurological adverse effects and are effective in treating negative symptoms of schizophrenia. They are at least as effective as haloperidol for positive symptoms and are uniquely effective for the negative symptoms. These drugs have replaced the dopamine receptor antagonists as the drug of first choice for the treatment of schizophrenia.",
-        "cop": 4,
-        "opa": "DRAs is first choice of treatment for schizophrenia.",
-        "opb": "SDAs produce more neurological adverse effects.",
-        "opc": "SDAs produce more extrapyramidal symptoms.",
-        "opd": "SDAs affect both serotonin and glutamate receptors.",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "7805ab2b-5c81-4f5e-adf2-6df2e0386345",
-        "choice_type": "multi"
     },
     {
         "question": "which of the following is not the side effect of phenelezine",
@@ -154,19 +115,6 @@
         "topic_name": "Pharmacotherapy in psychiatry",
         "id": "4b71bf86-faec-4ee1-a398-89da8b292b23",
         "choice_type": "single"
-    },
-    {
-        "question": "Which one of the following drug is a second- generation antipsychotic/serotonin-dopamine antagonist/atypical antipsychotic?",
-        "exp": "Ans. D. All of the above. The second-generation antipsychotics are a group of antipsychotic agents that were introduced into clinical psychiatry during the early 1990s. In the United States and most parts of the world, these agents are the most widely prescribed agents for schizophrenia and other illnesses associated with psychotic symptoms. Examples of second-generation antipsychotics are clozapine, risperidone, olanzapine, quetiapine, ziprasidone, and aripiprazole.",
-        "cop": 4,
-        "opa": "Clozapine",
-        "opb": "Risperidone",
-        "opc": "Quetiapine",
-        "opd": "All of the above",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "75240d75-be03-47f4-a88f-2249a504eef3",
-        "choice_type": "multi"
     },
     {
         "question": "Which among the following is a tetra cyclic antidepressant",
@@ -260,19 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following drugs are considered to have \"dual reuptake inhibitors\"?",
-        "exp": "Ans. D. All of the above. The selective serotonin-norepinephrine reuptake inhibitors (SNRIs) are a group of medications that have therapeutic effects that are presumably mediated by concomitant blockade of neuronal serotonin (5-HT) and norepinephrine uptake transporters. Medications in this group include venlafaxine (Effexor) and duloxetine. The SNRIs are also sometimes referred to as dual reuptake inhibitors, a broader functional class of antidepressants medications that includes tricyclic antidepressants (TCAs) such as clomipramine and, arguably, imipramine and amitriptyline.",
-        "cop": 4,
-        "opa": "Clomipramine",
-        "opb": "Amitriptyline",
-        "opc": "Venlafaxine",
-        "opd": "All of the above",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "dcb34f37-ae1c-4d83-8e80-7e4489458533",
-        "choice_type": "multi"
-    },
-    {
         "question": "which of following SSRI used in the panic disorder",
         "exp": "SSRI * IMPOANCE Most widely prescribed antidepressant * MECHANISM Specifically acts on serotonin transpoers and increases serotonin in synapse. DRUGS FLUOXETINE FLUVOXAMINE DAPOXETINE CITALOPRAM ESCITALOPRAM ESCITALOPRAM SERALINE PAROXETINE USE FLUOXETINE=============CHILDHOOD DEPRESSION FLUVOXAMINE===========OCD DAPOXETINE==============PME ESCITALOPRAM===========HEART SAFE, PATHOLOGICAL EMOTIONS PAROXETINE=========SEDATING, PANIC DISORDER IMPULSE CONTROL DISORDERS PME PARAPHILIA Ref, kaplon and Sadock, synopsis of psychiatry, 11 th edition, pg no. 955",
         "cop": 1,
@@ -336,19 +271,6 @@
         "topic_name": "Pharmacotherapy In Psychiatry",
         "id": "c97b1d5b-58e7-4fdd-849b-54721b38e633",
         "choice_type": "single"
-    },
-    {
-        "question": "Disulfiram acts by",
-        "exp": "DISULFIRAM is a DETERRANT which acts by blocking acetaldehyde dehydrogenase When acetaldehyde dehydrogenase is blocked there will be increased amount of acetaldehyde that acts on mast cells and results in release of histamine that in turn leads to allergic reaction. Thus when a patient on disulfiram takes alcohol there would be allergic reaction that prevents the patient from using the substance Ref. Kaplon and sadock, synopsis of psychiatry, 11 th edition, pg no. 624",
-        "cop": 2,
-        "opa": "Inhibiting alcohol dehydrogenase",
-        "opb": "Inhibiting aldehyde dehydrogenase",
-        "opc": "Both 1 and 2",
-        "opd": "None of the above",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy in psychiatry",
-        "id": "fdf3001d-9751-4204-8819-d6a407c2fa23",
-        "choice_type": "multi"
     },
     {
         "question": "A 50 year old woman with schizophrenia who has been taking a antipsychotic drug for the past 3 years has begun to show involuntary chewing and lip-smacking movements. Which can be the most likely possibility?",
@@ -429,19 +351,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are SSRI'S except?",
-        "exp": "Ans. D. Mirtazapine. Selective Serotonin Reuptake Inhibitors (SSRIs) includes: 1. Citalopram2. Escitalopram3. Fluoxetine4. Fluvoxamine5. Paroxetine6. Sertraline",
-        "cop": 4,
-        "opa": "Paroxetine",
-        "opb": "Escitalopram",
-        "opc": "Fluvoxamine",
-        "opd": "Mirtazapine",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "fa446c51-c727-4681-bde5-b784cc22c7d5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Beta blockers are effective in:",
         "exp": "Ans: b (Anxiety) Ref: Ahuja, 6th ed, p. 95; Kaplan & Sadock, 8th ed, p. 1719. Pharmacological treatment of anxiety disorders includes the use of benzodiazepines, beta blockers, buspirone and anti depressants. Antidepressants are among the most effective antianxiety agents available. SSRIs have been shown to help reduce or prevent various forms of anxiety, including panic anxiety, obsessive-compulsive symptoms, generalized anxiety, posttraumatic stress symptoms, and social anxiety. Most treatment algorithms begin treatment of each of these disorders with an SSRI. Serotonin-Norepinephrine reuptake inhibitor (SNRI) venlafaxine has been shown in randomized, controlled trials to be as effective as SSRIs in the treatment of generalized anxiety disorder and generalized social anxiety disorder. Beta blockers like propranalol and atenolol are particularly useful in management of anticipatory anxiety (anxiety occurring before going on stage, or before examinations). Buspirone is an anti anxiety drug which does not have any dependence potential, unlike benzodiazepines. Note on anxiety disorders. Anxiety is the commonest psychiatric symptom in clinical practice and anxiety disorders are one of the commonest psychiatric disorders in general population. 1) Generalised anxiety disorder: This is characterized by an insidious onset in the third decade and a stable, usually chronic course which may or may not be punctuated by panic attacks. The symptoms of anxiety should last tor at least a period of 6 months for a diagnosis of generalized anxiety disorder to be made. It is the commonest psychiatric disorder in the population. 2) Panic disorder: This is characterized by discrete episodes of acute anxiety. Panic disorder can either present alone or with agoraphobia. Note on phobias. Phobia is defined as an irrational fear of a specific object. situation or activity, often leading to persistant avoidance of the feared object situation or activity, often leading to persistant avoidance of the feared object situation or activity. The common type of phobias are: a) Agoraphobia-It is the commonest type of phobia encountered in clinical practice. lt is characterized by an irrational fear of being in places away from the familiar setting of home. It includes fear of open spaces. public spaces, crowded spaces and any other place from where there is no easy escape to a safe place. A full blown attack may occur (agoraphobia with panic disorder) or only a few symptoms(like dizziness or tachycardia) may occur (agoraphobia without panic disorder)SSRIs are currently the drugs of choice. with paroxetine being the most widely used drug. \"Nomophobia\"-one of the latest additions to the phobia list. It is the fear of being out of of mobile phone contact. b) Social phobiac) Specific (simple) phobia",
         "cop": 2,
@@ -453,32 +362,6 @@
         "topic_name": "Pharmacotherapy In Psychiatry",
         "id": "c06494d8-7994-45f1-be93-7ea8e4ac5c27",
         "choice_type": "single"
-    },
-    {
-        "question": "Which one of the following is an indication for valproate?",
-        "exp": "Ans. D. All of the above. Valproic acid and its formulation derivatives divalproex sodium, extended-release (ER) divalproex sodium, and valproate sodium injection represent the first-generation mood stabilizing anticonvulsants. Valproate is currently approved by the U. S. Food and Drug Administration (FDA) for(1) Monotherapy or adjunctive therapy for complex partial seizures(2) Monotherapy or adjunctive therapy for simple and complex absence seizures(3) Adjunctive therapy for patients with multiple seizures that include absence seizures(4) Prophylaxis of migraine(5) Treatment of acute manic episodes associated with bipolar disorder.",
-        "cop": 4,
-        "opa": "Prophylaxis for migraine",
-        "opb": "Complex partial seizures",
-        "opc": "Acute mania",
-        "opd": "All of the above",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "bc6475b0-059f-47e9-993d-324e0f423a1c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which is not true about Tardive Dyskinesia (TD):",
-        "exp": "Ans. D. Combining anticholinergics with antipsychotics prevents TDTardive dyskinesia (abnormal movements): wide variety of movements:* Lip smacking or chewing* Tongue protrusion (fly catching)* Choreiform hand movements (pill rolling or piano playing)* Pelvic thrusting. Severe orofacial movements can lead to difficulty speaking, eating or breathing. Worse under stress. ONSET: Months to years, 50% of cases are reversible. TREATMENT: Stop anticholinergic if prescribed* Reduce dose of antipsychotic* Change to an atypical drug* Clozapine is antipsychotic most likely to be associated with resolution of symptoms",
-        "cop": 4,
-        "opa": "Clozapine is useful",
-        "opb": "Dopaminergic super sensitivity is the cause",
-        "opc": "Usually seen in perioral area",
-        "opd": "Combining anticholinergics with antipsychotics Prevents TD",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "c88714df-f173-4e98-9967-6699e15cd02f",
-        "choice_type": "multi"
     },
     {
         "question": "a patient had mocturnal eneuresis with depressive symptoms and was staed on antidepressent, what is the drug",
@@ -585,19 +468,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about neuroleptic malignant syndrome",
-        "exp": "Neuroleptic malignant syndrome is a psychiatric emergency, it is caused by addition of antipsychotics or cessation of antipsychotics. It is not caused by using antidepressents It is associated with rigidity, tremor, hyperpyrexia, kidney injury and death It is not associated with antidepressents Ref. Kaplon and sadock, synopsis of psychiatry, 11 th edition, pg no. 933",
-        "cop": 1,
-        "opa": "General antipsychotics are more associated",
-        "opb": "Symptoms include rigidity, fever and palpitation",
-        "opc": "Dantrolene improves symptoms",
-        "opd": "Bromocriptine can be used",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy in psychiatry",
-        "id": "f9b9059d-348d-4d45-83a5-ebcb10b87272",
-        "choice_type": "multi"
-    },
-    {
         "question": "which of the SSRi is used in the management of panic disorder",
         "exp": "SSRI * IMPOANCE Most widely prescribed antidepressant * MECHANISM Specifically acts on serotonin transpoers and increases serotonin in synapse. DRUGS FLUOXETINE FLUVOXAMINE DAPOXETINE CITALOPRAM ESCITALOPRAM ESCITALOPRAM SERALINE PAROXETINE USE FLUOXETINE=============CHILDHOOD DEPRESSION FLUVOXAMINE===========OCD DAPOXETINE==============PME ESCITALOPRAM===========HEART SAFE, PATHOLOGICAL EMOTIONS PAROXETINE=========SEDATING, PANIC DISORDER IMPULSE CONTROL DISORDERS PME PARAPHILIA SIDE EFFECTS Paradoxical SUICIDE, this is a type of suicide where an antidepressant used to treat depression and decrease suicide increase the chance of suicidal attempt ( IT'S A PARADOX). The explanation that is given is SSRI initially activates the patient and decreases fatigue, thus patients with low mood and suicidal ideas will have more energy to act on the ideas. GIT- thus it should not be given in an empty stomach SD- delays ejaculation. This mechanism is used for its prescription in patients with premature ejaculation ANXIETY INSOMNIA Ref, kaplon and sadock, synopsis of psychiatry, 11 th edition, 955",
         "cop": 1,
@@ -609,32 +479,6 @@
         "topic_name": "Pharmacotherapy in psychiatry",
         "id": "d27eba20-eb70-4197-b9a8-4983d685f2af",
         "choice_type": "single"
-    },
-    {
-        "question": "Malignant neurolept hypehermia {NMS} seen in all except",
-        "exp": "Amantadine is a treament option for NMS and does not cause NMS Ref. Kaplon and sadock, synopsis of psychiatry, 11 th edition, pg no. 926",
-        "cop": 4,
-        "opa": "Haloperidol",
-        "opb": "Metoclopramide",
-        "opc": "Domperidone",
-        "opd": "Amantadine",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy in psychiatry",
-        "id": "c2cf3cf5-4c79-4dd5-b3dc-002b2510c86c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following drugs are used in treatment of dementia except?",
-        "exp": "Ans. B. Duloxetine. Management of patient with Dementia: Mini Mental status examination (MMSE)- score of <24 suggestive of dementia* Treat the cause* CHOLINESTERASE INHIBITORS: FDA for treatment of AD cholinesterase inhibitors: Tacrine, donepezil, rivastigmine, and galantamine. Reversible inhibitors of enzyme acetylcholinesterase, which degrades ACh in synaptic cleft, thereby increasing availability of intra synaptic ACh.* MEMANTINE: noncompetitive NMDA receptor antagonist that may modulate excitatory signaling & have neuro- protective actions. FDA approved for use only in moderate to severe AD. Has demonstrated efficacy for both cognitive & functional improvements over placebo.",
-        "cop": 2,
-        "opa": "Memantine",
-        "opb": "Duloxetine",
-        "opc": "Galantamine",
-        "opd": "Donepezil",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "b704afdf-1ce5-4c6f-915c-a80caf428d53",
-        "choice_type": "multi"
     },
     {
         "question": "Extrapyramidal side effects of antipsychotics -",
@@ -650,19 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which among following is/are antipsychotics?",
-        "exp": "Ans. D. All of the above. (Ref. Kaplan & Sadock's Pocket Handbook of Psychiatric Drug Treatment /ch. 28; Harrison Medicine 18th/ Ch. 391. Table 391-14). As of 2013, ten 2nd generation antipsychotic drugs weer approved bt the FDA, which include: risperidone, risperidone IM long acting, olanzapine, olanzapine ER inj suspenion, queriapine, quetiapine XR, ziprasidone, aripiprazole, paliperidone, paliperidone palmitate, asenapine, lurasidone, iloperidone, and clozapine. Antipsychotic Agents. Name. Usual PO Daily Dose, mg. Side Effects. Sedation. Comments. First-Generation Antipsychotics. Low-potency. Chlorpromazine100-1000. Anticholinergic effects; orthostasis; photosen-+ + +EPSEs usually not prominent; can cause anticholinergic delirium in elderly patients. Thioridazine100-600sitivity; cholestasis; QT prolongation Midpotency. Trifluoperazine2-50. Fewer anticholinergic side effects+ +Well tolerated by most patients. Perphenazine4-64. Fewer EPSEs than with higher potency agents.++Little weight gain. Loxapine30-100. Frequent EPSEs+ + Molindone30-100. Frequent t. PSEs0 High potency. Haloperidol5-20. No anticholinergic side effects; EPSEs often prominent0/+Often prescribed in doses that are too high; long-acting injectable forms of haloperidol and fluphenazine available. Fluphenazine1-20. Frequent EPSEs0/+ Thiothixene2-50. Frequent EPSEs0/+ Second-Generation Antipsychotics. Clozapine150-600. Agranulocytosis (1%); weight gain; seizures; drooling; hyperthermia+ +Requires weekly WBC count for first 6 months, then biweekly if stable. Risperidone2-8. Orthostasis+Requires slow titration; EPSEs observed with doses >6 mg qd. Olanzapine10-30. Weight gain+ +Mild prolactin elevation. Quetiapine350-800. Sedation; weight gain; anxiety+ + + Bid dosing. Ziprasidone120-200. Orthostatic hypotension+/++Minimal weight gain; increases QT interval. Aripiprazole10-30. Nausea, anxiety, insomnia0/+Mixed agonist/antagonist. Paliperidone3-12. Restlessness, EPSEs+Active metabolite of risperidonelloperidone12-24. Dizziness, hypotension0/+Requires dose titration. Asenapine10-20. Dizziness, EPSEs, weight gain++Sublingual tablets; bid dosing. Lurasidone40-80. Nausea, EPSEs++Uses CYP3. A4",
-        "cop": 4,
-        "opa": "Resperidone",
-        "opb": "Lurasidone",
-        "opc": "Asenapine",
-        "opd": "All of the above",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "900ee7e3-0191-4f39-b594-b09b5a8a3818",
-        "choice_type": "multi"
-    },
-    {
         "question": "DOC in manic depressive illness is?",
         "exp": "Ans. is 'b' i. e., Lithium carbonate Treatment of Bipolar disorder1) Treatment of acute episodes: - It depends on the type of episode, i. e., manic (acute mania) or depression: -a) Treatment of Acute Mania: - The treatment of acute mania or hypomania is the easiest phases of bipolar disorders to treat. Drugs used for the treatment of acute mania are: -i) Lithiumii) Valproateiii) Carbamazepine, Oxcarbazepineiv) Atypical & typical antipsychotics: - Olanzapine, risperidone, quetiapine, ziprasidone, aripiprazole, Haloperidol, Chlorpromazine. v) Benzodiazepines: - Clonazepam or Lorazepam can be used as adjunctive treatment for agitation, aggression, insomnia. Condition. Preferred agent* Hypomania* Lithium or Valproic* Mania* Lithium* Mania with dysphoria (mixed mania)* Valproic acid* Mania with psychosis* Valproate with olanzapine or risperidoneb) Treatment of acute bipolar depression: - Antidepressants with a mood stabilizer is used as using antidepressant alone in depressive episode of bipolar disorder can precipitate manic or hypomanic episode. If patient does not respond to standard antidepressants lamotrigine or ziprasidone can be used. Mild or moderate depression. Lithium or lamotrigine alone, Add antidepressant (Bupripion) if needed. Severe depression. Antidepressant (Bupripione, Fluoxetine, sertaline) plus lithium. Severe depression with psychosis. Antidepressant plus lithium plus olanzapine or risperidone. 2) Maintenance treatment: - It is used to prevent the recurrence after acute episode has been controlled, i. e., Prophylactic treatment for bipolar disorder. Three drugs are commonly used: -i) Lithium (drug of choice)ii) Carbamazepine. iii) Valproate, iv) Other drugs which can be used are topiramate, Lamotrigine, atypical antipsychotics (aripiprazole, olanzapine, quetiapine, risperidone, Clozapine) and Gabapentin. 3) Treatment of rapid cycling: -i) Valproate is the drug of choiceii) Other drugs used are Carbamazepine, Lithium, Lamotrigine.",
         "cop": 2,
@@ -676,32 +507,6 @@
         "choice_type": "single"
     },
     {
-        "question": "which of the following is the use of NDRI",
-        "exp": "NDRI * IMPOANCE Anti-depressant which does not deal with serotonin neurotransmission Also called as Zyban * MECHANISM Prevents reuptake of nor adrenaline and dopamine * DRUGS Bupropion * USE ADHD SMOKING CESSATION HYPOACTIVE SEXUAL DESIRE DISORDER * SIDE EFFECTS seizures Ref. kaplon and sadock, synopsis of psychiatry, 11 th edition, pg no. 955",
-        "cop": 4,
-        "opa": "hypoactive sexual desire",
-        "opb": "smoking sessation",
-        "opc": "ADHD",
-        "opd": "all of the above",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy in psychiatry",
-        "id": "b9cca967-82ad-42b6-b9dc-533db7b9e033",
-        "choice_type": "multi"
-    },
-    {
-        "question": "which is true about miazapine",
-        "exp": "Na. SSA * IMPOANCE Nor adrenergic and specific serotonergic antidepressant * MECHANISM * Alpha 2 adrenergic receptor antagonism=== increase serotonin and NA * 5. HT2, 3 antagonist============increase sleep and appetite * DRUGS miazapine * USE Elderly with depression * SIDE EFFECTS hyperlipidemia re. kaplon and sadock, synopsis of psychiatry, 11 th editionm, 955",
-        "cop": 1,
-        "opa": "it is a type of Na. SSa",
-        "opb": "it is a type of SSRI",
-        "opc": "it is a type of SARi",
-        "opd": "it is a type SNRI",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy in psychiatry",
-        "id": "062fcebf-a259-4c0c-9ae0-0ce127aaad20",
-        "choice_type": "multi"
-    },
-    {
         "question": "a patient had pre mature ejaculation and was staed on SSRI with a sho half life",
         "exp": "SSRI * IMPOANCE Most widely prescribed antidepressant * MECHANISM Specifically acts on serotonin transpoers and increases serotonin in synapse. DRUGS FLUOXETINE FLUVOXAMINE DAPOXETINE CITALOPRAM ESCITALOPRAM ESCITALOPRAM SERALINE PAROXETINE USE FLUOXETINE=============CHILDHOOD DEPRESSION FLUVOXAMINE===========OCD DAPOXETINE==============PME ESCITALOPRAM===========HEART SAFE, PATHOLOGICAL EMOTIONS PAROXETINE=========SEDATING, PANIC DISORDER IMPULSE CONTROL DISORDERS PME PARAPHILIA SIDE EFFECTS Paradoxical SUICIDE, this is a type of suicide where an antidepressant used to treat depression and decrease suicide increase the chance of suicidal attempt ( IT'S A PARADOX). The explanation that is given is SSRI initially activates the patient and decreases fatigue, thus patients with low mood and suicidal ideas will have more energy to act on the ideas. GIT- thus it should not be given in an empty stomach SD- delays ejaculation. This mechanism is used for its prescription in patients with premature ejaculation ANXIETY INSOMNIA Ref. kaplon and sadock, synopsis of psychiatry, 11 th edition, pg no. 955",
         "cop": 4,
@@ -713,19 +518,6 @@
         "topic_name": "Pharmacotherapy in psychiatry",
         "id": "f3dae4a5-90c3-42c8-acda-715a85764419",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are therapeutic effect for which cannabinoids are commonly used except?",
-        "exp": "Ans. D. Weight loss. Tetrahydrocannabinol (THC) has been shown to stimulate appetite and assist with weight gain (not weight loss) in AIDS patients in short-term trials. When cannabinoids and cannabis are advocated for medical uses, it is primarily to relieve symptoms rather than to cure underlying diseases. The conditions for which cannabis is most commonly advocated are for symptomatic relief of nausea and vomiting caused by cancer chemotherapy, appetite loss in AIDS, and muscle spasticity and chronic pain in neurological disorders. Cannabis and THC have also been documented to reduce intraocular pressure by 25 percent, a therapeutic effect that may be useful in the treatment of glaucoma.",
-        "cop": 4,
-        "opa": "Decreased intraocular pressure",
-        "opb": "Reduced muscle spasticity",
-        "opc": "Relief of nausea and vomiting",
-        "opd": "Weight loss",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "0a32f515-b424-4d52-a95f-4c991654ae5b",
-        "choice_type": "multi"
     },
     {
         "question": "which of the following antidepressent causes paraesthesis due to pyridoxine deficiency",
@@ -752,84 +544,6 @@
         "topic_name": "Pharmacotherapy in psychiatry",
         "id": "8382bd2c-e6ed-4aa8-81d3-60bb0a1cf51c",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is true regarding treatment of tremors?",
-        "exp": "Ans. A. Diazepam is helpful in reducing. Explanation. Diazepam is used to treat alcohol withdrawal tremors. In Parkinsonism slow resting tremors 3-6 Hz are seen. Treatment of parkinsonism is with: Anticholinergic drugs like trihexiphenidyl, Benztropine, amantadine and selegiline. Dopamine agonist like Pramipexole, Ropinirole, Pergolide. Levodopa. Beta blockers are used for treatment of tremors in performance anxiety.",
-        "cop": 1,
-        "opa": "Diazepam is helpful in reducing",
-        "opb": "Haloperidol is used to reduce tremors in parkinsonism",
-        "opc": "Phenytoin induced tremors are cured after withdrawal",
-        "opd": "Commonly seen with beta blockers",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "8cdddd78-3310-4e4f-bd97-be2402e87822",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Symptoms of Neuroleptic Malignant Syndrome (NMS) are all of the following except?",
-        "exp": "Ans. B. Hypothermia. Neuroleptic malignant syndrome (NMS): Levenson clinical criteria. Major: Fever, rigidity, elevated creatinine phosphokinase. Minor: Tachycardia, abnormal arterial pressure, tachycardia, altered consciousness, diaphoresis, leukocytosis",
-        "cop": 2,
-        "opa": "Confusion",
-        "opb": "Hypothermia",
-        "opc": "Diaphoresis",
-        "opd": "Hypertension",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "13cb9a18-4a17-4f15-a487-8becdc2effc2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following drugs have abuse liability except",
-        "exp": "The answer for this question can be easily understood by just having an idea about the outline of pharmacology Among the choices fluoxetine is an antidepressant used in the management of depression and it has no abuse potential Ref. Kaplon and sadock, synopsis of psychiatry, 11 th edition, pg no. 1013",
-        "cop": 4,
-        "opa": "Alprazolam",
-        "opb": "Buprenorphine",
-        "opc": "Dextropropoxyphene",
-        "opd": "Fluoxetine",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy in psychiatry",
-        "id": "7418101e-4d23-4944-b936-6a8219cb71f9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "which of the following antidepressent is called as zyban",
-        "exp": "NDRI * IMPOANCE Anti-depressant which does not deal with serotonin neurotransmission Also called as Zyban * MECHANISM Prevents reuptake of nor adrenaline and dopamine * DRUGS Bupropion * USE ADHD SMOKING CESSATION HYPOACTIVE SEXUAL DESIRE DISORDER * SIDE EFFECTS seizures Ref. kaplon and sadock, synopsis ofpsychiatry, 11 th edition, pg no. 955",
-        "cop": 2,
-        "opa": "amitriptilline",
-        "opb": "bupropion",
-        "opc": "fluoxetine",
-        "opd": "miazapine",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy in psychiatry",
-        "id": "aed72f38-331b-4e38-93b1-24895b679acd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following SSRIs can affect the blood levels of other drugs Except",
-        "exp": "Fluoxetine and paroxetine are potent inhibitors of the CYP2. D6 isoenzyme, and this contributes to potential drug interactions. In contrast, fluvoxamine is an inhibitor of CYP3. A4, whereas citalopram, escitalopram, and seraline have more modest CYP interactions Reference: Katzung Pharmacology 13th edition pg: 528",
-        "cop": 1,
-        "opa": "Seraline",
-        "opb": "Fluoxetine",
-        "opc": "Fluvoxamine",
-        "opd": "Paroxetine",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy in psychiatry",
-        "id": "12ca87e6-2afc-4651-a05f-fdaec3927315",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statements is true regarding transcranial magnetic stimulation (TMS)?",
-        "exp": "Ans. D. All of the above. TMS has been developed as a way to stimulate the CNS noninvasively by application of a focal magnetic field over regions of the cortex. Refinements of magnetic stimulators, including the development of stimulators capable of discharging at frequencies up to 60. Hz (referred to as rapid-rate TMS ) have allowed focal stimulation of the CNS to estimate motor thresholds and determine hemispheric language dominance. r. TMS was found to benefit some patients with Parkinson's disease, and some patients with Parkinson's disease exhibited improved mood after r. TMS. Additionally, subjects exposed to r. TMS for purposes of determining hemispheric language dominance exhibited affective responses after stimulation of the left frontal cortex. These observations suggest that r. TMS may have therapeutic potential in psychiatry and may allow focal stimulation of areas most involved in affective states. In one of the best studies to date, left dorsolateral prefrontal cortex stimulation significantly improved depression ratings in 11 of 17 patients with psychotic major depression. r. TMS appears to be well tolerated and does not require general anesthesia. Seizures may be a side effect in some patients but do not appear to be required for therapeutic effects. TMS is performed using a high-speed magnetic stimulator that generates a 1. 5- to 2. 5-Tesla field for brief periods. This field is similar to that used for nuclear magnetic resonance imaging. r. TMS stimulus is delivered at frequencies of 10to60. Hz using a figure 8-shaped coil that is placed over the desired region of the skull and cooled continuously with water to prevent overheating. Patients and staff usually wear earplugs because of the noise generated by the stimulator. Stimulation is typically given several times per session and is repeated over several days to weeks.",
-        "cop": 4,
-        "opa": "Does not require general anesthesia.",
-        "opb": "Seizures not required for therapeutic effects.",
-        "opc": "Non-invasive CNS stimulant.",
-        "opd": "All of the above",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "4c53bbde-908c-45e2-8fce-69a128017fac",
-        "choice_type": "multi"
     },
     {
         "question": "Which of following is mood stabilizing drug?",
@@ -949,19 +663,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs can be used for the treatment for cessation of smoking except:",
-        "exp": "Ans. B. Amitriptyline. Nicotine replacement therapy (NRT): Five medications have been approved by the U. S. Food and Drug Administration (FDA) deliver nicotine in a form that does not involve the risks of smoking: transdermal nicotine patches, nicotine gum, nicotine lozenges, nicotine spray, and nicotine inhalers. NRTs are meant to be used for a short period of time and should be tapered down to a low dose before stopping. NRTs increase the chance of stopping smoking by 50to60% compared to placebo or to no treatment. There is no side effects reported other than local slight irritation and rarely non-ischemic chest pain. Antidepressants: The antidepressant bupropion is considered a first-line medication for smoking cessation and has been shown in many studies to increase long-term success rates. People who take bupropion should be monitored for any unusual mood changes; bupropion also increases risk of seizures and should not be used in people with a seizure disorder. Varenicline decreases the urge to smoke and reduces withdrawal symptoms and is therefore considered a first-line medication for smoking cessation. A 2016 Cochrane review of 27 studies also found that the number of people stopping smoking with varenicline was higher than with bupropion or NRT. Varenicline more than doubled the chances of quitting compared to placebo and was also as effective as combining two types of NRT.",
-        "cop": 2,
-        "opa": "Nicotine gum",
-        "opb": "Amitriptyline",
-        "opc": "Bupropion",
-        "opd": "Varenicline",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "06c6e03f-7791-4681-b8d2-916d67763256",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 30-year-old man who was recently staed on haloperidol 30mg/day developed hyperpyrexia, muscle rigidity, akinesia, mutism, sweating, tachycardia and increased blood pressure. The investigations showed increased WBC count, increased creatinine phosphokinase. There is no history of any other drug intake or any sign of infection. The most likely diagnosis",
         "exp": "Neuroleptic Malignant Syndrome (Fever, EPS, High CPK, catatonic symptoms and autonomic dysfunction) Maximum with probably haloperidol (antipsychotic) Management: Bromocriptine, Dantrolene, Baclofen, General suppoive care. Add-on lorazepam, Occasionally ECT Ref: A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 179",
         "cop": 2,
@@ -1001,19 +702,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Elderly persons taking antipsychotics are especially susceptible to all of the following side effects except?",
-        "exp": "Ans. B. Paresthesias. Paresthesias, which are spontaneous tingling sensations, are not typically a side effect of antipsychotics. Elderly persons, particularly if they have organic brain disease, are especially susceptible to the side effects of antipsychotics, which include dry mouth, tardive dyskinesia, akathisia, and a toxic confusional state. Tardive dyskinesia is characterized by disfiguring and involuntary buccal and lingual masticatory movements; akathisia is a restlessness marked by a compelling need for constant motion. Choreiform body movements, which are spasmodic and involuntary movements of the limbs and the face, and rhythmic extension and flexion movements of the fingers may also be noticeable. Examination of the patient's protruded tongue for fine tremors and vermicular (worm-like) movements is a useful diagnostic procedure. A toxic confusional state, also called a central anticholinergic syndrome, is characterized by a marked disturbance in short-term memory, impaired attention, disorientation, anxiety, visual and auditory hallucinations, increased psychotic thinking, and peripheral anticholinergic side effects.",
-        "cop": 2,
-        "opa": "Tardive dyskinesia",
-        "opb": "Paresthesias",
-        "opc": "Dry mouth",
-        "opd": "Akathisia",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "e851e3af-d258-489c-a535-07b9205f9ed7",
-        "choice_type": "multi"
-    },
-    {
         "question": "which of the following is a Na. SSa",
         "exp": "Na. SSA * IMPOANCE Nor adrenergic and specific serotonergic antidepressant * MECHANISM * Alpha 2 adrenergic receptor antagonism=== increase serotonin and NA * 5. HT2, 3 antagonist============increase sleep and appetite * DRUGS miazapine * USE Elderly with depression * SIDE EFFECTS hyperlipidemia ref. kaplon and sadock, synopsis of psychiatry, 11 th edition, pg no. 955",
         "cop": 1,
@@ -1025,19 +713,6 @@
         "topic_name": "Pharmacotherapy in psychiatry",
         "id": "9ab095cb-17cb-4483-91cf-a454db77eee0",
         "choice_type": "single"
-    },
-    {
-        "question": "The Halstead Reitan battery test involves all except",
-        "exp": "Halstead reitan battery is a type of neuropsychological assessment. It helps in assessment of general cognitive functions. it comprises a lot of components like finger ossicillation, rhythm and tactal performance. Constructional apraxia is used in MMSE, Mini Mental State Examination used in Flostein Ref. Kaplon and sadock, synopsis of psychiatry, 11 th edition, pg no. 241",
-        "cop": 3,
-        "opa": "Finger oscillation",
-        "opb": "Rhythm",
-        "opc": "Constructional praxias",
-        "opd": "Tactual performance",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy in psychiatry",
-        "id": "f0c072dd-fa2a-4460-8f8a-4ce8558520a5",
-        "choice_type": "multi"
     },
     {
         "question": "which of the following drug causes diastolic hypertension as side effect",
@@ -1259,18 +934,5 @@
         "topic_name": "Pharmacotherapy in psychiatry",
         "id": "415f223c-c54c-4ee0-87bd-4dbcefe19c8e",
         "choice_type": "single"
-    },
-    {
-        "question": "b-adrenergic receptor antagonists such as propranolol is used in the treatment of which of the following?",
-        "exp": "Ans. D. All of the above. Indications for b-adrenergic receptor antagonists are lithium tremor, major depressive disorders, substance use disorders, performance anxiety, and neuroleptic-induced akathisia. The five b-adrenergic receptor antagonists most frequently studied for psychiatric applications are propranolol, metoprolol, atenolol, and pindolol. Propranolol is the most commonly used b-adrenergic receptor antagonist and is not known to exert a teratogenic effect in humans.",
-        "cop": 4,
-        "opa": "Performance anxiety",
-        "opb": "Substance use disorders",
-        "opc": "Lithium tremor",
-        "opd": "All of the above",
-        "subject_name": "Psychiatry",
-        "topic_name": "Pharmacotherapy In Psychiatry",
-        "id": "36a3db30-9929-450f-9251-354b72deb0c2",
-        "choice_type": "multi"
     }
 ]

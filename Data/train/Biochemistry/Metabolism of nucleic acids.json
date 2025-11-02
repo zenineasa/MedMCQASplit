@@ -39,32 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about nucleosome",
-        "exp": "In biology, histones are highly alkaline proteins found in eukaryotic cell nuclei that package and order the DNA into structural units called nucleosomes. They are the chief protein components of chromatin, acting as spools around which DNA winds, and playing a role in gene regulation. Without histones, the unwound DNA in chromosomes would be very long (a length to width ratio of more than 10 million to 1 in human DNA). For example, each human diploid cell (containing 23 pairs of chromosomes) has about 1. 8 meters of DNA, but wound on the histones it has about 90 micrometers (0. 09 mm) of chromatin, which, when duplicated and condensed during mitosis, resulting in about 120 micrometers of chromosomes",
-        "cop": 3,
-        "opa": "Use only one type of histone protein",
-        "opb": "Each complex is separated from each other by non histone proteins",
-        "opc": "Regular repeating structure of DNA & histone proteins",
-        "opd": "Reflect small nucleus",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "c097ad16-73b2-420c-8ead-ed9e90bfec34",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Glycine is useful in all of the following except",
-        "exp": "Spermine is a type of polyamine. This is aliphatic amine and it is synthesized from ornithine. Key enzyme is ornithine decarboxylase. REFERENCE: DM. VASUDEVAN. TEXTBOOK; SEVENTH EDITION; PAGE NO: 229",
-        "cop": 3,
-        "opa": "Purine synthesis",
-        "opb": "Creatine synthesis",
-        "opc": "Spermine synthesis",
-        "opd": "Heme synthesis",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "ade9c091-52c0-4ec8-9e67-a47cd8cf7b53",
-        "choice_type": "multi"
-    },
-    {
         "question": "Deficiency of purine nucleoside phosphorylase causes",
         "exp": "A combined T cell and B cell immunodeficiency that is a rare autosomal recessive metabolic disorder that has material basis in mutation in the PNP gene and characterized mainly by decreased T-cell function. Ref-Sathyanarayana 4/e",
         "cop": 2,
@@ -76,19 +50,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "8569215f-996c-4919-8070-f7bcd5fdbe16",
         "choice_type": "single"
-    },
-    {
-        "question": "Nucleosome consist of",
-        "exp": "A nucleosome is a basic unit of DNA packaging in eukaryotes, consisting of a segment of DNA wound in sequence around eight histone protein cores. This structure is often compared to thread wrapped around a spool. Nucleosomes form the fundamental repeating units of eukaryotic chromatin, which is used to pack the large eukaryotic genomes into the nucleus while still ensuring appropriate access to it (in mammalian cells approximately 2 m of linear DNA have to be packed into a nucleus of roughly 10 um diameter). Nucleosomes are folded through a series of successively higher order structures to eventually form a chromosome; this both compacts DNA and creates an added layer of regulatory control, which ensures correct gene expression. Nucleosomes are thought to carry epigenetically inherited information in the form of covalent modifications of their core histones.",
-        "cop": 1,
-        "opa": "Histone",
-        "opb": "DNA",
-        "opc": "RNA",
-        "opd": "DNA & RNA both",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "ce847bdd-59d2-4e49-87d5-0ecfa4095abe",
-        "choice_type": "multi"
     },
     {
         "question": "Splicing is a process of",
@@ -104,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In PCR, DNA polymerase is used in",
-        "exp": "All PCR applications employ a heat-stable DNA polymerase, such as Taq polymerase (an enzyme originally isolated from the bacterium Thermus aquatics). This DNA polymerase enzymatically assembles a new DNA strand from DNA building blocks, the nucleotides, by using single-stranded DNA as a template and DNA oligonucleotides (also called DNA primers), which are required for initiation of DNA synthesis.",
-        "cop": 3,
-        "opa": "DNA replication",
-        "opb": "DNA Elongation",
-        "opc": "DNA Mulitiplication",
-        "opd": "All",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "d37d68b2-301a-407a-b495-fb37c94e2254",
-        "choice_type": "multi"
-    },
-    {
         "question": "Non-coding RNAs are",
         "exp": "A non-coding RNA (nc. RNA) is a functional RNA molecule that is transcribed from DNA but not translated into proteins. Epigenetic related nc. RNAs include mi. RNA, si. RNA, pi. RNA, and lnc. RNA. In general, nc. RNAs function to regulate gene expression at the transcriptional and post-transcriptional level.",
         "cop": 1,
@@ -128,45 +76,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "a23d6bed-8155-46ef-916b-10886fc17537",
         "choice_type": "single"
-    },
-    {
-        "question": "Urea cycle components are all except",
-        "exp": "l-Ornithine transcarbamoylase (EC 2. 1. 3. 3) catalyzes transfer of the carbamoyl group of carbamoyl phosphate to ornithine, forming citrulline and ohophosphate. Argininosuccinate synthase (EC 6. 3. 4. 5) links aspaate and citrulline the amino group of aspaate (reaction 3, Figure 28-16) and provides the second nitrogen of urea Hydrolytic cleavage of the guanidino group of arginine, catalyzed by liver arginase (EC 3. 5. 3. 1), releases urea. Urease is not involved in the urea cycle. Ref: Harpers Illustrated Biochemistry, 30th edition, page no: 294",
-        "cop": 1,
-        "opa": "Urease",
-        "opb": "Arginase",
-        "opc": "Transcarbamoylase",
-        "opd": "Arginosuccinase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "52d710ed-b3db-4e56-8c43-e8ef28cb627b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "RNA which contains codon for specific amino acid",
-        "exp": "Amonng the different species of RNAs, it is only m. RNAs that are linearly related to DNA and to polypeptide chain as an intermediary. It is this species of RNA that carries encoded message from the master molecule in the form of codons. It is these molecules that translate by decoding the information into polypeptide chains. It is ultimately the protein, having a unique structural and functional propeies determine the structure and function of the cell that is why proteins are deemed to be molecular demy-gods. Proteins are the quintessence of the gene function at molecular level. Here the triple or tripaite relationship, between linear DNA, linear m. RNA and linear polypeptide chain (in the form of nucleotides sequence and amino acid sequence respectively), is referred to as co-linearity. Two impoant functions that occur between the gene and the polypeptide chain, they are transcription and translation, which are separated in space and time. Ref-Harpers illustrated biochemistry 30/e p589",
-        "cop": 3,
-        "opa": "t. RNA",
-        "opb": "r. RNA",
-        "opc": "m. RNA",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "1525e1bf-2a57-4c4a-a5a9-83bb150b1a10",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about DNA structure",
-        "exp": "Deoxyribonucleic acid (DNA) stores information for the synthesis of specific proteins. DNA has deoxyribose as its sugar. DNA consists of a phosphate group, a sugar, and a nitrogenous base. The structure of DNA is a helical, double-stranded macromolecule with bases projecting into the interior of the molecule. These two strands are always complementary in sequence. One strand serves as a template for the formation of the other during DNA replication, a major source of inheritance. This unique feature of DNA provides a mechanism for the continuity of life. The structure of DNA was found by Rosalind Franklin when she used x-ray crystallography to study the genetic material. The x-ray photo she obtained revealed the physical structure of DNA as a helix. DNA has a double helix structure. The outer edges are formed by alternating deoxyribose sugar molecules and phosphate groups, which make up the sugar-phosphate backbone. The two strands run in opposite directions, one going in a 3' to 5' direction and the other going in a 5' to 3' direction. The nitrogenous bases are positioned inside the helix structure like \"rungs on a ladder, \" due to the hydrophobic effect, and stabilized by hydrogen bonding.",
-        "cop": 3,
-        "opa": "Purines are adenine and guanine & pyrimidines are uracil and cytosine",
-        "opb": "Waston and Crick discovered structure in 1973",
-        "opc": "Deoxyribose - phosphate backbone with bases stacked inside",
-        "opd": "Mainly consists of left handed helix",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "cecfbe5e-53ac-4425-ace0-b9e6888ec441",
-        "choice_type": "multi"
     },
     {
         "question": "7-Methyl guanosine cap is present in",
@@ -193,32 +102,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "e119d536-dfe4-42de-bcc0-19dc904c2d06",
         "choice_type": "single"
-    },
-    {
-        "question": "Pyrimidine overproduction results in all except",
-        "exp": "Defective enzyme of pyrimidine metabolism Signs and symptoms Dihydropyrimidine dehydrogenase Can develop toxicity to 5-fluorouracil, also a substrate for this dehydrogenase Orotate phosphoribosyl transferase and orotidylic acid decarboxylase Orotic acid aciduria type 1, megaloblastic anemia Orotidylic acid decarboxylase Orotic acid aciduria type 2 Pyrimidine overproduction is not the causal factor in Reye's syndrome. Reye's syndrome results in secondary pyrimidine overproduction. Reference: Harpers illustrated biochemistry 30th edition",
-        "cop": 1,
-        "opa": "Hyperuricemia",
-        "opb": "Reye syndrome",
-        "opc": "orotic aciduria",
-        "opd": "Megaloblastic anemia",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "cfacb602-e63d-455a-8c59-94254816cbce",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about chaperones except",
-        "exp": "chaperones are proteins that assist the covalent folding or unfolding and the assembly or disassembly of other macromolecular structures. Chaperones are present when the macromolecules perform their normal biological functions and have correctly completed the processes of folding and/or assembly. The chaperones are concerned primarily with protein folding. The first protein to be called a chaperone assists the assembly of nucleosomes from folded histones and DNA and such assembly chaperones, especially in the nucleus, are concerned with the assembly of folded subunits into oligomeric structures Ref-Sathyanarayana 4/e p387",
-        "cop": 2,
-        "opa": "Cause folding of proteins",
-        "opb": "Are lipid in nature",
-        "opc": "May have ATPase activity",
-        "opd": "Include heat shock proteins",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "a3030f62-fce5-4ba5-ab7f-beff8dd6b542",
-        "choice_type": "multi"
     },
     {
         "question": "Number of t-RNA present in cells is",
@@ -284,58 +167,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "e542fbf2-ed4f-4ab7-9740-b0c5d790c522",
         "choice_type": "single"
-    },
-    {
-        "question": "Methods of fusing two cells in genetic recombination technique include all of the following techniques, except",
-        "exp": "Ref: <a href=\"",
-        "cop": 4,
-        "opa": "Fusion mediated by Ethylene Glycol",
-        "opb": "Fusion mediated by by Electric current",
-        "opc": "Fusion mediated by viral transformation",
-        "opd": "Fusion Mediated by altering membrane viscocity",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "b2fe0d72-a8c4-4054-9cba-68489dcdf1a4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Study of multiplication of proteins in disease process is called",
-        "exp": "Genomics is the branch of molecular biology concerned with the structure, function, evolution, and mapping of genomes. Glycomics is the comprehensive study of glycomes (the entire complement of sugars, whether free or present in more complex molecules of an organism), including genetic, physiologic, pathologic, and other aspects",
-        "cop": 1,
-        "opa": "Proteomics",
-        "opb": "Genomics",
-        "opc": "Glycomics",
-        "opd": "Nucleomics",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "aa9ca47c-703d-470d-b30a-2e04bc4a4365",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Urea is synthesized in all except",
-        "exp": "The ammonia from all over the body thus reaches liver. It is then detoxified to urea by liver cells, and then excreted thougth kidneys. Urea is the end product of protein metabolism. Since mammals including humanbeings excrete amino nitrogen mainly as urea, they are referred to as ureotolic. Although, ammonia is toxic and has to be immediately detoxified, in kidney cells, ammonia generated on purposefrom glutamine with the help of glutaminase. REF: DM VASUDEVAN TEXTBOOK; 7th EDITION; Page no: 203",
-        "cop": 3,
-        "opa": "Liver",
-        "opb": "Kidney",
-        "opc": "Brain",
-        "opd": "Spleen",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "1b85c30c-9f01-4686-9a4b-00e9bfe421f1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about DNA reconstruction technology",
-        "exp": "DNA phenotyping (fee-no-type-ing) is the process of predicting an organism's phenotype using only genetic information collected from genotyping or DNA sequencing. This term, also known as molecular photofitting, is primarily used to refer to the prediction of a person's physical appearance and/or biogeographic ancestry for forensic purposes. DNA phenotyping uses many of the same scientific methods as those being used for genetically-informed personalized medicine, in which drug responsiveness (pharmacogenomics) and medical outcomes are predicted from a patient's genetic information. Significant genetic variants associated with a paicular trait are discovered using a genome-wide association study (GWAS) approach, in which hundreds of thousands or millions of single-nucleotide polymorphisms (SNPs) are tested for their association with each trait of interest. Predictive modeling is then used to build a mathematical model for making trait predictions about new subjects. Ref: https://en. wikipedia. org/wiki/DNA_phenotyping",
-        "cop": 1,
-        "opa": "Restriction endonucleases are involved",
-        "opb": "DNA ligase is used",
-        "opc": "Acid phosphatase is used",
-        "opd": "Reverse transcriptase needed",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "e4d6faec-a13d-4a4c-96bf-88267b021fcc",
-        "choice_type": "multi"
     },
     {
         "question": "Reverse transcription involves",
@@ -494,32 +325,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Patients with mutations leading to defective beta-oxidation of fatty acid usually have hypoglycemia because of",
-        "exp": "Acetyl-coenzyme A or acetyl-CoA is an impoant molecule that paicipates in many biochemical reactions in protein, carbohydrate, and lipid metabolism. Its main function is to deliver the acetyl group to the citric acid cycle (Krebs cycle) to be oxidized for energy production. Ref-Sathyanarayana 4/e p399",
-        "cop": 2,
-        "opa": "Less ATP for gluconeogenesis",
-        "opb": "Less acetyl CoA for glucose formation",
-        "opc": "Increased fatty acids decrease glucose utilization",
-        "opd": "Fatty acids inhibit transpo of glucose for metabolism",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "85639209-fe32-4d8a-ad1d-a6080e3ef8f1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are features of Genetic Code except",
-        "exp": "Features of the Genetic Code. Degenerate. Unambiguous. Nonoverlapping. Not punctuated. Universal. Ref: Harper&; s Biochemistry; 30th edition; Chapter 37; Protein Synthesis & the Genetic Code",
-        "cop": 3,
-        "opa": "Degenerate",
-        "opb": "Unambiguous",
-        "opc": "Overlapping",
-        "opd": "Universal",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "d3134c43-7d5d-4177-a471-e38414c72adc",
-        "choice_type": "multi"
-    },
-    {
         "question": "New DNA synthesis occurs in",
         "exp": "During this phase, the cell copies its DNA in preparation for mitosis. There are three stages of interphase. G1 (Gap 1), in which the cell grows and functions normally. During this time, a high amount of protein synthesis occurs and the cell grows. Synthesis (S), in which the cell duplicates its DNA ( semi-conservative replication). G2 (Gap 2), in which the cell resumes its growth in preparation for division. Ref: DM Vasudevan, 7th edition, page no: 582",
         "cop": 4,
@@ -533,32 +338,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Nitrogen atoms in purines are derived from all except",
-        "exp": "The N atoms at positions 3 and 9 are derived from the amide nitrogen glutamine Ref-Sathyanarayana 4/e",
-        "cop": 3,
-        "opa": "Aspaate",
-        "opb": "Glutamine",
-        "opc": "THF",
-        "opd": "Glycine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "1d29b73b-c615-4a0f-9a26-3e10f2f0bf05",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Rate limiting step in urea cycle is",
-        "exp": "UREA CYCLE: STEP 1: One molecule of ammonia condenses with CO2 in presence of two molecules of ATP to form carbamoyl phosphate. It is the rate limiting step in urea formation. STEP 2: Formation of Citrulline: The carbamoyl group is transferred to the NH2 group of ornithine by ornithine transcarbamoylase. STEP 3: Formation of ARGININOSUCCINATE One molecule of aspaic acid adds to citrulline forming a carbon to nitrogen bond, which provides the 2nd nitrogen atom of urea. Argininosuccinate synthetase catalyzes the reaction. STEP 4: Formation of Arginine Argininosuccinate is cleaved by argininosuccinate lyase to arginine and fumarate. STEP 5: Formation of Urea. The finsl reaction of the cycle is the hydrolysis of argine to urea and ornithine by arginase REF: DM VASUDEVAN TEXTBOOK: EIGHTH EDITION, Page no: 258 & 259. more details",
-        "cop": 3,
-        "opa": "Arginase",
-        "opb": "Arginosuccinase",
-        "opc": "Carbomyl-phosphate synthase",
-        "opd": "Ornithine transcarbamylase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "23fe0a25-c07f-44aa-8865-0535d87b84e0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Number of structural genes in Lac operon is",
         "exp": "The structural gene for b-galactosidase (lacZ) is clustered with the genes responsible for the permeation of lactose into the cell (lacY) and for thiogalactoside transacetylase (lacA). The structural genes for these three enzymes, along with the lac promoter and lac operator (a regulatory region), are physically associated to constitute the lac operon. Ref: Harper 27e, page: 430",
         "cop": 1,
@@ -570,19 +349,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "101a4c93-e47f-4e5a-8f8a-17645212d0fe",
         "choice_type": "single"
-    },
-    {
-        "question": "Which statements are true about E. coli chromosomal DNA in relation with eukaryotic chromosomal DNA?",
-        "exp": "A circular bacterial chromosome is a bacterial chromosome in the form of a molecule of circular DNA. Unlike the linear DNA of most eukaryotes, typical bacterial chromosomes are circular. Most bacterial chromosomes contain a circular DNA molecule - there are no free ends to the DNA. Free ends would otherwise create significant challenges to cells with respect to DNA replication and stability. Cells that do contain chromosomes with DNA ends, or telomeres (most eukaryotes), have acquired elaborate mechanisms to overcome these challenges. However, a circular chromosome can provide other challenges for cells. After replication, the two progeny circular chromosomes can sometimes remain interlinked or tangled, and they must be resolved so that each cell inherits one complete copy of the chromosome during cell division.",
-        "cop": 1,
-        "opa": "Circular",
-        "opb": "Packed into nucleolus",
-        "opc": "Positively supercoiled",
-        "opd": "Negatively sepercoiled",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "84d10210-b77e-41c1-8899-d0f72ec102ba",
-        "choice_type": "multi"
     },
     {
         "question": "The relationship between sulphonamide and PABA is",
@@ -609,19 +375,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "7d4ee813-b867-4fe9-a47f-a6e1acb3edfd",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following abbretions are true except",
-        "exp": "TMP stands for thymidine monophosphate. Ref: DM Vasudevan, 7th edition, page no: 560",
-        "cop": 4,
-        "opa": "AMP - Adenosine monophosphate",
-        "opb": "CMP - Cutidine monophosphate",
-        "opc": "GMP - Guanosine monophosphate",
-        "opd": "TMP - Thymine monophosphate",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "ab8ac386-0ad4-4c03-b821-44e2316353b0",
-        "choice_type": "multi"
     },
     {
         "question": "Unwinding of DNA is done by",
@@ -676,19 +429,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A three and half-year-old male child, who presented with characteristic self-mutilating behavior. He had history of developmental delay, difficulty in social interaction, attention deficit and features of autism. His serum blood biochemistry was normal except for low hemoglobin levels and raised serum uric acid levels. Which of the following enzyme is deficient?",
-        "exp": "The above features suggests diagnosis of Lesch-Nyhan syndrome is X-linked recessive disorder associated with a viually complete deficiency of Hypoxanthine-guanine phosphoribosyltransferase (HGP). This deficiency results in an inability to salvage hypoxanthine or guanine, from which excessive amounts of uric acid, the end product of purine degradation, are produced. It also causes increased PRPP levels and decreased IMP and GMP levels. Clinical features: Intellectual disability Self-mutilation Aggression Hyperuricemia Gout Treatment: Allopurinol Febuxost Reference: Harpers illustrated biochemistry 30th edition",
-        "cop": 3,
-        "opa": "Adenosine kinase",
-        "opb": "AP",
-        "opc": "HGP",
-        "opd": "Adenosine deaminase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "7b475364-475b-4583-9618-94c1ca3455d6",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is involved in the formation of d-TMP from d-UMP?",
         "exp": "The following reaction is catalyzed by thymidylate synthetase: 5, 10-methylenetetrahydrofolate + d. UMP = dihydrofolate + d. TMPBy means of reductive methylation, deoxyuridine monophosphate (d. UMP) and N5, N10-methylene tetrahydrofolate together used to form d. TMP, yielding dihydrofolate as a secondary product.",
         "cop": 1,
@@ -702,19 +442,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following mechanism is associated with a covalent modification",
-        "exp": "Acetylation, ADP-ribosylation, methylation, and phosphorylation are all examples of \"reversible\" covalent modifications. This is very impoant pa of enzymatic regulation (EX: Phosphorylation-Dephosphorylation reactions) Harper 30th edition pg: 92",
-        "cop": 4,
-        "opa": "Reversible phosphorylation",
-        "opb": "Acetylation",
-        "opc": "ADP-ribosylation",
-        "opd": "All the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "c796c5d4-d43f-414a-81eb-2b6cde375716",
-        "choice_type": "multi"
-    },
-    {
         "question": "Southern blot is used for",
         "exp": "SOUTHERN BLOT: It is based on the specific base pairing propeies of complementary nucleic acid strands, this technique is based on DNA hybridization. DNA is isolated from the tissue. It is then fragmented by restiction endonucleases. The cut pieces are electrophoresed on agarose gel. Treatment with Na. OH denatures the DNA, so that the pieces become single stranded. This is then blotted over to a nitrocellulose membrane. The ss. DNA is adsorbed on the nitrocellulose membrane. An exact replica of the pattern in the gel is reproduced on the membrane. REF: DM VASUDEVAN TEXTBOOK; 8th edition; Page no: 609",
         "cop": 1,
@@ -726,58 +453,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "d18c0a1a-e3cf-423f-8f99-5bbc52a8c405",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following cell types contain the enzyme telemerase which protects the length of telomeres at the end of chromosomes, except",
-        "exp": "Telomerase, also called telomere terminal transferase, is an enzyme made of protein and RNA subunits that elongates chromosomes by adding TTAGGG sequences to the end of existing chromosomes. Telomerase is found in fetal tissues, adult germ cells, and also tumor cells. Telomerase activity is regulated during development and has a very low, almost undetectable activity in somatic (body) cells. Because these somatic cells do not regularly use telomerase, they age. The result of aging cells is an aging body. If telomerase is activated in a cell, the cell will continue to grow and divide. This \"immoal cell\" theory is impoant in two areas of research: aging and cancer.",
-        "cop": 2,
-        "opa": "Germinal",
-        "opb": "Somatic",
-        "opc": "Hemopoietic",
-        "opd": "Tumor",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "796addc5-e8c8-41a1-a56b-29166557bd1b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "RELP, True are",
-        "exp": "The basic technique for the detecting of RFLPs involves fragmenting a sample of DNA by a restriction enzyme, which can recognize and cut DNA wherever a specific sho sequence occurs, in a process known as a restriction digest. The resulting DNA fragments are then separated by length through a process known as agarose gel electrophoresis and transferred to a membrane the Southern blot procedure. Hybridization of the membrane to a labeled DNA probe then determines the length of the fragments which are complementary to the probe. An RFLP occurs when the length of a detected fragment varies between individuals. Each fragment length is considered an allele and can be used in genetic analysis. RFLP analysis may be subdivided into single- (SLP) and multi-locus probe (MLP) paradigms. Usually, the SLP method is preferred over MLP because it is more sensitive, easier to interpret and capable of analyzing mixed-DNA samples. Moreover, data can be generated even when the DNA is degraded (e. g. when it is found in bone remains.). Ref: https://en. wikipedia. org/wiki/Restriction_fragment_length_polymorphism",
-        "cop": 2,
-        "opa": "Endonuclease cuts DNA at nucleotide level",
-        "opb": "It acts at specific site",
-        "opc": "Only cohesive ends are produced",
-        "opd": "Only blunt ends are produced",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "e60a26ec-f6e3-4cd2-b619-0a4dfad3859b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Effect of ultraviolet radiation on DNA is formation of",
-        "exp": "UV light causes the formation of thymine dimers, where covalent bonds are formed between adjacent thymine residues. Since repair mechanism is not operating these mutations are accumulated, leading to cancer. Ref: DM Vasudevan, 7th edition, page no: 584",
-        "cop": 2,
-        "opa": "Purine dimers",
-        "opb": "Pyrimidine dimers",
-        "opc": "DNA-DNA cros linking",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "f9cbb739-e4ce-4be5-a850-1f1184b6db93",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Peptidyl transfer is a/an",
-        "exp": "Interestingly, some RNA molecules have intrinsic catalytic activity. The activity of these RNA enzymes, or ribozymes, often involves the cleavage of a nucleic acid. Two ribozymes are the peptidyl transferase that catalyzes peptide bond formation on the ribosome, and ribozymes involved in the RNA splicing. Ref: Harpers Illustrated Biochemistry, 30th edition, page no: 363",
-        "cop": 3,
-        "opa": "Termination factor",
-        "opb": "Elongation factor",
-        "opc": "Ribozyme",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "ec28ef2f-dfdd-478f-afec-682cd7b09a40",
-        "choice_type": "multi"
     },
     {
         "question": "The following is an example for unusual base",
@@ -806,19 +481,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about sickle cell disease are all, except",
-        "exp": "Sickle cell anemia ( hemoglobin S disease ): It is the most common of the red cell sicking diseases, is a genetic of the blood caused by a single nucleotide alteration in the beta-globin. A molecule of Hb S contains two normal alpha chains and two mutant beta-globin chains, in which glutamate at position six has been replaced with valine. Sickle cell anemia is a homozygous, recessive disorder. It is characterized by lifelong episodes of pain, chronic hemolytic anemia with associated hyperbilirubinemia and increased susceptibility to infection Heterozygotes contain both Hb S and Hb A. These individuals have sickle trait. They usually do not show clinical symptoms and can have normal lifespan. RFLP analysis: It is a diagnostic techniques for analyzing fetal DNA, rather than fetal blood, early detection of sickle cell anemia as well as other diseases. REF: Lippincott's textbook of biochemistry; 8th edition; Page no: 35, 36 and 477.",
-        "cop": 2,
-        "opa": "Single nucleotide change results in change of Glutamine to Valine",
-        "opb": "Sticky patch is generated as a result of replacement of a non polar residue with a polar residue",
-        "opc": "Hbs confers resistance against malaria in heterozygotes",
-        "opd": "RFLP results from a single base change",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "cc985233-c1d9-4b60-9bea-73bb87c63647",
-        "choice_type": "multi"
-    },
-    {
         "question": "The proteins present in Deoxyribonucleic acid is",
         "exp": "Histones are proteins containing unusually higher concentration of basic amino acid. Albumins and globulins are plasma proteins Protamines are small, arginine-rich, nuclear proteins that replace histones. Ref: DM Vasudevan, 7th edition, page no: 576, 578",
         "cop": 2,
@@ -832,19 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are require in protein synthesis except",
-        "exp": "Elongation process of Translation has three steps: Binding of amino acyl t. RNA to the A site. Peptide bond formation and Translocation of the ribosome on the m. RNA. REFERENCE: DM. VASUDEVAN. TEXTBOOK; SEVENTH EDITION; PAGE NO: 601",
-        "cop": 4,
-        "opa": "el F-1",
-        "opb": "m. RNA",
-        "opc": "Mg +2",
-        "opd": "Ca +2",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "522f9a09-1d78-48e0-896e-9b77aa39d87c",
-        "choice_type": "multi"
-    },
-    {
         "question": "A segment of a eukaryotic gene that is not represented in the mature m. RNA, known as",
         "exp": "The primary transcript are very long, they have molecular weights more than 10^7. The primary transcript contains coding regions -extrons and non-coding regions -introns. The introns sequence are cleaved and the exons are spliced to form mature m. RNA molecule. Ref: DM Vasudevan, 7th edition, page no: 591",
         "cop": 1,
@@ -856,32 +505,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "34e0aefe-8d42-4621-b5c5-e2848ca4a882",
         "choice_type": "single"
-    },
-    {
-        "question": "Nucleotide includes",
-        "exp": "Nucleotides are the phosphate esters of nucleosides. Base plus pentose sugar plus phosphoric acid is a nucleotide. REF: DM. VASUDEVAN. TEXTBOOK; SEVENTH EDITION; PAGE NO: 561",
-        "cop": 3,
-        "opa": "Base + sugar",
-        "opb": "Base + phosphate group",
-        "opc": "Base + sugar + phosphate group",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "2f9a12a3-4d7b-47b1-a36e-43ab965654b4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Histone in nucleosome core are all except",
-        "exp": "In addition to binding to the nucleosome, the H1 protein binds to the \"linker DNA\" (approximately 20-80 nucleotides in length) region between nucleosomes, helping stabilize the zig-zagged 30 nm chromatin fiber Ref-Harpers illustrated biochemistry 30/e p280",
-        "cop": 4,
-        "opa": "H2A",
-        "opb": "H2B",
-        "opc": "H3",
-        "opd": "H1",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "16b2da3d-da76-4f3d-ae80-aef81dda912b",
-        "choice_type": "multi"
     },
     {
         "question": "In karyotyping chromosomes are visualized through light microscope with resolution of",
@@ -1040,19 +663,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Degeneracy of codon is related to",
-        "exp": "Degeneracy results because there are more codons than encodable amino acids. For example, if there were two bases per codon, then only 16 amino acids could be coded for (42=16). Because at least 21 codes are required (20 amino acids plus stop) and the next largest number of bases is three, then 43 gives 64 possible codons, meaning that some degeneracy must exist Ref-Sathyanarayana 4/e p395",
-        "cop": 2,
-        "opa": "Transcription",
-        "opb": "Translation",
-        "opc": "Post-translation modification",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "58ccaa13-cc74-4f19-acc0-678e5c3f0497",
-        "choice_type": "multi"
-    },
-    {
         "question": "An 8 year-old girl in a developing country with significant corneal scarring and multiple cutaneous skin lesions in sun-exposed areas. Neuro-developmental delay had been present since 3 months of age. What is the probable diagnosis which is due to defective nucleotide excision repair?",
         "exp": "Xeroderma pigmentosum is an example of defective DNA nucleotide excision repair. There is an inability to repair DNA pyrimidine dimers caused by UV exposure. The following image shows an eight-year-old girl with Xeroderma pigmentosum. Frontal image of the face, showing large hyperkeratotic lesions with some induration suspicious of actinic keratosis and early squamous cell carcinoma. Also numerous hyper-pigmented lentigos and xerosis on the entire front of the face. Reference: Harpers illustrated biochemistry 30th edition",
         "cop": 2,
@@ -1131,19 +741,6 @@
         "choice_type": "single"
     },
     {
-        "question": "End product of purine metabolism in non-primate mammals is",
-        "exp": "Allantoin is a major metabolic intermediate in most organisms including animals, plants, and bacteria and is produced as a degradation product of purine nucleobases by urate oxidase (or uricase) from uric acid",
-        "cop": 4,
-        "opa": "Uric acid",
-        "opb": "Ammonia",
-        "opc": "Urea",
-        "opd": "Allantoin",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "af3179c9-f29d-49cd-8199-707ece3bb826",
-        "choice_type": "multi"
-    },
-    {
         "question": "DNA synthesis occurs during which phase of cell cycle",
         "exp": "The replication of the DNA genome occurs only at a specified time during the lifespan of the cell. This period is referred to as the synthetic or S phase. This is usually temporally separated from the mitotic, or M phase, by nonsynthetic periods referred to as gap 1 (G1) and gap 2 (G2) phases, occurring before and after the S phase, respectively Harper30e pg: 383",
         "cop": 3,
@@ -1168,45 +765,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "fa44993d-3094-432f-acee-a33063394d8c",
         "choice_type": "single"
-    },
-    {
-        "question": "Microsatellite sequence is",
-        "exp": "Microsatellite is a tract of repetitive DNA in which ceain DNA motifs(ranging in length from 2-5 base pairs) are repeated, typically 5-50 times. Microsatellites are a powerful tool in population genetics as a whole in pa due to their cost efficiency. They are widely used for DNA profiling Ref-Harpers illustrated biochemistry 30/e 673",
-        "cop": 3,
-        "opa": "Small satellite",
-        "opb": "Extra chromosomal DNA",
-        "opc": "Sho sequence (2-5) repeat DNA",
-        "opd": "Looped-DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "485cd9b4-c6c0-4b4d-9fbd-4d32a34c2722",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about gene library",
-        "exp": "A DNA library is a set of cloned fragments that collectively represent the genes of a paicular organism. Paicular genes can be isolated from DNA libraries, much as books can be obtained from conventional libraries. The secret is knowing where and how to look. There are two general types of gene library: a genomic library, which consists of the total chromosomal DNA of an organism; and a c. DNA library, which represents the m. RNA from a cell or tissue at a specific point of time.",
-        "cop": 4,
-        "opa": "Also known as chromosome",
-        "opb": "Library that contains books on gene",
-        "opc": "Computer base with all gene knowledge",
-        "opd": "DNA nucleotide or fragment",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "1d653da5-5e48-4b6b-b38a-da03c209e34e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about mitochondrial DNA",
-        "exp": "The protein synthesizing machinery of mitochondria is distinct from that in the cytoplasm. There are only about 22 t. RNA in mitochondria but there are 31 t. RNA species in cytoplasm The discovery of difference in codons representing different amino acids in mitochondria has now changed the universal nature of the genetic code For example, UGA is a terminator codon in nuclear DNA but codes for arginine in mitochondrial DNARef: DM Vasudevan, 7th edition, page no: 599",
-        "cop": 1,
-        "opa": "UGA codes for arginine",
-        "opb": "Codes for 13 protein",
-        "opc": "High content of untranslated sequence",
-        "opd": "Circular double stranded DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "f8ceb874-0d37-4534-97c3-d0f1e4440eb2",
-        "choice_type": "multi"
     },
     {
         "question": "In conversion of DNA to RNA, enzyme required",
@@ -1313,19 +871,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following bond is preserved during denaturation of proteins?",
-        "exp": "Primary structure, such as the sequence of amino acids held together by covalent peptide bonds, is not disrupted by denaturation. When a protein is denatured, secondary and teiary structures are altered but the peptide bonds of the primary structure between the amino acids are left intact. Since all structural levels of the protein determine its function, the protein can no longer perform its function once it has been denatured. This is in contrast to intrinsically unstructured proteins, which are unfolded in their native state, but still functionally active. Ref satyanarayana 4e",
-        "cop": 2,
-        "opa": "Hydrogen bond",
-        "opb": "Peptide bond",
-        "opc": "Ionic bond",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "e79365ed-32a5-4628-893d-a619a4a9098d",
-        "choice_type": "multi"
-    },
-    {
         "question": "RNA polymerase does not require",
         "exp": "RNA Polymerases Mammalian: RNAP type II or B is the main enzyme synthesizing m. RNAs. It is inhibited by alpha amanitin. Amanitin blocks the translocation of RNAPduring m. RNA synthesis. Sn. RNA and m. RNA are also synthesized by the same RNAP B. RNAP has two large and 12 smaller subunits. Phosphorylation activates RNAP II The templte strand is transcribed to give rise to m. RNA. BACTERIAL: Bacterial. RNAP enzyme contains two alpha, two beta subunits, one omega subunit and ine sigma factor and two zinc molecules. Beta subunit fixes at the initiation site. The sigma factor recognizes the promoter site and increases the affinity if the holoenzyme to the promoter site. REF: DM VASUDEVAN TEXTBOOK; 7th EDITION; Page no: 589",
         "cop": 2,
@@ -1337,19 +882,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "052dbeb5-ee37-42f8-a2f9-ee840e77e9a8",
         "choice_type": "single"
-    },
-    {
-        "question": "Transposons are",
-        "exp": "Transposons are segments of DNA that can move around to different positions in the genome of a single cell. In the process, they may cause mutations increase (or decrease) the amount of DNA in the genome of the cell, and if the cell is the precursor of a gamete, in the genomes of any descendants. These mobile segments of DNA are sometimes called \"jumping genes\". Ref-Sathyanarayana 4/e",
-        "cop": 1,
-        "opa": "Jumping genes",
-        "opb": "Cosmid",
-        "opc": "Episome",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "ac3adf94-6598-43c6-bc54-6f28ec009bfc",
-        "choice_type": "multi"
     },
     {
         "question": "Codons are present in",
@@ -1404,32 +936,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about polymerase chain reaction",
-        "exp": "New DNA strands are synthesized by Taq polymerize, this enzyme is derived from bacteria Thermus aquaticus, that are found in hot springs. Therefore enzyme is not denatured at high temperature The polymerize reaction is allowed to take place at 72*c for 30 seconds in the presence of d. NTPs. Ref: DM Vasudevan, 7th edition, page no: 638",
-        "cop": 1,
-        "opa": "Carried out by thermostable DNA polymerase",
-        "opb": "Exponential",
-        "opc": "Additive",
-        "opd": "Specific",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "39d7836f-4142-418b-874c-11c8a3d6029c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following functionally competent of largest unit of the ribosomes?",
-        "exp": "Ribosomes catalyze peptide bond formation between aminoacyl- t. RNA (aa-t. RNA)4 bound to the A site of the ribosome and peptidyl- t. RNA at the P site. The active site for peptide bond formation, the peptidyl transferase center, is located on the large (50 S) ribosomal subunit. High-resolution crystal structures of the 50 S subunit have revealed that the peptidyl transferase center is composed of RNA (23 S r. RNA), with no protein within 15 A of the active site (1, 2). This implies that peptide bond formation is catalyzed by RNA and, thus, the ribosome is a ribozyme.",
-        "cop": 3,
-        "opa": "t. RNA",
-        "opb": "m. RNA",
-        "opc": "Catalyze formation of the peptides",
-        "opd": "Formation of the polyribosomes",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "14ddebdd-8a47-4460-836d-37b23fdb97a4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following groups of proteins assist in the folding of other proteins?",
         "exp": "Chaperones are proteins that assist the covalent folding or unfolding and the assembly or disassembly of other macromolecular structures. Chaperones are present when the macromolecules perform their normal biological functions and have correctly completed the processes of folding and/or assembly. The chaperones are concerned primarily with protein folding",
         "cop": 4,
@@ -1441,19 +947,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "a8d7c195-c09f-4ccf-8b91-52dd2b6a38d0",
         "choice_type": "single"
-    },
-    {
-        "question": "True about genetic code",
-        "exp": "UGA is a stop codon, but in special circumstance, it stands for seleno-cysteine the codon AUG both codes for methionine and serves as an initiation site: the first AUG in a m. RNA&; s coding region is where translation into protein begins. Ref: DM Vasudevan, 7th edition, page no: 599",
-        "cop": 1,
-        "opa": "AUA codes for methionine in mitochondria",
-        "opb": "UGA codes for selenocysteine",
-        "opc": "AUG codes for initiator codon in mammalian cell",
-        "opd": "AGA & AGG act as chain terminator in mammalian",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "b725b939-8ae0-4146-a527-ff7a3f6bf90b",
-        "choice_type": "multi"
     },
     {
         "question": "In DNA, Cytosine is passed with",
@@ -1495,19 +988,6 @@
         "choice_type": "single"
     },
     {
-        "question": "RNA is present in",
-        "exp": "Ribonucleic acid, also known as RNA, is found almost exclusively in the cytoplasm of cells, although at times it can be created in the nucleus of the cell. Ref-Harpers illustrated biochemistry 30/e p583",
-        "cop": 4,
-        "opa": "Cytoplasm",
-        "opb": "Nucleus",
-        "opc": "Ribosome",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "60119ed6-9d42-4dc6-a271-f805ede0a4d9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Gene amplification is by",
         "exp": "PCR is an in-vitro DNA amplification procedure in which millions of copies of paicular sequence of DNA can be produced within a few hours. Ref: DM Vasudevan, 7th edition, page no: 638",
         "cop": 1,
@@ -1534,32 +1014,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following usually require a RNA intermediate for cloning/replication?",
-        "exp": "A transposable element (TE or transposon) is a DNA sequence that can change its position within a genome, sometimes creating or reversing mutations and altering the cell&; s genome size. Transposition often results in duplication of the TE. Barbara Mc. Clintock&; s discovery of these jumping genes earned her a Nobel Prize in 1983. Transposable elements make up a large fraction of the genome and are responsible for much of the mass of DNA in a eukaryotic cell. It has been shown that TEs are impoant in genome function and evolution. In Oxytricha, which has a unique genetic system, these elements play a critical role in development. Transposons are also very useful to researchers as a means to alter DNA inside a living organism. There are at least two classes of TEs: Class I TEs or retrotransposons generally function reverse transcription, while Class II TEs or DNA transposons encode the protein transposase, which they require for inseion and excision, and some of these TEs also encode other proteins. Ref: https://en. wikipedia. org/wiki/Transposable_element",
-        "cop": 1,
-        "opa": "Transposons",
-        "opb": "Plasmids",
-        "opc": "Phages",
-        "opd": "Cosmids",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "beb6b37b-3275-4d77-95d2-8419cfd4d02e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Defect Xeroderma pigmentosum includes",
-        "exp": "Question repeated",
-        "cop": 3,
-        "opa": "Mismatch repair",
-        "opb": "Base excision repair",
-        "opc": "Nucleotide excision repair",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "32512f9a-db5b-4f2b-95ed-928deb608426",
-        "choice_type": "multi"
-    },
-    {
         "question": "Codon does not have",
         "exp": "Twenty different amino acids are required for the synthesis of the cellular complement of proteins; thus, there must be at least 20 distinct codons that make up the genetic code. Since there are only four different nucleotides in m. RNA, each codon must consist of more than a single purine or pyrimidine nucleotide. Codons consisting of two nucleotides each could provide for only 16(42 )-distinct codons, whereas codons of three nucleotides could provide 64(43 )-specific codons. It is now known that each codon consists of a sequence of three nucleotides; that is, it is a triplet code. The terms first, second, and third nucleotide refer to the individual nucleotides of a triplet codon read 5'-3', left to right. A adenine nucleotide; C, cytosine nucleotide; G, guanine nucleotide; Term, chain terminator codon; U, uridine nucleotide. AUG, which codes for Met, serves as the initiator codon in mammalian cells and also encodes for internal methionines in a protein. Thus codon does not have thymine. Ref: Harpers Illustrated Biochemistry, 30th edition, page no: 414",
         "cop": 1,
@@ -1584,19 +1038,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "69373694-c60b-4ab3-9300-9ac207320913",
         "choice_type": "single"
-    },
-    {
-        "question": "For RNA, which blotting technique is used",
-        "exp": "Nohern Blotting for identifying RNA: The Nohern blot is used to demonstrate specific RNA. The total RNA is isolated from the cell, electrophoresed and then blotted on to a membrane. This is then probed with radioactive c. DNA. There will be RNA - DNA hybridization. This is used to detect the gene expression in a tissue. Ref: DM. VASUDEVAN. TEXTBOOK; SEVENTH EDITION; PAGE NO: 634.",
-        "cop": 2,
-        "opa": "Western blot",
-        "opb": "Nohern blot",
-        "opc": "Southern blot",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "05fe8f4a-e825-444e-978a-c79fffa52b2f",
-        "choice_type": "multi"
     },
     {
         "question": "Best radiolabelled marker for DNA replication is",
@@ -1677,32 +1118,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about DNA polymeare in eukaryotes",
-        "exp": "Alpha polymerise which synthesizes okazaki fragaments DNAP mainly responsible for the leading strnd synthesis DNAP beta is proofreading and repair enzyme. DNAP gamma concerend with mitochondrial DNA replication. Ref: DM Vasudevan, 7th edition, page no: 580",
-        "cop": 1,
-        "opa": "Components are a, b, TS, D, E",
-        "opb": "b associated with repair",
-        "opc": "TS associated with repair",
-        "opd": "D associated with synthesis of mitochondrial DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "d8cfb170-4145-4355-8b6a-aa09c615ea8d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about coding strand of DNA",
-        "exp": "DNA Replication: Origin of replication is identified. Then unwinding of parental DNA ro form a replication fork. RNA primer complementary to thw the DNA template is synthesized by RNA primase. DNA Synthesis is continuous in the leading strand by DNA polymerase. DNA synthesis is discontinuous in the lagging strand, as Okazaki fragments Elongation: In both strands, the synthesis is from 5' to 3' direction. Then the RNA p8eces are removed; the gaps filled by deoxynucletides by DNAP and the pieces are ligated by DNA polymerase. Finally organized into chromatin. Main enzymes involved in replocation are: DNA polymerase; helicase; topisomerases; DNA primase single strand binding proteins; and DNA ligase. REFERENCE: DM. VASUDEVAN. TEXTBOOK SEVENTH EDITION; PAGE NO 581",
-        "cop": 4,
-        "opa": "Minus stand",
-        "opb": "Template strand",
-        "opc": "Runs at 3'-5' direction",
-        "opd": "Runs at 5'-3' direction",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "3ff50412-5578-4181-8583-d70a81b9780e",
-        "choice_type": "multi"
-    },
-    {
         "question": "After digestion by restriction endonucleases, DNA strands can be joined again by",
         "exp": "In mammals, after many Okazaki fragments are generated, the replication complex begins to remove the RNA primers, to fill in the gaps left by their removal with the proper base-paired deoxynucleotide, and then to seal the fragments of newly synthesized DNA by enzymes referred to as DNA ligases. DNA ligase Seals the single strand nick between the nascent chain and Okazaki fragments on the lagging strand. Ref.: Harpers Illustrated Biochemistry; 30th edition; page no: 383",
         "cop": 2,
@@ -1727,19 +1142,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "5a83d0ba-78b7-46c6-a35d-a204fe663107",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following require 5' capping except?",
-        "exp": "t. RNA of Alanine does not require 5' capping. Capping process protects the 5' end of m. RNA from the action of exonucleases and polyadenylation protects the 3' end of the m. RNA. All m. RNA, sn. RNA, and si. RNA undergo this process, but t. RNA are comparatively stable and do not require a capping at the 5' end. Reference: Harpers illustrated biochemistry 30th edition",
-        "cop": 3,
-        "opa": "m. RNA for Histone",
-        "opb": "si. RNA",
-        "opc": "t. RNA of Alanine",
-        "opd": "U6 sn. RNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "65938968-5fd0-4159-a7b3-dfe7d996a9f7",
-        "choice_type": "multi"
     },
     {
         "question": "Coenzyme for methylmalonyl-CoA isomerase",
@@ -1792,19 +1194,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "9d2e1083-a598-465b-bfa4-ad3f449e5878",
         "choice_type": "single"
-    },
-    {
-        "question": "Functions of UGA codon",
-        "exp": "TERMINATOR CODONS: There are three codons which do not code for any paicular aminoacid. They are \"nonsense codons \", more correctly termed as puctuator codons or terminator codons. They mark end of protein synthesis. These three codons are UAA, UAG, and UGA. REF: DM VASUDEVAN TEXTBOOK; 8th EDITION; Page no: 580",
-        "cop": 3,
-        "opa": "Initiates transcription",
-        "opb": "Translates",
-        "opc": "Terminates protein synthesis",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "45fc8287-297c-42e8-a798-c71d33c67c86",
-        "choice_type": "multi"
     },
     {
         "question": "Hereditary orotic aciduria Type-I is due to deficiency of",
@@ -1883,58 +1272,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "0a0501ba-d215-4906-b7c8-7e0f9e2563e0",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following would form the basis for karyotyping studies in female?",
-        "exp": "Females contains two 'X'chromosomes. An extra 'X' chromosome contains Barrbody. Therefore, normal female contains one Barrbody. Males only single 'X' chromosome is present which results in absence of Barr body. so this helps in karyotyping studies",
-        "cop": 3,
-        "opa": "Phenotype abnormality",
-        "opb": "Testoterone quantity",
-        "opc": "Barr body",
-        "opd": "Not recalled",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "8a4e79fe-5a1e-45bf-954b-c2969617ebef",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Transcription is the process of",
-        "exp": "Transcription is the process that several steps which results in synthesis of RNA from DNA by RNA polymerase enzyme. Ref: DM. VASUDEVAN. TEXTBOOK; SEVENTH EDITION; PAGE NO: 589",
-        "cop": 3,
-        "opa": "Protein synthesis",
-        "opb": "DNA replication",
-        "opc": "Synthesis of RNA",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "d132468e-c05b-492d-8233-4555efc66a4f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is used to study protein-protein interaction?",
-        "exp": "Affinity electrophoresis is a general name for many analytical methods used in biochemistry and biotechnology. Both qualitative and quantitative information may be obtained through affinity electrophoresis. The methods include the so-called mobility shift electrophoresis, charge shift electrophoresis and affinity capillary electrophoresis. The methods are based on changes in the electrophoretic pattern of molecules (mainly macromolecules) through biospecific interaction or complex formation. The interaction or binding of a molecule, charged or uncharged, will normally change the electrophoretic propeies of a molecule. Ref-D. M. Vasudevan 7/e p659, 660",
-        "cop": 2,
-        "opa": "Western blot",
-        "opb": "Affinity electrophoresis",
-        "opc": "Thin-layer chromatography",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "b98c4c36-0e01-4d0c-9c6d-8900e35c9dd2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following protein is synthesized in free ribosome?",
-        "exp": "The synthesis of all proteins begins in thecytosol (the nonpaiculate pa of the cytoplasm). However, proteins that will finish their synthesis on the RER have a sequence of amino acids called the signal sequence because this series of amino acids acts as a signal. Ref satyanarayana 4e",
-        "cop": 1,
-        "opa": "Cytosolic proteins",
-        "opb": "Secretery proteins",
-        "opc": "Membrane proteins",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "fe569f63-2791-4974-bff0-c5379b6ae91f",
-        "choice_type": "multi"
     },
     {
         "question": "A mutation that results in premature termination of incorporation of amino acid into a peptide chain is a",
@@ -2026,19 +1363,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "c7e8f3f9-c0be-4343-9875-79f0f3a96e53",
         "choice_type": "single"
-    },
-    {
-        "question": "False about eukaryotic protein synthesis is",
-        "exp": "The first amino acid incorporated is methionine But in prokaryotes, the same codon stands for N -formyl methionine which is the first. Ref: DM Vasudevan, 7th edition, page no: 600",
-        "cop": 1,
-        "opa": "N formyl Met is the first t-RNA to come into action",
-        "opb": "m. RNA read from 5' to 3'",
-        "opc": "Ef2 shifts between GDP to GTP",
-        "opd": "Capping helps in attachment of m. RNA to 40 S ribosome",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "a1de3ffb-08f9-4abe-9b32-dfddbc9ced2f",
-        "choice_type": "multi"
     },
     {
         "question": "Not present in DNA",
@@ -2236,32 +1560,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Two transgenic plants were genetically engineered using Recombinant DNA technology. One plant was transformed using a plasmid vector with GFP (Green Fluorescent Protein) gene and another plant was transformed with Luciferase gene. Which of these two plants will glow spontaneously in the dark?",
-        "exp": "Luciferase is a generic term for the class of oxidative enzymes that produce bioluminescence, and is usually distinguished from a photoprotein. The name was first used by Raphael Duboiswho invented the words luciferin and luciferase, for the substrate and enzyme, respectively. Both words are derived from the Latin word lucifer - meaning lightbringer. Ref satyanarayana 4e",
-        "cop": 2,
-        "opa": "Plant with GFP Gene",
-        "opb": "Plant with Luciferase Gene",
-        "opc": "Both plants",
-        "opd": "None of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "ff7301a3-3780-4083-a3d7-d8e43232a287",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which type of mutations usually involves mutation of a gene coding for the following molecule?",
-        "exp": "A nonsense suppressor mutation is a secondary mutation that reverses the effect of a primary nonsense or chain-termination mutation. Ordinarily, no transfer RNA (t. RNA) molecule can recognize a nonsense codon; therefore, protein synthesis terminates when the ribosome reaches such a codon. A nonsense suppressor mutation usually involves the mutation of a t. RNA gene, so that the anticodon of the t. RNA is altered to a sequence that is complementary to a nonsense codon. The altered t. RNA can then bind to the nonsense codon and inse an amino acid at that point in the protein sequence. Thus, protein synthesis is allowed to continue, and the nonsense mutation is suppressed. A silent mutation is one that causes no change in the amino acid sequence of a protein. A missense mutation causes a single amino acid change. A frameshift mutation is the result of an inseion or deletion that alters the reading frame of the ribosome, leading to the production of a garbled amino acid sequence. Ref: Biochemistry by U. Satyanarayana 3rd edition Pgno: 537",
-        "cop": 4,
-        "opa": "Silent mutation",
-        "opb": "Nonsence mutation",
-        "opc": "Missense mutation",
-        "opd": "Nonsense suppressor mutation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "e63448b6-f30f-45bf-8003-7eaca0db3d65",
-        "choice_type": "multi"
-    },
-    {
         "question": "Genetic material possessing the dual capacity to exist chromosomal and extrachromosomal entity",
         "exp": "An episome is a poion of genetic material that can exist independent of the main body of genetic material (called the chromosome) at some times, while at other times is able to integrate into the chromosome. Examples of episomes include inseion sequences and transposons. Viruses are another example of an episome. Viruses that integrate their genetic material into the host chromosome enable the viral nucleic acid to be produced along with the host genetic material in a nondestructive manner. As an autonomous unit (i. e., existing outside of the chromosome) however, the viral episome destroys the host cell as it commandeers the host&; s replication apparatuses to make new copies of itself. Read more: Episomes - DNA, Chromosome, Genetic, and Host - JRank Aicles. Ref: <a href=\"",
         "cop": 2,
@@ -2327,19 +1625,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements describing restriction endonucleases is true?",
-        "exp": "Inside a prokaryote, the restriction enzymes selectively cut up foreign DNA in a process called restriction; meanwhile, host DNA is protected by a modification enzyme (a methyltransferase) that modifies the prokaryotic DNA and blocks cleavage. Together, these two processes form the restriction modification system A palindromic recognition site reads the same on the reverse strand as it does on the forward strand when both are read in the same orientation Restriction enzymes recognize a specific sequence of nucleotides and produce a double-stranded cut in the DNA",
-        "cop": 4,
-        "opa": "They always yield overhanging single-stranded ends",
-        "opb": "They recognize methylated DNA sequences",
-        "opc": "They recognize triplet repeats",
-        "opd": "They cleave both strands in duplex DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "74df148e-4d3c-49d6-9934-a47be33dc650",
-        "choice_type": "multi"
-    },
-    {
         "question": "DNA proof reading and repair is done by",
         "exp": "DNA Polymerases Ecoli Eukaryotic Function I Gap filling following DNA replication, repair, and recombination II DNA proofreading and repair b DNA repair g Mitochondrial DNA synthesis III e Processive, leading strand synthesis a Primase d Processive, lagging strand synthesis Harper30e pg: 383",
         "cop": 1,
@@ -2379,19 +1664,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is not true about buffering action of hemoglobin (Hb)?",
-        "exp": "Protein buffers in blood include hemoglobin (150g/l) and plasma proteins (70g/l). Buffering is by the imidazole group of the histidine residues which has a p. Ka of about 6. 8. This is suitable for effective buffering at physiological pH. Hemoglobin is quantitatively about 6 times more impoant than the plasma proteins as it is present in about twice the concentration and contains about three times the number of histidine residues per molecule.",
-        "cop": 2,
-        "opa": "Hb is technically intracellular buffer",
-        "opb": "Hb is functionally a plasma buffer",
-        "opc": "Hb's buffering action is due to its histidine content",
-        "opd": "Oxygenated Hb is a strong base",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "b88bcabc-2237-4500-bf8b-c04ea9d728bc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Folding of nascent polypeptide chains is the function of",
         "exp": "In molecular biology, molecular chaperones are proteins that assist the covalent folding or unfolding and the assembly or disassembly of other macromolecular structures. Chaperones are present when the macromolecules perform their normal biological functions and have correctly completed the processes of folding and/or assembly. The chaperones are concerned primarily with protein folding.",
         "cop": 1,
@@ -2405,19 +1677,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following methods can be used to detect the point mutation in the beta (b)-globin gene that causes sickle cell anemia, except",
-        "exp": "The nohern blot is a technique used in molecular biology research to study gene expression by detection of RNA(or isolated m. RNA) in a sample. The technique has been used to show overexpression of oncogenes and downregulation of tumor-suppressor genes in cancerous cells when compared to &; normal&; tissue, as well as the gene expression in the rejection of transplanted organs.",
-        "cop": 4,
-        "opa": "Polymerase chain reaction with allele-specific oligonucleotide hybridization",
-        "opb": "Southern blot analysis",
-        "opc": "DNA sequencing",
-        "opd": "Nohern blot analysis",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "7000d4c5-f354-455e-9082-50f113e52ec9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Protein glycosylation occurs in",
         "exp": "Glycosylation is the reaction in which a carbohydrate, i. e. a glycosyl donor, is attached to a hydroxyl or other functional group of another molecule. In biology, glycosylation mainly refers in paicular to the enzymatic process that attaches glycans to proteins, or other organic molecules Ref satyanarayana 4e",
         "cop": 2,
@@ -2429,32 +1688,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "b2520f7e-8736-44e5-840f-874c6c7c1e4a",
         "choice_type": "single"
-    },
-    {
-        "question": "The discontinuous DNA replication that occurs during replication is catalyzed the production of small DNA segments termed",
-        "exp": "Because the DNA strands are antiparallel, the polymerase functions asymmetrically. On the leading (forward) strand, the DNA is synthesized continuously. On the lagging (retrograde) strand, the DNA is synthesized in sho fragments, the so-called Okazaki fragments Harper30e pg: 383",
-        "cop": 1,
-        "opa": "Okazaki fragments",
-        "opb": "Crick strands",
-        "opc": "Watson fragments",
-        "opd": "Tsuneko strands",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "08d45de3-4347-4393-84be-3d25ee2a2a44",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Termination is caused by all except",
-        "exp": "Termination Process of Translation After successive addition of amino acids, ribosome reaches the trerminator codon sequence (UAA, UAG or UGA ) on the m. RNA. Since, there is no t. RNA bearing the corresponding anticodon sequence, the \"A\" site remains free. The release factor (RF) enters the site. The RF binds with rf3 NAD GTP. Theis complexalong hydrolyzes the peptide chain from the t. RNA at the P site. This needs hydrolysis of GTP to GDP. The completed peptide chainis now released. Finally, 80S ribosome dissociates into its component units of 60S and 40S. REF: DM VASUDEVAN TEXTBOOK, EIGHTH EDITION, Page no: 583.",
-        "cop": 1,
-        "opa": "Peptidyl transferase",
-        "opb": "48s complex",
-        "opc": "RF-1",
-        "opd": "UAA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "742c2deb-1458-4aa5-b351-59b44f7399aa",
-        "choice_type": "multi"
     },
     {
         "question": "Nothern blot is used for the separation of",
@@ -2522,19 +1755,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True statements about DNA structure",
-        "exp": "Nucleotides polymerise by forming bonds between the carbon of the sugar and an oxygen atom of the phosphate. The bases do not take pa in the polymerisation, so the chain is held together by a sugar-phosphate backbone with the bases extending off it. This means that the nucleotides can join together in any order along the chain. Many nucleotides form a polynucleotide. A polynucleotide has a free phosphate group at one end and a free OH group at the other end.",
-        "cop": 1,
-        "opa": "All nucleotides are involved in linkage",
-        "opb": "Antiparallel",
-        "opc": "Parallel",
-        "opd": "Bases are perpendicular to DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "844a5429-070b-4bb8-8ae9-eb68a6646898",
-        "choice_type": "multi"
-    },
-    {
         "question": "Polyamine Ike putrescine is derived from",
         "exp": "The enzyme ornithine decarboxylase (ODC) catalyzes the decarboxylation of ornithine (a product of the urea cycle) to form putrescine. This reaction is the committed step in polyamine synthesis. In humans, this protein has 461 amino acids and forms a homodimer. Ref: https://en. wikipedia. org/wiki/Ornithine_decarboxylase",
         "cop": 2,
@@ -2546,32 +1766,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "34874f54-f342-47a8-bdd5-dc366d2ff737",
         "choice_type": "single"
-    },
-    {
-        "question": "The sigma (s) subunit of prokaryotic RNA polymerase",
-        "exp": "prokaryotic RNA polymers contain 2 alpha subunit, 2 beta subunit, 1 omega subunit, 1 sigma subunit and 2 zinc molecules Beta subunit fixes at the initiation site. The sigma factor recognizes the promoter site and the affinity of the holoenzyme to the promoter site. Ref: DM Vasudevan, 7th edition, page no: 589",
-        "cop": 3,
-        "opa": "Binds the antibiotic rifampicin",
-        "opb": "Is inhibited by a-amanitin",
-        "opc": "Specifically recognizes the promoter site",
-        "opd": "Is pa of the core enzyme",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "4fd5b6ad-a9c1-4e0c-8784-85b959fba514",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about Sickle cell disease, except",
-        "exp": "Sticky patches. The substitution of valine for glutamate at position 6 of the b chains of hemoglobin places a nonpolar residue on the outside of hemoglobin S, the version of hemoglobin responsible for sickle-cell anemia. The oxygen affinity and allosteric propeies of hemoglobin are viually unaffected by this change. However, the valine side chain of hemoglobin S interacts with a complementary sticky patch (formed by phenyl-alanine b85 and leucine b88) on another hemoglobin molecule--a patch that is exposed in deoxygenated but not in oxygenated hemoglobin. This mutation is the one that occurs in sickle-cell anemia. This alteration markedly reduces the solubility of the deoxygenated, but not the oxygenated, form of hemoglobin because the hemoglobin molecules interact with one another until a complex forms that is large enough that it cannot be solubilized. This complex precipitates and deforms the cell. Thus, sickling occurs when there is a high concentration of the deoxygenated form of hemoglobin S.",
-        "cop": 3,
-        "opa": "Single nucleotide change results in change of Glutamine to valine",
-        "opb": "RFLP results from a single base change",
-        "opc": "'Sticky patch' is generated as a result of replacement of a non polar residue with a polar residue",
-        "opd": "HbS confers resistance against malaria in hetrozygotes",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "864fea5f-c289-42e3-aef5-5894bfea5acd",
-        "choice_type": "multi"
     },
     {
         "question": "Which enzyme polymerizes Okazaki fragments?",
@@ -2613,32 +1807,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about DNA methylation",
-        "exp": "DNA methylation is an epigenetic mechanism used by cells to control gene expression. A number of mechanisms exist to control gene expression in eukaryotes, but DNA methylation is a commonly used epigenetic signaling tool that can fix genes in the \"off\" position. Methylation epigenetically modifies the function of the DNA. When located in a gene promoter, DNA methylation typically acts to repress gene transcription.",
-        "cop": 1,
-        "opa": "Alters gene expression",
-        "opb": "Genetic code remains intact",
-        "opc": "Role in Carcinogenesis",
-        "opd": "Protective mechanism against cleavage by restriction endonuclease",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "1bec92a4-573d-4c60-86dc-7417399a6637",
-        "choice_type": "multi"
-    },
-    {
-        "question": "DNA model described by Watson and Crick was",
-        "exp": "The DNA molecule consists of two polynucleotide chains or strands that spirally twisted around each other and coiled around a common axis to form a right-handed double-helix. The two strands are antiparallel i. e. they ran in opposite directions so that the 3' end of one chain facing the 5' end of the other. The sugar-phosphate backbones remain on the outside, while the core of the helix contains the purine and pyrimidine bases. Ref-Sathyanarayana 4/e p400",
-        "cop": 3,
-        "opa": "Right handed parallel",
-        "opb": "Left handed anti parallel",
-        "opc": "Right handed anti parallel",
-        "opd": "Right handed parallel",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "6a3ca89d-dd61-412a-be87-050b74ee17df",
-        "choice_type": "multi"
-    },
-    {
         "question": "Increase in xanthine and hyposanthine occurs in which deficiency?",
         "exp": "Xanthine oxidase (xanthine dehydrogenase) deficiency, type I, is an uncommon autosomal recessive disorder characterized by the excretion of urinary xanthine and hypoxanthine as the chief end products of purine metabolism, and by low serum and urinary uric acid levels. Xanthine oxidase catalyses the oxidation of hypoxanthine to xanthine and xanthine to uric acid, hence the biochemical abnormalities which define the syndrome. The disorder may be asymptomatic and diagnosed only after the fouitous finding of a low serum urate, usually less than 2 mg/dl. Ref-Sathyanarayana 4/e p407",
         "cop": 1,
@@ -2650,19 +1818,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "f2fdf700-3f08-42c9-bed5-2d2d610ba6fe",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is an example of Trinucleotide repeat mutation?",
-        "exp": "Polyglutamine Disorders Huntington Disease (HD) Spinobulbar Muscular Atrophy (SBMA) Spinocerebellar Ataxias (SCA types 1, 2, 3, 6, 7, and 17) Dentatorubro-Pallidoluysian Atrophy (DRPLA) Non-polyglutamine Disorders Fragile X Syndrome (FRAXA) Fragile XE Mental Retardation (FRAXE) Friedreich Ataxia (FRDA) Myotonic Dystrophy (DM, not MD) Spinocerebellar Ataxias (SCA types 8, and 12) Ref-D. M. Vasudevan 7/e p509",
-        "cop": 4,
-        "opa": "Huntington's chorea",
-        "opb": "Fragile-X-syndrome",
-        "opc": "Friedreich ataxia",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "d1fb886a-6af0-4868-8959-8e42bb161dd5",
-        "choice_type": "multi"
     },
     {
         "question": "Not a component of PCR",
@@ -2691,19 +1846,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are examples of uniparental disomy except",
-        "exp": "Bloom syndrome is an inherited disorder characterized by sho stature, a skin rash that develops after exposure to the sun, and a greatly increased risk of cancer. People with Bloom syndrome are usually smaller than 97 percent of the population in both height and weight from bih, and they rarely exceed 5 feet tall in adulthood. Affected individuals have skin that is sensitive to sun exposure, and they usually develop a butterfly-shaped patch of reddened skin across the nose and cheeks. A skin rash can also appear on other areas that are typically exposed to the sun, such as the back of the hands and the forearms. Small clusters of enlarged blood vessels (telangiectases) often appear in the rash; telangiectases can also occur in the eyes. Other skin features include patches of skin that are lighter or darker than the surrounding areas (hypopigmentation or hyperpigmentation respectively). These patches appear on areas of the skin that are not exposed to the sun, and their development is not related to the rashes. Ref-Harpers illustrated biochemistry 30/e p268",
-        "cop": 4,
-        "opa": "Russel silver syndrome",
-        "opb": "Prader willi syndrome",
-        "opc": "Angelman syndrome",
-        "opd": "Bloom syndrome",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "a8424e08-f84e-4912-be84-eb717a1594e6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Adenine in DNA binds with",
         "exp": "A=T and G=C Ref-Sathyanarayana 4/e p389",
         "cop": 1,
@@ -2728,19 +1870,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "73b6c50f-fdd8-435c-91c0-4c2c8c876cc7",
         "choice_type": "single"
-    },
-    {
-        "question": "Selective suppression of a functional gene by a functional allele is called",
-        "exp": "This term refers to the ability of a cell to prevent the expression of a ceain gene. Gene silencing/knock out can occur during either transcription or translation",
-        "cop": 4,
-        "opa": "Trans gene",
-        "opb": "Pseudogene",
-        "opc": "Ins eion",
-        "opd": "Knockout",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "86af98f4-ad06-401b-aabb-604a60c193c7",
-        "choice_type": "multi"
     },
     {
         "question": "t. RNA met would recognize",
@@ -2886,19 +2015,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about Ig gene rearrangement & Ig diversity",
-        "exp": "The somatic mutation theory of carcinogenesis has been the dominant force driving cancer research during the 20th century. In brief, it proposes that successive DNA mutations in a single cell cause cancer (monoclonality). This theory places carcinogenesis at the cellular and subcellular hierarchical levels of biological complexity. Its basic premises are that (1) cancer is a defect of the control of cell proliferation and (2) the default state of metazoan cells is quiescence. These two premises have recently been contradicted by evidence. Suppoers of the theory have dealt with these lacks of fit by incorporating ad hoc explanations similar to the use of epicycles in pre-Copernican astronomy. We propose the adoption of an alternative theory, the tissue organization field theory of carcinogenesis and neoplasia. Its basic premises are that (1) proliferation is the default state of all cells and (2) carcinogenesis and neoplasia are defects of tissue architecture. Carcinogens would act initially by disrupting the normal interactions that take place among cells in the parenchyma and stroma of an organ (the equivalent of the \"morphogenetic fields\" of developing organisms). Stroma appears as the primary target of carcinogens. Carcinogenesis and neoplasia occur entirely through emergent (supracellular) phenomena. Neoplastic cells may be reprogrammed to behave like \"normal\" cells within normal tissues. We argue that it is necessary to abandon the somatic mutation theory. Researchers will then become free to adopt alternative reliable premises to build a theory that explains carcinogenesis as another outcome, aberrant as it may be, of biological organization.",
-        "cop": 1,
-        "opa": "Somatic mutations theory",
-        "opb": "One loop and two loop joining theory",
-        "opc": "DNA rearrangement",
-        "opd": "Appropriate class switching",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "7ed4cd7a-0078-4987-919a-b738a4a29599",
-        "choice_type": "multi"
-    },
-    {
         "question": "In human genome project, scientist notices that one strand of the DNA molecule contains 20 thymine (T), 25 cytosine (C), 30 guanine (C) and 22 adenine (A) residues. How many of each of the bases are found in the complete double-stranded molecule?",
         "exp": "Question repeated",
         "cop": 4,
@@ -2910,19 +2026,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "2c1f6acf-c527-4c65-9a74-0c29a54ac5cc",
         "choice_type": "single"
-    },
-    {
-        "question": "Regarding cytosolic Eukaryotic gene expression false is",
-        "exp": "N-Formylmethionine (f. Met) is a derivative of the amino acid methionine in which a formyl group has been added to the amino group. It is specifically used for initiation of protein synthesis from bacterial and organellar genes and may be removed post-translationally. f. Met is delivered to the ribosome (30S) - m. RNA complex by a specialized t. RNA(t. RNAf. Met) which has a 3&;-UAC-5&; anticodon that is capable of binding with the 5&;-AUG-3&; sta codon located on the m. RNA. f. Met is thus coded by the same codon as methionine; however, AUG is also the translation initiation codon. When the codon is used for initiation, f. Met is used instead of methionine, thereby forming the first amino acid as the peptide chain is synthesized.",
-        "cop": 2,
-        "opa": "Capping helps in attachment of m. RNA to 40 S Ribosome",
-        "opb": "N formyl methionine t. RNA will be the first t-RNA to come into action",
-        "opc": "EF2 shifts between GDP & GTP",
-        "opd": "Releasing factor releases the polypeptide chain from the P site",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "84b99d50-326b-47fc-b8e2-3f8cc09fe4ba",
-        "choice_type": "multi"
     },
     {
         "question": "Okazaki fragment",
@@ -2977,45 +2080,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Salvage pathway of purine nucleotide synthesis is used by all except",
-        "exp": "Salvage pathway ensures the recycling of purine formed by degradation of nucleotides. Nucleoside and deoxy-nucleosides can also be savaged. The pathway is of special impoance in tissues like RBC s and brain where the de novo pathway is not operating. The salvage economize intracellular energy expenditure. The purine nucleotides are synthesized bymost of the tissues by major pathway called de novo synthesis The major site is the liver. This pathway operates in the cytoplasm. REF: DM. VASUDEVAN. TEXTBOOK; SEVENTH EDITION; PAGE NO: 563 and 564.",
-        "cop": 2,
-        "opa": "Brain",
-        "opb": "Liver",
-        "opc": "RBC",
-        "opd": "Leukocytes",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "55402ad0-a44b-4dc9-91ed-55406de9f46c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Salvage purine synthesis refers to",
-        "exp": "Nucleotides and nucleosides can be supplied to an organism by either a salvage reaction or by synthesis from smaller precursors. Salvage reactions conve free purine and pyrimidine bases into nucleotides. Additionally, free purines and pyrimidines can be degraded, the purines to the oxidized ring compound uric acid and the pyrimidines to smaller compounds (b-amino acids, not the a-amino acids found in proteins). Finally, purines and pyrimidines can be synthesized from smaller precursors ( de novo synthesis). Thus three interacting pathways for nucleotides, nucleosides, and the free bases exist salvage, degradation, and biosynthesis. Ref-Sathyanarayana 4/e p471",
-        "cop": 3,
-        "opa": "Synthesis of purine from ribose-5-phosphate",
-        "opb": "Synthesis of purine from pyrimidine",
-        "opc": "Synthesis of purine nucleotides from purine bases",
-        "opd": "None of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "3690e6d2-5d09-4713-b079-9713fb77bd9b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "PRPP paicipates in purine biosynthesis in _____",
-        "exp": "PRPP serves as a scaffold for assembly of the purine ring in purine biosynthesis. Phosphoribosyl pyrophosphate (PRPP) paicipates in pyrimidine biosynthesis only subsequent to assembly of the pyrimidine ring. Reference: Harpers illustrated biochemistry 30th edition",
-        "cop": 1,
-        "opa": "Serves as a scaffold for assembly of purine ring",
-        "opb": "Post assembly of purine ring",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "2f4b9394-ce77-44d7-b86b-7e7761e77dfd",
-        "choice_type": "multi"
-    },
-    {
         "question": "An enzyme that makes a double-stranded DNA copy from a single-stranded RNA template molecule is known as",
         "exp": "Allows synthesis of c. DNA from m. RNA followed by PCR amplification. Reverse transcriptase PCR: method used to amplify, isolate or identify a known sequence from a cell or tissue RNA library. Ref: DM Vasudevan, 7th edition, page no: 639",
         "cop": 3,
@@ -3027,19 +2091,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "6d0f36ce-d673-4bd3-9950-f5d398138664",
         "choice_type": "single"
-    },
-    {
-        "question": "True about G-protein receptor complex",
-        "exp": "G protein-coupled receptors (GPCRs) which are also known as seven-transmembrane domain receptors, 7. TM receptors, heptahelical receptors, serpentine receptor, and G protein-linked receptors (GPLR), constitute a large protein family of receptors, that sense molecules outside the cell and activate inside signal transduction pathways and, ultimately, cellular responses. Coupling with G proteins, they are called seven-transmembrane receptors because they pass through the cell membrane seven times.",
-        "cop": 1,
-        "opa": "It interacts transmembrane domain",
-        "opb": "GTP to GDP",
-        "opc": "Adenyl cyclase activation leads to increased c. AMP",
-        "opd": "GPCR has no phosphorylation propey",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "99cecc90-560d-4132-a33d-8ec4e22b1fd9",
-        "choice_type": "multi"
     },
     {
         "question": "Primary Hyperoxaluria occurs in defect in metabolism of",
@@ -3055,32 +2106,6 @@
         "choice_type": "single"
     },
     {
-        "question": "DNA and RNA both contain which pyrimidine base?",
-        "exp": "Thymine is a pyrimidine base present in both DNA and RNARef: D. M. Vasudevan 7th edition, page no: 560",
-        "cop": 3,
-        "opa": "Uracil",
-        "opb": "Thymine",
-        "opc": "Cytosine",
-        "opd": "Guanine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "a1f8d022-4bc7-4957-a2da-08441df96e68",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Termination process of protein synthesis is performed by all except",
-        "exp": "The alpha amino group at the incoming amino acid in the A site forms a peptide bond with carboxyl group of peptidyl RNA occupying the P site This reaction is catalysed by the enzyme peptidyl transferase. Ref: DM Vasudevan, 7th edition, page no: 601",
-        "cop": 3,
-        "opa": "Releasing factor",
-        "opb": "Stop codon",
-        "opc": "Peptidyl transferase",
-        "opd": "UAA codon",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "512e612f-56d3-4696-a742-7d919ff5b634",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following process in a vector is used to increased the yield of protein produced in recombinant protein synthesis?",
         "exp": "Expression vectors are plasmids/viruses designed to regulate protein expression in a target cell. They are used to inse a specific gene into the target cell to produce the desired protein. They contain regulatory sequences which act as enhancer and promoter regions to bring about efficient transcription of the gene. An inducible promoter regulates the gene expression and can increase the yield of the recombinant protein. Ref: <a href=\"",
         "cop": 1,
@@ -3092,32 +2117,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "11aeb96a-cb95-46f1-b979-0e79e9421851",
         "choice_type": "single"
-    },
-    {
-        "question": "Meera is a 43-year-old woman with a body mass index (BMI) of 32. She presented with abnormal uterine bleeding to her gynecologist, who performed an endometrial biopsy that indicated endometrial cancer, specifically endometrial adenocarcinoma of endometrioid histology. Meera's family history is significant for colon cancer. Her mother was diagnosed with colon cancer at age 66. Her paternal aunt was diagnosed with endometrial cancer at age 67. Suspecting hereditary disease which of the following DNA repair mechanism is defective in Meera?",
-        "exp": "The following clinical scenerio suggests of LYNCH SYNDROME Mismatch repair is defective in Lynch syndrome also called Hereditary nonpolyposis colorectal cancer(HNPCC). It is an autosomal dominant genetic condition that is associated with a high risk of colon cancer as well as other cancers including endometrial cancer(second most common). Reference: Harpers illustrated biochemistry 30th edition",
-        "cop": 3,
-        "opa": "Nucleotide excision repair",
-        "opb": "Homologous recombination",
-        "opc": "Mismatch repair",
-        "opd": "Base excision repair",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "85ef272e-5914-4b68-bd32-eddfe0a22e54",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following statements about Lambda phase are true, except",
-        "exp": "The distinction between lysogenic and lytic cycles is that the spread of the viral DNA occurs through the usual prokaryotic reproduction, while the lytic phage is spread through the production of thousands of individual phages capable of surviving and infecting other cells. The key difference between the lytic cycle and the lysogenic cycle is that the lysogenic cycle does not lyse the host cell. Phages that replicate only the lytic cycle are known as virulent phages while phages that replicate using both lytic and lysogenic cycles are known as temperate phages.",
-        "cop": 3,
-        "opa": "In lysogenic phase it fuses with host chromosome and remains dormant",
-        "opb": "In Lytic phase it fuses with host chromosome and replicates",
-        "opc": "Both lytic and lysogenic phases occurs together",
-        "opd": "In lytic phase it causes cell lysis and releases virus paicles",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "48c96f28-6545-43b5-929d-14321cb09861",
-        "choice_type": "multi"
     },
     {
         "question": "Patient present with skin bullae on the sun exposure. The defect is of",
@@ -3159,45 +2158,6 @@
         "choice_type": "single"
     },
     {
-        "question": "At physiological pH DNA is",
-        "exp": "Many proteins interact with DNA at physiological pH because: A. proteins are naturally attracted to DNA regardless of the pH. B. both proteins and DNA are at their isoelectric points at physiological pH and tend to aggregate. C. negatively charged DNA is electrostatically attracted to positively charged regions on proteins. D. proteins and DNA interact using mainly hydrophobic interactions E. positively charged DNA is electrostatically attracted to negatively charged regions on proteins. Ref-Harpers illustrated biochemistry 30/e p549",
-        "cop": 4,
-        "opa": "Acidic",
-        "opb": "Negatively charged",
-        "opc": "Amphipathic",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "c9afd8e3-8c5a-4cf1-94d6-6db4d6b58713",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about ribosomes",
-        "exp": "Ribosomes are the protein builders or the protein synthesizers of the cell. They are like construction guys who connect one amino acid at a time and build long chains. Ribosomes are special because they are found in both prokaryotes and eukaryotes",
-        "cop": 1,
-        "opa": "Conserved in nature",
-        "opb": "Role is to bring t-RNA and m-RNA together",
-        "opc": "DNA forms RNA and protein are formed from RNA",
-        "opd": "They are always free",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "34fa010d-30b8-45cc-9a90-8fce82f418db",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Okazaki fragments are formed during",
-        "exp": "DNA replication is semiconservative. Each strand in the double helix acts as a template for synthesis of a new, complementary strand. New DNA is made by enzymes called DNA polymerases, which require a template and a primer (staer) and synthesize DNA in the 5' to 3' direction. During DNA replication, one new strand (the leading strand) is made as a continuous piece. The other (the lagging strand) is made in small pieces. DNA replication requires other enzymes in addition to DNA polymerase, including DNA primase, DNA helicase, DNA ligase, and topoisomerase. Ref-Sathyanarayana 4/e p399",
-        "cop": 3,
-        "opa": "Transcription",
-        "opb": "Translation",
-        "opc": "DNA replication",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "bb6eaa8a-1cd8-4777-9fe0-667ad307a021",
-        "choice_type": "multi"
-    },
-    {
         "question": "DNA synthesis takes place in which phase of cell cycle?",
         "exp": "S-phase (synthesis phase) is the pa of the cell cycle in which DNA is replicated, occurring between G1 phase and G2 phase. Precise and accurate DNA replication is necessary to prevent genetic abnormalities which often lead to cell death or disease. Due to the impoance, the regulatory pathways that govern this event in eukaryotes are highly conserved. Ref-Sathyanarayana 4/e p388",
         "cop": 2,
@@ -3209,45 +2169,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "d8be07b1-4991-4184-b11e-e8411ef79cf1",
         "choice_type": "single"
-    },
-    {
-        "question": "True about PCR is",
-        "exp": "The PCR is a method of amplifying a target sequence of DNA. PCR provides a sensitive, selective, and extremely rapid means of amplifying any desired sequence of DNA. Specificity is based on the use of two oligonucleotide primers that hybridize to complementary sequences on opposite strands of DNA and flank the target sequence. DNA synthesis is catalyzed by a heat-stable DNA polymerase purified from one of a number of different thermophilic bacteria, organisms that grow at 70degC to 80degC. Thermostable DNA polymerases withstand sho incubations at over 90deg, temperatures required to completely denature DNA. These thermostable DNA polymerases have made automation of PCR possible. DNA sequences as sho as 50 to 100 bp and as long as 10 kb can be amplified by PCR. Twenty cycles provide an amplification of 106 (ie, 220) and 30 cycles, 109 (230). Each cycle takes <=5 to 10 minutes so that even large DNA molecules can be amplified rapidly. The PCR allows the DNA in a single cell, hair follicle, or spermatozoon to be amplified and analyzed. The PCR is also used (1) to detect infectious agents, especially latent viruses; (2) to make prenatal genetic diagnoses; (3) to detect allelic polymorphisms; (4) to establish precise tissue types for transplants; and (5) to study evolution, using DNA from archeological samples (6) for quantitative RNA analyses after RNA copying and m. RNA quantitation by the so-called -PCR method (c. DNA copies of m. RNA generated by a retroviral reverse transcriptase) or (7) to score in vivo protein-DNA occupancy using chromatin immunoprecipitation assays. Ref: HArper&; s Biochemistry; 30th edition; Page no: 459",
-        "cop": 1,
-        "opa": "Amplification of a target sequence of DNA",
-        "opb": "Uses thermolablie enzyme",
-        "opc": "Less sensitive techinique",
-        "opd": "Uses one primer",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "d169bbd9-bd83-4e8f-b0df-3a6a46a82c87",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Euchromatin is the region of DNA that is relatively",
-        "exp": "Euchromatin is a lightly packed form of chromatin (DNA, RNA, and protein) that is enriched in genes and is often (but not always) under active transcription. Euchromatin comprises the most active poion of the genome within the cell nucleus. 92% of the human genome is euchromatic. The remainder is called heterochromatin. Ref-Harpers illustrated biochemistry 30/e p694",
-        "cop": 1,
-        "opa": "Uncondensed",
-        "opb": "Condensed",
-        "opc": "Overcondensed",
-        "opd": "Paially condensed",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "cd4562d2-796c-46fe-9ced-3fb98aa5f888",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Rate limiting step in pyrimidine synthesis",
-        "exp": "Ref-D. M. Vasudevan 7/e p506 Aspaatetranscarbamylase catalyses a committed step in pyrimidine metabolism by conveing carbamoyl phosphate into carbamoyl aspaate",
-        "cop": 3,
-        "opa": "Dihydro-orotase",
-        "opb": "Ornithine transcarbomoylase",
-        "opc": "Aspaate transcarbomoylase",
-        "opd": "Carbamoyl phosphate synthase-I",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "8d776379-fea8-4b0b-a9d4-35e9574f28d0",
-        "choice_type": "multi"
     },
     {
         "question": "DNA replication takes place in which phase of cell?",
@@ -3302,19 +2223,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about genes",
-        "exp": "A gene is a locus (or region) of DNA which is made up of nucleotides and is the molecular unit of heredity.: Glossary The transmission of genes to an organism&; s offspring is the basis of the inheritance of phenotypic traits. Most biological traits are under the influence of polygenes (many different genes) as well as gene-environment interactions. Some genetic traits are instantly visible, such as eye colour or number of limbs, and some are not, such as blood type, risk for specific diseases, or the thousands of basic biochemical processes that comprise life. Genes can acquire mutations in their sequence, leading to different variants, known as alleles, in the population. These alleles encode slightly different versions of a protein, which cause different phenotype traits. Colloquial usage of the term \"having a gene\" (e. g., \"good genes, \" \"hair color gene\") typically refers to having a different allele of the gene. Genes evolve due to natural selection or survival of the fittest of the alleles. The concept of a gene continues to be refined as new phenomena are discovered. For example, regulatory regions of a gene can be far removed from its coding regions, and coding regions can be split into several exons. Some viruses store their genome in RNA instead of DNA and some gene products are functional non-coding RNAs. Therefore, a broad, modern working definition of a gene is any discrete locus of heritable, genomic sequence which affects an organism&; s traits by being expressed as a functional product or by regulation of gene expression.",
-        "cop": 1,
-        "opa": "Smallest functional unit of genome",
-        "opb": "Not capable of independent expression",
-        "opc": "Promoter & enhancer genes are typical example",
-        "opd": "Cistron is single functional unit",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "2943bf2d-8b6c-4faf-8771-17c82ce84c5f",
-        "choice_type": "multi"
-    },
-    {
         "question": "RFLP is used for",
         "exp": "Reastiction fragment length polymophism (RFLP): A polymorphic gene is one, in which the variant alleles are commonin more than 1% of the total population. The existence of two or more types of restriction fragment patterns is called restiction fragment length polymorphism (RFLP). This can be used as a genetic marker. DNA is treated with restriction enzymes, which cleave DNA into fragments of lengths. The electrophoresis is done in agarose gels, when the fragments are seperated. Finally, the DNA from the agarose gel is transferred on to nitrocellulose paper (southern blotting)and hybridized with labeled probe sequences. Genotypic changescan be recognized by the altered restriction fragments. REF: DM VASUDEVAN TEXTBOOK, 7th EDITION, Page no no: 637.",
         "cop": 1,
@@ -3367,45 +2275,6 @@
         "choice_type": "single"
     },
     {
-        "question": "DNA or RNA fragment which is radioactive or chemically labile to detect a specific fragment?",
-        "exp": "Probes are generally pieces of DNA or RNA labeled with a 32P-containing nucleotide--or fluorescently labeled nucleotides The probe must recognize a complementary sequence to be effective. Ref: Harper 27e, page no: 456",
-        "cop": 1,
-        "opa": "Probe",
-        "opb": "Okazaki fragment",
-        "opc": "Antibody",
-        "opd": "Epitope",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "77ab9100-6da5-48a9-ba4d-20ab84daf1ca",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about human mitochondrial DNA except",
-        "exp": "Major Features of Human Mitochondrial DNA Is circular, double-stranded, and composed of heavy (H) and light (L) chains or strands Encodes 13 protein subunits of the respiratory chain (of a total of about 67) Encodes large (16S) and small (12S) mt ribosomal RNAs Encodes 22 mt t. RNA molecules Genetic code differs slightly from the standard code UGA (standard stop codon) is read as Trp AGA and AGG (standard codons for Arg) are read as stop codons Contains very few untranslated sequences High mutation rate (5-10 times that of nuclear DNA) Comparisons of mt. DNA sequences provide evidence about evolutionary origins of primates and other species Harper30e pg: 378",
-        "cop": 3,
-        "opa": "Circular",
-        "opb": "AGA is stop codon",
-        "opc": "Low mutation rate",
-        "opd": "Very few untranslated sequences",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "396ff29e-3960-47c8-9d91-d49eadb9ebb5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Apo B48 & Apo B100 is synthesized from the same m. RNA; the difference between them is due to",
-        "exp": "The protein occurs in the plasma in 2 main isoforms, Apo. B48 and Apo. B100. The first is synthesized exclusively by the small intestine, the second by the liver. ApoB-100 is the largest of the apoB group of proteins, consisting of 4563 amino acids. Both isoforms are coded by APOB and by a single m. RNA transcript larger than 16 kb. Apo. B48 is generated when a stop codon (UAA) at residue 2153 is created by RNA editing. There appears to be a trans-acting tissue-specific splicing gene that determines which isoform is ultimately produced. Alternatively, there is some evidence that a cis-acting element several thousand bp upstream determines which isoform is produced. As a result of the RNA editing, Apo. B48 and Apo. B100 share a common N-terminal sequence, but Apo. B48 lacks Apo. B100's C-terminal LDL receptor binding region. In fact, Apo. B48 is so called because it constitutes 48% of the sequence for Apo. B100. ApoB 48 is a unique protein to chylomicrons from the small intestine. After most of the lipids in the chylomicron have been absorbed, Apo. B48 returns to the liver as pa of the chylomicron remnant, where it is endocytosed and degraded",
-        "cop": 3,
-        "opa": "RNA splicing",
-        "opb": "Allelic exclusion",
-        "opc": "Deamination of cytidine to uridine",
-        "opd": "Upstream repression",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "77ad1e78-be0b-4e31-874f-78032896847b",
-        "choice_type": "multi"
-    },
-    {
         "question": "The Z DNA helix",
         "exp": "Z-DNA is one of the many possible double helical structures of DNA. It is a left-handed double helical structure in which the double helix winds to the left in a zig-zag pattern (instead of to the right, like the more common B-DNA form). Z-DNA is thought to be one of three biologically active double helical structures along with A- and B-DNA.",
         "cop": 2,
@@ -3417,19 +2286,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "68d80c0c-7b16-4d7f-adf7-c2c06fb5e6b1",
         "choice_type": "single"
-    },
-    {
-        "question": "Molecular interaction, found in the structure of DNA",
-        "exp": "A DNA molecule is made up of the sugar deoxyribose, a phosphate group, and complementary nitrogenous base pairs. The double strand of the helix consists of the sugar-phosphate backbone. The nitrogenous base pairs, which are linked by hydrogen bonds that also hold the strands together, are between this backbone. However, the nitrogenous bases, which are adenine, thymine, cytosine, and guanine, pair up so that cytosine only pairs with guanine and adenine links up with thymine. There are three hydrogen bonds between guanine and cytosine, while adenine and thymine have two hydrogen bonds. Similarly, cytosine and thymine are called pyrimidines, and guanine and adenine are the purines. Ref-Harpers illustrated biochemistry 30/e p648",
-        "cop": 4,
-        "opa": "Hydrogen bond",
-        "opb": "Glycosidic bond",
-        "opc": "Covalent interactions",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "3f49ec65-e2de-45e5-bc6c-3eb73b83717e",
-        "choice_type": "multi"
     },
     {
         "question": "Antigen-antibody reaction is detected by",
@@ -3458,19 +2314,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are characteristics of genetic code except",
-        "exp": "Code is a Triplet The Code is Degenerate The Code is Non-overlapping The Code is Comma Less The Code is Unambiguous The Code is Universal Co-linearity Gene-polypeptide Parity Ref-Sathyanarayana 4/e p507",
-        "cop": 1,
-        "opa": "Overlapping",
-        "opb": "Nonambiguous",
-        "opc": "Universal",
-        "opd": "Degeneracy",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "0d8ba060-f2c9-49c0-9bde-c4cbf22c3861",
-        "choice_type": "multi"
-    },
-    {
         "question": "Beta-alanine is end product of metabolism of",
         "exp": "Uracil is a pyramidine and pyramidine metabolism produces beta alanine Ref-Sathyanarayana 4/e p380",
         "cop": 1,
@@ -3495,32 +2338,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "53277487-7a1d-4663-9652-e9b74b2f351a",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following factors is responsible for deciding whether an antibody/immunoglobulin will remain membrane-bound or get secreted?",
-        "exp": "Differential RNA processing is responsible for deciding whether an antibody/immunoglobulin will remain membrane-bound or get secreted. Ref: AIPGMEE 2011: Rapid review by Dr. Paresh Koli, page; 5",
-        "cop": 3,
-        "opa": "RNA Splicing",
-        "opb": "Class Switching",
-        "opc": "Differential RNA Processing",
-        "opd": "Allelic Exclusion",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "3abdccb3-9ff5-449a-8875-c10ad602d879",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Glycine provides all in purine synthesis except",
-        "exp": "Amino group of aspaate provide N1 Formyl THFA - C2 Amide N of glutamine - N3 and N9 glycine- C4 C5 C7 respiratory Co2- C6 Methenyl THFA -C8 Ref-Harpers illustrated biochemistry 30/e p849",
-        "cop": 3,
-        "opa": "Carbon-4",
-        "opb": "Carbon-5",
-        "opc": "Nitrogen-4",
-        "opd": "Nitrogen-7",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "5eb156b8-1a35-40ce-99be-c5f350e6098b",
-        "choice_type": "multi"
     },
     {
         "question": "CAP in LAC operon is",
@@ -3562,19 +2379,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In cell with damaged DNA and potential for malignant transformation, the tumor suppressor p53 gene involves",
-        "exp": "Tumor protein p53, also known as p53, cellular tumor antigen p53 (Uni. Prot name), phosphoprotein p53, tumor suppressor p53, antigen NY-CO-13, or transformation-related protein 53 (TRP53), is any isoform of a protein encoded by homologous genes in various organisms, such as TP53 (humans) and Trp53 (mice). This homolog (originally thought to be, and often spoken of as, a single protein) is crucial in multicellular organisms, where it prevents cancer formation, thus, functions as a tumor suppressor. As such, p53 has been described as \"the guardian of the genome\" because of its role in conserving stability by preventing genome mutation. Hence TP53 is classified as a tumor suppressor gene. (Italics are used to denote the TP53 gene name and distinguish it from the protein it encodes.) The name p53 was given in 1979 describing the apparent molecular mass; SDS-PAGE analysis indicates that it is a 53-kilodalton (k. Da) protein. However, the actual mass of the full-length p53 protein (p53a) based on the sum of masses of the amino acid residues is only 43. 7 k. Da. This difference is due to the high number of proline residues in the protein, which slow its migration on SDS-PAGE, thus making it appear heavier than it actually is. In addition to the full-length protein, the human TP53 gene encodes at least 15 protein isoforms, ranging in size from 3. 5 to 43. 7 k. Da. All these p53 proteins are called the p53 isoforms. The TP53 gene is the most frequently mutated gene (>50%) in human cancer, indicating that the TP53 gene plays a crucial role in preventing cancer formation. TP53 gene encodes proteins that bind to DNA and regulate gene expression to prevent mutations in the genome",
-        "cop": 4,
-        "opa": "Triggering of the production of p21",
-        "opb": "Inducing apoptosis",
-        "opc": "Getting complexed with other transforming proteins",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "0c583930-0981-4634-aeea-2eb2738eb8c7",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the role of H2 histone?",
         "exp": "Types Function H1 histones Stabilize the 30-nm chromatin fiber H2 histones H2A-H2B dimers stabilize the primary paicle and firmly bind two additional half-turns of DNA H3 histones H4 histones (H3-H4)2 tetramer has a central role in the formation of the nucleosome Reference: Harpers illustrated biochemistry 30th edition",
         "cop": 4,
@@ -3599,19 +2403,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "3833a554-4af9-4845-837c-ca3301ced962",
         "choice_type": "single"
-    },
-    {
-        "question": "Synthesis of an immunoglobulin in membrane-bound or secretory form is determined by",
-        "exp": "The regulation of gene expression is not confined to the differential transcription of DNA. Even if a paicular RNA transcript is synthesized, there is no guarantee that it will create a functional protein in the cell. To become an active protein, the RNA must be (1) processed into a messenger RNA by the removal of introns, (2) translocated from the nucleus to the cytoplasm, and (3) translated by the protein-synthesizing apparatus. In some cases, the synthesized protein is not in its mature form and (4) must be posttranslationally modified to become active. Regulation can occur at any of these steps during development.",
-        "cop": 3,
-        "opa": "One turn to two turn joining rule",
-        "opb": "Class switching",
-        "opc": "Differential RNA processing",
-        "opd": "Allelic exclusion",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "4db8f8e1-790e-4d78-add1-f3e12dc6f223",
-        "choice_type": "multi"
     },
     {
         "question": "Biotechnology is/are used for",
@@ -3640,32 +2431,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about Restriction enzyme",
-        "exp": "Restriction enzyme or restriction endonuclease is an enzyme that cuts DNA at or near specific recognition nucleotide sequences known as restriction sites. Recognising a palindromic sequence enables them to cut both strands of DNA at the \"same\" site because the strand will have the same sequence only in different directions at that site.",
-        "cop": 1,
-        "opa": "Palindromic",
-        "opb": "Produce DNA sticky end",
-        "opc": "Restict replication of DNA",
-        "opd": "Restriction sites are not specific",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "01ffae86-3944-4bdf-8baa-16c1eacb7c98",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about genetic code except",
-        "exp": "The codes are consecutive Therefore, the staing point is extremely impoant The codons are read one after another in a continuous manner Eg: AUG, CAU, GAU, GCA etc. Ref: DM Vasudevan, 7th edition, page no: 598",
-        "cop": 2,
-        "opa": "Degenerate",
-        "opb": "Overlapping",
-        "opc": "Ambiguous",
-        "opd": "Universal",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "fecc9089-5aba-4031-92e9-c0e2014b5bec",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which one of the following is the complementary sequence of 5&; TTAAGCTAC3&;?",
         "exp": "The sides of the DNA molecule are made up of sugar (deoxyribose) and phosphate molecules. The rungs that form the middle of the molecule are made up of pairs of nucleotides or nitrogen bases. Adenine (A) pairs with thymine (T), while guanine (G) always pairs with cytosine (C). The order of the bases determines the genetic code.",
         "cop": 2,
@@ -3692,19 +2457,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Inhibition of protein synthesis in translocation steps occurs by",
-        "exp": "Reversible Inhibitors in bacteria: These antibiotics are bacteriostatic. Tetracycline bind to the 30S subunit of bacterial ribosome and so inhibit attachment of aminoacyl t. RNA to the A site of ribosomes. Chloramphenicol inhibits the peptidyl transeferase acitivity of bacterial ribosomes. Erythromycin (macrolides) and clindamycin prevent the translocation process. REFERENCE: DM. VASUDEVAN. TEXTBOOK; SEVENTH EDITION; PAGE NO: 605.",
-        "cop": 2,
-        "opa": "Tetracycline",
-        "opb": "Erythromycin",
-        "opc": "Aminoglycosides",
-        "opd": "Penicillin",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "a429b25b-2e24-457d-a12c-9440f4e0b62e",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most abundant nucleotide in body is",
         "exp": "NUCLEOSIDE TRIPHOSPHATE: Corresponding nucleoside di- and tri-phosphates are formed by esterification of fuher phosphate groups to the existing ons. Nucleside diphosphate contains one high energy bond and triphosphates have 2 high energy bonds. ATP is the UNIVERSAL ENERGY CURRENCY. It is formed during oxidative processes by trapping the released energy in the high energy phosphate bond. REF: DM VASUDEVAN TEXTBOOK, 7. TH EDITION; Page no: 562.",
         "cop": 1,
@@ -3716,19 +2468,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "36c90fcd-43d5-434d-be56-014c0fbe60c1",
         "choice_type": "single"
-    },
-    {
-        "question": "True about silent mutation in gene",
-        "exp": "a point mutation may change the codon for one amino acid to a synonym for the same amino acid Thus the mutation is silent and has no effect on the phenotype For example CUA is mutated to CUC both code for leucine and so this mutation has no effect. Ref: DM Vasudevan, 7th edition, page no: 613",
-        "cop": 2,
-        "opa": "No change in m. RNA",
-        "opb": "No change in Amino acid sequence in protein",
-        "opc": "No expression of protein",
-        "opd": "No change in expression of protein",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "6e595e45-76cd-43fe-9422-59c13b7a9745",
-        "choice_type": "multi"
     },
     {
         "question": "In E. coli, Ahur Kornberg found which enzyme?",
@@ -3755,19 +2494,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "93da5b2c-6644-47e8-a7ed-a4046747ad2a",
         "choice_type": "single"
-    },
-    {
-        "question": "Frameshift mutation does not effect complete amino acid sequence if it occurs in multiple of",
-        "exp": "Question repeated",
-        "cop": 3,
-        "opa": "1",
-        "opb": "2",
-        "opc": "3",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "d286a7cd-b68a-4a2d-9a19-fb63bde8d04a",
-        "choice_type": "multi"
     },
     {
         "question": "Eukaryotic DNA polymerase involved in proofreading and DNA repair during replication is",
@@ -3822,19 +2548,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following molecules are a pa of the synthesis of a purine ring except?",
-        "exp": "Reference: Harpers illustrated biochemistry 30th edition",
-        "cop": 1,
-        "opa": "Lysine",
-        "opb": "Glycine",
-        "opc": "Glutamine",
-        "opd": "Aspaate",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "d974fdb4-034e-46e7-9204-c4e36871066e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which DNA polymerase is/are involved in repair of mammalian DNA?",
         "exp": "DNAP alphe polymerizes about 100 nucleotides per second Major enzyme which synthesizes Okazaki fragments DNAP delta responsible for leading strand synthesis and elongates the Okazaki fragments DNAP beta is proofreading and repair enzyme DNAP gamma is concerned with mitochondrial DNA replication Ref: DM Vasudevan, 7th edition, page no: 580",
         "cop": 2,
@@ -3885,19 +2598,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "01d5a23b-3503-4bcd-8946-8c3416a606d9",
         "choice_type": "single"
-    },
-    {
-        "question": "True about Hybridoma",
-        "exp": "Hybridomas are produced by injecting a specific antigen into a mouse, collecting an antibody-producing cell from the mouse's spleen, and fusing it with a tumor cell called a myeloma cell. The hybridoma cells multiply indefinitely in the laboratory and can be used to produce a specific antibody indefinitely Ref satyanarayana 4e",
-        "cop": 1,
-        "opa": "Immoalise myeloma cell",
-        "opb": "Hybridoma cell produced by fusion of T-cell & myeloma",
-        "opc": "Cell is human origin",
-        "opd": "Prior immunisation is done",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "053d85e4-3d2f-4568-bac0-c748a3d983f3",
-        "choice_type": "multi"
     },
     {
         "question": "Which is non-sense codon?",
@@ -3965,32 +2665,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is not a step of PCR?",
-        "exp": "The PCR is a method of amplifying a target sequence of DNA. The development of PCR has revolutionized the ways in which both DNA and RNA can be studied. PCR provides a sensitive, selective, and extremely rapid means of amplifying any desired sequence of DNA. Specificity is based on the use of two oligonucleotide primers that hybridize to complementary sequences on opposite strands of DNA and flank the target sequence. The two DNA strands each serve as a template for the synthesis of new DNA from the two primers. Repeated cycles of heat denaturation, annealing of the primers to their complementary sequences, and extension of the annealed primers with DNA polymerase result in the exponential amplification of DNA segments of defined length (a doubling at each cycle). Ref: Harpers Illustrated Biochemistry, 30th edition, page no: 458",
-        "cop": 3,
-        "opa": "Annealing",
-        "opb": "Extension",
-        "opc": "Transformation",
-        "opd": "Denaturation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "978ef9fb-9eb1-4697-9024-39d854eb70b3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Enzyme replacement therapy is available for",
-        "exp": "Enzyme replacement therapy (E) for type 1 Gaucher disease includes imiglucerase (Cerezyme), velaglucerase alfa (VPRIV), and taliglucerase alfa (Elelyso). Historically, most patients received the recombinant enzyme imiglucerase Ref-D. M. Vasudevan 7/e p407",
-        "cop": 1,
-        "opa": "Gauchers disease",
-        "opb": "Galactosemia",
-        "opc": "Fructosuria",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "e917f649-edac-4f1f-9caa-47cf63ce30f6",
-        "choice_type": "multi"
-    },
-    {
         "question": "In urea cycle, hydrolysis of arginine forms",
         "exp": "Hydrolysis of arginine by enzyme arginase produce ornithine and urea Ref-Sathyanarayana 4/e p393",
         "cop": 2,
@@ -4002,19 +2676,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "566bff35-6b36-4464-b6b1-c812571ecc30",
         "choice_type": "single"
-    },
-    {
-        "question": "BAse substitution mutations can have been following molecular consequence except",
-        "exp": "A substitution is a mutation that exchanges one base for another (i. e., a change in a single \"chemical letter\" such as switching an A to a G). Such a substitution could: Change a codon to one that encodes a different amino acid and causes a small change in the protein produced. For example, sickle cell anemia is caused by a substitution in the beta-hemoglobin gene, which alters a single amino acid in the protein produced. Change a codon to one that encodes the same amino acid and causes no change in the protein produced. These are called silent mutations. Change an amino-acid-coding codon to a single \"stop\" codon and cause an incomplete protein. This can have serious effects since the incomplete protein probably won&; t function.",
-        "cop": 3,
-        "opa": "Changes one codon for an amino acid into another codon for that same amino acid",
-        "opb": "Codon for one amino acid is change into a codon of another amino acid",
-        "opc": "Reading frame changes downstream to the mutant site",
-        "opd": "Codon for one amino acid is changed into a translation termination codon",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "ae7222a4-9566-4e65-99a7-45e01c9fddbe",
-        "choice_type": "multi"
     },
     {
         "question": "In molecular cloning, Blue-white screening is used for",
@@ -4030,32 +2691,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Fatty acids used by all except",
-        "exp": "Ref-Harpers illustrated biochemistry 30/e p374 Fatty. Fatty acids do not serve as fuel for the brain, because they are bound to albumin in plasma and so do not traverse the blood-brain barrier. In starvation, ketone bodies generated by the liver paly replace glucose as fuel for the brain. Muscle. The major fuels for muscle are glucose, fatty acids, and ketone bodies.",
-        "cop": 3,
-        "opa": "Liver",
-        "opb": "Muscle",
-        "opc": "Brain",
-        "opd": "Kidney",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "009751e4-9001-4bee-a853-42b2528c8c12",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are examples of point mutation, except",
-        "exp": "A frameshift mutation is a genetic mutation caused by a deletion or inseion in a DNA sequence that shifts the way the sequence is read. A DNA sequence is a chain of many smaller molecules called nucleotides Ref-Harpers illustrated biochemistry 30/e p658",
-        "cop": 2,
-        "opa": "Silent mutation",
-        "opb": "Frame-shift mutation",
-        "opc": "Missense mutation",
-        "opd": "Nonsense mutation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "cf3f756a-25e0-45a7-a533-3bd849fc1c55",
-        "choice_type": "multi"
-    },
-    {
         "question": "PCR requires",
         "exp": "A primer is a sho strand of RNA or DNA (generally about 18-22 bases) that serves as a staing point for DNA synthesis. Polymerase chain reaction uses DNA primers because they are more temperature stable. In experiments, it is often impoant to use a primer with a similar Tm to the template strand it will be hybridizing to. Ref: DM Vasudevan, 7th edition, page no: 638",
         "cop": 1,
@@ -4067,19 +2702,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "c1a26a41-e935-4e31-9262-d9a357b7ce93",
         "choice_type": "single"
-    },
-    {
-        "question": "Pyrimidine metabolism end product",
-        "exp": "Unlike the low solubility products of purine catabolism, catabolism of the pyrimidines forms highly water-soluble products-- CO2, NH3, b-alanine, and b-aminoisobutyrate (Figure 33-12). Humans transaminate b-aminoisobutyrate to methylmalonate semialdehyde, which then forms succinyl-CoA (see Figure 19-2). Excretion of b-aminoisobutyrate increases in leukemia and severe x-ray radiation exposure due to increased destruction of DNA. However, many persons of Chinese or Japanese ancestry routinely excrete b-aminoisobutyrate. Ref: Harpers Illustrated Biochemistry, 30th edition, page no: 355",
-        "cop": 3,
-        "opa": "Urea",
-        "opb": "Uric acid",
-        "opc": "Beta alanine",
-        "opd": "Allantoin",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "7d7de101-7590-45bb-a914-b7bee77fda4b",
-        "choice_type": "multi"
     },
     {
         "question": "Cytoplasmic translation system has the following number of t-RNAs",
@@ -4106,19 +2728,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "6b87c9f5-391d-42c1-8437-72371d3d7753",
         "choice_type": "single"
-    },
-    {
-        "question": "In humans, end product of purine metabolism",
-        "exp": "Question repeated",
-        "cop": 2,
-        "opa": "Allantoin",
-        "opb": "Uric acid",
-        "opc": "CO2",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "3b348d13-eafe-4079-8703-e63194d60887",
-        "choice_type": "multi"
     },
     {
         "question": "Intron is not found in which DNA?",
@@ -4160,32 +2769,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Enzyme used in PCR is",
-        "exp": "In step 3 i. e polymerization: New DNA strands are synthesized by Taq polymerase. This enzyme is derived from bacteria Thermus acquaticus that are found in hot springs. Therefore the enzyme is not denatured at high temperature. REFERENCE: DM. VASUDEVAN. TEXTBOOK; SEVENTH EDITION; PAGE NO: 638.",
-        "cop": 2,
-        "opa": "Reverse transcriptase",
-        "opb": "Taq polymerase",
-        "opc": "RNA polymerase",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "41eafb0d-e3f2-4276-9d19-3c34890843a6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following disease show Mitochondrial diseases except",
-        "exp": "Huntington&; s disease (HD), also known as Huntington&; s chorea, is an inherited disorder that results in death of brain cells. The earliest symptoms are often subtle problems with mood or mental abilities. A general lack of coordination and an unsteady gait often follow. As the disease advances, uncoordinated, jerky body movements become more apparent. Physical abilities gradually worsen until coordinated movement becomes difficult and the person is unable to talk. Mental abilities generally decline into dementia. The specific symptoms vary somewhat between people. Symptoms usually begin between 30 and 50 years of age, but can sta at any age. The disease may develop earlier in life in each successive generation. About 8% of cases sta before the age of 20 years and typically present with symptoms more similar to Parkinson&; s disease. People with HD often underestimate the degree of their problems. HD is typically inherited from a person&; s parents, with 10% of cases due to a new mutation. The disease is caused by an autosomal dominant mutation in either of an individual&; s two copies of a gene called Huntingtin. This means a child of an affected person typically has a 50% chance of inheriting the disease. The Huntingtin gene provides the genetic information for a protein that is also called \"huntingtin\". Expansion of CAG (cytosine-adenine-guanine) triplet repeats in the gene coding for the Huntingtin protein results in an abnormal protein, which gradually damages cells in the brain, through mechanisms that are not fully understood. Diagnosis is by genetic testing, which can occur at any point in time, regardless of whether or not symptoms are present. This fact raises several ethical debates: the age at which an individual is considered mature enough to choose testing; whether parents have the right to have their children tested; and managing confidentiality and disclosure of test results. Ref: https://en. wikipedia. org/wiki/Huntington&; s_disease",
-        "cop": 4,
-        "opa": "Leigh syndrome",
-        "opb": "Leber's hereditary optic neuropathy",
-        "opc": "Myoclonic epilepsy",
-        "opd": "Huntington's disease",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "1e9fb98a-b5b4-4e62-a195-9bcd192867f7",
-        "choice_type": "multi"
-    },
-    {
         "question": "Lesch - Nyhan Syndrome - associated with",
         "exp": "It is X-linked inherited disorder of purine metabolism. Deficiency of HGPase, so the rate of salvage pathway is decreased resulting in the accumulation of PRPP and decreased level of inhibitory purine nucleotide Disease is characterized by self-mutilation, mental retardation excessive uric acid and nephrolithiasis Ref: DM Vasudevan, 7th edition, page no: 568",
         "cop": 3,
@@ -4225,19 +2808,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are diseases of defective DNA repair except",
-        "exp": "Human Diseases of DNA Damage Repair Repair Defective Nonhomologous End Joining Repair (NHEJ) Severe combined immunodeficiency disease (SCID) Radiation sensitive severe combined immunodeficiency disease (RS-SCID) Defective Homologous Repair (HR) AT -like disorder (AT LD) Nijmegen breakage syndrome (NBS) Bloom syndrome (BS) Werner syndrome (WS) Rothmund-Thomson syndrome ( S) Breast cancer susceptibility 1 and 2 (BRCA1, BRCA2) Defective DNA Nucleotide Exicision Repair (NER) Xeroderma pigmentosum (XP) Cockayne syndrome (CS) Trichothiodystrophy (TT D) Defective DNA Base Excision Repair (BER) MUTYH-associated polyposis (MAP) Defective DNA Mismatch Repair (MMR) Hereditary nonpolyposis colorectal cancer (HNPCC) Harper30e pg: 390",
-        "cop": 2,
-        "opa": "Severe combined immunodeficiency disease",
-        "opb": "Adenosis polyposis coli",
-        "opc": "Bloom syndrome",
-        "opd": "Breast cancer susceptibility 1 (BRCA 1)",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "f3535592-dc86-4e55-825e-aba304ab9b8b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Karyotyping under light microscopy is done by",
         "exp": "G-banding, G banding, or Giemsa banding is a technique used in cytogenetics to produce a visible karyotype by staining condensed chromosomes. It is useful for identifying genetic diseases through the photographic representation of the entire chromosome complement.",
         "cop": 3,
@@ -4264,19 +2834,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Methods of introducing gene in target cells are all except",
-        "exp": "Fluorescence in situ hybridization(FISH) is a cytogenetic technique that uses fluorescent probes that bind to only those pas of the chromosome with a high degree of sequence complementarity.",
-        "cop": 4,
-        "opa": "Electroporation",
-        "opb": "Transfection",
-        "opc": "Site directed recombination",
-        "opd": "FISH",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "3befe139-cb58-47a0-a123-a236dc563349",
-        "choice_type": "multi"
-    },
-    {
         "question": "Lesh Nyhan syndrome is associated with deficiency of",
         "exp": "REF: DM VASUDEVAN TEXTBOOK: 7th EDITION; Page no: 403 Disease deficient enzyme GPD Deficiency G6. PD Gaucher's disease beta glucosidase Lesch-Nyhan syndrome HGPase",
         "cop": 2,
@@ -4288,32 +2845,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "731a6857-96f9-4bcc-82d3-59b18c8d0d14",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following compounds is an analogue of hypoxanthine?",
-        "exp": "Allopurinol acts on purine catabolism, without disrupting the biosynthesis of purines. It reduces the production of",
-        "cop": 2,
-        "opa": "Arabinoside C",
-        "opb": "Allopurinol",
-        "opc": "Ribose phosphate",
-        "opd": "5-phosphoribosylpyrophosphate (PRPP)",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "0fb18048-57e5-407b-9439-c0ea73e044c6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement about transgenic mice is",
-        "exp": "In 1974 Rudolf Jaenisch created the first genetically modified animal by inseing a DNA virus into an early-stage mouse embryo and showing that the inseed genes were present in every cell.",
-        "cop": 1,
-        "opa": "Developed from DNA inseion into feilized egg",
-        "opb": "Have same genome as parents except one or more genes",
-        "opc": "Identical genome to parent mice",
-        "opd": "Produced by breeding over several generations",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "45cc3a80-f42e-4813-bbbe-534fbacb0821",
-        "choice_type": "multi"
     },
     {
         "question": "Okazaki fragments are found during",
@@ -4340,19 +2871,6 @@
         "topic_name": "Metabolism of nucleic acids",
         "id": "1410aca7-ce2b-4fbe-a72c-cd33248aa46c",
         "choice_type": "single"
-    },
-    {
-        "question": "PCR detects",
-        "exp": "Polymerase chain reaction (PCR) is a technique used in molecular biology to amplify a single copy or a few copies of a piece of DNA across several orders of magnitude, generating thousands to millions of copies of a paicular DNA sequence. Ref: DM Vasudevan, 7th edition, page no: 638",
-        "cop": 3,
-        "opa": "Antigen",
-        "opb": "Antibody",
-        "opc": "Nucleic acid",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Metabolism of nucleic acids",
-        "id": "bffcc099-d30d-45e6-97f7-010c0b96d330",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following enzymes unwind DNA?",

@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Not recommended for management of Tumour lysis syndrome?",
-        "exp": "Tumor lysis syndrome Rx: IV fluids Rasburicase Allopurinol Febuxostat (Soda Bicarbonate) alkalinisation of urine is not advantage for TLS.",
-        "cop": 3,
-        "opa": "Allopurinol",
-        "opb": "Febuxostat",
-        "opc": "Urinary alkalinisation using soda bicarbonate",
-        "opd": "Rasburicase",
-        "subject_name": "Medicine",
-        "topic_name": "Acute Kidney Injury",
-        "id": "e130772c-e9f8-4d62-9977-89e07b1ac1b1",
-        "choice_type": "multi"
-    },
-    {
         "question": "In renal failure, metabolic acidosis is due to?",
         "exp": "Metabolic acidosis can occur because of increased endogenous acid production (lactate and ketoacids) loss of bicarbonate accumulation of endogenous acid (as seen in renal failure) -Ammonia is excreted out linked to H+ as ammonium ion and for every positive charge lost, chloride is lost to maintain electroneutrality. -In case of a renal failure both ammonia and protons are retained leading to high anion gap acidosis as the positive charges in the body are increased.",
         "cop": 3,
@@ -102,19 +89,6 @@
         "topic_name": "Acute Kidney Injury",
         "id": "4219adf2-66e3-4b4f-bcd9-9362a20f5883",
         "choice_type": "single"
-    },
-    {
-        "question": "All are markers of acute kidney injury except?",
-        "exp": "Acid phosphatase is NOT a marker of AKI, instead, it is alkaline phosphatase. * List of markers for AKI 1. Alanine aminopeptidase 2. Alkaline phosphatase 3. Glutamyl transpeptidase 4. Glutamyl S transferase 5. Alpha 1 microglobulin 6. Beta 2 microglobulin 7. Kidney injury molecule 8. Osteopontin 9. Clusterin 10. Neutrophil gelatinase-associated lipocalin",
-        "cop": 4,
-        "opa": "Clusterin",
-        "opb": "Osteopontin",
-        "opc": "Alanine aminopeptidase",
-        "opd": "Acid phosphatase",
-        "subject_name": "Medicine",
-        "topic_name": "Acute Kidney Injury",
-        "id": "bce2edec-0c9e-4b56-8162-f3b421abec02",
-        "choice_type": "multi"
     },
     {
         "question": "Anuria is defined as urine output less than?",

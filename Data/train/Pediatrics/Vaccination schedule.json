@@ -1,31 +1,5 @@
 [
     {
-        "question": "Vaccines that must be given before age of two years according to IAP are all of the following EXCEPT?",
-        "exp": "Vaccine Recommended age of vaccination (1st dose) a. Varicella vaccine 15 months b. MMR vaccine 9 months c. Conjugated typhoid vaccine 9 months d. Pneumococcal polysaccharide vaccine Beyond 2 yrs age - As polysaccharides stimulate B-cells independent of T-cells, the pneumococcal polysaccharide is poorly immunogenic at <2yrs age & immunological memory is low - Hence, it is recommended beyond 2yrs of age.",
-        "cop": 4,
-        "opa": "Varicella vaccine",
-        "opb": "MMR vaccine",
-        "opc": "Conjugated typhoid vaccine",
-        "opd": "Pneumococcal polysaccharide vaccine",
-        "subject_name": "Pediatrics",
-        "topic_name": "Vaccination schedule",
-        "id": "64dfdc51-f84f-492f-be29-08836ade8180",
-        "choice_type": "multi"
-    },
-    {
-        "question": "About Hepatitis A vaccine schedule, true are all of the following EXCEPT?",
-        "exp": "As per IAP, dose of Hepatitis A vaccine is: - Inactivated vaccine - given in child >1yr of age - 2 doses; 6 months apa - Live attenuated vaccine - given in child >1yr of age - 1 dose of H2 strain - IAP recommends Hep-A vaccination to all children",
-        "cop": 4,
-        "opa": "Recommended at age of 12 months",
-        "opb": "2 dose of killed vaccine 6 months apa",
-        "opc": "1 dose of live vaccine",
-        "opd": "Recommended only in immunocompromised children",
-        "subject_name": "Pediatrics",
-        "topic_name": "Vaccination schedule",
-        "id": "be1a53a0-a351-4ed8-8574-20cb39fa82cc",
-        "choice_type": "multi"
-    },
-    {
         "question": "An eight-months-old child had history of unusual crying, altered sensorium & convulsions following previous vaccination after BCG, DPT & OPV (first dose) & Hepatitis B. Now parents have brought child for next doses of vaccination. Which vaccine is contraindicated in this situation?",
         "exp": "Absolute contraindications to any peussis vaccination (including DTwP vaccine) are: - Anaphylaxis after previous dose. - Development of encephalopathy within 7 days following previous DTwP vaccination. - Progressive neurological disease - Relative contraindication. - Precautions: Previous dose associated with Persistent inconsolable crying of > 3 hrs, < 48hrs Hyperpyrexia (fever > 40. 5degC) hypotonic hyporesponsive episodes (HHE) within 48 hours of DTwP administration seizures with or without fever within 72 hours of administration of DTwP - These are considered as precautions but not contraindications to future doses of DTwP because these events generally do not reoccur with the next dose and they haven't been proven to cause permanent sequelae. But in case an event recurs with a subsequent dose, then fuher doses are contraindicated.",
         "cop": 2,
@@ -76,19 +50,6 @@
         "topic_name": "Vaccination schedule",
         "id": "42c8878a-3f15-4acb-91ff-28ccded040e4",
         "choice_type": "single"
-    },
-    {
-        "question": "True regarding MMR vaccine are all of the following except -",
-        "exp": "Option (1) - True - Adverse events from MMR vaccine include fever (usually 6-12 days following vaccination), rash in 5% of vaccinated persons, ahralgia, aseptic meningitis, lymphadenopathy Option (2) - True - MMR is a live vaccine Option (3) - False - All live vaccines except yellow fever vaccine are contraindicated in pregnant women Option (4) - True -Evidence shows that aseptic meningitis is a/w all mumps vaccine strains except the Jerryl Lynn strain.",
-        "cop": 3,
-        "opa": "May lead to fever & rash in vaccinated population",
-        "opb": "It is a live vaccine",
-        "opc": "MMR can be given to pregnant females",
-        "opd": "Jeryl lynn strain has the lowest incidence of post vaccine aseptic meningitis",
-        "subject_name": "Pediatrics",
-        "topic_name": "Vaccination schedule",
-        "id": "549b1373-43e6-4526-b3f6-73d1d8e9fb2a",
-        "choice_type": "multi"
     },
     {
         "question": "A child who has not been vaccinated with H. influenzae comes to the OPD at 14 months. How many doses, including booster would you like to give to this child?",

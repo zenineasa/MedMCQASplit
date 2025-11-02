@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Antibiotic structurally resembling Aminoacyl t-RNA and inhibiting protein synthesis in both prokaryotes as well as eukaryotes is?",
-        "exp": "1. Puromycin is an Aminonucleoside antibiotic derived from the Streptomyces alboniger bacterium. 2. It can causes premature chain termination during translation and the pa of it resembles the 3' end of the Aminoacyl t. RNA. 3. It can inhibit protein synthesis in both bacteria as well as humans",
-        "cop": 4,
-        "opa": "Azithromycin",
-        "opb": "Tetracycline",
-        "opc": "Chloramphenicol",
-        "opd": "Puromycin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Protein Synthesis Inhibitors",
-        "id": "6f691d0f-d4df-41e7-9e5a-a0b248239470",
-        "choice_type": "multi"
-    },
-    {
         "question": "The drug having higher concentration in the bone:",
         "exp": "Poor bone penetration. - B lactams - Vancomycin - Aminoglycoside Good bone penetration (Higher concentration in Bone) * Tetracycline * Macrolide * Clindamycin",
         "cop": 3,
@@ -143,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Gentamicin is not given orally because:-",
-        "exp": "AMINOGLYCOSIDES These include streptomycin, gentamicin, kanamycin, tobramycin, amikacin, sisomicin, netilmicin, neomycin and framycetin. These are not absorbed orally and do not cross blood brain barrier. These are excreted primarily by glomerular filtration and the dose should be decreased in renal insufficiency. These drugs exhibit CDK and have prolonged PAE, therefore are administered as single daily dose. Aminoglycosides are bactericidal inhibitors of protein synthesis. Their penetration across the cell wall is dependent on the oxygen dependent transpo, therefore these drugs are inactive against anaerobes. Resistance to these drugs develops due to the formation of inactivating enzymes",
-        "cop": 4,
-        "opa": "It has adverse effects on gastric mucosa",
-        "opb": "It interferes with absorption of other drugs",
-        "opc": "It is rapidly destroyed by gastric acid",
-        "opd": "It has poor absorption",
-        "subject_name": "Pharmacology",
-        "topic_name": "Protein Synthesis Inhibitors",
-        "id": "082dd8c4-4f49-411f-8cc2-f8689d16dc4e",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most impoant mechanism by which gram negative bacilli acquire chloramphenicol resistance is:",
         "exp": "Resistance to chloramphenicol is usually by a plasmid encoded enzyme acetyltransferase which inactivates the drug. it can also be due to decreased permeability of the drug into the cell and also due to ribosomal mutation. Antimicrobial resistance through inactivating enzymes develops against: A: Aminoglycosides B: Beta lactams C: Chloramphenicol",
         "cop": 2,
@@ -167,19 +141,6 @@
         "topic_name": "Protein Synthesis Inhibitors",
         "id": "f4b4302a-574d-4906-90bf-d709abf6c939",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements about the clinical uses of the aminoglycosides is FALSE?",
-        "exp": "Aminoglycosides: The aminoglycosides are polar in nautre and therefore are poorly absorbed from the GI tract generally less than 1% is absorbed. Their action depends upon oxygen dependent system on cell membrane of bacteria that helps to transpo the drug into the cell. So they are effective only for aerobic organisms only. Not for anaerobic organisms. Since Bacteroides fragilis is a anaerobic bacteria, aminoglycosides are not effective in this case. Aminoglycosides are bactericidal drugs. The bactericidal effect of aminoglycosides is concentration dependent; that is, efficacy is dependent on the maximum concentration (Cmax) of drug above the minimum inhibitory concentration (MIC) of the organisms. Aminoglycosides frequently are used in combination with a cell wall active agent (b-lactam or glycopeptide) to provide synergistic bacterial killing and to prevent the emergence of resistance to the individual agents. This clinical response is most well established for the treatment of endocarditis due to gram-positive organisms, most impoantly Enterococcus",
-        "cop": 3,
-        "opa": "Owing to their polar nature, aminoglycosides are not absorbed following oral administration",
-        "opb": "Aminoglycosides are often used in combination with cephalosporins in the empirical treatment of life-threatening bacterial infections",
-        "opc": "The spectrum of antimicrobial activity of aminoglycosides includes Bacteroides fragilis",
-        "opd": "Gentamicin is used with ampicillin for synergistic effects in the treatment of enterococcal endocarditis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Protein Synthesis Inhibitors",
-        "id": "b17d02a0-6def-4be5-8ee4-98a42771ec06",
-        "choice_type": "multi"
     },
     {
         "question": "Which drug of the following is contraindicated in a pregnant female?",
@@ -232,19 +193,6 @@
         "topic_name": "Protein Synthesis Inhibitors",
         "id": "f3b65e9c-29d2-4a0d-941e-5c52b24284cb",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following organisms are susceptible to Amikacin except:",
-        "exp": "Amikacin: Its active against many Gram negative bacteria, including many strains of Proteus, Pseudomonas, Enterobacter, and Serratia. It also active against M. Tb and also Streptomycin resistant strains. However it is not active against Enterococci and Gram positive bacteria. So it should not be used against these.",
-        "cop": 4,
-        "opa": "Pseudomonas",
-        "opb": "Serratia",
-        "opc": "Proteus",
-        "opd": "Enterococci",
-        "subject_name": "Pharmacology",
-        "topic_name": "Protein Synthesis Inhibitors",
-        "id": "e60ba147-1f12-45ad-a118-6616b9a0a1c1",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following antimicrobial stops protein synthesis by inhibition of translocation?",
@@ -336,19 +284,6 @@
         "topic_name": "Protein Synthesis Inhibitors",
         "id": "ed80b16b-eb34-4b8b-ad6a-b3b996dcc5e0",
         "choice_type": "single"
-    },
-    {
-        "question": "Time dependent Killing is exhibited by all the following drugs except:",
-        "exp": "* Time dependent killing(TDK): Here, the killing activity depends upon the length of time, plasma concentration is above MIC. It is shown by:* Beta Lactams.* Vancomycin Concentration dependent killing(CDK): Here, killing activity depends upon the ratio of plasma concentration to MIC. It is shown by:* Aminoglycosides.* Flouroquinolone* Metronidazole. So, Gentamicin is the answer.",
-        "cop": 3,
-        "opa": "Ceftriaxone",
-        "opb": "Vancomycin",
-        "opc": "Gentamicin",
-        "opd": "Meropenem",
-        "subject_name": "Pharmacology",
-        "topic_name": "Protein Synthesis Inhibitors",
-        "id": "857f0b90-de63-4fbb-8864-94dea9de31bd",
-        "choice_type": "multi"
     },
     {
         "question": "On chronic use Linezolid leads to which of the following?",

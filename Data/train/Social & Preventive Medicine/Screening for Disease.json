@@ -1,70 +1,5 @@
 [
     {
-        "question": "Observe the following curves. What will happen to Sensitivity and Specificity if curve changes from Blue to Red?",
-        "exp": "(a) Both Sensitivity & Specificity increase* If Blue color curve changes to Red color curve (see Photograph in Question), then- FN will reduce, Sensitivity will increase (see Photograph given in Answer)- FP will reduce, Specificity will increase (see Photograph given in Answer).",
-        "cop": 1,
-        "opa": "Both Sensitivity & Specificity increase",
-        "opb": "Both Sensitivity & Specificity decrease",
-        "opc": "Sensitivity increase & Specificity decrease",
-        "opd": "Sensitivity decrease & Specificity increase",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "8ecbc824-aee8-4d33-80ca-843f8f2b2782",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Denominator of positive predictive value",
-        "exp": "Ans. c (Number of true positives + number of false positives) (Ref. Park PSM 22nd/pg. 131). Topic. Equation Sensitivity. Sensitivity =a--a+c. Specificity. Specificity =d-b+d. Positive predictive value. PPV =a--a + b Negative predictive value. NPV =d--c+d Relative risk. RR =a--a + b c--c+d Attribute risk. AR =a--a+bc--c+d. Hardy-Weinberg equilibrium. P2 + 2pq + q2 =1p + q = l. The positive predictive value. or precision rate, is the proportion of patients with positive test results who are correctly diagnosed. It is considered the physician's gold standard, as it reflects the probability that a positive test reflects the underlying condition being tested for. Related calculations. False positive rate (a) = FP/(FP +TN) = 18/(18+182) = 90% = 1 - specificity. False negative rate (b) = FN/(TP+FN) =1 (2+1) = 33% = 1 - sensitivity. Power =1 - b. Definition: PPV =Number of True Positives-----------------------------------------Number of true positives + Number of False Positives or, alternatively. PPV =(Sensitivity) (prevalence)----------------------------------(Sensitivity) (prevalence) + (1 - specificity) (1 - prevalence). The negative predictive value is the proportion of patients with negative test results who are correctly diagnosed. NPV =Number of True Negatives----------------------------------------Number of True Negatives + Number of False Negatives or alternatively. NPV =Specificity x (1 - prevalence)----------------------------------Specificity x (1 - prevalence) + ( 1 - sensitivity) x prevalence",
-        "cop": 3,
-        "opa": "Number of true negatives + number of false negatives",
-        "opb": "Number of true positives + number of true negatives",
-        "opc": "Number of true positives + number of false positives",
-        "opd": "Number of true positives + number of false negatives",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "ef2a2628-86dd-41c9-aaac-44e9a4d0c5a9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Numerator in negative predictive value -",
-        "exp": "Ans. is 'c' i. e., True negative o The results of a screening test can be arranged in following table: -Screening test results. Diagnosis. Total. Diseased. Not diseased. Positive. Negative. True positive (a). False negative (c). False positive (b). True negative (d)a + bc + d. Totala + cb + d From this table following measure can be obtained: -i) Sensitivityo It is the percentage of diseased people that wrho are diagnosed as having disease, o Total number of diseased people = True positive + False negative. o Number of people (among diseased people) diagnosed as having disease = True positives, o So, percentage of truely diagnosed people: -Number of true positive. Sensitivity = ---------------------------------------------------------------------------------Number of true positives - Number of false negative. Specificityo It is the percentage of healthy people who are identified as healthy. o Total number of healthy people = True negatives + False positiveso Number of healthy people who are identified as healthy = True negatives, o So, percentage of true healthy people: -Number of true negatives. Specificity = ------------------------------------------------------------------------------------Number of true negative + number of false positives. Predictive valve of a positive test (positive predictive value of secreening test)o It is the percentage of truely diseased people among those who show positive test results, o Total number of people showing positive test results = True positive + False positiveo Numbers of truely diseased people showing positive test = true positive, o So, the percentage of truely diseased people: -True positive. Positive predictive value = ------------------------------------------------------------------------True positive + False positiveiv) Predictive value of a negative of test (negative predictive value)o It is the percentage of healthy people among those who show negative test results, o Total number of people showing negative test results = True negative + False negativeo Number of healthy people showing negative test = True negativeo So, percentage of healthy people showing negative results. True negative. Negative predictive value = ---------------------------------------------------------------------------True negative +- False negative",
-        "cop": 3,
-        "opa": "True positive",
-        "opb": "False positive",
-        "opc": "True negative",
-        "opd": "False negative",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "f5b22528-732c-44e2-b29a-67d5c921fa6f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Sensitivity is -",
-        "exp": "Ans. is 'a' i. e., True positive/true positive + false negative Sensitivity =Number of true positive--------------------------------------------Number of true positives + Number of false negative",
-        "cop": 1,
-        "opa": "True positive/true positive + false negative",
-        "opb": "True positive/false positive + true negative",
-        "opc": "True negative/true negative + false positive",
-        "opd": "True negative/false negative + true positive",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "b44bf8bb-266b-4441-8183-5ace93c2215d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The ability of a test to detect true negatives is:",
-        "exp": "Ref: 21st edition Park. Pg 128. Explanation: Sensitivity. Ability of the test to identify true positives. Specificity. Ability of the test to identify true negatives. Positive predictive value. Probability that a patient with positive test result truly has the disease. Negative predictive value. Probability that a patient with negative test result truly does not have the disease",
-        "cop": 2,
-        "opa": "Sensitivity",
-        "opb": "Specificity",
-        "opc": "PPV",
-        "opd": "NPV",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "39b81ed9-324d-458d-a067-07e0a8d4a241",
-        "choice_type": "multi"
-    },
-    {
         "question": "Screening is not recommended if -",
         "exp": "Ans. is 'd' i. e., Disease with no latent period o The disease to be screened should fulfil the following criteria before it is considered suitable for screening:-The condition sougth should be an important health problem (in general, prevalence should be high). There should be a recognizable latent or early asymptomatic stage. The natural history of the conti ti on, including development from latent to declared disease, should be adequately understood (so that we ean know at what stage the process ceases to be reversible). There is a test that can detect the disease prior to the onset of signs and symptoms. Facilities should be available for confirmation of the diagnosis. There is an effective treatment. There should be an agreed-on policy concerning whom to treat as patients (e. g., lower ranges of blood pressure; border-line diabetes). There is good evidence that early detection and treatment reduces morbidity and mortality. The expected benefits (e. g., the number of lives saved) of early detection exceed the risks and costs.",
         "cop": 4,
@@ -76,32 +11,6 @@
         "topic_name": "Screening for Disease",
         "id": "517972b9-93be-4904-8025-4291e8fc4f1e",
         "choice_type": "single"
-    },
-    {
-        "question": "More false positive cases in a screening test is due to -",
-        "exp": "Ans. is 'a' i. e., Low prevalenceo If a population has more false positive cases: -i) Screening test is more sensitiveii) Positive predictive value of the test is low. iii) Prevalence of disease is low. o If a population has more false negative casesi) Screening test is more specificii) Negative predictive value of the test is low",
-        "cop": 1,
-        "opa": "Low prevalence",
-        "opb": "High specificity",
-        "opc": "High PPV",
-        "opd": "Low sensitivity",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "98f1c11d-0520-40a1-b553-67b1e821391b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Numerator in calculating positive predictive value -",
-        "exp": "Ans. is 'a' i. e., True positive Sensitivity =Number of true positive--------------------------------------------Number of true positives + Number of false negative Specificity =Number of true negatives--------------------------------------------Number of true negative + number of false positives. Positive predictive value = -True positive--------------------------True positive + False positive Negative predictive value =True negative--------------------------True negative + False negative",
-        "cop": 1,
-        "opa": "True positive",
-        "opb": "False positive",
-        "opc": "True negative",
-        "opd": "False negative",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "0a2cd9a4-3f02-4290-8369-0c5d7ab7b379",
-        "choice_type": "multi"
     },
     {
         "question": "Period between the possible time of detection and the possible time of diagnosis is",
@@ -117,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Following are screening methods except",
-        "exp": "Ans) a (FNAC) Ref park 20th ed p 336. Screening methods for breast cancer include breast self examination, palpation by a physician, thermography and mammography. USG is not a screening method.",
-        "cop": 1,
-        "opa": "FNAC",
-        "opb": "Mammography",
-        "opc": "Breast self examination",
-        "opd": "Thermography",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "18448406-75fa-4cfd-b15a-a95ace9be9eb",
-        "choice_type": "multi"
-    },
-    {
         "question": "A screaning test has 99% sensitivity and 99% specificity prevalence of target disease is 5 per 1000 population. The PPV of the test -",
         "exp": "Ans. is 'c' i. e., 33 o Positive predictive value is related to sensitivity specificity and prevalenceo This relationship is represented by Baye's theorem: -PPV =Sensitivity * Prevalence--------------------------------------------------(sensitivity x prevalence) + (100-spcificity) (100-prevalence)X 100o One thing should be remembered that prevalence is in percentage (per 100 population) not per 1000. o So, in this question, prevalence = 5 per 1000 = 0. 5 per 100 or 0. 5%PPV =99 x 0. 5--------------------------(99x 0. 5) + (100-99) (100-0. 5)x 100 - 33. 2",
         "cop": 3,
@@ -141,19 +37,6 @@
         "topic_name": "Screening for Disease",
         "id": "8d438c71-7934-4b5b-b4c5-e350876ec6dd",
         "choice_type": "single"
-    },
-    {
-        "question": "Repeatability of test refers to -",
-        "exp": "Ans. is 'd' i. e., All of the above Repeatability (reliability)o Repeatability means, the test must give consistent results when it is repeated more than once on the same individual under same conditions. o That means the results of test are precise I exact!. So repeatability is some time called precision, reliability or reproducibility.",
-        "cop": 4,
-        "opa": "Same results on repeated trials",
-        "opb": "Precision",
-        "opc": "Consistent results",
-        "opd": "All of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "a3387c80-4325-43af-8455-5824132f35cd",
-        "choice_type": "multi"
     },
     {
         "question": "High sensitivity in a study means",
@@ -180,32 +63,6 @@
         "topic_name": "Screening for Disease",
         "id": "03a2fdaa-0756-4afd-98c7-63e5d2a92ce5",
         "choice_type": "single"
-    },
-    {
-        "question": "Positive predictive value depends on all except -",
-        "exp": "Ans. is 'd' i. e., Incidence o Positive predictive value (PPV) of a screening test depends on: -Sensitivity. Specificity. Prevalence of diseaseo As the sensitivity and specificity of a test are relatively constant, positive predictive value is mainly dependent on the prevelance of disease. PPV =Sensitivity x Prevalence------------------------(sensitivity x prevalence) + (100-spcificity) (100-prevalence)X100",
-        "cop": 4,
-        "opa": "Sensitivity",
-        "opb": "Specificity",
-        "opc": "Prevalence",
-        "opd": "Incidence",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "495cf2f4-9aaf-4e19-8320-9f20665b3247",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Criteria for a disease fit for screening including -",
-        "exp": "Ans. is 'd' i. e., All of the above o The disease to be screened should fulfil the following criteria before it is considered suitable for screening. 1. The condition sougth should be an important health problem (in general, prevalence should be high). 2. There should be a recognizable latent or early asymptomatic stage. 3. The natural history of the contition, including development from latent to declared disease, should be adequately understood (so that we can know at what stage the process ceases to be reversible). 4. There is a test that can detect the disease prior to the onset of signs and symptoms. 5. Facilities should be available for confirmation of the diagnosis. 6. There is an effective treatment. 7. There should be an agreed-on policy concerning whom to treat as patients (e. g., lower ranges of blood pressure; border-line diabetes). 8. There is good evidence that early detection and treatment reduces morbidity and mortality. 9. The expected benefits (e. g., the number of lives saved) of early detection exceed the risks and costs.",
-        "cop": 4,
-        "opa": "It should be an important public health problem",
-        "opb": "Facilities should be available for confirmation",
-        "opc": "There should be sufficiently long time available",
-        "opd": "All of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "f5775974-1444-423c-bae3-5679ce58fc02",
-        "choice_type": "multi"
     },
     {
         "question": "(A/A+C) x 100 in the given table is. Test result. Persons with disease. Persons without disease. Total. Positive. ABA+BNegative. CDC + D",
@@ -247,32 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Specificity of a test refers to its ability to detect-",
-        "exp": "Ans. is 'b' i. e., True negative Sensitivity* It is the ability of a test to identify correctly all those who have the disease, i. e., true positive. Specificity* It is the ability of a test to identify correctly those who do not have the disease i. e., true negative",
-        "cop": 2,
-        "opa": "True positive",
-        "opb": "True negatives",
-        "opc": "False negatives",
-        "opd": "False positive",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "87caa094-cf37-46ad-b1e6-d1a7d742f9ea",
-        "choice_type": "multi"
-    },
-    {
-        "question": "When a diagnostic test is used in series mode then:",
-        "exp": "Ans. is 'b' i. e. specificity increases but the sensitivity decreases Let's first see what is meant by using a diagnostic test in 'Series mode'-It means that a particular diagnostic test (or more than one diagnostic tests) are performed sequentially. The pt. is considered positive for the diseases only when all the tests performed in the sequence give positive results. Even if one of the test is negative the pt. is considered negative for diseases. Thus as quite apparent 'serial testing' increases specificity but decreases the sensitivity. Let's also see what is Parallel testing-In parallel testing multiple diagnostic tests are given concurrently and the pt is considered positive for disease if any of the tests give positive result. For example ECG and Echocardiography are two procedures used in the diagnosis of VSD. When used in Parallel mode the pt. will be considered to have VSD, if any of the test give positive result (even if the other test gives negative result) Let me explain once again -Suppose 10 different diagnostic tests are used to diagnose a particular disease. If test are used in Series modethe pt. will be declared positive only when all the tests give positive result. even if 9 tests give positive and one in negative pt. will be considered negative. If test are used in Parallel Modethe pt will be declared positive if any of the tests give positive result. even if 9 tests are negative and one is positive pt. will be considered positive.",
-        "cop": 2,
-        "opa": "Sensitivity increases but the specificity decreases",
-        "opb": "Specificity increases but the sensitivity decreases",
-        "opc": "Both sensitivity and specificity increase",
-        "opd": "Both sensitivity and specificity decrease",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "6d1b63ca-d93b-4a04-9684-ecdf4ac8187d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Active search for disease in an apparently healthy individual is k/a",
         "exp": "Ans. is 'c' i. e. screening Screening is defined as 'the search for unrecognized disease or defect by means of rapidly applied tests, examination or other procedures in apparently healthy individuals. \"Other terms. Case finding: is the use of clinical and/or laboratory tests to detect disease in individuals seeking health care for other reasons for example ELISA for HIV in pregnant women. Monitoring: is performing and analysing routine measurements to detect changes in the health status of population or changes in the environment for eg. monitoring of air pollution, water quality, growth and nutritional status etc. Sentinel surveillance: As no routine notification system can detect all cases of infection or disease, sentinel surveillance is a method to identify the missing cases.",
         "cop": 3,
@@ -286,45 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A test has high false positive rate in a community. True is",
-        "exp": "Ans is 'd' i. e. Low prevalence \"In a population with a low prevalence of a particular disease, it is likely that most of the positive results in a screening program for that disease would be falsely positive. \"- Epidemiology, biostatistics, and preventive medicine By James F. Jekel, David L. Katz, Joann G. Elmore 2/e p120\"In a high-prevalence population, the absolute number of false-positives is small in comparison with the absolute numbers of true positives. In a low-prevalence population, the absolute number of false-positives is large in comparison with the absolute number of true positives. \" -The basic science of oncology By Ian Tannock 4/e p486, 487. The no. of false positive varies inversely with the prevalence of disease in population. This means that when the same test is applied to two populations with differing prevalence; false positive cases would be more in the population with low prevalence and false positive cases would be low in the population with high prevalence. Also Note: Sensitivity and specificity are characteristic of a particular test and do not depend on the prevalence of disease in the population being tested. The positive predictive value and the negative predictive value depend on characteristics of both the test (sensitivity and specificity) and the population being tested (prevalence of disease). The positive predictive value is directly proportional to the prevalence. The negative predictive value is inversely proportional to prevalence. As the prevalence of disease declines, the positive predictive value of the test declines and the negative predictive value increases.",
-        "cop": 4,
-        "opa": "High specificity",
-        "opb": "High sensitivity",
-        "opc": "High prevalence",
-        "opd": "Low prevalence",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "159c5431-1091-4e02-a86a-7963d6acc900",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Specificity of a screening test is the ability of a test to detect:",
-        "exp": "Ans. is 'd' i. e. True negatives Sensitivity is the ability of test to identify correctly all those who have the disease, i. e. 'true positives'. Specificity is the ability of a test to identify correctly those who do not have the disease, i. e. 'true negatives'.",
-        "cop": 4,
-        "opa": "True positives",
-        "opb": "False positives",
-        "opc": "False negatives",
-        "opd": "True negatives",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "8207633f-275a-4f51-858e-fe9943a5a12c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Denominator in specificity is",
-        "exp": "Ans. is 'd' i. e., True negative plus false positive Skewed distribution (deviation) o Skewed distribution means data is assymmetrically distributed around the mean with either large number of low values & less high values, or large number of high values & less number of low values, o So, the distribution curve has a tail towards the values which are in lower number. o Depending upon the values (high or low) skewed distribution can be divided into two types - Negative skewed (left handed) distribution Large number of high values (right sided values) with less no. of low values (left sided values). So, the tail is on left side. Called negative skewed because tail is in negative direction (left side). Mode > median > mean Positive skewed (right handed) distribution Large number of low values (left sided values) with few high values (right sided values). So, the tail is on right side. Called positived skewed because tail is in positive direction (right side). Mean > median > mode o In this question median (140 mm Hg) is greater than the mean (130 mm of Hg) - negatively skewed (left handed) dispersion. Normal distribution Positively skewed (rt. Handed) distribution Negatively skewed (left handed) deviation y No tail y Bell shaped curve: Gaussian distribution y Mean = Median = Mode y Tail is towards right side y Large no of low scores, small no of high scores y Mean > Median > Mode y Tail is towards left side y Large no of high scores, small no of low scores y Mode > Median > Mean o Sidedness of the skewed distribution is towards the side of tail. For example right sided skewed deviation means the tail is towards the right. o Facts to remember the relation between mean, media & mode (see above figure):- Mean is right of the median under right skew, and left of the median under left skew. Mode is left of the median under right skew, and right of the median under left skew.",
-        "cop": 4,
-        "opa": "True positive",
-        "opb": "True negative",
-        "opc": "True positive plus false negative",
-        "opd": "True negative plus false positive",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "25db45c8-ad16-4f5a-be2d-4396a201485e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Time between first possible point of diagnosis to final critical point of disease is -",
         "exp": "Ans. is 'c' i. e., Screaning time o In respect to screening test and diagnostic test, a disease passes through following phase, sequentially. i) Disease onset - Disease process just started. ii) First possible point of diagnosis - The earliest point in disease process where a diagnosis can be made, i. e., before this point diagnosis can not be made by any test. iii) Final critical point of diagnosis - The point after which even diagnosis and treatment will not change the outcome. iv) Usual time of diagnosis - Time in disease process when most of the people are diagnosed by usual diagnostic procedure (not screening test). Screening time | || Diseaseonset. First possible point. Finalcritical point. Usualtime of diagnosis. Outcome|||||-------------------|--- Lead time o So, by screening, the intention is to diagnosis the disease between: -i) First possible point - Before that diagnosis cannot made by any test. ii) Final critical point - After that treatment will not change the outcome. o The time period between these two points is called screening time and all screening tests are aimed to detect the disease during this period. o The lead time is the time period between diagnosis by early detection (i. e., earliest point of diagnosis by screening test) and diagnosis by standard diagnostic tests. Lead time is the advantage gained by screening. o Thus in the given question -Screening time - B-XLead time - B-Y",
         "cop": 3,
@@ -336,58 +128,6 @@
         "topic_name": "Screening for Disease",
         "id": "f46b462e-d2a5-4e6b-ba14-44f92422037d",
         "choice_type": "single"
-    },
-    {
-        "question": "A patient with cervical cancer is missed by a screening test and later diagnosed to have advanced disease. This time interval is called:",
-        "exp": "Ref: K. Park, Textbook of Preventive and Social Medicine. 22nd edition. P 127: Text book of public health and community medicine. Armed Force Medical College, Pune. First edition 2009 p 136. p224. Explanation: Lead time: Lead time is defined as the interval between the point a condition is detected through screening and the time it would normally have been detected due to appearance and reporting of signs and symptoms. It is the advantage gained by screening. Screening time: The time interval between the point a condition is detected through screening and final critical diagnosis by other means before usual time of diagnosis. Serial Interval: The gap in time between the onset of the primary case and the secondary case is called the '\"serial interval\". Generation time: It is defined as \"the interval of time between receipt of infection by a host and maximal infectivity of that host\"",
-        "cop": 1,
-        "opa": "Lead time",
-        "opb": "Screening time",
-        "opc": "Serial interval",
-        "opd": "Generation time",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "f2993541-c75b-4c31-9634-029069f3856f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A new test- test B for Diabetes mellitus is performed in a group containing diabetics and non-diabetics. A standard test A has been used as reference to classify them as diabetics and non diabetics. If 120 mg/dl of blood sugar is taken as the cut-off for test B, the area shaded in the graph below represents -",
-        "exp": "Ans- The shaded area indicated has Diabetics proved by a standard test A with blood sugar levels less than 120 mg/dl. Which is less than the cut-off as per the test B criteria required to label them as Diabetic. Hence, even though the shaded area has diabetics - but not picked up by this particular test B- known as False Negative.",
-        "cop": 4,
-        "opa": "True Positives",
-        "opb": "False Positives",
-        "opc": "True Negatives",
-        "opd": "False Negatives",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "daf6bbf1-dde6-4d3c-88cc-2231c8c1a202",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Denominator for calculating Positive Predictive Value?",
-        "exp": "Ans. C. True positives + False positives. (Ref. Park's Textbook of PSM 22nd//pg. l31). Discussion: Screening test results. Diagnosis Total Diseased. Not diseased Positivea (True Positive)b (False Positive)a + b. Negativec (False Negative)d (True Negative)c+ d. Totala + cb + da + b + c + d. Predictive value of a positive test - indicates the probability that a patient with a positive test result has in fact disease in question. = a / a + b X 100. Predictive value of a negative test = d / c + d X 100. Sensitivity -Ability of a test to identify correctly all those who have the disease that is TRUE POSITIVE = a/a + c X 100. Specificity- Ability of a test to identify correctly those who do not have the disease that is TRUE NEGATIVE = d/b + d X 100. False negatives = c/ a + c X 100. False positive = b/ b + d X 100. Always remember the table. For calculating Predictive value of a positive test and Predictive value of a negative test we take row total. For rest we take column total.",
-        "cop": 3,
-        "opa": "True positives + false negatives",
-        "opb": "False positives + true negatives",
-        "opc": "True positives + False positives",
-        "opd": "True negatives + Flase negatives",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "70458eb1-53ed-4f2b-9497-b4eca6d2c679",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Ideal screening test should be-",
-        "exp": "Ans. is 'd' i. e., All of the above * The criteria for screening are based on two consideration: (i) Disease to be screened, and (ii) Screening test to be applied. A) Disease to be screened# The disease should be an important health problem with a recognizable latent or asymptomatic stage.# There should be a test (screening test) which can detect the disease prior to clinical stage, with also availability of a diagnostic (confirmatory) test.# There should be an effective treatment which should reduce morbidity and mortality if started early. B) Screening test to be applied# The screening test to be applied should fulfil following criteria1) Acceptibility* The test should be acceptable to the people whom it is aimed. 2) Repeatability (reliability)* The test must give consistent results when it is repeated more than once on the same individual under same condition, i. e. results of test must by precise (exact).* Thus, repeatability is also known as precision, reliability or reproducibility. 3) Validity (accuracy)* It refers to what extent the test accurately measures which is purports to measure.* Validity has two componens: i) Sensitivityii) Specificity.* A test should have high sensitivity and specificity. Accuracy = (Sensitivity) (Prevalence)----------------------(Specificity) (1-Prevalence) Accuracy =True positive + True negative--------------------------------------------------------True positive + False positive + True negative + False negative4) Others* Other important criteria are: Simplicity, rapidity, low cost (cost effectiveness), safety, and ease of administration.",
-        "cop": 4,
-        "opa": "Safe",
-        "opb": "Reliable",
-        "opc": "Valid",
-        "opd": "All of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "41e4f9d0-09f9-4b22-b6ee-1ba87d44265c",
-        "choice_type": "multi"
     },
     {
         "question": "Formula for calculating positive predictive value (PPV):",
@@ -414,32 +154,6 @@
         "topic_name": "Screening for Disease",
         "id": "dc75d189-d03f-45dc-8cbc-ba944f594e00",
         "choice_type": "single"
-    },
-    {
-        "question": "Specificity measures:(1997)",
-        "exp": "Ans: a. Ref: Park, 17th ed, p. 112 & 18, h ed, p. 117",
-        "cop": 1,
-        "opa": "True negatives",
-        "opb": "False positives",
-        "opc": "True positives",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "2e42ea13-f3e4-49ec-820c-6094faed3601",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Formula to calculate sensitivity of a screening test -",
-        "exp": "Ans. is 'a' i. e,, True positive/true positive + false negative Number of true positive. Sensitivity = --------------------------------------------------------------------------------------Number of true positives + Number of false negative. N umber of true negatives. Specificity = ------------------------------------------------------------------------------------Number of true negative + number of false positives.",
-        "cop": 1,
-        "opa": "True positive/true positive + false negative",
-        "opb": "True negative/true positive + false negative",
-        "opc": "True positive/true negative - false positive",
-        "opd": "True negative/true negative + false positive",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "c557186a-ca68-431b-84b3-56a36d24ba4b",
-        "choice_type": "multi"
     },
     {
         "question": "Best time to screen in Breast self examination (BSE) technique is:",
@@ -481,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True positive cases are detected by",
-        "exp": "Ans. b (Sensitivity). (Ref. Park, PSM, 17th/pg. 112)TERMDEFINATIONSensitivity. The probability that a person who actually has the disease of interest will have a positive (abnormal) test result. In clinical practice sensitivity is inversely proportional to specificity. Specificity. The probability that a person who actually does not have the disease of interest will have a negative (normal) test result. Prevalence. The proportion of persons in a given population who have a particular disease at a point or interval of time. False-positiveA test result that is normal (positive) despite the true absence of the disease of interest or a study result that incorrectly suggests an effect, when in truth, the purported effect does not exist (see also Type 1 error). True-negativeA test result that is normal (negative) when the disease of interest is actually absent. True-positiveA test result that is abnormal (positive) when the disease of interest is actually present. False-negativeA test result that is normal (negative) despite the true presence of a particular disease or a study result that incorrectly fails to identify a true effect (see also Type II error). Does not have the disease of interest. Positive predictive value. The probability that a person with a positive (abnormal) test result actually has the disease of interest. Negative predictive value. The probability that a person with a negative (normal) test result actually. Screening test results. Diagnosis diseased. Not diseased. Total. Positivea(true positive)b(false positive)a + b. Negativecffalse neg.)d(true neg.)C+d. Totala+cb+da+b+c+da) Sensitivity = a/(a+c) x 100b) Specificity = d/(b+d) x 100c) Predictive value of a positive test = a/(a+b) x 100d) Predictive value of a neg. test = d/(c+d) x 100e) Percentage of false neg. = c/(a+c) x 100f) Percentage of false positive = b/(b+d) x 100",
-        "cop": 2,
-        "opa": "Specificity",
-        "opb": "Sensitivity",
-        "opc": "Positive predictive value",
-        "opd": "Negative predictive value",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "38fca7d8-3ec0-4783-b61c-9a812c69e48d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Reliability of screening test does not mean -",
         "exp": "Ans. is C Validity Screening test to be applied o The screening test to be applied should fulfill the following important criteria before it is considered suitable for screening: - 1. Acceptability The test should be acceptable to the people at whom it is aimed. In general painful or embarrassing tests e. g., per rectal or vaginal examination are not likely to be acceptable. 2. Repeatability (reliability) y Repeatability means the test must give consistent results when it is repeated more than once on the same individual under same conditions. y That means the results of the test are precise exact So repeatability is some time called precision, reliability or reproducibility. 3. Validity (accuracy) Validity' refers to what extent the test accurately measures which is purports to measures. That means a valid test distinguish the people who have the disease from those who do not. Validity has components - Sensitivity and specificity. (Sensitivity) (Prevalence) Accuracy =[?][?][?][?][?][?][?][?] (Specificity) (1 -Prevalence) True positive + True negative Accuracy = [?][?][?][?][?][?][?][?] True positive + False positive + True negative + False negative 4. Others # Simplicity' # Rapidity # Ease of administration # Safety' # Lower cost",
         "cop": 3,
@@ -505,57 +206,5 @@
         "topic_name": "Screening for Disease",
         "id": "7459464c-7cda-4a5c-8700-94c24e9ef6be",
         "choice_type": "single"
-    },
-    {
-        "question": "Specificity is related to:",
-        "exp": "Ans. is 'b' ie true negatives Sensitivity -is defined as the ability of a test to identify correctly those who have the disease that is 'true positives \\Specificity -is defined as the ability of a test to identify correctly those who do not have the disease. That is 'true negatives. 9",
-        "cop": 2,
-        "opa": "True positive",
-        "opb": "True negative",
-        "opc": "False positive",
-        "opd": "False negative",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "135448bc-0d0c-44d5-a923-ff0d3811581b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Specificity of a screening test measures -",
-        "exp": "Ans. is 'd' i. e. True negatives Repeat from May 06. Sensitivity is the ability of test to identify correctly all those who have the disease, i. e. 'true positives'. Specificity is the ability of a test to identify correctly those who do not have the disease, i. e. 'true negatives'.",
-        "cop": 4,
-        "opa": "True positives",
-        "opb": "False positives",
-        "opc": "False negatives",
-        "opd": "True negatives",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "e72f9d62-e46a-487b-b80f-587c44721ead",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Most number of false positives by a screening test is because of?",
-        "exp": "ANSWER: (D) Low prevalence. REF: Park 20ch edition page 128. More prevalent disease gives less is the number of false positive. Less prevalent disease gives more is the number of false positive. Highly specific screening test gives few false positive. Highly sensitive screening test gives few false negative",
-        "cop": 4,
-        "opa": "High specificity",
-        "opb": "High sensitivity",
-        "opc": "High prevalence",
-        "opd": "Low prevalence",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "a3fe0626-3702-4b6a-b97b-35968a91a857",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about specificity-",
-        "exp": "Ans. is 'c' Le., True negative o When a screening test is used to diagnose a disease, the test oucome can be positive (diseased) or negative (healthy), while the actual health status of the person may be different, o In that settingi) True positive-Diseased people correctly diagnosed as diseased. ii) False positive-Healthy people wrongly identified as diseased. iii) Tme negative-Healthy people correctly identified as healthy. iv) False negative-Diseased people wrongly identified as healthy. o There are two major statistical measures for the validity of a screening test: -i) Sensitivityii) Specificity. Sensitivityo It is the ability of a test to identify correctly all those who have the disease, i. e., true positive. o In other words sensitivity measures the precentage of sick people who are identified as having disease, o For example if a test is 90% sensitive, that means out of 100 diseased people, it will diagnose 90 (90% of diseased people will be diagnosed). Remaining 10% will be wrongly indentified as not having the disease, i. e., false negative. Specificityo It is the ability of a test to identify correctly those who do not have the disease i. e., true negativeo In other words specificity measures the percentage of well people who are identified as not having the disease, o For example, a 90 percent specificity' means that 90% of nondiseased people will be identified as not having the disease. The remaining 10% will be wrongly classified as diseased, i. e., false positive.",
-        "cop": 3,
-        "opa": "True positive",
-        "opb": "False positive",
-        "opc": "True negative",
-        "opd": "False negative",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Screening for Disease",
-        "id": "31d066ce-f6a2-4ee1-8c5a-126da773038d",
-        "choice_type": "multi"
     }
 ]

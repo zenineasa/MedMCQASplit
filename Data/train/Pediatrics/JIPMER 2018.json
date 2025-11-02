@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Recurrence of acute rheumatic fever (ARF) can be diagnosed with 3 minor criteria and essential criteria only when?",
-        "exp": "Acute Rheumatic fever we use modified Jones Criteria: Latest update 1st rheumatic fever outbreak: -2 major criteria or -1 major + 2 minor Rheumatic fever relapse (recurrent IU): -2 major criteria or -1 major + 2 minor or -3 minor Low-risk population Major criteria: Carditis(clinical or subclinical) Ahritis(polyahritis only) Chorea Erythema marginatum Subcutaneous nodule Minor criteria: Polyahralgia Fever(>38. 5degreee c) Elevations of ESR (>60 min in the 1st hour) and/or CRP >3mg/dl (or > as indicated by the reference value) Prolonged PR interval, corrected for age(only when there is no carditis) Criteria moderate to high risk population Major criteria: Carditis(clinical or subclinical) Ahritis(polyahritis polyahralgia and/or monoahritis) Chorea Erythema marginatum Subcutaneous nodule Minor criteria: Monoahralgia Fever(>38. 5degreee c) Elevations of ESR (>60 min in the 1st hour) and/or CRP >3mg/dl (or > as indicated by the reference value) Prolonged PR interval, corrected for age(only when there is no carditis) Proven evidence of prior infection with GAS(positive oropharyngeal culture, positivity in rapid tests for the detection of streptococcal antigens, high titres of antistreptococcal antibodies) LATEST MODIFICATION IN MODIFIED JONES CRITERIA Jones criteria was established in 1992, last reviewed in 2015 Changes in the last review(2015), by AHA include: Stratification of susceptible individuals into 2 groups, based on epidemiological risk to acquire the disease. Low risk group has incidence of RF <2/100, 000 school children(5-14)/year or a prevalence of chronic rheumatic carditis in any age group < or equal to 1/1000 per year. Communities that exhibit levels above these have moderate to high risk for acquiring the disease. Recommending using Jones criteria to diagnose rheumatic fever relapses. Diagnosis of Rheumatic fever recurrences/ Relapse: For patients who have already had the initial RF outbreak, minimum number of criteria to be met: 2 major criteria or 1 major and 2 minor ones (as in the initial outbreak), 3 minor criteria as a disease recurrence diagnosis, Regardless of the risk group to which the patient belongs.",
-        "cop": 4,
-        "opa": "ARF incidence <2 per 100, 000 school - age children per year",
-        "opb": "ARF incidence >2 per 10, 000 school-age children per year",
-        "opc": "All- age RHD prevalence of < 1 per 1000 population",
-        "opd": "Any incidence / prevalence of RHD",
-        "subject_name": "Pediatrics",
-        "topic_name": "JIPMER 2018",
-        "id": "332cf795-53e1-4482-9632-aa9e7c3b936a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common infection in PANDAS:-",
         "exp": "PANDAS Pediatric Autoimmune Neuropsychiatric Disorders Associated With Streptococcus pyogenes A group of neuropsychiatric disorders(eg obsessive-compulsive disorder, tic disorder, and tourette syndrome) for which a possible relationship with GAS infection has been hypothesized. This subset of patients may produce autoimmune antibodies in response to a GAS infection that cross react with brain tissue.",
         "cop": 1,
@@ -52,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True regarding congenital rubella syndrome are all except:-",
-        "exp": "Cataract can be unilateral or bilateral.",
-        "cop": 3,
-        "opa": "Infants of congenital rubella syndrome can shed virus in respiratory secretions upto 1 year of age",
-        "opb": "Risk of developing diabetes mellitus is considerably higher in congenital rubella syndrome",
-        "opc": "Cataract in CRS is always bilateral",
-        "opd": "Risk of congenital defects is high when fetus is infected during the first trimester",
-        "subject_name": "Pediatrics",
-        "topic_name": "JIPMER 2018",
-        "id": "b5ecfa5d-8d9a-4a0c-b8c2-64ffac0470cf",
-        "choice_type": "multi"
-    },
-    {
         "question": "A newborn girl presents with severe Purpura Fulminans. Family has history of 1 year old male died of severe purpura fulminans. Other 2 siblings are normal. What is the diagnosis?",
         "exp": "Purpura fulminans: Coagulation of the microvasculature, which leads to purpuric lesions and skin necrosis. =3 types: NEONATAL: Hereditary deficiency of protein C, protein S and antithrombin III IDIOPATHIC: Post infectious autoimmune disorder ACUTE INFECTIOUS: most common type- manifests as a skin finding in the most severe septic patients as well as in necrotizing fascitis SINCE the neonate has severe purpura fulminans and family history- answer is protein C deficiency.",
         "cop": 2,
@@ -76,32 +50,6 @@
         "topic_name": "JIPMER 2018",
         "id": "ab78c912-392d-4ad4-9cc7-29187a25b5b8",
         "choice_type": "single"
-    },
-    {
-        "question": "All are diagnostic criteria for 'severe acute malnutrition' (SAM) except?",
-        "exp": "SAM in a child 6m-5yr is presence of 1 or more of: A. Weight for height <-3 z score or <70% of expected B. Symmetrical bipedal edema of nutritional origin C. Visible severe wasting D. Mid upper arm circumference <11. 5cm or 115mm",
-        "cop": 2,
-        "opa": "Mid-upper arm circumference (MUAC) <115 mm",
-        "opb": "Weight for age <-3 Z score",
-        "opc": "Presence of bipedal edema",
-        "opd": "Presence of visible severe wasting",
-        "subject_name": "Pediatrics",
-        "topic_name": "JIPMER 2018",
-        "id": "2ec30067-94f6-4592-903d-2c662d6ae597",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 5 year old child presents with renal mass. Considering the most common cause in this age group, which of the following is not true?",
-        "exp": "Wilms tumor in children is MC primary renal tumor of childhood. Peak incidence between 2 and 5 year MC initial clinical presentation for WT is incidental discovery of an asymptomatic abdominal mass by parents while bathing or clothing or by a physician during a routine examination. Morphology: Triphasic combination: Blastemal Stromal Epithelial Congenital Malformation with increased Risk of Wilms tumor WAGR syndrome (33% risk) Denys-Drash syndrome (90% risk, Maximum risk) Q Beckwith-Widemann syndrome (BWS) WT1 gene: Chr 11p13Q Wilms tumor, Aniridia, Genital anomalies, and mental Retardation. Gonadal dysgenesis (male pseudo hermaphroditism) Early-onset nephropathy (diffuse mesangial sclerosis) Increased risk of gonadoblastomasQ Organomegaly: macroglossiaQ, HemihyperophyQ, omphalocele, and abnormal large cells in the adrenal coex (adrenal cytomegaly) Genomic imprintingQ is the causative mechanism. Increased urine VMA levels are seen in Pheochromocytoma",
-        "cop": 4,
-        "opa": "Triphasic histology",
-        "opb": "Risk of WAGR",
-        "opc": "Bilateral involvement",
-        "opd": "Increased urine VMA levels",
-        "subject_name": "Pediatrics",
-        "topic_name": "JIPMER 2018",
-        "id": "efa19732-5219-4877-9fa4-266c8db1f10d",
-        "choice_type": "multi"
     },
     {
         "question": "A forceps delivered premature baby develops fever, abnormal behavior, bulging fontanelle 5 days after bih. What is the likely causative organism?",
@@ -128,19 +76,6 @@
         "topic_name": "JIPMER 2018",
         "id": "b74674b8-ad99-4c93-ae9b-6ad97cdd2764",
         "choice_type": "single"
-    },
-    {
-        "question": "Symptoms suggestive of Scarlet fever are all except:-",
-        "exp": "Scarlet fever: Caused by Group A streptococcus Pharyngitis and strawberry tongue is seen Erythematous rash appears 24-28 hr after onset Pastia lines or Thompson's sign is pathognomonic of scarlet fever. Skin has a goose-pimple appearance and feel rough Desquamation of palms and soles seen Nagayama spots: in Roseola infantum",
-        "cop": 2,
-        "opa": "Gooseflesh",
-        "opb": "Nagayama spots",
-        "opc": "Desquamation of palms",
-        "opd": "Strawberry tongue",
-        "subject_name": "Pediatrics",
-        "topic_name": "JIPMER 2018",
-        "id": "29e6286d-d5c0-4bbf-8aa2-ff66163f4778",
-        "choice_type": "multi"
     },
     {
         "question": "Most common cause of craniosynostosis is?",

@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 60-year-old man presents with a 6-month history of increasing fatigue. Physical examination reveals marked pallor, and a CBC shows a macrocytic anemia. Which of the following is the most likely cause of anemia in this patient?",
-        "exp": "- Macrocytic anemia can be caused by folate & Vit B12 deficiency. - Conditions associated with their deficiency are: Malnutrition - Alcoholics, vegans etc Decreased intrinsic factor, pancreatic & ileal diseases. Fish tape worm infection. Blind loop syndrome Increased requirement like children, pregnancy, lactation etc Drugs like methotrexate, OCP etc -Interfere with Folate metabolism - As the question states an elderly man with malnutrition, most appropriate cause of macrocytic anemia is chronic alcoholism. - Remaining options - Chronic diseases, iron deficiency & renal diseases may present with microcytic anemia not macrocytic.",
-        "cop": 1,
-        "opa": "Alcoholism",
-        "opb": "Chronic disease",
-        "opc": "Iron deficiency",
-        "opd": "Renal disease",
-        "subject_name": "Pathology",
-        "topic_name": "Megaloblastic Anemia",
-        "id": "4e84cb2a-e50f-4402-a666-7fffd0e1cb25",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Find the false statement regarding megaloblastic anemia.",
-        "exp": "Macro-polycytes (large hypersegmented neutrophils) seen in megaloblastic anemia MCHC is calculated by dividing MCH with MCV. Since both parameters are increased propoionately in megaloblastic anemia, MCHC remains normal. Thus, option 4 is wrong. Remaining all features given in options can be seen in Megaloblastic anemia Note: Increase in MCHC occurs only in hereditary spherocytosis",
-        "cop": 4,
-        "opa": "Macro-polycytes",
-        "opb": "Reduced reticulocyte count",
-        "opc": "Hypercellular bone marrow",
-        "opd": "MCHC is increased",
-        "subject_name": "Pathology",
-        "topic_name": "Megaloblastic Anemia",
-        "id": "1b790b73-1101-47c1-8fba-5dcb13bbae06",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cabot rings can be seen in which of the following?",
         "exp": "Cabots rings: - Thin, thread like, red to violet / loop or figure-of-8 shaped inclusions in RBC, which are remnants of Mitotic spindles. - These are seen in conditions like Megaloblastic anemia Thalassemia Post splenectomy",
         "cop": 1,
@@ -50,19 +24,6 @@
         "topic_name": "Megaloblastic Anemia",
         "id": "69cf74fe-fd90-4998-a830-671b21686302",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is not true regarding pernicious anemia?",
-        "exp": "Pernicious anemia Autoimmune disorder affecting the gastric mucosa. Histologically, there is a chronic atrophic gastritis marked by a loss of parietal cells, a prominent infiltrate of lymphocytes and plasma cells. Can be associated with other autoimmune disorders, paicularly autoimmune thyroiditis and adrenalitis. Atrophic glossitis may be present; CNS manifestations in 3/4th of florid cases - spastic paraparesis, sensory ataxia, paraesthesias (demyelination of the dorsal and lateral spinal tracts). The diagnosis is based on: a moderate to severe megaloblastic anemia, leukopenia with hypersegmented granulocytes, low serum vitamin B12, and elevated serum levels of homocysteine and methylmalonic acid Persons with atrophy and metaplasia of the gastric mucosa due to pernicious anemia are at increased risk for gastric carcinoma.",
-        "cop": 3,
-        "opa": "Chronic atrophic gastritis",
-        "opb": "Increased red cell MCV",
-        "opc": "Increased risk of gastric carcinoma is unlikely",
-        "opd": "Elevated serum levels of methyl malonic acid",
-        "subject_name": "Pathology",
-        "topic_name": "Megaloblastic Anemia",
-        "id": "38506230-9c96-4ab3-8ea7-d0e7fc6496e2",
-        "choice_type": "multi"
     },
     {
         "question": "A 35-year old patient with severe anemia, has a peripheral blood smear with oval macrocytes, hypersegmented neutrophils, and decreased platelets and is found to be a severely malnourished alcoholic. The most likely cause of this disorder is?",
@@ -102,18 +63,5 @@
         "topic_name": "Megaloblastic Anemia",
         "id": "053c5593-1d2e-41f9-bdc5-9404b35b15d2",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following are the features of pernicious anemia?",
-        "exp": "Features of pernicious anemia: Hyper-segmented neutrophils Howell-Jolly bodies Megaloblasts Macro-ovalocytosis Ataxia, Subacute combined degeneration of spinal cord Increase levels of methyl malonyl CoA, homocysteine",
-        "cop": 4,
-        "opa": "Hyper-segmented neutrophils",
-        "opb": "Subacute combined degeneration of spinal cord",
-        "opc": "Gastric mucosal atrophy",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "Megaloblastic Anemia",
-        "id": "f871dc01-22a9-4129-98ea-e5add7f447ed",
-        "choice_type": "multi"
     }
 ]

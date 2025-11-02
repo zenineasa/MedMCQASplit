@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Chromosomal mutation can be identified by all except:",
-        "exp": "Chromosomal mutation can't be identified by Agarose gel electrophoresis Agarose Gel electrophoresis Used to separate the DNA by charge or by size. The smaller the fragment, the more rapid the migration. Overall rate of migration and optimal range of size for separation are determined by the chemical nature of the gel and by the degree of its crosslinking. Highly cross-linked gels optimize the separation of small DNA fragments. The dye ethidium bromide forms a brightly fluorescent color as it binds to DNA, and so small amounts of separated DNA fragments can be photographed on gels. Specific DNA fragments can be recognized by probes containing complementary sequences. Usually performed to visualize the amplified DNA after PCR, but may be used as a preparative technique prior to use of other Just a method of visualizing the DNA after separating by size. So it is always used as a pa of any molecular method to visualize the DNA. But alone it cannot be used to detect any mutations.",
-        "cop": 2,
-        "opa": "Single strand polymorphism",
-        "opb": "Agarose gel electrophoresis",
-        "opc": "Denaturating Gradient gel electrophoresis",
-        "opd": "Dideoxynucleotide trail sequencing",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology (Sterilization and Bacterial Genetics)",
-        "id": "e26da4c8-e70c-47b9-ae8a-ecbef4abab75",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is best to sterilize heat labile solutions?",
         "exp": "Heat sensitive liquids like serum, vaccines, antisera, enzymes, antibiotic solutions and urea solutions can be sterilized by using membrane filtration. The filtration can be aided by using either positive or negative pressure",
         "cop": 3,
@@ -39,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Following are true of transferable drug resistance except:",
-        "exp": "Drug Resistance 1. Transferable drug resistance cannot be prevented by use of drug combinations. Drug combinations are used to get synergistic effect of antibiotics on pathogens in serious diseases. 2. Antimicrobial resistance can be of two types:-* Intrinsic Resistance: It is the innate ability of a bacterium to resist a class of antibiotics* Acquired Resistance: It is the emergence of resistance in bacteria, by acquiring the drug resistant genes either by - (i) Mutational or by (ii) Transferable drug resistance 3. Transferable drug resistance: * Multiple drug resistance at the same time* High degree resistance* Cannot be overcome by drug combinations* Virulence not decreased* Resistance is transferable to other organisms- Spread by: horizontal spread (conjugation, or rarely by transduction/transformation) 4. Transfer of plasmids during conjugation is responsible for the spread of multiple drug resistance among bacteria. -The plasmid responsible for drug resistance consists of two components, namely, F and a resistance determinant (r) for each of the several drugs. -Transferable drug resistance occurs widely among pathogenic as well as commensal bacteria of humans and animals. Plasmid is also responsible for production of colicins, the antibiotic-like substances lethal to other Gram-negative bacteria. -The plasmid that encodes for production of colicins is known as col factor and is also transferred by conjugation.",
-        "cop": 3,
-        "opa": "Multiple drug resistance simultaneously",
-        "opb": "Virulence of bacteria same",
-        "opc": "Prevented by drug combinations",
-        "opd": "Very high degree of resistance",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology (Sterilization and Bacterial Genetics)",
-        "id": "b3b6d560-b40b-47fa-8447-32db5bf6d60a",
-        "choice_type": "multi"
-    },
-    {
         "question": "The typical temperature of an autoclave (operating at 30 psi of pressure is)",
         "exp": "Two types of autoclave are used in laboratories and hospitals. * Moist heat at 121 degree Celsius X 15-20 minutes (Pressure-15 psi) * Moist heat at 134 degree Celsius X 3 minutes (Pressure-30 psi)",
         "cop": 4,
@@ -63,19 +37,6 @@
         "topic_name": "General Microbiology (Sterilization and Bacterial Genetics)",
         "id": "238cc302-2725-4050-a53b-09b6b93ed482",
         "choice_type": "single"
-    },
-    {
-        "question": "What is the thermal death point?",
-        "exp": "Thermal death point or temperature- is the temperature at which an organism is killed in 10 minutes. Thermal death time- Time required to kill all cells at a given temperature in a specified environment. Decimal death time - The time required to kill 90% of cells at a paicular temperature",
-        "cop": 1,
-        "opa": "Lowest temperature that kills all microbes in 10 min",
-        "opb": "Highest temperature that kills all microbes in 1 min",
-        "opc": "Temperature that kills 1% of a microbial population",
-        "opd": "Optimum temperature required to kill 50% of a microbial population",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology (Sterilization and Bacterial Genetics)",
-        "id": "6f0abf06-f41d-4a8f-b20a-a19dfc46a4a9",
-        "choice_type": "multi"
     },
     {
         "question": "For hot air oven holding time at 160degC is",
@@ -104,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Irradiation can be used to sterilize all except:",
-        "exp": "Bronchoscopes are sterilized by glutaraldehyde (Cidex). Gamma rays are used for sterilization of pre-packed disposable items, sutures, IV cannulas, urinary catheter, contraceptive devices, bone or tissue grafts",
-        "cop": 4,
-        "opa": "Bone graft",
-        "opb": "Suture",
-        "opc": "Aificial tissue graft",
-        "opd": "Bronchoscope",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology (Sterilization and Bacterial Genetics)",
-        "id": "3f57fcd0-3d40-40f4-a0d2-671620a5483d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Disinfectant used to disinfect blood spills in hospital floors?",
         "exp": "MOA of halogens: oxidation of essential sulfhydryl groups of enzymes. Use of Chlorine compounds: * Chlorine tablets are used for water disinfection(water supplies, swimming pools) * Household bleach (5-6 % sodium hypochlorite) - used to disinfect floors in a stock dilution of 1: 10 in water and infectious spills. Use of Iodine compounds * Tincture of iodine (2% iodine in 70% alcohol): used as an antiseptic. * Iodophor- Iodine coated onto a neutral carrier molecules like polyvinylpyrrolidone for slow release and less irritation. Eg. Betadene.",
         "cop": 4,
@@ -128,19 +76,6 @@
         "topic_name": "General Microbiology (Sterilization and Bacterial Genetics)",
         "id": "ea80c4b5-2664-4e01-8b0d-1e2244875cef",
         "choice_type": "single"
-    },
-    {
-        "question": "False regarding bacterial plasmid is?",
-        "exp": "Lysogenic conversion is done by Bacteriophage in process of Transduction. The transfer of a poion of DNA from one bacterium to another mediated by a Bacteriophage is known as Transduction. During replication of virus within the cell, a piece of bacterial DNA is incorporated into the bacteriophage and is carried into the recipient bacterium at the time of infection. The phage DNA within the recipient bacterial cell integrates into the cell DNA during a process called lysogenic conversion.",
-        "cop": 4,
-        "opa": "Extrachromosomal DNA",
-        "opb": "Eliminated by treating with radiation",
-        "opc": "Transmission of different genes",
-        "opd": "Can cause lysogenic conversion",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology (Sterilization and Bacterial Genetics)",
-        "id": "19739c6d-7b54-4879-b5e4-a61ca3b393f3",
-        "choice_type": "multi"
     },
     {
         "question": "Most effective method of sterilization by heat is",
@@ -156,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "None of the following are true about N95 masks except",
-        "exp": "N 95 masks N 95 masks were designed by NIOSH for occupational safety of industrial workers. The masks come in different series N for Not resistant to oil. Used when oil paiculates are not present. R for Resistant to oil. Used when oil paiculates are present and the filter is disposed of after one shift. P for oil Proof. Used when oil paiculates are present and the filter is re-used for more than one shift. All 3 series come in variations of 95, 99, 100 which basically implies their percentage of filtration efficiency againt paicles bigger than 0. 3 micron being 95%, 99% and 99. 97% respectively. Facial hair can prevent the mask from forming a tight seal thus CDC has listed facial hairstyles which do not hamper the effectiveness of N95 These masks have been found to be effective against influenza viruses and are now currently being used for COVID-19",
-        "cop": 4,
-        "opa": "They were designed for influenza viruses during the H1. N1 outbreak",
-        "opb": "N- stands for National Institute of Occupational safety and Health",
-        "opc": "It filters 95% of all paritcles smaller than 3nm",
-        "opd": "A beard doesn't allow for a proper seal and makes the N95 ineffective",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology (Sterilization and Bacterial Genetics)",
-        "id": "b8ec6e8d-6e33-4c1b-8e2b-906297b51498",
-        "choice_type": "multi"
-    },
-    {
         "question": "Sterrad is a gas plasma sterilizer used in operation theaters for disinfecting OT aicles. Which of the following is the active agent used in it?",
         "exp": "STERRAD Gas plasma sterilizer in which plasma i. e. 4th stage of matter is sterilizedwith an active agent H2. O2. This is very effective but it is also very costly",
         "cop": 1,
@@ -180,18 +102,5 @@
         "topic_name": "General Microbiology (Sterilization and Bacterial Genetics)",
         "id": "2570875e-e2dd-4bdf-b13a-94f0682fc152",
         "choice_type": "single"
-    },
-    {
-        "question": "Tyndallization is a method of sterilization using;",
-        "exp": "Tyndallization or intermittent sterilization uses moist heat at 100 C for 20 minutes for 3 consecutive days. It is carried out in a Koch and Arnold steam sterilizer. Media which contain any ingredient/component not able to tolerate the temperature of an autoclave are sterilized by tyndallization. Eg. TCBS, XLD, DCA, sugar solutions for fermentation tests and gelatin containing media.",
-        "cop": 4,
-        "opa": "Moist heat above 100 C",
-        "opb": "Moist heat below 100 C",
-        "opc": "Dry heat above 100 C",
-        "opd": "Moist heat at 100 C",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology (Sterilization and Bacterial Genetics)",
-        "id": "7999dfe2-e9a0-441e-8fe6-042715a5af82",
-        "choice_type": "multi"
     }
 ]

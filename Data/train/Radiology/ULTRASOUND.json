@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are USG findings in acute appendicitis except:-",
-        "exp": "Acute appendicitis: IOC in children - USG IOC in adults - CECT (more sensitive) On USG Acute appendicitis appears as blind ending, tubular, non-compressible, aperistaltic structure with luminal diameter > or equal to 7mm. Has intact Gut signature - presence of hyperechoic mucosa & hypoechoic muscle wall of gut Show Appendicolith/Fecalith with posterior acoustic shadowing Figure: USG of acute appendicitis. On CECT Appendicular diameter > 6mm Lumen of caecum can be seen pointing towards obstructed opening of appendix called Arrow head sign. Thickened inflamed soft tissue at base of appendix - Cecal bar sign. Figure: Cecal bar sign Figure: Arrow head sign",
-        "cop": 1,
-        "opa": "Diameter greater than 6 mm",
-        "opb": "Non-compressible",
-        "opc": "Gut signature",
-        "opd": "Appendicolith",
-        "subject_name": "Radiology",
-        "topic_name": "ULTRASOUND",
-        "id": "f2486c16-b481-44a4-9533-4629dba6bda6",
-        "choice_type": "multi"
-    },
-    {
         "question": "POCUS is related to which imaging modality?",
         "exp": "POCUS is ultrasound that's done at the bedside - it's taking the machine and clinician to the patient in the context of clinical care. It is being increasingly used for COVID-19 patients to do ultrasound of CHEST. Typical features of COVID-19 on USG chest are B-lines and sub-pleural consolidation.",
         "cop": 2,
@@ -63,32 +50,6 @@
         "topic_name": "ULTRASOUND",
         "id": "20b2c2b8-0fda-4797-bd98-d7a55134e813",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about antenatal umbilical aery Doppler except?",
-        "exp": "S/D Ratio of umbilical aery Doppler is increased in smokers. Decreased, absent or reversal of diastolic flow on umbilical aery Doppler suggests fetal IUGR and impending Fetal death. Fetal MCA S/D ratio is normally more than S/D ratio of umbilical aery. Fetal MCA S/D ratio is less than S/D ratio of umbilical aery Doppler in IUGR.",
-        "cop": 3,
-        "opa": "Decreased diastolic flow of umbilical aery is suggestive of IUGR",
-        "opb": "S/D Ratio of umbilical aery is less than S/D ratio of Fetal MCA",
-        "opc": "S/D Ratio is decreased in smoking females",
-        "opd": "Reversal of diastolic flow in umbilical aery Doppler suggests impending Fetal demise",
-        "subject_name": "Radiology",
-        "topic_name": "ULTRASOUND",
-        "id": "6d8bfcb7-1476-4452-9ce4-c2ca1d3200cd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Investigation of choice to visualize gallbladder pathologies:",
-        "exp": "Ultrasound is the Investigation of Choice for most Gall Bladder pathologies like Acute Cholecystitis, Gb polyp, Gb calculus.",
-        "cop": 2,
-        "opa": "CT",
-        "opb": "USG",
-        "opc": "Plain X-Ray",
-        "opd": "MRCP",
-        "subject_name": "Radiology",
-        "topic_name": "ULTRASOUND",
-        "id": "d7d55814-707d-4812-8683-99f9cd80c81f",
-        "choice_type": "multi"
     },
     {
         "question": "Preferred Investigation for diagnosing Acute Appendicitis in children?",
@@ -141,32 +102,6 @@
         "topic_name": "ULTRASOUND",
         "id": "73b220e2-26ff-428c-bbd1-ed8d42ca613e",
         "choice_type": "single"
-    },
-    {
-        "question": "Doppler effect results from change in-",
-        "exp": "Doppler effect: change in frequency because of relative motion between moving source of sound and observer. Example: Sound waves hitting resting parenchyma Sound wave hitting moving RBC The difference gives color coding doppler effect. Color coding: based on direction of flow Flow TOWARDS probe: RED Flow AWAYfrom probe: BLUE Color does NOT depend on aery or vein Intensity of color depends on velocity of flow",
-        "cop": 2,
-        "opa": "Amplitude of sound",
-        "opb": "Frequency of sound",
-        "opc": "Direction of sound",
-        "opd": "None of the above",
-        "subject_name": "Radiology",
-        "topic_name": "ULTRASOUND",
-        "id": "9abc608f-7140-4ac4-b2ee-e76c897f155d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Gas shadow in heart and great vessels appears in-",
-        "exp": "IUD ROBE SIGN: Hyperechoic area inside heart and umbilical vein because presence of AIR SPALDING SIGN: Overlapping sutural bones on USG SPALDING SIGN ROBE SIGN",
-        "cop": 1,
-        "opa": "IUD",
-        "opb": "Aboion",
-        "opc": "Still bih",
-        "opd": "None",
-        "subject_name": "Radiology",
-        "topic_name": "ULTRASOUND",
-        "id": "734de042-14f2-4d82-a1bb-c596200d6468",
-        "choice_type": "multi"
     },
     {
         "question": "Earliest anomaly to be detected in ultrasound is:",
@@ -286,19 +221,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Imaging modality in PIRAD repoing scheme for prostate glands includes all except:",
-        "exp": "Imaging modality employed in PI-RAD repoing scheme for prostate glands include Dynamic contrast enhancement Diffusion Weighted MRI T2W imaging PI - RADS classification Definition Total T2 + DWI + DCE score Total T2 + DWI + DCE + MRS score I Most probably benign 3-4 4-5 II Probably benign 5-6 6-8 III Indeterminate 7-9 9-12 IV Probably malignant 10-12 13-15 V Most probably malignant 13-15 17-20",
-        "cop": 1,
-        "opa": "MR spectroscopy",
-        "opb": "Dynamic contrast enhancement",
-        "opc": "Diffusion Weighted MRI",
-        "opd": "T2W imaging",
-        "subject_name": "Radiology",
-        "topic_name": "ULTRASOUND",
-        "id": "67a70cda-fe21-4fcb-be9e-20fed3bf07ba",
-        "choice_type": "multi"
-    },
-    {
         "question": "This is a sonogram demonstrating CRL of an 8 weeks fetus. The arrow in the field points to which of the following?",
         "exp": "The above USG image shows Anaechoic (black) gestational sac with an embryo and yolk sac (arrow). The yolk sac is seen as a small well-defined anaechoic structure in side the Gestational sac. Presence of yolk sac or fetal pole within the gestation sac confirms pregnancy. Double decidua sign of the gestational sac is due to the interface between the decidua and the chorion, which appears as two distinct layers of the wall of the gestation sac.",
         "cop": 3,
@@ -390,19 +312,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Lambda sign or twin peak sign is seen in",
-        "exp": "The Lambda or Twin peak sign at 10-14 weeks of gestation demonstrate the high reliability of ultrasound examination in determining chorionicity in twin pregnancies. The \"T sign\" is really the absence of a twin-peak sign(or lambda (l) sign) and is used in ultrasound assessment of multifetal pregnancy. It refers tothe lack of chorion extending between the layers of the intewin membrane, denoting a monochorionic diamniotic pregnancy.",
-        "cop": 2,
-        "opa": "Diamniotic Monochorionic",
-        "opb": "Dichorionic Diamniotic",
-        "opc": "Monochorionic monoamniotic",
-        "opd": "None of the above",
-        "subject_name": "Radiology",
-        "topic_name": "ULTRASOUND",
-        "id": "fee27ca4-115f-4b87-8d73-bfffd47ad211",
-        "choice_type": "multi"
-    },
-    {
         "question": "Harmonic imaging is used in?",
         "exp": "Harmonic imaging is a technique in ultrasonography that provides images of better quality as compared with conventional ultrasound technique. Advantages over conventional ultrasound Decreased reverberation and side lobe aifacts. Increased axial and lateral resolution. Cyst clearing. Increased signal to noise ratio. Improved resolution in patients with large body habitus.",
         "cop": 1,
@@ -466,19 +375,6 @@
         "topic_name": "ULTRASOUND",
         "id": "ecd48525-260d-4e2d-9250-e5bd15ca7826",
         "choice_type": "single"
-    },
-    {
-        "question": "All are hyperechoic on USG except",
-        "exp": "Bile is hypoechoic on USG. Air, bone, calcification and fat are hyperechoic on USG. Bile duct shown in the figure.",
-        "cop": 4,
-        "opa": "Air",
-        "opb": "Bone",
-        "opc": "Calcification",
-        "opd": "Bile",
-        "subject_name": "Radiology",
-        "topic_name": "ULTRASOUND",
-        "id": "76fc73ea-9b19-49f2-adad-89d6554f80c9",
-        "choice_type": "multi"
     },
     {
         "question": "Most commonly used method of display of ultrasound is",

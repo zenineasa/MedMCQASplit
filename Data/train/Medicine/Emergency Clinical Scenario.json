@@ -1,31 +1,5 @@
 [
     {
-        "question": "A 78 year old male is admitted with chest pain. His ECG shows widespread ST depression in all leads except a. VR which shows ST elevation. Whilst in ER, he passes melaena and on fuher questioning, gave history of altered bowel habit, weight loss and dark stools for 2-3 months. O/E he is pale, pulse rate is 115 bpm and BP is 80/50 mm. Hg. Blood tests demonstrate a hemoglobin of 3. 6g/l and a high-sensitivity troponin of 140ng/l. What is the best initial management?",
-        "exp": "Dx is NSTEMI: Type 2 MI (due to Anemia) Option A: No, as he is already having GI bleeding, so antiplatelet therapy is not given. Option B: Yes, packed RBC transfusion is useful for anemia component to | oxyhemoglobin. Option C: Nitrates are C/I if Systolic B. P <80 mm Hg Option D: He's already having hypotension & b blockers are C/I in hypotension",
-        "cop": 2,
-        "opa": "Aggressive treatment with dual antiplatelets",
-        "opb": "Packed RBC transfusion",
-        "opc": "Nitrates to relieve ischemia",
-        "opd": "Beta blocker to slow heart rate and reduce ischaemia",
-        "subject_name": "Medicine",
-        "topic_name": "Emergency Clinical Scenario",
-        "id": "44cd1462-2a78-4009-8a26-52c42dce3f01",
-        "choice_type": "multi"
-    },
-    {
-        "question": "34 year unresponsive female is brought to the emergency depament with no proper history. What shall be the next step in management?",
-        "exp": "Since the patient is already mentioned as unresponsive so, the rescuer should quickly assess the carotid pulse and breathing of the patient for not more than 10 second period. Evaluation and Initiation of CPR -Check for response -Call for help or ask someone to call local emergency number -If aspiration or airway obstruction is suspected then Hemlich maneuver should be performed to dislodge obstructing body. -Check for pulse(no longer than 10 sec) -Assess breathing -Chest compressions should be initiated without delay.",
-        "cop": 1,
-        "opa": "Check for carotid pulse",
-        "opb": "Check for responsiveness",
-        "opc": "Chest compressions",
-        "opd": "Shock 300 Joules",
-        "subject_name": "Medicine",
-        "topic_name": "Emergency Clinical Scenario",
-        "id": "e2cb2058-9373-45f3-842e-efe91e7c1829",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 53-year-old man presents to casualty with severe chest pain. He has a history of angina. ECG shows ST elevation of 4 mm in leads V1-V4. Thrombolysis is done but pain and ECG findings are persisting even 90 minutes after sta of thrombolysis. What is the best management of this patient?",
         "exp": "On treatment, ST elevation reduces gradually in 90 mins In this patient ST elevation doesn't come down even after thrombolysis. Failed thrombolysis--> Do Rescue PCI (Per cutaneous coronary interventions) Other options Primary PCI --> For STEMI Delayed PCI--> For NSTEMI IV Abciximab-->For NSTEMI",
         "cop": 1,
@@ -39,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient is admitted with a stab wound in the left anterior chest wall in the parasternal line. Which cardiac chamber is most likely to be injured?",
-        "exp": "Stab wound in the left anterior chest wall in the parasternal line-Right Ventricle is injured",
-        "cop": 2,
-        "opa": "Right atrium",
-        "opb": "Right ventricle",
-        "opc": "Aoa",
-        "opd": "Left ventricle",
-        "subject_name": "Medicine",
-        "topic_name": "Emergency Clinical Scenario",
-        "id": "238cd4db-fe14-4428-9637-94eec90d39e0",
-        "choice_type": "multi"
-    },
-    {
         "question": "47-year-old female with a history of Antiphospholipid antibody syndrome who has been non compliant with warfarin presents with deep vein thrombosis and dyspnea. She is hypotensive and tachypneic. CT of chest shows a saddle embolus. She does not respond to heparin and fluids. Echocardiogram shows RV hypokinesis. Which of the following is appropriate management?",
         "exp": "Clinical scenario mentioned here points towards Massive pulmonary embolism. Option A: Referral for surgical embolectomy only to be done in case there is C/I for thrombolysis (Option B): This lady specially who is in hypercoagulable state, one has to do thrombolysis with recombinant tissue plasminogen activator (r. TPA) Option C: Fluids will not be given because in question already mentioned that R. V. Hypokinesia & fluid will fuher deteriorate condition. Option D: Lepirudin is used in Heparin induced Thrombocytopenia.",
         "cop": 2,
@@ -63,19 +24,6 @@
         "topic_name": "Emergency Clinical Scenario",
         "id": "5a08b8b5-eb82-4a3e-987b-3460960eac1e",
         "choice_type": "single"
-    },
-    {
-        "question": "A 25-year-old footballer is elbowed in the chest by the rival defender during ball possession. Following the chest trauma, the player collapses and dies. The most probable cause of death is:",
-        "exp": "Blunt, non-penetrating, often innocent-appearing injuries to the chest may trigger ventricular fibrillation even in absence of ove signs of injury and lead to sudden cardiac death. This syndrome, referred to as Commotio Cordis, occurs most often in adolescents during spoing events (e. g., baseball, hockey, football) and results from an impact to the chest wall overlying the heart during the susceptible phase of repolarization just before the peak of the T wave. Survival depends on prompt defibrillation.",
-        "cop": 2,
-        "opa": "HOCM",
-        "opb": "Commotio Cordis",
-        "opc": "Hemo-thorax",
-        "opd": "Aoic transaction",
-        "subject_name": "Medicine",
-        "topic_name": "Emergency Clinical Scenario",
-        "id": "f0752edc-4b3a-42b3-b444-d27253c2b42e",
-        "choice_type": "multi"
     },
     {
         "question": "After successful resuscitation, when stable spontaneous circulation is achieved, what should be done next?",
@@ -104,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 38 year old male presents to OPD with history of progressive sholess of breath since 2 weeks. He gives past history of type II diabetes mellitus. An echocardiogram was done which revealed, an EF of 25% with anterior, septal, and lateral wall motion defects. He is admitted to the ward and stabilized on furosemide, spironolactone, bisoprolol, and ramipril. What would be the next investigation in course of management?",
-        "exp": "Echocardiogram is a screening tool in Emergency depament for looking at wall motion abnormalities. Angiography -Gold standard investigation to assess anatomy, physiology of heart -To assess the vasculature abnormalities. -To evaluate extent and severity of cardiac disease in symptomatic individuals Indications of Angiography: Asymptomatic or Symptomatic Ventricular tachycardia Symptomatic Acute Coronary Syndrome Chest pain syndromes STEMI Congestive Heart failure Pericardial disease Cardiac Transplantation",
-        "cop": 2,
-        "opa": "Endomyocardialbiopsy",
-        "opb": "Angiogram",
-        "opc": "Viraltitres",
-        "opd": "Exercise tolerancetest",
-        "subject_name": "Medicine",
-        "topic_name": "Emergency Clinical Scenario",
-        "id": "965d4860-944b-4162-b5be-acaaeaa5b018",
-        "choice_type": "multi"
-    },
-    {
         "question": "In a patient with autonomic dysreflexia after a spinal cord injury, supine BP of the patient is 200/100 mm Hg with heart rate of 58/min. Which of the following is required for initial management of these patients?",
         "exp": "Management of patient with supine hypertension: Placing him in sitting position and giving him a buccal spray of NTG (nitro glycerine) followed by NTG drip if required. Trigger for Autonomic Dysreflexia in patients of spinal cord injury is blocked or kinked Foley's catheter or stool impaction. Choice A (Nicardipine) is used in Hemorrhagic stroke with hypeensive crisis. Choice B (Sodium nitroprusside) in hypeensive encephalopathy. Patient due to spinal cord injury above T6 develops massive sympathomimetic surge leading to splanchnic vasoconstriction and development of HTN. This triggered reflex bradycardia. Choice D (Labetalol) is ruled out in setting of bradycardia.",
         "cop": 3,
@@ -141,19 +76,6 @@
         "topic_name": "Emergency Clinical Scenario",
         "id": "c9d69f70-a48f-4ebc-b701-b77c9d87b9c8",
         "choice_type": "single"
-    },
-    {
-        "question": "A 75-year-old patient clutches his chest and falls down. A physician arrives on the scene and finds the patient unresponsive with no breathing effos. What is the first thing to be done by the physician?",
-        "exp": "Evaluation and Initiation of CPR -Check for response -Call for help or ask someone to call local emergency number -If aspiration or airway obstruction is suspected then Hemlich maneuver should be performed to dislodge obstructing body. -Check for pulse(no longer than 10 sec) -Assess breathing -Chest compressions should be initiated without delay. Note: Cpr protocol C-A-B",
-        "cop": 1,
-        "opa": "Call for help",
-        "opb": "Clear patient airway",
-        "opc": "Check peripheral pulse",
-        "opd": "Chest Compressions",
-        "subject_name": "Medicine",
-        "topic_name": "Emergency Clinical Scenario",
-        "id": "c4d4744c-86de-4cb7-a10b-5b91307d0c21",
-        "choice_type": "multi"
     },
     {
         "question": "Where is the cardiac plexus located?",

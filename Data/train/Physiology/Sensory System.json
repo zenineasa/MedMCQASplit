@@ -1,18 +1,5 @@
 [
     {
-        "question": "Which body pa is represented superiorly and medially within the postcentral gyrus?",
-        "exp": "In the postcentral gyrus (somatosensory area) of each hemisphere, the sensory information from the opposite side of the body is received. The lower limb representation is found in the superior and medial poion of the postcentral gyrus (see the figure below). The lateral poion of the postcentral gyrus receives somatic sensory information from the facial and neck region.",
-        "cop": 2,
-        "opa": "Upper limb",
-        "opb": "Lower limb",
-        "opc": "Abdomen",
-        "opd": "Genitalia",
-        "subject_name": "Physiology",
-        "topic_name": "Sensory System",
-        "id": "76a56926-ea07-466a-ab1f-f7530f5572a9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Stereognosis will be lost in the lesion of:",
         "exp": "Stereognosis is the ability to identify an object by its touch, texture. The object is placed in hands and is identified without seeing it. Fine touch sensation from the upper limb is carried toward coex in fasciculus cuneatus. The tract also carries the finer aspects of touch. Perception of touch occurs in the somatosensory coex I (areas 3, 1, 2); analysis and interpretation of the touch is done in the somatosensory coex II (areas 5, 7).",
         "cop": 2,
@@ -104,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which statement concerning sensory neurons or their functional propeies is true?",
-        "exp": "The different gradations of intensity can be transmitted either by using increasing numbers of parallel fibers or by sending more action potentials along a single fiber. These two mechanisms are called, respectively, spatial summation and temporal summation. In spatial summation, increasing signal strength is transmitted by using greater numbers of sensory fibers. Other options: Most of the sensory nerve fibres are myelinated except ones carrying slow pain sensation which are unmyelinated. Increased stimulus intensity has no change in the receptor potential. Continuous subthreshold stimulation of sensory neurons results in facilitation of these neurons.",
-        "cop": 2,
-        "opa": "All sensory fibers are unmyelinated",
-        "opb": "In spatial summation, increasing signal strength is transmitted by using progressively greater numbers of sensory fibers",
-        "opc": "Increased stimulus intensity is signaled by a progressive decrease in the receptor potential",
-        "opd": "Continuous subthreshold stimulation of a pool of sensory neurons results in disfacilitation of those neurons",
-        "subject_name": "Physiology",
-        "topic_name": "Sensory System",
-        "id": "e9655b4c-3669-47a4-adb5-787c89b123f0",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 39-year-old neurosurgeon picks up a scalpel, which activates numerous sensory receptors in her hand. An increase in which of the following best describes the basis for transduction of the sensory stimuli into nerve impulses?",
         "exp": "Viually all mechanical stimuli cause an increase in ion permeability (usually to sodium) in mechanoreceptors. If the membrane potential of the mechanoreceptor reaches a critical threshold value, an action potential is initiated. The G-protein \"second messenger\" system is typically involved. Transmitter release does not occur at the level of the mechanoreceptor, but if a mechanoreceptor is activated, afferent nerve impulses do stimulate transmitter release at the nerve terminal in the central nervous system.",
         "cop": 4,
@@ -180,19 +154,6 @@
         "topic_name": "Sensory System",
         "id": "a9a4aef0-b163-4ab2-a235-365c9b6008db",
         "choice_type": "single"
-    },
-    {
-        "question": "Like other sensory systems, the somatosensory system has a descending component that functions to regulate the overall sensitivity of the system. Which of the following selections best describes the function of the coicofugal signals transmitted from the somatosensory coex downward to the thalamus and dorsal column nuclei?",
-        "exp": "Descending coical modulation of somatosensation involves in increase or decrease in the perception of signal intensity.",
-        "cop": 1,
-        "opa": "Increase or decrease the perception of signal intensity",
-        "opb": "Decrease the ability to detect body position sense",
-        "opc": "Remove the thalamus from the processing of somatosensory signals",
-        "opd": "Allow ascending information to bypass the nucleus cuneatus and gracilis",
-        "subject_name": "Physiology",
-        "topic_name": "Sensory System",
-        "id": "6ed17482-d55f-4455-8ccb-dadedb81af77",
-        "choice_type": "multi"
     },
     {
         "question": "The principle that in spinal cord, the dorsal roots are sensory and the ventral roots are motor, is known as:",

@@ -1,18 +1,5 @@
 [
     {
-        "question": "In all of the following enzyme deficiencies, hyperammonemia is a common feature, EXCEPT:",
-        "exp": "Excess ornithine from urea cycle is taken by enzyme OAT (Ornithine amino transferase) OAT deficiency leads to gyrate atrophy. In this deficiency, plasma, urine, spinal fluid and aqueous humour concentration of ornithine levels are 10-20 times higher than normal Hyperammonemia is absent because urea cycle is not disrupted in this deficiency Hyperammonemia occurs in enzyme deficiency of Urea cycle",
-        "cop": 4,
-        "opa": "Argininosuccinate synthetase",
-        "opb": "Carbamoyl Phosphate synthetase (CPS-I)",
-        "opc": "Ornithine transcarbamoylase (OTC)",
-        "opd": "Ornithine amino transferase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Urea cycle",
-        "id": "143d959a-556e-45f0-9a64-933a31933587",
-        "choice_type": "multi"
-    },
-    {
         "question": "Ammonia is detoxified in brain by formation of",
         "exp": "The transpo form of Ammonia in blood and from Brain is Glutamine. From muscles, it is Alanine. The answer is not glutamate because free ammonia is trapped by glutamine Glutamate is formed transamination of amino acids, not from free ammonia.",
         "cop": 3,
@@ -37,19 +24,6 @@
         "topic_name": "Urea cycle",
         "id": "7ac0b225-cb65-4bb4-97e4-7836112d67dc",
         "choice_type": "single"
-    },
-    {
-        "question": "Urea cycle occurs in:",
-        "exp": "Pathways occurring In Mitochondria Cytoplasm Both TCA ETC Beta oxidation of Fatty acids Ketone body synthesis Ketone body utilization Glycolysis Glycogen synthesis Glycogen breakdown Fatty acid synthesis Urea Cycle Haem synthesis Gluconeogenesis",
-        "cop": 3,
-        "opa": "Mitochondria",
-        "opb": "Cytoplasm",
-        "opc": "Both",
-        "opd": "ER",
-        "subject_name": "Biochemistry",
-        "topic_name": "Urea cycle",
-        "id": "a699103a-0e5d-45a1-8aaa-bbe88352638f",
-        "choice_type": "multi"
     },
     {
         "question": "Arrange the following enzymes of urea cycle in sequence: A. Arginase B. Arginosuccinate Synthetase C. Argininosuccinate Lyase D. Ornithine Transcarbamoylase",
@@ -156,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Allosteric activator of NAG synthase is:",
-        "exp": "NAG is an allosteric activator of CPS-I (rate limiting enzyme) NAG is synthesized from N-acetyl glutamate synthase or NAG synthase, for which arginine is the activator.",
-        "cop": 2,
-        "opa": "Aspaate",
-        "opb": "Arginine",
-        "opc": "CPS-I",
-        "opd": "CPS-II",
-        "subject_name": "Biochemistry",
-        "topic_name": "Urea cycle",
-        "id": "5f70fb50-5be6-430c-b8e0-131c5fce1f1a",
-        "choice_type": "multi"
-    },
-    {
         "question": "The conversion of glutamate to glutamine is catalysed by a",
         "exp": "Glutamine is a nutritionally non-essential amino acid It is synthesised from glutamate Free ammonia is ligated to glutamate (that is why ligase) with the use of energy provided by ATP hydrolysis. The enzyme is glutamine synthetase (Synthetase requires ATP while synthase does not require ATP).",
         "cop": 2,
@@ -234,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Out of the following, which is the allosteric activator of hepatic glutamate dehydrogenase?",
-        "exp": "Glutamate dehydrogenase:- Involved in oxidative deamination of glutamate to form alpha-keto glutarate Present in mitochondria of liver cells Can use either NAD or NADP This reaction is reversible Alosteric activator Allosteric inhibitor NAD ADP GDP ATP GTP NADH So, option a, b, d are allosteric inhibitors.",
-        "cop": 3,
-        "opa": "ATP",
-        "opb": "GTP",
-        "opc": "ADP",
-        "opd": "NADH",
-        "subject_name": "Biochemistry",
-        "topic_name": "Urea cycle",
-        "id": "84602a24-acea-438e-871a-3f762a29dece",
-        "choice_type": "multi"
-    },
-    {
         "question": "In ureotelic animals, carbamoyl group are transferred to:-",
         "exp": "The question is asking about the first step of the urea cycle in an indirect way (See Fig). Based on how nitrogen is excreted, animals are divided into 3 categories. Ammoniotelic animals - Animals that excrete ammonia. e. g. Fishes Ureotelic animals - Animals which excrete urea e. g. Mammals including man Uricotelic - Animals that excrete uric aciduric acid. e. g. Birds",
         "cop": 3,
@@ -260,19 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are transaminated EXCEPT:",
-        "exp": "Only a amino group takes pa in transamination. Except:- d -amino group (non-a) of ornithine takes pa in transamination, where enzyme is OAT (Ornithine Amino Transferase). Out of the 20 amino acids, 3 amino acids do not take pa in transamination. Proline Lysine Threonine",
-        "cop": 2,
-        "opa": "d- amino group of ornithine",
-        "opb": "a- amino group of proline",
-        "opc": "a- amino group of serine",
-        "opd": "a- amino group of cysteine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Urea cycle",
-        "id": "218528cd-12b6-435a-a13d-4aeaa7858fba",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which amino acid is regarded as collector of amino groups?",
         "exp": "First step in catabolism of amino acids is the transfer of NH3 group from amino acid to Alpha Keto- Glutarate forming Glutamate- known as Transamination. So Glutamate is regarded as collector of amino groups. Note:-The safe non-toxic form of ammonia transpo in blood from most body tissues is Glutamine. Collector is Glutamate, transpoer is Glutamine",
         "cop": 4,
@@ -284,19 +219,6 @@
         "topic_name": "Urea cycle",
         "id": "3192db40-15c8-4f5f-8d8c-4ce8e8587e0a",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is the allosteric activator of carbamoyl phosphate synthase I?",
-        "exp": "Carbamoyl phosphate synthase I is the rate-limiting enzyme of the urea cycle Active only in the presence of N-acetylglutamate(NAG), an allosteric activator that enhances the affinity of the synthase for ATP. Arginine is the allosteric activator of NAG synthase.",
-        "cop": 4,
-        "opa": "Glutamine",
-        "opb": "Oxaloacetate",
-        "opc": "N-acetyl aspaate",
-        "opd": "N-acetyl glutamate",
-        "subject_name": "Biochemistry",
-        "topic_name": "Urea cycle",
-        "id": "4d59a8b5-8aa0-4977-b59b-19a504aed7d8",
-        "choice_type": "multi"
     },
     {
         "question": "In urea cycle, hydrolysis occurs during:",

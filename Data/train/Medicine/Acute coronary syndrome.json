@@ -39,45 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 65 year old man was seen as an outpatient complaining of central chest pain on exeion. His son tells you that 5 years ago he had been admitted for MI in the CCU of the same hospital. His vitals are stable and chest is clear. No added heart sounds are heard. What is the next best step?",
-        "exp": "The ECG shows a heart of 60/min with normal sinus rhythm. Prominent Q waves are noted in lead III, AVF indicating a previous inferior wall MI. Markedly Peaked T waves are noted in V2 and V3. Known case of ASCVD and currently is having chronic stable angina. He needs stress tests to decide the need for revascularization procedure like PCI with Stenting or CABG. cardiac biomarkers will not be elevated since angina is going on. infarction has not yet occured. stress test will decide whether patient need cardiac intervention or not Check for daily intake of aspirin, Statins, Long acting nitrates and cardio-selective Beta Blockers",
-        "cop": 1,
-        "opa": "Perform Stress tests",
-        "opb": "Perform Cardiac biomarkers",
-        "opc": "Perform PCI",
-        "opd": "Perform Transvenous Pacing",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "6067c1c4-9eec-41c9-8799-c5361a25738d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 50-year-old construction worker continues to have elevated BP of 160/100 mm. Hg after a third agent (thiazide) is added to his anti-hypeensive regimen. Physical examination is normal, electrolytes are normal and he is not taking any over the counter medications. Which is the next helpful step in the diagnosis of this patient?",
-        "exp": "The patient is suffering from resistant hypertension and the leading cause of resistant hypertension is non- compliance on the pa of patient. Resistant hypertension is defined as blood pressure that remains above goal in spite of the concurrent use of 3 antihypeensive agents of different classes. Ideally, one of the 3 agents should be a diuretic and all agents should be prescribed at optimal dose amounts.",
-        "cop": 1,
-        "opa": "Check pill count",
-        "opb": "Perform renal Doppler",
-        "opc": "MRI aoa",
-        "opd": "Adrenal CT scan",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "68fa6c19-cd04-4fe8-9c1a-4c9d1a6a7e00",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Coronary aery disease is associated with all except?",
-        "exp": "Alcohol in mild amounts has been shown to have a beneficial effect on thehea. Studies have shown chlamydia and poor dental hygiene as incriminating factors for atherosclerosis. Red wine contains siuin that increases levels of H. D. L and increases longevity.",
-        "cop": 4,
-        "opa": "Chlamydia",
-        "opb": "Poor dental hygiene",
-        "opc": "Smoking",
-        "opd": "Alcohol",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "ea0906a8-ced9-4bbf-bc81-9099ed715f03",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which score is calculated during performance of this test?",
         "exp": "The image shows a Treadmill test being performed on the patient. Duke treadmill score is used to decide fuher workup and management of patients of chronic stable angina. Duke treadmill score: Maximum exercise time in minutes - 5x. ST segment detion in mm - 4xangina index Angina index 0 = no angina 1 = non-limiting angina 2 = exercise limiting angina A score >5 indicates low risk for cardiovascular events (predicted 4 year survival is 99%). A score <-11 indicates high risk for cardiovascular events (predicted 4 year survival is 79%). These patients require fuher investigation with coronary angiography. A score between 4 and -10 indicates intermediate risk. Such patients may require fuher investigation with myocardial perfusion scanning or coronary angiography, or both, depending on the pre-test probability.",
         "cop": 1,
@@ -128,71 +89,6 @@
         "topic_name": "Acute coronary syndrome",
         "id": "7b16c748-3868-46f0-aafd-9207956389e8",
         "choice_type": "single"
-    },
-    {
-        "question": "A 46-year-old female presents to casuality with chest pain. Her BP is 140/80mm. Hg, heart rate 90bpm, and saturations 99% on roomair. What should be yournext step?",
-        "exp": "An ECG should be performed as soon as possible as prompt diagnosis of ST elevation MI is essential. The majority of patients presenting with chest pain are of non-ischaemic origin and so the other treatments may not be necessary. If ACS is suspected, aspirin should be given first. Oxygen is not recommended in the chest pain management unless saturations are <94%",
-        "cop": 4,
-        "opa": "Administeroxygen",
-        "opb": "Administer analgesia",
-        "opc": "Give aspirin300mg",
-        "opd": "Perform a 12-lead. ECG",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "35cf0212-a0dd-4e33-af52-da0e72148ce6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Comment on the ECG given below.",
-        "exp": "Notice the \"tombstone pattern\" of ECG throughout the precordial (VI-V6) and lead I and a. VL This is seen in proximal LAD obstruction and indicates high possibility of cardiogenic shock developing in the patient Therefore, extensive anterior wall MI",
-        "cop": 1,
-        "opa": "Extensive anterior wall MI",
-        "opb": "Anterior wall MI",
-        "opc": "Inferior wall MI",
-        "opd": "Septal MI",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "0abed539-f651-44da-ae8d-862ee70bf752",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are used for secondary prevention of MI except?",
-        "exp": "Aspirin and clopidogrel have been shown to reduce moality due to MI. Statins regress atherosclerosis and b blockers which have an oxygen conserving action will prevent future episode of MI. Warfarin is not routinely used in post-MI patients.",
-        "cop": 4,
-        "opa": "Aspirin",
-        "opb": "Statins",
-        "opc": "Beta-blockers",
-        "opd": "Warfarin",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "87db442a-c2df-445e-b60e-1da74d0f48b4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 23-year-old male developed an excruciating chest pain and palpitations after drinking 4 cans of energy drink at night while revising for final year exams. He was brought to ED, and his ECG showed sinus tachycardia but no ST change. Pulse was 90/min and BP was 130 /90 mm Hg. The pain subsided after a sho while. His physical examination was normal. He gave a history that last year his father had a myocardial infarction at the age of 60. All his lab findings were in a normal range. Troponin and D-dimer tests came out to be negative. What shall be the next step in management?",
-        "exp": "The symptoms of chest pain and palpitations has developed in the patient due rapid adrenaline gush in his system due to energy drink. As ECG shows, no ST elevation, it rules out STEMI. This patient currently has a very low risk of coronary disease and so no fuher ischaemic stratification is necessary. In view of family history, primary prevention is of utmost impoance.",
-        "cop": 4,
-        "opa": "Closely observe and monitor",
-        "opb": "Put him on exercise treadmill test",
-        "opc": "Do a Stress echocardiogram",
-        "opd": "No fuher investigation is required",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "614007a1-93dd-45a4-8bf5-53379bda96e0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are false statements regarding atherosclerotic plaque formation except?",
-        "exp": "Atherosclerotic plaque Subintimal collections of fat, smooth muscle cells, fibroblasts. Tends to develop at branching sites due to turbulence flow in epicardial vessels Characteristic -Grow into intima and media of epicardial coronary vessels and don't encroach lumen initially Mycotic aneurysm usually develops at site of an atherosclerotic plaque.",
-        "cop": 3,
-        "opa": "Acute inflammatory disease of the vascularintima",
-        "opb": "Characteristic feature is accumulation of cholesterol esters on the luminal surface of the endothelium",
-        "opc": "Macrophages bind and phagocytose oxidized LDL to form foamcells",
-        "opd": "Tend to form away from branchpoints",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "f15fb826-27a8-4d35-b1ec-29a32eae0754",
-        "choice_type": "multi"
     },
     {
         "question": "A 60-year-old male is on aspirin, ACE inhibitor, nitrates and beta blocker for chronic stable angina. Since the new-year pay, he is having long-lasting angina pain every day for past 3 days. ECG was normal and Troponin I levels are normal. Which is the best management of this patient?",
@@ -247,45 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following findings during an exercise tolerance test is associated with left coronary aery disease except?",
-        "exp": "An Exercise Tolerance Test (ETT) is an Electrocardiogram (ECG) that is recorded while patient is exercising. A failure to increase SBP by 10 mm Hg, or a sustained decrease in SBP of 10 mm Hg or more, is suggestive of multivessel (or left main) CAD. Findings suggesting high probability of coronary aery disease: Horizontal ST segment depression of 2 mm Down sloping ST segment depression Persistence of ST depression for > 6 minutes into recovery ST segment depression in five or more leads persisting >=5 minutes into recovery. ST-segment elevation of >=1 mm in lead a. VR may be a significant predictor of left main coronary aery disease.",
-        "cop": 3,
-        "opa": "Early onset of ST depression",
-        "opb": "Persistence of ST segment changes late into recovery phase",
-        "opc": "Failure to increase systolic BP by at least 20mm Hg",
-        "opd": "ST segment elevation in a. VR",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "962968d2-6bc0-41e3-80c4-df14bb7764f5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The ratio of chest compression to rescue breath ratio for a lone rescuer in CPR for all ages is?",
-        "exp": "The chest compression to ventilation ratio is 30: 2 for all age groups except neonatal resuscitation where the ratio is 3: 1. Even in infants and children the ratio is 30: 2 For adults irrespective of number of rescuers the ratio of chest compression to ventilation ratio is 30: 2. For children if 1 rescuer is present the chest compression to ventilation ratio is 30: 2 For children if 2 or more rescuers are present the chest compression to ventilation ratio is 15: 2",
-        "cop": 1,
-        "opa": "30: 02: 00",
-        "opb": "15: 02",
-        "opc": "3: 01",
-        "opd": "30: 01: 00",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "bfc14c39-f74c-4941-91f3-5ea4048185bb",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 65-year old man presents with crushing chest pain for 2 hours. On examination, BP = 80/60 mm Hg and JVP are elevated 4 cm above the sternal angle. All are true about the condition shown except:",
-        "exp": "The ECG shows * Sinus rhythm is present with a normal QRS axis and tall T waves. * ST elevation >1 mm in V4R and leads II, III, a. VF * ST depression (reciprocal) is present in anterior leads. * Hence the diagnosis is right ventricular MI. * Right ventricular infarction leads to hypotension with clear lung fields and presence of elevated JVP (Kussmaul sign +).",
-        "cop": 2,
-        "opa": "ST elevation in V4R",
-        "opb": "ST segment depression in lead II, III, a. VF",
-        "opc": "Right ventricular infarction",
-        "opd": "Kussmaul sign +",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "5d6e962f-97a5-4b3a-971c-393eae25a09d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which drug prolongs life in a patient with chronic stable angina?",
         "exp": "Due to oxygen conservation capability, beta blockers have been proved to reduce moality in CSA. Multiple RCT have shown benefit of beta blockers",
         "cop": 2,
@@ -325,19 +182,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is the best test for ble myocardium after MI?",
-        "exp": "A thallium scan is a class I indication for Risk assessment, prognosis, and assessment of therapy after STE acute myocardial infarction and can be used to determine the following: 1. Rest or exercise RV/LV function 2. Presence/extent of stress-induced ischemia 3. Detection of infarct size and residual ble myocardium 4. Diagnosis, prognosis, and assessment of therapy in patients with unstable angina/NSTEMI",
-        "cop": 1,
-        "opa": "Thallium scan",
-        "opb": "MUGA scan",
-        "opc": "MDCT",
-        "opd": "Stress Echocardiography",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "39226868-15f3-47b3-9aa3-b67b40c0a2e6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Agatson scoring is done for?",
         "exp": "Agatson scoring used to evaluate severity of calcification in coronary aery using MDCT (Multi Detector CT Scan) based on area and density of calcification.",
         "cop": 1,
@@ -351,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Bradycardia is a feature of?",
-        "exp": "Pathological cause of sinus bradycardia is acute myocardial infarction. Sinus bradycardia is paicularly associated with inferior myocardial infarction as RCA supplies SAN and AVN.",
-        "cop": 1,
-        "opa": "Inferior wall MI",
-        "opb": "Antro septal",
-        "opc": "Lateral wall MI",
-        "opd": "Posterior wall MI",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "87c7a518-5be3-4b2e-82d6-848550533112",
-        "choice_type": "multi"
-    },
-    {
         "question": "Tadalafil is contraindicated in?",
         "exp": "Tadalafil is C/I with NTG which is taken for acute attack of angina as in this case. Tadalafil- Uses: For erectile dysfunction For symptoms of BPH Nitrates should not be used within 24 hours of sildenafil, tadalafil, or vardenafil (may produce severe hypotension) Nitrates- C/I in the presence of hyperophic CMP or severe Aoic Stenosis MC side effect of nitrate treatment is headache Hypotension may occur in hypovolemic patients. Development of tolerance To avoid nitrate tolerance, a daily 8 to 12 hour interval free of nitrate exposure is recommended",
         "cop": 2,
@@ -375,32 +206,6 @@
         "topic_name": "Acute coronary syndrome",
         "id": "ac3037db-ebf1-42ca-89ef-71f5702400a2",
         "choice_type": "single"
-    },
-    {
-        "question": "A 42-year-old man presents with central, crushing chest pain that radiates to the jaw. The pain occurred while jogging around the local park. The pain was alleted with rest. The ECG is normal. Diagnosis is?",
-        "exp": "Angina pectoris - Chronic stable - > 70% blockage in any one coronary aery - chest pain alleted with rest",
-        "cop": 1,
-        "opa": "Angina pectoris",
-        "opb": "Acute Pericarditis",
-        "opc": "STEMI",
-        "opd": "NSTEMI",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "d9bc8958-3e11-4f78-988c-57fee01443a2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement regarding Dressler's Syndrome",
-        "exp": "Early Pericarditis Late Pericarditis (Dressler's Syndrome) 10% of patients with acute Ml. Risk factors: Transmural Ml Symptoms: Worsening of pain while supine, radiation of pain to the trapezius ridge. Physical exam: Pericardial friction rub. Diagnosis: ECG may show evidence of pericarditis; echo may show pericardial effusion Treatment: Aspirin. Avoid NSAIDs and coicosteroids (may interfere with healing of infarcted myocardium) 1-3% of patients with acute Ml. secondary to immune-medicated injury. Timing: Usually occurs 1-8 weeks after Ml. Physical exam: Pericardial rub, fever. Diagnosis: ECG may show evidence of pericarditis; echocardiography may show pericardial effusion Treatment: Aspirin. If > 4 weeks since Ml, can use NSAIDs or coicosteroids",
-        "cop": 3,
-        "opa": "Usually occurs 1-4 days after Ml",
-        "opb": "Occurs in 10% of patients with acute Ml",
-        "opc": "Treatment of choice is aspirin",
-        "opd": "Complication of early Pericarditis",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "f3766b2c-2fc0-435e-8c09-09b8c92b62e1",
-        "choice_type": "multi"
     },
     {
         "question": "A 67-year-old man with a history of hypertension, hyperlipidemia and tobacco use has been diagnosed with infra-renal aoic aneurysm of size 3 X 3. 5 cm. Which is best suited for this patient?",
@@ -455,32 +260,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 58-year-old man presents to you complaining of chest pain. The pain occurs when he walks to the corner shop on his lunch break and disappears within a couple of minutes when he stops to rest. He has never had pain at rest or pain that did not spontaneously remit. Clinical examination is normal except for mildly elevated blood pressure at 145/85. An ECG shows normal sinus rhythm. What is the most appropriate investigation?",
-        "exp": "Case of chronic stable angina Option A: Fasting blood lipids= Yes, It is mandatory to identify there is a presence of blockage in coronary aery secondary to hypercholesterolemia or any deranged lipid profile. But it is not most appropriate here. Option B: First we give patient medical treatment if it fails then only, we go for angiography so it is ruled out. Option D: CT Angiography = It can identify blockages in coronary aery with the high sensitivity. Nowadays we are using CT angiography over stress test.",
-        "cop": 4,
-        "opa": "Fasting blood lipids",
-        "opb": "Urgent invasive coronary angiography",
-        "opc": "Repeat ECG in 1 week",
-        "opd": "CT coronary angiography",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "94e9e49f-14a4-4e4d-b213-3ea1c947107d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All statements are true regarding non-ST elevation acute coronary syndromes (NSTE-ACS) and ST elevation myocardial infarctions (STEMI) except?",
-        "exp": "Epidemiologic studies indicate there is a shift in the pattern of AMI over the last 15 years with more patients with NSTEMI than STEMI. The relative incidence of NSTEMI is rising due to the increasing burden of diabetes and chronic kidney disease in an aging population, while STEMI is declining due to greater use of aspirin, statins, and less smoking. Among patients with NSTE-ACS, the propoion with NSTEMI is rising while that with UA is falling because of the wider use of troponin assays with higher sensitivity to detect myocyte necrosis, thereby reclassifying UA as NSTEMI. Infarction of >=40% of the left ventricle usually results in cardiogenic shock. Pump failure is now the primary cause of in-hospital death from STEMI PCI is the treatment of choice for patients with acute coronary syndromes",
-        "cop": 3,
-        "opa": "The relative incidence of NSTEMI is rising due to the increasing burden of diabetes and chronic kidney disease in an aging population.",
-        "opb": "Pump failure is now the primary cause of in-hospital death from STEMI",
-        "opc": "Infarction of >=60% of the left ventricle usually results in cardiogenic shock",
-        "opd": "PCI is the treatment of choice for patients with acute coronary syndromes",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "19b367f2-381c-49d4-9446-346f5e4bedf0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Framingham risk score is used to determine?",
         "exp": "Framingham risk score is used to determine 10-year Cardiovascular moality for Atherosclerosis. Framingham criteria are used for diagnosis of Congestive heart failure",
         "cop": 3,
@@ -492,32 +271,6 @@
         "topic_name": "Acute coronary syndrome",
         "id": "e5a558de-ba01-475d-a97f-ec8f8bd85364",
         "choice_type": "single"
-    },
-    {
-        "question": "A 50-year old man who had recently joined a gym collapsed on the treadmill. He was rushed to the hospital where the ECG shows the presence of:",
-        "exp": "* The ECG shows patient in sinus Rhythm, normal QRS axis * Upsloping ST-segment elevation is seen in V2-V5 and a. VL * In extreme left, premature ventricular beats can be noticed in Lead II and Lead III * Rhythm strip lead II shows ST depression (right at the bottom) Brugada syndrome has ST elevation in VI-V3 and can present with sudden collapse during physical exeion but the collapse occurs due to ventricular tachycardia. ECG strip, however, does not show any tachyarrhythmia. Arrhythmogenic right ventricular dysplasia shows the presence of epsilon waves.",
-        "cop": 1,
-        "opa": "Acute extensive anterior wall MI",
-        "opb": "Brugada syndrome",
-        "opc": "Catecholamine sensitive ventricular tachycardia",
-        "opd": "Arrhythmogenic right ventricular dysplasia",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "9a4232b6-8606-4056-b235-5b92403ebcc0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A patient with anterior wall MI was thrombolysed within 6 hours of presentation with STK. On day 3 he had a fever with chills and platelet count of 60, 000. Which of the following is responsible for this presentation?",
-        "exp": "Thrombocytopenia is a rare but dangerous adverse effect of clopidogrel, encompassing Thrombotic Thrombocytopenic Purpura (TTP), isolated thrombocytopenia and autoimmune thrombocytopenia",
-        "cop": 4,
-        "opa": "Aspirin",
-        "opb": "Ranolazine",
-        "opc": "STK",
-        "opd": "Clopidogrel",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "ed7646ad-6754-4839-9a7a-ee742da0be8d",
-        "choice_type": "multi"
     },
     {
         "question": "An 18-year-old man is admitted to the hospital with acute onset of substernal chest pain that began abruptly 30 minutes ago. He repos the pain radiating to his neck and right arm. He has otherwise been in good health. On physical examination, he is diaphoretic and tachypnoeic. His BP is 102/48 mm. Hg and heart rate is 112 bpm, regular rhythm but is tachycardiac. A 2/6 holosystolic murmur is heard best at the apex and radiates to the axilla. His lungs have bilateral rales at the bases. The ECG demonstrates 4 mm of ST elevation in the anterior leads. In the past he was hospitalized for some problem with his heart when he was 4 years old. His mother, who accompanies him, repos that he received aspirin and g- globulin as treatment. Since that time, he has required intermittent follow-up with echocardiography. What is the most likely cause of this patient's acute coronary syndrome?",
@@ -533,32 +286,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 45 year old man presents with central chest pain for 4 hours. Troponin I is 0. 8ng/dl. Diagnosis is?",
-        "exp": "The heart rate is 60/min with normal axis. Normal sinus rhythm is present. QRS complex duration is normal. T wave inversion is seen in V2-V4. Since cardiac biomarkers are elevated and ischemic changes are present in ECG, the diagnosis is anterior wall ischemia, NSTEMI.",
-        "cop": 2,
-        "opa": "Anterior wall, STEMI",
-        "opb": "Anterior wall, NSTEMI",
-        "opc": "Unstable Angina",
-        "opd": "Prinzmetal angina",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "df2e0ee4-fa1f-47bb-b8dd-d99607066a9b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A patient in CCU on day 2 of PCI procedure has the following rhythm. BP=90/60mm. Hg. Which is the next best step for management of this patient?",
-        "exp": "The ECG shows a Ventricular rate of 30/min and atrial rate of 100/min. the patient has developed a third-degree heart block and needs a pacemaker for the same. Currently, a transvenous pacemaker is recommended for the patient.",
-        "cop": 1,
-        "opa": "Pacemaker",
-        "opb": "Lignocaine",
-        "opc": "Amiodarone",
-        "opd": "Synchronized cardioversion",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "a8d78079-77b5-4b8b-858a-7ed955de671f",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient becomes pulseless and his BP crashes after myocardial infarction. Diagnosis is?",
         "exp": "The heart rate is 250 bpm and broad complex QRS is seen in all leads. The patient has Ventricular Tachycardia Needs a DC shock of 200 J biphasic.",
         "cop": 1,
@@ -570,32 +297,6 @@
         "topic_name": "Acute coronary syndrome",
         "id": "1b945dc4-a1be-492d-8284-a3fa5bbed959",
         "choice_type": "single"
-    },
-    {
-        "question": "Viability of ischemic myocardium is best diagnosed by?",
-        "exp": "SPECT PET Tracers used Thallium-201 Technetium 99m 99. Mtc Rubidium 82 13N ammonia Sensitivity 87% 90% Specificity 73% 89% Features Detects hibernating myocardium Ventricular function assessment gated SPECT Better attenuation and Assessment of myocardial metabolism and bility If PET is not among the given options then go for SPECT thallium scan MUGA scan: Multi-gated blood pool acquisition radionuclide angiography is used to assess LV function and volume. The FDA approved PET tracers are- 1. Rubidium-82 2. 13-N Ammonia 3. Fluoro-deoxy-glucose FDG-18 assesses myocardial glucose metabolism which is an indicator of bility. Coronary Angiography can tell about blockages but cannot differentiate scar tissue from hibernating myocardium.",
-        "cop": 3,
-        "opa": "MUGA scan",
-        "opb": "Thallium scan",
-        "opc": "PET scan",
-        "opd": "Coronary angiogram",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "aa59a125-7bd5-4d23-a44a-ff9dd99d0a58",
-        "choice_type": "multi"
-    },
-    {
-        "question": "On the basis of given ECG what is the most probable diagnosis?",
-        "exp": "The given ECG shows ST elevation in leads V1-V4 which suggest acute anteroseptal wall MI. Acute septal MI is associated with ST elevation, Q wave formation and T wave inversion in the leads overlying the septal region of the heart (V2 and V3).",
-        "cop": 2,
-        "opa": "Anterolateral wall MI",
-        "opb": "Anteroseptal MI",
-        "opc": "Anterior wall MI",
-        "opd": "Extensive anterior wall MI",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "ed22153a-c99c-4360-b825-6f61c780ab8e",
-        "choice_type": "multi"
     },
     {
         "question": "A 65-year-old male had MI one year ago. Now the same patient presents with hypertension. Which of the following drug is best suited for this patient?",
@@ -635,19 +336,6 @@
         "topic_name": "Acute coronary syndrome",
         "id": "5b627914-216b-4731-baa8-df99466a0406",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is called \"flipping effect\"?",
-        "exp": "Option A = LDH 1>LDH 2 In Normal person, LDH2>LDH1 LDH 1 is present in cardiac Myocyte. If MI occurs, LDH1 levels | Lactate dehydrogenase (LDH): Tetrameric enzyme formed by combination of 2 subunits: H (Heart) and M (Muscle): Type Subunit Tissues of origin LDH-1 H4 Heart muscle LDH-2 H3. M1 RBCs LDH-3 H2. M2 lungs LDH-4 H1. M3 Liver LDH5 M4 Muscles",
-        "cop": 1,
-        "opa": "LDH 1 >LDH 2",
-        "opb": "LDH 2 > LDH 1",
-        "opc": "LDH 2 > LDH 3",
-        "opd": "LDH 3 > LDH 2",
-        "subject_name": "Medicine",
-        "topic_name": "Acute coronary syndrome",
-        "id": "4d84ba6b-7bec-4549-8370-8633649bb844",
-        "choice_type": "multi"
     },
     {
         "question": "A 25-year old patient with a history of recent respiratory tract infection complains of severe chest pain at rest. The ECG of the patient is given. The most probable diagnosis of the patient is?",

@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All or none phenomenon means -",
-        "exp": "Ans. is 'b' i. e., Action potential has a fixed value Features of action potential:-o AP has following features1) Self Propagation:# AP, once started, is conducted along the nerve fiber, without any reduction in amplitude or speed, until it comes to the fiber's end, i. e., AP is propagated without decrement. Conduction of nerve impulses although rapid, is much slower than electricity. 2) All or none phenomenon:# The action potential is not graded. It is an all or none change. Under a given set of conditions, it has a fixed value. Either all of the action potential is seen or not at all.# If a stimulus of threshold strength is applied, an AP is produced further increase in strength or duration of stimulus does not produce any increase in amplitude or duration of AP.# On the other hand, if the stimulus is of subthreshold intensity, AP fails to occur. 3) Membrane excitibility during an AP# An action potential is triggered only if the stimulus raises the membrane potential above firing level of - 55 mV. The minimum strength of stimulus that can trigger an action potential is called a \"threshold stimulus\".# During action potential, the excitibility of a neuron is reduced. Application of stimulus, whatever its strength, from the onset of deplorization till repolarization is about one-third complete (early part of repolarization) fails to produce any response. This period is called absolute refractory period.# Thereafter, In later part of repolarization till the onset of after depolarization, the membrane is in relative refractory period, i. e., a sufficiently high stimulus can elicit a response.# During after depolarization, the membrane is hyperexicitable; having just come out of the refractory period, the membrane is excitable and being closer to the firing level makes it hyperexciable.# During after-hyperpolarization, the membrane excitibility is low but slowly returns to normal.",
-        "cop": 2,
-        "opa": "Magnitude is related to strength of stimulus",
-        "opb": "Action potential has a fixed value",
-        "opc": "Action potential can be developed by subthresold stimuli",
-        "opd": "Magnitude is related to duration of stimuli",
-        "subject_name": "Physiology",
-        "topic_name": "Membrane Potentials and Action Potentials",
-        "id": "01a3afa4-cab0-4493-8b25-e354f311cce8",
-        "choice_type": "multi"
-    },
-    {
         "question": "The hyperpolarization phase of the action potential is due to?",
         "exp": "ANSWER: (B) Prolonged opening of voltage-gated K+ channels. REF: Guyton's physiology 12th ed page 61, BRS physiology 4th ed page 11. See Physiology 2013 Session 2 for \"IONIC BASIS OF NERVE ACTION POTENTIAL\"",
         "cop": 2,
@@ -76,18 +63,5 @@
         "topic_name": "Membrane Potentials and Action Potentials",
         "id": "421cfd55-9e9f-4cdb-ad31-ed1a800e7f25",
         "choice_type": "single"
-    },
-    {
-        "question": "Orthodromic conduction is -",
-        "exp": "Ans. is 'a' i. e., An axon can conduct impulse in one direction only o Experimentally, an axon can conduct impulse in either directionQ. o When an action potential is initiated in the middle of the axon, the impulse shall travel in both direction, i. e., one along the axon towards its terminal knobs and one in opposite direction, i. e., along the axon towards the cell body (soma) & dendrites. o However, in the intact body, i. e., in the natural situation, the impulses are conducted in the one direction onlyQ, i. e., from synaptic junction or receptors along axons to their termination. o Such conduction is called orthodromic conductionQ. o Conduction in opposite direction is called antidromic conduction, i. e., opposite to physiological direction. o However, antidromic conduction is very rare and may be seen only in muscle tissue. o In nerve fibers, the propagation of action potential is unidirectional (orthodromic) because transmission across neuromuscular junction and synpses is unidirectionalQ.",
-        "cop": 1,
-        "opa": "An axon can conduct impulse in one direction only",
-        "opb": "An axon can conduct impulse in both direction",
-        "opc": "The jumping of depolarization from node to node",
-        "opd": "The print at which a runaway spike potential",
-        "subject_name": "Physiology",
-        "topic_name": "Membrane Potentials and Action Potentials",
-        "id": "2c488162-7523-49d7-9405-acbb35cc8a67",
-        "choice_type": "multi"
     }
 ]

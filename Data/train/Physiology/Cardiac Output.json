@@ -91,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Peripheral resistance is inversely propoional to:",
-        "exp": "Poiseuille-Hagen equation: (for the flow of a fluid in a rigid cylindrical tube) Q = P x (pr4/8el) Q = flow, P (or P1 - P2) = pressure difference between two points, r = radius of the tube, e = viscosity of the fluid, and l = length of the tube. By Ohm's law: Q = P/R; OR R = P/Q. {R = resistance} Thus, viscous resistance (R) can be given by combining the above two formula: R = (8el)/(pr4) Thus, viscous resistance is propoional to the viscosity (e) of the fluid and the length (l) of the tube. inversely propoional to the fouh power of the radius of the tube (blood vessel). Thus option A is correct.",
-        "cop": 1,
-        "opa": "Radius of the vessel",
-        "opb": "Viscosity of blood",
-        "opc": "Length of the vessel",
-        "opd": "Elasticity of the vessel wall",
-        "subject_name": "Physiology",
-        "topic_name": "Cardiac Output",
-        "id": "b14ab5f3-d683-4e3f-a9da-76d0eaf3c8c0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Under normal circumstances, left ventricular shoening fraction (LVSF) is:",
         "exp": "Left ventricular shoening fraction (LVSF) is the percentage of shoening of LV fibers from their end-diastolic length (EDL). EDL and ESL are end-diastolic length and end-systolic length, respectively. Normal LVSF = 35%-40%. The value of LVSF decreases in LV failure.",
         "cop": 2,

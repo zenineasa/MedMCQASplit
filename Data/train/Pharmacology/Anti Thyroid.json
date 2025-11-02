@@ -1,18 +1,5 @@
 [
     {
-        "question": "Conversion of T4 to T3 is inhibited by all except:",
-        "exp": "Ans. (D) Methimazole(Ref: KDT 8/e p252-253). Methimazole inhibits only thyroid peroxidase whereas propylthiouracil inhibits thyroid peroxidase as well as 5'-deiodinase. Later is involved in peripheral conversion of T4 to T3 (Katzung 12/e p688, Goodman Gilman 12/e p1150)",
-        "cop": 4,
-        "opa": "Propranolol",
-        "opb": "Propylthiouracil",
-        "opc": "Amiodarone",
-        "opd": "Methimazole",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Thyroid",
-        "id": "e9e45624-2a6d-4548-98ea-3a6db4253dd3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drug doesn't act on thyroid-",
         "exp": "Ans. is 'a' i. e., Propranolol Thyroid inhibitors. Inhibit hormone synthesis (antithyroid drugs)o Propylthiouracilo Methimazoleo Carbimazole. Inhibit iodine trapping (ionic inhibitors)o Thiocyanateso Perchlorateso Nitrates. Inhibit hormone releaseo Iodineo Na. Io KIDestroy thyroid tissueo Radioactive iodineo Propranolol inhibits peripheral conversion of T4 and T3 in blood (but it does not act on thyroid gland).",
         "cop": 1,
@@ -24,32 +11,6 @@
         "topic_name": "Anti Thyroid",
         "id": "5fc73b60-d22f-4fe2-9982-cea3ec5de2cd",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements about iodine is false?",
-        "exp": "Ans. (A) Contraindicated in hyperthyroidism(Ref: KDT 8/e p276-277). Iodine and iodides are useful in Graves' disease and make the gland shrink, firm and less vascular. These can inhibit all facets of thyroid function. Chronic iodine overdose is called iodism.",
-        "cop": 1,
-        "opa": "Contraindicated in hyperthyroidism",
-        "opb": "Causes iodism",
-        "opc": "Inhibits the release of thyroxine",
-        "opd": "Inhibits the synthesis of iodo thyroxine and iodothyronine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Thyroid",
-        "id": "f50b41b5-f41e-45e8-9a78-2652f85795ea",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Parathyroid hormone -",
-        "exp": "Ans. is 'b' i. e.. Increases bone resorption Paratharmoneo Paratharmone is 84 aminoacid polypeptide hormone secreted from parathyroid glands, o Its secretion is regulated by plasma Ca++ concentration -- fall in Ca++ concentration increases the secretion of paratharmone. o Actions. PTH increases resorption of calcium from bone - most prominant action. PTH increases calcium reabsorption from distal tubules of kidney. PTH decreases phophate reabsorption from proximal tubules of kidney. PTH has no direct effect on calcium absorption from intestine but increases it indirectly by enhancing the formation of calcitriol by activating la-hydroxylose. PTH decreases calcium level in milk, saliva, and ocular lens -- may be responsible for development of cataract in hypothyroidism. Drugs related to paratharmone1. Cinacalcento It activates the Ca++ sensing receptor (CaR) in parathyroid glands and blocks PTH secretion, o It is indicated in secondary hyperparathyroidism due to renal disease and in parathyroid tumor. 2. Teriparatideo This is recombinant preparation of 1-34 residues of amino terminal of human PTH. o It is used in osteoporosis. o The effect is faster and more marked than that produced by estrogen and bisphosphonates. o Teriparatide in the only agent which stimulates bone formation whereas estrogen and biphosphonate only check bone resorption.",
-        "cop": 2,
-        "opa": "Decreases bone resorption",
-        "opb": "Increases bone resorption",
-        "opc": "Enhances phosphate reabsroption from kidney",
-        "opd": "Decreases calcium reabsroption from kidney.",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Thyroid",
-        "id": "ebba6a4a-5e2c-47c7-a564-7da3a6a0feb8",
-        "choice_type": "multi"
     },
     {
         "question": "Drug which inhibits conversion of T4 to T3 is -",
@@ -78,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Orally active hormone is -",
-        "exp": "Ans. is 'b' i. e., Thyroxine o Thyroxine hormone (eltroxin) is used orally for hypothyroidism.",
-        "cop": 2,
-        "opa": "TSH",
-        "opb": "Thyroxine",
-        "opc": "GH",
-        "opd": "Prolacin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Thyroid",
-        "id": "f819786e-7e9e-45bb-86ea-ea8a0e800fbf",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mechanism of action of prophylthiouracil -",
         "exp": "Ans. is 'd' i. e., Inhibits coupling o Propylthiouracil blocks thyroxine synthesis by inhibiting thyroid peroxidase, and preventing oxidation of iodide/ iodotyrosyl residues, there by1) Inhibit iodination of tyrosine residue in thyroglobulin. 2) Inhibit coupling of MIT and DIT to form T3 & T4. o Propylthiouracil also inhibit the peripheral conversion of T4 to T3",
         "cop": 4,
@@ -115,19 +63,6 @@
         "topic_name": "Anti Thyroid",
         "id": "1fd7464c-1eec-4a81-8b3c-9cda82f20777",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are rare but life-threatening adverse effects of thioamide group of anti-thyroid drugs except:",
-        "exp": "Ans. (D) Lung fibrosis(Ref: KDT 8th/275-276). Thioamides include drugs like methimazole, carbimazole and propylthiouracil. Agranulocytosis and aplastic anemia is serious side effect of all of these drugs but it is seen rarely. Propylthiouracil is associated with hepatotoxicity. All the 3 drugs are teratogenic. Least teratogenic is propylthiouracil.",
-        "cop": 4,
-        "opa": "Agranulocytosis",
-        "opb": "Aplasia anemia",
-        "opc": "Liver toxicity",
-        "opd": "Lung fibrosis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti Thyroid",
-        "id": "0434d295-1300-43e0-934a-567d703b1075",
-        "choice_type": "multi"
     },
     {
         "question": "Female on carbimazole therapy presents with sudden fever, rigors and sore throat. Which is the investigation of choice for this patient?",

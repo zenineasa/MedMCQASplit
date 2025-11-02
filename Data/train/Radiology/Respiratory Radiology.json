@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Kerley B lines are seen in",
-        "exp": "Kerley A lines are 1-2mm non- branching lines radiating from the hilum, 2-6 cm long. They represent thickened deep interlobular septa. Kerley B lines are transverse non- branching 1-2 mm lines at the lung bases perpendicular to the pleura 1-3cm long. They represent thickened interlobular septa.",
-        "cop": 4,
-        "opa": "Pulmonary edema",
-        "opb": "Congenital heart disease",
-        "opc": "Sarcoidosis",
-        "opd": "All of the above",
-        "subject_name": "Radiology",
-        "topic_name": "Respiratory Radiology",
-        "id": "6cc42404-d37c-472c-97a3-8bde5bbaa163",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which Lung Cancer resembles Pneumonia with Air Bronchogram sign?",
-        "exp": "*Bronchoalveolar carcinoma resembles pneumonia on a chest x ray *Has Aerogenous spread, along the bronchial wall called Lepidic growth *CT angiogram sign is also seen in Bronchoalveolar Ca",
-        "cop": 4,
-        "opa": "Squamous Cell Ca",
-        "opb": "Large Cell CA",
-        "opc": "Small Cell Ca",
-        "opd": "Bronchoalveolar CA",
-        "subject_name": "Radiology",
-        "topic_name": "Respiratory Radiology",
-        "id": "2f6be5e4-d5be-4d92-823c-ce65c7cc5ee1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Luftsichel sign is seen in",
         "exp": "Luftsichel sign is a sickle shaped lucency of air seen On Chest Radiographs, Seen in Left Upper lobe collapse with Compensatory Left Lower lobe hyperinflation.",
         "cop": 3,
@@ -169,32 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Lucent Hemithorax is due to all the following except?",
-        "exp": "*Lung Collapse causes a Opaque Hemithorax with Ipsilateral mediastinal shift Features of lung collapse: - Volume loss of lung with Opacification ( Not lucent) - Displacement of fissures - Ipsilateral shift of trachea and mediastinum - Bronchial Cut off sign - Crowding of Ribs - Elevation of ipsilateral hemidiaphragm - Compensatory hyperinflation of normal lobes",
-        "cop": 4,
-        "opa": "Rotation",
-        "opb": "Swyer-James Mc. Leod Syndrome",
-        "opc": "Foreign Body",
-        "opd": "Lung Collapse",
-        "subject_name": "Radiology",
-        "topic_name": "Respiratory Radiology",
-        "id": "55412ab2-49f5-4edc-8cb8-cbf7deb1bbba",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is most appropriate step of management in a patient who comes to emergency dept with breathlessness and X-ray showing following findings?",
-        "exp": "Note:- the unilateral left sided hyperlucency devoid of any lung markings suggesting left pneumothorax. Ina small simple pneumothorax, observation alone may be sufficient, while in a more major pneumothorax a chest drain is more effective and safer, paicularly if the patient is symptomatic or has underlying lung disease. In the present case, Plain inseion of intercostal drain/chest tube (X-ray shows left sided pneumothorax). This X-ray shows left sided pneumothorax. There is relative flattening of the left dome and some mediastinal shift to right. Patient has breathlessness and these all features suggest treatment with inseion of intercostal drain.",
-        "cop": 3,
-        "opa": "Order for HRCT Scan",
-        "opb": "Thoracocentesis",
-        "opc": "Plan for the inseion of chest tube",
-        "opd": "Wait and watch",
-        "subject_name": "Radiology",
-        "topic_name": "Respiratory Radiology",
-        "id": "2466a448-d628-49e9-ac8b-4d58baab9b9e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Phantom Tumor is name given to",
         "exp": "*Fissural Interlobar effusion is called as Phantom Tumor *It appears biconvex sharply marginated along the fissural lines viewed on a Lateral view",
         "cop": 3,
@@ -219,19 +167,6 @@
         "topic_name": "Respiratory Radiology",
         "id": "576becd0-fec5-419a-a02e-30065865b3e9",
         "choice_type": "single"
-    },
-    {
-        "question": "Necrotic nodules in lung are seen in-",
-        "exp": "Necrotic nodules in lung are seen in Infective causes: TB, histoplasmosis, syphilis, coccidiomycosis, Cat's scratch disease Non- Infective causes: Wegner's granulomatosis, Sarcoidosis, hyalinizing granuloma, idiopathic bronchocentric granulomatosis, RA Non-Necrotic lesion/ Non cavitating lesion: Pulmonary Hamaoma: Popcorn Calcifications",
-        "cop": 4,
-        "opa": "TB",
-        "opb": "Sarcoidosis",
-        "opc": "RA",
-        "opd": "All of the above",
-        "subject_name": "Radiology",
-        "topic_name": "Respiratory Radiology",
-        "id": "58a3e4ac-c11d-4971-9822-a1c49c0a1368",
-        "choice_type": "multi"
     },
     {
         "question": "Air bronchogram on a CXR denotes",
@@ -284,19 +219,6 @@
         "topic_name": "Respiratory Radiology",
         "id": "773d1016-ec99-4843-acf7-6c984e075b99",
         "choice_type": "single"
-    },
-    {
-        "question": "Millet seed like pattern is seen in",
-        "exp": "- Miliary Tuberculosis- Due to Hematogenous spread of infection - At first, the chest radiograph may be normal, but then small, discrete nodules, 1-2 mm in diameter, become apparent, evenly distributed throughout both lungs. - other causes of Miliary shadows seen on Chest X-ray: Tuberculosis Histoplasmosis Sarcoidosis Healed varicella",
-        "cop": 4,
-        "opa": "Milliary TB",
-        "opb": "Pulmonary hemosiderosis",
-        "opc": "Healed varicella pneumonia",
-        "opd": "All of the above",
-        "subject_name": "Radiology",
-        "topic_name": "Respiratory Radiology",
-        "id": "6085043a-d765-4367-a5df-731291a974b7",
-        "choice_type": "multi"
     },
     {
         "question": "Obscuration of left heart border is suggestive of",

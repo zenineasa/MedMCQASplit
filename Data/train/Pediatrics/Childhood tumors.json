@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The International Neuroblastoma Staging System (INSS) stage 4S includes metastasis to all the following except",
-        "exp": "INSS stage 4S refers to neuroblastoma in children younger than 1 yr of age with dissemination to liver, skin, and/or bone marrow without bone involvement and with a primary tumor that would otherwise be staged as INSS stage 1 or 2. Reference: Nelson; Neuroblastoma; Page no: 2463",
-        "cop": 4,
-        "opa": "Liver",
-        "opb": "Skin",
-        "opc": "Bone marrow",
-        "opd": "Bone",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "42a30553-2592-47b5-bbb4-094d6f343179",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most common site of metastasis in neuroblastoma?",
         "exp": "Metastatic spread, which is more common in children older than 1 yr of age at diagnosis, occurs local invasion or distant hematogenous or lymphatic routes. The most common sites of metastasis are the regional or distant lymph nodes, long bones and skull, bone marrow, liver, and skin. Lung and brain metastases are rare, occurring in >3% of cases. Reference: Nelson; Neuroblastoma; Page no: 2461",
         "cop": 3,
@@ -78,84 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Commonest site of extramedullary relapse of ALL",
-        "exp": "Despite success of modern treatment, 20-30% of children with ALL relapse. The main cause of treatment failure in leukemia is relapse of the disease. Common sites of relapse are the bone marrow(20%), central nervous system(5%), and testis(3%). Relapse in extramedullary sites, paicularly testes, is more ourable in terms of survival. Reference: Essential pediatrics-Ghai, 8th edition, page no: 604",
-        "cop": 1,
-        "opa": "CNS",
-        "opb": "Lung",
-        "opc": "Liver",
-        "opd": "Testis",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "dc103ce0-a319-4c44-a584-81312c140f0d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is poor prognostic factor in a child with ALL?",
-        "exp": "Specific chromosomal translocations in ALL, including t(8; 14, associated with Burkitt leukemia), t(4; 11) in infant leukemia, t(9, 22)translocation that forms the Philadelphia chromosome, t(1, 19) translocation associated with probable CNS relapse, are associated with a poor prognosis. The age group of 2-10 yrs have satisfactory prognosis. Other good prognostic factors include initial WBC count <50, 000 and absence of blasts in peripheral smear following response to treatment with prednisone. t (9: 2), t (8: 14), t (4: 11) is a poor prognostic factor. Reference: Essential pediatrics-Ghai, 8th edition, page no: 601",
-        "cop": 3,
-        "opa": "Age 2-8 yrs",
-        "opb": "Total leucocyte count < 50, 000",
-        "opc": "t (9; 22); t (4; 11); t (1; 19)",
-        "opd": "Absent blasts in peripheral smear",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "d486fcbd-ea94-4d1d-9497-dc70402ae335",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Baby with recurrent infection of ear & discharge & seborrheic dermatitis with hepatosplenomegaly with cystic skull lesions. Diagnosis is",
-        "exp": "In Langerhans Cell Histiocytosis, the most common involvement is of the skeleton(80%). Bone lesions can be single or multiple affecting skull bones, long bones, veebrae, mastoid and mandible. The lesions may be painless or present with pain and local swelling; X rays show sharp lytic lesions. Clinical manifestation includes veebral collapse and spinal compression, pathological fractures in long bones, chronic draining ears and early eruption of teeth. Other manifestations include seborrhoeic skin rash on scalp and back(60%), lymphadenopathy(33%), hepatosplenomegaly(20%), tachypnoea, air leaks, parenchymal lung infiltrates(15%), jaundice, abdominal distension, neurodegenerative symptoms and features of malabsorption. There may also be exophthalmos, pituitary dysfunction producing growth retardation and/or diabetes insipidus, fever, weight loss, malaise, failure to thrive, liver dysfunction, anemia and thrombocytopenia. Image: skull x-ray showing lytic leasions in Langerhans cell histiocytosis. Reference: Essential pediatrics-Ghai, 8th edition, page no: 620, 621.",
-        "cop": 2,
-        "opa": "Hemophagocytic lymphohistiocytosis",
-        "opb": "Langerhans cell histiocytosis",
-        "opc": "ALL",
-        "opd": "Multiple myeloma",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "195ad009-de45-45e9-8e2e-7ed1ed606b84",
-        "choice_type": "multi"
-    },
-    {
-        "question": "ALL L3 morophology is a malignancy arising from which cell lineage",
-        "exp": "ALL L3 is arising from mature B cells. Only 1-2% patients with ALL show L3 morphology in which cells are large, have deep cytoplasmic basophilia and prominent vacuolation. These cells show surface immunoglobulin and should be treated as Burkitt lymphoma. Reference: Essential pediatrics-Ghai, 8th edition, page no: 600.",
-        "cop": 1,
-        "opa": "Mature B cell",
-        "opb": "Precursor B cell",
-        "opc": "Immature T cell",
-        "opd": "Mixed B cell & T cell",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "a91deb8b-16f6-4573-ad9f-80e3d6a94120",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following does not require a lumbar puncture in children?",
-        "exp": "b. HL(Ref: Ghai 8/e 616-617). Discussing the options one by one, a. ALLCNS infiltration is common in ALL, so diagnostic lumbar puncture & CSF cytopathology to look for blasts is done; LP is also done to administer intrathecal methotrexateb. HLUsually Lumbar puncture is not requiredc. NHLHematogenous spread may cause CNS spread, so LP doned. AMLCNS spread though rare can be seen, which will require lumbar puncture for diagnosis as well as treatment",
-        "cop": 2,
-        "opa": "ALL",
-        "opb": "HL",
-        "opc": "NHL",
-        "opd": "AML",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "878f4591-11ce-404a-b41d-29e490ff249e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Neuroblastoma arises from",
-        "exp": "Ans a (Adrenal) Ref nelson 18th ed p 2137. Neuroblastoma (NB) is an embryonal cancer of the peripheral sympathetic nervous system with heterogeneous clinical presentation and course. NB is the third most common pediatric cancer, NB is the most commonly diagnosed neoplasm in infants. Most cases of NB arise in the abdomen, either in the adrenal gland or in retroperitoneal sympathetic gan-glia. PATHOLOGY. NB includes a spectrum of tumors with variable degrees of neural differ-entiation, ranging from undifferenti- ated small round cells (neuroblastoma) to tumors containing mature ganglion cells (ganglioneuroblastoma or gan-glioneuroma). The tumors may resemble other small round cell tumors, such as rhabdomyosarcoma, Ewing sarcoma, and non-Hodgkin lymphoma. The prognosis varies with the histologic definition of tissue pattern (Shimada classification). Prognostic factors include the amount of stroma, degree of tumor cell differentiation, presence of enlarged and prominent nucleoli, and the mitosis-karyorrhexis index. Genetic characteristics of NB tumor tissue that are of prognostic importance and currently are used along with clinical factors to determine treatment include amplification of the MYCN (N-myc) proto-oncogene and hyperdiploidy of tumor cell DN A content. Amplification of MYCN has prognostic importance independent of stage and age and is strongly associated with advanced tumor stage and poor outcome. Hyperdiploidy confers better prognosis if the child is < 1 yr of age at diagnosis. NB may develop at any site of sympathetic nervous system tis-sue. The signs and symptoms of NB reflect the tumor site and extent of disease. Most cases of NB arise in the abdomen, either in the adrenal gland or in retroperitoneal sympathetic ganglia. Usually a firm, nodular mass that is palpable in the flank or midline is causing abdominal discomfort. On plain radiography or CT the mass often contains calcification and hemorrhage. Wilms tumor, another common flank mass in a young child, usually does not calcify. NB originates from cervical, thoracic, or pelvic ganglia in 30% of cases. Metastatic disease can be associated with myriad signs and symp-toms, including fever, irritability, failure to thrive, bone pain, bluish subcutaneous nodules, orbital proptosis, and periorbital ecchymoses. The most common sites of metastasis are the long bones and skull, bone marrow, liver, lymph nodes, and skin. Lung metastases are rare, occurring in <3% of cases. Prenatal diagnosis of NB sometimes is possible on maternal ultrasound scans.",
-        "cop": 1,
-        "opa": "Adrenal",
-        "opb": "Chestwall",
-        "opc": "Rib",
-        "opd": "cerebrum",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "74285b6f-aa3f-487f-8117-9322060f5e26",
-        "choice_type": "multi"
-    },
-    {
         "question": "A malignant tumor of childhood, that metastsizes to bones most often, is",
         "exp": "In neuroblastoma, metastasis is present in 60-70% of children, usually to the skeleton(facial bones, skull), bone marrow, also to lymph nodes. Reference: Essential pediatrics-Ghai, 8th edition, page no: 617.",
         "cop": 2,
@@ -182,32 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A child with Acute Myeloid Leukemia presents with hyperleukocytosis. Treatment includes all of the following except?",
-        "exp": "The main treatment for most types of AML is chemotherapy, sometimes along with a targeted therapy drug. This might be followed by a stem cell transplant. Other drugs (besides standard chemotherapy drugs) may be used to treat people with acute promyelocytic leukemia (APL). Surgery and radiation therapy are not major treatments for AML, but they may be used in special circumstances. Chemotherapy for Acute Myeloid Leukemia (AML) Targeted Therapy Drugs for Acute Myeloid Leukemia (AML) Non-Chemo Drugs for Acute Promyelocytic Leukemia (APL) Surgery for Acute Myeloid Leukemia (AML) Radiation Therapy for Acute Myeloid Leukemia (AML) Stem Cell Transplant for Acute Myeloid Leukemia (AML) Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 4,
-        "opa": "IV fluid",
-        "opb": "Allopurinol",
-        "opc": "Alkalinization",
-        "opd": "Immediately sta induction chemotherapy",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "3f0302d2-c1e1-4d3c-97d5-60fcfcfd9a35",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Wilm's tumour is associated with all the following except",
-        "exp": "(C) (Polycystic kidney) (617- Ghai 8th). Wilm's tumor is not associated with polycystic kidney disease. Wilm's tumor is associated with three distinct syndromes. WAGR syndrome. BeckwithQ Wiedemann syndrome. Denys-Drash syndrome* Wilm's tumor* Aniridia* Genital abnormalities* Mental Retardation* Enlargement of body organs* Hemihypertrophy* Renal medullary cysts* Adrenal cytomegaly; Abnoraml large cells adrenal cortex* Gonadal dysgenesis (Male pseudo-hermaphrodite)* Nephropathy leading to Renal failure. More about wilm's tumor (also k/a Nephroblastoma):* Wilm's tumor is the most common renal neoplasm & 2nd most common malignant abdominal tumor, in children (Most common abdominal malignant tumor is neuroblastoma)* Peak indidence is between 2 and 5yrs of age.* 5-10% are bilateral; either both kidneys are involved simultaneously (synchronous) or one after the other (metachronous). Clinical features of W. T.- Abdominal mass (most common presenting feature)- Abdominal pain- Vomiting- Hematuria- Hypertension. Treatment. High cure rates of 80-90% can be achieved with multimodality treatment using surgery, chemotherapy & radiotherapy. Surgical resection is done in all stages followed by chemotherapy (stage I & II) or chemotherapy* radiotherapy (stage III, IV, V). Pre op chemotherapy is given in inoperable & bilateral. Chemotherapeutic agents used are Vincristine, Dactinomycin & cyclophosphamide.* The most important determinants of prognosis is wilm's tumour is Histology and stages of disease* The treatmet of choice for stage Iwilm's tumor is Transperitoneal Radical Nephrectomy (Radical Nephroureterectomy) followed by chemotherapy with or without radiotherapy depending on tumor histology* Surgery is very important in the treatment of all stages of wilm's tumor to provide local control and prevent metastatis spread* Radical nephrouretectomy is recommended in all patients. Features. Neuroblastoma. Wilm's tumor. Common tumor. MC intra-abdominal solid tumor in children. MC renal tumor in children. At the time of Diagnosis. Already metastasis in greater then 50% of patients. Generally confined to the kidney. Encassement of aorta. Characteristic. Uncommon. Lung metastasis. Rare. Common. Calcification. Common. Rare",
-        "cop": 3,
-        "opa": "Aniridia",
-        "opb": "Beck with syndrome",
-        "opc": "Polycystic kidney",
-        "opd": "Hemihypertrophy",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "82efde63-f2a7-4f29-a966-cd0eb254283f",
-        "choice_type": "multi"
-    },
-    {
         "question": "4 years old child having palpable abdominal mass & hypertension with sweating & diarrhea is due to",
         "exp": "Neuroblastoma is a malignant tumor of autonomic nervous system. Clinical features are related to the localisation of the sympathetic nervous system and site of metastasis. The most common site is adrenal medulla. The patient can present with a localised abdominal mass, sweating and hypertension due to the hyperstimulation of sympathetic nervous system. It is also characterised by watery diarrhea associated with VIP(vasoactive intestinal polypeptide) secretion by the tumor. Reference: Essential pediatrics-Ghai, 8th edition, page no: 616, 617.",
         "cop": 1,
@@ -232,45 +115,6 @@
         "topic_name": "Childhood tumors",
         "id": "ceadecae-8317-4425-a667-403532c99629",
         "choice_type": "single"
-    },
-    {
-        "question": "Neonatal lupus -",
-        "exp": "Ans. is 'd' i. e., AH of above o Neonatal lupus. Age of onset newborn to 6 month. Skin lesion: Annular erythematous scaly plaque. Seen on sun exposed = head, neck. May be associated with heart block. 'thrombocytopenia. Diagnosed by: ANAAnti RO antibodies",
-        "cop": 4,
-        "opa": "Heart block",
-        "opb": "Thrombocytopenia",
-        "opc": "Cutaneous lesion",
-        "opd": "All of above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "79b506da-01e4-437a-bc00-9bf1af0517fd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Cancer management in which of following malignancies has dramatically increased the survival?",
-        "exp": "Improvement in survival from ALL with modern therapy is one of the greatest successes in the field of pediatric oncology. Improvement on suppoive care and use of combination chemotherapy has led to a survival more than 80% overall and greater than 95% in children with low risk ALL. Risk based approach allows use of modest therapy for children who have historically had very good outcome thereby avoiding the toxic adverse effects of high intensity therapy. The 3 most impoant determinants of this risk are age at presentation, total WBC count at presentation and response to initial therapy. Reference: Essential pediatrics-Ghai, 8th edition, page no: 602.",
-        "cop": 3,
-        "opa": "Esophagus carcinoma",
-        "opb": "Glioblastoma multiforme",
-        "opc": "ALL in children",
-        "opd": "Cholangiocarcinoma",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "f8b64f19-1e1c-4d19-8eb0-a6f7f07bcfe8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Good prognosis factors of ALL are all except",
-        "exp": "Hyperdiploidy with chromosome number more than 50 is associated with good prognosis for ALL. Ceain chromosomal abnormalities like t(12; 21) are also associated with good prognosis. Age > 10 years is a bad prognostic factor, the age group of 2-10 years have ourable outcome. WBC count less than 50, 000/mm3 is also associated with good prognosis. Reference: Essential pediatrics-Ghai, 8th edition, page no: 600, 601.",
-        "cop": 3,
-        "opa": "Hyperdipoidy",
-        "opb": "WBC count < 50000",
-        "opc": "Age > 10 years",
-        "opd": "T (12: 21) translocation",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "0eb451da-83aa-4d81-abdf-72f5e25d5cd9",
-        "choice_type": "multi"
     },
     {
         "question": "Most common malignant tumour in childhood:",
@@ -323,19 +167,6 @@
         "topic_name": "Childhood Tumors",
         "id": "1c34da9f-1fec-4e48-b771-8d582582efc8",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are true about neuroblastoma except -",
-        "exp": "Ans. is 'c' i. e., Cafe au lait spots Neuroblastoma* Neuroblastoma is a malignant neuroendocrine tumor arising from any neural crest element of sympathetic autonomic nervous system.* It is the most common malignancy of infancy, the most common abdominal cancer in children and most common extracranial solid tumor of childhood.* Sites of involvement are adrenal medulla (most common), pelvis, cervical area (neck), posterior mediastinum, and paravertebral retroperitoneum. Clinical features* Clinical features arei) Due to mass: Abdominal (flank) mass (most common presentation), often crosses midline and displaces the kidney downwords without compressing collecting system; cervical tumor may cause Horner syndrome. ii) Due to metastasis: Orbital proptosis, Raccoan eyes (unilateral or bilateral periorbital or eyelid ecchymosis), fever, bone pain, lytic lesions in skull with sutural diastasis, spinal cord compression. iii) Due to catecholamine secretion by tumor: Tachycardia, headache, sweating, episodic diarrhea, flushing. iv) Uncommon features: Opsoclonus /opsomyoclonus, myastenia gravis.* Metastasis is present in 60-70% at the time of diagnosis. Commonest site of metastasis is skeletal system and neuroblastoma is the most common childhood malignancy metastasizes to bone. Other sites of involvement are liver, lymph nodes and skin. Lung metastasis is uncommon. Encasement of abdominal aorta and IVC may occur.",
-        "cop": 3,
-        "opa": "Diarrhea",
-        "opb": "Bone pain",
-        "opc": "Cafe au lait spots",
-        "opd": "Opsomyoclonus",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "3a0654e3-43ef-4a6e-9f61-afa9a875fb24",
-        "choice_type": "multi"
     },
     {
         "question": "Most common extracranial solid tumor in children is",
@@ -403,32 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most common intraabdominal solid tumor in children",
-        "exp": "Neuroblastoma is the most common intra-abdominal & extra cranial solid tumor in children, accounting for 7-8% of all cancers. It is a malignant tumour of the autonomic nervous system derived from the neural crest. Reference: Essential pediatrics-Ghai, 8th edition, page no: 616.",
-        "cop": 2,
-        "opa": "Wilms tumor (Nephroblastoma)",
-        "opb": "Neuroblastoma",
-        "opc": "RCC",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "6786cd50-e5f4-4576-834a-3aa7da01f0e4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 6-year-old boy has been complaining of headache, ignoring to see objects on the sides for four months. On examination, he is not mentally retarded, his grades at school are good, and visual acuity is diminished in both eyes. Visual charting showed significant field defect. CT scan of head showed suprasellar mass with calcification. Which of the following is the most probable diagnosis?",
-        "exp": "b. Craniopharyngioma(Ref: Nelson's 20/e p 2453-2460, Ghai 8/e 612-613). Craniopharyngioma. It is a solid tumor with cysts and calcification located in the suprasellar region. It presents with (short stature), visual field defects & hydrocephalus.",
-        "cop": 2,
-        "opa": "Astrocytoma",
-        "opb": "Craniopharyngioma",
-        "opc": "Pituitary adenoma",
-        "opd": "Meningioma",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "a0353594-b861-49ba-b3cb-a8f51568adc9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Treatment for childhood hypothyroidism is with",
         "exp": "Levothyroxine is used for the treatment of childhood hypothyroidism. In case of congenital hypothyroidism, treatment should be staed immediately after diagnosis. The initiation dose is 10-15 microgram/kg/day. T4 & TSH are expected to normalise over one week and one month, respectively, with this treatment. Lifelong thyroid replacement is required for most cases. In acquired hypothyroidism, treatment should be gradual. A dose of 100 microgram/m2/day is recommended. Levothyroxine should be given empty stomach in the morning. Followup should be done every 3 months during the first 2 years of therapy and six monthly thereafter. Most children require lifelong therapy. Reference: Essential pediatrics-Ghai, 8th edition, page no: 517, 518.",
         "cop": 3,
@@ -455,19 +260,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Wilm's tumor is associated with all of the following except-",
-        "exp": "Ans. is 'd' i. e., Polycystic kidney [Ref.: O. P. Ghai 8th/e Pg. 617). Wiliris tumor is associated with three distinct syndromes: WAGR syndrom. Back with Wiedemann syndrome. Denys-Drash syndrome* Wilm's tumor* Enlargement of body organs* Gonadal dysgenesis (Male pseudo-hermaphrodite)* Aniridia* Hemihypertrophy * Genital abnormalities* Renal medullary cysts * Mental Retardation* Adrenal cytomegaly: abnormal large cells in adrenal cortex* Nephropathy leading to Renal failure",
-        "cop": 4,
-        "opa": "Aniridia",
-        "opb": "Hemihypertrophy",
-        "opc": "Mental retardation",
-        "opd": "Polycystic kidney",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "3caffb75-f67c-417f-8ec3-241b64858fb4",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 3-year-old child presented with hypoechoic lesion on USG abdomen. Most probable diagnosis:",
         "exp": "Ans: c (Wilms tumour) Ref: Nelson, 17th ed, p. 1711 & OP Ghai, 6th ed, p. 574. Commonest abdominal malignancy in children in the above age group is Wilms tumour; eventhough the commonest malignancy is neuroblastoma. Most of the patients with wilms tumour present as asymptomatic abdominal mass. Wilms tumour* Also called nephroblastoma* Most common cancer of kidney in children* Second most common abdominal malignancy in children (neuroblastoma is the most common abdominal malignancy)* Most important prognostic factor is its histologic type* It is a complex mixed embryonal neoplasm of kidney composed of 3 elements-- blastema, epithelia, stroma* Usual ly occurs between 2-5 years of age* Incidence of bilateral Wilms is 7%* Chromosomal anomaly associated with wilms tumor is deletion of chromosome 11 p 13 (WT1 gene). Histologically divided into 2 types:* Favourable histology* Unfavourable histology. Unfavorable has 3 sub types:* Anaplastic* Clear cell -- commonly metastasise to bone* Rhabdoid -- commonly metastasise to brain",
         "cop": 3,
@@ -479,32 +271,6 @@
         "topic_name": "Childhood Tumors",
         "id": "11bbb501-af1c-469a-92fb-7460ea068545",
         "choice_type": "single"
-    },
-    {
-        "question": "Neuroblastoma in children is characterized by all except",
-        "exp": "Neuroblastomas are the most common tumor of early childhood. It generally occurs in children < 5 years of age. The adrenal medulla is the typical site for a neuroblastoma. Neuroblastomas tend to metastasize widely and early. Hepatic metastasis presents as hepatomegaly. Orbits are other frequent sites of metastasis leads to proptosis, periorbital swelling/ecchymosis.",
-        "cop": 4,
-        "opa": "Proptosis",
-        "opb": "Hypertension",
-        "opc": "Hepatomegaly",
-        "opd": "Cafe au lait spots",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "f6f52209-2ceb-4a66-9e91-446833de765c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Germ cell tumor(s) of paediatric includes all except",
-        "exp": "Germ cell tumors in males(95%) include embryonal carcinoma(40%), yolk sac tumor(5%), Choriocarcinoma(rare), Seminoma(45%) and teratomas. Leydig cell tumor is a sex cord-stromal tumor(5%). Other sex cord -stromal tumors in males are seoli cell tumor, granulosa cell tumor. In females, germ cell tumors(15-20%) include embryonal carcinoma(40%), yolk sac tumor, choriocarcinoma(rare), teratomas(95%), dysgerminoma(2%). Sex cord-stromal tumors (5-10%) include granulosa-theca cell tumor, seoli-leydig cell tumor, gynandroblastoma. Reference: Textbook of pathology-Harsh Mohan, 6th edition, page no: 708, 745.",
-        "cop": 2,
-        "opa": "Pure yolk sac tumor",
-        "opb": "Leydig cell tumor",
-        "opc": "Choriocarcinoma",
-        "opd": "Embryonal cell carcinoma",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "921d977a-d97c-4d83-bc98-4af81a8c4d68",
-        "choice_type": "multi"
     },
     {
         "question": "A family of a child just diagnosed wit acute lymphoblastic leukemia asks about the child's prognosis. Which of the following is a poor prognostic indicator?",
@@ -585,19 +351,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are good progostic factors for childhood. All except",
-        "exp": "The presence of hyperdiploidy(chromosome number>50, DNA index>1. 16) is associated with good prognosis in contrast to the poor prognosis in patients with hypoploidy. Ceain chromosomal abnormalities are associated with a ourable prognosis like t(12; 21) and simultaneous presence of trisomy 4 and 10; while, t(8; 14) associated with Burkitt leukemia, t(4; 11) in infant leukemia and t(9; 22)translocation that forms the Philadelphia chromosome, are associated with a poor prognosis. Males are at a higher risk as compared to females. Pre-B phenotype is at a standard risk as compared to mature B cell phenotype which is at a higher risk. Reference: Essential pediatrics-Ghai, 8th edition, page no: 600, 601.",
-        "cop": 3,
-        "opa": "Hyperdiploidy",
-        "opb": "Female sex",
-        "opc": "Mature B cell ALL",
-        "opd": "t (12: 21) translocation",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "e5bbfbef-147e-42a1-8a8c-42a8a5da0c9b",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 4 years old girl presented with abdominal lump. Bone scan is needed in ___________",
         "exp": "Neuroblastoma is the most common intra-abdominal solid tumor in children. The patient can present with an abdominal lump. Metastasis occurs in 60-70% children, usually to the skeleton(facial bones, skull), bone marrow. Therefore bone scan is needed in this case. Reference: Essential pediatrics-Ghai, 8th edition, page no: 616, 617.",
         "cop": 2,
@@ -635,19 +388,6 @@
         "topic_name": "Childhood Tumors",
         "id": "66902801-3a1f-441e-957a-4cc8fd352f09",
         "choice_type": "single"
-    },
-    {
-        "question": "Neuroblastoma originates from",
-        "exp": "Neuroblastoma is a malignant tumor of the autonomic nervous system derived from the neural crest. The most common sites of primary tumours are the adrenals(30%), paraveebral retroperitoneum(28%), posterior mediastinum(15%), pelvis(5%) &cervical area. Reference: Essential pediatrics-Ghai, 8th edition, page no: 616.",
-        "cop": 1,
-        "opa": "Adrenals",
-        "opb": "Mediastinum",
-        "opc": "Chest wall",
-        "opd": "Peripheral nerves",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "50e6bff9-bf80-4d7d-a353-a4f2ca5d5d06",
-        "choice_type": "multi"
     },
     {
         "question": "Most common urinary tumour in children is",
@@ -689,32 +429,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about neuroblastoma",
-        "exp": "Neuroblastoma is a malignant tumor of the autonomic nervous system derived from the neural crest. It is a disease of early childhood with 90% of patients presenting before 5 years of age & almost 50% of patients presenting within the first 2 years. The most common site is adrenal medulla(30%). Metastasis present in 60-70% children, are usually to the skeleton(facial bones, skull), bone marrow and lymph nodes. Reference: Essential pediatrics-Ghai, 8th edition, page no: 616, 617.",
-        "cop": 1,
-        "opa": "Tumor of automatic nervous system",
-        "opb": "Metastasis rarely present",
-        "opc": "Earliest detected in late childhood",
-        "opd": "Most common site is Adrenal medulla",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "2d978548-3f11-45f2-9921-a198d6db75be",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Wilms&; tumor is associated with the following except",
-        "exp": "Wilms tumor is associated with aniridia, genitourinary abnormalities like horse shoe or fused kidney, mental retardation, Denys Drash syndrome(renal failure, renal mesangial sclerosis, male hermaphrodism) & Beckwith- Wiedeman syndrome(hemihyperophy, macroglossia, omphalocoele, organomegaly). Opsoclonus-myoclonus syndrome is associated with Neuroblastoma. It is characterised by rapid eye movements, ataxia, and irregular muscle movements and occurs in 2-4% of patients. Reference: Essential pediatrics-Ghai, 8th edition, page no: 617.",
-        "cop": 4,
-        "opa": "Aniridia",
-        "opb": "Horse-shoe kidney",
-        "opc": "Hemihyperophy",
-        "opd": "Opsoclonus",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "260a35db-9fc5-4703-9d36-2cb3cec9b563",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most common malignant neoplasm of infancy is",
         "exp": "Neuroblastoma is the most common extracranial and intra- abdominal solid malignant tumor of infancy. It is a disease of early childhood with approximately 90% of patients presenting before 5 years of age & almost 50% within the first 2 years of life. Reference: Essential pediatrics-Ghai, 8th edition, page no: 616.",
         "cop": 2,
@@ -726,19 +440,6 @@
         "topic_name": "Childhood tumors",
         "id": "2f9bdd8b-9a46-412b-be94-900e348b7973",
         "choice_type": "single"
-    },
-    {
-        "question": "ADAMTS-13 is a metalloproteinase. It is produced by the:",
-        "exp": "Ans. C. Stellate cells in the liver. ADAMTS-13 is a metalloproteinase which is produced by the stellate cells of the liver. It cleaves von Willebrand factor. Therefore, when ADAMTS-13 deficiency occurs, large multimer of VWF attach to platelets and cause microcirculatory failure.",
-        "cop": 3,
-        "opa": "Alfa cells of the pancreas",
-        "opb": "Oligodendrocyte in the brain",
-        "opc": "Stellate cells in the liver",
-        "opd": "Tubular epithelial cells of the kidney",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "db16cc01-03ff-46ad-8417-601220ca8f23",
-        "choice_type": "multi"
     },
     {
         "question": "Most common intraabdominal solid tumor in children -",
@@ -806,19 +507,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which tumor is shown here?",
-        "exp": "Ans. (a) Sacrococcygeal teratoma.* Most common fetal soft tissue tumor is infantile fibrosarcoma* Most common fetal renal tumor is mesoblasticnephroma* Most common fetal cardiac tumor is cardiac rhabdomyoma* Most common intracranial fetal tumor is intracranial teratoma Image source. style=\"font-size: 1. 04761904761905em; color: rgba(0, 0, 0, 1); font-family: Times New Roman, Times, serif; margin: 0 0 8pt\">",
-        "cop": 1,
-        "opa": "Sacrococcygeal teratoma",
-        "opb": "Meningocele",
-        "opc": "Not recalled",
-        "opd": "Infantile fibrosarcoma",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "bced6831-0142-4102-9261-aa147e582aad",
-        "choice_type": "multi"
-    },
-    {
         "question": "Intussusception is caused by:",
         "exp": "a. Submucous lipoma(Ref: Nelson's 20/e p 1812-1814, Ghai 8/e p 287). Predisposing conditions. Peyer's patches or prominent mounds of lymph tissue lead to mucosal prolapse of ileum into colon; Other lead points: Meckel diverticulum, intestinal polyp, neurofibroma, intestinal duplication cysts, hamartomas, ectopic pancreatic tissue, hemangioma, lipoma. Clinical features. Sudden onset of severe paroxysmal colicky pain in a previously well child, that recurs frequently60% infants pass a stool containing red blood and mucus, the currant jelly stool. Vomiting occurs in most cases and is usually more frequently in the early phase.",
         "cop": 1,
@@ -843,19 +531,6 @@
         "topic_name": "Childhood Tumors",
         "id": "08d493df-2c16-489d-95cd-afe9980c2153",
         "choice_type": "single"
-    },
-    {
-        "question": "In Tuberous sclerosis all are seen except:",
-        "exp": "Ans. A. Ependymoma. Tuberous sclerosis is a neurocutaneous syndrome.* Neurologic findings: Tubers and the presence of subependymal nodules (SENs) and subependymal giant cell astrocytomas (SEGAs)* Cutaneous findings: The best-known cutaneous manifestation of TSC is adenoma sebaceum, which often does not appear until late childhood or early adolescence* Cardiac findings: Cardiac involvement is usually maximal at birth or early in life; mostly rhabdomyomas.* Ophthalmic findings: some these lesions are actually retinal astrocytomas that tend to become calcified over time* Renal findings: Renal manifestations of TSC are the second most common clinical feature; 4 types of lesions can occur: autosomal dominant polycystic kidney disease lesions, isolated renal cyst(s), angiomyolipoma (AMLs), and renal cell carcinomas* Dental findings: Pitting of the dental enamel is invariably present in the permanent teeth of patients with TSC; gingival fibromas, mixed dentition (primary and permanent teeth), and in 3% of children with only primary teeth* Gastrointestinal findings: Hamartomas and polyposis of the stomach, intestine, and colon may occur* Hepatic findings: Hepatic cysts and hepatic AMLs, typically asymptomatic and non-progressive* Skeletal findings: Sclerotic and hypertrophic lesions of bone",
-        "cop": 1,
-        "opa": "Ependymoma",
-        "opb": "Adenoma sebaceum",
-        "opc": "Giant cell astrocytoma",
-        "opd": "Sub ependymal nodules",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "80a99211-4550-4b75-9301-4f6971d32704",
-        "choice_type": "multi"
     },
     {
         "question": "Hodgkin Lymphoma in children predominantly seen at what age?",
@@ -895,32 +570,6 @@
         "topic_name": "Childhood Tumors",
         "id": "140e10e5-8522-4b0f-a48d-1e7743fb9e29",
         "choice_type": "single"
-    },
-    {
-        "question": "Rhabdomyosarcoma is treated by:",
-        "exp": "d. All of the above(Ref: Nelson's 20/e p 2468-2470, Ghai 8/e 618-619). Treatment of Rhabdomyosarcoma: It is based on risk classification of the tumor, which is determined by the stage of tumor, the tumor histology & the amount of tumor that was surgically resected prior to chemotherapy:-For low-risk: vincristine & actinomycin-For higher-risk disease: vincristine, actinomycin & cyclophosphamide along with radiation.",
-        "cop": 4,
-        "opa": "Chemotherapy",
-        "opb": "Radiation",
-        "opc": "Surgery",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "6de53b91-97b3-4379-8f04-374a813f51d1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following syndromes are associated with AML except",
-        "exp": "Genetic disorders: Increasingly, researchers are finding that leukemia may run in a family due to inherited gene mutations. AML occurs more often in people with the following inherited disorders: Down syndrome Klinefelter syndrome Fanconi anemia Wiskott-Aldrich syndrome Bloom syndrome Familial Platelet Disorder syndrome Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 4,
-        "opa": "Down's syndrome",
-        "opb": "Klinefelter's syndrome",
-        "opc": "Patau syndrome",
-        "opd": "Turner's syndrome",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "9515142b-b6dc-44ce-a750-df5181547fe6",
-        "choice_type": "multi"
     },
     {
         "question": "Most common benign tumours during infancy is:",
@@ -1053,45 +702,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A child presents with seborrheic dermatitis, sinusitis and chronically draining ears. On examination child has failure to thrive, with hepatosplenomegaly and exophthalmos, probable diagnosis is:",
-        "exp": "a. Histiocytosis X(Ref: Nelson's 20/e p 2484-2489, Ghai 8/e 620-621). The given clinical picture prints to a diagnosis Langerhans cell; Histiocytosis of previously called Histiocytosis X.",
-        "cop": 1,
-        "opa": "Histiocytosis X",
-        "opb": "Wegener's granulomatosis",
-        "opc": "Retinoblastoma",
-        "opd": "Chediak-Higashi syndrome",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood Tumors",
-        "id": "070d4efc-ddeb-46a3-871b-b7b763d9414f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All the following genetic syndromes are associated with Wilm's tumor except",
-        "exp": "Children with some genetic syndromes are predisposed to developing Wilms tumor. These include WAGR, Denys Drash syndrome (renal failure, renal mesangial sclerosis, male hermaphroditism, WTl missense mutation) and Beckwith-Wiedemann syndrome (hemihyperophy, macroglossia, omphalocele, organomegaly, del llp15. 5-WT2). Opsoclonus-myoclonus-ataxia syndrome is associated with neuroblastoma Opsclonus-myoclonus syndrome is a rare paraneoplastic disorder, often associated with malignancies including of childhood derived from the <a href=\" nervous system</a>. Reference: Essential pediatrics; O. P. Ghai; Childhood Malignancies; Page no: 617",
-        "cop": 2,
-        "opa": "WAGR",
-        "opb": "Opsoclonus-myoclonus-ataxia syndrome",
-        "opc": "Denys Drash syndrome",
-        "opd": "Beckwith-Wiedemann syndrome",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "ae2cd598-34a8-4060-893c-5fa7cc9c9e59",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Acute leukemia in children is associated with - all except",
-        "exp": "Marfan syndrome is an inherited disorder that affects connective tissue -- the fibers that suppo and anchor your organs and other structures in your body. Marfan syndrome most commonly affects the heart, eyes, blood vessels and skeleton. People with Marfan syndrome are usually tall and thin with dispropoionately long arms, legs, fingers and toes. The damage caused by Marfan syndrome can be mild or severe. If your aoa -- the large blood vessel that carries blood from your heart to the rest of your body -- is affected, the condition can become life-threatening. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 3,
-        "opa": "Down's syndrome",
-        "opb": "Klinefelter's syndrome",
-        "opc": "Marfan's syndrome",
-        "opd": "Turner's syndrome",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "71b583dd-ba8e-4b1d-be61-1dcdbabf7acf",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mrs Neena noted abdominal mass in left side of her 6 month old child which showed calcification near the left kidney. What will be the cause?",
         "exp": "Neuroblastoma can be the cause in this case. It is the most common intra-abdominal malignant solid tumor in children. Around 50% of the patients present within the first 2 years. The patient may be asymptomatic with an incidentally diagnosed abdominal mass. The most common site for neuroblastoma is adrenal medulla, which in this case, is responsible for the calcification near the left kidney. A lump can be found in a variety of locations in a child with neuroblastoma. The abdomen is the most common location to find a mass. The child may present with swelling around the location of the mass, have complaints of discomfo or pain, and may refuse to eat. The lump maybe palpable, but is often not painful or tender to the touch. The child may also have high blood pressure from the tumor pressing on the abdominal aoa or other large blood vessels in the abdomen. Reference: Essential pediatrics-Ghai, 8th edition, page no: 616",
         "cop": 2,
@@ -1144,19 +754,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which statement (s) is/are true about Neuroblastoma with respect to wilms tumor",
-        "exp": "Both occur in early childhood and typically present as large abdominal masses closely related to the kidneys. Distinguishing between the two is impoant, and a number of features are helpful. Neuroblastoma calcification very common: 90% encases vascular structures but does not invade them younger age group (<2 years of age) poorly marginated elevates the aoa away from the veebral column more commonly crosses the midline, especially behind the aoa 2 more common to have extension into the chest bony metastasis are common (Hutchinson syndrome) extension into spinal canal can be seen. retroperitoneal lymph nodes are more often seen. Wilms tumor calcification uncommon: 10-15% (10% rule of Wilm&; s tumor) displaces adjacent structures without insinuating between them slightly older age group: peak 3-4 years of age well circumscribed <a href=\" sign</a> with the kidney extension into IVC/renal vein. bony metastasis are rare, rather lung metastasis are common. extension into spinal canal never seen. retroperitoneal lymphadenopathy is uncommon. Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 1,
-        "opa": "Neuroblastoma causes displacement of kidney inferolaterally without distoion of collecting system",
-        "opb": "Stippled calcification is present in wilm's tumor",
-        "opc": "Aoic and IVC invasion by neuroblastoma",
-        "opd": "Neuroblastoma crossing mid line",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "e456efef-9b49-43fd-9828-6a2e302755a5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common malignant tumour in childhood",
         "exp": "Leukemia is the most common malignancy of childhood. There are two main subtypes, the commoner acute lymohoblastic leukemia(ALL) & acute myeloid leukemia(AML). A small propoion may have chronic myeloid leukemia(CML) and juvenile myelomonocytic leukemia(JMML). ALL is the most common childhood malignancy accounting for one-fouh of all childhood cancers. Reference: Essential pediatrics-Ghai, 8th edition, page no: 599.",
         "cop": 2,
@@ -1168,32 +765,6 @@
         "topic_name": "Childhood tumors",
         "id": "e53287f1-2c28-4f7d-9baf-48c02931b917",
         "choice_type": "single"
-    },
-    {
-        "question": "Non specific esterase is positive in all the categories of AML except",
-        "exp": "Non specific esterase on cytochemistry is strongly positive in M5(acute monocytic leukemia- Schilling type) and M4(acute myelomonocytic leukemia -Naegeli type) which have monocytic component. It is also positive in M3(acute promyelocytic leukemia). But non specific esterase is negative in M6(acute erythroleukemia-Di Guglielmo's syndrome), which shows positive for Periodic acid-Schiff. Reference: Textbook of pathology-Harsh Mohan, 6th edition, page no: 362.",
-        "cop": 4,
-        "opa": "M3",
-        "opb": "M4",
-        "opc": "M5",
-        "opd": "M6",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "52e42883-d6cb-4ad2-a34c-20900948ffcb",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The poor prognostic factor associated with ALL in children is",
-        "exp": "The standard features are age and WBC at diagnosis, with infants (less than one year), adolescents (greater than nine years), and children with WBC above 50, 000/ml being at higher risk. Ceain chromosomal abnormalities are also strong predictors; in paicular, the Philadelphia chromosome and MLL gene rearrangements (especially in infants) are adverse features, while TEL-AML1 is orable. It is impoant to note, however, that even the most impoant known predictors explain only a small propoion of the variability in outcome. Testicular involvement Is a poor prognostic factor for ALL Reference: GHAI Essential pediatrics, 8th edition",
-        "cop": 3,
-        "opa": "Total leucocytle count 4000-100000",
-        "opb": "Age less than 2 years",
-        "opc": "Testicular involvement",
-        "opd": "Blast in Peripheral Smear",
-        "subject_name": "Pediatrics",
-        "topic_name": "Childhood tumors",
-        "id": "15877737-c030-4831-bfc2-cd2291c5fa88",
-        "choice_type": "multi"
     },
     {
         "question": "The most common extracranial solid tumor in pediatric age group is ____:",

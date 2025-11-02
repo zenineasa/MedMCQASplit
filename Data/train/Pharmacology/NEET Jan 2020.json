@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following drugs shown in the graph below has highes potency?",
-        "exp": "Drug potency and efficacy",
-        "cop": 1,
-        "opa": "Drug A",
-        "opb": "Drug B",
-        "opc": "Drug C",
-        "opd": "Both Drug A and",
-        "subject_name": "Pharmacology",
-        "topic_name": "NEET Jan 2020",
-        "id": "647d0a37-362c-41f3-9e10-9445d5d6530f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Anti-glaucoma drug that acts by increasing uveoscleral outflow is",
         "exp": "Mode of ocular hypotensive Drug/Class Aqueous secretion Trabecular outflow Uveoscleral outflow b-blockers (Timolol) | - - Adrenaline/Dipivefrine | | | Brimonidine/appracionidine | - | Prostaglandins (Latanoprost) - | | Miotics (Pilocarpine) - | - Carbonic anhydrase inhibitors (Dorzolamide) | - -",
         "cop": 1,
@@ -245,18 +232,5 @@
         "topic_name": "NEET Jan 2020",
         "id": "1fdbab18-c16b-4e96-9bf4-bfeaf309716c",
         "choice_type": "single"
-    },
-    {
-        "question": "True about non-competitive inhibition is",
-        "exp": "Km V max Competitive | - Non-Competitive - | UN Competitive | |",
-        "cop": 1,
-        "opa": "Km remains same, Vmax decreases",
-        "opb": "Km increases, Vmax remains same",
-        "opc": "Km decreases, Vmax increases",
-        "opd": "Km increases, Vmax increases",
-        "subject_name": "Pharmacology",
-        "topic_name": "NEET Jan 2020",
-        "id": "65af4105-87fc-4b6d-ab3c-736f30fccca5",
-        "choice_type": "multi"
     }
 ]

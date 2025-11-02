@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The 5a reductase inhibitor that has been found to be effective both in benign prostatic hyperophy and male pattern baldness is:",
-        "exp": "Finasteride and dutasteride are 5 alpha reductase inhibitors. Flutamide is androgen receptor antagonist. Prazosin is alpha blocker. Minoxidil is potassium channel opener.",
-        "cop": 2,
-        "opa": "Flutamide",
-        "opb": "Finasteride",
-        "opc": "Prazosin",
-        "opd": "Minoxidil",
-        "subject_name": "Pharmacology",
-        "topic_name": "Endocrine",
-        "id": "44e4e6d4-cda8-4384-a23a-ec96523b8da6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Based on the given mechanism of action as shown in the Figure, Drug A is likely to be:",
         "exp": "Parasympathetic nerve supply is richly suuplied to Gastrointenstinal tract(GIT). It helps in peristalsis, digestion, motility and absorption of nutrients.",
         "cop": 2,
@@ -37,45 +24,6 @@
         "topic_name": "Endocrine",
         "id": "496465f1-88dd-45fc-aae3-7299017face6",
         "choice_type": "single"
-    },
-    {
-        "question": "A young female, Rama with amenorrhea, infeility and galactorrhoea was treated with a drug that successfully restored ovulation and menstruation. Before being given the drug, the woman was carefully questioned about previous mental health problems, which she did not have. She was advised to take the drug orally. The drug used to treat this patient was probably:",
-        "exp": "Symptoms of the patient (amenorrhea, galactorrhea and infeility) points towards the diagnosis of Hyperprolactinemia. Bromocriptine--> D2 receptor agonist --> used in Rx(dopamine acts as prolactin release inhibiting hormone in the hypothalamus). Psychosis occurs due to excessive stimulation of D2 receptors (D2 blockers are used as typical antipsychotic drugs) and Bromocriptine can precipitate the symptoms in predisposed patients.",
-        "cop": 1,
-        "opa": "Bromocriptine",
-        "opb": "Desmopressin",
-        "opc": "Human gonadotropin hormone",
-        "opd": "Leuprolide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Endocrine",
-        "id": "0e644b63-d4d1-42be-a236-de495b1c9229",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statements about nateglinide is TRUE?",
-        "exp": "* Nateglinide and Repaglinide are sho acting oral hypoglycemic agents. * These are used to limit the post-prandial hyperglycemia. * Like sulfonylureas, these drugs also act by blocking K+ channels in the b-cells of pancreas that lead to depolarization and release of insulin. It can be used in patients with renal impairment and in the elderly.",
-        "cop": 2,
-        "opa": "It is a long acting oral hypoglycemic drug",
-        "opb": "Taken just before a meal, it limits post prandial hyperglycemia in type 2 diabetes mellitus",
-        "opc": "It cannot be used in patients with renal impairment",
-        "opd": "It acts by opening K+ channels in myocytes and adipocytes",
-        "subject_name": "Pharmacology",
-        "topic_name": "Endocrine",
-        "id": "593dfd93-879f-43ff-8d8c-b9c6fac40bc8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following conditions require administration of Gn. RH agonist in a non-pulsatile manner except?",
-        "exp": "Usage of Gn. RH agonists: Pulsatile Gn. RH agonist Non pulsatile (continuous) Gn. RH agonist Delayed pubey Ovulation induction Kallmann's syndrome Male infeility Endometriosis Hirsutism Uterine fibroids Central precocious pubey Prostate cancer Breast and ovarian cancer Note: Non-pulsatile administration of Gn. RH agonist is not useful in male infeility.",
-        "cop": 1,
-        "opa": "Male infeility",
-        "opb": "Prostate cancer",
-        "opc": "Endometriosis",
-        "opd": "Precocious pubey",
-        "subject_name": "Pharmacology",
-        "topic_name": "Endocrine",
-        "id": "5e7f8de6-36c3-4920-8c8f-dff466d099b2",
-        "choice_type": "multi"
     },
     {
         "question": "A young female Shagun comes to you in the gynaecology OPD and gives the history that she had intercourse with her boyfriend 5 hours back. Select the drug that can act as a single dose postcoital contraceptive for her:",
@@ -115,32 +63,6 @@
         "topic_name": "Endocrine",
         "id": "4be5d95b-e47d-437c-a4b7-ed1e657bbdc2",
         "choice_type": "single"
-    },
-    {
-        "question": "A 15 year old girl with type 1 diabetes is brought to emergency complaining of dizziness. Laboratory findings include severe hyperglycemia, ketoacidosis and blood pH of 7. 15. To achieve rapid control of severe ketoacidosis, appropriate drug is:",
-        "exp": "Diabetic ketoacidosis must be managed by insulin preparations that can be given by intravenous route. Main insulin given intravenously is Regular insulin. Complication--> Hypoglycemia.",
-        "cop": 1,
-        "opa": "Crystalline zinc insulin",
-        "opb": "NPH insulin",
-        "opc": "Tolbutamide",
-        "opd": "Ultra lente insulin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Endocrine",
-        "id": "85d51064-518a-446e-8d12-7a39a031ec44",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 47-year old male, Kishore exhibited signs and symptoms of acromegaly. Radiologic studies showed the presence of a large pituitary tumor. Surgical treatment of the tumor was only paially effective in controlling the disease. At this point, which of the following drugs is most likely to be used as pharmacological therapy?",
-        "exp": "Drugs useful in acromegaly are: * Bromocriptine and cabergoline * Octreotide (long acting somatostatin analogue) * Pegvisomant (growth hormone receptor antagonist) Nafarelin is a Gn. RH agonist. It has no role in acromegaly.",
-        "cop": 3,
-        "opa": "Desmopressin",
-        "opb": "Nafarelin",
-        "opc": "Octreotide",
-        "opd": "Somatropin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Endocrine",
-        "id": "4a166dc8-7ca3-45cb-bf6d-cda4b6d27612",
-        "choice_type": "multi"
     },
     {
         "question": "A 57-year- old lady came with chief complaints of fatigue. On fuher questioning, she reveals that she has gained 5 kg weight in one month. She has been taking L-thyroxine for hypothyroidism since 10 years and fairly controlled. Recently she was staed on an anti-arrhythmic drug for treatment of his cardiac condition. The symptoms staed after sta of this drug. Most likely anti-arrhythmic drug she was prescribed is?",

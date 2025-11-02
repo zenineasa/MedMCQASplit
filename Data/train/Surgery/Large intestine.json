@@ -1,18 +1,5 @@
 [
     {
-        "question": "A multipara patient was brought to the emergency with signs and symptoms of small bowel obstruction. After resuscitation, X-ray was performed and the findings are given below. What is the most probable diagnosis?",
-        "exp": "X-ray: kidney- Bean sign | Cecal volvulus Cecal volvulus: Misnomer Ileoceco-colic volvulus Small bowel obstruction S/S Predisposing factors: Multiparity Ligament dividing Sx - for mobile cecum Malrotation Distal obstructing lesion X-ray findings Kidney bean sign Comma shaped cecum Mx: Ileocolectomy + Ileotransverse anastomoses",
-        "cop": 4,
-        "opa": "Adhesive small bowel obstruction",
-        "opb": "Crohn's disease",
-        "opc": "Obstructed hernia",
-        "opd": "Cecal volvulus",
-        "subject_name": "Surgery",
-        "topic_name": "Large intestine",
-        "id": "c48c9d53-f9de-4532-b6ed-db5ac76934e2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common presentation of Hirschsprung's disease",
         "exp": "Clinical Presentation Neonates First few weeks of life Otherwise healthy children and adults Suspected in all neonates presenting with: Delayed passage of meconium beyond the first 24 hours of lifeQ Abdominal distension following feedsQ Suspected in any child presenting in first few weeks of life with: Gross abdominal distensionQ Chronic constipationQ Failure to thriveQ Sho segment Hirschprung disease should be suspected in otherwise healthy children and adultsQ presenting with: Severe constipation without fecal soilingQ Faecal soiling is usually not a feature of this condition. Investigation of choice - Rectal Biopsy (Suction Biopsy > full Thickness Biopsy)",
         "cop": 1,
@@ -24,19 +11,6 @@
         "topic_name": "Large intestine",
         "id": "20d917f1-ba9d-4203-85ad-c2e261a69651",
         "choice_type": "single"
-    },
-    {
-        "question": "Amsterdam criteria includes all except:",
-        "exp": "REVISED AMSTERDAM CRITERIA The revised Amsterdam criteria are used to select at-risk patients ( all criteria must apply). Criteria Three or more relatives who are diagnosed with an HNPCC-associated cancer (colorectal, endometrium, small bowel, ureter, or renal pelvis) in which one affected person is a first-degree relative of the other two. At least two successive generations are affected One or more cases of cancer are diagnosed before age 50 years FAP has been excluded, and tumors have undergone pathology review The Bethesda guidelines are established to direct patient selection for MSI testing",
-        "cop": 2,
-        "opa": "At least three relatives should be affected",
-        "opb": "All the three should be first degree relative",
-        "opc": "Two successive generations affected",
-        "opd": "FAP excluded",
-        "subject_name": "Surgery",
-        "topic_name": "Large intestine",
-        "id": "ae0b24c0-74fb-47b6-84a0-6023f1e93ed8",
-        "choice_type": "multi"
     },
     {
         "question": "A newborn baby was brought with the history multiple episodes of bilious projectile vomiting. X-ray abdomen was done. What is the diagnosis?",
@@ -221,32 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most common extra-intestinal malignancy in HNPCC:",
-        "exp": "EXTRA - INTESTINAL MALIGNANCIES IN HNPCC Endometrial (39-60%)>gastric (13-19)>ovarian (6-12%) Rare Malignancies: Small intestine, pancreatic, thyroid, transitional cell epithelium in the urinary tract (renal pelvic, ureter, bladder); brain cancers.",
-        "cop": 2,
-        "opa": "Pancreatic carcinoma",
-        "opb": "Ca stomach",
-        "opc": "Small bowel carcinoma",
-        "opd": "Transitional cell carcinoma",
-        "subject_name": "Surgery",
-        "topic_name": "Large intestine",
-        "id": "40602448-86b4-420d-9483-06ccc428b284",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Intestinal polyps that can potentially grow into cancer:",
-        "exp": "ADENOMATOUS POLYPS Most common neoplastic polyp is adenomatous, which harbors malignant potential. Most colon cancers arise from adenomatous polyps (adenoma). Conditions associated with adenomatous polyps: Strong association with ureterosigmoidostomies, acromegaly and streptococcus bovis bactermia. Probability of development of malignancy depends upon: Gross Appearance of lesion Histology Size Pedunculated Sessile (Increased risk) Tubular (MC) Tubulovillous Villous (Highest risk) <1 cm 1-2 cm >2 cm (Increased risk) Adenomatous Polyps Types Incidence Villous tissue Risk of Malignancy Tubular 65-80% < 25% 5% Tubulovillous 10-25% 25-75% 20% Villous 5-10% > 75% 40%",
-        "cop": 1,
-        "opa": "Adenomatous polyp",
-        "opb": "Hyperplastic polyp",
-        "opc": "Juvenile polyp",
-        "opd": "Hamaomatous polyp",
-        "subject_name": "Surgery",
-        "topic_name": "Large intestine",
-        "id": "eca544ab-1bc6-4b12-a1c8-a7b8b29f4beb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is the least common possibility about Angiodysplasia of colon?",
         "exp": "Vascular ectasia( Angiodysplasia) MC Vascular lesion found in the colon: Vascular ectasia MC cause of recurrent lower Intestinal bleeding after 60 years of age: Vascular ectasia Arise from age- related degeneration of previously normal colonic blood vessels. Acquired condition Almost always occur in the caecum or the proximal ascending colon Usually multiple, are < 5mm in diameter Rarely identified with gross inspection or routine pathologic examination Diagnosed with colonoscopy or angiography Angiography: Slow emptying of vein & dilation of sub mucosal vessels",
         "cop": 2,
@@ -310,32 +258,6 @@
         "topic_name": "Large intestine",
         "id": "cd15bc6c-c1ac-407d-b5ca-bb03dff73bb7",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following genes may be involved in development of carcinoma of colon except:",
-        "exp": "Gene Mutations that Cause Colon Cancer Mutation type Genes Involved Germline APC and MMR Somatic Oncogenes: Myc, Ras, Src, erb. B2 Tumor suppressor genes: p53, DCC, APC MMR genes: b. MSH2, b. MLH1, b. PMS1, b. PMS2, b. MSH6, b. MSH3 Genetic polymorphism APC",
-        "cop": 2,
-        "opa": "APC",
-        "opb": "Beta-Catenin",
-        "opc": "K-ras",
-        "opd": "Mismatch repair genes",
-        "subject_name": "Surgery",
-        "topic_name": "Large intestine",
-        "id": "047953fd-df72-4c5b-8c03-3a67f74f1ee5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "According to Modified Astler-Collar Classification for colorectal cancer, lymph node invasion with penetration of the entire bowel wall is included in stage:",
-        "exp": "Modified Duke's (Modified Astler-Collar) classification Stage Description A Confined to the mucosa B1 Paially penetrated the muscularis propria B2 Fully penetrated the muscularis propria C1 Lymph node invasion without penetration of the entire bowel wall C2 Lymph node invasion with penetration of the entire bowel wall D Distant metastatic disease",
-        "cop": 4,
-        "opa": "B1",
-        "opb": "B2",
-        "opc": "C1",
-        "opd": "C2",
-        "subject_name": "Surgery",
-        "topic_name": "Large intestine",
-        "id": "3dd089b6-bf83-48ac-9287-a4497d643469",
-        "choice_type": "multi"
     },
     {
         "question": "Most common site of post ischemic stricture is:",

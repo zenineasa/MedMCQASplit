@@ -104,32 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "At the end of repolarization, the nerve is hyperpolarized. How does the membrane potential return to RMP?",
-        "exp": "Simultaneously with the action of the pump, there is inward diffusion of Na+ through the leaky channels (not the voltage-gated channels that cause depolarization). This inward leakage of positive charges will take the membrane potential from - 90 mV to original RMP of - 70 mV. Both the pump and the inward leakage will balance out once the potential again reaches - 70 mV.",
-        "cop": 2,
-        "opa": "Action of Na+/ K+ -pump",
-        "opb": "Inward leakage of Na+",
-        "opc": "Decrease in K+ efflux",
-        "opd": "None of the above mechanisms",
-        "subject_name": "Physiology",
-        "topic_name": "Excitation and Action Potiential",
-        "id": "8e82726e-c0bb-4269-a6ef-9bfc97a89b6d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The phase of after depolarization is characterized by:",
-        "exp": "The slower rate of repolarization toward the later pa has been described as After depolarization. The initial rate of repolarization is rapid. This is due to a greater concentration gradient for K+ to move out. However, as the K+ moves out, two things happen: Concentration gradient for K+ will narrow. Thus, rate of K+ efflux will decrease. The K+ that moved out will cause accumulation of positive charges (carried by K+) just on the outside of the membrane.",
-        "cop": 4,
-        "opa": "Delayed entry of Na+",
-        "opb": "Na+ influx above zero potential",
-        "opc": "Slow closure of K+ channels",
-        "opd": "Slower net exit of K+",
-        "subject_name": "Physiology",
-        "topic_name": "Excitation and Action Potiential",
-        "id": "f56b1873-3997-488f-97c0-b14b63a7062e",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 56-year-old woman with severe muscle weakness is hospitalized. The only abnormality in her laboratory values is an elevated serum K+ concentration. The elevated serum K+ causes muscle weakness because",
         "exp": "Elevated serum K+ concentration causes depolarization of the K+ equilibrium potential and therefore depolarization of the resting membrane potential in skeletal muscle. Sustained depolarization closes the Na+ channels and prevents the occurrence of action potentials in the muscle.",
         "cop": 4,
@@ -141,32 +115,6 @@
         "topic_name": "Excitation and Action Potiential",
         "id": "3845abed-a329-4749-ac29-d519ab01c71e",
         "choice_type": "single"
-    },
-    {
-        "question": "Arrange the following sequentially in the ascending order of occurrence with regard to signal transmission at neuromuscular junction: A. Neurotransmitter degradation B. Exocytosis C. Calcium influx D. End Plate potential",
-        "exp": "In order of signal transmission at neuromuscular junction: C. Calcium influx - B. Exocytosis - D. End Plate potential - A. Neurotransmitter degradation",
-        "cop": 2,
-        "opa": "A-C-B-D",
-        "opb": "C-B-D-A",
-        "opc": "C-A-B-D",
-        "opd": "B-D-A-C",
-        "subject_name": "Physiology",
-        "topic_name": "Excitation and Action Potiential",
-        "id": "e559360b-8689-4db9-8606-513acbd83f39",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Initiation of nerve impulse occurs at the axon hillock because:",
-        "exp": "The membrane of the axon hillock/initial segment contains a high density of voltage-gated Na+ and K+ channels. These channels are fewer along the dendrites and cell body. The axon hillock has a lower threshold for firing an action potential. This region is also known as the trigger zone for the action potential. It requires a relatively low degree of depolarization for initiation of spike at the axon hillock/initial segment.",
-        "cop": 1,
-        "opa": "It has a lower threshold than the rest of the axon",
-        "opb": "It is unmyelinated",
-        "opc": "Neurotransmitter release occurs here",
-        "opd": "None of the above",
-        "subject_name": "Physiology",
-        "topic_name": "Excitation and Action Potiential",
-        "id": "fdb31a31-2533-4d12-ae33-3730502b3cd4",
-        "choice_type": "multi"
     },
     {
         "question": "A traveling nerve impulse does not depolarize the area immediately behind it, because:",

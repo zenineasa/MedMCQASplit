@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Agent causing malignant hyperthermia is?",
-        "exp": "Ans. (a) Succinylcholine. Ref.: Goodman and gillman p 152, 11/e, lee 13/e, p 352-54, Morgan 3/e, p 869 see details of malignant hyperthermis and anesthesia December 2011",
-        "cop": 1,
-        "opa": "Succinylcholine",
-        "opb": "N2O",
-        "opc": "Dantrolene sodium",
-        "opd": "Gallamine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Depolarising Neuromuscular Blocking Agents",
-        "id": "3e0928bd-e8df-4001-bb09-4bbe130926d2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Stage 2 block (Phase II block) is seen with:",
         "exp": "Ref: Miller Textbook of Anaesthesia. 6th edition. Explanation: Succinyl Choline - Mechanism of action1. Phase 1 block (depolarizing). Succinylcholine is the only clinically useful depolarizing blocking drug. Its neuromuscular effects are like those of acetylcholine except that succinylcholine produces a longer effect at the myoneural junction. Succinylcholine reacts with the nicotinic receptor to open the channel and cause depolarization of the motor end plate, and this in turn spreads to the adjacent membranes, causing contractions of muscle motor units. Because succinylcholine is not metabolized effectively at the synapse, the depolarized membranes remain depolarized and unresponsive to subsequent impulses (ie, in a state of depolarizing block). Furthermore, because excitation-contraction coupling requires end plate repolarization (\"reprintmg\") and repetitive firing to maintain muscle tension, a flaccid paralysis results. This so-called phase 1 (depolarizing) block is thus augmented, not reversed, by cholinesterase inhibitors. 2. Phase II block (desensitizing). With continued exposure to succinylcholine, the initial end plate depolarization decreases and the membrane becomes repolarized. Despite this re polarization, the membrane cannot easily be depolarized again because it is desensitized. The mechanism for this desensitizing phase is unclear, but some evidence indicates that channel block may become more important than agonist action at the receptor in phase II of succinylcholine' s neuromuscular blocking action. Later in phase II. the characteristics of the blockade are nearly identical to those of a nondepolarizing block (ie, a nonsustained twitch response to a tetanic stimulus), with reversal by acetylcholinesterase inhibitors.",
         "cop": 1,
@@ -37,19 +24,6 @@
         "topic_name": "Depolarising Neuromuscular Blocking Agents",
         "id": "b4544941-7c0b-4eaf-959e-7b7c11c457a2",
         "choice_type": "single"
-    },
-    {
-        "question": "Agent causing malignant hyperthermia-",
-        "exp": "Ans. is 'a' i. e., Succinylcholine o Drugs causing malignant hyperthermia are succinylcholine (most common cause). Halothane (most common cause amongst the inhalational agent), Isoflurane, Enflurane, Sevoflurane, Desflurane, Methoxy. Tlurane, Cyc lopropane, Ether, MAO inhibitors, TCA, Phenothiazine, Lignocaine. Malignant hyperthermiao Malignant hyperthermia is a life - threatening medical emergency which is genetically determined, o The condition occurs during or immediately after anaesthesia and may be precipitated by potent inhalation agents (enflurane, halothane, isoflurane), or suxamethonium. o The mechanism involves a sudden rise in intracellular calcium due to release of stored calcium in sarcoplasmic reticulum, stimulating contraction, rhabdomyolysis and a hypermetabolic state. Clinical features are. Masseter spasm -If a patient deifelops severe masseter spasm after suxomethonium, there is a significant possibility of malignant hyperthermia. Tachycardia and arrhythmias. Rise in end-tidal CO2 (first sign )| temperature & unexpected change in BP. o ManagementI. Vdantroline is the DOC, it acts by preventing the release of calcium from sarcoplasmic reticulum. Others are for supportive treatment - oxygen, cooling, and insulin & dextrose are given for hyperkalemia due to potassium release from contracted muscle.",
-        "cop": 1,
-        "opa": "Succinylcholine",
-        "opb": "Dantrolene",
-        "opc": "Gallamine",
-        "opd": "Ketamine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Depolarising Neuromuscular Blocking Agents",
-        "id": "bb5fa8f1-114a-485d-b7fc-e2914900a181",
-        "choice_type": "multi"
     },
     {
         "question": "Which among the following is a depolarising muscle relaxant-",
@@ -115,19 +89,6 @@
         "topic_name": "Depolarising Neuromuscular Blocking Agents",
         "id": "41daf09e-63cc-4f96-840a-baf99f6ac414",
         "choice_type": "single"
-    },
-    {
-        "question": "The administration of succinylocholine to a paraplegic patient led to the appearance of dysarrhythmias, conduction abnormalities and finally cardiac arrest. The most likely cause is:",
-        "exp": "Ans. is 'b' i. e. Hyperkalemia It has been repeated several times before that succinylcholine causes hyperkalemia in paraplegic patients. This hyperkalemia is responsible for cardiac complications such as dysrhythmias, conduction abnormalities and cardiac arrest. On page 347 Lee states\"Suxamethonium may be dangerous in the period h/w about 3 days and 6 months or perhaps longer after onset of paraplegia. It releases more potassium than usual from muscles and the extreme hyperkalemia can cause arrhythmias or cardiac arrest. \"",
-        "cop": 2,
-        "opa": "Hypercalcemia",
-        "opb": "Hyperkalemia",
-        "opc": "Anaphylaxis",
-        "opd": "Hypermagnesemia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Depolarising Neuromuscular Blocking Agents",
-        "id": "2cb639e2-3c34-479c-b4d0-914a4ab8802f",
-        "choice_type": "multi"
     },
     {
         "question": "Succinylcholine causes?",
@@ -232,18 +193,5 @@
         "topic_name": "Depolarising Neuromuscular Blocking Agents",
         "id": "e072f372-2194-4938-b796-f8e5a3d3aa74",
         "choice_type": "single"
-    },
-    {
-        "question": "Receptor responsible for malignant hyperthermia is?",
-        "exp": "ANSWER: (B) Ryanodine receptor. REF: Morgan 3ra e p. 869. This condition is known by a number of names, including malignant hyperthermia (MH), malignant hyperthermia syndrome (MHS), and malignant hyperpyrexia. Signs and symptoms: The typical symptoms of malignant hyperthermia are due to a hyper catabolic state, which presents as a very high temperature, an increased heart rate and breathing rate, increased carbon dioxide production, increased oxygen consumption, acidosis, rigid muscles, and rhabdomyolysis. The symptoms usually develop within one hour after exposure to trigger substances, but may even occur several hours later in rare instances. Causes: Volatile anesthetic gases Local anesthetics Depolarizing muscle 1 relaxantshalothane, sevoflurane, desfluranelidocaine, bupivicaine, mepivacainesuccinylcholine. Other. Opiates (morphine, fentanyl), ketamine, barbiturates, nitrous oxide, propofol, etomidate, benzodiazepines. Genetics: Malignant hyperthermias inheritance is autosomal dominant. The defect is typically located on the long arm of the nineteenth chromosome (19ql3. 1) involving the ryanodine receptor.",
-        "cop": 2,
-        "opa": "Nicotinic receptor",
-        "opb": "Ryanodine receptor",
-        "opc": "Muscarinic receptor",
-        "opd": "None",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Depolarising Neuromuscular Blocking Agents",
-        "id": "5e09e199-853c-45bb-a3ba-77983861b628",
-        "choice_type": "multi"
     }
 ]

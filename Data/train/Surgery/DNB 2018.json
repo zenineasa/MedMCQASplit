@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "If BIRADS score is 4, your next step would be:",
-        "exp": "BIRADS (Breast Imaging Repoing And Data System) Category Definition Likelihood of Malignancy 0 Incomplete assessment, need additional imaging evaluation Not applicable 1 Negative, routine mammogram in 1 year is recommended 0% 2 Benign findings, routine mammogram in 1 year is recommended 0% 3 Probably benign findings, sho term follow-up suggested >0 to <2% 4 Suspicious abnormality, biopsy should be considered0 (4A-Low suspicion; 4B-Moderate suspicion, 4C-High suspicion) 4A:>2-<10% 4B:>10-<50% 4C:>50-<95% 5 Highly suggestive of malignancy, appropriate action should be taken >95% 6 Know biopsy-proven malignancy Not applicable Thyroid: TIRADS - based on sonography Prostate: PIRADS-based on MRI",
-        "cop": 3,
-        "opa": "Additional imaging",
-        "opb": "Routine mammography",
-        "opc": "Biopsy",
-        "opd": "Follow up",
-        "subject_name": "Surgery",
-        "topic_name": "DNB 2018",
-        "id": "51632585-c37a-44a2-bf4b-9104bd1ee81f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Negative pressure wound therapy (NPWT) is used in:",
         "exp": "VACCUM ASSISTED CLOSURE/ NEGATIVE PRESSURE WOUND THERAPY (NPWT) NPWT Promotes wound healing by applying a vacuum through a special sealed dressing. Continued vacuum draws out the fluid from wound & increases blood flow to the area. Vaccum may be applied continuosly or intermittently, depending upon the types of wound being treated & clinical objectives. Negative pressure of -125 mm Hg is used Dressing should be changed 2-3 times/week Primary Effects of NPWT on Wound Healing Macrodeformation Drawing the wound edges together leading to contraction Stablization of wound environment Wound protected from outside micro- organisms in a warm & moist envirnoment Reduced edema With removal of soft tissue exudates Microdeformation Leading to cellular proliferation on the wound surface Contraindications for NPWT Use Malignancy in the wound Untreated osteomyelitis Non-enteric & unexplored fistula Necrotic tissue with eschar",
         "cop": 1,
@@ -52,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "N-3 TNM staging of head and neck tumors shows:",
-        "exp": "8th AJCC (2017) TNM Classification of Carcinoma Lip & Oral Cavity Primary Tumor (T) Regional Lymph Nodes (N) Tis Carcinoma in situ. N1 Metastasis in a single ipsilateral LN, <3 cm in greatest dimension without extranodal extension T1 Tumor <2cm in greatest dimension & <5cm depth of invasion N2a Metastasis in a single ipsilateral LN, >3 cm but <6 cm in greatest dimension without extranodal extension T2 Tumor <2cm in greatest dimension & >5 mm but <10 mm depth of invasion or tumor >2 cm but <4 cm in greatest dimension & depth of invation < 10 mm N2b Metastaes in a multiple ipsilateral LN, none >6 cm in greatest dimension without extranodal extension T3 Tumor >4 cm in greastest dimension and >10 mm depth of invasion N2c Metastases in bilateral or contralateral LN, none >6cm in greatest dimension without extranodal extension T4a Lip: Tumor invades through coical bone, inferior alveolar nerve, floor of mouth, or skin (of chin or nose) N3a Metastasis in a LN >6cm in greatest dimension without extranodal extension N3b Metastasis in a single or multiple LNs with clinical extranodal extension Oral cavity: Tumor invades through coical bone mandible or maxillary sinus or invades the skin of face Distant Metastasis T4b Tumor invades masticator space, pterygoid plates, or skull base and/or encases internal carotid aery M0 No distant metastasis. M1 Distant metastasis.",
-        "cop": 3,
-        "opa": "Metastasis in lymph nodes >2 cm",
-        "opb": "Metastasis in lymph nodes >5 cm",
-        "opc": "Metastasis in a lymph node >6 cm",
-        "opd": "None",
-        "subject_name": "Surgery",
-        "topic_name": "DNB 2018",
-        "id": "db14a859-343f-464e-87f2-5f0dc5311e89",
-        "choice_type": "multi"
-    },
-    {
         "question": "During exploration, a patient is found to have a tumor in the thymus that is invading the pericardium and surrounding the left and right phrenic nerves. The pathologist says that appears on frozen section to be a benign thymoma. The surgeon now should:",
         "exp": "Since the tumor is invading the pericardium and surrounding the left and right phrenic nerve maximum amount of tumor must be resected There is no advantage of frozen section",
         "cop": 2,
@@ -76,58 +50,6 @@
         "topic_name": "DNB 2018",
         "id": "9610b875-7fdf-4e66-9569-a4e6d85b2e48",
         "choice_type": "single"
-    },
-    {
-        "question": "Syndrome containing colorectal cancer with endometrial cancer is called as:",
-        "exp": "Hereditary Non polyposis colorectal cancer is aka Lynch Syndrome - Lynch Syndrome 1- has only colorectal Ca - Lynch Syndrome 2- has colorectal Ca +Extraintestinal (endometrial >gastric>ovarian) malignancy Turcot's Syndrome- has Brain Tumor Juvenile Polyposis Syndrome- has presence of multiple hamaomatous polyps Cowden Syndrome - ectodermal polyps with malignancy of breast, uterus and thyroid.",
-        "cop": 2,
-        "opa": "Cowden syndrome",
-        "opb": "Lynch syndrome",
-        "opc": "Turcot's syndrome",
-        "opd": "Juvenile polyposis syndrome",
-        "subject_name": "Surgery",
-        "topic_name": "DNB 2018",
-        "id": "566dbbeb-f0cd-45bd-8d78-76df1ece61e8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Meckel's diveiculum follows the rule of 2. Which of the following is false?",
-        "exp": "MECKEL's DIVEICULUM Most commonly encountered congenital anomaly of the small intestine Occur 2% of the population Rule of two in Meckel's diveiculum 2% prevalence 2 inch in length Half of these who are symptomatic are <2 years of age 2 feet proximal to ileocecal valve",
-        "cop": 4,
-        "opa": "Occurs in approximately 2% of population",
-        "opb": "Approximately 2 inches in length",
-        "opc": "Generally present 2 feet proximal to ileocecal valve",
-        "opd": "2% are symptomatic",
-        "subject_name": "Surgery",
-        "topic_name": "DNB 2018",
-        "id": "7a18cb6c-0b94-4585-9056-9399f17bc6aa",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In a post-mastectomy patient, the suction drain is accidentally removed on 2nd post-operative day and the lady staed to have ooze with swelling in the chest. Next option in management in this case is:",
-        "exp": "SEROMA: Accumulation of fluid beneath flap. occurs as a complication after MRM Drains are removed when output is <40cc/day for 2 consecutive days Accidental removal of drain - discharge of serous material. Management of Seroma: Aspiration under aseptic conditions and do pressure dressing Seromas increase risk of infections and lymphedema - hence, wait and watch is not a management option.",
-        "cop": 2,
-        "opa": "Open incision and pack with saline gauze",
-        "opb": "Aspiration under aseptic conditions and do pressure dressing",
-        "opc": "Re-inse the drain",
-        "opd": "Wait and watch",
-        "subject_name": "Surgery",
-        "topic_name": "DNB 2018",
-        "id": "ef332ba4-3c72-4e2b-95bb-fdbebf74d9b7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True regarding wound dehiscence:",
-        "exp": "In wound dehiscence Closure is done with INTERRUPTED suture of non-absorbable material. Discharge is MINIMAL in amount. Wound DEHISCENCE (Burst Abdomen) Serrous or Serosanguinous discharge from the wound is the first sign of dehiscence Most commonly observed between 5th and 8th postoperative day (may occur at any time following wound closure) Wound dehiscence is paial or total disruption of any or all layers of the operative wound. Extrusion of abdominal viscera after rupture of all layers is know as evisceration. Management Wound dehiscence without evisceration: Prompt elective closure of the wound Wound dehiscence with evisceration: Wound is covered with moist towels Under GA, any exposed bowel or omentum is rinsed with RL containing antibiotics and then returned to abdomen Previous sutures are removed, wound is reclosed (Tension suturing )",
-        "cop": 3,
-        "opa": "If you suspect dehiscence, close with continuous suture of non-absorbable material",
-        "opb": "Dehiscence happens on 2nd post-operative day",
-        "opc": "The management of wound dehiscence depends on degree of evisceration and gangrenous bowel",
-        "opd": "There will sudden gush of fluid just before the dehiscence",
-        "subject_name": "Surgery",
-        "topic_name": "DNB 2018",
-        "id": "3d4ae86c-0d9e-4248-9308-ed6e82576727",
-        "choice_type": "multi"
     },
     {
         "question": "A patient with blunt trauma of abdomen at 48 hours, USG shows normal, but patient had tenderness in left lumbar region. Best appropriate diagnosis is by:",

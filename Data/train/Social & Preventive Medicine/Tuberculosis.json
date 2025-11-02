@@ -1,18 +1,5 @@
 [
     {
-        "question": "Sputum positive patient who should be quarantined:",
-        "exp": "Ans. (d) Children below 6 years. Ref: K. Park 23rd ed. /182-84* About national TB program, if a person is smear positive for TB:# All the family who is in close contact with the patient is given prophylaxis# Children under age 6 is given prophylaxis. Note: India's Revised National Tuberculosis Control Programme (RNTCP) recommends screening of all household contacts of smear-positive pulmonary tuberculosis (PTB) cases for tuberculosis (TB) disease, and 6-month isoniazid preventive therapy (IPT) for asymptomatic children aged <6 years.",
-        "cop": 4,
-        "opa": "Pregnant women",
-        "opb": "Old people",
-        "opc": "Children above 6 years",
-        "opd": "Children below 6 years",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Tuberculosis",
-        "id": "7f56f120-7ea2-4701-91a8-ebcacede19f7",
-        "choice_type": "multi"
-    },
-    {
         "question": "Tuberculin test is -",
         "exp": "Ans. is 'b' i. e., Intradermal o In tuberculin test, injection is given intradermally on flexor (ventral) surface of left forearm, mid-wav between elbow & wrist. Intradermal injection of PPDon flexor aspect of forearm | Examined at 48-72 hours |||Induration > 10 mm. Induration < 5 mm. Induration 6-9 mm|||Positive. Negative. Equivocal | Repeat tuberculin test (two step testing)",
         "cop": 2,
@@ -76,31 +63,5 @@
         "topic_name": "Tuberculosis",
         "id": "dc28700c-5d93-423b-8bd5-873562d9081f",
         "choice_type": "single"
-    },
-    {
-        "question": "Epidemic marker of TB -",
-        "exp": "Ans. is 'a' i. e., Sputum AFB Positivity rate o Case finding tools in TB are:-1) Sputum microscopy# It is the method of choice2) Sputum culture# It is 2nd in importance (after sputum microscopy) in a case finding programme. 3) Mass miniature radiography# It has been stopped as a general measure of case finding. 4) Tuberculin test# It is of little value as a case finding tool as it has no diagnostic value. o The number of bacilli seen in a smear reflects disease severity and patient infectivity. o Therefore, it is important to record the number of bacilli seen in each smear. Number of bacilli. Result reported. No. AFB per 100 oil immersion fields01-9 AFB per 100 oil immersion fields. Scanty (or number AFB seen)10-99 AFB per 100 oil immersion fields+ (1+)1-10 AFB per oil immersion fields++ (2+)> 10 AFB per oil immersion fields+++ (3+)",
-        "cop": 1,
-        "opa": "Sputum AFB positivity rate",
-        "opb": "Tuberculin test positivity rate",
-        "opc": "Chest x-ray positivity rate",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Tuberculosis",
-        "id": "190bb662-46fa-40b4-b81d-d02d856a4c3e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "XDR means extensive drug resistance to",
-        "exp": "Ans. (d) All of the above. Ref.: K. Park 23rd ed. /199-200. Definition of Extensive Drug Resistance* Resistance to both isoniazid (H) and rifampicin, and* Resistance to 1 fluoroquinolones and* Resistance to one 2nd line injectables out of 3 (kanamycin, amikacin, capreomycin). Older Definition of XDR* Resistance of isoniazid (H) and rifampicin both +* Resistance to any 3rd line drugs. Also Know*Multiple drug resistance (MDR) means resistance to resistance to isoniazid (H) and rifampicin (R).",
-        "cop": 4,
-        "opa": "H+R",
-        "opb": "1 Fluoroquinolone",
-        "opc": "Minimum of 1 injectable drug",
-        "opd": "All of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Tuberculosis",
-        "id": "2519491d-c7d4-4983-8479-b1258e3cb5d5",
-        "choice_type": "multi"
     }
 ]

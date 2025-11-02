@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Taking diabetes as our example, if the cut-off point for blood glucose is lowered to detect Diabetes (say less than 120 mg per cent):",
-        "exp": "The sensitivity of the test is increased as we lower the cut off. The no. of False Positives will also increase. This Increase in sensitivity occurs at Expense of Specificity. i. e Specificity will decrease ( As sensitivity and specificity are inversely related to each other. so if Sensitivity Increases ---> Specificity Decreases and Vice Versa) Extra edge: - As test's false negative value increases, sensitivity decreases.",
-        "cop": 1,
-        "opa": "Sensitivity of the test is increased",
-        "opb": "Specificity of the test is increased",
-        "opc": "Predictive accuracy of the test is decreased",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Sensitivity, Specificity, PPV, NPV",
-        "id": "4144f86e-8671-444a-b804-e6ec23a27169",
-        "choice_type": "multi"
-    },
-    {
         "question": "If Two screening tests are used in Series, then there will be",
         "exp": "Screening tests in series: A population is subjected to one screening test followed by a second screening test; 2nd screening test is applied only in those in which the 1st screening test is positive. - In this, Combined values of Sensitivity decreases Specificity increases PPV increases NPV decreases",
         "cop": 2,

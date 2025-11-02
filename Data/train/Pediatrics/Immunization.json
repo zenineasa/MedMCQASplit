@@ -1,31 +1,5 @@
 [
     {
-        "question": "'Mission Indradhanush' includes all of the vaccines except:",
-        "exp": "c. Typhoid(Ref: Nelson's 20/e p 1246, 1292-1293, Ghai 8/e p 197-198). Mission Indradhanush. Includes vaccination against 7 life-threatening diseases (diphtheria, whooping cough, tetanus, polio, tuberculosis, measles and hepatitis B) in the entire country",
-        "cop": 3,
-        "opa": "BCG",
-        "opb": "Japanese Encephalitis",
-        "opc": "Typhoid",
-        "opd": "Measles",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "0d13e5ec-bdec-4fe5-acbe-570cc041a53a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Adverse reaction following whole cells pertussis immunization is -",
-        "exp": "Ans. is 'd' i. e.. All of above Advese effect with pertusis (used in DPT)o Local pain, swelling, rednesso Fevero Convulsiono Anaphylaxiso Hypotensive, hyporesponsive episod.",
-        "cop": 4,
-        "opa": "Fever",
-        "opb": "Ecessive cry",
-        "opc": "Local swelling",
-        "opd": "All of above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "4ef35673-dbfc-4262-8984-131c33073a44",
-        "choice_type": "multi"
-    },
-    {
         "question": "OPV Bivalent vaccine contain:",
         "exp": "b. P1 & P3(Ref: Nelson's 20/e p 1561, 3212, Ghai 8/e p 190-194). Monovalent OPVs (m. OPVs) & bivalent OPV (b. OPV) are 2. 5-3 times more efficacious than trivalent OPVIn bivalent OPV, the type 2 component is removed",
         "cop": 2,
@@ -63,32 +37,6 @@
         "topic_name": "Immunization",
         "id": "1e65e0ae-5e93-49fd-9fec-fa9015ba3c60",
         "choice_type": "single"
-    },
-    {
-        "question": "Whole cell pertussis vaccine used to prevent infection can protect against?",
-        "exp": "c. Both Bordetella pertussis & parapertussis(Ref: Clin Infect Dis. 2017. Jun 15; 64(12): 1795-1797). Pertussis vaccine may induce cross-immunity & has been found to have 66%-82% effectiveness against parapertussis. Controversial; Some sources say: As measles can depress cell mediated immunity & as BCG induces cell mediated immunity BCG should not be given along with measles or MMR; while some do not comment about it; So, there is not much recent evidence to substantiate the same.",
-        "cop": 3,
-        "opa": "Bortedella parapertussis only",
-        "opb": "Mild forms of Bordetella pertussis only",
-        "opc": "Both Bordetella pertussis & parapertussis",
-        "opd": "Only against severe Pertussis",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "92466e89-4dbc-4c49-ab46-9bd8cd485f5f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following vaccines can prevent pneumonia, except:",
-        "exp": "b. Rubella(Ref: Nelson 20/e p 1545). Pneumonia is the most common cause of death in measles. It may manifest as giant cell pneumonia caused directly by the viral infection or as superimposed bacterial infection. The most common bacterial pathogens are Streptococcus pneumoniae, Hemophilus influenzae, and Staphylococcus aureus. So, vaccination against Measles, Pneumococcus & H. influenzae would give some protection against pneumonia.",
-        "cop": 2,
-        "opa": "Measles",
-        "opb": "Rubella",
-        "opc": "Pneumococcal",
-        "opd": "H. influenzae",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "a857faeb-e1dd-475d-9956-2a88f00ee0fe",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is a live attenuated bacterial vaccine?",
@@ -195,32 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following vaccines are live vaccines except:",
-        "exp": "c. DPT(Ref: Ghai 8/e p 193)DTwP is composed of tetanus and diphtheria toxoids as well as killed whole cell pertussis bacilli adsorbed on insoluble aluminium salts which act as adjuvants.",
-        "cop": 3,
-        "opa": "BCG",
-        "opb": "OPV",
-        "opc": "DPT",
-        "opd": "Measles",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "3baf7b68-3a6d-4af5-aa4b-0d976dd796bb",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following diseases are covered under recently launched \"MISSION INDRADHANUSH\" program except:",
-        "exp": "a. Japanese encephalitis(Ref: Nelson's 20/e p 1627-1628, Ghai 8/e p 201). Japanese encephalitis is not included among the seven life-threatening diseases of Indradhanush (with seven colours); It is one of the additional vaccine given in selected districts. Rest 3 vaccines are given throughout the country under this programme; So, among the given options, Japanese encephalitis is the best answer to this question.",
-        "cop": 1,
-        "opa": "Japanese encephalitis",
-        "opb": "Hepatitis B",
-        "opc": "Whooping cough",
-        "opd": "Diphtheria",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "5dd8920e-4e42-4a57-9031-d79db9ef8df4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Child 1 year age came for vaccination, Polio virus, BCG at birth, what vaccine to be given below -",
         "exp": "Ans. is 'b' i. e., Measles, DPT, OPV, Hip, Hep B. o Lapsed immunization/preponed immunization/ unknown immunization status There is no need to restart a vaccine series regardless of the time that has elapsedbetween individual doses due to immune memoryio Immunizations should be given at the next visit as if the usual interval had elapsed and the immunization scheduled should be completed at the next available opportunity. o Doses should not be given 4 or less days from the minimum interval. Ifinadvertently given 5 or more days from the minimum interval, the dose shoidd not be counted. In case of unknown immunization status, the child should be considered unimmunized and vaccinated accordingly. o Self reported doses should not be accepted in the absence of documentation with the exception of Influenza and PPV vaccines. o Serologic testing is also an option in patients with uncertain status but is usually not cost effective, may reduce compliance and may result in missed opportunities for vaccination. Suggested vaccination scheudle of unimmunised children. Visit. Vaccine. Firsty Measles (MMR if > 12 months)y DTP ( DTap if > 7 years)y OPV (if less than 5 year)y Hib, (if less than 5 year)y Hep B1. Second (after 1 month of first visit)y BCG (if less than 5 year) y DPT OPVy Hep. B2y Hib2. Third (after 1 month)OPV-3. MMRTyphoid (In more than 2 year). Fouth (6th month after Ist)DPTOPV-4. Hep- B3",
         "cop": 2,
@@ -325,19 +247,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following vaccinations are administered via subcutaneous route except:",
-        "exp": "Ans. B. Hepatitis B vaccine. Hepatitis B vaccine is given via intramuscular route at birth. While at 6, 10, 14 weeks it is a component of pentavalent vaccine and that is also administered via intramuscular route.",
-        "cop": 2,
-        "opa": "Japanese encephalitis",
-        "opb": "Hepatitis B",
-        "opc": "Measles",
-        "opd": "MR",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "48c077e1-ccbb-470d-868e-cfddaddc6016",
-        "choice_type": "multi"
-    },
-    {
         "question": "Route of DPT vaccine is -",
         "exp": "Ans. is 'c' i. e., Intramuscular DPT Vaccineo DPwT: Popularly known as triple antigen, DTwP is composed of tetanus and diphtheria toxoids as well as killed whole cell pertussis bacilli adsorbed on insoluble aluminium salts which act as adjuvants. The content of diphtheria toxoid varies from 20 to 30 Lf and that of tetanus toxoid varies from 5 to 25 Lf per dose. Whole-cell pertussis vaccine is a suspension of killed B pertussis organisms. o DPaT: It is the same diphtheria and tetanus toxoid along with acellular pertussis vaccine. The high rates of side effects to these Pw vaccines directed scientists to develop a second type of vaccine, called the acellular pertussis (Pa) vaccine, composed of inactivated bacterial proteinso Dose is 0[?]5ml intramuscularly. It should be stored at 2-8 degree Celsius",
         "cop": 3,
@@ -390,19 +299,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are contraindicated during pregnancy except:",
-        "exp": "d. Rabies vaccine(Ref: IAP 334-335, Ghai 8/e p 202). Because rabies is a lethal disease there are no contraindications for post-exposure prophylaxis including infants, pregnant & lactating women.",
-        "cop": 4,
-        "opa": "Measles vaccine",
-        "opb": "Mumps vaccine",
-        "opc": "HPV vaccine",
-        "opd": "Rabies vaccine",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "9249da69-01f6-471c-b4dc-e7eeed7459e5",
-        "choice_type": "multi"
-    },
-    {
         "question": "An eight-month-old child had history of unusual crying, altered sensorium & convulsions following previous vaccination after BCG, DPT & OPV (first dose) & Hepatitis B. Now parents have brought child for next doses of vaccination. Which vaccine is contraindicated in this situation?",
         "exp": "b. DPT(Ref: IAP Guidebook on immunization 2013-2014, p 141-142). Absolute contraindications to any pertussis vaccination (including DTwP vaccine) are: history of anaphylaxis or development of encephalopathy within 7 days following previous DTwP vaccination. Events such as persistent inconsolable crying of > 3 hours duration/ hyperpyrexia (fever >40. 5degC)/ hypotonic hyporesponsive episodes (HHE) within 48 hours of DTwP administration and seizures with or without fever within 72 hours of administration of DTwP are considered as precautions but not contraindications to future doses of DTwP because these events generally do not recur with the next dose and they have not been proven to cause permanent sequelae. Progressive/evolving neurological illnesses is a relative contraindication to first dose of DTwP immunization.",
         "cop": 2,
@@ -440,19 +336,6 @@
         "topic_name": "Immunization",
         "id": "948a454c-d604-4049-a1cb-03d1769f05ed",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is called first immunization of the baby?",
-        "exp": "a. Colostrum(Ref: Ghai 8/e p 192). Colostrum is rich in immunoglobulins & other substances that protect the baby against infections; So, Colostrum is called the 'First immunization' of the baby.",
-        "cop": 1,
-        "opa": "Colostrum",
-        "opb": "Handing over the baby to mother",
-        "opc": "OPV",
-        "opd": "DPT + BCG",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "d8609000-f4eb-4715-8f71-ae69422db673",
-        "choice_type": "multi"
     },
     {
         "question": "A PHC medical officer wants to give pulse polio immunization. The following finding in the Vaccine Vial Monitor (VVM) indicates that the vaccine should not be used:",
@@ -494,58 +377,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The guidelines for immunization against infectious disease includes all of the following except:",
-        "exp": "d. Hay fever, sickle cell anemia and tuberculosis are contraindications for vaccination(Ref: Nelson's 20/e p 1564; IAP guidebook of Immunisation 2013-14, p 70). True contraindications to vaccination are: Severe allergic reaction to a vaccine component or following a prior dose of a vaccine; Encephalopathy occurring within 7 days of pertussis vaccination; Severe combined immunodeficiency (SCID) as a contraindication to rotavirus vaccine",
-        "cop": 4,
-        "opa": "Live vaccines are contraindicated in pregnant women",
-        "opb": "Live vaccines should not be administered within 3 months of giving human immunoglobulin",
-        "opc": "Inactivated vaccines should not be given if there has been significant reaction to previous dose",
-        "opd": "Hay fever, sickle cell anemia and tuberculosis are contraindications for vaccination",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "956d4197-3da2-4c51-a6b6-d51ebb92e9ff",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true regarding Hib vaccine except:",
-        "exp": "A i. e. Protects against non capsulated H. influenza disease. Ref: Indian Academy of Pediatrics Guide Book on Immunisation, 2013-14. Explanation: Hemophilus Influenzae Type B (Hib) Conjugate Vaccines. Capsulated H. influenzae has six serotypes of which type B - important invasive pathogen causing diseases such as meningitis, bacteremia, pneumonia, cellulitis, osteomyelitis, septic arthritis and epiglottitis. Natural protective immunity is acquired by the age of 3-4 years. No protection against - Non capsulated Hib disease - bronchitis, otitis media, sinusitis and some pneumonia. Vaccines should be stored at 2 to 8degC and the recommended dose is 0. 5 ml intramuscularly. 90-100% efficacy against culture proven invasive Hib disease for 1 year after vaccination. Age at initiation. No. of doses. General measures. Below 6 months. Three doses when initiated. Interval between two doses should be at least 4 weeks. Catch up vaccination - 5 years of age. Between 6 and 12 months2 doses and 1 dose between 12-15 months, with a booster at 18 months. More than 15 months. Single dose. All individuals with functional/anatomic hyposplenia irrespective of age. Vaccines recommended for functional/anatomical hypo or asplenia: 2 weeks prior to splenectomy. Hemophilus influenzae type B (hib) conjugate vaccines. Meningococcal vaccines. Pneumococcal vaccine.",
-        "cop": 1,
-        "opa": "Protects against non capsulated H. influenza disease",
-        "opb": "Catch up vaccination before 5 years",
-        "opc": "Can be given in less than 6 months",
-        "opd": "Given 2 weeks before splenectomy",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "6bda1943-9ac3-49d5-a666-526a20327d94",
-        "choice_type": "multi"
-    },
-    {
-        "question": "An event that is caused by an error in vaccine preparation, handling, or administration is called as:",
-        "exp": "d. Programme error(Ref: IAP Guidebook on immunization 2013-14/p 89). Event caused by an error in vaccine preparation, handling, or administration is called a 'Programme error', e. g. deaths following measles vaccination due to toxic shock syndrome resulting from improper reconstitution & storage of measles vaccine.",
-        "cop": 4,
-        "opa": "Coincidental event",
-        "opb": "Injection reaction",
-        "opc": "Vaccine reaction",
-        "opd": "Programme error",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "530f9add-5585-4e7c-a6ed-1a5293ef74df",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are live vaccines except:",
-        "exp": "b. Rabies(Ref: IAP 260, Nelson's 20/e p, Ghai 8/e p 202-203). For Japanese Encephalitis, Polio & Typhoid, both live & killed vaccines are available. New generation typhoid vaccines include oral live attenuated Ty21a vaccine, Parenteral Vi-polysaccharide & Vi Polysaccharide Conjugate vaccines; For Rabies, only inactivated vaccines are used.",
-        "cop": 2,
-        "opa": "Japanese encephalitis",
-        "opb": "Rabies",
-        "opc": "Poliomyelitis",
-        "opd": "Typhoid",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "462e41a2-f893-42e3-b450-13af9cebb6c8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dose of Human Rabies Immunoglobulin is:",
         "exp": "b. 20. IU/kg(Ref: Nelson's 20/e p 3450, 1642-1644, Ghai 8/e p 202-203). Human rabies immunoglobulin (HRIG--dose is 20U/kg body weight, maximum dose 1500. IU); and. Equine rabies immunoglobulin (ERIG--dose is 40U/kg, maximum dose 3000. IU)",
         "cop": 2,
@@ -572,19 +403,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is true about BCG?",
-        "exp": "d. WHO recommends Danish 1331 for vaccine production(Ref: IAP Guidebook on Immunization 2013-14; pg 113-117, Nelson's 20/e p 3212, Ghai, 8/e p 190-191). Discussing about the options one by one, Option a. False; Sterile normal saline may be used as diluent for BCGOption b. False; For BCG Vaccination, the selected site may be swabbed clean using sterile saline and local antiseptics should be avoided. Option c. False; Of BCG vaccine recipients whose initial tuberculin skin test is negative, 10%-25% will have a positive tuberculin skin test if they are retested within 1-4 weeks--the so-called \"booster phenomenon\"Option d. True; The two common strains of for use in BCG vaccine are Copenhagen (Danish 1331) and Pasteur",
-        "cop": 4,
-        "opa": "Distilled water is used as diluent",
-        "opb": "Site for injection is cleaned with spirit",
-        "opc": "Mantoux test positive in 6 weeks",
-        "opd": "WHO recommends Danish 1331 for vaccine production",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "502882d7-298a-4991-aa33-ae1a1a691e42",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which vaccines are recommended at birth as per the universal immunization programme?",
         "exp": "b. BCG & Hepatitis B(Ref: Nelson's 20/e p 3212, Ghai 8/e p 190-191). Vaccines recommended at birth as per the universal immunization programme are: BCG, OPV zero dose & Hepatitis B vaccine.",
         "cop": 2,
@@ -609,18 +427,5 @@
         "topic_name": "Immunization",
         "id": "0372cd74-c777-4720-9f02-24962f95d9db",
         "choice_type": "single"
-    },
-    {
-        "question": "True about ACELLULAR PERTUSSIS VACCINE include the following EXCEPT",
-        "exp": "Ans. b (Ref. OP Ghai 6th/pg. l94; Nelson paeds 17th /pg. 908)PERTUSSISPrevention. Universal immunization of children <7 yr of age with pertussis vaccine, beginning in infancy, is central to the control ofpertussis. Current goals of immunization are protection of the individual from a significant coughing illness and controlof endemic and epidemic disease. ACELLULAR VACCINE# Multiple diphtheria and tetanus toxoids combined with acellular pertussis (DTaP) vaccines currently are preferred over those containing whole-cell pertussis (DTP) vaccines because of fewer adverse reactions.# Recommendations for use of DTaP are similar to recommendations for use of DTP, which continues to be given to infants and children in many other countries. Acellular pertussis vaccines all contain inactivated PT and may contain one or more other bacterial components (FHA, Pn, Fim 2 and 3).# Mild local and systemic adverse events as well as more serious events occur significantly less frequently among infants who receive DTaP compared with DTP vaccine.# DTaP containing vaccines can be administered simultaneously with any other vaccines used in standard schedules for children. Combination of vaccines that include DTaP in place of DTP can affect immunogenicity of products. Local reactions increase in rate and severity with successive doses of DTaP.# The same special considerations, precautions, contraindications, and reporting requirements for serious adverse events that exist for DTP vaccination apply to DTaP as well. Acellular pertussis vaccines are now licensed for use only among children through 6 yr of age.# Live virus vaccines should be avoided in immunocompromised patients. For patients without chronic GVHD, diphtheria and tetanus toxoids, acellular pertussis (in children <7 yr of age), inactivated polio, hepatitis B, Haemophilus influenzae type b, and Streptococcus pneumoniae immunizations may be given 12 mo after transplant, and measles- mumps-rubella immunizations after 24 mo. Influenza vaccines should be given every fall.# Currently available combinations are PRP-OMP combined with hepatitis B vaccine (Comvax) and a DtaP vaccine that can be combined with PRP-T for the fourth dose only.",
-        "cop": 2,
-        "opa": "It is a toxoid",
-        "opb": "Superior to wP (whole cell pertussis vaccine)",
-        "opc": "Acellular component has same immunity as cellular one",
-        "opd": "Can be given as both primary and booster immunization",
-        "subject_name": "Pediatrics",
-        "topic_name": "Immunization",
-        "id": "6de946b3-b884-4a65-bca9-a6c164c639b3",
-        "choice_type": "multi"
     }
 ]

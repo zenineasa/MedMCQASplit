@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 25-year-old woman develops nausea, vomiting, and abdominal pain. On examination, she has tender hepatomegaly and ascites. She was recently staed on oral contraceptives. What shall be the clinical diagnosis?",
-        "exp": "Budd-Chiari syndrome: Thrombus in hepatic veins - sinusoidal pressure | - hepatomegaly - stretching of capsule - RUQ pain Causes: 1. Hematological disorder - Polycythemia vera (JAK 2 mutation) & PNH2. Protein C/S, AT III | - | clotting tendency in body3. High estrogen leads to hypercoagulable state4. Tumors - HCC, RCC, Wilm's tumor (tumor pressing hepatic vein)5. Infections - hydatid cyst6. CTD - Behcet ds, Sarcoidosis, APLAS (Anti b2 glycoprotein)- intrinsic system activation",
-        "cop": 1,
-        "opa": "Budd -Chiari syndrome",
-        "opb": "Acute Viral hepatitis",
-        "opc": "Poal Hypertension",
-        "opd": "Acute cholecystitis",
-        "subject_name": "Medicine",
-        "topic_name": "Budd chiari syndrome & Pancreatitis",
-        "id": "00d05b48-08e8-450b-96fd-49a5ad16b2fa",
-        "choice_type": "multi"
-    },
-    {
         "question": "Patient of acute pancreatitis developed sudden loss of vision the most likely cause is:",
         "exp": "Puscher's retinopathy, a relatively unusual complication, is manifested by a sudden and severe loss of vision in a patient with acute pancreatitis. It is characterized by a peculiar fundoscopic appearance with cotton-wool spots and hemorrhages confined to an area limited by the optic disc and macula it is believed to be due to occlusion of the posterior retinal aery with aggregated granulocytes.",
         "cop": 1,
@@ -63,19 +50,6 @@
         "topic_name": "Budd chiari syndrome & Pancreatitis",
         "id": "5a3d7931-371f-468e-9f43-42b66c801590",
         "choice_type": "single"
-    },
-    {
-        "question": "Criteria for severity in acute pancreatitis includes all except?",
-        "exp": "3 fold increase in serum lipase is a diagnostic criteria and not used for severity of acute pancreatitis The criteria for severity in acute pancreatitis was defined as organ failure of at least one organ system Systolic blood pressure <90 mm Hg Pa. O2 < 60 mm Hg Creatinine >2. 0 mg/dL after rehydration Gastrointestinal bleeding > 500 mL/24 hours Local complication such as necrosis, pseudocyst, and abscess The diagnosis of acute pancreatitis requires two of the following: Typical abdominal pain 3 fold or greater, elevation in serum amylase and/or lipase level Confirmatory findings on cross-sectional abdominal imaging. Management of Acute pancreatitis: IV fluid resuscitation & IV analgesia with opiates are main components of the first line of management in acute pancreatitis.",
-        "cop": 1,
-        "opa": "3 fold increase in serum lipase",
-        "opb": "Serum creatinine > 2. 0mg%",
-        "opc": "Pa. O2< 60mm. Hg",
-        "opd": "SBP<90",
-        "subject_name": "Medicine",
-        "topic_name": "Budd chiari syndrome & Pancreatitis",
-        "id": "62671e9d-6467-4720-81c2-4f2006495db6",
-        "choice_type": "multi"
     },
     {
         "question": "Causes of acute pancreatitis are A/E?",
@@ -128,44 +102,5 @@
         "topic_name": "Budd chiari syndrome & Pancreatitis",
         "id": "5e0d391d-a258-419b-a64e-14a80df934c9",
         "choice_type": "single"
-    },
-    {
-        "question": "All of following are used for routine medical treatment of acute pancreatitis except?",
-        "exp": "85-90% of cases of acute pancreatitis are self-limited and subside spontaneously, usually within 3-7 days after initiation of treatment, and do not exhibit organ failure or local complications. The most impoant treatment intervention for acute pancreatitis is safe, aggressive intravenous fluid resuscitation (Ringer Lactate or Normal Saline) Intravenous narcotic analgesics (Opiates) are given to control abdominal pain Supplemental oxygen is given nasal cannula. Gabexate mesilate is a synthetic serine protease inhibitor used to prevent or treat acute pancreatitis in adult patients. However this drug is not used for routine medical treatment of acute pancreatitis",
-        "cop": 4,
-        "opa": "Ringers Lactate",
-        "opb": "Normal Saline",
-        "opc": "IV opiates",
-        "opd": "Gabexate mesilate",
-        "subject_name": "Medicine",
-        "topic_name": "Budd chiari syndrome & Pancreatitis",
-        "id": "a441ab5d-8c8a-409e-82c8-287d1c2eb8a2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is false regarding hereditary pancreatitis?",
-        "exp": "Hereditary pancreatitis: Early age of onset Hereditary pancreatitis gene is located on chromosome 7. Mutations in ion codons 29 (exon 2) and 122 (exon 3) of the cationic trypsinogen gene Autosomal dominant pattern C/F- Recurring attacks of severe abdominal pain Patients frequently develop pancreatic calcification, diabetes mellitus, and steatorrhea Increased incidence of pancreatic carcinoma Serum amylase and lipase levels may be elevated during acute attacks but are usually normal.",
-        "cop": 2,
-        "opa": "Mutation of cationic trypsinogen gene",
-        "opb": "Autosomal recessive inheritance",
-        "opc": "Hereditary pancreatitis is associated with chromosome 7",
-        "opd": "Increased risk of pancreatic cancer",
-        "subject_name": "Medicine",
-        "topic_name": "Budd chiari syndrome & Pancreatitis",
-        "id": "e13f0eab-efed-4e18-8e5d-344b011b507c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Diabetic ketoacidosis mimics acute pancreatitis in all findings except:",
-        "exp": "Diabetic ketoacidosis is often accompanied by abdominal pain and elevated total serum amylase levels, thus closely mimicking acute pancreatitis. However, the serum lipase level is not elevated in diabetic ketoacidosis. Hyperglycemia is common and is due to multiple factors, including decreased insulin release, increased glucagon release, and an increased output of adrenal glucocoicoids and catecholamines.",
-        "cop": 2,
-        "opa": "Elevated amylase",
-        "opb": "Elevated lipase",
-        "opc": "Abdominal pain",
-        "opd": "Hyperglycemia",
-        "subject_name": "Medicine",
-        "topic_name": "Budd chiari syndrome & Pancreatitis",
-        "id": "d78e8d04-7280-44a5-913a-98f8d7cbecc4",
-        "choice_type": "multi"
     }
 ]

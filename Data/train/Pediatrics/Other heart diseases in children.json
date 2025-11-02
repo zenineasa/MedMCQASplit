@@ -1,18 +1,5 @@
 [
     {
-        "question": "A 5-month-old pale and lethargic male infant is brought to emergency. On examination, HR is 240 bpm and it does not change with crying. Lungs are clear and no hepatomegaly present. His ECG is given below. Which of the following is the first step in management of this patient?",
-        "exp": "ECG s/o Supraventricular tachycardia Characterized by rapid heart rate (about 250 beats per minute)and a consistent P wave for each QRS complex. Prolonged SVT can lead to heart failure with hepatomegaly and respiratory compromise. Fetal SVT can lead to hydrops fetalis. The first-line treatment is to stimulate the vagus nerve using techniques such as carotid massage, immersion of the face in cold water, or voluntary straining. Rapid infusion of IV adenosine can affect resolution if the maneuvers are not successful. Verapamil is contraindicated in this age group, as it may cause acute hypotension and cardiac arrest. Synchronized DC cardioversion may be performed in patients in shock or with heart failure; it must, however, be synchronized to the QRS complex. Transthoracic pacing is useful in bradyarrhythmias.",
-        "cop": 3,
-        "opa": "Rapid verapamil infusion",
-        "opb": "Transthoracic pacing of the heart",
-        "opc": "Carotid massage",
-        "opd": "DC cardioversion",
-        "subject_name": "Pediatrics",
-        "topic_name": "Other heart diseases in children",
-        "id": "105454a5-a5d9-4b04-9d3d-ab1d3d30a2a1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following can present with congestive failure at bih:-",
         "exp": "TIME OF ONSET OF HEART FAILURE IN DIFFERENT CONGENITAL ABNORMALITIES:",
         "cop": 3,
@@ -24,19 +11,6 @@
         "topic_name": "Other heart diseases in children",
         "id": "b197f6b9-c083-4991-b3cc-c299e811d8d4",
         "choice_type": "single"
-    },
-    {
-        "question": "chest x- ray shows the following finding. What is the diagnosis?",
-        "exp": "--> Given x-ray is showing \" FIGURE OF 8 \" / \"SNOW MAN\" appearance --> Characteristic feature of supracardiac TAPVC --> TAPVC: In this condition, Pulmonary veins instead of draining into left atrium, anomalously drains into the right atrium directly/indirectly 3 types based on level of its drain Supracardiac (MC) --> Drain above level of heart in superior vena cava --> Non-obstructive Cardiac --> Drain at level of heart directly into right atrium or coronary sinus Infracardiac --> Drain below level of heart - IVC/ hepatic vein/ poal vein (always obstructive). X-ray shows\" Ground glass \" appearance --> Treatment: Surgery OTHER OPTIONS: --> Boot shaped heart/ cor en sabot appearance --> Tetralogy of fallot --> Left axis detion on ECG + congenital cyanotic heart disease --> Tricuspid atresia",
-        "cop": 4,
-        "opa": "Tetralogy of fallot",
-        "opb": "Tricuspid atresia",
-        "opc": "Truncus aeriosus",
-        "opd": "Total Anomalous pulmonary venous return",
-        "subject_name": "Pediatrics",
-        "topic_name": "Other heart diseases in children",
-        "id": "82858031-9de3-4fdb-b18e-069816662749",
-        "choice_type": "multi"
     },
     {
         "question": "A 3-month-old child has a typical mewing cry and a congenital heart disease. The most probable chromosomal abnormality is:",
@@ -65,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A two-month-old infant is brought to emergency depament with marked respiratory distress. On examination, the infant has cyanosis and bilateral crepitations. Heart rate is 180/min, respiratory rate 56/min and the liver span 7. 5 cm. The child had repeated episodes of fever, cough and respiratory distress since the time of bih. Cardiovascular examination reveals a grade III ejection systolic murmur in left para-sternal area and the chest X-ray reveals cardiomegaly with a narrow base and plethoric lung fields. What is the most likely diagnosis?",
-        "exp": "- In the given case scenario, infant has features of heart failure, cyanosis with repeated episodes of pneumonia suggesting increased pulmonary blood flow. - These clinical features along with the chest X ray findings are suggestive of Transposition of great aeries. - ON X-RAY: 'Egg on side' or 'Egg on string' appearance is characteristic of transposition of great aeries Other options: Congenital methemoglobinemia: Inherited in autosomal recessive pattern Diagnosed by genetic testing/ blood tests CYSTIC FIBROSIS: Mutation in gene encoding for CFTR - Located on long arm of chromosome 7 Presents with recurrent bronchiolitis in infancy, recurrent lower resp tract infections, bronchiectasis, steatorrhea, pancreatitis & azoospermia Diagnosed by presence of typical phenotype/ family history & confirmed by high sweat chloride on atleast 2 occasions/ by identifying mutation in both copies of CFTR TOF: Doesn't present with cyanosis at bih. X-ray shows Boot shaped heart.",
-        "cop": 2,
-        "opa": "Congenital methemoglobinemia",
-        "opb": "Transposition of great aeries",
-        "opc": "Cystic fibrosis",
-        "opd": "Tetralogy of Fallot",
-        "subject_name": "Pediatrics",
-        "topic_name": "Other heart diseases in children",
-        "id": "0382aecd-0539-4730-8791-0b65a94aae85",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the minimal internal diameter of giant coronary aneurysm in children with Kawasaki disease which pose highest risk for ruptures, thrombosis, stenosis and myocardial infarction?",
         "exp": "--> Giant coronary aery aneurysms (classic definition of > 8 mm internal diameter) pose the greatest risk for rupture, thrombosis or stenosis, and myocardial infarction",
         "cop": 1,
@@ -102,32 +63,6 @@
         "topic_name": "Other heart diseases in children",
         "id": "12bc67bc-3185-4ec0-ba6e-5e68c692e61d",
         "choice_type": "single"
-    },
-    {
-        "question": "A 2-month-old baby with central cyanosis presented with the following findings on chest X-ray & ECG. What is the most probable underlying diagnosis?",
-        "exp": "- Given ECG is showing Himalayan P waves & x-ray is showing Box shaped heart - features of Ebstein anomaly. EBSTEIN ANOMALY: - Downward displacement of posterior & septal leaflets of Tricuspid valve resulting in atrialization of right ventricle. - Huge cardiomegaly, especially of Rt atrium is seen - ECG: very tall & broad P waves seen d/t enlarged atria. These P waves look like a mountain; hence called 'Himalayan' p waves",
-        "cop": 4,
-        "opa": "Tetralogy of Fallot",
-        "opb": "Hypoplastic left heart syndrome",
-        "opc": "Coarctation of aoa",
-        "opd": "Ebstein anomaly",
-        "subject_name": "Pediatrics",
-        "topic_name": "Other heart diseases in children",
-        "id": "13c96b6c-c145-4d2d-a57b-438aea0441c2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In a 5 year old child, instead of the physiological splitting of second heart sound which is expected only during inspiration, a wide and a fixed split of S2 is heard during both inspiration as well as expiration. Wide fixed split of second heart sound can be seen in all of the following EXCEPT?",
-        "exp": "--> Normally, S2 is single during expiration & split during inspiration with louder A2 preceding P2 --> Wide splitting: - S2 splitting d/t early A2 or late P2 resulting in A2-P2 interval > 0. 03 sec during expiration. If the splitting interval increases during inspiration, it is wide variable splitting of S2. Seen in Pulmonic stenosis Mitral regurgitation Ventricular septal defect If the interval is same in inspiration & expiration, it is wide & fixed splitting of S2. Seen in Atrial septal defect Right Bundle Branch Block Total Anomalous Pulmonary Venous Connection",
-        "cop": 2,
-        "opa": "Atrial septal defect",
-        "opb": "Ventricular septal defect",
-        "opc": "Right bundle branch block",
-        "opd": "Total Anomalous pulmonary venous connection",
-        "subject_name": "Pediatrics",
-        "topic_name": "Other heart diseases in children",
-        "id": "67ca3c7b-57f2-407f-b274-edb19eb241ea",
-        "choice_type": "multi"
     },
     {
         "question": "Commonest cause of heart failure in infancy is:",
@@ -169,32 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Ductus dependent blood flow is required for all of the following congenital heart disease except:-",
-        "exp": "DUCTUS DEPENDENT CONDITIONS: --> Conditions which depend on a patent ductus aeriosus (PDA) to supply pulmonary or systemic blood flow. Systemic circulation Pulmonary circulation - Critical Aoic Stenosis - Severe coarctation of aoa - Interrupted aoic arch - Hypoplastic Left Heart Syndrome -Severe Pulmonary Stenosis - Severe TOF - Pulmonary atresia - Tricuspid atresia - Ebstein anomaly DUCTUS INDEPENDENT CONDITIONS: - Truncus aeriosus - TAPVC - ALCAPA",
-        "cop": 4,
-        "opa": "Hypoplastic left heart syndrome",
-        "opb": "Pulmonary stenosis",
-        "opc": "TGA with intact ventricular septum",
-        "opd": "Persistent truncus aeriosus",
-        "subject_name": "Pediatrics",
-        "topic_name": "Other heart diseases in children",
-        "id": "dead4414-9a1c-47ce-aa6f-f52d2d6f09f2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are signs of congestive cardiac failure in infants except?",
-        "exp": "CONGESTIVE CARDIAC FAILURE: --> Inability of heart to maintain cardiac output, necessary to meet metabolic needs of the body. --> SIGNS OF CCF: LEFT SIDED FAILURE FAILURE OF EITHER SIDE RIGHT SIDED FAILURE Tachypnea Cardiac Enlargement Hepatomegaly Tachycardia Gallop rhythm ( S3 ) Facial Edema Cough Peripheral cyanosis Jugular venous enlargement Wheezing Small volume pulse Pedal edema Rales in chest Lack of weight gain",
-        "cop": 3,
-        "opa": "Gallop rhythm ( S3)",
-        "opb": "Lack of weight gain",
-        "opc": "Large volume pulse",
-        "opd": "peripheral cyanosis",
-        "subject_name": "Pediatrics",
-        "topic_name": "Other heart diseases in children",
-        "id": "9fda4f2e-e607-497a-a804-b1f387a9d3fa",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common gene involved in Noonan syndrome",
         "exp": "NOONAN SYNDROME: - Autosomal dominant, Normal karyotype - MC gene involved --> PTPN 11 - Seen in both boys & girls --> FEILE - FEATURES: Sho stature webbed neck Anti-mongoloid slant eyes (Opposite of Down syndrome) Cubitus valgus Clinodactyly, Cryptorchidism cardiac anomalies: Supra valvular Pulmonary Stenosis -->, HOCM, ASD Presence of Intellectual disability",
         "cop": 2,
@@ -206,19 +115,6 @@
         "topic_name": "Other heart diseases in children",
         "id": "5041af6f-2dee-4e57-ad4a-f8291de7f3d9",
         "choice_type": "single"
-    },
-    {
-        "question": "Ductus aeriosus dependent blood flow is mandatory in all of the following congenital heart diseases EXCEPT:",
-        "exp": "- In Truncus aeriosus, both the aoa and pulmonary aery arise from a common large blood vessel. - So there is already complete mixing of systemic and pulmonary circulations; fuher mixing is not necessary. Hence it is ductus independent. - In all other given options, mixing of pulmonary systemic circulations is necessary to maintain relatively better oxygenation. Thus, dependent on ductus",
-        "cop": 1,
-        "opa": "Truncus aeriosus",
-        "opb": "Hypoplastic left heart syndrome",
-        "opc": "TGA with Intact ventricular septum",
-        "opd": "Obliterated aoic arch",
-        "subject_name": "Pediatrics",
-        "topic_name": "Other heart diseases in children",
-        "id": "e5a397e2-567c-4218-9f15-bd008f4323f7",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not a major criteria in NADA's criteria-",
@@ -258,19 +154,6 @@
         "topic_name": "Other heart diseases in children",
         "id": "b408fcd1-4023-48e8-b29a-4fe2738d415f",
         "choice_type": "single"
-    },
-    {
-        "question": "A five-day-old, full term male infant was severely cyanotic at bih. His chest X ray showed 'Egg-on -side' appearance. Prostaglandin E1 was administered initially and later balloon atrial septosomy was done which showed improvement in oxygenation. The most likely diagnosis of this infant is:",
-        "exp": "- Given features suggests towards diagnosis of TGA Transposition of the great vessels with an intact ventricular septum presents with early cyanosis, normal-sized heart, normal or slightly increased pulmonary vascular markings, and an ECG showing right-axis detion and right ventricular hyperophy - Balloon atrial septostomy: Helpful in a baby with TGA with intact ventricular septum for initial stabilization, It creates a communication between the left and right atria - helps in mixing blood of systemic and pulmonary circulations & maintain relatively better oxygenation. -TREATMENT OF TGA: PGE1 analogue - Keep ductus aeriosus open Balloon atrial septostomy / Rashkind procedure - Emergency procedure Aerial switch operation / Jatene's repair - Definitive surgery",
-        "cop": 2,
-        "opa": "Tetralogy Fallot",
-        "opb": "Transposition of great vessels",
-        "opc": "Truncus aeriosus",
-        "opd": "Tricuspid atresia",
-        "subject_name": "Pediatrics",
-        "topic_name": "Other heart diseases in children",
-        "id": "57a78816-abea-4070-b25e-b311610691ee",
-        "choice_type": "multi"
     },
     {
         "question": "Cyanotic heart disease with left axis detion is:-",

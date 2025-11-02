@@ -1,18 +1,5 @@
 [
     {
-        "question": "In a surgical post-op ward, a patient developed wound infection. Subsequently 3 other patients Developed similar infections in the ward. What is the most effective way of preventing the spread of infection?",
-        "exp": "Ans. (b) Proper hand washing of all ward personnel. Avoidance of Surgical Site infections between the patients:* Staff should wash in between the patients* Length of stay must be kept to minimum* Preoperative shaving may be avoided if possible or must be done immediately before operation.* Antiseptic Skin preparation should be standardized.* Sterile technique in theatre.* Avoid hypothermia preoperatively and supplement oxygen during recovery.",
-        "cop": 2,
-        "opa": "Give IV antibiotics to all patients in the ward",
-        "opb": "Proper hand washing of all ward personnel",
-        "opc": "Fumigation of the ward",
-        "opd": "Wash OT instruments with 1% perchlorate",
-        "subject_name": "Surgery",
-        "topic_name": "Infection",
-        "id": "c7b54ee3-5a39-43b7-893b-e5dfc84e11cc",
-        "choice_type": "multi"
-    },
-    {
         "question": "'Gas' in the tissue should be differenciates with:",
         "exp": "(Clostridium novyi) (124-Baily & Love 24th) (CSDT 12th) (109) (422-Baily & Love 25th)GAS - GANGRENE - caused by Clostridium perfringens* Gas and smell (mousy odour) are characteristic and crepitus.* Immunocompromised patients are most at risk.* Antibiotic prophylaxis is essential when performing amputation to remove dead tissues. 'Gas' in the tissue is not a good differentiating point since some clostridial species do not produce gas (clostri novyi) since non clostridial organisms often produce gas (E. coli) and since air can enter tissues through a penetrating wound.",
         "cop": 3,
@@ -37,18 +24,5 @@
         "topic_name": "Infection",
         "id": "a3dafca7-c549-48f8-a68f-eaa6ab5ccf3a",
         "choice_type": "single"
-    },
-    {
-        "question": "Anerobic infection is precipitated by",
-        "exp": "Ans. d (All). (Ref. Harrison's Principles Medicine, 18th / Ch. 31; Table 32-1)# Anaerobic organisms grow well when the oxygen free environment is available.# Impaired circulation due to trauma or some other reason leads to tissue necrosis if the impairment of circulation is severe and traumatized contaminated wound as such is also prone for the same, leading ultimately to anaerobic infection. Also remember: Acute necrotizing ulcerative gingivitis (ANUG) or Vincent's infection is caused by mixed anaerobes. Stress, poor oral hygiene, and tobacco and alcohol use are risk factors. This infection most commonly follows a debilitating illness or affects severely malnourished children. It has been known to complicate leukemia or to develop in individuals with a genetic deficiency of catalase. Peritonsillar abscess (quinsy) is a complication of acute tonsillitis caused mainly by a mixed flora containing anaerobes and group A Streptococcus. In submandibular space infection (Ludwig's angina), 80% of cases are caused by infection of the tissues surrounding the second and third molar teeth. This infection results in marked local swelling of tissues, with pain, trismus, and superior and posterior displacement of the tongue. Submandibular swelling of the neck can impair swallowing and cause respiratory obstruction. In some cases, tracheostomy may be life-saving. Cervicofacial actinomycosis is caused by a branching, gram-positive, non-spore-forming, strict/facultative anaerobe that is a part of the normal oral flora. This chronic disease is characterized by abscesses, draining sinus tracts, fistula, bone destruction, and fibrosis. It can easily be mistaken for malignancy or granulomatous disease. Actinomycosisless frequently involves the thorax, abdomen, pelvis, and CNS.",
-        "cop": 4,
-        "opa": "Trauma",
-        "opb": "Impaired circulation",
-        "opc": "Tissue necrosis",
-        "opd": "All",
-        "subject_name": "Surgery",
-        "topic_name": "Infection",
-        "id": "719f8213-ccdb-4054-b7e7-167d9a2e7349",
-        "choice_type": "multi"
     }
 ]

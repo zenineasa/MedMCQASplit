@@ -156,45 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 30 year old lady with crush injury was admitted to the casualty. Her urobag shows 100ml red colour urine. ECG is shown below. All are indicated for this patient except?",
-        "exp": "Crush injury with Red color urine indicates | Myoglobinuria (Rhabdomyolysis) In ECG, Hyperkalemia Tall tented T waves Broad complex QRS Option A: Because of acute tubular necrosis due to myoglobinuria -Rx- Hemodialysis Option B: Furosemide for Hyperkalemia Option C: Calcium chloride for Hyperkalemia Option D: Magnesium sulfate not given in Hyperkalemia",
-        "cop": 4,
-        "opa": "Hemodialysis",
-        "opb": "Furosemide drip",
-        "opc": "Calcium chloride",
-        "opd": "Magnesium sulfate",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 3",
-        "id": "fdd4c390-d698-41fb-afd0-741600ee714b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about ECG changes include all except: -",
-        "exp": "Hypokalemia- prominent U wave Hyperkalemia-tenting of T wave Hypocalcemia-prolonged QT interval",
-        "cop": 3,
-        "opa": "Hypokalemia- U wave",
-        "opb": "Hyperkalemia-Tall T waves",
-        "opc": "Hyponatremia- Q waves",
-        "opd": "Hypocalcemia- Prolonged QT interval",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 3",
-        "id": "bf2e56a4-48d5-4f15-bc56-32d35af4469c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Atrial fibrillation may occur in all the following conditions, except?",
-        "exp": "Option A: MS -Trigger A. fibrillation. Option B: Hypothyroidism -Low voltage ECG, bradycardia, pericardial effusion. Option C: DCM -Damage to LA & RA - A. fibrillation Option D: MR- Leakage blood from LV to LA-trigger A. fibrillation.",
-        "cop": 2,
-        "opa": "Mitral stenosis",
-        "opb": "Hypothyroidism",
-        "opc": "Dilated cardiomyopathy",
-        "opd": "Mitral regurgitation",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 3",
-        "id": "7f01cfb9-2137-434e-95f8-b74c0f4b0e8a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common arrhythmia:",
         "exp": null,
         "cop": 3,
@@ -206,19 +167,6 @@
         "topic_name": "ECG and Arrhythmia 3",
         "id": "92423aae-d9e4-44de-8224-e65755bcf1e4",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following features given below suggest broad complex ventricular tachycardia except:",
-        "exp": "Ventricular Tachycardia -Independent P waves - lack of coordination between atria - ventricles ECG features of Ventricular tachycardia 1. Premature Ventricular Contractions > 3 consecutive contractions 2. HR > 100 / min 3. Broadening of QRS duration 4. Josephson sign 5. Capture Beats 6. P waves walking through the tachycardia rsR' pattern - RBBB - Aberrancy, not VT ECG - Ventricular tachycardia P waves independent of QRS complexes Fusion and capture beat Josephson sign",
-        "cop": 2,
-        "opa": "P waves on ECG, 'walking through the tachycardia'",
-        "opb": "QRS duration shoens",
-        "opc": "Capture beats",
-        "opd": "RBBB with small R wave and a large R' wave in V1",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 3",
-        "id": "29f5e403-e738-4259-aed8-7f963c7ff7ad",
-        "choice_type": "multi"
     },
     {
         "question": "Mrs Sharma, a retired government officer has recently been diagnosed with non-valvular atrial fibrillation. When considering the need for staing anti-coagulation therapy which scoring system can be used to calculate her percentage 1 year risk of developing a major bleed?",
@@ -245,19 +193,6 @@
         "topic_name": "ECG and Arrhythmia 3",
         "id": "66892502-a01a-47f9-a88a-7eed7f170ca7",
         "choice_type": "single"
-    },
-    {
-        "question": "A 46-year-old smoker presents in an ED with a sharp, left sided chest pain. The pain is not focal. On physical examination, there is no specific finding. Pain is neither aggravated nor relived with change of postural change and with inspiration. On an ECG, anterior ST elevation can be seen. What shall be the next step in management?",
-        "exp": "As the patient comes with acute chest pain, and ECG shows anterior MI, pericarditis is ruled out. Ischemia must be urgently ruled out. When ECG is non diagnostic, abnormalities of wall motion can be seen on echocardiography. It helps in aiding whether patient needs a fibrinolytic therapy or percutaneous coronary intervention ). It can't differentiate acute STEMI and old myocardial scar. It is a screening modality in emergency depament.",
-        "cop": 4,
-        "opa": "Activation of the primary angioplastyteam",
-        "opb": "Await troponin tests and give analgesia",
-        "opc": "Non-steroidal anti-inflammatory analgesia",
-        "opd": "Urgent bedside echo to rule out a regional wall motion abnormality",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 3",
-        "id": "e6a2e867-3706-45d6-b2d0-18bd60878d25",
-        "choice_type": "multi"
     },
     {
         "question": "Feature of Torsades de pointes is?",

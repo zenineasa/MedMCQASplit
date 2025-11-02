@@ -1,18 +1,5 @@
 [
     {
-        "question": "The false statement associated with Kaposi's sarcoma is:",
-        "exp": "Kaposi sarcoma, a vascular tumor, induced by HHV 8. The lesions of KS are characterized by the proliferation of spindle-shaped cells that express markers of both endothelial cells and smooth muscle cells. There is also a profusion of slit like vascular spaces, suggesting that the lesions may arise from primitive mesenchymal precursors of vascular channels. KS lesions display chronic inflammatory cell infiltrates. Solid organ transplant (SOT) patients are highly susceptible to development of KS Kaposi's sarcoma is 550-1000 times M/C among SOT recipients than in normal population Mainstay treatment active Retroviral therapy.",
-        "cop": 4,
-        "opa": "Caused by human herpes virus 8",
-        "opb": "Seen in immune suppressed persons",
-        "opc": "Proliferative tumor of the blood vessels",
-        "opd": "Surgery is the treatment of choice",
-        "subject_name": "Pathology",
-        "topic_name": "Immunodeficiency Disorders",
-        "id": "5b02dca8-07c2-4806-a2e2-06c3c16f7a3f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following immunoglobulin is absent in Ataxia telangiectasia:",
         "exp": "Ataxia telangiectasia (AT) Present in the first decade of life with progressive telangiectatic lesions associated with deficits in cerebellar function and nystagmus. There is a high incidence of recurrent pulmonary infections (bronchiectasisQ) and neoplasms of the lymphatic and reticuloendothelial system. It is caused due to defect in DNA repair genes Thymic hypoplasia with cellular and humoral (Ig. AQ and Ig. G2) immunodeficiencies, premature aging and endocrine disorders such as insulin resistance or type-I DM The most striking neuropathologic changes include loss of Purkinje, granule and basket cells in the cerebellar coex as well as of neurons in the deep cerebellar nuclei. A poorly developed or absent thymus gland is the most consistent defect of the lymphoid system.",
         "cop": 3,
@@ -65,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In an AIDS patient chorioretinitis is typically caused by:",
-        "exp": "Cytomegalovirus It may cause disseminated disease, although, more commonly, it affects the eye and gastrointestinal tract. Chorioretinitis was seen in approximately 25% of patients before the advent of HAA, but this has decreased dramatically after the initiation of HAA. Cytomegalovirus retinitis occurs almost exclusively in patients with CD4+ T cell counts less than 50 per microliter. Cryptococcosis Meningitis is the major clinical manifestation of cryptococcosis Toxoplasma gondii It causes encephalitis and is responsible for 50% of all mass lesions in the central nervous system.",
-        "cop": 1,
-        "opa": "Cytomegalovirus",
-        "opb": "Toxoplasma gondi",
-        "opc": "Cryptococcus neoformans",
-        "opd": "Histoplasma capsulatum",
-        "subject_name": "Pathology",
-        "topic_name": "Immunodeficiency Disorders",
-        "id": "2feb7a9b-3d22-42ce-9014-af8ae2112cdc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common malignancy in AIDS:",
         "exp": "AIDS-defining malignancies: Kaposi sarcoma (m/c) B- cell Lymphoma Cervical cancer in women / Anal cancer in women",
         "cop": 1,
@@ -128,18 +102,5 @@
         "topic_name": "Immunodeficiency Disorders",
         "id": "c728c27e-e466-417a-ad4a-cdbc1f336eed",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following methods are used for the diagnosis of HIV infection in a 2 months old child, except:",
-        "exp": "HIV ELISA is required for detection of antibodies against the virus. The antibodies may be present in the infant because of maternal infection also because IgG antibodies can cross the placental barrier. So, this test is not reliable for diagnosis of HIV in a 2 month old child. HIV culture method is called as 'peripheral blood mononuclear cells' (PBMC) using the virus microculture in macrophages concept. PBMC are drawn in high concentration from centrifugation of freshly drawn anticoagulated venous blood. HIV-1 PCR and p24 antigen assay are standard techniques used for viral detection in infants and children. HIV-1 PCR detects both RNA and proviral DNA with sensitivity and specificity of more than 98%.",
-        "cop": 3,
-        "opa": "HIV-1 PCR",
-        "opb": "Viral culture",
-        "opc": "HIV ELISA",
-        "opd": "p24 antigen assay",
-        "subject_name": "Pathology",
-        "topic_name": "Immunodeficiency Disorders",
-        "id": "44e81922-0b11-4350-ae6a-81f87440161c",
-        "choice_type": "multi"
     }
 ]

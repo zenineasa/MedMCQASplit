@@ -130,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Lucid Interval is seen in?",
-        "exp": "ANSWER: (A) Extradural hemorrhage. REF: Bailey and love 25tn edition page 303, Schwartz's Principles of Surgery 9th edition chapter 42. Neurosurgery, \"The classical presentation of an EDH, occurring in less than one-third of cases, is initial injury followed by a lucid interval when the patient complains of a headache but is fully alert and orientated with no focal deficit. After minutes or hours a rapid deterioration occurs, with contralateral hemiparesis, reduced conscious level and ipsilateral pupillary dilatation as a result of brain compression and herniation\"",
-        "cop": 1,
-        "opa": "Extradural hemorrhage",
-        "opb": "Subdural hemorrhage",
-        "opc": "Subarachnoid hemorrhage",
-        "opd": "All of these",
-        "subject_name": "Surgery",
-        "topic_name": "Head Injury",
-        "id": "ba803621-32f0-4637-a09e-4f6f48664a09",
-        "choice_type": "multi"
-    },
-    {
         "question": "Best prognostic factor for head injury is:",
         "exp": "Ans is 'a' ie. Glasgow coma scale Repeat from All India 07. Harrison writes- \" In severe head injury, eye opening, the best motor response of the limbs, and verbal output have been found to be roughly predictive of outcome; these are summarized using the ' Glasgow coma scale \"Glasgow coma scale is used to determine the conscious level of the patient. Ranges from 3 to 15. A score of 7 or less is classed as comaA score of 9 or more excludes coma",
         "cop": 1,
@@ -167,18 +154,5 @@
         "topic_name": "Head Injury",
         "id": "ce864269-3322-4730-ba37-40122cffc203",
         "choice_type": "single"
-    },
-    {
-        "question": "All are components of GCS EXCEPT:",
-        "exp": "ANSWER: (B) Respiration. REF: Harrison 18t ed table 267-1. GLASGOW COMA SCALE 123456. Eyes. Does not open eyes. Opens eyes in response to painful stimuli. Opens eyes in response to voice. Opens eyes spontaneouslyN/AN/AVerbal. Makes no sounds. Incomprehensiblesounds. Uttersinappropriatewords. Confused, disoriented. Oriented, conversesnormallyN/AMotor. Makes no movements. Extension to painful stimuli (decerebrate response). Abnormal flexion to painful stimuli (decorticate response). Flexion/ Withdrawal to painful stimuli. Localizespainfulstimuli. Obeyscommands. The scale comprises three tests: eye, verbal and motor responses. The three values separately as well as their sum are considered. The lowest possible GCS (the sum) is 3 (deep coma or death), while the highest is 15 (fully awake person).",
-        "cop": 2,
-        "opa": "Eye opening",
-        "opb": "Respiration",
-        "opc": "Conversation",
-        "opd": "Motor response",
-        "subject_name": "Surgery",
-        "topic_name": "Head Injury",
-        "id": "19304004-9a31-4c89-aefa-7e77073e0624",
-        "choice_type": "multi"
     }
 ]

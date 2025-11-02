@@ -104,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Okazaki fragments are formed during -",
-        "exp": "Ans. is 'c' i. e., DNA replication o DNA polymerases responsible for copying the DNA templates are only able to \"read\" the parental nucleotide sequence in 31 - 51 direction, and they synthesize the new DNA strands only in 51 - 31direction. o Therefore, 2 newly synthesized chains must grow in opposite directions. The DNA chain which runs in the 31-51 direction towards replication fork as continued strand is called leading strand. This requires only one RNA primer. The DNA chain which runs in the 51-31 direction away from replication fork is called lagging strand. It is synthesized discontinously and requires numerous RNA primers. As the replication fork moves, RNA primers are synthesized at specific intervals. These RNA primers are extended by DNA polymerase III into short pieces of DNA called Okazaki fragments.",
-        "cop": 3,
-        "opa": "Transcription",
-        "opb": "Translation",
-        "opc": "DNA replication",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "DNA Replication",
-        "id": "5bd408d8-6787-4378-af46-5ac97e42d51d",
-        "choice_type": "multi"
-    },
-    {
         "question": "The usual sequence of cell cycle -",
         "exp": "Ans. is 'a' i. e., G0-G1-S-G2-M o In cell, the replication of the DNA occurs only at a specific time during the life of the cell. This period is referred to as the synthetic phase. The various phases of cell cycle are (in sequence) G0 - G1 - S - G2 - M.# G1: Presynthetic phase/interval.# S: Synthetic phase (DNA synthesis).# G2: Post synthetic phase/premitoic phase/interval.# M: Mitotic phase: Cells are produced which either directly reenter next cycle or pass into non proliferative G0 phase.# G0: Quiescent state. o There are two resting phases and two active phases in the cycle.# Resting phases -G1 & G2.# Active phases1) S-phase (synthetic phase) - As the name suggests, synthesis of new DNA takes place, i. e. doubling of DNA occurs. 2) IM-phase (mitotic phase) - Mitosis takes place and the daughter cells recieve one copy of DNA. In this phase, cell number is doubled. o The duration of cell cycle and its stages varies greatly between cell types. The time taken for S, G2 and M phases are similar for most cell types, occupying about 6, 4 and 2 hours respectively whereas the duration of G1 shows cosiderable variation as short as 2 hours in rapidly dividing cells i. e. embryonic tissue or longer than 12 hours in some adult tissue. G1 phase is most variable because, in this phase cell are not committed to DNA replication, can enter resting state or progress to next cell division. o In mammals because of the time required for a cell to progress of S-phase through mitosis from begining is typically 12-24 hours irrespective of duration of G1 phase; almost all the variation in proliferating rates are attributable to the amount of time spent in G1/Go state.",
         "cop": 1,
@@ -128,19 +115,6 @@
         "topic_name": "DNA Replication",
         "id": "c1a795b6-ccea-42c0-b7cf-ce26d9afad2e",
         "choice_type": "single"
-    },
-    {
-        "question": "During DNA replication, Okazaki fragments are seen in relation to:",
-        "exp": "Ans: B (Lagging strand) Ref: Harpers Illustrated Biochemistry, 29th edition. Explanation: DNA SYNTHESIS and REPLICATIONSteps Involved in DNA Replication: 1. Identification of the origins of replication2. Unwinding (denaturation) of ds. DNA to provide an ss. DNA template3. Formation of the replication fork4. Initiation of DNA synthesis and elongation5. Formation of replication bubbles with ligation of the newly synthesized DNA segments6. Reconstitution of chromatin structure. Classes of Proteins Involved in Replication. Protein. Function. DNA polymerases. Deoxynucleotide polymerization. Helicases. Processive unwinding of DNATopoisomerases. Relieve torsional strain that results from helicase-induced unwinding. DNA primase. Initiates synthesis of RNA primers. Single-strand binding proteins. Prevent premature reannealing of ds. DNADNA ligase. Seals the single strand nick between the nascent chain and Okazaki fragments on lagging strand. The Origin of Replication. At the origin of replication tori), there is an association of sequence-specific ds. DNA-binding proteins with a series of direct repeat DNA sequences. The interaction of proteins with ori defines the start site of replication and provides a short region of ss. DNA essential for initiation of synthesis of the nascent DNA strand. Single-stranded DNA-binding proteins (SSBs) stabilize this complex. Formation of the Replication ForkA replication fork consists of four components that form in the following sequence: The DNA helicase unwinds a short segment of the parental duplex DNAA Primase initiates synthesis of an RNA molecule that is essential for priming DNA synthesis. The DNA polymerase initiates nascent, daughter strand synthesis. SSBs bind to ss. DNA and prevent premature reannealing of ss. DNA to ds. DNA. DNA polymerases only synthesize DNA - in the 5' to 3' direction, and only one of the several different types of polymerases is involved at the replication fork. Because the DNA strands are antiparallel, the polymerase functions asymmetrically. On the leading (forward strand, the DNA is synthesized continuously. On the lagging (retrograde) strand, the DNA is synthesized in short fragments, the so- called Okazaki fragments. Several Okazaki fragments (upto 250) must be sequentially synthesized for each replication fork. To ensure that this happens, the helicase acts on the lagging strand to unwind ds. DNA in a 5' to 3' direction. The helicase associates with the primase to afford the latter proper access to the template. This al lows the RNA primer to be made and. in turn, the polymerase to begin replicating the DNA. This is an important reaction sequence since DNA polymerases cannot initiate DNA synthesis de novo. The mobile complex between helicase and primase has been called a primosome. As the synthesis of an Okazaki fragment is completed and the polymerase is released, a new primer has been synthesized. The same polymerase molecule remains associated with the replication fork and proceeds to synthesize the next Okazaki fragment.",
-        "cop": 2,
-        "opa": "Leading strand",
-        "opb": "Lagging strand",
-        "opc": "Both \"",
-        "opd": "Helicase",
-        "subject_name": "Biochemistry",
-        "topic_name": "DNA Replication",
-        "id": "c1322ea2-9399-4cd7-85b7-f67befc535b9",
-        "choice_type": "multi"
     },
     {
         "question": "DNA replication occurs in which phase of cell cycle?",

@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A viral infection causes damage to both hippocampi in a patient. This damage would cause the patient to exhibit functional deficits in",
-        "exp": "The hippocampus is crucial for the formation of long-term (declarative) memory. Without the hippocampus, sho-term memory is intact but the conversion to long-term does not take place. The retrieval of stored declarative memory does not require the hippocampus. The hippocampus is not needed for the retrieval of procedural memory. Ref: Guyton; 13th edition",
-        "cop": 4,
-        "opa": "Recalling an old declarative memory",
-        "opb": "Recalling an old procedural memory",
-        "opc": "Forming a new sho-term memory",
-        "opd": "Forming a new long-term memory",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "b17a2718-0ecd-4f2a-a95f-782637289638",
-        "choice_type": "multi"
-    },
-    {
         "question": "Decreased basal metabolic rate is seen in",
         "exp": "The remaining options utilise energy. Basal metabolic rate and obesity The basal metabolic rate accounts for about 60 to 75% of the daily calorie expenditure by individuals. It is influenced by several factors. BMR typically declines by 1-2% per decade after age 20, mostly due to loss of fat-free mass, although the variability between individuals is high. Ref guyton and hall textbook of medical physiology 12/e pg843",
         "cop": 1,
@@ -102,19 +89,6 @@
         "topic_name": "General physiology",
         "id": "5959147f-7c60-4a0d-9e91-a443f7e91477",
         "choice_type": "single"
-    },
-    {
-        "question": "Electrical synapse is closely associated with",
-        "exp": "Cell junction forms tunnels that join the cytoplasm of two cells. They help in the transmission of electrical activity from one cell to another. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 18)",
-        "cop": 3,
-        "opa": "Neuromuscular junction",
-        "opb": "Tight junction",
-        "opc": "Gap junction",
-        "opd": "None of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "9df4bafc-fa22-4c38-848a-91e0de5cacc8",
-        "choice_type": "multi"
     },
     {
         "question": "The fluidity of the plasma membrane is increased by",
@@ -221,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following enzymes are active within a cell except",
-        "exp": "Red Blood Cell Enzymopathies Hexokinase (HK), the red cell enzyme with the lowest activity in the glycolytic pathway, catalyzes the initial step in the utilization of glucose and thus is required for both glycolysis and the pentose shunt and produces glucose 6-phosphate. Ref Robbins 9/e pg 407",
-        "cop": 3,
-        "opa": "Trypsin",
-        "opb": "Futnerase",
-        "opc": "Hexokinase",
-        "opd": "Alcohol dehydrogenase",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "b60449dd-89b3-4f99-8ecc-a601fd9f45c2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is the most abundant diet of animal origin?",
         "exp": "The triacylglycerols are esters of the trihydric alcohol glycerol and fatty acids and are available abundantly in animal diet Ref: Harper's Biochemistry; 30th edition; Chapter 21; Lipids of Physiologic Significance",
         "cop": 4,
@@ -299,19 +260,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true about excitation-contraction coupling except",
-        "exp": "Calcium binds to troponin to initiate exitation contraction coupling Troponin is present attached to tropomyosine Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 82, 83, 84",
-        "cop": 4,
-        "opa": "Acetylcholine is released at the nerve terminal",
-        "opb": "Calcium is pumped back into the sarcoplasmic reticulum during relaxation",
-        "opc": "Calcium is released from sarcoplasmic reticulum during contraction.",
-        "opd": "Calcium binds to tropomyosin to initiate muscle contraction.",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "5b61bf6e-4e68-4c2c-a84e-9b31ee94f9a8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Energy currency of the cell is",
         "exp": "Cellular energy can be stored in high-energy phosphate compounds, including adenosine triphosphate (ATP). This ubiquitous molecule is the energy storehouse of the body. On hydrolysis to adenosine diphosphate (ADP), it liberates energy directly to such processes as muscle contraction, active transpo, and the synthesis of many chemical compounds. Loss of another phosphate to form adenosine monophosphate (AMP) releases more energy. (REF: GANONG'S REVIEW OF MEDICAL PHYSIOLOGY -23rd EDITION. Page No-8)",
         "cop": 2,
@@ -325,19 +273,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are secreted in the stomach except?",
-        "exp": "Gastrin produced by G cells in the pyloric gland is absorbed into the blood and carried to the oxyntic glands where it stimulates the parietal cells strongly to secrete hcl. And secretin is synthesized and secreted by S cells of duodenum (GANONG'S REVIEW OF MEDICAL PHYSIOLOGY)",
-        "cop": 1,
-        "opa": "Secretin",
-        "opb": "Hcl",
-        "opc": "Intrinsic factor",
-        "opd": "Mucous",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "8c94eed5-e1f9-4ab6-8bb0-31273e0d9345",
-        "choice_type": "multi"
-    },
-    {
         "question": "Function of Golgi apparatus is",
         "exp": "Organization of the Golgi is directed at proper glycosylation of proteins and lipids. There are more than 200 enzymes that function to add, remove, or modify sugars from proteins and lipids in the Golgi apparatus. Membranous vesicles containing newly synthesized proteins bud off from the granular endoplasmic reticulum and fuse with the cistern on the cis side of the apparatus. The proteins are then passed other vesicles to the middle cisterns and finally to the cistern on the trans side, from which vesicles branch off into the cytoplasm. (REF: GANONG'S REVIEW OF MEDICAL PHYSIOLOGY 23rd EDITION page no. 42)",
         "cop": 2,
@@ -349,32 +284,6 @@
         "topic_name": "General physiology",
         "id": "30ba9ad5-f44c-4af8-b386-f0cc0dbbb760",
         "choice_type": "single"
-    },
-    {
-        "question": "High anion gap metabolic acidosis is seen in",
-        "exp": "Causes of HAGMA CO, CN Alcoholic ketoacidosis and starvation ketoacidosis Toluene Metformin, Methanol Uremia DKA Pyroglutamic acidosis, paracetamol, phenformin, propylene glycol, paraldehyde Iron, Isoniazid Lactic acidosis Ethylene glycol Salicylates. Ref: Ganong&; s review of medical physiology 23rd edition Page no: 684",
-        "cop": 3,
-        "opa": "Diarrhea",
-        "opb": "A",
-        "opc": "Diabetes",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "f1299144-5a62-4753-8918-106b162039b3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about Moderate aerobic exercise is",
-        "exp": "Paial exercise is associated with increased core temperature and there is no significant change in blood ph. Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 503, 504, 505",
-        "cop": 4,
-        "opa": "Decrease in blood pH",
-        "opb": "Increase Pa. O2",
-        "opc": "Decrease Pa. CO2",
-        "opd": "Increased core termerature",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "ce887d9c-4dbb-436f-a69b-20bf9a6ce511",
-        "choice_type": "multi"
     },
     {
         "question": "Synaptic potentials can be recorded by",
@@ -429,19 +338,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Cell volume & shape is maintained by",
-        "exp": "Gibbs-Donnan effect---there are more osmotically active paicles in the cells than the interstitial fluid. This would make them swell and eventually rupture, but prevented by operation of Na+-K+ pump which produces net movement of positive charge out of the cell and keeps the inside a. d outside of the cell in osmotic equilibrium. (Ref: Textbook of physiology AK Jain 5th edition page no. 32)",
-        "cop": 2,
-        "opa": "Goldman effect",
-        "opb": "Gibbs - Donnan effect",
-        "opc": "Singer's effect",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "996181fa-6045-450c-a080-bdfb109535a8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following results in thirst",
         "exp": "Control of Thirst. Increase thirst. Decrease thirst| Plasma osmolarity| Plasma osmolarity| Blood volume| Blood volume| Blood pressure| Blood pressure| Angiotensin II| Angiotensin IIDry mouth. Gastric distention. Ref: Guyton; 13th edition; Chapter 29; Urine Concentration and Dilution",
         "cop": 1,
@@ -479,19 +375,6 @@
         "topic_name": "General physiology",
         "id": "d0807356-22e2-40d4-a05f-e778d3980b61",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about the hemolytic disease of newborn except",
-        "exp": "When anti-Rh agglutinins cross the placenta to an Rh-positive fetus, they can cause hemolysis and various forms of hemolytic disease of the newborn (erythroblastosis fetalis). If hemolysis in the fetus is severe, the infant may die in utero or may develop anemia, severe jaundice, and edema (hydrops fetalis). Kernicterus, a neurologic syndrome in which unconjugated bilirubin is deposited in the basal ganglia, may also develop, especially if bih is complicated by a period of hypoxia. Unlike IgM, IgG is able to cross the placenta.",
-        "cop": 4,
-        "opa": "Haemolytic anemia",
-        "opb": "Hydrops foetallis",
-        "opc": "Kernicterus",
-        "opd": "Anti - Rh agglutinins are of IgM type",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "bd658ab1-54a1-4268-b89c-8e0a724f794a",
-        "choice_type": "multi"
     },
     {
         "question": "Resting membrane potential depends mainly on",
@@ -559,19 +442,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Ohograde axonal transpo involves all except",
-        "exp": "\"Ohograde transpo occurs along microtubules that run along the length of the axon and requires two molecular motors, dynein and kinesin. The ohograde transpo moves from the cell body toward the axon terminals. \" Features of Axoplasmic Transpo. Transpo type. Speed Mechanism. Material Transpoed. Fast Anterograde400. Saltatory movement along microtubules by the motor molecule kinesin Mitochondria Vesicles containing peptide and other neurotransmitters. Some degradative enzymes Fast Retrograde200-300. Saltatory movement along microtubules by the motor molecule dynein Degraded vesicular membrane. Absorbed exogenous material Slow Anterograde0. 2-8. Not clear; Possibly by molecular motors. Cytoskeletal elements SOluble proteins of intermediary metabolism. Actin. Reference: Boron Medical Physiology, updated 6th edition; Page: 270",
-        "cop": 3,
-        "opa": "Kinesin and Dynein molecular motors",
-        "opb": "Ohograde transpo moves from the cell body toward the axon terminals",
-        "opc": "Nerve Growth Factor, toxins, viruses transpo using kinesin",
-        "opd": "Mitochondria, vesicles containing neurotransmitters using kinesin",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "5cca111c-3c25-4444-a536-385730a85a4c",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is/are effect on the membrane when extracellular concentration of K+ decreased?",
         "exp": "While K+ is positively charged and more abundant on the inside, there exists a great amount of negatively charged paicles (the anions), accounting for the negative charge inside the membrane. The cell membraneforms the border of a neuron and acts to control the movement of substances into and out of the cell. Ref guyton and hall textbook of medical physiology 12/e pg 58",
         "cop": 2,
@@ -583,19 +453,6 @@
         "topic_name": "General physiology",
         "id": "bfe26e9d-d783-43c0-9c84-1352f39cb067",
         "choice_type": "single"
-    },
-    {
-        "question": "Equilibrium potential for an ion is calculated by:",
-        "exp": "Gibbs Donna Equilibrium explains unequal distribution of ions in ICF and ECF due to non- diffusible anions (proteins) present intracellularly Nernst Equation: Nernst equilibrium potential (at which there is no net transpo of the molecule across the membrane) Where, R = the gas constant T = temperature in degrees Kelvin ln = natural logarithm i = the concentration of X inside the cell o = the concentration of X outside the cell zx = the valence of charged molecules F = the Faraday constant Vm = the membrane potential The Nernst equation, at 37degC, can be written for univalent ion as follows: If movement of ion is producing negativity inside the cell membrane, Nernst potential will be with negative sign and vice-versa Goldman-Hodgkin-Katz (GHK) equation state that when a membrane is permeable to several different ions, the diffusion potential that develops depends on three factors: polarity of the electrical charge of each ion permeability of the membrane (P) to each ion concentrations (C) of the respective ions on the inside (i) and outside (o) of the membrane",
-        "cop": 2,
-        "opa": "Gibbs Donnan Equilibrium",
-        "opb": "Nernst Equation",
-        "opc": "Goldman Equation",
-        "opd": "None of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General Physiology",
-        "id": "584cd9dd-8658-4b06-82d3-7debcb3433ae",
-        "choice_type": "multi"
     },
     {
         "question": "ICF is",
@@ -611,45 +468,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Ca2+ Channel blockers would have a significant effect on muscle function in",
-        "exp": "The calcium-channel blockers represent a group of organic chemical structures that share the ability to inhibit Ca2+ entry into excitable cells.... Thus, calcium-channel blockers are smooth-muscle dilators and have a negative inotropic effect on the working myocardial cells of the atria and ventricles Ref guyton and hall textbook of medical physiology 12/e pg 73",
-        "cop": 2,
-        "opa": "Skeletal muscle",
-        "opb": "Smooth muscle",
-        "opc": "Both the above",
-        "opd": "Neither",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "f5d6f318-a7c9-4800-a857-fe26a3c6baf1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about Galvanic Skin Response",
-        "exp": "The Galvanic Skin Response (GSR), also named Electrodermal Activity and Skin Conductance, is the measure of the continuous variations in the electrical characteristics of the skin, i. e. for instance the conductance, caused by the variation of the human body sweat glands. Ref guyton and hall textbook of medical physiology 12/e p73",
-        "cop": 1,
-        "opa": "Indicator of thermal sweating",
-        "opb": "| By sweating because of sweat has electrolytes",
-        "opc": "Fall when sympathetic activity is high",
-        "opd": "Fall is associated with yogic practice",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "0db14012-b465-4fec-890c-d018a47b2f01",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Atrial natriuretic polypeptide (ANP) acts by?",
-        "exp": "ANP is secreted by right atrium acts in many ways such as decreasing aldosterone production, decrease sodium absorption from renal tubules and also inhibit release of renin. (Ref: General pathology in Textbook of PATHOLOGY 6th Edition by HARSH MOHAN)",
-        "cop": 4,
-        "opa": "Decreasing aldosterone production",
-        "opb": "Decreasing sodium reabsorption from renal tubules",
-        "opc": "Inhibiting release of renin",
-        "opd": "All of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "57eb98f9-2cc4-49bb-99dd-afbfefb58079",
-        "choice_type": "multi"
-    },
-    {
         "question": "Otto Loewi is famous for discovery of",
         "exp": "Otto Loewi is famous for discovery of acetylcholine for which he received a Nobel price. so the option 2. (Reference: www. nobelprize. org)",
         "cop": 2,
@@ -661,19 +479,6 @@
         "topic_name": "General physiology",
         "id": "4e6c00e4-ba44-4455-af58-c60e7e1f5348",
         "choice_type": "single"
-    },
-    {
-        "question": "Dystrophic calcification is seen in all except",
-        "exp": "Seen in caseous necrosis in tuberculosis of lungs, lymph nodes and also seen in case of atheroma of rheumatic valves. The pathogenesis of dystrophic calcification involves initiation (or nucleation) and propagation, both of which may be either intracellular or extracellular; the ultimate end product is the formation of crystalline calcium phos- phate. Initiation in extracellular sites occurs in membrane- bound vesicles about 200 nm in diameter; in normal cailage and bone they are known as matrix vesicles, and in pathologic calcification they derive from degenerating cells. It is thought that calcium is initially concentrated in these vesicles by its affinity for membrane phospholipids, while phosphates accumulate as a result of the action of membrane-bound phosphatases. Initiation of intracellular calcification occurs in the mitochondria of dead or dyingcells that have lost their ability to regulate intracellular calcium. After initiation in either location, propagation of crystal formation occurs. This is dependent on the concen- tration of Ca2+ and PO4 -, the presence of mineral inhibitors, and the degree of collagenization, which enhances the rate of crystal growth. Ref: Textbook of Pathology HARSH MOHAN 7th Edition page no. 35",
-        "cop": 3,
-        "opa": "Lymph node",
-        "opb": "Lungs",
-        "opc": "Kidneys",
-        "opd": "Rheumatic valves",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "18da8d79-7910-470d-a6c0-8a26a56ea607",
-        "choice_type": "multi"
     },
     {
         "question": "Protein-specific for smooth muscle contraction is",
@@ -741,19 +546,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true about mitochondria except",
-        "exp": "\"Over a billion years ago, aerobic bacteria were engulfed by eukaryotic cells and evolved into mitochondria, providing the eukaryotic cells with the ability to form the energy-rich compound ATP by oxidative phosphorylation. Mitochondria perform other functions, including a role in the regulation of apoptosis (programmed cell death), but oxidative phosphorylation is the most crucial. \" Consistent with their origin from aerobic bacteria, the mitochondria have their own genome. As a zygote, mitochondria are derived from the ovum, their inheritance is maternal. This maternal inheritance has been used as a tool to track evolutionary descent. Mitochondria have an ineffective DNA repair system, and the mutation rate for mitochondrial DNA is over 10 times the rate of nuclear DNA. Reference: Ganong's Review of Medical Physiology; 25th edition; Page no: 36",
-        "cop": 4,
-        "opa": "Evolved from aerobic bacteria engulfed by eukaryotic cells",
-        "opb": "Have role in regulation of apoptosis",
-        "opc": "Have their own genome",
-        "opd": "Mitochondrial diseases are paternal in inheritance",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "751fcc6c-153b-4648-af54-011b638e2141",
-        "choice_type": "multi"
-    },
-    {
         "question": "For sodium-potassium pump, the coupling ratio is",
         "exp": "Na, K ATPase catalyzes the hydrolysis of ATP to adenosine diphosphate (ADP) and uses the energy to extrude three Na+ from the cell and take two K+ into the cell for each molecule of ATP hydrolyzed. It is an electrogenic pump in that it moves three positive charges out of the cell for each two that it moves in, and it is therefore said to have a coupling ratio of 3: 2.",
         "cop": 3,
@@ -765,19 +557,6 @@
         "topic_name": "General physiology",
         "id": "b5fbb0d7-dc9e-4f43-b0ca-aa56ff8520fb",
         "choice_type": "single"
-    },
-    {
-        "question": "A patient suffers a severe haemorrhage resulting in a lowered mean aerial pressure. Which of the following would be elevated above normal levels",
-        "exp": "The heart rate would be elevated by the increased sympathetic activity and decreased parasympathetic activity caused by the baroreceptor reflex.",
-        "cop": 4,
-        "opa": "Splanchnic blood flow",
-        "opb": "Cardiopulmonary receptor activity",
-        "opc": "Right ventricular end-diastolic volume",
-        "opd": "Heart rate",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "4173cc55-aaa1-4107-9433-27e27776cdb2",
-        "choice_type": "multi"
     },
     {
         "question": "Equilibrium potential of calcium is",
@@ -804,19 +583,6 @@
         "topic_name": "General physiology",
         "id": "99f64af8-546d-4354-be01-58393e845654",
         "choice_type": "single"
-    },
-    {
-        "question": "Cellular and flagellar movement is carried out by all of the following except",
-        "exp": "Intermediate filament is 8 to 14 nm in diameter and is made up of various subunits. Some of these filaments connect the nuclear membrane to the cell membrane. They form a flexible scaffolding for the cell and help it resist external pressure. In their absence, cells rupture more easily, and when they are abnormal in humans, blistering of the skin is common. The proteins that make up intermediate filaments are cell type specific and are thus frequently used as cellular markers. For example, vimentin is a major intermediate filament in fibroblasts, whereas cytokeratin is expressed in epithelial cells. Microfilaments are long solid fibers with a 4 to 6 nm diameter that is made up of actin. Although actin is most often associated with muscle contraction, it is present in all types of cells. It is the most abundant protein in mammalian cells, sometimes accounting for as much as 15% of the total protein in the cell. Its structure is highly conserved; for example, 88% of the amino acid sequences in yeast and rabbit actin are identical. Actin filaments polymerize and depolymerize in vivo, and it is not uncommon to find polymerization occurring at one end of the filament while depolymerization is occurring at the other end. Filamentous (F) actin refers to intact microfilaments and globular (G) actin refers to the unpolymerized protein actin subunits. F-actin fibers attach to various pas of the cytoskeleton and can interact directly or indirectly with membrane-bound proteins. They reach to the tips of the microvilli on the epithelial cells of the intestinal mucosa. They are also abundant in the lamellipodia that cells put out when they crawl along surfaces. The actin filaments interact with integrin receptors and form focal adhesion complexes, which serve as points of traction with the surface over which the cell pulls itself. In addition, some molecular motors use microfilaments as tracks. Microtubules are long, hollow structures with 5-nm walls surrounding a cavity 15 nm in diameter. They are made up of two globular protein subunits: a-and b-tubulin. A third subunit, g-tubulin, is associated with the production of microtubules by the centrosomes. The a and b subunits form heterodimers, which aggregate to form long tubes made up of stacked rings, with each ring usually containing 13 subunits. Because of their constant assembly and disassembly, microtubules are a dynamic poion of the cell skeleton. They provide the tracks along which several different molecular motors move transpo vesicles, organelles such as secretory granules, and mitochondria, from one pa of the cell to another. They also form the spindle, which moves the chromosomes in mitosis. Cargo can be transpoed in either direction on microtubules. REF: GANONG'S REVIEW OF MEDICAL PHYSIOLOGY KIM BARRETT, SCOTT BOITANO, HEDDWEN BROOKS, SUSAN BARMAN TWENTY THIRD EDITION PAGE NO: 35, 36",
-        "cop": 1,
-        "opa": "Intermediate filaments",
-        "opb": "Actin",
-        "opc": "Tubulin",
-        "opd": "Myosin",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "6c6343a6-49d6-4335-b55e-d48d53009bed",
-        "choice_type": "multi"
     },
     {
         "question": "A single cell within a culture of freshly isolated cardiac muscle cells is injected with a fluorescent dye that cannot cross cell membranes. Within minutes, several adjacent cells became fluorescent. The most likely explanation for this observation is the presence of",
@@ -858,19 +624,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about G protein receptor is",
-        "exp": "G protein receptor also called seven transmembrane receptor is locatelsmd in cell membrane and open stimulations transmits signal to G protein Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 534, 535, 536",
-        "cop": 4,
-        "opa": "Intracellular and signal to heterotrimeric protein",
-        "opb": "Intracellular and signal to small protein",
-        "opc": "Cell membrane and signal to heterotrimeric protein",
-        "opd": "Cell membrane and signal to small protein",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "6f901e07-553a-4e21-9462-82efb23b4fd3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Pain fibers are which type",
         "exp": "The nociceptors or nerve fibers that are capable of detecting and carrying various forms of pain can be broadly classified into two major types: A-delta and C-fibers. A-delta fibers are lightly myelinated axons and conduct action potential rapidly. In other words, it carries 'fast' type of pain. For example, a sudden, sharp, prick on your body sends a high-speed pain message to your brain to avoid it. These nerve fibers have medium to large-diameter cell bodies. On the other hand, C-fibers mediate 'lingering&; type of pain such as burning or aching. The C-fibers have unmyelinated axons, small-diameter cell bodies and conduct slow action potential. Ref: Ganong&; s review of medical physiology, 23rd edition, page no: 89",
         "cop": 4,
@@ -882,19 +635,6 @@
         "topic_name": "General physiology",
         "id": "42c0536b-45ba-48ee-bb95-e5c8dc13ebb7",
         "choice_type": "single"
-    },
-    {
-        "question": "All are present in dense granules of platelets except",
-        "exp": "VWF is present in alfa granules of platelets and is associated with clotting Dense granules contains nucleotides, bioactive amines, cations, polyphosphates Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 142, 143, 144",
-        "cop": 2,
-        "opa": "ADP",
-        "opb": "VWF",
-        "opc": "Calcium",
-        "opd": "Serotonin",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "7b218895-3baf-4355-82a4-5f9d9dacb8ba",
-        "choice_type": "multi"
     },
     {
         "question": "Not a cell adhesion molecule",
@@ -910,19 +650,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Stimulus for stretch reflex",
-        "exp": "The stretch reflex or myotatic reflex refers to the contraction of a muscle in response to its passive stretching by increasing its contractility as long as the stretch is within physiological limits. (Ref: <a href=\"",
-        "cop": 1,
-        "opa": "Passive stretch",
-        "opb": "Active stretch",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "595732f0-f332-4a03-a300-b242d6dc9401",
-        "choice_type": "multi"
-    },
-    {
         "question": "Membrane fluidity is exclusively increased by",
         "exp": "As the concentration of unsaturated fatty acids in the membrane is increased, fluidity increases. Among the options given, Linoleic acid is the only unsaturated fatty acid and the rest of then are saturated. According to the fluid mosaic model proposed by Singer and Nicolson, the cell membrane is like a sea of phospholipid bilayer with proteins floating in it like icebergs. This fluidity of the membrane is dependent largely on the lipid content of the membrane. The hydrophobic side chains of fatty acids can be aligned to provide a stiff structure to the membrane. As the temperature increases, these side chain transition from a ordered to a disordered fluid like state. The temperature at which this transition occurs from ordered to disordered state is called transition temperature(Tm). Higher the Tm, lower the fluidity of the membrane Longer and saturated fatty acids decrease the fluidity because their side chains interact more strongly with each other. conversely, unsaturated fatty acids increase the fluidity at lower Tm by decreasing the compactness of the side chains. Ref: Harper's illustrated Biochemistry 30th edition pgno: 483-484",
         "cop": 4,
@@ -936,19 +663,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are involved in the transmission of regulatory signals through the ECF, except",
-        "exp": "When transmitted through gap junctions there is no involvement of ECF. Gap junctions are a specialized intercellular connection between a multitude of animal cell-types. They directly connect the cytoplasm of two cells, which allows various molecules, ions and electrical impulses to directly pass through a regulated gate between cells. Hence there is a direct transpo without the involvement of ECF Ref guyton and hall textbook of medical physiology 12/e p45-46",
-        "cop": 3,
-        "opa": "Synaptic signals through neurotransmitters",
-        "opb": "Endocrine signals through hormones",
-        "opc": "Direct contact through gap junctions",
-        "opd": "G protein coupled receptors",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "5988839f-4a5a-4a05-8a3f-9091a85fecb1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Maximum concentration of sodium channel is at",
         "exp": "At the node of Ranvier, Na channels are 2000 to 12000/sq micrometer of membrane(Ref: Textbook of physiology N Geetha 2nd edition page no. 4)",
         "cop": 4,
@@ -960,19 +674,6 @@
         "topic_name": "General physiology",
         "id": "3222026d-93b9-4c6c-91f1-835fb1e0f6e3",
         "choice_type": "single"
-    },
-    {
-        "question": "Regarding transpo of substances through the cell membrane, all are true except",
-        "exp": "Diffusion primarily depends on the concentration of molecules. Passage of ions or molecule from a region of higher concentration to lower concentration without the expenditure of energy is called diffusion. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 4)",
-        "cop": 3,
-        "opa": "Glucose is transpoed Via facilitated diffusion",
-        "opb": "Active transpo is an energy driven proces",
-        "opc": "Facilitated diffusion requires energy",
-        "opd": "Facilitated diffusion requires carrier protein",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "b17e9934-4d71-4d47-8f1d-60fecafc4451",
-        "choice_type": "multi"
     },
     {
         "question": "Myotatic reflex is carried by",
@@ -999,19 +700,6 @@
         "topic_name": "General physiology",
         "id": "bd8f65d0-4524-4306-9bb5-eafc86c6b177",
         "choice_type": "single"
-    },
-    {
-        "question": "Basal ganglia consist of all the following except",
-        "exp": "Basal Ganglia. On each side of the brain, these ganglia consist of the caudate nucleus, putamen, globus pallidus, substantia nigra, and subthalamic nucleus. Ref: Guyton; 13th edition; Chapter 57 Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control",
-        "cop": 3,
-        "opa": "Caudate nucleus",
-        "opb": "Subthalamic nucleus",
-        "opc": "Thalamus",
-        "opd": "Putamen",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "c9ab4531-97b3-4cf8-b263-56e2bde92183",
-        "choice_type": "multi"
     },
     {
         "question": "Protein attached to 'Z' line in cardiac muscle, which is responsible for elasticity is",
@@ -1066,19 +754,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True regarding RMP is all except",
-        "exp": "RMP of nerve Fibre is - 70mV. Na+K+ATPase pump out 3. Na+ in exchange for only 2K+. (REF: DISEASES GANONG'S REVIEW OF MEDICAL PHYSIOLOGY)",
-        "cop": 4,
-        "opa": "-70 mV in neurons",
-        "opb": "Is due to K+ ions",
-        "opc": "Na+ - K+pump 3 Na+out of cell & 2K+ inside",
-        "opd": "Na+ - K+ pump 3K+ out of cell & 2 Na+ inside of cell",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "9b3a338c-5316-4150-890d-8e13245c27e2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Calmodulin acts by",
         "exp": "Calmodulin contains myosin light-chain kinase, which phosphorylates myosin and phosphorylase kinase which activates phosphorylase. (Ref: Textbook of physiology AK JAIN 5th edition page no. 20)",
         "cop": 2,
@@ -1092,32 +767,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about cardiac muscle",
-        "exp": "During phases 0 to 2 and about half of phase 3 (until the membrane potential reaches approximately -50 mV during repolarization), cardiac muscle cannot be excited again; that is, it is in its absolute refractory period. It remains relatively refractory until phase 4. Therefore, tetanus of the type seen in skeletal muscle cannot occur. The T system in cardiac muscle is located at the Z lines rather than at the A-I junction, where it is located in mammalian skeletal muscle. Along the sides of the muscle fibers next to the disks, the cell membranes of adjacent fibers fuse for considerable distances, forming gap junctions. These junctions provide low-resistance bridges for the spread of excitation from one fiber to another. Plateau (phase 2) is due to a slower but prolonged opening of voltage-gated Ca2+ channels. Reference: Ganong's review of Medical Physiology, 25th ed, pages: 112, 113, 114",
-        "cop": 1,
-        "opa": "Cardiac muscle cannot be tetanized due to long absolute refractory period",
-        "opb": "Gap junctions in intercalated discs provide strong union between muscle fibers",
-        "opc": "T tubules located at A-I junction",
-        "opd": "Phase 2 of cardiac muscle action potential is due to opening of K+ channels",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "8161c879-4cc9-4244-b8d6-d71298210737",
-        "choice_type": "multi"
-    },
-    {
-        "question": "c. AMP is the exclusive second messenger for all the following except",
-        "exp": "c. AMP is the second messenger for dopamine, coicotrophin and glucagon. Vasopressin (ADH) acts on atleast 3 kinds of receptors: V-1A, V-1B, V2. All the 3 are G-protein coupled receptors. V-1A and V-1B receptors (Gq) act through IP3 as a second messenger, to increase the intracellular calcium concentration. V2 receptors (Gs) use c. AMP as a second messenger. Dopamine has 5 receptors (D1, D2, D3, D4, D5) All use c. AMP as second messengers. D1, D5 act by increasing c. AMP. D2, D3, D4 act by decreasing c. AMP. Coicotrophin (ACTH) and glucagon use c. AMP as a second messenger. Ref: Ganong's Medical physiology 26th edition PGno: 685",
-        "cop": 4,
-        "opa": "Coicotrophin",
-        "opb": "Dopamine",
-        "opc": "Glucagon",
-        "opd": "Vasopressin",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "ca1733fd-7c45-4b18-b66f-cfcd3894c745",
-        "choice_type": "multi"
-    },
-    {
         "question": "At which location along the basilar membrane are the highest frequency sounds detected?",
         "exp": "Each wave is relatively weak at the outset but becomes strong when it reaches the poion of the basilar membrane that has a natural resonant frequency equal to the respective sound frequency. At this point, the basilar membrane can vibrate back and foh with such ease that the energy in the wave is dissipated. Consequently, the wave dies at this point and fails to travel the remaining distance along the basilar membrane. Thus, a high-frequency sound wave travels only a sho distance along the basilar membrane before it reaches its resonant point and dies, a medium-frequency sound wave travels about halfway and then dies, and a very low-frequency sound wave travels the entire distance along the membrane. Ref: Guyton; 13th edition; Chapter 53 The Sense of Hearing; Page no: 675",
         "cop": 1,
@@ -1129,19 +778,6 @@
         "topic_name": "General physiology",
         "id": "a34c8179-877c-44af-85e2-e7e765997532",
         "choice_type": "single"
-    },
-    {
-        "question": "The cyclical flexion and extension motions of a leg during walking result from activity at which level of the nervous system",
-        "exp": "The spinal cord is the locus of complex patterns of rhythmical motions such as to-and-fro movement of the limbs for walking, plus reciprocal motions on opposite sides of the body or of the hindlimbs versus the forelimbs in four-legged animals. All these programs of the cord can be commanded into action by higher levels of motor control, or they can be inhibited while the higher levels take over control. Ref: Guyton; 13th edition; Chapter 57 Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control",
-        "cop": 4,
-        "opa": "Cerebral coex",
-        "opb": "Cerebellum",
-        "opc": "Globus pallidus",
-        "opd": "Spinal cord",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "c5f1c78c-7d21-4b7a-a28c-d76a3d88ab61",
-        "choice_type": "multi"
     },
     {
         "question": "Nernst potential for K+ is",
@@ -1248,19 +884,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In action potential of nerve the overshoot is",
-        "exp": "Over shoot is produced due to opening of sodium channals and depolarization It is about the threshold level Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 66",
-        "cop": 1,
-        "opa": "Above Iso-potential",
-        "opb": "Below Iso-potential",
-        "opc": "Below resting membrane potential",
-        "opd": "Above resting membrane potential",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "c3db3f92-f012-4a11-9737-9d48b8b07aae",
-        "choice_type": "multi"
-    },
-    {
         "question": "Myosin filament has a fixed length of",
         "exp": "Myosin filament is about 1. 6 micrometers in length Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 85, 86, 87, 88",
         "cop": 2,
@@ -1272,19 +895,6 @@
         "topic_name": "General physiology",
         "id": "c808e681-6bf6-4e0f-9aa0-49aba3c830cf",
         "choice_type": "single"
-    },
-    {
-        "question": "Blood pressure measured using a sphygmomanometer",
-        "exp": "If the cuff is too small, it takes a falsely high pressure in the cuff to transmit sufficient pressure to the vessel wall for total occlusion of the aery. Blood pressure may be falsely high in patients with badly stiffened aeries because of the extra pressure needed to compress the aeries.",
-        "cop": 3,
-        "opa": "May be falsely low with too narrow cuff",
-        "opb": "May be falsely low in patients with badly stiffened aeries",
-        "opc": "May be falsely high in obese patients",
-        "opd": "Gives a direct reading of mean aerial pressure",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "ef4dfc05-4aca-4057-b9bd-54947ff9bacb",
-        "choice_type": "multi"
     },
     {
         "question": "Plasma volume is best evaluated by using",
@@ -1469,19 +1079,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are seen more in ECF except",
-        "exp": "Na+, Ca+, Cl- and HCO3- are largely extracellular whereas K+, Mg2+ are predominantly seen in ICF. (Ref: Textbook of physiology AK Jain 5tg edition page no. 27)",
-        "cop": 3,
-        "opa": "Na+",
-        "opb": "Cl-",
-        "opc": "Mg++",
-        "opd": "HCO-3",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "29783165-cba4-4bb9-adaa-cd39052244ee",
-        "choice_type": "multi"
-    },
-    {
         "question": "The latent period of muscle twitch is 10ms and the contraction period is 40ms. What is the tetanizing frequency (Hz)?",
         "exp": "Tetanizing frequency = 1/Contraction period = 1/40ms = 25. Hz Tetanizing Frequency As the contractile mechanism does not have a refractory period, on rapid stimulation of a muscle, each new contraction occurs before the preceeding one is over. As a result, the second contraction is added paially to the first, and thus the total strength of contraction rises progressively with increasing frequency. Such a response is called a tetanus (tetanic contraction). It is a complete tetanus when no relaxation occurs between stimuli. Tetany occurs because enough calcium ions are maintained in the muscle sarcoplasm throughout the period of stimulation. Ref: Ganong's Review of Medical Physiology 26th edition Pgno: 107",
         "cop": 1,
@@ -1521,19 +1118,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Twitch of a single motor unit is called",
-        "exp": "Contraction of a single muscle fiber is called fibrillation. Involuntary contractions of individual motor units are termed as fasciculations. Ref: Robbin&; s&; 9th edition; Chapter 28 The Central Nervous System",
-        "cop": 2,
-        "opa": "Myoclonic jerk",
-        "opb": "Fasciculation",
-        "opc": "Tremor",
-        "opd": "Fibrillation",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "15a73c10-41bf-49a8-9370-52de4bf248ad",
-        "choice_type": "multi"
-    },
-    {
         "question": "Heat loss from the body depends mostly on",
         "exp": "The major factor effecting heat loss from the body are environmental conditions Radiation is the most common way by which heat is lost o the external environment Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 856, 857, 858",
         "cop": 3,
@@ -1545,19 +1129,6 @@
         "topic_name": "General physiology",
         "id": "1134d2b3-aa4d-45fd-96cc-915b93c06ed7",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements is true about the G-protein-coupled receptor (GPCR)?",
-        "exp": "G protein can be either stimulatory (Gs) or inhibitory (Gi). Stimulatory or inhibitory activity resides in the a subunit. G-protein coupled receptor (GPCR) are cell membrane receptors that span the membrane 7 times hennce called seven helix or serpentine receptors. Upon ligand binding to GPCR, a conformational change activates the G protein (present inside the cell). Heterotrimeric G protein (3 subunits a, b, g. Couple the cell surface receptor (GPCR) to catalytic units that catalyse the intracellular formation of second messenger F. In resting-state a subunit is bound to GDP. The intrinsic GTPase activity of the subunit then conves GTP to GDP, and this leads to reassociation of the a with the b-g subunit and termination of effector activation. Ref: Guyton and Hall 13th edition Pgno: 931",
-        "cop": 3,
-        "opa": "G protein bind the hormones on the surface of the nucleus",
-        "opb": "All the three subunits a, b and g should bind to each other for G protein to act",
-        "opc": "G protein act as inhibitory and excitatory because of difference in a subunit",
-        "opd": "G protein is bound to GTP in resting state",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "50d9d925-550a-422a-a46e-556624528e0f",
-        "choice_type": "multi"
     },
     {
         "question": "Hypoxia causes vasoconstriction in",
@@ -1586,19 +1157,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The clearance of drug means",
-        "exp": "Clearance of a substance is the volume of plasma cleared of the substance in unit time ie in one minute. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 353)",
-        "cop": 1,
-        "opa": "Volume of plasma which is cleared of drug in unit of time",
-        "opb": "Amount of drug excreted in urine",
-        "opc": "Amount of drug metabolized in unit of time",
-        "opd": "All of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "156ce8f3-d8ed-414b-8528-c19b572add9b",
-        "choice_type": "multi"
-    },
-    {
         "question": "In peripheral tissues which of the following contains substance P",
         "exp": "Substance P (SP) is an undecapeptide (a peptide composed of a chain of 11 amino acid residues) member of the tachykinin neuropeptide family. It is a neuropeptide, acting as a neurotransmitter and as a neuromodulator. Ref guyton and hall textbook of medical physiology 12/e pg 83",
         "cop": 3,
@@ -1612,32 +1170,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Activation of G-protein regulate all of the following except",
-        "exp": "Activation of g protein causes separation of alfa sub unit from beta nad gama subunits which produces DAG, IP3 Ref: Guyton and Hall textbook of medical physiology 12th edition, page,: 534, 535",
-        "cop": 4,
-        "opa": "Adenyl cyclase activity",
-        "opb": "Ion channels",
-        "opc": "IP3 & DAG",
-        "opd": "Transcription factor",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "0a2f744c-19fa-4e80-80d0-05a56ea74ca9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drugs that act on microtubules are all except",
-        "exp": "Ceain drugs bind to microtubules and thus interfere with their assembly or disassembly. These include colchicine, vinblastine, paclitaxel, and griseofulvin. Fluconazole inhibits the fungal cytochrome P450 enzyme 14a-demethylase.",
-        "cop": 4,
-        "opa": "Colchicine",
-        "opb": "Vinblastine",
-        "opc": "Paclitaxel",
-        "opd": "Fluconazole",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "5b0a82a5-9260-4e87-9653-5641ff9b2ebe",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following moves rapidly across the membrane",
         "exp": "An impoant factor that determines how rapidly a substance diffuses through the lipid bilayer is the lipid solubility of the substance. For instance, the lipid solubilities of oxygen, nitrogen, carbon dioxide, and alcohol are high, and all these substances can dissolve directly in the lipid bilayer and diffuse through the cell membrane in the same manner that diffusion of water solutes occurs in a watery solution. The rate of diffusion of each of these substances through the membrane is directly propoional to its lipid solubility. Especially large amounts of oxygen can be transpoed in this way; therefore, oxygen can be delivered to the interior of the cell almost as though the cell membrane did not exist. Ref: Guyton; 9th edition; Chapter 4; Transpo of Substances Through Cell Membranes",
         "cop": 1,
@@ -1649,19 +1181,6 @@
         "topic_name": "General physiology",
         "id": "1f67df87-b061-45f3-a1b4-cbcdf4689c91",
         "choice_type": "single"
-    },
-    {
-        "question": "A sudden increase in total peripheral resistance has all of the following effect Except",
-        "exp": "An increase in total peripheral resistance leads to an increase in mean aerial blood pressure (Mean aerial blood pressure = Cardiac output x Total peripheral resistance). Mean aerial blood pressure is a good measure of afterload, which is a measure of the force the heart must develop during ejection. An increase in total peripheral resistance therefore increases afterload. A sudden increase in total peripheral resistance momentarily reduces stroke volume and, therefore, cardiac output. The reduced ejection leads to an increase in end-systolic volume and a subsequent increase in end-diastolic volume. In the long term, stroke volume is maintained because the left ventricle now develops a greater force of contraction (ventricular systolic pressure increases) and cardiac output returns to normal.",
-        "cop": 4,
-        "opa": "Increase the diastolic blood pressure",
-        "opb": "Reduce the stroke volume",
-        "opc": "Increase the mean aerial blood pressure",
-        "opd": "Increase cardiac output",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "6659d2ce-49ce-45a3-8251-4ab34460a243",
-        "choice_type": "multi"
     },
     {
         "question": "What is/are effect on membrane when extracellular concentration of K is decreased?",
@@ -1820,32 +1339,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A twitch of motor unit is called",
-        "exp": "Fasciculations are jerky, visible contractions of groups of muscle fibres as a result of pathological discharge of spinal motor neurons. (REF TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 50)",
-        "cop": 3,
-        "opa": "Myoclonic jerk",
-        "opb": "Tremor",
-        "opc": "Fasciculation",
-        "opd": "Chorea",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "d104e6cf-bad4-4088-8225-004433ee6da4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Total body water differences between male and female is not seen at the age of",
-        "exp": "By weight, the average human adult male is approximately60% water and the average adult female is approximately 55%.... Most of animal body water is contained in various body fluids. These include intracellular fluid; extracellular fluid; plasma; interstitial fluid; and transcellular fluid 45, 46, 47",
-        "cop": 4,
-        "opa": "Above 60 years",
-        "opb": "40-60 years",
-        "opc": "10-18 years",
-        "opd": "18-25 years",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "7f8e8167-f884-406f-bb1c-cba57687d633",
-        "choice_type": "multi"
-    },
-    {
         "question": "Smooth muscle cell membrane is",
         "exp": "Protein kinase C, commonly abbreted to PKC (EC 2. 7. 11. 13), is a family of protein kinase enzymes that are involved in controlling the function of other proteins through the phosphorylation of hydroxyl groups of serine and threonine amino acid residues on these proteins, or a member of this family.",
         "cop": 2,
@@ -1859,19 +1352,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following intercellular communications occur extracellular chemical messengers except",
-        "exp": "Gap junctions form direct intercellular communications and donot require extracellular chemical messengers as seen in indirect communication. Gap junctions are made of connexons. Each connexon is made up of six proteins subunits called connexins. Mutation in the gene coding for connexon causes Clouston syndrome Erythrokeratodermia variable Inherited deafness X-linked Charcot Marie Tooth Disease Predisposition to atherosclerosis, myoclonic epilepsy, cataract Ref: Harper's Illustrated Biochemistry 30th edition Pgno: 494",
-        "cop": 2,
-        "opa": "Paracrine",
-        "opb": "Gap junctions",
-        "opc": "Neurohormones",
-        "opd": "Autocrine",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "71e370f6-9bc4-44f0-a272-3f1f6f8bbba6",
-        "choice_type": "multi"
-    },
-    {
         "question": "c. GMP is second messenger for which hormone (s)",
         "exp": "c. GMP exist in two forms (Figure 2-29). One form has an extracellular amino-terminal domain that is a receptor, a single transmembrane domain, and a cytoplasmic poion with guanylyl cyclase catalytic activity. Three such guanylyl cyclases have been characterized. Two are receptors for atrial natriuretic peptide (ANP; also known as atrial natriuretic factor), and a third binds an Escherichia coli enterotoxin and the gastrointestinal polypeptide guanylin. (Ref: Ganong's review of medical physiology 23rd Edition page no. 57)",
         "cop": 2,
@@ -1883,19 +1363,6 @@
         "topic_name": "General physiology",
         "id": "1f49fb3d-5e51-430e-8402-2441b07163f3",
         "choice_type": "single"
-    },
-    {
-        "question": "Hypocalcemia is characterized by all except",
-        "exp": "Widening of Q-T interval in ECG is seen in hypocalcemia. Perioral numbness, Carpopedal spasm, tetany and hyperactive tendon reflexes are noted. Trousseau sign, Chovstek&; s sign elicit latent tetany.",
-        "cop": 3,
-        "opa": "Numbness and tingling of circumoral region",
-        "opb": "Hyperactive tendon reflexes",
-        "opc": "Shoening of Q-T interval in ECG",
-        "opd": "Carpopedal spasm",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "ec0bac66-c996-49c2-bed0-f855536fc322",
-        "choice_type": "multi"
     },
     {
         "question": "Function of ubiquitin",
@@ -2002,19 +1469,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Tight junctions are seen in all except",
-        "exp": "Tight junctions are seen along the apical margins of cells in epithelium such as the intestinal mucosa, the walls of the renal tubules, and the choroidal plexus. (Ref: Textbook of physiology AK Jain 4th edition page no. 9)",
-        "cop": 1,
-        "opa": "Cardiac muscle",
-        "opb": "Renal tubules",
-        "opc": "Intestine",
-        "opd": "Choroid plexus",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "6028a60a-6fe5-4383-8d1c-1dcbfdee012c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Glucose is co-transpoed with Na+ ions. This is a type of",
         "exp": "Glucose enters cells by facilitated diffusion or, in the intestine and kidneys, by secondary active transpo with Na+. (REF. GANONG'S REVIEW OF MEDICAL PHYSIOLOGY 23rd EDITION page no. 318.)",
         "cop": 1,
@@ -2026,19 +1480,6 @@
         "topic_name": "General physiology",
         "id": "bddd6061-86bd-4d5b-ac5a-e17f1116c5a7",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following statements about Myasthenia Gravis are true, except:",
-        "exp": "Anti-Mu. SK antibodies are autoantibodies directed against muscle-specific tyrosine kinase (Mu. SK) Anti-ChR antibodies and Anti-Mu. SK Antibodies directed against muscle-specific tyrosine kinase (Mu. SK) Anti-AChR antibodies are the most common antibodies in generalized myasthenia gravis. The pathogenic antibodies aee IgG and are T cell dependent The chief target of the autoimmune attack (Anti-AChR antibodies) in most cases of myasthenia gravis is the skeletal muscle nicotinic acetylcholine receptor (n. AChR) The underlying defect is a decrease in the number of available Nicotinic ACh Receptors (n. AChR) on the motor end plate at the \"Neuromuscular junction\" due to an antibody mediated autoimmune attack. Anti-Mu. SK antibody occurs in about 40% of patients without AChR antibody. Muscle -specific kinase (Mu. SK) is a protein involved in AChR clustering at neuromuscular junctions. An immune response to muscle-specific kinase (Mu. SK), can also result in MG, with reduction of AChR demonstrated experimentally. Anti-Mu. SK antibody occurs in about 40% of patients without AChR antibody. Ref: Harrison&; s 19th edition Pgno: 2701",
-        "cop": 3,
-        "opa": "Anti-AChR antibodies are the most common antibodies in generalized myasthenia gravis",
-        "opb": "The pathogenic Anti-AChR antibodies are IgG antibodies",
-        "opc": "Anti-Mu. SK antibodies are directed against muscarinic ACh receptors",
-        "opd": "The major defect is a decrease in the number of available ACh receptors",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "55439cca-c21c-481d-8e38-818dbdb1915a",
-        "choice_type": "multi"
     },
     {
         "question": "Role of liver in vitamin D metabolism",
@@ -2067,19 +1508,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Action Potential is",
-        "exp": "All-or-Nothing Principle: Once an action potential has been elicited at any point on the membrane of a normal fiber, the depolarization process travels over the entire membrane if conditions are right, but it does not travel at all if conditions are not right. This principle is called the all-or-nothing principle, and it applies to all normal excitable tissues. The threshold for Initiation of the Action Potential: An action potential will not occur until the initial rise in membrane potential is great enough to create the positive feedback. This occurs when the number of sodium ions entering the fiber becomes greater than the number of potassium ions leaving the fiber. A sudden rise in membrane potential of 15 to 30 millivolts is usually required. Ref: Guyton; 13th edition; Chapter 5; Membrane Potentials and Action Potentials",
-        "cop": 4,
-        "opa": "Decremental phenomenon",
-        "opb": "Does not obey all or none phenomenon",
-        "opc": "K+ goes from ECF to ICF",
-        "opd": "Threshold stimulus is required",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "32e4edd8-2ddb-48e1-92d5-d57002ffa251",
-        "choice_type": "multi"
-    },
-    {
         "question": "Chronaxie minimum in",
         "exp": "Duration for which twice the rheobase strength has been applied to produce an action potential is called chronaxie. It is measure of excitability of the tissues. (REF TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 30)",
         "cop": 3,
@@ -2091,19 +1519,6 @@
         "topic_name": "General physiology",
         "id": "bf102459-0695-402c-9ddf-65ba6447a70f",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following act through cell surface receptors except?",
-        "exp": "Coisol is a steroid hormone and acts on intercellular (cytoplasmic) receptor. A. Hormones that bind to intracellular receptors (lipophilic, readlily penetrate the cell membrane) Hormones that bind to cytoplasmic receptors Androgens Estrogen, Progesterone Glucocoicoids, Mineralocoicoids Hormones that bind to nuclear receptors Thyroid hormones (T3, T4) Estrogen, Progesterone Retinoic acid Calcitriol (Vitamin D3) B. Hormones that bind to cell surface receptors (hydrophilic) The second messenger is c. AMP (Gs) for: Parathyroid Hormone (PTH) CRH, ACTH, Catecholamines (b1 & b2 receptors) Parathyroid hormone (PTH), TSH, Calcitonin FSH, LH, HCG MSH ADH (V2 receptors) Glucagon Somatostatin Secretin Act by decreasing second messenger c. AMP (Gi): Alpha2 adrenoreceptors ACh (M2, M4) Somatostatin The second messenger is c. GMP for: Atrial natriuretic factor (ANF) Nitric oxide(NO) The second messenger is IP3-DAG (Phospholipase C) (Gq) for: Acetyl choline (Muscarinic) Angiotensin II ADH (V1 receptor) Catecholamines a1 receptor Cholecystokinin Gastrin Gn. RH, GHRH, TRH Oxytoxin Substance P The second messengger is kinase or phophatase cascade for: Growth hormone Erythropoetin Prolactin Platelet derived growth factor (PDGF) Insulin IGF-1 Adiponectin Epidermal growth factor Fibroblast growth factor Nerve growth factor VEGF Ref: Guyton and Hall 13th edition Pgno: 930-936",
-        "cop": 1,
-        "opa": "Coisol",
-        "opb": "Insulin",
-        "opc": "FSH",
-        "opd": "TSH",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "b58a4cc8-3b03-41cf-bad6-b577a475eab5",
-        "choice_type": "multi"
     },
     {
         "question": "Intracellular water is how much percentage of body weight",
@@ -2184,19 +1599,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 25 year old female patent with Hemoglobin level of 4gm/dl was given blood transfusion with blood stored for 10 days in the blood bank. All of the following statements are true except",
-        "exp": "In banked blood that is stored, the 2, 3-DPG level falls and the ability of this blood to release O2 to the tissues is reduced. This decrease, which obviously limits the benefit of the blood if it is transfused into a hypoxic patient, is less if the blood is stored in citrate-phosphate-dextrose solution rather than the usual acid-citrate-dextrose solution. Reference: Ganong's Review of Medical Physiology, 25th edition; Page no: 642",
-        "cop": 3,
-        "opa": "Ability of this blood to release oxygen to the tissues is reduced",
-        "opb": "2, 3-DPG level falls in stored blood",
-        "opc": "2, 3-DPG level fall is less when blood is stored in acid-citrate-dextrose solution",
-        "opd": "Increase in 2, 3-DPG levels cause shift of ODC to right",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "a651ce9b-de0a-4ffa-898c-e65653850d7c",
-        "choice_type": "multi"
-    },
-    {
         "question": "For PCR which of the following is not required",
         "exp": "Taq polymerase: It is a heat stable enzyme used in polymerase chain reaction Primer: it is a small sequence of 20 t0 30 base pairs used in PCR d. NTP s: they are deoxy nucleoside triphosphates which help in DNA synthesis Ref: Guyton and Hall textbook of medical physiology 12th edition, chapter: 20",
         "cop": 4,
@@ -2221,19 +1623,6 @@
         "topic_name": "General physiology",
         "id": "2031c135-f612-4d89-b2d6-5cba8e7972a9",
         "choice_type": "single"
-    },
-    {
-        "question": "Special transmembrane proteins which make up gap junctions is called as",
-        "exp": "Communicating junctions (gap junctions) mediate the passage of chemical or electrical signals from one cell to another. The junction consists of a dense planar array of 1. 5- to 2-nm pores (called connexons) formed by hexamers of transmembrane proteins called connexins. These pores permit the passage of ions, nucleotides, sugars, amino acids, vitamins, and other small molecules; the permeability of the junction is rapidly reduced by lowered intracellular pH or increased intracellular calcium. Gap junctions play a critical role in cell-cell communication. Ref: Robbin&; s; 9th edition; Chapter 1; The Cell as a Unit of Health and Disease",
-        "cop": 3,
-        "opa": "Cadherins",
-        "opb": "Occludins",
-        "opc": "Connexons",
-        "opd": "Claudins",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "94a65e7b-374c-4461-ad4a-c882d7ff791f",
-        "choice_type": "multi"
     },
     {
         "question": "Afterhyperpolarization due to",
@@ -2314,19 +1703,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Irreversible cell injury",
-        "exp": "In irreversible cell injury, there are deposits of amorphous calcium salts in the mitochondrial matrix. (REF: Textbook of Pathology HARSH MOHAN 6th Edition page no. 30)",
-        "cop": 1,
-        "opa": "Mitochondrial densities",
-        "opb": "Cellular swelling",
-        "opc": "Blebs",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "29cfb54c-33a2-4b0b-a14c-1726303dc1c3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Agranular endoplasmic reticulum is involved in the synthesis of",
         "exp": "Agranular Endoplasmic reticulum is also called smooth Endoplasmic reticulum. It is the site of steroid synthesis and detoxification. Granular is involved in protein synthesis. (REF: Ganong&; s Review of medical physiology)",
         "cop": 2,
@@ -2377,32 +1753,6 @@
         "topic_name": "General physiology",
         "id": "ce8c7c2a-da35-4bf5-a730-ee98aa2b3688",
         "choice_type": "single"
-    },
-    {
-        "question": "When the sympathetic nervous system is activated",
-        "exp": "Nerve fibers, not vascular smooth muscle, release norepinephrine. The norepinephrine from the sympathetic nerves simply diffuses from the axons and binds to specific receptors on smooth muscle cells.",
-        "cop": 3,
-        "opa": "Norepinephrine is released by the vascular smooth muscle cells",
-        "opb": "Acetylcholine is released onto vascular smooth muscle cells",
-        "opc": "Norepinephrine is released from axons onto the aeriolar wall",
-        "opd": "The aerioles constrict because nitric oxide production is suppressed",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "f430a4ea-015d-4063-9d08-958884f4ec55",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The first step for lymphatic vessels to remove excess fluid from interstitial tissue spaces is by",
-        "exp": "Although all of the choices are events that happen in lymph vessels, the first key event is lowering the lymphatic hydrostatic pressure to enable tissue fluid to enter the lymphatic vessel.",
-        "cop": 1,
-        "opa": "Generating a lower intravascular than tissue hydrosta tic pressure",
-        "opb": "Contracting and forcing lymph into larger lymphatics",
-        "opc": "Opening and closing one-way valves in the lymph vessels",
-        "opd": "Lowering the colloid osmotic pressure inside the lymph vessel",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "578d7654-bd05-451c-8777-4f6cfbbeba76",
-        "choice_type": "multi"
     },
     {
         "question": "Thin filament is mainly composed of",
@@ -2483,19 +1833,6 @@
         "choice_type": "single"
     },
     {
-        "question": "After application of a stimulus a potential change has occurred in the neuronal membrane but there is no opening of gated ion channels. That change in membrane potential is called as",
-        "exp": "\"Changes in membrane potential that do not lead to the opening of gated ion channels are passive responses of the membrane and are called electrotonic potentials.",
-        "cop": 3,
-        "opa": "Action potential",
-        "opb": "Local potential",
-        "opc": "Electrotonic potential",
-        "opd": "Resting potential",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "712fa7d6-48c0-4779-8fac-28a09b4d4349",
-        "choice_type": "multi"
-    },
-    {
         "question": "The pre-depolarization phase of the SA node Action potential is due to",
         "exp": "Effect of Potassium and Calcium Ions on Heart Function In the discussion of membrane potentials in Chapter 5, it was pointed out that potassium ions have a marked effect on membrane potentials, and in Chapter 6 it was noted that calcium ions play an especially impoant role in acti- vating the muscle contractile process. Therefore, it is to be expected that the concentration of each of these two ions in the extracellular fluids should also have impoant effects on cardiac pumping. Effect of Potassium Ions. Excess potassium in the extracellular fluids causes the heart to become dilated and flaccid and also slows the heart rate. Large quantities also can block conduction of the cardiac impulse from the atria to the ventricles through the A-V bundle. Elevation of potassium concentration to only 8 to 12 m. Eq/L--two to three times the normal value--can cause such weakness of the heart and abnormal rhythm that death occurs. These effects result paially from the fact that a high potassium concentration in the extracellular flu- ids decreases the resting membrane potential in the car- diac muscle fibers, as explained in Chapter 5. That is, high extracellular fluid potassium concentration paially depo- larizes the cell membrane, causing the membrane potential to be less negative. As the membrane potential decreases, the intensity of the action potential also decreases, which makes contraction of the heart progressively weaker. Effect of Calcium Ions. An excess of calcium ions causes effects almost exactly opposite to those of potas- sium ions, causing the heart to go toward spastic con- traction. This is caused by a direct effect of calcium ions to initiate the cardiac contractile process, as explained earlier in the chapter. Conversely, deficiency of calcium ions causes car- diac flaccidity, similar to the effect of high potassium. Founately, calcium ion levels in the blood normally are regulated within a very narrow range. Therefore, cardiac effects of abnormal calcium concentrations are seldom of clinical concern. Ref guyton and hall textbook of medical physiology Edition 12 pg 122",
         "cop": 2,
@@ -2507,19 +1844,6 @@
         "topic_name": "General physiology",
         "id": "9f828b45-4253-4d6e-acc8-e8eea4bb9bce",
         "choice_type": "single"
-    },
-    {
-        "question": "Which cell junction allows exchange of cytoplasmic molecules?",
-        "exp": "Gap junction forms tunnels that join the cytoplasm of two cells. Units called connexons lines up in the cell membrane of each cell that contributes to the gap junction. The subunit surrounds a channel of diameter 2nm and the channel of the connexion of one cell is continuous with the channel in the connexion of the adjacent cell at gap junction. This permit exchange of substance from one cell to the other. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 18)",
-        "cop": 1,
-        "opa": "Gap",
-        "opb": "Tight",
-        "opc": "Anchoring",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "6e7a4a77-85e7-4035-8ecf-1a29a8d3e601",
-        "choice_type": "multi"
     },
     {
         "question": "Structure without any membrane is",
@@ -2561,45 +1885,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Facilitated diffusion is characterized by all except:",
-        "exp": "Facilitated diffusion is a carrier-mediated transpo. ATP is not consumed in this transpo. A conformational change in the carrier molecule causes the substance to be transpoed to the other side of the membrane. Some models hypothesised for the carrier proteins ~ flip-flop model, ferryboat model. Saturability, Specificity and inhibition are the characteristics of the Facilitated diffusion",
-        "cop": 3,
-        "opa": "Vmax",
-        "opb": "Competitive inhibition",
-        "opc": "Requires energy",
-        "opd": "Specificity",
-        "subject_name": "Physiology",
-        "topic_name": "General Physiology",
-        "id": "c9de4b33-6b43-475e-8618-54ee1769bd76",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about relative refractory period is:",
-        "exp": "Stronge stimulus can produce response in relative refractory period Cause: it is because potassium channals are open and the membrane potential is more close to resting membrane Begins after the end of absolute refractory period Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 70",
-        "cop": 3,
-        "opa": "Response can't be generated at all",
-        "opb": "Due to closure of inactive gates of sodium channals",
-        "opc": "Due to opening of potassium channals",
-        "opd": "All",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "93e40b02-c938-41fa-b7c1-40cb6cd1986d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about cell membrane lipids except",
-        "exp": "Membrane lipids are amphipathic. Membrane lipids form bilayers. An indicator of the dynamic nature of membranes is that a variety of studies have shown that lipids and ceain proteins exhibit lateral diffusion in the plane of their membranes. There is also inside-outside asymmetry of the phospholipids. The choline-containing phospholipids (phosphatidylcholine and sphingomyelin) are located mainly in the outer leaflet; the aminophospholipids (phosphatidylserine and phosphatidylethanolamine) are preferentially located in the inner leaflet..",
-        "cop": 3,
-        "opa": "Amphipathic in nature",
-        "opb": "Exhibit lateral diffusion along with proteins",
-        "opc": "Exhibit symmetrical arrangement",
-        "opd": "Form bilayer",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "7c04e3a1-124c-467f-9a0a-2d01b82ec423",
-        "choice_type": "multi"
-    },
-    {
         "question": "Equlilibrium potential of resting membrane for a given electrolyte is given by",
         "exp": "Nernst equation gives equilibrium potential for a paicular ion Goldman equation gives equilibrium potential for more than 1 ion Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 58, 59, 60",
         "cop": 1,
@@ -2611,19 +1896,6 @@
         "topic_name": "General physiology",
         "id": "841104c2-078f-4d98-994c-c86894033b31",
         "choice_type": "single"
-    },
-    {
-        "question": "Following tetanizing stimulus was to a muscle, there is a constant contraction. This is due to",
-        "exp": "Tetanization: as the frequency of the stimulus increases to a critical level the successive contractions become so rapid that whole muscle contraction becomes smooth and contineous This is called tetanization and frequency is tetanizing frequency Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 97",
-        "cop": 2,
-        "opa": "Recruitment phenomenon",
-        "opb": "At high stimulus frequency all muscle fibers are contacting",
-        "opc": "Contraction of different muscle fibers at different places",
-        "opd": "All of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "5b20e7fa-45e2-43d2-adc6-8a9639f5e7b0",
-        "choice_type": "multi"
     },
     {
         "question": "Ceruloplasmin binds",
@@ -2663,19 +1935,6 @@
         "topic_name": "General physiology",
         "id": "f1880fe5-9b87-4b6e-999f-85f7ace650fc",
         "choice_type": "single"
-    },
-    {
-        "question": "High Anion Gap Acidosis is seen in all except",
-        "exp": "High anion gap is seen in cases like, ketoacidosis, poisoning, lactate acidosis, renal failure Low anion gap indicates low albumin content in the body, this may be due to various kidney diseases Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 518, 519.",
-        "cop": 3,
-        "opa": "Diabetic ketoacidosis",
-        "opb": "Lactic acidosis",
-        "opc": "Renal tubular acidosis",
-        "opd": "Methanol poisoning",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "ca0731d3-2013-4489-b1dd-c92b16659ce7",
-        "choice_type": "multi"
     },
     {
         "question": "In an adult man weighing 70kgs, the extracellular fluid volume will be about",
@@ -2769,19 +2028,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Exocytosis:",
-        "exp": "Exocytosis is a calcium dependent process. In non-constitutive exocytosis, secretory product after synthesis and processing in the RER and GA, is stored in the cytoplasm in secretory granules until an appropriate signal for secretion is received In constitutive exocytosis, prompt transpo of secretory product to the cell membrane in vesicles occurs with little or no processing or storage SNARE proteins that are involved in exocytosis",
-        "cop": 4,
-        "opa": "Is a calcium dependent process",
-        "opb": "Can be constitutive or non-constitutive",
-        "opc": "Requires SNARE proteins",
-        "opd": "All of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General Physiology",
-        "id": "924e8bec-d172-460a-8c33-ffef1cf61ba5",
-        "choice_type": "multi"
-    },
-    {
         "question": "In severe exercise, decrease in pH is due to",
         "exp": "In case of sever exercise, lactic acid deposits in muscles due to anaerobic respiration by white muscle fibers, This results in fatigue Ref: Guyton and Hall textbook of medical physiology 12th edition, pag number: 96",
         "cop": 2,
@@ -2793,32 +2039,6 @@
         "topic_name": "General physiology",
         "id": "c1fc6b21-cef7-4ad6-aa18-6047bf343a49",
         "choice_type": "single"
-    },
-    {
-        "question": "Thin filament consists of all except",
-        "exp": "The thin filaments are made up of actin, tropomyosin, and troponin. Thick filaments are made up ofmyosin. (REF: GANONG'S REVIEW OF MEDICAL PHYSIOLOGY -23rd EDITION. Page No-95)",
-        "cop": 3,
-        "opa": "Actin",
-        "opb": "Troponin",
-        "opc": "Myosin",
-        "opd": "Tropomyosin",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "54251fcc-84ca-46a2-b560-09f092d2e683",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Aerobic capability is maximally increased by",
-        "exp": "Aerobic capability is increased by regular 3 minute exercise It is not effected by severe exercise Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 94, 95, 96",
-        "cop": 3,
-        "opa": "Prolonged exercises",
-        "opb": "Sternous exercises",
-        "opc": "Regular 3 minute exercises",
-        "opd": "Spus of exercises",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "fcc87735-366a-4eb6-bbc2-f538f13ed9d3",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following have the maximum density of white muscle fibres",
@@ -2964,32 +2184,6 @@
         "choice_type": "single"
     },
     {
-        "question": "As aerial pressure is raised and lowered during the course of a day, blood flow through the brain would be expected to",
-        "exp": "Brain blood flow is constant despite large changes in the aerial blood pressure because vascular resistance usually changes in the same direction as the aerial pressure and by almost the same percentage. Ref: Guyton; 13th edition",
-        "cop": 3,
-        "opa": "Change in the same direction as the aerial blood pressure because of the limited autoregulatory ability of the cerebral vessels",
-        "opb": "Change in a direction opposite the change in mean aerial pressure",
-        "opc": "Remain constant because cerebral vascular resistance changes in the same direction as aerial pressure",
-        "opd": "Fluctuate widely, as both aerial pressure and brain neural activity status change",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "4beaf760-3233-4b1d-a9e1-ab8c367f7901",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Neurotransmitter for pain is",
-        "exp": "Substance P a polypeptide neurotransmitter that stimulates vasodilation and contraction of intestinal and other smooth muscles. It also plays a pa in salivary secretion, diuresis, natriuresis, and pain sensation. It has been isolated from ceain cells of the GI and biliary tracts. Ref: Ganong&; s review of medical physiology 23rd edition Page no: 143",
-        "cop": 2,
-        "opa": "Dopamine",
-        "opb": "Substance P",
-        "opc": "PAF",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "a94cec93-e612-4f17-9d96-57d19b0c29dd",
-        "choice_type": "multi"
-    },
-    {
         "question": "Weber Fechner Law is",
         "exp": "The magnitude of the sensation felt is propoional to the log of the intensity of the stimulus (Weber-Fechner law). It now appears, however, that a power function more accurately describes this relation. In other words, R = KSA where R is the sensation felt, S is the intensity of the stimulus, and, for any specific sensory modality, K and A are constants. P = K lnS/S0 (REF: Ganong's review of medical physiology 23rd Edition page no. 153)",
         "cop": 1,
@@ -3040,19 +2234,6 @@
         "topic_name": "General physiology",
         "id": "8da99ca3-b8e0-451b-a583-dad5b6a44503",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following transpo processes follows saturation kinetics except",
-        "exp": "Carrier dependent transpo follows saturation kinetics. Simple diffusion does not require carrier protein. Ref: Guyton; 9th edition; Chapter 4 Transpo of Substances Through Cell Membranes",
-        "cop": 3,
-        "opa": "Facilitated diffusion",
-        "opb": "Na+ - Ca2+ exchanger",
-        "opc": "Simple diffusion",
-        "opd": "Na+ coupled active transpo",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "3037b50a-a008-4d94-b96e-546fd6110f08",
-        "choice_type": "multi"
     },
     {
         "question": "Catabolism of H2. O2 is carried out by",
@@ -3118,58 +2299,6 @@
         "topic_name": "General physiology",
         "id": "578d0c55-0923-42df-af83-7383210ffbfb",
         "choice_type": "single"
-    },
-    {
-        "question": "In 100-m dash, most of the energy consumed by skeletal muscles to replenish ATP is derived from",
-        "exp": "In a 100-m dash that takes 10s, 85% of the energy consumed is derived anaerobically by Phosphocreatine, which is hydrolysed to creatine and phosphate groups with the release of considerable energy. Ref: Guyton And Hall Textbook of Medical Physiology 13th edition Pgno: 82",
-        "cop": 1,
-        "opa": "Phosphocreatine",
-        "opb": "Aerobic glycolysis",
-        "opc": "Oxidation of Fatty acids",
-        "opd": "None of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "70258d80-3993-4b19-a9f7-aa3377e7eea3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Fibres most sensitive to local anesthesia are",
-        "exp": "Group C nerve fibers are one of three classes of nerve fiber in the central nervous system (CNS) and peripheral nervous system (PNS). The C group fibers are unmyelinated and have a small diameter and low conduction velocity, whereas Groups A and B are myelinated. Group C fibers include postganglionic fibers in the autonomic nervous system (ANS), and nerve fibers at the dorsal roots (IV fiber). These fibers carry sensory information C fibers and A-d are sensitive to local anesthesia Ref guyton and hall textbook of medical physiology Edition 12 pg 701 Group C nerve fiber C fiber not labeled, but substantia gelatinosa of Rolando is Rexed lamina II, labeled at upper left.",
-        "cop": 3,
-        "opa": "A",
-        "opb": "B",
-        "opc": "C",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "5ddddac7-063b-451d-936d-2b35d4549a8b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about type 2 muscle fibre",
-        "exp": "Type 2 muscle fibres are present in fast muscles. They are also called white muscles. The glycogen content is high. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 44)",
-        "cop": 1,
-        "opa": "White, glycolytic, fast contracting",
-        "opb": "White, glycolytic, slow contracting",
-        "opc": "Red, oxidative, fast contracting",
-        "opd": "Red, glycolytic, slow contractin",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "a8c66047-e425-48cb-bb76-7a7b6e4bf88d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Negative feedback system in body regulates",
-        "exp": "Feedback Effect of Thyroid Hormone to Decrease Anterior Pituitary Secretion of TSH Increased thyroid hormone in the body fluids decreases secretion of TSH by the anterior pituitary. When the rate of thyroid hormone secretion rises to about 1. 75 times normal, the rate of TSH secretion falls essentially to zero. Almost all this feedback depressant effect occurs even when the anterior pituitary has been separated from the hypothalamus. Therefore, as shown in Figure 76-7, it is probable that increased thyroid hormone inhibits ante- rior pituitary secretion of TSH mainly by a direct effect on the anterior pituitary gland itself. Regardless of the mech- anism of the feedback, its effect is to maintain an almost constant concentration of free thyroid hormones in the circulating body fluids. Antithyroid Substances Suppress Thyroid Secretion The best known antithyroid drugs are thiocyanate, propyl- thiouracil, and high concentrations of inorganic iodides. The mechanism by which each of these drugs blocks thyroid secretion is different from the others, and can be explained as follows. Thiocyanate Ions Decrease Iodide Trapping. The same active pump that transpos iodide ions into the thyroid cells can also pump thiocyanate ions, perchlorate ions, and nitrate ions. Therefore, the administration of thiocyanate (or one of the other ions as well) in high enough concentration can cause competitive inhibition of iodide transpo into the cell--that is, inhibition of the iodide-trapping mechanism. The decreased availability of iodide in the glandular cells does not stop the formation of thyroglobulin; it merely pre- vents the thyroglobulin that is formed from becoming iodi- nated and therefore from forming the thyroid hormones. This deficiency of the thyroid hormones in turn leads to increased secretion of TSH by the anterior pituitary gland, which causes overgrowth of the thyroid gland even though the gland still does not form adequate quantities of thyroid hormones. Therefore, the use of thiocyanates and some other ions to block thyroid secretion can lead to develop- ment of a greatly enlarged thyroid gland, which is called a goiter. Propylthiouracil Decreases Thyroid Hormone Formation. Propylthiouracil (and other, similar compounds, such as methimazole and carbimazole) prevents formation of thyroid hormone from iodides and tyrosine. The mechanism of this is paly to block the peroxidase enzyme that is required for iodination of tyrosine and paly to block the coupling of two iodinated tyrosines to form thyroxine or triiodothyronine. Propylthiouracil, like thiocyanate, does not prevent for- mation of thyroglobulin. The absence of thyroxine and tri- iodothyronine in the thyroglobulin can lead to tremendous feedback enhancement of TSH secretion by the anterior pituitary gland, thus promoting growth of the glandular tis- sue and forming a goiter. Iodides in High Concentrations Decrease Thyroid Activity and Thyroid Gland Size. When iodides are present in the blood in high concentration (100 times the normal plasma level), most activities of the thyroid gland are decreased, but often they remain decreased for only a few weeks. The effect is to reduce the rate of iodide trapping so that the rate of iodination of tyrosine to form thyroid hormones is also decreased. Even more impoant, the normal endocytosis of colloid from the follicles by the thyroid glandular cells is paralyzed by the high iodide concentrations. Because this is the first step in release of the thyroid hormones from the storage colloid, there is almost immediate shutdown of thyroid hormone secretion into the blood. Because iodides in high concentrations decrease all phases of thyroid activity, they slightly decrease the size of the thyroid gland and especially decrease its blood supply, in contradistinction to the opposite effects caused by most of the other antithyroid agents. For this reason, iodides are frequently administered to patients for 2 to 3 weeks before surgical removal of the thyroid gland to decrease the neces- sary amount of surgery, especially to decrease the amount of bleeding. Negative feedback is a regulatorymechanism in which a 'stimulus' causes an opposite 'output' in order to maintain an ideal level of whatever is being regulated. Negative feedback loops occur in a series of steps. You have a stimulus, in which a change occurs. Ref guyton and hall textbook of medical physiology edtion 12 Pg 915",
-        "cop": 4,
-        "opa": "Thyroid production",
-        "opb": "Ovulation",
-        "opc": "Blood pressure regulation",
-        "opd": "All the above",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "1903cb4b-0897-4a5b-b216-8b1250ab159f",
-        "choice_type": "multi"
     },
     {
         "question": "Chromatolysis is seen in",
@@ -3250,32 +2379,6 @@
         "choice_type": "single"
     },
     {
-        "question": "False about smooth muscle",
-        "exp": "Unitary smooth muscle is found primarily in the walls of hollow viscera like uterus, intestine, ureters. Multiunit smooth muscle is made up of individual units with few (or no) gap junctional bridges. It is found in structures such as the iris of the eye, in which fine, graded contractions occur. Depending on the activating stimulus, the Ca2+ increase can be due to influx through voltage- or ligand-gated plasma membrane channels, efflux from intracellular stores through the RyR, efflux from intracellular stores through the inositol trisphosphate receptor (IP3R) Ca2+ channel, or a combination of these channels. Smooth muscle behaves more like a viscous mass than a rigidly structured tissue, and it is this propey that is referred to as the plasticity of smooth muscle.. The \"latch\" mechanism facilitates prolonged holding of contractions of the smooth muscle.",
-        "cop": 4,
-        "opa": "Ca2+ is the excitation-contraction coupler",
-        "opb": "The \"latch\" mechanism facilitates prolonged holding of contractions of smooth muscle",
-        "opc": "Shows the propey of plasticity",
-        "opd": "Musculature of uterus is made of multi unit smooth muscle",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "51ac8fa8-46d8-4b61-b510-1bf8b3ac4c89",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following special circulations has the widest range of blood flows as pa of its contributions to both the regulation of systemic vascular resistance and the modification of resistance to suit the organ's metabolic needs?",
-        "exp": "Skeletal muscle accounts for about 20% of cardiac output and systemic vascular resistance. During extreme physical exeion, more than 80% of cardiac output can be directed to contracting muscles; therefore, skeletal muscle resistance becomes the primary determinant of systemic vascular resistance during exercise.",
-        "cop": 4,
-        "opa": "Large intestine",
-        "opb": "Cerebral",
-        "opc": "Small intestine",
-        "opd": "Skeletal muscle",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "e2753cb2-6a9d-4915-ac56-b5afa0d4644b",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 37 year old male patient was diagnosed with sarcoidosis of lung and was kept on glucocoicoid therapy. The treatment may result in the bone loss because glucocoicoids causes which of the following?",
         "exp": "Glucocoicoids increase bone resorption. They have multiple actions that alter bone metabolism. Glucocoicoids decrease intestinal Ca++ absorption and renal Ca++reabsorption. Both mechanisms serve to lower serum. As serum drops, secretion of parathyroid hormone PTH) increases, which mobilizes Ca++from bone by stimulating resorption of bone. Glucocoicoids also directly inhibit osteoblast bone-forming functions. Reference: Berne & Levy Medical Physiology; 6th edition; Page no: 749",
         "cop": 3,
@@ -3341,19 +2444,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is true regarding total heat production during a muscle contraction?",
-        "exp": "Activation heat is the heat that muscle produces whenever it contracts. Heat Production in Muscle Resting Heat: The heat given off at rest due to the basal metabolic processes. Initial Heat: The heat produced in excess of resting heat during contraction. It is made up of two subtypes: Activation Heat: The heat that muscle produces whenever it is contracting, and Shoening Heat: The heat which is propoional in amount to the distance the muscle shoens. Shoening heat is apparently due to some change in the structure of the muscle during shoening. Recovery Heat: This is the heat liberated by the metabolic proccesses that restore the muscle to its precontraction state. The recovery heat of muscle is approximately equal to the initial heat. Relaxation Heat: Heat released in a muscle that has contracted isotonically to restore it to its previous length. This extra heat is in addition to recovery heat. Ref: Ganong&; s Review of Medical Physiology 25th edition Pgno: 109-110",
-        "cop": 1,
-        "opa": "Activation heat is produced when a muscle is contracting",
-        "opb": "Initial heat produced is the due of basal metabolic processes",
-        "opc": "Relaxation heat is present in both isotonic and isometric contractions",
-        "opd": "Recovery heat of muscle is greater than the initial heat",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "dab6a294-ba90-4e45-b959-d1c0c9f13d1a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hemoglobin first appears in which stage of erythropoiesis?",
         "exp": "Once the proerythroblast has been formed, it divides multiple times, eventually forming many mature RBCs. The first-generation cells are called basophil erythroblasts because they stain with basic dyes; the cell at this time has accumulated very little hemoglobin.",
         "cop": 1,
@@ -3393,71 +2483,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following can act as both excitatory and inhibitory neurotransmitter?",
-        "exp": "The dopamine is believed to act as an inhibitory transmitter in the basal ganglia, but in some other areas of the brain, it is possibly excitatory. It also functions as a stabilizer under some conditions. Ref: Guyton; 13th edition; Chapter 57 Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control",
-        "cop": 4,
-        "opa": "Acetylcholine",
-        "opb": "Glutamate",
-        "opc": "Norepinephrine",
-        "opd": "Dopamine",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "885b0d2c-3371-4a71-a9fb-2f794f8372c6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about Nissl granule",
-        "exp": "Nissl granules are organelles containing ribosome. They synthesis the protein necessary for neuron. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 20)",
-        "cop": 3,
-        "opa": "Involves in RNA synthesis",
-        "opb": "Present in axon",
-        "opc": "Involves in protein synthesis",
-        "opd": "Structurally they are endoplasmic reticulum",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "43824af0-d37b-47d1-81be-025a914434d5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which is true about Type-2 muscle fibres?",
-        "exp": "Type II muscle fibres are seen in fast muscles. My globin content is low and hence called white muscles. It has increased isoenzyme activity(REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 44)",
-        "cop": 3,
-        "opa": "Increased myoglobin",
-        "opb": "It is slower, oxidative and red",
-        "opc": "Increased Isoenzyme ATPase activity",
-        "opd": "Glycolytic capacity moderate",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "ab8a5c87-ed4f-4ce8-bfbb-ec078813e100",
-        "choice_type": "multi"
-    },
-    {
-        "question": "During skeletal muscle contraction",
-        "exp": "During muscle contraction, two Z lines come closer, A band remains constant, length of H & I band decreases. Ref: Guyton; 13th edition",
-        "cop": 2,
-        "opa": "A band shoen",
-        "opb": "Both H & I band shoen",
-        "opc": "Both A & I band shoen",
-        "opd": "Both A & H band shoen",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "d7c6a1df-886e-4c9a-ba4e-4bbad85da803",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about G protein-coupled receptors is",
-        "exp": "Heteromeric g protein located inside the cell are activated by g protein coupled receptors that span the cell membrane. Signaling molecules bind to a domain of GPCR out side the cell and an intracellular GPCR domain then in turn activates a paicular G protein Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 540, 541, 542",
-        "cop": 3,
-        "opa": "G proteins bind to hormones on the cell surface",
-        "opb": "All the three subunits alpha, beta and gamma should bind to each other for G protein to act",
-        "opc": "G proteins act as inhibitory and excitatory because of difference in alpha subunit",
-        "opd": "G protein is bound to GTP in resting state",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "f3c5200d-84d2-41d4-b2c9-6ff1c253ac22",
-        "choice_type": "multi"
-    },
-    {
         "question": "Myosin and actin filaments are kept in place by",
         "exp": "Titin keeps actin and myosin in place It povides elasticity It is present in skeletal and cardic muscles Ref: Guyton and Hall textbook of medical physiology 12th edition, pag number: 85, 86, 87",
         "cop": 4,
@@ -3469,32 +2494,6 @@
         "topic_name": "General physiology",
         "id": "9a6c10ee-3302-4325-95b1-f1fdaeee9e27",
         "choice_type": "single"
-    },
-    {
-        "question": "Oxidative capacity is high in which type of skeletal muscle fiber",
-        "exp": "Oxidative capacity is high in type I fiber (slow-oxidative), moderate in type IIA (fast-oxidative-glycolytic), low in Type IIB fiber (fast-glycolytic). Reference: Ganong's review of Medical Physiology, 25th ed, p 108",
-        "cop": 1,
-        "opa": "Type I fiber",
-        "opb": "Type IIA fiber",
-        "opc": "Type IIB fiber",
-        "opd": "All of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "b53cf98a-16ee-4614-bf53-7f6b0c63e4f6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Strengthening muscle exercise",
-        "exp": "Contraction against a constant load with change in muscle length is isotonic. Since work done is product of force times distance, isotonic contraction do work. (REF: GANONG'S REVIEW OF MEDICAL PHYSIOLOGY 24 EDITION, PAGE NO - 104)",
-        "cop": 1,
-        "opa": "Isotonic",
-        "opb": "Isometric",
-        "opc": "Aerobic",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "16dc6bbf-f529-4e77-94de-f191a1f13858",
-        "choice_type": "multi"
     },
     {
         "question": "The diameter of Type C fibers is",
@@ -3679,19 +2678,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Platelet aggregation is caused by all, except",
-        "exp": "ADP, Thrombin, Epinephrine, Tx. A2 promote platelet aggregation whereas ADPase, NO, PGI2, PGE2 inhibit platelet aggregation. All of the aggregating agents, including thrombin, collagen, ADP, and others such as platelet-activating factor, an inside-out signaling pathway, modify the platelet surface glycoprotein complex GPIIb-IIIa (a. IIbb3) so that the receptor has a higher affinity for fibrinogen or von Willebrand factor. Molecules of divalent fibrinogen or multivalent von Willebrand factor then link adjacent activated platelets to each other, forming a platelet aggregate. von Willebrand factor-mediated platelet aggregation occurs under conditions of high shear stress. Some agents, including epinephrine, serotonin, and vasopressin, exe synergistic effects with other aggregating agents.",
-        "cop": 3,
-        "opa": "Thromboxane A2",
-        "opb": "Epinephrine",
-        "opc": "Prostacyclin (PGI2)",
-        "opd": "Thrombin",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "87537b99-afcf-4974-8bc4-4b7e909cfb78",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is associated with aging?",
         "exp": "Free radicals are chemical species with a single unpaired electron in an outer orbital. Such chemical states are extremely unstable, and free radicals readily react with inorganic and organic chemicals; when generated in cells, they avidly attack nucleic acids as well as a variety of cel- lular proteins and lipids. In addition, free radicals initiate reactions in which molecules that react with free radicals are themselves conveed into other types of free radicals, thereby propagating the chain of damage. Reactive oxygen species (ROS) are a type of oxygen- derived free radical whose role in cell injury is well estab- lished. Cell injury in many circumstances involves damage by free radicals; these situations include ischemia- reperfusion (discussed later on), chemical and radiation injury, toxicity from oxygen and other gases, cellular aging, microbial killing by phagocytic cells, and tissue injury caused by inflammatory cells. There are different types of ROS, and they are produced by two major pathways (Fig. 1-18). * ROS are produced normally in small amounts in all cells during the reduction-oxidation (redox) reactions that occur during mitochondrial respiration and energy genera- tion. In this process, molecular oxygen is sequentially reduced in mitochondria by the addition of four elec- trons to generate water. This reaction is imperfect, however, and small amounts of highly reactive but sho-lived toxic intermediates are generated when oxygen is only paially reduced. These intermediates include superoxide (O2 * ), which is conveed to hydro- gen peroxide (H2. O2) spontaneously and by the action of the enzyme superoxide dismutase. H2. O2 is more stable than O2 * and can cross biologic membranes. In the pres- ence of metals, such as Fe2+, H2. O2 is conveed to the highly reactive hydroxyl radical * OH by the Fenton reaction. Ref Robbins 9/e p26",
         "cop": 2,
@@ -3731,32 +2717,6 @@
         "choice_type": "single"
     },
     {
-        "question": "ECF is how much pa of total body water",
-        "exp": "Extracellular fluid is 1/3rd pa of total body water. While intracellular fluid Table 1. 3. 1 (Ref: Textbook of physiology AK Jain 4th edition page no. 24)",
-        "cop": 1,
-        "opa": "One third",
-        "opb": "Half",
-        "opc": "Two third",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "6cc4d264-c281-43f5-9c67-9c22e37d6e59",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about caveolin:",
-        "exp": "Caveolins are proteins that interact with cholesterol and polymerize to form the caveolae (flask-shaped membrane depressions). These are prominent in endothelial cells, where they help in the uptake of nutrients from the blood. These are involved in cholesterol regulation and transcytosis. Transcytosis across capillary endothelium",
-        "cop": 4,
-        "opa": "Involved in transcytosis",
-        "opb": "Involved in cholesterol regulation",
-        "opc": "Signal transduction",
-        "opd": "All of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General Physiology",
-        "id": "2b6a6293-b163-4db0-95f1-68119e280731",
-        "choice_type": "multi"
-    },
-    {
         "question": "Adenylyl cyclase is associated with",
         "exp": "Adenylyl cyclase is a transmembrane protein, and it crosses the membrane 12 times. Ten isoforms of this enzyme have been described and each can have distinct regulatory propeies, permitting the c. AMP pathway to be customized to specific tissue needs. Notably, stimulatory heterotrimeric G proteins (Gs) activate, while inhibitory heterotrimeric G proteins (Gi) inactivate adenylyl cyclase (Figure 2-28). When the appropriate ligand binds to a stimulatory receptor, a Gs a subunit activates one of the adenylyl cyclases. (Ref: Ganong&; s review of medical physiology 23rd edition Page no: 56)",
         "cop": 2,
@@ -3770,32 +2730,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are ATP dependent transpoers except",
-        "exp": "ATP-dependent transpoers, as their name implies, use the energy in ATP to drive the movement of molecules/ ions across the membrane. There are two groups of ATP-dependent transpoers: ATPase ion transpoers and ATP-binding cassette (ABC) transpoers. Na+ K+ ATPase, H+ ATPase, CFTR is an example for ATP-binding cassette (ABC) transpoer. Na+ Ca2+ exchanger is a secondary active transpoer. Reference: Berne and Levy Physiology; updated 6th edition, Page no: 9",
-        "cop": 4,
-        "opa": "Na+ K+ ATPase",
-        "opb": "H+ ATPase",
-        "opc": "Cystic Fibrosis Transmembrane Regulator (CFTR)",
-        "opd": "Na+ Ca2+ exchanger",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "68bc8ccc-28c4-4ec2-86b2-6b07d22190ff",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Transcellular fluid is seen in",
-        "exp": "It represents fluid in the lumen of structures lined by epithelium. (Ref: Textbook of physiology AK Jain 5th edition page no. 25)",
-        "cop": 1,
-        "opa": "Body cavities lined by epithelium",
-        "opb": "Intracellularly",
-        "opc": "Intercellularly",
-        "opd": "None of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "1b1a2c76-5229-4a32-91c7-6a757f467403",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hormone acting on nuclear receptors",
         "exp": "Thyroid Hormones Increase Gene Transcription in the Cell Nucleus The thyroid hormones thyroxine and triiodothyronine cause increased transcription by specific genes in the nucleus. To accomplish this, these hormones first bind directly with receptor proteins in the nucleus; these recep- tors are activated transcription factors located within the chromosomal complex, and they control the function of the gene promoters, as explained in Chapter 3. Two impoant features of thyroid hormone function in the nucleus are the following: 1. They activate the genetic mechanisms for the forma- tion of many types of intracellular proteins--probably 100 or more. Many of these are enzymes that promote enhanced intracellular metabolic activity in viually all cells of the body. 2. Once bound to the intranuclear receptors, the thyroid hormones can continue to express their control functions for days or even weeks. Hormones That Act Mainly on the Genetic Machinery of the Cell Steroid Hormones Increase Protein Synthesis Another means by which hormones act--specifically, the steroid hormones secreted by the adrenal coex, ovaries, and testes--is to cause synthesis of proteins in the target cells. These proteins then function as enzymes, transpo proteins, or structural proteins, which in turn provide other functions of the cells. The sequence of events in steroid function is essen- tially the following: 1. The steroid hormone diffuses across the cell membrane and enters the cytoplasm of the cell, where it binds with a specific receptor protein. 2. The combined receptor protein-hormone then diffuses into or is transpoed into the nucleus. 3. The combination binds at specific points on the DNA strands in the chromosomes, which activates the tran- scription process of specific genes to form m. RNA. 4. The m. RNA diffuses into the cytoplasm, where it pro- motes the translation process at the ribosomes to form new proteins. To give an example, aldosterone, one of the hormones secreted by the adrenal coex, enters the cytoplasm of renal tubular cells, which contain a specific receptor protein often called the mineralocoicoid receptor. Therefore, in these cells, the sequence of events cited earlier ensues. After about 45 minutes, proteins begin to appear in the renal tubular cells and promote sodium reabsorption from the tubules and potassium secretion into the tubules. Thus, the full action of the steroid hormone is characteristically delayed for at least 45 minutes--up to several hours or even days. This is in marked contrast to the almost instantaneous action of some of the peptide and amino acid-derived hormones, such as vasopressin and norepinephrine. Ref guyton and hall textbook of medical physiology edtion 12 pg 891",
         "cop": 2,
@@ -3807,19 +2741,6 @@
         "topic_name": "General physiology",
         "id": "16a999c8-5a0a-4e53-b85f-e4d20b0528e9",
         "choice_type": "single"
-    },
-    {
-        "question": "About first order kinetics true statement is",
-        "exp": "I 1st order reaction half life remains constant and clearence remains constant In zero order reaction half life decrease with decrease in concentration Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 489, 490",
-        "cop": 1,
-        "opa": "Clearance remains constant",
-        "opb": "Fixed amount of the drug is eliminated",
-        "opc": "Half life increase with dose",
-        "opd": "Decreased clearance with increasing dose",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "3a684f01-5f80-43dd-b767-c6955e2e0130",
-        "choice_type": "multi"
     },
     {
         "question": "What is staircase effect in muscle contraction",
@@ -3900,45 +2821,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are examples of primary active transpo, except:",
-        "exp": "Sodium/glucose sympoer is an example of secondary active transpo. SERCA: Sarcoplasmic Endoplasmic Reticulum Ca++ ATPase. It transpos two molecules of Ca++ for each molecule of ATP hydrolysed. Ca++ pumped out of the sarcoplasm, into the longitudinal tubules, to decrease the sarcoplasmic and thus causes muscle relaxation.",
-        "cop": 3,
-        "opa": "The Na+/K+ ATPase in the red cell membrane",
-        "opb": "The H+/K+ ATPase in the parietal cell of stomach",
-        "opc": "Na+/ glucose sympoer",
-        "opd": "SERCA in the skeletal muscle",
-        "subject_name": "Physiology",
-        "topic_name": "General Physiology",
-        "id": "1c02a101-e538-41e3-ada2-44d8ad2e53cf",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Energy is required in",
-        "exp": "The passage of substances against their electrical and chemical gradient at the expenditure of energy is called active transpo. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 6)",
-        "cop": 3,
-        "opa": "Diffusion",
-        "opb": "Osmosis",
-        "opc": "Active transpo",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "d3569d6f-a0dd-4967-acc9-fc30e79e6214",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about metastatic calcification",
-        "exp": "Metastatic calcification is associated with hypercalcemia and occur in normal tissues and stas in the mitochondria. Metastatic Calcification Metastatic calcification can occur in normal tissues when- ever there is hypercalcemia. The major causes of hypercal- cemia are (1) increased secretion of parathyroid hormone, due to either primary parathyroid tumors or production of parathyroid hormone-related protein by other malignant tumors; (2) destruction of bone due to the effects of acceler- ated turnover (e. g., Paget disease), immobilization, or tumors (increased bone catabolism associated with multiple myeloma, leukemia, or diffuse skeletal metastases); (3) vitamin D-related disorders including vitamin D intoxication and sarcoidosis (in which macrophages activate a vitamin D precursor); and (4) renal failure, in which phosphate reten- tion leads to secondary hyperparathyroidism. Ref: Textbook of Pathology HARSH MOHAN 7th Edition page no. 36",
-        "cop": 4,
-        "opa": "Serum ca level is normal",
-        "opb": "Occurs in dead/dying tissue",
-        "opc": "Occurs in damaged heart valves",
-        "opd": "Calcification stas in mitochondria",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "d3564304-fbc9-43b6-8d75-81683fce4a99",
-        "choice_type": "multi"
-    },
-    {
         "question": "Activation of protein kinase-C causes",
         "exp": "Protein kinase C, commonly abbreted to PKC (EC 2. 7. 11. 13), is a family of protein kinase enzymes that are involved in controlling the function of other proteins through the phosphorylation of hydroxyl groups of serine and threonine amino acid residues on these proteins, or a member of this family.",
         "cop": 2,
@@ -3963,32 +2845,6 @@
         "topic_name": "General physiology",
         "id": "e2858844-e6c1-4ab3-9862-05a7c327724f",
         "choice_type": "single"
-    },
-    {
-        "question": "True statements about ions composition in body",
-        "exp": "Electrolyte constitutes about 7% of total body weight. In ECF Na, Cl is the principle ions. Whereas K is more intracellularly. (REF TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO 62, 22)",
-        "cop": 3,
-        "opa": "Intracellular & Extracellular ions compositions are same",
-        "opb": "Phosphorus and Mg++ are major ions intracellularly",
-        "opc": "Na+, Cl- principal ions in E. C. F.",
-        "opd": "Kidney tightly regulates Na+, K+, Cl- composition",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "30fbb1cc-c5ab-4312-934a-525b868c05ac",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Calcium is pumped back into sarcoplasmic reticulum by",
-        "exp": "Depolarization of the T tubule membrane activates the sarcoplasmic reticulum dihydropyridine receptors (DHPR), named for the drug dihydropyridine, which blocks them. DHPR are voltage-gated Ca2+ channels in the T tubule membrane. In cardiac muscle, influx of Ca2+ these channels triggers the release of Ca2+ stored in the sarcoplasmic reticulum (calcium-induced calcium release) by activating the ryanodine receptor (RyR). The RyR is named after the plant alkaloid ryanodine that was used in its discovery. It is a ligand-gated Ca2+ channel with Ca2+ as its natural ligand. In skeletal muscle, Ca2+ entry from the extracellular fluid (ECF) by this route is not required for Ca2+ release. Instead, the DHPR that serves as the voltage sensor unlocks release of Ca2+ from the nearby sarcoplasmic reticulum physical interaction with the RyR. The released Ca2+ is quickly amplified through calcium-induced calcium release. Ca2+ is reduced in the muscle cell by the sarcoplasmic or endoplasmic reticulum Ca2+ ATPase (SERCA) pump. The SERCA pump uses energy from ATP hydrolysis to remove Ca2+ from the cytosol back into the terminal cisterns, where it is stored until released by the next action potential. Ref: Ganong&; s review of medical physiology, 23rd edition, page no: 100",
-        "cop": 1,
-        "opa": "SERCA",
-        "opb": "Sodium pump",
-        "opc": "Rinotidine receptor",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "63b754e1-55cc-4991-9192-ab50fb449753",
-        "choice_type": "multi"
     },
     {
         "question": "Skeletal muscle contraction ends when",
@@ -4056,19 +2912,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about apoptosis",
-        "exp": "Apoptotic DNA fragmentation is a key feature of apoptosis, a type of programmed cell death. Apoptosis is characterized by the activation of endogenous endonucleases, paicularly the caspase-3 activated DNase (CAD), with subsequent cleavage of nuclear DNA into internucleosomalfragments of roughly 180 base pairs (bp) and multiples thereof (360, 540 etc.). The apoptotic DNA fragmentation is being used as a marker of apoptosis and for identification of apoptotic cells Ref guyton and hall textbook of medical physiology 12/e pg 40 and robbins 9/e pg 18",
-        "cop": 2,
-        "opa": "Increase in lysosomal enzyme",
-        "opb": "Increase in caspases",
-        "opc": "Phosphatidyl serine has impoant role",
-        "opd": "Intemucleosomal cleavage of nucleus",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "fa528c09-1b76-43d7-a23b-eb366cf991ef",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not a common site for metastatic calcification?",
         "exp": "Metastatic calcification may occur in normal tissues whenever there is hypercalcemia. Metastatic calcification may occur widely throughout the body but principally affects the interstitial tissues of the gastric mucosa, kidneys, lungs, systemic aeries, and pulmonary veins. But don't occur in parathyroid glands Robbins pathology 9e pg: 65",
         "cop": 3,
@@ -4080,19 +2923,6 @@
         "topic_name": "General physiology",
         "id": "9b773d70-5331-4c58-a6de-3f139c721834",
         "choice_type": "single"
-    },
-    {
-        "question": "The parameter that changes with advancement of age",
-        "exp": "The hemoglobin concentration, red blood cell count, and hematocrit value began to decrease in men in their sixth decade and in women in their seventh decade and the change was more prominent with advancing age, especially in men. The white blood cell count and platelet count tended to decrease with advancing age. Ref: guyton and hall textbook of medical physiology 12 edition page number: 116, 117, 118",
-        "cop": 1,
-        "opa": "Hematocrit",
-        "opb": "Creatinine clearance",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "53a3be44-da20-4d4a-9050-6c959e1091f6",
-        "choice_type": "multi"
     },
     {
         "question": "In a neuron, graded electrogenesis occurs at",
@@ -4199,19 +3029,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are indications of hyperbaric oxygen therapy except",
-        "exp": "Hyperbaric O2 therapy in closed tanks is used to treat diseases in which improved oxygenation of tissues cannot be achieved in other ways. It is of demonstrated value in carbon monoxide poisoning, radiation-induced tissue injury, gas gangrene, very severe blood loss anemia, diabetic leg ulcers, and other wounds that are slow to heal, and rescue of skin flaps and grafts in which the circulation is marginal. It is also the primary treatment for decompression sickness and air embolism. A chronic condition characterized by lung cysts and densities (bronchopulmonary dysplasia) develops in some infants treated with O2 for respiratory distress syndrome. This syndrome may be a manifestation of O2 toxicity. Reference: Ganong's Review of Medical Physiology; 25th edition; Page no: 652",
-        "cop": 4,
-        "opa": "Gas gangrene",
-        "opb": "Diabetic foot",
-        "opc": "Carbon monoxide poisoning",
-        "opd": "Bronchopulmonary dysplasia",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "4d423afd-c246-4872-83be-68b7307a8aa4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most peptide and protein hormones are synthesized as",
         "exp": "Preprohormones are the gene products for most peptide and protein hormones. These are rapidly cleaved to form prohormones. POMC and propressophysin are two examples of specific prohormones. Ref: Guyton; 13th edition",
         "cop": 4,
@@ -4277,19 +3094,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Transpo of sodium potassium is called as",
-        "exp": "In Na-K pump for every 3 ions of Na+ extruded, 2 ions of K+ are drawn in. ie, antipo. (Ref: Textbook of physiology N Geetha 2nd edition page no. 6)",
-        "cop": 4,
-        "opa": "Sympo",
-        "opb": "NaK ATPase",
-        "opc": "Netural",
-        "opd": "Antipo",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "e9d85c76-56a9-4f70-86e0-449cb7bd1f92",
-        "choice_type": "multi"
-    },
-    {
         "question": "Saltatory conduction in myelinated axons results from the fact that",
         "exp": "\"Saltatory\" Conduction in Myelinated Fibers from Node to Node: Even though almost no ions can flow through the thick myelin sheaths of myelinated nerves, they can flow with ease through the nodes of Ranvier. Therefore, action potentials occur only at the nodes. Yet the action potentials are conducted from node to node, this is called saltatory conduction. That is, electrical current flows through the surrounding extracellular fluid outside the myelin sheath, as well as through the axoplasm inside the axon from node to node, exciting successive nodes one after another. Thus, the nerve impulse jumps along the fiber, which is the origin of the term \"saltatory. \"Ref: Guyton; 13th edition; Chapter 5; Membrane Potentials and Action Potentials",
         "cop": 4,
@@ -4301,19 +3105,6 @@
         "topic_name": "General physiology",
         "id": "763e10b9-1aec-4ea9-bbe8-a98cbe2ac4a3",
         "choice_type": "single"
-    },
-    {
-        "question": "All are major calcium binding proteins except",
-        "exp": "Troponin helps in contraction of muscle. calmodulin helps in activalting enzymes and calcinuerium helps in inactivation of calcium channels",
-        "cop": 3,
-        "opa": "Troponin",
-        "opb": "Calmodulin",
-        "opc": "Actinin",
-        "opd": "Calcineurium",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "04555dd3-1be7-4a80-95ae-9e4c662d12f6",
-        "choice_type": "multi"
     },
     {
         "question": "Which one of the following Norepinephrine acts by decreasing c. AMP concentration?",
@@ -4342,19 +3133,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following statements about phagocytosis are true, except",
-        "exp": "mm Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 15, 16",
-        "cop": 2,
-        "opa": "Amoeba and other unicellular protozoa make their living out of this",
-        "opb": "Used to ingest paicles < 0. 5 microns in size",
-        "opc": "Used to ingest paicles > 0. 5 microns in size",
-        "opd": "Digestion occurs within phagolysosomes",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "eaec829c-b877-43d0-9f94-579573827a6b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most distinguishable feature between skeletal and smooth muscle is the presence of ------ in smooth muscle",
         "exp": "Actin, myosin & tropomyosin are present in both skeletal muscle & smooth muscle, but troponin is absent in smooth muscle",
         "cop": 1,
@@ -4366,19 +3144,6 @@
         "topic_name": "General physiology",
         "id": "34ff81f5-f16f-46bf-951b-34691bbc4f6c",
         "choice_type": "single"
-    },
-    {
-        "question": "Plasma drug monitoring is done for",
-        "exp": "The difference between the usual effective dose and the dose that causes severe or life-threatening side effects is called the margin of safety. Ref: Essentials of Medical Pharmacology KD TRIPATHI 7th edition Page no: 55",
-        "cop": 2,
-        "opa": "Drug with high safety margin",
-        "opb": "Drug with low safety margin",
-        "opc": "Drug with high therapeutic index",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "d1cbc016-777a-4c5c-9b98-78c2981dbb6d",
-        "choice_type": "multi"
     },
     {
         "question": "Active tension in a muscle depends upon which of the following",
@@ -4394,19 +3159,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following factors stimulate Growth hormone secretion except",
-        "exp": "Factors That Stimulate or Inhibit Secretion of Growth Hormone. Stimulate Growth Hormone. Secretion. Inhibit Growth Hormone. Secretion. Decreased blood glucose. Increased blood glucose. Decreased blood free fattyacids. Increased blood free fattyacids. Increased blood aminoacids (arginine). Aging. Starvation or fasting, protein deficiency. Obesity. Trauma, stress, excitement, Exercise. Growth hormone(exogenous). Testosterone, estrogen. Somatomedins (insulin-likegrowth factors). Deep sleep (stages II and IV). Growth hormone inhibitoryhormone (somatostatin). Growth hormone-releasinghormone. Increased blood glucose. Ghrelin. Increased blood free fattyacids. Ref: Guyton; 13th edition; Chapter 76; Pituitary Hormones and Their Control by the Hypothalamus",
-        "cop": 4,
-        "opa": "Deep sleep",
-        "opb": "Increased blood amino acids",
-        "opc": "Exercise",
-        "opd": "Increased blood glucose",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "9fdc6d71-074e-4111-b5b6-8489fdec8549",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most diffusible ion in excitable tissue is",
         "exp": "Most diffusible ion in excitable tissue skeletal muscle and nerve cell is potassium Ref: www. gradestack. com",
         "cop": 2,
@@ -4418,19 +3170,6 @@
         "topic_name": "General physiology",
         "id": "50dbba37-b3ac-440c-875b-bcd9fd368989",
         "choice_type": "single"
-    },
-    {
-        "question": "Watson and crick are known for:",
-        "exp": "Watson and Crick discovered helical structure of DNA and won a noble prize for it (Ref: TEXTBOOK OF MEDICAL PHYSIOLOGY - GEETHA)",
-        "cop": 1,
-        "opa": "Discovery of helical structure of DNA",
-        "opb": "Association of Helicobacter Pylori with Chronic Gastritis",
-        "opc": "Discovery of HIV virus",
-        "opd": "None of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "757e707d-529b-4ca6-816c-1d5cae9cf85d",
-        "choice_type": "multi"
     },
     {
         "question": "What is the mechanism by which catecholamines stabilize blood glucose concentration in response to hypoglycemia?",
@@ -4459,19 +3198,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Fat necrosis is common in",
-        "exp": "Fat necrosis found in breast(traumatic fat necrosis), fat deposits throughout peritonial cavity(omentum, retroperitoneum). (Ref: Textbook of Pathology HARSH MOHAN 6th Edition page no. 45)",
-        "cop": 4,
-        "opa": "Omentum",
-        "opb": "Breast",
-        "opc": "Retroperitoneal fat",
-        "opd": "All of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "20e4a386-0646-4e0d-a9eb-74d390f29a47",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a Relaxation protein?",
         "exp": "Tropomyosin molecules cover all the active site of actin molecule. It is located in the groove between the two chains of actin. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 40)",
         "cop": 3,
@@ -4483,19 +3209,6 @@
         "topic_name": "General physiology",
         "id": "639b289c-c6c7-4b14-a9ff-494b9ad50039",
         "choice_type": "single"
-    },
-    {
-        "question": "Sarcomere extends between",
-        "exp": "The area between two adjacent Z lines is called a sarcomere. The thick filaments are lined up to form the A bands, whereas the array of thin filaments extends out of the A band and into the less dense staining I bands. (REF. GANONG'S REVIEW OF MEDICAL PHYSIOLOGY -23rd EDITION. Page No-95.)",
-        "cop": 2,
-        "opa": "A band & I band",
-        "opb": "Two Z lines",
-        "opc": "Two I bands",
-        "opd": "None",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "caf394d9-2bfc-4359-9d2f-012b2556592c",
-        "choice_type": "multi"
     },
     {
         "question": "Parasympathetic stimulation of the heart accompanied by a withdrawal of sympathetic tone to most of the blood vessels of the body is characteristic of",
@@ -4537,19 +3250,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which factor does not affect the diffusion of substance through the cell membrane?",
-        "exp": "Diffusion occur without the expenditure of energy. It depend on the concentration of molecules. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 4)",
-        "cop": 3,
-        "opa": "Molecular size of the substance",
-        "opb": "Lipid solubility of the membrane",
-        "opc": "ATP generating capacity on both sides of membrane",
-        "opd": "Distribution of channels for the substance in the membrane",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "adec1165-edac-4774-952a-43d1f5e98f29",
-        "choice_type": "multi"
-    },
-    {
         "question": "Passive transfer of solvent occurs in",
         "exp": "Osmosis is the passive flow of the solvent into a region where there is a higher concentration of a solute to which the membrane is impermeable. (Ref: Textbook of physiology AK Jain 5th edition page no. 14)",
         "cop": 3,
@@ -4576,19 +3276,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true regarding Donnan effect except",
-        "exp": "\"When an ion on one side of a membrane cannot diffuse through the membrane, the distribution of other ions to which the membrane is permeable is affected in a predictable way. The Donnan effect on the distribution of ions has three effects in the body. First, because of charged proteins (Prot-) in cells, there are more osmotically active paicles in cells than in interstitial fluid, and because animal cells have flexible walls, osmosis would make them swell and eventually rupture if it were not for Na, K ATPase pumping ions back out of cells. Thus, normal cell volume and pressure depend on Na, K ATPase. Second, because at equilibrium the distribution of permeant ions across the membrane (m in the example used here) is asymmetric, an electrical difference exists across the membrane whose magnitude can be determined by the Nernst equation. Third, because there are more proteins in plasma than in interstitial fluid, there is a Donnan effect on ion movement across the capillary wall. \" \"The plasma proteins do more than just act as osmotic agents. Because these proteins also carry negative charges, the Donnan effect causes an increase in both the concentrations of cations and the colloid osmotic pressure in the capillary lumen. \"",
-        "cop": 3,
-        "opa": "Donnan effect prevents cell rupture",
-        "opb": "There is no Donnan effect on diffusible ion movement across the capillary wall",
-        "opc": "Non diffusible ion on one side of membrane affects the distribution of other diffusible ions",
-        "opd": "Donnan effect causes a decrease in both the concentrations of cations and the colloid osmotic pressure in the capillary lumen",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "e59be7b5-f909-4b27-aa01-0eee27e00c2f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following would cause a decrease in stroke volume, when compared with the normal resting value?",
         "exp": "Electrical pacing to a heart rate of 200 beats/min would decrease the time for filling and reduce end-diastolic volume. A reduction in afterload would make it easier for the ventricle to eject blood and would raise stroke volume. An increase in end-diastolic pressure will increase end-diastolic fiber length and increase the force of contraction and stroke volume. Stimulation of the vagus nerves slows the heart, increases the time for ventricular filling, and increases stroke volume. Stimulation of sympathetic nerves to the heart increases heart rate and contractility. Despite the decreased filling accompanying an increase in heart rate, stroke volume will stay the same or increase because of the increased contractility",
         "cop": 4,
@@ -4602,19 +3289,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Not true about ghrelin is",
-        "exp": "Ghrelin, the \"hunger hormone\", also known as lenomorelin, is a peptide hormone produced by ghrelinergic cells in the gastrointestinal tract. Ghrelin functions as a neuropeptide in the central nervous system. Besides regulating appetite, it also plays a significant role in regulating energy homeostasis. Ghrelin cells are found mainly in the stomachand duodenum, but also in the jejunum, lungs, pancreatic islets, gonads, adrenal coex, placenta, and kidney. It has recently been shown that ghrelin is produced locally in the brain Ghrelin has been linked to inducing appetite and feeding behaviors. Circulating ghrelin levels are the highest right before a meal and the lowest right after. Injections of ghrelin in both humans and rats have been shown to increase food intake in a dose-dependent manner. So the more ghrelin that is injected the more food that is consumed. However, ghrelin does not increase meal size, only meal number. Ghrelin injections also increase an animal's motivation to seek out food, behaviors including increased sniffing, foraging for food, and hoarding food. Body weight is regulated through energy balance, the amount of energy taken in versus the amount of energy expended over an extended period of time. Studies have shown that ghrelin levels are negatively correlated with weight. This data suggests that ghrelin functions as an adipositysignal, a messenger between the body's energy stores and the brain Ref guyton and hall hall textbook of medical physiology 12th edition pg 554",
-        "cop": 2,
-        "opa": "Causes lipdlysis",
-        "opb": "Has anorexic effect",
-        "opc": "Secreted by oxyntic cells",
-        "opd": "None of the above",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "416f4223-871b-4795-be46-8bbc1e1afb3d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Protein connecting Z-lines to M-lines",
         "exp": "The giant protein titin is thought to play major roles in the assembly and function of muscle sarcomeres. Structural details, such as widths of Z- and M-lines and periodicities in the thick filaments, correlate with the substructure in the respective regions of the titin molecule. Sarcomere rest length, its operating range of lengths, and passive elastic propeies are also directly controlled by the propeies of titin. (Ref: <a href=\"",
         "cop": 3,
@@ -4626,19 +3300,6 @@
         "topic_name": "General physiology",
         "id": "5806562b-2c62-48ad-a878-1b4a78e96e8c",
         "choice_type": "single"
-    },
-    {
-        "question": "Across the cell membrane of a skeletal muscle cell in the resting state with a non-electrogenic pump",
-        "exp": "Only if the membrane potential (MP) is at the value of electrochemical equilibrium for sodium (around +60 mv) is there no net movement of sodium across the cell membrane; only at electrochemical equilibrium for potassium (around -100 mv) is there no net movement of potassium. For all MP values between +60 and -100 there is an influx of sodium and an efflux of potassium. When the pump is non-electrogenic (does not contribute to the MP), the resting MP occurs at that value at which the rate of sodium influx equals the rate of potassium efflux. If the membrane is equally permeable to both sodium and potassium, then the resting MP will be about midway between +60 and -100 mv. Because the rate of flux of an ion is a product of permeability to that ion and the distance from electrochemical equilibrium for that ion, then when potassium is more permeable than sodium, as it is in a typical cell at rest, the point at which the rate of sodium influx equals that of potassium efflux is much closer to the potassium electrochemical equilibrium.",
-        "cop": 2,
-        "opa": "Both sodium and potassium are in electrochemical equilibrium",
-        "opb": "The rate of sodium influx is equal to the rate of potassium efflux",
-        "opc": "The rate of sodium influx is much less than the rate of potassium efflux",
-        "opd": "The rate of sodium influx is much greater than the rate of potassium efflux",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "eaac0fda-6708-435d-837c-716140f4a733",
-        "choice_type": "multi"
     },
     {
         "question": "Receptor-mediated endocytosis is by",
@@ -4797,45 +3458,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which one is true about serotonin?",
-        "exp": "Serotonin is a powerful vasoconstrictor, produces hyperpnea, increases tone of smooth muscle of intestine, bronchioles. (Ref: Textbook of physiology N Geetha 2nd edition page no. 446)",
-        "cop": 3,
-        "opa": "Sleep suppressant",
-        "opb": "Increase appitite",
-        "opc": "Vasoconstriction",
-        "opd": "Bronchodialtion",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "3bcebe3a-1427-44fb-bd24-6fbf7d15287b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following transpo processes follow 'saturation kinetics' except",
-        "exp": "Diffusion primarily depends on the concentration of molecules. Passage of ions or molecule from a region of higher concentration to a lower concentration without the expenditure of energy is called diffusion. (REF TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 4)",
-        "cop": 3,
-        "opa": "Facilitated diffusion",
-        "opb": "Na+ - Ca2+ exchanger",
-        "opc": "Simple diffusion",
-        "opd": "Na+ coupled active transpo",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "9118df13-d539-472a-98be-f8faf737afbf",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about reticular activating system except",
-        "exp": "A high frequency stimulation of the midbrain reticular formation (the RAS) produces the EEG aleing response and arouses a sleeping animal. Reticular activating system (RAS) The RAS is a complex polysynaptic pathway arising from the brainstem reticular formation and hypothalamus with projections to the intralaminar and reticular nuclei of the thalamus which, in turn, project diffusely and nonspecifically to wide regions of the coex including the frontal, parietal, temporal, and occipital coices. Collaterals funnel into it from the long ascending sensory tracts, the trigeminal, auditory, visual, and olfactory systems. The reticular formation plays an impoant role in determining the level of arousal; thus, it is called the ascending activating system(ARAS). Ref: Ganong's Review of Medical Physiology 25th edition Pgno: 271, 278",
-        "cop": 4,
-        "opa": "Involved in arousal",
-        "opb": "Polysynaptic pathway",
-        "opc": "Receives collateral from sensory pathway",
-        "opd": "Doesnot produce EEG aleing response",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "62999c2d-eef5-4128-9343-9644dbcd64cd",
-        "choice_type": "multi"
-    },
-    {
         "question": "The resting membrane potential of a cell is due to permeability of",
         "exp": "K+ permeability is greater than Na+ permeability, therefore, K+channels maintain the RMP. (Ref: Textbook of physiology AK Jain 5th edition page no. 35)",
         "cop": 1,
@@ -4927,19 +3549,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What propey of the postsynaptic neuron would optimize the effectiveness of two closely spaced axodendritic synapses?",
-        "exp": "Space constant increases with increasing membrane resistance or decreasing cytoplasmic resistance. Cytoplasmic resistance decreases as the cross-sectional area increases. Ref: Guyton; 13th edition; Chapter 46 Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters",
-        "cop": 1,
-        "opa": "A high membrane resistance",
-        "opb": "A high dendritic cytoplasmic resistance",
-        "opc": "A small cross-sectional area",
-        "opd": "A small space constant",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "888a74a5-a5e5-4b8c-bda6-9a7dc3ceb2d8",
-        "choice_type": "multi"
-    },
-    {
         "question": "A primigravida with 38 completed weeks of gestation has gone into labor. Oxytoxin was staed to augment labor. The second messenger system through which oxytoxin acts is?",
         "exp": "The second messenger system through which oxytoxin acts in phospoholipase C mechanism. Hormones acting IP3- DAGor phospholipase C pathway: Acetylcholine (muscuranic) Angiotensin II ] ADH (V1 receptor ) a1 receptor adrenergic hormones Cholecystokinin Gastrin Gn. RH Oxytoxin TRH GHRH Substance P Ref: internet sources",
         "cop": 2,
@@ -4992,19 +3601,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are markers of mitochondria except",
-        "exp": "5-nucleotidase is a marker in the mitochondria It cleaves 5 - nucleotides Ref: Guyton and Hall textbook of medical physiology 12th edition, pag number: 20, 21, 22",
-        "cop": 2,
-        "opa": "ATP synthase",
-        "opb": "5-nucleotidase",
-        "opc": "Glutamate dehydrogenase",
-        "opd": "Creatine kinase",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "994aff81-f4af-4f2e-ac86-995403e065f3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Gap junctions are found in",
         "exp": "Gap junction forms tunnels that join the cytoplasm of two cells. They permit the substance to pass from one cell to adjacent cells. It also helps in propagation of action potential from one cell to another. (REF: GANONG'S REVIEW OF MEDICAL PHYSIOLOGY)",
         "cop": 4,
@@ -5029,32 +3625,6 @@
         "topic_name": "General physiology",
         "id": "5d114bad-7820-4da9-b99a-1545103740e2",
         "choice_type": "single"
-    },
-    {
-        "question": "Oxidative or Respiratory burst phenomenon?",
-        "exp": "Activation of NADPH oxidase is associated with a sharp increase in O2 uptake and metabolism in the neutrophil (the respiratory burst) and generation of O2- by the following reaction: NADPH + H++ 2. O2+ - NADP++ 2H++ 2. O2- Reference: Ganong's Review of Medical Physiology; 25th edition; Page no: 68",
-        "cop": 3,
-        "opa": "Due to antimicrobial proteins called defensins",
-        "opb": "Occurs during diapedesis",
-        "opc": "Activation of NADPH oxidase associated with increase in oxygen uptake and metabolism in neutrophils",
-        "opd": "Production of HOCl, HOBr from Cl-, Br- respectively by the action of myeloperoxidase",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "8d42fed7-6d17-49be-bc3e-e528082025b3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about potassium, except",
-        "exp": "Insulin increases permeability of the cell to potassium, magnesium, phosphate ions. the effect of potassium is clinically impoant, insulin activates sodium potassium pump causing influx of potassium Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 610, 611, 612",
-        "cop": 2,
-        "opa": "Mostly concentrated inside the cells",
-        "opb": "Leaves the cell in the presence of insulin",
-        "opc": "Ingestion of acetazolamide results in potassium loss",
-        "opd": "Plasma concentration increases at time of metabolic acidosis",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "04d4eb0d-3c4f-4f0f-af6c-ff9c5d09aaa4",
-        "choice_type": "multi"
     },
     {
         "question": "Sensory function of the Pacinian corpuscle is",
@@ -5083,19 +3653,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Common for both simple and facilitated diffusion is:",
-        "exp": "Common factor between Simple and Facilitated diffusion is that they both transpo solute along the concentration gradient. Facilitated diffusion is a passive transpo mechanism that does not requires use of ATP and involves a carrier protein and it follows saturation kinetics. Fick's law of diffusion is followed by simple diffusion only..",
-        "cop": 4,
-        "opa": "Can be blocked by specific inhibitors",
-        "opb": "Follows Fick's Law",
-        "opc": "Follows saturation kinetics",
-        "opd": "Transpo along the concentration gradient",
-        "subject_name": "Physiology",
-        "topic_name": "General Physiology",
-        "id": "4d56f383-9a26-444b-83a8-6480e1c7a7d1",
-        "choice_type": "multi"
-    },
-    {
         "question": "NERST's potential of Na+ is",
         "exp": "NERNST potential of an ion is the potential at which there is net flow of the ion across the cell membrane.......... and for sodum it's about +55mv to +60mv REF: GANONG'S REVIEW OF MEDICAL PHYSIOLOGY -23rd EDITION. Page No-7)",
         "cop": 1,
@@ -5109,19 +3666,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are used to measure ECF volume, except",
-        "exp": "ECF is measured using inulin which is a polysaccharide. Other substances used are mannitol and sucrose. These substances cannot enter a cell but can freely cross the capillary membrane and thus distribute evenly in the ECF compaments. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 61)",
-        "cop": 2,
-        "opa": "Sucrose",
-        "opb": "Sodium chloride",
-        "opc": "Inulin",
-        "opd": "Heavy water",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "4990e7d7-a7ce-49a3-81e9-c1a43907282c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Major neurotransmitter released at end organ effectors of the sympathetic division of the autonomic nervous system",
         "exp": "In the parasympathetic division, neurons are cholinergic (that is, acetylcholine is the primary neurotransmitter). In sympathetic division, neurons are mostly adrenergic (that is, epinephrine and norepinephrine function as the primary neurotransmitters). Ref guyton and hall textbook of medical physiology 12/e pg 83",
         "cop": 1,
@@ -5133,45 +3677,6 @@
         "topic_name": "General physiology",
         "id": "3af48e3d-f1b2-4484-93b4-628c5ef42825",
         "choice_type": "single"
-    },
-    {
-        "question": "Kluver Bucy syndrome includes all except",
-        "exp": "Kluver bucy syndrome is produced due to bilateral lesion of medial temopral lobe including amygdaloid nucleus It includes hypersixuality, hyperorality, visual agnosia etc Ref: Guyton and Hall textbook of medical physiology 12th edition, pag number: 826, 837, 828",
-        "cop": 2,
-        "opa": "Hyper sexuality",
-        "opb": "Hyper activity",
-        "opc": "Placidity",
-        "opd": "Hyper metamorphosis",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "69d2aada-9581-4a73-a0cd-889536a23e94",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Most osmotically active intracellular cation",
-        "exp": "Potassium is the major intracellular cation, it helps to establish resting membrane potential in neurons and nerve fibers after membrane depolarization and action potential Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 50, 51, 52",
-        "cop": 1,
-        "opa": "K+",
-        "opb": "Na+",
-        "opc": "Mg+2",
-        "opd": "Protein",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "f432e0cc-a38f-40e0-ad44-b22516f4aa04",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is not true for cardiac and skeletal muscle fibers?",
-        "exp": "Physiologic Anatomy of Cardiac Muscle Figure 9-2 shows the histology of cardiac muscle, demon- strating cardiac muscle fibers arranged in a latticework, with the fibers dividing, recombining, and then spreading again. One also notes immediately from this figure that cardiac muscle is striated in the same manner as in skel- etal muscle. Fuher, cardiac muscle has typical myofibrils that contain actin and myosin filaments almost identical to those found in skeletal muscle; these filaments lie side by side and slide along one another during contraction in the same manner as occurs in skeletal muscle (see Chapter 6). But in other ways, cardiac muscle is quite different from skeletal muscle, as we shall see. Cardiac Muscle as a Syncytium. The dark areas crossing the cardiac muscle fibers in Figure 9-2 are called intercalated discs; they are actually cell membranes that separate individual cardiac muscle cells from one another. That is, cardiac muscle fibers are made up of many indi- vidual cells connected in series and in parallel with one another. At each intercalated disc the cell membranes fuse with one another in such a way that they form permeable \"com- municating\" junctions (gap junctions) that allow rapid diffusion of ions. Therefore, from a functional point of view, ions move with ease in the intracellular fluid along the longitudinal axes of the cardiac muscle fibers so that Aoa Pulmonary aery Inferior vena cava Superior vena cava Right ventricle Tricuspid valve Pulmonary valve Right atrium Pulmonary veins Left atrium Mitral valve Aoic valve Left ventricle Lungs HEAD AND UPPER EXTREMITY TRUNK AND LOWER EXTREMITY Figure 9-1 Structure of the heart, and course of blood flow through action potentials travel easily from one cardiac muscle cell to the next, past the intercalated discs. Thus, cardiac muscle is a syncytium of many heart muscle cells in which the cardiac cells are so interconnected that when one of these cells becomes excited, the action potential spreads to all of them, from cell to cell throughout the latticework interconnections. The heart actually is composed of two syncytiums: the atrial syncytium, which constitutes the walls of the two atria, and the ventricular syncytium, which constitutes the walls of the two ventricles. The atria are separated from the ventricles by fibrous tissue that surrounds the atrio- ventricular (A-V) valvular openings between the atria and ventricles. Normally, potentials are not conducted from the atrial syncytium into the ventricular syncytium directly through this fibrous tissue. Instead, they are con- ducted only by way of a specialized conductive system called the A-V bundle, a bundle of conductive fibers sev- eral millimeters in diameter that is discussed in detail in Chapter 10. This division of the muscle of the heart into two func- tional syncytiums allows the atria to contract a sho time ahead of ventricular contraction, which is impoant for effectiveness of heart pumping. Ref guyton and hall textbook of medical physiology 12/e pg 101",
-        "cop": 1,
-        "opa": "Both cardiac and skeletal muscles exhibit graded contraction",
-        "opb": "Excitation-contraction coupling in both depends upon increased intracellular Calcium",
-        "opc": "Excitation-contraction cdupling is not dependent on extracellular Ca2+ in skeletal muscle",
-        "opd": "Cardiac action potential has a plateau and a longer refractory period",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "b8141414-123d-4a35-8b93-cad42da5b09b",
-        "choice_type": "multi"
     },
     {
         "question": "Transcytosis occurs in",
@@ -5224,19 +3729,6 @@
         "topic_name": "General physiology",
         "id": "885bfbf4-5519-4ce9-8205-5762fc925230",
         "choice_type": "single"
-    },
-    {
-        "question": "Coronary blood flow to the left ventricle increases during all Except",
-        "exp": "During early systole, coronary blood flow falls as coronary vessels are compressed by the contracting myocardium. A fall in PO2 has a potent vasodilator effect on coronary vessels. Adenosine released from hypoxic myocardium is also a potent vasodilator. Sympathetic stimulation increases the rate and force of contraction; the resulting increase in the rate of production of vasodilator metabolites dilates coronary vessels. Myocardial work and metabolism are increased in hypertension. Ref: Guyton; 13th edition",
-        "cop": 1,
-        "opa": "Early systole",
-        "opb": "Myocardial hypoxia",
-        "opc": "Stimulation of sympathetic nerves of the heart",
-        "opd": "Aerial hypertension",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "436357a1-aac3-491e-9ebd-afc39be9da7c",
-        "choice_type": "multi"
     },
     {
         "question": "D2O is used to measure",
@@ -5304,19 +3796,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Dysdiadochokinesia",
-        "exp": "Dysdiadochokinesia: Inability to Perform Rapid Alternating Movements. Dysahria: Failure of Progression in Talking. Intention Tremor: When a person who has lost the cerebellum performs a voluntary act, the movements tend to oscillate, especially when they approach the intended mark, first overshooting the mark and then vibrating back and foh several times before settling on the mark. This reaction is called an intention tremor or an action tremor, and it results from cerebellar overshooting and failure of the cerebellar system to \"damp\" the motor movements. Cerebellar Nystagmus: Tremor of the Eyeballs. Ref: Guyton; 13th edition; Chapter 57; Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control",
-        "cop": 1,
-        "opa": "Inability to Perform Rapid Alternating Movements.",
-        "opb": "Failure of Progression in Talking.",
-        "opc": "Intention Tremor",
-        "opd": "Tremor of the Eyeballs",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "f567c291-5b9b-46a5-99f4-2119fae45704",
-        "choice_type": "multi"
-    },
-    {
         "question": "The inverse stretch reflex is due to",
         "exp": "The receptor for the inverse stretch reflux is in the Golgi tendon organ. (Ref: Ganong&; s Review of medical physiology 23rd edition page no. 162)",
         "cop": 2,
@@ -5341,19 +3820,6 @@
         "topic_name": "General physiology",
         "id": "d629b9dd-5d44-4a3f-8eb3-03fa03383201",
         "choice_type": "single"
-    },
-    {
-        "question": "True about intracellular receptor",
-        "exp": "Interacellular receptors are mainly present on nuclear surface They are eeceptors for peptide hormones Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 540, 541, 542",
-        "cop": 1,
-        "opa": "Mainly on nuclear surface",
-        "opb": "Estrogen does not act on it",
-        "opc": "GH acts on it",
-        "opd": "Vitamin E act on these",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "17069d9d-fe16-46e5-aafa-f006a941cc8c",
-        "choice_type": "multi"
     },
     {
         "question": "In apoptotic permeabilization of membrane occurs in",
@@ -5421,19 +3887,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true about Hepcidin except",
-        "exp": "Hepcidin, a 25-amino acid peptide secreted by hepatic Kupffer's cells downregulates duodenal iron absorption by regulating DMT1 activity as well as other proteins in the iron-responsive pathways (e. g., FP1). Hepcidin is a negative regulator of iron absorption because mice that fail to express hepcidin have elevated body iron stores, whereas mice with enhanced hepcidin expression have profound iron deficiency..",
-        "cop": 4,
-        "opa": "It is a 25- amino acid peptide secreted by Kupffer cells",
-        "opb": "Decreases duodenal absorption of iron",
-        "opc": "It regulates activity of transpoers DMT - 1 and ferropoin - 1",
-        "opd": "Mice with enhanced hepcidin expression have elevate body iron stores",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "b1444c09-3fa6-47dc-a3c5-7ecc5e1c5df9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Number of Golgi tendon organs per 100 extrafusal muscle fibres",
         "exp": "About 1 golgi tendon organ is responsible for 10 to 20 extrafusal fibers Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 689",
         "cop": 1,
@@ -5484,19 +3937,6 @@
         "topic_name": "General physiology",
         "id": "eb83c582-bffd-435a-a77d-3248c3d7a23d",
         "choice_type": "single"
-    },
-    {
-        "question": "Concurrent flexion of both wrists in response to electrical stimulation is characteristic of which area of the nervous system",
-        "exp": "A few of the fibers of pyramidal tract do not cross to the opposite side in the medulla but pass ipsilaterally down the cord in the ventral coicospinal tracts. Many, if not most, of these fibers, eventually cross to the opposite side of the cord either in the neck or in the upper thoracic region. These fibers may be concerned with control of bilateral postural movements by the supplementary motor coex. The supplementary motor area tends to produce bilateral motor responses when stimulated. The other areas would tend to produce unilateral responses. Ref: Guyton; 13th edition; Chapter 56; Coical and Brain Stem Control of Motor Function",
-        "cop": 4,
-        "opa": "Postcentral gyrus",
-        "opb": "Vestibulospinal tract",
-        "opc": "Dentate nucleus",
-        "opd": "Supplementary motor coex",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "ada06bb5-c79f-4ab3-a674-c2316894b291",
-        "choice_type": "multi"
     },
     {
         "question": "Inward flow of Na+ in heart leads to",
@@ -5551,19 +3991,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true about excitation-contraction coupling in skeletal muscle except that",
-        "exp": "Ca2+ binds to troponin C (not Tropomyosin) to initiate muscle contraction. Ref: Ganong&; s Review of Medical Physiology 26th edition Pgno: 105",
-        "cop": 4,
-        "opa": "Acetylcholine is released at the nerve terminal",
-        "opb": "Ca2+ is released from sarcoplasmic reticulum during contraction",
-        "opc": "Ca2+ is pumped back into sarcoplasmic reticulum during relaxation",
-        "opd": "Ca2+ binds to tropomyosin to initiate muscle contraction",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "1d6d9de0-8653-412a-a58a-b093ce99e2ef",
-        "choice_type": "multi"
-    },
-    {
         "question": "For development of alveolar PO2 of 60 mm Hg and high altitude illness to develop in an otherwise healthy person from sea level, rapid ascent to following height is required",
         "exp": "People have different susceptible to altitude sickness, on an average it begins around 2000 to 3000 meters above sea level Ref: Guyton and Hall textbook of medical physiology 12th edition, page number: 375, 376",
         "cop": 2,
@@ -5577,19 +4004,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A disease that produces decreased inhibitory input to the internal segment of the globus pallidus should have what effect on the motor area of the cerebral coex",
-        "exp": "The decrease in inhibition of globus pallidus internus will make its signals more strong. Globus pallidus internus inhibits thalamus. so inhibition of thalamus increases. Thalamus have an excitatory effect on motor coex, this signal is decreased as thalamus is inhibited.",
-        "cop": 3,
-        "opa": "Increased excitatory feedback directly to the coex",
-        "opb": "No effect",
-        "opc": "Decreased excitatory output from the thalamus to the coex",
-        "opd": "Increased excitatory output from the putamen to the coex",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "0b4dda03-bc10-442e-8994-97cc7e40cc6a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Resting membrane potential of neuron is",
         "exp": "The magnitude of resting membrane potential from tissue to tissue ranges from - 9 to - 100. RMP of nerve Fibre is - 70mV(REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO 22)",
         "cop": 2,
@@ -5601,19 +4015,6 @@
         "topic_name": "General physiology",
         "id": "9978bf8d-9aeb-41e9-82e8-2ed07f541d77",
         "choice_type": "single"
-    },
-    {
-        "question": "The number of muscle fibers innervated by a motor axon is smallest in",
-        "exp": "The extraocular and hand muscles have an innervations ratio of 3 to 6 whereas gastrocnemius and back muscle has a ratio of 2000. (Refer Medical Physiology by Guyton & Hall, 12th edition, page no: 96)",
-        "cop": 2,
-        "opa": "Gastrocnemius",
-        "opb": "Orbicularis oculi",
-        "opc": "Single unit smooth muscle",
-        "opd": "Soleus",
-        "subject_name": "Physiology",
-        "topic_name": "General physiology",
-        "id": "e049bbe8-c45b-4e17-b661-51d664fc1377",
-        "choice_type": "multi"
     },
     {
         "question": "Function of CAMP",

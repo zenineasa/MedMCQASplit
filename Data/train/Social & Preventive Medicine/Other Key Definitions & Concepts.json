@@ -1,57 +1,5 @@
 [
     {
-        "question": "Case fatality rate describes:",
-        "exp": "Case fatality rate: Deaths/cases x 100 CFR represents \"Killing power of a disease\". It is closely related to \"Virulence of organism\". It is applicable only for acute diseases. Time interval is not specified.",
-        "cop": 3,
-        "opa": "Communicability of infection",
-        "opb": "History of disease",
-        "opc": "Virulence of organism",
-        "opd": "Contribution of a disease among all deaths",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Other Key Definitions & Concepts",
-        "id": "9f2557ab-4c9f-4164-9172-20869d0d2977",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The state of social dysfunction is called as:",
-        "exp": "\"Sickness\" refers to a state of social dysfunction. \"Disease\" is a physiological/psychological dysfunction. \"Illness\" is a subjective state of the person who feels aware of not being well.",
-        "cop": 3,
-        "opa": "Illness",
-        "opb": "Disease",
-        "opc": "Sickness",
-        "opd": "Unwell",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Other Key Definitions & Concepts",
-        "id": "15321dfc-4259-4d7a-a821-fbb57168daf6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the statements about quarantine are true except:-",
-        "exp": "Isolation versus quarantine:- Isolation Quarantine Separation of Cases Healthy contacts of cases Done for Cases themselves Other persons around cases Duration Till recovery Till maximum IP",
-        "cop": 1,
-        "opa": "It is synonymous with Isolation",
-        "opb": "Absolute quarantine is restriction during the incubation period",
-        "opc": "Exclusion of children from schools is an example of Modified quarantine",
-        "opd": "Quarantine should not be longer than the longest incubation period",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Other Key Definitions & Concepts",
-        "id": "66b51926-90fd-4289-92e8-22bda5c069ce",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The following are Socio-economic indicators Except:",
-        "exp": "Socio economic indicators Housing Family size Literacy rate Availability per capita calorie GNP per capita Growth rate Un. Employment level Dependency ratio",
-        "cop": 4,
-        "opa": "Dependency ratio",
-        "opb": "Female literacy rate",
-        "opc": "Number of persons living per room",
-        "opd": "Notification rate",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Other Key Definitions & Concepts",
-        "id": "635101ad-0f69-4b8d-abd2-9e8df1c9f5c7",
-        "choice_type": "multi"
-    },
-    {
         "question": "An infection or infectious disease transmissible under natural condition from veebrate animals to man is known as",
         "exp": "Term Definition Zoonoses An infection or infectious disease transmissible under natural condition from veebrate animals to man. Exotic Disease which is impoed into a country, in which it doesn't occur normally. Epizootic Outbreak of disease in animal population. Epornithic Outbreak of disease in bird population.",
         "cop": 3,
@@ -63,45 +11,6 @@
         "topic_name": "Other Key Definitions & Concepts",
         "id": "89ad117e-31f1-4b56-b2b7-e2544d5db17d",
         "choice_type": "single"
-    },
-    {
-        "question": "A pay was attended by a group of 100 people. Out of 100, 60 cases were repoed to be infected with food poisoning. 12 deaths were recorded. what is the case fatality rate in above scenario?",
-        "exp": "Case fatality rate is: (12 deaths/ 60 cases)*100 = 20% Case fatality rate (Ratio)- (Total number of deaths due to a paicular disease/Total number of cases due to the same disease)*100. Case fatality rate Represents the killing power of a disease. It is typically used in acute infectious diseases (e. g., food poisoning, cholera, measles). Case fatality is closely related to virulence",
-        "cop": 3,
-        "opa": "6%",
-        "opb": "15%",
-        "opc": "20%",
-        "opd": "30%",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Other Key Definitions & Concepts",
-        "id": "399253ef-6e07-470d-be92-d11818bb77b9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Standard of Living (WHO) includes all except-",
-        "exp": "Definition of 'Standard Of Living' As per WHO, H - Housing I- Income S- Sanitation O- 0ccupation N- Nutrition H- Health E- Education R- Recreation O-Others - All the above can be used individually as measures of socio-economic status & collectively as an index of standard of living. - Thus, option 4 is wrong.",
-        "cop": 4,
-        "opa": "Income",
-        "opb": "Sanitation and nutrition",
-        "opc": "Level of provision of health",
-        "opd": "Human rights",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Other Key Definitions & Concepts",
-        "id": "af5c7cbc-4c2f-467b-9959-2df554623d36",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Most universally accepted indicator of health status of whole population and their socioeconomic conditions among the following is:-",
-        "exp": "Infant moality rate: Is one of the most universally accepted indicator of health status. IMR is a sensitive indicator of availability, utilization and effectiveness of health care, paicularly perinatal care. MCC of Infant moality in India are low bih weight & prematurity.",
-        "cop": 2,
-        "opa": "MMR",
-        "opb": "IMR",
-        "opc": "Life expectancy",
-        "opd": "Disease notification rates",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Other Key Definitions & Concepts",
-        "id": "72ef6056-e95d-4c69-9678-74aab977ed4a",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is a Good index of the \"Severity of a sho-term, acute disease\"?",
@@ -156,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are socio-economic determinants of health except:",
-        "exp": "Socio-economic determinants of Health of major impoance are:- (i) Economic status (ii) Education (iii) Occupation (iv) Political system.",
-        "cop": 4,
-        "opa": "Economic conditions",
-        "opb": "Education",
-        "opc": "Occupation",
-        "opd": "Culture",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Other Key Definitions & Concepts",
-        "id": "39e448c5-b196-49e6-8b12-c8b2015a4ec2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Carrier is defined as:-",
         "exp": "Carrier is Infected person harboring infectious agent without clinical features & acts as source of infection. Carriers are of 6 types: Content carrier - Carrier gets infection from a case. Paradoxical carrier- Carrier gets infection from another carrier. Chronic carrier - Carrier for duration of more than 6 months. Incubatory carrier - can transmit the agent during the incubation period before clinical illness begins. Convalescent carrier - can transmit the agent during recovery phase. Pseudo carrier - asymptomatic carrier with avirulent organisms. ( no need to worry about it)",
         "cop": 3,
@@ -206,19 +102,6 @@
         "topic_name": "Other Key Definitions & Concepts",
         "id": "6234c2d1-b784-4eb7-89c0-63a5523e5bdc",
         "choice_type": "single"
-    },
-    {
-        "question": "Index case refer to:-",
-        "exp": "First case of a communicable disease introduced into the population unit, being studied Primary case First case to come to attention of investigator Index case Developing from contact with primary case Secondary case An individual who has signs and symptoms connected to the suspected pathogens Suspect case",
-        "cop": 3,
-        "opa": "First case of disease in community",
-        "opb": "All cases that occurs after primary case",
-        "opc": "First case which comes into notice of investigator and usually it is secondary case",
-        "opd": "None of above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Other Key Definitions & Concepts",
-        "id": "a69bd8b2-fdd0-4145-b090-d587d965a5bf",
-        "choice_type": "multi"
     },
     {
         "question": "A 27 years old male unable to perform Sexual activity is:-",

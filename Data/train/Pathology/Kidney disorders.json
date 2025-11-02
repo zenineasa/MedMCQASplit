@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Nephrocalcinosis is seen in all except:",
-        "exp": "Nephrocalcinosis Diffuse deposition of calcium salts in the interstitium of the kidney associated with sarcoidosis, milk alkali syndrome and distal renal tubular acidosis Not associated with medullary cystic kidney. (DISTAL A= TYPE ONE A =STONE )",
-        "cop": 4,
-        "opa": "Sarcoidosis",
-        "opb": "Distal A",
-        "opc": "Milk alkali syndrome",
-        "opd": "Medullary cystic kidney",
-        "subject_name": "Pathology",
-        "topic_name": "Kidney disorders",
-        "id": "ba31c15d-6be2-4aee-b53e-2fa802011942",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common infectious agent associated with chronic pyelonephritis is:",
         "exp": "Chronic pyelonephritis: Bacteriological examination of the urine reveals: E. Coli ( most common ) Proteus species Streptococcus faecalis Pseudomonas species Microscopic features: Tubular thyroidization (filled with colloid casts) Interstitial fibrosis and inflammation Obliterative endaeritis of vessels",
         "cop": 4,
@@ -65,58 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is not true about Berger's disease?",
-        "exp": "Berger's disease (IgA nephropathy) Frequent cause of gross or microscopic hematuria. Mild proteinuria is frequently present Occassionally nephrotic syndrome may develop.",
-        "cop": 4,
-        "opa": "The pathological changes are proliferative and usually confined to mesangial cells",
-        "opb": "Hematuria may be gross or microscopic",
-        "opc": "On immunofluorescence deposits contain with IgA and IgG",
-        "opd": "Absence of associated proteinuria is pathognomic",
-        "subject_name": "Pathology",
-        "topic_name": "Kidney disorders",
-        "id": "dde1c6a8-bf7a-469c-9082-7f16a0bf6f08",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The Electron Microscopy is viually diagnostic in renal biopsy study of:",
-        "exp": "For Alpo syndrome, the most diagnostic morphologic lesion is seen only by electron microscopy as an irregularly thickened GBM, with splitting of the lamina densa into interlacing lamellae that surround electron-lucent areas.",
-        "cop": 3,
-        "opa": "Goodpasture's syndrome",
-        "opb": "Churg-Strauss syndrome",
-        "opc": "Alpo syndrome",
-        "opd": "Wegner's granulomatosis",
-        "subject_name": "Pathology",
-        "topic_name": "Kidney disorders",
-        "id": "e23fbe9a-fb19-44be-b450-c790278f31c0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Fibronectin nephropathy has all of the following features except:",
-        "exp": "Fibronectin nephropathy Autosomal dominant mode Proteinuria (MC presentation) and slowly progressive loss of renal function. Serum Fibronectinlevels are normal. Light microscopy: Glomerular enlargement and PAS ([?]), trichrome-positive but amyloid (-) mesangial deposits. Electron microscopy: Large (giant), mesangialand subendothelial electron-dense deposits.",
-        "cop": 1,
-        "opa": "Autosomal recessive inheritance",
-        "opb": "Associated with mesangial expansion",
-        "opc": "Glomeruli do not stain for immunoglobulin or complement",
-        "opd": "PAS- positive amyloid negative deposits.",
-        "subject_name": "Pathology",
-        "topic_name": "Kidney disorders",
-        "id": "1ce59971-cd8b-4e2e-b34f-1784c3da1bc0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are associated with low complement levels except:",
-        "exp": "Nephritic syndrome associated withlow C3: Immune complex glomerulonephritis Post streptococcal glomerulonephritis Lupus nephritis Cryoglobulinemia Bacterial endocarditis Shunt nephritis Membranoproliferative glomerulonephritis Crescenteric glomerulonephritis Idiopathic proliferative glomerulonephritis Atheroembolic renal disease Sepsis Acute Pancreatitis/ advanced liver disease",
-        "cop": 3,
-        "opa": "Lupus nephritis",
-        "opb": "Mesangiocapillary glomerulonephritis",
-        "opc": "Diarrhea-associated hemolytic uremic syndrome",
-        "opd": "Post-infections glomerulonephritis",
-        "subject_name": "Pathology",
-        "topic_name": "Kidney disorders",
-        "id": "830702bd-51c4-4dd9-830d-beeee516f29c",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 7 year old boy presented with generalized edema. Urine examination revealed marked albuminuria. Serum biochemical examinations showed hypoalbuminemia with hyperlipidemia. Kidney biopsy was undeaken. On light microscopic examination, the kidney appeared normal. Electron microscopic examination is most likely to reveal:",
         "exp": "The child is presenting with features likely of Nephrotic syndrome whose most frequent cause in children is minimal change disease or lipoid nephrosis or nil disease Light microscopy there is no abnormality whereas on electron microscopy there is fusion of foot processes of the glomerular epithelial cells with normal glomeruli.",
         "cop": 1,
@@ -128,70 +63,5 @@
         "topic_name": "Kidney disorders",
         "id": "167337ec-8e8b-4e77-afe0-a5d63645c860",
         "choice_type": "single"
-    },
-    {
-        "question": "A child presented with edema, massive proteinuria and hyperlipidemia. True statement about this condition is:",
-        "exp": "Glomerular barrier function depends on the molecular size (the larger, the less permeable) and charge (the more cationic, the more permeable) is done. The anionic moieties present within the capillary wall including the acidic proteoglycans of the GBM and the sialoglycoproteins of epithelial and endothelial cells are responsible for the viually complete exclusion of albumin (also having anionic charge) from the filtrate.",
-        "cop": 4,
-        "opa": "Type of focal segmental GN",
-        "opb": "IgA deposition on basement membrane",
-        "opc": "Foot process of glomerular membrane normal",
-        "opd": "Glomerular function is lost due to loss of polyanionic charge on both sites of glomerular foot process",
-        "subject_name": "Pathology",
-        "topic_name": "Kidney disorders",
-        "id": "545f2304-d883-4866-b64f-cb798418c086",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about nephronophthisis except:",
-        "exp": "2 types of cystic disease affecting the renal medulla are: 1. Medullary sponge kidney Relatively common Usually innocuous condition Associated with nephrolithiasis 2. Nephronophthisis- Medullary cystic disease complex Associated with renal dysfunction. Cause of chronic kidney disease that usually begins in childhood. Coical tubulointerstitial damage and not hyperophy occurs in nephronophthisis.",
-        "cop": 2,
-        "opa": "Interstitial fibrosis",
-        "opb": "Coical tubular hyperophy",
-        "opc": "Cysts in the medulla",
-        "opd": "20% cases are non-familial",
-        "subject_name": "Pathology",
-        "topic_name": "Kidney disorders",
-        "id": "e6b07b5c-8755-4565-b4a8-992139f4f820",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Hyaline aeriolosclerosis can be associated with all of the following conditions except:",
-        "exp": "Malignant Hypertension Associated with Hyperplastic aeriolosclerosis - onion skin appearance of blood vessel. This lesion occurs in severe hypertension; vessels exhibit concentric, laminated(\"onion-skin\") thickening of the walls with luminal narrowing. The laminations consist of smooth muscle cells with thickened, reduplicated basement membrane; in malignant hypertension, they are accompanied by fibrinoid deposits and vessel wall necrosis (necrotizing aeriolitis), paicularly in the kidney.",
-        "cop": 4,
-        "opa": "Diabetes mellitus",
-        "opb": "Aging",
-        "opc": "Benign hypertension",
-        "opd": "Malignant hypertension",
-        "subject_name": "Pathology",
-        "topic_name": "Kidney disorders",
-        "id": "9598d494-5563-4b9e-87d0-0164dab22f2a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In which of the following conditions bilateral contracted kidneys are characteristically seen?",
-        "exp": "Benign Nephrosclerosis, Kidneys are either normal or moderately reduced in size on gross appearance. Loss of mass is due mainly to coical scarring and shrinking. In kidneys, the Aeriolar narrowing caused by hyaline aeriosclerosis leads to diffuse vascular compromise and nephrosclerosis ( glomerular scarring ) leading to bilateral contracted kidneys.",
-        "cop": 4,
-        "opa": "Amyloidosis",
-        "opb": "Diabetes mellitus",
-        "opc": "Rapidly progressive glomerulonephritis",
-        "opd": "Benign nephrosclerosis",
-        "subject_name": "Pathology",
-        "topic_name": "Kidney disorders",
-        "id": "da7f8fd1-6ea9-4a2d-8014-6d999634a927",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are non-proliferative glomerulonephritis, except:",
-        "exp": "Conditions with Proliferative Glomerulonephritis: SLE (paicularly class II) HIV Membranoproliferative/Mesangiocapillary glomerulonepritis Neoplasia (CLL and MALT lymphoma) Post streptococcal glomerulonephritis Rest all options are the conditions with non proliferative glomerulonephritis.",
-        "cop": 2,
-        "opa": "Membranous glomerulonephritis",
-        "opb": "Mesangiocapillary glomerulonephritis",
-        "opc": "Diabetic glomerulosclerosis",
-        "opd": "Amyloidosis",
-        "subject_name": "Pathology",
-        "topic_name": "Kidney disorders",
-        "id": "92daafd8-b8a0-425a-b123-403f0e66900e",
-        "choice_type": "multi"
     }
 ]

@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following drugs are used in hepatic encephalopathy except:",
-        "exp": "L. O. L. A: L-ornithine stimulates the urea cycle, with resulting loss of ammonia. Both L-ornithine and L-aspaate are substrates for glutamate transaminase. Their administration results increased glutamate levels. Ammonia is subsequently used in the conversion of glutamate to glutamine by glutamine synthetase. Ammonia absorption can be decreased by the administration of lactulose, a non-absorbable disaccharide that acts as an osmotic laxative. Rifaximin at a dose of 400 mg taken orally 3 times a day improves hepatic encephalopathy symptoms. Similarly, rifaximin was as effective as neomycin and paromomycin.",
-        "cop": 4,
-        "opa": "L. O. L. A",
-        "opb": "Rifaximin",
-        "opc": "Lactulose",
-        "opd": "Phenobarbitone",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatic encephalopathy & hepatic failure",
-        "id": "d02bca4b-40f1-429d-aea6-b65dec75c789",
-        "choice_type": "multi"
-    },
-    {
         "question": "Milan criteria is used for:",
         "exp": "Milan criteria are applied as a basis for selecting patients with cirrhosis and hepatocellular carcinoma for liver transplantation. The Milan criteria state that a patient is selected for transplantation when he or she has: One lesion smaller than 5 cm. Up to 3 lesions smaller than 3 cm. No extrahepatic manifestations No vascular invasion",
         "cop": 1,
@@ -115,18 +102,5 @@
         "topic_name": "Hepatic encephalopathy & hepatic failure",
         "id": "5dbe152c-03da-4917-842c-30cc994f9a0f",
         "choice_type": "single"
-    },
-    {
-        "question": "Hepatic encephalopathy is aggravated by all except?",
-        "exp": "Hypokalemia is seen with overzealous use of diuretics and this will lead to dehydration and increased hepatic encephalopathy. Anemia associated with Gl bleeding worsens hepatic encephalopathy Constipation in hypothyroidism will worsen hepatic encephalopathy by increasing bacterial load. Drugs like barbiturates and antipsychotics worsen hepatic encephalopathy",
-        "cop": 1,
-        "opa": "Hyperkalemia",
-        "opb": "Anemia",
-        "opc": "Hypothyroidism",
-        "opd": "Barbiturates",
-        "subject_name": "Medicine",
-        "topic_name": "Hepatic encephalopathy & hepatic failure",
-        "id": "dabec9b2-ae02-411b-a792-6f3e383d6647",
-        "choice_type": "multi"
     }
 ]

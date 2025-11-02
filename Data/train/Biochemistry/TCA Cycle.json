@@ -39,45 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Fumarase is an example of -",
-        "exp": "Fumarase is a Lyase - Enzyme Commission Number- 4. This enzyme conves Fumarate to Malate in TCA cycle. ADDITIONAL READING: EC Number of Hydrolase is 3. Examples of hydrolases are all Digestive Enzymes, Phosphatase EC Number of Ligase is 6. Examples of ligases are Carboxylase Synthetases.",
-        "cop": 1,
-        "opa": "Lyase",
-        "opb": "Hydrolase",
-        "opc": "Ligase",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "TCA Cycle",
-        "id": "3c406ba8-6cc5-436c-8841-7f3822feead7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are enzymes of TCA cycle, EXCEPT",
-        "exp": "Do not confuse Malate dehydrogenase and malic enzyme. Malic enzyme Malate dehydrogenase oxidative decarboxylation of malate to pyruvate. oxidation of malate to oxaloacetate.",
-        "cop": 3,
-        "opa": "Aconitase",
-        "opb": "Fumarase",
-        "opc": "Malic enzyme",
-        "opd": "Citrate synthase",
-        "subject_name": "Biochemistry",
-        "topic_name": "TCA Cycle",
-        "id": "31ea2538-7650-4a9d-9909-a0f09cd8315c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Rate limiting step of TCA:",
-        "exp": "3 enzymes which are rate limiting in TCA cycle Irreversible steps of TCA 1. Citrate Synthase 1. Citrate Synthase (preferred) 2. Isocitrate Dehydrogenase 2. Alpha-Ketoglutarate Dehydrogenase. 3. Alpha-Ketoglutarate Dehydrogenase",
-        "cop": 4,
-        "opa": "Citrate synthase",
-        "opb": "Isocitrate dehydrogenase",
-        "opc": "Alpha-ketoglutarate dehydrogenase",
-        "opd": "All",
-        "subject_name": "Biochemistry",
-        "topic_name": "TCA Cycle",
-        "id": "d7b04398-9ab8-448e-b434-7410df6d6876",
-        "choice_type": "multi"
-    },
-    {
         "question": "TCA cycle depends on availability of:",
         "exp": "TCA cycle depends on availability of Oxaloacetate TCA cycle: Has no hormonal control. Vital cycle for the cells. Doesn't depend on insulin or glucagon. Depends on the availability of oxaloacetate. (not Acetyl CoA).",
         "cop": 2,
@@ -102,19 +63,6 @@
         "topic_name": "TCA Cycle",
         "id": "569fa45f-47ed-4864-8919-c21089204aac",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following TCA cycle enzymes are located in the mitochondrial matrix, EXCEPT",
-        "exp": "Ans. c). Succinate dehydrogenase * All the TCA cycle enzymes are present in the mitochondrial matrix except succinate dehydrogenase (complex II of ETC) * Succinate dehydrogenase is embedded in the inner mitochondrial membrane. NOTE: Complex I pumps 4 protons. Complex II doesn't pump any proton. Complex III pumps 4 protons. Complex IV pumps 2 protons.",
-        "cop": 3,
-        "opa": "Alpha-ketoglutarate dehydrogenase",
-        "opb": "Isocitrate dehydrogenase",
-        "opc": "Succinate dehydrogenase",
-        "opd": "Malate dehydrogenase",
-        "subject_name": "Biochemistry",
-        "topic_name": "TCA Cycle",
-        "id": "4eb6158a-5d20-469c-b3ee-718f38bac27c",
-        "choice_type": "multi"
     },
     {
         "question": "First substrate of Kreb's cycle is:",
@@ -245,44 +193,5 @@
         "topic_name": "TCA Cycle",
         "id": "f9166a58-1b74-4815-9780-8e8add4d0e3a",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are intermediates of TCA cycle, except:",
-        "exp": "Ans. a) Malonate is not an intermediate of TCA cycle Malonate Malate competitive inhibitor of succinate dehydrogenase intermediate in TCA cycle. TCA cycle intermediates are Citrate, Isocitrate, a-ketoglutarate, succinyl-CoA, Succinate, Fumarate, Malate, oxaloacetate. Acetyl-CoA is completely oxidised Oxaloacetate is regenerated.",
-        "cop": 1,
-        "opa": "Malonate",
-        "opb": "alpha -ketoglutarate",
-        "opc": "Succinate",
-        "opd": "Fumarate",
-        "subject_name": "Biochemistry",
-        "topic_name": "TCA Cycle",
-        "id": "4ae8ae13-b075-45ef-b275-02373b130a62",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following enters the TCA cycle at succinyl-CoA step?",
-        "exp": "4 amino acids enter at Succinyl-CoA step: Valine, Isoleucine, Methionine Threonine.",
-        "cop": 2,
-        "opa": "Histidine",
-        "opb": "Methionine",
-        "opc": "Tryptophan",
-        "opd": "Tyrosine",
-        "subject_name": "Biochemistry",
-        "topic_name": "TCA Cycle",
-        "id": "7deca4c2-356f-4419-ade5-3a0666c832ae",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In which of the following step of TCA cycle, carbon dioxide is removed?",
-        "exp": "Ans: a). Alpha-ketoglutarate dehydrogenase The two oxidative decarboxylation reactions of the TCA cycle are: 1. Isocitrate dehydrogenase 2. a-ketoglutarate dehydrogenase",
-        "cop": 1,
-        "opa": "Alpha-ketoglutarate dehydrogenase",
-        "opb": "Malate dehydrogenase",
-        "opc": "Succinate dehydrogenase",
-        "opd": "Fumarase",
-        "subject_name": "Biochemistry",
-        "topic_name": "TCA Cycle",
-        "id": "e8b85665-5c1c-45f7-883d-852d36c93c0d",
-        "choice_type": "multi"
     }
 ]

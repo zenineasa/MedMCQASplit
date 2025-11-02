@@ -1,31 +1,5 @@
 [
     {
-        "question": "True about malignant hypehermia -",
-        "exp": "Malignant hypehermia (MH) is a rare genetic hyper metabolic muscle disease. The characteristic phenotypical signs & symptoms most commonly occur with exposure to inhaled anesthetic agents and Succinylcholine. Clinical Manifestations of Malignant Hypehermia: Early Signs: Elevated end-tidal carbon dioxide Tachypnea and/or tachycardia Masseter spasm, if succinylcholine has been used Generalized muscle rigidity Mixed metabolic and respiratory acidosis Profuse sweating Mottling of skin Cardiac arrhythmias Unstable blood pressure Late Signs Hyperkalemia Rapid increase of core body temperature- body temperature rises by 10C every 5 minutes Elevated creatine phosphokinase levels Gross myoglobinemia and myoglobinuria Cardiac arrest Disseminated intravascular coagulation",
-        "cop": 2,
-        "opa": "It is genetic, hypometabolic muscle disease",
-        "opb": "It is genetic, hypermetabolic muscle disease",
-        "opc": "It is preoperative complication",
-        "opd": "It is inherited in Autosomal recessive form",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "fa6abb5f-ea80-40cb-924d-cee9a25033b6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "False statement regarding xenon is_____",
-        "exp": "Xenon is Non- teratogenic. Option A: Xenon has a very low blood-gas solubility coefficient (0. 115) and produces rapid induction of and emergence from anaesthesia. Option B: Xenon produces no green house effect or ozone depletion and is environmentally safe, unlike the other inhaled anaesthetics. Option D: Does not trigger malignant hypehermia Other advantages of xenon: Ine. Minimal cardiovascular effects- It produces minimal cardiovascular depression, and it is not arrhythmogenic. Non explosive. Has Analgesic activity - reduces intraoperative opioid requirements Disadvantages of Xenon High cost. Low potency (MAC = 70%). Xenon gas has a very high density (5. 9 g/L) resulting in increased flow resistance and work of breathing. Thus, it may be a poor choice for patients wicompromised respiratory function",
-        "cop": 3,
-        "opa": "Rapid induction and emergence",
-        "opb": "Free from greenhouse effects",
-        "opc": "Teratogenic",
-        "opd": "Does not trigger malignant hypehermia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "00ac148e-14f2-49c7-b460-153aeab1d8cc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hepatitis can be a complication of......",
         "exp": "Metabolic byproduct of halothane can cause autoimmune hepatitis. Halothane hepatitisis rare with an incidence of 1 per 35, 000 cases but very fatal, with amoality of 50-75%. It is an immune mediated due to antibodies against highly reactive trifluoroacetyl chloride which is a metabolite of halothane. Risk factors for halothane hepatitis: Multiple exposures to halothane at sho intervals middle-aged obese women - because halothane undergo extensive metabolism in obese patients familial predisposition to halothane Another theory for halothane hepatitis is that it is caused by a hypersensitivity reaction associated with oxidative metabolism of halothane. The liver in halothane hepatitis shows centrilobular necrosis. In a patient with prior history of halothane hepatitis, inhalational induction agent of choice is Sevoflurane. Other points related to effect of halothane on hepatic system: Disrupts dual blood supply of liver ( Among all volatile anesthetic agent, it cause max decrease in hepatic flow) Contraindicated in Pre-existing liver days function C/I in hepatic surgery",
         "cop": 1,
@@ -78,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "MAC of the volatile agent is reduced in all of the following except",
-        "exp": "Hypernatremia causes CNS excitation thus increases MAC. Pregnancy decreases MAC because there is increase in progesterone level in pregnancy. progesterone has sedative effect on brain. age decreases MAC by 6%/decade Acute alchohol intoxication produce sedation thus decreases MAC",
-        "cop": 4,
-        "opa": "Elderly",
-        "opb": "Acute alcoholic intoxication",
-        "opc": "Pregnancy",
-        "opd": "Hypernatremia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "5b3842a0-b7c7-425b-9848-9277235b643b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following anaesthetic agent has highest MAC (Minimum Alveolar Concentration)",
         "exp": "MAC is the minimum alveolar concentration of on inhaled anesthetic required to prevent movements in 50% of patients in response to a standardized stimulus. N2O has highest MAC 104 Methoxyflurane has lowest MAC Comparing MAC of different agents we can get an idea of there potency. High MAC low potency Low MAC high potency",
         "cop": 1,
@@ -128,32 +89,6 @@
         "topic_name": "Inhalational Anesthetic Agents",
         "id": "4efe611d-4aae-44b1-b32d-3a68823a9d2a",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true regarding halothane except-",
-        "exp": "Halothane is not in clinical use in developed nations because of its unstability it is very unstable, needs a preservative thymol for its storage in ventilator which makes the ventilator sticky it decomposes with exposure to light needs dark bottle to store it.",
-        "cop": 3,
-        "opa": "Non - inflammable",
-        "opb": "Boils at 50 degree C",
-        "opc": "It is stable on the exposure to light",
-        "opd": "Heavy, colorless & sweet smell",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "636b0fb3-49f1-4d22-ae05-4a31476b5438",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All signs malignant hypehermia except",
-        "exp": "Malignant hypehermia is hypermetabolic state with following clinical features 1. Marked increased metabolism Increased co2 production Increased oxygen consumption Reduced mixed venous oxygen tension Metabolic acidosis Cyanosis Hypehermia 2. Increased sympathetic activity Tachycardia Hypertension Arrhythmias 3. Muscle damage Generalized rigidity Hyperkalemia Hypernatremia Hyperphosphatemia Myoglobinuria Note: Capnograph with a sudden and progressive increase in ETCO2 is typical of malignant hypehermia. One of the earliestandmost sensitive indicatorsof malignant hypehermia.",
-        "cop": 3,
-        "opa": "Reduced mixed venous oxygen tension",
-        "opb": "Hyperkalemia",
-        "opc": "Hypotension",
-        "opd": "Metabolic acidosis",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "1cc02f78-a172-4c84-a8be-a157f3688e70",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following inhalational general anaesthetic can cause laryngospasm:",
@@ -208,45 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are side effects of Dantrolene therapy except-",
-        "exp": "Common side effects of Dantroleum Intravenous include: muscle weakness, drowsiness, dizziness, low energy, tired feeling, injection site reactions (pain, redness, or swelling), diarrhea, constipation",
-        "cop": 4,
-        "opa": "Muscle weakness",
-        "opb": "Phlebitis",
-        "opc": "Respiratory insufficiency",
-        "opd": "Renal dysfunction",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "223ef047-6110-401b-9b1b-21a01e3208df",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are seen in malignant hypehermia except",
-        "exp": "Hypercalcemia never happens in malignant hypehermia. Clinical Manifestations of Malignant Hypehermia: Early Signs: Elevated end-tidal carbon dioxide Tachypnea and/or tachycardia Masseter spasm, if succinylcholine has been used Generalized muscle rigidity Mixed metabolic and respiratory acidosis Profuse sweating Mottling of skin Cardiac arrhythmias Unstable blood pressure Late Signs Hyperkalemia Rapid increase of core body temperature- body temperature rises by 10C every 5 minutes Elevated creatine phosphokinase levels Gross myoglobinemia and myoglobinuria Cardiac arrest Disseminated intravascular coagulation",
-        "cop": 4,
-        "opa": "Tachycardia",
-        "opb": "hyperkalemia",
-        "opc": "metabolic acidosis",
-        "opd": "hypercalcemia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "41c206b5-268e-42d4-9a2c-28601c0d7036",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Rate of induction of the anaesthesia is increased by all of the following except",
-        "exp": "High cardiac output causes fast uptake of potent inhalational agent from alveoli thus slow speed of induction. rest all options maintain alveolar concentration.",
-        "cop": 2,
-        "opa": "agents with low blood gas solubility",
-        "opb": "high Cardiac Output",
-        "opc": "Second gas effect",
-        "opd": "high alveolar ventilation",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "599aa850-2bc4-4c0c-8b3d-55b995f4724d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Nitrous oxide is contraindicated in patients with pneumothorax, pneumo pericardium or intestinal obstruction, because it:",
         "exp": "N20 is 35 times more soluble than N2 so when replaces N2O causes expansion of air containing cavity. Nitrous oxide has the potential to expand air containing cavities as it can diffuse into and accumulate in them. Hence it should be avoided in emphysema patients especially in those with bullae and pulmonary hypertension. Other Contraindication Pneumothorax, Acute intestinal obstruction with bowel distention, Intracranial air (pneumocephalus following dural closure or pneumoencephalograph cochlear implant surgery vitreo retinal surgery Tympanoplasty",
         "cop": 4,
@@ -271,32 +167,6 @@
         "topic_name": "Inhalational Anesthetic Agents",
         "id": "62cbe48a-870c-4234-bf0d-82c17f529df5",
         "choice_type": "single"
-    },
-    {
-        "question": "All may be clinical feature of malignant hypehermia except-",
-        "exp": "Hypercalcemia does not occur, hypocalcemia occurs. Hypertension may be rapidly followed by hypotension. Clinical Manifestations of Malignant Hypehermia: Early Signs: Elevated end-tidal carbon dioxide Tachypnea and/or tachycardia Masseter spasm, if succinylcholine has been used Generalized muscle rigidity Mixed metabolic and respiratory acidosis Profuse sweating Mottling of skin Cardiac arrhythmias Unstable blood pressure Late Signs Hyperkalemia Rapid increase of core body temperature- body temperature rises by 10C every 5 minutes Elevated creatine phosphokinase levels Gross myoglobinemia and myoglobinuria Cardiac arrest Disseminated intravascular coagulation",
-        "cop": 3,
-        "opa": "Hypercarbia",
-        "opb": "Hyperkalemia",
-        "opc": "Hypercalcemia",
-        "opd": "Hypotension",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "fd1b3385-a436-4b9e-bfb9-0794faff2bd8",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True statement/ s regarding sevoflurane are all except",
-        "exp": "All potent inhalational agents are contraindicated in malignant hypehermia. It has sweet smell so very useful in pediatrics for induction. Sevoflurane reacts with strong bases like sodium hydroxide and potassium hydroxide present in soda lime and baralyme leading to the formation of a haloalkene (fluoromethyl-2, 2-difluoro-1- vinyl ether), known as compound A. Compound A has the potential to cause proximal tubular necrosis.",
-        "cop": 3,
-        "opa": "Ideal agent for pediatric anaesthesia",
-        "opb": "Can interact with sodalime and forms compound A",
-        "opc": "Can be used safely in malignant hyperpyrexia",
-        "opd": "Causes tachycardia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "aa2dcc50-96ee-4442-bbee-a09de2dfbc77",
-        "choice_type": "multi"
     },
     {
         "question": "Tec 6 vaporizer is used with.........",
@@ -325,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are symptoms of hypocalcemia except",
-        "exp": "Following are symptoms seen in hypocalcemia Neuromuscular irritability circumoral and peripheral paresthesia chvostek sign (facial twitching induced by tapping on the facial nerve ) trousseau sign (forearm muscular spasm induced by inflating a pressure cuff) muscle cramps laryngospasm tetany seizures cardiac * impaired inotropy prolonged QT ventricular fibrillation heart block",
-        "cop": 3,
-        "opa": "Chvostek sign",
-        "opb": "Trousseau sign",
-        "opc": "Peaked p waves",
-        "opd": "laryngospasm",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "f84e294d-a626-48eb-8496-6e09db926d0a",
-        "choice_type": "multi"
-    },
-    {
         "question": "What constitute triad of general anesthesia:-",
         "exp": "Triad constitutes of Amnesia, analgesia, relaxation.",
         "cop": 2,
@@ -349,19 +206,6 @@
         "topic_name": "Inhalational Anesthetic Agents",
         "id": "5211e12c-212d-4d98-be10-46877dc7f9d1",
         "choice_type": "single"
-    },
-    {
-        "question": "25 yr old female develops masseter muscle spasm after IV succinyl choline. ETCO2 progressively increases, heart rate increases, temperature raises; management includes all except:-",
-        "exp": "It is most probably malignant hypehermia. Halothane is contraindicated in malignant hypehermia.",
-        "cop": 1,
-        "opa": "Sta halothane to decrease the heart rate",
-        "opb": "Hyperventilate with 100 % oxygen",
-        "opc": "Active cooling measures",
-        "opd": "Treat acidosis",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "0a5536e6-9876-46e6-ae9c-25db3c2353f4",
-        "choice_type": "multi"
     },
     {
         "question": "Which is/ are not desirable for a patient with pacemaker?",
@@ -390,19 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is false regarding malignant hyperpyrexia?",
-        "exp": "Increased end tidal carbon dioxide is an early sign due to hypermetabolism. Dantrolene sodiumis thedrug of choicefor malignant hypehermia but it is to be reconstituted withsterile distilled water, not saline as it can precipitate in saline or other salt solutions. It is given at a dose of2. 5 mg/ kgintravenously and can be repeated every 5-10 minutes (upto 10mg/kg) till the attack subsides. All anesthetic agents should be cut off and the patient is given 100% oxygen. Bicarbonate at a dose of 1 to 4 m. Eq/kg IV can be used to treat metabolic acidosis. If the body temperature is high, it should be brought down using cold intravenous fluids, cooling body cavities with sterile iced fluids, surface cooling with ice packs and cooling blankets.",
-        "cop": 4,
-        "opa": "Dantrolene sodium is the drug of choice",
-        "opb": "Isoflurane is an absolute contraindication",
-        "opc": "Characterized by muscle rigidity, hypehermia, and metabolic acidosis",
-        "opd": "Low end tidal carbon dioxide is an early sign",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "3bae12af-54f8-4d57-a957-a8f4d05227e8",
-        "choice_type": "multi"
-    },
-    {
         "question": "A child during anesthesia with Halothane and succincyl coA develops severe stiffness of masseters. What is the most probable diagnosis?",
         "exp": "Malignant hypehermia is a condition that triggers a severe reaction to ceain drugs used as pa of anesthesia for surgery. Without prompt treatment, the disease can be fatal. The genes that cause malignant hypehermia are inherited. In most cases, no signs or symptoms of the condition exist until you are exposed to anesthesia. Malignant hypehermia is a genetic(autosomal dominant) hypermetabolic muscle disease. Triggering agents include Inhaled general anesthetics Ether Halothane Methoxyflurane Enflurane Isoflurane Desflurane Sevoflurane Depolarizing muscle relaxants Succinylcholine",
         "cop": 2,
@@ -414,32 +245,6 @@
         "topic_name": "Inhalational Anesthetic Agents",
         "id": "62160ea4-1d49-43ee-aa4b-7131a4ee6f64",
         "choice_type": "single"
-    },
-    {
-        "question": "Fluoride levels which can cause renal toxicity is",
-        "exp": "If a inhalational agent is highly metabolized and produces huge amount of fluoride it can cause nephrotoxicity. We need more than 50 micromol/litre of fluoride in blood to be nephrotoxic. Methoxyflurane is the most nephrotoxic among inhalational anesthetics- it causes polyuric renal failure due to a large amount of inorganic fluoride released, and it is no longer used in clinical practice. The renal toxicity of volatile anesthetics is due to their metabolic breakdown to free fluoride ions. The amount of fluoride ions produced: Methoxyflurane: 80uM Sevoflurane: 20-30 uM Enflurane: 20uM Isoflurane and desflurane: 5u. MWhen compared to methoxyflurane, the lower incidence of nephrotoxicity among the newer inhaled anesthetics is due to lesser metabolic breakdown, lower solubility in the kidney which results in lesser amount of intrarenal fluoride which is liberated and also due to their faster clearance.",
-        "cop": 1,
-        "opa": "Above 50 micromol/litre",
-        "opb": "Above 20 micromol/litre",
-        "opc": "Above 80 micromol/litre",
-        "opd": "Above 5 micromol/litre",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "d91849e9-5650-4424-aff9-0b9a424c90d6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following decreases mean alveolar concentration (MAC) except:",
-        "exp": "MAC can be affected by several physiological and pharmacological variables: Endocrine disorders does not affect MAC. MAC | ed MAC | ed Hypoxia Hypercapnia Hypovolemia Hypothermia Hypehermia >42 degree Hypercalcemia Hyponatraemia Hypernatraemia",
-        "cop": 3,
-        "opa": "Hypoxia",
-        "opb": "Hypercapnia",
-        "opc": "Hypothyroidism",
-        "opd": "Hypovolemia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "2b5f1847-20b8-45a5-88bf-550a846f3d76",
-        "choice_type": "multi"
     },
     {
         "question": "Morbidly obese patients which is the inhalational agent of choice-",
@@ -455,58 +260,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Inhalational anesthetic agents effect on respiratory tract all true except-",
-        "exp": "Potent inhalational agents and N2O reduce ciliary movement and clearance of mucus. The inadequate clearing of mucus may result in plugging, atelectasis and hypoxia. other effects on respiratory system 1. depress respiratory centre 2. blunt hypoxic and hypercapnic drive 3. bronchodilatation 4. inhibits hypoxic pulmonary vasoconstriction",
-        "cop": 4,
-        "opa": "The volatile anaesthetic agents relax airway smooth muscle",
-        "opb": "They blunt respiratory drive",
-        "opc": "Supress respiratory centre",
-        "opd": "They increases ciliary movement",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "e9839836-688a-426b-b79f-ab3cf5fc371d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following is safe in malignant hypehermia except-",
-        "exp": "Malignant hypehermia is a genetic(autosomal dominant) hypermetabolic muscle disease. Triggering agents include Inhaled general anesthetics Ether Halothane Methoxyflurane Enflurane Isoflurane Desflurane Sevoflurane Depolarizing muscle relaxants Succinylcholine local Anaesthetics lignocaine",
-        "cop": 3,
-        "opa": "N2O",
-        "opb": "Xenon",
-        "opc": "Halothane",
-        "opd": "Propofol",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "7c1d65a6-2d25-455a-b309-8b5f4b776ed9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Sevoflurane is preferred agent for inhaled induction in pediatric anesthesia due to?",
-        "exp": "Cardiovascular depression, bradycardia, and arrhythmias are less frequent with sevoflurane than with halothane. Halothane and sevoflurane are less likely than other volatile agents to irritate the airway or cause breath holding or laryngospasm during induction. Sevoflurane appears to produce the least respiratory depression. The risk for halothane- induced hepatic dysfunction appears to be much reduced in prepubeal children compared with adults. Overall, sevoflurane appears to have a greater therapeutic index than halothane and has become the preferred agent for inhaled induction in pediatric anesthesia.",
-        "cop": 4,
-        "opa": "Sevoflurane appears to have a greater therapeutic index than halothane",
-        "opb": "Sevoflurane appears to produce the least respiratory depression",
-        "opc": "Less likely than other volatile agents to irritate the airway",
-        "opd": "All",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "204e9ffd-6cb9-4673-9a40-4745cbd5a281",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Volatile inhalational anesthetic contributes in all of the following component of general anesthesia except",
-        "exp": "volatile inhalational anesthetic agent contributes in all the component of G. A except - analgesia. they can produce - loss of conciouness loss of reflex response Amnesia Muscle Relaxation",
-        "cop": 3,
-        "opa": "Loss of consciousness",
-        "opb": "Loss of reflex",
-        "opc": "Analgesia",
-        "opd": "Muscle relaxation",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "c0b2014b-d308-4f1c-a9be-e8fdc776d62b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following inhalational agent potentiate neuromuscular blocker most?",
         "exp": "The degree of enhancement is related to their aqueous concentration so that at equi - MAC concentration the less potent anesthetic (Desflurane) should have greater inhibitory effect on neuromuscular transmission. thus desflurane having highest MAC potentiate the neuromuscular blocker most. followed by in order sevoflurane, isoflurane and halothane,",
         "cop": 4,
@@ -518,32 +271,6 @@
         "topic_name": "Inhalational Anesthetic Agents",
         "id": "d08f5b98-b59d-45a6-9ba9-b5c242d36b78",
         "choice_type": "single"
-    },
-    {
-        "question": "MAC is not affected by all of the following except?",
-        "exp": "MAC decreases with age. Excluding patients < 1 year of age every decade there is 6% decrease in value of MAC. Endocrine disorders, duration of anaesthesia, species, sex does not affect MAC",
-        "cop": 4,
-        "opa": "Species",
-        "opb": "Sex",
-        "opc": "Duration of anaesthesia",
-        "opd": "Age",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "7b42f0c3-de33-47ec-ae32-bb9d29592fb2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are essential components of G. Anesthesia except:-",
-        "exp": "Basic components of general anesthesia:- Unconsciousness Amnesia Muscle relaxation Loss of reflex response Analgesia",
-        "cop": 4,
-        "opa": "Analgesia",
-        "opb": "Muscles relaxation",
-        "opc": "Loss of reflex response",
-        "opd": "Paralysis",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "8d636e57-d7fb-4d5b-8105-88b2b14f6922",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following will produce decreased EEG ACTIVITIES?",
@@ -570,19 +297,6 @@
         "topic_name": "Inhalational Anesthetic Agents",
         "id": "100d7c78-d9e9-45a3-b739-6f5eeaefd498",
         "choice_type": "single"
-    },
-    {
-        "question": "All are risk factors for developing bronchospasm during anesthesia except-",
-        "exp": "Risk factors for developing bronchospasm during anesthesia include young age (< 10 years), perioperative respiratory infection, Endotracheal Tube and COPD. use of supraglottic devise reduces risk of bronchospasm.",
-        "cop": 4,
-        "opa": "Perioperative respiratory infection",
-        "opb": "Endotracheal intubation",
-        "opc": "Presence of COPD",
-        "opd": "Old age",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "2271dec7-b32f-4292-a053-36d2d031a19b",
-        "choice_type": "multi"
     },
     {
         "question": "Which is wrong regarding entonox?",
@@ -635,19 +349,6 @@
         "topic_name": "Inhalational Anesthetic Agents",
         "id": "457a3561-b44b-40cb-a80a-4e34375155d3",
         "choice_type": "single"
-    },
-    {
-        "question": "All are clinical signs of malignant hypehermia except-",
-        "exp": "It is hyper metabolic state producing hypehermia. Clinical Manifestations of Malignant Hypehermia: Early Signs: Elevated end-tidal carbon dioxide Tachypnea and/or tachycardia Masseter spasm, if succinylcholine has been used Generalized muscle rigidity Mixed metabolic and respiratory acidosis Profuse sweating Mottling of skin Cardiac arrhythmias Unstable blood pressure Late Signs Hyperkalemia Rapid increase of core body temperature- body temperature rises by 10C every 5 minutes Elevated creatine phosphokinase levels Gross myoglobinemia and myoglobinuria Cardiac arrest Disseminated intravascular coagulation",
-        "cop": 4,
-        "opa": "Hypercarbia",
-        "opb": "Metabolic acidosis",
-        "opc": "Hypertension",
-        "opd": "Hypothermia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "3660c95a-1d71-4c1f-8b17-d5499f43c56d",
-        "choice_type": "multi"
     },
     {
         "question": "The most appropriate inhalational agent for pediatric patients",
@@ -728,32 +429,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are disadvantages of anesthetic ether, except:-",
-        "exp": "Advantages of Ether Ether is cardiovascular stable agent. maintains hypoxic and hypercapnic drive good analgesic good muscle relaxation bronchodilator cheap disadvantage slow induction /slow recovery Irritant nature of ether increases salivary and bronchial secretions highly inflammable",
-        "cop": 4,
-        "opa": "Induction is slow",
-        "opb": "Cautery cannot be used",
-        "opc": "Irritant nature of ether increases salivary and bronchial secretions",
-        "opd": "Affects blood pressure and is liable to produce arrhythmias",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "e0dc28f4-9c2b-421a-a106-a2c9d5702538",
-        "choice_type": "multi"
-    },
-    {
-        "question": "What does NORA stands for in anesthesia:-",
-        "exp": "NORA refers to anesthesia that is provided at locations remote from operating room like endoscopy suits. NORA - Non operating Room Anaesthesia",
-        "cop": 2,
-        "opa": "No oral airway",
-        "opb": "Non-operative room anesthesia",
-        "opc": "No radiation risk associated",
-        "opd": "None of the above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "a0ddec8e-bf23-4554-be57-b878972ea183",
-        "choice_type": "multi"
-    },
-    {
         "question": "During induction of general anesthesia, administration of oxygen with high concentration of nitrous oxide and halothane hastens the uptake of halothane, this is known as",
         "exp": "During induction ofgeneral anesthesia, when a large volume of a gas (nitrous oxide) is taken up from alveoli into pulmonary capillary blood, the concentration of gases remaining in the alveoli is increased. This results in effects known as the second gas effect. These effects occur because of the contraction of alveolar volume associated with the uptake of the nitrous oxide. this effect makes speed of induction fast",
         "cop": 3,
@@ -819,19 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The process of complete fluorination in Desflurane produces all the following effects except:",
-        "exp": "The process of complete fluorination of the ether molecule has several effects. It decreases blood: tissue solubility which results in loss of potency. It also results in a high vapour pressure owing to decreased intermolecular alteration requiring new heated pressurized vaporizer.",
-        "cop": 3,
-        "opa": "Decreases blood and tissue solubility",
-        "opb": "High vapor pressure",
-        "opc": "High potency",
-        "opd": "Requirement of special vaporiser",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "2a01cce8-7dc5-4101-a61c-7fd77e7fd675",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most - pungent inhalational agent-",
         "exp": "Desflurane is the most pungent of the volatile anesthetics, and it administered the face mask results in Coughing, salivation, breath holding and laryngospasm. Isoflurane and desflurane can provide equal bronchodilation but are not normally used for inhalation induction. Desflurane is not used because of its pungency which may result in a cough, laryngospasm, and bronchospasm.",
         "cop": 4,
@@ -845,19 +507,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Effect of inhalational agent on neuromuscular system which is true -",
-        "exp": "Halogenated volatile anesthetics have a potentiating effect on nondepolarizing muscle relaxants. The mechanism appears to be incompletely understood, but is likely a combination of: effect on central motor neurons augmentation of the NMB's affinity for the receptor site inhibition of post-synaptic nicotinic acetylcholine receptors Clinically, the presence of inhaled anesthetics will decrease the ED50, as well as both prolong the duration of action and recovery from neuromuscular blockade. The degree of potentiation depends on the specific agent and concentration used. For example, desflurane > sevoflurane > isoflurane. With deeper planes of anesthesia, the degree of potentiation is enhanced due to a dose-dependent inhibition of current through the nicotinic receptor at the neuromuscular junction. Studies attempting to quantify the magnitude of these effects have led to conflicting results due to the time factor, or duration of anesthesia. The older halogenated agents (halothane, enflurane, isoflurane) may take up to 2 hours to equilibrate with muscle, so in practice the potentiating effects of these vapors might not be immediately apparent. In contrast, newer agents such as sevoflurane and desflurane equilibrate more rapidly with muscle, and the effects may be seen after as little as 30 minutes. Nitrous oxide has largely been considered as having no effect on neuromuscular blockade.",
-        "cop": 3,
-        "opa": "They relax skeletal muscle and decreases the effect of neuromuscular blocking drugs (NMBD)",
-        "opb": "They contract skeletal muscle and potentiate the effect of NMBD",
-        "opc": "They directly relax skeletal muscle and they potentiate the action of NMBD",
-        "opd": "No effect on neuromuscular system",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "a88a722c-7729-4e3b-9076-f16c9fbdfde7",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the effect of 1-2 MAC dose of volatile anaesthetic agents on EEG waveforms-",
         "exp": "EEGs recorded on the scalp can be processed to quantify the amount of activity in each of four frequency bands: Delta (o to 3hz), Theta (4 to 7 Hz) alpha (8 to 13 Hz), Beta (> 13 Hz) Between 1-2 MAC shift is towards decreased frequency. b-a-th-S",
         "cop": 1,
@@ -869,18 +518,5 @@
         "topic_name": "Inhalational Anesthetic Agents",
         "id": "e1ac3c64-33bb-4d92-96fa-8c055de6238c",
         "choice_type": "single"
-    },
-    {
-        "question": "Which is false regarding ether?",
-        "exp": "Ether anaesthesia has major demerit of slow induction and slow recovery.",
-        "cop": 4,
-        "opa": "Highly inflammable",
-        "opb": "Causes hyperglycemia",
-        "opc": "Good muscle relaxation",
-        "opd": "Rapid recovery",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Inhalational Anesthetic Agents",
-        "id": "233ae435-1fc6-45c9-ac10-00a0f4eb911f",
-        "choice_type": "multi"
     }
 ]

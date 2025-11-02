@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Birth weight of all 10 babies born in a nursing home on a day was 2. 7 kg. Standard deviation is -",
-        "exp": "Ans. is 'a' i. e., 0. 00 o This question is very simple. o Standard deviation is a measure of dispersion from central value. o In the question, there is only one central value (2. 7 Kg) as all 10 babies have same weight. Thus, there is no dispersion. o Also, you can get the answer. Mean= 2. 7+2. 7+2. 7+2. 7+2. 7+2. 7+2. 7+2. 7+2. 7+2. 7=2. 710(x-x)=2. 7-2. 7 = 0o Thus SD is Zero.",
-        "cop": 1,
-        "opa": "0",
-        "opb": "1",
-        "opc": "0. 27",
-        "opd": "2. 7",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Measures of Central Tendency and Distribution",
-        "id": "6f8d3f29-0a41-4ef3-803d-078c5298a4cf",
-        "choice_type": "multi"
-    },
-    {
         "question": "Normal curve -",
         "exp": "Ans. is 'a' i. e., Distribution of data is symmetrical Standard normal curveo It is also known as bell curve or Gaussian distribution. o The shape of the curve is like a bell - bell shaped curve. o The data are distributed symmetrically on either side of a central value. o Normal distribution curve looks symmetrical in the dispersion with the largest frequencies in the middle score and tapering down of frequencies towards the highest as well as the lowest score - No tail. o Normal distribution curve is based on mean and standard deviation. o Mean median and mode all coincide - No skew, o Mean = median = mode = 0o Total area of curve is 1. o Its standard deviation is 1. o Variance is 1.",
         "cop": 1,
@@ -37,58 +24,6 @@
         "topic_name": "Measures of Central Tendency and Distribution",
         "id": "c55da64a-fc8a-4dd2-84c8-62ce486bd006",
         "choice_type": "single"
-    },
-    {
-        "question": "In a normal distribution curve, the True statement is",
-        "exp": "Ans. is 'd' Mean = Mode The standard normal curve is a smooth bell shaped, perfectly symmetrical curve. The total area of the curve is 1. *Its mean is zero*Its standard deviation is 1 *The mean, median and mode all coincide. *",
-        "cop": 4,
-        "opa": "Mean = SD",
-        "opb": "Median=SD",
-        "opc": "Mean = 2 Median",
-        "opd": "Mean = Mode",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Measures of Central Tendency and Distribution",
-        "id": "6e59ddfd-877e-4817-b21a-96d6c0e3e61c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about standard distribution -",
-        "exp": "Ans. is 'a' i. e., Total area of curve =1 Standard normal curveo It is also known as bell curve or Gaussian distribution. o The shape of the curve is like a bell - bell shaped curve. o The data are distributed symmetrically on either side of a central value. o Normal distribution curve looks symmetrical in the dispersion with the largest frequencies in the middle score and tapering down of frequencies towards the highest as well as the lowest score - No tail. o Normal distribution curve is based on mean and standard deviation, o Mean median and mode all coincide - No skew, o Mean = median = mode = 0o Total area of curve is I. o Its standard deviation is 1. o Variance is 1.",
-        "cop": 1,
-        "opa": "Total area of curve =1",
-        "opb": "Mean =1",
-        "opc": "Mean > Median > Mode",
-        "opd": "Tail towards right",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Measures of Central Tendency and Distribution",
-        "id": "e9b5fa9a-8ee9-42ba-8ee1-ee8a0bd8dc6a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which statement is TRUE about Standard normal distribution curve:",
-        "exp": "Ans. is 'b' ie Standard deviation = 1 & mean is 0 Standard Normal Curve*is based on infinitely large no of observationsit is smooth, bell shaped, perfectly symmetrical curve, it does not skew either to the right or left side. the total area of the curve is 1*Mean is O, *Standard deviation is 1*Mean, median, mode all coincide*",
-        "cop": 2,
-        "opa": "Mean -1, standard deviation - zero",
-        "opb": "Standard deviation 1, mean-zero",
-        "opc": "Curve skews towards left",
-        "opd": "Curve skews towards right",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Measures of Central Tendency and Distribution",
-        "id": "985b23c8-9aa4-4ec3-8bc7-72fe59eebe1b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Median is -",
-        "exp": "Ans. is 'a' i. e., Middle most value in sequentially arranged data The mediano A median is described as the value separating the higher half of a data set from the lower half. o It does not depend on the total, and number of items. o To obtain the median, the data is first arranged in an ascending or discending order of magnitude, and then the value of the middle observation is located, which is called median. o For example, diastolic BP of 9 individuals was as follows -83, 75, 81, 79, 71, 95, 75, 77, 84. Now data is arranged in ascending order -71, 75, 75, 77, 79, 81, 83, 84, 95o Here, 79 is the middle observation that is separating the upper four values from lower four values, so it is the median. o If there are two values in the middle instead of one, the median is worked out by taking the average of the two middle values. o For example, If diastolic BP of 10 individuals is as follows83, 75, 81, 79, 71, 95, 75, 77, 84, 90. Data is arranged in ascending order -71, 75, 75, 77, 79, 81, 83, 84, 90, 95o Here two values are separating the upper half of values from lower half. So the median here is -Median =79 + 812= 80. Advantage of mediano The value of median is not affected by abnormal very high or very low value. o Taking the example as was taken in mean -The income of 7 people per day in rupees is as follows5, 5, 5, 7, 10, 20, 300 = (Tatal 352). Here mean =50. 3median = 7o The value of mean has affected seriously, whereas median is not affected, and median is more nearer to the truth. o So, median is used when the distribution of values is skewed (deviated) with some small number of very high values - median is used for skewed distribution.",
-        "cop": 1,
-        "opa": "Middle most value in sequentially arranged data",
-        "opb": "Most frequently occur! ng value in a data set",
-        "opc": "Highest value in a data",
-        "opd": "Lowest value in a data",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Measures of Central Tendency and Distribution",
-        "id": "8f579331-81f7-4980-a500-c7a48b464c6e",
-        "choice_type": "multi"
     },
     {
         "question": "The type of distribution, if mean 209, median 196, and mode 135-",
@@ -169,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Mean, Median and mode all are zero. The type of distribution is -",
-        "exp": "Ans. is 'a' i. e., Standard normal Standard normal curveo It is also known as bell curve or Gaussian distribution. o The shape of the curve is like a bell - bell shaped curve. o The data are distributed symmetrically on either side of a central value. o Normal distribution curve looks symmetrical in the dispersion with the largest frequencies in the middle score and tapering down of frequencies towards the highest as well as the lowest score - No tail. o Normal distribution curve is based on mean and standard deviation, o Mean median and mode all coincide - No skew, o Mean = median = mode = 0o Total area of curve is I. o Its standard deviation is 1. o Variance is 1.",
-        "cop": 1,
-        "opa": "Standard normal",
-        "opb": "Negatively skewed",
-        "opc": "Positively skewed",
-        "opd": "J shaped",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Measures of Central Tendency and Distribution",
-        "id": "a3f064f9-9db3-4cd1-8ddb-c0223d878521",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is used to compare two data sets taken on two different scales of measurement?",
         "exp": "Ans. b. Coefficient of variation (Ref: http://en. wikipedia. org/wiki/Coefficient_of_yariation). Coefficient of variation is used to compare two data sets taken on two different scales of measurement. 'For comparison between data sets with different units or widely different means, one should use the coefficient of variation instead of the standard deviation. - http://en. wikipedia. org/wiki/Coefficient_of_variation. Coefficient of variation (CV). Coefficient of variation (CV) is a normalized measure of dispersion of a probability distribution or frequency distribution. It is defined as the ratio of the standard deviation to the mean. The absolute value of the CV is sometimes known as relative standard deviation (RSD). which is expressed as a percentage. Advantages. Disadvantages* The coefficient of variation is useful because the standard deviation of data must always be understood in the context of the mean of the data.* In contrast, the actual value of the CV is independent of the unit in which the measurement has been taken, so it is a dimensionless number.* For comparison between data sets with different units or widely different means, one should use the coefficient of variation instead of the standard deviationQ.* When the mean value is close to zero, the coefficient of variation will approach infinity and is therefore sensitive to small changes in the mean. This is often the case if the values do not originate from a ratio scale.* Unlike the standard deviation, it cannot be used directly to construct confidence intervals for the mean.",
         "cop": 2,
@@ -206,19 +128,6 @@
         "topic_name": "Measures of Central Tendency and Distribution",
         "id": "e77c27a8-540d-437f-ae2a-8641cea51300",
         "choice_type": "single"
-    },
-    {
-        "question": "In positively skewed deviation -",
-        "exp": "Ans. is 'b' i. e.. Mean > Medians > Mode o Explained",
-        "cop": 2,
-        "opa": "Mean = Median = Mode",
-        "opb": "Mean > Medians > Mode",
-        "opc": "Mode > Median > Mean",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Measures of Central Tendency and Distribution",
-        "id": "a65e93c4-3d39-42f8-863f-49274daccc5e",
-        "choice_type": "multi"
     },
     {
         "question": "Highest mean and lowest mode indicates:",
@@ -286,32 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "For 95% confidence limits true is:",
-        "exp": "Ans. is 'a' i. e. 1. 95 of standard error of mean [Ref: Park 20/e, p 751 (18/e, p647, 17/e p613, 16/e, p 595). Jx +/- 1 - (area b/w 1 S. D on either = 68% confidence limits side of mean)x +/- 2 - (S. D.) =95. 4%x +/- 3 - (S. D.) =97. 7%",
-        "cop": 1,
-        "opa": "1. 95 of standard error of mean",
-        "opb": "Reduces 95% of values",
-        "opc": "2. 95 of standard error of mean",
-        "opd": "Normal distribution+-2. 5 S. D.",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Measures of Central Tendency and Distribution",
-        "id": "9f3c5768-5408-4a7b-b2ef-6d8c325da6eb",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Systolic BP of a group of person follows normal distribution curve. The mean BP is 120. The values above 120 are:",
-        "exp": "Ans. is 'c' i. e. 50% in the normal distribution curve 50% of values lies on either side of the mean. Therefore values lying above 120 (which is the mean B. R) are 50%",
-        "cop": 3,
-        "opa": "25%",
-        "opb": "75%",
-        "opc": "50%",
-        "opd": "100%",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Measures of Central Tendency and Distribution",
-        "id": "9b978eef-e3a1-4a5a-a698-30795a0e691c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Area under Normal curve with +-1 SD:",
         "exp": "Ans. a. 0. 68 (Ref Park 23/e p849, 21/e p788; Simple Biostatics by Indrayan and Indrayan Central Tendency in Various Distribution/111: Park 23/e p849, 22/e p849. 22/e p792) Area under Normal curve with +- 1 SD is 0. 68. In Normal Distributionm +- = 68. 3%Qm +- 2 = 95. 4% Qm +- 3 = 99. 7%QDistribution. Central Tendency. Normal (Gaussian) Distribution. Mean = Median = Mode. QRight (Positive) Skew Distribution. Mean > Median > Mode. QLeft (Negative) Skew Distribution. Mean < Median < ModeQ In Distribution with Extreme Values (Outliers). Most affected measure of central tendency. Mean. Least affected measure of central tendency. Mode. Most preferable measure of central tendency. Median",
         "cop": 1,
@@ -336,32 +219,6 @@
         "topic_name": "Measures of Central Tendency and Distribution",
         "id": "b00d8560-d9d6-4fda-9c13-0585f93866de",
         "choice_type": "single"
-    },
-    {
-        "question": "In a negative skewed deviation, TRUE statement is:",
-        "exp": "Ans. is 'c' ie Mean is less than the median Relationship among the three measures of central tendency (ie mean, median and mode) in a skewed curve is an oft repeated question. Let's first see what skewed distribution curve is. An asymmetrical distribution curve can be of two types: Positive skewed distribution curve. Negative skewed distribution curve. Positive (or right) and negative (or left) skewed curves are recognized by the location of the tail of the curve (not by the location of the hump - a common error). Positive or Right skewed distribution curve. These curves have a relatively large number of low scores and a small no of very high scores. The mean lies towards the extreme right of the curve. Negative or left skewed distribution curve. These curves have a large number of high scores and a relatively small number of low scores the mean lies towards the extreme left of the curve. Now let's see the measures of central tendency. Mode is the most frequently occurring value it lies at the peak of the hump. Mean is the arithmetic average it is greatly influenced by the relatively small number of very high or very low scores it liestowards the extreme right in a right (Positive) distribution curve andtowards the extreme left in a left (negative) distribution curve. Median is the middle value it lies b/w the mean and mode dividing the curve into two equal halves. Relationship b/w the measures of central tendency* In a symmetrical curve. Mean = Median = Mode* In a Positive (Right) skewed curve. Mean > Median > Mode* In a Negative (left) skewed curve. Mean < Median < Mode",
-        "cop": 3,
-        "opa": "Mean is greater than the median",
-        "opb": "Mean is equal to the mode",
-        "opc": "Mean is less than the median",
-        "opd": "Mode is less than the median",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Measures of Central Tendency and Distribution",
-        "id": "a43167da-c162-4a70-adbd-2f03060df695",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true about normal response curve except:",
-        "exp": "Ans: C (SD=0) Ref: Textbook of Preventive and Social Mediciner K Park, 21st edition feb 2011. page no: 788. Explanation: The standard normal curve: smooth, bell shaped. perfectly symmetrical curve (based on infinitely large number of observations). Total area of curve=l. Mean=0. SD=1. Mean, median and mode all coincides.",
-        "cop": 3,
-        "opa": "Bell shaped",
-        "opb": "Total area of curve=l",
-        "opc": "SD = 0",
-        "opd": "Mean, mode, median coincide",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Measures of Central Tendency and Distribution",
-        "id": "0f1d8eb7-4254-4fc2-b261-7474c195dec0",
-        "choice_type": "multi"
     },
     {
         "question": "Calculate the mean & mode of the given values: 2, 2, 3, 4, 4, 4, 4, 5, 5, 7, 8, 8, 9",

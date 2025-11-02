@@ -1,31 +1,5 @@
 [
     {
-        "question": "Hand signs of liver cell failure are all except?",
-        "exp": "The hand manifestations of CLD consist of: Spider naevi (invariably on the upper half of the body), Palmar erythema (mottled redness of the thenar & hypothenar eminences) Dupuytren's contractures Clubbing.",
-        "cop": 4,
-        "opa": "Palmar erythema",
-        "opb": "Clubbing",
-        "opc": "Dupuytren's contracture",
-        "opd": "Splinter hemorrhages",
-        "subject_name": "Medicine",
-        "topic_name": "Cirrhosis",
-        "id": "dd15f11d-78d3-4937-98b0-16af19db9191",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In modified Pugh's classification score of 8, what shall be the line of management?",
-        "exp": "Child-Pugh score is calculated by adding the scores of the five factors and can range from 5 to 15. Decompensation indicates cirrhosis with a Child-Pugh score of >7 (class B). This level has been the accepted criterion for listing liver transplantation. Parameters: Bilirubin INR Albumin Ascites Asterixis Grade Points One-year Patient Survival (%) A: well-compensated disease 5-6 100 B: significant function compromise 7-9 80 C: decompensated disease 10-15 45",
-        "cop": 2,
-        "opa": "Conservative management",
-        "opb": "Ohotopic liver transplant",
-        "opc": "Sclerotherapy",
-        "opd": "Shunt surgery",
-        "subject_name": "Medicine",
-        "topic_name": "Cirrhosis",
-        "id": "210c84d1-5fbd-4d28-bf4a-06d2a0e0e4c4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Not a feature of hepato-renal syndrome:",
         "exp": "Hepato-renal syndrome is a form of functional renal failure without renal pathology. Diagnosis is made in the presence of a large amount of ascites in patients who have a step-wise progressive increase in creatinine. Type 1 HRS is characterized by a progressive impairment in renal function and a significant reduction in creatinine clearance within 1-2 weeks of presentation. Type 2 HRS is characterized by a reduction in GFR with an elevation of S. creatinine level, but it is fairly stable and is associated with a better outcome than that of Type 1 HRS.",
         "cop": 1,
@@ -52,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Micronodular cirrhosis is seen in all EXCEPT",
-        "exp": "MICRONODULAR CIRRHOSIS < 3. 0 mm MACRONODULAR CIRRHOSIS >3. 0 mm Micronodular cirrhosis Macronodular cirrhosis -Alcohol Chronic Hep B or Hep C -Hemochromatosis Wilson's disease -Extra hepatic biliary obstruction a-1 antitrypsin deficiency -Veno occlusive disease -Indian childhood cirrhosis",
-        "cop": 1,
-        "opa": "Chronic hepatitis B",
-        "opb": "Alcoholic liver disease",
-        "opc": "Hemochromatosis",
-        "opd": "Chronic extrahepatic biliary obstruction",
-        "subject_name": "Medicine",
-        "topic_name": "Cirrhosis",
-        "id": "1917f2b7-39c0-4363-b344-5ea79d7014fd",
-        "choice_type": "multi"
-    },
-    {
         "question": "Ascitic fluid with increased SAAG is found in?",
         "exp": "Ascitic fluid with increased SAAG (>1. 1g/dl) is found in CHF.",
         "cop": 2,
@@ -76,19 +37,6 @@
         "topic_name": "Cirrhosis",
         "id": "d5ded85d-f9f7-4d71-8e3d-a00c34953d5c",
         "choice_type": "single"
-    },
-    {
-        "question": "A 45-year-old cirrhotic patient presented with severe hematemesis. The management of choice is:",
-        "exp": "Initial resuscitation requires rapid re-expansion of the circulating intravascular blood volume along with interventions to control ongoing losses. Continuing acute blood loss, with Hb declining to < 10 g/dL, should initiate blood transfusion, preferably as fully cross-matched recently banked (<14 days old) blood. If severe hypovolemia- norepinephrine, vasopressin, or dopamine required Once hemorrhage is controlled and the patient has stabilized, blood transfusions should not be continued unless the Hb is <~7g/dL.",
-        "cop": 1,
-        "opa": "Whole blood transfusion",
-        "opb": "Colloids are preferred over crystalloids",
-        "opc": "Normal saline infusion",
-        "opd": "IV fluid with diuretics",
-        "subject_name": "Medicine",
-        "topic_name": "Cirrhosis",
-        "id": "6269f828-f6ef-47e8-bf82-684db43b6bec",
-        "choice_type": "multi"
     },
     {
         "question": "Most common cause of non-alcoholic fatty liver disease?",
@@ -117,45 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Chronic liver disease patient with ascites and no bleeding varices. He presents with hematemesis and melena. What is the next step in management?",
-        "exp": "In patient of chronic liver disease, synthesis of clotting factors is reduced. Since this patient does not have varices, the cause of haematemesis in this patient is bleeding diathesis due to liver disease. Bleeding in such patients is treated with FFP in acute situations. Abnormalities in coagulation in CLD Decreased synthesis of clotting factors and impaired clearance of anticoagulants. Thrombocytopenia from hypersplenism due to poal hypertension. In patients with chronic cholestatic syndrome vitamin K absorption is frequently diminished as it requires biliary excretion for its absorption",
-        "cop": 3,
-        "opa": "Inj. vitamin K",
-        "opb": "Inj. Tranexamic acid",
-        "opc": "FFP transfusion",
-        "opd": "Platelet transfusion",
-        "subject_name": "Medicine",
-        "topic_name": "Cirrhosis",
-        "id": "e5ac13f9-0ee7-4439-a949-c9785a6e3f69",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about Primary Biliary Cirrhosis except?",
-        "exp": "Primary biliary cirrhosis- Characterized by chronic inflammation and fibrous obliteration of intrahepatic bile ductules. Associated with autoimmune disorders- CREST syndrome, Sicca syndrome, Autoimmune thyroiditis, Type-1 Diabetes mellitus and IgA deficiency. Mostly seen in females Age is 35-60 yrs C/F-Pruritis, jaundice, steatorrhoea, xanthelasma, hepatomegaly, splenomegaly, ecchymosis, osteomalacia. Associated with cholesterol stones (not pigment stones) due to reduced bile acid synthesis. Lab findings: | Serum 5' nucleotidase activity | Gamma-glutamyl transpeptidase activity | Serum bilirubin levels | Serum lipid levels | ALP Confirmation test- Liver biopsy Treatment of choice is liver transplantation.",
-        "cop": 3,
-        "opa": "Increase 5'- nucleotidase",
-        "opb": "Median age of presentation is 50 years",
-        "opc": "Most common cause of cholangitis in children",
-        "opd": "PBC frequently associated with CREST syndrome",
-        "subject_name": "Medicine",
-        "topic_name": "Cirrhosis",
-        "id": "eb5d5264-b62e-41f7-ab59-d05a9cc4717d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 60-year-old man with a known case of Hemochromatosis, cirrhosis and poal hypertension was brought to ED with altered mental status. Attendant describes that since the last 3 days, the patient is confused, no h/o melena or hematemesis. For chronic ascites, diet control and spironolactone is given regularly. In the past he had an episode of variceal bleed for which he was put on propranolol and no episodes are seen since then. On examination he is not well oriented to time, place, but oriented to person. He is afebrile, vitals are stable, but ascites, asterixis, are notable. His laboratory investigation shows hemoglobin of 10. 1, Creatinine of 1. 4, and Blood urea nitrogen of 45. On paracentesis, clear fluid with 800 WBC (40% neutrophils) were seen. False statement regarding this condition:",
-        "exp": "SBP- severe complication of ascites characterized by spontaneous infection of the ascitic fluid without an intra-abdominal source. Fluid is a transudate due to cirrhosis protein is <2. 5 g/dl. Patients with ascites may present with Fever Altered mental status Abdominal pain or discomfo Elevated WBC count Bacterial translocation -gut flora traversing the intestine into mesenteric lymph nodes, leading to bacteremia and seeding of the ascitic fluid. MC organisms- E. coli and other gut bacteria. Absolute neutrophil count >250/mL. Bedside cultures should be obtained when ascitic fluid is tapped Diagnosis: Ascitic tap having neutrophil count >250/mL is diagnostic Treatment: Cefotaxime (best drug) Prophylaxis: Required in a patient with an episode(s) of SBP or who had recovered. Once-weekly dosing of antibiotics.",
-        "cop": 1,
-        "opa": "Ascites is preceded by infection",
-        "opb": "Clinical features are abdominal pain, fever, leucocytosis and altered mental status",
-        "opc": "Ascitic fluid protein of 1 gm/dl",
-        "opd": "Common organisms are Gram negative organisms",
-        "subject_name": "Medicine",
-        "topic_name": "Cirrhosis",
-        "id": "fc71ae40-b213-4501-8e9b-8f720f30e230",
-        "choice_type": "multi"
-    },
-    {
         "question": "Antibiotic of choice in cirrhotic patient to prevent encephalopathy:",
         "exp": "Treatment of hepatic encephalopathy 1. Correct precipitating factors 2. Use lactulose- results in colonic acidification. 2. Poorly absorbed antibiotics- neomycin and metronidazole. More recently, rifaximin at 550 mg twice daily has been very effective in treating encephalopathy without the known side effects of neomycin or metronidazole.",
         "cop": 4,
@@ -167,58 +76,6 @@
         "topic_name": "Cirrhosis",
         "id": "6548e448-b371-41d2-a925-acfad721cb96",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statement is false regarding Sengstaken Blakemore tube?",
-        "exp": "Sengstaken Blakemore tube: Used to arrest acute variceal bleed Gastric balloon is inflated with 300 mL of air and retracted to the gastric fundus Oesophageal balloon is inflated to a pressure of 40 mm. Hg Endotracheal intubation prior to tube inseion reduces the risk of pulmonary aspiration",
-        "cop": 3,
-        "opa": "Used to arrest acute variceal bleed",
-        "opb": "Gastric balloon should be inflated, with 200- 250 mL of air",
-        "opc": "Pressure in the oesophageal balloon is 60 mm Hg.",
-        "opd": "Endotracheal intubation prior to tube inseion reduces the risk of pulmonary aspiration",
-        "subject_name": "Medicine",
-        "topic_name": "Cirrhosis",
-        "id": "6c821c09-9937-43ef-8fb6-194e70c3b0b9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which one of the following statements is TRUE regarding the clinical sign being elicited here?",
-        "exp": "The test being done is Fluid thrill for detection of ascites. The hand of second doctor in picture is to prevent transmission of vibrations by abdominal fat.",
-        "cop": 1,
-        "opa": "This test helps to detect ascites",
-        "opb": "This test is for eliciting shifting dullness",
-        "opc": "The hand on the midline below the umbilicus will feel the vibrations in patients with ascites",
-        "opd": "All of the above statements are true",
-        "subject_name": "Medicine",
-        "topic_name": "Cirrhosis",
-        "id": "3e5a30d6-4c03-4c6b-ad40-6b3e8fec61d9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "SGPT is found in:",
-        "exp": "SGPT and SGOT are found in cytoplasm of hepatocytes whereas SGOT is also found in mitochondria of hepatocytes. SGPT can be raised in other forms of tissue damage, such as: Myocardial infarction Muscle necrosis Renal disorders Cerebral disorders Intravascular hemolysis. In these diseases, serum SGOT levels are much higher than SGPT levels. However, in liver disease, generally SGPT increases more than SGOT.",
-        "cop": 1,
-        "opa": "Cytoplasm of hepatocytes",
-        "opb": "Mitochondria of hepatocytes",
-        "opc": "Nucleus of hepatocytes",
-        "opd": "All of above",
-        "subject_name": "Medicine",
-        "topic_name": "Cirrhosis",
-        "id": "bdc872a3-275f-453a-ad54-81f4119ac7d3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Spider naevi can occur in:",
-        "exp": "Spider naevi- benign vascular lesion, can be solitary or multiple Characterized by a central red aeriole, representing the body of the spider, surrounded by a radial pattern of thin-walled capillaries, resembling legs. On release of central compression fills from center to periphery. Usual site to check for spider naevi - SVC distribution. Associated with: Thyrotoxicosis Estrogen-excess states- pregnancy, OCP Hepatorenal syndrome Liver cirrhosis Alcoholics Viral hepatitis Rheumatoid ahritis",
-        "cop": 4,
-        "opa": "Rheumatoid ahritis",
-        "opb": "Cirrhosis of the liver",
-        "opc": "Pregnancy",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Cirrhosis",
-        "id": "4811c160-33be-4899-a7e8-96950220a14d",
-        "choice_type": "multi"
     },
     {
         "question": "CAGE scale is used in:",

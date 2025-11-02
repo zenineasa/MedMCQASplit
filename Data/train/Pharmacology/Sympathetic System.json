@@ -117,32 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are features of metoprolol in comparison to propanolol EXCEPT:",
-        "exp": "Cardioselective b blockers (metoprolol, atenolol, acebutolol, bisoprolol, nebivolol). More potent in blocking cardiac (b1 ) than bronchial (b2) receptors. Their features are: 1. Lower propensity to cause bronchoconstriction 2. Less interference with carbohydrate metabolism and less inhibition of glycogenolysis during hypoglycaemia--safer in diabetics. 3. Less chances of precipitating Raynaud's phenomenon. 4. No/less deleterious effect on blood lipid profile. 5. Ineffective in suppressing essential tremor (it occurs through b2 action on muscle fibres). 6. Less liable to impair exercise capacity.",
-        "cop": 3,
-        "opa": "It is ineffective in suppressing muscle tremor",
-        "opb": "It is relatively safer in diabetics",
-        "opc": "It is less likely to cause bradycardia",
-        "opd": "It is less likely to worsen Raynaud's disease",
-        "subject_name": "Pharmacology",
-        "topic_name": "Sympathetic System",
-        "id": "0f2d95be-08a3-4b47-bec8-79211b2fbc79",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drugs acting on dopamine receptors are all except",
-        "exp": "-Dopamine It stimulates 3 receptors Receptors Dose of Dopamine for stimulation D1 <2 mg/Kg/min b1 2-10 mg/Kg/min a1 >10 mg/Kg/min -Fenoldopam is dopamine agonist -D1 Used in hypeensive emergency -Dobutamine Does not act on dopamine receptors Mainly act on beta 1 Used in CHF -Haloperidol - typical antipsychotic with D2 blocking action",
-        "cop": 3,
-        "opa": "Dopamine",
-        "opb": "Fenoldopam",
-        "opc": "Dobutamine",
-        "opd": "Haloperidol",
-        "subject_name": "Pharmacology",
-        "topic_name": "Sympathetic System",
-        "id": "c4a81534-7243-40bd-a8a1-895f81db3330",
-        "choice_type": "multi"
-    },
-    {
         "question": "Low dose dopamine (1-2 mcg/kg) result in",
         "exp": "At low concentrations, the primary interaction of dopamine is with vascular D1 receptors, especially in the renal, mesenteric, and coronary beds-leads to vasodilation Higher concentrations, dopamine exes a positive inotropic effect on the myocardium, acting on beta-1 adrenergic receptors. At more than 10 mcg/kg/min rate of infusion, dopamine can stimulate alpha 1 receptors leading to peripheral vasoconstriction Dopamine also causes the release of norepinephrine from nerve terminals, which contributes to its effects on the heart. DOSE DEPENDENT EFFECTS OF DOPAMINE Dose Rate Receptors stimulated Major action Low dose 1-2 mcg/kg/min D1 Renal vasodilation Intermediate dose 2-10 mcg/kg/min D1 & Beta 1 Cardiac stimulation High dose > 10 mcg/kg/min D1, Beta 1 and Alpha 1 Vasoconstriction",
         "cop": 2,
@@ -195,45 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "You are in the eye OPD and wish to use a topical beta blocker in a patient. The chosen drug by you should have all the following propeies EXCEPT:",
-        "exp": "Drugs possessing local anaesthetic propey increases the risk of corneal ulcers. Timolol and betaxolol are the preferred b-blockers for the treatment of glaucoma because they lack local anaesthetic activity.",
-        "cop": 1,
-        "opa": "Strong local anaesthetic activity",
-        "opb": "High lipophilicity",
-        "opc": "High ocular capture",
-        "opd": "Low systemic activity",
-        "subject_name": "Pharmacology",
-        "topic_name": "Sympathetic System",
-        "id": "f57900ac-ae83-4f01-b2ec-ff57a6ab9be2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following can be used in treatment of metoprolol toxicity EXCEPT",
-        "exp": "Beta blockers decrease the level of c. AMP by inhibiting beta 1 mediated stimulation of adenyl cyclase enzyme. Glucagon being the source of c. AMP is used as an antidote Atropine can also be used to increase heart rate and reverse Bradycardia seen in beta blocker poisoning. Calcium gluconate can directly stimulate the heart and reverse cardiodepressant effects of beta blockers. Naloxone is given for opioid poisoning. It has no role in beta blocker poisoning.",
-        "cop": 4,
-        "opa": "Glucagon",
-        "opb": "Atropine",
-        "opc": "Calcium gluconate",
-        "opd": "Naloxone",
-        "subject_name": "Pharmacology",
-        "topic_name": "Sympathetic System",
-        "id": "3ffd0524-31c8-492e-b918-17d02f3250ba",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Postural hypotension is seen with all except",
-        "exp": "Alpha blockers can cause postural hypotension, which is also known as First Dose Hypotension. So to avoid First dose Hypotension Alpha 1A blockers are used. e. g. - TAMSULOSIN, SILODOSIN (New drug). Tamsulosin used in benign prostatic hyperplasia Another drug category with similar adverse effect is ACE inhibitors like captopril.",
-        "cop": 3,
-        "opa": "Prazosin",
-        "opb": "Terazosin",
-        "opc": "Tamsulosin",
-        "opd": "Doxazosin",
-        "subject_name": "Pharmacology",
-        "topic_name": "Sympathetic System",
-        "id": "f28eacfb-d291-48c2-93b5-79f0a9215eba",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dopamine is preferred over dobutamine in treatment of shock with oliguria because:-",
         "exp": "Dopamine is the drug of choice for cardiogenic shock with oliguric renal failure. It acts on D1 (at a dose of 1-2 mg/kg/ min.), b1 (at 2-10 mg/kg/min.) and a1 (at > 10 mg/kg/min.) receptors. It causes renal vasodilation by acting on D1 receptors and maintains renal perfusion and GFR. Other ionotropic agents like NA cause renal vasoconstriction and thus worsen renal failure.",
         "cop": 1,
@@ -245,32 +180,6 @@
         "topic_name": "Sympathetic System",
         "id": "fafb0ff1-9955-4778-b476-07685b211f5e",
         "choice_type": "single"
-    },
-    {
-        "question": "A healthy adult subject is given an intravenous injection of a test drug. Both blood pressure and total peripheral resistance rise promptly. This is followed immediately by a reduction of heart rate. In repeated experiments we find that the vasopressor response is not affected by pretreatment with prazosin. However, pretreatment with atropine prevents the cardiac chronotropic response. The test drug was most likely which of the following?",
-        "exp": "Both BP and peripheral resistance increases, it means drug causes vasoconstriction. Reduction in heart rate is also seen. In repeated experiments we find that the vasopressor response is not affected by pretreatment with prazosin. This means increase in BP is not due to stimulation of a receptor. Pretreatment with atropine prevents the cardiac chronotropic response. It means drug does not have any direct effect on heart rate. So, drug does not act through a receptor and do not have any effect on heart rate. So, the answer would be ANGIOTENSIN II.",
-        "cop": 1,
-        "opa": "Angiotensin II",
-        "opb": "Isoproterenol",
-        "opc": "Norepinephrine",
-        "opd": "Epinephrine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Sympathetic System",
-        "id": "b4fd082a-31ca-4398-b16f-842000921ed6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A drug 'X' is an a adrenergic blocker but paradoxically produces vasoconstriction. 'X' is:",
-        "exp": "Ergot alkaloids are the alpha-blockers that can cause vasoconstriction. The vasoconstriction caused by ergot alkaloids is due to stimulation of serotonin receptors. Ergotamine It acts as a paial agonist and antagonist at a adrenergic and all subtypes of 5-HT1 and 5-HT2 receptors, but does not interact with 5-HT3 or dopamine receptors. Sustained vasoconstriction, visceral smooth muscle contraction, vasomotor centre depression are produced, and the action of NA and 5-HT on smooth muscles is antagonized. It is a potent emetic and oxytocic. At high doses CNS stimulation and paresthesias can be seen.",
-        "cop": 2,
-        "opa": "Phenoxybenzamine",
-        "opb": "Ergotamine",
-        "opc": "Prazosin receptors",
-        "opd": "Tolazoline",
-        "subject_name": "Pharmacology",
-        "topic_name": "Sympathetic System",
-        "id": "7cb51843-2256-48ab-ad42-051e759476ea",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drug is used in BHP and has negligible risk of causing postural hypotension?",
@@ -323,19 +232,6 @@
         "topic_name": "Sympathetic System",
         "id": "6ed4e3f5-d96f-4eca-9081-854b65fe33cd",
         "choice_type": "single"
-    },
-    {
-        "question": "Propanolol is useful in the treatment of all of the following EXCEPT:",
-        "exp": "b blockers can be used in - HTN/MI Angina Cardiac arrythmias Pheochromocytoma Thyrotoxicosis Migraine Anxiety Essential tremor Glaucoma Hyperophic obstructive cardiomyopathy.",
-        "cop": 2,
-        "opa": "Angina",
-        "opb": "Paial atrioventricular block",
-        "opc": "Idiopathic hyperophic subaoic cardiomyopathy",
-        "opd": "Familial tremor",
-        "subject_name": "Pharmacology",
-        "topic_name": "Sympathetic System",
-        "id": "07b99dee-6c7c-4f71-be7c-58a1515c2c87",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following effects of adrenaline would be blocked by phentolamine but NOT by propanolol?",
@@ -453,32 +349,6 @@
         "topic_name": "Sympathetic System",
         "id": "201f452f-6837-420c-b795-b34676bd8461",
         "choice_type": "single"
-    },
-    {
-        "question": "34-year-old patient has moderately severe new onset asthma, and physician gave him a selective b2 agonist inhaler. All of the following signs can be seen in this patient after taking the drug EXCEPT?",
-        "exp": "Tremor is a common b2 action, Beta 2 agonists increase the movement of K inside the cells, so these can result in hypokalemia. This action is the basis of use of salbutamol in treatment of hyperkalemia At high doses, selectivity is lost and therefore overdose of beta 2 agonists can result in tachycardia. Beta2 agonist leads to hyperglycemia due to action on the liver.",
-        "cop": 3,
-        "opa": "Tachycardia",
-        "opb": "Skeletal muscle tremor",
-        "opc": "Hypoglycemia",
-        "opd": "Hypokalemia",
-        "subject_name": "Pharmacology",
-        "topic_name": "Sympathetic System",
-        "id": "f03e4711-9b06-4b69-b05c-770c3aff7047",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Alkalinization of urine is required to treat toxicity of all except:",
-        "exp": "Changes in urinary pH affect tubular reabsorption of drugs that are paially ionized - * Weak bases are ionize more and are less reabsorbed in acidic urine.* Weak acids ionize more and are less reabsorbed in alkaline urine. Urine is alkalinized in barbiturate, methotrexate and salicylate poisoning.",
-        "cop": 3,
-        "opa": "Salicylates",
-        "opb": "Barbiturates",
-        "opc": "Amphetamine",
-        "opd": "Methotrexate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Sympathetic System",
-        "id": "ef6475d3-7f13-44c0-a443-675a5754893c",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is the mechanism of action of methyl dopa?",

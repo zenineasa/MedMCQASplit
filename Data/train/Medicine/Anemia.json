@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Regarding anemia of chronic diseases, all are true except: -",
-        "exp": "In anemia of chronic inflammation, ferritin is normal or high, reflecting the fact that iron is sequestered within cells and ferritin is being produced as an acute phase reactant. Test Iron deficiency Anemia of chronic disease Thalassemia minor Lead posioning MCV | | | N/| Serum iron | | N | TIBC | | N | Percent saturation | | N | Serum ferritin | | N | RBC count | | | | Reference: - Robbins 10e, pg-456",
-        "cop": 2,
-        "opa": "Decreased serum Fe",
-        "opb": "Decreased Ferritin",
-        "opc": "Decreased total Fe binding capacity",
-        "opd": "Increased bone marrow Fe",
-        "subject_name": "Medicine",
-        "topic_name": "Anemia",
-        "id": "1d885395-5e81-45d7-9f0e-c0d14825b0f5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following types of anemia is associated with a raised MCV and normal MCHC?",
         "exp": "Megaloblastic anemia (Folate or Vitamin B12 deficiency) is associated with a raised MCV and normal MCHC. Low MCV Normal MCV Increased MCV Sideroblastic anemi Iron deficiency anemia Thalassemic disorders Anemia of inflammation/anemia of chronic disease Acute blood loss Bone marrow suppression Bone marrow invasion Aplastic anemia Chronic renal insufficiency Endocrine dysfunction Hypothyroidism Hypopituitarism Ethanol abuse Folate deficiency Vitamin B12 deficiency Myelodysplastic syndromes Acute myeloid leukemias",
         "cop": 2,
@@ -63,19 +50,6 @@
         "topic_name": "Anemia",
         "id": "eb6ec6fa-7e1a-4b15-86c1-75c36b2cdc48",
         "choice_type": "single"
-    },
-    {
-        "question": "Which Is NOT true about iron deficiency anemia?",
-        "exp": "Hypersegmented neutrophils (more than 5 lobes of neutrophils) is seen in vitamin B12 deficiency. Iron deficiency anemia is the most common cause of anemia in India. It is characterized by microcytic hypochromic peripheral smear.",
-        "cop": 1,
-        "opa": "Hyper-segmented neutrophils",
-        "opb": "Microcytosis precedes hypochromia",
-        "opc": "MCHC<50%",
-        "opd": "Commonest cause of anemia in India",
-        "subject_name": "Medicine",
-        "topic_name": "Anemia",
-        "id": "78c1a2f1-0509-436b-87c1-a94cc9c60d2c",
-        "choice_type": "multi"
     },
     {
         "question": "Low serum iron and low serum ferritin is seen in?",
@@ -102,18 +76,5 @@
         "topic_name": "Anemia",
         "id": "0b78a31f-585c-463d-ad99-4b3ceae28ff1",
         "choice_type": "single"
-    },
-    {
-        "question": "A 23-year-old male presented with nose bleed. Lab parameters show Hb= 5 g/dl g/dl, Platelet count = 23, 000/mm3 and absolute neutrophil count = 176/mm3. Bone marrow is hypocellular with fatty infiltration. All of following statements are true regarding this condition except -",
-        "exp": "The above clinical presentation is suggestive of Aplastic anemia. Lymphadenopathy and splenomegaly are highly atypical of aplastic anemia. Aplastic anemia - Aplastic anemia is pancytopenia with bone marrow hypocellularity. Bleeding is the most common early symptom Easy bruising, oozing from the gums, nose bleeds, heavy menstrual flow, and sometimes petechiae are noticed. Thrombocytopenia leads to small amounts of bleeding in the central nervous system resulting in intracranialor retinal hemorrhage. Symptoms include lassitude, weakness, shoness of breath, and a pounding sensation in the ears. Ix- Mean corpuscular volume (MCV) is commonly increased. Reticulocytes are absent or few, and lymphocyte numbers may be normal or reduced. Bone Marrow is hypocellular and shows mainly fat under the microscope Severity of disease is defined by the presence of 2 of 3 following parameters - a) Absolute neutrophil count <500/mL b) Platelet count <20, 000/mL c) Corrected reticulocyte count <1% (or absolute reticulocyte count <60, 000/mL).",
-        "cop": 2,
-        "opa": "Can be cured by Hematopoietic stem cell transplantation",
-        "opb": "Lymphadenopathy and splenomegaly are highly typical",
-        "opc": "Bleeding is the most common symptom",
-        "opd": "Immunosuppressants are given to cure the disease",
-        "subject_name": "Medicine",
-        "topic_name": "Anemia",
-        "id": "512882d3-fc7b-4e6b-ae0c-0834e0fac93c",
-        "choice_type": "multi"
     }
 ]

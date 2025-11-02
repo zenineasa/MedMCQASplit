@@ -39,45 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statement is false regarding bacterial cell wall?",
-        "exp": "Difference between Gram positive cell wall and gram negative cell wall Structure Primary Functions Chemical Constituents Gram- Positive cell wall Peptidoglycan osmotic stability, structural integrity, cell shape; permeable to antibiotics Thick meshwork of peptide cross-linked polysaccharide chains Teichoic and lipoteichoic acids Adhesion to host cells, weak endotoxin activity, antigenic Polymers of substituted ribitok or glycerol phosphate Proteins Adhesion to host cells, antiphagocytic, antigenic Examples: streptococcal M and R proteins Gram-Negative cell wall Peptidoglycan See above Thinner version of that found in gram-positive bacteria Periplasmic space Transpo of nutrients, degradation of macro molecules Between cytoplasmic and outer membranes - carrier proteins and hydrolytic enzymes Outer membrane Structural suppo, uptake of metabolites, permeability barrier, protection, antigenic Phospholipid bilayer, porins, transpo and other proteins, lipopolysaccharide Lipopolysaccharide Endotoxin activity (Lipid A), anticomplement activity (O antigen) Three pas: Lipid A, core polysaccharide, O antigen Porin channel Allow small and hydrophilic molecules to pass outer membrane Porin proteins",
-        "cop": 2,
-        "opa": "Cell wall of Gram-positive bacteria is thicker than that of Gram-negative bacteria",
-        "opb": "Teichoic acid is present in cell wall of Gram-negative bacteria",
-        "opc": "Region II of LPS is core polysaccharide",
-        "opd": "LPS is responsible for O antigen specificity of gram negative bacteria",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "1ddeb488-a747-4a14-972f-e25b3c45ad96",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Bacteria with tuft of flagellae at one end are called-",
-        "exp": "Arrangement of flagella -",
-        "cop": 4,
-        "opa": "Monotrichate",
-        "opb": "Bipolar",
-        "opc": "Peritrichate",
-        "opd": "Lophotrichate",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "41ba792e-e0ec-45ff-ac3f-5c2fb04e71dc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is an enrichment media:",
-        "exp": "Enrichment media - LIQUID culture media These media are used to suppress commensal bacteria while allowing the pathogen to remain ble and grow. eg - Alkaline peptone water V. cholerae Selenite F-broth Salmonella, shigella Monsour's taurocholate tellurite peptone water V. cholerae",
-        "cop": 4,
-        "opa": "Alkaline peptone water",
-        "opb": "Monsour's taurocholate Tellurite peptone water",
-        "opc": "Selenite F broth",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "3a94ef3e-7820-41e7-87e1-d5511166897f",
-        "choice_type": "multi"
-    },
-    {
         "question": "The mechanism of direct transfer of free DNA involves _____",
         "exp": "Transformation is a process of the transfer of DNA itself from one bacterium to another. This may occur either in nature or in a laboratory. DNA is released from a bacterium by lysis, which may be taken up by recipient bacterium that must be competent. In laboratory conditions, DNA may be extracted from one type of bacterium and introduced into genetically different bacteria. The cell walls of bacteria in vitro are made more permeable for DNA uptake by using substances, such as calcium chloride. Transduction is the process by which foreign DNA is introduced into a cell by a virus or viral vector. Conjugationis the process by which onebacteriumtransfers genetic material to another through direct contact. This takes place through a pilus. During conjugation, onebacteriumserves as the donor of the genetic material, and the other serves as the recipient.",
         "cop": 1,
@@ -156,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A method of sterilization that involves exposure to 100degC for 20 minutes on 3 successive days is known as _____",
-        "exp": "1) Inspissation (fractional sterilization) 80 to 85degC for 30 min (for 3 days) by Inspissator For media containing egg or serum - (LJ media, Dorset's egg medium, Loeffler's serum slope) 2. Tyndallisation (Intermittent sterilization): 100degC, 20 min, 3 consecutive days. Nutrient media and media containing sugars or gelatin 1st day all vegetative bacteria are killed. On II and III day spores that germinate are killed. 3. Autoclave -121 oC for 15 min with 15 lbs. pressure This type of sterilization is done by steam heat under pressure. Use: Glass ware, surgical dressing, culture media, rubber, gloves, surgical instrument are sterilized by this method (Autoclaved) Sterilization control: Spores of Geobacillusstearothermophilus (Bacillus stearothermophilus), Thermocouples, Browne's tube, Autoclave tapes. 4) Pasturization-used for disinfection of milk holder method: moist heat oC for 30 minutes Flash method: moist heat oC for 15 -20 seconds followed by rapid cooling to the temperature of < 13oC UHT method: moist heat 149 oC for 0. 5 sec",
-        "cop": 2,
-        "opa": "Autoclaving",
-        "opb": "Tyndallization",
-        "opc": "Pasteurisation",
-        "opd": "Inspissation",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "c9ab621c-6b70-4833-a581-5a1423ef9434",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dark ground microscopy is used for",
         "exp": "Treponema pallidum immobilization (TPI) test Serum of patient with complement and T. pallidum are maintained in a complex medium anaerobically If the antibodies are present, the Treponemes are immobilized when examined under dark ground illumination.",
         "cop": 1,
@@ -180,19 +128,6 @@
         "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
         "id": "53681b0e-1b1a-4b43-b4dd-2e77915568b1",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true except-",
-        "exp": "Difference between Exotoxin and Endotoxin S. No. EXOTOXIN ENDOTOXIN 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. Proteinaceous Heat labile Actively secreted by bacteria Can be separated from cultures easily Enzymatic action Specific Pharmacological effect for each toxin Specific tissue affinity Highly antigenic Active in very minute doses Action neutralized by specific antibody Can be toxoided Lipopolysaccharides Heat stable Pa of cell wall Obtained only by cell lysis Not enzymatic action Nonspecific effect No specific tissue affinity Weakly antigenic Active only in large doses Not neutralized by antibody Cannot be toxoided 12. Produced mostly by gram positive bacteria Produced mostly by gram negative bacteria",
-        "cop": 2,
-        "opa": "Exotoxin has enzymatic action",
-        "opb": "Endotoxin has enzymatic action",
-        "opc": "Exotoxin is highly antigenic",
-        "opd": "Endotoxin is weakly antigenic",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "95810b72-0c4e-40f2-9da2-d2b7cbfcfdcf",
-        "choice_type": "multi"
     },
     {
         "question": "Recommended transpo medium for stool specimen suspected to contain enteric pathogen is",
@@ -208,19 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Stain used in staining fungal elements",
-        "exp": "Fungal stains - LPCB (lactophenol cotton blue) GMS (Gomorii Methanamine silver) Calcofluor white (Fluorescent stain) Mucicarmine stain (used for capsule of cryptocus neoformans ) Indian ink staining ( used for capsule of cryptocus neoformans ) H&E (haematoxylin/eosin stain) PAS - Periodic acid Schiff.",
-        "cop": 3,
-        "opa": "Acid fast stain",
-        "opb": "Gram stain",
-        "opc": "Methenamine silver",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "a6acd9ef-46b5-4634-a15f-613fa5c48331",
-        "choice_type": "multi"
-    },
-    {
         "question": "Kovac's reagent is used in _____",
         "exp": "Kovac's reagent is used in Indole test Indole test is used to determine the ability of an organism to split amino acid tryptophan to form the compound indole. Indole production is detected by Kovac's or Ehrlich's reagent which contains 4 (p)-dimethylamino benzaldehyde, this reacts with indole to produce a red colored compound. negative indole test positive indole test",
         "cop": 3,
@@ -232,19 +154,6 @@
         "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
         "id": "7bf6c24a-ef41-4a5c-a513-228f9fc761a6",
         "choice_type": "single"
-    },
-    {
-        "question": "All organisms show bipolar staining except -",
-        "exp": "Safety pin like appearance (Bipolar staining) (both ends densely stained and a clear central area) is seen in - Y. pestis H. ducreyi Calymatobacter granulomatis Vibrio parahemolyticus Burkhodelderia pseudomallei Burkhodelderia mallei Gram, Wright, Wayson (or methylene blue staining) or Giemsa stain is used for demonstration of the typical bipolar (safety pin) morphology.",
-        "cop": 3,
-        "opa": "Calymatobacter granulomatis",
-        "opb": "Yersinia pestis",
-        "opc": "H. influenzae",
-        "opd": "Burkholderia pseudomallei",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "55dc1d02-0907-4382-bad1-e4e0749a9594",
-        "choice_type": "multi"
     },
     {
         "question": "The best antiseptic is? -",
@@ -260,19 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Growth on cell-free aificial solid medium is possible for following except?",
-        "exp": "Chlamydiae are obligate intracellular parasites of humans and animals with marked affinity for the squamous epithelial cells of the gastrointestinal and respiratory tracts. They cause infections of chest (Pneumonia) and genital tract ( urethritis, cervicitis etc.) Microscopy - On Gram stain - No organism is seen i. e. chlamydia are not visible on gram stain Culture - On Mc. Coy cell lines and yolk sac of eggs (Hen) Chlamydia cannot be isolated on aificial media or cell free solid media It grows on cell line/egg/mice inoculation IOC = NAAT ( Nucleic acid amplification test ) = PCR",
-        "cop": 4,
-        "opa": "Ureaplasma urealyticum",
-        "opb": "Mycoplasma pneumoniae",
-        "opc": "C and L form of Proteus vulgaris",
-        "opd": "Chlamydia",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "ba85fc9f-951f-40ae-84be-bd12389b8569",
-        "choice_type": "multi"
-    },
-    {
         "question": "Commonly used Disc diffusion method is also known as:",
         "exp": "Disc Diffusion method is also known as Kirby Bauer disc diffusion method. It is most commonly used method for antibiotic sensitivity testing. It is done on MHA i. e. Mueller Hinton Agar or nutrient Agar. Stokes method - It is better method of disc diffusion because controls are used. However, it is not used commonly because it is costly. E test i. e. Epsilometer test is used to calculate MIC (minimum inhibitory Concenteration)",
         "cop": 1,
@@ -284,32 +180,6 @@
         "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
         "id": "1319c759-6891-45e2-94a6-52afd6ffe6b5",
         "choice_type": "single"
-    },
-    {
-        "question": "Who among the following used carbolic acid initially as an antiseptic for surgery and is known as the \"Father of antiseptic surgery\"?",
-        "exp": "Joseph Lister: He is considered to be the father of antiseptic surgery. He used carbolic acid during surgery.",
-        "cop": 4,
-        "opa": "Robe Koch",
-        "opb": "Edward Jenner",
-        "opc": "Louis Pasteur",
-        "opd": "Joseph Lister",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "46821216-d894-4b58-82e3-253e3192534e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Defence mechanism by the bacteria which produce biofilm are all except?",
-        "exp": "Biofilms: These are well-organised microcolonies of bacteria enclosed in self-produced extracellular polymer matrices known as glycocalyx. They are separated by water channels that remove water and deliver nutrients. Biofilm is one of the mechanisms of antibiotic resistance. They stick to the surface strongly. Antibiotics penetration into the biofilm is less. They protect from the inflammatory mediators. Efflux pumps- Expulsion of the drug from the cell soon after their entry to prevent intracellular accumulation of the drug.",
-        "cop": 1,
-        "opa": "Antibiotics are expelled from the surface",
-        "opb": "They stick to the surface strongly",
-        "opc": "Antibiotics penetration into the biofilm is less",
-        "opd": "They protect from the inflammatory mediators",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "64f2dff1-ff5f-4b08-b834-0930d98b5d56",
-        "choice_type": "multi"
     },
     {
         "question": "Blood spill in operation theatre is cleaned with?",
@@ -325,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Steps of Gram stain sequence arrangement. a. Mordant- iodine treatment b. Safranin c. Crystal violet d. Alcohol wash",
-        "exp": "Steps of Gram stain sequence arrangement. Step Name Feature 1 Primary stain Stain with crystal violet for 1 minute and rinse with water 2 Mordant Stain with gram's iodine for 1 min 3 Decolorization Acetone for 2-3 s or 95% ethanol for 20-30s 4 Counter stain Safranin for 30-60s",
-        "cop": 3,
-        "opa": "a>b>c>d",
-        "opb": "b>c>a>d",
-        "opc": "c>a>d>b",
-        "opd": "b>a>d>c",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "fa46d954-e4ce-4055-b030-b95c99b80d51",
-        "choice_type": "multi"
-    },
-    {
         "question": "Stain used in electron microscopy",
         "exp": "Phosphotungstic acid is electron dense, opaque for electrons. It is a common negative stain for viruses, nerves, polysaccharides and other biological tissue materials for imaging by an Electron microscope.",
         "cop": 2,
@@ -349,19 +206,6 @@
         "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
         "id": "c1f58dd3-48b1-4b15-a683-eb26fa22a90a",
         "choice_type": "single"
-    },
-    {
-        "question": "Which among the following statements is false?",
-        "exp": "Different between. Prokaryotes and Eukaryotes PROKARYOTES EUKARYOTES Nuclear membrane absent Nuclear membrane well defined Cytoplasmic structures absent e. g. Mitochondria, Lysosomes, Golgi apparatus, and endoplasmic reticulum are absent. All these cell organelles are present In cell wall muramic acid & diaminopimelic acids (DAPA) present Both absent in cell wall No sterols in cell membrane Sterols present in cell membrane Eg-bacteria, blue-green algae Fungi, protozoa, slime moulds Site of respiration - Mesosomes Mitochondria Ribosomes--protein production site - 70S (50S + 30S), free in cytoplasm or bound to cell membrane Ribosomes--protein production site - 80S (60S + 40S), attached to rough endoplasmic reticulum",
-        "cop": 3,
-        "opa": "Muramic acid is not present in the cell wall of Eukaryotes",
-        "opb": "Extra-chromosomal DNA is present in mitochondria in Eukaryotes",
-        "opc": "80S ribosome is present in prokaryotes",
-        "opd": "Multiple linear chromosomes present in Eukaryotes",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "f3e95543-6a88-4544-aafb-155637f1a597",
-        "choice_type": "multi"
     },
     {
         "question": "Reverse transcriptase is _____",
@@ -403,19 +247,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Eukaryotes are different in causing infection because:",
-        "exp": "Eukaryotes are highly structured cells with organized cell organelles PROKARYOTES EUKARYOTES Nuclear membrane absent Nuclear membrane well defined Cytoplasmic structures absent e. g. Mitochondria, Lysosomes, Glolgi apparatus, and endoplasmic reticulum are absent. All these cell organelles are present In cell wall muramic acid & diaminopimelic acids (DAPA) present Both absent in cell wall No sterols in cell membrane Sterols present in cell membrane Eg- bacteria, blue- green algae Fungi, protozoa, slime moulds",
-        "cop": 2,
-        "opa": "Divide by binary fission",
-        "opb": "Highly structured cells with organized cell organelles",
-        "opc": "Don't have cell organelles",
-        "opd": "Evolutionally deficient",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "8cc4c244-c88d-4e9a-8a0e-49991aaffa02",
-        "choice_type": "multi"
-    },
-    {
         "question": "Sporulation occurs in:",
         "exp": "Option a, b, c, d Bacterial growth curve: When a bacterium is inoculated into a suitable liquid culture medium and incubated, its growth follows a definite course. When bacterial count of such culture is determined at different intervals and plotted in relation to time, a bacterial growth curve is obtained comprising of four phases. Spore formation usually occurs during the stationary phase, when cell growth ceases because of a developing lack of nutrients or accumulation of toxins. Phases of bacterial growth curve: Lag Phase Log Phase Stationary phase Decline Phase Bacteria divide No Yes Yes No Bacterial death No No Yes Yes Total count Flat Raises Raises Flat Viable count Flat Raises Flat Falls Special features 1. Preparatory phase 2. Accumulation of enzymes and metabolites 3. Attains maximum size at end of lag phase 1. Uniformly stained, 2. Metabolically active 3. Small size 1. Gram variable 2. Produce: Granules, spores, exotoxin, antibiotics, bacteriocin 1. Produce involution forms",
         "cop": 3,
@@ -453,19 +284,6 @@
         "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
         "id": "3c567dbe-3785-4308-a3e2-ae9aec8b1cbd",
         "choice_type": "single"
-    },
-    {
-        "question": "Cell wall can be demonstrated by:",
-        "exp": "The cell walls can be demonstrated by: (1) Differential staining procedure (2) Electron microscopy (3) Plasmolysis (4) Microdissection (5) Mechanical rupture of the cell (6) Serological test by exposure to specific antibodies.",
-        "cop": 4,
-        "opa": "Microdissection",
-        "opb": "Electron microscopy",
-        "opc": "Differential staining",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "ff83a2fd-5a6c-430a-9fac-5aa0e74d7ff5",
-        "choice_type": "multi"
     },
     {
         "question": "The specialized type of microscope, which enables quantitative measurement of the chemical constituents of cells, is the -",
@@ -507,45 +325,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following organisms are known to survive intracellularly except",
-        "exp": "1. Streptococcus pyogenes grows extracellular and causes pyogenic infection. 2. Intracellular bacteria are - Listeria monocytogenes Legionella Yersinia Salmonella typhi Shigella Neisseria Mycobacterium Francisella tularensis Pneumococci. 3. Obligate intracellular (Rickettsia, Chlamydia).",
-        "cop": 3,
-        "opa": "Neisseria meningitides",
-        "opb": "Salmonella typhi.",
-        "opc": "Streptococcus pyogenes",
-        "opd": "Legionella pneumophila",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "2b1b90c9-ffe2-43d4-8658-4f9eeaae1ef1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "PCR is used to:",
-        "exp": "Polymerase chain reaction (PCR) - used to amplify small amount of DNA In 1983, Kary Mullis developed a new technique that made it possible to synthesize large quantities of a DNA fragment without cloning it. Basic Steps involved in PCR are: a) DNA extraction from microorganism b) Amplification of extracted DNA- 3 steps -Denaturation (95degC), Primer annealing (55degC), Extension (72degC) c) Post amplification analysis by different methods like Gel electrophoresis.",
-        "cop": 2,
-        "opa": "Detect target plasmids",
-        "opb": "Amplify small amount of DNA",
-        "opc": "Seal the cut ends of DNA",
-        "opd": "Cleave the bacterial plasmid",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "0ab4670a-62a7-4d64-9696-15fb89742b6d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is a constituent of Mac. Conkey agar?",
-        "exp": "Composition of Mac. Conkey Agar: 1. Enzymatic digest of Gelatin, Casein and Animal tissue: provides nitrogen, vitamins, minerals and amino acids essential for growth. 2. Lactose: fermentable carbohydrate providing carbon and energy. 3. Bile Salts: selective agents and inhibit Gram positive organisms. 4. Crystal Violet: Gram positive bacteria are generally inhibited by crystal violet. 5. Sodium Chloride: supplies essential electrolytes for transpo and osmotic balance. 6. Neutral Red: pH indicator. Which is red in color at pH's below 6. 8. When lactose is fermented, the pH of the medium decreases, changing the color of neutral red to pink 7. Agar: Solidifying agent",
-        "cop": 4,
-        "opa": "Lactose",
-        "opb": "Casein",
-        "opc": "Neutral Red",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "59669871-1b24-42d0-a249-ae746b45bd17",
-        "choice_type": "multi"
-    },
-    {
         "question": "Agent which on addition to a colony inhibits its growth and on removal the colony regrow is",
         "exp": "Option 1 A bacteriostatic agent or bacteriostat -biological or chemical agent that stops bacteria from reproducing, while not necessarily killing them otherwise. \"Bacteriostatic\" means that the agent prevents the growth of bacteria (i. e., it keeps them in the stationary phase of growth), and \"bactericidal\" means that it kills bacteria. Option 2 Bactericidal: propey by which a biocide is able to kill bacteria. Bactericidal action differs from bacteriostasis only in being irreversible (ie, the \"killed\" organism can no longer reproduce even after being removed from contact with the agent). Option 3 Antibiotic: A substance that interferes with a paicular step of cellular metabolism; may be either bactericidal or bacteriostatic Option 4 Antiseptic: An agent that destroys or inhibits the growth of microorganisms in or on living tissue or biologic fluids",
         "cop": 1,
@@ -559,19 +338,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which one of the following statements about cilia is true?",
-        "exp": "Both flagella and cilia have a 9 + 2 arrangement of microtubules. This arrangement refers to the 9 fused pairs of microtubules on the outside of a cylinder, and the 2 unfused microtubules in the center Cilia contain an axoneme with ciliary dynein arms extending unidirectionally from one member of each doublet. Dynein \"arms\" attached to the microtubules serve as the molecular motors. Ciliary dynein has ATPase activity, and when it splits ATP, the adjacent doublets slide past one another and the cilium moves.",
-        "cop": 3,
-        "opa": "They possess a 9 + 0 configuration of microtubules.",
-        "opb": "They do not contain an axoneme.",
-        "opc": "They contain ciliary dynein arms.",
-        "opd": "They are nearly identical to centrioles.",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "df2f562b-e4c8-4614-a490-c13fcdadbf9a",
-        "choice_type": "multi"
-    },
-    {
         "question": "The role of plasmids in conjugation was first described by Lederberg and Tatum (1946) in which bacteria?",
         "exp": "Bacterial conjugation was first described by Lederberg and Tatum (1946) in a strain of E. coli called K12 (carried a conjugative plasmid F) The F factor: The F plasmid, also called F factor, is a transfer factor that contains the genetic information, essential for controlling mating process of the bacteria during conjugation. The F plasmid of Escherichia coli is the prototype for feility plasmids in Gram-negative bacteria. Strains of E. coli with F+ plasmid are called as donors, whereas plasmid are F- behave as recipients.",
         "cop": 3,
@@ -583,19 +349,6 @@
         "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
         "id": "3182b8a4-26c2-441e-a3b1-2f95ca1f4836",
         "choice_type": "single"
-    },
-    {
-        "question": "Silver impregnation technique is used in the identification of -",
-        "exp": "Impregnation stains: - Cells and structures that are too thin to be visualized by the light microscope can be rendered visible by impregnation of silver on their surface. Silver impregnation method is a common method used for staining spirochetes, such as T. pallidum, Leptospira, Borrelia, etc. Histology = Treponema pallidum grow in Rabbit's testis. Brown color stained with Fontana Silver Impregnation stain.",
-        "cop": 4,
-        "opa": "Spirochetes",
-        "opb": "Leptospira",
-        "opc": "Borrelia",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "09418846-e3e2-4714-af7e-9ce70c8a849c",
-        "choice_type": "multi"
     },
     {
         "question": "Smith Noguchi's media is used for",
@@ -622,45 +375,6 @@
         "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
         "id": "6cc947af-a2ab-481d-847c-01f8c6a5489f",
         "choice_type": "single"
-    },
-    {
-        "question": "Exaltation refers to:",
-        "exp": "Exaltation refers to enhancement of virulence 1. Virulence - Measure of a microbe's ability to cause disease. Quantitative measure of pathogenicity Highly virulent microbe requires fewer organisms to cause disease than a less virulent one; hence it is directly dependent on the infectious dose of the organism. 2. The virulence of a strain is not constant and may undergo spontaneous or induced variations. Attenuation - Reduction in virulence & can be achieved experimentally by passage through unorable hosts, repeated cultures in aificial media, growth in high temperature or in the presence of weak antiseptics or prolonged storage in culture. Exaltation - Enhancement of virulence & can be demonstrated experimentally by serial passage in susceptible host",
-        "cop": 1,
-        "opa": "Enhancement of virulence",
-        "opb": "Removal of cell wall",
-        "opc": "Increasing rate of replication",
-        "opd": "Passage through unorable hosts",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "1e4bf893-916a-4893-9d9a-0f6222dc0546",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following are true of Gram negative bacterial cell wall compared to Gram positive bacteria except:",
-        "exp": "Characteristic Gram-Positive Gram-Negative Gram Reaction Retain crystal violet dye and stain blue or purple Can be decolorized to accept counterstain (safranin) and stain pink or red Peptidoglycan Layer Thick (multilayered) Thin (single-layered) Teichoic Acids Present in many Absent Periplasmic Space Absent Present Outer Membrane Absent Present Lipopolysaccharide (LPS) content Viually none High Lipid and Lipoprotein content Low (acid-fast bacteria have lipids linked to peptidoglycan) High (because of presence of outer membrane) Flagellar structure 2 rings in basal body 4 rings in basal body Toxins produced Exotoxins Endotoxins and exotoxins Resistance to Physical Disruption High Low Call wall Disruption by Lysozyme High Low (requires pretreatment to destabilize outer membrane) Susceptibility to Penicillin and Sulfonamide High Low Susceptibility to Streptomycin, Chloramphenicol and Tetracycline Low High Inhibition by Basic Dyes High Low Susceptibility to Anionic Detergents High Low Resistance to Sodium Azide High Low Resistance to Drying High Low",
-        "cop": 2,
-        "opa": "Presence of lipopolysaccharide",
-        "opb": "Presence of Teichoic acid",
-        "opc": "Presence of Sulphur containing amino acids",
-        "opd": "Thinner",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "ead82c3b-650b-4f6c-8ae6-f588bb44229a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Cell wall deficient organisms are -",
-        "exp": "Mycoplasmas(PPLO) are bacteria that are cell wall deficient and hence do not possess morphology (JOKER OF PLANT KINGDOM). They occur as round or oval bodies and as interlacing filaments",
-        "cop": 2,
-        "opa": "Chlamydia",
-        "opb": "Mycoplasma",
-        "opc": "Staphylococcus",
-        "opd": "Clostridium",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "d6686364-18ea-4665-a56c-01c141775fde",
-        "choice_type": "multi"
     },
     {
         "question": "Nohern blotting used in separation and diagnosis of:",
@@ -715,19 +429,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following pathogenic bacteria fulfill Kochs postulates except",
-        "exp": "Koch's postulates: A microorganism was accepted as the causative agent of infectious disease, only when it satisfied all the following criteria: 1. The microorganism must be present in every case of the disease but absent from healthy host. 2. The suspected microorganism must be isolated and grown in a pure culture from lesions of the disease. 3. The isolated organism, in pure culture, when inoculated in suitable laboratory animals should produce a similar disease. 4. The same microorganism must be isolated again in pure culture from the lesions produced in experimental animals. Most of the human bacterial pathogens satisfy Koch's postulates except for Mycobacterium leprae (leprosy) Treponema pallidum (syphilis) Both these bacteria are yet to be grown in cell-free culture media.",
-        "cop": 1,
-        "opa": "Treponema pallidum",
-        "opb": "Yersinia pestis",
-        "opc": "Bacillus anthracis",
-        "opd": "Helicobacter pylori",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "c532d362-8ba4-4ad3-918d-2d924b10c55d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Swarming growth on culture is characteristic of which Gram-negative organism",
         "exp": "1. Swarming - Proteus has an ability to swarm (or spread) on solid media. They spread on the surface of the plate in successive waves to form a thin filmy layer in concentric circles. This is known as swarming. 2. Organism which swarm: Proteus, Clostridium tetani, V. parahemolyticus, and Serratia. Clostridium welchii - non motile Clostridium tetani - Gram positive Bacillus cereus- motile, gram positive rod Proteus mirabilis - peritrichous flagella",
         "cop": 4,
@@ -739,19 +440,6 @@
         "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
         "id": "c6290e7d-f07e-4b04-b39d-7ea87ef62bb0",
         "choice_type": "single"
-    },
-    {
-        "question": "Prokaryotes are characterized by -",
-        "exp": "Different between Prokaryotes and Eukaryotes PROKARYOTES EUKARYOTES Nuclear membrane absent Nuclear membrane well defined Cytoplasmic structures absent e. g. Mitochondria, Lysosomes, Golgi apparatus, and endoplasmic reticulum are absent. All these cell organelles are present In cell wall muramic acid & diaminopimelic acids (DAPA) present Both absent in cell wall No sterols in cell membrane Sterols present in cell membrane Eg-bacteria, blue-green algae Fungi, protozoa, slime moulds Site of respiration - Mesosomes Mitochondria Ribosomes--protein production site - 70S (50S + 30S), free in cytoplasm or bound to cell membrane Ribosomes--protein production site - 80S (60S + 40S), attached to rough endoplasmic reticulum",
-        "cop": 1,
-        "opa": "Absence of nuclear membrane",
-        "opb": "Presence of microvilli on its surface",
-        "opc": "Presence of smooth endoplasmic reticulum",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "General Microbiology Pa 1 (History, Microscopy, Stains and Structure and Physiology of Bacteria)",
-        "id": "8e2d14c5-3f67-4e60-a1b0-668cc72497ff",
-        "choice_type": "multi"
     },
     {
         "question": "Robe Koch assistant advised him to use agar instead of gelatin for solidifying culture media for cultivation of bacteria because",

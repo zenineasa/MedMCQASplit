@@ -1,18 +1,5 @@
 [
     {
-        "question": "Syndrome of Inappropriate secretion of Anti-Diuretic hormone (SIADH) may be seen in all of the following except?",
-        "exp": "CAUSES OF SIADH: Neoplastic Pulmonary CNS Drugs Other Small cell Mesothelioma Stomach Pancreas Bladder Prostate Endometrium Thymoma Leucaemia Lymphoma. Sarcoma Pneumonia Abscess TB Aspergillosis Asthma Cystic fibrosis PPV Abscess Meningitis AIDS SDH SAH CVA Head Trauma MS GBS Desmopressin Oxytocin* Vasopressin SSRIs* Anti-epileptics * NSAIDs * MDMA Idiopathic Hereditary (V2 receptor)",
-        "cop": 4,
-        "opa": "Use of vincristine",
-        "opb": "Oat cell carcinoma of lung",
-        "opc": "Porphyria-acute attack",
-        "opd": "Primary pulmonary emphysema",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of pituitary gland",
-        "id": "667e1c07-c04b-4e91-b02b-69f49c7d9713",
-        "choice_type": "multi"
-    },
-    {
         "question": "Pituitary diabetes insipidus is improved by?",
         "exp": "CHLORPROPAMIDE: This Anti-diabetic drug was withdrawn from market as it causes SIADH. So theoretically, it can be used in diabetes insipidus. But the DOC for treatment of Central Diabetes Insipidus: Desmopressin",
         "cop": 3,
@@ -24,19 +11,6 @@
         "topic_name": "Disorders of pituitary gland",
         "id": "faa271b0-0ba6-4ad4-a8b7-0647087451b8",
         "choice_type": "single"
-    },
-    {
-        "question": "Which is not a feature of Kallman syndrome?",
-        "exp": "Kallman Syndrome occurs due to defective synthesis of Gn. RH (Gonadotropin releasing hormone). KAL gene is X linked. During fetal life, the Gn. RH neurons originate in Olfactory Placode and then migrate along fetal olfactory neuron. They eventually wend their way to the hypothalamus. Presenting features Associated with Males: delayed pubey and micro-penis. Females: Primary amenorrhea and failure of development of secondary sexual characteristics Anosmia Colour blindness, optic atrophy SN deafness Mirror movements of hands (synkinesia) Cleft palate Renal abnormalities Mirror movements",
-        "cop": 4,
-        "opa": "Micropenis",
-        "opb": "Primary amenorrhea",
-        "opc": "Mirror movements of hands",
-        "opd": "Mental retardation",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of pituitary gland",
-        "id": "649bfcdb-7ded-4f54-9fa7-845aa8293209",
-        "choice_type": "multi"
     },
     {
         "question": "L- arginine test is used for testing reserve of?",
@@ -91,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Level of prolactin above which hyperprolactinemia term is used is?",
-        "exp": "Normal adult serum PRL levels are about 10-25 mg/L in women and 10-20 mg/L in men. PRL secretion is pulsatile, with the highest secretory peaks occurring during rapid eye movement sleep. Peak serum PRL levels (up to 30 mg/L) occur between 4: 00 and 6: 00 a. m. The circulating half-life of PRL is about 50 min. Hyperprolactinemia refers to prolactin levels more than 200mg/L in blood and most common cause is PRL-secreting pituitary adenomas called as prolactinoma. Hyperprolactinemia is the most common pituitary hormone hyper-secretion syndrome in both men and women.",
-        "cop": 4,
-        "opa": "50",
-        "opb": "100",
-        "opc": "150",
-        "opd": "200",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of pituitary gland",
-        "id": "6a2b9ce5-2c8a-455d-9ef2-26b537ba5b02",
-        "choice_type": "multi"
-    },
-    {
         "question": "Laron dwarfism occurs due to?",
         "exp": "Growth hormone insensitivity syndrome is also known as Laron dwarfism which is characterized by the receptor anomalies and immunological suppression seen in these patients. Its a type of Autosomal recessive disorder",
         "cop": 2,
@@ -115,45 +76,6 @@
         "topic_name": "Disorders of pituitary gland",
         "id": "5c0810f0-2b7a-4838-8418-e3fc91830384",
         "choice_type": "single"
-    },
-    {
-        "question": "A 21 year old male presented with sho stature & lack of secondary sexual characteristics. He has been operated for brain tumor 12 years ago & underwent cranial radiation. Which of the following is true regarding acquired hypopituitarism due to radiation?",
-        "exp": "Cranial irradiation may result in long-term hypothalamic and pituitary dysfunction. At a dose of 50 Gy of radiation, up to two-thirds of patients develop hormone insufficiency The development of hypopituitarism occurs over 5-15 years after cranial radiation Growth hormone deficiency is most common, followed by gonadotropin and ACTH deficiency Children and adolescents are at highest risk from radiation-induced hypopituitarism",
-        "cop": 3,
-        "opa": "At a dose of 50 Gy of radiation, only 5% of patients will manifest hypopituitarism.",
-        "opb": "The majority of patients who develop hypopituitarism after cranial radiation, do so within a year of treatment.",
-        "opc": "Growth hormone is the most common hormonal deficiency.",
-        "opd": "Older adults are at highest risk from radiation-induced hypopituitarism.",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of pituitary gland",
-        "id": "500370a7-86df-42f2-af8c-db45f6027812",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Galactorrhea can be seen in all except?",
-        "exp": "Option A can be ruled out right away. Option B: Some pituitary adenomas are plurihormonal and can overproduce Prolactin leading to galactorrhea. Option D: Prolactin is excreted kidney and another reason is direct uraemic toxin effect on hypothalamic function (reducing inhibitory dopaminergic tonus and increasing prolactin secretion) Secondary hypothyroidism occurs due to anterior pituitary damage. Conditions like Sheehan syndrome and Simmond's disease can lead to reduction of TSH as well as prolactin levels.",
-        "cop": 3,
-        "opa": "Prolactinoma",
-        "opb": "Acromegaly",
-        "opc": "Secondary hypothyroidism",
-        "opd": "Chronic renal failure",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of pituitary gland",
-        "id": "11d208ca-7e64-4fb5-b234-f956e115147d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Acromegaly is associated with all of the following EXCEPT:",
-        "exp": "Screening - IGF-1 | IOC - glucose challenge Test Rx - Transsphenoidal Sx (Definitive Rx) DOC- Octreotide Other drugs Pegvisomant Cabergoline Bromocriptine",
-        "cop": 4,
-        "opa": "Nasal sinus enlargement",
-        "opb": "Increased heel pad thickness",
-        "opc": "Diabetes mellitus",
-        "opd": "Muscle hyperophy",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of pituitary gland",
-        "id": "aebdd6fc-0cd5-44ba-a131-be1980dce24d",
-        "choice_type": "multi"
     },
     {
         "question": "Which is the screening test for acromegaly?",
@@ -180,19 +102,6 @@
         "topic_name": "Disorders of pituitary gland",
         "id": "6a9fb711-3c27-4612-b31b-509ad74f943d",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true regarding Craniopharyngioma except?",
-        "exp": "Craniopharyngiomas are benign, suprasellar cystic masses that present with headaches, visual field deficits, and variable degrees of hypopituitarism. They are derived from Rathke's pouch and arise near the pituitary stalk, commonly extending into the suprasellar cistern. They contain Epithelial cell. Craniopharyngiomas are often large, cystic, and locally invasive. Many are paially calcified, exhibiting a characteristic appearance on skull X-ray and CT images. MRI is generally superior to CT for evaluating cystic structure and tissue components of craniopharyngiomas. CT is useful to define calcifications and evaluate invasion into surrounding bony structures and sinuses.",
-        "cop": 3,
-        "opa": "Derived from Rathke's pouch",
-        "opb": "Contains epithelial cells",
-        "opc": "Present in temporal or parietal lobes",
-        "opd": "Causes visual disturbances",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of pituitary gland",
-        "id": "45e2c9e2-d815-455e-ab51-bd92e3df425d",
-        "choice_type": "multi"
     },
     {
         "question": "MC characteristic physical finding of prolactinoma after galactorrhea is?",
@@ -232,32 +141,6 @@
         "topic_name": "Disorders of pituitary gland",
         "id": "82244e59-ab25-46e3-a889-9d39d9d500b4",
         "choice_type": "single"
-    },
-    {
-        "question": "A 45 year old male met with road traffic accident & sustained severe head injury. Later he develops pituitary insufficiency & is staed on thyroid hormone, testosterone, glucocoicoids, and vasopressin. All of the following can be found in this patient because of growth hormone deficiency EXCEPT:",
-        "exp": "Increased bone mineral density is not seen in GH deficiency Features of growth hormone deficiency are: Clinical Imaging Laboratory Increased body fat mass Decreased lean body mass Increased waist-to-hip ratio Impaired cardiac structure & function Impaired lipid profile Atherosclerosis Decreased fibrinolytic activity Pituitary- mass or structural damage Bone- decreased bone mineral density Abdomen- excessive omental fat Evoked GH <3ng/ml IGF-1: decreased Increased LDL",
-        "cop": 3,
-        "opa": "Abnormal lipid profile",
-        "opb": "Atherosclerosis",
-        "opc": "Increased bone mineral density",
-        "opd": "Increased waist-to-hip ratio",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of pituitary gland",
-        "id": "2396f3ee-91e3-4c0e-b50f-84eee6570108",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The following are recognized features of pan-hypopituitarism except?",
-        "exp": "Since ACTH has a paial MSH(Melanocyte Stimulating Hormone) like activity and levels of ACTH in Pan-hypopituitarism will fall, the hyperpigmentation cannot occur. However diseases with Increased ACTH like Addison disease will show hyperpigmentation. Insulin sensitivity implies hypoglycemia. LH/FSH fall will cause loss of secondary sexual features.",
-        "cop": 2,
-        "opa": "Increased insulin sensitivity",
-        "opb": "Pigmentation of the mucous membranes",
-        "opc": "Low serum thyroxine and TSH levels",
-        "opd": "Loss of secondary sex characters",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of pituitary gland",
-        "id": "217586e1-e46a-456d-9995-0921db606567",
-        "choice_type": "multi"
     },
     {
         "question": "Which is the most common cranial nerve involved in pituitary apoplexy?",
@@ -338,19 +221,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Increased heel pad thickness can be measured on X ray of foot as shown. This can be seen in all conditions except?",
-        "exp": "Causes of Heel pad thickness (Mnemonic: DOC MACRO) 1. Drugs like phenytoin 2. Obesity 3. Callus formation 4. Myxoedema 5. Acromegaly",
-        "cop": 4,
-        "opa": "Granulated GH cell adenoma",
-        "opb": "Callus formation",
-        "opc": "Hypothyroidism",
-        "opd": "Hypehyroidism",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of pituitary gland",
-        "id": "56d81c85-5a79-4e93-9f1e-8591618980c9",
-        "choice_type": "multi"
-    },
-    {
         "question": "For galactorrhea and amenorrhea syndromes, what is the investigation in addition to serum prolactin?",
         "exp": "In patients with Iodine deficiency Low T4/T3 results in TSH || by Feedback mechanism & to ||TSH the TRH is also elevated(||) Now this ||TRH will increase both TSH and Prolactin production. Therefore Hyperprolactinemia resulting in Galactorrhea can also be seen in Patients with thyroid malfunction.",
         "cop": 2,
@@ -388,19 +258,6 @@
         "topic_name": "Disorders of pituitary gland",
         "id": "95b9e6e2-924d-44c5-9bde-951c5c2634ab",
         "choice_type": "single"
-    },
-    {
-        "question": "Acidophil stem cell tumour presents with all of the following features except.",
-        "exp": "Acidophil cell tumors produce PRL, GH and lead to presentation of hypogonadism and galactorrhea. The increase PRL has negative effect on values of LH and FSH explaining Hypogonadism Thyrotoxicosis is a presentation of Thyrotrope Adenoma which is a Basophilic tumor.",
-        "cop": 4,
-        "opa": "Hypogonadism",
-        "opb": "Galactorrhea",
-        "opc": "Acromegaly",
-        "opd": "Thyrotoxicosis",
-        "subject_name": "Medicine",
-        "topic_name": "Disorders of pituitary gland",
-        "id": "da25b60b-7e76-490f-8744-7450df07d542",
-        "choice_type": "multi"
     },
     {
         "question": "Which chromosome is involved in pathogenesis of MEN1?",

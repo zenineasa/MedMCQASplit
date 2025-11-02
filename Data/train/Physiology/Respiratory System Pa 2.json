@@ -39,32 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Concerning the ventilatory response to hypoxia, TRUE is:",
-        "exp": "Ventilation increases greatly at high altitude in response to hypoxic stimulation of chemoreceptors. The other choices are incorrect: It is the peripheral chemoreceptors, not the central chemoreceptors that are responsible for the response. The response is increased if the p. CO2 is also raised. Hypoxic stimulation is often impoant in patients with longstanding severe lung disease who have nearly normal values for the pH of the CSF and blood. Mild carbon monoxide poisoning is associated with a normal aerial p. O2, and therefore, there is no stimulation of the peripheral chemoreceptors.",
-        "cop": 1,
-        "opa": "It is the major stimulus to ventilation at high altitude",
-        "opb": "It is primarily brought about by the central chemoreceptors",
-        "opc": "It is reduced if the PCO2 is also raised",
-        "opd": "It rarely stimulates ventilation in patients with chronic lung disease",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 2",
-        "id": "775a45c0-c9ea-487a-820c-66d18e8a7dd0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Toxic effects of high oxygen tension include all of the following except:",
-        "exp": "The O2 toxicity seems to be due to the production of superoxide anion, which is a free radical and H2. O2. One of the principal effects is to oxidize the polyunsaturated fatty acids that are essential components of many membranous structures of the cells. Another effect is to oxidize some of the cellular enzymes. Increased alveolar p. O2 may lead to absorption atelectasis, damage to pulmonary capillaries and pulmonary edema. Oxygen toxicity also includes retinopathy of prematurity (in infants), convulsions and coma.",
-        "cop": 2,
-        "opa": "Pulmonary edema",
-        "opb": "Decreased cerebral blood flow",
-        "opc": "Retinal damage",
-        "opd": "CNS excitation and convulsion",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 2",
-        "id": "ff78daed-da12-4787-8a12-ab917eea462f",
-        "choice_type": "multi"
-    },
-    {
         "question": "In which of the following a reduction in aerial oxygen tension occurs?",
         "exp": "A gas exes its pressure when in a free state. p. O2 is exeed by the oxygen that is dissolved in plasma, and not by the oxygen that has combined with Hb. In anemia and CO poisoning, the oxygen that has combined with Hb is decreased; PO2 is not affected. In the moderate exercise, O2 delivery by Hb is facilitated by the increase of H+, CO2, and temperature. Thus, O2 is liberated from Hb, but PO2 will be unaffected. Alveolar and aerial PO2 depend on alveolar ventilation, alveolar PCO2, and the respiratory quotient; the relationship is given by alveolar air equation. Alveolar O2 is determined by a balance between the rate of O2 removal and the rate of O2 replenishment by ventilation. Metabolic demands of the tissues will determine the rate of O2 removal. If the demands are normal, but O2 replenishment is reduced (as in hypoventilation), alveolar O2 will decrease. And subsequently, aerial PO2 will decrease. In all other cases paial pressure of oxygen is unaffected",
         "cop": 4,
@@ -169,19 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "O2 delivery to tissues depends on all/except",
-        "exp": "Increased cardiac output would increase the O2 transpo to the tissues. Increased Hb concentration would also increase the O2 transpo. Affinity of Hb for O2 decreases in tissues; more O2 is liberated by Hb.",
-        "cop": 2,
-        "opa": "Cardiac output",
-        "opb": "Type of fluid administered",
-        "opc": "Hemoglobin concentration",
-        "opd": "Affinity of hemoglobin for 02",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 2",
-        "id": "d0b0948d-f66c-447d-8106-fe95e693816e",
-        "choice_type": "multi"
-    },
-    {
         "question": "A healthy 30-year-old male runs on the treadmill for 30 mins. Which of the following muscle does this person use during expiration?",
         "exp": "Internal intercostals and abdominal recti are involved in strenuous exercise Muscles involved in Respiration Primary inspiratory Muscles Diaphragm External intercostal muscles Accessory Inspiratory Muscles Sternocleidomastoid Scaleni Alae nasi Small muscles of the head & neck Expiratory Muscles Internal intercostal muscles Rectus Abdominis Internal & external obliques Transversus abdominis",
         "cop": 3,
@@ -232,19 +193,6 @@
         "topic_name": "Respiratory System Pa 2",
         "id": "9e09640f-b4ad-4ce5-91ba-635e15188499",
         "choice_type": "single"
-    },
-    {
-        "question": "A normal subject makes an inspiratory effo against a closed airway. You would expect the following to occur:",
-        "exp": "When an inspiratory effo is made against a closed airway, all the pressures inside the thorax fall including the pulmonary vascular pressures. The other choices are incorrect: During inspiration, the tension in the diaphragm increases, external not internal intercostal muscles become active, intrapleural pressure becomes more negative, and alveolar pressure will fall equally with intrapleural pressure if lung volume does not change. If lung volume does increase slightly, intrapleural pressure will fall more than alveolar pressure.",
-        "cop": 4,
-        "opa": "Tension in the diaphragm decreases",
-        "opb": "The internal intercostal muscles become active",
-        "opc": "Intrapleural pressure increases (becomes less negative)",
-        "opd": "Pressure inside the pulmonary capillaries falls",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 2",
-        "id": "e750a389-f488-4dcc-b753-9cbb03cb11b2",
-        "choice_type": "multi"
     },
     {
         "question": "A patient with carbon monoxide poisoning is treated with hyperbaric oxygen that increases the aerial PO2 to 2000 mm Hg. The amount of oxygen dissolved in the aerial blood (in ml/100 ml) is:",

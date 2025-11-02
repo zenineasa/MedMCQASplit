@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following factors shift the oxygen dissociation curve to the right except:",
-        "exp": "Ans: D (| pH) Ref: Guyton & Hull. Transport of Oxygen and Carbon Dioxide in Blood and Tissue Fluids. In: Textbook of Medical Physiology. 12th ed. Philadelphia: Saunders. Elsevier: 2012. p 500. Explanation: Factors shifting oxygen dissociation curve. Shift to left. Shift to Right| Temperature| Temparature| pH| pH| p. CO2 |2. 3 DPG| p. CO2 | 2, 3 DPGFetal Hb. Carbon monoxide|p. O2",
-        "cop": 4,
-        "opa": "| CO2",
-        "opb": "| temperature",
-        "opc": "| 2, 3 DPG",
-        "opd": "| pH",
-        "subject_name": "Physiology",
-        "topic_name": "Gas Transport",
-        "id": "540f4c2d-d4fb-4752-bc0d-4c0a5afa6e28",
-        "choice_type": "multi"
-    },
-    {
         "question": "In plasma, carbon-di-oxide is mainly transported as: (Repeat)",
         "exp": "Ans: B (HCO3-) Ref: Pal GK. Transport of gases in blood. In: Textbook of medical physiology. Ahuja publishing house. 2007: 91: 733. Explanation: Carbon Dioxide Transport in Blood1. HCO3- in plasma and in RBCs - 70%2. Formation of carbamino compounds with plasma protein (23%)3. Dissolved form (7%)",
         "cop": 2,
@@ -76,44 +63,5 @@
         "topic_name": "Gas Transport",
         "id": "61a9b3bf-b3c0-46fe-8b00-2cba9e2b340c",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following factors influence hemoglobin dissociation curve, except:",
-        "exp": "Ans. is 'a' i. e. Chloride ion concentration Three conditions affect the oxygen-hemoglobin dissociation curve, the pH, the temperature, and the concentration of 2, 3-biophosphoglycerate. CO2 tension (PCO2) affects the pH of blood and hence the 02-Hb dissociation curve. Shift of Q2-Hb dissociation curve. Factors. Shift to Right. Shift to leftpH||temperature||2, 3 DPG cone.||PCO2||",
-        "cop": 1,
-        "opa": "Chloride ion concentration",
-        "opb": "CO2 tension",
-        "opc": "Temperature",
-        "opd": "2-3 DPG levels",
-        "subject_name": "Physiology",
-        "topic_name": "Gas Transport",
-        "id": "61db59b3-5cde-4e5b-be5d-4de560bbb6c9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "02 delivery to tissues depends on all/except",
-        "exp": "Ans. is 'b' i. e. Type of fluid administered The O2 delivery system in the body consists of the lungs and the cardiovascular system. O2 delivery to a particular tissue depends on: amount of O2 entering the lungsthe adequacy of pulmonary gas exchangethe blood flow to the tissuescardiac outputdegree of constriction of the vascular bed in the tissuethe capacity of blood to carry O2 the amount of O2 in the blood is determined bythe amount of dissolved O2 in plasmathe amount of hemoglobinthe affinity of the hemoglobin for O2. The affinity of hemoglobin for O2 is represented by the oxygen-hemoglobin dissociation curve and depends on 3 factors -p. Htemperature2, 3-biphosphoglycerate cone. (BPG)|p. Hshift O2-Hb|the affinity of|temperature- dissociation curve -Hb for O2|2, 3-BPG cone. to the right",
-        "cop": 2,
-        "opa": "Cardiac output",
-        "opb": "Type of fluid administered",
-        "opc": "Hemoglobin concentration",
-        "opd": "Affinity of hemoglobin for 02",
-        "subject_name": "Physiology",
-        "topic_name": "Gas Transport",
-        "id": "1e41b4e8-7dac-4e43-abbf-1716ac203f61",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Hemoglobin-Oxygen dissociation curve is sigmoid shape due to -",
-        "exp": "Ans. is 4c' i. e., Co-operativity phenomenon. Molecular basis of sigmoid shapeo Each molecule of hemoglobin can combine with upto four molecules of oxygen. Combination with the first molecule alters the conformation of the hemoglobin molecule in such a way as to facilitate combination with the next oxygen molecule. In light of this, if we look at the curve, as the PO2 starts rising from 0 mm Hg upwards, initially all hemoglobin molecules in blood starts combining with their first oxygen molecule. This is the most difficult molecule to combine with. Hence saturation rises only slowly with initial rise in PO2. As PO2 rises further, hemoglobin molecules combine with their second, third and fourth molecules, which are progressively easier to combine with. Hence saturation rises steeply between PO2 of 15 mm Hg and 40 mm Hg. When PO2 rises still further, oxygen finds most of the hemoglobin molecules carrying four molecules of oxygen each. Since no molecules of hemoglobin can carry more than four molecules of oxygen, there is not much scope for more O2 combining with hemoglobin. Hence the curve becomes almost flat again beyond the PO2 of 60 mm Hg. o Thus, the primary reason for the sigmoid shape of the oxygen-hemoglobin dissociation curve is that out of the four molecules of oxygen that can combine with a hemoglobin molecules, the first combines with the greatest difficulty and binding of an oxygen molecules increases affinity to next O2 molecule. This phenomenon is termed as cooperative binding or cooperativity, i. e., a molecule of O2 binds to a hemoglobin tetramer more readily if other O2 molecules are already bound.",
-        "cop": 3,
-        "opa": "Binding of 1st O2 molecule decreases the affinity to next molecule",
-        "opb": "Hb can bind to 2 molecules of O2",
-        "opc": "Co-operativity phenomenon",
-        "opd": "All of the above",
-        "subject_name": "Physiology",
-        "topic_name": "Gas Transport",
-        "id": "9a02fe04-714e-4816-a529-2f7aac87b352",
-        "choice_type": "multi"
     }
 ]

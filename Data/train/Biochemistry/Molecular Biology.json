@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true statements about Cockayne syndrome, EXCEPT",
-        "exp": "Cockayne syndrome: Defect in transcription coupled nucleotide excision repair. C/F: failure to thrive, microcephaly, hearing loss, nervous system anomalies, photosensitivity. Patients are not predisposed to cancer.",
-        "cop": 3,
-        "opa": "Defective transcription-coupled repair",
-        "opb": "Photosensitivity",
-        "opc": "Increased risk of cancer",
-        "opd": "Mental retardation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology",
-        "id": "eea7789d-78e3-4f91-a912-b79db18786ae",
-        "choice_type": "multi"
-    },
-    {
         "question": "Tell the bond (X, Y, Z) in the structure of DNA:",
         "exp": "X is the bond between the two nitrogenous bases. This is hydrogen bond. There is double bond between A and T, triple bond between G and C. Y is the bond between nitrogenous base and sugar. This is beta-N glycosidic bond, which is a covalent bond. This bond is between C1 of sugar and N9 of purines and N1 of pyrimidines. Z is the bond between sugar and phosphate. This is 3' 5' phosphodiester bond.",
         "cop": 1,
@@ -37,19 +24,6 @@
         "topic_name": "Molecular Biology",
         "id": "104b5c91-6962-4726-b0d0-4dd478f22ac7",
         "choice_type": "single"
-    },
-    {
-        "question": "A 10 year old girl is brought to the dermatologist by her parents. She has many freckles on her face, necks, arms and hands and parents repo that she is unusually sensitive to sunlight. Two basal cell carcinomas are identified on her face. Which of the following processes is most likely to be defective in this patient?",
-        "exp": "Xeroderma pigmentosum. The sensitivity to sunlight extensive freckling on pas of the body exposed to the sun Presence of skin cancer at a young age Nucleotide excision repair defect of ultraviolet damaged DNA.",
-        "cop": 3,
-        "opa": "Repair of double stranded breaks",
-        "opb": "Removal of mismatched bases from the 3' end of Okazaki fragments",
-        "opc": "Removal of pyrimidine dimers from DNA",
-        "opd": "Removal of uracil from DNA.",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology",
-        "id": "7042151d-45b6-4397-867a-061126747e52",
-        "choice_type": "multi"
     },
     {
         "question": "Which enzyme synthesize Okazaki fragments:",
@@ -76,58 +50,6 @@
         "topic_name": "Molecular Biology",
         "id": "af45638b-7a3c-4597-9b15-05a472152e24",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements is not true regarding 5' cap of m. RNA:",
-        "exp": "Eukaryotic m. RNA The 5' terminal is \"capped\" by a 7-methylguanosine triphosphate Linked to an adjacent 2'-O-methyl ribonucleoside at its 5'-hydroxyl through the three phosphates. Contain internal 6-methyladenine and 2'-O-ribose-methylated nucleotides. The cap is involved in: Recognition of m. RNA by the translation machinery Stabilize the m. RNA by preventing the nucleolytic attack by 5'-exonucleases. Post-transcriptional modification of m. RNA include the 7-methylguanosine capping, splicing, and Polyadenylation forming Poly A tail 5' \"Capping\": This is the first of the processing reactions for pre m. RNA. The cap is a 7-methylguanosine attached \"backward\" to the 5'-terminal end of the m. RNA, forming an unusual 5'-5' triphosphate linkage. Poly-A tail is added after transcription by the nuclear enzyme, polyadenylate polymerase, using ATP as the substrate. These tails help stabilize the m. RNA, facilitate its exit from the nucleus, and aid in translation. Maturation of eukaryotic m. RNA usually involves the removal of introns & joining of exons together to form the mature m. RNA. The process of removing introns and joining exons is called splicing. sn. RNA facilitates the removal of introns by forming base pairs with the consensus sequences at each end of the intron.",
-        "cop": 3,
-        "opa": "5' terminal of m. RNA is capped by 7-methylguanosine triphosphate",
-        "opb": "5' cap contains 2'-O-methyl ribonucleoside adjacent to it.",
-        "opc": "Cap is attached to the 5' end of m. RNA through 5' to 3' phosphodiester bond.",
-        "opd": "7-methylguanosine is attached to m. RNA through three intervening phosphate groups",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology",
-        "id": "e95afd3a-34e5-469a-b7ca-c67be0e7259a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following disorders are due to defective nucleotide excision repair, EXCEPT",
-        "exp": "Disorders of nucleotide repair Defective nucleotide excision repair Xeroderma pigmentosum Cockayne syndrome Trichothiodystrophy Defective mismatch repair Hereditary nonpolyposis colorectal cancer (HNPCC) Defective non homologous end joining repair Severe combined immunodeficiency disease (SCID)",
-        "cop": 4,
-        "opa": "Xeroderma pigmentosum",
-        "opb": "Cockayne syndrome",
-        "opc": "Trichothiodystrophy",
-        "opd": "Hereditary nonpolyposis colon cancer",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology",
-        "id": "d42e64f5-b2ee-4c89-ac35-73a8f25681c0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Mark the false statement regarding types of nucleotide repair",
-        "exp": "Type of repair Phase of cell cycle Damage Cause Disease Nucleotide excision G1 Thymine - Thymine dimers (T-T Dimers) UV radiation Xeroderma pigmentosa Base excision repair G1 mainly (occur in any phase) Cytosine deaminated to uracil Spontaneous, heat, infra red rays, viral infection, Nitrous Oxide MUTYH associate polyposis Mismatch repair G2 Mismatched base Proof-reading error HNPCC (Herediatry Non Polyposis Colorectal Cancer) HNPCC also known as Lynch syndrome - | risk for developing colon cancer. Xeroerma Pigmentosa - | chances of skin malignancy.",
-        "cop": 3,
-        "opa": "UV radiation exposure leads to the formation of Thymine-thymine dimers",
-        "opb": "MUTYH associate polyposis is associated with base excision repair",
-        "opc": "Mismatch repair is done in G1 phase of cell cycle",
-        "opd": "Base excision repair mainly occurs in G1 phase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology",
-        "id": "b6f04487-e7e5-422c-81c1-6c82975db9ba",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Enzymatic activity of RNA is involved in all of the following EXCEPT",
-        "exp": "Ribozymes Present in some RNA molecules Have intrinsic catalytic activity Involve the cleavage of a nucleic acid Two ribozymes are the peptidyl transferase that catalyzes peptide bond formation on the ribosome Involved in the RNA splicing. Aptamers are oligonucleotide or peptide molecules that bind to a specific target molecule.",
-        "cop": 1,
-        "opa": "RNA-Aptamer binding to cognate small molecules",
-        "opb": "Cleavage of nucleic acids",
-        "opc": "Peptide bond formation",
-        "opd": "RNA splicing",
-        "subject_name": "Biochemistry",
-        "topic_name": "Molecular Biology",
-        "id": "c4ce2c5c-4e37-4ef2-b690-446d8d59cb3a",
-        "choice_type": "multi"
     },
     {
         "question": "Rate limiting enzyme of purine nucleotide synthesis is:",

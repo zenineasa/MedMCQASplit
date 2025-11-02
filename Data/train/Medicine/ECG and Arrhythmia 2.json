@@ -1,18 +1,5 @@
 [
     {
-        "question": "A 25-year soldier is trapped in an avalanche in Siachen glacier. He is airlifted to the base hospital. On admission the pulse is thready and BP is unrecordable. ECG strip is shown below. All of the findings are seen except:",
-        "exp": "V5 lead recording shows: HR of 50 bpm with absence of P wave Presence of Osborn wave at the J point. Concomitant ST Elevation is noted. The patient is suffering from hypothermia which explains the ECG change. Atrial bigeminy should have discernible P wave.",
-        "cop": 4,
-        "opa": "Bradycardia",
-        "opb": "Osborn wave",
-        "opc": "ST segment elevation",
-        "opd": "Atrial bigeminy",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 2",
-        "id": "0b513b50-7780-48d7-9ee6-567c60972fd2",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is the most common mechanism of arrhythmia?",
         "exp": "MC arrhythmia mechanism is re-entry. Re-entry Circulation of an activation wave around an inexcitable obstacle. It is d/t non-homogeneity in myocardial conduction and recovery propeies. The presence of a unidirectional block with slow conduction to allow for retrograde recovery of the blocked myocardium allows the formation of a circuit Two classic examples of re-entry- VF due to acute myocardial ischemia Polymorphic VT in patients with ion channelopathies such as the Brugada syndrome, LQTS, or catecholaminergic polymorphic VT.",
         "cop": 1,
@@ -104,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are included in the differentials of this ECG except?",
-        "exp": "HR is 50/min with normal axis. Giant T wave inversions are noted in leads I, II, V2-V6. Giant T wave inversion are said to present if T wave is >10mm in depth. Giant T wave inversions: Wellen syndrome: T wave inversions in V2-V3 indicate critical narrowing of Left anterior descending aery. At high risk for developing anterior wall MI. ICH: T wave pattern Apical hyperophy of heart(not HOCM but a variant of same) Stokes Adam Syndrome WPW Hypercalcemia leads to QT shoening.",
-        "cop": 4,
-        "opa": "Wellen Syndrome",
-        "opb": "ICH",
-        "opc": "Apical Hyperophy of heart",
-        "opd": "Hypercalcemia",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 2",
-        "id": "8994b12e-86dc-4f0e-ba09-149a886689c9",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 50 year old man develops an excruciating headache. On examination he has nuchal rigidity. NCCT performed after 4 hours shows blood in the Sylvain fissure. What does the ECG show?",
         "exp": "Case of SAH:- Hypothalamic stimulation Autonomic dysregulation ECG changes with SAH are: Left axis detion U waves T-wave- Deep symmetrical T wave inversion R-wave abnormalities Non-specific ST-T changes",
         "cop": 1,
@@ -182,32 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "30-year-old male presents to the Emergency depament with complaint of palpitations. On ECG, irregularly irregular rhythm with broad complex tachycardia is seen. He is haemodynamically stable. Which pharmacotherapy is the best initial management option, if DC cardioversion is not available?",
-        "exp": "This is the case of Pre-excited Atrial fibrillation-Stable patient-Rx-Flecainide given Pre-excited Atrial fibrillation Due to accessory pathway -Slowing AVN conduction without slowing AP conduction - facilitate AP conduction- Rapidly | ventricular rate. ECG- Irregularly irregular rhythm Broad complex bizarre QRS Rx o C/I - AV nodal blocking agents - verapamil, diltiazem, beta blockers, adenosine, amiodarone In stable patients - Class I antiarrhythmic drugs (Procainamide, Flecainide, Propafenone) should be used In Unstable patients - TOC - Immediate DC cardioversion",
-        "cop": 4,
-        "opa": "IV adenosine",
-        "opb": "IV verapamil",
-        "opc": "Oral beta-blocker",
-        "opd": "IV flecainide",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 2",
-        "id": "06ba5ad9-005e-4954-9e14-a5681717fabc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The following ECG finding is seen in all except?",
-        "exp": "ECG shows Osborn waves( J point wave) Osborn wave is a deflection with a dome or hump configuration occurring at the R-ST junction (J point) on the ECG. Causes of Osborn waves: Hypothermia Hypercalcemia Subarachnoid Haemorrhage (SAH) Brain injury Cardiopulmonary arrest Idiopathic ventricular fibrillation Hypocalcemia: Prolongation of the QTc interval because of lengthening of the ST segment, which is directly propoional to the degree of hypocalcemia.",
-        "cop": 3,
-        "opa": "Hypothermia",
-        "opb": "Hypercalcemia",
-        "opc": "Hypocalcemia",
-        "opd": "SAH",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 2",
-        "id": "7258fd9e-b627-43aa-b66c-c4c48d345802",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 30-year-old man presents with recurrent attacks of feeling dizzy. ECG was done. What is the diagnosis?",
         "exp": "HR is regularly irregular due to change in rhythm. Axis is normal. Progressive lengthening of PR interval followed by dropped beat is seen. PR interval before the dropped beat is more than PR interval in subsequent beats. Dx: Mobitz I heart block.",
         "cop": 3,
@@ -219,19 +167,6 @@
         "topic_name": "ECG and Arrhythmia 2",
         "id": "411d10b0-1f53-473b-81c2-3398f970db4a",
         "choice_type": "single"
-    },
-    {
-        "question": "A 12-year old child with renal tubular acidosis type I is having muscle cramps and weakness. ECG shows all except:",
-        "exp": "ECG findings with h/o renal tubular acidosis with c/o muscle cramps and weakness s/o Hypokalemia Hypokalemia ECG Increased width of the P waves Prolongation of the PR interval T wave flattening and inversion ST depression Prominent U waves Long QT interval due to fusion of the T and U wave = long QU interval",
-        "cop": 4,
-        "opa": "T wave inversion with U waves",
-        "opb": "ST depression",
-        "opc": "Heart rate of 75 beats per minute",
-        "opd": "Absent P waves",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 2",
-        "id": "1660f86b-6458-4348-9eb6-aa7595e2cceb",
-        "choice_type": "multi"
     },
     {
         "question": "A 50 year old man presents with central chest pain. He collapsed while his ECG was being recorded. What is the cause of this ECG?",
@@ -260,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 65 year old man on aspirin, statins and beta-blockers for chronic stable angina develops chest pain for past 4 hours. He becomes unconscious, unresponsive while talking to the doctor on duty in the casualty. ECG was done. What is the best step for management of this patient?",
-        "exp": "Monomorphic Ventricular Tachycardia ECG shows HR of 300/min with broad complex tachycardia. Broad complex QRS have same amplitude. In acute setting DC shock 200 J Biphasic should be given. In case of Hypotension, impaired consciousness or pulmonary edema--> Nonsynchronous DC shock should be given.",
-        "cop": 1,
-        "opa": "Non Synchronous DC shock",
-        "opb": "Chest compressions",
-        "opc": "IV amiodarone",
-        "opd": "Synchronous DC shock",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 2",
-        "id": "475448a8-7226-499a-92b1-6134907daea0",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 62-year-old male with underlying COPD develops a viral upper respiratory infection and begins taking an over-the-counter decongestant. Sholy thereafter he experiences palpitations and presents to the emergency room, where the given rhythm strip is obtained, demonstrating:",
         "exp": "ECG reveals saw tooth waves of atrial flutter with variable AV block.",
         "cop": 2,
@@ -284,19 +206,6 @@
         "topic_name": "ECG and Arrhythmia 2",
         "id": "25b1f11f-3643-4995-84ef-41fda9774e27",
         "choice_type": "single"
-    },
-    {
-        "question": "A 60-year-old retired banker complains of feeling dizzy with palpitations and breathlessness. His BP becomes un-recordable while ECG is being recorded. What should be the first step in the management of this patient?",
-        "exp": "ECG shows broad complex QRS tachycardia diagnostic of Ventricular tachycardia (MONOMORPHIC). Since the BP of the patient is crashing-Pt unstable - Rx- Cardioversion-DC Shock",
-        "cop": 3,
-        "opa": "IV Amiodarone 150mg",
-        "opb": "IV Lasix 40mg",
-        "opc": "Cardioversion",
-        "opd": "IV lignocaine",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 2",
-        "id": "f2be84fd-eef5-4f71-a4d5-be167d4f3cad",
-        "choice_type": "multi"
     },
     {
         "question": "A 55-year-old hypeensive patient has a standing BP 190/100 and sitting BP-180/100. He also has irregularly irregular rhythm, double apical impulse, and bilateral basal crepitations. But no murmurs could be auscultated and heart rate could not be determined. What is the likely cause?",
@@ -323,19 +232,6 @@
         "topic_name": "ECG and Arrhythmia 2",
         "id": "6634bc2d-2a50-40de-b4ec-0da843bf84db",
         "choice_type": "single"
-    },
-    {
-        "question": "A 50-year-old patient presents with features of poor perfusion following MI. On examination, heart rate is 40/min with BP of 60 mm. Hg systolic. Atropine was given twice over 5 minutes, but the condition of the patient is not improving. What is the next best step?",
-        "exp": "ACLS 2015 guidelines: Case of symptomatic bradycardia with signs of poor perfusion--> Transcutaneous pacing is recommended.",
-        "cop": 2,
-        "opa": "Transvenous Pacing",
-        "opb": "Transcutaneous Pacing",
-        "opc": "Implantable cardioveer defibrillator",
-        "opd": "Repeat atropine",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmia 2",
-        "id": "a6551170-4e2f-4068-8efd-4fff44bcf552",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not a cause of PEA (Pulseless Electrical Activity)?",

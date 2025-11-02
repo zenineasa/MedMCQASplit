@@ -13,45 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are the risk factors for carcinoma gallbladder except:",
-        "exp": "Risk Factors of Carcinoma Gallbladder Gallstones >3 cm Porcelain gallbladder Anomalous pancreatobiliary junction Choledochal cysts Adenomatous polyps Primary sclerosing cholangitis Obesity Salmonella typhi infection",
-        "cop": 3,
-        "opa": "Primary sclerosing cholangitis",
-        "opb": "Porcelain gallbladder",
-        "opc": "Multiple 2 cm gallstones",
-        "opd": "Choledochal cyst",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "93332766-20ca-4544-86e5-3c56cda3fb0f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Gallstone are associated with which Neuro Endocrine Tumour:-",
-        "exp": "Somatostatinoma syndrome is a triad of diabetes mellitus, diarrhea and gallstones, but also includes weight loss and hypochlorhydria.",
-        "cop": 3,
-        "opa": "Insulinoma",
-        "opb": "VIPoma",
-        "opc": "Somastostatinoma",
-        "opd": "Glucagonoma",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "e3292ae9-466e-4837-912e-64e6fe0a32c1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are causes of acalculous cholecystitis except:",
-        "exp": "Causes of Acalculous Cholecystitis Elderly and critically ill patients after trauma Burns Longterm TPN Major operation (abdominal aneurysm repair and cardiopulmonary bypassQ) Diabetes mellitus",
-        "cop": 2,
-        "opa": "Bile duct stricture",
-        "opb": "Schistosoma",
-        "opc": "Prolonged TPN",
-        "opd": "Major operations",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "a4148ac9-580f-404e-9e1f-4dd30608a981",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cholangiography T-tube done after how many days of cholecystectomy:",
         "exp": "Cholangiography T-tube done after 7-10 days of cholecystectomy.",
         "cop": 2,
@@ -63,32 +24,6 @@
         "topic_name": "Gallbladder",
         "id": "b79727dc-13d4-4398-9b2a-fc15e8bd693c",
         "choice_type": "single"
-    },
-    {
-        "question": "Investigation of choice in suspected gallbladder stone is:",
-        "exp": "USG is IOC for acute calculous cholecyctitis, chronic cholecystitis and cholilithiasis USG can demonstrate Biliary calculi Size of GB and CBD Thickness of GB wall Presence of inflammation around GB Occasionally, presence of stones within the biliary tree.",
-        "cop": 1,
-        "opa": "Ultrasound",
-        "opb": "X-ray",
-        "opc": "Barium study",
-        "opd": "Oral cholecystography",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "6e728bc7-d82d-460d-83e8-eb089a7a894f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "What is the name of this congenital anomaly seen on ultrasound?",
-        "exp": "The USG image shows the infoldings of septum b/w fundus & body Phrygian cap is M. C congenital anomaly of gall bladder characterized by infoldings of septum b/w fundus & body. Here the functions of GB are normal & it does not increase the risk of any other malignancy. Not an indication of prophylactic cholecystectomy.",
-        "cop": 2,
-        "opa": "Moynihan's hump",
-        "opb": "Phrygian cap",
-        "opc": "Duplication",
-        "opd": "None of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "dac0f359-5896-4a80-a302-fcc53498f0b3",
-        "choice_type": "multi"
     },
     {
         "question": "Sump syndrome occurs most commonly after:-",
@@ -104,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Organism associated with fish consumption and also causes carcinoma gallbladder:-",
-        "exp": "Clonorchis sinensis Clonorchis sinensis is a liver fluke, acquired by ingestion of raw or inadequately cooked freshwater fishes. In human body, it lives within bile ducts and causes inflammatory reaction leading to cholangiohepatitis and biliary obstruction. It is well known risk factor for cholangiocarcinoma It is a rare, but mentioned risk factor for carcinoma gallbladder.",
-        "cop": 3,
-        "opa": "Gnathostoma",
-        "opb": "Anglostrongyloidosis cantonensis",
-        "opc": "Clonorchis sinensis",
-        "opd": "H. dimunata",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "f5aa8ab1-4c40-4af7-921d-6505d899ca47",
-        "choice_type": "multi"
-    },
-    {
         "question": "Preferred treatment for type III Mirizzi's syndrome is:",
         "exp": "Mirizzi's syndrome / functional hepatic syndrome: external compression of common hepatic duct by inflammatory tissue in the pericholecystic region; formation of cholecystocholedochal fistula. Types Treatment Type I Paial cholecystectomy Type II & III Paial cholecystectomy (choledochoplasty) + T- tube drainage Type IV & V Bilioenteric anastomosis.",
         "cop": 2,
@@ -128,19 +50,6 @@
         "topic_name": "Gallbladder",
         "id": "febc257b-28a5-42fd-9293-3dfcff093750",
         "choice_type": "single"
-    },
-    {
-        "question": "Indications of prophylactic cholecystectomy are all except:-",
-        "exp": "Diabetes mellitus Patients with diabetes may have a higher incidence of gallstones from the indirect effects of the metabolic syndrome, obesity, and a family history of gallstones but no data show evolution of asymptomatic cholelithiasis in diabetics, and prophylactic cholecystectomy in asymptomatic gallstones carriers with diabetes is not recommended. Indication of prophylactic cholecystectomy Cardiac transplant recipients Lung transplant recipients Chronic TPN requirement Recipients of biliopancreatic diversion (bariatric patient) Children with hemoglobinopathy (sickle cell, thalassemia and spherocytosis) Asymptomatic gallstone >3cm Stone associated with the polyp Family history of GB cancer and asymptomatic stones Cholelithiasis encountered during elective abdominal procedure Non-functioning GBQ Typhoid carrier with positive bile culture Trauma to GB Porcelain GB",
-        "cop": 1,
-        "opa": "Diabetes",
-        "opb": "Hemoglobinopathy",
-        "opc": "Gallstones size > 3 cm",
-        "opd": "Porcelain GB",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "1be0acd2-4d80-452a-a37b-d0bd51bf8423",
-        "choice_type": "multi"
     },
     {
         "question": "What is the diagnosis based on the given HIDA-scan?",
@@ -169,19 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Extended cholecystectomy includes removal of all except",
-        "exp": "Extended cholecystectomy - En bloc removal of segment IV b & V of liver + gall bladder + lymph node along:- Cystic duct CBD (peri-choledochal lymph node) Peripoal lymph nodes Retro-pancreatic lymph nodes",
-        "cop": 4,
-        "opa": "Segment IV b & V of liver",
-        "opb": "Gall bladder",
-        "opc": "Peri-choledochal lymph node",
-        "opd": "Right hepatic bile duct",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "e55320c4-8d1b-415c-af62-e2125eec635c",
-        "choice_type": "multi"
-    },
-    {
         "question": "This procedure is performed in which of the following conditions?",
         "exp": "The procedure is percutaneous cholecystostomy. The procedure is performed in acalculous cholecystitis Acalculous cholecystitis. Inflammation of GB in absence of stones. TOC: lap. cholecystectomy if patient is unstable - percutaneous cholecystostomy.",
         "cop": 4,
@@ -193,162 +89,6 @@
         "topic_name": "Gallbladder",
         "id": "e968a6e8-e3fa-4fe5-8536-65542e58e49b",
         "choice_type": "single"
-    },
-    {
-        "question": "Mercedes Benz sign or Seagull sign is seen in:",
-        "exp": "Mercedes Benz sign or Seagull sign The centre of Gallstone may contain radiolucent gas in a triradiate or biradiate fissure, this gives rise to characteristic darkshapes on radiograph- the Mercedes Benz sign or Seagull sign.",
-        "cop": 1,
-        "opa": "Gallstones",
-        "opb": "Renal stones",
-        "opc": "CBD stones",
-        "opd": "Hydatid cyst",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "e73619b1-bf90-4362-b19d-7e58b93195a3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Incidental finding in a female patient of age 56 years who underwent the CECT abdomen is suggestive of:",
-        "exp": "CECT shows calcified gall bladder - aka porcelain gall bladder. The gall bladder will be bluish in color & brittle in consistency. M/C in females, 5th - 6th decade. >90% of patients have gall stones. Most patients are asymptomatic; so, the findings are incidental IOC - CT Increases the risk of malignancy by 6 - 10 % Rx: Early laparoscopic cholecystectomy.",
-        "cop": 3,
-        "opa": "Carcinoma gall bladder",
-        "opb": "Gall bladder polyp",
-        "opc": "Porcelain gall bladder",
-        "opd": "Hydatid cyst",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "aa4d496c-857a-4242-bc6d-69dd194ee1d9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In a patient with gall stone disease, laproscopic cholecystectomy was performed & specimen was sent to pathology lab. The biopsied tissue was repoed as adenocarcinoma (Stage 1A ). What will be your treatment approach?",
-        "exp": "Treatment is observation & follow up (as lap cholecystectomy is already performed) Staging & Treatment for CA Gall bladder IA - T1a Laproscopic cholecystectomy IB - T1b IIA - T2a IIB - T2b IIIA - T3 IIIB - T1-3 N1 Extended cholecystectomy IVA - T4 N0-1 Extended cholecystectomy+Extended R hepatectomy IVB - T any N any M2 Palliation(Chemotherapy)",
-        "cop": 3,
-        "opa": "Extended cholecystectomy",
-        "opb": "Chemotherapy",
-        "opc": "Observation & follow up",
-        "opd": "Extended cholecystectomy + Extended Right hepatectomy",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "9f3e5a84-0dd8-4f3e-884d-cd5fbfe9588f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Percentage of gallstones which are radiopaque:",
-        "exp": "Most (90%) gallstones are radioluscent. Most (90%) kidney stones are radiopaque. Most gall stones are cholesterol stones (>90%) are radiolucent",
-        "cop": 1,
-        "opa": "10%",
-        "opb": "20%",
-        "opc": "30%",
-        "opd": "40%",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "bfbad84e-1979-4d32-8cc3-45e3618e942a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "According to 8th AJCC TNM classification of carcinoma Gallbladder, minimum number of LN involved in N2?",
-        "exp": "8th AJCC (2017) TNM classification of Ca. gall bladder N1 - Metastasis to 1 - 3 regional nodes. N2 - Metastasis to 4 or more regional nodes. M1 - Distant metastasis.",
-        "cop": 2,
-        "opa": "3",
-        "opb": "4",
-        "opc": "5",
-        "opd": "6",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "d365f30d-299f-419b-9f0c-ab77dd850d6d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Most appropriate treatment option for the carcinoma gallbladder with invasion of perimuscular connective tissue, diagnosed after laparoscopic cholecystectomy:",
-        "exp": "8. TH AJCC (2017) TNM classification. T1A - Involvement of lamina propria. T1B - Involvement of muscularis propria. T2A - Invasion of perimuscular connective tissue towards peritoneal side without extension to serosa. T2B - Invasion of perimuscular connective tissue towards hepatic side without direct hepatic invasion. T3 - Serosal perforation or direct hepatic invasion or involvement of single extrahepatic organ. T4 - Involvement of poal vein or hepatic aery or two or more extrahepatic organ. N1 - Metastasis to 1 - 3 lymph nodes. N2 - Metastasis to 4 or more lymph nodes. M0 - No distant metastasis. M1 - Distant metastasis Staging Treatment _______________________________________________________ IA - T1a Lap cholecystectomy. IB - T1b_______________________________________________________IIA - T2a IIB - T2b Extended cholecystectomy. IIIA - T3. IIIB - T1-3 N1____________________________________________________ IVA - T4 N0-1 Extended cholecystectomy + Extended R hepatectomy _______________________________________________________________ IVB - T any N2 Palliation (we give chemotherapy) - T any N any M1 _______________________________________________________________Extended cholecystectomy- Enbloc removal of segment IV b & V of liver + gall bladder + lymph node along* Cystic duct* CBD (peri-choledochal lymph node)* Peripoal* Retro-pancreatic",
-        "cop": 2,
-        "opa": "Resection of segment IVb & V of liver",
-        "opb": "Resection of segment IVb & V of liver with nodal clearance",
-        "opc": "Wedge excision of liver with lymphadenectomy",
-        "opd": "Wedge excision of liver with lymphadenectomy and po site excision",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "d97322b9-eea9-44e1-aadd-2179889bb734",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In a patient of symptomatic gallstone disease, laparoscopic cholecystectomy was done. On histopathology, adenocarcinoma of gall bladder was diagnosed with stage T2. Next line of treatment:",
-        "exp": "Carcinoma Gall bladder - Route of spread- Hepatic > Lymphatic > Perineural - MC route of spread- Direct hepatic invasion- Generally, GB cancer is an adenocarcinoma- Most specific marker- CA 19-9- IOC for CA bladder- CECT - 8. TH AJCC (2017) TNM classification - T1A - involvement of lamina propria- T1B - involvement of muscularis propria - T2A - invasion of perimuscular connective tissue towards peritoneal side without extension to serosa - T2B - invasion of perimuscular connective tissue towards hepatic side without direct hepatic invasion- T3 - serosal perforation or direct hepatic invasion or involvement of single extrahepatic organ - T4 - involvement of poal vein or hepatic aery or two or more extrahepatic organ - N1 - metastasis to 1 - 3 lymph nodes - N2 - metastasis to 4 or more lymph nodes- M0 - no distant metastasis - M1 - distant metastasis Staging IA - T1a Lap cholecystectomy - IB - T1b - IIA - T2a - IIB - T2b - IIIA - T3 - IIIB - T1-3 N1 Extended cholecystectomy IVA - T4 N0-1 Extended cholecystectomy + Extended R hepatectomy IVB - T any M2 T any N any M2 Palliation (we give chemotherapy) Extended cholecystectomy- Enbloc removal of IVb and V segments of liver + gallbladder+LN along cystic duct, CBD, Peripoal and Retropancreatic LN. Po site excision- Whenever pneumoperitoneum is created during laparoscopic procedures, the po is inseed.- Sometimes tumor gets deposited around the po by chimney effect.- So circumferentially tumor is excised around the po and is known as Po site excision- Presence of tumor cells at po site- poor prognosis- Absence of tumor cells at po site- good prognosis Although po site excision is not frequently done nowadays.",
-        "cop": 3,
-        "opa": "Observation",
-        "opb": "Wedge excision of liver with lymphadenectomy and po site excision",
-        "opc": "Resection of segment IVb & V of liver with nodal clearance with po site excision",
-        "opd": "Wedge excision of liver with lymphadenectomy",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "9a8e218f-7cc2-48e8-91fe-17a835ada073",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are true about incidental finding in a female patient of age 56 years who underwent the CECT abdomen except:",
-        "exp": "The given image is of Porcelain Gallbladder. Porcelain GB is characterized by extensive calcium encrustation of GB wall Clinical Features Most porcelain GB (90%) are associated with gallstones High frequency association (10%) is with GB adenocarcinoma Diagnosis Generally diagnosed incidentally on X-Ray or CT. Treatment Cholecystectomy is all patients with porcelain GB (high incidence of development carcinoma GB)",
-        "cop": 4,
-        "opa": "May be seen on plain X-ray",
-        "opb": "More commonly diagnosed on CT",
-        "opc": "It is an indication for cholecystectomy",
-        "opd": "Always denotes benign etiology",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "19c6a3b2-136b-40af-a55d-21a89408b9c1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The treatment of choice for silent gallbladder stones is:-",
-        "exp": "There was no clear cost benefit and no life-years were gained from prophylactic cholecystectomy, indicating no clear-cut advantages of prophylactic cholecystectomy in asymptomatic cholelithiasis. As a result, in patients with asymptomatic gallstones, expectant management is recommended.",
-        "cop": 1,
-        "opa": "Observation",
-        "opb": "Chenodeoxycholic acid",
-        "opc": "Cholecystectomy",
-        "opd": "Lithotripsy",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "0c074b9c-351b-4962-9edf-450a1f703d19",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is false about mucocele of gallbladder?",
-        "exp": "Mucocele (Hydrops) Hydrops or mucocele result from prolonged obstruction of the cystic duct, usually by a large solitary calculus. Clinical Features A visible, easily palpable, nontender gallbladder sometimes extending from the RUQ into the right iliac fossa may be found on physical examination. Treatment Early cholecystectomyQ, because empyema, perforation, or gangrene may complicate the condition.",
-        "cop": 4,
-        "opa": "Complication of gall stones",
-        "opb": "Treatment is early cholecystectomy",
-        "opc": "Obstruction at neck of gall bladder",
-        "opd": "Gallbladder is never palpable",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "f0faa64e-861b-4d08-bbd7-db6789f22291",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Contraindication of laparoscopic cholecystectomy is:",
-        "exp": "Contraindications to Laparoscopic Cholecystectomy Absolute Relative Unable to tolerate general anesthesia Refractory coagulopathy Suspicion of carcinoma Previous upper abdominal surgery Diffuse peritonitis Cirrhosis or poal hypertension Chronic obstructive pulmonary disease Cholecystenteric fistula Morbid obesity Pregnancy",
-        "cop": 4,
-        "opa": "Coagulopathy",
-        "opb": "Obstructive pulmonary disease",
-        "opc": "End stage liver disease",
-        "opd": "All of the above",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "c3605264-668e-4d33-a216-e37eb938c02a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "This incidental finding on ultrasound abdomen is suggestive of:",
-        "exp": "Adenomyomatosis: Image shows: Diamond ring sign / comet tail aefact / V - shaped aefact Hyperplasia in muscularis & hyperproliferation of mucosa in gall bladder. Rokitansky-Aschoff sinuses are deep and there is deposition of Cholesterol crystal, when ultrasound is performed it looks like a ring. Rx: Symptomatic gall stone present - Lap. Cholecystectomy",
-        "cop": 3,
-        "opa": "Gall bladder stone",
-        "opb": "Gall bladder polyp",
-        "opc": "Adenomyomatosis",
-        "opd": "Xanthgranulomatous cholecystitis",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "622b6e39-a0cf-40eb-a07b-a17a4e38fb2a",
-        "choice_type": "multi"
     },
     {
         "question": "Mirizzi's syndrome is:",
@@ -364,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are essential for formation of gallstones except:",
-        "exp": "Factors Responsible for Formation of Gallstones Lithogenic bile Nucleation Stasis or GB hypomotility Increased Biliary Cholesterol: - Obesity - Cholestrol rich diet - Clofibrate therapy Cholesterol monohydrate crystal agglomerate to become macroscopic crystal by nucleation Pro-nucleating Factors: - Mucin - Non-mucin glycoprotein - Infection Anti-nucleating Factors: Apolipoprotien A-1 and A-2 Excess of pro-nucleating factors or deficiency of anti-nucleating factors results in formation of gallstones Prolonged TPN Prolonged fasting Pregnancy Octreotide OCPs Massive burns Decreased Bile Acids: - Primary biliary cirrhosis - OCP's - Mutation of CYP7. A1 gene - Impaired enterohepatic circulation of bile acids: Ileal disease or resection, cholestyramine or colestipol (bile acid sequestrants) Decreased Biliary Lecithin: - MDR-3 gene mutation leads to defective lecithin secretion in bile",
-        "cop": 3,
-        "opa": "Bile stasis",
-        "opb": "Nucleation",
-        "opc": "Crystallization",
-        "opd": "Lithogenic bile",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "b9ca4328-2fa4-4a74-b833-26cebffd97df",
-        "choice_type": "multi"
-    },
-    {
         "question": "Best treatment for the given type of cholecystitis is:",
         "exp": "In X-Ray, GB shows presence of air, that gives the diagnosis of emphysematous cholecystitis. M. C organism responsible for emphysematous cholecystitis is clostridium perfringens (anaerobe). M. C aerobic organism responsible is E. coli. - Cause of Xanthogranulomatous cholecystitis ( non -infectious condition)- rupture of Rokitansky-Aschoff sinuses. Investigation of choice: NCCT. Rx: Urgent cholecystectomy or cholecystostomy + antibiotics.",
         "cop": 1,
@@ -390,32 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is a contraindication for medical management of gallstones?",
-        "exp": "Medical Therapy for Gallstones Medical therapy for gallstones utilizes bile acids: Chenodeoxycholic acid (CDCA) and ursodeoxycholic acid(UDCA) Prerequisites for Medical Treatment Drawbacks of Medical Treatment Radioluscent (cholesterol) stones Stones <10mm in diameter Functioning GB Non-acute symptoms Low rates of complete resolution High recurrence rate Not cost-effective (expensive drug has to be taken for upto 2 years ) Need of maintenance therapy to prevent recurrence",
-        "cop": 1,
-        "opa": "Radiopaque stones",
-        "opb": "Radioluscent stones",
-        "opc": "Normal functioning gallbladder",
-        "opd": "Small stones",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "d54cb348-bd50-41ef-bd6c-165966271a11",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Biliary stricture developing after laparoscopic cholecystectomy usually occurs at which pa of common bile duct?",
-        "exp": "Most common duct injuries occur during attempted dissection of the cystic duct when the CBD is mistaken for cystic duct. These injuries involve transection of the upper pa of the CBD and excision of a variable poion of the CBD proximal to first transection, including cystic duct-common duct junction. The stewa-way classification of laparoscopic bile duct injury Class Criteria I. CBD mistaken for cystic duct but recognized, cholangiogram incision of cystic duct extended into CBD II. Lateral damage to common hepatic duct from cautery or clips placed on duct, associated bleeding, poor visibility. III. CBD mistaken for cystic duct, not recognized on; CBD, CHD, RHD, LHD transected or resected IV. RHD mistaken for cystic duct, RHA mistaken for cystic aery, RHD and RHA transected; lateral damage to the RHD from cautery or clips placed on ducts.",
-        "cop": 1,
-        "opa": "Upper",
-        "opb": "Middle",
-        "opc": "Lower",
-        "opd": "All with equal frequency",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "e9259b9a-e57b-4b4e-ae79-c261fb17dccc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is classified under Grade II acute cholecystitis according to the Tokyo Consensus Guidelines?",
         "exp": "Tokyo Consensus Guidelines for severity grading of acute cholecystitis: Grade I (mild) acute cholecystitis Acute cholecystitis in a healthy person with no organ dysfunction and mild inflammatory changes in the gallbladder Grade II (moderate) acute cholecystitis Associated with any one of the following: 1. Elevated WBC count (>18000/mm3)2. Palpable tender mass in the right upper abdominal quadrant3. Duration of complaints >72 hours4. Marked local inflammation (gangrenous cholecystitis, pericholecystic abscess, hepatic abscess, biliary peritonitis, emphysematous cholecystitis) Grade III (severe) acute cholecystitis Associated with any one of the following: 1. CVS dysfunction- Hypertension requiring treatment with dopamine/norepinephrine 2. Neurological dysfunction- Decreased level of consciousness 3. Respiratory dysfunction- Pa. O2/Fi. O2 ratio <300 4. Renal dysfunction- Oliguria; creatinine >2. 0mg/dL 5. Hepatic dysfunction- PT-INR >1. 5 6. Haematological dysfunction- Platelet count <100000/mm3",
         "cop": 4,
@@ -427,18 +128,5 @@
         "topic_name": "Gallbladder",
         "id": "3d45e4d8-2b08-4ee8-8e56-30bcce99cb0d",
         "choice_type": "single"
-    },
-    {
-        "question": "Gallstones do not contain:",
-        "exp": "Gallstones In the USA and Europe, 80% are cholesterol or mixed stones, whereas in Asia, 80% are pigment stones Cholesterol or mixed stones - 51-99% pure cholesterol Pigment stone contains <30% cholesterol Black stones - Insoluble bilirubin polymer + calcium phosphate + calcium bicarbonate Brown pigment stones- calcium bilirubinate+ calcium palmitate + calcium stearate+ cholesterol",
-        "cop": 1,
-        "opa": "Oxalate",
-        "opb": "Cholesterol",
-        "opc": "Phosphate",
-        "opd": "Carbonate",
-        "subject_name": "Surgery",
-        "topic_name": "Gallbladder",
-        "id": "549d744a-40a6-48ae-93ca-81086f758eb1",
-        "choice_type": "multi"
     }
 ]

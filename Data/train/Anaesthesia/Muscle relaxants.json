@@ -1,18 +1,5 @@
 [
     {
-        "question": "Post operative muscle ache is caused by",
-        "exp": null,
-        "cop": 2,
-        "opa": "d-TC",
-        "opb": "Suxamethonium",
-        "opc": "Gallamine",
-        "opd": "Pancuronium",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "e68f5568-fcaa-4ff5-b664-5065ebba2d96",
-        "choice_type": "multi"
-    },
-    {
         "question": "Muscle relaxant used in renal failure -",
         "exp": "As Atracurium and Cis-atracurium are inactivated by Hoffman's elimination, they are the muscle relaxants of choice for both liver and renal failure.",
         "cop": 2,
@@ -24,32 +11,6 @@
         "topic_name": "Muscle relaxants",
         "id": "5a099680-e853-4b92-9d5c-de8c86f55891",
         "choice_type": "single"
-    },
-    {
-        "question": "Train of four is characteristically used in concern with-",
-        "exp": "Train of four is used for monitoring neuromuscular block during anaesthesia. Fade on TO4 is the characteristic feature of non-depolarising neuromuscular blockage.",
-        "cop": 2,
-        "opa": "Malignant hypehermia",
-        "opb": "Non -depolarizing neuromuscular blockers",
-        "opc": "Mechanical ventilation",
-        "opd": "To check hemodynamic parameters",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "53cd06f1-8171-4906-a61e-228a36505ab4",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Prolonged apnea may occur in patients with a genetically determined abnormal variant of cholinesterase following intravenous administration of",
-        "exp": "Both succinylcholine and mivacurium are completely and rapidly eliminated by plasma cholinesterase. Other nondepolarizing neuromuscular blockers, such as tubocurarine, pancuronium, and atracurium, are eliminated by renal or hepatic mechanisms or by spontaneous hydrolysis (atracurium). Patients with genetically determined atypical cholinesterase may be detected by measuring the inhibition of cholinesterase by dibucaine, a local anesthetic. Dibucaine inhibits the normal enzyme about 80%, but the abnormal variant is inhibited only 20%.",
-        "cop": 4,
-        "opa": "Pancuronium",
-        "opb": "Tubocurarine",
-        "opc": "Atracurium",
-        "opd": "Succinylcholine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "b4544fc6-c748-4378-981b-fb6b46287eb5",
-        "choice_type": "multi"
     },
     {
         "question": "Fasciculation are caused by",
@@ -182,19 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Debucain number refers to",
-        "exp": "DIBUCAINE NUMBER * The Dibucaine Number is a measure of the qualitative activity of Pseudo cholinesterase and is the percentage of inhibition of the enzyme by the local anesthetic Dibucaine. * It is used to differentiate individuals who have substitution mutations of the Butryl cholinesterase enzyme",
-        "cop": 1,
-        "opa": "Ach cholinestrase activity derangement",
-        "opb": "Potency of muscle relaxants",
-        "opc": "Potency of general anaesthetics",
-        "opd": "None",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "af1593ed-49b0-4a10-b950-a89c44c7f32d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Administration of scoline (Sch) produces dangerous hyperkalemia in",
         "exp": "Sch can cause dangerous hyperkalemia in burn, massive trauma, Crush injury, Severe intraabdominal infection(sepsis), spinal cord injury, hemiplegia / paraplegia, muscular dystrophy, GB syndrome, Rhabdomyolysis, Myasthenia Gracia, tetanus, severe parkinsonism, polyneuropathy, closed head injury, stroke, encephalitis. Ref: Morgan 4th/e p214.",
         "cop": 4,
@@ -247,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Succinylcholine is used with caution in all except",
-        "exp": "Sch is the only muscle relaxant that causes vagal stimulation and causes bradycardia (attenuates tachycardia and hypertension ) In burns, crush injury and myasthenia gravis can cause severe hyperkalemia. Ref: Morgan 4th/e p 214",
-        "cop": 4,
-        "opa": "Mythenia gravis",
-        "opb": "Burns",
-        "opc": "Crush injury",
-        "opd": "Tachycardia",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "bafb8906-8467-4818-a800-985ebf6fbf54",
-        "choice_type": "multi"
-    },
-    {
         "question": "Muscle relaxant with ganglion blocker action is",
         "exp": "Curare is an example of a non-depolarizing muscle relaxant that blocks the nicotinic acetylcholine receptor (n. AChR), one of the two types of acetylcholine (ACh) receptors, at the neuromuscular junction",
         "cop": 3,
@@ -271,32 +206,6 @@
         "topic_name": "Muscle relaxants",
         "id": "58d5b370-4d36-4a39-9034-b61aa5b454ac",
         "choice_type": "single"
-    },
-    {
-        "question": "A 25 year old overweight female was given fentanyl-pancuronium anesthesia for surgery. After surgery and extubation she was observed to have limited movement of the upper body and chest wall in the recovery room. She was Conscious and ale but voluntary respiratory effo has limited. Her blood pressure and heart rate were normal. The likely diagnosis is",
-        "exp": "Difficult in reversal than other intermediate agents. causes restricted movements to chest wall and upper body",
-        "cop": 1,
-        "opa": "incomplete reversal of pancuronium",
-        "opb": "Pulmonary embolism",
-        "opc": "Fentanyl induced chest wall rigidity",
-        "opd": "Respiratory depression",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "63dda5e9-6ca9-4a9d-86df-93a4589165cc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In pseudocholinesterase deficiency, drug to be used cautiously is",
-        "exp": "Pseudocholinesterase deficiency is a rare condition that makes you sensitive to ceain muscle relaxants -succinylcholine or mivacurium -- used during anesthesia. The drugs are designed to briefly relax your muscles during a medical procedure.",
-        "cop": 2,
-        "opa": "Barbiturate",
-        "opb": "Succinylcholine",
-        "opc": "Halothane",
-        "opd": "Gallamine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "3d1ab114-6bac-4a7d-96af-c3d35ffc8dbe",
-        "choice_type": "multi"
     },
     {
         "question": "Shoest acting non depolarizing muscle relaxant",
@@ -325,19 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Laudanosine is metabolite of -",
-        "exp": "Laudanosine is the teiary metabolite produced during Hoffman's degradation of Atracurium. Laudanosine crosses blood brain barrier and produces convulsions.",
-        "cop": 2,
-        "opa": "Cisatracurium",
-        "opb": "Atracurium",
-        "opc": "Pancuronium",
-        "opd": "Gallamine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "4a551a43-de13-4523-b901-27ea9218a40e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Tubocurare affects which muscle first?",
         "exp": "Sequence of blockade: face - jaw- pharynx - larynx - respiratory (including diaphragm) - trunk muscle - limb muscle. Face muscles are involved earliest. 1)in non-depolarising blocker (d-Tc), earliest clinical sign is Ptosis and diploia 2). In succinylcholine (depolarising blocker ), First clinical sign is Fasciculation of eye lids.",
         "cop": 1,
@@ -351,32 +247,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following can be used for reversal of muscle relaxant EXCEPT-",
-        "exp": "Atropine is not used for reversal of muscle relaxant.",
-        "cop": 2,
-        "opa": "Neostigmine",
-        "opb": "Atropine",
-        "opc": "Physostigmine",
-        "opd": "Edrophonium",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "b06acb61-53c3-43f0-ae7a-4b6dbc811f9d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following statements about neuroiuuscular blockage produced by succinyl choline are true Except-",
-        "exp": "Succinylcholine is the depolarising muscle relaxant. Depolarising neuromuscular blockage is characterized by no fade on train of four or tetanic stimulation, no post tetanic facilitation and a high train of four ratio is >0. 7 (>0. 4). Fade on tetanic stimulation or train of four is the characteristic feature of non-depolarising blockage. ref: Miller 7th/e p. 867",
-        "cop": 2,
-        "opa": "No fade on train of four stimulation",
-        "opb": "Fade on tetanic stimulation",
-        "opc": "No post tetanic facilitation",
-        "opd": "Train of four ratio > 0. 4",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "66ab5004-797c-4f50-bb5d-964a5ed59159",
-        "choice_type": "multi"
-    },
-    {
         "question": "site of action of vecuronium is",
         "exp": "Vecuronium is the non-depolarising neuromuscular blocker, acts on nicotinic receptors(Nm) at myoneural junction.",
         "cop": 4,
@@ -388,19 +258,6 @@
         "topic_name": "Muscle relaxants",
         "id": "877c0db2-dba0-4d41-aec4-ea0984853b96",
         "choice_type": "single"
-    },
-    {
-        "question": "True about Sugammadex is?",
-        "exp": "Sugammadex is a novel agent for reversal of neuromuscular blockade by the agent rocuronium in general anesthesia. It is the first selective relaxant binding agent (SRBA).",
-        "cop": 4,
-        "opa": "Local Anesthetic agent",
-        "opb": "General Anesthetic agent",
-        "opc": "Neuromuscular blocking agent",
-        "opd": "Reversal of neuromuscular blocking agent",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "b4a48b06-8053-4b73-9fcd-b2f35914c036",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is neither metabolized by liver nor by kidney",
@@ -442,19 +299,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Muscle relaxant contraindicated in Renal failure",
-        "exp": "Gallamine is the muscle relaxant that entirely depends on renal excretion. and metocurine is also contraindicated in renal failure.",
-        "cop": 1,
-        "opa": "Gallamine",
-        "opb": "d-TC",
-        "opc": "Vecuronium",
-        "opd": "Atracurium",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "c14f5f02-d442-43c2-9f6e-6642e98da46c",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 6 year old boy taken for ophthalmic examination under anaesthesia. His father told that he has lower limb weakness & his elder brother died at 14 years of age. Which anaesthetic drug has to be avoided.",
         "exp": "ROLE OF SUCCINYLCHOLINE ON MUSCLES * Succinylcholine, commonly used in anesthesia, paralyzes normal skeletal muscles by blocking transmission at the myoneural junction",
         "cop": 1,
@@ -466,19 +310,6 @@
         "topic_name": "Muscle relaxants",
         "id": "876ea082-20c5-4c4a-a55b-6d4e7e937a6c",
         "choice_type": "single"
-    },
-    {
-        "question": "What is the time gap given in train of 4",
-        "exp": "In Train of four, four successive stimuli of 0. 2sec are applied over 2sec, between two stimuli, the gap is 0. 5sec as 4stimuli are applied at a constant interval in 2sec.",
-        "cop": 4,
-        "opa": "10 Sec",
-        "opb": "20 Sec",
-        "opc": "40 Sec",
-        "opd": "None",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "3ba709c2-bf4a-4547-86ea-570e7b005a53",
-        "choice_type": "multi"
     },
     {
         "question": "Levosimendan is approved in",
@@ -505,19 +336,6 @@
         "topic_name": "Muscle relaxants",
         "id": "d8bbd750-92c3-4f53-b0dd-0608b0c7daaa",
         "choice_type": "single"
-    },
-    {
-        "question": "An eye surgery was performed using propofol as the intravenous anaesthetic agent succinylcholine as the muscle relaxant. Recovery from anaesthesia was uneventful. However the patient complains of pain in the muscles. Which of the following is thelikely reason for this?",
-        "exp": "Succinylcholine is the depolarising muscle relaxant. It causes fasciculations that causes muscle pains(myalgia, muscle weakness)",
-        "cop": 2,
-        "opa": "Propofol",
-        "opb": "succinylcholine",
-        "opc": "Muscle infarction",
-        "opd": "None of the above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Muscle relaxants",
-        "id": "c64e7605-5c68-4da0-a125-3dac5ab07d53",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following muscle relaxants is free of cardiovascular effects over the entire clinical dose range",

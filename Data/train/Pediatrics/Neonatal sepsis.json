@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Sepsis screen includes all the following EXCEPT?",
-        "exp": "Sepsis screen includes Total leukocyte count (TLC) < 5000/mm3 Absolute Neutrophil count (ANC) < 1800/mm3 Immature to total neutrophil (IT) ratio > 0. 2 Micro ESR > 15 mm in 1st hour C Reactive protein (CRP) positive: >1mg/dL If any 2 out of following 5 present, sepsis screen is said to be positive.",
-        "cop": 3,
-        "opa": "Total leucocyte count",
-        "opb": "Absolute neutrophil count",
-        "opc": "Platelet count",
-        "opd": "IT ratio",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal sepsis",
-        "id": "4c34d1f6-77e4-49a5-bedb-5f5602522f2b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Arrange the following steps of handwashing, before entering a NICU, in proper sequence:",
-        "exp": "Steps of handwashing: 1 - 4 - 3 - 2",
-        "cop": 2,
-        "opa": "1 - 2 - 3 - 4",
-        "opb": "1 - 4 - 3 - 2",
-        "opc": "4 - 3 - 2 - 1",
-        "opd": "3 -2 - 4 -1",
-        "subject_name": "Pediatrics",
-        "topic_name": "Neonatal sepsis",
-        "id": "926c2cc4-0f31-45d2-ad80-92e7c72f59ef",
-        "choice_type": "multi"
-    },
-    {
         "question": "A term neonate is brought to the pediatric emergency with a history of not feeding well for last 6 hours. On probing, there was a history suggestive of chorioamnionitis and premature rupture of membrane in the mother. Which of the following should be the best approach to manage this baby?",
         "exp": "Perinatal risk factor + sepsis symptoms in baby- Sta IV antibiotics immediately, after taking a sample for blood culture",
         "cop": 1,

@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which tumour is classically described as having a 'swiss cheese' appearance?",
-        "exp": "Adenoid cystic carcinoma generally presents in young or middle-aged adults with a mean age of 40 years, but can occur in the first decade of life. On histology, the tumor is defined by bland appearing, but malignant epithelial cells clearly delineated from adjacent connective tissue. The tumor can present in several subtypes including cribriform (Swiss cheese), sclerosing, basaloid, comedocarcinoma, and tubular (ductal).",
-        "cop": 3,
-        "opa": "Rhabdomyosarcoma",
-        "opb": "Benign mixed tumour",
-        "opc": "Adenoid cystic carcinoma",
-        "opd": "Meningioma",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Nasolacrimal Disorders",
-        "id": "90f8e67b-e101-417a-9843-49d8f92eed26",
-        "choice_type": "multi"
-    },
-    {
         "question": "Initial maneuver done in congenital dacryocystitis:",
         "exp": "Congenital Acute Chronic Cause Non -Canalization Of NLD S. Aureus S. Aureus C/F Epiphora and Discharge Epiphora and Discharge Epiphora and Discharge Treatment <9 months=CRIGLER massage + antibiotic drops when needed (acute infections) 9 mon.- 4 years=probing >4 years= DCR Antibiotics + NSAIDS | DCR DCR Sequelae None Lacrimal fistula Rx:-DCR Mucocele-> pyocele-> fibrosis Rx:- DCT",
         "cop": 2,
@@ -104,32 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following stain is used to assess tear film integrity:-",
-        "exp": "Tests for Tear Film and Epithelial Integrity Stains used commonly: -Fluorescein -Rose Bengal -Lissamine green -Rhodhamine Blue Fluorescein Stains exposed basement membrane Stains cornea more than conjunctiva. For diagnosing Filamentary keratitis, measuring TBUT CORNEAL STAINING OF DRY EYE USING FLUORESCEIN STAINING CONJUNCTIVAL STAINING IN DRY EYE USING FLUORESCEIN STAINING. CONJUNCTIVAL VASCULAR TOUOUSITY IS ALSO EVIDENT Rose Bengal Stains dead and devitalised cells Healthy cells protected inadequately by a mucin coating Irritation on instillation Early or mild cases detected more easily with Rose Bengal Stain more visible on conjunctiva than cornea Interpalpebral staining of the nasal and/or inferior paracentral cornea is seen in KCS",
-        "cop": 3,
-        "opa": "Congo red",
-        "opb": "Alcian Blue",
-        "opc": "Rose bengal",
-        "opd": "All of the above",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Nasolacrimal Disorders",
-        "id": "0bc7da0f-5f4e-43c1-a02f-5a948bb74872",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is treatment of choice for the treatment of a 2 month old child with C/C of watering and discharge of the eye with normal anterior and posterior chamber findings:-",
-        "exp": "Congenital Nasolacrimal Duct Obstruction Congenital NLDO- Membranous block of valve of Hasner Most open spontaneously by 4-6 weeks 90% resolve by 1st yr Management of NLDO Obstruction 0-6 months: Crigler massage (massage over lacrimal sac) 6 months - 2yrs: Syringing & Probing (can be repeated thrice) > 2 years: 3 failed probing attempts or more than 2 yr (preferably 4 years) of age you can go for DCR. Lacrimal scintigraphy -lacrimal scintigraphy mimicks \"physiological\" lacrimal outflow, being performed under pressure gradients",
-        "cop": 1,
-        "opa": "Massage over lacrimal sac",
-        "opb": "Syringing and probing",
-        "opc": "Balloon catheter dilation",
-        "opd": "Dacryocystorhinostomy",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Nasolacrimal Disorders",
-        "id": "37142ecc-f250-48d1-bf5a-525755aa2602",
-        "choice_type": "multi"
-    },
-    {
         "question": "Treatment of choice of acute dacryocystitis:-",
         "exp": "Acute Dacryocystitis Stages Cellulitis | Lacrimal Abscess | Fistula formation Treatment Systemic antibiotics Systemic analgesics Hot fomentation No Surgical intervention",
         "cop": 3,
@@ -154,32 +115,6 @@
         "topic_name": "Nasolacrimal Disorders",
         "id": "da08a7eb-80dd-4d76-a1f4-cbf64f94d798",
         "choice_type": "single"
-    },
-    {
-        "question": "Phenol red test/ Methyl red thread test for dry eye, true is",
-        "exp": "Phenol Red Thread test is the test to detect dry eye severity. When in contact with tear film it changes its colour from white to yellow to red. Its main advantage over Schirmertest is: a). It is Less time consuming as compared to schirmer test(15 sec) b). Anaesthesia of cornea is not required c). On the contact of tear strip with the tear it turns red d). Can be done in children easily e). Reflex tearing is minimal f). Differentiates between aqueous deficient & non aqueous deficient eyes",
-        "cop": 4,
-        "opa": "Need instillation of anesthesia before doing the test",
-        "opb": "Need a ph meter to interpret",
-        "opc": "Color changes if there is mucin deficiency",
-        "opd": "Color changes from white to red on contact with tear film and is used to measure the dryness status of eye",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Nasolacrimal Disorders",
-        "id": "ccba9258-e5a3-4b2f-8dd8-50164911e229",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is not true regarding schirmer test:-",
-        "exp": "The Schirmer's I test Measures combined basal and reflex tear secretion Relatively specific, but poorly sensitive Eyes closed / blink normally for 5 minutes Not useful in non co-operative adults and children Amount of wetting >10mm -normal 5-10mm -borderline < 5 mm is abnormal 5-minute Schirmer test with and without anesthesia is abnormal <5 mm with anesthesia <10 mm without anesthesia The Schirmer's II test Measures reflex tearing Addition of nasal mucosal irritation with a cotton tipped applicator Amount of wetting < 15 mm after 5 minutes - abnormal reflex secretion -moderate to severe dry eye For differentiating non-Sjogren's from Sjogren's syndrome Patient cooperation is essential for performing the test.",
-        "cop": 4,
-        "opa": "Measures combined basal and reflex tear secretion",
-        "opb": "Relatively specific, but poorly sensitive",
-        "opc": "Eyes closed/blink normally for 5 minutes",
-        "opd": "Useful in non co-operative adults and children",
-        "subject_name": "Ophthalmology",
-        "topic_name": "Nasolacrimal Disorders",
-        "id": "edfe72aa-291c-4f4b-8056-d3f13004b873",
-        "choice_type": "multi"
     },
     {
         "question": "The most common causative organism of canaliculitis is",

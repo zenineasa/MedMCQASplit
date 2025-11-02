@@ -1,18 +1,5 @@
 [
     {
-        "question": "Which of the following is/are an example(s) of non-Mendelian inheritance?",
-        "exp": "Single-Gene Disorders with Non classic Inheritance. -This group of disorders can be classified into four categories: Diseases caused by trinucleotide-repeat mutations Disorders caused by mutations in mitochondrial genes Disorders associated with genomic imprinting Disorders associated with gonadal mosaicism",
-        "cop": 4,
-        "opa": "Genomic imprinting",
-        "opb": "Uniparental disomy",
-        "opc": "Mitochondrial inheritance",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "Introduction",
-        "id": "17f6cd36-ed6a-4e7c-9ff7-d895c4d0e074",
-        "choice_type": "multi"
-    },
-    {
         "question": "Y-chromosome is:",
         "exp": "Y chromosome is Acrocentric. X chromosome is Submetacentric. IMG showing METACENTRIC CHROMOSOME. IMG showing SUBMETACENTRIC chromosome. IMG showing ACROCENTRIC chromosome. IMG showing TELOCENTRIC chromosome. Sub-Metacentric chromosome - example - 'X' chromosome Acrocentric chromosome - example - 'Y' chromosome, 13, 14, 15, 21, 22 chromosome. Telocentric chromosome - are not seen in humans.",
         "cop": 4,
@@ -65,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Long and sho arm of chromosome are called respectively:",
-        "exp": "Sho arm of a chromosome- 'p' (for petit) and long arm is referred to as 'q' In a banded karyotype, each arm of the chromosome is divided into two or more regions by prominent bands. Note- Regions are numbered in direction away from centromere. Each region is fuher subdivided into bands and sub bands and are numbered in numerical fashion as well. Example- the notation Xp 22. 2 refers to a chromosomal segment located on the sho arm of the 'x' chromosome, in region 2, band 2 and sub band 2.",
-        "cop": 2,
-        "opa": "p and q",
-        "opb": "q and p",
-        "opc": "m and n",
-        "opd": "r and s",
-        "subject_name": "Pathology",
-        "topic_name": "Introduction",
-        "id": "47fcbfd9-d893-43dd-909a-487ae60e01ad",
-        "choice_type": "multi"
-    },
-    {
         "question": "Karyotyping is done in which phase of cell cycle?",
         "exp": "Karyotyping The study of chromosomes Procedure to examine chromosomes is to arrest dividing cells in metaphase with mitotic spindle inhibitors (e. g., N-diacetyl-N-methylcolchicine ) and then to stain (Giemsa stain) the chromosomes. In a metaphase spread, the individual chromosomes take the form of two chromatids connected at the centromere.",
         "cop": 2,
@@ -102,19 +76,6 @@
         "topic_name": "Introduction",
         "id": "e37ed382-feb4-4529-a13a-f328603d9782",
         "choice_type": "single"
-    },
-    {
-        "question": "Preferential expression of the gene depending upon the parent of origin is called:",
-        "exp": "Impoant functional differences exist between the paternal allele and the maternal allele. These differences result from an epigenetic process called imprinting. In most cases, imprinting selectively inactivates either the maternal or paternal allele. Thus, maternal imprinting refers to transcriptional silencing of the maternal allele, whereas paternal imprinting implies that the paternal allele is inactivated. E. g. Prader-Willi syndrome and Angelman syndrome.",
-        "cop": 2,
-        "opa": "Mosaicism",
-        "opb": "Genomic imprinting",
-        "opc": "Alleles",
-        "opd": "Chimerism",
-        "subject_name": "Pathology",
-        "topic_name": "Introduction",
-        "id": "6f79a39b-a375-489c-ac1c-53153ca34adc",
-        "choice_type": "multi"
     },
     {
         "question": "Males are more commonly affected than females in which of the following genetic disorders?",

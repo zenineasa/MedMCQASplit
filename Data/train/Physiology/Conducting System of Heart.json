@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "TRUE statement regarding the AV node:",
-        "exp": "There are 3 regions of the AV node: A-N region -the junction between atrial fibers and nodal tissue N region - the major pa of the nodal tissue N-H region - where nodal fibers merge into His bundle The path length, for impulse propagation, is longest in the A-N region. The velocity of impulse is slowest in the N region. The N region has fibers which depolarize very slowly Most of the AV blocks occur in AN and N regions.",
-        "cop": 4,
-        "opa": "The path length is greater in the \"N\" region",
-        "opb": "The path length is greater in the \"N-H\" region",
-        "opc": "Impulse velocity is slowest in the \"A-N\" region",
-        "opd": "Impulse velocity is slowest in the \"N\" region",
-        "subject_name": "Physiology",
-        "topic_name": "Conducting System of Heart",
-        "id": "7787630e-1356-429d-8b54-46ade193bdfa",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the delay between the S-A node discharge and arrival of the action potential at the ventricular septum?",
         "exp": "The impulse coming from the S-A node to the A-V node arrives at 0. 03 second. Then there is a total delay of 0. 13 second in the A-V node and bundle system, allowing the impulse to arrive at the ventricular septum at 0. 16 second",
         "cop": 2,
@@ -91,32 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Intercalated disc has all except:",
-        "exp": "Zona occludens = tight junction, Macula adherens = desmosome The intercalated disks are composed of a fascia adherens that is responsible for end-to-end cell anchoring of actin filaments to one another and no tight junctions are present. Between the myofibers, the macula adherens (or desmosome) binds the cells and is responsible for anchoring the intermediate filament cytoskeletal proteins, vimentin, and desmin. Gj = Gap junction; Ds = Desmosome; Fa = Fascia adherens",
-        "cop": 1,
-        "opa": "Zona occludens",
-        "opb": "Macula adherens",
-        "opc": "Fascia adherens",
-        "opd": "Gap junctions",
-        "subject_name": "Physiology",
-        "topic_name": "Conducting System of Heart",
-        "id": "6da1f305-76d6-43ab-90dc-a59985809216",
-        "choice_type": "multi"
-    },
-    {
-        "question": "During the T-P interval in an ECG of a patient with a damaged cardiac muscle, which of the following is true?",
-        "exp": "During the T-P interval in a patient with a damaged ventricle, the only area depolarized is the damaged muscle. Therefore, the remainder of the ventricle is repolarized. At the J point, the entire ventricle is depolarized in a patient with a damaged cardiac muscle or in a patient with a normal cardiac muscle. The area of the heart that is damaged will not repolarize but remains depolarized at all times.",
-        "cop": 4,
-        "opa": "The entire ventricle is depolarized",
-        "opb": "The entire ventricle is depolarized except for the damaged cardiac muscle",
-        "opc": "The entire ventricle is repolarized",
-        "opd": "The entire ventricle is repolarized except for the damaged cardiac muscle",
-        "subject_name": "Physiology",
-        "topic_name": "Conducting System of Heart",
-        "id": "4ea4d001-f4bb-4c9e-9901-451063a09f20",
-        "choice_type": "multi"
-    },
-    {
         "question": "Fastest conducting pa in the heart is:",
         "exp": "Purkinje fibers are the fast conducting pa of the heart. It exhibit the following propeies: (1) Rapidly depolarizing fibers, (2) large diameter of fibers (largest in heart), and (3) high number of gap junctions between cells. These propeies make Purkinje fibers the fastest conducting pa in heart. Rapid conduction benefits the ventricular contraction. Since impulse spreads very rapidly, all fibers are excited almost simultaneously; all fibers of both ventricles contract together.",
         "cop": 4,
@@ -141,19 +102,6 @@
         "topic_name": "Conducting System of Heart",
         "id": "708164cb-6506-4c27-bf1b-a1d2e67d67be",
         "choice_type": "single"
-    },
-    {
-        "question": "False about funny current channel in heart",
-        "exp": "Funny / leaky Na+ channels: - Hyperpolarization activated cyclin nucleotide gated (HCN) channels. More the hyperpolarization more the activation Equally permeable for Na+ & K+ After repolarization occur by K+ exit in pacemaker cells, next depolarization spontaneously reaches threshold, major pa in this spontaneous depolarization is by Na+ funny channel.",
-        "cop": 1,
-        "opa": "It is a Na-K ATPase pump",
-        "opb": "They are responsible for diastolic depolarization",
-        "opc": "It is responsible for spontaneous rhythm producing tissue of heart",
-        "opd": "They are voltage dependent channel only",
-        "subject_name": "Physiology",
-        "topic_name": "Conducting System of Heart",
-        "id": "5a2ea937-1491-4fbf-950d-9b3fd988a59c",
-        "choice_type": "multi"
     },
     {
         "question": "Wenckebach bundle is:",
@@ -206,19 +154,6 @@
         "topic_name": "Conducting System of Heart",
         "id": "74d10371-e56c-4074-8ac4-bcfb30637ef0",
         "choice_type": "single"
-    },
-    {
-        "question": "Most rapidly depolarizing fibers in the ventricle are:",
-        "exp": "Purkinje fibers and ventricular fibers are basically rapidly depolarizing fibers. Yet, the rates of their depolarization are different. Fiber at the apex depolarizes relatively slow. As one moves toward base, the rates of depolarization become more and more rapid. Fiber at the base depolarizes most rapidly. It immediately repolarizes as well. Then, the repolarization spreads in the reverse direction. When repolarization reaches the apex, the apical fiber has just now finished its depolarization; it now begins to repolarize.",
-        "cop": 3,
-        "opa": "Fibers at the apex",
-        "opb": "Fibers in the middle of the ventricle",
-        "opc": "Fibers at the base",
-        "opd": "All fibers from apex to base (depolarize equally rapidly)",
-        "subject_name": "Physiology",
-        "topic_name": "Conducting System of Heart",
-        "id": "8e580b74-1f14-4f33-b2ee-e6af00308c6f",
-        "choice_type": "multi"
     },
     {
         "question": "A 55-year-old man has been diagnosed with Stokes- Adams syndrome. Two minutes after the onset of syncopal attack, which of the following is the pacemaker of the heart?",

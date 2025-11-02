@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Superior pulmonary sulcus carcinomas (Pancoast tumors) are bronchogenic carcinomas that typically produce which of the following clinical features?",
-        "exp": "Pancoast tumors are peripheral bronchogenic carcinomas that produce symptoms by involvement of extrapulmonary structures adjacent to the cupula. These structures include the nerve roots of C8 and T1, as well as the sympathetic trunk. Interruption of the cervical sympathetic trunk leads to miosis, ptosis, and anhidrosis, the triad of signs that constitutes Horner syndrome. Involvement of the nerve roots causes pain along the corresponding dermatomes. The peripheral location of the neoplasm makes pulmonary signs, such as atelectasis, cough, and hemoptysis, unlikely.",
-        "cop": 2,
-        "opa": "Atelectasis of the involved apical segment",
-        "opb": "Horner syndrome",
-        "opc": "Pain in the T4 and T5 dermatomes",
-        "opd": "Nonproductive cough",
-        "subject_name": "Surgery",
-        "topic_name": "Heart & Pericardium",
-        "id": "0b0c1fb0-5055-41cf-89cc-4c7b1a088139",
-        "choice_type": "multi"
-    },
-    {
         "question": "For the physical finding \"Short stature, webbed neck, low-set ears, and epicanthal folds\" select the cardiovascular disorder with which it is most likely to be associated. (SELECT 1 DISORDER)",
         "exp": "Myocarditis, aortitis, and pericarditis all have been described in association with Reiter syndrome; the original description included conjunctivitis, urethritis, and arthralgias. Although its cause is unknown, Reiter syndrome is associated with HLA-B27 antigen, as are aortic regurgitation, pericarditis, and ankylosing spondylitis. Short stature, webbed neck, low-set ears, and epicanthal folds are the classic features of patients who have Turner syndrome. Persons affected by the syndrome, which is commonly linked with aortic coarctation, are genotypically XO. However, females and males have been described with normal sex chromosome constitutions (XX, XY) but with the phenotypic abnormalities of Turner syndrome. Additional cardiac lesions associated with Turner syndrome include septal defects, valvular stenosis, and anomalies of the great vessels. The Argyll Robertson pupil, a pupil that constricts with accommodation but not in response to light, is characteristic of central nervous system syphilis and is associated with vascular system manifestations of this disease. Treponema pallidum invades the vasa vasorum and causes an obliterative endarteritis and necrosis. The resulting aortitis gradually weakens the aortic wall and predisposes it to aneurysm formation. Once an aneurysm has formed, the prognosis is grave. Massive isolated tricuspid regurgitation produces a markedly elevated venous pressure, usually manifested by a severely engorged (often pulsating) liver. If the venous pressure is sufficiently elevated, exophthalmos may result. Tricuspid regurgitation of rheumatic origin is almost never an isolated lesion, and the major symptoms of patients who have rheumatic heart disease are usually attributable to concurrent left heart lesions. Bacterial endocarditis from intravenous drug abuse is becoming an increasingly important cause of isolated tricuspid regurgitation. A Quincke pulse, which consists of alternate flushing and paling of the skin or nail beds, is associated with aortic regurgitation. Other characteristic features of the peripheral pulse in aortic regurgitation include the water- hammer pulse (Corrigan pulse, caused by a rapid systolic upstroke) and pulsus bisferiens, which describes a double systolic hump in the pulse contour. The finding of a wide pulse pressure provides an additional diagnostic clue to aortic regurgitation.",
         "cop": 3,
@@ -76,32 +63,6 @@
         "topic_name": "Heart & Pericardium",
         "id": "9189db57-b2a3-4eb2-9fc0-de15ae479be8",
         "choice_type": "single"
-    },
-    {
-        "question": "Notching of ribs occurs in what? SELECT ONE.",
-        "exp": "In the presence of coarctation of the aorta, left ventricular enlargement, hypertrophy, and failure to develop occur. As the child grows, collaterals develop between the subclavian artery and the aorta via the intercostal and internal thoracic vessels. In children older than 8 years of age, the intercostal arteries cause typical notching on the inferior margin of the ribs.",
-        "cop": 4,
-        "opa": "A double aortic arch",
-        "opb": "Tetralogy of Fallot",
-        "opc": "PDA",
-        "opd": "Coarctation of the aorta",
-        "subject_name": "Surgery",
-        "topic_name": "Heart & Pericardium",
-        "id": "a784944d-3684-4e86-a124-883e2f9c7c31",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 45-year-old tall, thin, male has acute onset of chest pain radiating into the back. In the emergency room his right radial pulse is bounding but his femoral pluses are absent. The most likely diagnosis is? SELECT ONE.",
-        "exp": "Aortic dissection. This describes a patient with Marfan syndrome, who are typically at risk for aortic dissection. With dissection you may preserve right radial pulse but lose femoral pulses.",
-        "cop": 2,
-        "opa": "Aortic insufficiency",
-        "opb": "Aortic dissection",
-        "opc": "Ventricular fibrillation",
-        "opd": "Mitral insufficiency",
-        "subject_name": "Surgery",
-        "topic_name": "Heart & Pericardium",
-        "id": "26fdcf33-afeb-4699-a81f-5ecd35dd3576",
-        "choice_type": "multi"
     },
     {
         "question": "After undergoing repair of a left indirect inguinal hernia, a 72-year-old obese man is admitted to the emergency department with severe retrosternal pain of 1-hours duration. The pain radiates to the medial aspect of the left hand. The ECG shows Q waves and an elevated ST-segment. A diagnosis of acute MI is established 1 hour after admission. Immediate management should include which of the following?",
@@ -169,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Eight days after undergoing a hysterectomy, a 64-year-old woman complains of chest pain. After 12 hours, the internist orders tests to exclude MI. Which test will most likely support this diagnosis?",
-        "exp": "99m. Tc pyrophosphate scintigraphy showing a \"hot spot\". Following injection of 99m. Tc pyrophosphate, scintigraphy may show a hot spot in the infarcted area. The hot spot is developed as the radiotracer forms a complex with calcium in necrotic tissue. The test should be requested within the first 18 hours following the onset of acute MI. It is not sensitive enough to detect small infarctions. Following 201. Tl scintigraphy, a \"cold spot\" occurs because of hypoperfusion. The test is performed where exercise or dipyridamole (Persantine) injection can be given. SGOT levels are elevated in liver disease. The HIDA scan is used to exclude gallbladder disease. Cardiac enzyme levels and ECG findings are useful to establish a diagnosis of MI.",
-        "cop": 3,
-        "opa": "Serum glutamic oxaloacetic transaminase (SGOT) elevation",
-        "opb": "Increased sedimentation rate",
-        "opc": "Tc 99m pyrophosphate scintigraphy showing a \"hot spot\"",
-        "opd": "Thallium 201 (Tl 201) scintigraphy showing a (\"hot spot\")",
-        "subject_name": "Surgery",
-        "topic_name": "Heart & Pericardium",
-        "id": "1e297932-ad59-47d0-a2ee-d129fbfb2c1a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Pain from parietal pericardium is transmitted through?",
         "exp": "ANSWER: (D) Vagus nerve. REF: Gray's anatomy 39th edition page 996. The pericardium is innervated by the vagus, together with phrenic nerves and the sympathetic trunks. Pericardial pain is typically a sharp severe substernal pain. It may be exacerbated by lying back or on the left side and relieved by leaning forward. It occasionally radiates to the upper border of trapezius.",
         "cop": 4,
@@ -206,19 +154,6 @@
         "topic_name": "Heart & Pericardium",
         "id": "35400ada-40b0-4469-bd85-308421fd7c9c",
         "choice_type": "single"
-    },
-    {
-        "question": "A previously healthy 20-year-old man is admitted to a hospital with acute onset of left-sided chest pain. The electrocardiographic findings are normal but chest x-ray shows a 40% left pneumothorax. Treatment consists of which of the following procedures?",
-        "exp": "Spontaneous pneumothorax usually results from the rupture of subpleural blebs in young men (age 20-40), which is often signaled by a sudden onset of chest and shoulder pain. Pneumothorax of more than 25% requires placement of a chest tube; thoracotomy with bleb excision and pleural abrasion is generally recommended if spontaneous pneumothorax is recurrent. Small pneumothoraxes in patients with minimal symptoms usually resolve and therefore can be observed. A spontaneous perforation of the esophagus (Boerhaave syndrome) can result in hydropneumothorax as well as the more usual pneumomediastinum but would not present with an isolated 40% pneumothorax. Barium swallow is an appropriate diagnostic test for evaluation of a suspected leaking esophagus.",
-        "cop": 4,
-        "opa": "Observation",
-        "opb": "Barium swallow",
-        "opc": "Thoracotomy",
-        "opd": "Tube thoracostomy",
-        "subject_name": "Surgery",
-        "topic_name": "Heart & Pericardium",
-        "id": "fb7ad6ea-8624-458c-97ef-741cdf725f97",
-        "choice_type": "multi"
     },
     {
         "question": "The best treatment of this 80-year-old woman with vomiting retrosternal pain and a looped nasogastric tube in her left chest is:",

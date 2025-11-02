@@ -1,18 +1,5 @@
 [
     {
-        "question": "27-year-old white man presents to his family doctor complaining of being tired all the time and having a slight fever for the past two weeks. He recently returned from a trip to Las Vegas, where he indulged in some of the infamous nightlife. His physical exam is unremarkable except for a macular rash over his trunk and on the palms of his hands. There are no lesions or ulcers on the penis. What organism is causing this man's illness?",
-        "exp": "Treponema pallidum Transmitted through unprotected sexual activity with an infected individual. Presents with the symptoms of secondary syphilis, which includes malaise, mild fever, and rash on the palms and trunk. The primary lesion (chancre) may go unnoticed because it is painless and subsides in a few weeks.",
-        "cop": 3,
-        "opa": "Chlamydia trachomatis",
-        "opb": "Neisseria gonorrhea",
-        "opc": "Treponema pallidum",
-        "opd": "Borrelia burgdorferi",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "aa8cbb1e-a090-42b7-af4b-f674b719efe8",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common extra pulmonary involvement of TB?",
         "exp": "Most common extra pulmonary involvement: lymph nodes > pleura> ileocecal - GI TB most common site- ileocecal",
         "cop": 2,
@@ -76,45 +63,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "fca1281f-4904-4d2a-95e1-a8cb4cc9ff19",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is true regarding anthracoid bacilli?",
-        "exp": "Anthracoid bacilli usually grow in penicillin agar. Their growth is not inhibited by chloral hydrate. They usually grow at 45 degree celsius. They are not susceptible to gamma phage. They are motile, non capsulated bacilli which grow in sho chains.",
-        "cop": 3,
-        "opa": "No growth in penicillin agar",
-        "opb": "Growth inhibited by chloral hydrate",
-        "opc": "Not susceptible to gamma phage",
-        "opd": "No growth at 45 degree celsius",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "f6973d3c-7cea-4ce9-b300-cfa1bb765f4c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "C. diphtheriae can be biochemically differentiated from C. ulcerans by",
-        "exp": "Among the Corynebacterium species, all are catalase positive. All are resistant to tellurite. All Corynebacterium species are oxidase negative. C. ulcerans is differentiated from C. diphtheriae by its negative nitrate reduction and positive gelatin liquefaction. 3 species produce diphtheria toxin: C. diphtheriae, C. ulcerans, and C. pseudotuberculosis. C. ulcerans- closely related to C. diphtheriae; causes bovine mastitis; Can cause acute pharyngitis in humans; C. ulcerans has been repoed to cause a few cases of diphtheria",
-        "cop": 4,
-        "opa": "Catalase test",
-        "opb": "Urease test",
-        "opc": "Oxidase test",
-        "opd": "Nitrate Reduction",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "e3f0eb3c-7ebc-4922-b73a-0c4944efeef6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The following bacteria are most often associated with acute neonatal meningitis except:",
-        "exp": "Neisseria meningitidis is not associated with acute neonatal meningitis. Option 1, 2, 3, 4 Causes of Meningitis are: a) Neonatal < 1 Month: - Bacterial causes: Esch. coli > Group B Streptococci >Other Gram Negative bacilli> Listeria monocytogenes. - Viral and Protozoal Infection: TORCH, Varicella Zoster and HIV. - Spirochetal and fungal infections. b) 1 -11 Month: N. meningitidis > Strep pneumoniae > H. influenzae. c) 1 -20 Years: N. meningitidis > Strep pneumoniae > H. influenzae. d) More than 20 Years: Strep pneumoniae.",
-        "cop": 3,
-        "opa": "Escherichia coli",
-        "opb": "Streptococcus agalactiae",
-        "opc": "Neisseria meningitidis",
-        "opd": "Listeria monocytogenes",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "6880c4c3-8233-417e-8e15-a8083605f0e4",
-        "choice_type": "multi"
     },
     {
         "question": "The food item associated with B. cereus emetic food-type poisoning is:",
@@ -260,71 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The diphtheria toxin has an affinity for all the following tissues EXCEPT",
-        "exp": "The diphtheria toxin is the sole virulence factor of C. diphtheriae. Responsible for both local effects and systemic complications. It is encoded by a lysogenic beta-prophage. It inhibits mammalian protein synthesis (ribosomal function) ADP ribosylation of EF-2 It has a special affinity for myocardium, adrenals and nerve endings",
-        "cop": 4,
-        "opa": "Myocardium",
-        "opb": "Brain",
-        "opc": "Adrenals",
-        "opd": "Liver",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "f04bc5db-72ca-4794-a56a-cf9705afd0f0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "L. monocytogenes causes a variety of diseases, including food poisoning. Listeriae are small, Gram-positive, motile rod-shaped bacteria. Which of the following best describes these microorganisms?",
-        "exp": "Listeria multiply both extracellularly and intracellularly, but under most circumstances a competent immune system eliminates Listeria. As expected, listeriosis is seen in the very young, the very old, and in people with compromised immune systems. Repos of Listeria food outbreaks have implicated such foods like milk products.",
-        "cop": 1,
-        "opa": "Listeria are facultative intracellular pathogens",
-        "opb": "Once infected, the immune system cannot destroy Listeria",
-        "opc": "Listeria cannot be cultivated on aificial media",
-        "opd": "Flagella are produced both at room temperature and at 37degC",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "80ddb971-1dc1-4afd-aa3d-706dd9e3fccc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are features of botulism except:",
-        "exp": "Botulinum toxin blocks the release of acetylcholine at the neuromuscular junction and parasympathetic postganglionic terminals Dysphagia, dysahria, diplopia, dilated pupils, dry mouth followed by symmetric descending paralysis are the manifestations of botulism. Constipation is seen instead of diarrhea. No fever or sensory abnormalities are seen. Deep tendon reflexes may be normal or decreased. Gag reflex is suppressed. Untreated death occurs due to respiratory paralysis.",
-        "cop": 3,
-        "opa": "Diplopia",
-        "opb": "Dysphagia",
-        "opc": "Diarrhoea",
-        "opd": "Dysahria",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "d54673e8-2ae2-4c58-9e3e-c43c2af6d95c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True for Vi polysaccharide vaccine",
-        "exp": "Vi polysaccharide vaccine can be given with other vaccines like Hepatitis B & Yellow fever. Option 1, 2, 3, 4 -Typhim Vi is a subunit vaccine containing the cell surface Vi polysaccharide extracted from Salmonella enterica serovar Typhi, S. typhi Ty2 strain. -Typhim Vi vaccine is indicated for active immunization against typhoid fever for persons two years of age or older. -The antibody response may be inadequate in children under 2 years of age. - Dose for adults and children is a single injection of 0. 5 mL given intramuscularly in the deltoid. - Reimmunization every two years under conditions of repeated or continued exposure to the S typhi organism is recommended at this time. - Typhim Vi vaccine has efficacy against typhoid fever caused by S. typhi infection only. =The adverse reactions are predominately minor and transient local reactions:- -Local reactions such as injection site pain, erythema and induration almost always resolve within 48 hours of vaccination. -Though the antibody response in immunodeficiency states are often suboptimal, it should be given in HIV patients. -TYPHIm Vi may be administered during the same vaccination session with other common vaccines (yellow fever, diphtheria, tetanus, poliomyelitis, rabies prepared on Vero cells, meningitis A+C, hepatitis A and hepatitis B.) -Other vaccines for prophylaxis against enteric fever are:- Mono/di/trivalent heat- killed phenol preserved parenteral vaccines. Live attenuated Typhoid vaccine.",
-        "cop": 4,
-        "opa": "Local side effects are common",
-        "opb": "Severe systemic side effect",
-        "opc": "Contra indicated in HIV",
-        "opd": "Can be given with other vaccines like Hepatitis B & Yellow fever",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "5aa4ad32-a786-482c-8cf5-f891b5c762a2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "False positive tuberculin test indicates:",
-        "exp": "A false-positive result may be caused by non tuberculous mycobacteria or previous administration of BCG vaccine.",
-        "cop": 1,
-        "opa": "Atypical mycobacteria infection",
-        "opb": "Miliary tuberculosis",
-        "opc": "Immunosuppression",
-        "opd": "Extrapulmonary tuberculosis",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "3bdd205f-ce14-4f06-99d1-ca05da0b1fca",
-        "choice_type": "multi"
-    },
-    {
         "question": "Culture media for peussis is",
         "exp": "Culture media for Bordetella peussis is Bordet Gengou media or Regan Lowe media. Bordet Gengou media- after incubation for 48-72 hours- colonies resemble 'bisected pearls' or 'mercury drops' LJ media For M. tuberculosis Wilson & Blair medium For Salmonella typhi",
         "cop": 4,
@@ -351,19 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The specific micro-organism suspected to cause food poisoning on the basis of sho incubation period are all of the following except:",
-        "exp": "Esch. coli causes food poisoning having long incubation period. All other options have a shoer incubation period. Food Poisoning Organism Incubation period Staphylococcus 1-6 hours Salmonella 12-24 hours Botulism 12-36 hours Clostridium perfringens 6-24 hours Bacillus cereus 1-6 hours E. coli 8-72 hours",
-        "cop": 3,
-        "opa": "Staphylococcus aureus",
-        "opb": "B. cereus",
-        "opc": "E. coli",
-        "opd": "C. perfringens",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "9502b491-ccf7-4c37-b818-506c15fb287e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Proteus antigen cross react with which of the following organism?",
         "exp": "Proteus antigen cross react with Rickettsiae. Proteus antigens (OX19, OX2 & OXK strains) cross reacts with group specific lipopolysaccharide rickettsial antigens. This is the basis of Weil Felix (heterophile agglutination) test. It is used for diagnosis of rickettsial infections. The test detects anti-rickettsial antibodies that cross-react with O antigens of ceain non motile strains of Proteus.",
         "cop": 3,
@@ -388,45 +258,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "dbbee60a-d502-48c7-9a79-450f548f763f",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements about non typhoid salmonella is not true?",
-        "exp": "Humans are not the only reservoirs in non typhoid salmonella. Option 1 - Non-typhoidal salmonella can be acquired from multiple animal reservoirs. Option 2 - Transmission is most commonly associated with animal food products especially eggs, poultry, undercooked meat and dairy products. Option 3 - These infections are quite common in immunocompromised individuals. Option 4 - Increased use of ceftriaxone (cephalosporins) and ciprofloxacin (1st generation fluoroquinolone) to treat MDR (multi drug resistant) strains leads to resistance against it.",
-        "cop": 1,
-        "opa": "Humans are the only reservoirs.",
-        "opb": "Transmission is most commonly associated with eggs, poultry and undercooked meat.",
-        "opc": "Common in immunocompromised individuals.",
-        "opd": "Resistance to fluoroquinolones has emerged.",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "bf929f33-95a0-4356-95fc-e7182722786d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is true about Corynebacterium diphtheriae?",
-        "exp": "Elek gel is a precipitation test. - Loeffler's serum slope is an Enriched medium. - Selective medium for C. diphtheriae is tellurite blood agar (eg. Mc Leod's and Hoyle's media or cystine - tellurite agar - Tinsdale medium). - Elek's gel is a precipitation test. It is an in vitro test for toxigenicity of the diphtheria bacillus. (Refer to the image below) - C. diphtheriae is gram positive, non-motile and non-capsulated, pleomorphic, non-sporing, slender rod- shaped bacilli. - All strains of C. diphtheriae show metachromatic granules on staining. Granules are composed of polymetaphosphate. Albe's stain is used to demonstrate Volutin/Metachromatic/Babes Ernst granules of Corynebacterium diphtheriae. It contains toluidine blue 'O' and malachite green. The bacilli are usually arranged in Chinese letter or cuneiform arrangement. Other stains: Neisser's stain, Ponder's stain.",
-        "cop": 2,
-        "opa": "Loeffler's serum is highly selective media for C. diphtheriae",
-        "opb": "Elek gel is a precipitation test",
-        "opc": "Gram negative bacilli, non-motile, non capsulated",
-        "opd": "Metachromatic granules is produced on stain only by one strain of C. diphtheriae",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "0aa17125-7ab4-49e6-b2f0-d047e91e1ac7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "C. diphtheriae can be biochemically differentiated from C. pseudotuberculosis by",
-        "exp": "-C. pseudotuberculosis is urease positive and is thus differentiated from C. diphtheriae. - C. pseudotuberculosis causes caseous lymphadenitis in sheep and goats. Corynebacterium - catalase positive. Oxidase positive organisms are: Pseudomonas aeruginosa Burkholderia species Vibrio Pasteurella multocida Brucella Neisseria Haemophilus spp Campylobacter Potassium tellurite agar (PTA) is the selective media used for C. diphtheriae.",
-        "cop": 2,
-        "opa": "Catalase test",
-        "opb": "Urease test",
-        "opc": "Oxidase test",
-        "opd": "Tellurite Reduction",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "1ccdda94-04c2-4c95-b06f-5b50215e0581",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following disease presents with the characteristic Pea-soup stool?",
@@ -533,19 +364,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Pathogenesis of which E coli is shown below",
-        "exp": "Diagramatic representation depicts all of the above mentioned strains of e. coli-ETEC, EPEC, EHEC E. coli cause 1. UTI 2. Diorrhoea 3. Neonatal meningitis 4. Emphysematous pyelonephritis 5. Fournier's gangrene",
-        "cop": 4,
-        "opa": "ETEC",
-        "opb": "EPEC",
-        "opc": "EHEC",
-        "opd": "All the above",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "3ffe971c-34ec-4e1d-bd76-de43d7ecf66e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Buruli ulcer is caused by",
         "exp": "- Buruli ulcer is caused by atypical mycobacteria named as Mycobacteria ulcerans - Mycobacteria ulcerans- It is a water borne skin pathogen which is categorised under non - photochromogens ( Runyon's classification ) This cause lesions which are typically painless ulcers and nodules. It has narrow temp. range of 31 degree - 34 degree C",
         "cop": 1,
@@ -570,71 +388,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "3ba9b5f1-fdd9-4d16-b811-ddc382fcd899",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about given bacteria except:",
-        "exp": "Above staining shows cuneiform arrangement/ chinese letter pattern of C. diphtheriae. C. diphtheriae- Gram-positive, highly pleomorphic organisms with paicular arrangement. Special stains like Neisser and Ponder's stain are used to demonstrate the metachromatic granules It is sensitive to the majority of antibiotics, such as the penicillins, ampicillin, cephalosporins etc. Upper respiratory system involvement is early presentation Complication: The exotoxin of C. diptheriae is absorbed in the blood which in turn kills heart, kidney, and nerve cells by blocking protein synthesis.",
-        "cop": 2,
-        "opa": "Gram-positive, highly pleomorphic organisms with paicular arrangement.",
-        "opb": "Cardiovascular system involvement is early presentation",
-        "opc": "Special stains are Neisser and Ponder's stain",
-        "opd": "It is sensitive to the majority of antibiotics, such as the penicillins, ampicillin, cephalosporins etc.",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "1d7e9b24-27ce-4ced-a38f-14f9a11f718f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Agglutination with 'O' antigen of S. typhi is inhibited by:-",
-        "exp": "Agglutination with 'O' antigen of S. typhi is inhibited by Vi antigen. Vi antigen: Surface polysaccharide envelope or capsular antigen covering the O antigen. Prevents its agglutination with O antiserum. Phage typing of S. typhi can be done by using Vi specific bacteriophages. Used for vaccination.",
-        "cop": 1,
-        "opa": "Vi Ag",
-        "opb": "Flageller",
-        "opc": "F antigen",
-        "opd": "All the above",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "5830b769-7035-4788-bcc6-c6e05601365a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The following are gas producing salmonella except-",
-        "exp": "Salmonella ferment sugar producing acid & gas except S. typhi which is anerogenic. SALMONELLA are motile with the presence of peritrichous flagella except Salmonella gallinarum and Salmonella pullorum, which are non-motile.",
-        "cop": 1,
-        "opa": "S. typhi",
-        "opb": "S. enteritidis",
-        "opc": "S. typhimurium",
-        "opd": "S. choleraesuis",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "f0f3837f-ab2d-4e3e-b210-eb7885398303",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A patient undergoing chemotherapy develops a cough. Acid-fast stain of his sputum shows rods and slightly longer forms, with some branching; they vary in their acid-fast reaction from one area of the slide to the next. The acid-fast stain was performed by an experienced medical technologist and, when redone, showed the same variation. The growth was done aerobically. What is the most likely agent?",
-        "exp": "Either Nocardia or MAI is possible from the clinical scenario, but the most likely agent from the acid-fast stain description, the focus of the question, is Nocardia. Also, MAI would not grow in 2days (so some mention of time would be made) and Actinomyces would only grow anaerobically, which would also be stated. Chlamydophila would not grow except in tissue culture.",
-        "cop": 4,
-        "opa": "Actinomyces",
-        "opb": "Chlamydophila",
-        "opc": "Mycobacterium an-intracellular (MAIor MAC)",
-        "opd": "Nocardia",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "d4a9fe2d-b1c1-4d5b-8eb1-f71ec54d71fe",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 34 years old male who is truck driver and HIV positive, presented with small painless nodules with sexual history 15 days back. Later, the nodules burst, and created open, fleshy, oozing lesions becoming a beefy red ulcer in the genital region. What can be the diagnosis?",
-        "exp": "Granuloma inguinale/donovanosis- caused by Klebsiella granulomatis. Small, painless nodules appear after about 10-40 days of the contact with the bacteria. Later, the nodules burst, creating open, fleshy, oozing lesions. The lesions occur at the region of contact typically found on the shaft of the penis, the labia, or the perineum Diagnosis: painless, \"beefy-red ulcer\" with a characteristic rolled edge of granulation tissue. Wright Giemsa stain: Donovan bodies- rod-shaped, oval organisms that can be seen in the cytoplasm of mononuclear phagocytes or histiocytes in tissue samples.",
-        "cop": 1,
-        "opa": "Klebsiella granulomatis",
-        "opb": "Chlamydia trachomatis",
-        "opc": "Neisseria gonorrhea",
-        "opd": "Hemophilus ducreyi",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "15c43a68-0be0-4675-ab04-84b6304339ce",
-        "choice_type": "multi"
     },
     {
         "question": "Elek's gel precipitation test is done for:",
@@ -663,19 +416,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In which of the following sites is Salmonella typhi most likely to be found during the carrier state?",
-        "exp": "Salmonella typhi is the most likely to be found in gall bladder during the carrier state. Carriage: Up to 5% of patients become carriers. - The carrier state is more common in women than in men and in the older people (over 40 years) than in young people. - Carriers usually harbour the organisms in the gallbladder or biliary tract. - Type of Carriers:- Convalescent - shed bacilli for 3 weeks-3 months after clinical cure. Temporary - shed bacilli for 3 months to 1 year after clinical cure. Chronic - shed bacilli for more than 1 year. - Carriers can be diagnosed by stool/ urine culture or sewer swab culture. - Treatment of carriers: Ampicillin or Amoxicillin + probenecid for 6 months.",
-        "cop": 2,
-        "opa": "Blood",
-        "opb": "Gallbladder",
-        "opc": "Kidney",
-        "opd": "Liver",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "1de12cd4-f8a2-4a03-b404-265f54d1c0f0",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 3 yr. old child develops bloody diarrhea, hemorrhagic colitis due to E. coli 0157: H7 is suspected. What medium should be inoculated to help the lab staff make the diagnosis of this infection",
         "exp": "The medium required to make the diagnosis of enterohaemorrhagic E. coli infection is sorbitol Mac. Conkey agar because it does not ferment sorbitol. CULTURE MEDIA ORGANISM TCBS Vibrio cholera Sorbitol Mac. Conkey Agar EHEC Modified Thayer Main medium Neisseria species Chocolate agar Neisseria species and Hemophilus sp.",
         "cop": 2,
@@ -689,19 +429,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true about bacillus anthrax except:",
-        "exp": "Bacillus anthracis produce anthrax toxin which is encoded by plasmid ( px01) Bacillus anthracis cause cutaneous anthrax (hide poer's disease ) and pulmonary anthrax ( wool soer's disease). Cutaneous anthrax is self -limiting, it resolves spontaneously. Capsular polypeptide is made up of poly-D-glutamic acid capsule which aids in virulence by inhibiting phagocytosis. Capsular polypeptide can be demonstrated by Mc Fadeyan's Reaction. Bacillus anthracis can be grown on solid media with penicillin & PLET medium. Bacillus anthracis is non-motile and this feature helps to differentiate it from anthracoid bacilli such as Bacillus cereus which are motile It is first bacillus to be isolated in pure culture Anthrax toxin is tripaite toxin It consists of - Edema factor Protective factor Lethal factor - MYPA media is used to grow Bacillus cereus.",
-        "cop": 4,
-        "opa": "Plasmid is responsible for toxin production",
-        "opb": "Cutaneous anthrax generally resolves spontaneously",
-        "opc": "Capsular polypeptide aids in virulence by inhibiting phagocytosis",
-        "opd": "Culture media is MYPA",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "48b47583-665b-4fb9-a705-66968d639510",
-        "choice_type": "multi"
-    },
-    {
         "question": "200 people attended a pay and some of them had diarrhoea after 24 hours. They ate oyster, hamburger, ice-cream and potato salad. What's the likely cause? 40 ill from 50 who consumed oyster 50 ill from 135 who consumed hamburger 60 ill from 140 who consumed salad 49 ill from 115 who consumed ice cream 115",
         "exp": "Most likely diarrhoeal cause is V. Parahaemolyticus as most of the people eating oyster (sea food) are suffering and also episode is occurring after 24hr which corresponds to the incubation period of V. parahaemolyticus(16-24hrs)",
         "cop": 1,
@@ -713,19 +440,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "f31279bf-e10e-4b92-b177-2fdea355b243",
         "choice_type": "single"
-    },
-    {
-        "question": "Nocardia shows all the features except:",
-        "exp": "Nocardia Obligate aerobe. Acid fast organism (1%). Cultured by Paraffin bait technique. Causative agent of Actinomycetoma. Pneumoniae in immunodeficient individuals, Eg: AIDS/Lymphomas/Post Transplantation C/F -- Fever, cough (with thick sputum) Can spread to pericardium and mediastinum Rx - Trimethoprim-sulphmethoxazoleis used as effective therapy Severe cases - Combination - TMP-SMX, Amikacin, ceftriaxone/imipenem.",
-        "cop": 1,
-        "opa": "It is an anaerobe",
-        "opb": "It is an acid fast organism",
-        "opc": "Cultured by Paraffin bait technique",
-        "opd": "Causative agent of Actinomycetoma",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "4a157e9e-63bf-4a22-909c-8091d4d8f063",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following has subterminal spores?",
@@ -806,19 +520,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Mark the false statement regarding L forms of bacteria",
-        "exp": "L-forms bacteria/asL-phase bacteria Also known as L-phase variants or cell wall-deficient(CWD)bacteria Grow as spheroplasts or protoplasts. 1st isolated working on a culture of \"Streptobacillus moniliformis. \" L forms may not initiate a disease however they can lead to bacterial persistence during antibiotic treatment = Recurrence of infection. It was used in Lister institute in London 2 types Unstable L-forms - Spheroplasts that are capable of dividing, but can reve to the original morphology Stable L-forms - L-forms that are unable to reve to the original bacteria. Although L-forms can develop from Gram positive as well as from Gram negative bacteria but during Gram stain, the L-forms always colour Gram-negative, due to the lack of a cell wall.",
-        "cop": 3,
-        "opa": "Also known as cell wall deficient bacteria",
-        "opb": "It was first isolated in Streptobacillus",
-        "opc": "Develops from only gram negative bacteria",
-        "opd": "Can lead to bacterial persistence during antibiotic treatment",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "f95a16d3-74c9-43e1-ab9e-95e68a8105f1",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most common cause of clostridial food poisoning is-",
         "exp": "The most common cause of clostridial food poisoning is Cl. perfringens type A. Food poisoning by Clostridium: Cause -Ingestion of cold and warmed up meat dishes. Incubation period - 8 and 24 hours. Clinical feature: Abdominal cramps and watery diarrhea. Usually Absence of nausea, vomiting, or fever--are characteristic presentations of this condition. Self-limiting and recovery within 24-48 hours. Most common cause of gas gangrene- C. perfringens. Type A strains are the most common. These strains produce spores-heat resistant-produce enterotoxin (coded by gene cpe).",
         "cop": 1,
@@ -884,19 +585,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following statements about El-Tor vibrios are true, except:",
-        "exp": "Enterotoxin can have direct effects on other tissues besides intestinal epithelial cells is not true. Option 1 - Reservoir: Humans are the only reservoir. Option 2 - Vibrios are resistant to high alkalinity. Option 3 - Cholera toxin: exotoxin, heat-labile protein- destroyed by heating at 56degC for 15 minutes. Option 4 - V. cholera enterotoxin do not have any affects on extra-intestinal tissues (lack of receptors of toxin).",
-        "cop": 4,
-        "opa": "Humans are the only reservoir",
-        "opb": "Resist high alkalinity",
-        "opc": "Killed by boiling for 15 minutes",
-        "opd": "Enterotoxin can have direct effects on other tissues besides intestinal epithelial cells.",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "4a144346-e2e1-4c18-9e4e-d1c536f41030",
-        "choice_type": "multi"
-    },
-    {
         "question": "Resistance to isoniazid, the likely mechanism for resistance is",
         "exp": "Strains of M. tuberculosis resistant to individual drugs arise by spontaneous point mutations in the mycobacterial genome that occur at low but predictable rates (10-7-10-10for the key drugs). Resistance to rifampin is associated with mutations in the rpoB gene in 95% of cases; That to isoniazid with mutations mainly in the katG (50-95% of cases) and inhA (up to 45%) genes; That to pyrazinamide in the pnc. Agene (up to 98%); That to ethambutol in the embB gene (50-65%). Because there is no cross-resistance among the commonly used drugs, the probability that a strain will be resistant to two drugs is the product of the probabilities of resistance to each drug and thus is low.",
         "cop": 2,
@@ -908,19 +596,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "ea73ef32-0461-449f-8bc9-48990bea7da0",
         "choice_type": "single"
-    },
-    {
-        "question": "Regarding Schick's test which of the following is false?",
-        "exp": "The false statement regarding Schick test is that Positive test means that person is immune to Diphtheria. Schick test: 1. Type- Neutralization test (Toxin - antitoxin). 2. Use- It is used to find the immune status for diphtheria, Intradermal test readings are at 1-2 days and 5-7 days, but not in use because safer toxoid preparations are available. Interpretation of the test: Schick test-Positive means that person is susceptible to Diphtheria. So vaccine was administered. Schick test-Negative means that person is immune to Diphtheria. Schick test - Pseudo-positive: when there is only erythema and it disappears within 4 days. Reaction in both arm indicates person is immune but hypersensitive to the toxin. Schick test - Combined reaction: Initial picture is like that of the pseudo-reaction but the erythema fades off after 4 days only in the control arm. It progresses on the test arm to a typical positive. The person is both susceptible and hypersensitive.",
-        "cop": 2,
-        "opa": "Erythematous reaction in both arm indicates hypersensitivity",
-        "opb": "Positive test means that person is immune to Diphtheria",
-        "opc": "Diphtheria toxin is given intradermally",
-        "opd": "Test done to find out immune status against diphtheria",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "30d75c5f-06e5-4e45-8c4e-66e933db6029",
-        "choice_type": "multi"
     },
     {
         "question": "Tabes dorsalis is seen in:-",
@@ -947,19 +622,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "3c2d2b20-1343-488c-a34c-f6ca5ad548ee",
         "choice_type": "single"
-    },
-    {
-        "question": "In salmonella infection, true statement is:",
-        "exp": "Absence of Vi antibody indicate poor prognosis in salmonella infection is the true statement among the options given above. Option 1 Option 2 Somatic antigen (O Ag): Pa of cell wall lipopolysaccharide (LPS). Flagellar antigen (H Ag): Made-up of proteins: flagellin, confers motility. Option 3 The complete absence of the Vi antibody in a proven case of typhoid fever indicates poor prognosis Option 4 Phase variation: Conversion of isolates from one phase to another is achieved by using Craigie's tube method. Note: Vi Antibodies are not seen in normal population.",
-        "cop": 3,
-        "opa": "Flagellar antigen forms chalky granular clumps",
-        "opb": "Somatic antigen is a protein",
-        "opc": "Absence of Vi antibody indicate poor prognosis",
-        "opd": "Serological classification is by Craige's scheme",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "eaf0e944-5c8b-4934-9609-63c98b979e83",
-        "choice_type": "multi"
     },
     {
         "question": "A 12 yr old child presents with fever and cervical lymphadenopathy for last 36 hours. Oral examination shows a grey membrane on the right tonsil. What is the primary treatment?",
@@ -1066,19 +728,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following propey(ies) is/are seen in the members of family Enterobacteriaceae?",
-        "exp": "All the above options are true for the members of family Enterobacteriaceae. Enterobacteriaceae propeies: Gram-negative, aerobes and facultative anaerobic bacilli. Nonfastidious. Ferment glucose. Reduce nitrate to nitrite. Oxidase test negative. Catalase positive (except Shigella dysenteriae type-1). Motile, except Shigella and Klebsiella. Natural habitat: Human intestine, called coliform bacilli.",
-        "cop": 4,
-        "opa": "They are catalase-positive",
-        "opb": "They are oxidase-negative",
-        "opc": "They ferment glucose",
-        "opd": "All are true",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "11d61135-0e66-4303-a233-085247f0112d",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 65-year-old diabetic man presents to the emergency room with a severe productive cough producing thick bloody sputum resembling a \"currant-jelly\" like appearance. Culture using Mac. Conkey agar reveals pink colonies, with large mucoid colonies on routine laboratory media. Which of the following organisms is most likely responsible for this patient's pneumonia?",
         "exp": "Patients with K. pneumoniae infections usually have predisposing conditions such as alcoholism, advanced age, chronic respiratory disease, and diabetes Pulmonary infections can lead to necrosis and abscess formation Upper lobes of the lungs are predominantly affected The \"currant-jelly\" sputum distinguishes K. pneumoniae from the other organisms K. pneumoniae is Lactose fermenting (pink colonies on Mac) and due to its thick capsule the colonies have a mucoid appearance.",
         "cop": 3,
@@ -1092,32 +741,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about Botulinum toxin except?",
-        "exp": "Botulinum toxin - action on parasympathetic nervous system Clinical feature 1. Diplopia 2. Dysphagia 3. Dysahria 4. | DTR ( Deep tendon reflexes) 5. Only food poisoning where constipation occur ( because of action | ACH )",
-        "cop": 3,
-        "opa": "Diplopia",
-        "opb": "Dysahria",
-        "opc": "Increase DTR",
-        "opd": "Constipation",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "803648bd-1c02-479b-abda-6877b4ee72dd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Best selective media for Salmonella?",
-        "exp": "Wilson and Blair's brilliant-green bismuth sulfite agar (WBBS) -Best selective and indicator medium used for the isolation of Salmonella species. Bismuth sulfite, brilliant green - inhibitors- hinder the growth of most bacteria while allowing salmonella to grow. Ferrous sulphate- Reacts with H2S - formation of ferrous sulfide-brown-black coloration and also diffuses into the surrounding medium, giving a brown -black halo. Option 1: Thiosulphate citrate bile salt agar(TCBS) is used for Vbrio. Option 3: Sorbitol Ma. Cconkey agar -For EHEC (Enterohaemorrhagic Escherichia coli).",
-        "cop": 2,
-        "opa": "Thiosulphate citrate bile salt agar(TCBS)",
-        "opb": "Wilson and Blair's brilliant-green bismuth sulphite agar medium",
-        "opc": "Sorbitol Ma. Cconkey agar",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "ad6cd978-64af-489e-a7e9-408d1e5757b4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Selective medium for Pseudomonas:",
         "exp": "Pseudomonas Resistant to many common antiseptics like quaternary ammonium compounds, chloroxylenol and hexachlorophene. Indeed selective media have been devised incorporating Dettol or cetrimide. Skirrow's medium is selective for Campylobacter. Regan Lowe medium is selective for Bordetella peussis. Ashdown's medium is selective for Burkholderia pseudomallei.",
         "cop": 3,
@@ -1129,19 +752,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "0b2d3130-6570-4fd9-9450-781d5b387295",
         "choice_type": "single"
-    },
-    {
-        "question": "Primarily human pathogenic bacteria is/are",
-        "exp": "S. typhi & S. paratyphi A, B and C: Man is the only natural host. Transmission ingestion of food/ water contaminated by the feces of either a carrier or a case of enteric fever. Animal commensals: S. typhimurium S. enteritidis S. newpo S. dublin S. choleraesuis",
-        "cop": 4,
-        "opa": "Salmonella typhi",
-        "opb": "S. paratyphi A",
-        "opc": "S. paratyphi B",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "6cdcc4ec-4d65-4b65-a5aa-c9c7f7f22c60",
-        "choice_type": "multi"
     },
     {
         "question": "Mitsuda reaction is read after:",
@@ -1222,19 +832,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Regarding Proteus, which is true?",
-        "exp": "Proteus shows PPA test positive. Proteus: Odor: Putrid 'fishy' or 'seminal' odour. Most common clinical manifestation-UTI (Urinary tract infection). Phenylalanine Deaminase test/ phenylpyruvic acid (PPA test): Tests the ability of an organism to produce enzyme deaminase. PPA test +ve - conves phenylalanine to phenylpyruvic acid. Used to differentiate Proteus, Morganella and Providencia (Positive) from other members of Enterobacteriaceae (PPA negative). Esthiomene is a genital elephantiasis- seen in Lymphogranuloma venereumcaused by Chlamydia trachomatis serovars L1, L2, or L3.",
-        "cop": 3,
-        "opa": "Musty odour",
-        "opb": "Most common infection caused is respiratory tract infection",
-        "opc": "PPA test positive",
-        "opd": "Esthiomene is a complication in females",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "234ed47d-79e7-47b5-8a3c-ed0e1ca0e235",
-        "choice_type": "multi"
-    },
-    {
         "question": "Corynebacterium diphtheriae is arranged in-",
         "exp": "B. anthracis C. diphtheriae Gram positive bacilli. (Bamboo stick appearance). Albe's staining -arranged in Chinese letter or Cuneiform (V-L shaped) pattern, bacilli are green in color, along with bluish-black granules. Vibrio cholerae Hemophilus ducreyi Fish in stream pattern or mucus flakes of stool. Rail road track pattern",
         "cop": 2,
@@ -1248,45 +845,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true except-",
-        "exp": "Proteus does not form uric acid stones. Option 1 E. coli is an aerobe and facultative anaerobe. Option 2 Uric acid stone formation takes place in acidic urine. Proteus produces ammonia and contributes to alkalinity. It does not thus lead to formation of uric acid stones. The alkalinity leads to necrosis of renal tubular epithelium & precipitation of phosphate stones. Option 3 E. coli are motile by peritrichous flagella. Option 4 The distinctive character of Proteus genus is deamination of phenylalanine to phenylpyruvic acid (PPA test positive). Refer to the image below. - Green colour in test tube indicates PPA test positive.",
-        "cop": 2,
-        "opa": "E. coli is an aerobe and facultative anaerobes",
-        "opb": "Proteus forms uric acid stones",
-        "opc": "E. coli is motile by peritrichate flagella",
-        "opd": "Proteus causes deamination of phenylalanine to phenylpyruvic acid.",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "11c11b10-50bb-45f1-8fab-ab91136fa54e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which salmonella is anaerogenic:",
-        "exp": "Salmonella typhi is anaerogenic. Option 1 All Salmonellae produce acid and gas (aerogenic) when they ferment sugars except S. typhi which only produces acid (anaerogenic). Option 2, 3, 4 Salmonellae: Ferment glucose, mannitol, and maltose, forming acid and gas. S. Typhi is an exception, which does not ferment the sugars. Produces H2S except S. paratyphi A, S. choleraesuis. Do not hydrolyze urea. MR positive, VP negative, citrate positive. Catalase positive, oxidase negative.",
-        "cop": 1,
-        "opa": "S. typhi",
-        "opb": "S. paratyphi A",
-        "opc": "S. paratyphi B",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "e2818a17-e8d3-47f2-a327-19c5a636b130",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following are complication of diphtheria except:",
-        "exp": "Veigo is not seen in diphtheria. The neurological complications like polyneuritis and palatal paralysis are totally reversible. Myocarditis is the most common cause of death in diphtheria due to circulatory failure.",
-        "cop": 4,
-        "opa": "Polyneuritis",
-        "opb": "Myocarditis",
-        "opc": "Palatal paralysis",
-        "opd": "Veigo",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "0d8fb8b4-7932-424d-961b-831d8498285c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Main cytokine involved in erythema nodosum leprosum reaction is",
         "exp": "Erythema nodosum leprosum rection is type II lepra rection. In this modules over skin are seen This is a type III hypersensitivity reaction. Main cytokine involve is TNF -alpha DOC - gluco-coicoids",
         "cop": 3,
@@ -1298,19 +856,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "eb7dc2e5-6728-44c9-9e2f-a28f027b9725",
         "choice_type": "single"
-    },
-    {
-        "question": "Atypical pneumonia can be caused by the following microbial agents except?",
-        "exp": "Mycoplasma pneumonia is the most common cause of atypical pneumonia. Legionella pneumophila also causes legionnaires pneumoniae which is also a type of atypical pneumonia. Human coronavirus also causes atypical pneumonia Klebsiella pneumoniae causes lobar pneumonia which is typical pneumonia. Klebsiella pneumoniae is also known as Friedlander's bacillus which produces red currant jelly sputum and shows bulging fissure signs on chest X-ray.",
-        "cop": 4,
-        "opa": "Mycoplasma pneumoniae",
-        "opb": "Legionella pneumophila",
-        "opc": "Human Corona virus",
-        "opd": "Klebsiella pneumoniae",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "a0b3d873-ec95-4768-ace5-7497d8141995",
-        "choice_type": "multi"
     },
     {
         "question": "There is an outbreak of watery diarrhea due to Shigella occurred in several day care centers in Pondicherry. Which Shigella sp. is most likely involved?",
@@ -1339,19 +884,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is true about the antigen titre in Widal test?",
-        "exp": "H-antigen titre remains positive for several months & reaction to it is rapid. Option 1, 3 - O Abs appear early and disappear early and indicate recent infection. H Abs appear late and disappear late. Option 2 Widal test: it can be done in second week and third week. Principle: It is an agglutination test where H and O antibodies are detected in the patient's sera by using H and O Antigens. Antigens used: Four antigens are used: O antigen of S. Typhi (TO) H antigens of S. Typhi (TH) S. Paratyphi A (AH) S. Paratyphi B (BH) - H agglutinins persist longer than O agglutinins. Four-fold rise in antibody titre in paired sera at 1 week interval is more meaningful than a single high titre. - After 1 week if titre rises- indicates true infection. - After 1 week if titre falls- indicates anamnestic responses.",
-        "cop": 2,
-        "opa": "O-antigen titre remains positive for several months & reaction to it is rapid.",
-        "opb": "H-antigen titre remains positive for several months & reaction to it is rapid",
-        "opc": "Both remain positive for several months & reaction to both is rapid",
-        "opd": "None",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "26b99472-7ec8-4b13-bdf8-ecdb64795e19",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is the most common cause of liver abscess in adults?",
         "exp": "E. coli is the most common cause of liver abscess in adults. Polymicrobial involvement is common in pyogenic liver abscess with Escherichia coli and Klebsiella pneumoniae being the two most frequently isolated pathogens.",
         "cop": 3,
@@ -1378,19 +910,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Acid fastness of tubercle bacilli is",
-        "exp": "Acid fastness - ability to resist decolorisation TB bacilli is 20 % acid fast This propey is due to presence of mycolic acid it has nothing to do with integrity of cell wall",
-        "cop": 1,
-        "opa": "Presence of mycolic acid",
-        "opb": "Integrity of cell wall",
-        "opc": "Both of the above",
-        "opd": "None of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "109df1d8-8886-4435-8133-29ddc39a3816",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following organism causes Gastrointestinal enteritis necroticans?",
         "exp": "Gastrointestinal enteritis necroticans is caused by Clostridium perfringens. Option 1 - Clostridium difficile is the agent of 'pseudomembranous colitis' which occurs almost exclusively in association with prolonged antimicrobial use. Option 2 Necrotizing enteritis caused by Cl. perfringens type C. Characterized by abdominal pain, bloody diarrhea, shock, and peritonitis. Severe and often fatal. Also known as \"Pigbel\" in Papua New Guinea and as \"Darmbrand\" (meaning \"fire bowels\") in Germany. Option 3 - Clostridium botulinum produces botulinum toxin and causes botulism. Option 4 - Campylobacter- cause both diarrheal (C. jejuni) and systemic diseases (C. fetus).",
         "cop": 2,
@@ -1402,19 +921,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "9b9b6dee-bd7b-4c68-9e92-c66dfbf2d821",
         "choice_type": "single"
-    },
-    {
-        "question": "A microbiologist wants to develop a vaccine for prevention of attachment of diarrheagenic E. coli to the specific receptors in the GI tract. All of the following would be appropriate vaccine candidates except:",
-        "exp": "All of the following among the given options would be appropriate vaccine candidates except P-pili as they have role in uropathogenic E. coli, not diarrheagenic E. coli. Option 1, 2, 3 - P-PILI: Have no role in the attachment of diarrheagenic E. coli to the GI receptors. Have role in Adherence of uropathogenic E. coli to urothelial cells. - CFA 1 and CS 2 - Colonization factor antigens of ETEC (diarrheagenic E. coli ). Option 4 - Fimbriae promote virulence of E. coli. - K88 and K99 antigens in E. coli strains causing diarrhea in animals or CFA in ETEC are examples of such fimbriae.",
-        "cop": 2,
-        "opa": "CFA 1",
-        "opb": "P-PILI",
-        "opc": "CS-2",
-        "opd": "K88",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "4c99b717-f8ae-4cf1-82cf-e8fd75d5f302",
-        "choice_type": "multi"
     },
     {
         "question": "Verocytotoxin has been isolated in individual suffering from Hemolytic uraemic syndrome in their",
@@ -1534,32 +1040,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements is false regarding botulism?",
-        "exp": "Infant botulism is caused by ingestion of preformed toxin is a false statement. Option 1 Infant botulism- sporulated honey ingestion (unlike food poisoning) is caused by neurotoxins produced in vivo by C. botulinum that have colonized the gastrointestinal tract of the infants. C/F- constipation, lethargy, weakness, weak and altered cry, loss of head control, etc. The condition may progress to flaccid paralysis and respiratory arrest. The infants excrete toxins in their feces. Option 2 All types can cause human disease, but type A, B and E are most common, less commonly type F. Type C & D- associated with outbreaks in cattle & wild fowl. Option 3 - Toxin production in clostridium botulinum appears to be determined by presence of bacteriophage (at least in type C & D). Option 4 - Clostridium baratii have also been found to produce toxin- botulism.",
-        "cop": 1,
-        "opa": "Infant botulism is caused by ingestion of preformed toxin",
-        "opb": "Cl. botulinum A, B, E and F cause human disease",
-        "opc": "The gene for botulinum toxin is encoded by a bacteriophage",
-        "opd": "Clostridium baratii may cause botulism",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "ee674fe6-4244-4469-b2ff-b1ba838d89d3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Multidrug-resistant S. typhi ) are resistant to all except-",
-        "exp": "Isolates of S. typhi resistant to chloramphenicol, ampicillin, and co-trimoxazole designated as multidrug-resistant S. typhi. Ciprofloxacin became drug of choice for typhoid fever in patients of all age groups, infected or likely to be infected with fully drug susceptible S. typhi or MDR-ST. Alternative: Third-generation cephalosporins (cefixime for 7 to 14 days or ceftriaxone for 10 to 14 days) and azithromycin (for 7 days).",
-        "cop": 3,
-        "opa": "Chloramphenicol",
-        "opb": "Ampicillin",
-        "opc": "Ciprofloxacin",
-        "opd": "Septran",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "6e1689a8-36b0-407f-be7c-6d92001308b3",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following species of clostridium species does not break carbohydrate and protein -",
         "exp": "Cl. cochlearium does not break carbohydrate and protein. Neither proteolytic nor Saccharolytic - Cl. cochlearium. Proteolytic Clostridium turn the meat black and produce foul odor - Cl. tetani, Cl botulinum A, B, and F. Saccharolytic Clostridium turn the meat pink -Cl. perfringens, Cl. difficle and, Cl botulinum C, D, E. Robeson's cooked meat (RCM) broth: (refer to the image below) Anaerobic Medium for the growth of Clostridium. Contains unsaturated fatty acids, digested meat, and sulfhydryl compounds. Renders the broth turbid. Saccharolytic Clostridium turn the meat pink, while proteolytic species turn the meat black and produce foul smell. Most of the Clostridium produce gas. Left side tube- Uninoculated Robeson cooked meat. Ride side tube - RCM broth turns into black colour.",
         "cop": 3,
@@ -1651,19 +1131,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about Shigella except:-",
-        "exp": "All the given options are true about Shigella except that a large dose is required for infection. Shigella is highly communicable as the infective dose for shigella is very less (10 - 100 bacilli). The production of toxin is also of impoance for virulence but main factor is invasion of the epithelial cells of gut by the organism. Hemolytic uremic syndrome may also occur following infection with S. dysenteriae because of vasculopathy mediated by Shiga toxin. HUS and Haemorrhagic Colitis is produced by S. dysenteriae Type 1 (due to producing Shiga toxin, hence called Shiga bacillus). Bacillary dysentery: manifests with a sudden onset of high grade fever along with abdominal cramp, tenesmus, urgency, and passage of loose, scanty feces containing frank blood and mucus.",
-        "cop": 1,
-        "opa": "Large dose is required for infection",
-        "opb": "Associated with hemolytic uremic Syndrome",
-        "opc": "Causes bloody diarrhea with mucus",
-        "opd": "Gut pathology is due to toxin",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "0d442e02-a093-4707-b3c7-7b3492dd7cee",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cholera is caused by-",
         "exp": "Vibrio cholerae is sero-grouped on the basis of 'O' antigen into several 'O' serogroups. Of these, O1 and O139 produce the cholera toxin. Hence cholera is caused by only these 2 serogroups ( as only that enteritis is called cholera which is due to cholera toxin )",
         "cop": 2,
@@ -1675,19 +1142,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "53e89ae8-64de-485e-95a6-e704c93388eb",
         "choice_type": "single"
-    },
-    {
-        "question": "All statements are true except,",
-        "exp": "EIEC produce disease similar to shigellosis, i. e. invasion of mucosa. OPTION 1 Persistent diarrhea especially in developing countries is most often caused by EAEC. OPTION 2 Enterohemorrhagic E. coli (EHEC): Serotypes associated with EHEC are: - O157: H7 (most common serotype). - Manifestations: HC (hemorrhagic colitis) and Hemorrhagic uremic syndrome (HUS). OPTION 3 EIEC produce disease similar to shigellosis, i. e. invasion of mucosa. - EIEC show atypical biochemistry (biochemically similar to Shigella spp. i. e, NLF, anaerogenic and non-motile) -Atypical E. coli. OPTION 4 ETEC is the most common cause of traveler's diarrhea.",
-        "cop": 3,
-        "opa": "EAEC is associated with persistent diarrhea",
-        "opb": "EHEC can cause HUS",
-        "opc": "EIEC produce disease similar to salmonellosis",
-        "opd": "ETEC is a common cause of traveler's diarrhea",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "3dd49e86-80d3-45f1-905c-51dc7ad93926",
-        "choice_type": "multi"
     },
     {
         "question": "Which is the most common causative agent of gas gangrene?",
@@ -1703,19 +1157,6 @@
         "choice_type": "single"
     },
     {
-        "question": "2 out of 3 family members had dinner at a local restaurant and within 48 hours, experienced double vision, difficulty in swallowing, speaking and breathing problems. These symptoms are consistent with which of the following?",
-        "exp": "Ingestion of a neurotoxin is responsible for the above symptoms. Option 1 Activation of cyclic AMP causes Diarrhea. Option 2 This clinical condition is not associated with Endotoxin shock. It's a case of food poisioning. Option 3 Food poisoning Ingestion of preformed toxins in food contaminated with C. botulinum. Severity of illness- Mild to a very serious disease resulting in death within 24 hours. Incubation Period-12 to 36 hours after ingestion of the contaminated food. Clostridium botulinum produces a potent neurotoxin that causes diplopia, dysphagia, respiratory paralysis, and speech difficulties when ingested by humans. The disease progresses to flaccid paralysis. Fever, typically is absent. Blocking the action of acetylcholine at neuromuscular junctions. Option 4 Invasion of the gut epithelium by an organism doesn't cause these symptoms.",
-        "cop": 3,
-        "opa": "Activation of cyclic AMP",
-        "opb": "Endotoxin shock",
-        "opc": "Ingestion of a neurotoxin",
-        "opd": "Invasion of the gut epithelium by an organism",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "90a3f225-3946-4835-91cd-9d44998660ea",
-        "choice_type": "multi"
-    },
-    {
         "question": "Vi Phage typing is done for-",
         "exp": "'Vi' phage typing is done for salmonella Phage typing is also done for - Vibrio cholerae Staphylococcus aureus Salmonella typhi Brucella C. Diphtheria Pseudomonas- morphotyping is done",
         "cop": 1,
@@ -1727,19 +1168,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "5691d102-b595-46e4-9872-840bdd42f0eb",
         "choice_type": "single"
-    },
-    {
-        "question": "Daisy head appearance of colonies of Corynebacterium diphtheria on blood tellurite agar is shown by",
-        "exp": "Mcleod's classification - Based on colony morphology on Tellurite medium and propeies like biochemical reactions and severity of disease, Three distinct cultural types aremitis, intermedius, andgravis GRAVIS INTERMEDIUS MITIS Colony on tellurite blood agar daisy head colony frog's egg colony poached egg colony",
-        "cop": 1,
-        "opa": "Gravis biotype",
-        "opb": "Intermedius biotype",
-        "opc": "Mitis biotype",
-        "opd": "None of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "01ffd7a2-f06c-4523-bf16-2c8542984695",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following has drum stick appearance?",
@@ -1779,19 +1207,6 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "db52b83d-d86b-471e-a8f8-0ffbec52f359",
         "choice_type": "single"
-    },
-    {
-        "question": "True about actinomycetes is:",
-        "exp": "Actinomycetes- include A. israelii, Nocardia & Streptomyces: Gram-positive rods commonly found in soil and decaying organic matter or as colonizers of body surfaces. In culture and lesions, these organisms form filamentous or hyphae-like structures. Eumycetoma- has a fungal origin. Mycetomas can form as a result of traumatic injury, mainly people working in farms and forests.",
-        "cop": 4,
-        "opa": "Include A. israelii, Nocardia & Streptomyces are a group of organisms characterized as Gram-positive rods",
-        "opb": "Mycetomas can form as a result of traumatic injury, mainly in people working in farms and forests.",
-        "opc": "Organisms form filamentous or hyphae-like structures",
-        "opd": "All of the above",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "93841a6f-2fbc-4ae5-87c8-3376c16d881a",
-        "choice_type": "multi"
     },
     {
         "question": "Most common cause of diarrhea in children of developing countries is:",
@@ -1859,19 +1274,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Vi antigen is present in all except-",
-        "exp": "Vi antigen is present in all except S. paratyphi A. Vi Antigen: It is the surface polysaccharide envelope or capsular antigen covering the O antigen. Expressed in:- S. typhi, S. paratyphi C, S. dublin and some strains of Citrobacter freundii. When Vi antigen is present, it renders the bacilli inagglutinable with the O antiserum. Poorly immunogenic and antibody titres are low, not helpful in diagnosis, hence not employed in the Widal test. Complete absence of the Vi antibody in a proven case of typhoid fever- Poor prognosis. Note: Vi Antibodies are not seen in normal population.",
-        "cop": 2,
-        "opa": "S. typhi",
-        "opb": "S. paratyphi A",
-        "opc": "S. paratyphi C",
-        "opd": "S. dublin",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "ca581498-2aba-4daf-8561-7900cc3684e9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Pigbel is caused by:",
         "exp": "Pigbel is caused by by Clostridium perfringens. C. perfringens produces clinical syndromes as follows: a) Necrotizing enteritis/Pigbel Due to contaminated meat products. Incubation Period- 8-24 hrs. Involves Heat labile enterotoxin but spores are heat resistant. (b) Food poisoning (c) Soft tissue infections (d) Septicemia NOTE Clostridium perfringens causes stormy fermentation of lactose in litmus milk",
         "cop": 3,
@@ -1883,18 +1285,5 @@
         "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
         "id": "dc386be2-36fe-470c-9e93-74170ae833ee",
         "choice_type": "single"
-    },
-    {
-        "question": "Bull's neck is characteristically seen in:",
-        "exp": "Faucial diphtheria: commonest type of diphtheria. Characterized by fever, sore throat, pseudo membrane over fauces. Cervical adenitis with sub-mandibular edema is called bull neck.",
-        "cop": 2,
-        "opa": "Hamaoma of Lung",
-        "opb": "Diphtheria",
-        "opc": "Glaucoma",
-        "opd": "Hepatic Candidiasis",
-        "subject_name": "Microbiology",
-        "topic_name": "Systemic Bacteriology (Gram Positive Bacilli, Gram Negative Bacilli)",
-        "id": "bd43a04e-24cd-41ea-9989-c6ec27068250",
-        "choice_type": "multi"
     }
 ]

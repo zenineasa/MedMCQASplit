@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 52-year-old woman presents with exeional fatigue and ascites. She is noted to have a rapid, irregular pulse rate. The chest X-ray reveals a small heart with calcification seen on the lateral view. The 12-lead ECG demonstrates low QRS voltage. Clinical diagnosis is?",
-        "exp": "Calcification & low QRS voltage - indicates Constrictive pericarditis Other option: 1. Restrictive cardiomyopathy -No calcification 2. Acute Cor pulmonale- clots will be present 3. Rheumatic pan carditis - affects children",
-        "cop": 2,
-        "opa": "Rheumatic pan-carditis",
-        "opb": "Constrictive pericarditis",
-        "opc": "Restrictive cardiomyopathy",
-        "opd": "Acute cor-pulmonale",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmias 1",
-        "id": "ec6d0efd-3e47-4d4b-8b72-0a592959e303",
-        "choice_type": "multi"
-    },
-    {
         "question": "Triggered automaticity leads to development of which of the following rhythm disorders?",
         "exp": "Triggered Automaticity is related to Torsades de pointes(Polymorphic V. Tachycardia). There could be electrolyte imbalance like (Hypokalemia, Hypomagnesemia) that results in development of ectopic foci. Electrolyte imbalance triggering ectopic foci so word came \"Triggered Automaticity\" Ischemic ventricular fibrillation is inhibition of phase '0' of Depolarization.",
         "cop": 3,
@@ -169,19 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "You are asked to review the ECG below, for a 72-year-old male who has presented to ER with falls. Based on your ECG interpretation, what is the likely diagnosis?",
-        "exp": "Missed beat in ECG, PR interval-before & after missed beat are unequal in size-patient have serial prolongation of PR interval F/B drop beat - MOBITZ-I Heart Block",
-        "cop": 4,
-        "opa": "Hyperkalaemia",
-        "opb": "Second degree - Mobitz Type 2 - heart block",
-        "opc": "First degree heart block",
-        "opd": "Second degree - Mobitz Type 1 - heart block",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmias 1",
-        "id": "3239778c-f491-4610-ac0c-25aaf137320d",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 50-year-old diabetic patient is feeling unwell. On workup, his serum creatinine= 5. 0 mg% and blood urea= 125 mg%. Urine MICRAL test is positive. Which of the following will be useful for this patient?",
         "exp": "P waves -absent with bizarre wide complex q. RS in lead V4, V5, and V6 Tall tented T waves which are seen with hyperkalemia, are present in all the leads. The patient is a diabetic with deranged RFT. Pt. suffering from CKD stage 4-5--> hyperkalemia-Diastolic arrest Hyperkalemia in CKD patients responds to: 1. Dietary restriction of potassium with use of kaliuretic diuretics 2. Potassium-binding resins like calcium resonium and sodium polystyrene 3. Intractable hyperkalemia requires dialysis.",
         "cop": 1,
@@ -195,19 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following statements are true regarding given ECG except:",
-        "exp": "ECG shows Polymorphic ventricular tachycardia ( Torsades de pointes). Uncontrolled Polymorphic VT may precipitate into V. fibrillation. Causes of Polymorphic VT ( Torsades de pointes): Hypomagnesemia Hypokalemia Hypocalcemia SAH Intracranial Hemorrhage Hereditary long QT syndrome. Note Chemical cardioversion: IV Ibutilide is done in Atrial fibrillation and atrial flutter and not in VT",
-        "cop": 3,
-        "opa": "Seen in Hypomagnesemia",
-        "opb": "Seen in hypokalemia",
-        "opc": "Treated with ibutilide",
-        "opd": "Can conve to ventricular fibrillation",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmias 1",
-        "id": "5bcae6d3-77fd-4f88-8b95-525f4da9eca9",
-        "choice_type": "multi"
-    },
-    {
         "question": "An 80-year-old person has developed a PCA territory stroke. On ambulatory Holter he is found to be having atrial fibrillation. What calculation should be used to evaluate for renal insufficiency of the patient?",
         "exp": "Option A: NIHSS Score- evaluation of stroke in a patient. Option B: ABCD2 score- Used in patient who have risk of stroke = In TIA Option C: There is always risk of embolic stroke in A. fibrillation so we prescribe anticoagulants to patient on the basis of CHADS2- Va. Sc score we make decision of Anticoagulation. Option D: Cockcroft Gault formula",
         "cop": 4,
@@ -219,45 +180,6 @@
         "topic_name": "ECG and Arrhythmias 1",
         "id": "005647c5-f774-47c4-947e-3402e2376495",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following lead to AV block except?",
-        "exp": "Myxedema AV node can block Ankylosing spondylitis will not cause av block Lyme disease caused by Borrelia burgdorferi, transmitted by Tick Bite & causes Myocarditis & AV block. Lev's disease= Idiopathic fibrosis of conduction system.",
-        "cop": 2,
-        "opa": "Hypothyroidism",
-        "opb": "Ankylosing spondylitis",
-        "opc": "Lyme disease",
-        "opd": "Lev's disease",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmias 1",
-        "id": "8d4ca520-a6ac-446d-abae-2d362683b1e7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Best management of a hemodynamically stable patient with ECG showing Broad QRS complex with antidromic tachycardia is?",
-        "exp": "Option A: Verapamil can't be given in WPW syndrome, it will block the A-V Node & will be more conduction through Bundal of kent & it'll trigger Antidromic conduction. Option B: Beta Blocker = B not use in emergency. Even if will give iv B, it'll only control HR but it'll not control fast conduction which is occurring in bundle of kent. Option D: IV procainamide, it will reduce conduction speed of bundle of Kent. Option C: Cardioversion= we don't give cardioversion to hemodynamic stable person.",
-        "cop": 4,
-        "opa": "Oral Verapamil",
-        "opb": "Oral Beta-blocker",
-        "opc": "Cardioversion",
-        "opd": "Intravenous Procainamide",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmias 1",
-        "id": "6164673d-021b-474b-994c-2435343ec071",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Increased AV nodal blockade leads to termination of tachycardia in all except?",
-        "exp": "Tachycardia can not be terminated by increased AV nodal blockade in Atrial Flutter because it will be having separate reentry circuit which bypasses the AV node. CAVOTRICUSPID ISTHUMUS DEPENDENT ATRIAL FLUTTER",
-        "cop": 2,
-        "opa": "Atrial tachycardia",
-        "opb": "Atrial flutter",
-        "opc": "AVN",
-        "opd": "Ohodromic AV re-entry",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmias 1",
-        "id": "d93cb66e-7f43-473e-a373-24fdf6a144e5",
-        "choice_type": "multi"
     },
     {
         "question": "Comment on the ECG finding shown below?",
@@ -312,19 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 60-year-old male diabetic and smoker came with 3 hours of substernal pain. Which of the following statements is true regarding his ECG?",
-        "exp": "The heart rate of the patient is about 75 BPM. The current ECG shows presence of ST elevation in lead I, a. VL and the precordial leads V2-V5 suggestive of anterior wall MI Patient should be given lidocaine, in case of post-Ml ventricular tachycardia ST elevation and Tall tented T waves should be present in all leads. P wave should disappear. q. RS should be wide complex. These findings suggestive of HyperK+ not hypoK+",
-        "cop": 2,
-        "opa": "Heart rate is 45/min",
-        "opb": "ECG shows acute anterior myocardial infarction",
-        "opc": "Patient should be given IV lidocaine",
-        "opd": "ECG is suggestive of hypokalemia",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmias 1",
-        "id": "10563096-3663-4dfd-8cc4-a567eecb5ac1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Comment on the diagnosis of the patient based on ECG",
         "exp": "HR of patient is variable. Notice the change in RR interval in lead II. The HR changes from 200 bpm to 150 bpm. Notice the changes in amplitude of P waves which leads to diagnosis as Multifocal atrial tachycardia(MAT). Choice 2 is ruled out as A. fibrillation has an absent P waves Choice 3 is ruled out as Mobitz II heart block has bradycardia Choice 4 is ruled out as Wolf Parkinson white syndrome has Delta waves with broad q. RS complex is not seen",
         "cop": 1,
@@ -362,19 +271,6 @@
         "topic_name": "ECG and Arrhythmias 1",
         "id": "d45cd1ed-b588-4522-a91c-eb01a16da37e",
         "choice_type": "single"
-    },
-    {
-        "question": "An 70 year old lady who had previously had a few attacks of dizziness, fell and broke her hip. She was found to have slow pulse, ECG was performed. Which is the next best step for management of this patient?",
-        "exp": "Image shows ventricular rate of 30/min with no relation between P waves and q. RS complexes. QRS complexes are broad indicating origin from the ventricle and presence of escape rhythm. All these findings indicate presence of complete heart block. She needs a permanent pacemaker. However in the current circumstances she needs ohopaedic surgery --> to reduce moality -> temporary pacemaker should be the next best step.",
-        "cop": 1,
-        "opa": "Temporary pacemaker",
-        "opb": "Permanent pacemaker",
-        "opc": "I. C. D",
-        "opd": "Proceed with hip joint Repair surgery",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmias 1",
-        "id": "06810250-d0cf-4b09-bfed-f98f22dc4073",
-        "choice_type": "multi"
     },
     {
         "question": "Faget sign is:",
@@ -427,19 +323,6 @@
         "topic_name": "ECG and Arrhythmias 1",
         "id": "1e130be2-2715-4b27-8f12-9c6995e849ca",
         "choice_type": "single"
-    },
-    {
-        "question": "This ECG is of a 23 year old medical student who complained of an irregular heabeat. Other than an irregular pulse, his heart was clinically normal. What does the ECG show?",
-        "exp": "The ECG shows a heart rate of 100/min with normal axis. P wave and PR interval are in normal limits. Wide complex q. RS is noted in lead II, III indicating Ventricular extra-systoles or premature ventricular contractions. ST segment and QT interval are within normal limits. In young and asymptomatic individuals extra-systoles do not indicate any significant heart disease.",
-        "cop": 1,
-        "opa": "Venticular Extra-systole",
-        "opb": "Complete heart block",
-        "opc": "Sinus Tachycardia",
-        "opd": "PSVT",
-        "subject_name": "Medicine",
-        "topic_name": "ECG and Arrhythmias 1",
-        "id": "a1dfd8fe-a1cc-41bf-9ca5-dbda9eb8a544",
-        "choice_type": "multi"
     },
     {
         "question": "A 20 year old patient presents with syncope. His current ECG is shown below. His elder brother had died suddenly while watching television. The patient was given Cardioversion and subsequent cardiac MRI revealed fibro-fatty changes in RV myocardium. What is the diagnosis of this patient?",

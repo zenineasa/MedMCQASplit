@@ -1,31 +1,5 @@
 [
     {
-        "question": "All of the following shows positive myoclonus except?",
-        "exp": "Negative myoclonus: Metabolic cause which contributes to development of myoclonus. E. g. Metabolic encephalopathies Variant CJD- stale / reflex myoclonus variant (loud noise causes a myoclonus) Janz syndrome- Juvenile myoclonic epilepsy Hypnogogic jerks: Falling to sleep and sudden jerky movement e. g. while going off to sleep",
-        "cop": 1,
-        "opa": "Hepatic encephalopathy",
-        "opb": "Variant CJD",
-        "opc": "Janz syndrome",
-        "opd": "Salaam seizures",
-        "subject_name": "Medicine",
-        "topic_name": "Epilepsy and EEG",
-        "id": "10075d22-0e89-4fa8-949c-64ffd7b80c34",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 35-year patient recalls episodes where he smells a pungent odor, becomes sweaty and loses consciousness. His family member says while unconscious he was having facial twitching with lip-smacking movements. What is the most probable diagnosis?",
-        "exp": "The patient is exhibiting focal seizures which are accompanied by transient impairment of patient's ability to maintain normal contact with environment. Chewing, lip smacking, swallowing or picking movements of hands are called Automatism. Full recovery after the episode range from seconds to an hour. Due to involvement of temporal lobe, patient was having an abnormal olfactory sense before the episode.",
-        "cop": 1,
-        "opa": "Focal seizures",
-        "opb": "Hysteria",
-        "opc": "Atonic seizures",
-        "opd": "Myoclonic seizures",
-        "subject_name": "Medicine",
-        "topic_name": "Epilepsy and EEG",
-        "id": "543b414e-7103-4b2b-91cc-5545926a9b7d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which drug is suitable for epilepsy related to a brain tumor?",
         "exp": "In epilepsy caused by brain tumor, agent of choice is those drugs that do not induce hepatic microsomal enzyme system. Drugs such as: Levetiracetam Topiramate Lamotrigine Valproic acid Lacosamide.",
         "cop": 1,
@@ -37,19 +11,6 @@
         "topic_name": "Epilepsy and EEG",
         "id": "b7b3ccaa-a55e-40ce-9bb5-85184c5dd8cf",
         "choice_type": "single"
-    },
-    {
-        "question": "A previously well 2-year boy presents with a brief single episode of generalized seizure. There is no past family history of seizures. O/E, child is ale, active, with axillary temperature of 40degC. Except for bilateral tonsillar enlargement there are no other signs or symptoms at this time. What is the best way for management of this patient?",
-        "exp": "The description given is a case of Typical Febrile Seizure which occurs within 24 hours of fever and lasts <10 mins and is usually a single episode per every febrile episode. There is no post ictal deficit. For management: A. Prompt reduction of fever with hydrotherapy B. Semi-prone position with adequate airway C. Rule out meningitis D. Avoid aspirin E. Diazepam or Lorazepam for control of seizures",
-        "cop": 1,
-        "opa": "Immediate reduction of body temperature",
-        "opb": "Intravenous diazepam and phenytoin, followed by a lumbar puncture",
-        "opc": "Institution of phenytoin for maintenance therapy for at least one year",
-        "opd": "Rectal diazepam every 8 hourly for 2-3 days to reduce the risk of recurrence",
-        "subject_name": "Medicine",
-        "topic_name": "Epilepsy and EEG",
-        "id": "53d3c1c2-a959-4cd8-91f8-dd5173dc54c8",
-        "choice_type": "multi"
     },
     {
         "question": "29-year old, pregnant primigravida in 4th month, has a history of Juvenile myoclonic epilepsy. She has been regularly taking sodium valproate and is now seeking an opinion for her anti-epileptic regimen. What would you suggest her?",
@@ -180,32 +141,6 @@
         "topic_name": "Epilepsy and EEG",
         "id": "d3510da7-5b94-4466-9641-fe110c661bf2",
         "choice_type": "single"
-    },
-    {
-        "question": "All are used in early generalized convulsive status epilepticus (GCSE) treatment except?",
-        "exp": "Phenobarbitone is not used for GCSE. Rxfor impending and early SE(5-30 min) IV Benzodiazepines: Lorazepam, Midazolam, Clonazepam IV anti-epileptics: Phenytoin, Valproate or Levetiracetam Rx for established and early refractory SE ( 30 min to 48 hours) IV Midazolam or Propofol Late refractory SE (>48 hours) Pentobarbital or Thiopental",
-        "cop": 1,
-        "opa": "Phenobarbitone",
-        "opb": "Phenytoin",
-        "opc": "Lorazepam",
-        "opd": "Valproate",
-        "subject_name": "Medicine",
-        "topic_name": "Epilepsy and EEG",
-        "id": "0bf79109-eae3-4f09-bcff-fcb514e2c9da",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are primary generalised seizures except",
-        "exp": "Classification of Seizures: Paial Seizures Primarily Generalized seizures Unclassified Seizures - Simple paial seizures (with motor, sensory, autonomic, or psychic signs) - Complex paial seizures - Paial seizures with secondary generalization - Absence (Petit mal) - Tonic- clonic (Grand mal) - Tonic - Atonic - Myoclonic - Neonatal seizures - Infantile spasms",
-        "cop": 4,
-        "opa": "Grand mal epilepsy",
-        "opb": "Myoclonic epilepsy",
-        "opc": "Petitmal epilepsy",
-        "opd": "Infantile spasm",
-        "subject_name": "Medicine",
-        "topic_name": "Epilepsy and EEG",
-        "id": "e4e5c92f-1211-49ba-95b7-412d613075b5",
-        "choice_type": "multi"
     },
     {
         "question": "A 6-year-old child presents with abnormal twitching of the face during sleep, which is noticed by the mother. EEG shows spikes over the centro temporal area. What is the diagnosis?",

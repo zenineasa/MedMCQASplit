@@ -1,18 +1,5 @@
 [
     {
-        "question": "Damage to lower pons, leaving upper pons intact, will result in:",
-        "exp": "Damage to lower pons will damage the apneustic center. This center was causing the breathing to be slow and deep. Upper pons has pneumotaxic center. It causes the breathing to be rapid and shallow. Since this center is intact (and apneustic is damaged), breathing will become shallow and rapid.",
-        "cop": 2,
-        "opa": "Apneusis",
-        "opb": "Rapid, shallow breathing",
-        "opc": "Irregular gasping type of breathing",
-        "opd": "No change in pattern of breathing",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 3",
-        "id": "61773ad6-1bec-4565-952d-31b9ca70080e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Aerial blood gas of a 5 year old child done at sea level gives the following results: pH 7. 41, Pa. O2, 100 mm. Hg, and Pa. CO2, 40 mm. Hg. The child is being ventilated with 80% oxygen. What is the (A-a) DO2.-",
         "exp": "Alveolar air equation: Using the alveolar air equation - PAO2 = - Data: Fraction of O2 in the inspired air = 80% Barometric pressure = 760 mm Hg (sea level) Water vapor pressure = 47 mm Hg Respiratory quotient = 0. 8 Hence, Alveolar PO2 = - = 570. 4 - 50 = 520. 4 mm Hg Aerial PO2 is given = 100 mm Hg Hence, (A - a) DO2 = 520. 4 - 100 = 420. 4 mm Hg",
         "cop": 4,
@@ -91,45 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True regarding peripheral chemoreceptor",
-        "exp": "Peripheral chemoreceptor It responds strongly to decrease O2 in blood. Increase Co2 or aerial H+ ions indirectly stimulates peripheral chemoreceptors, increasing respiratory activity.",
-        "cop": 1,
-        "opa": "Sensitive to hypoxia",
-        "opb": "Sensitive to central PCO2",
-        "opc": "Sensitive to pH",
-        "opd": "None of the above",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 3",
-        "id": "b448a7df-3bdc-4d8a-a642-8adf49d8b8e5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Select the best statement regarding the respiratory centers:",
-        "exp": "The coex can override the function of the respiratory centers, during voluntary hyperventilation, or voluntary breath holding. The other choices are incorrect: The normal rhythmic pattern of breathing originates in the brain stem, not the coex. Expiration is passive during quiet breathing, impulses from the pneumotaxic center inhibit inspiration, and the output from the respiratory centers includes impulses from the spinal cord to the intercostal and other muscles in addition to the phrenic nerves.",
-        "cop": 4,
-        "opa": "The normal rhythmic pattern of breathing originates from neurons in the motor area of the coex",
-        "opb": "During quiet breathing, expiratory neurons fire actively",
-        "opc": "Impulses from the pneumotaxic center can stimulate inspiratory activity",
-        "opd": "The coex of the brain can override the function of the respiratory centers",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 3",
-        "id": "e4279b26-09b8-4e80-a0f0-6d06125644fa",
-        "choice_type": "multi"
-    },
-    {
-        "question": "J-Receptors are present in:",
-        "exp": "J receptors are juxtapulmonary capillary receptors. They are located in the lung interstitium, adjacent to the alveoli (juxta-alveolar). There are 3 receptors present in the trachea-bronchial tree or pulmonary interstitium. The J-receptors are the end-organs located on the unmyelinated C-type vagal fibers. J-receptors are stimulated by mechanical or chemical stimulation in the lung interstitium. They are paicularly sensitive to mechanical events such as edema or congestion in the lungs. When stimulated by such events, they cause apnea, followed by rapid shallow breathing, cardiovascular depression (bradycardia, hypotension), bronchoconstriction, increased airway secretion.",
-        "cop": 4,
-        "opa": "stomach",
-        "opb": "pulmonary capillary walls",
-        "opc": "wall of the trachea",
-        "opd": "pulmonary interstitium",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 3",
-        "id": "9bdbad61-fd77-414e-b7a0-a59ce32b45b7",
-        "choice_type": "multi"
-    },
-    {
         "question": "C02 is carried in blood mainly by:",
         "exp": "C02 transpo occurs in 3 forms: 1. Bicarbonate form (70%) 2. Carbamino compounds (20-25%) 3. Free/dissolved in plasma (5-7%)",
         "cop": 3,
@@ -156,19 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Administration of which of the following will allete respiratory depression caused by opioids, without blocking their analgesic effect?",
-        "exp": "Neurons in the pre-Botzinger complex (medulla) are said to be the pacemaker cells for spontaneous breathing. There are NK1 receptors (for neurokinin 1) and mu-opioid receptors on these neurons. Substance P is known to stimulate these neurons (and hence stimulate respiration; opioids inhibit respiration their action on the mu-receptors. Depression of respiration becomes a limitation for the use of opioids in the management of pain. (mu-receptor antagonist would block the effect of respiratory depression, but it will also block the analgesic effect of opioids.) 5-HT4 receptors have been shown to be present on the Pre-Botzinger neurons. Treatment with 5-HT4 agonists will block the respiratory depressant effect of opioids, without inhibiting their analgesic effect.",
-        "cop": 3,
-        "opa": "Kappa-opioid antagonist",
-        "opb": "Delta-opioid antagonist",
-        "opc": "5-HT agonist",
-        "opd": "Adrenergic agonist",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 3",
-        "id": "eb7607b9-4acb-4775-9641-17f869d8cf3e",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient with severe anemia has normal lungs. You would expect:",
         "exp": "In a patient with severe anemia but normal lungs, the oxygen concentration of aerial blood will be reduced, and therefore, if the cardiac output and oxygen uptake are normal, the oxygen concentration of mixed venous blood will also be reduced. The other choices are incorrect because the aerial PO2 and O2 saturation will be normal if the patient has normal lungs, but of course the aerial oxygen concentration will be reduced, and the tissue PO2 will therefore be abnormally low. Note that a patient with severe anemia usually has some increase in cardiac output, but neveheless, the oxygen concentration of mixed venous blood will be low. As in all these questions, the one best answer is being sought, and this is clearly D. Normal Aerial Po2, |Mixed venous Po2, |2, 3-DPG",
         "cop": 4,
@@ -180,19 +115,6 @@
         "topic_name": "Respiratory System Pa 3",
         "id": "171b73cb-2278-4494-a89a-d30e121fcd1a",
         "choice_type": "single"
-    },
-    {
-        "question": "Concerning the central chemoreceptors, True is:",
-        "exp": "The central chemoreceptors are located near the ventral surface of the medulla; They do not respond to the PO2 of blood; for a given rise in PCO2, The CSF pH falls more than that of blood because the CSF has less buffering. The bicarbonate concentration of the CSF can affect the output of the Central Chemoreceptors by buffering the changes in pH.",
-        "cop": 3,
-        "opa": "They are located near the dorsal surface of the medulla",
-        "opb": "They respond to both the PCO2 and the PO2 of the blood",
-        "opc": "They are activated by changes in the pH of the surrounding extracellular fluid",
-        "opd": "For a given rise in PCO2, the pH of cerebrospinal fluid falls less than that of blood",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 3",
-        "id": "9be54d08-cb16-4a76-9268-ccd7796f3a4d",
-        "choice_type": "multi"
     },
     {
         "question": "Least (A-V )O2 difference is seen in",
@@ -234,19 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Concerning the peripheral chemoreceptors, True is:",
-        "exp": "The peripheral chemoreceptors are responsive to the aerial PO2, but during normoxia, the response is small. The other choices are incorrect. Peripheral chemoreceptors do respond to changes in blood pH, the response to changes in PCO2 is faster than is the case for central chemoreceptors, the central chemoreceptors are more impoant than the peripheral chemoreceptors in the ventilatory response to increased CO2, and peripheral chemoreceptors have a very high blood flow in relation to their mass.",
-        "cop": 2,
-        "opa": "They respond to changes in the aerial PO2 but not pH",
-        "opb": "Under normoxic conditions, the response to changes in PO2 is very small",
-        "opc": "The response to changes in PCO2 is slower than for central chemoreceptors",
-        "opd": "They are the most impoant receptors causing an increased ventilation in response to a rise in PCO2.",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 3",
-        "id": "2be4b2be-ecaf-4726-bd43-23b476a91888",
-        "choice_type": "multi"
-    },
-    {
         "question": "Tachycardia caused by hypoxia is due to:-",
         "exp": "The primary reflex evoked by hypoxic stimulation of carotid chemoreceptor leads to excitation of the medullary vagal center. This will decrease the heart rate There is also a secondary reflex. Hyperventilation caused by hypoxic stimulation of chemoreceptor initiates pulmonary inflation reflex. Stretch receptors in the thorax stimulated by hyperventilation initiate this reflex which will inhibit medullary vagal center. This will result in tachycardia. There is also the effect of hypocapnia produced by hyperventilation; it will also add to the secondary reflex-induced tachycardia.",
         "cop": 4,
@@ -271,18 +180,5 @@
         "topic_name": "Respiratory System Pa 3",
         "id": "dd8e41f4-bcf5-4a7c-89a2-4951b2334200",
         "choice_type": "single"
-    },
-    {
-        "question": "True about ascent to high altitude:",
-        "exp": "Respiratory alkalosis occurs Polycythemia is due to increased erythropoietin Acute mountain sickness develops 8-24 hr after arrival at altitude and lasts 4-8 days. Acute altitude illness: 3 forms Acute mountain sickness (AMS) The pathophysiology of AMS is not well understood. The essential factor responsible for this condition is hypoxemia High altitude cerebral edema (HACE) High altitude pulmonary edema (HAPE)",
-        "cop": 4,
-        "opa": "Respiratory acidosis",
-        "opb": "Polycythemia due to dehydration",
-        "opc": "Acute mountain sickness stas to develop on 7th day of ascent",
-        "opd": "Acetazolamide may be given prophylactically",
-        "subject_name": "Physiology",
-        "topic_name": "Respiratory System Pa 3",
-        "id": "aa416fa4-aeec-4e1b-95c1-88dc92a4a753",
-        "choice_type": "multi"
     }
 ]

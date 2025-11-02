@@ -13,45 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A genetic disorder renders fructose 1, 6 -- bisphosphates in liver less sensitive to regulation by fructose 2, 6 -- bi-phosphate. All of the following metabolic changes are observed in this disorder except:",
-        "exp": "Ans. A. Level of fructose 1, 6--biphosphate is higher than normal. Fructose 2, 6 - biphosphate acts to decrease the activity of fructose 1, 6 - bisphosphates. When the enzyme becomes less sensitive to regulation, the inhibitory effect is lost and the enzyme activity increases. The following effects are observed: a. Level of fructose 1, 6 -- biphosphate decreasesb. Pyruvate is used up for glucose synthesisc. ATP is used up for glucose synthesis",
-        "cop": 1,
-        "opa": "Level of fructose 1, 6--biphosphate is higher than normal",
-        "opb": "Level of fructose 1, 6 -- biphosphate is lower than normal",
-        "opc": "Less pyruvate is formed",
-        "opd": "Less ATP is formed",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "07714d49-402f-4257-a1b0-7abe08d7d9ac",
-        "choice_type": "multi"
-    },
-    {
-        "question": "An eight-month-old female infant presented with recurrent episodes of hypoglycemia, especially if time interval of feeding is increased. Dicarboxylic acid is present in the urine. Urine ketone bodies is negative. The child responded well to IV Glucose, less fat and more carbohydrate diet, frequent feeding. The child was diagnosed to be MCAD deficiency. What is the reason for hypoglycemia?",
-        "exp": "Ans. B. Lack of ATP to support gluconeogenesis* This is a case of MCAD deficiency.* Identifying features are:* Recurrent episodes of hypoglycaemia is time interval of feeding increased* Dicarboxylic acids in urine* Absence of ketone bodies in urine* Reasons for hypoglycemia are:* Due to MCAD deficiency, beta oxidation is affected. This is the source of ATP for gluconeogenesis, when glycogen stores are depleted. So lack of ATP is one reason* Due to lack of acetyl-CoA, which is released by beta oxidation. Acetyl-CoA is the activator of pyruvate carboxylase, one of the key enzymes of gluconeogenesis",
-        "cop": 2,
-        "opa": "Increased dicarboxylic acid inhibit glycogenolysis",
-        "opb": "Lack of ATP to support gluconeogenesis",
-        "opc": "Lack of acetyl-CoA to favour glycogenolysis",
-        "opd": "Glycogen stores are inadequate in infants",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "a0bd58d7-b1af-4e90-95fc-03e2f2b1d99d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Glucose detection can be done by the all except",
-        "exp": "Ans: b (Ferric Chloride rest). Ref: Vasudevan 4th ed/p 191, 102. Ferric chloride test is positive in phenylketonuria and alkaptonuria. A transient blue green colour is seen when ferric chloride is added to the urine. Glucose oxidase test:-It is the most widely used. Used by autoanalysers. Glucose oxidase is very specific and acts only on beta-D-glucose. It is a quantitative test. Follin and Wu method is a reductometric method to estimate glucose colourimetrically. A later modification was Nelson Somogyi method. Dextrostix are strips used in glucometer.",
-        "cop": 2,
-        "opa": "Glucose oxidase",
-        "opb": "Ferric Chloride test",
-        "opc": "Dextrostix",
-        "opd": "Follin and Wu method",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "d50e63ce-9c60-4868-9909-dd2af2788e10",
-        "choice_type": "multi"
-    },
-    {
         "question": "After overnight fasting, levels of glucose transporters reduced in:",
         "exp": "Ans. C. Adipocytes(Ref: Harper 29/e page 158, Harper 30/e page 192)GLUT-4 and Insulin. Glucose uptake into muscle and adipose tissue is controlled by insulin, which is secreted by the islet cells of the pancreas in response to an increased concentration of glucose in the portal blood. In the fasting state, the glucose transporter of muscle and adipose tissue (GLUT-4) is in intracellular vesicles. An early response to insulin is the migration of these vesicles to the cell surface, where they fuse with the plasma membrane, exposing active glucose transporters. These insulin sensitive tissues only take up glucose from the bloodstream to any significant extent in the presence of the hormone. As insulin secretion falls in the fasting state, so the receptors are internalized again, reducing glucose uptake.",
         "cop": 3,
@@ -63,32 +24,6 @@
         "topic_name": "Carbohydrates",
         "id": "46a2a14e-ddf1-471b-8554-e78d94cd338d",
         "choice_type": "single"
-    },
-    {
-        "question": "Patients with diabetes frequently report changing visual acuities when their glucose levels are chronically high. Which of the following could explain the fluctuating acuity with high blood glucose levels?",
-        "exp": "Fluctuating levels of sugars and sugar alcohols in the lens can cause fluctuating visual acuity. With high blood glucose, there would be increased levels of sorbitol in the lens. The lens does not contain mitochondria and cannot use the TCA cycle/electron transport chain to generate energy. Galactitol causes the same problems as sorbitol, but galactitol is derived from galactose, whereas sorbitol is produced from glucose. The patient has high glucose levels, so galactitol would not be expected to accumulate in the lens. Macular degeneration affects the retina, but in this case, it is the lens that is the affected tissue. Reducing fructose levels in the lens would reduce sorbitol levels, which would ease the visual acuity problem, not make it occur.",
-        "cop": 1,
-        "opa": "Increased sorbitol in the lens",
-        "opb": "Decreased fructose in the lens",
-        "opc": "Increased oxidative phosphorylation in the lens",
-        "opd": "Macular degeneration",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "894609c1-46cf-4987-9fbf-d12bd75b2122",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All take place in mitochondria except",
-        "exp": "Ans. is 'b' i. e. EMP pathway Embedem Meyerhof Parnas (EMP) pathway or glycolysis occurs in cytosol. For rest see above question",
-        "cop": 2,
-        "opa": "Fatty acid oxidation",
-        "opb": "EMP pathway",
-        "opc": "Electron transport chain",
-        "opd": "Citric acid cycle",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "5dec934d-3b07-40d9-8434-551bb938aa13",
-        "choice_type": "multi"
     },
     {
         "question": "NADPH used in which pathway-",
@@ -143,19 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "NAD+ reduced by all of the following enzymes except:",
-        "exp": "Ans. D. Succinyl dehydrogenase. Niacin acts as electron acceptor for the following enzymes: Isocitrate dehydrogenase. Alpha ketoglutarate. Malate dehydrogenase",
-        "cop": 4,
-        "opa": "Alpha ketoglutarate dehydrogenase",
-        "opb": "Iso-citrate dehydrogenase",
-        "opc": "Malate dehydrogenase",
-        "opd": "Succinyl dehydrogenase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "4a73f133-21c3-41d2-b92a-b48d61fc8abf",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following enzymes is deficient in Niemann- Pick disease?",
         "exp": "Ans. c (Sphingomyelinase) (Ref. Harper Biochemistry, 26th ed. 203; Table 24-1; OP Ghai 6th ed. 542, 616) Sphingolipidoses. Inheritance. Enzyme Deficient. CNS Involvement. Visceral Involvement1. Fabry disease. XLRAlpha-Galactosidase_+2. Krabbe's disease. ARBeta-Galactosidase++3. Farber disease. ARCeramidase+/--4. Gaucher disease. ARBeta-Glucosidase+/-+5. Metachromatic leukodystrophy. ARSulfatide sulfatase+-6. Niemann-pick disease. ARSphigomyelinase++7. Tay-sachs disease. ARHexosaminidase A+-8. Sandhoff disease. ARHexosaminidase A, B++# NIEMANN-PICK DISEASE- Due to deficiency of sphingomyelinase- Stored material = sphingomyelin- C/f:* Enlarged liver and spleen, * Mental retardation, * Cherry-red spots, * Foam cells in blood, * Pulmonary infiltrates.# GAUCHER'S DISEASE- Due to deficiency of Acid b-Glucosidase- Stored material = Glucosylceramide- C/f:* Enlarged liver and spleen, * MR, * Erosion of long bones (Pathological of bones)* Foam cells in blood.# VON-GIERKE'S DISEASE (Type I - glycogenosis)- Due to deficiency of glu-6-phosphatase- C/f:* Growth retardation, * Liver and kidney enlarged due to increased glycogen content, * Hypoglycemia, * Hyperuricemia, * Hyper lipidemia, and* Lactate acidosis. Selected Lysosomal Storage Diseases. Disorder. Enzyme Deficiency Stored Material. Inheritance. Neurologic. Liver Spleen Enlarg- ment. Skeletal Dysplasia. Ophthalmo- logic. Unique features. Mucopolysaccharidoses (MPS)MPSIHHurleralpha-L-Iduro- nidase Dermatan sulfate Heparan sulfate. ARMental retardation Mental retardation None++++ + + +Corneal clouding. Coarse facies; cardiovascular involvement; joint stiffness. MPS II, Hunter. Iduronate sulfatase. Dermatan sulfate Heparan sulfateX-linked. Mental retardation, less in mild form++++ + + +Retinal degenera- tion, no corneal clouding. Coarse facies; cardiovascular involvement; joint stiffness; distinctive pebbly skin lesions. MPS III A, Sanfilippo AHeparan-N- sulfatase. Heparan sulfate. ARSevere mental retardation++None. Mild coarse facies. MPS III B, Sanfilippo BN-Acetyl-a- glucosaminidase. Heparan sulfate. ARSevere mental retardation++None. Mild coarse facies. MPS III C, Sanfilippo CAcetyl-CoA: a- glucosaminide N-acetyltrans- ferase. Heparan sulfate. ARSevere mental retardation++None. Mild coarse facies. MPS IIID, Sanfilippo DN-Acetylglucosa- mine-6-sulfate sulfatase. Heparan sulfate. ARSevere mental retardation++None. Mild coarse facies. MPS IV A, MorquioN-Acetylgalacto- samine-6-sulfate sulfatase. Keratan sulfate Chondroitin-6 sulfate. ARNone++ + + +Corneal clouding. Distinctive skeletal deformity; odontoid hypoplasia; aortic valve disease. MPS VI B, Morquiob-Galactosidase ARNone+-+ + + + MPS VI, Maroteaux- Lamy. Arylsulfatase BDermatan sulfate. ARNone+++ + + +Corneal clouding. Coarse facies; valvular heart disease. MPS VIIb-Glucuronidase. Dermatan sulfate Heparan sulfate. ARMental retardation, absent in some adults++++++Corneal clouding. Coarse facies; vascular involvement; hydrops fetalis in neonatal form. GM2 Gangliosidoses. Tay-Sachs diseaseb-Hexosamini- dase AGM2 gangliosides. ARMental retardation; seizures; later juvenile form. None. None. Cherry red spot in infantile form. Macro-cephaly; hyperacusis in infantile form. Sandhoff's- diseaseb-Hexosamini- dases A and BGM2 gangliosides. ARMental retardation; seizures+++-Cherry red spot. Macro-cephaly; hyperacusis Neutral Glycosphingolipidoses. Fabry's. Diseasea-Galactosi- dase AGlobotriaosyl- ceramideX-linked. Painful. Acropares- thesias. None. None. Corneal dystrophy, vascular lesions. Cutaneous angiokeratomas; hypo- hydrosis. Gaucher's disease. Acid b-glucosi- dase. Glucosyl- ceramide. ARNone+ + + ++ + + +None. Adult form highly variable. Gaucher's cells in bone marrow; cytopenias++++++++Eye movements+++ + + ++ + + + Niemann- Pick disease A and BSphingomye - linase. Sphingo- myelin. ARMental retardation; seizures+ + + +None Osteopo- rosis. Macular degeneration. Pulmonary infiltrates Lung failure Foam cells in bone marrow. Leukodystrophies. Krabbe's disease. Galactosyl- ceramidase. Galactosy-Iceramide. Galactosyls- phingosine. ARMental retardation. None. None. None. White matter globoid cells. Metachro- matic leukody - strophy. Arylsulfatase ACerebroside sulfate. ARMental retardation; dementia; and psychosis in adult. None. None. Optic atrophy. Gait abnormalities in late infantile form. Multiple sulfatase deficiency. Active site cysteine to C-a formylglycineconverting enzyme. Sulfatides; mucopoly - saccharides. ARMental retardation+++Retinal degeneration. Absent activity of ail known cellular sulfatases. Disorders of Neutral Lipids. Wolman's disease. Acid lysosomal lipase. Cholesteryl esters; triglycerides. ARMild mental retardation+++None. None. Adrenal calcification. Cholesteryl ester storage disease. Acid lysosomal lipase. Cholesteryl esters. ARNone. Hepato - megaly. None. None. Fatty liver disease; cirrhosis. Farber's disease. Acid ceramidase. Ceramide. AROccasional mental retardation+None. Macular degeneration. Arthropathy, subcutaneous nodules. Disorders of Glycogen. Pompe's disease. Acid a-glucosidase. Glycogen. ARNeuromuscular+-None. None. Myocar-diopathy",
         "cop": 3,
@@ -195,32 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "During starvation, brain utilizes -",
-        "exp": "Ans. is 'c' i. e.. Ketone bodies o There is no stored fuel in brainQ, but it utilized 60% of total energy under resting conditionsQ, o Glucose is virtually the sole fuel for the brainQ, except in prolonged starving when ketone bodies are the major sourceQ. o Fatty acids do not serve as fuel for the brain, because they are bound to albumin in plasma; hence cannotcross blood-brain barrier. ORGANFEDFASTINGSTARVATIONBrain. Glucose. Glucose. Ketone bodies. Heart. Fatty acids. Fatty acids. Ketone bodies. Liver. Glucose. Fatty acids. Amino acids. Muscles. Glucose. Fatty acids. Fatty acids & ketone bodies. Adipose tissue. Glucose. Fatty acids. Fatty acids & ketone bodies. RBCs. Glucose. Glucose",
-        "cop": 3,
-        "opa": "Glycogen",
-        "opb": "Fattey acids",
-        "opc": "Ketone bodies",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "ddf2835a-52f5-4d1f-b518-ff2340360714",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The enzymes involved in Phosphorylation of glucose to glucose 6- phosphate are:",
-        "exp": "Ans. D. Both (a) and (b). This is the first regulatory enzyme of Glycolysis. Hexokinase is present in all the tissues whereas Glucokinase is present only in the liver and is regulated by Insulin. It has high km and low affinity for glucose.",
-        "cop": 4,
-        "opa": "Hexokinase",
-        "opb": "Glucokinase",
-        "opc": "Phosphofructokinase",
-        "opd": "Both A. and B.",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "cfbad4d5-1a6c-4c20-9a52-cedc5c87b9ba",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which GLUT transporter facilitates Fructose absorption along the apical side of enterocyte?",
         "exp": "Ans. is 'd' i. e., GLUT 5* Fructose absorption along the apical side of enterocyte is by GLUT 5 transporter. It is an example for facilitated passive diffusion* Fructose absorption along the basolateral side of enterocyte is by GLUT 2 transporter. That is again an example of facilitated passive diffusion. Glucose absorption* Glucose absorption along the apical side is by Sodium Glucose cotransporter 1 (SGLT1)* It is by secondary active transport mechanism* This is primarily why glucose is added to oral rehydration solution.* The purpose of giving oral rehydration solution is to replenish the sodium loss. But we don't just add salt to the solution, we also add glucose. The rationale is that when glucose gets reabsorbed, along with that sodium also gets reabsorbed.* Glucose absorption along the basolateral side is through GLUT 2 transporter* GLUT 2 transporter is an example of facilitated passive diffusion* Galactose absorption also follows the same route. (With the help of SGLT1 along the apical side and GLUT 2 along the basolateral side). Fructose absorption* Fructose absorption along the apical side is by GLUT 5 transporter.* GLUT 5 transporter is an example of facilitated passive diffusion* Fructose absorption along the basolateral side is by GLUT 5 transporter or through GLUT 2 transporter* Thus Fructose absorption along both apical side and basolateral side is by facilitated passive diffusion",
         "cop": 4,
@@ -234,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following steps act as sources of energy in citric acid cycle except -",
-        "exp": "Ans. is 'a' i. e., Citrate synthase* The total number of ATPs obtained in citric acid cycle is 10. S. NOENZYMEREDUCING EQUIVALENTATP EQUIVALENT1. Isocitrate dehydrogenase1. NADH2. 52a ketoglutarate dehydrogenase1 NADH2. 53. Succinyl Co. AATP/GTP14. Succinate dehydrogenase. FADH21. 55. Malate dehydrogenase. NADH2. 5. Total 10* Hence citric acid cycle uses NAD, FAD, ADP and GDP. It does not use NADP as its coenzyme",
-        "cop": 1,
-        "opa": "Citrate synthase",
-        "opb": "Isocitrate dehydrogenase",
-        "opc": "Succinyl thiokinase",
-        "opd": "Succinate dehydrogenase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "8112230c-31f3-4e84-b597-b95fd6cd1b6e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Choose the major fuel that is being used by the chest muscles used during weightlifting.",
         "exp": "We will illustrate, in addition, how biochemical measurements can pinpoint a disorder and allow one to determine which enzyme is functioning improperly. a. Mouth(1). Salivary glands produce a-amylase, which cleaves a-1, 4 bonds between glucose residues in dietary starch. (Pancreatic a-amylase catalyzes the same reaction.)b. Stomach(1). Chief cells produce the proteolytic enzyme pepsin, as its inactive precursor pepsinogen. Pepsin digests proteins. (2). Parietal cells produce hydrochloric acid (HCl) and intrinsic factor. (a). HCl causes pepsinogen (the precursor of pepsin) to cleave itself (autocatalysis), producing pepsin. (b). Intrinsic factor binds dietary vitamin B12 and aids in its absorption. (c). Vitamin B12 is the cofactor for the conversion of homocysteine to methionine and methyl malonyl-CoA to succinyl-Co. Ac. Gallbladder(1). Bile salts, synthesized in the liver from cholesterol, pass through the gallbladder into the intestine, where they aid in lipid digestion. (2). Bilirubin diglucuronide, produced in the liver from bilirubin (the excretory product of heme degradation), passes through the gallbladder into the intestine. d. Pancreas(1). The pancreas produces bicarbonate (HCO3- ), which neutralizes stomach acid as it enters the intestinal lumen. The subsequent increase in pH in the lumen allows more extensive ionization of bile salts (so they serve as better detergents) and increases the activity of digestive enzymes. (2). The pancreas produces digestive enzymes (e. g., trypsin, chymotrypsin, the carboxypeptidases, elastase, a-amylase, lipase). (3). The B (or b) cells of the endocrine pancreas produce insulin (the hormone that stimulates the storage of fuels in the fed state) and the A (or a) cells produce glucagon (the hormone that stimulates the release of stored fuels during fasting). e. Intestine(1). The enzymes from the exocrine pancreas digest food in the intestinal lumen. (2). The intestinal digestive enzymes are bound to the brush borders of intestinal epithelial cells (aminopeptidases, dipeptidases and tripeptidases, lactase, sucrase, maltases, and isomaltases). (3). The absorption of digestive products occurs through the intestinal epithelial cells. (4). The intestinal epithelial cells produce chylomicrons from the digestive products of dietary fat (fatty acids and 2-monoacylglycerols) and secrete the chylomicrons into the lymph. (5). Most bile salts are resorbed in the ileum and recycled by the liver. Only 5% are excreted in the feces. This excretion of bile salts, along with cholesterol secreted by the liver into the gut via the gallbladder, is the major means by which the body disposes of the cholesterol ring structure (sterol nucleus). f. Liver (the enzymic regulation of liver function is summarized in Tables below)(1). Functions of the liver include:(a). Storage of glycogen produced from dietary carbohydrate. (b). Synthesis of very low-density lipoprotein (VLDL), mainly from dietary carbohydrate. (c). Production of high-density lipoprotein, which transfers CII and E apolipoproteins to chylomicrons and VLDL, converts cholesterol to cholesterol esters (via the lecithin-cholesterol acyltransferase reaction), and reduces blood by which cholesterol and cholesterol esters are transported from tissues to the liver (reverse cholesterol transport). (d). Maintenance of blood glucose levels during fasting via glycogenolysis and gluconeogenesis. (e). Production of urea from nitrogen derived, in part, from amino acids because they are being converted to glucose (via gluconeogenesis) during fasting. (f). Production of ketone bodies from fatty acids derived from lipolysis of adipose triacylglycerols during fasting. (g). Synthesis of cholesterol (which is also made in other tissues). (h). Conversion of cholesterol to bile salts. (i). Production of many blood proteins (e. g., albumin, blood-clotting proteins). (j). Production of purines and pyrimidines, which are transported to other tissues via red blood cells. (k). Degradation of purines (to uric acid) and pyrimidines (to CO2, H2 O, and ammonia). (l). Oxidation of drugs and other toxic compounds via the cytochrome P450 system. (m). Conjugation of bilirubin and excretion of bilirubin diglucuronide into the bile. (n). Oxidation of alcohol via alcohol and acetaldehyde dehydrogenases and the microsomal ethanol-oxidizing system (MEOS). (o). Synthesis of creatine (from guanidinoacetate), which is used to produce creatine phosphate, mainly in the muscle and brain. (p). Conversion of dietary fructose to glycolytic intermediates. (2). If liver cell function is compromised (e. g., in viral hepatitis or alcoholic cirrhosis):(a). NH4+, which is toxic (particularly to the central nervous system), increases in the blood. (b). The BUN level decreases because the liver has a decreased capacity to produce urea. (c). Blood glucose decreases because of decreased glycogenolysis and gluconeogenesis. (d). Blood cholesterol levels decrease owing to an inability to produce and secrete VLDL. (e). The production of bile salts decreases. (f). Bilirubin levels increase in the body (causing jaundice) because of reduced conjugation with glucuronic acid. (g). Lysis of damaged liver cells allows enzymes to leak into the blood. 1. Lactate dehydrogenase increases. 2. Alanine aminotransferase increases. 3. Aspartate aminotransferase increases. 4. Alkaline phosphatase increases. (h). Chronic liver problems result in decreased protein synthesis. 1. Serum proteins (e. g., albumin) decrease. 2. VLDL production decreases because of decreased apolipoprotein B-100 and triacylglycerols accumulate in the liver. A fatty liver results. g. Brain(1). Glucose is the major fuel for the brain. (2). The brain can use ketone bodies, but only after 3 to 5 days of fasting when blood ketone body levels are elevated. (3). The brain needs energy to think (i. e., memory involves RNA synthesis), conduct nerve impulses, synthesize neurotransmitters, and so on. h. Red blood cells(1). Red blood cells lack mitochondria, so they have no TCA cycle, b-oxidation of fatty acids, electron transport chain, and other pathways that occur in the mitochondria. (2). Glucose is the major fuel for red blood cells. (a). Glucose is converted to pyruvate and lactate. (3). Red blood cells carry bases and nucleosides from the liver to other tissues. (4). The major function of red blood cells is to carry O2 from the lungs to the tissues and to aid in the return of CO2 from the tissues to the lungs. i. Adipose tissue(1). The major fuel of adipose tissue is glucose. (2). Insulin stimulates the transport of glucose into adipose cells. (3). The function of adipose tissue is to store triacylglycerol in the fed state and release it (via lipolysis) during fasting. (a). In the fed state, insulin stimulates the synthesis and secretion of lipoprotein lipase (LPL), which degrades the triacylglycerols of chylomicrons and VLDL in the capillaries. Fatty acids from these lipoproteins enter adipose cells and are converted to triacylglycerols and stored. Glucose provides the glycerol moiety. (Glycerol is not used because adipose cells lack glycerol kinase.)(b). During fasting, adipocyte triglyceride lipase and hormone-sensitive lipase (phosphorylated and activated via a c. AMP-mediated mechanism) initiate lipolysis in adipose cells. j. Muscle(1). Muscle uses all fuels that are available (glycogen stores, and fatty acids, glucose, ketone bodies, lactate, and amino acids from the blood) to obtain energy for contraction. (2). During fasting, muscle protein is degraded to provide amino acids (particularly alanine) for gluconeogenesis. (3). Creatine phosphate transports high-energy phosphate from the mitochondria to actinomyosin fibers and provides ATP for muscle contraction. (4). Creatinine is produced nonenzymatically from creatine phosphate, and a constant amount (dependent on the body muscle mass) is released into the blood each day and excreted by the kidneys. (5). Muscle glycogen phosphorylase differs from liver phosphorylase but catalyzes the same reaction (glycogen+Pi-glucose-1-phosphate). (6). Insulin stimulates the transport of glucose into muscle cells. k. Heart(1). The heart is a specialized muscle that uses all fuels from the blood. (2). The muscle-brain (MB) isozyme of CK is found in heart muscle. Its release can be used to monitor a heart attackl. Kidney(1). The kidney excretes substances from the body via the urine, including urea (produced by the urea cycle in the liver), uric acid (from purine degradation), creatinine (from creatine phosphate), NH4+ (from glutamine via glutaminase), H2. SO4 (produced from the sulfur of cysteine and methionine), and phosphoric acid. (2). Daily creatinine excretion is constant and depends on the body muscle mass. It is used as a measure of kidney function (the creatinine-clearance rate). (3). Glutaminase action increases during acidosis and produces NH3, which enters the urine and reacts with H+ to form NH4+. NH4+ buffers the urine and removes acid (H+) from the body. (4). Uric acid excretion is inhibited by lead (Pb) and metabolic acids (ketone bodies and lactic acid). High blood uric acid can result in gout. Gout can be caused either by increased production or by decreased excretion of uric acid. Deficiency of the base salvage enzyme hypoxanthine guanine phosphoribosyl transferase in Lesch-Nyhan syndrome results in increased production of uric acid. (5). Kidney dysfunction can lead to increased BUN, creatinine, and uric acid in the blood and decreased levels of these compounds in the urine. (6). During ketoacidosis, ketone bodies are excreted by the kidney, and during lactic acidosis, lactic acid is excreted. (7). Elevated blood glucose levels (over 180 mg/dL) in DM results in the excretion of glucose in the urine. Muscles, particularly those with a preponderance of white fibers, use their glycogen stores when exercising. Weight training is an anaerobic activity, and the muscles will degrade their own glycogen stores to provide glucose for energy. Blood glucose will not become available until the AMP levels increase significantly in the muscle. When Blood Sugar Increases: When Blood Sugar Decreases: Insulin is released, which leads to the dephosphorylation of: Glucagon is released, which leads to the phosphorylation of: PFK-2 (kinase activity now active)PFK-2 (phosphatase activity now active). Pyruvate kinase (now active). Pyruvate kinase (now inactive). Glycogen synthase (now active). Glycogen synthase (now inactive). Phosphorylase kinase (now inactive). Phosphorylase kinase (now active). Glycogen phosphorylase (now inactive). Glycogen phosphorylase (now active). Pyruvate dehydrogenase (now active). Pyruvate dehydrogenase (now inactive). Acetyl-CoA carboxylase (now active). Acetyl-CoA carboxylase (now inactive). Which leads to active. Glycolysis Glycogenolysis. Fatty acid synthesis. Fatty acid oxidation. Glycogen synthesis. Gluconeogenesis Liver Enzymes Regulated by Activation/Inhibition. Enzyme. Activated by. State in Which Active. Phosphofructokinase 1. Fructose 2, 6-bisP, AMPFed. Pyruvate carboxylase. Acetyl-Co. AFed and fasting. Acetyl-CoA carboxylase. Citrate. Fed. Carnitine palmitoyltransferase ILoss of inhibitor (malonyl-CoA). Fasting. Liver Enzymes Regulated by Phosphorylation/Dephosphorylation. Enzyme. Active form. State in Which Active. Glycogen synthase. Dephosphorylated. Fed. Phosphorylase kinase. Phosphorylated. Fasting. Glycogen phosphorylase. Phosphorylated. Fasting. Phosphofructokinase- 2/fructose 2, 6-bisphosphatase (acts as a kinase, increasing fructose2, 6-bisP levels). Dephosphorylated. Fed. Phosphofructokinase-2/fructose 2, 6-bisphosphatase (acts as aphosphatase, decreasing fructose 2, 6-bisP levels). Phosphorylated. Fasting. Pyruvate kinase. Dephosphorylated. Fed. Pyruvate dehydrogenase. Dephosphorylated. Fed",
         "cop": 4,
@@ -258,32 +141,6 @@
         "topic_name": "Carbohydrates",
         "id": "a79eb0b4-9c8e-427f-ba81-b7945fe5bab8",
         "choice_type": "single"
-    },
-    {
-        "question": "The blood levels of glucose, galactose, and fructose were measured in normal persons and in persons with enzyme deficiencies soon after they drank a milk shake made with milk and sugar. Which option below would be Lower in the blood of a person with a lactase deficiency than in a normal person.",
-        "exp": "We will illustrate, in addition, how biochemical measurements can pinpoint a disorder and allow one to determine which enzyme is functioning improperly. a. Mouth(1). Salivary glands produce a-amylase, which cleaves a-1, 4 bonds between glucose residues in dietary starch. (Pancreatic a-amylase catalyzes the same reaction.)b. Stomach(1). Chief cells produce the proteolytic enzyme pepsin, as its inactive precursor pepsinogen. Pepsin digests proteins. (2). Parietal cells produce hydrochloric acid (HCl) and intrinsic factor. (a). HCl causes pepsinogen (the precursor of pepsin) to cleave itself (autocatalysis), producing pepsin. (b). Intrinsic factor binds dietary vitamin B12 and aids in its absorption. (c). Vitamin B12 is the cofactor for the conversion of homocysteine to methionine and methyl malonyl-CoA to succinyl-Co. Ac. Gallbladder(1). Bile salts, synthesized in the liver from cholesterol, pass through the gallbladder into the intestine, where they aid in lipid digestion. (2). Bilirubin diglucuronide, produced in the liver from bilirubin (the excretory product of heme degradation), passes through the gallbladder into the intestine. d. Pancreas(1). The pancreas produces bicarbonate (HCO3- ), which neutralizes stomach acid as it enters the intestinal lumen. The subsequent increase in pH in the lumen allows more extensive ionization of bile salts (so they serve as better detergents) and increases the activity of digestive enzymes. (2). The pancreas produces digestive enzymes (e. g., trypsin, chymotrypsin, the carboxypeptidases, elastase, a-amylase, lipase). (3). The B (or b) cells of the endocrine pancreas produce insulin (the hormone that stimulates the storage of fuels in the fed state) and the A (or a) cells produce glucagon (the hormone that stimulates the release of stored fuels during fasting). e. Intestine(1). The enzymes from the exocrine pancreas digest food in the intestinal lumen. (2). The intestinal digestive enzymes are bound to the brush borders of intestinal epithelial cells (aminopeptidases, dipeptidases and tripeptidases, lactase, sucrase, maltases, and isomaltases). (3). The absorption of digestive products occurs through the intestinal epithelial cells. (4). The intestinal epithelial cells produce chylomicrons from the digestive products of dietary fat (fatty acids and 2-monoacylglycerols) and secrete the chylomicrons into the lymph. (5). Most bile salts are resorbed in the ileum and recycled by the liver. Only 5% are excreted in the feces. This excretion of bile salts, along with cholesterol secreted by the liver into the gut via the gallbladder, is the major means by which the body disposes of the cholesterol ring structure (sterol nucleus). f. Liver (the enzymic regulation of liver function is summarized in Tables below)(1). Functions of the liver include:(a). Storage of glycogen produced from dietary carbohydrate. (b). Synthesis of very low-density lipoprotein (VLDL), mainly from dietary carbohydrate. (c). Production of high-density lipoprotein, which transfers CII and E apolipoproteins to chylomicrons and VLDL, converts cholesterol to cholesterol esters (via the lecithin-cholesterol acyltransferase reaction), and reduces blood by which cholesterol and cholesterol esters are transported from tissues to the liver (reverse cholesterol transport). (d). Maintenance of blood glucose levels during fasting via glycogenolysis and gluconeogenesis. (e). Production of urea from nitrogen derived, in part, from amino acids because they are being converted to glucose (via gluconeogenesis) during fasting. (f). Production of ketone bodies from fatty acids derived from lipolysis of adipose triacylglycerols during fasting. (g). Synthesis of cholesterol (which is also made in other tissues). (h). Conversion of cholesterol to bile salts. (i). Production of many blood proteins (e. g., albumin, blood-clotting proteins). (j). Production of purines and pyrimidines, which are transported to other tissues via red blood cells. (k). Degradation of purines (to uric acid) and pyrimidines (to CO2, H2 O, and ammonia). (l). Oxidation of drugs and other toxic compounds via the cytochrome P450 system. (m). Conjugation of bilirubin and excretion of bilirubin diglucuronide into the bile. (n). Oxidation of alcohol via alcohol and acetaldehyde dehydrogenases and the microsomal ethanol-oxidizing system (MEOS). (o). Synthesis of creatine (from guanidinoacetate), which is used to produce creatine phosphate, mainly in the muscle and brain. (p). Conversion of dietary fructose to glycolytic intermediates. (2). If liver cell function is compromised (e. g., in viral hepatitis or alcoholic cirrhosis):(a). NH4+, which is toxic (particularly to the central nervous system), increases in the blood. (b). The BUN level decreases because the liver has a decreased capacity to produce urea. (c). Blood glucose decreases because of decreased glycogenolysis and gluconeogenesis. (d). Blood cholesterol levels decrease owing to an inability to produce and secrete VLDL. (e). The production of bile salts decreases. (f). Bilirubin levels increase in the body (causing jaundice) because of reduced conjugation with glucuronic acid. (g). Lysis of damaged liver cells allows enzymes to leak into the blood. 1. Lactate dehydrogenase increases. 2. Alanine aminotransferase increases. 3. Aspartate aminotransferase increases. 4. Alkaline phosphatase increases. (h). Chronic liver problems result in decreased protein synthesis. 1. Serum proteins (e. g., albumin) decrease. 2. VLDL production decreases because of decreased apolipoprotein B-100 and triacylglycerols accumulate in the liver. A fatty liver results. g. Brain(1). Glucose is the major fuel for the brain. (2). The brain can use ketone bodies, but only after 3 to 5 days of fasting when blood ketone body levels are elevated. (3). The brain needs energy to think (i. e., memory involves RNA synthesis), conduct nerve impulses, synthesize neurotransmitters, and so on. h. Red blood cells(1). Red blood cells lack mitochondria, so they have no TCA cycle, b-oxidation of fatty acids, electron transport chain, and other pathways that occur in the mitochondria. (2). Glucose is the major fuel for red blood cells. (a). Glucose is converted to pyruvate and lactate. (3). Red blood cells carry bases and nucleosides from the liver to other tissues. (4). The major function of red blood cells is to carry O2 from the lungs to the tissues and to aid in the return of CO2 from the tissues to the lungs. i. Adipose tissue(1). The major fuel of adipose tissue is glucose. (2). Insulin stimulates the transport of glucose into adipose cells. (3). The function of adipose tissue is to store triacylglycerol in the fed state and release it (via lipolysis) during fasting. (a). In the fed state, insulin stimulates the synthesis and secretion of lipoprotein lipase (LPL), which degrades the triacylglycerols of chylomicrons and VLDL in the capillaries. Fatty acids from these lipoproteins enter adipose cells and are converted to triacylglycerols and stored. Glucose provides the glycerol moiety. (Glycerol is not used because adipose cells lack glycerol kinase.)(b). During fasting, adipocyte triglyceride lipase and hormone-sensitive lipase (phosphorylated and activated via a c. AMP-mediated mechanism) initiate lipolysis in adipose cells. j. Muscle(1). Muscle uses all fuels that are available (glycogen stores, and fatty acids, glucose, ketone bodies, lactate, and amino acids from the blood) to obtain energy for contraction. (2). During fasting, muscle protein is degraded to provide amino acids (particularly alanine) for gluconeogenesis. (3). Creatine phosphate transports high-energy phosphate from the mitochondria to actinomyosin fibers and provides ATP for muscle contraction. (4). Creatinine is produced nonenzymatically from creatine phosphate, and a constant amount (dependent on the body muscle mass) is released into the blood each day and excreted by the kidneys. (5). Muscle glycogen phosphorylase differs from liver phosphorylase but catalyzes the same reaction (glycogen+Pi-glucose-1-phosphate). (6). Insulin stimulates the transport of glucose into muscle cells. k. Heart(1). The heart is a specialized muscle that uses all fuels from the blood. (2). The muscle-brain (MB) isozyme of CK is found in heart muscle. Its release can be used to monitor a heart attackl. Kidney(1). The kidney excretes substances from the body via the urine, including urea (produced by the urea cycle in the liver), uric acid (from purine degradation), creatinine (from creatine phosphate), NH4+ (from glutamine via glutaminase), H2. SO4 (produced from the sulfur of cysteine and methionine), and phosphoric acid. (2). Daily creatinine excretion is constant and depends on the body muscle mass. It is used as a measure of kidney function (the creatinine-clearance rate). (3). Glutaminase action increases during acidosis and produces NH3, which enters the urine and reacts with H+ to form NH4+. NH4+ buffers the urine and removes acid (H+) from the body. (4). Uric acid excretion is inhibited by lead (Pb) and metabolic acids (ketone bodies and lactic acid). High blood uric acid can result in gout. Gout can be caused either by increased production or by decreased excretion of uric acid. Deficiency of the base salvage enzyme hypoxanthine guanine phosphoribosyl transferase in Lesch-Nyhan syndrome results in increased production of uric acid. (5). Kidney dysfunction can lead to increased BUN, creatinine, and uric acid in the blood and decreased levels of these compounds in the urine. (6). During ketoacidosis, ketone bodies are excreted by the kidney, and during lactic acidosis, lactic acid is excreted. (7). Elevated blood glucose levels (over 180 mg/dL) in DM results in the excretion of glucose in the urine. Galactose and glucose would be lower in a person with a lactase deficiency because lactose in the milk would not be cleaved to produce galactose and glucose. The sucrose in the diet will produce fructose and glucose in both the person with lactase deficiency and the normal individual; however, the lack of glucose production from lactose will result in a lower blood glucose concentration after the meal for the lactose-intolerant person as compared to the normal person. When Blood Sugar Increases: When Blood Sugar Decreases: Insulin is released, which leads to the dephosphorylation of: Glucagon is released, which leads to the phosphorylation of: PFK-2 (kinase activity now active)PFK-2 (phosphatase activity now active). Pyruvate kinase (now active). Pyruvate kinase (now inactive). Glycogen synthase (now active). Glycogen synthase (now inactive). Phosphorylase kinase (now inactive). Phosphorylase kinase (now active). Glycogen phosphorylase (now inactive). Glycogen phosphorylase (now active). Pyruvate dehydrogenase (now active). Pyruvate dehydrogenase (now inactive). Acetyl-CoA carboxylase (now active). Acetyl-CoA carboxylase (now inactive). Which leads to active. Glycolysis Glycogenolysis. Fatty acid synthesis. Fatty acid oxidation. Glycogen synthesis. Gluconeogenesis Liver Enzymes Regulated by Activation/Inhibition. Enzyme. Activated by. State in Which Active. Phosphofructokinase 1. Fructose 2, 6-bisP, AMPFed. Pyruvate carboxylase. Acetyl-Co. AFed and fasting. Acetyl-CoA carboxylase. Citrate. Fed. Carnitine palmitoyl transferase ILoss of inhibitor (malonyl-CoA). Fasting. Liver Enzymes Regulated by Phosphorylation/Dephosphorylation. Enzyme. Active form. State in Which Active. Glycogen synthase. Dephosphorylated. Fed. Phosphorylase kinase. Phosphorylated. Fasting. Glycogen phosphorylase. Phosphorylated. Fasting. Phosphofructokinase- 2/fructose 2, 6-bisphosphatase (acts as a kinase, increasing fructose2, 6-bisP levels). Dephosphorylated. Fed. Phosphofructokinase-2/fructose 2, 6-bisphosphatase (acts as a phosphatase, decreasing fructose 2, 6-bisP levels). Phosphorylated. Fasting. Pyruvate kinase. Dephosphorylated. Fed. Pyruvate dehydrogenase. Dephosphorylated. Fed",
-        "cop": 4,
-        "opa": "Glucose",
-        "opb": "Galactose",
-        "opc": "Fructose",
-        "opd": "Glucose and galactose",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "90f02354-e565-44d0-bf35-9203eb52fc5f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Pasteur effect is:",
-        "exp": "Ans. D. All of these. The inhibition of glycolysis by oxygen is referred to as Pasteur effect. This is due to inhibition of the enzyme phosphofructokinase by ATP and citrate (formed in the presence of 02).",
-        "cop": 4,
-        "opa": "Inhibition of glycolysis",
-        "opb": "Oxygen is involved",
-        "opc": "Inhibition of enzyme phosphofructokinase",
-        "opd": "All of these",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "e75a121f-a819-472a-9dbe-08cee6b8b4ac",
-        "choice_type": "multi"
     },
     {
         "question": "In Citric acid cycle, which enzyme is inhibited by arsenite-",
@@ -338,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about GIP (Glucose dependent insulinotropic Polypeptide) except:",
-        "exp": "C i. e. GIP inhibits GLP-1. Ref: (Review article by Christensen MB, dan Med J 2016) and for option (d) diabetes, 2009 (Exogenous GIP worsens post prandial hyperglycemia in T2. DM) and for option (b) Inhibition of GIP release by insulin and glucose, diabetes, 1980. Explanation: GIP and GLP-1 (glucagon like peptide -1) are incretin hormones (enhance insulin secretion), also affect glucagon secretion. Secreted by enteroendocrine intestinal k cells upon nutrient stimulation. GIP gene located on chr 17q, structurally related to secretin family. Binds to G protein coupled receptors. GIP acts as a bifunctional blood glucose stabilizing hormone, means it has effects on insulin and glucagon responses highly dependent on blood glucose levels. Other Options. Option (d)GIP has short lived insulinotropic effect in T2. DM, it worsens postprandial hyperglycemia most likely through suppressive effect on GLP 1. Option (b)hu. Inhibition of GIP release by insulin and glucose stimulation. Option (a) and (c)GIP enhances postprandial glucagon and GLP 1 suppresses it. Both share common properties as incretins, but they also possess different biological characteristics. Sulfonylureas and incretins acts synergistically to stimulate insulin secretion, so combination drugs potentially cause hypoglycemia. GIP has many additional actions than insulinotropic activity like: Promote growth of pancreatic beta cell. Stimulate adipogenesis. Increase expression of anti-apoptotic Bcl-2 (resulting in reduced beta cell death). Inhibits gastric acid and pepsin release. Involves in number of c AMP dependent intracellular pathways.",
-        "cop": 3,
-        "opa": "GIP stimulates glucagon release",
-        "opb": "GIP is inhibited by insulin",
-        "opc": "GIP inhibits GLP-1",
-        "opd": "GIP in T2. DM worsens post prandial hyperglycemia",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "517eedc7-5189-416e-a274-e36d1fdf39d0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which test is given positive by Glyceraldehyde?",
         "exp": "Ans. A. Benedicts test. Glyceraldehyde is a monosaccharide. All monosaccharides are reducing sugars. All reducing sugars gives positive Benedict's test. Molisch's test is a general test for all the carbohydrate but it is positive if number of carbons are 5 or more. Glyceraldehyde contains only 3 carbons. Seliwanoff's test is positive for keto sugars. Glyceraldehyde is an aldehyde. Gerhard's test & Rothera's test are positive for ketone bodies.",
         "cop": 1,
@@ -375,19 +219,6 @@
         "topic_name": "Carbohydrates",
         "id": "1db72b24-74d5-4ae5-af3e-c631fa551c7e",
         "choice_type": "single"
-    },
-    {
-        "question": "Phosphofructokinase-I is activated by all except:",
-        "exp": "Ans. D. Citrate(Ref: Harper 31/e page 175 Table 19-1). Enzyme. Inducer. Repressor. Activator. Inhibitor. Hexokinase Glucagon Glucose 6-phosphate. Glucokinase. Insulin. Glucagon Phosphofructokinase-1. Insulin. Glucagon5'AMP, fructose 6-phosphate, fructose 2, 6-bisphosphate, Inorganic Phosphate. Citrate, ATP, glucagon. Pyruvate kinase. Insulin. Glucagon. Fructose 1, 6-bisphosphate, insulin. ATP, Alanine, Glucagon, norepinephrine",
-        "cop": 4,
-        "opa": "5'AMP",
-        "opb": "Fructose 2, 6 Bisphosphate",
-        "opc": "Fructose 6 Phosphate",
-        "opd": "Citrate",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "600f9b49-43be-494b-b5e6-f65ff96b8c8e",
-        "choice_type": "multi"
     },
     {
         "question": "Essential pentosuria occurs due to defect in the metabolic pathway of",
@@ -427,19 +258,6 @@
         "topic_name": "Carbohydrates",
         "id": "77d768cc-69d0-4e73-b531-ea45d2fd6d34",
         "choice_type": "single"
-    },
-    {
-        "question": "A 3-week-old neonate who began vomiting 2 days after birth, usually within 30 minutes after breastfeeding. He also has abdominal distension with enlargement of liver, with jaundice. The consulting doctor did two urine dipstick test, one specific for glucose was negative, second test specific for reducing sugar was positive. What is the diagnosis?",
-        "exp": "Ans. B. Classic Galactosemia. Identifying features* Classic galactosemia is a serious disease with onset of symptoms typically by the 2nd half of the 1st wk of life.* With jaundice, vomiting, seizures, lethargy, irritability, feeding difficulties, poor weight gain or failure to regain birth weight.* Hepatomegaly Oil drop cataracts, Hepatic failure.* Mental retardation.* Demonstrating a reducing substance in several urine specimens collected while the patient is receiving human milk, cows milk, or any other formula containing lactose.* Benedict's Test PositiveQ* Clinistix urine test results are usually negative because the test materials rely on the action of glucose oxidase, which is specific for glucose and is nonreactive with galactose (Glucose Oxidase Test is negative)",
-        "cop": 2,
-        "opa": "Hereditary fructose intolerance",
-        "opb": "Classic galactosemia",
-        "opc": "Essential fructosuria",
-        "opd": "Essential pentosuria",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "6f769e62-28f3-48e9-8476-6e171abf6fbe",
-        "choice_type": "multi"
     },
     {
         "question": "Von Geirke's disease occurs due to deficiency of",
@@ -492,19 +310,6 @@
         "topic_name": "Carbohydrates",
         "id": "b41fb90b-c540-43f4-a670-6edf82ec01e8",
         "choice_type": "single"
-    },
-    {
-        "question": "A 2-week-old neonate with complete hypotonia, convulsions, failure to thrive and metabolic acidosis. The baby has small of burnt sugar in urine. The test called DNPH test is positive. What is the enzyme deficiency in this metabolic disorder?",
-        "exp": "Ans. C. Branched chain keto acid dehydrogenase-Identifying features are early age of presentation with failure to thrive, convulsion, hypotonia-Smell of burnt sugar or caramel odour-Positive DNPH test",
-        "cop": 3,
-        "opa": "Isovaleryl CoA dehydrogenase",
-        "opb": "Dihydrolipoamide dehydrogenase",
-        "opc": "Branched chain keto acid dehydrogenase",
-        "opd": "Transacylase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "7e3b7bd9-6849-40f7-b01f-d6597f1e56a4",
-        "choice_type": "multi"
     },
     {
         "question": "Cancer cells derive nutrition from:",
@@ -572,19 +377,6 @@
         "choice_type": "single"
     },
     {
-        "question": "G-6-PD deficiency causes -",
-        "exp": "Ans. is 'b' i. e., Hemolytic anemia o The enzyme glucose-6-phosphate dehydrogenase (G6. PDQ) may be deficient in some persons, o It is the most common enzyme deficiency seen in clinical practiceQ. The defect is transmitted as x-linkedrecessive trait. o This defect results in impairment of HMP shunt with reduced generation of NADPHQ. o Thus, glutathione can not be reduced as it requires NADPH. o This, in turn, results in red cell hemolysis (hemolytic anemia) in response to oxidative stress.",
-        "cop": 2,
-        "opa": "Leukemia",
-        "opb": "Hemolytic anemia",
-        "opc": "Hemophilia",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "84ed3ac2-d156-4662-9299-0c6c0db5b494",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which enzyme is not present in muscles?",
         "exp": "Ans. C. Glucose-6-phosphatase. Muscle Glycogen function is for muscle contraction. So, when muscle glycogenolysis ends, it ends with glucose-6- phosphate. So that this glucose 6 - Phosphates can directly enter into glycolysis for giving energy for muscle contraction. So therefore, glucose - 6 - phosphatase enzyme is absent in muscles. So that glucose - 6 - Phosphates is the end product of muscle glycogenolysis.",
         "cop": 3,
@@ -596,19 +388,6 @@
         "topic_name": "Carbohydrates",
         "id": "34085169-08ac-4ce8-a4ed-3c8101be87ad",
         "choice_type": "single"
-    },
-    {
-        "question": "Acetyl co-A can he directly converted to all except:",
-        "exp": "Ans. a. Glucose [Ref: Harper 29/e p123, 164, 187-189; Lippincott 4/e p266, 111-112, 220, 96, 119, 192, 195-196 Lehninger 5/e p616-617. 695. 557[Acetyl CoA is not a substrate for gluconeogenesis and cannot be converted back to glucose. \"Acetyl coenzyme A arises from pyruvate (the end product ofaerobic glycolysis) by irreversible oxidative decarboxylation catalyzed by pyruvate dehydrogenase (PDH) complex. \"\"Acetyl CoA is not a substrate for gluconeogenesis and cannot be converted back to glucose. This is because acetyl CoA cannot be converted back to pyruvate since its carbon backbone is lost in citric acid cycle as CO2. \"\"Acetyl CoA is used in oxidative phosphorylation (in TCA cycle) for energy production; in acetylation reaction (coenzyme pantothenic acid) for detoxification and acetyl choline formation. It is also used in cholesterol synthesis, steroidogenesis (steroid hormone and vitamin D} synthesis), lipogenesis (fatty acid synthesis and elongation, synthesis of ether lipids like plasmalogens and PAF) and ketogenesis (ketone body-formation). \"\"Acetyl CoA is a precursor or starting material (and substrate for enzymes) for synthesis of cholesterol and ketone bodies (substrate for H\\fG CoA synthetase) and fatty acid synthesis (= substrate for fatty acid synthase, acetyl CoA carboxylase or malonyl CoA synthetase and malonyl transaeetylase). \"",
-        "cop": 1,
-        "opa": "Glucose",
-        "opb": "Fatty acids",
-        "opc": "Cholesterol",
-        "opd": "Ketone bodies",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "08f9e8cf-806b-4f7d-96fa-633ac1f9afdb",
-        "choice_type": "multi"
     },
     {
         "question": "During prolonged fasting, rate of gluconeogenesis is determined by:",
@@ -715,19 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which is true for glucuronidation:",
-        "exp": "Ans. (b) Phase II reaction. Ref: Harper's Biochemistry, 30 edn. pg. 586 th. METABOLISM OF XENOBIOTICS* In phase 1, the major reaction involved is hydroxylation, catalyzed by enzymes mono-oxygenases or cytochrome P450s. The reactions are:* Hydroxylation# Deamination# Dehalogenation# Desulfuration# Epoxidation# Peroxygenation# Reduction* In phase 2, compounds produced in phase 1 are converted to various polar metabolites by conjugationwith glucuronic acid, sulfate, acetate, glutathione, or certain amino acids, or by methylation.* The overall purpose of the two phases of metabolism of xenobiotics is to increase their water solubility (polarity) and thus excretion from the body. Glucuronidation: UDP Glucuronic acid is the glucuronyl donor, and a variety of glucuronosyl transferases, present in both the endoplasmic reticulum and cytosol, are the catalysts.* Phase II reactions are:# Glucuronidation: is probably the most frequent conjugation reaction.# Sulfation# Conjugation with Glutathione# Acetylation# Methylation",
-        "cop": 2,
-        "opa": "Water solubility is decreased",
-        "opb": "Phase II reaction",
-        "opc": "Phase I reaction",
-        "opd": "Done by CYP enzyme",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "ce7e5faf-08e7-4224-a11d-ba145090da25",
-        "choice_type": "multi"
-    },
-    {
         "question": "The immediate degradation of glycogen under normal conditions gives rise to which one of the following?",
         "exp": "Phosphorylase produces glucose-1-phosphate from glucose residues linked a-1, 4. Free glucose is produced from a-1, 6-linked residues at branch points by an a-1, 6-glucosidase activity of the debranching enzyme. Degradation of glycogen produces glucose-1-phosphate and glucose in about a 10: 1 ratio, which is the ratio of the a-1, 4 linkages to a-1, 6 linkages.",
         "cop": 2,
@@ -765,19 +531,6 @@
         "topic_name": "Carbohydrates",
         "id": "a139ff46-00ca-407c-8113-3622b5eeebaa",
         "choice_type": "single"
-    },
-    {
-        "question": "What is the cycle shown below called? (See Figure)",
-        "exp": "Ans. C. Cori cyclea. The image shows the operation of Cori' cycle. b. Skeletal muscles have a few mitochondria which are capable of vigorous activity, glycogen stores are depleted resulting in muscles operating anaerobically. c. The Cori cycle is a pathway in carbohydrate metabolism that links this anaerobic glycolysis in muscle tissue to gluconeogenesis in the liver.",
-        "cop": 3,
-        "opa": "Embden Meyerhof pathway",
-        "opb": "Pentose phosphate pathway",
-        "opc": "Cori cycle",
-        "opd": "Pyruvate decarboxylation",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "60372339-eaad-4b04-b742-5b38d1e346c4",
-        "choice_type": "multi"
     },
     {
         "question": "Fructose intolerance is due to deficiency of:",
@@ -845,19 +598,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Glucose can be synthesised from all except:",
-        "exp": "Ans. C. Acetoacetate(Ref: Harper 31/e page 172). Substrates for Gluconeogenesis. Glucogenic amino acids. Lactate. Glycerol. Acetyl-CoA, Acetoacetate are not substrates for gluconeogenesis",
-        "cop": 3,
-        "opa": "Amino acids",
-        "opb": "Glycerol",
-        "opc": "Acetoacetate",
-        "opd": "Lactic acid",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "2f1efc6a-9473-4cfa-9556-a7ec1176761f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Glucagon receptors are NOT found in which organ:",
         "exp": "Ans. (a) Cornea. Ref: Harper's Biochemistry, 30 edn. pg. 140th* Glucagon receptors are mainly expressed in liver and in kidney with lesser amounts found in heart, adipose tissue, spleen, thymus, adrenal glands, pancreas, cerebral cortex, and gastrointestinal tract.",
         "cop": 1,
@@ -882,19 +622,6 @@
         "topic_name": "Carbohydrates",
         "id": "aa634dd7-e143-4257-b236-ed744c1734bb",
         "choice_type": "single"
-    },
-    {
-        "question": "Products of HMP shunt are all except:",
-        "exp": "Ans. B. Glycerol-3-PHMP is an alternative method of oxidation of glucose. It is Anabolic and occurs in fed state. It is activated by Insulin. Its main features are: a. No ATP formedb. CO2 is producedc. Occurs in the Liver, Adipose tissue, Lactating mammary glands, Adrenal Cortex. d. Has 2 phases-Oxidative and Non-Oxidative.",
-        "cop": 2,
-        "opa": "Glyceraldehyde 3-P",
-        "opb": "Glycerol-3-P",
-        "opc": "3. CO2",
-        "opd": "6. NADPH",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "6076bad7-29a7-4e55-98be-aa07ab581403",
-        "choice_type": "multi"
     },
     {
         "question": "A baby is hypotonic and shows increased ratio of Pyruvate to Acetyl CoA. Pyruvate cannot form Acetyl CoA in fibroblast. He also shows features of lactic acidosis. Which of the following can revert the situation?",
@@ -962,32 +689,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Cori's cycle is concerned with transport of -",
-        "exp": "Ans. is 'c' i. e., Lactate Cori cycle Q or lactic acid cycleo Anaerobic glycolysis in muscles results in the production of lactate, which cannot be converted into glucose, as gluconeogenesis does not occur in muscles Q. Through blood, lactate is transported to the liver where it is oxidized to pyruvate. Pyruvate so produced, is converted to glucose by gluconeogenesis, which is then transported to the muscle. The glucose thus reformed from lactate again becomes available for energy purpose in skeletal muscle. Glucose-alanine cycle (Cahill cycle)o Because muscle is incapable of synthesizing urea, ct-amino groups of amino acids (i. e., ammonia) has be transported to liver, which is the major site of urea synthesis. Thus, glucose - alanine cycle serves two purposes: (i) alanine helps in gluconeogenesis, and (ii) alanine also transports a-amino groups of amino acids to liver (i. e., excretion of ammonia). Alanine Q is the major amino-acid released from muscle to liver during fasting Q (or starvation) to transport ammonia0 as well as for gluconeogenesis Q",
-        "cop": 3,
-        "opa": "Alanine",
-        "opb": "Glutamate",
-        "opc": "Lactate",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "fb200565-42e9-40a1-af4e-78cc17af3067",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are reducing sugars except",
-        "exp": "Ans: a (sucrose) Ref: Vasudevan 4th ed/ p. 68. Any sugar with free aldehyde/ keto group will reduce the Benedict's reagent and is called a reducing sugar. All reducing sugars will form osazone with excess of phenylhydrazine when kept at boiling temperature. Osazones may be used to differentiate sugars in biological fluids like urine. Examples of reducing sugars:-Glucose. Lactose. Frutose. Maltose. Sucrose and trehalose are not reducing sugars. Note: Benedict's reagent - Sodium bicarbonate, Copper sulphate and sodium ci",
-        "cop": 1,
-        "opa": "Sucrose",
-        "opb": "Lactose",
-        "opc": "Glucose",
-        "opd": "Fructose",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "03bed66c-131e-43ec-88ee-d9bb115180f9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Site of glycolysis -",
         "exp": "Ans. is 'a' i. e., Cytoplasm. Site. Cycle/Reactions. Cytosol. Glycolysis (EMP Cycle), HMP shunt, fatty acid synthesis, glycogenesis, glycogenolysis, Bile acid/Salt synthesis, cholesterol synthesis. Mitochondria. Kreb's cycle (citric acid cycle), Electron transport chain (ECT), Fatty acid oxidation, Ketogenesis. Both cytosol and mitochondria. Gluconeogenesis, Urea cycle. Peroxisomes. Oxidation of very long chain fatty acids. Smooth endoplasmic reticulum. Triglyceride synthesis, Steroid synthesis, cholesterol synthesis, phospholipid synthesis. Rough endoplasmic reticulum (ribosomes). Protein synthesis. Nucleus. DNA and RNA synthesis",
         "cop": 1,
@@ -1012,19 +713,6 @@
         "topic_name": "Carbohydrates",
         "id": "2f7e291a-c3fa-4e2b-9b5f-4341469858fe",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statement is true-",
-        "exp": "Ans. is 'c' i. e., Glucose is a C4 epimer of galactose* Glucose is an aldose. Fructose is a ketose. Hence glucose and fructose are functional isomers (not stereoisomers)* Glucose and mannose are epimers at 2nd position* Glucose and galactose are epimers at 4th position* Ribose is a pentose and fructose is a hexose. Hence they are not isomers* Isomerism is a property by which two or more molecules have the same molecular formula but they have either different structural formula or they differ in spatial orientation of their groups* It is of three types# Functional Isomerism# Stereoisomerism# Optical isomerism. Functional Isomerism:* Here the two molecules have the same molecular formula but different functional groups. In carbohydrates, for every molecular formula, there is a set of aldoses and a set of ketoses. To be more specific, for a molecular formula of C6. H1206, the well known aldose is glucose and the well known ketose is fructose. Stereoisomerism* Here the two molecules have the same molecular formula and the same structural formula, but they differ in spatial orientation of their groups* Stereoisomerism is dependent on the presence of asymmetric carbon atom* The number of stereoisomers present in a molecule with n number of asymmetric carbon atoms is 2nd.* In glucose, other than the functional carbon atom (Cl) and the last carbon atom (C6), the remaining 4 are asymmetric carbon atoms. But once they form a closed ring, even the functional carbon atom becomes asymmetric. Hence there are totally 5 asymmetric carbon atoms in glucose. The number of stereoisomers possible is 25 or 32 for glucose.* In fructose, other than Cl, C6 and the functional carbon atom (C2), remaining 3 are asymmetric carbon atoms. But once fructose forms a closed ring, even the functional carbon atom (C2) becomes asymmetric. Hence there are totally 4 asymmetric carbon atoms and the number of stereoisomers possible for fructose is 24 or 16.* Stereoisomerism is of four types:# Anomerism# Epimerism# Diastereoisomerism# Enantiomerism* Anomerism is a type of stereoisomerism in which two molecules have the same molecular formula and the same structural formula, but they differ in spatial orientation with respect to anomeric carbon atom or the functional carbon atom.# Hence anomerism in glucose is with respect to 1st carbon atom and in fructose, it is with respect to 2nd carbon atom.# In the anomeric or functional carbon atom, if OH lies above the plane of the ring, it is b form. In the anomeric carbon atom if OH lies below the plane of the ring, it is a form.* Epimerism is a type of stereoisomerism in which two molecules have the same molecular formula and the same structural formula but they differ in spatial orientation with respect to one of the asymmetric carbon atoms other than penultimate carbon atom.* In glucose, epimerism is with respect to 2nd or 3rd or 4th carbon atom (As 1st and 6th carbon atoms are symmetric and 5th is the penultimate carbon atom).* Epimer of glucose at 2nd position is mannose.* Epimer of glucose at 4th carbon atom is galactose.* Diastereoisomerism is a type of stereoisomerism in which two molecules have the same molecular formula and the same structural formula but they differ in spatial orientation with respect to one or more of the asymmetric carbon atoms other than penultimate carbon atom.# Mannose and galactose differ with respect to both 2nd and 4th carbon atoms. Hence they are diastereoisomers.* Enantiomerism is a type of stereoisomerism in which two molecules have the same molecular formula and the same structural formula but they differ in spatial orientation with respect to all the carbon atoms and they are named based on the orientation in the penultimate carbon atom. In the penultimate carbon atom, if OH is on the right side, it is D form, if OH is on the left side, it is L form. The other name for enantiomerism is Racemism.* Optical Isomerism is a type of stereoisomerism in which the two molecules have the same molecular formula but they differ in the way they turn the plane polarised light. If an isomer turns the plane polarised light to the right side, it is dextrorotatory form or d or + form. If an isomer turns the plane polarised light to the left side, it is levorotatory or 1 or - form.# D & L are not synonymous with d and 1 forms# Not all D forms are dextrorotatory and L forms are levorotatory# For some molecules, D forms are dextrorotatory and L forms are levorotatory, for some molecules D forms are levorotatory and L forms are dextrorotatory.# Hence they are not synonymous, but they complement each other",
-        "cop": 3,
-        "opa": "Glucose is a ketose",
-        "opb": "Glucose is a C2 epimer of fructose",
-        "opc": "Glucose is a C4 epimer of galactose",
-        "opd": "Ribose and Fructose are epimers",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "65a758b6-3351-4e95-8f1b-94f1d6084584",
-        "choice_type": "multi"
     },
     {
         "question": "Most common enzyme deficiency causing hemolytic anemia?",
@@ -1079,19 +767,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Starch is a:",
-        "exp": "Ans. A. Polysaccharide. Starch is a homo polysaccharide composed of D- glucose units held together by a-glycosidic bonds, (a 1-- 4 linkages; at branching points a 1 -- 6 linkages). It is also known as a glucosan. Hydrolyzed by enzyme amylase. It has two forms: a- amylase present in saliva and pancreatic juice. b-amylase present in sprouted grains and malts.",
-        "cop": 1,
-        "opa": "Polysaccharide",
-        "opb": "Disaccharide",
-        "opc": "Protein",
-        "opd": "None of these",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "93442455-82d5-4d75-ba5a-6941d98f839e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Giucose-6-phosphatase is absent or deficient in:",
         "exp": "Ans. A. Von Gierke's disease. Glycogen Storage Diseases (GSD's) are caused due to deficiency of certain enzymes: Type. Name of the disease. Enzyme deficient. Clinical Features. Type IVon Gierke's disease. Glucose-6-Phosphatase. Hypoglycemia, Ketosis, Hyperuricemia, Hepatomegaly. Type IIPompe's disease. Lysosomal a-1, 4 & 1, 6 glucosidase. Accumulation of glycogen in lysosomes, heart failure. Type IIICori's disease. Debranching enzyme. Accumulation of branched polysaccharide. Type IVAndersen's disease. Branching enzyme. Hypoglycemia, Hepatic failure, Liver Cirrhosis, Ascites. Type VMe. Ardle's disease. Muscle phosphorylase. Muscle cramps on exercise, Pain in muscle, weakness and stiffness of muscle. Type VIHer's disease. Liver phosphorylase. Hypoglycemia, High glycogen content in liver. Type VIITarui's disease. Phosphofructokinase in RBC & Muscle. As in type VType VIIIHepatic phosphorylase kinase deficiency. Liver phosphorylase kinase. As in Type VI",
         "cop": 1,
@@ -1103,19 +778,6 @@
         "topic_name": "Carbohydrates",
         "id": "9b2c6661-306b-42a0-b8b9-030a9382fa70",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following enzymes catalyze irreversible steps in glycolysis EXCEPT:",
-        "exp": "Ans. (c) Enolase. Ref: Harpers Biochemistry, 30 edn. pg. 170-171th. Reversible steps of glycolysis are catalyzed by. Irreversible steps of glycolysis are catalyzed by* Phosphohexose isomerase* Aldolase* Phosphotriose isomerase* Glyceraldehyde 3-phosphate dehydrogenase* Phosphoglycerate kinase* Phosphoglycerate mutase* Enolase* Glucokinase/Hexokinase* Phosphofructokinase-I* Pyruvate kinase",
-        "cop": 3,
-        "opa": "Hexokinase",
-        "opb": "PFK-I",
-        "opc": "Enolase",
-        "opd": "Pyruvate kinase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "3f89d490-b9bf-4656-a544-37d902cc8607",
-        "choice_type": "multi"
     },
     {
         "question": "Seliwanoff's test is positive in:",
@@ -1194,19 +856,6 @@
         "topic_name": "Carbohydrates",
         "id": "c180c3b8-69d1-4dee-a483-073c72ac50c1",
         "choice_type": "single"
-    },
-    {
-        "question": "Which one of the following metabolites is used by all cells for glycolysis, glycogen synthesis, and the hexose monophosphate shunt pathway?",
-        "exp": "Glucose-6-phosphate is common to all pathways. It can be converted to glucose-1-phosphate for glycogen synthesis or go directly into the pentose phosphate pathway or proceed through fructose-6-phosphate in glycolysis. UDP-glucose is formed from glucose-1-phosphate and can be used to form glycogen, lactose, glycoproteins, and glycolipids.",
-        "cop": 2,
-        "opa": "Glucose-1-phosphate",
-        "opb": "Glucose-6-phosphate",
-        "opc": "UDP-glucose",
-        "opd": "Fructose-6-phosphate",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "5f7538ae-bce7-4fa5-91de-37e902164867",
-        "choice_type": "multi"
     },
     {
         "question": "Conversion of fat to glucose is",
@@ -1378,19 +1027,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All the following are increased in fasting except:",
-        "exp": "Ans. D. Glycogenesis(Ref: Harper 31/e page 138). Glycogenesis is increased in well fed state. In Fasting state, Glycogenolysis increase, then gluconeogenesis, lipolysis and Ketogenesis are favoured. These pathways are favoured depending on the duration of fasting.",
-        "cop": 4,
-        "opa": "Lipolysis",
-        "opb": "Ketogenesis",
-        "opc": "Gluconeogenesis",
-        "opd": "Glycogenesis",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "e50b109b-a1c9-4c66-99ae-407152fb396f",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is the precursor of proline in Krebs cycle?",
         "exp": "Ans. is 'b' i. e., a-ketoglutarate * Proline is an alpha aminoacid with a pyrrolidine ring* It is a non polarimino acid with NH as one of its functional groups* It disrupts a helix* It is a nonessential amino acid and is synthesized from a non-essential aminoacid glutamate* Glutamate in the presence of g glutamate kinase gets converted to glutamate 5 phosphate, which in the presence of g glutamate dehydrogenase gets converted to y glutamate semialdehyde, g glutamate semialdehyde spontaneously cyclises to form y pyrroline carboxylate which in the presence of reductase forms proline.* Glutamate is formed from alpha ketoglutarate, an intermediate of citric acid cycle. Hence, the precursor of proline is a ketoglutarate of citric acid cycle* Proline on catabolism gives rise to glutamate and hence alphaketoglutarate and it gets into citric acid cycle to get burnt out as carbondioxide. If need arises, alpha ketoglutarate gets converted to oxaloacetate and through oxaloacetate it gets into gluconeogenesis and hence it is a glucogenicaminoacid. S. NONon essential/ semiessential aminoacid. Source1. Alanine. Pyruvate2. Arginine (also from urea cycle) 3. Proline 4. Histidinea. Ketoglutarate5. Glutamine 6. Glutamate 7. Asparagine. Oxaloacetate8. Aspartate9. Serine3 - Phosphoglycerate10. Glycine. Serine11. Cysteine12. Tyrosine. Phenylalanine",
         "cop": 2,
@@ -1415,19 +1051,6 @@
         "topic_name": "Carbohydrates",
         "id": "3059a055-8c06-4fa7-ac5c-539c634f49f5",
         "choice_type": "single"
-    },
-    {
-        "question": "Glucokinase:",
-        "exp": "Ans. B. Has a high km for glucose and hence is important in the phosphorylation of glucose primarily after ingestion of a carbohydrate rich meal. Glucokinase is present in the liver and helps in clearing of glucose when the concentration of glucose exceeds 100 mg/dl. Hexokinase also phosphorylates glucose and other hexoses sugar. The major differences between glucokinase and hexokinase are: Hexokinase. Glucokinase1. Nonspecific, can phosphorylate any hexose sugar. Specific for glucose only. 2. More stable. Physiologically more labile. 3. Found almost in all the tissues. Found only in the liver. 4. Found in foetal and adult liver. Only found in adult liver. 5. low km, more affinity with glucose. High km, less affinity with glucose. 6. No change with glucose feeding. Increases by feeding glucose. 7. Not influenced by diabetes/fasting. Depressed in fasting/diabetes. 8. No effect of Insulin. Increases",
-        "cop": 2,
-        "opa": "Is widely distributed and occurs in most mammalian tissues",
-        "opb": "Has a high km for glucose and hence is important in the phosphorylation of glucose primarily after ingestion of a carbohydrate rich meal",
-        "opc": "Is widely distributed in Prokaryotes",
-        "opd": "None of these",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "cc70adaa-879d-4139-a762-36d25061ffde",
-        "choice_type": "multi"
     },
     {
         "question": "In glycolysis which of the following is not involved?",
@@ -1599,19 +1222,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In which of the following tissues, is glycogen incapable of contributing directly to blood glucose:",
-        "exp": "Ans. B. Muscle(Ref: Harper 29/e page 180, Harper 31/e page 164). Differences between liver Glycogen and Muscle Glycogen. Features. Liver. Muscle. Total Body Glycogen content. Less. Highest. Percentage by tissue weight. Highest. Less. Regulation of blood glucose. Contributes to blood Glucose. Does not contribute to blood Glucose",
-        "cop": 2,
-        "opa": "Liver",
-        "opb": "Muscle",
-        "opc": "Both",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "00ef157e-aee6-4711-adbb-3b2e92936448",
-        "choice_type": "multi"
-    },
-    {
         "question": "Galactosemia enzyme defect:",
         "exp": "Ans. C. Galactose 1 Phosphate uridyl transferase(Ref: Harper 31/e page 191). Galactosemia. Enzyme Deficiency. Galactose 1 Phosphate uridyl transferase (Classic Galactosemia). Galactokinase. UDP Hexose 4 Epimerase",
         "cop": 3,
@@ -1636,19 +1246,6 @@
         "topic_name": "Carbohydrates",
         "id": "2711744e-573b-45d3-a717-0895293167e5",
         "choice_type": "single"
-    },
-    {
-        "question": "Irreversible steps of Glycolysis are catalysed by:",
-        "exp": "Ans. A. Hexokinase, Phosphofructokinase, Pyruvate Kinase(Ref: Harper 29/e page 171-174, Harper 31/e page 160, 161). Remember: All the Kinases are irreversible except 1, 3 Bisphospho Glycerate Kinase which is reversible.",
-        "cop": 1,
-        "opa": "Hexokinase, Phosphofructokinase, Pyruvate Kinase",
-        "opb": "Glucokinase, Pyruvate Kinase, Glyceraldehyde 3 Phosphate Dehydrogenase",
-        "opc": "Hexokinase, Phospho Glycerate Kinase, Pyruvate Kinase",
-        "opd": "Pyruvate Kinase, Fructose 1, 6 Bisphosphatase, Phospho Fructo. Kinase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "3dee7301-5918-4baf-8e8b-89da45c31f2e",
-        "choice_type": "multi"
     },
     {
         "question": "The reaction catalyzed by phosphofructokinase:",
@@ -1766,19 +1363,6 @@
         "topic_name": "Carbohydrates",
         "id": "1e0058cd-cb88-460a-9e5b-c173864d854a",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is the normal Glucose Tolerance curve?",
-        "exp": "Ans. B. B(Ref: Ganong 24/e page 448). Curve A is Excessive Glucose absorption. Curve B is normal glucose tolerance. Curve C is Liver disease. Horizontal line represent the approximate plasma glucose value at which hypoglycemia appear",
-        "cop": 2,
-        "opa": "A",
-        "opb": "B",
-        "opc": "C",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "d9907b52-0c56-4df4-b0bd-d95ceb073d56",
-        "choice_type": "multi"
     },
     {
         "question": "In humans carbohydrates are stored as:",
@@ -1911,19 +1495,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements regarding T. C. A cycle is true?",
-        "exp": "Ans. D. It is amphibolic in nature. TCA is catabolic as well as anabolic. Catabolic as it produces CO2 and H2 O and anabolic as it is indirectly linked to lipogenesis taking citric acid as the major intermediate.",
-        "cop": 4,
-        "opa": "It is an anaerobic process",
-        "opb": "It occurs in cytosol",
-        "opc": "It contains no intermediates for Gluconeogenesis",
-        "opd": "It is amphibolic in nature",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "1e0adac8-fb56-4208-9a2b-07222656a5e9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Storage form of energy in liver is -",
         "exp": "Ans. is 'a' i. e., Glycogen* Humans carry supplies of fuel within their body. Calories are stored in the body as fat (triglycerides), glycogen and some protein. Provider of energy. Grams. Kilocalories. Plasma glucose1248. Hepatic glycogen70280. Muscle glycogen2801120. Fat (Triglyceride) in adipose tissue13, 000117, 000. Muscle protein10, 00040, 000* Thus, fat in the adipose tissue is the largest reserve of energy in the body, i. e. adipose tissue is the storehouse in the body. However, liver glycogen is the first main provider of energy, for example after absorptive period (when all the dietary glucose is utilized), liver glycogen is the first source of energy. Liver glycogen maintains the blood glucose level between meals.",
         "cop": 1,
@@ -2054,32 +1625,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 1-year-old child, on a routine well child visit, was discovered to have cataract formation in both eyes. Blood test demonstrated elevated galactose and galactitol levels. In order to determine which enzyme might be defective in the child, which intracellular metabolite should be measured?",
-        "exp": "The child has a form of galactosemia. The elevated galactose enters the lens of the eye, is reduced to galactitol, and is trapped. The difference in osmotic pressure across the lens of the eye leads to cataract formation. Galactose is phosphorylated by galactokinase to galactose-1-phosphate, which reacts with UDP-glucose in a reaction catalyzed by galactose-1-phosphate uridylyl transferase to form UDP-galactose and glucose-1-phosphate. An epimerase converts UDP-galactose to UDP-glucose. Deficiencies in either galactokinase (nonclassical) or galactose-1-phosphate uridylyl transferase (classical) result in galactosemia, with elevated levels of galactose and galactitol (reduced galactose) in the blood. An intracellular measurement of galactose-1-phosphate can allow a definitive diagnosis to be obtained (such levels would be nonexistent if the defect were in galactokinase, and the levels would be greatly elevated if the galactose-1-phosphate uridylyl transferase enzyme were defective).",
-        "cop": 4,
-        "opa": "Galactose",
-        "opb": "Fructose",
-        "opc": "Glucose",
-        "opd": "Galactose-1-phosphate",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "e424b6c9-8b65-419a-bb7a-ca86e1f2959a",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Acetyl CoA carboxylase is stimulated by all except-",
-        "exp": "Ans. is 'd' i. e., Acyl Co A* Acetyl coA carboxylase (ACC) is the rate limiting step of fatty acid synthesis.* ACC converts acetyl coA (the building block of fatty acid) to malonylcoA in the presence of ATP (source of energy), Biotin (coenzyme) and bicarbonate (source of CO2)* Acetyl CoA carboxylase is in a monomeric phosphorylated form when it is inactive. In the presence of signals of high energy, monomeric phosphorylated form gets converted into multimeric/ dephosphorylated form and it becomes active.* REGULATION OF ACC:# As ACC is the rate limiting enzyme of an anabolic pathway (Synthesis), it is stimulated by the anabolic hormone insulin. Insulin mediates its enzyme regulation of most of the metabolic pathways through Protein Phosphatase 2A (PP2A). PP2A dephosphorylates and stimulates Acetyl coA carboxylase.# Glucagon being a catabolic hormone, phosphorylates and inactivates ACC (Glucagon acts through protein kinase A and phosphorylates all enzymes)# Apart from being regulated by hormones through covalent modification, ACC is also allosterically regulated by citrate (tricarboxylic acid), Glutamate (diacarboxylicaminoacid), otherdicarboxylic acids & ATP. All these allosteric regulators stimulate the conversion of monomeric inactive ACC to a multimeric active form. Acyl CoA on the other hand, inhibits ACC by converting multimeric active form to monomeric inactive form.",
-        "cop": 4,
-        "opa": "Citrate",
-        "opb": "ATP",
-        "opc": "Insulin",
-        "opd": "Acyl CoA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "b0fe30f7-0eee-4f06-8547-aeae2681654c",
-        "choice_type": "multi"
-    },
-    {
         "question": "In the fed state, major fate of glucose-6-phosphate in tissues is:",
         "exp": "Ans. D. Stored as Glycogen(Ref: Harper 31/e page 136, 137). The uptake of glucose into the liver GLUT 2 is independent of insulin. In the well fed state, the concentration of glucose entering the liver increases, so does the rate of synthesis of glucose-6-phosphate. This is in excess of the liver's requirement for energy-yielding metabolism. So it is used mainly for synthesis of glycogen. In both liver and skeletal muscle, insulin acts to stimulate glycogen synthetase and inhibit glycogen phosphorylase.",
         "cop": 4,
@@ -2117,32 +1662,6 @@
         "topic_name": "Carbohydrates",
         "id": "3582276d-01d5-42ac-90f2-63812d4a9bc0",
         "choice_type": "single"
-    },
-    {
-        "question": "About glycolysis true is:",
-        "exp": "Ans. C. Conversion of Glucose to 3C units(Ref. Harper 3 He page 157). Option a. Glycolysis occur in cytosol. Option b. Complete breakdown of Glucose happens when Pyruvate formed by Glycolysis undergo Pyruvate Dehydrogenase reaction, followed by TCA Cycle. Option d. In anaerobic Glycolysis. Number of ATPs produced is 4. Number of ATPs used is 2. Net ATP yield by anaerobic glycolysis is 2",
-        "cop": 3,
-        "opa": "Occurs in mitochondria",
-        "opb": "Complete breakdown of glucose",
-        "opc": "Conversion of glucose to 3C units",
-        "opd": "3 ATPs are used in anaerobic pathway",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "f1036301-731b-414a-ba4a-7f52e85f77c0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In the test given below to estimate blood glucose, which of the following is true:",
-        "exp": "Ans. B. Glucose oxidase is highly specific for beta anomer of Glucose. The reaction in glucometer is. Glucose+H2 O+O2 -GODGluconicacid+H2 O2 2. H2 O2 +4aminoantipyrine+PHBS-PODQuinoneiminedye+H2 O* This reaction is specific for beta anomer of glucose* Here the first carbon atom is oxidised* This is an example of enzymatic method (Glucose Oxidase Peroxidase method)",
-        "cop": 2,
-        "opa": "Glucose is converted to glucuronic acid",
-        "opb": "Glucose oxidase is highly specific for beta anomer of Glucose",
-        "opc": "The terminal Carbon is oxidised.",
-        "opd": "This is an example of Reducometric method",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "2a480104-ff69-4e01-9c80-173e00e63e65",
-        "choice_type": "multi"
     },
     {
         "question": "Maximum carbohydrate concentration in strict vegetarian diet present is",
@@ -2234,18 +1753,5 @@
         "topic_name": "Carbohydrates",
         "id": "1b726811-7dcf-4903-ac47-8aaa828e8268",
         "choice_type": "single"
-    },
-    {
-        "question": "Insulin is essential for entry of glucose in which of the following tissue:",
-        "exp": "Ans. (c) Skeletal muscles. Ref: Harper's Biochemistry, 30 ed. pg. 191-192th* Insulin increases the number and activity of GLUT 4 receptor. Thereby facilitating the entry of glucose in tissues having GLUT4 receptor.* Tissues with abundant GLUT4 receptor are: Skeletal muscles, Heart and Adipose tissue* Thus among the given choices, skeletal muscle is the one which required for entry of glucose. GLUT receptors, their location and function. Receptor. Location on tissue. Function. GLUT 1. Brain, kidney, colon, placenta, RBC, retina. Glucose uptake. GLUT 2. Liver, pancreatic beta cell, small intestine, Kidney. Rapid uptake or release of glucose. GLUT 3. Brain, kidney and placenta. Glucose uptake. GLUT 4. Heart, skeletal muscles, adipose tissue. Insulin-stimulated glucose uptake. GLUT 5. Small intestine. Absorption of glucose. GLUT 6. Spleen, leukocyte-GLUT 7. Liver, endoplasmic reticulum. Glucose transporter in endoplasmic reticulum",
-        "cop": 3,
-        "opa": "Most neurons in cerebral cortex",
-        "opb": "Renal tubular cells",
-        "opc": "Skeletal muscles",
-        "opd": "Mucosa of small intestine",
-        "subject_name": "Biochemistry",
-        "topic_name": "Carbohydrates",
-        "id": "f0b2de0d-0d45-488b-acad-6cd6b31d57c8",
-        "choice_type": "multi"
     }
 ]

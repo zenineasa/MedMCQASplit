@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements about miltefosine is True?",
-        "exp": "MILTEFOSINE - It is the first oral drug for treatment of kala azar. - 4 weeks course can produce cure rates of more than 95 percent - It can be used for visceral as well as cutaneous leishmaniasis. - It has a very long half life. - Reversible derangements of LFT and KFT have been noted. - Miltefosine is teratogenic and is contraindicated in pregnancy. Female is advised to avoid pregnancy till 3 months after miltefosine course.",
-        "cop": 3,
-        "opa": "It is used only for visceral leishmaniasis",
-        "opb": "A 4 week course produces cure rate of around 65%",
-        "opc": "It is the oral drug for treatment of kala-azar",
-        "opd": "It is safe in pregnancy",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Parasitic Drugs",
-        "id": "f3538c89-4a80-449e-803d-104c74ebf9ca",
-        "choice_type": "multi"
-    },
-    {
         "question": "Select the drug which is used to treat antibiotic associated pseudomembranous enterocolitis and is a component of anti H. pylori triple drug regimen:",
         "exp": "Metronidazole is the drug which is used to treat antibiotic associated pseudomembranous enterocolitis and is a component of anti H. pylori triple drug regimen. PSEUDO-MEMBRANE COLITIS MC organism responsible Clostridium difficile MC cause 3rd Gen. Cephalosporins > clindamycin DOC Metronidazole - Oral vancomycin According to latest guidelines, now oral vancomycin has become DOC for Pseudomembranous colitis.",
         "cop": 3,
@@ -63,32 +50,6 @@
         "topic_name": "Anti-Parasitic Drugs",
         "id": "c7a6a697-b25f-43b6-8537-ddb38cf83355",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements about amoebicides is LEAST accurate?",
-        "exp": "Paromomycin and diloxanide furoate are luminal ameobicides. Paromomycin is an efficacious luminal amoebicide, achieving similar or even better clearing of cysts from stools compared to diloxanidc furoate in asymptomatic cyst passers. It is an aminoglycoside antibiotic which closely resembles neomycin. Metronidazole is the main drug in intestinal ameobiasis. Emetine is a potent and directly acting amoebicide - kills trophozoites but has no effect on cysts. It is a local irrirant and has high systemic toxicity, viz, nausea, vomiting (due to CTZ stimulation and gastric irritation), abdominal cramps, diarrhoea, weakness, stiffness of muscles, myositis, hypotension, ECG changes and myocarditis. Hence it is contraindicated in pregnancy and in patients with cardiac disease.",
-        "cop": 4,
-        "opa": "Diloxanide furoate is a luminal amoebicide",
-        "opb": "Emetine is contraindicated in pregnancy and in patients with cardiac disease",
-        "opc": "Metronidazole has little activity in the gut lumen",
-        "opd": "Paromomycin is effective in extraintestinal amoebiasis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Parasitic Drugs",
-        "id": "3783b822-24da-4592-b4de-43ce00757e46",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Drug of choice for diphyllobothrium latum is",
-        "exp": "Praziquantel is the drug of choice for Diphyllobothrium latum. It is rapidly taken up by susceptible worms and act by causing leakage of intracellular calcium from the membranes producing contracture and paralysis of the worms.",
-        "cop": 3,
-        "opa": "Mebendazole",
-        "opb": "Albendazole",
-        "opc": "Praziquantel",
-        "opd": "Pyrantel pamoate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Parasitic Drugs",
-        "id": "71c5fb5d-dcff-43de-9842-d2976c7d3cee",
-        "choice_type": "multi"
     },
     {
         "question": "Prolonged use of the following drug has been implicated in the causation of subacute myelo-optic neuropathy (SMON):",

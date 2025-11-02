@@ -1,44 +1,5 @@
 [
     {
-        "question": "Which of the following is FALSE about poal vein:",
-        "exp": "Formed behind the neck of pancreas Poal vein ascends behind first pa of duodenum. Bile duct lies anterior and right to it and Gastroduodenal aery lies to the left and anterior to it. Fig:- poal vein",
-        "cop": 4,
-        "opa": "Formed behind the neck of pancreas",
-        "opb": "Bile duct lies anterior and right to it",
-        "opc": "Gastroduodenal aery lies to the left and anterior to it",
-        "opd": "Ascends behind the 2nd pa of duodenum",
-        "subject_name": "Anatomy",
-        "topic_name": "Liver",
-        "id": "42ddeea0-e999-4ae0-8bdb-dc9742660b0c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Poal lobule is formed by:-",
-        "exp": "The microscopic organization of liver cells is grouped into three cell clusters. These are:- 1) Classic hepatic lobules: around the central vein 2) Poal lobules: centre around the poal triads. 3) The liver acinus centers on the pre-terminal transverse vessels and bile ductules derived from the adjacent poal triad.",
-        "cop": 2,
-        "opa": "Central vein in centre and poal triad at periphery",
-        "opb": "Poal triad in centre and central vein at periphery",
-        "opc": "Around the bile ductules",
-        "opd": "None of above",
-        "subject_name": "Anatomy",
-        "topic_name": "Liver",
-        "id": "428f7d0c-521c-4fbe-a459-250d86a91f90",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following segments of liver drains into right hepatic duct EXCEPT:",
-        "exp": "Segment III belongs to left liver and drains bile into left (not right) hepatic duct. Right liver has segment V, VI, VII and VIII which drain into right hepatic duct. Caudate lobe (segment I) drains into both right and left hepatic duct.",
-        "cop": 2,
-        "opa": "I",
-        "opb": "III",
-        "opc": "V",
-        "opd": "VIII",
-        "subject_name": "Anatomy",
-        "topic_name": "Liver",
-        "id": "5a81b1e3-cc5e-4a4f-b6c7-53559503e99f",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient with cryptogenic cirrhosis is scheduled for liver transplant surgery. During the operation rounds, the transplant physician explains to his residents that one of the reasons a surgeon must pay close attention to the anatomic location of the liver is that this organ:",
         "exp": "The liver receives blood from the hepatic aery and poal vein and drains its venous blood into the hepatic veins. The liver manufactures red blood cells in the fetus. The liver plays impoant roles in bile production and secretion. The quadrate lobe drains bile into the left hepatic duct, not the right hepatic duct, whereas the caudate lobe drains bile into the right and left hepatic ducts. The gallbladder functions to concentrate and store bile.",
         "cop": 4,
@@ -50,19 +11,6 @@
         "topic_name": "Liver",
         "id": "08685078-3cab-439c-939b-b4096162c787",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following form boundary of Calot's triangle EXCEPT?",
-        "exp": "Calot's triangle -Boundaries Medial- Common hepatic duct Inferolateral-Cystic duct Superior-cystic aery -Content is lymph node of LUND fig:-calots triangle",
-        "cop": 2,
-        "opa": "Hepatic duct",
-        "opb": "Superior surface of liver",
-        "opc": "cystic aery",
-        "opd": "Cystic duct",
-        "subject_name": "Anatomy",
-        "topic_name": "Liver",
-        "id": "4cbba550-f91b-4e36-a4e2-ec35bd227ec8",
-        "choice_type": "multi"
     },
     {
         "question": "A pediatric surgeon is resecting a possible malignant mass from the liver of a neonate with cerebral palsy. The surgeon divides the round ligament of the liver during surgery. A fibrous remnant of which of the following fetal vessels is severed?",
@@ -78,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which one of the following statements concerning liver sinusoids is true?",
-        "exp": "Liver sinusoids Convey blood to the central vein. Their endothelial cells are fenestrated, Material from the sinusoids may enter the space of Disse through the fenestrae, where it may be endocytosed by hepatocytes. The space of Disse houses Ito cells (fat-storing cells). Because bile is the exocrine secretion of hepatocytes, it does not enter the sinusoids.",
-        "cop": 4,
-        "opa": "Their lining includes Ito cells",
-        "opb": "They receive bile from the hepatocytes",
-        "opc": "They are lined by nonfenestrated endothelial cells.",
-        "opd": "Space of Disse is located between sinusoidal cells and hepatocytes.",
-        "subject_name": "Anatomy",
-        "topic_name": "Liver",
-        "id": "f02c6da1-e6b3-4400-b6a0-c442cda2fb7a",
-        "choice_type": "multi"
-    },
-    {
         "question": "An oncologist is reviewing a CT scan of a 74-year-old man with newly diagnosed hepatocellular carcinoma. He locates the affected quadrate lobe of the liver that:",
         "exp": "QUADRATE LOBE: Quadrangular lobe, present behind 4b, not seen anteriorly. It lies between the gallbladder fossa and the ligamentum teres hepatis, a medial inferior segment, and is a pa of the left lobe. The quadrate lobe of the liver drains bile into the left hepatic duct and receives blood from the left hepatic aery.",
         "cop": 3,
@@ -104,58 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are true about functional divisions of liver EXCEPT:",
-        "exp": "Gray's Anatomy mentions three major fissures (not minor) in the functional division of liver. Functional anatomy of the liver is based on Couinaud's division of the liver into eight functional segments based on the distribution of poal venous branches in the parenchyma. The liver is divided into four poal sectors by the four main branches of the poal vein. These are right lateral, right medial, left medial and left lateral. The three main hepatic veins lie between these sectors as intersectoral veins. These intersectoral planes are also called poal fissures namely: Main, left and right poal fissures. Each functional segment receives its own primary branch of the hepatic aery and hepatic poal vein and is drained by its own hepatic duct.",
-        "cop": 3,
-        "opa": "Based upon poal vein and hepatic vein",
-        "opb": "Divided into 8 segments",
-        "opc": "Three major and three minor fissures",
-        "opd": "4 sectors",
-        "subject_name": "Anatomy",
-        "topic_name": "Liver",
-        "id": "a4b0e90d-6d23-48db-8e44-b4d9891ecfc9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which statement best completes this sentence? The poa hepatis contains:",
-        "exp": "The poa hepatis is a deep fissure in the inferior surface of the liver through which all the neurovascular structures (except hepatic veins) and hepatic ducts enter or leave the liver. The parasympathetic fibers that supply the liver run in the vagus nerve. The hepatic duct lies in front and to the right. The hepatic aery lies anteriorly and to the left, making it the most accessible structure surgically. The poal vein behind and between the duct and aery..",
-        "cop": 4,
-        "opa": "The hepatic aery on the right side.",
-        "opb": "The common hepatic duct posteriorly.",
-        "opc": "The poal vein anteriorly.",
-        "opd": "Parasympathetic fibres from the vagus.",
-        "subject_name": "Anatomy",
-        "topic_name": "Liver",
-        "id": "0fa57674-5ac0-436e-9c25-9eaf554cf88e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "During surgical treatment of poal hypertension in a 59-year-old man with liver cirrhosis, a surgeon inadveently lacerates the dilated paraumbilical veins. The veins must be repaired to allow collateral flow. Which of the following ligaments is most likely severed?",
-        "exp": "The paraumbilical veins and the ligamentum teres hepatis are contained in the free margin of the falciform ligament. The lienorenal ligament contains the splenic vessels and a small poion of the tail of the pancreas. The lienogastric ligament contains the left gastroepiploic and sho gastric vessels. The gastrophrenic ligament contains no named structures. The hepatoduodenal ligament, a pa of the lesser omentum, contains the bile duct, proper hepatic aery, and poal vein in its free margin.",
-        "cop": 4,
-        "opa": "Lienorenal ligament",
-        "opb": "Lienogastric ligament",
-        "opc": "Gastrophrenic ligament",
-        "opd": "Ligamentum teres hepatis",
-        "subject_name": "Anatomy",
-        "topic_name": "Liver",
-        "id": "7d739c9d-4663-4147-8871-37247db51ccd",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about caudate lobe of liver is:-",
-        "exp": "Caudate lobe of liver It lies on the Posterior surface of the liver. Bounded on right by groove for IVC on right by Ligamentum venosum and below by poa hepatis. Caudate lobe is physiologically independent lobe which belongs to both right and left lobe obtain blood supply from both sides and drain bile into both right and left hepatic duct.",
-        "cop": 1,
-        "opa": "It receives blood supply from both right and left hepatic aery",
-        "opb": "It is segment 2 of liver",
-        "opc": "It is situated on anterior surface of liver",
-        "opd": "It lies between aoa and Ligamentum venosum",
-        "subject_name": "Anatomy",
-        "topic_name": "Liver",
-        "id": "c628ddc3-9d31-4f30-b901-31f712b9f9db",
-        "choice_type": "multi"
-    },
-    {
         "question": "Venous drainage of liver into IVC is through:",
         "exp": "The upper group ( right, left and middle) and lower group (variable numbers) of hepatic veins open in vena cava as venous drainage of liver. Poal vein carry venous blood of gut to liver Superior mesentric vein and splenic vein will form Poal vein.",
         "cop": 2,
@@ -167,18 +50,5 @@
         "topic_name": "Liver",
         "id": "063812bd-1f2f-491d-aeef-872e52b242c9",
         "choice_type": "single"
-    },
-    {
-        "question": "A foy year old female visit the hospital with complaint of pain in her right hypochondriac region radiating towards the right shoulder tip. The pain begins after eating food and increases steadily over the period of 10-30 minutes then gradually decreases. She might have:-",
-        "exp": "Most probable diagnosis of this case is cholelithiasis. Cholelithiasis is commonly seen in fat foy feile females. In the given case the patient is experiencing pain after the meals and it increases for the period of 10 mins means during the time of gall bladder contraction to release bile. Gall bladder is supplied by the sympathetic nerves celiac and hepatic plexus. A few twigs from the right phrenic nerve carrying post ganglionic sympathetic fibers reach the gall bladder through the right phrenic and hepatic plexuses. This explains the referred pain of gall bladder inflammation at right shoulder tip.",
-        "cop": 1,
-        "opa": "Cholelithiaisis",
-        "opb": "Peptic ulcer",
-        "opc": "Acute pancreatitis",
-        "opd": "None of the above",
-        "subject_name": "Anatomy",
-        "topic_name": "Liver",
-        "id": "1ad099d8-81c7-4b1f-b0b9-c2f1793ad8a5",
-        "choice_type": "multi"
     }
 ]

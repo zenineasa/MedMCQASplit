@@ -78,19 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Eligible couple is:",
-        "exp": "Eligible couples (ECs): A currently married couple with wife in reproductive age group (15-45 years age) ECs are in need of family planning services There will be atleast 150 - 180 ECs per 1000 population in India EC register is maintained as Sub-centre.",
-        "cop": 3,
-        "opa": "Married couple",
-        "opb": "Married couple with husband in reproductive age group",
-        "opc": "Married couple with wife in reproductive age group",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Definitions & Concepts",
-        "id": "98c29054-a6fa-4eea-b427-a1c214673d85",
-        "choice_type": "multi"
-    },
-    {
         "question": "In a population of 1000, there are 200 eligible couples. 30 out of them use condom, 20 use IUCD, 20 use OC pills while 70 have undergone female sterilization. The rest do not use any method. Calculate Couple protection rate.",
         "exp": "- Given, total eligible couples = 200; eligible couples protected by any of approved methods = 30+20+20+70 =140 - CPR = Total no. of eligible couples protected by any of approved methods/Total no. of eligible couples in the communityx100 =140/200 = 70% Approved methods of Family planning Sterlization IUD Condom Oral pills",
         "cop": 4,

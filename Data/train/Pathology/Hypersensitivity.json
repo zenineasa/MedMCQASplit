@@ -13,32 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following potentially represents the most dangerous situation?",
-        "exp": "* Rh-ve mother with 2nd Rh+ve child can result in the development of hemolytic disease of newborn or erythroblastosis fetalis. So, it is a dangerous condition. * This condition is a type II hypersensitivity reaction. * This is Not to be confused with Hemorrhagic disease of the newborn which is a coagulation disturbance in the newborns due to vitamin K deficiency. As a consequence of vitamin K deficiency there is an impaired production of coagulation factors II, VII, IX, X, C and S by the liver.",
-        "cop": 2,
-        "opa": "Rh+ve mother with 2nd Rh-ve child",
-        "opb": "Rh-ve mother with 2nd Rh+ve child",
-        "opc": "Rh+ve mother with 1st Rh-ve child",
-        "opd": "Rh-ve mother with 1st Rh+ve child",
-        "subject_name": "Pathology",
-        "topic_name": "Hypersensitivity",
-        "id": "f46abde9-5952-4dac-a908-5a5a2c991226",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is not a feature of bronchial asthma?",
-        "exp": "Fibroblastic foci (exuberant proliferation of fibroblasts) is a feature of idiopathic pulmonary fibrosis (IPF). Bronchial asthma is an example of Type I Hypersensitivity reaction and is characterised by airway remodeling which includes: Thickening of bronchial wall with hyperophy and/or hyperplasia of bronchial smooth muscles Increase in size of submucosal glands and number of goblet cells Increased vascularity Sub-basement membrane fibrosis (due to deposition of type I and III collagens) Key points - Sputum findings in bronchial asthma: Curshmann spirals - impacted mucin plugs Charcot Leyden crystals - Eosinophil crushing aefact Creola bodies - damaged respiratory epithelial cells",
-        "cop": 3,
-        "opa": "Thickening of bronchial wall",
-        "opb": "Increase in number of airway goblet cells",
-        "opc": "Fibroblastic foci",
-        "opd": "Sub-basement membrane fibrosis",
-        "subject_name": "Pathology",
-        "topic_name": "Hypersensitivity",
-        "id": "44079503-d493-4bf0-9d2c-138ea067b46f",
-        "choice_type": "multi"
-    },
-    {
         "question": "First line of defence against tumour and virus?",
         "exp": "NK cells Ability to kill virus-infected cells and tumor cells NK cells act as an early line of defense against viral infections and some tumors. Two cell surface molecules, CD16 and CD56, are commonly used to identify NK cells. CD16 is an Fc receptor for IgG, and it confers on NK cells the ability to lyse IgG-coated target cells. This phenomenon is known as antibody-dependent cell-mediated cytotoxicity (ADCC). The functional activity of NK cells is regulated by a balance between signals from activating and inhibitory receptors NK cell inhibitory receptors recognize self-class I MHC molecules, which are expressed on all healthy cells. The inhibitory receptors prevent NK cells from killing normal cells. Virus infection or neoplastic transformation often enhances expression of ligands for activating receptors and at the same time reduces the expression of class I MHC molecules.",
         "cop": 1,
@@ -104,19 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is secreted by classically activated macrophages (M1)?",
-        "exp": "Classically activated macrophages (M1 cells) produce Interleukin (IL)-1 IL-12 IL-23 Chemokines Reactive oxygen species Nitric oxide Lysosomal enzymes",
-        "cop": 1,
-        "opa": "IL-1",
-        "opb": "IL-2",
-        "opc": "IL-4",
-        "opd": "IL-3",
-        "subject_name": "Pathology",
-        "topic_name": "Hypersensitivity",
-        "id": "5ac33274-00fa-4742-86bd-54b3042d6d22",
-        "choice_type": "multi"
-    },
-    {
         "question": "During the physical examination of a 22-year-old man, a purified protein derivative isolated from Mycobacterium tuberculosis is injected into the skin. Three days later, the injection site appears raised and indurated. Which of the following glycoproteins was directly involved in antigen presentation during the initiation phase of delayed hypersensitivity in this patient?",
         "exp": "Delayed-type hypersensitivity is defined as a tissue reaction involving lymphocytes and mononuclear phagocytes, which occurs in response to a soluble protein antigen and reaches greatest intensity 24 to 48 hours after initiation. In the initial phase, foreign protein antigens or chemical ligands interact with accessory cells bearing class II HLA molecules. Protein antigens are actively processed into sho peptides within phagolysosomes and are presented on the cell surface in conjunction with the class II HLA molecules. Diagnosis: Delayed-type hypersensitivity",
         "cop": 4,
@@ -154,18 +115,5 @@
         "topic_name": "Hypersensitivity",
         "id": "51c7f3dc-ab96-4d53-9812-91e1631cb959",
         "choice_type": "single"
-    },
-    {
-        "question": "The tuberculin test is associated with all of the following except:",
-        "exp": "Tuberculin test/ Mantoux test: The PPD test determines if someone has developed an immune response to the bacterium that causes tuberculosis. The standard recommended tuberculin test is the Mantoux test, which is administered by injecting a 0. 1 mL of liquid containing 5 TU (tuberculin units) PPD (purified protein derivative) into the top layers of skin of the forearm. Doctors should read skin tests 48-72 hours after the injection. The basis of the reading of the skin test is the presence or absence and the amount of induration (localized swelling). A negative test does not always mean that a person is free of tuberculosis. A person who received a BCG vaccine against tuberculosis may also have a positive skin reaction to the TB test. A positive tuberculin skin test result signifies cell-mediated hypersensitivity to tubercular antigens, but does not differentiate between infection and disease. False-negative reactions (or skin test anergy) may be produced by ceain viral infections, sarcoidosis, malnutrition, Hodgkin lymphoma, immunosuppression, and (notably) overwhelming active tuberculous disease. False positive reactions may result from infection by atypical mycobacteria.",
-        "cop": 3,
-        "opa": "Indicates the cell mediated immunity against the bacteria",
-        "opb": "Likely to be positive in prior exposure to mycobacteria",
-        "opc": "Can distinguish between infection and disease",
-        "opd": "May be false negative in immunosuppression",
-        "subject_name": "Pathology",
-        "topic_name": "Hypersensitivity",
-        "id": "9a4ba3d1-a238-4776-8c21-32fd71b0f21a",
-        "choice_type": "multi"
     }
 ]

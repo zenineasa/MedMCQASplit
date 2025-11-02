@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statement is wrong about morphine use?",
-        "exp": "Head injury is an absolute contra-indicatio for the use of morphine as it can lead to Marked respiratory depression Increased ICT by retaining CO2 Miosis, vomiting and altered mentation.",
-        "cop": 2,
-        "opa": "It can be used in Hypotension but with caution",
-        "opb": "It can be used in Head injury",
-        "opc": "It can be used in diabetes mellitus",
-        "opd": "Myocardial infarction is an impoant indication to use morphine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Opioids and Alcohols",
-        "id": "05f123e8-0771-4e10-beac-90d2bc016f50",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient Manoj with severe pain thought to be of gastrointestinal origin received 60 mg of meperidine subsequent to which he developed reaction characterized by tachycardia, hypertension, hyperpyrexia and seizures. He gave the history that he is also taking some medicine for his psychiatric condition. Which of the following drug can be held responsible for this so of reaction?",
         "exp": "Meperidine (pethidine) is metabolized mainly to meperidinic acid (inactive) by MAO inhibitors. Minor pathway is conversion to nor-meperidine (possesses excitatory propeies and shows cumulation) MAO inhibitors like phenelzine inhibits the major pathway; therefore minor pathway assumes impoance resulting in generation of nor-pethidine that can cause seizures. Long term use of meperidine can result in accumulation of normeperidine and thus seizures can occur.",
         "cop": 4,
@@ -104,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Opioid drug given by the above route is:",
-        "exp": "The route shown in above image is transbuccal route and the drug given through this route is Fentanyl",
-        "cop": 3,
-        "opa": "Sulfentanil",
-        "opb": "Remifentanil",
-        "opc": "Fentanyl",
-        "opd": "Alfentanil",
-        "subject_name": "Pharmacology",
-        "topic_name": "Opioids and Alcohols",
-        "id": "997fceff-8f8d-4729-b5a8-20924129efa7",
-        "choice_type": "multi"
-    },
-    {
         "question": "Morphine is used in the treatment of:-",
         "exp": "These are used as analgesic agents. Visceral, dull and constant pain is relieved more effectively than inflammatory pain. Opioids are however contraindicated in biliary colic. Morphine (i. v.) is useful in myocardial infarction as well as in pulmonary edema due to acute left ventricular failure.",
         "cop": 3,
@@ -156,32 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Use of morphine should be avoided in all of the following patients EXCEPT?",
-        "exp": "Morphine is used for the treatment of myocardial infarction (ischemic heart disease) and LVF. Morphine is contra-indicated in extremes of age i. e., very young and elderly persons. It is also contra-indicated in bronchial asthma because it can cause respiratory depression and worsen the condition. By increasing intrabiliary pressure, morphine can worsen the pain of biliary colic.",
-        "cop": 1,
-        "opa": "Ischemic heart disease patients",
-        "opb": "Bronchial asthma patients",
-        "opc": "Elderly male patients",
-        "opd": "Biliary colic patients",
-        "subject_name": "Pharmacology",
-        "topic_name": "Opioids and Alcohols",
-        "id": "1ac9c4a6-b9bb-474f-a7f8-a641a17578f9",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Patients should be cautioned not to consume alcohol when given a prescription for any of the following EXCEPT:",
-        "exp": "Drugs showing disulfiram like reaction with alcohol are: Cefamandole, Cefoperazone, Cefotetan Moxalactam Chlorpropamide Metronidazole Griseofulvin Procarbazine",
-        "cop": 1,
-        "opa": "Cefixime",
-        "opb": "Cefoperazone",
-        "opc": "Chlorpropamide",
-        "opd": "Metronidazole",
-        "subject_name": "Pharmacology",
-        "topic_name": "Opioids and Alcohols",
-        "id": "f51e4df2-d47f-4fda-be38-bb0ed465879d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Long term use of pethidine is avoided because a metabolite of pethidine is associated with:",
         "exp": "Pethidine is mainly metabolized by hydrolysis to meperidinic acid but a minor pathway of metabolism involving methylation to nor-pethidine is also present. In overdose of pethidine, this minor pathway assumes impoance and there is accumulation of nor-pethidine. This compound possesses excitatory propeies and can lead to tremors, mydriasis, delirium, myoclonus and convulsions.",
         "cop": 3,
@@ -219,18 +167,5 @@
         "topic_name": "Opioids and Alcohols",
         "id": "6095a0a0-47ca-443b-a918-7fcab76ae039",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following effects are produced by mu opioid receptor except?",
-        "exp": "Effects of Mu opioid receptor activation results in S- Sedation A- Analgesia C- Constipation R- Respiratory depression U- e. Uphoria M- Miosis",
-        "cop": 1,
-        "opa": "Tachycardia",
-        "opb": "Miosis",
-        "opc": "Sedation",
-        "opd": "Euphoria",
-        "subject_name": "Pharmacology",
-        "topic_name": "Opioids and Alcohols",
-        "id": "bd621174-07e9-4af5-89da-25ce267bb233",
-        "choice_type": "multi"
     }
 ]

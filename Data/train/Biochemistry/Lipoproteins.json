@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true about Cholesterol Ester Transfer Protein(CETP), EXCEPT:",
-        "exp": "Cholesterol ester transfer protein (CETP): Facilitates the transfer of cholesterol ester from HDL to VLDL, IDL and LDL in exchange for triacylglycerol. Relieves the product inhibition of the LCAT enzyme.",
-        "cop": 4,
-        "opa": "Associated with HDL",
-        "opb": "Facilitates the transfer of cholesterol ester from HDL to LDL",
-        "opc": "Facilitates the transfer of triacylglycerol from LDL to HDL",
-        "opd": "Facilitates the transfer of triacylglycerol from HDL to LDL",
-        "subject_name": "Biochemistry",
-        "topic_name": "Lipoproteins",
-        "id": "3bc487df-97f4-4e75-af7e-ce46ab5e1969",
-        "choice_type": "multi"
-    },
-    {
         "question": "In Coronary aery disease the cholesterol level (mg/dl) recommended is:",
         "exp": "In Coronary Aery Disease (CAD) the cholesterol level (mg/dl) recommended is below 200. Desirable High risk of Heart disease Total cholesterol <200 > 240 HDL > 60 <40 LDL <100 >200 TG <150",
         "cop": 1,
@@ -76,19 +63,6 @@
         "topic_name": "Lipoproteins",
         "id": "654a7099-1279-421d-a06f-7ceb59b6c348",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following are involved in the reverse cholesterol transpo, except:",
-        "exp": "Reverse cholesterol transpo: High-density lipoprotein (HDL) mediated return of cholesterol from extrahepatic tissues to the liver. Major proteins & Enzymes involved: ABCA1 & ABCG1 Lecithin: cholesterol acyltransferase Cholesteryl Ester Transfer Protein (CETP) SR-B1 Lipoprotein lipase is involved in the breakdown of triglycerides form chylomicron and VLDL.",
-        "cop": 4,
-        "opa": "ABCA1",
-        "opb": "ABCG1",
-        "opc": "LCAT",
-        "opd": "Lipoprotein lipase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Lipoproteins",
-        "id": "54e4bc69-82d4-4d16-b00d-1ff07e143986",
-        "choice_type": "multi"
     },
     {
         "question": "Lipoprotein (a) resembles:",
@@ -195,19 +169,6 @@
         "choice_type": "single"
     },
     {
-        "question": "HDL3 is conveed to HDL2 by:",
-        "exp": "LCAT (Lecithin Cholesterol Acyl Transferase) conves nascent discoidal HDL into HDL-3 (spherical HDL). Fuher, HDL-3 is conveed to HDL-2 by LCAT.",
-        "cop": 2,
-        "opa": "CETP",
-        "opb": "LCAT",
-        "opc": "Both",
-        "opd": "PLTP",
-        "subject_name": "Biochemistry",
-        "topic_name": "Lipoproteins",
-        "id": "b2815b2c-240f-4743-a815-bbc3a9e704b6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Dietary cholesterol is transpoed from intestine to liver by:",
         "exp": "Dietary cholesterol is transpoed from intestine to liver with the help of Apo-E Dietary lipids (TG +cholesterol) is transpoed from intestine to blood chylomicron. Chylomicron acquires apo E from HDL in circulation. They later get conveed to chylomicron remnants after the action of lipoprotein lipase. Apo-E is the ligand for chylomicron remnants for uptake by liver which brings dietary cholesterol from the intestine to the liver. Even though chylomicron contain Apo B48 mainly, but uptake of chylomicron remnant in liver is due to Apo E. Therefore, Apo E is the answer here.",
         "cop": 4,
@@ -271,19 +232,6 @@
         "topic_name": "Lipoproteins",
         "id": "94ace830-3b56-447d-9db8-8ee793eff896",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following disorders are inherited in autosomal recessive mode, except:",
-        "exp": "All Sphingolipidoses are autosomal recessive except Fabry's which is X- linked recessive Neutral glycosphingolipidoses Disease Deficiency Accumulation Clinical Feature Fabry's disease a-Galactosidase Globotriaosylceramide X-linked recessive Renal failure, Angiokeratomas No Mental retardation Gaucher's disease b-Glucosidase Glucosylceramide No Mental retardation Hepatosplenomegaly, Osteoporosis Niemann-Pick disease Sphingomyelinase Sphingomyelin Mental retardation, Hepatosplenomegaly, death during infancy Sandhoff's disease Hexosaminidase A and B Globoside Macrocephaly Hyperacusis Cherry-red spot",
-        "cop": 4,
-        "opa": "Sandhoff's disease",
-        "opb": "Niemann-Pick disease",
-        "opc": "Gaucher's disease",
-        "opd": "Fabry's disease",
-        "subject_name": "Biochemistry",
-        "topic_name": "Lipoproteins",
-        "id": "356414e2-4e63-4499-9049-f13affb74bb4",
-        "choice_type": "multi"
     },
     {
         "question": "Action of lipoprotein lipase:",

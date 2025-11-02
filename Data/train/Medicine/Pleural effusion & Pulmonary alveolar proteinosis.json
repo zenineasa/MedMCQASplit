@@ -1,18 +1,5 @@
 [
     {
-        "question": "All of the following are causes of hemorrhagic pleural effusion except?",
-        "exp": "Hemorrhagic pleural fluid may result from: Trauma Malignancy Post-pericardiotomy syndrome Asbestos-related effusion Pulmonary embolism Tuberculosis Sub-phrenic disease",
-        "cop": 2,
-        "opa": "Pulmonary embolism",
-        "opb": "Rheumatoid ahritis",
-        "opc": "Pancreatitis",
-        "opd": "TB",
-        "subject_name": "Medicine",
-        "topic_name": "Pleural effusion & Pulmonary alveolar proteinosis",
-        "id": "5f9f8bba-1f70-4d1f-97e3-5f9b293bc046",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following conditions may lead to exudative pleural effusions?",
         "exp": "Common causes of exudates include: Para-pneumonic effusion. Malignancy (lung or breast cancer, lymphoma, leukemia) Pulmonary embolism Collagen-vascular conditions Tuberculosis Pancreatitis Trauma Post-cardiac injury syndrome Esophageal perforation Meig's syndrome (benign pelvic neoplasm with associated ascites and pleural effusion) Ovarian hyperstimulation syndrome Asbestos-related pleural disease",
         "cop": 4,
@@ -39,32 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Pleural effusion in rheumatoid ahritis is typically associated with all of the following features except?",
-        "exp": "Since Rheumatoid ahritis is an inflammatory disease, the rheumatoid effusion is an exudate and is known to have glucose of less than 60mg/dL. Malignancy and bacterial infections (empyema) can also present with low pleural fluid sugar.",
-        "cop": 1,
-        "opa": "Glucose > 620 mg/dl",
-        "opb": "Protein> 3 gm/dl",
-        "opc": "Pleural fluid protein to serum protein ratio of > 0. 5",
-        "opd": "Pleural fluid LDH to serum LDH ratio of >0. 6",
-        "subject_name": "Medicine",
-        "topic_name": "Pleural effusion & Pulmonary alveolar proteinosis",
-        "id": "cd002662-6b4b-4a15-8867-9ee1a8431695",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are components of Light's criteria for pleural effusion except:",
-        "exp": "LIGHT CRITERIA Pleural fluid protein/Serum protein >0. 5 Pleural fluid LDH/Serum LDH >0. 6 Pleural fluid LDH more than two-thirds normal upper limit for serum Exudative pleural effusions meet at least one of the following criteria, whereas transudative pleural effusions meet none These criteria misidentify ~25% of transudates as exudates.",
-        "cop": 4,
-        "opa": "Effusion protein/serum protein ratio greater than 0. 5",
-        "opb": "Effusion lactate dehydrogenase (LDH)/serum LDH ratio greater than 0. 6",
-        "opc": "Effusion LDH level greater than two-thirds the upper limit of the laboratory's reference range of serum LDH",
-        "opd": "Effusion sugar is less than 2/3rd of blood sugar",
-        "subject_name": "Medicine",
-        "topic_name": "Pleural effusion & Pulmonary alveolar proteinosis",
-        "id": "ff84e471-9116-4eff-b430-55e8b6286fd6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Bronchoalveloar lavage is beneficial in the evaluation of:",
         "exp": "Pulmonary alveolar proteinosis can be diagnosed by Bronchoscopy with transbronchial biopsy and BAL may be helpful. Bronchoalveolar lavage fluid appears \"milky\". Papanicolaou staining may reveal green and orange globules that are diagnostic for PAP. Electron microscopy of BAL may reveal characteristic multi-lamellar structures. Non small cell cancer lung is diagnosed by bronchoscopy with biopsy Bronchiectasis is diagnosed with HRCT scan Bronchopleural fistula is diagnosed with bronchoscopy and is usually a complication of lung cancer surgery",
         "cop": 4,
@@ -89,44 +50,5 @@
         "topic_name": "Pleural effusion & Pulmonary alveolar proteinosis",
         "id": "53a43c48-2aee-446d-ab3d-42038760851b",
         "choice_type": "single"
-    },
-    {
-        "question": "Low glucose in pleural effusion is seen in all except?",
-        "exp": "Causes of low pleural fluid sugar: Empyema Tuberculous pleural effusion Rheumatoid pleurisy Lupus pleuritis Malignant effusion Esophageal rupture",
-        "cop": 4,
-        "opa": "Rheumatoid ahritis",
-        "opb": "Empyema",
-        "opc": "Malignant pleural effusion",
-        "opd": "Dressler's syndrome",
-        "subject_name": "Medicine",
-        "topic_name": "Pleural effusion & Pulmonary alveolar proteinosis",
-        "id": "2c5d7c84-5497-4f5d-a87c-de0091a2c73e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which is wrong about the treatment of condition shown?",
-        "exp": "CXR - Ellis S shaped curve CP angle blunting Pleural effusion Thoracocentesis: Done with patient sitting in scapular line If patient cannot sit, he should be at edge of bed, arm raised above level of head, head end elevated by 30deg Severe Hiccoughs is a contraindication to thoracentesis Max fluid can be removed safely per sitting is about < 1500 ml/day. We don't remove fluid >1500 ml due to risk of development of re-expansion pulmonary edema.",
-        "cop": 1,
-        "opa": "Maximum fluid than be removed safely per sitting is 500ml",
-        "opb": "Severe Hiccoughs is a contraindication to thoracentesis",
-        "opc": "Done with patient sitting in scapular line",
-        "opd": "If patient cannot sit, he should be at edge of bed, arm raised above level of head, head end elevated by 30o",
-        "subject_name": "Medicine",
-        "topic_name": "Pleural effusion & Pulmonary alveolar proteinosis",
-        "id": "e6fbfea4-9d36-4767-8c0f-bcde9bca2d37",
-        "choice_type": "multi"
-    },
-    {
-        "question": "What is the indication for therapeutic thoracocentesis?",
-        "exp": "Therapeutic thoracocentesis- Indication - Free fluid separates the lung from chest wall by 10 mm Measured radiographically Preferred site of thoracocentesis -7th ICS Scapular line. For Recurrent pleural effusion - pleurodesis. In pleurodesis we inject a sclerosing agent in pleural space which causes obliteration of pleural cavity",
-        "cop": 1,
-        "opa": "Free fluid separates the lung from chest wall by 10 mm",
-        "opb": "Loculated pleural fluid",
-        "opc": "Recurrence of pleural fluid < 72 hours of previous thoracocentesis",
-        "opd": "Mesothelioma",
-        "subject_name": "Medicine",
-        "topic_name": "Pleural effusion & Pulmonary alveolar proteinosis",
-        "id": "72af96a1-0a0d-4a54-bc08-53a338572dbd",
-        "choice_type": "multi"
     }
 ]

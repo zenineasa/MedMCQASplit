@@ -91,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "There are 40 new cases of carcinoma of breast per 100, 000 women/ year in country 'X' & 100 new cases / 100, 000 women/ year in Country 'Y'. Based on this statistical data which of the following statement is true?",
-        "exp": "Age is the most impoant risk factor for breast cancer Breast cancer is uncommon below age of 35, its incidence is increasing rapidly b/w ages of 35 to 50. A slight bimodal trend in the age distribution has been observed with a dip in incidence at the time of menopause. A secondary rise in frequency often occurs after the age of 65. Women who developed their first breast cancer under the age of 40, had three times the risk of developing a second breast cancer than those who developed their first cancer after the age of 40 Indeed the etiologies of pre-menopausal & post-menopausal breast cancer appears to be different. Other Risk factors of breast cancer: Family history of breast cancer Delayed first pregnancy Early menarche and late menopause Elevated estrogen & progesterone levels Prior breast biopsy Higher socio-economic status Radiation exposure etc.",
-        "cop": 3,
-        "opa": "More women in Country 'Y' are smokers",
-        "opb": "More women in Country 'X' had breastfed their children",
-        "opc": "Country 'X' has more number of younger women than country 'Y'",
-        "opd": "More preventive & screening measures like mammography are available in Country 'X'",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "NCDs: CHD, HTN, DM, RF, Cancers, Obesity, Blindness",
-        "id": "400a7710-3ce7-4028-ac1b-1077a586f8a5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Height independent obesity index:",
         "exp": "- So, Corpulence Index is \"Height independent \" index of obesity; cutoff <= 1. 2. Other indices depend on height: Broca's index =Ht -100",
         "cop": 1,
@@ -128,32 +115,6 @@
         "topic_name": "NCDs: CHD, HTN, DM, RF, Cancers, Obesity, Blindness",
         "id": "5cac1ded-02ec-455e-9dca-1cebbc9f3855",
         "choice_type": "single"
-    },
-    {
-        "question": "STEPS is done for:",
-        "exp": "STEPS is stepwise approach for 1. Chronic Disease Risk factor surveillance 2. Stroke Surveillance Core Expanded STEP 1 Tobacco, Alcohol, Diet, Physical activity H/O | BP, H/O DM STEP 2 Height, wt., waist, BP Hip circumference HR STEP 3 Blood glucose, Blood lipids TG HDL",
-        "cop": 1,
-        "opa": "Surveillance of risk factors of non-communicable disease",
-        "opb": "Surveillance of incidence of non-communicable disease",
-        "opc": "Surveillance of evaluation of treatment of non-communicable disease",
-        "opd": "Surveillance of moality from non-communicable disease",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "NCDs: CHD, HTN, DM, RF, Cancers, Obesity, Blindness",
-        "id": "c606a7e4-99df-4669-a6b1-20070436a76d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which one of the following statements about influence of smoking on risk of Coronary heart disease is not true?",
-        "exp": "Relationship between smoking and coronary heart disease:- Influence of smoking in independent of other risk factors for CHD Influence of smoking is synergistic to other risk factors for CHD Influence of smoking is directly related to number of cigarettes smoked per day Influence of smoking is more than additive to other risk factors for CHD.",
-        "cop": 2,
-        "opa": "Influence of smoking is independent of other risk factors for CHD",
-        "opb": "Influence of smoking is only additive to other risk factors for CHD",
-        "opc": "Influence of smoking is synergistic to other risk factors for CHD",
-        "opd": "Influence of smoking is directly related to number of cigarettes smoked per day",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "NCDs: CHD, HTN, DM, RF, Cancers, Obesity, Blindness",
-        "id": "a5329a71-d272-4aef-b260-58e15df539e8",
-        "choice_type": "multi"
     },
     {
         "question": "Percentile BMI for defining as Underweight is:-",
@@ -195,19 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Evidence of decreased risk of Cardiovascular disease is associated with all of the following except:",
-        "exp": "Factors decreasing risk of cardiovascular diseases: Regular physical activity Dietary goals like decreased salt, cholesterol intake Low to moderate daily alcohol consumption Potassium *Vitamin E supplementation are not associated with a proven benefit of decreased cardiovascular risk. Although some aicles do cite a protective role of Vitamin E because of it's antioxidant action, there is no strong evidence to our Vitamin E supplementation.",
-        "cop": 1,
-        "opa": "Vitamin E supplementation",
-        "opb": "Low to moderate daily alcohol consumption",
-        "opc": "Regular physical activity",
-        "opd": "Potassium",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "NCDs: CHD, HTN, DM, RF, Cancers, Obesity, Blindness",
-        "id": "3f51d134-06ae-4697-9305-a8f8d7721de1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Occupational exposure to Benzene may lead to:",
         "exp": "Benzene is known to cause cancer, based on evidence from studies in both people and lab animals. The link between benzene and cancer has largely focused on leukemia and other cancers of blood cells.",
         "cop": 2,
@@ -219,19 +167,6 @@
         "topic_name": "NCDs: CHD, HTN, DM, RF, Cancers, Obesity, Blindness",
         "id": "22623c71-36f6-4af1-af38-22bd6c78cca8",
         "choice_type": "single"
-    },
-    {
-        "question": "\"Early warning signs of Cancer\" that public should be beware of include all except:-",
-        "exp": "Early warning signs of Cancer:- Unexplained loss of weight Lump/hard area in breast Change in wa/mole Persistive change in digestive / bowel habits Persistent cough or hoarsness Excessive cough of blood at monthly period or loss of blood outside usual dates Blood loss from any natural orifice Swelling or sore not getting better.",
-        "cop": 3,
-        "opa": "Persistent cough",
-        "opb": "Lump or hard area in breast",
-        "opc": "Unexplained weight gain",
-        "opd": "Change in wa/mole",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "NCDs: CHD, HTN, DM, RF, Cancers, Obesity, Blindness",
-        "id": "5028f1a0-f7eb-4847-ae32-c1b24f46b80c",
-        "choice_type": "multi"
     },
     {
         "question": "Body mass index of Pre-obese is:-",

@@ -1,18 +1,5 @@
 [
     {
-        "question": "Nucleic acids absorb UV light maximally at the wavelength of",
-        "exp": "Nucleic acids absorb UV light maximally at the wavelength of 260 nm 260/280 ratio of pure DNA/RNA is in the range of 1. 8 to 2. Amino acids absorb U. V light (not visible light)- colorless. Aromatic amino acids absorb U. V light at 250-290 nm (maximum absorption is at 280nm) because of conjugated double bonds.",
-        "cop": 1,
-        "opa": "260nm",
-        "opb": "280 nm",
-        "opc": "410 nm",
-        "opd": "320 nm",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of DNA",
-        "id": "ea220936-f61f-4209-88f8-ff6605ae001a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Function of endonucleases:-",
         "exp": "Endonuclease Exonuclease Cut in between the DNA sequence Cut from the sides either from 5' or from 3' side Cut ds DNA Cut ss & ds DNA",
         "cop": 1,
@@ -37,45 +24,6 @@
         "topic_name": "Basics of DNA",
         "id": "da25135b-36fc-47e7-8e64-7b78be836830",
         "choice_type": "single"
-    },
-    {
-        "question": "DNase hypersensitive regions are",
-        "exp": "DNase I (deoxyribonuclease I) Can digest the DNA. Can't act when the DNA is bound to proteins, i. e, heterochromatin state. Can act only when the chromatin is decondensed, So, sensitivity to DNase enzyme is indirectly propoional to the degree of compaction of chromatin. Regions of DNA which are actively transcribed are hypersensitive to DNase I digestion.",
-        "cop": 3,
-        "opa": "Methylated DNA",
-        "opb": "Heterochromatin region",
-        "opc": "Transcriptionally active chromatin",
-        "opd": "RNA bound DNA region",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of DNA",
-        "id": "40abff15-dec3-41ad-9044-7f37ec735a43",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which one of the following statements about chromatin is not true?",
-        "exp": "Histones The ~145 bp of DNA, consisting of 1. 75 superhelical turns, are in contact with the histone octamer Phosphorylation of histone H1 is associated with the condensation of chromosomes and acetylation of core histones is associated with chromosomal assembly Mitotic chromosomes contain scaffold proteins which are non-histone proteins In nucleosomes, entry of DNA is bound by H2A-H2B histones, exit end is bound by H1 histones.",
-        "cop": 2,
-        "opa": "DNA winds approximately 1. 75 times around the nucleosomes",
-        "opb": "H2A-H2B bind to both the entry and exit ends of DNA in nucleosomes",
-        "opc": "Covalent modification of histones influence chromatin compaction",
-        "opd": "Non-histone proteins are pa of mitotic chromosomes",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of DNA",
-        "id": "acd66d59-459a-4f8f-b327-b9733fac0c47",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following base is usually not present in DNA?",
-        "exp": "Uracil is not usually present in DNA, instead thymine is present. However in DNA, spontaneous deamination of cytosine can produce uracil. But, this uracil is promptly recognized by Uracil DNA-glycosylase and replaced with cytosine. If uracil were present in DNA, DNA machinery could not differentiate the original uracil and the deaminated cytosine. Thus, presence of thymine/absence of uracil gives stability to DNA. Uracil is present in RNA in place of Thymine in DNA",
-        "cop": 4,
-        "opa": "Adenine",
-        "opb": "Guanine",
-        "opc": "Cytosine",
-        "opd": "Uracil",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of DNA",
-        "id": "fab34ade-f0ad-4502-bd69-14eb0c97c3c0",
-        "choice_type": "multi"
     },
     {
         "question": "Histone proteins are rich in which of the following amino acids?",
@@ -104,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "About DNA, true is:",
-        "exp": "DNA 2 strands are held together by hydrogen bonds. There are covalent bonds (3'-5' phosphodiester bonds) in sugar-phosphate backbone. Melting point of DNA is closely related to the cytosine-guanine content of DNA as C & G have 3 bonds, as compared to the 2 bonds present between A & T. Most common DNA is B- DNA. A single turn of B-DNA about the long axis of the molecule contains 10 bp. The distance spanned by one turn of B-DNA is 3. 4 nm (34 Ao). The width (helical diameter) of the double helix in B-DNA is 2 nm (20. Ao).",
-        "cop": 4,
-        "opa": "Two strands are held together by peptide bonds",
-        "opb": "Non-covalent bonds in sugar-phosphate backbone",
-        "opc": "Most common DNA is Z- DNA",
-        "opd": "Melting point of DNA is closely related to cytosine guanine content of DNA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of DNA",
-        "id": "cd2f731d-22cc-4921-8a62-78c9c5206f4e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Type of bond seen between the phosphate group and 5' carbon of ribose sugar within a nucleotide is:",
         "exp": "The question ask about bond in a single nucleotide and not between two nucleotides. Hence the answer will be ester bond and not phosphodiester bond. Ester bond or Phosphoester bond >>Acid Anhydride Bond between 2 nucleotides Phosphodiester bond Bond between Phosphate & sugar with a nucleotide Ester or phosphoester bond Bond between 5' or 3' carbon of sugar & Oxygen anion of phosphate is ester bond ( phosphoester or acid anhydride bond). Beta N- glycosidic bond is between N-base & sugar. Between two nucleotides, this phosphate group will form two C-O links ( one with 5' C of incoming sugar & other with 3' carbon of the previous sugar), so it is known as 3'5' phosphodiester bond.",
         "cop": 2,
@@ -128,45 +63,6 @@
         "topic_name": "Basics of DNA",
         "id": "a0bc42bd-1860-4a6a-8fda-4772dc1a338f",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is an example for facultative heterochromatin?",
-        "exp": "Heterochromatin is of two types: Constitutive heterochromatin Facultative heterochromatin Centromeric DNA Telomeric DNA Barr body (condensed X-chromosome) Condensed, inactive Decondenses during gametogenesis",
-        "cop": 3,
-        "opa": "Centromere",
-        "opb": "Telomere",
-        "opc": "Barr body",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of DNA",
-        "id": "89e82a69-c666-425c-92ef-8bee0506c1fc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are true regarding satellite DNA except:",
-        "exp": "Satellite DNA Result of repeat length polymorphism i. e tandem repeats of a paicular length of DNA occurs. These lengths are variable in different populations. Present around centromeric and telomeric regions DNA present around these regions is transcriptionally inactive. These repeats are of two types: STR VNTR Sho tandem repeats also known as microsatellite Variable number of tandem repeats. Length is of 2-6 base pairs (sho) Length is of 15-70 bp (variable number) <img style=\"max-width: 100%\" src=\" onclick=\"zoom. Image(' onclick=\"zoom. Image(' /> <img style=\"max-width: 100%\" src=\" onclick=\"zoom. Image(' onclick=\"zoom. Image(' />",
-        "cop": 4,
-        "opa": "Repeated DNA sequence in tandem",
-        "opb": "Clustered around centromere",
-        "opc": "Clustered around telomeres",
-        "opd": "Transcriptionally active",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of DNA",
-        "id": "f572f64e-54d4-40bd-9fdf-6de38ffe8ab2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is not true regarding nucleic acids",
-        "exp": "The two strands of the double-helical molecule, possesses Polarity Antiparallel;(one strand runs in the 5' to 3' direction and the other in the 3' to 5' direction). Template strand/noncoding strand. Genetic information resides in the sequence of nucleotides on one strand Strand of DNA that is copied during ribonucleic acid (RNA) synthesis. Coding strand The opposite strand Matches the sequence of the RNA transcript that encodes the protein. t. RNA is the only RNA that contains thymine as one of the pyrimidine bases. because methylation by S-adenosylmethionine of a UMP of preformed t. RNA forms TMP (thymidine monophosphate), which contains ribose rather than deoxyribose.",
-        "cop": 3,
-        "opa": "m. RNA is synthesised from template strand of DNA",
-        "opb": "m. RNA is synthesised from non-coding strand of DNA",
-        "opc": "t. RNA does not contain thymine as one of the pyrimidine bases",
-        "opd": "Two strands of DNA are anti-parallel in nature",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of DNA",
-        "id": "a4c50391-a1c3-40b5-9141-315b07f7e7f9",
-        "choice_type": "multi"
     },
     {
         "question": "Linker DNA is bound to which of the following histone?",
@@ -206,19 +102,6 @@
         "topic_name": "Basics of DNA",
         "id": "f3fffc4a-619c-4d37-a05a-2bd0e241650c",
         "choice_type": "single"
-    },
-    {
-        "question": "Double stranded RNA exists in:",
-        "exp": "Double stranded RNA exists in A- DNA like conformation Usually RNA is single stranded, DNA is double stranded. But in few species, double stranded RNA is found e. g. Rotavirus. B-DNA A-DNA Z-DNA Base pairs/turn 10 11 12 Right/left handed Right Right Left with zigzag sugar-phosphate backbone Function Major DNA in cells Dehydrated DNA or in DNA-RNA regions or in Double stranded RNA Regulation of gene expression, paicularly in GC sequence (alternating Purine-Pyrimidine)",
-        "cop": 1,
-        "opa": "A-DNA like conformation",
-        "opb": "B-DNA like conformation",
-        "opc": "Z-DNA like conformation",
-        "opd": "None of these",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of DNA",
-        "id": "ce96e869-ec48-4c66-bb0c-d8cdfc73cc6c",
-        "choice_type": "multi"
     },
     {
         "question": "What is the approximate number of base pairs associated with a single nucleosome?",

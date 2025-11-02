@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True about anesthesia cylinders is all except:",
-        "exp": "Diameter Index Safety System, is a gas station outletsystem used in the hospital setting for the supply ofmedical gases. DISS connectors are threaded and have aunique diameter for each type of gasto preventerroneous connection. The system also contains a valve at the outlet/ wall supply side which shuts off gassupply upon disconnection. Gases Physical Form Pin Index Pressure (PSI) Cylinder Colour Air Gas 1, 5 1900 Grey body with black and white shoulder",
-        "cop": 2,
-        "opa": "Most commonly used cylinders is type E",
-        "opb": "DISS is the safety mechanism to prevent wrong fitting of cylinder to machine",
-        "opc": "Cylinders are pa of high pressure syste",
-        "opd": "Air is stored in cylinder with grey body with black and white shoulder",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anesthesia Machine",
-        "id": "5bb07bc8-73cb-4c67-bac6-33f6bd3ae25f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Pressure of Nitrous oxide cylinder at 100% and 40% volume respectively measured by pressure gauge is:",
         "exp": "In cases of gases which are in liquid form in cylinder ( N2O), pressure gauze shows always full till it becomes Zero Thus in case of N2O, whether cylinder has 100% or 40% volume, pressure gauze will always show 750 Psi.",
         "cop": 2,
@@ -102,32 +89,6 @@
         "topic_name": "Anesthesia Machine",
         "id": "aa0538e1-04cd-4bde-8777-61f5117857f1",
         "choice_type": "single"
-    },
-    {
-        "question": "Composition of soda lime includes all except -",
-        "exp": "Ans. is 'd' i. e., Mg (OH)2 Soda limeo Most commonly used CO2 absorbent. The composition of Soda lime is: -Ca(OH)2-94%Na. OH-5% (Catalyst)KOH-<1%Silica-To prevent dust formation. Indicator Moisture Granule size-4-8 mesho 100 gm of sodalime can absorb upto 23 litres of CO2. Now a days a good quality sodalime with prolonged life, Durasorb is used which is pink when fresh and becomes white when exhausted.",
-        "cop": 4,
-        "opa": "Na. OH",
-        "opb": "KOH",
-        "opc": "Ca (OH)2",
-        "opd": "Mg (OH)2",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anesthesia Machine",
-        "id": "fd419bb0-1d14-4e67-bac7-828f3ab269e0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Dose of local anesthetics for peripheral nerve block is decreased in patients with hypovolemia shock because-",
-        "exp": "In hypovolemia shock there is preferential perfusion of vital organs so whatever drug is intravascularly absorbed goes to vital organs CNS and CVS end cause systemic toxicity. Decreasing systemic absorption of local anesthetics increase their safety margin in clinical uses. The rate and extent of systemic absorption depends on the site of injection, the dose, the drugs intrinsic Pharmacokinetic propeies and the addition and cytochrome P450 enzymes. Severe liver disease may slow the clearance of amino amide local anesthetics and significant drug levels may therefore accumulate.",
-        "cop": 1,
-        "opa": "Preferential perfusion of vital organs in shock predisposes more to local anesthetics toxicity",
-        "opb": "Drugs cannot be metabolized",
-        "opc": "Sensitivity of voltage gated channel increases in shock",
-        "opd": "Drug is not systemically absorbed to less require",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anesthesia Machine",
-        "id": "4bbf8bc3-e24a-4b57-9164-c6920f0a8b64",
-        "choice_type": "multi"
     },
     {
         "question": "The most frequently repoed malfunctions in medical gas pipeline system are:-",
@@ -182,45 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All are pas of low pressure system except:-",
-        "exp": "Pipeline system comes under intermediate pressure system. Normal hospital pipeline supply pressure of all gases is at50-55 psig(USA). In India, it is 60 psig. Intermediate pressure system It includes the components of the machine which receive gases at reduced pressures usually 37-55 PSIG. This in older machines includes the O2 failure alarms and O2flush and in modern machines also include O2pressure fail safe systems, pipeline inlet connections, pipeline pressure gauges and ventilator power outlets. Low pressure system includes flowmeter assembly, vapouriser, hypoxia guard and common gas oulet.",
-        "cop": 4,
-        "opa": "Flow meters",
-        "opb": "Hypoxia prevention safety device",
-        "opc": "Vaporiser",
-        "opd": "Pipeline system",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anesthesia Machine",
-        "id": "d47b887f-2522-463b-91be-65c8e3383602",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Epidural analgesia is suitable for",
-        "exp": "Epidural is very suitable as independent anaesthesia technique and as accompanying technique with general anaesthesia. thoracic epidural for Thoracic surgery, rib fracture Lumbar Epidural for upper and lower abdominal surgeries.",
-        "cop": 4,
-        "opa": "Rib fracture",
-        "opb": "Lower abdominal Surgery",
-        "opc": "Thoracotomy",
-        "opd": "All of the above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anesthesia Machine",
-        "id": "5082c16a-37f6-4721-a068-ff650e42ec34",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All are amide local anesthetic except-",
-        "exp": "Cocaine is ester local anesthetic. Local Anesthetic divided into two groups Amino ester - S. A Cociane Procains Chloroprocaine L. A Benzocaine Tetracaine Amino amide I. A Lignocaine Prilocaine Mepivacaine L. A Bupivacaine Ropivacaine Levobupivacaine Dibucaine",
-        "cop": 1,
-        "opa": "Cocaine",
-        "opb": "Lignocaine",
-        "opc": "Prilocaine",
-        "opd": "Bupivacaine",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anesthesia Machine",
-        "id": "4f9c5a4f-ba21-4899-8eed-70e39e0ad198",
-        "choice_type": "multi"
-    },
-    {
         "question": "Colour coding of halothane, isoflurane, sevoflurane and desflurane is respectively",
         "exp": null,
         "cop": 2,
@@ -232,19 +154,6 @@
         "topic_name": "Anesthesia Machine",
         "id": "625228a2-8b47-4a48-8f37-5c6de40bde78",
         "choice_type": "single"
-    },
-    {
-        "question": "The oxygen flush valve - all true except",
-        "exp": "It delivers flow between 35 to 70 L / minute minimum flow is 35 L / minute. There is a direct tubing connecting the O2 pressure regulator to the O2 flush. It gives 35-70 L/min of flow with a pressure of 45-60 PSIG. Its main use is during the mask ventilation with a lot of leak between the mask and the patient's face especially in elderly patients and in patients with difficult airways and also acceptable power source for jet ventilation for providing paial, if not total, ventilatory suppo in most clinical situations.",
-        "cop": 1,
-        "opa": "A flow between 25 and 50 L/minute can be delivered",
-        "opb": "Barotraumas has been repoed on its use",
-        "opc": "It can be activated regardless of master switch on off",
-        "opd": "It deliver is oxygen at 55 to 60 psi pressure",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anesthesia Machine",
-        "id": "a48d3ee9-f9c7-488f-92bc-d37ad7447c15",
-        "choice_type": "multi"
     },
     {
         "question": "Gas cylinder with single pin index -",
@@ -286,19 +195,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What is present day application of oxygen concentrators include:-",
-        "exp": "Oxygen concentrators are widely used to provide oxygen-enriched gas for multiple use: i. Domicillary use ii. Remote locations iii. For oxygen pipeline supply iv. Anesthesia machine",
-        "cop": 4,
-        "opa": "Domicillary use",
-        "opb": "Supplying ambulance",
-        "opc": "Supplying anesthesia medicine",
-        "opd": "All of the above",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anesthesia Machine",
-        "id": "e4bbaefd-3a24-4177-add1-11a0c31703fb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Pin code index of N2O is-",
         "exp": "Ans. is 'd' i. e., 3, 5 Gas. Pin index. Oxygen2, 5. Nitrous oxide3, 5. Cyclopropane3, 6. Air1. 5. Nitrogen1, 4. Entonox (50% O2 + 50% N2O). Single central (7). Carbon dioxide (< 7. 5%)2, 6~Carbon dioxide (> 7. 5%)1, 6",
         "cop": 4,
@@ -310,19 +206,6 @@
         "topic_name": "Anesthesia Machine",
         "id": "0b0ae170-4100-409e-9544-ca38e84045d7",
         "choice_type": "single"
-    },
-    {
-        "question": "Central gas supplies may be located at all of the following places except:-",
-        "exp": "The manifold should be housed in a well-ventilated room built from fire-proof material, either brick or concrete, away from the main building of the hospital. The manifold room should not be used as a general cylinder store. It should ideally be located to enable the access of the delivery vehicles to prevent manhandling of the cylinders for long distances. The room should be well-lit, temperature-controlled at 10-40degC and should have sufficient warning signs on the outside and inside of the building. All empty cylinders should be removed immediately from the manifold room. Only trained persons should be permitted to change cylinders and an activity log should be completed when cylinders are changed.",
-        "cop": 4,
-        "opa": "Inside in a special room used only for this purpose",
-        "opb": "Outdoors",
-        "opc": "In an enclosure",
-        "opd": "In a non sterile area in the operational theatre",
-        "subject_name": "Anaesthesia",
-        "topic_name": "Anesthesia Machine",
-        "id": "29b23c82-dbd6-4f66-acdb-d947c909f08d",
-        "choice_type": "multi"
     },
     {
         "question": "Anesthesia workstation was first invented by?",

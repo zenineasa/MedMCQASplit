@@ -1,18 +1,5 @@
 [
     {
-        "question": "A patient was advised Treadmill test, but he had lost both his limbs and then he was advised a stress test. The drug used for this test is:",
-        "exp": "Uses of dobutamine Sho-term treatment of cardiac decompensation that may occur after cardiac surgery or in patients with congestive heart failure or acute myocardial infarction An infusion of dobutamine in combination with echocardiography is useful in noninvasive assessment of patients with coronary aery disease Stressing of the heart with dobutamine may reveal cardiac abnormalities in carefully selected patients.",
-        "cop": 3,
-        "opa": "Dopexamine",
-        "opb": "Dopamine",
-        "opc": "Dobutamine",
-        "opd": "Dipevefrine",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "4338acda-d12f-476f-881b-f7ba8b29e1cb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drug is contraindicated in variant angina?",
         "exp": "Variant angina is caused by coronary vasospasm DOC: Sublingual Nitroglycerine Prophylaxis: Calcium channel blockers (like verapamil and Diltiazem) and nitrates Beta blockers are avoided as they may precipitate coronary vasospasm by counteracting beta 2 mediated coronary vasodilation. Therefore they are avoided in variant angina.",
         "cop": 3,
@@ -24,19 +11,6 @@
         "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
         "id": "46ac4c8c-3125-4230-94c9-bf0951ff0891",
         "choice_type": "single"
-    },
-    {
-        "question": "Advantage of using digoxin in CHF is:",
-        "exp": "Digitalis (By increasing cardiac contractility) and Diuretics (by decreasing fluid overload) are used as symptomatic therapy of CHF. These drugs do not retard cardiac remodelling or prolong survival in CHF patients.",
-        "cop": 1,
-        "opa": "It is used to provide relief of symptoms",
-        "opb": "It reverses the pathological changes of CHF",
-        "opc": "It prolongs the survival of CHF patient",
-        "opd": "All of these",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "6bf07e25-6b40-42a2-a2d7-c238b7266c76",
-        "choice_type": "multi"
     },
     {
         "question": "Propanolol is contraindicated in a patient of angina pectoris who is already receiving:",
@@ -63,19 +37,6 @@
         "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
         "id": "687972dc-f09c-44b5-841d-52a9572311ee",
         "choice_type": "single"
-    },
-    {
-        "question": "Drugs that reduce myocardial remodeling in CHF include all of the following except:",
-        "exp": "Drugs that decrease cardiac remodeling: 1.) b blockers - Carvedilol, Metoprolol, Bisoprolol2.) ACEI - Captopril, Enalapril, Ramipril, Lisinopril. 3.) Angiotensin Receptor blockers - Losaan, Valsaan, Irbesaan, Eprosaan4.) Aldosterone antagonists - Spironolactone, Eplerenone.",
-        "cop": 2,
-        "opa": "Carvedilol",
-        "opb": "Digoxin",
-        "opc": "Enalapril",
-        "opd": "Spironolactone",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "3ace1c4d-521c-436b-be72-e0d27b86ad1f",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is an active metabolite of another drug and is available as a separate drug for the treatment of angina?",
@@ -117,45 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Nitrates are given in all except",
-        "exp": "Nitrates are not effective in renal colic GTN/ NTG: DOC for acute attack of angina Uses of Nitrates: A- Angina B- Biliary colic C- Cyanide poisoning (DOC- Hydroxocobalamin) D- Dil ka Daura (MI) E- Esophageal spasm F- Failure",
-        "cop": 2,
-        "opa": "Congestive heart failure",
-        "opb": "Renal colic",
-        "opc": "Cyanide poisoning",
-        "opd": "Esophageal spasm",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "20baa9d0-0f4e-4dba-89ff-35322236c5c5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Losaan is similar to enalapril in all of the following features except:",
-        "exp": "Losaan belongs to the class of ARB's. Enalapril belongs to the class of ACEI ARB's differs from ACE inhibitors in: They do not interfere with degradation of bradykinin: no rise in level of bradykinin, substance P occurs. ARB does not produce cough. With Losaan no significant effect on plasma lipid profile, carbohydrate tolerance or insulin sensitivity has been noted. A mild probenecid- like uricosuric action is produced.",
-        "cop": 4,
-        "opa": "Anti-hypeensive efficacy",
-        "opb": "Potential to reverse left ventricular hyperophy",
-        "opc": "Lack of effect on carbohydrate tolerance",
-        "opd": "Potential to induce cough in susceptible individuals",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "bedfedb0-85b2-49da-a574-a00be6d1f73b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following drug can increase the calcium sensitivity of myocytes?",
-        "exp": "Levosimendan Calcium sensitizer which increases the sensitivity of the heart to calcium Positive ionotropic effect on heart without rise in intracellular calcium. Also act as PDE 3 inhibitor. Note: Other drugs in the options are not related to calcium sensitivity of the heart.",
-        "cop": 2,
-        "opa": "Omapatrilat",
-        "opb": "Levosimendan",
-        "opc": "Milrinone",
-        "opd": "Sacubitril",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "609ee69b-c971-4eae-bb02-c7cc812f1b3a",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most impoant channel of elimination of digoxin is:",
         "exp": "Digoxin is primarily eliminated unchanged by glomerular filtration Digitoxin is eliminated by hepatic metabolism.",
         "cop": 1,
@@ -195,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs can cause gynaecomastia except:-",
-        "exp": "IMPOANT DRUGS CAUSING GYNAECOMASTIA: DI: DIgoxin S: Spironolactone C: Cimetidine O: Ketoconazole",
-        "cop": 2,
-        "opa": "Digoxin",
-        "opb": "Amiloride",
-        "opc": "Cimetidine",
-        "opd": "Ketoconazole",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "0715d130-be2c-4102-b002-f70e422b2db9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is a rho-kinase inhibitor?",
         "exp": "Drug MOA FASUDIL- Used for treatment of Angina. NETARSUDIL- Approved for Glaucoma treatment. RHO KINASE INHIBITOR(Causes vasodilation) RANOLAZINE FA metabolism inhibition + Late Na+channel blocker. NICORANDIL NO releaser + K+channel opener. AMILORIDE Epithelial Na+ channel blocker",
         "cop": 2,
@@ -219,19 +128,6 @@
         "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
         "id": "6d486e6c-f075-40d6-b6a1-161fff125a2a",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is NOT true about the use of b blockers in CHF?",
-        "exp": "b blockers are not used during an episode of acute heart failure as it deteriorates the condition. Dose of b blockers should be gradually increased in CHF because high dose may cause decompensation which leads to Acute Heart Failure. They are generally used in mild to moderate (NYHA class II, III) cases of dilated cardiomyopathy with systolic dysfunction. Beta blockers are contraindicated in acute decompensated heart failure. MC Beta blocker used in CHF is Carvedilol.",
-        "cop": 3,
-        "opa": "These should be staed at very low dose and slowly titrated upwards",
-        "opb": "Carvedilol is most widely used b blocker",
-        "opc": "These are drug of choice in acute decompensated heart failure",
-        "opd": "These can reduce moality in CHF patients",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "23aa6219-3429-434a-b780-7c9e431bff41",
-        "choice_type": "multi"
     },
     {
         "question": "The drug effective for treatment as well as prophylaxis of angina pectoris is:",
@@ -325,19 +221,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Verapamil is associated with all of the following except?",
-        "exp": "Verpamil (CCB) does not cause hyperglycemia at therapeutic doses required for the management of Angina. CCB cause A-V block so causes || PR interval and bradycardia in the patients. Other side effects of CCB are:- Constipation(more common with Verapamil) Peripheral edema",
-        "cop": 3,
-        "opa": "Constipation",
-        "opb": "Bradycardia",
-        "opc": "Hyperglycemia",
-        "opd": "Increased PR interval",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "9bd83a7e-64a8-4042-9e25-54d1572bcbf1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drug can cause coronary steal phenomenon?",
         "exp": "Coronary steal phenomenon:* Caused by drugs which dilate small vessels only.* Atherosclerotic vessels are maximally dilated already, so fuher administration of vasodilators leads to more dilation of normal vessels rather than atherosclerotic one, blood supply to ischemic area is taken towards dilated small vessel - STEALING Coronary steal phenomenon is shown by: -H- HydralazineI- IsofluraneD- DipyridamoleE- Enflurane",
         "cop": 1,
@@ -351,19 +234,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are the actions of b-adrenoceptor blockers in CHF except:",
-        "exp": "Beta blockers may actually increase vasoconstriction by antagonizing the vasodilator action of b2 receptors. Decreases moality by reversing LVH. Prevent dangerous cardiac arrhythmias.",
-        "cop": 2,
-        "opa": "Decrease in moality associated with CHF",
-        "opb": "Antagonism of vasoconstriction due to sympathetic over activity",
-        "opc": "Prevention of pathological remodelling of ventricular myocardium",
-        "opd": "Prevention of dangerous cardiac arrhythmias",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "a2212f8e-2a85-4a24-9b98-73a9c58b67a5",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following drugs is most likely to precipitate angina?",
         "exp": "Vasodilators and peripherally acting CCBs (Dihydropyridines) can cause tachycardia and thus may precipitate acute attack of angina. Risk of tachycardia is more with sho acting drugs like nifedipine than with long acting agents like amlodipine. Diltiazem & Verapamil --> decreases HR and also cause vasodilation.",
         "cop": 2,
@@ -375,19 +245,6 @@
         "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
         "id": "42bef3c6-d089-4f29-8d91-7673ca47a3cf",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following drugs is both aeriolar and venodilator?",
-        "exp": "Group Effect in CHF Drugs Predominant aeriolar dilator Decrease afterload Hydralazine Predominant venodilator Decrease preload Nitrates Mixed dilator Decrease both preload and afterload Nitroprusside",
-        "cop": 2,
-        "opa": "Hydralazine",
-        "opb": "Sodium nitroprusside",
-        "opc": "Minoxidil",
-        "opd": "Nitroglycerine",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "60723b07-a778-4323-9fd9-135b8aede9a6",
-        "choice_type": "multi"
     },
     {
         "question": "Digoxin is used for treatment of congestive heart failure. It acts by inhibiting:-",
@@ -427,19 +284,6 @@
         "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
         "id": "b110a943-97d3-4061-bc67-3d40d7cbc42d",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following drugs are useful for long-term treatment of congestive heart failure except:",
-        "exp": "Dobutamine is indicated only for the acute t/t of decompensated CHF. Cardiac glycosides (digoxin) can be used for acute treatment as well as maintenance therapy of CHF. ACE inhibitors and spironolactone are indicated only for chronic CHF.",
-        "cop": 3,
-        "opa": "Digoxin",
-        "opb": "Ramipril",
-        "opc": "Dobutamine",
-        "opd": "Spironolactone",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "31b94a39-0b25-4b5d-b16d-4c4bcaf57734",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is a monovalent cation that can reverse a digitalis induced arrhythmia?",
@@ -494,19 +338,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following statements best explains the action of nitroglycerine on coronary vessels:",
-        "exp": "Nitrates cause redistribution of blood flow without affecting total coronary flow. Autoregulatory small vessels remain unaffected whereas large conducting vessels are dilated. Nitrates are predominantly venodilators, therefore decrease mainly preload.",
-        "cop": 2,
-        "opa": "It mitigates angina pectoris by increasing total coronary flow",
-        "opb": "It preferentially dilates conducting aeries without affecting resistance aerioles",
-        "opc": "It preferentially dilates autoregulatory aerioles without affecting the larger aeries",
-        "opd": "It mainly decreases the after load",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "68351feb-349e-4113-b8a3-d7f0a3045264",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following anti-angina drugs act by inhibition of long-chain 3-ketoacyl coenzyme A thiolase?",
         "exp": "Trimetazidine Antianginal drug that act by inhibiting mitochondrial long-chain 3-ketoacyl coenzyme A thiolase enzyme. Reduced fatty acid metabolism and increased glucose metabolism in myocardium leading to a paial shift from FFA to glucose oxidation in the heart, which provides less ATP but requires less O2 and may therefore be beneficial in ischemia. Efficient in reducing angina and increase exercise tolerance, paicularly in patients with diabetes and heart failure.",
         "cop": 1,
@@ -518,18 +349,5 @@
         "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
         "id": "0c265c8e-5783-4de5-8c32-5d9a7aea0ffb",
         "choice_type": "single"
-    },
-    {
-        "question": "Organic nitrates can lead to the development of tolerance when used chronically. Which of the following preparations is least likely to develop tolerance:",
-        "exp": "Tolerance develops to nitrates, when these are present constantly in the blood. Sublingual route leads to immediate action of nitrates and these act for a sho time. Other preparations mentioned in the question are more likely to give consistent plasma levels of nitrates leading to development of tolerance.",
-        "cop": 2,
-        "opa": "Sustained release oral nitroglycerine",
-        "opb": "Sublingual nitroglycerine",
-        "opc": "Transdermal nitroglycerine",
-        "opd": "Oral pentaerythritol tetranitrate",
-        "subject_name": "Pharmacology",
-        "topic_name": "CHF, Angina Pectoris and Myocardial Infarction",
-        "id": "43fb2a4c-1d10-4c48-b2c8-c6b55911e3b6",
-        "choice_type": "multi"
     }
 ]

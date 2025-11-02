@@ -39,32 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the cystic diseases of kidney cause enlargement of kidney/renomegaly, except:",
-        "exp": "Nephronopthisis Kidneys are small, have contracted granular surfaces, show cysts in the medulla, at the coicomedullary junction. Children with juvenile nephronophthisis have extrarenal manifestations, which most often appear as retinal abnormalities, including retinitis pigmentosa, and even early-onset blindness in the most severe form",
-        "cop": 3,
-        "opa": "Autosomal dominant polycystic kidney disease (ADPKD)",
-        "opb": "Autosomal recessive polycystic kidney disease (ARPKD)",
-        "opc": "Nephronophthisis",
-        "opd": "Multicystic renal dysplasia",
-        "subject_name": "Pathology",
-        "topic_name": "Polycystic Kidney Disease",
-        "id": "5d1d0da1-e7f6-43e3-b1eb-9a6ce2de8cf7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statement are true regarding autosomal dominant polycystic kidney disease (ADPKD)?",
-        "exp": "Autosomal dominant polycystic kidney disease (ADPKD) Kidneys are bilaterally enlarged External surface appears to be composed solely of a mass of cysts, up to 3 to 4 cm in diameter, with no intervening parenchyma. Microscopic examination - Functioning nephrons dispersed between the cysts. The cysts may be filled with a clear, serous fluid or with turbid, red to brown, sometimes hemorrhagic fluid. Cysts may arise at any level of the nephron, from tubules to collecting ducts, and therefore they have a variable, often atrophic lining. PKD1 gene implicated in 85% of cases. PKD1, on 16p, is the defective gene. This gene encodes polycystin-1. PKD2 gene, implicated in 10% to 15% of cases, resides on chromosome 4 and encodes polycystin-2.",
-        "cop": 4,
-        "opa": "Bilateral kidneys are enlarged",
-        "opb": "External surface show numerous cyst of 3-4 cm in diameter",
-        "opc": "Histology shows functioning nephrons dispersed between the cysts",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "Polycystic Kidney Disease",
-        "id": "4878f2bc-0083-4135-9d0b-cebb9eef58a1",
-        "choice_type": "multi"
-    },
-    {
         "question": "Mutation in PKHD1 gene causing autosomal recessive polycystic kidney disease (ARPKD) maps to which chromosome?",
         "exp": "Mutations of the PKHD1 gene, which maps to chromosome region 6p21-p23. Expressed in adult and fetal kidney, also in liver and pancreas. PKHD1 gene encodes fibrocystin.",
         "cop": 3,
@@ -91,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following are morphological features of childhood polycystic kidney disease?",
-        "exp": "Autosomal recessive polycystic kidney disease (ARPKD)/Childhood polycystic kidney disease Kidneys - Enlarged, smooth external appearance. Cut section, numerous small cysts give kidney a \"sponge-like\" appearance. Dilated elongated channels are present at right angles to the coical surface, completely replacing the medulla and coex. M/E - Cylindrical or, less commonly, saccular dilation of all collecting tubules. The cysts have a uniform lining of cuboidal cells.",
-        "cop": 4,
-        "opa": "Enlarged kidney with smooth external surface",
-        "opb": "Dilated elongated channels present at right angle to the coical surface",
-        "opc": "Cysts are lined by cuboidal cells",
-        "opd": "All of the above",
-        "subject_name": "Pathology",
-        "topic_name": "Polycystic Kidney Disease",
-        "id": "008bb138-e6de-4a1a-a98e-95fc97249ae7",
-        "choice_type": "multi"
-    },
-    {
         "question": "Congenital hepatic fibrosis is predominantly associated with which cystic disease of kidney?",
         "exp": "In Autosomal recessive polycystic kidney disease (ARPKD), patients who survive infancy may develop a peculiar hepatic injury characterized by:- Bland peripoal fibrosis Proliferation of well differentiated biliary ductules, now termed as congenital hepatic fibrosis.",
         "cop": 2,
@@ -115,19 +76,6 @@
         "topic_name": "Polycystic Kidney Disease",
         "id": "c38125c8-025d-46c5-85b0-c77957f7e72c",
         "choice_type": "single"
-    },
-    {
-        "question": "Cystic diseases of kidney are all except:",
-        "exp": "Horseshoe Kidney Fusion of the upper (10%) or lower poles (90%) of the kidneys Continuous across the midline anterior to the great vessels. Congenital renal anomaly not a cystic disease. Cystic lesions of kidney are: Polycystic kidney disease Autosomal dominant (adult) polycystic disease Autosomal recessive (childhood) polycystic disease Medullary cystic disease Medullary sponge kidney Nephronophthisis Glomerulocystic disease Extraparenchymal renal cysts (pyelocalyceal cysts, hilar lymphangitic cysts)",
-        "cop": 3,
-        "opa": "Medullary sponge kidney",
-        "opb": "Nephrophthisis",
-        "opc": "Horseshoe kidney",
-        "opd": "Glomerulocystic disease",
-        "subject_name": "Pathology",
-        "topic_name": "Polycystic Kidney Disease",
-        "id": "958ca9d1-eed1-421d-982f-eca9bc2f557d",
-        "choice_type": "multi"
     },
     {
         "question": "Presence of islands of undifferentiated mesenchyme, often with cailage, and immature collecting ducts on light microscopy will be seen in which cystic disease of kidney?",
@@ -143,19 +91,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following statements are true about adult polycystic kidney disease, except:",
-        "exp": "Adult polycystic kidney disease Hypertension is common in patients with autosomal dominant polycystic kidney disease. It is present in 75% of adult patients and 25% of children. Autosomal dominant Large multicystic kidneys, liver cysts, berry aneurysms Hematuria, flank pain, urinary tract infection, pyelonephritis, renal stones, hypertension Chronic renal failure beginning at 40-60 years of age",
-        "cop": 2,
-        "opa": "Autosomal dominant inheritance",
-        "opb": "Hypertension is rare",
-        "opc": "Can be associated with cysts in liver, lungs and pancreas",
-        "opd": "Pyelonephritis is common",
-        "subject_name": "Pathology",
-        "topic_name": "Polycystic Kidney Disease",
-        "id": "e9b879fa-efce-467c-bc25-16e9889cc374",
-        "choice_type": "multi"
-    },
-    {
         "question": "Gross morphology of kidney (cut surface) is shown below. What is your likely diagnosis?",
         "exp": "Autosomal dominant polycystic kidney disease (ADPKD) Gross appearance, the kidneys are bilaterally enlarged and may achieve enormous sizes; weights as much as 4 kg each. External surface - composed of a mass of cysts, up to 3 to 4 cm in diameter, with no intervening parenchyma.",
         "cop": 1,
@@ -167,18 +102,5 @@
         "topic_name": "Polycystic Kidney Disease",
         "id": "c28cdb5e-777e-47be-b14d-e4ed552b15a4",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements is wrong regarding adult polycystic kidney disease?",
-        "exp": "Autosomal Dominant (Adult) Polycystic Kidney Disease Hereditary disorder Multiple expanding cysts of both kidneys that leads to destruction of renal parenchyma. Bilateral. Gross appearance: The kidneys are bilaterally enlarged and weighs as much as 4 kg each. Microscopic examination: Functioning nephrons dispersed between the cysts. Individuals with polycystic kidney disease also tend to have extra-renal congenital anomalies. Mitral valve prolapse",
-        "cop": 2,
-        "opa": "Kidneys are enlarged in size",
-        "opb": "The presentation is unilateral",
-        "opc": "Patients tend to have external congenital anomalies",
-        "opd": "Mitral valve prolapse may be there",
-        "subject_name": "Pathology",
-        "topic_name": "Polycystic Kidney Disease",
-        "id": "1e23f53c-c875-464d-a522-7fee2fb4b335",
-        "choice_type": "multi"
     }
 ]

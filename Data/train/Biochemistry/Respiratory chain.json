@@ -13,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In ETC cmplex-4 is inhibited by all except -",
-        "exp": "Ans. is 'd' i. e., BAL o Rotenone inhibits complex I (NADH-CoQ reductase). Inhibitors of electron transport chain-o Inhibitors of respiratory chain may be divided into three groups: -Inhibitors of electron transport chain proper. These inhibitors inhibit the flow of electrons through the respiratory chain. This occurs at following sites. Complex I (NADH to CoQ) is inhibited by: - Barbiturates (amobarbital), Piericidin A (an antibiotic), rotenone (an insectiside), chlorpromazine (a tranquilizer), and guanethidine (an antihypertensive). These inhibitors block the transfer of reducing equivalents from FeS protein to CoQ. Complex II is inhibited by: - Carboxin and TTFA inhibit transfer of electon from FADH2 to CoQ, whereas malanate competitively inhibit from succinate to complex II. Complex III (Cytochrome b to cytochrome Cl) is inhibited by: - Dimercaprol, antimycin A, BAL (British anti lewisite), Naphthyloquinone. These inhibitors block the transfer of electrons from cytochrome b to cytochrome C i. Complex IV (cytochrome C oxidase) is inhibited by: - Carbon monoxide, CN-, ITS and azide (N3). These inhibitors block the transfer of electrons from cytochrome aa3 to molecular oxygen and therefore can totally arrest cellular respiration. Inhibitors of oxidative phosphorylation. These compounds directly inhibit phosphorylation of ADP to. ATP. Oligomycin inhibits Fo component of F0. F1 ATPase. Atractiloside inhibits translocase, a transport protein that transports ADP into mitochondria for phosphorylation into ATP. Uncouples. As the name suggests, these componds block the coupeling of oxidation with phosphorylation. These compounds allow the transfer of reducing equivalents in respiratory chain but prevent the phosphorylation of ADP to ATP by uncoupling the linkage between ETC and phosphorylation. Thus the energy instead of being trapped by phosphory lation is dissipated as heat. Uncouplers may be:- Natural:-Thermogenin, thyroxine. Synthetic:- 2, 4-dinitrophenol (2, 4-DNP), 2, 4-dinitrocresol (2, 4-DNC), and CCCP (chlorocarbonylcyanidephenyl hydrazone).",
-        "cop": 4,
-        "opa": "CO",
-        "opb": "CN-",
-        "opc": "H2S",
-        "opd": "BAL",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "4b195c3e-3bba-4c0d-b70b-0f54c78c7d6c",
-        "choice_type": "multi"
-    },
-    {
         "question": "Aerobic oxidation of reduced cytochromes shows P/O ratio of",
         "exp": "ADP: O or P: O Ratio: The NAD-dependant dehydrogenases such as malate, pyruvate, a-ketoglutarate, isocitrate, etc. produce three high energy phosphate bonds for each pair of electrons transferred to O2 because they have P: O ratio of 3. Thus P: O ratio is a measure of how many moles of ATP are formed from ADP by phosphorylation per gram atom of oxygen used. This is measured as the number of moles of ADP (or Pi) that disappear per gram atom of oxygen used. Phosphate group esterified P: O ratio = ___________________________________ Electron pairs transferred P: O ratio x 7. 3 Efficiency = ______________________ x 100 51 K. Cal However, P: O ratio in case of FADH2 is 2 and therefore efficiency is lower in that case. Ref: MN Chatterjea Textbook of Medical Biochemistry, 7th Edition, Page no: 142",
         "cop": 2,
@@ -37,19 +24,6 @@
         "topic_name": "Respiratory chain",
         "id": "7221157a-034f-434d-9caa-0be1df43e3ce",
         "choice_type": "single"
-    },
-    {
-        "question": "Physiological uncoupler is",
-        "exp": "Uncouplers will allow oxidation to proceed, but the energy instead of being trapped by phosphorylation Fig. 19. 18. Impoant mitochondrial membrane transpoers. 1 = PYT (pyruvate transpoer); 2 = TCT (tricarboxylate transpoer); 3 = ANT (adenine nucleotide transpoer) is dissipated as heat. This is achieved by removal of the proton gradient. (Table 19. 5; Fig. 19. 17). The uncoupling of oxidative phosphorylation is useful biologically. In hibernating animals and in newborn human infants, the liberation of heat energy is required to maintain body temperature. In Brown adipose tissue, thermogenesis is achieved by this process. Thermogenin, a protein present in the inner mitochondrial membrane of adipocytes, provides an alternate pathway for protons. It is one of the uncoupling proteins (UCP). Thyroxine is also known to act as a physiological uncoupler. Ref: DM Vasudevan Textbook of Medical Biochemistry, 6th edition, page no: 234",
-        "cop": 4,
-        "opa": "Thyroxine",
-        "opb": "Free fatty acids",
-        "opc": "Thermogenin",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "f337e822-156a-4a54-8afc-df0c9d3cd0fe",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is physiological uncoupler-",
@@ -130,32 +104,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Substrate level phosphorylation in Glycosis is seen in which step?",
-        "exp": "Conversion of Phosphoenol Pyruvate to Pyruvate Phosphoenolpyruvate is conveed to 'Enol' pyruvate, the reaction is catalyzed by the enzyme Pyruvate kinase. The high energy PO4 of phosphoenolpyruvate is directly transferred to ADP producing ATP (Refer box). Note Reaction is irreversible. ATP is formed at the substrate level without electron transpo chain. This is another example of substrate-level phosphorylation in glycolytic pathway \"Enol\" pyruvate is conveed to `keto' pyruvate spontaneously. Inhibitors Fluoride inhibits the enzyme enolase. CLINICAL IMPOANCE Sodium fluoride is used along with K-oxalate for collection of blood for glucose estimation. If K-oxalate is used alone, then in vitro glycolysis will reduce the glucose value in the sample. Functions of Fluoride. Inhibits in vitro glycolysis by inhibiting enzyme enolase. Also acts as anticoagulant, Act. as an antiseptic. Energetics: In this stage, 2 molecules of ATP are produced, per molecule of glucose oxidised. + 2 ATPRef: MN Chatterjea Textbook of Medical Biochemistry, 8th edition, page no: 331",
-        "cop": 2,
-        "opa": "Glyceraldehyde-3-phosphate dehydrogenase",
-        "opb": "Pyruvate kinase",
-        "opc": "Phosphofructokinase",
-        "opd": "Enolase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "e5818eb8-1ede-4d13-bd9f-e664f8405d6e",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following occur in mitochondria except:",
-        "exp": "Ans. B. Glycogenolysis. Glycogenolysis occurs in the cytoplasm. Other metabolic reactions in the cytosol - glycolysis, glycogenesis, cholesterol synthesis, HMP shunt, bile acid synthesis",
-        "cop": 2,
-        "opa": "Citric acid cycle (Krebs's cycle)",
-        "opb": "Glycogenolysis",
-        "opc": "Fatty acid oxidation",
-        "opd": "Electron transport chain",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "c59d671e-b425-4b1f-bc25-e708baee9a5d",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which complex of ETC is not associated with liberation of energy -",
         "exp": "Ans. is 'b' i. e., Complex II o During the transfer of electrons through the ETC, energy is produced. This energy is coupled to the formation of ATP molecules by phosphorylation of ADP by an enzyme F0. F1, ATPase. The phosphorylation of ADP into ATP is coupled with oxidation of reducing equivalents, therefore the process is called oxidative phosphorylation, o There are three ATP synthesizing sites of electron transport chain: (i) Site I is between NAD and CoQ. i. e., Complex I; (ii) Site II is between CoQ and cytochrome C, i. e., Complex III; and (iii) Site III is between cytochrome C and oxygen, i. e., complex IV. These sites provide energy required to make ATP from ADP by an enzyme F0. F1 ATPase. o The energy liberated of site I (complex I) is used to synthesize 1 ATP molecule, at site II (complex III) is used to synthesize 1 ATP molecule and at site III (Complex IV) is used to synthesize Vi ATP molecule. Thus, when 1 NADH molecule enters the respiratory chain, it produce 2. 5 molecules of ATP. When 1 molecule of FADH2 enters the respiratory chain only 1. 5 molecules of ATP are produced as site 1 of energy liberation is bypassed. Note: Previously it was assumed the NADH produces 3 ATPs and FAD generates 2 ATPs. Recent experiments show that these old values are overestimates and NADH produces 2. 5 ATPs and FADH2 produces 1. 5 ATPs.",
         "cop": 2,
@@ -167,19 +115,6 @@
         "topic_name": "Respiratory Chain",
         "id": "625863cc-a96b-427c-85b8-43242e02cdd9",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is not true regarding ETC-",
-        "exp": "Ans. is 'c' i. e., No role of inorganic phosphate o Inorganic phosphate (Pi) is required in ETC to generate ATP. ADP + Pi -- ATPo ETC occurs in mitochondria and involves transfer of reducing equivalent to generate ATP.",
-        "cop": 3,
-        "opa": "Occurs in mitochondria",
-        "opb": "Generates ATP",
-        "opc": "No role of inorganic phosphate",
-        "opd": "Involves transport of reducing equivalent",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "d59057a1-370c-4678-a0be-c83d3c2fa445",
-        "choice_type": "multi"
     },
     {
         "question": "CO acts by inhibiting which component of respiratory chain -",
@@ -258,19 +193,6 @@
         "topic_name": "Respiratory chain",
         "id": "c5aae702-027c-449e-bdec-07e3ebf296a1",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is not true regarding ETC",
-        "exp": "Electron transpo chain Site of occurrence - Mitochondria Components of ETCProsthetic group Features Complex I NADH dehydrogenase / NADH Co-Q reductase / NADH Ubiquinone FMN, Fe. SEnergy - 12 Kcal/mol. To pump 4 protons out of mitochondria into inter membranous space. Complex IISuccinate dehydrogenase / Succinate Q reductase. FAD, Fe. SNot a proton pump as energy is liberated Coenzyme Q / Ubiquinone Q Non protein member of ETC For transferring to complex III it accepts hydrogen atoms from 1. FMNH2 produced in complex I2. FADH2 produced in complex II3. FADH2 produced in beta oxidation by acyl CoA dehydrogenase & glycerol 3 phosphate dehydrogenase Complex IIICytochrome b. C1 complex / Ubiquinone cytochrome C oxidoreductase / Cytochrome reductase FeS, Heme Energy - 10 Kcal/mol. To pump 4 protons out of mitochondria into inter membranous space. Cytochrome C Soluble carrier protein of intermembranous space Complex IV Cytochrome C oxidase / Cytochrome oxidase 2 Heme, 2 Copper ions of CuA, Cu. BTo pump 2 protons out of mitochondria into inter membranous space. Harper's illustrated Biochemistry, 30th ed, page 131",
-        "cop": 3,
-        "opa": "Occurs in mitochondria",
-        "opb": "Generates ATP",
-        "opc": "No role of inorganic phosphate",
-        "opd": "Involves transpo of reducing equivalent",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "13faf825-4b5d-478a-906c-deaaff247f86",
-        "choice_type": "multi"
     },
     {
         "question": "Main source of energy in 1min is",
@@ -364,19 +286,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is an example of uncoupler -",
-        "exp": "Ans. is 'd' i. e., All of the above o As the name suggests, these componds block the coupeling of oxidation with phosphorylation. These compounds allow the transfer of reducing equivalents in respiratory chain but prevent the phosphorylation of ADP to ATP by uncoupling the linkage between ETC and phosphorylation. Thus the energy instead of being trapped by phosphorylation is dissipated as heat. Uncouplers may bei) Natural. Thermogenin, thyroxineii) Synthetic:- 2, 4-dinitrophenol (2, 4-DNP), 2, 4-din itrocresol (2, 4-DNC), and CCCP (chlorocarbonylcyanidephenyl hydrazone).",
-        "cop": 4,
-        "opa": "Thyroxine",
-        "opb": "2, 4 DNC",
-        "opc": "2, 4. DNP",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "193cddcf-21ff-4d40-8912-0370cc51a4d4",
-        "choice_type": "multi"
-    },
-    {
         "question": "Last electron acceptor in electron transpo chain is",
         "exp": "Complex IV: Cyt-c Oxidase The system functions: * As proton pump * Catalyses transfer of electrons to molecular O2 to form H2O. This is the terminal component of ETC. It catalyzes the transfer of electrons from Cyt-c to molecular O2 Cyt-a, Cu++ ions and Cyt-a3. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th edition, page no: 142",
         "cop": 4,
@@ -401,19 +310,6 @@
         "topic_name": "Respiratory Chain",
         "id": "21347895-235a-4289-8e51-58ef40ce834b",
         "choice_type": "single"
-    },
-    {
-        "question": "Electron transport chain involves all except:",
-        "exp": "Ans: a (NADP). Ref: Vasudevan Sreekumari, 6th edi., pg. 228. NADPH is used for the reductive biosynthetic reactions e. g., de novo synthesis of fatty acid, synthesis of cholesterol and steroids. NADPH is mainly generated by the HMP shunt pathway. NADPH is not entering the ETC and NADPH will not generate ATP. NADH is used for reducing reactions in catabolic pathway e. g., pyruvate to lactate NADH enters the electron transport chain, and ATP is generated. ETC is having four complex. Complex one - NADH Co Qreductase or NADH dehydrogenase complex Complex two - succinate Q reductase Complex three - cytochrome reductase Complex four - cytochrome oxidase. Summary of electron flow in ETCComplex one - NADH-FMN-FeS-CoQ - 4 protons out of (ubiqunone) mitochondria Complex two -Succinate-FAD-FeS-CoQ (ubiqunone). Complex three -CoQ-FeS-Cytochromeb-cytochrome cl-cytochrome c -4 protons out Complex four -Cytochrome c-CuA-Cytochrome -2 protons out. a-Cytochrome a3-CuB -oxygen",
-        "cop": 1,
-        "opa": "NADP",
-        "opb": "NAD",
-        "opc": "Coenzyme Q",
-        "opd": "FAD",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "12850aba-32b2-4ac0-978e-f49a2f2bdbbd",
-        "choice_type": "multi"
     },
     {
         "question": "The vitamin present in the fatty acid synthase complex is",
@@ -453,19 +349,6 @@
         "topic_name": "Respiratory chain",
         "id": "c6e45085-cd81-4e16-b262-3e0e743edf91",
         "choice_type": "single"
-    },
-    {
-        "question": "Uncouplers oxidative phosphorylation",
-        "exp": "Uncouplers of Oxidative phosphorylation Physiological Uncouplers:-Excessive thyroxine hormone-EFA deficiency-Long chain FA in Brown adipose tissue-Unconjugated hyperbilirubinemia 2, 4 Dinitrophenol: A classic uncoupler of oxidative phosphorylation (mechanism see below). Dicoumarol (Vitamin K analogue): Used as anticoagulant SECTION TWOCalcium: Transpo of Ca++ ion into mitochondria can cause uncoupling. Mitochondrial transpo of Ca++ is energetically coupled to oxidative phosphorylation. It is coupled with uptake of Pi. When Ca++ is transpoed into mitochondria, electron transpo can proceed but energy is required to pump the Ca++ into the mitochondria. Hence, no energy is stored as ATP. CCCP: Chlorocarbonyl cyanide phenylhydrazone-- most active uncoupler. FCCP: Trifluorocarbonyl cyanide phenylhydrazone. As compared to DNP it is hundred times more active as uncoupler. Valinomycin: It produced by a type of Streptomyces. Transpos K+ from the cytosol into matrix and H+ from matrix to cytosol, thereby decreasing the proton gradient. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th edition, page no: 146",
-        "cop": 4,
-        "opa": "Snake venom",
-        "opb": "High levels of serum bilirubin",
-        "opc": "High level of T4",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "69832a0b-2ca4-4548-9c81-136c9ef0efbc",
-        "choice_type": "multi"
     },
     {
         "question": "Role of molecular oxygen in ETC -",
@@ -546,19 +429,6 @@
         "choice_type": "single"
     },
     {
-        "question": "About oxidative phosphorylation true is",
-        "exp": "In oxidative phosphorylation, ATP is produced by combining ADP and Pi with the energy generated by the flow of electrons from NADH to molecular oxygen in the electron transpo chain. There are three sites in the respiratory chain where ATP is formed by oxidative phosphorylation. These sites have been proved by the free energy changes of the various redox couples. Since hydrolysis of ATP to ADP + Pi releases around 7. 3 K. Cal/mole, the formation ATP from ADP + Pi requires a minimum of around 8 KCal/mole. The formation of ATP is therefore not possible at the sites where the free energy released is less than 8 KCal/mole. Whenever two systems or redox couple of the respiratory chain differ from each other by 0. 22 volts in standard redox potential (E'o), the free energy is sufficient to form ATP. Go = -n F Eo Go = -2 x 23. 06 x 0. 22 = -10. 15 KCal. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th Edition, Page no: 143",
-        "cop": 1,
-        "opa": "Generation of ATP's",
-        "opb": "Generation of ADP's",
-        "opc": "Utilization of ATP's",
-        "opd": "Utilization of NADP",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "89db162c-21b9-417c-bce5-8e0a51eccfa9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Complex I of ETC is inhibited by -",
         "exp": "Ans. is 'a' i. e., Amobarbital Inhibitors of Electron transport chain (Respiratory chain)o Complex I:- Barbiturates (amobarbital), piercidin A, rotenone, chlorpromazine, guanithidine. o Complex II:- Carboxin, TTFA, malonate. o Complex III:- Dimercaprol, BAL, actinomycin A, Naphthyloquinone. o Complex IV:-(cytochrome c oxidase) Carbon monoxide (CO), cyanide (CN-), H2S, azide (N3 )",
         "cop": 1,
@@ -572,19 +442,6 @@
         "choice_type": "single"
     },
     {
-        "question": "3 ATP&; s are formed in the following steps of Kreb&; s cycle",
-        "exp": "3rd Step: Formation of Alpha-Ketoglutarate i. This reaction is a two-step process, both catalyzed by the same enzyme, isocitrate dehydrogenase (Step 3, Fig. 18. 2). In the first pa of the reaction, isocitrate is dehydrogenated to form oxalosuccinate. It is an unstable compound which undergoes spontaneous decarboxylation to form alpha-ketoglutarate. ii. The NADH generated in this step is later oxidized in electron transpo chain (ETC) to generate 3 ATPs. iii. Isocitrate (6 carbons) undergoes oxidative decarboxylation to form alpha-ketoglutarate (5 carbons). In this reaction, one molecule of CO2 is liberated. iv. The isocitrate dehydrogenase has isoenzymes; the mitochondrial form utilizes NAD+, while cytoplasmic enzyme is NADP+ dependent. Ref: MN Chatterjea Textbook of Medical Biochemistry, 6th edition, page no: 218",
-        "cop": 1,
-        "opa": "Isocitrate dehydrogenase",
-        "opb": "Succinate dehydrogenase",
-        "opc": "Succinate thiokinase",
-        "opd": "Malate dehydrogenase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "cd893b76-eb65-465b-8c2d-bdb9e661a226",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which complex of electron transport chain is inhibited by cyanide?",
         "exp": "Ans. is 'd' i. e., Complex IV* Cyanide inhibits the electron transport from complex IV to oxygen* Inhibitors of respiratory chain may be divided into three groups: -1) Inhibitors of electron transport chain proper# These inhibitors inhibit the flow of electrons through the respiratory chain. This occurs at following sites. i) Complex I (NADH to CoQ) is inhibited by: - Barbiturates (amobarbital), Piericidin A (an antibiotic), rotenone (an insectiside), chlorpromazine (a tranquilizer), andguanethidine (an antihypertensive). These inhibitors block the transfer of reducing equivalents from FeS protein to CoQ. ii) Complex II is inhibited by; - Carboxin and TTFA inhibit transfer of electon from FADH2 to CoQ, whereas malanate competitively inhibit from succinate to complex II. iii) Complex III (Cytochrome b to cytochrome Cl) is inhibited by; - Dimercaprol antimycin A, BAL (British antilewisite), Naphthyloquinone. These inhibitors block the transfer of electrons from cytochrome b to cytochrome C1iv) Complex IV (cytochrome C oxidase) is inhibited by: - Carbon monoxide, CN-, H2S and azide (N3). These inhibitors block the transfer of electrons from cytochrome aa3 to molecular oxygen and therefore can totally arrest cellular respiration. 2) nhibitors of oxidative phosphorylation# These compounds directly inhibit phosphorylation of ADP to ATP.# Oligomycin inhibits F0 component of F0. F1 ATPase.# Atractiloside inhibits translocase, a transport protein that transports ADP into mitochondria for phosphorylation into ATP. 3) Uncouples# As the name suggests, these componds block the coupeling of oxidation with phosphorylation. These compounds allow the transfer of reducing equivalents in respiratory chain but prevent the phosphorylation of ADP to ATP by uncoupling the linkage between ETC and phosphorylation. Thus the energy instead of being trapped by phosphorylation is dissipated as heat.# Uncouplers may bei) Natural. Thermogenin, thyroxineii) Synthetic 2, 4-dinitrophenol (2, 4-DNP), 2, 4-dinitrocresol (2, 4-DNC), and CCCP (chlorocarbonylcyanidephenyl hydrazone).",
         "cop": 4,
@@ -596,19 +453,6 @@
         "topic_name": "Respiratory Chain",
         "id": "75378894-9301-491e-8695-6a64a618beaf",
         "choice_type": "single"
-    },
-    {
-        "question": "Cyanide inhibits",
-        "exp": "Site-III (Complex IV) * Cyanide * H2S * Azide transfer of electrons to molecular O2 * Co (Carbon monoxide): Inhibits Cyt. oxidase by combining with O2 binding site. It can be reversed by illumination with light. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th edition, page no: 143",
-        "cop": 2,
-        "opa": "Pyrurate kinase",
-        "opb": "Cytochrome C oxidase",
-        "opc": "Enolase",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "302868ca-0292-424e-9704-6bb693a38663",
-        "choice_type": "multi"
     },
     {
         "question": "Energy currency of the cell is -",
@@ -663,32 +507,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Complex-I in electron transpo chain is",
-        "exp": "ETC Complex-I i. It is also called NADH-CoQ reductase or NADH dehydrogenase complex. It is tightly bound to the inner membrane of mitochondria. ii. It contains a flavoprotein (Fp), consisting of FMN as prosthetic group and an iron-sulfur protein (Fe-S). NADH is the donor of electrons, FMN accepts them and gets reduced to FMNH2 (Fig. 19. 8). Two electrons and one hydrogen ion are transferred from NADH to the flavin prosthetic group of the enzyme. NADH + H+ + FMN - FMNH2 Summary of Electron Flow in ETC Complex I: NADH NADH NADH -- - FMN FMN FMN - Complex II: Succinate Succinate Succinate - -- Fe-S Fe-S Fe-S - -- CoQ -- FAD FAD FAD - -- Fe-S Complex III: CoQ CoQ CoQ - -- Fe-S Fe-S Fe-S - Fe-S Fe-S - -- cyt. b cyt. b cyt. b - CoQ CoQ - - - -- CoQ CoQ CoQ - - - -- cyt. c1 cyt. c1 cyt. c1 - - - cyt. c Complex IV: Cyt. c Cyt. c Cyt. c - -- cyt a-a3 cyt a-a3 cyt a-a3 - -- O O O222 cyt. c cyt. c iii. The electrons from FMNH2 are then transferred to Fe-S. The electrons are then transferred to coenzyme Q (ubiquinone) (CoQ). iv. The overall function of this complex is to collect the pair of electrons from NADH and pass them to CoQ. The reactions are shown in Fig. 19. 8. v. There is a large negative free energy change; the energy released is 12 kcal/mol. This is utilized to drive 4 protons out of the mitochondria. Ref: DM Vasudevan Textbook of Medical Biochemistry, 6th edition, page no: 228",
-        "cop": 1,
-        "opa": "NADH - CoQ reductase",
-        "opb": "CoQ - cytochrome C reductase",
-        "opc": "Cytochrome-C oxidase",
-        "opd": "None of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "641c7828-809d-49ae-ba49-7ac5206220a2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is an effect of dinitrophenol on oxidative phosphorylation?",
-        "exp": "Mechanism of Action of DNP as uncoupler Dinitrophenol (DNP) a potent uncoupler is amphipathic and increase the permeability of the lipoid inner mitochondrial membrane to protons (H+), thus reducing the electrochemical potential and sho-circuiting the ATP synthase. In this way, oxidation can proceed without phosphorylation. Note: DNP was used for weight loss. But it was discontinued due to hypehermia and other side effects. Inhibitors of electron transpo chain and oxidative phosphorylation. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th Edition, Page no: 146",
-        "cop": 3,
-        "opa": "Inhibition of cytochrome b",
-        "opb": "Blockade of both electron transpo transpo and ATP synthesis",
-        "opc": "Inhibition of ATP synthesis with normal electron transpo",
-        "opd": "Inhibition of electron transpo but not ATP synthesis",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "de30e3e6-55e6-4135-9e29-ca0802f01d0d",
-        "choice_type": "multi"
-    },
-    {
         "question": "One Krebs cycle generates how many ATP",
         "exp": "In older calculation it is 12. newly it&; s 10 ATP Generating Steps in TCA Cycle There are 3 NADH molecules generated during one cycle, each of them will give rise to 2 1/2 ATPs on oxidation by electron transpo chain (ETC); so altogether they will give 3 x 2 1/2 = 7 1/2 (7. 5) high energy phosphates. The FADH2 will generate 1 1/2 molecules of ATP. In addition, one molecule of GTP (equivalent to one molecule of ATP) is formed by substrate-level phosphorylation. Hence, per turn of the cycle, 10 high energy phosphates are produced. Ref: DM Vasudevan Textbook of Medical Biochemistry, 6th edition, page no: 220",
         "cop": 2,
@@ -713,19 +531,6 @@
         "topic_name": "Respiratory chain",
         "id": "ddc4eb9f-2abf-4252-ad33-8cf25cce27e7",
         "choice_type": "single"
-    },
-    {
-        "question": "Barbiturates act on which step of mitochondrial respiratory chain?",
-        "exp": "1. Complex I to Co-Q specific inhibitors. Alkylguanides (guanethidine), hypotensive drug. Rotenone, insecticide and fish poison. Barbiturates (amobarbital), sedative. Chlorpromazine, tranquilizer. Piericidin, antibiotic. Ref: DM Vasudevan Textbook of Medical Biochemistry, 6th edition, page no: 234",
-        "cop": 1,
-        "opa": "Compelx 1 to co-enzyme Q",
-        "opb": "Compelx 2 to co-enzyme Q",
-        "opc": "Co-enzyme Q to compelx 3",
-        "opd": "Cytochrome C to compelx 4",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "02240787-14ca-40ea-b8e8-ce45cb7b8ee3",
-        "choice_type": "multi"
     },
     {
         "question": "Immediate energy supply for muscle contraction",
@@ -832,19 +637,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following is true when one molecule of actyl CoA is oxidized by citric acid cycle except",
-        "exp": "ATP Generating Steps in TCA Cycle There are 3 NADH molecules generated during one cycle, each of them will give rise to 2 1/2 ATPs on oxidation by electron transpo chain (ETC); so altogether they will give 3 x 2 1/2 = 7 1/2 (7. 5) high energy phosphates. The FADH2 will generate 1 1/2 molecules of ATP. In addition, one molecule of GTP (equivalent to one molecule of ATP) is formed by substrate-level phosphorylation. Hence, per turn of the cycle, 10 high energy phosphates are produced. These steps are marked in Figure 18. 5 and in Table 18. 1. The summary is shown in Box 18. 2. Note: Recent work shows that in the electron transpo chain, NADH produces only 2. 5 ATPs and FADH only 1. 5 ATPs. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th Edition, Page no: 220",
-        "cop": 4,
-        "opa": "NA DH is produced & each of this molecule produces 3 ATP",
-        "opb": "FADH2 is produced which from 2 ATP",
-        "opc": "Succinyl CoA to succinate -one molecule of ATP is generated",
-        "opd": "Total of 14 ATP are generated",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "3644eac2-7db0-41d0-b495-9c706d022178",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cytochrome 450 is located in -",
         "exp": "Ans. is 'c' i. e., Endoplasmic reticulumo The drug metabolizing enzymes are divided into two types: 1. Microsomal# These are located on smooth endoplasmic reticulum primarily in liver, also in kidney, intestinal mucosa and lungs.# Examples are monooxygenase, cytochrome P450, glucronyl transferase.# They catalyze most of the oxidation, reduction, hydrolysis and glucuronide conjugation.# They are inducible by drugs, diet and other agencies. 2. Non microsomal# These are present in the cytoplasm and mitochondria of hepatic cells as well as in other tissues including plasma.# Examples are flavoprotein oxidase, esterases, amidases and conjugases.# They catalyze some oxidation and reduction, many hydrolysis and all conjugation except glucuronidation.# They are not inducible but many show genetic polymorphism (acetyl transferase, pseudocholinesterase).",
         "cop": 3,
@@ -895,19 +687,6 @@
         "topic_name": "Respiratory Chain",
         "id": "5290d387-820f-457f-b7f7-45df871d0d42",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following occur in mitochondria except",
-        "exp": "Glycogenolysis is the breakdown of glycogen (n) to glucose-1-phosphate and glycogen (n-1). Glycogen branches are catabolized by the sequential removal of glucose monomers phosphorolysis, by the enzyme glycogen phosphorylase",
-        "cop": 2,
-        "opa": "Citric acid cycle (Kreb's cycle)",
-        "opb": "Glycogenolysis",
-        "opc": "Fatty acid oxidation",
-        "opd": "Electron transpo chin",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "28600c3d-ba6e-4daa-937d-3b56349a702f",
-        "choice_type": "multi"
     },
     {
         "question": "Which energy molecule gives 10. 5kcal/molecule?",
@@ -962,19 +741,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Acetyl CoA is necessary for",
-        "exp": "Transpo of Acetyl CoA to Cytoplasm The staing material for de novo synthesis is acetyl CoA. It is formed inside the mitochondria from pyruvate. The inner membrane is not freely permeable to acetyl CoA. Hence the acetyl CoA units are delivered to the cytoplasm as citrate (Fig. 11. 13). Citrate is transpoed from mitochondria by a tricarboxylic acid transpoer. In the cytoplasm, citrate is cleaved to oxaloacetate and acetyl CoA. The enzyme is ATP citrate lyase. The oxaloacetate can return to the mitochondria as malate or pyruvate The first step in the fatty acid synthesis is the carboxylation of acetyl CoA to form malonyl CoA. The acetyl CoA carboxylase is not a pa of the multienzyme complex. But it is the rate-limiting enzyme. Biotin, a member of B complex vitamins, is necessary for this reaction. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th Edition, Page no: 136",
-        "cop": 2,
-        "opa": "Aminoacid",
-        "opb": "Fatty acid synthesis",
-        "opc": "Glucose storage",
-        "opd": "All",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "c5760218-13d6-4e92-84de-172c1d2b9bef",
-        "choice_type": "multi"
-    },
-    {
         "question": "In ETC at which complex ATP is not formed -",
         "exp": "Ans. is 'b' i. e., Succinate CoQ reductase Complex (I-IV) & Sites (I-III of ATP formation) in ETCComplex I: NADH CoQ-reductase. Permit ATP formation (Site I). Act as proton pump. Complex II: Succinate CoQ reductase. No ATP form. Complex III; CoQ - cytochrome - C reductase. Permit ATP formation (Site II). Act as proton pump. Complex IV: Cytochrome C oxidase. Permit ATP formation (Site III). Act as proton pump",
         "cop": 2,
@@ -986,19 +752,6 @@
         "topic_name": "Respiratory Chain",
         "id": "8bac5c11-e5f0-4577-a729-48324ea79eb8",
         "choice_type": "single"
-    },
-    {
-        "question": "CoA and Acyl carrier protein (ACP) are similar in that",
-        "exp": "Acetyl CoA is the combination of acetate or acetic acid (2 carbon unit) with Co-enzyme A. Acyl CoA means acyl group (any fatty acid, C4 to C26 in length) combined with Coenzyme A. Ref: MN Chatterjea Textbook of Medical Biochemistry, 6th edition, page no: 131",
-        "cop": 2,
-        "opa": "Both are present in mitochondria",
-        "opb": "Both contain pantothenic acid",
-        "opc": "Both are used in fatty acid degradation",
-        "opd": "Both are required for activation of fatty acids",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "340ac09b-2171-48ce-9447-5543066fc60f",
-        "choice_type": "multi"
     },
     {
         "question": "NADPH+, H+ is generated in the reaction catalysed by",
@@ -1064,19 +817,6 @@
         "topic_name": "Respiratory chain",
         "id": "29b47c04-06a5-42cd-87d3-bdaddff24d44",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following inhibit complex IV and totally arrest respiration except",
-        "exp": "The classic poisons H2S, carbon monoxide, and cyanide inhibit Complex IV and can therefore totally arrest respiration. Reference: Harper; 30th edition; Page no: 132",
-        "cop": 4,
-        "opa": "H2S",
-        "opb": "Carbon monoxide",
-        "opc": "Cyanide",
-        "opd": "Dimercaprol",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "01294b11-00b7-43ff-bdf0-3f631d42acdf",
-        "choice_type": "multi"
     },
     {
         "question": "In vivo control of citric cycle is affected by",
@@ -1170,45 +910,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Various compounds are added to mitochondria having a tightly coupled oxidative phosphorylation system. Addition of which of the following substrates will generate the LEAST amount of ATP",
-        "exp": "Rotenone is a site-specific inhibitor of electron transpo. it acts at the level of complex I. Malate feeds electrons to reduced nicotinamide adenine dinucleotide (NADH), which in turn is passed into the electron transpo system at the level of complex I, through NADH dehydrogenase just before the blockage induced by this drug. Therefore, no electrons can be transpoed from NADH and no adenosine triphosphates (ATPs) are made. Succinate feeds in electrons from the reduced form of flavin adenine dinucleotide (FADH2) at the level of complex II, through the action of succinyl dehydrogenase. Complex II passes its electrons to coenzyme Q at a point beyond the site of rotenone inhibition; therefore, rotenone has no inhibitory effect and 2 ATPs are produced per atom of oxygen consumed. (The number of ATPs produced per atom of oxygen used is often expressed as the number of phosphate ions taken up divided by the atoms of oxygen used. This is called the P/O ratio.) in the absence of any inhibitor, the P/O ratio for malate is 3 and for succinate 2. Actinomycin D is an inhibitor of DNA synthesis, not oxidative phosphorylation. The inhibitor of electron transpo is actinomycin A. Ref: Biochemistry by U. Satyanarayana 3rd edition Pgno: 256",
-        "cop": 3,
-        "opa": "Malate",
-        "opb": "Succinate",
-        "opc": "Malate with rotenone",
-        "opd": "Succinate with rotenone",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "5d6da355-0384-4b72-8d33-0ed8c1e9adee",
-        "choice_type": "multi"
-    },
-    {
-        "question": "NADH CoQ reductase is inhibited by -",
-        "exp": "Ans. is 'a' i. e., Rotenone o Rotenone inhibits complex I (NADH-CoQ reductase). Inhibitors of electron transport chain-o Inhibitors of respiratory chain may be divided into three groups: -Inhibitors of electron transport chain proper. These inhibitors inhibit the flow of electrons through the respiratory chain. This occurs at following sites. Complex I (NADH to CoQ) is inhibited by: - Barbiturates (amobarbital), Piericidin A (an antibiotic), rotenone (an insectiside), chlorpromazine (a tranquilizer), and guanethidine (an antihypertensive). These inhibitors block the transfer of reducing equivalents from FeS protein to CoQ. Complex II is inhibited by: - Carboxin and TTFA inhibit transfer of electon from FADH2 to CoQ, whereas malanate competitively inhibit from succinate to complex II. Complex III (Cytochrome b to cytochrome Cl) is inhibited by: - Dimercaprol, antimycin A, BAL (British anti lewisite), Naphthyloquinone. These inhibitors block the transfer of electrons from cytochrome b to cytochrome C i. Complex IV (cytochrome C oxidase) is inhibited by: - Carbon monoxide, CN-, ITS and azide (N3). These inhibitors block the transfer of electrons from cytochrome aa3 to molecular oxygen and therefore can totally arrest cellular respiration. Inhibitors of oxidative phosphorylation. These compounds directly inhibit phosphorylation of ADP to. ATP. Oligomycin inhibits Fo component of F0. F1 ATPase. Atractiloside inhibits translocase, a transport protein that transports ADP into mitochondria for phosphorylation into ATP. Uncouples. As the name suggests, these componds block the coupeling of oxidation with phosphorylation. These compounds allow the transfer of reducing equivalents in respiratory chain but prevent the phosphorylation of ADP to ATP by uncoupling the linkage between ETC and phosphorylation. Thus the energy instead of being trapped by phosphory lation is dissipated as heat. Uncouplers may be:- Natural:-Thermogenin, thyroxine. Synthetic:- 2, 4-dinitrophenol (2, 4-DNP), 2, 4-dinitrocresol (2, 4-DNC), and CCCP (chlorocarbonylcyanidephenyl hydrazone).",
-        "cop": 1,
-        "opa": "Rotenone",
-        "opb": "Carbonmonoxide",
-        "opc": "Antimycin",
-        "opd": "Atractyloside",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "8f634a16-fcf4-4848-8b67-9e3254c06ea1",
-        "choice_type": "multi"
-    },
-    {
-        "question": "True about electron transpo chain",
-        "exp": "Current Concept, Energetics of ATP Synthesis The free energy released by electron transpo through complex I to IV must be conserved in a form that ATP synthase can perform energy coupling. The energy of electron transfer is used to drive protons out of the matrix by the complexes I, III and IV that are proton pumps. The proton gradient thus created is maintained across the inner mitochondrial membrane till electrons are transferred to oxygen to form water. The electrochemical potential of this gradient is used to synthesize ATP. According to the estimated free energy of synthesis, it was presumed that around 3 protons are required per ATP synthesized. Hence when one NADH transfers its electrons to oxygen, 10 protons are pumped out. This would account for the synthesis of approximately 3 ATP. Similarly the Fig. 19. 12. Complex IV (cytochrome oxidase) of respiratory chain pumping of 6 protons, accounting for 2 molecules of ATP. However, Peter Hinkle recently proved that the actual energy production is less, because there is always leakage of protons. This results in harnessing of energy required for the production of 2. 5 ATP from NADH and 1. 5 ATP from FADH2. The synthesis of one ATP molecule is driven by the flow of 3 protons through the ATP synthase (see below). When NADH is oxidized, 10 hydrogen ions (protons) are pumped out (Fig. 19. 13). According to recent findings, one NADH may generate only 2. 5 ATP; and one FADH2 may generate only 1. 5 ATP. So, one molecule of glucose will generate only 32 ATPs. The traditional values and the new values are compared in Table 19. 4. (Please note that there is no change in the values of ATP generation by substrate-level phosphorylation). Energy efficiency of glucose oxidation giving 32 molecules of ATP and palmitate giving 106 molecules of ATP is given as 34% and 33% respectively. Ref: MN Chatterjea Textbook of Medical Biochemistry, 6th edition, page no: 230",
-        "cop": 1,
-        "opa": "FADH gives 2 ATP",
-        "opb": "Entry point of NADH is at complex II",
-        "opc": "NADH gives 3 ATP",
-        "opd": "FADH gives 3 ATP",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "3b846645-379d-4735-a741-47b4080fde7e",
-        "choice_type": "multi"
-    },
-    {
         "question": "The comparison of the amino acid sequence of Cytochrome C different species shows many variations. Most of these variations are found",
         "exp": "Reference satyanarayana 4e",
         "cop": 1,
@@ -1274,32 +975,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A scientist was studying the electron transport chain and developed a compound that bound to all the cytochromes in the proteins of the electron transport chain. Once bound, the compound blocked electron acceptance by the iron in the heme group of the cytochrome. Which one of the following would be most likely to occur in the presence of an oxidizable substrate?",
-        "exp": "Agents that act on components of the electron transport chaina. If there is a block at any point in the electron transport chain, all carriers before the block will accumulate in their reduced states, whereas those after the block will accumulate in their oxidized states. As a result, O2 will not be consumed; ATP will not be generated; and the TCA cycle will slow down because of the accumulation of NADH. (1). Rotenone, a fish poison, complexes with complex I, causing NADH to accumulate. It does not block the transfer of electrons to the chain from FADH2. (2). Antimycin (antibiotics) block the passage of electrons through the cytochrome b-c1 complex (complex III). (3). Cyanide and carbon monoxide, poisons commonly used for suicide, combine with cytochrome oxidase (complex IV) and block the transfer of electrons to O2. If the cytochromes are inhibited, ATP production, the electrochemical potential, heat production from NADH oxidation, and succinate oxidation all decrease because electron flow is not permitted. The rapid drop in ATP levels will lead to cell death.",
-        "cop": 4,
-        "opa": "The amount of heat generated from NADH oxidation would increase.",
-        "opb": "The rate of succinate oxidation would not be affected.",
-        "opc": "ATP could still be generated from the oxidation of NADH by transfer of electrons to O2.",
-        "opd": "Cell death would result from a lack of ATP.",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "8d22b911-34bc-46aa-a326-db948f2965d3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "During phagocytosis, the metabolic process called respiratory bubrst involves the activation of",
-        "exp": "Phagocytosis: Phagocytosis (Greek word-Phagein-to eat) is the engulfment of large paicles like viruses, bacteria, cells, or debris by macrophages and granulocytes. They extend pseudopodia and surround the paicles to form phagosomes which later fuse with lysosomes to form Phagolysosomes in which the paicles are digested. Biochemical mechanism is called respiratory burst, in which O2 consumption is increased and lead to formation of superoxide ion O2-. Superoxide anion O2- is conveed to H2. O2 and other free radicals OH* and OCl-, etc. which are potent microbial agent. O2- + O2- + 2H+ - H2. O2 + O2 The electron transpo chain system responsible for the \"respiratory burst\" is \"NADPH oxidase\". In resting phagocyte it is in an inactive form, consisting of cytochrome b 558 + two polypeptides (heterodimer). The NADPH oxidase system is activated by recruitment in plasma membrane by two more cytoplasmic polypeptides. Thus: 2 Cytoplasmic polypeptides Cytb558 + 2 Polypeptides _______________________ Cytb588 (Inactive NADPH oxidase) + 4 Polypeptides (Active NADPH oxidase) NADPH oxidase is activated upon contact with various ligands like complement fragment C5a, chemotactic peptides, etc. Events resulting in activation of the NADPH oxidase system involve G proteins, activation of phospholipase C and generation of inositol-1, 4, 5-triphosphate (P3). The P3 mediates a transient increase in the level of cytosolic Ca++, which is essential for the induction of the respiratory burst. Killing of bacteria within phagolysosomes appears to depend on the combined action of elevated pH, superoxide ions or other \"free radicals\" like H2. O2, OH*, and HOCl (hypochlorous acid) and on the action of ceain bactericidal peptides, called defensins and other proteins, e. g. cathepsin G and ceain cationic proteins present in phagocytic cells. Macrophages are extremely active and may ingest 25 percent of their volume per hour. In such a process, a macrophage may internalize 3 percent of its plasma membrane each minute or the entire membrane every 1/2 hour. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th edition, page no: 18",
-        "cop": 1,
-        "opa": "Oxidase",
-        "opb": "Hydrolase",
-        "opc": "Peroxidase",
-        "opd": "Dehydrogenase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "0d57fddf-3af2-47f6-8b83-2a73f218a231",
-        "choice_type": "multi"
-    },
-    {
         "question": "Electron transport chain is located in-",
         "exp": "Ans. is 'a' i. e., Inner mitochondrial membrane o As molecules, such as glucose and fatty acids, are metabolized (oxidized) they produce electons (reducing equivalents), which are donated to coenzymes like NAD' and FAD to reduce them into NADH and FADH2. o These reduced forms of coenzymes (NADH, FADH2) need to be oxidized. o This is achei ved when reduced coenzymes transfer their reducing equivalent (electrons) to electron transport chain (ETC) and these reducing equivalents are transported within in the ETC, through a specialized set of electron carriers, to oxygen, i. e.. oxygen is the terminal electron acceptor. o Oxidation of reducing equivalents in the respiratory chain is coupled with phosphorylation of ADPto ATP Q, o This is the most important mechanism for capturing the energy present in various nutrients. As the respiratory chain is located in the mitochondria, the mitochondria have been described as the power house of the cells Q, o Electron transport chain is present in the inner mitochondria] membrane Qo The enzymes of ETC are embedded in the inner membrane. o NADH and FADH2 serv e as substrates for ETC by donating their reducing equivalents (electrons) (PGMECET 07) Components of respiratory chain are: - (i) Flavin mononucleotide, (PGMECET 07) (FMN); (ii) Ubiquinone or Coenzyme Q; (iii) Iron-sulfur (Fe - S) protein associated with FMN and cytochrome b; and (iv) Cytochromes (haeme proteins): Cytochrome b, c1, c, a and a3",
         "cop": 1,
@@ -1311,19 +986,6 @@
         "topic_name": "Respiratory Chain",
         "id": "031c22d7-63e8-40a2-a3ab-6442218c7cb1",
         "choice_type": "single"
-    },
-    {
-        "question": "Uncoupler of oxidative phosphorylation is",
-        "exp": "Mechanism of Action of DNP as uncoupler Dinitrophenol (DNP) a potent uncoupler is amphipathic and increase the permeability of the lipoid inner mitochondrial membrane to protons (H+), thus reducing the electrochemical potential and sho-circuiting the ATP synthase. In this way, oxidation can proceed without phosphorylation. Note: DNP was used for weight loss. But it was discontinued due to hypehermia and other side effects Inhibitors of ETC Site-I (Complex-I) * Rotenone: A fish poison and also insecticide. Inhibits transfer of electrons through complex-I-NADH-Q-reductase. * Amobarbital (Amytal) and Secobarbital: Inhibits electron transfer through NADH-Q reductase. * Piericidin A: An antibiotic. Blocks electron transfer by competing with CoQ. * Drugs: Chlorpromazine and hypotensive drug like guanethidine. Site-II (Complex III) * Antimycin A * BAL (dimercaprol) * Hypoglycaemic drugs: like Phenformin Site-III (Complex IV) * Cyanide Blocks electron transfer from cyt b to c1 Inhibits terminal * H2S * Azide transfer of electrons to molecular O2 * Co (Carbon monoxide): Inhibits Cyt. oxidase by combining with O2 binding site. It can be reversed by illumination with light. Complex II: Succinate dehydrogenase FAD * Carboxin * TTFA Specifically inhibit transfer of reducing equivalent from succinate dehydrogenase * Malonate: A competitive inhibitor of succinate dehydrogenase. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th edition, page no: 143 & 146",
-        "cop": 1,
-        "opa": "2, 4-DNP",
-        "opb": "BAL",
-        "opc": "TTFA",
-        "opd": "Rotenone",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "743b74e8-6d72-42b2-8c5f-053c4da6621c",
-        "choice_type": "multi"
     },
     {
         "question": "The number of ATPs generated in Krebs cycle are",
@@ -1547,19 +1209,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Mechanism of 2-4 Dinitrophenol is -",
-        "exp": "Ans. is 'b'i. e., Inhibition of ATP synthesis only not ETC o Has been explained in previous session",
-        "cop": 2,
-        "opa": "Inhibition of both ATP synthesis and ETC",
-        "opb": "Inhibition of ATP synthesis only not ETC",
-        "opc": "Inhibition of only ETC not ATP synthesis",
-        "opd": "None of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "55c7842f-c88e-485b-a8a4-ff1048c0075d",
-        "choice_type": "multi"
-    },
-    {
         "question": "The specialized mammalian tissue/organ in which fuel oxidation serves not to produce ATP but to generate heat is:",
         "exp": "Ans. C. Brown adipose tissue. Brown adipose tissue contains thermogenin, which is a physiological uncoupler of oxidative phosphorylation. This process is called Nonshivering Thermogenesis.",
         "cop": 3,
@@ -1584,19 +1233,6 @@
         "topic_name": "Respiratory chain",
         "id": "8db522b3-e5f5-41b1-bab4-acd1343bcb98",
         "choice_type": "single"
-    },
-    {
-        "question": "Cyanide inhibits -",
-        "exp": "Ans. is 'b' i. e., Cytochrome C oxidase Inhibitors of Electron transport chain (Respiratory chain)o Complex I:- Barbiturates (amobarbital), piercidin A, rotenone, chlorpromazine, guanithidine. o Complex II:- Carboxim TTFA, malonate. o Complex III:- Dimercapro!, BAL. actinomycinA, Naphthyloquinone. o Complex IV(cytochrome c oxidase) Carbon monoxide (CO), cyanide (CN-), H2S, azide (N3-)",
-        "cop": 2,
-        "opa": "Pyrurate kinase",
-        "opb": "Cytochrome C oxidase",
-        "opc": "Enolase",
-        "opd": "None",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "436b4bfc-e533-42bc-be5a-c6fae96bde70",
-        "choice_type": "multi"
     },
     {
         "question": "Which complex in mitochondrial ETC does not pump out H ions -",
@@ -1625,19 +1261,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Both lipid and protein contents are equal in membrane of which organelle-",
-        "exp": "Ans. is 'b' i. e., Mitochondria o Outer mitochondrial membrane has protein to lipid ratio of 1. 1.",
-        "cop": 2,
-        "opa": "Sarcoplasmic reticulum",
-        "opb": "Mitochondria",
-        "opc": "Myeline Sheath",
-        "opd": "Golgi apparatus",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "53486618-79ad-415a-a0a7-f11e81053776",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is not a high energy molecule?",
         "exp": "HIGH ENERGY COMPOUNDS ARE 1. Nucleotides: (ATP, GTP, UTP, UDP-glucose) ATP to AMP + PPi ATP to ADP + Pi 2. Creatine phosphate 3. Arginine phosphate 4. 1, 3-bisphosphoglycerate 5. Phosphoenolpyruvate 6. Inorganic pyrophosphate 7. Carbamoyl phosphate 8. Aminoacyl adenylate (aminoacyl AMP) Sulfur Compounds 9. CoA derivatives: Acetyl CoA- 45. 6 kj- 30. 5- 43. 1- 49. 4- 61. 9- 7. 3- 51. 4 Succinyl CoA Fatty acyl CoA HMG CoA 10. S-adenosylmethionine (SAM) 11. Adenosine phosphosulfate (active sulfate). HIGH ENERGY COMPOUNDS These compounds, when hydrolyzed, will release a large quantity of energy, that is, they have a large DG0&;'. The high energy bond in compounds is usually indicated by a squiggle bond (~). The free energy of hydrolysis DG0' of an ordinary bond varies from -1 to -6 kcal/mol. For example, glucose-6-phosphate has a free energy of only 13. 8 kJ/mol (-3. 3 kcal/mol). On the other hand, the free energy of high energy bonds varies from >25 kJ/mol (-7 to -15 kcal/ mol). Ref: DM Vasudevan Textbook of Medical Biochemistry, 6th edition, page no: 226",
         "cop": 3,
@@ -1649,19 +1272,6 @@
         "topic_name": "Respiratory chain",
         "id": "cd42bea5-5813-4d15-b996-f3d10e786098",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following inhibits oxidative phosphorylation by inhibiting the transpo of ADP into and ATP out of the mitochondrion?",
-        "exp": "Atractyloside inhibits oxidative phosphorylation by inhibiting the transpoer of ADP into and ATP out of the mitochondrion. Reference: Harper; 30th edition; Page no: 132",
-        "cop": 1,
-        "opa": "Atractyloside",
-        "opb": "2, 4-dinitrophenol",
-        "opc": "Carbon monoxide",
-        "opd": "Rotenone",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "01e6b024-9146-41ce-ba4f-f58f91c72c70",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following inhibit complex IV?",
@@ -1690,19 +1300,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All these reactions take place inside the mitochondria except",
-        "exp": "EMP pathway means EMBDEN MAYERHOF PARNAS pathway. That means glycolysis. All the reactions take place exclusively in cytoplasm. In glycolysis, glucose is conveed to pyruvate or lactate along with the production of small quantity of energy. Remaining options are taking place in mitochondria fully or as a pa. Ref: MN Chatterjea Textbook of Medical Biochemistry, 7th Edition, Page no: 108",
-        "cop": 1,
-        "opa": "EM pathway",
-        "opb": "Krebs cycle",
-        "opc": "Urea cycle",
-        "opd": "Electron transfer",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "73de2dba-d51a-49a8-a2d1-2021cd0e229b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Substrate level phosphorylation is catalysed by:",
         "exp": "Ans is 'b' i. e. Thiokinase/7te/i Chatterjee Shinde, 4/e, p 264]* There are two types of phosphorylation of ADP to ATP: -Oxidative phosphorylation at the respiratory chain level. Substrate level phosphorylation. Substrate level phosphorylation: Is production of ATP 'at the substrate level' without the participation of the electron transport chain. Examples of substrate level phosphorylation: 2 in glycolytic pathway &1 in Citric acid (TCA) cycle.",
         "cop": 2,
@@ -1729,19 +1326,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Transport of ADP in and ATP out of mitochondria is inhibited by-",
-        "exp": "Ans is 'a' i. e. atractyloside u. Atractyloside inhibits oxidative phosphorylation by inhibiting the transporter of ADP into and ATP out of the mitochondrion Harper. ADP and Pi needs to be transported from the cytosol (where ATP is used for producing energy and converted into ADP) into the mitochondrion, where ATP is resynthesized. Since the inner mitochondrial membrane is impermeable to most charged or hydrophilic substances, a transporter is needed for the job. This transporter is strongly inhibited by atractyloside, a plant toxin, resulting in cessation of ATP production. Inhibitors of Electron Transport chain. Inhibit complex IInhibit Complex IIIInhibit Complex IVInhibit Complex IIRotenone- a fish poison and an insecticide Amobarbital (amytal) and Secobarbital Piericidin AAntimycin A BAL (Dimercaprol). Cyanide. Carbon monoxide Hydrogen sulphide Sodium azide. Malonate - inhibits succinate dehydrogenase. Inhibitors of Oxidative phosphorylation Oligomycin- oligomycin inhibits ATP synthase by blocking its proton channel, which is necessary for oxidative phosphorylation of ADP to ATP. Atractyloside- blocks the ADP-ATP transporter. Bongregate- toxin produced by pseudomonads, acts similar to atractyloside Uncouplers of Oxidative phosphorylation Uncouplers of oxidative phosphorylation in mitochondria inhibit the coupling between the electron transport and phosphorylation reactions and thus inhibit ATP synthesis without affecting the respiratory chain and ATP synthase. Thus mitochondria uses oxygen regardless of whether ADP and Pi available or not. Uncouplers markedly increase oxygen uptake. A TPs are not being formed, rather energy is being released as heat. Thermogenin - Thermogenin (or the uncoupling protein, UCP1) is a physiological uncoupler found in brown adipose tissue that functions to generate body heat, particularly for the newborn and during hibernation in animals 2, 4 dinitrophenol- is the most frequently used, classic uncoupler. Aspirin in high doses (other salicylates) - this explains the fever due to toxic overdoses of these drugs Dicoumarol (vitamin K analogue)CCCP (chloro carbonyl cyanide phenyl hydrazone). Calcium. Valinomycin",
-        "cop": 1,
-        "opa": "atractyloside",
-        "opb": "oligomycin",
-        "opc": "rotenone",
-        "opd": "cyanide",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "5f3d6cf7-2ed4-4f1e-9d85-e973bdaa71eb",
-        "choice_type": "multi"
-    },
-    {
         "question": "ATPs generated in TCA cycle",
         "exp": "ATP Generating Steps in TCA Cycle There are 3 NADH molecules generated during one cycle, each of them will give rise to 2 1/2 ATPs on oxidation by electron transpo chain (ETC); so altogether they will give 3 x 2 1/2 = 7 1/2 (7. 5) high energy phosphates. The FADH2 will generate 1 1/2 molecules of ATP. In addition, one molecule of GTP (equivalent to one molecule of ATP) is formed by substrate-level phosphorylation. Hence, per turn of the cycle, 10 high energy phosphates are produced. These steps are marked in Figure 18. 5 and in Table 18. 1. The summary is shown in Box 18. 2. Note: Recent work shows that in the electron transpo chain, NADH produces only 2. 5 ATPs and FADH only 1. 5 ATPs. The old values (used in the Table 18. 1. ATP generation steps Step Reactions no. Co. ATPs ATPs enzyme (old(new calculation) 3. Isocitrate - -- Alpha-ketoglutarate dehydrogenase reaction is the only one irreversible step in the cycle. The free energy changes of the reactions of the cycle are such that the cycle will operate spontaneously in the clockwise direction. Only about 33% of energy liberated is trapped as ATP. The rest is used to keep the body temperature at a higher level than the environment. Ref: DM Vasudevan Textbook of Medical Biochemistry, 6th edition, page no: 220",
         "cop": 3,
@@ -1766,19 +1350,6 @@
         "topic_name": "Respiratory Chain",
         "id": "6e2b5568-7e63-45ab-adc0-4933f72b8906",
         "choice_type": "single"
-    },
-    {
-        "question": "All are inhibitors of oxidative phosphorylation except?",
-        "exp": "Carboxin inhibits the transfer of ions from FADH2. Oligomycin, Valinomycin and Atractyloside are inhibitors of oxidative phosphorylation. Oligomycin inhibits flow of protons through Fo. Valinomycin is an ionophore which inhibits oxidative phosphorylation. Atractyloside inhibits translocase.",
-        "cop": 1,
-        "opa": "Carboxin",
-        "opb": "Oligomycin",
-        "opc": "Valinomycin",
-        "opd": "Atractyloside",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "009494ed-2f16-4c6c-9818-709934dc7687",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following vitamin is used in the electron transpo chain?",
@@ -1831,19 +1402,6 @@
         "topic_name": "Respiratory Chain",
         "id": "850d4f2c-54dd-41f7-98b6-2d73cb6806b5",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is an example of Trinucleotide repeat mutation -",
-        "exp": "Ans. is 'd' i. e., All of the above Trinucleotide repeat mutationo In this type of mutation a codon (i. e. trinucleotide sequence) undergoes amplification and the same codon is repeated continuously so many times in the chain. o Diseases associated w ith trinucleotide repeat mutation are Huntington-s disease (CAG repeat). Spinocerebellar ataxia (CAG repeat), friedreich ataxia (GAA repeat), fragile-X-syndrome (GGG or GCC repeat), dystrophia myotonica (CTG/CUG repeat), X-linked spinobulbar muscular atrophy (CAG repeat) and dentorubral paltidolusian atrophy (CAG repeat).",
-        "cop": 4,
-        "opa": "Huntington's chorea",
-        "opb": "Fragile-X-syndrome",
-        "opc": "Friedreich ataxia",
-        "opd": "All of the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "d3cd0f0b-cb35-4510-9908-0e88d844dd31",
-        "choice_type": "multi"
     },
     {
         "question": "Cytochrome P450 is name derived from -",
@@ -2041,19 +1599,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The activity of pyruvate carboxylase is dependent upon the positive allosteric effo",
-        "exp": "CoA is acetylated to acetyl-CoA by the breakdown of carbohydrates through glycolysis and by the breakdown of fatty acids through b-oxidation. Acetyl-CoA then enters the citric acid cycle, where the acetyl group is oxidized to carbon dioxide and water, and the energy released is captured in the form of 11 ATP and one GTP per acetyl group",
-        "cop": 4,
-        "opa": "Succinate",
-        "opb": "AMP",
-        "opc": "Isocitrate",
-        "opd": "Acetyl CoA",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "c3323d4e-d4ec-4c44-9310-a2448d8d3926",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is an ionophore?",
         "exp": "Valinomycin: It produced by a type of Streptomyces. Transpos K+ from the cytosol into matrix and H+ from matrix to cytosol, thereby decreasing the proton gradient. so it is an ionophore. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th edition, page no: 146",
         "cop": 4,
@@ -2104,19 +1649,6 @@
         "topic_name": "Respiratory chain",
         "id": "3cc3951b-51c5-440b-b1c7-35caec8ec34d",
         "choice_type": "single"
-    },
-    {
-        "question": "All are involved in energy metabolism except",
-        "exp": "Biological active form is Thiamine pyrophosphate (TPP). Acts as a coenzyme in several metabolic reactions. * Acts as coenzyme to the enzyme pyruvate dehydrogenase complex (PDH) which conves pyruvic acid to acetyl-CoA (oxidative decarboxylation) Pyruvate PDH TPP Acetyl-CoA * Similarly acts as a coenzyme to a-oxoglutarate dehydrogenase complex and conves a-oxoglutarate to succinyl-CoA (oxidative decarboxylation). a-oxoglutarate dehydrogenase a-Oxoglutarate TPP Succinyl-CoA * TPP also acts as a coenzyme with the enzyme Transketolase in transmetallation reaction in HMP pathway of glucose metabolism. Transketolase Ribose-5-P + xylulose-5-P TPP Sedoheptulose-7-P + Glyceraldehyde-3-P *B1 is also required in amino acid Tryptophan metabolism for the activity of the enzyme Tryptophan pyrrolase. * Also acts as a coenzyme for mitochondrial branched-chain a-ketoacid decarboxylase which catalyses oxidative decarboxylation of branched-chain a-ketoacids formed in the catabolism of valine, Leucine and Iso-leucine. TPP binds with and decarboxylates this branched-chain a-ketoacids and transfers the resulting activated -CHO groups to alipoic acid. * TPP acts as the coenzyme (Co-carboxylase) of pyruvate carboxylase in yeasts for the non-oxidative decarboxylation of pyruvate to acetaldehyde. * The coenzymes NAD+ and NADP+ operate as hydrogen and electron transfer agents by viue of reversible oxidation and reduction. The mechanism of the transfer of Hydrogen from a metabolite to oxidised NAD+, thus completing the oxidation of the metabolite and the formation of reduced NAD (NADH + H+) is shown in box. Reduction of NAD+ occurs in para position; one H loses an electron and enters the medium as H+. * Function of NADP+ is similar to that of NAD+ in hydrogen and electron transpo. The two coenzymes are interconveible. The impoant enzymes to which NAD+ and NADP+ act as coenzyme Biotin is the prosthetic group of ceain enzymes that catalyse CO2-transfer reaction (CO2-fixation reaction). In biologic system, biotin functions as the coenzyme for the enzyme called carboxylases, which catalyse the CO2-fixation (Carboxylation). In this process, Biotin is first conveed to carboxybiotin complex by reaction with HCO3- and ATP. \"CO2-biotin complex'' is the source of \"active\" CO2 which is transferred to the substrate, CO2 becomes attached to the biotin Metabolic Role of Cobamide Coenzymes * Methyl malonyl-CoA to succinyl-CoA conversion: Vitamin B12 is required as a coenzyme for the conversion of L-methyl malonyl CoA to succinyl-CoA. The reaction is catalyzed by the enzyme isomerase. B12 L-Methyl Malonyl-CoA ________________ Succinyl-CoA Isomerase Normal healthy individuals excrete less than <2 mg/day which is not detectable. Note: In B12 deficiency: Methylmalonic acid accumulates and excretion of methylmalonic acid in urine is increased. Methylmalonic aciduria is a sensitive index for B12 deficiency. * Methylation of Homocysteine to Methionine: This requires tetrahydrofolate (F. H4) as a -CH3 carrier. * Methylation of pyrimidine ring to form thymine. * Conversion of Ribonucleotides to deoxyribonucleotides: It is of impoance in DNA synthesis. B12 Ribonucleotides __________________ Deoxyribonucleotides. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th edition, page no: 178, 183, 190, 198",
-        "cop": 4,
-        "opa": "Vitamin B1",
-        "opb": "Vitamin B3",
-        "opc": "Vitamin B7",
-        "opd": "Vitamin B12",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "6f03cf89-7372-43fd-bfbd-93a385525409",
-        "choice_type": "multi"
     },
     {
         "question": "Malonate is a competitive inhibitor of",
@@ -2236,32 +1768,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Among the following, the maximum redox potential is for",
-        "exp": "Redox potentials of redox couples Cyt a3 Fe+2 = Cyt a3 Fe+3+0. 386 REDOX POTENTIAL AND FREE ENERGY In the discussion so far, we have made it clear that an oxidising or reducing agent may exist in two forms, (a) the oxidised form or oxidant which can accept electrons and (b) the reductant which can donate its electrons to a substrate. Each oxidizing or reducing agent exists as a conjugate pair of electron acceptor oxidant and electron donor reductant forms. Where 'n' is the number of electrons. The pair consisting of the oxidant and reductant forms of an oxidizing or reducing agent is known as a redox couple or conjugate redox pair, e. g. NAD+/NADH, FMN/FMNH2, Cyt-c Fe++/Cyt-c Fe+++. Oxidising agents differ in their electron affinity. The standard redox potential Eo is a measure of the tendency of a redox couple to donate or accept electrons under standard conditions. The redox potential of a given system is intimately related to its free energy change. If redox-potential of a given system is known, the corresponding free energy change which might occur in the system on oxidation or reduction may be found as follows: DF= -nf. DE'o Coulomb Joules Where F= Standard free energy n= no. of electrons f = Faraday's constant (96, 500 Coulombs) DE'o = Difference between redox potentials of the couple. nf. DE'o or. DF = ____________ calories 4. 18 If the sign of free-energy thus calculated is negative, it indicates free energy release and if positive, it indicates free energy consumption. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th Edition, Page no: 138",
-        "cop": 4,
-        "opa": "NADH/NAD",
-        "opb": "Succinyl Co A fumarate",
-        "opc": "Ubiquinone",
-        "opd": "Fe 2+",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "11cd85c9-74e6-4fee-9785-152a160ee0e3",
-        "choice_type": "multi"
-    },
-    {
-        "question": "MELAS is an inherited condition which occurs due to deficiency of",
-        "exp": "MELAS (mitochondrial encephalopathy, lactic acidosis, and stroke) is an inherited condition due to NADH-Q oxidoreductase (Complex I) or cytochrome oxidase (Complex IV) deficiency. It is caused by a mutation in mitochondrial DNA and may be involved in Alzheimer disease and diabetes mellitus. Reference: Harper; 30th edition; Page no: 135",
-        "cop": 1,
-        "opa": "Complex I",
-        "opb": "Complex II",
-        "opc": "Complex III",
-        "opd": "All the above",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "8847bbfa-c3ac-4dd2-86a3-cde519217722",
-        "choice_type": "multi"
-    },
-    {
         "question": "Substrate for ATP synthase is",
         "exp": "1. ADP and Pi bind to L binding site 2. LT conversion is by energy-driven conformational change that catalyses the formation of ATP 3. T state reves to O state when ATP is released. 4. L state is regenerated for fuher ADP binding. For the complete rotation of F1 head through the 3 states, 10 protons are translocated. Protons entering the system, cause conformational changes in the F1 paicle. Initially the ADP and Pi are loosely bound to the catalytic site on F1. As the Fo accepts protons, the affinity for ADP is increased (step 1, Fig. 19. 16). Fuher conformational change induces catalytic activity, and ATP is synthesized (step 2, Fig. 19. 16). This moves protons to the matrix side. As the ATPs are released, the original conformation of the enzyme is assumed (step 3, Fig. 19. 16). Then ADP is again bound and the cycle repeats (step 4, Fig. 19. 16). The energy surplus produced by the proton gradient is stored as chemical energy in ATP. The energy-requiring step is not at the synthesis of ATP, but energy is required for the conformational changes. Regulation of ATP Synthesis The availability of ADP regulates the process. When ATP level is low and ADP level is high, oxidative phosphorylation proceeds at a rapid rate. This is called respiratory control or acceptor control. The major source of NADH and FADH2 is the citric acid cycle, the rate of which is regulated by the energy charge of the cell. Ref: DM Vasudevan Textbook of Medical Biochemistry, 6th edition, page no: 233",
         "cop": 2,
@@ -2301,19 +1807,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following poisons act by causing inhibition of complex IV of respiratory chain except",
-        "exp": "Ans. b (Malonate) (Ref. Harper 28th/108; 109). Harper 18th. A08: The classic poisons H2S, carbon monoxide, and cyanide inhibit Complex IV and can therefore totally arrest respiration. Malonate is a competitive inhibitor of Complex II. Poison. Inhibits1. Barbiturates (amobarbital)2. Malonate3. Antimycin A and dimercaprol4. H2S, carbon monoxide, and cyanide5. Atractyloside# Electron transport via Complex 1 by blocking the transfer from Fe-S to Q. deg# Competitive inhibitor of Complex II.# Respiratory chain at Comfllex III# Complex IV and can therefore totally arrest respiration. 0# Oxidative phosphorylation by inhibiting the transporter of ADP into and ATP out of the mitochondrion.",
-        "cop": 2,
-        "opa": "Cyanide",
-        "opb": "Malonate",
-        "opc": "H2S",
-        "opd": "CO",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "b774766a-1fc8-46ba-a886-d3edafa0ebdc",
-        "choice_type": "multi"
-    },
-    {
         "question": "Role of molecular oxygen in ETC is",
         "exp": "As it turns out, the reason you need oxygen is so your cells can use this molecule during oxidative phosphorylation, the final stage of cellular respiration.... Oxygen sits at the end of the electron transpo chain, where it accepts electrons and picks up protons to form water",
         "cop": 3,
@@ -2325,45 +1818,6 @@
         "topic_name": "Respiratory chain",
         "id": "c2bc26db-0c03-4618-819b-adefcdd4e6dc",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following are inhibitors of cytochrome oxidase except",
-        "exp": "Site-III (Complex IV) * Cyanide * H2S * Azide transfer of electrons to molecular O2 * Co (Carbon monoxide): Inhibits Cyt. oxidase by combining with O2 binding site. It can be reversed by illumination with light. Amobarbital (Amytal) and Secobarbital: Inhibits electron transfer through NADH-Q reductase. Ref: MN Chatterjea Textbook of Medical Biochemistry, 8th edition, page no: 143",
-        "cop": 2,
-        "opa": "Carbon monoxide",
-        "opb": "Amytal",
-        "opc": "Cyanide",
-        "opd": "Azide",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "a6bfafa6-089a-4172-8516-a568e60d9698",
-        "choice_type": "multi"
-    },
-    {
-        "question": "NADH CoQ reductase is inhibited by",
-        "exp": "Inhibitors of electron transpo chain. Complex I Complex II Complex III Complex IV Amobarbital. Rotenone. Pericidin AGuanethidine Chlorpromazine Malonate Carboxin Antimycin A, BAL Naphthoquinone Phenformin. Carbon monoxide Cyanide. Hydrogen sulphide Azide Inhibitors of oxidative phosphorylationu. Blocking reentry of protons through ATP synthase - Oligomycin, Venturicidinu. Inhibitors of ATP - ADP exchange - Atractyloside, Bongregateu. Ionophores - Valinomycin, Gramicidin. Uncouplers of oxidative phosphorylationu. Physiological uncouplers - Thermogenin, Thyroxine, Long chain fatty acids, Unconjugated bilirubinu. Synthetic uncouplers - 2, 4 Dinitrophenol, 2, 4 Dinitrocresol, Calcium, Aspirin, Dicoumarol. Harper's illustrated Biochemistry, 30th ed, page 133",
-        "cop": 1,
-        "opa": "Rotenone",
-        "opb": "CO",
-        "opc": "Antimycin",
-        "opd": "Atractyloside",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory chain",
-        "id": "de51c89e-0cc5-4be9-8475-cb3a2e32c621",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Substrate level phosphorylation in Glycolysis is seen in which step?",
-        "exp": "ANSWER: (B) Pyruvate kinase. REF: Murray pp 130-135, Scriver, pp 1521-1552, http://en. wikipedia. org/wiki/Substratelevel_phosphorylation. Substrate-level phosphorylation is a type of metabolism that results in the formation and creation of adenosine triphosphate (ATP) or guanosine triphosphate (GTP) by the direct transfer and donation of a phosphoryi (POa) group to adenosine diphosphate (ADP) or guanosine diphosphate (GDP) from a phosphorylated reactive intermediate. Note that the phosphate group does not have to directly come from the substrate. By convention, the phosphoryl group that is transferred is referred to as a phosphate group. We use the term substrate level phosphorylation because ATP formation in glycolysis is powered by the addition/ removal of phosphate groups (phosphorylation) to molecules of glucose (the substrate). Hence the term substrate-level phosphorylation. Examples of substrate level phosphorylation that occurs in glycolysis is: The production of 1st ATP when 1, 3 bisphophoglycerate is converted into 3-phosphoglycerate by the enzyme phosphoglycerate kinase. Production of 2nd ATP when phosphoenolpyruvate is converted to pyruvate by the enzyme pyruvate kinase.",
-        "cop": 2,
-        "opa": "Glyceraldehyde 3 Phosphate dehydrogenase",
-        "opb": "Pyruvate kinase",
-        "opc": "Phosphofructokinase",
-        "opd": "Enolase",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "fa31b5d9-e49f-416f-9243-b8eb58c6f5a1",
-        "choice_type": "multi"
     },
     {
         "question": "Living cells require which of the following as a component of ATP, NAD, NADP and flavins",
@@ -2442,18 +1896,5 @@
         "topic_name": "Respiratory chain",
         "id": "d92e085f-2ba7-492f-a16a-4501bc3bbb88",
         "choice_type": "single"
-    },
-    {
-        "question": "Inhibitor of Complex I of ETC-",
-        "exp": "Ans. is 'c' i. e., Rotenone Inhibitors of Electron transport chain (Respiratory chain)o Complex I:- Barbiturates (amoborbital), piercidin A, rotenone, ehlorpromazine, guanithidine. o Complex II:- Carboxin, TTFA, malonate. o Complex III:- Dimercaprol, BAL, actinomycin A, Naphthyloquinone. o Complex IV (cytochrome c oxidase) Carbon monoxide (CO), cyanide (CN-), H2S, azide (N3 )",
-        "cop": 3,
-        "opa": "H2S",
-        "opb": "2, 4 DND",
-        "opc": "Rotenone",
-        "opd": "BAL",
-        "subject_name": "Biochemistry",
-        "topic_name": "Respiratory Chain",
-        "id": "fd933c85-c0b4-4be4-bf69-f0b27ccc3848",
-        "choice_type": "multi"
     }
 ]

@@ -1,18 +1,5 @@
 [
     {
-        "question": "CD4 is a marker for?",
-        "exp": "Ans. is 'd' i. e., T - cells o See above explanation.",
-        "cop": 4,
-        "opa": "Stem cells",
-        "opb": "All leukocytes",
-        "opc": "B - cells",
-        "opd": "T - cells",
-        "subject_name": "Pathology",
-        "topic_name": "Cells and Tissues of Immune System",
-        "id": "854c1cb0-67cc-4ce6-af71-c1e9dfe6740c",
-        "choice_type": "multi"
-    },
-    {
         "question": "The macrophage to epitheliod conversion in Mycobacterium tuberculosis infection is mediated by:",
         "exp": "Ref: Robbins Pathologic Basis of Disease, 8th edition, Pg: 183. Explanation: T Cell-Mediated (Type IV) Hypersensitivity. The cell-mediated type of hypersensitivity is initiated by antigen-activated (sensitized T lymphocytes, including CD4+ and CD8+ Tcells. Tubercle bacilli colonizing the lungs are persistent or nondegradable antigens. The perivascular infiltrate is dominated by macrophages over a period of 2 or 3 weeks. The activated macrophages often undergo a morphologic transformation into epithelium-like cells and are then referred to as epithelioid cells. A microscopic aggregation of epithelioid cells, usually surrounded by a collar of lymphocytes, is referred to as a granuloma. This pattern of inflammation, called granulomatous inflammation is typically associated with strong T-cell activation with cytokine production. M. tuberculosis enters macrophages by endocytosis mediated by several macrophage receptors: mannose receptors bind lipoarabino- mannan. a glvcolipid in the bacterial cell wall, and complement receptors bind opsonized mycobacteria. M. tuberculosis organisms replicate within the phagosome by blocking fusion of the phagosome and lysosome. About 3 weeks after infection, a T-helper 1 (TH1) response is mounted that activates macrophages to become bactericidal. Differentiation of TH1 cells depends on IL-12, which is produced by antigen-presenting cells that have encountered the mycobacteria. Mature TH1 cells, both in lymph nodes and in the lung, produce IFN-g. INF-g is the critical mediator that enables macrophages to contain the M. tuberculosis infection. IFN-g stimulates formation of the phagolysosome in infected macrophages, exposing the bacteria to an inhospitable acidic environment. Macrophages activated by IFN-y differentiate into the \"epithelioid histiocytes\" that characterize the granulomatous response, and may fuse to form giant cells. Activated macrophages also secrete TNF. which promotes recruitment of more monocytes.",
         "cop": 2,
@@ -52,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Primary immune response is by which cell?",
-        "exp": "Ans. (a) B cells. Ref: Robbin's pathology 9th ed. /187, 191. PRIMARY IMMUNE RESPONSE* The first exposure to a foreign antigen, a lag phase occurs in which no antibody is produced, but activated B cells are differentiating into plasma cells. The lag phase can be as short as 2-3 days, but often is longer, sometimes as long as weeks or months.* The amount of antibody produced is usually relatively low.* Over time, antibody level declines to the point where it may be undetectable.* The first antibody produced is manily IgM (although small amounts of IgG are usually also produced).",
-        "cop": 1,
-        "opa": "B cell",
-        "opb": "T cell",
-        "opc": "B and T cell both",
-        "opd": "Complement mediated",
-        "subject_name": "Pathology",
-        "topic_name": "Cells and Tissues of Immune System",
-        "id": "c1d7abd4-a8f0-408f-848f-bf4aa82a24da",
-        "choice_type": "multi"
-    },
-    {
         "question": "CD marker for cytotoxic T-cells-",
         "exp": "Ans. is 'b' i. e., CD 8 o Helper T-cells -CD4 positive. o Cytotoxic T-cells and suppressor T-cells - CD 8 positive.",
         "cop": 2,
@@ -78,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "HLA-I is present on -",
-        "exp": "Ans. is 'a' i. e., All nucleated cells o HLA-I - On surface of all nucleated cells and platelets, o HLA -II - Only on cells of immune system. o HLA complex consists of three separate clusters of genes: HLA Complex Class IClass IIClass IIIo Comprising A, B and C locio 'D' region - DR, DQ, DPComplement region encodeso Responsible foro Responsible foro C2 & C4* Graft rejection# Graft versus host responseo Properdin factor B* Cell mediated cytolysis# Mixed leucocyte reactiono Heat shock proteino Found on the surface ofo Found only on cellso TNF -a and ball nucleated cells andof the immune system platelets",
-        "cop": 1,
-        "opa": "All nucleated cells",
-        "opb": "Only on cells of immune system",
-        "opc": "Only on B-cells",
-        "opd": "Only on T-cells",
-        "subject_name": "Pathology",
-        "topic_name": "Cells and Tissues of Immune System",
-        "id": "c18079cc-bd6f-4c55-ba32-719215c34166",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of these is not an antigen presenting cell?",
         "exp": "Ans. (a) Bipolar cells. Ref: Robbiris pathology 9th ed. /191-192: Pocket companion to Robbin 'spathology 8th edition /119T cells cannot be activated by soluble antigens. Therefore presentation of processed antigen by antigen presenting cells is required for activation of T cells. Important Antigen Presenting Cells are* Macrophage* B cells* Dendritic cells (most potent APCs)* Langerhans cells. Bipolar cell is a type of neuron which has two extensions. Bipolar cells are specialized sensory neurons for the transmission of special senses. As such, they are part of the sensory pathways for smell, sight, taste, hearing and vestibular functions.",
         "cop": 1,
@@ -102,19 +63,6 @@
         "topic_name": "Cells and Tissues of Immune System",
         "id": "a9e7ef22-4f98-4f81-96fb-9b4d6e7512b3",
         "choice_type": "single"
-    },
-    {
-        "question": "CD4 count refers to -",
-        "exp": "Ans. is 'a' i. e., T helper cells o Helper T-cells - CD4 positive. o Cytotoxic T-cells and suppressor T-cells - CD 8 positive, o Based on function CD4 helper T cells are divided into-1. Effector CP4 helper Tcells# Functions are:-A. By TH1 cells. Activate macrophages. Delayed hypersensitivity. Cell mediated immunity. Killing of intracellular microbes. e. g. tuberculosis and leprosy. Destruction of target cells by-Activate CDS T cells to become cytotoxic cells. Activate NK cellsB By TH2 celtsi) Activate B cells to develop into antibody producing plasma cells - facilitate synthesis of antibodies. 2. Memory CD4 helper T cells# Retain the antigenic affinity of the originally activated T cells and are used to act as later effector cells during a second immune response.",
-        "cop": 1,
-        "opa": "T helper cells",
-        "opb": "B cells",
-        "opc": "Cytotoxic cells",
-        "opd": "Both B And T Cells",
-        "subject_name": "Pathology",
-        "topic_name": "Cells and Tissues of Immune System",
-        "id": "655cac05-2c0c-44c5-bcdf-c3e111bf0b10",
-        "choice_type": "multi"
     },
     {
         "question": "NK cells express -",
@@ -169,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following interleukin is characteristically produced in a TH1 response -",
-        "exp": "Ans. is 'a' i. e., IL-2 A. T helper - 1 {TH1) secretes-IL-2 and interferon - gB. T helper - 2 (T[f2) secretes-IL-4, IL-5, IL-6, EL-13 T-cellso T cells are amongst the two important cells of adaptive immune system (others are B-cells). o T cell precursors arise in bone marrow (also in yolk sac & liver before birth) and migrate to the thymus, o Maturity ofT-cells takes place in the thymus (So, T cells arise in bone marrow and mature in thymus), o T-cells constitutes 60%-70% of the circulating peripheral lymphocytes. o Based on their surface markers. target cells and functions the following T cell category have been identified: 1. Helper/Inducer T cells. These cells have CD4 surface marker and are MHC class II restricted. These are further subdivided into: -A. Effector CD4 helper T cellso These cells secrete cytokines and other products that perform all major functions, o These cells are of following types. TH, cells. These cells are activated by IFN-g. These cells produce IL-2, IFNyand IL-12. These cells facilitate delayed hypersensitivity, cell mediated immunity. Macrophage activation, killing of intracellular microbes e. g., tuberculosis & leprosy. These cells also induce destruction of target cell by: -Activating CD8 T cells to become cytotoxic cells; and. Activating NK cells. TH, cells. These cells are activated by IL-4. These cells secrete IL-4, 1L-5, IL-6 and IL-13. hese cells facilitates the synthesis of antibodies particularly IgE and cause activation of mast cells and eosinophils - Therefore, provide defence against Helminthic parasites. TH17 cellsA third subset of CD4 T-cells (besides TH1 and TH2) has been discovered recently and is called the TH17 cells. If the antigen producing cells produce inflammatory cytokines such as IL-1, IL-6 and IL-23, these work in collaboration with TGF-(3 to stimulate differentiation of T-cells to the TH 17 cells. TH17 cells are powerful recruiters of neutrophils and monocytes, and thus play major roles in severe inflammatoiy diseases. They may also be important for defense against some bacterial and fungal infections in which neutrophilic inflammation is a prominent feature. TH 17 cells are activated by some microbial antigens and by self antigens in autoimmune diseases. Activated TH17 cells secret IL-17, IL-22 and chemokines. Collectively, these cytokines recruit neutrophils and monocytes. TH17 cells produce IL-21, which amplifies the TH17 (self) response. B. Memory CD4 helper T cellso Provide memory, i. e., retain the antigenic affinity of the originally activated T cells and are used to act aslater effector cells during a second immune response. Cytolytk/cytotoik T cells. These cells have CD8 surface marker and are MHC class I restricted. They kill and lyse target cells including tumor cells, virus infected cells and allograft; and participate in type II Hypersensitivity. Suppressor T-cells. These cells have CDg surface marker and are MHC class I restricted. These cells down regulate immune response. o Helper T cell (CD4 T cell) is known as the master regulator of the immune system. o The ratio of CD4 and CD8 T cell is normally 2: 1.",
-        "cop": 1,
-        "opa": "IL-2",
-        "opb": "IL-4",
-        "opc": "IL-5",
-        "opd": "DL-10",
-        "subject_name": "Pathology",
-        "topic_name": "Cells and Tissues of Immune System",
-        "id": "713a720a-04c0-4387-945b-3af575dbbdfb",
-        "choice_type": "multi"
-    },
-    {
         "question": "The most potent stimulator of naive T cells is -",
         "exp": "Ans. is 'b' i. e., Mature dendritic cells Naive T cell. These are newly produced T cells. This is a T cell arising from immune system production of fresh cells in bone marrow. These cells respond to the newly encountered pathogens containing antigens which the immune system has not processed before. The naive T cell activation and proliferation create an acquired immunity to the newly encountered pathogen. After the disease is eradicated a small portion of T cell population engendered by activated Naive T cell constitute a reservoir of Memory T cell which proliferate and respond very quickly to the recurrence of disease. Proliferation of Naive T cells. Dendritic cells and dendritic cell derived cytokines are the most potent stimulator for proliferation of Naive T cells.",
         "cop": 2,
@@ -208,19 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What is true about interferon?",
-        "exp": "Ans is 'c' i. e. Induce enzyme synthesis in the target cell o Interferons (IFNs) are a group of signaling proteins, made and released by host cells in response to the presence of several pathogens, such as viruses, bacteria, parasites, and also tumor cellso IFNs belong to the large class of proteins known as cytokines. o IFNs also have various other functions: they activate immune cells, such as natural killer cells and macrophages; they increase host defenses by up-regulating antigen presentation by virtue of increasing the expression of major histocompatibility complex (MHC) antigens. o They are typically divided among three classes: Type IIFN, Type IIIFN, and Type III IFN. o In response to interferon, cells produce large amounts of an enzyme known as protein kinase R (PKR). This enzyme phosphorylates a protein known as e. IF-2 in response to new viral infections. The phosphorylated eif-2 forms an inactive complex with another protein, called eif2b, to reduce protein synthesis within the cell.",
-        "cop": 3,
-        "opa": "Are specific for individual viruses",
-        "opb": "Are protective against only viruses",
-        "opc": "Induce enzyme synthesis in the target cell",
-        "opd": "Are divided into 5 subtypes",
-        "subject_name": "Pathology",
-        "topic_name": "Cells and Tissues of Immune System",
-        "id": "ea9bad7d-97b2-482e-b054-a78ad531551c",
-        "choice_type": "multi"
-    },
-    {
         "question": "The primary function of Toll like Receptors is?",
         "exp": "ANSWER: (B) Activation of Immune System. REF: Wintrobe's Clinical Hematology 11th ed chapter 2. In the late 1990s and early 2000s, researchers identified mammalian analogs of the Drosophila Toll receptor, cloned the mammalian Toll-like receptor 4 (TLR4), identified TLR4 as the receptor for lipopolysaccharide (LPS) and the membrane transducer for LPS signaling in mononuclear phagocytes and other cells, and identified other TLRs as receptors for other microbial components. CD 14 binds bacterial LPS (endotoxin) and, as a component of a multimolecular complex, plays an important role in LPS-induced activation, inflammatory response, and innate immunity. LPS is captured by a serum LPS-binding protein and is transported to CD14, which binds the complex. CD14, however, cannot trigger activation because it lacks an intracellular region. This function is mediated by one of a group of molecules known as Toll-like receptors (TLR), as they are structurally homologous to the Toll receptors of the fruit fly Drosophila melanogaster.",
         "cop": 2,
@@ -232,19 +154,6 @@
         "topic_name": "Cells and Tissues of Immune System",
         "id": "8ec4f6d0-3c72-4098-a4d0-dd619597a8f0",
         "choice_type": "single"
-    },
-    {
-        "question": "The following interleukin is characteristically produced in TH1 response -",
-        "exp": "Ans. is 'b' i. e.? IL2 Selected important cytokines. Name. Major Cellular Source. Selected Biologic Effects. IFN-a, -b. Leukocytes (IFN-a), fibroblasts (IFN-b). Antiviral, pyrogenic. IFN-(interferon)T cells, NK cells. Activates mononuclear phagocytes. TNF-a (tumor necrosis factor alpha). Macrophages, NK cells. Cell activation, fever, cachexia, antitumor. TNF -b (tumor necrosis factor beta). T cells. B cells. Activates leukocytes, antitumor. LT (lymphotoxin) 1L-1 (interleukin - 1). Macrophages, epithelial cellsT cell and macrophage activation, fever, cachexia. IL-2 (interleukin - 2)T cells (CD4 Helper T-cells)T cell growth and activation. IL-3 (interleukin - 3)T cells, thymic epithelial cells. Hematopoiesis. IL-4 (interleukin - 4)T cells, mast cells, NK cellsB cell proliferation and switching to Ig. EIL-5 (interleukin - 5)T cells. Differentiation of eosinophils. IL-7 (interleukin - 7). Bone marrow stromal cells. Lymphoid progenitor differentiation",
-        "cop": 2,
-        "opa": "IL1",
-        "opb": "IL2",
-        "opc": "IL3",
-        "opd": "IL4",
-        "subject_name": "Pathology",
-        "topic_name": "Cells and Tissues of Immune System",
-        "id": "d25d0cf4-93ae-4270-b17d-5dc390097423",
-        "choice_type": "multi"
     },
     {
         "question": "Complement proteins constitute what percentage of serum proteins?",
@@ -271,19 +180,6 @@
         "topic_name": "Cells and Tissues of Immune System",
         "id": "08e75379-fe8a-446f-9e6d-640b43bed616",
         "choice_type": "single"
-    },
-    {
-        "question": "MHC class I represented on-",
-        "exp": "Ans. is 'b' i. e.. All nucleated cells [Ref: Robbin's 8th/e p. 192; Ananthanarayan 7th/e p. 130}o The histocompatibility antigens (human leukocyte antigens - HLA) are cell surface antigens that induce an immune response leading to rejection of allografts. o The principal physiologic function of the cell surface histocompatibility molecules is to bind peptide framents of foreign proteins for presentation to antigen specific T celts. o The histocompatibility antigens are encoded by a closely linked multiallelic cluster of genes - Major histocompatibility complex (MHC) or Human leukocyte antigens complex (HLA complex). MHCClass IClass 11O B cellso B ceilso Langerhan's cellso Langerhans's cellso Dendritic cellso Dendritic cellso Macrophageso MacrophagesoT-cellsoT cellso Epithelial cells of thymuso Epithelial cells of thymuso Neutrophils o Hepatocytes o Kidney o Brain o HLA complex of genes is located on the short arm of chromosome 6. o It consists of three separate clusters of genes: HLA Complex (MHC complex|Class 1. Class 11. Class IIIo Comprising A, B and C locio 'D\" region - DR, DQ, DPComplement region encodeso Responsible foro Responsible foro C, &Cj# Graft rejection# Graft versus host responseo Properdin factor B# Cell mediated cyto lysis# Mixed leucocyte reactiono Heat shock proteino Found on the surface ofo. Found only on cellso TNF - ot and iall nucleated cells andof the immune system platelets",
-        "cop": 2,
-        "opa": "All cells",
-        "opb": "All nucleated cells",
-        "opc": "RBCs",
-        "opd": "None",
-        "subject_name": "Pathology",
-        "topic_name": "Cells and Tissues of Immune System",
-        "id": "b658c464-3a01-4aff-bb68-94e41fc400ec",
-        "choice_type": "multi"
     },
     {
         "question": "Surface Immunoglobulin is found in which cell? '",

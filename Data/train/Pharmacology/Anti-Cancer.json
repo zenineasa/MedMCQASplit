@@ -26,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most emetogenic anti CA drug:",
-        "exp": "Ref: Katzung 14th ed. pg. 956; KDT, 6th ed. pg. 828* Cisplatin is a platinum coordination complex that is hydrolyzed intracellularly to produce a highly reactive moiety which causes cross linking of DNA by platinum compound.* It is a highly emetic drug. Antiemetics are routinely administered before infusing cisplatin.* DOC for cisplatin induced vomiting: Ondansetron* Major s/e of cispltin: Ototoxicity and nephrotoxicity.",
-        "cop": 3,
-        "opa": "5 FU",
-        "opb": "Methotrexate",
-        "opc": "Cisplatin",
-        "opd": "All",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Cancer",
-        "id": "1caf4123-ec62-4909-97c0-f1ced69dde75",
-        "choice_type": "multi"
-    },
-    {
         "question": "Cardiomyopathy is caused by",
         "exp": "Ref: Katzung 14th ed. pg. 964-65; KDTy 6th ed. pg. 826-27* Doxorubicin and daunorubicin are anti-tumor antibiotics. Activity of Daunorubicin is limited to acute leukemia while doxorubicin is effective in several solid tumors.# MOA: Cause breaks in DNA strands by activating topoisomerse II and generating quinolone type free radicals.# Doxrorubicin and daunorubicin both these antibiotics produce cardiotoxicity as a unique adverse effect.* Actinomycin D (Dactinomycin) It is a very potent antineoplastic drug, highly efficacious in Wilms' tumour and rhabdomyosarcoma# Prominent adverse effects are vomiting, stomatitis, diarrhoea, erythema and desquamation of skin, alopecia and bone marrow depression* Mitoxantrone: Recently introduced analogue of doxorubicin with lower cardiotoxicity, probably because it does not produce quinine type free radicals. Though cardiomyopathy can occur, major toxicity is marrow depression and mucosal inflammation.* Mitomycin C: This highly toxic drug is used only in resistant cancers of stomach, cervix, colon, rectum, bladder, etc# Bone marrow and GIT are the primary targets of toxicity.",
         "cop": 2,
@@ -91,19 +78,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A monoclonal antibody, also called antiangiogenesis agent used in metastatic colo- rectal carcinoma is",
-        "exp": "C. i. e. (Bevacizumab) (478 - Lippincott's Pharmacology 3rd)BEVACIZUMAB - is the first in a new class of anticancer drugs called antiangiogenesis agents. Bevacizumab is approved for use as a first line drug against metastatic colo-rectal cancer and is given with 5- FU- based chemotherapy* Most common adverse effects - Hypertension, Stomatitis, and diarrhea. Monoclonal antibody. Indication. Adverse effects* TRASTUZUMAB* Metastatic breast cancer.* Administered with paclitaxel- Congestive heart failure* RITUXIMAB* Genetically engineered chimeric monoclonal antibody directed against the CD-20 antigen1. Post transplant lymphoma2. Chronic lymphocytic leukemia- Hypotension bronchospasm- Angioedema- Tumor lysis syndrome. CETUXIMAB* Antineoplastic effect* Treat colorectal cancer* Used with irinotecan- Difficulty in breathing & LOW BP*Abciximab is platelet inhibitor**",
-        "cop": 3,
-        "opa": "Trastuzumab",
-        "opb": "Rituximab",
-        "opc": "Bevacizumab",
-        "opd": "Cetoximab",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Cancer",
-        "id": "9dfdcbeb-effd-4a47-ba8b-ac7fe398505f",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which one of the following compounds increases the synthesis of tumor necrosis factor, leading to activation of phagocytosis in patients with chronic granulomatous disease?",
         "exp": "Interferon-gamma 1b (recombinant form) is used in chronic granulomatous disease to decrease infection liability because it increases the formation of tumor necrosis factor (TNF). Infliximab is a monoclonal antibody to TNF used in rheumatoid arthritis, and its use may lead to an increased infection rate. Aldesleukin is a recombinant form of IL-2.",
         "cop": 3,
@@ -128,32 +102,6 @@
         "topic_name": "Anti-Cancer",
         "id": "f60fb861-9b49-4607-be8d-45ff6f431ba6",
         "choice_type": "single"
-    },
-    {
-        "question": "All are alkylating agents used in chemotherapy EXCEPT:",
-        "exp": "Ref: KDT pg. 819-20; Katzungy 14th ed. pg. 958-961* Alkylating agents have cytotoxic and radiomimetic actions. They are mainly cell cycle non-specific, i. e. act on dividing as well as resting cells.* Cross-linking of DNA appears to be of major importance to the cytotoxic action of alkylating agents, and replicating cells are most susceptible to these drugs.* Drugs are: Alkylating agents- cell cycle- nonspecific agents. Antimetabolites- cell cycle- specific agents. Nitrogen mustard* Cyclophosphamide* Ifosfamide* Mechlorethamine* Melphalan* Chlorambucil. Folic acid antagonist: Methotrexate. Purine analogues* 6 Mercaptopurine* 6thioguanine* Cladribine* Fludarabine. Drugs acting by Methylation* Procarbazine* Dacarbazine* Temozolomide. Pyrimidine analogues* Capecitabin* Gemcitabin* Cyatarabine and 5 FUNitrosoureas* Carmustine* Lomustine* Semustine* Streptozocin. Miscellaneous* Busulfan* Altretamine* Thiotepa* Trabectadin",
-        "cop": 3,
-        "opa": "Melphalan",
-        "opb": "Busulfan",
-        "opc": "Cladribine",
-        "opd": "Cyclophosphamide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Cancer",
-        "id": "0a3fbb51-c995-4932-8a4c-452839fae4cb",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Following a myocardial infarct, a patient is stabilized on warfarin, with the dose adjusted to give a prothrombin time of 22 seconds. Which one of the following statements regarding potential drug interactions in this patient is accurate?",
-        "exp": "Warfarin binds extensively (98%) but weakly to plasma proteins and can be displaced by other drugs (e. g., ASA, chloral hydrate, phenytoin, sulfinpyrazone, and sulfonamides), resulting in an increase in its anticoagulant effects. Bile acid sequestrants bind acidic drugs like warfarin, preventing their GI absorption (| prothrombin time, PT), and cimetidine, which inhibits the metabolism of warfarin, causing an increase in PT. Vitamin K restores levels of prothrombin and several other coagulation factors, but the action is slow (24-48 h). Due to antiplatelet effects, even low doses of ASA may enhance bleeding in patients on warfarin.",
-        "cop": 3,
-        "opa": "Cholestyramine will increase prothrombin time.",
-        "opb": "Cimetidine is likely to decrease prothrombin time.",
-        "opc": "Antibacterial sulfonamides may enhance the effects of warfarin.",
-        "opd": "Vitamin K would restore prothrombin time to normal within 30 minutes.",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Cancer",
-        "id": "43f987d2-abda-4bb1-85d6-f008cb7d228f",
-        "choice_type": "multi"
     },
     {
         "question": "Dose dependant least neurotoxicity is found in",
@@ -182,19 +130,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is/are used in hormonal therapy of breast carcinoma?",
-        "exp": "Ans. d (All of the above) (Ref. Sabiston I8, h / Table 34-17; H-17, h/Table 86-3). Endocrine-Active Agents Used in the Treatment of Breast Cancer Class. Common examples. Clinical use1. Selective estrogen receptor modulators (SERMs)QTamoxifen, Raloxifene, Toremifene. Adjuvant therapy for metastatic disease2. Aromatase inhibitors (AIs). Anastrozole Letrozole Exemestane Adjuvant therapy for metastatic disease3. Pure antiestrogens. Fulvestrant. Second-line therapy for metastatic disease4. LHRH agonists. Goserelin, Leuprolide. Adjuvant therapy for metastatic disease5. Progestational agents. Megestrol. Second-line agent for metastatic disease6. Androgens. Fluoxymesterone. Third-line agent for metastatic disease7. High-dose estrogens. Diethylstilbestrol. Third-line agent for metastatic disease. HORMONAL THERAPY FOR CARCINOMA BREASTIn patients with node-negative cancer, certain groups may suffer higher relapse rates, and the absolute benefits of chemotherapy are greater. Poor prognostic signs follow: 1. Tumor size >2 cm2. Poor histologic and nuclear grade3. Absent hormone receptors4. High proliferative fraction (S phase)5. Content of certain oncogenes such as erb-B2 (HER-2/neu). Drug tamoxifen is an estrogen agonist-antagonist and currently the first-line Rx of estrogen-sensitive breast cancer. Educational Points. New Agents for Ca breast# Trastuzumab (Herceptin) is a humanized murine monoclonal ab raised against the erb-B2 or HER-2 surface receptor.# Agents that specifically target EGFR include erlotinib and gefitinib and the monoclonal antibody cetuximab. These drugs have found most use in non-small cell lung, pancreatic, and colorectal cancer.# Dual inhibitors of both EGFR and HER-2 have been developed and are finding their way into the treatment of breast cancer (e. g., lapatinib, a dual inhibitor of both enzymes). Age Group. Lymph Node Status. Endocrine Receptor (ER) Status. Tumor. Recommendation. Premenopausal. Positive. Any. Any. Multidrug chemotherapy + tamoxifen if ER-positive + trastuzumab in HER-2/neu positive tumors. Premenopausal. Negative. Any>2 cm, or 1-2 cm with other poor prognostic variables. Multidrug chemotherapy + tamoxifen if ER-positive + trastuzumab in HER-2/neu positive tumors. Post-menopausal. Positive. Negative. Any. Multidrug chemotherapy + trastuzumab in HER-2/neu positive tumors. Postmenopausal. Positive. Positive. Any. Aromatase inhibitors and tamoxifen with or without chemotherapy + trastuzumab in HER-2/neu positive tumors. Postmenopausal. Negative. Positive>2 cm, or 1-2 cm with other poor prognostic variables. Aromatase inhibitors and tamoxifen + trastuzumab in HER-2/neu positive tumors. Postmenopausal Negative. Negative>2 cm, or 1-2 cm with other poor prognostic variables. Consider multidrug chemotherapy + trastuzumab in HER-2/neu positive tumors.",
-        "cop": 4,
-        "opa": "Letrozole",
-        "opb": "Anastrozole",
-        "opc": "Tamoxifen",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Cancer",
-        "id": "bef6be61-33a4-4d4f-a8eb-f9a275de7b0e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following DMARD acts by increasing adenosine extracellularly?",
         "exp": "Ans. (A) Methotrexate(Ref: Katzung 13/e p627). Major mechanism of methotrexate at low doses used in rheumatoid arthritis is inhibition of AICAR (Aminoimidazole carboxamide ribonucleotide) transformylase and thymidylate synthase enzymes. This results in accumulation of AICAR in the cells. AICAR is a competitive inhibitor of AMP deaminase resulting in accumulation of AMP. Later is converted to adenosine which is a powerful anti-inflammatory compound.",
         "cop": 1,
@@ -221,19 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Symptoms of iron poisoning in a 3-year-old child may include severe GI distress with hematemesis, a shock like state with marked dehydration and progressive hemorrhagic gastritis. Regarding the management of iron toxicity, which one of the following statements is accurate?",
-        "exp": "Deferoxamine chelates iron and is the antidote in iron poisoning. Gastric lavage should be attempted with care regarding aspiration, but changes in urine pH have no effect on the elimination of iron. Laboratory results will reveal an increased anion gap indicative of acidosis. The systemic absorption of many drugs taken orally can be reduced by activated charcoal; unfortunately, iron is not one of them.",
-        "cop": 4,
-        "opa": "Gastric lavage should not be attempted because of possible aspiration of stomach contents.",
-        "opb": "The patient is likely to have a reduced anion gap.",
-        "opc": "Urinary alkalization increases elimination of iron.",
-        "opd": "Deferoxamine should be administered as soon as possible.",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Cancer",
-        "id": "500d31b0-1713-42fe-a973-dd657ed97e09",
-        "choice_type": "multi"
-    },
-    {
         "question": "Methotrexate toxicity is prevented by giving?",
         "exp": "Ans. is 'b' i. e., Folinic acid * Folinic acid. For preventing methotrexate toxicity* Allopurinol. To prevent hyperuricemia caused by rapid destruction of cells during cancer chemotherapy.* Lithium carbonate. It has stimulant effect on bone marrow, so used during myelosuppresive drug therapy.* Ondensetron. For controlling cytotoxic drug induced vomiting.* Mesna. For prevention of cyclophosphamide/ formamide indused hemorrhagic cystitis",
         "cop": 2,
@@ -245,19 +167,6 @@
         "topic_name": "Anti-Cancer",
         "id": "6fa5b8e5-df56-4807-b50e-59d19f59e44d",
         "choice_type": "single"
-    },
-    {
-        "question": "All are alkylating agent except:",
-        "exp": "Ans. C. Cladribine. Alkylating agents are cyclophosphamide, ifosfamide, busulfan melphalan, carmustine, lomustine. cladribine is antimetabolite.",
-        "cop": 3,
-        "opa": "Busulfan",
-        "opb": "Melphalan",
-        "opc": "Cladribine",
-        "opd": "Cyclophosphamide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Cancer",
-        "id": "915ca0d3-4c62-4ae5-8986-3294122a4f04",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following causes significant Alopecia (epilation agent):",
@@ -377,19 +286,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A patient undergoing cancer chemotherapy has an increase in urinary frequency with much discomfort. No specific findings are apparent on physical examination. Laboratory results include hematuria and mild leukopenia but no bacteria or crystalluria. If the symptoms experienced by the patient are drug related, the most likely cause is",
-        "exp": "The symptoms are those of a mild case of hemorrhagic cystitis. Bladder irritation with hematuria is a fairly common complaint of patients treated with cyclophosphamide. It appears to be due to acrolein, a product formed when cyclophosphamide is bioactivated by liver P450 to form cytotoxic metabolites. Urinary tract problems may also occur with methotrexate from crystalluria due to its low water solubility.",
-        "cop": 1,
-        "opa": "cyclophosphamide",
-        "opb": "5-FU",
-        "opc": "methotrexate",
-        "opd": "prednisone",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Cancer",
-        "id": "a2e288e2-310e-44b3-893c-92e76a9d95b9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Side effect seen with cisplatin:",
         "exp": "Ans. A. Nausea/vomiting. Cisplatin is highly emetogenic drug. It directly stimulates the CTZ area. Treatment of choice for this toxicity is ondansetron. Methotrexate is highly nephrotoxic. Busulfan and bleomycin are known to cause pulmonary fibrosis. Bone marrow suppression is side effect which is commonly seen with all the anticancer drugs.",
         "cop": 1,
@@ -494,19 +390,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Alkylating agent used in chemotherapy:",
-        "exp": "Ref: KDT pg. 819-20; Katzung, 11th ed. pg. 1280* Bleomycin: This is a mixture of closely related glycopep- tides antibiotics having potent antitumour activity.* It is highly effective in testicular tumour and squamous cell carcinoma of skin, oral cavity, head and neck, genitourinary tract and esophagus.* Side effect: pulmonary fibrosis and myelosuppression. Alkylating agents have cytotoxic and radiomimetic actions. They are mainly cell cycle non-specific, i. e. act on dividing as well as resting cells.* Cross-linking of DNA appears to be of major importance to the cytotoxic action of alkylating agents, and replicating cells are most susceptible to these drugs.* Drugs are: Alkylating agents- cell cycle- nonspecific agents. Antimetabolites- cell cycle- specific agents. Nitrogen mustard* Cyclophosphamide* Ifosfamide* Mechlorethamine* Melphalan* Chlorambucil. Folic acid antagonist: Methotrexate. Purine analogues* 6 Mercaptopurine* 6thioguanine* Cladribine* Fludarabine. Drugs acting by Methylation* Procarbazine* Dacarbazine* Temozolomide. Pyrimidine analogues* Capecitabin* Gemcitabin* Cyatarabine and 5 FUNitrosoureas* Carmustine* Lomustine* Semustine* Streptozocin. Miscellaneous* Busulfan* Altretamine* Thiotepa* Trabectadin",
-        "cop": 4,
-        "opa": "Mechlorethamine",
-        "opb": "Procarbazine",
-        "opc": "Cyclophosphamide",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Cancer",
-        "id": "b053ade9-631e-4a25-b13b-08404a71b148",
-        "choice_type": "multi"
-    },
-    {
         "question": "Most common agent associated with agranulocytosis is:",
         "exp": "Ans. b. Alkylating agents. Ref: Harrison 19th e/P 417. Most common cause of agranulocytosis is iatrogenic, i. e. drug induced. Most common drugs causing agranulocytosis are anticancer drugs which inhibit cell cycle like alkylating agents and antimetabolites like methotrexate, 5-FU and 6-MP.",
         "cop": 2,
@@ -518,19 +401,6 @@
         "topic_name": "Anti-Cancer",
         "id": "3e7b575d-f30f-481c-975a-0d6b3a40445a",
         "choice_type": "single"
-    },
-    {
-        "question": "A female patient with a mechanical heart valve who is taking warfarin informs you that she hopes to get pregnant in the near future. What advice do you give her regarding her antithrombotic medication during the anticipated pregnancy?",
-        "exp": "Discontinuance of warfarin is appropriate during pregnancy because it is a known teratogen that causes bone dysmorphogenesis. The patient will need continued protection against thrombus formation, and heparin (or a related low molecular weight compound) is usually advised, despite the fact that the drug will require parenteral administration and can cause thrombocytopenia.",
-        "cop": 4,
-        "opa": "Continue with warfarin until the third trimester.",
-        "opb": "She should replace warfarin with aspirin at analgesic doses.",
-        "opc": "Discontinue all medications that affect the blood.",
-        "opd": "Replace warfarin with heparin.",
-        "subject_name": "Pharmacology",
-        "topic_name": "Anti-Cancer",
-        "id": "abda6ac9-fa74-4a35-b75e-dedeb0c56673",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is an anti - VEGF drug?",

@@ -65,45 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Which of the following is the smallest autosome?",
-        "exp": "Karyotyping Chromosome visualisation technique in which chromosome pairs are arranged in decreasing order of size except chromosome 21 & 22. Feature Chromosome no. The largest chromosome 1 The smallest chromosome Y The smallest autosome 21",
-        "cop": 3,
-        "opa": "Chromosome 1",
-        "opb": "Y chromosome",
-        "opc": "Chromosome 21",
-        "opd": "Chromosome 22",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of genetics",
-        "id": "f13a83e1-90ec-4f19-b859-79fde39eef75",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are ways of regulation of gene expression in eukaryotes, except:",
-        "exp": "Regulation of gene expression in eukaryotes. Unlike prokaryotes, transcription and translation are temporally and spatially separated in eukaryotes. This allows more points of regulation: Gene amplification Gene rearrangement Differential RNA processing Transpo of m. RNA from nucleus to cytoplasm Regulation of m. RNA stability Regulation at translation level Regulation by mi. RNA Attenuation by operon is seen in prokaryotes, not in eukaryotes",
-        "cop": 1,
-        "opa": "Attenuation by operon",
-        "opb": "Gene amplification",
-        "opc": "Gene rearrangement",
-        "opd": "Regulation of m. RNA stability",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of genetics",
-        "id": "d9ef1e59-75b0-44a7-900e-e0581644f10b",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The ZYA region of the lac operon will be maximally expressed if:",
-        "exp": "When the c. AMP levels are low- there is no binding of CAP to CAP site. | No ourable interaction for RNA polymerase. | Lac operon is not expressed. - option a is excluded. When glucose is available, Lac operon is not expressed Attenuation is seen in tryptophan operon, not Lac operon For optimal expression of lac operon, The CAP site should be occupied the operator site should be free of repressor.",
-        "cop": 4,
-        "opa": "Cyclic AMP levels are low",
-        "opb": "Glucose and lactose are both available",
-        "opc": "The attenuation stem-loop is able to form",
-        "opd": "The CAP site is occupied and the operator site is free",
-        "subject_name": "Biochemistry",
-        "topic_name": "Basics of genetics",
-        "id": "7187bcd1-ad92-48e9-b2c9-5aa62e649569",
-        "choice_type": "multi"
-    },
-    {
         "question": "The number of base pairs in human diploid genome are:",
         "exp": "Genome Base pairs Haploid 3 billion Diploid 3 x 2 = 6 billion Value based one liners Average size of a gene 27, 000 bp Protein coding genes 19000 to 20000 only Percentage of exons 1-2 % of human genome Percentage of Adenine in human genome 54 % (most abundant base) Longest/ largest gene DMD gene, codes for muscle protein Dystrophin Largest protein Titin Most abundant proteins in mammals Collagen Number of proteins in human body > 2. 5 lakh Number of SNPs in human genome 3 million Maximum number of genes are present for Olfactory receptors",
         "cop": 4,

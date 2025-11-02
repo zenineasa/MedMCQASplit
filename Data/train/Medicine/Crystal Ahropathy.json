@@ -1,44 +1,5 @@
 [
     {
-        "question": "Which is the best treatment for an over-producer in chronic gout with kidney impairment?",
-        "exp": "Febuxostat, a non-purine selective inhibitor of xanthine oxidase, is a potential alternative to allopurinol in patients with gout. Febuxostat is administered orally and is metabolized mainly in the liver. In contrast, allopurinol and its metabolites are excreted primarily by the kidney. Therefore, febuxostat can be used in patients with renal impairment with no dosage adjustment.",
-        "cop": 2,
-        "opa": "Allopurinol",
-        "opb": "Febuxostat",
-        "opc": "Uricase",
-        "opd": "Benzbromarone",
-        "subject_name": "Medicine",
-        "topic_name": "Crystal Ahropathy",
-        "id": "6746f81a-dbab-4fa0-b398-f196462b73e0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All joints are involved in acute gout except:",
-        "exp": "Other than the great toe, the most common sites of gouty ahritis are the ankle, wrist, finger joints, and knee. In early gout, only 1 or 2 joints are usually involved. Consider the diagnosis in any patient with acute monoaicular ahritis of any peripheral joint except the glenohumeral joint of the shoulder.",
-        "cop": 2,
-        "opa": "MTP",
-        "opb": "Gleno-humeral joint",
-        "opc": "Ankle joint",
-        "opd": "Knee joint",
-        "subject_name": "Medicine",
-        "topic_name": "Crystal Ahropathy",
-        "id": "3ce18fed-f07d-485c-a473-07be9f959dfc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of these drugs are used in treatment of acute gout except:",
-        "exp": "Naproxen is used in acute gout. Steroids are used in case of NSAID hypersensitivity. Colchicine can also be used but not allopurinol which is used in chronic gout.",
-        "cop": 1,
-        "opa": "Allopurinol",
-        "opb": "Steroids",
-        "opc": "Colchicine",
-        "opd": "Naproxen",
-        "subject_name": "Medicine",
-        "topic_name": "Crystal Ahropathy",
-        "id": "a8393056-cb60-4bea-8477-7e614d1901f9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is the drug of choice for acute gout?",
         "exp": "A. gout IOC = Joint Aspiration Naproxen is also DOC for acute migraine attack & acute gout Allopurinol is contraindicate in Acute Gout",
         "cop": 4,
@@ -50,32 +11,6 @@
         "topic_name": "Crystal Ahropathy",
         "id": "a34f7bdb-da3c-4f7a-9b32-867832d97495",
         "choice_type": "single"
-    },
-    {
-        "question": "Prolonged allopurinol therapy in a patient with gout is NOT indicated for:",
-        "exp": "Allopurinol is the drug of choice in- Severe tophaceous deposits Uric acid nephropathy/nephrolithiasis. Sudden increase or decrease in serum levels of uric acid can trigger acute gout attack. Allopurinol initially mobilizes uric acid stored in the tissues and increases serum uric acid level, which can make the situation worse in an acute gouty attack When we sta allopurinol in chronic hyperuricemic patients, we should warn the patient and also give colchicine or NSAIDs with allopurinol for the first few weeks to avoid a flare of it. Dose should be lowered based on the serum creatinine concentration in patients with chronic renal disease. Doses can be increased gradually to reach the target urate level of <6 mg/dL.",
-        "cop": 1,
-        "opa": "Acute gouty ahritis",
-        "opb": "Tophi",
-        "opc": "Urate nephropathy",
-        "opd": "Evidence of bone/joint damage",
-        "subject_name": "Medicine",
-        "topic_name": "Crystal Ahropathy",
-        "id": "61a5992c-96f8-4569-9d83-d5f003ad854c",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 40-year-old male complains of exquisite pain and tenderness over the left ankle. There is no history of trauma. The patient is taking a mild diuretic for hypertension. On exam, the ankle is very swollen and tender. There are no other physical exam abnormalities. The next step in management is",
-        "exp": "The sudden onset and severity of monoaicular ahritis suggests acute gouty ahritis, especially in patient on diuretic therapy. Ahrocentesis is indicated in the first episode- demonstrate needle shaped, negatively birefringent crystals and to rule out other diagnoses such as infection. For most patients with acute gout, NSAIDs are the treatment of choice. Colchicine is also effective, but causes nausea and diarrhea. Antibiotics should not be staed for infectious ahritis before an ahrocentesis is performed. Hyperuricemia should never be treated in the setting of an acute attack of gouty ahritis. Long-term prophylaxis with allopurinol is considered for repeated attacks of acute ahritis, or formation of tophaceous deposits. X-ray of the ankle would likely be inconclusive in this patient with no trauma history",
-        "cop": 2,
-        "opa": "Begin Colchicine and broad-spectrum antibiotics",
-        "opb": "Obtain uric acid level and perform ahrocentesis",
-        "opc": "Begin allopurinol if uric acid level is elevated",
-        "opd": "Obtain ankle x-ray to rule out fracture",
-        "subject_name": "Medicine",
-        "topic_name": "Crystal Ahropathy",
-        "id": "aad2e26a-5b43-4f52-8c13-cb1e4da4073e",
-        "choice_type": "multi"
     },
     {
         "question": "In a patient with gouty ahritis, synol fluid aspiration was done, strongly negative birefringent needle shaped crystals were seen under polarized light. These crystals are composed of which of the following?",

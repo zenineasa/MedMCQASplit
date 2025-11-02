@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Pick the most likely subtype of leukemia associated with the following finding?",
-        "exp": "The cells show presence of rod like or needle like crystals called as AUER RODS Myeloblast: Has prominent nucleoli Surface markers- CD 33, CD 13, CD 15 Phi bodies derive from catalase-containing granules (microperoxisomes) Auer rods derive from peroxidase-containing (primary) granules. Like Auer rods, Phi bodies appear to be characteristics of immature myeloid cells in leukaemia Auer rods, distinctive needle-like azurophilic granules, are present in many cases; they are paicularly numerous in AML-M3 with the t(15; 17) (acute promyelocytic leukemia).",
-        "cop": 2,
-        "opa": "B cell ALL",
-        "opb": "AML-M3",
-        "opc": "AML-M4",
-        "opd": "AML-M5",
-        "subject_name": "Pathology",
-        "topic_name": "Acute Myelogenous Leukemia",
-        "id": "39f30fe0-6fec-47b8-ac71-27ce47bbcb46",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 40-year-old woman complains of fatigue and nausea of 3 months in duration. Physical examination reveals numerous pustules on the face, as well as splenomegaly and hepatomegaly. Laboratory studies show hemoglobin of 6. 3 g/dL and platelets of 50, 000/mL. A peripheral smear shows malignant cells with Auer rods (arrow). The patient develops diffuse purpura, bleeding from the gums, and laboratory features of disseminated intravascular coagulation (DIC). Which of the following is the appropriate diagnosis?",
         "exp": "In APL, the bone marrow is packed with tumor cells that have promyelocytic features, with abundant Auer rods. The presence of Auer rods excludes acute lymphoblastic leukemia (choice A), acute megakaryocytic leukemia (choice B), and chronic myelogenous leukemia (choice D). DIC is not characteristic of the other choices. Diagnosis: Acute promyelocytic leukemia",
         "cop": 3,
@@ -63,32 +50,6 @@
         "topic_name": "Acute Myelogenous Leukemia",
         "id": "bf487744-52f3-4ac8-8c72-260a378b68f2",
         "choice_type": "single"
-    },
-    {
-        "question": "AML with gum infiltration, hepato- splenomegaly is most likely to be:",
-        "exp": "In tumors with monocytic differentiation M4 and M5 (more commonly) infiltration of the skin (leukemia cutis) and the gingiva leading to gum hyperophy can be observed M4 and M5 both show gum hyperophy and leukemia cutis. M4 is positive for MPO +. M5 is positive for Non Specific esterase.",
-        "cop": 4,
-        "opa": "ALL",
-        "opb": "M3",
-        "opc": "M2",
-        "opd": "M4",
-        "subject_name": "Pathology",
-        "topic_name": "Acute Myelogenous Leukemia",
-        "id": "c5f19afd-914d-4860-b27c-5c79817a49df",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 60-year-old woman complains of weakness and hematuria. Physical examination shows marked pallor, hepatosplenomegaly, and numerous ecchymoses of the upper and lower extremities. A CBC reveals a normocytic normochromic anemia, thrombocytopenia, neutropenia, and a marked leukocytosis, which is composed mainly of myeloblasts. The major clinical problems associated with this patient's condition are most directly related to which of the following?",
-        "exp": "The presence of myeloblasts in the peripheral blood is indicative of acute myelogenous leukemia (AML). In AML, there is an accumulation in the marrow of immature myeloid cells that lack the potential for fuher differentiation and maturation, which leads to suppression of normal hematopoiesis.",
-        "cop": 4,
-        "opa": "Avascular necrosis of bone",
-        "opb": "Disseminated Intravascular Coagulation",
-        "opc": "Hypersplenism",
-        "opd": "Suppression of Hematopoiesis",
-        "subject_name": "Pathology",
-        "topic_name": "Acute Myelogenous Leukemia",
-        "id": "0f664bce-8225-4ce9-9b16-f222e8787f8a",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following is not compatible with a diagnosis of chronic myelomonocytic leukemia?",

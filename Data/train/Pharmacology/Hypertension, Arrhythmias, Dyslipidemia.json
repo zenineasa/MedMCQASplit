@@ -26,32 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs are used in emergency management of acute hyperkalemia except:",
-        "exp": "Treatment of Hyperkalemia: IV Ca gluconate Insulin drip Salbutamol/ nebulization IV Furosemide Hemodialysis",
-        "cop": 4,
-        "opa": "Calcium gluconate",
-        "opb": "Salbutamol",
-        "opc": "Glucose-Insulin",
-        "opd": "Intravenous magnesium sulphate",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "768ac204-670b-4707-899d-e030964e00ee",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following drugs can be used for the chronic oral treatment of arrhythmia except:",
-        "exp": "Esmolol is an ultrasho acting b1 blocker devoid of paial agonistic or membrane stabilizing actions. It is inactivated by esterases in blood. Plasma t 1/2 is < 10 min Action disappears 15-20 min after terminating i. v infusion--degree of b blockade can be titrated by regulating the rate of infusion. It has been used to terminate supraventricular tachycardia, episodic atrial fibrillation or flutter, arrhythmia during anesthesia, to reduce HR and BP during and after cardiac surgery, and in early treatment of MI. Avoided in presence of systolic heart failure or asthma.",
-        "cop": 2,
-        "opa": "Amiodarone",
-        "opb": "Esmolol",
-        "opc": "Quinidine",
-        "opd": "Verapamil",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "c96307a5-98c0-47fc-a056-d2f8c471c008",
-        "choice_type": "multi"
-    },
-    {
         "question": "A patient on nitroprusside therapy developed cyanide toxicity. Sodium nitrite was administered i. v. to combat this poisoning. Beneficial effect of sodium nitrite in this case is dependent on:",
         "exp": "Cyanide has very high affinity for the enzymes of respiratory chain paicularly cytochrome oxidase. Methemoglobin possesses even higher affinity for cyanides. It can free the enzymes due to competitive inhibition for cyanide. Nitrates act by reducing hemoglobin to methemoglobin, which removes cyanide from the enzymes.",
         "cop": 3,
@@ -63,19 +37,6 @@
         "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
         "id": "a0ba7232-2fc3-4e17-9487-46363a2d4c2e",
         "choice_type": "single"
-    },
-    {
-        "question": "The only drug whose over dosage is not characterized by both hypotension and bradycardia is:",
-        "exp": "Theophylline results in reflex tachycardia due to its vasodilatory action. Propanolol, verapamil and clonidine cause hypotension as well as bradycardia.",
-        "cop": 4,
-        "opa": "Propanolol",
-        "opb": "Verapamil",
-        "opc": "Clonidine",
-        "opd": "Theophylline",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "c573a01f-d526-41c9-a581-a20407558c42",
-        "choice_type": "multi"
     },
     {
         "question": "Devesh is working as a CEO in a company. He has a traveling job. He is a known diabetic, controlled on oral hypoglycemic drugs. On his recent visit to the doctor, his blood pressure was found to be 164/102 mm Hg. Most suitable drug for this patient should be?",
@@ -104,19 +65,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are features of metoprolol in comparison to propanolol EXCEPT",
-        "exp": "Metoprolol is a cardio-selective b-blocker and thus is safer than nonselective blockers ( propanolol) in diabetics, asthmatics and the patients of peripheral vascular disease (e. g. Raynaud's disease). Due to lack of b2-blocking action, it cannot suppress muscle tremors. Potential to cause bradycardia is similar to non-selective b-blockers. Drugs possessing ISA (like pindolol) are less likely to cause bradycardia.",
-        "cop": 3,
-        "opa": "It is ineffective in suppressing muscle tremor",
-        "opb": "It is safer in diabetics",
-        "opc": "It is less likely to cause bradycardia",
-        "opd": "It is less likely to worsen Raynaud's disease",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "9f5a8ec2-258f-44ac-94aa-abdaf15a524b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Atorvastatin is used as an anti dyslipidemic drug. These drugs inhibit their target enzyme by",
         "exp": "Atorvastatin: Anti dyslipidemic drug Inhibits HMG COA reductase competitively. Propeies of Atorvastatin: - Antioxidant propey. High efficacy, most commonly used statin capable of lowering LDH by 55-60 % Longer plasma t 1/2 14 - 18 hrs. Competitive Non competitive 1. Antagonist bind with same site as substrate (active site) 2. Antagonist resembles chemically with the substrate 3. Km increase 1. Binds to another site called allosteric site 2. Does not resemble 3. Vmax decrease",
         "cop": 1,
@@ -128,19 +76,6 @@
         "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
         "id": "5494f693-b5b9-4fef-8ce8-bfda994f29b6",
         "choice_type": "single"
-    },
-    {
-        "question": "False about Aliskiren is:",
-        "exp": "Aliskiren: MOA: Potent competitive inhibitor of renin. Binds the active site of renin and blocks conversion of angiotensinogen to Angiotensin I. Pk: Bioavailability of aliskiren is low but still used orally as it has high affinity and potency. It is a substrate for P- glycoprotein (Not the inhibitor). It can cause hyperkalemia by inhibiting the RAAS through which K+ is removed from the body. It is well tolerated in: Elderly population. Hepatic disease and renal insufficiency patients. Type 2 diabetes patients.",
-        "cop": 3,
-        "opa": "It is an oral renin inhibitor",
-        "opb": "It can result in hyperkalemia",
-        "opc": "It is p-glycoprotein inhibitor",
-        "opd": "Blocks conversion of angiotensinogen to Angiotensin I",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "1b9aeb05-ca65-4543-aca9-2d10c9d7cf3a",
-        "choice_type": "multi"
     },
     {
         "question": "Drug of choice for hypeensive emergency in pregnancy is:",
@@ -182,19 +117,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following drugs can be used in hypeensive crisis except:-",
-        "exp": "Pindolol is non-selective b blocker and not used in hypeensive emergencies. Labetalol is DOC for gestational hypertension as well as hypeensive emergencies in pregnancy. Nitroprusside is DOC for hypeensive emergencies in patients with aoic dissection. Nifedipine can be used rarely for the rapid control of blood pressure but the route of administration is sub-lingual. Nicardipine and Clevidipine are also DOC for hypeensive emergencies. DRUGS USED FOR HYPEENSIVE EMERGENCIES Group Drugs Vasodilators Sodium Nitroprusside. Nitroglycerine. Hydralazine Calcium channel blockers Nicardipine. Clevidipine. Nifedipine Alpha blockers Phentolamine. Tolazoline. Urapidil Beta blockers Labetalol. Esmolol ACE inhibitor Enalaprilat D1 agonist Fenoldopam Diuretic Furosemide",
-        "cop": 2,
-        "opa": "Labetalol",
-        "opb": "Pindolol",
-        "opc": "Nitroprusside",
-        "opd": "Nifedipine",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "5342bb8b-89a6-4daa-a86a-9af94b53f397",
-        "choice_type": "multi"
-    },
-    {
         "question": "Haemodialysis is not useful in",
         "exp": "Dialysis is mainly done for poisoning due to: Methanol Lithium Aspirin Dabigatran Dialysis is not useful in: A- Amphetamines V: Verapamil O- Opioids, OPC I: Imipramine D- Digoxin Dialysis: Diazepam",
         "cop": 1,
@@ -206,19 +128,6 @@
         "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
         "id": "cdf5b7ae-650b-426f-b4b9-0da63d6e55ae",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following is true regarding enalapril treatment in patients of essential hypertension?",
-        "exp": "Enalapril is an Angiotensin conveing enzyme inhibitor- concentration of Angiotensin II in the blood will decrease. Enalapril may offer ceain advantages over captopril: 1.) More potent2.) Its absorption is not affected by food. 3.) Onset of action is slower (due to need for conversion to active metabolite), less liable to cause abrupt first dose hypotension. 4.) Has a longer duration of action: most hypeensives can be treated with single daily dose. 5.) Rashes and loss of taste are probably less frequent.",
-        "cop": 1,
-        "opa": "Decreased angiotensin II concentration in the blood",
-        "opb": "Decreased concentration of renin in the blood",
-        "opc": "Decreases sodium and increases potassium in the urine",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "54e04e1e-3b10-49cf-be75-065ff91c4aaa",
-        "choice_type": "multi"
     },
     {
         "question": "A patient on lithium therapy is also suffering from hypertension. Which of the following antihypeensive drugs can cause toxicity when given along with lithium to this patient?",
@@ -299,45 +208,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following ACE inhibitors are prodrugs and are activated by esterases in the liver except:",
-        "exp": "Captopril, lisinopril and enalaprilat are active molecules. All other ACE inhibitors like enalapril, Benazepril, fosinopril, moexipril, perindopril, spirapril, ramipril, and trandolapril are prodrugs.",
-        "cop": 1,
-        "opa": "Captopril",
-        "opb": "Ramipril",
-        "opc": "Perindopril",
-        "opd": "Spirapril",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "737cb561-4caf-44d5-977e-d5db75ab7046",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following antihypeensive drugs increase plasma renin activity except:",
-        "exp": "Plasma renin activity is increased by reflex increase in sympathetic discharge. Clonidine decreases central sympathetic outflow and thus will decrease the plasma renin activity. Vasodilators and ACE inhibitors result in reflex increase in plasma renin activity.",
-        "cop": 1,
-        "opa": "Clonidine",
-        "opb": "Hydralazine",
-        "opc": "Nifedipine",
-        "opd": "Captopril",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "d47f30f2-b06b-4ae2-9e2d-7d68e6d2d329",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are class Ic anti-arrhythmic drugs except?",
-        "exp": "CLASS I ANTI-ARRHYTHMICS Class Mechanism Drugs Ia Na+ and K+ channel blocker Quinidine Procainamide Ib Na+ channel blocker K+ channel opener Lignocaine Phenytoin Tocainide Ic Na+ Channel blocker Enacainide Flecainide Propafenone Tocainide: Class Ib anti-arrhythmic.",
-        "cop": 2,
-        "opa": "Propafenone",
-        "opb": "Tocainide",
-        "opc": "Enacainide",
-        "opd": "Flecainide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "c2dffdc2-9c48-46d5-8090-a8665c6ed1d6",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following calcium channel blocker has a predominant peripheral action?",
         "exp": "Three groups of CCBs include: Phenylalkylamines (verapamil, nor-verapamil) Benzothiazepines (diltiazem) Dihydropyridines (nifedipine, nicardipine, nimodipine, nisoldipine, felodipine and amlodipine). By inhibiting the calcium channels, these agents result in vasodilation and decreased activity of the heart (decrease heart rate, AV conduction and contractility). Dihydropyridine (DHP) group has little direct cardiac activity and acts mainly on blood vessels, therefore are also called peripherally acting CCBs.",
         "cop": 3,
@@ -390,19 +260,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 70-year-old lady in the emergency came with chest pain. Her ECG shows ventricular tachycardia with ST-segment elevation. Troponin C levels are high. A diagnosis of STEMI is made. The arrhythmias should be treated initially with",
-        "exp": "Lidocaine is used as drug of choice for emergency treatment of post myocardial infarction arrhythmias. Procainamide or amiodarone can also be used as alternatives. After acute phase of MI, b blockers are used for 2 years or more for arrythmias.",
-        "cop": 1,
-        "opa": "Lignocaine",
-        "opb": "Adenosine",
-        "opc": "Quinidine",
-        "opd": "Verapamil",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "5ed88d14-ecea-4269-9124-316c3068e981",
-        "choice_type": "multi"
-    },
-    {
         "question": "A hypeensive patient with BP 160/90 mm of Hg presents with increased level of Lipoprotein A. Which hypolipidemic drug will you prescribe?",
         "exp": "Niacin: Has max HDL increasing propey Only drug that can | Lipoprotein A Treatment of hypercholesterolemia Fibrates - maximum TGs lowering potential Statins -maximum reduction in LDL cholesterol. Ezetimibe- Inhibits intestinal absorption of cholesterol, usually used along with statins.",
         "cop": 3,
@@ -427,19 +284,6 @@
         "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
         "id": "016743f9-589a-4969-b5da-51f1fa37b01d",
         "choice_type": "single"
-    },
-    {
-        "question": "A 3yr old child ingested multiple tablets of metoprolol, is presented with following conditions except?",
-        "exp": "Clinical features of b blocker (Metoprolol) poisoning:- Hypotension- Prolonged AV conduction times- Widened QRS complexes- Bradycardia- Decreased contractility (Feeble pulse)",
-        "cop": 3,
-        "opa": "Widened QRS complexes",
-        "opb": "Feeble pulse",
-        "opc": "Tachycardia",
-        "opd": "Prolonged AV conduction times",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "2c464d2a-83f1-45ed-89e5-d5e4f7ab0d55",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following drugs is added along with beta-blockers, In order to eliminate undesirable side effects caused by it while treating Angina?",
@@ -533,71 +377,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Beta-blockers are used in all of the following except:-",
-        "exp": "In AV block, HR is 40 bpm and b blockers fuher causes cardiac depression. Therefore they are avoided in this condition. In all other 3 conditions, b blockers are used.",
-        "cop": 2,
-        "opa": "Essential tremors",
-        "opb": "AV block",
-        "opc": "Angina pectoris",
-        "opd": "Migraine prophylaxis",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "6d9efe18-baf5-4b85-923e-8fd37af191e7",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Lignocaine is useful for the treatment of:",
-        "exp": "Lidocaine* It is used to suppress VT and prevent VF.* It is ineffective in atrial arrhythmias. DOC for Digitalis induced ventricular extrasystoles",
-        "cop": 3,
-        "opa": "Atrial fibrillation",
-        "opb": "Paroxysmal supraventricular tachycardia",
-        "opc": "Digitalis induced ventricular extrasystoles",
-        "opd": "All of the above",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "beb51c9c-6eee-41ee-a647-753114a30f52",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A drug effect that is produced by therapeutic doses of both timolol and amiodarone is blockade of:",
-        "exp": "Amiodarone has wide spectrum of antiarrhythmic actions. It acts by all the four mechanisms: blockade of Na+ channels blockade of b receptors blockade of K+ channels blockade of Ca2+channels. Timolol is a b blocker. Therefore, common action of these two drugs is inhibition of b-receptors.",
-        "cop": 3,
-        "opa": "Cardiac Na+ channels",
-        "opb": "Cardiac K+ channels",
-        "opc": "Beta adrenoceptors",
-        "opd": "Alpha-adrenoceptors",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "099da5d2-69f0-49b9-90a0-1138984c54cc",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following are centrally acting antihypeensive drugs except:-",
-        "exp": "Stimulation of a2 receptors in CNS leads to decrease in sympathetic outflow Therefore, a2 agonists can decrease the sympathetic activity and are useful for the treatment of hypertension. These include: Clonidine a-methyl dopa Guanafacine Guanabenz",
-        "cop": 4,
-        "opa": "Alpha methyl dopa",
-        "opb": "Clonidine",
-        "opc": "Guanabenz",
-        "opd": "Trimethoprim",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "14a3204c-1314-4991-adac-4363b1341221",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following statements is WRONG about amiodarone?",
-        "exp": "Amiodarone is an iodine containing highly lipophilic longest-acting(T1/2 = >3 wks) antiarrhythmic drug exes multiple actions: Prolongs APD and Q-T interval attributable to block of myocardial delayed rectifier K+ channels. This also appears to reduce nonuniformity of refractoriness among different fibres. Na+ channel blocker b- Blocker action Ca2+ channel blocker Adverse effects: - Hypo/hyper thyroid Peripheral neuropathy Myocardial depression Pulmonary fibrosis Liver toxicity Corneal deposits Photosensitivity",
-        "cop": 2,
-        "opa": "It is longest acting anti-arrhythmic drug.",
-        "opb": "It has positive ionotropic action",
-        "opc": "It contains iodine",
-        "opd": "It causes pulmonary fibrosis.",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "a71cfc5d-6276-42b4-a806-6ec416553a1b",
-        "choice_type": "multi"
-    },
-    {
         "question": "Initial drug to sta with newly detected hypertension in an 42 years old male with calcium stones is:-",
         "exp": "Chlohalidone is a thiazide like diuretic which is a one of the first line drugs for hypertension. It is preferred since it decreases calcium excretion and Ca2+ do not deposits in kidney so prevent the formation of calcium stones. Furosemide (Loop diuretic)- Increases Ca2+ excretion and can precipitate the condition of pt.",
         "cop": 4,
@@ -648,32 +427,6 @@
         "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
         "id": "3730208f-4ebe-4385-98ba-276f3c127163",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following statements about beta blockers are true except?",
-        "exp": "Cardio selective beta blockers: Esmolol (shoest acting, metabolized by pseudo cholinesterase) Betaxolol (reduces IOP, used in glaucoma) Atenolol (water soluble beta blocker, C/I in renal failure) Acebutolol & celiprolol (paial agonist) Metoprolol (cardio selective beta blocker) Cardio selective beta blockers are safe in asthma, PVD & DM Uses of cardio selective beta blockers:- Hypertension- Classical angina (C/I in variant angina)- MI- Chronic CHF (C/I in acute CHF)- Arrhythmia",
-        "cop": 4,
-        "opa": "Nebivilol is a cardioselective beta blocker",
-        "opb": "Cardio selective beta blockers are relatively safe in asthma",
-        "opc": "Beta blockers are contraindicated in acute CHF",
-        "opd": "Atenolol is safe in renal failure",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "4a4dac5c-dbd7-4d9e-af92-9c33b1062da0",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The antihypeensive agent that should be avoided in young females and is used topically to treat alopecia is:",
-        "exp": "Minoxidil is a powerful vasodilator Active metabolite of minoxidil is an opener of ATP sensitive K channels; causes vasodilatation by hyperpolarizing smooth muscle. Minoxidil is avoided in young females because it causes Hirsutism. Drugs causing Hirsutism: Phenytoin Cyclosporine Minoxidil USE OF MINOXIDIL IN ALOPECIA - Hirsutism was observed as side effect of oral minoxidil. Applied topically it promotes hair growth in male pattern baldness and in alopecia areata.",
-        "cop": 3,
-        "opa": "Hydralazine",
-        "opb": "Prazosin",
-        "opc": "Minoxidil",
-        "opd": "Indapamide",
-        "subject_name": "Pharmacology",
-        "topic_name": "Hypertension, Arrhythmias, Dyslipidemia",
-        "id": "4c725d08-f995-4d7a-9b29-6d2da844d7c3",
-        "choice_type": "multi"
     },
     {
         "question": "DOC for ventricular arrhythmias due to digitalis toxicity is:",

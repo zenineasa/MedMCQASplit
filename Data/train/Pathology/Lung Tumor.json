@@ -1,31 +1,5 @@
 [
     {
-        "question": "A 67 yr male with history of chronic smoking hemoptysis with cough. Bronchoscopic biopsy from centrally located mass shows undifferentiated tumor histopathologically. Most useful I. H. C. (immunohistochemical) marker to make a proper diagnosis would be:",
-        "exp": "The presence of chronic smoking, cough and hemoptysis in old man is a pointer towards a diagnosis of bronchogenic cancer. The central location suggests the possibility of a squamous cell cancer. Histologically, this tumor is characterized by the presence of keratinization and/or intercellular bridges. HMB (melanoma), Hep par1 (liver cancer) and parvalbumin (schizophrenia).",
-        "cop": 1,
-        "opa": "Cytokeratin",
-        "opb": "Parvalbumin",
-        "opc": "HMB-45",
-        "opd": "Hep-par1",
-        "subject_name": "Pathology",
-        "topic_name": "Lung Tumor",
-        "id": "76ee4517-2f17-4c9a-90bf-901f14682d41",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 60-year-old male, chronic smoker, presented with fatigue and chest pain. On examination, there was inset left eyeball with drooping upper left eyelid and reduced left pupil size. Which of the following is the most likely diagnosis in this condition?",
-        "exp": "Most tumors of the apex of the lung are adenocarcinomas Pancoast tumors - apical lung tumors in the superior pulmonary sulcus tend to invade the neural structures around the trachea, including the cervical sympathetic plexus. Involvement of sympathetic fibers gives rise to severe pain in the distribution of the ulnar nerve and Horner syndrome. Features of Horner syndrome are: S Sympathetic Injury A Anhidrosis M Miosis P Ptosis L Loss of ciliospinal reflex E Enophthalmos",
-        "cop": 1,
-        "opa": "Squamous cell carcinoma involving the apex of his left lung",
-        "opb": "Adenocarcinoma involving left mainstem bronchus",
-        "opc": "A small-cell carcinoma involving the hilum of his left lung",
-        "opd": "Bronchioloalveolar carcinoma involving the left lower lobe",
-        "subject_name": "Pathology",
-        "topic_name": "Lung Tumor",
-        "id": "9b67ab79-55ec-4005-91e0-9874ad934308",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is the most common tumor associated with superior vena cava syndrome?",
         "exp": "The superior vena cava syndrome usually is caused by neoplasms that compress or invade the superior vena cava, such as bronchogenic carcinoma or mediastinal lymphoma. -produces a characteristic clinical complex consisting of marked dilation of the veins of the head, neck, and arms associated with cyanosis. -Pulmonary vessels also can be compressed, causing respiratory distress.",
         "cop": 1,
@@ -52,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Azzopardi effect is seen in which of the following lung tumours?",
-        "exp": "Microscopic features of small cell carcinoma: Small cells, that are generally smaller than three times the diameter of a small resting lymphocyte. \"Salt and pepper\" chromatin High mitotic count Basophilic staining of vascular walls due to encrustation by DNA from necrotic tumor cells (Azzopardi effect) is frequently present. Expression of neuroendocrine markers such as chromogranin, synaptophysin, and CD56. Electron microscopy shows dense-core neurosecretory granules.",
-        "cop": 3,
-        "opa": "Adenocarcinoma",
-        "opb": "Squamous cell carcinoma",
-        "opc": "Small cell carcinoma",
-        "opd": "Large cell carcinoma",
-        "subject_name": "Pathology",
-        "topic_name": "Lung Tumor",
-        "id": "31185223-0708-4a40-b77c-b72d28ba6e94",
-        "choice_type": "multi"
-    },
-    {
         "question": "A 65-year-old male diagnosed by biopsy a case of squamous cell carcinoma of lung, has very high serum calcium levels. Probable cause is?",
         "exp": "Paraneoplastic syndromes The most impoant mechanism is the synthesis of a parathyroid hormone-related protein (PTHrP) by tumor cells (Commonly in Squamous cell carcinoma) leading to Hypercalcaemia.",
         "cop": 2,
@@ -89,44 +50,5 @@
         "topic_name": "Lung Tumor",
         "id": "a732cfbe-5314-490d-8972-605157154e15",
         "choice_type": "single"
-    },
-    {
-        "question": "Adenocarcinoma of the lung is NOT associated with which of the following features?",
-        "exp": "Adenocarcinoma Most common lung cancer More common in females than males Not associated with smoking Are usually peripherally located ectopic hormone production is uncommon Histology: Mucin and glands present",
-        "cop": 4,
-        "opa": "Is not associated with cigarette smoking",
-        "opb": "Is usually found in the periphery of the lung",
-        "opc": "Is more common in women than men",
-        "opd": "Often produces ectopic hormones",
-        "subject_name": "Pathology",
-        "topic_name": "Lung Tumor",
-        "id": "3cb043ac-ccdc-445f-a09f-01a15d2ce2f2",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Basophilic staining of vascular walls due to encrustation by DNA from necrotic tumour cells is seen in which of the following variants of lung cancer?",
-        "exp": "Basophilic staining of vascular walls due to encrustation by DNA from necrotic tumor cells is given name as Azzopardi effect associated with small cell variant of lung cancer. It has neurosecretory granules which release DNA material from tumor cells resulting in Azzopardi effect.",
-        "cop": 3,
-        "opa": "Squamous cell variant",
-        "opb": "Adenocarcinoma variant",
-        "opc": "Small cell variant",
-        "opd": "Large cell variant",
-        "subject_name": "Pathology",
-        "topic_name": "Lung Tumor",
-        "id": "e8752cf4-ccb2-4a1c-9faf-ce870f5848d6",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Least common cause of clubbing is:",
-        "exp": "Lung cancer is the most common cause of clubbing. Most common with adenocarcinoma and is least common with small cell lung cancer.",
-        "cop": 3,
-        "opa": "Adenocarcinoma",
-        "opb": "Squamous cell cancer",
-        "opc": "Small cell cancer",
-        "opd": "Mesothelioma",
-        "subject_name": "Pathology",
-        "topic_name": "Lung Tumor",
-        "id": "0a0a1f3b-4082-4653-9057-df073d0e6cb3",
-        "choice_type": "multi"
     }
 ]

@@ -26,32 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following is an X-ray of a 13year old child presenting with difficulty in breathing and gradually developing respiratory compromise. What is the diagnosis?",
-        "exp": "*Kyphoscoliosis May be developmental or congenital. *In severe forms especially congenital thorasic insufficiency May be seen due to pulmonary hypoplasia. *In such a scenario the patient may require a per emptive thoracoplasty to allow development of lungs and avoid hypoplasia. Ref: Campbell's 13th/e p. 1901",
-        "cop": 1,
-        "opa": "Kyphoscoliosis",
-        "opb": "Lordosis",
-        "opc": "Scheurmanns disease",
-        "opd": "Kochs spine",
-        "subject_name": "Anatomy",
-        "topic_name": "Spinal injuries",
-        "id": "c2aa737b-cc3e-4d91-b99d-bcfc6c5a9992",
-        "choice_type": "multi"
-    },
-    {
-        "question": "The given test is used for-",
-        "exp": "*Straight leg raising (passive SLR) is used for PID (prolapsed interveabral disc). ref: maheswari 9th ed",
-        "cop": 3,
-        "opa": "Ankle injury",
-        "opb": "Hip injury",
-        "opc": "Prolapsed interveabral disc",
-        "opd": "None",
-        "subject_name": "Anatomy",
-        "topic_name": "Spinal injuries",
-        "id": "0e5ca2d5-f197-45f2-a150-6021eeb065c4",
-        "choice_type": "multi"
-    },
-    {
         "question": "The compression fracture is commonest in which pa of veebrae?",
         "exp": "*Lower cervical and lower thorasic (dorsal) spine are the most common sites for veical compression. \"In axial load injuries, the most common site of trauma is at the thoracolumbar junction\". ref: maheswari 9th ed",
         "cop": 3,
@@ -169,19 +143,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Following is true about spinal injuries except-",
-        "exp": "Ref: Clinical Ohopaedics p. 786 *Cervical spine is more prone for dislocation without associated fracture. Other options correct.",
-        "cop": 4,
-        "opa": "Forms 6% of all trauma cases",
-        "opb": "Neurodeficit is present in 50% of all the cases",
-        "opc": "Traumatic injuries most commonly affect the cervical spine",
-        "opd": "Cervical spine is more prone to fracture than dislocation",
-        "subject_name": "Anatomy",
-        "topic_name": "Spinal injuries",
-        "id": "cb293bfc-4c8e-4a3d-8e4e-ed0db76c7714",
-        "choice_type": "multi"
-    },
-    {
         "question": "Hangman's fracture is-",
         "exp": "* Hangman's fracture is bilateral fracture of the pars interaicularis of axis (c2) with traumatic sponsylolisthesis of axis (C2) over C3 veebrae. Thus Hangman's fracture is not simply a fracture, but fracture dislocation of axis (C2). Ref: Surgical treatment of ohopedic trauma 4th/e p. 116",
         "cop": 2,
@@ -193,18 +154,5 @@
         "topic_name": "Spinal injuries",
         "id": "8d7ecc8e-b337-472f-b76e-c7fabf8ecc1b",
         "choice_type": "single"
-    },
-    {
-        "question": "'Whip-lash' Injury is caused due to-",
-        "exp": "* Whiplash Injury is caused by sudden unexpected hyperextension of cervical spine followed immediately by flexion. <img alt=\"\" src=\" /> Ref: Apley's 9th/e p. 820",
-        "cop": 2,
-        "opa": "A fall from a height",
-        "opb": "Acute hyperextension of the spine",
-        "opc": "A blow on top to head",
-        "opd": "Acute hyperflexion of the spine",
-        "subject_name": "Anatomy",
-        "topic_name": "Spinal injuries",
-        "id": "e0fec2c5-ddc6-44c1-b5e0-b41bf96137f2",
-        "choice_type": "multi"
     }
 ]

@@ -1,18 +1,5 @@
 [
     {
-        "question": "All are recommended for treatment of Primary lung abscess except:",
-        "exp": "Metronidazole alone is never recommended in the treatment of lung abscess, It is effective against anaerobic organism but the streptococci (Microaerophilic) will be spared which are often the component of flora causing lung abscess. Treatment regimen 1. Clindamycin- 600 mg IV TDS When fever disappear and clinical improvement is there Sta with per oral 300 mg QID 2. IV-administered b-lactam/b-lactamase combination When stable, sta oral amoxicillin-clavulanate. 3. Moxifloxacin 400 mg/d PO is as effective and well tolerated as ampicillin-sulbactam Treatment duration: 3-4 weeks or as long as 14 weeks",
-        "cop": 4,
-        "opa": "Moxifloxacin",
-        "opb": "Clindamycin",
-        "opc": "Amoxicillin- clavulanate",
-        "opd": "Metronidazole",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumonia",
-        "id": "7851da8a-b507-4718-a6f6-22c699726c35",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is best for diagnosis of Hypersensitivity pneumonitis?",
         "exp": "Hypersensitivity pneumonitis: Type IV HSR Chest Imaging - normal in Hypersensitivity pneumonitis Pulmonary function testing - Obstructive pattern Clinical prediction rule- eg Farmer's Lung Exposure to antigen Presence of precipitin Recurrence of symptoms >4-6 hrs Crackles on auscultation Weight loss Farmer lung:- Thermophilus actinomyces",
         "cop": 4,
@@ -24,19 +11,6 @@
         "topic_name": "Pneumonia",
         "id": "0097134b-54fe-429f-b6ee-2599ffe3d07b",
         "choice_type": "single"
-    },
-    {
-        "question": "All are the differential diagnosis of the condition shown in the CT chest, except?",
-        "exp": "The CT Chest shows Miliary Mottling. Seen in- 1. Miliary TB 2. Loffler pneumonia 3. Bronchopneumonia 4. Interstitial lung disease 5. Hemosiderosis 6. Sarcoidosis 7. Silicosis Diffuse pulmonary Lymphangioleiomyomatosis:- affects premenopausal women and presents with emphysema, recurrent pneumothorax and chylous pleural effusion. - HRCT - Multiple small thin-walled cysts surrounded by normal lung without zonal predominance. - Managed with sirolimus.",
-        "cop": 4,
-        "opa": "Hemosiderosis",
-        "opb": "Tropical pulmonary eosinophilia",
-        "opc": "Collagen vascular disorders",
-        "opd": "Diffuse pulmonary lymphangioleiomyomatosis",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumonia",
-        "id": "5bc850a0-5503-4b8d-880b-ba524f8ca23f",
-        "choice_type": "multi"
     },
     {
         "question": "Friedlander Pneumonia refers to Pneumonia caused by:",
@@ -52,19 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Most common lung cancer seen in patients of asbestose related lung disease?",
-        "exp": "Asbestos Related Lung Diseases Pulmonary Pleural Non Malignant Malignant Non Malignant Malignant Diffuse Interstitial Fibrosis Bronchogenic Carcinoma Adenocarcinoma has the highest incidence Pleural plaques Diffuse pleural thickening Acute benign pleural effusion Round atelectasis Mesothelioma Both pleural and peritoneal Mesotheliomas Adenocarcinoma of lung: MC lung cancer commonly seen in females and non smoker. Small cell cancer- Micrometastasis, Azzopardi phenomenon. Large cell cancer - Estrogen|: Gynaecomastia. Mesothelioma: Pleural Plaque/ Calcification.",
-        "cop": 1,
-        "opa": "Adenocarcinoma of lung",
-        "opb": "Mesothelioma",
-        "opc": "Large cell cancer",
-        "opd": "Small cell cancer",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumonia",
-        "id": "9a78f847-aeb4-4749-9eb6-8062db64406e",
-        "choice_type": "multi"
-    },
-    {
         "question": "Recurrent aspiration pneumonia is caused by:",
         "exp": "Systemic sclerosis is characterized by fibrosis of lower esophageal sphincter | Leading to decrease in tone of LES | Resultant GERD | Leads to Recurrent Aspiration Pneumonia",
         "cop": 3,
@@ -78,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "An HIV positive male, admitted to the ICU with septic shock secondary to lobar pneumonia, is being mechanically ventilated. After 2 days of IV ceftriaxone, trimethoprim-sulfamethoxazole, and erythromycin, his fever has resolved. Blood cultures are positive for S. pneumoniae. Sp. O2 is 92% on room air and BP is 80/40 mm Hg, despite adequate fluids and 2 mcg/kg/min of norepinephrine. Fuher examination reveals warm skin and full peripheral pulses. What is the next best step in management?",
-        "exp": "* Extremities are warm to touch and full peripheral pulses. (WARM SHOCK) Option C- No survival advantage for the patients Option D- Already the patient is afebrile, so no point in checking the sensitivity of bacteria to antibiotics. Patient has a condition k/a DISTRIBUTIVE SHOCK Hydrocoisone is given in this case. * Hydrocoisone is not given in Septic shock Always consider adrenal insufficiency in the differential diagnosis of distributive shock, paicularly when no other cause is present or an original cause appears to be under effective treatment, as in this patient. Refractory hypotension suggests adrenal insufficiency, especially with concomitant HIV infection in the face of effective treatment of sepsis. Searching for a second source of infection would be appropriate in an HIV-infected patient.",
-        "cop": 2,
-        "opa": "Order a CT scan of the sinuses",
-        "opb": "Cosyntropin stimulation test followed by hydrocoisone 100 mg IV every 6 hours",
-        "opc": "Place a pulmonary aery catheter",
-        "opd": "Check sensitivity of the bacteria to antibiotics",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumonia",
-        "id": "3a420e64-a061-4437-a175-45a5e4159656",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which organism is most likely to be associated with VAP?",
         "exp": "The leading cause of Ventilator associated pneumonia(VAP) - MDR pathogens is:- Pseudomonas aeruginosa > MRSA> Acinetobacter. NON -MDR pathogen is:- Streptococcus Pneumoniae> Hemophilus influenzae.",
         "cop": 1,
@@ -102,19 +50,6 @@
         "topic_name": "Pneumonia",
         "id": "b4791b82-9af6-4c36-89c1-c61bf1d4c1a9",
         "choice_type": "single"
-    },
-    {
-        "question": "All are X-ray findings of Staphylococcus pneumonia except:",
-        "exp": "In S. aureus pneumonia, lobar enlargement with bulging of interlobular fissures can be seen in severe cases. Air bronchograms are not seen Abscess, cavitations (with air-fluid levels) and pneumatoceles are commonly seen and 30-50% of patients develop pleural effusions, half of which are empyemas. Note:- Cavitation and associated pleural effusions are also observed in cases of anaerobic infections, gram-negative infections and tuberculosis.",
-        "cop": 2,
-        "opa": "Pneumatocoele",
-        "opb": "Hilar lymphadenopathy",
-        "opc": "Empyema",
-        "opd": "Absent air bronchogram",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumonia",
-        "id": "94067434-1019-40c8-8359-89791b65b13c",
-        "choice_type": "multi"
     },
     {
         "question": "Comment on the first differential diagnosis of the CXR of a 50-year-old patient with cough for 2 weeks.",
@@ -180,19 +115,6 @@
         "topic_name": "Pneumonia",
         "id": "8d16fa86-0c58-494a-bcae-2e8ea5e218de",
         "choice_type": "single"
-    },
-    {
-        "question": "What is the probable diagnosis in the patient with below flow volume loop (FVL)?",
-        "exp": "The above FVL is a typical of fixed central airway obstruction (Either above or below the thoracic inlet) such as tracheal stenosis. In this, there is limitation to peak flow rate, Flattened inspiratory and expiratory curves are seen. Other FVL patterns: 1. Normal 2. Airflow obstruction:- COPD 3. Fixed Upper Airway obstruction 4. Variable upper airway obstruction 5.",
-        "cop": 2,
-        "opa": "Restrictive airway disease",
-        "opb": "Tracheal stenosis",
-        "opc": "Obstructive airway disease",
-        "opd": "None of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Pneumonia",
-        "id": "4b4204b2-7863-401c-aafe-b6a7e5a0e768",
-        "choice_type": "multi"
     },
     {
         "question": "A 28-year-old woman presented with high-grade fever, cough, diarrhea and mental confusion for 4 days. X-ray chest revealed bilateral pneumonitis. Search for etiology will most likely reveal?",

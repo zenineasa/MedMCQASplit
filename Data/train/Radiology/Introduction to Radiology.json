@@ -52,19 +52,6 @@
         "choice_type": "single"
     },
     {
-        "question": "ALARA stands for?",
-        "exp": "As low as reasonably achievable (ALARA) is a principle of radioprotection stating that whenever ionizing radiation has to be applied to humans, animals or materials exposure should be as low as reasonably achievable. It is fundamental to the principles of radiation protection. 3 basic principles of ALARA: Time Distance Shielding.",
-        "cop": 1,
-        "opa": "As low as reasonably achievable",
-        "opb": "As low as radiation achievable",
-        "opc": "As low as reasonably accountable",
-        "opd": "None of the above",
-        "subject_name": "Radiology",
-        "topic_name": "Introduction to Radiology",
-        "id": "187542b7-6ca6-4286-94ce-e34cd931f161",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which is not the 'R' of Radiobiology",
         "exp": "The Four R's of Radiobiology Four major factors are believed to affect tissue's response to fractionated radiation: Repair of sublethal damage to cells between fractions caused by radiation Repopulation or regrowth of cells between fractions Redistribution of cells into radiosensitive phases of cell cycle Reoxygenation of hypoxic cells to make them more sensitive to radiation",
         "cop": 4,
@@ -76,32 +63,6 @@
         "topic_name": "Introduction to Radiology",
         "id": "7517f252-9bfa-4022-b41e-a806e54eba03",
         "choice_type": "single"
-    },
-    {
-        "question": "All the following statements are true except?",
-        "exp": "*Ultrasound waves are sound waves, not electromagnetic waves. *Ultrasound waves travel with a velocity of 1540m/s in human tissues. *All Electromagnetic radiations like X rays, Gamma Rays, Infrared waves travel with the same velocity i. e. the velocity of speed of light 3 x108m/s. *Wavelength of Xrays is 0. 1-100 Angstrom.",
-        "cop": 3,
-        "opa": "X-Rays are extranuclear in origin.",
-        "opb": "Gamma Rays are intranuclear in origin.",
-        "opc": "Ultrasound uses a type of Electromagnetic radiation.",
-        "opd": "Velocity of X-Rays is equal to the velocity of light.",
-        "subject_name": "Radiology",
-        "topic_name": "Introduction to Radiology",
-        "id": "7273bfaf-dbf0-48e6-acf3-ed8b45ddb3e5",
-        "choice_type": "multi"
-    },
-    {
-        "question": "All of the following scientist had won a Nobel prize except?",
-        "exp": "Paul lauterbur and Mansfield won the Nobel prize in medicine for MRI in 2003. W. C. Roentgen got the first noble prize in physics in 1901. Sir Godfrey Hounsfield got the noble prize for physiology/Medicine in 1979 along with Allan Mc. Leod Cormack. Charles T. Dotter is father of interventional radiology.",
-        "cop": 4,
-        "opa": "W. C. Roentgen",
-        "opb": "Godfrey Hounsfield",
-        "opc": "Paul lauterbur",
-        "opd": "Charles T. Dotter",
-        "subject_name": "Radiology",
-        "topic_name": "Introduction to Radiology",
-        "id": "91efbb07-5a03-4636-844c-ec8d62fe9bec",
-        "choice_type": "multi"
     },
     {
         "question": "Radio frequency waves are used in which of the following imaging modality?",

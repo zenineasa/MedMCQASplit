@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Infection with HIV is associated with atrophy in all of the following parts of the brain except:",
-        "exp": "Ans. a. Anterior cingulate gyrus (Ref: Harrison 19/e p1264, 1265, 18/e p1559, 1560, 3427)AIDS causes subcortical dementia, involves white matter and causes progressive multifocal leukoencephalopathy and main feature is demyelination. Overall cerebral atrophy and prominent caudate region atrophy are important radiographic features of HIV dementia. HIV-associated dementia. HIV encephalopathy: 'subcortical dementia' characterized by defects in short-term memory and executive function. AIDS causes subcortical dementia, involves white matter and causes progressive multifocal leukoencephalopathy and main feature is demyelination. Overall cerebral atrophy and prominent caudate region atrophy are important radiographic features of HIV dementia.",
-        "cop": 1,
-        "opa": "Anterior cingulate gyrus",
-        "opb": "Globus pallidus",
-        "opc": "Caudate nucleus",
-        "opd": "Lower white matter volume",
-        "subject_name": "Medicine",
-        "topic_name": "Virology",
-        "id": "5503fa59-6c90-4be1-9994-2424bf0284c9",
-        "choice_type": "multi"
-    },
-    {
         "question": "Diagnostic test for HIV in window period is?",
         "exp": "ANSWER: (C) P 24 antigen. REF: Harrisons Internal Medicine 17, h edition Chapter 182. Human Immunodeficiency Virus Disease: AIDS and Related Disorders. In June 1996, blood banks in the United States added the p 24 antigen capture assay to the screening process to help identify the rare infected individuals who were donating blood in the time (up to 3 months) between infection and the development of antibodies. In 2002 the ability to detect early infection with HIV w. Tas further enhanced by the licensure of nucleic acid testing (NAT) as a routine part of blood donor screening. These refinements decreased the interval between infection and detection (window period) from 22 days for antibody testing to 16 days with p 24 antigen testing and subsequently to 12 days with nucleic acid testing. Also know: The standard blood screening test for HIV infection is the ELISACommercial EIA kit that contains antigens from both HIV-1 and HIV-2 and thus are able to detect either. The fourth generation EIA tests combine detection of antibodies to HrV with detection of the p 24 antigen of HIVThe most commonly used confirmatory test is the Western blot. While the Western blot is an excellent confirmatory test for HIV infection in patients with a positive or indeterminate EIA, it is a poor screening test. Separate western blot are done for HIV 1 and HIV 2. In addition, the tests detecting levels of HIV RNA can be used to determine prognosis and to assess the response to ARV therapies.",
         "cop": 3,
@@ -76,19 +63,6 @@
         "topic_name": "Virology",
         "id": "76c5e3bc-1ff9-4bd0-9e29-4e497713955d",
         "choice_type": "single"
-    },
-    {
-        "question": "Hecht's pneumonia is typically seen in -",
-        "exp": "Ans. is 'a' i. e., Measles Primary giant cell Pneumonia or Hecht's Pneumoniao Refers to a Primary Giant cell type of Pneumonia typically seen in patients with measles. o It is a rare but often fatal form of interstitial pneumonia typically seen in immune-compromised patients with measles. The diagnosis of Hecht's Pneumonia is made on histological examination by demonstration of an interstitial type pneumonia with variable number of Giant cells. Sequelae/Complicationso Secondary bacterial infections; Giant cell pneumonia (1 in 25); meningitis/encephalitis (1 in 1, 000)o Subacute sclerosing panencephalitis (SSPEI: Develops 1 to 10 years after the initial infection# Progressive, usually fatal CNS disease and those who survive are severely impaired mentally and physically.# First signs are behavioral, followed by loss of motor control and coordination.# Risk factors include acquiring primary measles at an early age (usually under two years). And# Associated with defective forms of the virus in the brain-difficult to isolate infectious virus from such patients. Certain viral proteins are often not expressed, the viral M protein (viral matrix protein) being frequently absent (not the same as M protein on streptococcus pyogenes).",
-        "cop": 1,
-        "opa": "Measles",
-        "opb": "Malaria",
-        "opc": "RSV",
-        "opd": "Pneumococcus",
-        "subject_name": "Medicine",
-        "topic_name": "Virology",
-        "id": "4cd085ed-c451-4c1b-b6bd-38eb55162a0b",
-        "choice_type": "multi"
     },
     {
         "question": "Most common fungal infection in H. I. V. -",
@@ -167,19 +141,6 @@
         "topic_name": "Virology",
         "id": "44815b9b-8526-4b3d-9c5b-bd5671b28614",
         "choice_type": "single"
-    },
-    {
-        "question": "Which viral infection is associated with neutropenia:",
-        "exp": "Ans. is 'd' all of the above (Ref Chandrasoma Taylor, 3/e, p. 412; Harrison, 16/e, p 352 (15/e, p. 369)). Viral infections associated with neutropenia: Hepatitis. Measles. AIDS (HIV). Infectious mononucleosis. Influenza (\"severe (eulippenia can occur in overwhelming infection\" - Harrison, 15/e, p1129)",
-        "cop": 4,
-        "opa": "Hepatitis A",
-        "opb": "Influenza A",
-        "opc": "HIV",
-        "opd": "All of the above",
-        "subject_name": "Medicine",
-        "topic_name": "Virology",
-        "id": "3a9db830-42bc-4931-bc66-627b7bbc9e76",
-        "choice_type": "multi"
     },
     {
         "question": "SARS causative agent:",
@@ -284,18 +245,5 @@
         "topic_name": "Virology",
         "id": "a7916675-a1f5-4a75-b7ca-20da285cf5d8",
         "choice_type": "single"
-    },
-    {
-        "question": "All are associated with AIDS EXCEPT:",
-        "exp": "ANSWER: (B) Hypogammaglobulinemia. REF: Harrisons 18th ed chapter 189. Even though HIV causes immune suppression, it causes hypergammaglobulinemia rather than hypogammglobulinemia. Increased p24 antibody: basis for detection in window period. T cell anergy is commonly seen in HIVAbnormal response of T cells to mitogens is a test used in HIV",
-        "cop": 2,
-        "opa": "Increased p 24 Ab",
-        "opb": "Hypogammaglobulinemia",
-        "opc": "Abnormal mitogen assay",
-        "opd": "Anergy",
-        "subject_name": "Medicine",
-        "topic_name": "Virology",
-        "id": "84845059-672d-4f44-9691-e62e8812927e",
-        "choice_type": "multi"
     }
 ]

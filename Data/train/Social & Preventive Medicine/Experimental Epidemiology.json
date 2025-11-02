@@ -1,18 +1,5 @@
 [
     {
-        "question": "In a double blind clinical drug trial:",
-        "exp": "Ans. is 'c' i. e. The patients do not know which treatment they are receiving. Ref. Park 20th/e, p 79, 18th/e, p. 77 (17th/e p 73). Blinding was introduced to prevent bias during randomized controlled trial. Single Blind Trial. The trial is so planned that the participant is not aware whether he/she belongs to the study group or the control group. Double Blind Trial. The trial is so planned that neither the doctor nor the participant is aware of the group allocation and the treatment received. Triple Blind Trial. This goes one step further. The participant, the investigator and the person analysing the data are all \"blind. \"Ideally, of course, triple blinding should be used, but the double blinding is the most frequently used method when a blind trial is conducted. Remember, when the outcome such as death is being measured, blinding is not so essential.",
-        "cop": 3,
-        "opa": "Each patient receives a placebo.",
-        "opb": "Each patient receives both (double) treatments",
-        "opc": "The patients do not know which treatment they are receiving",
-        "opd": "The patients do not know that they are in a drug trial",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Experimental Epidemiology",
-        "id": "1261cb66-9238-40f3-80ee-537d8196567c",
-        "choice_type": "multi"
-    },
-    {
         "question": "In a controlled trail to compare two treatments, the main purpose of randomization is to ensure that:",
         "exp": "Ans. is 'a' i. e. The two groups will be similar in prognostic factors The below quote from Park will suitably explain the answer- \"Randomization is a statistical procedure by which the participates are allocated into groups usually called 'study ' and 'control 'groups, to receive or not to receive an experimental, preventive or therapeutic procedure, man oeuvre or intervention., Randomization is an attempt to eliminate 'bias' and allow for comparability. Theoretically it is possible to assure comparability b matching. But when one matches, one can only match, those factors which are known to be important. There may be other factors which are important but whose effect is not recognized or cannot be determined. By a process of randomization, hopefully these factors will be distributed equally between the two groups. Randomization will give the greatest confidence that the groups are comparable. \"About other options. Options (b) and (d). The clinician knowing or not knowing about the treatment the subjects will receive, is part of Blinding and not randomization. Option (c). Both the 'study' and 'control' samples are derived from the reference population. This is a step taken prior to randomization. First an experimental or study population is selected from a known population (the target or reference population). Later this study population in divided into study and control groups by Randomization.",
         "cop": 1,
@@ -26,19 +13,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Randomization:",
-        "exp": "Ans. (b) It is the Procedure by which participants are allocated into groups usually called 'study' and 'control' group. Ref: K. Park 23rd ed. / 82, 21st ed. /78* Randomization is \"heart\" of a control trial. It is a statistical procedure by which the participants are allocated into groups usually called \"study\" and \"control\" group.* It is an attempt to eliminate bias and allow comparability.* By doing this it is ensured that investigator has NO control over allocation of participants to study or control group. THIS REMOVES SELECTION BIAS.* RANDOMIZATION is done only after the participant has entered the study, i. e. after having been qualified for the trial and has given his informed consent to participate in the study.",
-        "cop": 2,
-        "opa": "It brings bias in study group, therefore avoided",
-        "opb": "It is the Procedure by which participants are allocated into groups usually called study' and control' group",
-        "opc": "It ensures that investigator has full control over allocation of participants to study or control group",
-        "opd": "It is done usually before entering in the study and then consent is taken",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Experimental Epidemiology",
-        "id": "2f23767d-7f65-4268-9792-a65e0aae7f7a",
-        "choice_type": "multi"
-    },
-    {
         "question": "Phase IV of Clinical trial is done:",
         "exp": "Ans. (d) Post marketing surveillance. Ref.: K. Park 23rd ed. / 84-85. Clinical Trials. Phase. Subjects. Purpose* Phase 1. Healthy human volunteer. Safety and non-toxicity* Phase 2. Patients (20-200). Effectiveness* Phase 3. Patients. Comparison with existing drug* Phase 4. Patient. Long term side effects Post marketing surveillance* Most important phase of clinical trial: Phase 3* A new drug is launched in market after phase 3. PHASE 4* Post marketing surveillance* Longest phase: 10-25 years* To study the long term side effects of a drug* Doesn't require ethical clearance.",
         "cop": 4,
@@ -50,18 +24,5 @@
         "topic_name": "Experimental Epidemiology",
         "id": "2a0b67b6-77f2-414f-b5dd-5188407cc224",
         "choice_type": "single"
-    },
-    {
-        "question": "Most commonly used blinding technique in epidemiological studies -",
-        "exp": "Ans. is 'b>c' i. e., Double blinding > Triple blinding Blindingo The blinding is used to prevent outcomes from being influenced by the bias. Blinding is a basic tool to prevent concious as well subconcious bias in the study. o To blind a person involved in the study (subject, investigator or observer) is to prevent them from knowing certain information about the study. Type. Method. Minimizes. Single blinding. Double blinding. Study subjects are not aware of the treatment they are receiving. Study subjects as well as investigator are not aware of the treatment study subjects are receiving. Subject bias. Subject bias +Investigator bias. Triple blinding. Study subjects, investigator as well as analyzer are not aware of the treatment study subjects are receiving. Subject bias +Investigator bias + Analyzer bias. Coming back to questiono Most commonly used blinding is double blinding, i. e. most of the epidemiological studies are started as double blinded. But more aften than not it becomes triple blinded as more than two people in the study are blinded - for example the statician (analyzer) performing the analysis is often blinded in addition to doctor (investigator) and patient (study subject).",
-        "cop": 2,
-        "opa": "Single blinding",
-        "opb": "Double blinding",
-        "opc": "Triple blinding",
-        "opd": "None of the above",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Experimental Epidemiology",
-        "id": "f68c745c-e182-4d81-bc76-bfb6120f65ce",
-        "choice_type": "multi"
     }
 ]

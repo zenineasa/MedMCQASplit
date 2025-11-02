@@ -39,19 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "All of the following are true of thalassemia major, EXCEPT:",
-        "exp": "- In thalassemia- decreased osmotic fragility is seen - Increased osmotic fragility is a feature of hereditary spherocytosis - Remaining all features given in the options are seen in thalassemia",
-        "cop": 4,
-        "opa": "Splenomegaly",
-        "opb": "Target cells on peripheral smear",
-        "opc": "Microcytic hypochromic anemia",
-        "opd": "Increased osmotic fragility",
-        "subject_name": "Pediatrics",
-        "topic_name": "Hemolytic anemia",
-        "id": "61b3936d-b151-4e5b-982b-86a837f968a0",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not seen on hemoglobin electrophoresis in homozygous sickle cell anemia?",
         "exp": "*In homozygous Sickle cell anemia, Hb electrophoresis shows - 80-90% of HbS, rest is HbF and Hb. A2. - However, HbA is absent.",
         "cop": 1,
@@ -169,19 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A child died soon after bih. On examination there was hepatosplenomegaly and edema all over body. Most probable diagnosis in:",
-        "exp": "- This case history suggests NON IMMUNE HYDROPS - seen in severe variety of alpha thalassemia (HbH or Hb Bas). - ABO incompatibility usually leads to mild hemolysis, which is not severe enough to lead to hydrops fetalis. - b-thalassemia - Doesn't present immediately after bih",
-        "cop": 1,
-        "opa": "a-thalassemia",
-        "opb": "b-thalassemia",
-        "opc": "Hereditary spherocytosis",
-        "opd": "ABO incompatibility",
-        "subject_name": "Pediatrics",
-        "topic_name": "Hemolytic anemia",
-        "id": "b86d984b-9282-40be-9c32-469a3307de10",
-        "choice_type": "multi"
-    },
-    {
         "question": "Which of the following is not associated with a high reticulocyte count?",
         "exp": "- High reticulocyte count is seen in: Hemolytic anemias Acute bleeding In response to treatment in nutritional deficiency anemia - Megaloblastic anemia is a nutritional anemia, & it results in low reticulocyte count",
         "cop": 3,
@@ -193,31 +167,5 @@
         "topic_name": "Hemolytic anemia",
         "id": "d4cc396a-9ed1-48c3-a02b-47cda60caee1",
         "choice_type": "single"
-    },
-    {
-        "question": "All of the following statements are true about sickle cell disease EXCEPT:",
-        "exp": "- Patients of Sickle cell anemia rarely presents before 6 months age as abundance of HbF inhibits polymerisation of HbS. CLINICAL FEATURES OF SICKLE CELL ANEMIA: Hand foot syndrome / dactylitis of bones of hands, feet Priapism & erectile dysfunction Stroke & retinopathy- loss of visual acuity & blindness Auto splenectomy d/t splenic INFARCTS (Spleen becomes non palpable) Chronic hemolysis - pt may require frequent blood transfusions Renal Involvement- papillary necrosis & hyposthenuria cardiomegaly Infections mainly by encapsulated bacteria. - Fever in a child with sickle cell anemia is a medical emergency, require prompt medical evaluation and delivery of antibiotics because of increased risk of bacterial infection and subsequent high moality rate. - Positive correlation is seen b/w concentration of HbS & polymerization of HbS",
-        "cop": 4,
-        "opa": "Patient may require frequent blood transfusions",
-        "opb": "Acute infection is the most common cause of moality before 3 years of age",
-        "opc": "There is positive correlation between concentration of HbS and polymerisation of HbS",
-        "opd": "Patient presents early in life before 6 months of life",
-        "subject_name": "Pediatrics",
-        "topic_name": "Hemolytic anemia",
-        "id": "a28c3d70-fff2-407e-9ddc-5f40fef42734",
-        "choice_type": "multi"
-    },
-    {
-        "question": "In G6. PD deficiency, which cells are more prone for hemolysis:",
-        "exp": "- Mature red cells do not synthesize new proteins - Hence, as red cells ages G6. PD enzyme levels fall quickly & becomes inadequate to protect against oxidant stress. - Thus, older red cells are much more prone to hemolysis than younger ones.",
-        "cop": 1,
-        "opa": "Older red cells",
-        "opb": "Young red cells",
-        "opc": "Reticulocytes",
-        "opd": "All are susceptible",
-        "subject_name": "Pediatrics",
-        "topic_name": "Hemolytic anemia",
-        "id": "0d6852fa-a2b6-45af-8fc4-fb51e0ad06c9",
-        "choice_type": "multi"
     }
 ]

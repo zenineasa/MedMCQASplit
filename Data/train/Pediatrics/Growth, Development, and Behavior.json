@@ -1,18 +1,5 @@
 [
     {
-        "question": "A mother calls you on the telephone and says that her 4-year-old son bit the hand of her 2-year-old son 2 days ago. The area around the injury has become red, indurated, and tender, and he has a temperature of 39. 4degC (103degF). Which of the following is the most appropriate response?",
-        "exp": "Human bites can pose a significant problem. They can become infected with oropharyngeal bacteria, including S aureus, Streptococcus viridans, Eikenella corrodens, and anaerobes. A patient with an infected human bite of the hand requires hospitalization for appropriate drainage procedures, Gram stain and culture of the exudate, vigorous cleaning, debridement, and appropriate antibiotics. The infected wound should be left open and allowed to heal by secondary intention (healing by granulation tissue rather than closure with sutures). Empiric antibiotic therapy for an infected bite should be penicillinase-resistant; amoxicillin-clavulanate orally, or ticarcillin-clavulanate or ampicillin-sulbactam IV are good choices. Antibiotic prophylaxis for noninfected bite wounds remains controversial, but some experts recommend prophylaxis for all significant human bites.",
-        "cop": 2,
-        "opa": "Arrange for a plastic surgery consultation at the next available appointment.",
-        "opb": "Admit the child to the hospital immediately for surgical debridement and antibiotic treatment.",
-        "opc": "Prescribe penicillin over the telephone and have the mother apply warm soaks for 15 minutes four times a day.",
-        "opd": "Suggest purchase of bacitracin ointment to apply to the lesion three times a day.",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "32f92251-058a-4101-86e4-69e0e3929edf",
-        "choice_type": "multi"
-    },
-    {
         "question": "An 8-hour-old term infant develops increased respiratory distress, hypothermia, and hypotension. A complete blood count (CBC) demonstrates a white blood cell (WBC) count of 2500/mL with 80% bands. The chest radiograph is shown below. Which of the following is the most likely diagnosis?",
         "exp": "(c) Source: (Hay et al, pp 1163-1166. Kliegman et al, pp 925-928. Mc. Millan et al, pp 482-483, 501-506. Rudolph et al, pp 1097-1099.) The radiograph shows diffuse that infiltrates bilaterally; this can be seen with neonatal pneumonia or primary surfactant deficiency. The rapid onset of the symptoms, the low WBC count with left shift, and the depicted chest x-ray findings, however, are typical of a patient with group B streptococcus (GBS) pneumonia. Appropriate management would include rapid recognition of symptoms, cardiorespiratory support, and prompt institution of antibiotics. Despite these measures, mortality from this infection is not uncommon. The other infectious causes listed do not present so early, and the noninfectious causes listed do not cause elevations in the band count. GBS disease in the infant is decreasing in incidence with better prevention strategies in the perinatal period; early screening in pregnancy and treatment with antibiotics just prior to delivery to eliminate GBS colonization markedly decreases the risk to the infant. Congenital syphilis can cause pneumonia, but it is diagnosed at birth along with other features including hepatosplenomegaly, jaundice, rashes, hemolytic anemia, and others. Diaphragmatic hernia presents with early respiratory distress, but the diagnosis is confirmed clinically with bowel sounds heard in the chest and a radiograph that has loops of bowel located above the normal placement of the diaphragm. Transient tachypnea of the newborn (TTN) causes an increase in respiratory rate and occasionally a low oxygen requirement; the history is often positive for a cesarean delivery, and the radiograph shows retained fluid in the fissures. TTN does not cause temperature instability nor an abnormal CBC. Chlamydial pneumonia is not a condition that occurs in an 8-hour-old infant; it is generally a mild pneumonia that can develop in an exposed infant at several weeks of life.",
         "cop": 3,
@@ -39,32 +26,6 @@
         "choice_type": "single"
     },
     {
-        "question": "Megaloblastic anemia, glossitis, pharyngeal ulcers, and impaired immunity. For each disorder above, select the dietary deficiency that is likely to be responsible.",
-        "exp": "Folate deficiency can occur from a number of etiologies including poor intake or absorption; in high-demand diseases such as sickle cell; and in inborn errors of metabolism. It can also be seen in conjunction with a variety of medication uses including high-dose nonsteroidal anti-inflammatory drugs (NSAIDs), methotrexate, and phenytoin. Deficiency results in megaloblastic anemia, glossitis, pharyngeal ulcers, and impaired immunity.",
-        "cop": 1,
-        "opa": "Folate deficiency",
-        "opb": "Thiamine deficiency",
-        "opc": "Niacin deficiency",
-        "opd": "Vitamin D deficiency",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "d6b152b3-2f1c-456e-b088-89c7a688d88d",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Many rashes and skin lesions can be found first in the newborn period. For each of the descriptions listed below, select the most likely diagnosis. Each lettered option may be used once, more than once, or not at all. An adolescent boy complains of a splotchy red rash on the nape of his neck, discovered when he had his head shaved for football season. The rash seems to become more prominent with exercise or emotion. His mother notes that he has had the rash since infancy, but that it became invisible as hair grew. He had a similar rash on his eyelids that resolved in the newborn period.",
-        "exp": "Salmon patches (aka nevus simplex or nevus flammeus) are flat vascular lesions that occur in the listed regions and appear more prominent during crying. The lesions on the face fade over the first few years of life. Lesions found over the nuchal and occipital areas often persist. No therapy is indicated.",
-        "cop": 2,
-        "opa": "Sebaceous nevus",
-        "opb": "Salmon patch",
-        "opc": "Neonatal acne",
-        "opd": "Pustular melanosis",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "874e45c8-1b40-41c2-9fe5-3e9329a84653",
-        "choice_type": "multi"
-    },
-    {
         "question": "Developmental Quotient is calculated as:",
         "exp": "Ans. A. Average age at attainment/observed age at attainment x100. Significant delays on screening is an indication for a detailed formal assessment of developmental status. By assessment, one can assign developmental quotient (DQ) for any developmental sphere. A DQ below 70 is taken as delay",
         "cop": 1,
@@ -76,32 +37,6 @@
         "topic_name": "Growth, Development, and Behavior",
         "id": "f32a8f30-6017-413b-b4a0-429d3d9bb990",
         "choice_type": "single"
-    },
-    {
-        "question": "All are true about anthropometric measurements except:",
-        "exp": "d. Standing height is about 1. 7cm less than recumbent length(Ref: Training Course on Child Growth Assessment WHO Child Growth Standards, 2008). If a child <2 years old, measure recumbent length. If>2 years age & able to stand, measure standing height. Standing height is about 0. 7cm less than recumbent length.",
-        "cop": 4,
-        "opa": "Birth weight triples by 1 year",
-        "opb": "Skinfold thickness is measured in sub scapular region",
-        "opc": "Weight is measured to the nearest 100 gram",
-        "opd": "Standing height is about 1. 7 cm less than recumbent length",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "c7e50fc6-2407-4a80-bd56-e5b0f46a326f",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 16-year-old boy arrives to your office soon after beginning basketball season. He states that he has had progressive pain in his knees. A physical examination reveals, in addition to tenderness, a swollen and prominent tibial tubercle. Radiographs of the area are unremarkable. Which of the following is the most likely diagnosis?",
-        "exp": "This history is typical of Osgood-Schlatter disease. Microfractures in the area of the insertion of the patellar tendon into the tibial tubercle are common in athletic adolescents. Swelling, tenderness, and an increase in size of the tibial tuberosity are found. Radiographs can be used to rule out other conditions. Treatment consists of rest. Legg-Calve-Perthes disease is avascular necrosis of the femoral head. This condition usually produces mild or intermittent pain in the anterior thigh but can also present as a painless limp. Gonococcal arthritis, although common in this age range, is uncommon in this anatomic site. More significant systemic signs and symptoms, including chills, fever, migratory polyarthralgia, and rash, are commonly seen. Slipped capital femoral epiphysis is usually seen in a younger, more obese child (mean age about 10 years) or in a thinner, older child who has just undergone a rapid growth spurt. Pain upon movement of the hip is typical. Popliteal (Baker) cysts are found on the posterior aspect of the knee. Observation is usually all that is necessary, as they typically resolve over several years. Surgical excision is indicated if the cyst progressively enlarges or if there are unacceptable symptoms associated with the cyst.",
-        "cop": 1,
-        "opa": "Osgood-Schlatter disease",
-        "opb": "Popliteal cyst",
-        "opc": "Slipped capital femoral epiphysis",
-        "opd": "Legg-Calve-Perthes disease",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "06a059e8-ce09-46d0-81ba-2bf989c7f059",
-        "choice_type": "multi"
     },
     {
         "question": "What is this instrument used to measure?",
@@ -221,32 +156,6 @@
         "choice_type": "single"
     },
     {
-        "question": "True regarding Dyslexia is following EXCEPT",
-        "exp": "Ans d (Transient developmental lag) (Ref: Nelson Textbook of paed 17th ed, p 111). Dyslexia. Introduction# Dyslexia is characterized by an unexpected difficulty in reading in children and adults who otherwise possess the intelligence, motivation, and opportunities to learn considered necessary for accurate and fluyent reading.# Dyslexia is the most common and most comprehensively studied of the learning disabilities (LD, affecting at least 80% of children identified as manifesting LD.# When asked to read aloud, most children and adults with dyslexia display a labored approach to decoding and recognizing single words, and approach characterized by hesitations, mispronunciation, and repeated attempts to sound out unfamiliar words.# In contrast to the difficulties they experience in decoding single words, individuals with dyslexia have the vocabulary, syntax, and other ghigher level abilities involved in comprehension. Etiolog# At a cognitive-linguistic level, dyslexia reflects deficits within a specific component of the language system, the phonologic moduyle, which is engaged in processing the sounds of speech.# Dyslexic individuals have difficulty developing an awareness that words, both spoken and written, can be segmented into smaller elemental units of sound--an essential ability given that reading an alphabetic language (i. e., English) requires that the reader map or link printed symbols to sound. Abundant evidence showss that the linguistic abilities related to learning to read involve phonology, with deficits in phonologic awareness best predicting dyslexia.# Theories of dyslexia that implicate the visual system or deficits in the temporal processing of auditory and visual stimuli have not been usufficiently substantiated b research.# Dyslexia is both familial and heritable.# Family history in one of the most important risk factorsl about half of children who have a parent with dyslexia as well as half of the siblings of dyslexics and half of the parents of dyslexics may have the disorder.# These data suggest that in dyslexic readers disruption of posterior reading systems underlies the failure of skilled reading to develop, while a shift to ancillary systems supports accurate, but not automatic, word reading. Epidemiology# Dyslexia may be the most common neurobehavioral disorder affecting children, with prevalence rates ranging from 5-10% in clinic-and school-identified samples to 17. 5% in unselected population-based samples.# Several studies indicate similar numbers of affected males and females.# Both prospective and retrospective longitudinal studies indicate dyslexia is a persistent, chronic condition rather than a transient developmental lag. Clinical Manifestations# Difficulties in decoding and word recognition may vary according to age and developmental level. However the cardinal signs of dyslexia observed in school-aged children and adults are in inaccurate and labored approach to decoding, word recognition, and text reading.# Listening comprehension is typically robust.# In several studies, oder children have been found to improve reading accuracy over time, albeit without commensurate gains in reading fluency; they remain slow readers.# Difficulties in spelling typically reflect the phonologically based difficulties observed in oral reading.# A parental history frequently identifies early subtle language difficulties in dyslexic children.# Many children identified as dyslexic during the primary grades displayed difficulties playing rhyming games and learning the names for letters and numbers during the preschool and kindergarten years. Indeed, recent longitudinal studies demonstrate that kindergarten assessments of these language skills are highly predictive of latler reading skill.# Parents also frequently report that although their child relishes the opportunity to be read to, reading aloud to the parent or reading independently is resisted.# Dyslexia may co-occur with attention-deficit/hyperactivity disorder (ADHD). Diagnosis# At all ages, dyslexia is a clinical diagnosis.# The clinician seeks to determine through history, observation, and psychometric assessment if there are (1) unexpected difficulties in reading (i. e., difficulties in reading that are unexpected for the person's cognitive capacity as shown by his or her age, intelligence, level of education, or professional status( and (2) associated linguistic problems at the level of phonologic processing. There is no single test score that is patho9gnomonic of dyslexia.# The diagnosis should reflect a thoughtful synthesis of all the clinical data available.# Dyslexia is distinguished from other disorders that may prominently features reading difficulties, by the unique, circumscribed nature of the phonologic deficit, one not intruding into other linguistic or cognitive domains.# Family history, teacher/classroom observation, and tests of language (particularly phonology), reading, and spelling represent a core assessment for the diagnosis of dyslexia in children; additional tests of intellectual ability, attention, memory, general language skills, and mathematrics may be administered as part of a more comprehensive evaluation of cognitive, linguistic, and academic function. Treatment# The management of dyslexia demands a life-span perspective; early on, the focus is on remediation of the reading problems.# Newer knowledge of the importance of early language and phonologic skills may lead to the prevention of significant reading problems, even in predisposed children.# As a child matures and enters the more time-demanding setting of secondary school, the emphasis shifts to the important role of providing accommodations.# Until very recently school reading intervention was not based on rigorous scientific evidence; overall, it was too little too general, and too unsystematic.# Effective intervention programs are balanced; they provide systematic instruction in phonemic awareness, phonic fluency, vocabulary, and comprehension strategiles and provide ample opportunities for writing, reading, and discussing literature.# Taking each component of the reading process in turn, effective interventions improve phonemic awareness (PA): ability to focus on and manipulate phonemes (speech sounds) in spoken syllables and words.# The elements found to be most effective in enhancing PA, reading, and spelling skills include teaching children manipulate phonemes with letters; focusing the instruction on one or two types of phoneme manipulations rather than multiple types; teasching children in small groups; and providing systematic, explicit instruction rather than incidental instruction in PA. Providing instruction in PA is necessary buyt not sufficient to teach children to read.# Effective intervention programs include teaching phonics, that is, making sure that the begilnning reader understands how letters are letters are linked to sounds (phonemes) to form letter-sound correspondences and spelling patters.# Often overlooked, and critical to effectively teaching phonics, is to make sure that the instruction is explicit and systematic; phonics instruction enhances children's success in learning to read and systematic phonics instruction is more effective than instruction that teaches little or no phonics or teaches phonics haphazardly or in a \"by-the-way approach.# The treatment of dyslexia in students in high school, college, and graduate school is typically based on accommodation rather than remediation.# College students with a childhood history of dyslexia requiree extra time in reading and writing assigments as well as examinations.# Many adolescent and adult students have been able to improve their reading accuracy, though without commensurate gains in reading speed. Other helpful accommodations include the use of laptop computers with spelling checkers, tape recorders in the classroom, recorded books, access to lecture notes, tutorial services, alternatives to multiple choice tests, and a separate quiet room for taking tests.",
-        "cop": 4,
-        "opa": "Most common learning disorder",
-        "opb": "Familial disorder",
-        "opc": "May improve with time",
-        "opd": "Transient developmental lag",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "9de42ca6-bc5f-46a0-9e79-15a753374180",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Which of the following is not true in assessing skin fold thickness?",
-        "exp": "Ans: (b) Measured to the nearest of 1 cm. Ref: Nutrition and Child Development, KE Elizabeth, 4th edition, Page 170. Skin fold thickness - indicator of availability of caloric stores in the form of subcutaneous fat. Sites of measurement - triceps and sub scapular region. Measured using Harpenden and Best type calipers to the nearest of 0. 1 cm. Its normal value is present in Tanners' chart (for both triceps and sub scapular area) and measurements below 90% of the standard are considered subnormal.",
-        "cop": 2,
-        "opa": "Measured at the triceps level",
-        "opb": "Measured to the nearest of 1 cm",
-        "opc": "Tanner's chart contains the normal values",
-        "opd": "Indirectly indicates the caloric reserve of the body",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "9425d4d3-6bde-47f1-b922-9742ae900b42",
-        "choice_type": "multi"
-    },
-    {
         "question": "Toilet training should be started at what age?",
         "exp": "Ans. A. 2 years. Toilet training should be started after 2 years of age, when the child has spontaneously started indicating bladder and bowel fullness and is able to follow simple instructions.",
         "cop": 1,
@@ -284,19 +193,6 @@
         "topic_name": "Growth, Development, and Behavior",
         "id": "fac9ea82-f633-4719-8762-e8bdaed51aab",
         "choice_type": "single"
-    },
-    {
-        "question": "After helping his father in the yard, a 14-year-old boy complains of weakness and feels like his muscles are twitching. He begins to drool, and then collapses in a generalized tonic-clonic seizure. Upon the arrival of EMS, his heart rate is found to be 40 beats per minute and his pupils are pinpoint. For the most likely toxic substance involved in the cases above, select the appropriate treatment",
-        "exp": "Organophosphate insecticides are absorbed from all sites and act by inhibiting cholinesterases, thereby leading to the accumulation of high levels of acetylcholine. This affects the parasympathetic nervous system, muscle, and the CNS. Treatment of a patient contaminated with organophosphate insecticide will include thorough washing of the pesticide from the skin, inducing emesis or performing gastric lavage, supporting ventilation, and administering atropine followed by pralidoxime (2-PAM).",
-        "cop": 1,
-        "opa": "Atropine and pralidoxime (2-PAM)",
-        "opb": "N- acetylcysteine (Mucomyst)",
-        "opc": "Dimercaptosuccinic acid (DMSA, succimer)",
-        "opd": "Naloxone (Narcan)",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "fa7c00b1-1d39-455a-bae7-434c2b6554df",
-        "choice_type": "multi"
     },
     {
         "question": "Short stature is defined as a height below:",
@@ -414,19 +310,6 @@
         "topic_name": "Growth, Development, and Behavior",
         "id": "1018fa60-a859-4c14-b7bc-a8ba1665fb4a",
         "choice_type": "single"
-    },
-    {
-        "question": "A baby is said to be small for gestational age if its weight is < ------ percentile:",
-        "exp": "Ans. B. 10th. Depending upon birth weight, babies can be classified as. AGA (appropriate for gestational age): Birthweight between 10th percentile and 90th percentile. SGA (Small for gestational age): Birthweight below 10th percentile. LGA (large for gestational age): Birthweight above 90th percentile",
-        "cop": 2,
-        "opa": "5th",
-        "opb": "10th",
-        "opc": "25th",
-        "opd": "50th",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "97c003cf-50b9-4855-8964-397145c8f254",
-        "choice_type": "multi"
     },
     {
         "question": "Eruption of 1st molar permanent tooth occurs at the age of:",
@@ -611,19 +494,6 @@
         "choice_type": "single"
     },
     {
-        "question": "What age range does the Phallic/Oedipal stage of Freud' theory correspond to:",
-        "exp": "b. 3-6 years(Ref: Nelson's 20/e p 52). Phallic/Oedipal stage of Freud theory correspond to the preschool age (3-6 years); At the core of Freudian theory is the idea of body-centered (or, broadly, \"sexual\") drives.",
-        "cop": 2,
-        "opa": "0-1 year",
-        "opb": "3-6 years",
-        "opc": "2-3 years",
-        "opd": "6-12 years",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "d7a22768-aa84-406d-81a3-6dacc7b723a8",
-        "choice_type": "multi"
-    },
-    {
         "question": "The first epiphyseal centers appears in(6-G)",
         "exp": "(Oscalcis): Ref: 6 -G (1. -Ghai 7th)* The earliest epiphyseal centers to appear are those for the oscalics and talus bones (22 to 26 weeks of gestation)* The distalepiphysis of the femur and the proximal epiphysis of tibia are usually present in a full term normal newborn at the time of birth* Clavicle, manible and the membranous bones of the skull are the first fetal bones to ossify usually between 50 days and 5 months of gestations.* Cuboid (37 weeks of gestation of 8 weeks postnately)",
         "cop": 1,
@@ -648,19 +518,6 @@
         "topic_name": "Growth, Development, and Behavior",
         "id": "b94dc464-53ef-4716-9162-5cc3f3af7eff",
         "choice_type": "single"
-    },
-    {
-        "question": "False regarding thumb sucking is:",
-        "exp": "Ans. A. Must be treated vigorously in the first year of life. Thumb sucking is normal in early infancy. It is a source of pleasure in children and is a sign of insecurity. It can lead to malocclusion of teeth, if it persists beyond 5 years. Best policy is to ignore thumb sucking and concentrate on positive aspects of child's behavior. No treatment is required below 5 year of age.",
-        "cop": 1,
-        "opa": "Must be treated vigorously in the first year of life",
-        "opb": "It is a sign of insecurity",
-        "opc": "It is a source of pleasure",
-        "opd": "Can lead to malocclusion",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "f16e955f-7405-4c76-8c0b-f86ee6175911",
-        "choice_type": "multi"
     },
     {
         "question": "An eight month old child will be able to do which of the following:",
@@ -715,19 +572,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The following are characteristic of autism EXCEPT:",
-        "exp": "Ans. a (Onset after 6 years of age). (Ref. OP Ghai Paediatrics 6th ed. 65)AUTISM# Onset occurs before 3 years of age.# Diagnostic triad of features is:- Impaired social interaction- Impaired communication- Impaired imagination# Language development is delayed.# Rigid repetitive pattern of behavior is seen.",
-        "cop": 1,
-        "opa": "Onset after 6 years of age",
-        "opb": "Repetitive behavior",
-        "opc": "Delayed language development",
-        "opd": "Severe deficit in social interaction",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "f34ee49d-28cf-48bb-8147-31e0cfb6c5de",
-        "choice_type": "multi"
-    },
-    {
         "question": "A child is able to say sentence of 6 words at:",
         "exp": "d. 5 years(Ref: Nelson's 20/e p 65-77, Ghai 8/e p 52-53). Mnemonic: Between ages of 2 and 5 years, number of words in a typical sentence equals the child's age (e. g. 2 by age 2 year, 3 by age 3 year). So, a child speaks 5 word sentences at 5 years; So, out of the given options 5 years is the best answer.",
         "cop": 4,
@@ -739,19 +583,6 @@
         "topic_name": "Growth, Development, and Behavior",
         "id": "81895e75-f848-4bbe-8d04-91477f871776",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following statements is true about zinc supplementation in childhood diarrhea?",
-        "exp": "Ans. A. 10mg/day in children <6 months; 20mg/day in children >6 months. Oral zinc supplementation is recommended in all children with acute diarrhea. It should be given at a dose of 10mg/day in children <6 months; and 20mg/day in children >6 months for a total duration of 14 days.",
-        "cop": 1,
-        "opa": "10 mg/day in children <6 months; 20 mg/day in children >6 months",
-        "opb": "5 mg/day in children <6 months; 10 mg/day in children >6 months",
-        "opc": "20 mg/day in children <6 months; 30 mg/day in children >6 months",
-        "opd": "None of these",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "07e7bd71-4f28-40fd-bfa5-63e270bb1eb1",
-        "choice_type": "multi"
     },
     {
         "question": "Which of the following can be done by an 18 months old baby?",
@@ -780,32 +611,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A child who can ride a tricycle, uses alternate steps while climbing stairs has attained a development age of:",
-        "exp": "Ans. B. 3 years. At 3 years a child will be able to: ride a tricycle, use alternate steps while climbing stairs Shares toys, knows full name and gender",
-        "cop": 2,
-        "opa": "2 years",
-        "opb": "3 years",
-        "opc": "4 years",
-        "opd": "5 years",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "d15e1e1f-041c-4ffa-93a6-14170f045d23",
-        "choice_type": "multi"
-    },
-    {
-        "question": "Arrange the above milestones in ascending order of appearance (starting from earliest to later milestones):",
-        "exp": "a. D - A - C - B(Ref: Nelson's 20/e p 65-77, Ghai 8/e p 45-49))A. shows mouthing that comes at 5 months. B. shows spontaneous scribbling, that appears at 15 months. C. shows Pivotting that appears around 7 months. D. shows rounded back on made to sit, that is seen at 3 months. So, the correct sequence of the given milestones is D - A - C - B.",
-        "cop": 1,
-        "opa": "D - A - C - B",
-        "opb": "D - C - A - B",
-        "opc": "A - C - D - B",
-        "opd": "A - D - C - B",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "72a0d510-f8a7-4ebb-b0c0-9dd2f6df85df",
-        "choice_type": "multi"
-    },
-    {
         "question": "Anterior fontanelle is located between which two bones?",
         "exp": "b. Frontal and parietal(Ref: Nelson's 20/e p 71-72, Ghai 8/e p 12-13)",
         "cop": 2,
@@ -817,19 +622,6 @@
         "topic_name": "Growth, Development, and Behavior",
         "id": "1cf1fd6e-41c6-4b49-93a4-a906a7a98313",
         "choice_type": "single"
-    },
-    {
-        "question": "A 40-week-old infant can do all the following except:",
-        "exp": "d. Makes a tower of 3--4 cubes(Ref: Nelson's 20/e p 65-77, Ghai 8/e p 52-54)40 week old infant is around 10 months old; Tower of 3-4 cubes comes by around 18 months age.",
-        "cop": 4,
-        "opa": "Waves bye bye",
-        "opb": "Transfer object from one hand to another",
-        "opc": "Sits without support",
-        "opd": "Makes a tower of 3-4 cubes",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "1365f42c-ee2b-47b2-bebc-6488921fc612",
-        "choice_type": "multi"
     },
     {
         "question": "Maximum growth spurt in boys occurs at:",
@@ -845,19 +637,6 @@
         "choice_type": "single"
     },
     {
-        "question": "By what age is the milestone of climbing steps with alternate feet achieved?",
-        "exp": "Ans. is 'b' i. e., 3 years Gross motor development milestones. Neck holding3 months. Sitting with support5 months. Prone to supine and supine to prone6 months. Sitting without support8 months. Crawling9 months. Creeping10 months. Walking with support11 months. Walk independently1 year. Run well, climbing upstairs and going downstairs with one step at a time2 years. Ride tricycle; climbing upstairs with alternate feet3 years. Hopping; going downstairs with alternate feet4 years. Skipping5 years",
-        "cop": 2,
-        "opa": "2 years",
-        "opb": "3 years",
-        "opc": "4 years",
-        "opd": "5 years",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "fec9d07b-5a07-4167-b0bd-d241a03aecfc",
-        "choice_type": "multi"
-    },
-    {
         "question": "What is this teeth abnormality?",
         "exp": "c. Hutchinson's teeth. Notched incisors, as seen in this image are known as Hutchinson's teeth. They are seen in congenital syphilis.",
         "cop": 3,
@@ -871,32 +650,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 2-year-old child (A) presents with a 4-day history of a rash limited to the feet and ankles. The papular rash is both pruritic and erythematous. The 3-month-old sibling of this patient (B) has similar lesions also involving the head and neck. The most appropriate treatment for this condition includes which of the following?",
-        "exp": "(b) Source: (Hay et al, p 393. Kliegman et al, pp 2319-2320. Mc. Millan et al, pp 1382-1383. Rudolph et al, pp 1301-1302.) Scabies is caused by the mite Sarcoptes scabiei var. hominis. Most older children and adults present with intensely pruritic and threadlike burrows in the interdigital areas, groin, elbows, and ankles; the palms, soles, face, and head are spared. Infants, however, usually present with bullae and pustules, and the areas spared in adults are often involved in infants. The clinical manifestations closely resemble those of atopic dermatitis. Gamma benzene hexachloride (lindane) can cause neurotoxicity through percutaneous absorption, especially in small infants and those with abnormal skin (impetigo, etc), and is, therefore, not recommended in children as first-line therapy for scabies. An excellent alternative--5% permethrin cream (Elimite)--is safer and is more often recommended.",
-        "cop": 2,
-        "opa": "Coal-tar soap",
-        "opb": "Permethrin",
-        "opc": "Hydrocortisone cream",
-        "opd": "Emollients",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "4ba7ff26-f272-40d4-a73a-36b3ec3b2eaa",
-        "choice_type": "multi"
-    },
-    {
-        "question": "When can a child kick a ball?",
-        "exp": "c. 24 months(Ref: Illingworth's normal and abnormal child)A child can run and kick a ball at 2 years age and can go upstairs and downstairs 2 feet/step.",
-        "cop": 3,
-        "opa": "12 months",
-        "opb": "18 months",
-        "opc": "24 months",
-        "opd": "36 months",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "f60d59dd-4bc9-4c36-8728-8536067f8ccf",
-        "choice_type": "multi"
-    },
-    {
         "question": "How many teeth are present in a 3 year old child?",
         "exp": "Ans. is 'b' i. e., 20 * Temporary teeth, (milk teeth or deciduous teeth) start appearing at about 6 months, are 20 in number: being 4 incisors, 2 canines and 4 molars in each jaw. They start shedding at about 6 years, when permanent teeth start appearing.* Eruption of Primary teath is complete by 20-30 months of age. Thus, at 3 years there are 20 teeth.* Permanent teeth are 32 in number: being 4 incisors, 2 canines (cuspids), 4 premolars (bicuspids), and 6 molars (tricuspids), in each jaw. 6 permanent molars which erupt extra in each jaw without replacing any teeth are called superadded permanent teeth, while all other permanent teeth are successional permanent teeth.",
         "cop": 2,
@@ -908,19 +661,6 @@
         "topic_name": "Growth, Development, and Behavior",
         "id": "23ace516-27df-4a67-a8cd-3a7c8170922b",
         "choice_type": "single"
-    },
-    {
-        "question": "Which of the following age group, falls under early adolescence age group:",
-        "exp": "b. 10-13 years(Ref: Nelson's 20/e p 926-929, Ghai 8/e p 63-69). Adolescent group. Early. Middle. Late. Age range10 - 13 years14 - 16 years17 - 19 years",
-        "cop": 2,
-        "opa": "8-<10 years",
-        "opb": "10-13 years",
-        "opc": "14-16 years",
-        "opd": "17-19 years",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "121d07d7-ce55-4bc8-9146-0b21900c0d18",
-        "choice_type": "multi"
     },
     {
         "question": "At what age does the child who knows his age, gender, name, can draw a circle and make a tower of 9 cubes?",
@@ -975,19 +715,6 @@
         "choice_type": "single"
     },
     {
-        "question": "A 4-year-old boy occasionally wakes in the middle of the night crying. When his parents check on him, he seems visibly frightened and tells his parents that Chihuahuas were chasing him. Choose the sleep disturbance most consistent with the history",
-        "exp": "Sleep disturbances are fairly common in childhood. Many children resist going to bed, and parents frequently give in just to get the child to sleep by allowing the child to sleep in the parents' bed or allowing them to stay up late. Unfortunately, children learn remarkably well how to get what they want, and the parents' concessions only make the problem worse. Learned behavior (behavioral insomnia, dyssomnia) is the root of many sleep disturbances in young children. Other types of sleep disturbance in children fall into the category of sleep disruptions, such as nightmares and night terrors. A nightmare is a scary or disturbing dream that usually awakens the child and causes agitation about the content of the dream. Nightmares occur during rapid eye movement (REM) sleep. Many children and adults have an occasional nightmare; recurrent or frequent nightmares, however, may be indicative of an ongoing stress in the child's life. Night terrors (pavor nocturnus) are non-REM phenomena seen less commonly than nightmares, occurring in 1% to 6% of all children. The child will be described as apparently awake but unresponsive; they can have evidence of autonomic arousal such as tachycardia, sweating, and tachypnea, and appear frightened and agitated. Attempts at calming the child are usually not effective, and the child will eventually go back to sleep. Although usually a problem in early childhood, night terrors can sometimes continue through adolescence. Somnambulism, or sleepwalking, occurs in 15% of children and is described as recurrent episodes of rising from bed and walking around. The child is typically hard to arouse and will have amnesia after the event. This usually happens in the first third of the sleep cycle, during stage 4 non- REM sleep. Somniloquy, or sleep talking, can occur at any sleep stage and is seen in all ages.",
-        "cop": 2,
-        "opa": "Night terrors",
-        "opb": "Nightmares",
-        "opc": "Learned behavior",
-        "opd": "Obstructive sleep apnea",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "cdbb3293-7987-4217-b5d4-89f7820fe8cb",
-        "choice_type": "multi"
-    },
-    {
         "question": "Birth length is double at the age of",
         "exp": "D. i. e. (4 years) (4 Ghai 6th) (6 - Ghai 7th). Weight. Length or height. Head circumference*birth - about =3 kg*birth50 cm*Birth34 cm5 month(Doubles)6 kg1 years75 cm1 years45 cm1 years9 kg2years85 cm2years47 cm2 years12 kg3 years95 cm 3 years14 kg4 years(doubles)100 cm3 years49 cm4 years16 kg 4 years50 cm* A useful guide for normal range is target height + 7 cm for girls and target height + 8. 5 cm for boys",
         "cop": 4,
@@ -1012,19 +739,6 @@
         "topic_name": "Growth, Development, and Behavior",
         "id": "329e4959-b59a-4bea-955d-82e9c4ec5a27",
         "choice_type": "single"
-    },
-    {
-        "question": "Fetal alcohol syndrome",
-        "exp": "Ans. d. All of the above. FETAL ALCOHOL SYNDROME (FAS). Findings--variable. Behavioral abnormalities. Cardiac anomalies: VSD>ASD, tetralogy of Fallot. Fine motor dysfunction. Irritability in infancy, hyperactivity in childhood. Joint abnormalities--abnormal position and/or function. Mental retardation, microcephaly. Mid-face dysmorphism (abnormal frontal lobe development), short palpebral fissures, maxillary hypoplasia, short nose, smooth philtrum, thin and smooth upper lip. Pre-(symmetric IUGR) and postnatal growth deficiency (short stature). Extra Mile. Fetal hydantoin syndrome. Fetal valproate syndrome*. Similar features with prenatal exposure to carbamazepine, valproate, primidone, and phenobarbital*. No dose-response relationship has been demonstrated*. Growth deficiency*. Borderline to mild mental retardation*. Dysmorphic facial features; short neck; abnormal palmar crease*. Rib abnormalities*. Hirsutism*. Cupid's-bow lips*. Midface hypoplasia; cleft lip*. Cardiac defects*. Long, thin fingers and toes; convex nails*. Meningomyelocele",
-        "cop": 4,
-        "opa": "Microcephaly",
-        "opb": "Deafness",
-        "opc": "Short palpebral fissure",
-        "opd": "All of the above",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "9916e850-2204-4084-96a4-bd636edb30cc",
-        "choice_type": "multi"
     },
     {
         "question": "What is SMR staging based on the following findings in a female?",
@@ -1105,19 +819,6 @@
         "choice_type": "single"
     },
     {
-        "question": "The milestones of a 3-year-old child are considered delayed if he is unable to:",
-        "exp": "b. Use spoon effectively(Ref: Nelson's 20/e p 75). Hop on 1 foot, copying a square & catching a ball reliably, comes at 48 m (4 yrs)A child is able to feed self at 18 months, but handles spoon effectively at 24 months (2 yrs)",
-        "cop": 2,
-        "opa": "Hop on 1 foot",
-        "opb": "Use spoon effectively",
-        "opc": "Copy a square",
-        "opd": "Reliably catch a ball",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "006a05c6-f193-40cb-b9a5-c668bb09f024",
-        "choice_type": "multi"
-    },
-    {
         "question": "Anterior fontanelle closes by what age?",
         "exp": "Ans. is 'c' i. e., 18 months * Closure of anterior fontanel - 1[?]5 years (between 1 to 2 years).* Closure of posterior fontanel - 2-4 months.",
         "cop": 3,
@@ -1129,19 +830,6 @@
         "topic_name": "Growth, Development, and Behavior",
         "id": "e150ec2f-5799-4552-ac99-7ac240bbe094",
         "choice_type": "single"
-    },
-    {
-        "question": "Microcephaly is defined as a:",
-        "exp": "Ans. A. Head circumference more than 2 SD above the mean for age and sex. Macrocephaly is defined as head circumference more than two standard deviations (SD) above the mean value for a given age and gender. It has to be differentiated from megalencephaly, which is defined as increase in the size of the brain parenchyma. Head circumference is measured to monitor head growth in infants and children. It is also known as occipitofrontal circumference (OFC) and it denotes the size of the cranium. Macrocephaly can result from enlargement of the skull bones or an increase in the volume of the intracranial structures like cerebrospinal fluid, blood, or the brain parenchyma itself (megalencephaly). It may be secondary to raised intracranial pressure or space-occupying lesions. It can also be a feature of various congenital syndromes and is then referred to as Syndromic macrocephaly. The pathogenesis is therefore cause-dependent.",
-        "cop": 1,
-        "opa": "Head circumference more than 2 SD above the mean for age and sex",
-        "opb": "Head circumference more than 3. SD above the mean for age and sex",
-        "opc": "Head circumference more than 10th percentile above the mean for age and sex",
-        "opd": "Head circumference more than 15th percentile above the mean for age and sex",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "0c732eae-6337-4d27-ad81-7297c4284cec",
-        "choice_type": "multi"
     },
     {
         "question": "Vocabulary of a 2-year-old child is:",
@@ -1196,45 +884,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In all the following conditions bone age will be decreased except:",
-        "exp": "2. Ans: c (Familial short stature) Ref: OP Ghai, 6th ed, p. 50. In familial short stature, bone age is equal to chronological age. Familial short stature* Short parents* Short child* Bone age normal i. e., = chronological age* Ht < expected for age i. e., height age is reduced* Ht age < chronological age =bone age. Congenital hypothyroidism* Delayed bone age* Epiphyseal dysgenesis* Skull -large fontanelle / wide sutures and wormian bone. Constitutional short stature* Normal weight and length at birth* Normal growth in first year, then decelerates to < 3rd centile* From about 3 years--growth velocity normal* Bone age < chronological age* Bone age = height age* Puberty delayed* History of short stature and delayed puberty in parents.* Eventual height and sexual development normal in both patients and parents. Short stature--causes. Proportionate. Disproportionate* Normal variants--familial, constitutional. Short limbs * Achondroplasia* Prenatal. IUGRIU infections. Chromosomal--Down syndrome* Rickets* Osteogenesis imperfecta* Hypothyroidism* Postnatal. Short trunk. Nutritional. Chronic diseases. Emotional deprivation. Endocrine except cretinism. Hypothyroidism. Pseudohypoparathyroidism, Cushing syndrome* Mucopolysaccharidosis* Spondylo-epiphyseal dysplasia* Caries spine. Most common cause of short stature is constitutional (AI2007)",
-        "cop": 3,
-        "opa": "Congenital hypothyroidism",
-        "opb": "Constitutional delay",
-        "opc": "Familial short stature",
-        "opd": "Rickets",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "a870da9b-0107-4108-a2aa-6ba8c956f510",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 10-month-old child can do all the following EXCEPT",
-        "exp": "Ans. b (Walks unsupported) (Ref. Nelson Pediatrics 17th ed. 34; and OP Ghai Paediatrics 6th ed., p 48)DEVELOPMENTAL MILESTONESApproximate Age. Motor Milestone. Cognitive/Social Milestone. Infant 3 mo4-5 mo7-9 mo12-14 mo15 mo. Holds head up, Moro reflex disappears. Rolls front to back, sits when propped. Sits alone, crawls. Upgoing Babinski disappears. Walks. Social smile. Recognizes people. Stranger anxiety, orients to voice. Few words, separation anxiety. Toddler 12-24 mo18-24 mo24-48 mo24-36 mo. Climbs stairs, stacks 3 blocks. Stacks 6 blocks. Parallel play. Core gender identity. Object permanence. Rapprochement. Preschool 30-36 mo3 yrs4 yrs. Stacks 9 blocks. Rides tricycle, copies line or circle drawing. Simple drawings (stick figure), hops on 1 foot. Toilet training. Group play. Cooperative play, imaginary friends. School age 6-11 yrs. Reads; understands death. Development of conscience(superego), same-sex friends, identification with same-sex parent. Milestones summary. Age. Motor. Adaptive. Language. Social10 mo. Stands alone. Play 'peek a boo'Pick up a pellet with thumb and index finger. Bizarre words-15 mo. Walks alone. Makes line with crayon. Jargon. Indicates desires/needs by pointing18 mo. Walks up stairs with 1 hand held. Imitates scribbling. Identifies>/=1 body parts. Feeds self24 mo. Runs well. Circular scribbling. Puts 3 words together. Handlespoon well30 mo. Goes up stairs alternating feet. Make horizontal vertical stroke. Refers to self by pronoun. THelps to put things away36 mo. Rides tricycle, stands on 1 foot momentarily. Tower of 10 cubes, imitates cross. Known age & sex dressing. Wash hands, Helps in48 mo. Hops on one foot, climbs well. Names longer of 2 lines copies cross & square. Tells a story. Role playing, goes to toilet alone",
-        "cop": 2,
-        "opa": "Speaks Bisyllables (Like dada, mama)",
-        "opb": "Walks unsupported",
-        "opc": "Creep and crawl",
-        "opd": "Pincer grasp",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "64189878-f2a9-422d-abea-90e1df7a9101",
-        "choice_type": "multi"
-    },
-    {
-        "question": "A 5-year-old boy is brought into the ER immediately after an unfortunate altercation with a neighbor's immunized Chihuahua that occurred while the child was attempting to dress the dog as a superhero. The fully immunized child has a small, irregular, superficial laceration on his right forearm that has stopped bleeding. His neuromuscular examination is completely normal, and his perfusion is intact. Management should include which of the following?",
-        "exp": "Mammalian bites should be promptly and thoroughly scrubbed with soap and water and debrided. The decision to suture depends on the location, age, and nature of the wound. Antibiotic prophylaxis is extremely controversial. Most experts suggest a short course of antibiotics should be started for cat, human, or monkey bites. Only 4% of dog bites become infected (and therefore do not necessarily need antibiotic prophylaxis), compared with 35% of cat bites and 50% of monkey bites (which require antibiotics in most cases). Cat bites are usually deep punctures. Human bites almost invariably become infected. The etiologies of these infections are polymicrobial. Pasteurella multocida is a common organism in infected cat and dog bites. Infected human bites tend to have positive cultures for S viridans, S aureus, and Eikenella corrodens. Treatment with amoxicillin-clavulanate orally or ampicillin- sulbactam IV is recommended. Antibiotic prophylaxis is recommended for any bite sustained by an infant, a diabetic, or an immunocompromised patient because of the higher risk of infection in these persons. Since the child is fully immunized, tetanus boosters are not required. Similarly, as the dog was provoked and was fully immunized, rabies should not be a concern.",
-        "cop": 3,
-        "opa": "Irrigation and antimicrobial prophylaxis",
-        "opb": "Tetanus booster immunization and tetanus toxoid in the wound",
-        "opc": "Copious irrigation",
-        "opd": "Primary rabies vaccination for the child",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "e56729e2-530b-43ed-af40-494523280bc1",
-        "choice_type": "multi"
-    },
-    {
         "question": "An afebrile, obese 14-year-old boy has developed pain at the right knee and a limp. Select the most likely diagnosis",
         "exp": "Slipped capital femoral epiphysis is a disease of unknown etiology and occurs typically in adolescents; the disorder is most common among obese boys with delayed skeletal maturation or in thin, tall adolescents having recently enjoyed a growth spurt. Onset of this disorder is frequently gradual; pain referred to the knee in 20% of cases can mask the hip pathology.",
         "cop": 2,
@@ -1259,19 +908,6 @@
         "topic_name": "Growth, Development, and Behavior",
         "id": "ca69f3aa-226b-42fb-9257-fd998c195733",
         "choice_type": "single"
-    },
-    {
-        "question": "Over the past several weeks, a 2-year-old girl has exhibited developmental regression, abnormal sleep patterns, anorexia, irritability, and decreased activity. These symptoms have progressed to acute encephalopathy with vomiting, ataxia, and variable consciousness. The family recently moved, and they are in the process of restoring the interior of their home. For the most likely toxic substance involved in the cases above, select the appropriate treatment",
-        "exp": "The most important aspect of the management of lead poisoning is the identification and withdrawal of the source of the lead. Patients with symptomatic lead poisoning or extremely high lead levels in the blood (> 70 mg/dL) should be treated with both dimercaprol and calcium EDTA. With milder poisoning, intravenous or intramuscular calcium EDTA or, more likely, oral dimercaptosuccinic acid can be used.",
-        "cop": 3,
-        "opa": "Atropine and pralidoxime (2-PAM)",
-        "opb": "N- acetylcysteine (Mucomyst)",
-        "opc": "Dimercaptosuccinic acid (DMSA, succimer)",
-        "opd": "Naloxone (Narcan)",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "5dad9af8-7110-4a8c-9063-b62f3d91e071",
-        "choice_type": "multi"
     },
     {
         "question": "A 18 month baby can do?",
@@ -1389,18 +1025,5 @@
         "topic_name": "Growth, Development, and Behavior",
         "id": "deca12fd-0c6f-4619-9169-f1c176e09be2",
         "choice_type": "single"
-    },
-    {
-        "question": "A 5-year-old child refuses to sleep in his bed, claiming there are monsters in his closet and that he has bad dreams. The parents allow him to sleep with them in their bed to avoid the otherwise inevitable screaming fit. The parents note that the child sleeps soundly, waking only at sunrise. Choose the sleep disturbance most consistent with the history",
-        "exp": "Sleep disturbances are fairly common in childhood. Many children resist going to bed, and parents frequently give in just to get the child to sleep by allowing the child to sleep in the parents' bed or allowing them to stay up late. Unfortunately, children learn remarkably well how to get what they want, and the parents' concessions only make the problem worse. Learned behavior (behavioral insomnia, dyssomnia) is the root of many sleep disturbances in young children. Other types of sleep disturbance in children fall into the category of sleep disruptions, such as nightmares and night terrors. A nightmare is a scary or disturbing dream that usually awakens the child and causes agitation about the content of the dream. Nightmares occur during rapid eye movement (REM) sleep. Many children and adults have an occasional nightmare; recurrent or frequent nightmares, however, may be indicative of an ongoing stress in the child's life. Night terrors (pavor nocturnus) are non-REM phenomena seen less commonly than nightmares, occurring in 1% to 6% of all children. The child will be described as apparently awake but unresponsive; they can have evidence of autonomic arousal such as tachycardia, sweating, and tachypnea, and appear frightened and agitated. Attempts at calming the child are usually not effective, and the child will eventually go back to sleep. Although usually a problem in early childhood, night terrors can sometimes continue through adolescence. Somnambulism, or sleepwalking, occurs in 15% of children and is described as recurrent episodes of rising from bed and walking around. The child is typically hard to arouse and will have amnesia after the event. This usually happens in the first third of the sleep cycle, during stage 4 non- REM sleep. Somniloquy, or sleep talking, can occur at any sleep stage and is seen in all ages.",
-        "cop": 3,
-        "opa": "Night terrors",
-        "opb": "Nightmares",
-        "opc": "Learned behavior",
-        "opd": "Obstructive sleep apnea",
-        "subject_name": "Pediatrics",
-        "topic_name": "Growth, Development, and Behavior",
-        "id": "3f8127ff-c402-4b50-baa4-40663ae3ef9f",
-        "choice_type": "multi"
     }
 ]

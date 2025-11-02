@@ -39,32 +39,6 @@
         "choice_type": "single"
     },
     {
-        "question": "In the following natural history of disease. What is B-X duration -",
-        "exp": "Ans. is 'c' i. e., Screening time o In respect to screening test and diagnostic test, a disease passes through following phase, sequentially. i) Disease onset - Disease process just started. ii) First possible point of diagnosis - The earliest point in disease process where a diagnosis can be made, i. e., before this point diagnosis can not be made by any test. iii) Final critical point of diagnosis - The point after which even diagnosis and treatment will not change the outcome. iv) Usual time of diagnosis - Time in disease process when most of the people are diagnosed by usual diagnostic procedure (not screening test). o So, by screening, the intention is to diagnosis the disease between: - i) First possible point - Before that diagnosis cannot made by any test. ii) Final critical point - After that treatment will not change the outcome. o The time period between these two points is called screening time and all screening tests are aimed to detect the disease during this period. o The lead time is the time period between diagnosis by early detection (i. e., earliest point of diagnosis by screening test) and diagnosis by standard diagnostic tests. Lead time is the advantage gained by screening. o Thus in the given question - Screening time - B-X Lead time - B-Y",
-        "cop": 3,
-        "opa": "Lead time",
-        "opb": "Lag time",
-        "opc": "Screening time",
-        "opd": "None",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Concept of disease causation",
-        "id": "74f87d7c-83be-49fa-843e-0ccabc34b044",
-        "choice_type": "multi"
-    },
-    {
-        "question": "James Lind is related to the discovery of:",
-        "exp": "ANSWER: (A) Prevention of scurvy. REF: http: //en. wikipedia. org/wiki/James_Lind. James Lind was a Scottish physician. He was a pioneer of naval hygiene in the Royal Navy. By conducting the first ever clinical trial, he developed the theory that citrus fruits cured scurvy. He argued for the health benefits of better ventilation aboard naval ships, the improved cleanliness of sailors' bodies, clothing and bedding, and below-deck fumigation with sulphur and arsenic. He also proposed that fresh water could be obtained by distilling sea water. His work advanced the practice of preventive medicine and improved nutrition. In his book 'Treatise of the Scurvy\" (1753) James Lind did not decisively settle the questions of the causes and the treatment of scurvy, despite its presentation of experimental evidence that seemed to prove the efficacy of oranges and lemons in the cure of scurvied sea men.",
-        "cop": 1,
-        "opa": "Prevention of scurvy",
-        "opb": "Cause of scurvy",
-        "opc": "Pathogenesis of scurvy",
-        "opd": "All",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Concept of disease causation",
-        "id": "08c1fc09-acd3-4f2e-b9a8-cf5a2551c419",
-        "choice_type": "multi"
-    },
-    {
         "question": "Father of public health is which disease?",
         "exp": "Ans. (b) Cholera. Ref: K. Park 23rd ed./5* Father of public Health: John Snow, identified Cholera* Father of modern epidemiology: John Snow* Father of Medicine/first true epidemiologist: Hippocrates.",
         "cop": 2,
@@ -89,19 +63,6 @@
         "topic_name": "Concept of disease causation",
         "id": "a1148f06-af9f-475c-aaff-d425b8e7280a",
         "choice_type": "single"
-    },
-    {
-        "question": "ICD chapter 21 includes all except -",
-        "exp": "Ans. is 'c' i. e.. Injury o ICD -10 code in chaptor XXI (Factor influencing health status and contact with health sendees): -Problem relating to lifestyle. Alcohol use. Tobacoo use. Drug use. Lack of physical exercise. Inappropriate diet and eating habits. High risk sexual behaviour",
-        "cop": 3,
-        "opa": "Alcohol",
-        "opb": "Tobacco",
-        "opc": "Injury",
-        "opd": "Drugs",
-        "subject_name": "Social & Preventive Medicine",
-        "topic_name": "Concept of disease causation",
-        "id": "59685643-38ae-46cf-a11d-97f9c4960f10",
-        "choice_type": "multi"
     },
     {
         "question": "ICD is revised, every -",
